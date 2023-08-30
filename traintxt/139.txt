@@ -1,0 +1,706 @@
+Hainan Med J, Feb. 2023. Vol. 34, No. 4
+海南医学2023年2月第34卷第4期
+人参皂苷Rh2联合万古霉素对万古霉素耐药型耐甲氧西林
+金黄色葡萄球菌生物膜和抑菌效果的影响
+张霄霄
+1，邵海连
+1，戈伟
+1，汪定成
+1，董轲
+1，应后群
+2
+1.中国人民解放军空军军医大学第二附属医院检验科，陕西
+西安
+710038；
+2.南昌大学第二附属医院核医学科，江西
+南昌
+330006
+【摘要】 目的
+研究人参皂苷Rh2联合万古霉素对万古霉素耐药型耐甲氧西林金黄色葡萄球菌生物膜和抑菌
+效果的影响。方法
+诱导万古霉素耐药型耐甲氧西林金黄色葡萄球菌(VRSA)，分别用10 μg/mL、30 μg/mL、90 μg/mL
+人参皂苷Rh2处理VRSA作为不同浓度人参皂苷Rh2处理组；VRSA分别用1 μg/mL、4 μg/mL、16 μg/mL万古霉素处
+理，作为不同浓度万古霉素处理组；10 μg/mL人参皂苷Rh2和1 μg/mL万古霉素共同作用VRSA记为10 μg/mL人参
+皂苷 Rh2+1 μg/mL 万古霉素组；不作处理的VRSA作为空白对照组。原始分离的对万古霉素敏感型的耐甲氧西林
+金黄色葡萄球菌作为VSSA组。结晶紫法检测生物膜形成能力；实时荧光定量PCR (RT-qPCR)检测fnbA、atlA表达
+水平；分光光度计检测菌活性。结果
+与VSSA组比较，VRSA组生物膜的光密度值及fnbA、atlA的表达水平均明显
+升高，差异有统计学意义(P<0.05)；与空白对照组比较，16 μg/mL万古霉素及10 μg/mL人参皂苷Rh2+1 μg/mL万古
+霉素处理的VRSA增殖活性明显降低，而10 μg/mL人参皂苷Rh2+1 μg/mL万古霉素处理的VRSA增殖活性明显低
+于不同浓度人参皂苷Rh2处理组，且明显高于4 μg/mL万古霉素处理者，差异均有统计学意义(P<0.05)；与空白对照
+组比较，不同浓度人参皂苷Rh2 处理的VRSA生物膜的光密度值明显降低，fnbA、atlA的表达水平明显降低，差异均
+有统计学意义(P<0.05)；与空白对照组比较，不同浓度万古霉素处理的VRSA中fnbA、atlA表达水平显著升高，4 μg/mL
+和16 μg/mL万古霉素处理的VRSA生物膜的光密度值也明显升高，差异均有统计学意义(P<0.05)；与空白对照组比
+较，10 μg/mL人参皂苷Rh2组及10 μg/mL人参皂苷Rh2+1 μg/mL万古霉素组VRSA生物膜的光密度值及fnbA、atlA
+的表达水平明显降低，fnbA、atlA的表达水平明显升高，且10 μg/mL人参皂苷Rh2+1 μg/mL万古霉素组VRSA生物
+膜的光密度值及fnbA、atlA 的表达水平均显著高于10 μg/mL人参皂苷Rh2 组，但明显低于1 μg/mL万古霉素组，差
+异均有统计学意义(P<0.05)。结论
+人参皂苷Rh2可抑制VRSA生物膜形成，但不抑菌；万古霉素可抑菌但不能抑
+制生物膜形成，两者联用能抑制生物膜形成且增强万古霉素的抑菌作用。
+【关键词】 人参皂苷Rh2；万古霉素；耐药性；耐甲氧西林金黄色葡萄球菌；生物膜；活性
+【中图分类号】 R378.1
++1
+【文献标识码】 A
+【文章编号】 1003—6350（2023）04—0457—05
+Effects of ginsenosides Rh2 combined with vancomycin on vancomycin-resistant methicillin-resistant Staphylococcus
+aureus biofilm and antibacterial effect. ZHANG Xiao-xiao
+1, SHAO Hai-lian
+1, GE Wei
+1, WANG Ding-cheng
+1, DONG
+Ke
+1, YING Hou-qun
+2. 1.Department of Laboratory Medicine, the Second Affiliated Hospital of PLA Air Force Military
+Medical University, Xi'an 710038, Shaanxi, CHINA; 2.Department of Nuclear Medicine, the Second Affiliated Hospital of
+Nanchang University, Nanchang 330006, Jiangxi, CHINA
+【Abstract】 Objective
+To investigate the effects of ginsenosides Rh2 combined with vancomycin on vanco-
+mycin-resistant methicillin-resistant Staphylococcus aureus biofilms and antibacterial effects. Methods
+Vancomycin-re-
+sistant methicillin-resistant Staphylococcus aureus (VRSA) was induced and treated with 10 μg/mL, 30 μg/mL, 90 μg/mL
+ginsenosides Rh2 as different concentrations of ginsenoside treatment groups. VRSA was treated with 1 μg/mL, 4 μg/mL,
+16 μg/mL vancomycin as different vancomycin-treated groups. VRSA was treated with 10 μg/mL ginsenoside Rh2 and
+1 μg/mL vancomycin as 10 μg/mL ginsenoside Rh2+1 μg/mL vancomycin group. VRSA without treatment was used as a
+blank control group. The originally isolated vancomycin-sensitive Staphylococcus aureus (VSSA) were enrolled as VSSA
+group. The crystal violet method was used to detect the biofilm formation ability. Real-time fluorescent quantitative PCR
+(RT-qPCR) was used to detect the expressions of fnbA and atlA level. The spectrophotometer was used to detect the bacte-
+rial activity. Results
+Compared with VSSA group, the optical density value of biofilm and the expression levels of fn-
+bA and atlA in VRSA group were significantly increased (P<0.05). Compared with the blank control group, the prolifera-
+tive activity of VRSA treated with 16 μg/mL vancomycin and 10 μg/mL ginsenoside Rh2+1 μg/mL vancomycin decreased
+significantly; and the proliferation activity of VRSA treated with 10 μg/mL ginsenoside Rh2+1 μg/mL vancomycin was
+　
+·论著·
+doi:10.3969/j.issn.1003-6350.2023.04.001
+基金项目：国家自然科学基金(编号：81702090)。
+第一作者：张霄霄（1988—），女，硕士，主管检验技师，主要研究方向为临床微生物检验工作及细菌耐药性研究。
+通讯作者：董轲（1971—），男，博士，副主任医师，主要研究方向为病毒或肿瘤疫苗、肿瘤分子生物学研究，E-mail：zhanjinper@163.com。
+·457·
+海南医学2023年2月第34卷第4期
+Hainan Med J, Feb. 2023. Vol. 34, No. 4
+耐甲氧西林金黄色葡萄球菌(methicillin-resistant
+Staphylococcus aureus，MRSA)是感染的主要病原菌之
+一，由于其耐药性的产生，导致临床治疗困难，降低其
+耐药性是临床治疗的重要途径之一
+[1]。万古霉素是临
+床上治疗MRSA的首选药，但其不合理使用会导致耐
+万古霉素菌株的菌株产生，从而导致MRSA感染的治
+疗变得十分困难
+[2]。细菌耐药性与生物膜的形成有
+关，生物膜是病原体在体内外黏附于物体表面，通过
+细菌和胞外多聚物、细胞外基质连接形成的高度组织
+化结构。有研究表明中药具有抗 MRSA 生物膜产生
+的作用，可降低其耐药性
+[3]，如桂皮中的桂皮醛、黄芩
+中的黄芩苷以及人参中的人参皂苷Rh2等。桂皮醛能
+显著增强万古霉素抗 MRSA 生物膜的作用
+[4]，黄芩苷
+能破坏金黄色葡萄球菌生物膜的形成，增强万古霉素
+对其清除作用
+[5]。而人参皂苷Rh2 是人参的主要有效
+成分，其不仅有着改善记忆、神经保护等药理作用，还
+具有抑菌活性和抑菌生物膜的功能
+[6-7]，且人参皂苷
+Rh2 单体能抑制金黄色葡萄球菌生物被膜的形成
+[8]。
+本实验旨在研究人参皂苷Rh2联合万古霉素对万古霉
+素耐药型耐甲氧西林金黄色葡萄球菌生物膜和抑菌
+效果的影响。
+1
+材料与方法
+1.1
+材料
+1.1.1
+试剂及培养基
+人参皂苷Rh2购自上海融
+禾医药科技发展有限公司，批号：150108，纯度：>98%；
+注射用盐酸万古霉素购自重庆莱美药业股份有限公
+司，批号：160814，规格：500 mg；胰蛋白胨大豆肉汤培
+养基(TSB)购自武汉纯度生物科技有限公司，货号：
+CD-B2007S-PYJ。
+1.1.2
+仪器及试剂盒
+逆转录试剂盒及荧光定
+量 PCR 试剂盒购自北京百奥莱博科技有限公司，货
+号：WE0149-NXR；ELX808 酶标仪购自美国 Bio-Tek
+公司；BS-MFL-01麦氏比浊仪购自北京金洋万达科技
+有限公司；Bio-rad分光光度计购自北京赛百奥科技有
+限公司。
+1.2
+万古霉素耐药型耐甲氧西林金黄色葡萄球
+菌的诱导
+收集本院临床分离并鉴定的耐甲氧西林
+金 黄 色 葡 萄 球 菌 (methicillin-resistant Staphylococcus
+aureus，MRSA)，用接种环挑取单个菌落于含万古霉素
+浓度为1 μg/mL的TSB培养基中，于35℃下培养24 h，
+选取生长的菌落用下一浓度(比前一次增加 1 μg/mL)
+的万古霉素TSB培养基培养，同时每一浓度连续传代
+4 次以稳定万古霉素耐药特征，直至在含 16 μg/mL 的
+万古霉素的培养上仍能生长的菌落作为万古霉素耐
+药 型 耐 甲 氧 西 林 金 黄 色 葡 萄 球 菌 (vancomycin-
+resistant S. aureus，VRSA)；原始分离的命名为万古霉
+素敏感型耐甲氧西林金黄色葡萄球菌(vancomycin-
+sensitive S. aureus，VSSA)。
+1.3
+细胞处理与分组
+VRSA分别用10 μg/mL、
+30 μg/mL、90 μg/mL人参皂苷Rh2处理，作为不同浓度
+人参皂苷Rh2处理组；VRSA分别用1 μg/mL、4 μg/mL、
+16 μg/mL万古霉素处理，作为不同浓度万古霉素处理
+组；10 μg/mL 人参皂苷 Rh2 和 1 μg/mL 万古霉素共同
+作用 VRSA 记为 10 μg/mL 人参皂苷 Rh2+1 μg/mL 万
+古霉素组；不作处理的VRSA作为空白对照组；原始分
+离的对万古霉素敏感型的耐甲氧西林金黄色葡萄球
+菌作为VSSA组。
+1.4
+生物膜形成实验
+挑取单个菌落于 4 mL
+TSB培养基中35℃，120 r/min震荡培养24 h，将菌液调
+至0.5麦氏浊度，然后吸取10 μL至含190 μL TSB 培养
+液的96孔板中，35℃培养24 h后每孔用蒸馏水轻轻漂
+洗3次，干燥固定1 h后加入100 μL结晶紫溶液室温染色
+10 min，蒸馏水洗去过量染料，待干燥后用酶标仪检测
+590 nm处吸光度值(A)，实验重复3次，每次设3个复孔。
+significantly lower than that treated with different concentrations of ginsenoside Rh2 and significantly higher than that
+treated with 4 μg/mL vancomycin, with statistically significant differences (P<0.05). Compared with the blank control
+group, the optical density of VRSA biofilm treated with different concentrations of ginsenoside Rh2 decreased signifi-
+cantly, and the expression levels of fnbA and atlA decreased significantly (P<0.05). Compared with the blank control
+group, the expression levels of fnbA and atlA in VRSA treated with different concentrations of vancomycin were signifi-
+cantly increased, and the optical density of VRSA biofilm treated with 4 μg/mL and 16 μg/mL vancomycin increased
+significantly (P<0.05). Compared with the blank control group, the optical density and the expression levels of fnbA and
+atlA of VRSA biofilm in 10 μg/mL ginsenoside Rh2 group and 10 μg/mL ginsenoside Rh2+1 μg/mL vancomycin group
+were significantly decreased, while the expression levels of fnbA and atlA were significantly increased. The optical density
+of VRSA biofilm and the expression levels of fnbA and atlA in 10 μg/mL ginsenoside Rh2+1 μg/mL vancomycin group
+were significantly higher than those in 10 μg/mL ginsenoside Rh2 group, but significantly lower than those in 1 μg/mL
+vancomycin group (P<0.05). Conclusion
+Ginsenosides Rh2 can inhibit the formation of VRSA biofilms, but can not in-
+hibit bacteria. Vancomycin can inhibit bacteria but not biofilms, and the combination of them can inhibit biofilm forma-
+tion and enhance the antibacterial effect of vancomycin.
+【Key words】 Ginsenoside Rh2; Vancomycin; Drug resistance; Methicillin-resistant Staphylococcus aureus; Bio-
+film; Activity
+·458·
+Hainan Med J, Feb. 2023. Vol. 34, No. 4
+海南医学2023年2月第34卷第4期
+1.5
+实时荧光定量PCR (RT-qPCR)检测fnbA、at-
+lA表达水平
+各组菌液培养至对数生长期时用 Trizol
+试剂提取 RNA，逆转录后进行 PCR，其反应体系总
+共为 25 μL，其中EvaGreen 2×qPCR MasterMix-ROX
+12.5 μL，上下游引物各0.5 μL，cDNA 2 μL，ddH2O 9.5 μL。
+反应条件为：95℃预变性3 min，94℃变性30 s，60℃退
+火30 s，72℃延伸30 s，共35个循环。以16s RNA为内
+参，采用 2
+-△△Ct法计算相对表达量。fnbA 上游引物序
+列：5'-TGGTGTCGGTGGCGTTGGTG-3'，下游引物序
+列：5'-GCGAAGCAGGTCACGTTGGAG-3'；atlA 上游
+引物序列：5'-AACAGCACCAACGGATTAC-3'，下游
+引物序列：5'-CATAGTCAGCATAGTTATTCATTG-3'；
+16sRNA 上 游 引 物 序 列 ：5'-CGTGCTACAATGGA-
+CAATACAAA-3'，下 游 引 物 序 列 ：5'-ATCTACGAT-
+TACTAGCGATTCCA-3'。
+1.6
+菌活性检测
+各实验组分别挑取单个菌落
+于 TSB 培养液中在 35℃、120 r/min 条件下震荡培养
+24 h，用分光光度计检测 600 nm 处吸光度值(A)，实验
+重复3次，每次设3个复孔。
+1.7
+统计学方法
+应用 SPSS20.0 软件进行数据
+统计学分析。计量资料以均数±标准差(x-±s)表示，两
+两比较行两独立样本 t 检验，多组间比较采用单因素
+方差分析，组间两两比较采用 LSD-t检验。以 P<0.05
+为差异有统计学意义。
+2
+结果
+2.1
+VSSA组与VRSA组的生物膜形成能力及生
+物膜形成相关基因比较
+与 VSSA 组比较，VRSA 组
+生物膜的光密度值及 fnbA、atlA 的表达水平均明显升
+高，差异有统计学意义(P<0.05)，见表1。
+2.2
+人参皂苷 Rh2 和万古霉素单用及联用对
+VRSA 增殖活性的影响
+与空白对照组比较，不同浓
+度人参皂苷Rh2处理的VRSA增殖活性差异无统计学
+意义(P>0.05)。16 μg/mL万古霉素及10 μg/mL人参皂
+苷Rh2+1 μg/mL万古霉素处理的VRSA增殖活性明显
+降低；而10 μg/mL人参皂苷Rh2+1 μg/mL万古霉素处
+理的VRSA增殖活性明显低于不同浓度人参皂苷Rh2
+处理组，且明显高于4 μg/mL万古霉素处理者，差异均
+有统计学意义(P<0.05)，见表2。
+2.3
+不同浓度人参皂苷 Rh2 对 VRSA 生物膜形
+成及相关基因表达的影响
+与空白对照组比较，不同
+浓度人参皂苷Rh2处理的VRSA生物膜的光密度值明
+显降低，fnbA、atlA 的表达水平明显降低，差异均有统
+计学意义(P<0.05)，见表3。
+2.4
+不同浓度万古霉素对 VRSA 生物膜形成及
+相关基因表达的影响
+与空白对照组比较，不同浓度
+万古霉素处理的 VRSA 中 fnbA、atlA 表达水平明显升
+高；4 μg/mL 和 16 μg/mL 万古霉素处理的 VRSA 生物
+膜的光密度值明显升高，差异均有统计学意义(P<
+0.05)，见表4。
+2.5
+人参皂苷 Rh2 和万古霉素联用对 VRSA 生
+物膜形成及相关基因表达的影响
+与空白对照组比
+较，10 μg/mL 人参皂苷 Rh2 组及 10 μg/mL 人参皂苷
+Rh2+1 μg/mL万古霉素组VRSA生物膜的光密度值及
+表 1
+VSSA 组与 VRSA 组的生物膜形成能力及生物膜形成相关基因
+比较(x-±s，n=9)
+Table 1
+Comparison of biofilm formation ability and biofilm formation
+related genes between VSSA group and VRSA group (x-±s, n=9)
+组别
+VSSA组
+VRSA组
+t值
+P值
+A590
+0.93±0.12
+1.89±0.15
+14.993
+0.001
+fnbA
+1.00±0.18
+5.73±0.24
+47.300
+0.001
+atlA
+1.00±0.19
+3.64±0.22
+27.246
+0.001
+表3
+不同浓度人参皂苷Rh2对VRSA生物膜形成及相关基因表达的
+影响(x-±s，n=9)
+Table 3
+Effects of different concentrations of ginsenoside Rh2 on VRSA
+biofilm formation and related gene expression (x-±s, n=9)
+组别
+空白对照组
+10 μg/mL人参皂苷Rh2组
+30 μg/mL人参皂苷Rh2组
+90 μg/mL人参皂苷Rh2组
+F值
+P值
+A590
+1.92±0.09
+0.96±0.08
+a
+0.51±0.07
+b
+0.27±0.06
+c
+748.557
+0.001
+fnbA
+1.00±0.08
+0.41±0.06
+d
+0.32±0.07
+e
+0.16±0.05
+f
+258.986
+0.001
+atlA
+1.00±0.09
+0.37±0.06
+g
+0.28±0.06
+h
+0.13±0.05
+i
+293.288
+0.001
+注：与空白对照组比较，
+aP<0.05，
+bP<0.05，
+cP<0.05，
+dP<0.05，
+eP<0.05，
+fP<
+0.05，
+gP<0.05，
+hP<0.05，
+iP<0.05。
+Note: Compared with the blank control group,
+aP<0.05,
+bP<0.05,
+cP<0.05,
+dP<0.05,
+eP<0.05,
+fP<0.05,
+gP<0.05,
+hP<0.05,
+iP<0.05.
+表2
+人参皂苷 Rh2和万古霉素单用及联用对VRSA增殖活性的影响
+(x-±s，n=9)
+Table 2
+Effects of Ginsenoside Rh2 and Vancomycin alone and in
+combination on proliferation of VRSA (x-±s, n=9)
+组别
+空白对照组
+10 μg/mL人参皂苷Rh2组
+30 μg/mL人参皂苷Rh2组
+90 μg/mL人参皂苷Rh2组
+1 μg/mL万古霉素组
+4 μg/mL万古霉素组
+16 μg/mL万古霉素组
+10 μg/mL人参皂苷Rh2+1 μg/mL万古霉素组
+F值
+P值
+A600
+1.13±0.13
+1.11±0.14
+c
+1.12±0.15
+d
+1.10±0.12
+e
+1.12±0.13
+f
+1.03±0.16
+g
+0.78±0.10
+a
+0.81±0.11
+b
+10.922
+0.001
+注：与空白对照组比较，
+aP<0.05，
+bP<0.05；与10 μg/mL人参皂苷Rh2+
+1 μg/mL万古霉素组比较，
+cP<0.05，
+dP<0.05，
+eP<0.05，
+fP<0.05，
+gP<0.05。
+Note: Compared with blank control group,
+aP<0.05,
+bP<0.05; Compared
+with 10 μg/mL ginsenoside Rh2+1 μg/mL vancomycin group,
+cP<
+0.05,
+dP<0.05,
+eP<0.05,
+fP<0.05,
+gP<0.05.
+·459·
+海南医学2023年2月第34卷第4期
+Hainan Med J, Feb. 2023. Vol. 34, No. 4
+fnbA、atlA的表达水平明显降低，差异均有统计学意义
+(P<0.05)，而 1 μg/mL 万古霉素组 VRSA 生物膜的光
+密度值无显著变化，差异无统计学意义(P>0.05)。
+fnbA、atlA 的表达水平明显升高；10 μg/mL 人参皂苷
+Rh2+1 μg/mL 万古霉素组VRSA生物膜的光密度值及
+fnbA、atlA 的表达水平均明显高于 10 μg/mL 人参皂苷
+Rh2组，但明显低于1 μg/mL万古霉素组，差异均有统
+计学意义(P<0.05)，见表5。
+3
+讨论
+MRSA 是造成感染的主要病原体，随着抗菌药物
+的长期使用和滥用，其耐药性日益严重，给临床治疗
+带来巨大困难，增加MRSA菌株对抗生素的敏感性对
+临床治疗具有重要意义
+[9]。生物膜能够阻滞抗生素和
+机体防御系统对膜内细菌的杀伤，所以生物膜的形成
+是造成细菌耐药的重要原因，抑制生物膜的形成是增
+强药物敏感性的重要途径
+[10]。fnbA基因可以编码fnbA
+蛋白，fnbA 蛋白主要负责金黄色葡萄球菌与宿主细胞
+和细胞外基质进行黏附和生物被膜的形成。而atlA基
+因可以编码产生细菌自溶素
+[11]。本实验通过用不同浓
+度的万古霉素诱导MRSA形成VRSA，与VSSA比较，
+VRSA 中生物膜的光密度值显著升高，fnbA、atlA 表达
+水平明显升高。说明VRSA的耐药性可能与生物膜形
+成有关。
+万古霉素是MRSA感染患者的一线用药
+[12]。本实
+验用1 μg/mL、4 μg/mL、16 μg/mL万古霉素处理VRSA，
+结果显示，万古霉素可上调fnbA、atlA表达，4 μg/mL、16
+μg/mL 万古霉素可促进生物膜形成。而万古霉素对
+VRSA抑菌作用较弱，仅浓度为 16 μg/mL 的万古霉素
+具 有 较 强 的 抑 菌 效 果 。 研 究 发 现 中 药 提 取 物 对
+MRSA 具有抑菌作用，可调节其耐药敏感性
+[13]。研究
+报道人参皂苷Rb1对金黄色葡萄球菌有一定的抑菌作
+用，浓度越高抑菌作用越强
+[14]。人参皂苷对金黄色葡
+萄球菌生物被膜具有显著的抑制作用，随着药物浓度
+的增加，其抑制率显著增加
+[15]。人参皂苷 Rh2 能在体
+外抑制致龋菌生物膜形成
+[16]。人参皂苷Rh2通过抑制
+NorA联合环丙沙星增强其对金黄色葡萄球菌的抑菌
+作用
+[17]。本实验结果显示，不同浓度人参皂苷 Rh2 对
+VRSA 菌活性无明显影响，但人参皂苷可抑制 VRSA
+生物膜形成和 fnbA、atlA 表达。说明人参皂苷 Rh2 可
+抑制 VRSA 生物膜形成，但抑菌效果不明显。且本实
+验用10 μg/mL人参皂苷Rh2联合1 μg/mL万古霉素作
+用可抑制VRSA生物膜形成和 fnbA、atlA 表达，且其比
+单独万古霉素处理，菌活性降低，说明两者联合作用
+可增强万古霉素对VRSA的抑菌作用。
+综上所述，人参皂苷 Rh2 可抑制 VRSA 生物膜形
+成，但不抑菌；万古霉素可抑菌但不能抑制生物膜形
+成，而两者联用能抑制生物膜形成且人参皂苷 Rh2 可
+增强万古霉素的抑菌作用，其联合作用机制仍有待进
+一步的研究证实。
+参考文献
+[1]
+Ma X, Sun J. Drug resistance of methicillin resistant Staphylococcus
+aureus [J]. Chin J Appl Clin Pediatr, 2016, 31(4): 259-263.
+马香, 孙静. 耐甲氧西林金黄色葡萄球菌的耐药性[J]. 中华实用儿
+科临床杂志, 2016, 31(4): 259-263.
+[2] Cheng X, Li XO, Liu XF, et al. Research progress of methicillin resis-
+tant Staphylococcus aureus and its resistance to vancomycin [J]. Chi-
+nese Journal of Laboratory Diagnosis, 2016, 20(10): 1785-1787.
+程欣, 李晓鸥, 刘晓峰, 等. 耐甲氧西林金黄色葡萄球菌及其对万古
+霉 素 耐 药 的 研 究 进 展 [J]. 中 国 实 验 诊 断 学, 2016, 20(10):
+1785-1787.
+[3]
+Lu GY, Lu R, Lin ZZ, et al. Research Progress on the effect of tradi-
+tional Chinese medicine extracts on the drug resistance of methicillin
+resistant Staphylococcus aureus [J]. International Journal of Tradition-
+al Chinese Medicine, 2018,40(10): 996-999.
+陆桂玉, 鲁茹, 林浙哲, 等. 中药提取物对耐甲氧西林金黄色葡萄球
+菌耐药性影响的研究进展[J]. 国际中医中药杂志, 2018, 40(10):
+表 5
+人参皂苷 Rh2 和万古霉素联用对 VRSA 生物膜形成及相关基因
+表达的影响(x-±s，n=9)
+Table 5
+Effects of ginsenoside Rh2 combined with vancomycin on VRSA
+biofilm formation and related gene expression (x-±s，n=9)
+A590
+1.92±0.09
+0.96±0.08
+ai
+1.96±0.09
+j
+1.32±0.07
+b
+296.390
+0.001
+fnbA
+1.00±0.08
+0.41±0.06
+ck
+1.53±0.07
+dl
+0.58±0.05
+e
+493.462
+0.001
+组别
+空白对照组
+10 μg/mL人参皂苷Rh2组
+1 μg/mL万古霉素组
+10 μg/mL人参皂苷Rh2 +
+1 μg/mL万古霉素组
+F值
+P值
+atlA
+1.00±0.09
+0.37±0.06
+fm
+1.61±0.07
+gn
+0.53±0.05
+h
+595.838
+0.001
+注：与空白对照组比较，
+aP<0.05，
+bP<0.05，
+cP<0.05，
+dP<0.05，
+eP<0.05，
+fP<
+0.05，
+gP<0.05，
+hP<0.05；与10 μg/mL 人参皂苷 Rh2+1 μg/mL 万古霉
+素组比较，
+iP< 0.05，
+jP<0.05，
+kP<0.05，
+lP<0.05，
+mP<0.05，
+nP<0.05。
+Note: Compared with the blank control group, by LSD-t test,
+aP<0.05,
+bP<0.05,
+cP<0.05,
+dP<0.05,
+eP<0.05,
+fP<0.05,
+gP<0.05,
+hP<0.05; And
+10 μg/mL ginsenoside Rh2 +1 μg/mL vancomycin group,
+iP<0.05,
+jP<0.05,
+kP<0.05,
+lP<0.05,
+mP<0.05,
+nP<0.05.
+表 4
+不同浓度万古霉素对 VRSA 生物膜形成及相关基因表达的影响
+(x-±s，n=9)
+Table 4
+Effects of different concentrations of vancomycin on VRSA
+biofilm formation and related gene expression (x-±s，n=9)
+组别
+空白对照组
+1 μg/mL万古霉素组
+4 μg/mL万古霉素组
+16 μg/mL万古霉素组
+F值
+P值
+A590
+1.92±0.09
+1.96±0.09
+2.19±0.08
+a
+2.37±0.07
+b
+61.677
+0.001
+fnbA
+1.00±0.08
+1.53±0.07
+c
+2.36±0.08
+d
+2.97±0.06
+e
+1326.426
+0.001
+atlA
+1.00±0.09
+1.61±0.07
+f
+2.31±0.06
+g
+2.86±0.05
+h
+1261.130
+0.001
+注：与空白对照组比较，
+aP<0.05，
+bP<0.05，
+cP<0.05，
+dP<0.05，
+eP<0.05，
+fP<
+0.05，
+gP<0.05，
+hP<0.05，
+iP<0.05。
+Note: Compared with the blank control group,
+aP<0.05,
+bP<0.05,
+cP<0.05,
+dP<0.05,
+eP<0.05,
+fP<0.05,
+gP<0.05,
+hP<0.05,
+iP<0.05.
+·460·
+Hainan Med J, Feb. 2023. Vol. 34, No. 4
+海南医学2023年2月第34卷第4期
+996-999.
+[4]
+Zhang YJ, Pan H, Du JH, et al. Inhibitory effect of cinnamaldehyde
+combined with vancomycin on the biofilm of methicillin resistant
+Staphylococcus aureus [J]. Journal of Kunming Medical University,
+2018, 39(4): 58-61.
+张雅娟, 潘红, 杜佳慧, 等. 桂皮醛联合万古霉素对耐甲氧西林金黄
+色葡萄球菌生物膜的抑制作用[J]. 昆明医科大学学报, 2018, 39
+(4): 58-61.
+[5]
+Chen Y, Chen YQ, Kong JL, et al. Effect of baicalin combined with
+vancomycin on Staphylococcus aureus biofilm in vitro [J]. Chinese
+Journal of Nosocomiology, 2014, 24(2): 264-267.
+陈艳, 陈一强, 孔晋亮, 等. 黄芩苷联合万古霉素对金黄色葡萄球
+菌 生 物 膜 的 体 外 影 响 [J]. 中 华 医 院 感 染 学 杂 志, 2014, 24(2):
+264-267.
+[6] Liu D, Zhang H, Sun HY, et al. Research progress on antibacterial ac-
+tivity of ginsenosides [J]. Chinese Journal of Pathogenic Biology,
+2018, 13(12): 130-132.
+刘迪, 张浩, 孙宏宇, 等. 人参皂苷抑菌活性研究进展[J]. 中国病原
+生物学杂志, 2018, 13(12): 130-132.
+[7] Zhang HR, Ye AQ, Zhang YW, et al. Research progress on derivatiza-
+tion and biological activity of ginsenoside [J]. Chinese Traditional
+and Herbal Drugs, 2022, 53(14): 4554-4567.
+张浩然, 叶安琪, 张跃伟, 等. 人参皂苷衍生化及生物活性研究进展
+[J]. 中草药, 2022, 53(14): 4554-4567.
+[8]
+An JH, Zhang YZ, Han SS, et al. Effect of Ginsenoside on biofilm
+formation of Staphylococcus aureus [J]. Journal of Shandong Universi-
+ty (Health Sciences), 2018, 56(7): 28-32.
+安继红, 张永州, 韩姗姗, 等. 人参皂苷对金黄色葡萄球菌生物被膜
+形成的影响[J]. 山东大学学报(医学版), 2018, 56(7): 28-32.
+[9] Dong PX, Tuo Y. Research progress of methicillin-resistant Staphylo-
+coccus aureus infection [J]. Laboratory Medicine And Clinic, 2015, 12
+(1): 116-118.
+董鹏霞, 托娅. 耐甲氧西林金黄色葡萄球菌感染研究进展[J]. 检验
+医学与临床, 2015, 12(1): 116-118.
+[10] Ying XJ. Research and control progress of methicillin resistant Staph-
+ylococcus aureus biofilm [J]. Chinese Journal of Disinfection, 2019, 36
+(7): 546-551.
+应小俊. 耐甲氧西林金黄色葡萄球菌生物膜的研究及防治进展[J].
+中国消毒学杂志, 2019, 36(7): 546-551.
+[11] Wu C, Sun YN, Jin BN, et al. Research progress of methicillin-resis-
+tant Staphylococcus aureus biofilm [J]. Chinese Journal of Nosocomi-
+ology, 2019, 29(13): 2069-2074.
+吴春, 孙永宁, 金波娜, 等. 耐甲氧西林金黄色葡萄球菌生物膜研究
+进展[J]. 中华医院感染学杂志, 2019, 29(13): 2069-2074.
+[12] Yu FF, Luo ZX. Individualized anti-infective treatment strategy of
+vancomycin in community-acquired methicillin-resistant Staphylo-
+coccus aureus pneumonia in children. [J]. Chinese Journal of Practical
+Pediatrics, 2022, 37(2): 99-103.
+于菲菲, 罗征秀. 万古霉素在儿童社区获得性耐甲氧西林金黄色葡
+萄球菌肺炎的个体化抗感染治疗策略[J]. 中国实用儿科杂志,
+2022, 37(2): 99-103.
+[13] Guan CP, Feng L, Qiao X, et al Antibacterial effect and reversal
+mechanism of different traditional Chinese medicine extracts on
+methicillin resistant Staphylococcus aureus [J]. Chinese Journal of Vet-
+erinary Science, 2015, 35(12): 1997-2001.
+管翠萍, 冯磊, 乔霞, 等. 不同中药提取物对耐甲氧西林金黄色葡萄
+球菌的抑菌作用和逆转机制[J]. 中国兽医学报, 2015, 35(12):
+1997-2001.
+[14] Yin LJ, Zhou ZQ, Shao Y, et al. Study on the antibacterial effect of
+berberine hydrochloride, ginsenoside Rb1, baicalin and chlorogenic
+acid on Escherichia coli and Staphylococcus aureus [J]. Medical Reca-
+pitulate, 2016, 22(24): 4969-4972.
+尹良军, 周振旗, 绍元, 等. 盐酸小檗碱、人参皂苷Rb1、黄芩苷及绿
+原酸对大肠埃希菌和金黄色葡萄球菌的抑菌作用研究[J]. 医学综
+述, 2016, 22(24): 4969-4972.
+[15] Zhang HH Jiang XH, Fang JJ. Inhibitory effect of Ginsenoside on
+Staphylococcus aureus biofilm [J]. Chinese Modern Doctor, 2018, 56
+(2): 16-18, 22.
+张慧华, 姜新华, 方水晶. 人参皂苷对金黄色葡萄球菌生物被膜的
+抑制作用[J]. 中国现代医生, 2018, 56(2): 16-18, 22.
+[16] Cao xx, Ye QL, Zhou LB, et al. Experimental study on inhibition of
+cariogenic bacteria biofilm by ginsenoside Rh2 [J]. J Oral Sci Res,
+2018, 34(12): 1302-1306.
+曹茜茜, 叶倩琳, 周立波, 等. 人参皂苷Rh2抑制致龋菌生物膜的实
+验研究[J]. 口腔医学研究, 2018, 34(12): 1302-1306.
+[17] Zhang J, Sun Y, Wang Y, et al. Non-antibiotic agent ginsenoside 20
+(S)-Rh2 enhanced the antibacterial effects of ciprofloxacin in vitro
+and in vivo as a potential NorA inhibitor [J]. Eur J Pharmacol, 2014,
+740(1): 277-284.
+(收稿日期：2022-06-16)
+·461·

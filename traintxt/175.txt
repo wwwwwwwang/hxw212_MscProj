@@ -1,0 +1,380 @@
+人参研究
+GINSENG RESEARCH
+2021 年第 2 期
+鲜人参膏对 H22 荷瘤小鼠抗肿瘤作用的初步研究
+王文婷 1,王彦珺 1,林向辉 2,林晓熙 2,李
+伟 1,任
+珅 1*
+(1.吉林农业大学中药材学院,长春 130118；2.辽宁熙峰药业集团有限公司,桓仁 117000)
+摘
+要：目的 通过建立 H22 移植瘤小鼠模型,探讨鲜人参膏(Fresh ginseng paste,FGP)对 H22 荷瘤小鼠的抗
+肿瘤作用。 方法 将 ICR 小鼠随机分成模型组、阳性对照组(环磷酰胺,CTX)、FGP 低剂量组(300
+mg/kg)和高剂量组(600 mg/kg),连续给药 15d 后,计算抑瘤率和脏器指数,检测血清中谷丙转氨酶
+(ALT)和谷草转氨酶(AST)水平；并通过酶联免疫试剂盒测定小鼠血清中肿瘤坏死因子-α(TNF-
+α)和干扰素-γ(IFN-γ)的含量。 结果 FGP 能够明显改善 H22 荷瘤小鼠的一般状况,抑制肿瘤生长,
+显著降低脾脏指数及胸腺指数(P<0.05)；此外,与模型组相比,FGP 能够明显改善肝功能的损伤,
+并显著升高 TNF-α 和 IFN-γ 的水平(P<0.05)。结论 FGP 对 H22 荷瘤小鼠具有一定的抗肿瘤作用,
+并能够减少肝损伤,其作用机制可能与增强机体免疫力有关。
+关键词： 鲜人参膏；H22 荷瘤小鼠；抗肿瘤；TNF-α；IFN-γ
+原发性肝细胞癌在世界上作为一种最常见的恶性
+肿瘤, 已成为全球第三大与癌症相关的死亡的主要原
+因[1]。 肝癌治疗的选择取决于肿瘤的生物学行为,目前
+临床上治疗肝癌的方法众多,主要包括化学治疗、放疗
+和手术切除等[2]。近年来,大量科学研究表明,由天然产
+物衍生的药物具有高效、低毒的功效,因此被广泛应用
+基金项目：吉林省科技发展计划项目,项目编号：20191102051YY。
+作者简介：王文婷,女,硕士在读,主要从事中药新产品开发研究。
+* 通信作者：任珅,女,讲师,博士,硕士生导师,主要从事中药产品开发研究。 E-mail：rs0109@163.com.
+Abstract:Objective: To establish a mouse model of H22 transplanted tumor to explore the anti-tumor effect of fresh
+ginseng paste (FGP) on H22 tumor-bearing mice. Methods: ICR mice were randomly divided into model
+group, positive control group
+(cyclophosphamide, CTX), FGP low-dose group
+(300 mg/kg) and FGP
+high-dose group (600 mg/kg), after 15 days of continuous administration, calculate the tumor inhibition
+rate and organ index, and detect the levels of alanine aminotransferase
+(ALT) and aspartate
+aminotransferase (AST) in serum; and determine the tumor necrosis factor in mouse serum by enzyme-
+linked immunoassay kit -α (TNF-α) and interferon-γ (IFN-γ) content. Results: FGP can significantly
+improve the general condition of H22 tumor-bearing mice, inhibit tumor growth, and significantly reduce
+the spleen index and thymus index
+(P<0.05); in addition, compared with the model group, FGP can
+significantly improve liver function damage, and Significantly increased the levels of TNF-α and IFN-γ
+(P<0.05), and showed a dose-effect relationship. Conclusion: FGP has a certain anti-tumor effect on H22
+tumor-bearing mice, and can reduce liver damage. Its mechanism of action may be related to the
+enhancement of the body's immunity.
+Keywords:Fresh ginseng paste; H22tumor-bearing mice; Anti-tumor activity; TNF-α; IFN-γ
+Preliminary study on anti-tumor effect of Fresh Ginseng
+Paste on H22 tumor-bearing mice
+WANG Wen-ting 1, WANG Yan-jun 1, LIN Xiang-hui2, LIN Xiao-xi2, LI Wei1, REN Shen1*
+(1. College of Chinese Medicinal Materials, Jilin Agricultural University, Changchun 130118, China；
+2.Liaoning Xifeng Pharmaceutical Group Co., Ltd., Liaoning Huanren 117000, China)
+DOI：10.19403/j.cnki.1671-1521.2021.02.003
+22
+人参研究
+GINSENG RESEARCH
+2021 年第 2 期
+王文婷等：鲜人参膏对 H22 荷瘤小鼠抗肿瘤作用的初步研究
+于抗癌药物的使用[3]。
+人参为五加科人参属 Panax ginseng C.A. Meyer
+植物的干燥根及根茎, 是我国一种集药用和营养双重
+价值的传统中草药,享有“中华神草”“百草之王”等美
+誉,具有大补元气、补脾益肺等功效,久服可轻身延年、
+增强免疫功能[4-5]。近年来,人参的食用营养价值得到人
+们广泛关注,因此人参系列产品也随之产生,例如人参
+糖果、人参饮料等。 同时,通过利用人参精深加工得到
+的产品,来进一步提升人参的功效,增强机体免疫力,
+更符合现代“以食为养、以食为疗”的养生理念[6]。因此,
+开发人参功能性食品对于促进人参相关制品的深度开
+发具有显著的现实意义。
+鲜人参膏(Fresh ginseng paste, FGP)是在原膏剂基
+础上引入的一种创新性的制备工艺,主要充分利用专利
+技术[7],选用新鲜人参并利用其不同部位的加工方法,配
+以红枣精华,科学加工,转化稀有活性物质,成功富集出
+以 Rk1,Rg5,Rg3 为代表的 16 种稀有皂苷组分群,最大
+限度地保留了人参中所有活性成分和营养物质[6,8],同时
+更富含精氨酸双糖苷 AFG、氨基酸、多糖、人参蛋白等多
+种有益物质[9]。
+人参加工产品因其富含人参皂苷并具有丰富的药
+理活性,是一种独特的药食兼具的开发品。本文以人参
+的现代研究背景, 初步探究人参新型加工品 “鲜人参
+膏”对 H22 荷瘤小鼠的抗肿瘤作用,以期为人参功能性
+食品的开发提供理论基础, 进一步丰富人参系列深加
+工产品的开发利用。
+1
+材料与方法
+1.1
+实验动物
+雄性 ICR 小鼠,SPF 级,5~6 周龄,体重 20~22g,购
+自长春市亿斯实验动物技术有限责任公司,合格证号：
+SCXK(吉)2018-0007,自由饮水,适应性饲养 1 周后随
+机分成 4 组,进行实验。
+1.2
+材料、试剂与仪器
+小鼠 H22 肝癌细胞株, 购自中国科学院上海细胞
+所,经本实验室传代并保存；注射用环磷酰胺(CTX),上
+海华联制药有限公司；鲜人参膏(FGP),五星级产品,辽
+宁熙峰药业集团有限公司提供(SC10721052200667)；
+谷丙转氨酶(ALT)和谷草转氨酶(AST)试剂盒,购自南
+京建成生物工程有限公司；肿瘤坏死因子-α(TNF-α)和
+干扰素-γ(IFN-γ)试剂盒,购自美国 R&D 公司。
+VD-650 超净工作台,上海苏净实业有限公司；酶
+标仪 Spectra Max Plus 384, 美国分子生物仪器公司；
+Neofuge 1600R 高速离心机, 上海力新仪器有限公司；
+Leica DM 500 显微镜, 德国徕卡有限公司；AL 104 电
+子天平,上海梅特勒-托利多仪器有限公司。
+1.3
+药物配制
+准确称取鲜人参膏适量,加 CMC-Na 混悬至所需
+给药浓度,按 10 mL/kg 灌胃给药。 准确称取环磷酰胺
+(CTX)适量,用生理盐水配制成所需浓度,采用腹腔注
+射给药形式。
+1.4
+移植瘤动物模型建立
+将腹水型小鼠肿瘤 H22 细胞置于 37℃、5% CO2 培
+养箱,用含 10% FBS 的 RPMI 1640 完全培养基悬浮培
+养。取最佳生长状态的小鼠肿瘤 H22 细胞,浓度调为 5×
+106/mL,以 0.2 mL/只(1 ×106 个细胞/只)无菌注入雄性
+ICR 小鼠腹腔内,进行接种传代,于接种 7d 左右,小鼠
+腹部膨隆,出现血性腹水,可用于小鼠皮下移植瘤的接
+种。 于无菌条件下抽取 H22 腹水瘤小鼠的腹水,用无菌
+生理盐水稀释后,1500 r/min 离心 10 min, 洗涤细胞 3
+次,取 0.2 mL 瘤细胞悬液接种到雄性 ICR 小鼠的右肩
+皮下。
+1.5
+动物分组与给药处理
+ICR 小鼠适应性饲养 1 周,接种后第 2d,小鼠随
+机分成共 4 组,即模型组(Model),阳性对照组(CTX,
+30 mg/kg),FGP 低剂量组(FGP-L, 300 mg/kg)和高剂
+量(FGP-H, 600 mg/kg)组,每组 10 只。 CTX 采用腹腔
+注射方式给药,FGP 组采用灌胃给药,模型组以等量的
+生理盐水代替,每日 1 次,连续 15d。 末次给药后禁食
+不禁水,16 h 后眼球取血断颈处死,收集血液及组织做
+相关分析。
+1.6
+抑瘤率和免疫器官指数测定
+分别称取小鼠体质量、瘤质量,计算抑瘤率。 并称
+取脾脏、胸腺质量,计算脏器指数。 眼球取血后颈椎脱
+臼处死,完整剥离瘤块,分离血清。
+抑瘤率=(模型组瘤质量-药物组瘤质量)/模型组
+瘤质量
+胸腺(肝脏、脾脏)指数=胸腺(肝脏、脾脏)质量 /体
+质量
+23
+人参研究
+GINSENG RESEARCH
+2021 年第 2 期
+2.3
+对 H22 荷瘤小鼠肝功能的影响
+如图 1 所示, 与模型组比较,CTX 组小鼠血清中
+ALT 和 AST 的水平显著升高 (P<0.05), 与 CTX 组相
+比,FGP 低、 高剂量组能够明显抑制血清中 ALT 和
+AST 水平的升高(P<0.05),初步证明了 FGP 对 H22 荷
+瘤小鼠肝功能具有一定的保护作用。
+2.2
+对 H22 荷瘤小鼠免疫器官指数的影响
+结果表明：如表 2 所示,与模型组相比,CTX 组胸
+腺指数显著下降 (P<0.05),FGP 低、 高剂量组与 CTX
+组相比显著升高(P<0.05)。 CTX 组的脾脏指数明显低
+于模型组 (P<0.05), 随着 FGP 给药剂量的增加,与
+CTX 组相比,脾脏指数显著升高(P<0.05)。
+组别
+(Groups)
+剂量/mg•kg-1
+(Dosage/mg•kg-1)
+动物数量
+Animal number(n)
+瘤重量/g
+(Tumor weight/g)
+抑瘤率/%
+(Tumor Inhibition rate/%)
+模型组 Model
+10
+1.13±0.38
+阳性对照组 CTX
+30
+10
+0.45±0.19*
+60.18
+FGP 低剂量组 FGP-L
+300
+10
+0.96±0.33#
+15.04
+FGP 高剂量组 FGP-H
+600
+10
+0.87±0.41#
+23.01
+1.7
+转氨酶与细胞因子测定
+依照南京建成生物工程有限公司提供的试剂盒说
+明书, 采用微板法检测血清中肝功能指标, 包括 ALT
+和 AST。 依照试剂盒说明书,将小鼠血清稀释后,分别
+采用 TNF-α 和 IFN-γ 的 ELISA 试剂盒利用双抗体夹
+心法测定血清中二者含量。
+1.8
+统计分析
+通过 t 检验或利用 SPSS 19.0 软件 ANOVA 进行
+统计分析, 各项数据以 Mean ±SD 表示, 用 GraphPad
+Prism 8.0.4 软件进行方差分析并绘图。 P< 0.05 或 P<
+0.01 认为有统计学差异。
+2
+结果
+2.1
+对 H22 荷瘤小鼠肿瘤生长的影响
+结果表明：模型组小鼠状态萎靡,毛色暗淡,FGP
+给药组小鼠状态改善明显, 较为活泼。 由表 1 可知,
+CTX 组及 FGP 低、高剂量组的平均瘤质量均显著低于
+模型组(P<0.05),且 FGP 低、高剂量组的平均瘤质量显
+著高于 CTX 组(P<0.05)；肿瘤抑制率以 CTX 组达到最
+高,为 60.18%,FGP 高、低剂量组次之。
+表 1 FGP 对 H22 移植瘤小鼠肿瘤生长的影响
+(n=10, Mean ± S.D)
+Table 1 The effect of FGP on tumor growth of H22 transplanted tumor mice (n=10, Mean ± S.D)
+注：* 表示与模型组(M)差异显著(P<0.05)；# 表示与阳性对照组(CTX)差异显著(P<0.05)。
+Note: * indicates a significant difference from the model group
+(M) (P<0.05); # indicates a significant difference
+from the positive control group (CTX) (P<0.05).
+表 2. FGP 对 H22 移植瘤小鼠免疫器官指数的影响(n=10, Mean ± S.D)
+Table 2. The effect of FGP on immune organ index of H22 transplanted tumor mice (n=10, Mean ± S.D)
+组别(Groups)
+剂量/mg•kg-1
+(Dosage/ mg•kg-1)
+动物数量
+Animal number(n)
+脾脏指数/mg•g-1
+(Spleen index)
+胸腺指数/mg•g-1
+(Thymus index)
+模型组 Model
+10
+14.43±2.56
+1.78±0.49
+阳性对照组 CTX
+30
+10
+9.22±2.10*
+1.45±0.44*
+FGP 低剂量组 FGP-L
+300
+10
+11.11±1.77#
+1.76±0.67#
+FGP 高剂量组 FGP-H
+600
+10
+10.89±2.01#
+1.81±0.81#
+注：* 表示与模型组(M)差异显著(P<0.05)；# 表示与阳性对照组(CTX)差异显著(P<0.05)。
+Note: * indicates a significant difference from the model group
+(M)
+(P<0.05); # indicates a significant difference
+from the positive control group (CTX) (P<0.05).
+24
+人参研究
+GINSENG RESEARCH
+2021 年第 2 期
+注：* 表示与模型组(M)差异显著(P<0.05)；# 表示与阳性对照组(CTX)差异显著(P<0.05)。
+Note: * indicates a significant difference from the model group (M) (P<0.05); # indicates a significant difference
+from the positive control group (CTX) (P<0.05).
+图 1 FGP 对 H22 荷瘤小鼠肝功能 ALT 和 AST 的影响(n=10, Mean ± S.D)
+Fig. 1 The effect of FGP on ALT and AST of liver function in H22 tumor-bearing mice e (n=10, Mean ± S.D)
+3
+讨论
+近年来, 原发性肝细胞癌的病死率已居我国恶性
+肿瘤中的第二位[10],因此引起人们的广泛关注,该研究
+结果表明,FGP 能够有效抑制 H22 荷瘤小鼠的肿瘤生
+长,增强其肿瘤抑制率,具有一定的抗肿瘤作用。 当机
+体受到损伤时,其脏器质量和指数发生改变。在本研究
+中,随着 FGP 给药剂量的增加,脾脏指数明显下降,且
+与 CTX 组相比具有显著性；FGP 低、 高剂量组与 CTX
+组差异显著,说明 FGP 可以有效的对荷瘤小鼠的免疫
+脏器发挥保护作用。
+血清中 ALT 和 AST 水平是反应肝功能的两个重
+要指标,当机体肝功能受到损伤时,两者水平会显著升
+高[11]。 本研究通过建立 H22 皮下移植瘤模型小鼠,并通
+过 CTX 腹腔注射给药及 FGP 灌胃给药的方式探讨其
+抗肿瘤作用。 结果显示,与模型组相比,CTX 组小鼠血
+清中的 ALT 和 AST 水平均显著升高；与 CTX 组相比,
+FGP 低、高剂量组小鼠血清中 ALT 和 AST 水平均有明
+显的降低, 表明肝损伤的程度被明显改善, 说明 FGP
+对 H22 荷瘤小鼠起到一定的抗肿瘤作用。
+大量研究表明, 肿瘤的发生与机体免疫功能下降
+及失调有关,CTX 作为临床上常用的一种广谱抗肿瘤
+药物,主要通过免疫抑制来发挥抗肿瘤作用[12]。 在治疗
+过程中, 与模型组比较,CTX 组小鼠肿瘤平均质量显
+著下降,胸腺指数及其脾脏指数也显著降低。脾脏是一
+种重要的机体免疫器官, 胸腺是 T 淋巴细胞分化成熟
+的场所,当恶性肿瘤发生是,T 淋巴细胞会增殖分裂释
+2.4
+对 H22 荷瘤小鼠相关细胞因子的影响
+由图 2 所示, 与模型组相比,CTX 组小鼠血清中
+TNF-α 和 IFN-γ 含量明显增高,差异显著(P<0.05)；
+与 CTX 组相比,FGP 低、 高剂量组小鼠血清中 TNF-α
+水平显著升高；小鼠血清中 IFN-γ 水平随着 FGP 给药
+剂量的增加也随之增加,其中 FGP 高剂量组与模型组
+相比显著升高。
+注：* 表示与模型组(M)差异显著(P<0.05)；# 表示与阳性对照组(CTX)差异显著(P<0.05)。
+Note: * indicates a significant difference from the model group (M) (P<0.05); # indicates a significant difference
+from the positive control group (CTX) (P<0.05).
+图 2. FGP 对 H22 荷瘤小鼠细胞因子 TNF-α 和 IFN-γ 水平的影响(n=10, Mean ± S.D)
+Fig. 2. The effect of FGP on the levels of cytokines TNF-α and IFN-γ in H22 tumor-bearing mice (n=10, Mean ± S.D)
+25
+人参研究
+GINSENG RESEARCH
+2021 年第 2 期
+放出多种细胞因子, 细胞因子在机体内起到相互促进
+或相互抑制的作用,从而来调节机体的免疫系统,同时
+作为评价机体免疫功能的重要指标[13]。 TNF-α 是一种
+促炎因子, 能够直接杀死肿瘤细胞且对正常细胞不产
+生明显的毒害作用的一种细胞因子[14]。 FGP 可以使小
+鼠血清中 TNF-α 水平显著上升,可能是通过增加血清
+中肿瘤坏死因子的含量从而增强机体的抗肿瘤作用。
+IFN-γ 主要由活化的 Th 细胞和 NK 细胞产生,能够促
+进 Th1 细胞发育并且抑制 Th2 细胞活化与增殖,刺激
+B 细胞产生的抗体类型向调理素方向转变, 具有抗病
+毒,抗肿瘤和免疫调控的作用[15]。 FGP 可以使小鼠血清
+中 IFN-γ 水平明显升高,说明 FGP 是通过促进机体产
+生免疫因子增强其抗肿瘤作用。
+综上所述,FGP 对 H22 荷瘤小鼠具有明显的抗肿
+瘤作用,其抑制肿瘤作用可能与增强机体免疫力,保护
+机体肝功能受损及升高血清中 TNF-α 和 IFN-γ 水平
+有关。 此外,与 CTX 组相比,FGP 的抗肿瘤作用较好,
+并且其毒性较低。 该研究阐述了 FGP 对 H22 荷瘤小鼠
+的抗肿瘤作用, 初步揭示了鲜人参膏能够通过抑制肿
+瘤生长达到保护作用,具有预防肿瘤发生的作用,为人
+参及相关产品的深度开发提供理论依据。
+参
+考
+文
+献
+[1]Zhang QL, Du ZS, Zhang Y et al. Lentinus edo-
+des Apoptosis induction activity of polysaccharide from
+in H22-bearing mice through ROS-mediated mitochon-
+drial pathway and inhibition of tubulin polymerization
+[J]. Food Nutr Res, 2020, 64: undefined.
+[2]Kan XF, Zhang WL, You RX et al. Scutellaria
+barbata D. Don extract inhibits the tumor growth through
+down -regulating of Treg cells and manipulating Th1/
+Th17 immune response in hepatoma H22-bearing mice
+[J]. BMC Complement Altern Med, 2017, 17:41.
+[3]Liu YH, Qin HY, Zhong YY et al. Neutral
+polysaccharide from Panax notoginseng enhanced cy-
+clophosphamide antitumor efficacy in hepatoma H22 -
+bearing mice [J]. BMC Cancer, 2021, 21:37.
+[4] 李伟, 杨舸, 胡俊男, 等. 人参热裂解皂苷研究
+进展, 吉林农业大学学报, 2018, 2, 127-134.
+[5]刘伟, 林向辉, 刘喜峰, 等. “鲜人参膏”缓解小
+鼠运动疲劳作用的初步探究[J]. 人参研究, 2019, 31(3):
+5-8.
+[6] 王文婷, 施展, 林向辉, 等. 基于环磷酰免疫抑
+制模型研究鲜人参膏增强小鼠免疫力的作用 [J]. 特产
+研究, 2020, 42(03):30-34.
+[7] 林向辉, 刘喜峰, 林晓熙. 等. 一种鲜人参膏的
+制备方法及应用: 中国专利 CN. 201811133998.7.
+[8]李伟, 王梓, 赵立春, 等. 化合物 20(R)-人参皂
+苷 Rg3 的 制 备 方 法 及 应 用 :
+中 国 专 利 ZL.
+201610599632.3.
+[9]李健豪, 沙纪越, 刘伟. 等. “鲜人参膏”对顺铂
+致肾损伤小鼠的保护作用及机制 [J]. 现代食品科技,
+2019, 35(9):110-118.
+[10] 王欢, 关大朋, 李伟, 等. 熟桔梗对 H22 荷瘤小
+鼠的抑瘤作用及皂苷类成分分析, 毒理学杂志, 2015,
+29(1):49-53.
+[11]彭静, 陈曦. 滨蒿内酯对四氯化碳致小鼠急性
+肝损伤的保护作用研究 [J]. 中国药房, 2021, 32(02):
+231-235.
+[12] 张男男, 侯瑞丽, 李可欣, 等. 沙棘熊果酸对
+H22 荷瘤小鼠抑瘤活性及其机制的探讨[J]. 食品研究与
+开发, 2019, 40(10):6-12.
+[13]王梓, 许兴月, 李琼, 等. 人参皂苷 Rg1 热裂解
+产物对 H22 荷瘤小鼠的抗肿瘤作用, 中国药学杂志,
+2017, 52(15):1319-1132.
+[14]安方玉, 史旭锋, 颜春鲁, 等. 黄芪水煎剂对荷
+H22 肝癌小鼠瘤组织凋亡及肝损伤调控的作用机制[J].
+华西药学杂志, 2020, 35(04):392-396.
+[15] 田雨弘, 高鸽, 刘颖, 等. 桔梗茎叶皂苷对 H22
+荷瘤小鼠的抗肿瘤作用及机制研究, 毒理学杂志,
+2016, 30(1):45-48.
+26

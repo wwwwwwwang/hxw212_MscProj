@@ -1,0 +1,407 @@
+·
+82·
+生国生亘垦堡金鱼塾苤查! Q! ! 生! 旦笙丝鲞笙! 塑鱼堕! 』! 堡坠里丛g也g! 竺! ! 竺! ! 型垫! ! ! ∑! ! ：丝! 坠：!
+人参皂苷Rbl 预处理对急性束缚性应激大鼠海马组织
+脑源性神经营养因子表达的影响
+戴勤学
+王均炉
+潘媛媛金深辉
+莫云长郏丹赘
+325000浙江温州，温州医科大学附属第一医院麻醉科
+通讯作者：郏丹赞，Emai l ：529365 150@qq．con
+DOI：10．3969／j ．i ssn．1008- 9691．2017．01．022
+【摘要】
+目的观察人参皂苷Rbl 预处理对急性束缚性应激大鼠海马组织脑源性神经营养因子( BDNF)
+表达的影响。方法将18只sD大鼠按随机区组法分成正常对照组、急性束缚应激模型组、人参皂苷Rbl
+组，每组6只。模型制备采用专业大鼠固定器束缚2 h模拟急性束缚性应激状态；人参皂苷Rbl 组于制模前
+30 mi n腹腔注射人参皂苷Rbl 40 mg／kg，正常对照组不进行任处理。用酶联免疫吸附试验( ELI SA) 测定制模前
+后大鼠血浆皮质酮( CORT) 和促。肾上腺皮质激素( ACTH) 的水平。采用实时荧光定量反转录一聚合酶链反应
+( RT—PCR) 检测大鼠海马组织中BDNF mRNA的表达水平，用蛋白质免疫印迹试验( West ern Bol t ) 检测大鼠海
+马组织的BDNF蛋白表达水平。结果急性束缚应激模型组制模后血浆CORT和ACTH含量较制模前明显
+升高[ CORT( 叫L) ：3．79± 0．50比2．06± 0．35) ，ACTH( 嘿／L) ：1．69± 0．12比0．94± 0．12] ，差异均有统计学意义
+( 均P<0．05 o与正常对照组比较，急性束缚应激模型组海马组织BDNF的mRNA和蛋白表达水平水平均明显
+降低[ BDNFmRNA( A值) ：42．87± 5．56比109．39± 9．11，BDNF蛋白( 灰度值) ：0．94± 0．02比1．02± 0．03，均P<
+0．01] ；与急性束缚应激模型组比较，人参皂苷Rbl 组海马组织BDNF的mRNA( 113．73± 6．24比42．87± 5．56)
+和蛋白( 1．04± 0．02比0．94± 0．02) 表达水平均明显升高( 均P<O．05 o结论人参皂苷Rbl 预处理可以维持
+急性束缚性应激大鼠模型海马组织BDNF的mRNA和蛋白表达水平，从而缓解急性束缚性应激所导致的损害。
+【关键词】人参皂苷Rbl ；
+急性束缚性应激；
+脑源性神经营养因子；
+皮质酮；
+促肾上腺皮质激素
+基金项目：国家自然科学基金( 81573742) ；浙江省自然科学基金( LYl 5H290006) ；浙江省温州市科技计
+划项目( Y20140311)
+I nf l uence
+of
+gi nsenosi de Rbl
+pret reat ment
+on expressi on
+of
+brai n
+deri ved neurot rophi c
+f act or
+i n
+rat
+hi ppocampus
+af t er
+acut e i mmobi l i zat i on
+st ress
+Dai
+Qi nxue，Wang J unl u，Pan Yuanyuan，J i n Shenhui ，Mo
+Yunchang，J i a Danyun
+Depart ment of Anest hesi ol ogy, t he Fi rst Af f i l i ated Hospi t al of
+Wenzhou Medi cal
+Uni versi t y, Wenzhou 325000, Zhef i ang,
+Chi na
+Correspondi ng aut hor：J i a Danyun，Emai l ：529365150@qq．cont
+[ Abst ract ] 0bj ect i ve
+To
+i nvest i gat e
+t he
+ef f ect s
+of
+gi nsenosi de
+Rbl
+pret reat ment
+on
+t he
+expressi on
+of
+brai n
+deri ved
+neurot rophi c
+f act or
+f BDNFl
+i n hi ppocampus
+of
+rat
+model s
+under
+acut e
+i mmobi l i zat i on
+st ress．
+Met hods
+Ei ght een Sprague—Dawl ey( SD) rat s were randoml y di vi ded i nt o t hree groups( each／z=6) ：normal
+cont rol
+group，acut e i mmobi l i zat i on st ress model
+group，and gi nsenosi de Rbl
+group．The
+rat s
+i n acut e i mmobi l i zat i on st ress
+model
+group and gi nsenosi de Rbl
+group were exposed
+t o
+acut e
+i mmobi l i zat i on f or
+2 hours．Thi rt y mi nut es
+bef ore
+t he model i ng，gi nsnosi de Rbl ( 40 mg／kg) was i nj ect ed i nt raperi t oneal l y
+i nt o rat s
+i n t he gi nsenosi de Rbl
+group，and
+t he cont rol
+group was not t reat ed．The enzyme—l i nked i mmunosorbent assay( ELI SA) was used t o det ect
+t he l evel s of
+pl asma cort i sol f CORT) and adrenocort i cot ropi c hormone( ACTH) ．The real —t i me f l uorescence
+quant i t at i ve
+r ever se
+t ranscri pt i on—pol ymerase chai n react i on( RT—PCR) was
+appl i ed
+t o
+exami ne t he expressi on of BDNF mRNA i n
+rat
+hi ppocampus and i t s expressi on of BDNF
+prot ei n was measured by West ern Bl ot．
+Resul t s
+I n acut e i mmobi l i zat i on
+st ress model group，compared wi t h t hose bef ore model i ng，t he pl asma CORT and ACTHconcent rat i ons were si gni f i cant l y
+hi gher af t er model i ng[ CORT( 斗g／L) ：3．79± 0．50 vs．2．06± 0．35，ACTH( 斗g，L) ：1．69± 0．12 vs．0．94± 0．12，bot h P<
+0．05】；compared wi t h t he normal
+cont rol group，t he mRNA and prot ei n expressi ons of BDNF i n hi ppocampus i n t he acut e
+i mmobi l i zat i on st ress model
+group were decreased si gni f i cant l y[ BDNF mRNA似val ue) ：42．87± 5．56 vs．109．39± 9．11，
+BDNF prot ei n( grey val ue) ：0．94士0．02 vs．1．02± 0．03，bot h P<0．01】；compared wi t h acut e i mmobi l i zat i on st ress
+model
+group，t he mRNA( 1 13．73± 6．24 vs．42．87± 5．56) and prot ei n expressi ons( 1．04± 0．02 vs．0．94± 0．02) of BDNF
+i n hi ppocampus
+of pre—t reat ment
+groups were si gni f i cant l y hi gher
+f al l P<0．05) ．Concl usi ons
+The resul t s
+suggest
+t hat
+pret reat ment
+wi t h gi nsenosi de Rh l
+al l evi at e hi ppocampus l esi on i nduced by acut e i mmobi l i zat i on st ress t hrough
+regul at i ng t he BDNF mRNA and prot ei nexpressi ons i n hi ppocampus．
+[ Key words] Gi nsenosi de Rbl ：Acut e i mmobi l i zat i on st ress；Brai n—deri ved neurot rophi c f act or；, Cort i cost erone；
+Adrenocort i cot roDi c hormone
+- 论著-
+万方数据
+主国史亘匿箜金鱼垫盘查! Q! ! 生! 旦笙丝鲞笙! 塑鱼堕! 』! 垦丛婴丛垦尘鱼! 堡! ! ! ! ! ! 型! ! ! ! ! ! ! ! ：丝! 堕! ：!
+’
+83’
+人参皂苷Rbl 是人参中有效成分之一，对缺血
+性脑损伤、阿尔茨海默病、癫痫等多种神经系统疾
+病都具有很好的治疗效果¨ 。J 。急性应激可以引
+起大脑功能减退和神经细胞损害。机体发生应激
+时中枢神经系统损伤的主要部位是海马【6] 。研究
+发现，在急性应激情况下，机体内促。肾上腺皮质激
+素( ACTH) 、皮质酮( cORT) 明显增加，但海马中的
+脑源性神经营养因子( BDNF) 表达明显降低，说明
+BDNF在海马损害过程中起着至关重要的作用"』J 。
+BDNF对神经元的分化、生存、生长以及维持神经元
+正常生理功能都有至关重要的作用，同时还有抵抗
+有害刺激和促进神经再生的作用¨ 0。11j 。目前国内
+关于人参皂苷对急性应激时大鼠海马区BDNF表达
+影响的文章较少。本实验观察人参皂苷Rbl 预处
+理对急性束缚性应激模型大鼠海马区BDNF表达的
+影响，并研究其可能机制。
+1材料与方法
+1．1实验分组：健康成年雄性sD大鼠18只，体质
+量( 250± 10) g，购于上海斯莱克实验动物有限责任
+公司，动物合格证号：SCXK( 沪) 20070012。将大鼠
+按随机区组法分为3组：对照组、模型组、人参皂苷
+Rbl 组，每组6只。
+1．2急性束缚应激模型复制：将大鼠用ZH—TXQ
+型筒形大白鼠固定器束缚2 h的方法制备急性束缚
+应激模型¨ 2|。
+本实验中动物处置方法符合动物伦理学标准。
+1．3干预方法：人参皂苷Rbl 组将人参皂苷Rbl
+溶于生理盐水，使用时配成2 mg／mL溶液，于制模前
+30 mi n以40 mg／kg腹腔注射¨ 3。。正常对照组和模
+型组给予等量生理盐水。
+1．4检测指标及方法
+1．4．1
+ACTH和CORT含量测定：用水合氯醛麻醉
+大鼠，经内眦静脉采血1 mL，4 oC离心15 rai n后将
+血浆贮存于一20℃低温环境中待测。用酶联免疫吸
+附试验( ELI SA) 检测ACTH和CORT水平，操作按
+试剂盒说明书进行，试剂盒购自上海西糖商务科技
+有限公司。
+1．4．2
+BDNF mRNA表达量测定：制模0．5 h后麻醉
+大鼠取脑，游离海马置于液氮中保存，用实时荧光
+定量反转录一聚合酶链反应( RT—PCR) 测定BDNF
+mRNA表达量，用TRI zol 提取海马组织RNA，甲醛
+变性后，凝胶电泳验证RNA完整性，用紫外分光光
+度法测定波长260 nm和280 nm处RNA样品吸光
+度( A) 值，计算RNA含量的浓度和纯度。反转录成
+cDNA，引物由上海捷瑞生物工程有限公司设计合
+成。反应条件：95℃、3 mi n，35。40个循环( 95℃、
+30 S，55℃、30 s，72 oC、30 s) ，最后72℃、15 mi n。
+目的基因校正后的相对含量用目的基因与基因18 S
+浓度比值表示。
+1．4．3
+BDNF蛋白表达测定：取大鼠大脑海马组
+织，提取蛋白质。用蛋白质免疫印迹试验( West ern
+Bl ot ) 测定BDNF蛋白表达，用二喹啉甲酸( BCA) 法
+定量蛋白质，十二烷基硫酸钠一聚丙烯酰氨凝胶
+电泳( SDS—PAGE) 转膜、封闭，抗体孵育，将膜置于
+反应液中，室温孵育，X线曝光胶片。扫描图片，用
+Al phaEaseFC 4．0软件分析图片上特异条带的灰度
+值，目的蛋白的表达量用BDNF蛋白与三磷酸甘油
+醛脱氢酶( GAPDH) 灰度值的比值表示。
+1．5统计学分析：使用SPSS 17．0软件对数据进行
+分析，正态分布的计量资料以均数± 标准误( 孑+Sx)
+表示，采用t 检验；多组间比较采用单因素方差分
+析，两两比较采用LSD法检验。P<O．05为差异有
+统计学意义。
+2结果
+2．1大鼠制模前后激素变化比较( 表1) ：制模后
+大鼠血浆ACTH和CORT水平均明显高于制模前
+( 均P<0．05) 。
+表1大鼠制模前后血浆ACTH和CORT的比较( i ± ＆)
+2．2人参皂苷Rbl 对大鼠海马组织BDNF mRNA
+表达水平的影响( 表2) ：急性束缚应激模型组海马
+组织BDNF mRNA表达量较正常对照组明显下降
+( 均P<0．01) ；而人参皂苷Rbl 组BDNF mRNA表
+达较急性束缚应激模型组明显升高( P<O．01) 。
+表2各组大鼠海马组织BDNF mRNA和蛋白
+表达水平比较( i ± &)
+注：与正常对照组比较，“ P<O．0l ；与急性束缚应激模型组比较
+hp<O．01
+2．3人参皂苷Rbl 对大鼠海马组织BDNF蛋白表
+达量的影响( 表2；图1) ：急性束缚应激模型组海
+万方数据
+·
+84·
+主国主堕匿鱼金鱼塑盘查垫! ! 生! 旦箜丝鲞箜! 塑堡! ! ! 』! 垦丛里塑垦堕垦! 丝! ! ! ! ! ! 型! Q! ! ! ∑! ! ：丝! 盟! ：!
+马组织BDNF蛋白表达量较正常对照组明显降低；
+而人参皂苷Rbl 干预组BDNF蛋白表达量则较急
+性束缚应激模型组明显升高( 均P<0．01
+o
+{1) ＼l
+正常
+纠照组
+急性束缚应激
+悄+彤}1
+人参皂苷Rbl
+f 川“
+图l
+West ern Bl ot 检测各组大鼠
+海马组织BDNF蛋白表达水平
+3讨论
+急性应激是各种内外环境、社会、心理因素刺激
+时，机体出现的非特异性适应反应，可出现糖皮质激
+素( 人体为皮质醇，大鼠为皮质酮) 的增加o
+14 J 。本
+研究发现，制模后血浆CORT和ACTH含量明显高
+于制模前，可见，急性束缚性应激模型制模成功。
+应激参与了代谢类疾病、心血管疾病以及精神
+类疾病等多种疾病发病过程’
+15I 。研究发现，应激可
+影响中枢系统多种神经递质的转导通路。BDNF是
+神经营养因子家族中以一个小二聚体形式存在的神
+经保护蛋白，其在成熟哺乳类动物大脑中广泛表达。
+BDNF可以在突触后水平作用于酪氨酸受体激酶
+B( TrkB) ，从而激活树突钙瞬变和多种细胞内信号
+转导通路¨ 6|。上述通路激活使Bcl 一2蛋白合成增
+加，Bcl 一2蛋白是维持突触可塑性和细胞生存必不
+可少的，同时还能维持线粒体膜稳定性¨ 7|。目前有
+研究发现，应激发生时大鼠海马组织BDNF表达量
+下降"靠J 。本研究发现，急性应激后海马区BDNF
+的mRNA和蛋白表达均降低。
+人参皂苷Rbl 具有多种生物活性，是人参的主
+要成分之一118] c研究发现，人参皂苷可增加免疫功
+能‘ 19】，改善模型动物的记忆功能，抑制脑神经元细
+胞凋亡，保护海马神经元¨ · 。8 o。然而关于人参皂苷
+Rbl 对急性应激时BDNF表达影响的报道甚少，故
+本实验采用人参皂苷Rbl 预处理，观察急性应激时
+BDNF表达的变化，并探讨其可能机制。结果发现，
+人参皂苷Rbl 预处理后，急性束缚应激模型大鼠海
+马区BDNF的表达量维持在正常对照组水平，表明
+人参皂苷Rbl 预处理可以通过维持BDNF的表达
+量，从而参与缓解急性应激的作用。有研究表明，
+人参皂苷可以明显增加大鼠海马组织的腺苷酸环
+磷酸( cAMP) 的含量¨ oJ ，同时腺苷A2a受体激活后
+BDNF表达量增加∽1I 。因此推测，人参皂苷Rbl 可
+能是通过调节cAMP来调节BDNF的表达。
+综上所述，急性应激时大鼠海马区BDNF表达
+量下降。人参皂苷Rbl 对大鼠急性应激的保护效
+应可能是通过维持海马BDNF的表达量而实现的。
+参考文献
+[ 1] 何海娟，杨燕青，俞玉龙，等．人参皂苷Rbl 对脑缺血／再灌
+注损伤大鼠脑血流量的影响[ J ] ．中国中西医结合急救杂志，
+2016．23( 5) ：461—463．
+[ 2] 樊兴娟，柯开富，姜正林，等．人参皂昔单体对大鼠局灶性脑缺
+血再灌注的神经保护研究[ J ] ．中华医学杂志，2006，86( 29) ：
+2071- 2074．
+[ 3] 张维，沈洪．人参皂苷在复苏后综合征中的应用前景[ J ] ．
+中华危重病急救医学，2010，22( 2) ：123—125．
+1 4 J
+Wang Y，Li u J ，Zhang Z，et a1．Ant i —neumi ni l ammat i on ef f ect of
+gi nsenosi de Rbl
+i n a rat model
+of Al zhei mer di sease[ J ] ．Neurosci
+Lel l ’
+2011．487( 1) ：70—72．
+[ 5] 戴勤学，张荣，张民远，等．腺苷A2a受体介导人参皂苷Rbl 增
+加脑缺血／再灌注损伤大鼠的脑血流量[ J ] ．中国中西医结合
+急救杂志．2016，23( 4) ：337—340．
+1 6 J
+Sapol skyRM．Why st rcssi s badf oryourbrai n【J J ．Sci ence，1996，
+273( 5276) ：749—750．
+[ 7] Murakami
+S，I mbe H，Mori kawa Y．et
+a1．Chroni c
+st ress，as
+wel l
+as
+acut e st ress，reduces BDNF mRNA expressi on i n t he rat
+hi ppocampus but l ess robust l yl
+J J ．Neurosci Res，2005，53( 2) ：
+129- 139．
+[ 8] Shi
+SS．Shao SH．Yuan BP，et a1．Acut e st ress and chroni c st ress
+change brai n- deri vod
+neurot rophi c f act or( BDNF) and
+t yrosi ne
+ki nase—coupl ed recept or( TrkB) expressi on i n bot h young and aged
+rat hi ppocampus l J J ．Yonsei Med J ，2010．51( 5) ：661—671．
+【9 J
+Connor B，Dragunow M．The
+rol e of
+neuronal
+growt h
+f act ors i n
+neurodegenerat i ve di sorders
+of
+t he human brai n[ J ] ．Brai n Res
+Brai nRes Rev，1998，27( 1) ：l 一39．
+[ 10] Yoshi i
+A．Const ant i ne- Pat on
+M．Pcst synapt i c
+BDNF—TrkB
+si gnal i ng
+i n synapse
+mat urat i on，pl ast i ci t y，and
+di sease[ J ] ．
+Dev Neurobi ol ，2010，70( 5) ：304—322．
+[ 1 1] Tanaka
+S，
+Seki no
+Y，
+Shi rao T．The
+ef i ect s
+of
+neurot rophi n一3
+and brai n- deri ved neurot rophi c f act or
+on
+cerebel l ar
+granul e cel l
+movement and neuri t e ext ensi on i n vi t ro[ J ] ．Neurosci ence，2000，
+97( 4) ：727—734．
+[ 12] YunSJ ，Park HJ ，YeomMJ ，et a1．EⅡ；ct of el ect roacupunct ure on
+t he st ress- i nduced changes
+i n brai n- deri ved neurot rophi c f act or
+expressi oni n rat hi ppocampus[ J ] ．Neurosci Let t ，2002，318( 2) ：
+85—88．
+[ 13] 刘俊伟，张慧玲，金深辉，等．人参皂苷Rbl 对脑创伤后sD大
+鼠脑水含量及血清S100B的影响[ J ] ．中国中医急症，2012，
+21( 3) ：388—389．
+[ 14] 王卫霞，王巍，陈可冀．人参皂苷对动物脑神经保护作用及其
+机理研究进展[ J ] ．中国中西医结合杂志。2005，25( 1) ：89—
+93．
+【15
+j
+Heuser I ，Lammers CH．St ress andt he brai n[ J ] ．Neurobi ol Agi ng．
+2003，24Suppl
+1：$69- 76．
+[ 16] Lang SB，St ei n V，Bonhoef f er T，et a1．Endogenous brai n—deri ved
+neurot rophi c f act or
+t ri ggers
+f ast
+cal ci umt ransi ent s
+at
+synapses
+i n
+devel opi ng dendri t es l J
+J ．J Neurosci ，2007，27( 5) ：1097一l 105．
+[ 17] 贾继明，王宗权，吴立军，等．人参皂苷Rbl 的药理活性研究进
+展[ J ] ．中国中药杂志，2008，33( 12) ：1371—1377．
+[ 18] 黄陆平，何昕，戴勤学，等．参麦注射液对大鼠大脑皮质瞟呤含
+量的影响[ J ] ．中国中西医结合急救杂志，2015．22( 2) ：154—
+156．
+[ 19] 黄增峰，缪心朗，陈德昌，等．人参皂苷对烫伤脓毒症大鼠
+CDl 9细胞和NK细胞的影响[ J ] ．中国中西医结合急救杂志，
+2007．14( 4) ：219—221．
+[ 20] 孙荣青，史晓奕，杨宏富，等．脑损伤程度与激活素A和c一反
+应蛋白表达的相关性研究[ J ] ．中华危重病急救医学，2013，
+25( 11) ：681- 685．
+[ 21] Assai f e—Lopes
+N，Sousa VC，Perei ra DB，et
+a1．Act i vat i on
+of
+adenosi ne A2A recept ors i nduces TrkB t ransl ocat i on and i ncreases
+BDNF—medi at ed
+phospho—TrkB
+l ocal i zat i on
+i n
+l i pi d
+raf t s：
+i mpl i cat i ons f or neuromodul at i on l J J ．J Neurosci ．2010，30( 25) ：
+8468—8480．
+( 收稿日期：2016—1l 一07)
+万方数据

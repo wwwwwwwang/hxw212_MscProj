@@ -1,0 +1,470 @@
+西南农业学报 
+Southwest China Journal of Agricultural Sciences 
+ISSN 1001-4829,CN 51-1213/S 
+ 
+ 
+ 
+ 
+《西南农业学报》网络首发论文 
+ 
+题目： 
+人参属 6 种药材的抗炎作用及其对 NF-κB 信号通路的影响 
+作者： 
+姜世丹，李璐茜，潘俊，唐美玲，朱泽娇，胡瑜，李益盛，曲媛 
+收稿日期： 
+2022-04-15 
+网络首发日期： 
+2023-06-15 
+引用格式： 
+姜世丹，李璐茜，潘俊，唐美玲，朱泽娇，胡瑜，李益盛，曲媛．人参属 6
+种药材的抗炎作用及其对 NF-κB 信号通路的影响[J/OL]．西南农业学报. 
+https://kns.cnki.net/kcms2/detail/51.1213.S.20230615.1208.004.html 
+ 
+ 
+ 
+ 
+ 
+ 
+网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、卷、期、页码均已确定的印刷或数字出版的整期汇编稿件。录用定稿网络首发稿件内容必须符合《出
+版管理条例》和《期刊出版管理规定》的有关规定；学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为；稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性，录用定稿一经发布，不得修改论文题目、作者、机构名称和学术内容，
+只可基于编辑规范进行少量文字的修改。 
+出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版）》电子杂志社有限公司签约，在《中国
+学术期刊（网络版）》出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式，在印刷
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版）》是国家新闻出
+版广电总局批准的网络连续型出版物（ISSN 2096-4188，CN 11-6037/Z），所以签约期刊的网络版上网络首
+发论文视为正式出版。 
+ 
+西南农业学报 2023, 36（6）：云南稿件 
+引用格式： 
+姜世丹，李璐茜，潘俊，唐美玲，朱泽娇，胡瑜，李益盛，曲媛. 人参属 6 种药材的抗炎作用及其对 NF-κB
+信号通路的影响[J]. 西南农业学报，2023，36（6）. 
+Jiang S D，Li L X，Pan J，Tang M L，Zhu Z J，Hu Y，Li Y S，Qu Y. Anti-inflammatory activities of six Panax 
+species and their effects on NF-κB signaling pathway[J]. Southwest China Journal of Agricultural Sciences，2023, 
+36(6). 
+ 
+收稿日期：2022 ‒ 04 ‒ 15 
+基金项目：云南省科技计划项目重大科技专项（202102AA100022、202002AA100004-3、2018ZF014）；云
+南省基础研究计划项目（202301AT070464） 
+第一作者：姜世丹（1997 ‒ ），女，在读硕士，研究方向为药物化学研究。E-mail: 1500242742@qq.com 
+通讯作者：曲  媛（1983 ‒ ），女，博士，副教授，主要从事中药质量控制研究。E-mail: quyuan@kust.edu.cn 
+人参属 6 种药材的抗炎作用及其对 NF-κB 信号通路的影响 
+姜世丹 1，李璐茜 1，潘  俊 2，唐美玲 1，朱泽娇 1，胡  瑜 1，李益盛 1，曲  媛 1 
+（1. 昆明理工大学生命科学与技术学院，昆明 650500；2. 云南省农业科学院农产品加工研究所，昆明 
+650221） 
+摘  要：【目的】比较 6 种不同人参属药材提取物的体内外抗炎活性差异，并探讨其抗炎活性机制。【方
+法】采用 CCK-8 法检测 RAW264.7 细胞活力，Griess 法检测 NO 释放，ELISA 法检测细胞分泌炎症因子情
+况，Western blot 法检测 NF-κB 信号通路中关键蛋白表达情况。采用二甲苯所致小鼠耳肿胀模型，检测耳肿
+胀度及 HE 染色的病理切片情况。【结果】在给药浓度为 0.02、0.2 mg/mL 时，6 种人参属药材提取物对
+RAW264.7 细胞活力无显著抑制作用（P > 0.05）。6 种人参属药材提取物在 0.2 mg/mL 浓度下均显著抑制
+LPS 诱导的 RAW264.7 细胞上清液中 NO 含量的升高（P ＜ 0.05 或 P ＜ 0.01 或 P ＜ 0.001），其中屏边
+三七抑制作用最强。与 LPS 组相比，6 种人参属药材提取物均显著降低细胞分泌的 TNF-α 含量（P ＜ 0.01
+或 P ＜ 0.001）。屏边三七组和竹节参组均显著逆转 LPS 诱导的细胞中 p-NF-κB、IκBα 蛋白表达量的升高；
+而珠子参组和竹节参组均显著抑制 NF-κB 蛋白表达。此外，6 种人参属药材提取物对二甲苯所致小鼠耳肿
+胀具有剂量依赖性抑制作用，其中屏边三七组、三七组、西洋参组及竹节参组对小鼠耳肿胀的抑制率分别
+为 91.11%、68.89%、82.22%、64.44%。小鼠耳组织 HE 染色结果表明，模型组小鼠耳组织出现明显结缔组
+织水肿，间隙增加及炎性细胞浸润。6 种人参属药材提取物组与模型组相比水肿反应和炎性细胞浸润减少，
+其中屏边三七改善效果最好。【结论】6 种人参属药材具有体内外抗炎作用，且活性存在差异，其机制作
+用可能与调节 NF-κB 信号通路相关。 
+关键词：人参属；炎症；耳肿胀；一氧化氮；TNF-α；NF-κB 
+中图分类号：S567          文献标识码：A 
+Anti-inflammatory activities of six Panax species and their effects on 
+NF-κB signaling pathway 
+JIANG Shi-dan1, LI Lu-xi1, PAN Jun2, TANG Mei-ling1, ZHU Ze-jiao1, HU Yu1, LI Yi-sheng1, QU Yuan1 
+(1. Faculty of Life Science and Technology, Kunming University of Science and Technology, Kunming 650500, 
+China; 2. Institute of Agro-products Processing, Yunnan Academy of Agricultural Sciences, Kunming 650221, 
+China) 
+Abstract:【Objective】This study aimed to compare the anti-inflammatory activities of six extracts from Panax 
+species in vitro and in vivo, and to explore the anti-inflammatory mechanism.【Method】The viability of 
+RAW264.7 cells was detected by CCK-8 method. NO release was detected by Griess method. The secretion of 
+inflammatory factors was detected by ELISA. The expressions of key proteins were detected by Western blot.
+【Result】At concentrations of 0.02 and 0.2 mg/mL, six extracts from Panax species showed no significant 
+inhibitory effect on RAW264.7 cell viability (P > 0.05). Six extracts significantly inhibited the increase of NO 
+content in the supernatant of RAW264.7 cells induced by LPS at a concentration of 0.2 mg/mL (P < 0.05 or P < 
+0.01 or P < 0.001), with Panax stipuleanatus having the strongest inhibitory effect. Compared with LPS group, six 
+网络首发时间：2023-06-15 17:48:11
+网络首发地址：https://kns.cnki.net/kcms2/detail/51.1213.S.20230615.1208.004.html
+extracts significantly reduced TNF-α content in cells (P < 0.01 or P < 0.001). Panax stipuleanatus group and 
+Panax japonicus group demonstrated obviously down-regulated p-NF-κB and IκBα protein expressions, while 
+Panax japlcus group and P. japonicus group significantly inhibited NF-κB protein expression. In addition, six 
+extracts showed dose-dependent inhibitory effect on xylene induced ear swelling in mice. The inhibitory rates of P. 
+stipuleanatus group, Panax notoginseng group, Panax quinquefolius group, and P. japonicus group on mouse ear 
+swelling were 91.11%, 68.89%, 82.22%, and 64.44%, respectively. The HE staining results of mouse ear tissue 
+showed that the model group showed significant connective tissue edema, increased gaps, and inflammatory cell 
+infiltration in the ear tissue. Compared with the model group, six extracts reduced edema reactions and 
+inflammatory cell infiltration, with P. stipuleanatus group having the best improvement effect. 【Conclusion】Six 
+Panax species have anti-inflammatory effects in vivo and in vitro, and there are differences in anti-inflammatory 
+activities. The mechanism may be related to the regulation of NF- κB signaling pathway. 
+Key words: Panax; Inflammation; Ear swelling; NO; TNF-α; NF-κB 
+ 
+【研究意义】炎症是宿主系统受损伤产生的抵御性反应，过度炎症会造成组织损伤及激
+发炎性疾病[1]。目前临床上甾体类和非甾体类抗炎药物尽管疗效确切，但不良反应严重[2]。
+中药具有多靶点、副作用小等特点，相比西药，在治疗炎症性疾病方面更有优势[3]。人参皂
+苷广泛存在于人参属多种植物中，具有显著抗炎作用[4]。因此，开发人参属药材用于治疗各
+类炎症性疾病具有重要意义。【前人研究进展】研究发现，人参、西洋参、三七中皂苷成分
+以四环三萜为主，包括人参皂苷 Rg1、人参皂苷 Re、人参皂苷 Rb1、人参皂苷 Rd 等[5 ‒ 9]；
+而珠子参、竹节参、屏边三七中皂苷成分以五环三萜为主，其中珠子参、竹节参中含人参皂
+苷 Ro、竹节参皂苷Ⅳa[10 ‒ 13]，屏边三七中含屏边三七皂苷 R1 和 R2[14]。人参具有滋阴补生、
+扶正固本、大补元气、复脉固脱、补脾益肺、生津养血、安神益智的功效[15 ‒ 16]；西洋参则
+以补益为主，可滋阴降火，益气生津[17]；珠子参具有补肺养阴、祛瘀止痛、止血的作用[18]；
+竹节参具有滋补强壮、散瘀止痛、止血祛痰之功效[19]；三七具有止血、散瘀、定痛的功效[20]；
+屏边三七具有强筋健骨、化瘀疗伤、定痛通络的功效[21]。【本研究切入点】研究表明，具
+有不同化学结构的人参皂苷在药理学和作用机制方面具有不同的效果[22]，但人参属药材抗
+炎活性的差异尚不清楚。【拟解决的关键问题】因此，文章比较 6 种人参属药材提取物对体
+内外抗炎作用的影响，并探讨其可能抑制 NF-κB 活化的机制，为人参属药材资源的合理开
+发与应用提供参考和依据。 
+1 材料与方法 
+1.1 试验动物与细胞株 
+SPF 级昆明小鼠，体重 18 ~ 22 g，雌雄均匀，于湖南长沙市天勤生物技术有限公司[动
+物许可证号 SCXK（湘）2014-0011]采购。小鼠巨噬细胞株 RAW264.7 购自中国科学院昆明
+细胞库。DMEM 培养基和胎牛血清购自美国 Gibco 公司；CCK-8 试剂盒购自上海碧云天公
+司；脂多糖（LPS）购自北京索莱宝科技有限公司；NF-κB、p-NF-κB、IκB-α、β-actin 抗体
+均购自英国 Abcam 公司；BCA 蛋白定量试剂盒购自北京兰杰柯科技有限公司；TNF-α ELISA
+试剂盒购自上海酶联生物科技有限公司；ECL 显影试剂盒和 NO 试剂盒均购自南京建成。
+其他所有试剂均为国产分析纯。 
+人参、三七、西洋参、珠子参、竹节参及屏边三七于 2017 年 10 月分别采集或购买于黑
+龙江抚松市、云南省文山市、美国威斯康辛州、云南省丽江市、四川省乐山市及云南省屏边
+县，经昆明理工大学生命科学与技术学院崔秀明研究员鉴定分别为五加科人参属人参
+（Panax ginseng C. A. Meyer）的干燥主根、三七（Panax notoginseng F. H. Chen）的干燥主根、
+西洋参（Panax quinquefolius L.）的干燥主根、珠子参[Panax japlcus C. A. Mey. var. major 
+(Burk.) C. Y. Wu et K. M Feng]的干燥主根及根茎、竹节参（Panax japonicus C. A. Mey）的干
+燥主根及根茎、屏边三七（Panax stipuleanatus H. T. Tsai et K. M. Feng）的干燥主根及根茎。 
+1.2 仪器 
+UPT-I-20T 超纯水器（成都超纯科技有限公司）；BL10-250A 超声清洗机（上海比朗有
+限公司）；AX124ZH 型电子分析天平（上海奥豪斯仪器有限公司）；TD25-WS 台式低速
+离心机（湖南湘仪实验室仪器开发有限公司）。SW-CJ-ZFD 型超净工作台（苏州安泰空气
+技术有限公司）；CO2 培养箱（天美科学仪器有限公司）；倒置显微镜（日本奥林巴斯公司）；
+YXQ-LS-100SII 灭菌器（上海博讯实业有限公司）；全血仪（泰安市康宇医疗器械有限公司）。 
+1.3 提取物的制备   
+将人参、三七、珠子参、竹节参、西洋参及屏边三七药材分别粉碎，过 60 目筛。称取
+6 种人参属药材粉末各 10 g 置于锥形瓶，加入 100 mL 70%甲醇，室温下超声提取 30 min，
+离心静置取上清，药渣重复提取 2 次，合并提取液，减压浓缩分别得到人参、三七、珠子参、
+竹节参、西洋参及屏边三七提取物[23]。 
+1.4 体外抗炎活性研究 
+1.4.1 细胞培养 
+将 RAW264.7 细胞用完全 DMEM 高糖培养基，在 37 ℃、5%CO2 培养箱中培养。 
+1.4.2 细胞活力检测 
+将 RAW264.7 细胞以 1×105 个/mL 的密度接种至 96 孔板中，100 μL/well，设置空白组
+（培养基）、对照组（细胞+培养基）、LPS 组（0.1 g/mL）、6 种人参属药材提取物组（0.02、
+0.2 mg/mL），复孔每组 3 个，进行药物处理 12 h 后弃去培养基，CCK-8 溶液 10 μL/孔，培
+养箱反应 1 h，酶标仪测定吸光度（450 nm）（A）值，计算细胞存活率。按公式（1）计算：
+细胞存活率（%）=［（A 试验组－A 空白组）/（A 对照组－A 空白组）］×100      （1） 
+Griess 法测定一氧化氮（NO）含量：RAW264.7 细胞悬液按照 1×105 个/mL 的密度接种
+于 96 孔板，不同浓度(0.02、0.2 mg/mL)的 6 种人参属提取物处理 2 h 后，加入 LPS 孵育 12 
+h，设置对照组(细胞+培养基)、LPS 组、L-单甲基-精氨酸（L-NMMA）组、LPS+6 种人参
+属药材提取物组，每组 3 个复孔，按照 Griess 试剂盒操作步骤测定 NO 含量。 
+ELISA 法测定肿瘤坏死因子-α（TNF-α）含量：试验设计与处理同 1.4.2.3。用 ELISA 法
+检测 6 种人参属药材提取物对 RAW264.7 细胞分泌 TNF-α 的影响[24]。 
+1.5 体内抗炎活性研究 
+1.5.1 6 种人参属药材提取物对二甲苯致小鼠耳肿胀的影响试验 
+取昆明种小鼠 150 只，适应性喂养 3 d。随机分 15 组，每组 10 只，即对照组、模型组、
+阳性组（醋酸地塞米松，10 mg/kg）；6 种人参属药材提取物低、高剂量组（200 mg/kg、400 
+mg/kg）。每日灌胃给药 1 次，连续给药 14 d，正常对照组和模型组给予相应体积生理盐水。
+末次给药 0.5 h 后，除空白组外，其他组使用 30 μL 二甲苯涂抹小鼠右耳致炎，造成急性耳
+肿胀模型。1 h 后采用颈部脱臼法处死小鼠。沿耳廓将小鼠两耳分别剪下，打孔器在两耳相
+同的位置打下圆耳片，精密称重（mg），计算小鼠耳肿胀度和肿胀抑制率。按公式（2）、
+（3）计算： 
+    肿胀度（mg）=致炎后右耳片质量（mg）-左耳片质量（mg）    （2） 
+    抑制率（%）=（模型组耳肿胀度－给药组耳肿胀度）/模型组耳肿胀度×100    （3） 
+1.5.2 苏木精-伊红(HE)染色法观察小鼠右耳组织病理学变化试验 
+采用 HE 染色观察，取小鼠右耳组织于 10%中性甲醛中固定，经脱水、石蜡包埋、切片、
+HE 染色，在光镜下观察耳病理组织学改变。 
+1.5.3 Western blot 法检测 NF-κB 信号通路的相关蛋白表达 
+将细胞以 3×106 个/well 的密度接种至 6 孔板进行培养。处理结束后。用细胞刮收集细
+胞，加入 50 μL 细胞裂解液裂解 30 min 以提取细胞中的蛋白。将提取的总蛋白进行 BCA 蛋
+白定量，定量后根据结果将蛋白浓度调节至相同含量制备上样蛋白。然后使用 SDS-PAGE
+分离蛋白，将分离的蛋白转移到聚偏氟乙烯（PVDF）膜上。用 5%脱脂牛奶封闭 2 h，再用
+TBST 缓冲液清洗 PVDF 膜，然后以 β-actin 作为内参，IκB-α、NF-κB 和 p-NF-κB 在 4 ℃孵
+育过夜。HPR 偶联抗体在 37 ℃下孵育 1 h。最后，采用增强的 ECL 溶液显示蛋白条带并记
+录图像，使用 Image J 软件对收集到的蛋白图像进行处理，定量分析蛋白表达量。 
+1.6 数据处理与分析 
+试验结果以 Mean ± SD 差表示，采用 SPSS Statistics 19.0 统计软件进行单因素方差分析。 
+2 结果与分析 
+2.1 药材的化学成分比较 
+人参属药材主要包括人参、西洋参、三七、珠子参、竹节参、屏边三七等，各种药材的
+外观形态差异较大，如图 1 所示。人参、西洋参和三七的主要成分是原人参二醇型和原人参
+三醇型四环三萜皂苷；珠子参和竹节参含有四环三萜和五环三萜皂苷；而屏边三七仅含有五
+环三萜皂苷，如表 1 所示。人参皂苷 Rg1、Re、Rb1、Rc、Rb2、Rd 为人参和西洋参的主要
+成分；三七皂苷 R1、人参皂苷 Rg1、Re、Rb1、Rd 为三七的主要成分；人参皂苷 Rb1、人参
+皂苷 Ro、竹节参皂苷Ⅳa 是珠子参和竹节参的主要成分；屏边三七 R1 和 R2 是屏边三七的主
+要成分。人参皂苷在人参属药材中的含量有所不同，其中原人参二醇型人参皂苷 Rb1 的含量，
+西洋参＞三七＞人参＞竹节参＞珠子参；原人参三醇型人参皂苷 Rg1 的含量，三七＞人参＞
+竹节参＞西洋参＞珠子参。 
+ 
+A：屏边三七；B：三七；C：珠子参；D：人参；E：西洋参；F：竹节参 
+A: P. stipuleanatus; B: P. notoginseng; C: P. japlcus; D: P. ginseng; E: P. quinquefolius; F: P. japonicus 
+图 1 药材样品的外观 
+Fig. 1 Appearance of six samples       
+表 1 6 种药材中主要成分及其含量分析 
+Table 1 Analysis of main components and their contents in six samples         
+样品名称 
+Sample name 
+主要成分 
+Main components 
+文献 
+Reference 
+三七 
+P. notoginseng 
+三七皂苷 R1(0.16%~0.64%)、人参皂苷 Rg1(2.46%~3.82%)、人参皂苷 Re(0.58%~1.54%)、人参
+皂苷 Rb1(2.21%~3.15%)、人参皂苷 Rd(0.72%~1.25%) 
+[5,6] 
+人参 
+人参皂苷 Rg1(0.87%)、人参皂苷 Re(0.67%)、人参皂苷 Rb1(0.67%)、人参皂苷 Rc(0.38%)、人
+参皂苷 Rb2(0.67%)、人参皂苷 Rb3(0.21%)、人参皂苷 Rd(0.18%) 
+[7,8] 
+P. ginseng 
+西洋参 
+P.quinquefolius 
+人参皂苷 Rg1(0.08%~0.14%)、人参皂苷 Re(0.98%~1.39%)、人参皂苷 Rb1(1.71%~2.51%)、人
+参皂苷 Rc(0.17%~0.20%)、人参皂苷 Rb2(0.10%~0.11%)、人参皂苷 Rd(0.15%~0.19%) 
+[8,9] 
+珠子参 
+P.japlcus 
+人参皂苷 Rb1(0.14%~0.16%)、人参皂苷 Rd(0.35%~0.39%)、人参皂苷 Ro(5.05%~9.35%)、竹节
+参皂苷Ⅳa(2.25%~4.57%) 
+[10,11] 
+竹节参 
+P.japonicus 
+人参皂苷 Rg1(0.31%~0.42%)、人参皂苷 Re(0.38%~0.47%)、人参皂苷 Rb1(0.07%~0.42%)、人
+参皂苷 Ro(3.11%~3.41%)、竹节参皂苷Ⅳa(0.31%~3.41%) 
+[12,13] 
+屏边三七 
+P.stipuleanatus 
+屏边三七皂苷 R1（0.13%~0.46%）、屏边三七皂苷 R2（0.77%~5.95%） 
+[14] 
+ 
+2.2 药材提取物对 RAW264.7 细胞存活率的影响 
+试验采用 CCK-8 法测定了 6 种人参属药材提取物对 RAW264.7 细胞活力的影响。如图
+2 所示，6 种人参属药材提取物在 0.02、0.2 mg/mL 浓度下的细胞存活率与对照组相比差异
+不显著（P>0.5）。 
+ 
+图 2 不同处理的细胞存活率 
+Fig. 2 The survival rate of cells under different treatments 
+2.3 药材提取物对 LPS 诱导 RAW264.7 细胞释放 NO 的影响 
+如图3 所示，与对照组相比，LPS组RAW264.7 细胞分泌的NO含量显著增加（P＜0.001）。
+与 LPS 组相比，当给药浓度为 0.02 mg/mL 时，NO 合成酶抑制剂 L-单甲基-精氨酸（L-NMMA）
+组、给药屏边三七组、珠子参组、人参组可显著抑制 NO 的释放量（P＜0.05 或 P＜0.01 或
+P＜0.001），而三七组、西洋参组、竹节参组与之相比则无显著差异。与 LPS 组比较，当
+浓度为 0.20 mg/mL 时，6 种人参属药材提取物对 NO 的释放均有显著抑制作用（P＜0.05 或
+P＜0.01 或 P＜0.001）。由此表明，6 种人参属药材提取物对 LPS 诱导 RAW264.7 细胞 NO
+的释放均有抑制作用，抑制效果：屏边三七＞人参＞珠子参＞西洋参＞竹节参＞三七。 
+ 
+与对照组比较，△ △ △ 表示 P < 0.001；与模型组比较：*表示 P < 0.05，**表示 P< 0.01，***表示 P < 0.001 
+Compared with the control group, △ △ △ represents P ＜ 0.001. Compared with model group, * represents P < 0.05, ** 
+represents P < 0.01, and *** represents P< 0.001 
+图 3 不同处理细胞 NO 释放量  
+Fig. 3 NO release from cells under different treatments 
+2.4 药材提取物对 LPS 诱导 RAW264.7 细胞中 TNF-α 分泌量的影响 
+如图 4 所示，与对照组相比，LPS 组可显著增加 RAW264.7 细胞分泌的 TNF-α 含量（P
+＜0.01）。当给药浓度为 0.02、0.20 mg/mL 时，6 种人参属药材提取物与 LPS 组相比均可显
+著降低 RAW264.7 细胞分泌的 TNF-α 含量（P＜0.01，P＜0.001）。 
+ 
+与对照组比较，△ △ 表示 P < 0.01；与模型组比较，**表示 P < 0.01，***表示 P < 0.001 
+ Compared with the control group, △ △  represents P < 0.01. compared with model group, ** represents P < 0.01, and *** 
+represents P < 0.001 
+图 4 不同处理细胞的 TNF-α 分泌量 
+Fig. 4 TNF-α secretion of cells under different treatments 
+ 
+2.5 药材提取物对二甲苯致小鼠耳肿胀的影响 
+如表 2 所示，与模型组相比，阳性组（地塞米松）可以显著抑制二甲苯诱导的小鼠耳肿
+胀，抑制率为 63.33%（P ＜ 0.001）。与模型组相比，6 种人参属药材提取物（400 mg/kg）
+对二甲苯诱导的小鼠耳肿胀均有抑制作用，其中屏边三七组、三七组、西洋参组及竹节参组
+的抑制率强于阳性组，分别为 91.11%、68.89%、82.22%、64.44%。结果显示，6 种人参属
+药材提取物对二甲苯诱导的小鼠耳肿胀具有抑制作用且呈剂量依赖性，其抑制作用强弱为：
+屏边三七＞西洋参＞三七＞竹节参＞人参＞珠子参。 
+表 2 6 种提取物对二甲苯所致小鼠耳肿胀的影响 
+Table 2 Effect of six extracts on ear swelling in mice induced by xylene  
+组别 
+Group 
+剂量 
+(mg/kg) 
+Dose 
+肿胀度 (mg) 
+Swelling degree 
+抑制率 (%) 
+Inhibition rate 
+模型组 
+Model group 
+- 
+15.01±2.16 
+- 
+阳性组（地塞米松） 
+Positive group 
+10 
+5.50±3.56*** 
+63.33 
+屏边三七组 
+P. stipuleanatus group 
+200 
+10.02±1.00* 
+33.33 
+400 
+1.33±0.58*** 
+91.11 
+三七组 
+P. notoginseng group 
+200 
+11.67±1.15 
+22.22 
+400 
+4.67±0.58*** 
+68.89 
+珠子参组 
+P. japlcus group 
+200 
+10.67±2.52* 
+28.89 
+400 
+9.67±1.15* 
+35.56 
+人参组 
+P. ginseng group 
+200 
+12.01±1.00 
+20.00 
+400 
+8.67±0.58** 
+42.22 
+西洋参组 
+P. quinquefolius group 
+200 
+8.67±4.16** 
+42.22 
+400 
+2.67±0.58*** 
+82.22 
+竹节参组 
+P. japonicus group 
+200 
+6.03±3.61*** 
+60.00 
+400 
+5.33±5.51*** 
+64.44 
+注：与模型组比较，*表示 P < 0.05，**表示 P < 0.01，***表示 P < 0.001 
+Note: compared with model group, * represents P < 0.05, ** represents P < 0.01, and *** represents P < 0.001 
+2.6 药材提取物对二甲苯致小鼠耳肿胀耳组织病理结构改变的影响 
+从图 5 中耳组织 HE 染色结果可以看出，与对照组相比，模型组小鼠耳组织出现明显真
+皮结缔组织水肿，间隙增加及炎性细胞浸润。阳性组耳组织结构基本完整，水肿反应较模型
+组减轻。6 种人参属药材提取物组较模型组水肿反应和炎性细胞浸润减少；屏边三七组较其
+他给药组水肿反应和炎性细胞浸润最轻，与阳性组相近。 
+2.7 药材提取物对 LPS 诱导 RAW264.7 细胞中 NF-κB 信号通路上相关蛋白表达的影响 
+如图 6 所示，与对照组相比，LPS 模型组 p-NF-κB、IκBα 蛋白表达升高，而 NF-κB 蛋
+白表达变化不大。与 LPS 组比较，屏边三七组和竹节参组能显著抑制 p-NF-κB、IκBα 蛋白
+表达；珠子参组和竹节参组能显著抑制 NF-κB 蛋白表达。 
+ 
+ 
+ 
+A：对照组；B：模型组；C：阳性组；D：屏边三七组；E：三七组；F：珠子参组；G：人参组；H：西洋参组；I：竹节参组； 
+1：耳组织的厚度；2：炎性细胞 
+A: Control group; B: Model group; C: Positive group; D: P. stipuleanatus group; E: P. notoginseng group; F: P. japlcus group; G: P. 
+ginseng group; H: P. quinquefolius group; I: P. japonicus group; 1: Thickness of ear tissue; 2: Inflammatory cells 
+图 5 不同处理小鼠耳肿胀耳组织病理结构 
+Fig. 5 Pathological structure of swelling ear tissue in mice under different treatments  
+ 
+a：L-NMMA 为阳性对照（20 g/mL） 
+a: L-NMMA is the positive control (20 g/mL) 
+图 6 不同处理细胞中 NF-κB 信号通路上相关蛋白表达情况 
+Fig.6 Expression of related proteins on signal pathway of NF-κB in cells under different 
+treatments 
+3 讨论 
+炎症是一种多种细胞因子与趋化因子参与的动态发生过程，同时也伴随一系列基础的生
+理与病理过程。巨噬细胞是主要的炎性细胞，RAW264.7 细胞是单核巨噬细胞的种类之一， 
+是机体免疫过程中的重要角色，尤其是受到脂多糖(LPS)等刺激后导致体内炎症介质的产生，
+机体启动抵御机制从而抑制炎症的继续发生[25]。NF-κB 是参与多种炎症性疾病免疫反应介
+质和关键调节因子表达的转录因子，在产生促炎因子包括 NO、前列腺素 E2(PEG2)、白细
+胞介素(IL)-6、TNF-α、诱导型一氧化氮合酶(INOS)和环氧合酶-2(COX-2)中起关键作用[26]。
+因此，针对性抑制 NF-κB 的活化对于开发有效的炎症治疗方法十分重要。 
+本研究采用不同剂量的 6 种人参属药材提取物处理 RAW264.7 细胞，发现在 0.02、0.2 
+mg/mL 时，均对细胞活力无明显抑制作用。单核巨噬细胞在 LPS 刺激下，在炎症反应中产
+生过量的炎症介质，如 NO 和 TNF-α。过度的炎症使身体过度暴露于炎症介质，导致细胞坏
+死、组织损伤和变性，从而加重炎症[27]。6 种人参属药材提取物对 LPS 诱导 RAW264.7 细
+胞 NO 的释放均有抑制作用，其中屏边三七＞人参＞珠子参＞西洋参＞竹节参＞三七。采用
+ELISA 法检测 LPS 和 6 种人参属药材提取物共同处理 24 h 后 RAW264.7 细胞中 TNF-α 分泌，
+发现 6 种人参属药材提取物与 LPS 组相比均可显著降低 RAW264.7 细胞分泌的 TNF-α 含量。
+NF-κB 是炎症反应中的关键转录因子，外界 LPS 刺激后，IκB 产生磷酸化反应并降解，导致
+NF-κB、IκB 发生解离并转移至核内，参与调节细胞因子、趋化因子表达及炎症反应[28]。采
+用 Western blot 法对此通路相关蛋白的表达进行分析，发现屏边三七组和竹节参组能显著下
+调 p-NF-κB、IκBα 蛋白表达，表明屏边三七和竹节参可通过抑制 p-NF-κB、IκBα 蛋白，从
+而减少 NF-κB 核转位。同时，本研究采用二甲苯所致小鼠耳肿胀炎症模型评价 6 种人参属
+药材提取物的体内抗炎活性，结果表明 6 种人参属药材提取物对小鼠耳肿胀具有剂量依赖性
+抑制作用，明显减少耳组织真皮结缔组织水肿及炎性细胞浸润，其中屏边三七抗炎效果最好。
+这一结果可能是由于人参属药材中的共有成分人参皂苷直接抑制皮肤组织中活化的巨噬细
+胞有关引起[29]。 
+4 结论 
+6 种人参属药材提取物不同程度地减少炎性介质 NO 的释放，抑制促炎因子 TNF-α 的释
+放，抑制 p-NF-κB、IκBα 蛋白的表达，减少 NF-κB 的活化，从而达到抗炎的效果。 
+参考文献： 
+[1]  Medzhitov R. Origin and physiological roles of inflammation[J]. Nature, 2008, 454(7203): 
+428 ‒ 435. 
+[2] Dona I, Salas M, Perkins J R, et al. Hypersensitivity reactions to non-steroidal 
+anti-inflammatory drugs[J]. Current Pharmaceutical Design, 2016, 22(45): 6784 ‒ 6802. 
+[3] Tasneem S, Liu B, Li B, et al. Molecular pharmacology of inflammation: Medicinal plants as 
+anti-inflammatory agents[J]. Pharmacological Research, 2019, 139:126 ‒ 140. 
+[4] Kim J H, Yi Y S, Kim M Y, et al. Role of ginsenosides, the main active components of Panax 
+ginseng, in inflammatory responses and diseases[J]. Journal of Ginseng Research, 2017, 41(4):435 
+‒ 443.  
+[5] Dong T X, Cui X M, Zong H S, et al. Chemical assessment of roots of Panax notoginseng in 
+China: regional and seasonal variations in its active constituents.[J]. Journal of Agricultural & 
+Food Chemistry, 2003, 51(16):4617 ‒ 4623. 
+[6] 李秋雨, 边丽华, 王晓玫, 等. 不同商品规格三七止血功效的谱效关系研究[J]. 中国中药
+杂志, 2021, 46:1 ‒ 14. 
+[7] Wei S, Wang Y, Li J, et al. Investigation of ginsenosides in different parts and ages of Panax 
+ginseng[J]. Food Chemistry, 2007, 102(3):664 ‒ 668. 
+[8] Chen C F, Chiou W F, Zhang J T. Comparison of the pharmacological effects of Panax ginseng 
+and Panax quinquefolium[J]. Acta Pharmacologica Sinica, 2008, 29(9):1103 ‒ 1108. 
+[9] 杨  洋, 赵大庆, 李佳奇, 等. 基于指纹图谱结合化学计量法对不同干燥方式下西洋参
+皂苷类成分的分析[J]. 中华中医药学刊, 2021, 39(3):1 ‒ 7. 
+[10] 刘妍如, 史鑫波, 陈永琴, 等. HPLC-ESI-MS/MS 法同时测定珠子参中 15 种皂苷类化合
+物[J]. 中草药, 2016, 47(19): 3502 ‒ 3507. 
+[11] 宋小妹, 房  方, 蔡  皓, 等. 珠子参饮片质量标准研究[J]. 中成药, 2010, 32(5): 800 ‒ 
+803. 
+[12] 徐  怡, 张晓南, 苏  钛, 等. 竹节参中皂苷含量测定方法的建立[J]. 云南中医中药杂
+志, 2020, 41(1): 67 ‒ 71. 
+[13] 谭诗涵, 伍红年, 雷雅婷, 等. 一测多评法测定竹节参中 7 种皂苷类成分的含量[J]. 中
+草药, 2019, 50(17): 4164 ‒ 4169. 
+[14] Shu P P, Li L X, He Q M, et al. Identification and quantification of oleanane triterpenoid 
+saponins and potential analgesic and anti-inflammatory activities from the roots and rhizomes of 
+Panax stipuleanatus[J]. Journal of Ginseng Research, 2020, 45(2):305 ‒ 315. 
+[15] 卢丞文, 赵媛颖, 刘英加雯, 等. 人参皂甙药理活性的研究进展[J]. 农业与技术, 2014, 
+34(11): 11. 
+[16] 熊晨阳, 许明良, 易  帆, 等. 人参不同部位主要活性成分及其在美容护肤方面的研究
+进展[J]. 日用化学工业, 2019, 49(3): 193 ‒ 198. 
+[17] 林红强, 李平亚, 刘金平. 野生西洋参鉴别､化学成分及药理作用研究进展[J]. 天然产
+物研究与开发, 2017, 29(12): 2157 ‒ 2162. 
+[18] 王  丽, 苏  钛, 侯安国. 珠子参的化学成分及药理作用研究进展[J]. 中国中医基础医
+学杂志, 2020, 26(7): 1037 ‒ 1040. 
+[19] 王  薇, 郭  琳, 冯改利, 等. 竹节参与珠子参质量比较研究[J].西北大学学报(自然科
+学版), 2010, 40(5): 833 ‒ 836. 
+[20] 庞会婷, 罗朵生, 郭  姣. 三七化学成分分析及其抗炎机制的网络药理学探讨[J]. 中草
+药, 2020, 51(21): 5538 ‒ 5547. 
+[21] Liang C, Ding Y, Song S B, et al. Oleanane-triterpenoids from Panax stipuleanatus inhibit 
+NF-kappa B [J]. Journal of Ginseng Research, 2013, 37(1): 74-79. 
+[22] 刘  博, 俞  婷, 韩晓蕾, 等. 人参皂苷抗炎作用及其分子机制的研究进展[J]. 中国药
+学杂志, 2019, 54(4): 253 ‒ 258. 
+[23] 舒盼盼, 朱鹏飞, 杨鑫龙, 等. 6种人参属药材体外抗凝血活性与皂苷含量的相关性研究
+[J]. 中草药, 2019, 50(4): 918 ‒ 924. 
+[24] Yi G F, Li H, Liu M L, et al. Soybean protein-derived peptides inhibit inflammation in 
+LPS-induced RAW264.7 macrophages via the suppression of TLR4-mediated MAPK-JNK and 
+NF-kappa B activation[J]. Journal of Food Biochemistry, 2020, 44(8):e13289. 
+[25] Raetz C R, Whitfield C. Lipopolysaccharide endotoxins[J]. Annual Review of Biochemistry, 
+2002, 71: 635 ‒ 700. 
+[26] Ahn S, Singh P, Castro-Aceituno V, et al. Gold nanoparticles synthesized using Panax 
+ginseng leaves suppress inflammatory-mediators production via blockade of NF-κB activation in 
+macrophages[J]. Artificial Cells Nanomedicine & Biotechnology, 2017, 45(2):270 ‒ 276. 
+[27] Peng X X, Zhang S H, Wang X L, et al. Panax notoginseng flower saponins (PNFS) inhibit 
+LPS-stimulated NO overproduction and iNOS gene overexpression via the suppression of 
+TLR4-mediated MAPK/NF-kappa B signaling pathways in RAW264.7 macrophages[J]. Chinese 
+Medicine,2015,10(1): 15. 
+[28] 任改艳, 张步有, 黄剑林. 槲皮素对 LPS 诱导小鼠 RAW264.7 细胞炎症的保护作用[J].
+中成药, 2019, 41(8): 1795 ‒ 1799. 
+[29] Ji Y L, Yoo J M, Baek S Y, et al. Anti-dermatitic effect of fermented ginseng extract including 
+rich compound K through inhibiting activation of macrophage[J]. Food Science and 
+Biotechnology, 2019, 28(6): 1845 ‒ 1852. 
+                                                                  （责任编辑  李山云） 
+ 

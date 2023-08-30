@@ -1,0 +1,568 @@
+生物技术进展
+生物技术进展 2022 年
+第 12 卷
+第 3 期
+446~451
+Current Biotechnology
+ISSN 2095‑2341
+􀤛􀤛
+􀤛􀤛􀤛􀤛
+􀤛􀤛
+􀤛􀤛􀤛􀤛
+研究论文
+研究论文
+Articles
+人参皂苷 Rg1 对阿尔茨海默症大鼠 BDNF⁃TrkB 信号通路的
+影响
+陈晓光1 ， 潘晓峰1 ， 王帆2 ， 潘宋斌1*
+1.武汉市第一医院 （武汉市中西医结合医院） 神经内科，武汉 430022；
+2.武汉市第一医院 （武汉市中西医结合医院） 老年病科，武汉 430022
+摘
+要：为了探究人参皂苷Rg1对阿尔茨海默症（Alzheimer's disease, AD）大鼠模型脑源性神经营养因子/酪氨酸激酶受体
+B（BDNF-TrkB）信号通路的影响，选取 75 只 SD 大鼠随机分为空白对照组、模型组、低剂量 Rg1 组、中剂量 Rg1 组及高剂量
+Rg1组，每组15只。取各组大鼠脑组织制备脑片，除空白对照组外，其他组加入Aβ1-42试剂制备AD模型，低剂量Rg1组、中
+剂量Rg1组和高剂量Rg1组分别使用60、120、240 μmol·L
+−1 Rg1处理。采用HE染色观察脑组织病理损伤，TUNEL染色检测
+脑组织细胞凋亡，比色法测定脑片中乙酰胆碱（acetylcholine，Ach）、5-羟色胺（5-hydroxytryptamine，5-HT）水平和乙酰胆碱酯
+酶（acetylcholinesterase，TChE）活力，蛋白质印迹法检测各组脑片中切割后半胱氨酸蛋白酶-3（Cleaved Caspase-3）、B淋巴细
+胞瘤-2（B cell lymphoma-2，Bcl-2）、Bcl-2相关蛋白X（Bcl-2 associated X protein，Bax）及BDNF-TrkB信号通路相关蛋白表达情
+况。与空白对照组相比，模型组脑组织细胞凋亡数、Cleaved Caspase-3、Bax/Bcl-2及 TChE水平显著增加，5-HT、Ach、BDNF
+及 TrkB 蛋白表达量显著降低（P<0.05）；与模型组相比，低剂量 Rg1 组、中剂量 Rg1 组和高剂量 Rg1 组脑组织细胞凋亡数、
+Cleaved Caspase-3、Bax/Bcl-2及TChE水平显著降低，5-HT、Ach、BDNF及TrkB蛋白表达量显著增加（P<0.05），且具有剂量依
+赖性。人参皂苷Rg1可有效保护阿尔茨海默症模型大鼠脑组织，抑制神经细胞凋亡，其作用机制可能与激活BDNF-TrkB信
+号通路相关。通过分析人参皂苷Rg1对AD大鼠模型的保护机制，以期为人参皂苷Rg1用于治疗AD奠定理论基础。
+关键词：阿尔茨海默症；人参皂苷Rg1；细胞凋亡；BDNF-TrkB信号通路
+DOI：10.19586/j.2095⁃2341.2021.0183
+中图分类号：R285.5
+文献标志码：A
+Effects of Ginsenoside Rg1 on BDNF-TrkB Signaling Pathways in Rats with
+Alzheimer′s Disease
+CHEN Xiaoguang1 ，PAN Xiaofeng1 ，WANG Fan2 ，PAN Songbin1*
+1.Department of Neurology，Wuhan No.1 Hospital（Wuhan Hospital of Integrated Traditional Chinese Medicine and Western Medicine），Wuhan
+430022，China；
+2.Department of Geriatric，Wuhan No.1 Hospital（Wuhan Hospital of Integrated Traditional Chinese Medicine and Western Medicine），Wuhan
+430022，China
+Abstract：The aim of the study is to explore the effects of ginsenoside Rg1 on brain-derived neurotrophic factor/tyrosine kinase re‐
+ceptor B（BDNF-TrkB）signaling pathways in rats with Alzheimer's disease（AD）. A total of 75 SD rats were enrolled and ran‐
+domly divided into blank control group，model group，low-dose Rg1 group，medium-dose Rg1 group and high-dose Rg1 group，
+with 15 rats in each group. The brain tissues in each group were collected to prepare brain slices. Except blank control group，Aβ
+1-42 reagent was added into each group to prepare AD models. The low-dose Rg1 group，medium-dose Rg1 group and high-dose
+Rg group were treated with 60，120 and 240 μmol·L
+−1 Rg1，respectively. The pathological damage of brain tissues was observed
+by HE staining. The apoptosis of brain tissues was detected by TUNEL staining. The levels of acetylcholine（Ach）and 5-hydroxy‐
+tryptamine（5-HT），and activity of acetylcholinesterase（TChE）in brain slices were detected by colorimetry. The expressions of
+收稿日期：2021‐11‐15；接受日期：2021‐12‐16
+基金项目：湖北省自然科学基金项目（2011CDB299）；湖北省卫生和计划生育委员会项目（201742）。
+联系方式：陈晓光 E-mail：a1980we12@163.com；* 通信作者 潘宋斌 E-mail：qza2018g@163.com
+陈晓光，等：人参皂苷Rg1对阿尔茨海默症大鼠BDNF‐TrkB信号通路的影响
+cleaved cysteine proteinase-3（Cleaved Caspase-3），B cell lymphoma-2（Bcl-2），Bcl-2 associated X protein（Bax）and BDNF-
+TrkB signaling pathway related proteins in brain slices were detected by Western blot. Compared with blank control group，the
+number of brain tissues apoptosis，levels of Cleaved Caspase-3，Bax/Bcl-2 and TChE were significantly increased in model
+group，and 5-HT，Ach，BDNF and TrkB were significantly decreased in model group（P<0.05）. Compared with model group，
+the number of brain tissues apoptosis，levels of Cleaved Caspase-3，Bax/Bcl-2 and TChE were significantly decreased in low-
+dose group，medium-dose group and high-dose Rg1 group，and 5-HT，Ach，BDNF and TrkB were significantly increased in low-
+dose group，medium-dose group and high-dose Rg1 group（P<0.05），which showing concentration-dependence. Ginsenoside
+Rg1 can effectively protect the brain tissue of AD rats and inhibit neuron apoptosis，which the mechanism of action may be relat‐
+ed to activating BDNF-TrkB signaling pathways. By analyzing the protective mechanism of ginsenoside Rg1 on AD rat model，the
+paper was expected to lay a theoretical foundation for the use of ginsenoside Rg1 in the treatment of AD in this study.
+Key words：Alzheimer's disease；ginsenoside Rg1；apoptosis；BDNF-TrkB signaling pathway
+阿尔茨海默症（Alzheimer's disease，AD）是老
+年人群中的常见疾病，又称老年痴呆，临床表现为
+记忆能力减退并伴随反应迟钝、理解能力下降
+等
+［1］。目前，AD 的发病机制尚未完全明确，临床
+仍缺乏疗效确切的治疗方法及药物。人参皂苷
+Rg1 是人参的有效成分，具有保护神经功能、抗衰
+老等作用，其也是 AD 领域研究最多、最具代表性
+的成分之一
+［2-3］。脑源性神经营养因子（brain-de‐
+rived neurotrophic factor，BDNF）是中枢神经系统
+中的神经营养因子，可与酪氨酸激酶受体 B（tyro‐
+sine kinase receptor B，TrkB）结合，调控神经元的
+生长、分化及突触的形成等过程
+［4］。近年来，多项
+研究表明，激活 BDNF-TrkB 信号通路将有助于改
+善AD
+［5-6］。但目前关于Rg1改善AD的分子机制尚
+未统一，本研究旨在从 BDNF-TrkB 信号通路的角
+度，分析人参皂苷Rg1对AD大鼠模型的保护机制，
+以期为人参皂苷Rg1用于治疗AD奠定理论基础。
+1
+材料与方法
+1.1
+材料
+1.1.1
+试验动物
+选取 75 只雄性 SPF 级 6 周龄
+SD 大鼠作为研究对象，平均体质量为 250±30 g，
+均购自西安交通大学医学部动物实验中心，许可
+证号：SYXK（陕）2018-001。本试验经动物伦理委
+员会审核批准且严格遵循动物试验减少（reduc‐
+tion）、优化（refinement）和替代（replacement）-3R
+原则。
+1.1.2
+药物与试剂
+Aβ1-42 试剂购自美国 SIG‐
+MA 公司；人参皂苷 Rg1（货号：GD-GSJ125-585；纯
+度>98%）购自逊希公司；乙酰胆碱（acetylcholine，
+Ach）试 剂 盒 、5- 羟 色 胺（5-hydroxytryptamine，
+5-HT）试剂盒、乙酰胆碱酯酶（total cholinesterase，
+TChE）试剂盒均购自江莱生物有限公司；TUNEL
+染色试剂盒购自瑞士 Roche 公司；切割后半胱氨
+酸 蛋 白 酶 -3（Cleaved Caspase-3）抗 体（货 号 ：
+sc-9661）、B 淋巴细胞瘤-2 抗体（B lymphocytoma-
+2，Bcl-2，货号：sc-15071）、Bcl-2 相关蛋白 X 抗体
+（Bcl-2 associated protein X，Bax，货号：sc-5023），
+脑源性神经营养因子（brain-derived neurotrophic
+factor，BDNF，抗体货号：sc-65514）、酪氨酸激酶 B
+抗 体（tyrosine kinase receptor B，TrkB，货 号 ：
+sc-8058）购自美国 Santa Cruz 公司；HRP 羊抗兔
+IgG、HRP羊抗鼠IgG等二抗购自美国Thermo公司。
+1.1.3
+仪 器
+SMZ800 光 学 显 微 镜 购 自 日 本
+Nikon 公司；离心机购自德国 Eppendorf 公司；垂
+直电泳槽、电泳仪及相关配件均购自美国 Bio-
+Rad 公司。
+1.2
+方法
+1.2.1
+分组
+75 只雄性 SD 大鼠采用随机数字表
+法分为空白对照组、模型组、低剂量 Rg1 组、中剂
+量Rg1组及高剂量Rg1组，每组15只。
+1.2.2
+脑片制作、模型建立
+[7]及给药处理
+使用
+150 mmol·L
+−1 NaCl，2 mmol·L
+−1 CaCl2，1.2 mmol·L
+−1
+MgSO4，0.5 mmol·L
+−1 KH2PO4配制人工脑脊液，另
+配制加入 1 mmol·L
+−1 Aβ1-42 试剂作为人工脑脊
+液诱导 AD 模型，0 ℃保存备用。活体大鼠处死后
+立即取大脑切成厚度为 400 μm的切片，挑选形态
+较好（含有海马和皮层组织）的脑片放入人工脑脊
+液中，培养温度 32 ℃左右，氧气含量为 95%，二氧
+化碳含量为 5%。除空白对照组外各组加入含有
+Aβ1-42 试剂的人工脑脊液制备 AD 模型，作用 2 h
+447
+生物技术进展
+生物技术进展 Current Biotechnology
+后，低剂量 Rg1 组、中剂量 Rg1 组及高剂量 Rg1 组
+分别加入 60、120、240 μmol·L
+−1 Rg1处理 3 h，空白
+对照组和模型组加入等量 0.9% NaCl 溶液，上述
+过程均在 32 ℃、95% 氧气、5% 二氧化氮培养条件
+下进行。
+1.2.3
+HE染色
+干预结束后取各组脑片，转移至
+4% 多聚甲醛溶液中固定 3 h，再放至 30% 蔗糖溶
+液中浸糖至沉底，制备组织冰冻切片，常规 HE 染
+色，光镜下观察大鼠脑组织病理形态变化。
+1.2.4
+TUNEL 染色
+干预结束后取各组脑片，参
+照上述方法制备组织冰冻切片，滴加 3% 过氧化
+氢溶液灭活内源性辣根过氧化物酶 10 min，再加
+入蛋白酶 K 37 ℃下消化 15 min，加 20 μL 标记缓
+冲液，再分别加入末端脱氧核苷酰转移酶（termi‐
+nal deoxynucleotidyl transferase，TdT）和荧光素标
+记的三磷酸脱氧尿甘（2'-deoxyuridine 5'-triphos‐
+phated，UTP）溶液各 1 μL，37 ℃下反应 2 h，然后
+加 50 μL 封闭液，室温下静置 30 min，滴加 50 μL
+抗光抗体，室温下孵育 40 min，再加入抗体稀释液
+1∶100 倍稀释的链霉亲和素-生物复合物（strept-
+avidin-biotin complex，SABC），37 ℃下反应 1 h，二
+氨 基 联 苯 胺（3，3′-diaminobenzidine，DAB）显 色
+后，苏木素复染，光镜下观察大鼠脑组织细胞凋亡
+情况，黄褐色为凋亡细胞阳性染色。
+1.2.5
+Ach、5‐HT含量和 TChE 活力检测
+取上述
+脑片，采用相关试剂盒检测大鼠脑组织 Ach、5-HT
+含量和 TChE 活力，检测方法严格按照试剂盒说
+明书进行。
+1.2.6
+蛋白质印迹检测蛋白表达水平
+取上述脑
+片，提取总蛋白进行聚丙烯酰胺凝胶电泳，并将蛋
+白转移至聚偏二氟乙烯（polyvinylidene fluorids，
+PVDF）上，加入脱脂奶粉，在 37 ℃的条件下封闭
+2 h，后 加 入 稀 释 后 的 Cleaved Caspase-3、Bcl-2、
+Bax、BDNF及TrkB蛋白抗体（稀释比例为1∶1 500），
+内参蛋白为GAPDH（稀释比例1∶1 000），4 ℃下孵
+育过夜，次日洗膜后加入 HRP 羊抗兔 IgG、HRP 羊
+抗鼠 IgG 二抗（稀释比例 1∶5 000），采用显色液显
+色后进行灰度值检测。蛋白相对表达量计算公式
+见式（1）。
+蛋白相对表达量=目的蛋白灰度值/GADPH
+灰度值
+（1）
+1.3
+统计分析
+采 用 SPSS 22.0 软 件 进 行 数 据 分 析 ，采 用
+GraphPad Prism5 进行绘图，多组间比较使用单因
+素 方 差 分 析 ，组 间 两 两 比 较 采 用 LSD 法 ，以
+P<0.05表示差异有统计学意义。
+2
+结果与分析
+2.1
+大鼠脑片HE染色结果
+如图 1 所示，HE 染色观察大鼠脑组织病理形
+态变化，空白对照组未见异常，海马神经元细胞结
+构完整；模型组海马 CA1 区细胞排列松散，损伤
+明显；低剂量 Rg1 组、中剂量 Rg1 组及高剂量 Rg1
+组脑组织病理损伤较模型组症状明显减轻。
+2.2
+大鼠脑片TUNEL染色结果
+如图 2 所示，TUNEL 染色观察大鼠海马 CA1
+区细胞凋亡情况，空白对照组、模型组、低剂量
+Rg1 组、中剂量 Rg1 组及高剂量 Rg1 组脑组织细
+胞 凋 亡 数 分 别 为（7.21±2.15）、（58.27±11.24）、
+（42.31±8.56）、（29.64±6.34）、（15.68±3.32）个。与
+空白对照组比较，模型组脑组织细胞凋亡数显著
+增加（P<0.05）；与模型组比较，低剂量 Rg1 组、中
+注：放大倍数为200倍。
+图1
+大鼠脑片HE染色结果
+Fig.1
+HE staining results of brain slices in rats
+448
+陈晓光，等：人参皂苷Rg1对阿尔茨海默症大鼠BDNF‐TrkB信号通路的影响
+剂量 Rg1 组及高剂量 Rg1 组脑组织细胞凋亡数显
+著减少（P<0.05），且具有剂量依赖性。
+2.3
+大鼠脑片中凋亡相关蛋白检测结果
+检测大鼠脑片中凋亡相关蛋白发现，与空白
+对照组相比，模型组大鼠 Cleaved Caspase-3/GAP‐
+DH和Bax/Bcl-2水平显著升高（P<0.05）；与模型组
+相比，低剂量 Rg1 组、中剂量 Rg1 组及高剂量 Rg1
+组 Cleaved Caspase-3/GAPDH 和 Bax/Bcl-2 水平显
+著降低（P<0.05），且具有剂量依赖性（图3、表1）。
+2.4
+大鼠脑片中 5⁃HT、Ach含量和 TChE 活力检
+测结果
+检测大鼠脑片中5-HT、Ach含量和TChE水平
+发现，与空白对照组相比，模型组大鼠 5-HT 和
+Ach水平显著降低，TChE水平显著升高（P<0.05）；
+与模型组相比，低剂量 Rg1 组、中剂量 Rg1 组及高
+剂量Rg1组5-HT和Ach水平均显著升高，TChE水
+平 均 显 著 降 低（P<0.05），且 具 有 剂 量 依 赖
+性（表2）。
+表2
+大鼠脑片中5‐HT、Ach含量和TChE活力检测结果（x±s）
+Table 2
+Detection results of 5‐HT, Ach levels and TChE activity in brain slices of rats (x±s)
+组别
+空白对照组（n=15）
+模型组（n=15）
+低剂量Rg1组（n=15）
+中剂量Rg1组（n=15）
+高剂量Rg1组（n=15）
+F值
+P值
+5‐HT/（pg·g
+-1）
+158.35±19.25
+107.39±14.69
+*
+119.51±15.07
+#
+130.73±16.17
+##'
+142.39±18.11
+##'#″
+19.160
+<0.001
+Ach/（g·g
+-1）
+2 254.10±180.28
+1 604.56±144.50
+*
+1 803.68±150.14
+#
+1 997.89±141.87
+##'
+2 098.90±150.58
+##'#″
+36.697
+<0.001
+TChE/（U·mg
+-1）
+0.31±0.04
+0.69±0.09
+*
+0.51±0.07
+#
+0.43±0.06
+##'
+0.36±0.05
+##'#″
+73.807
+<0.001
+注：*表示模型组与空白对照组相比，差异在 P<0.05水平具有统计学意义；#表示与模型组相比差异在 P<0.05水平具有统计学意义；#'
+表示与低剂量人参皂苷 Rg1 组相比差异在 P<0.05 水平具有统计学意义；#″表示与中剂量人参皂苷 Rg1 组相比差异在 P<0.05 水平具有
+统计学意义。
+注：放大倍数为400倍。
+图2
+大鼠脑片TUNEL染色结果
+Fig.2
+TUNEL staining results of brain slices in rats
+表1
+大鼠脑片中凋亡相关蛋白检测结果
+Table 1
+Detection results of apoptosis‐related proteins in
+brain slices of rats
+组别
+空白对照组（n=15）
+模型组（n=15）
+低剂量Rg1组（n=15）
+中剂量Rg1组（n=15）
+高剂量Rg1组（n=15）
+F值
+P值
+Cleaved Caspase‐3/
+GAPDH
+0.35±0.09
+1.14±0.21
+*
+0.95±0.13
+#
+0.76±0.10
+##'
+0.56±0.12
+##'#″
+25.955
+<0.001
+Bax/Bcl‐2
+0.19±0.06
+1.87±0.23
+*
+1.42±0.17
+#
+1.15±0.19
+##'
+0.47±0.13
+##'#″
+85.387
+<0.001
+注：*表示模型组与空白对照组相比，差异在 P<0.05 水平具有
+统计学意义；#表示与模型组相比差异在 P<0.05 水平具有统计学
+意义；#'表示与低剂量人参皂苷 Rg1 组相比差异在 P<0.05 水平
+具有统计学意义；#″表示与中剂量人参皂苷 Rg1 组相比差异在
+P<0.05 水平具有统计学意义。
+A：空白对照组；B：模型组；C：低剂量Rg1组；D：中剂量Rg1组；E：
+高剂量Rg1组
+图3
+大鼠脑片中凋亡相关蛋白检测结果
+Fig.3
+Detection results of apoptosis related proteins in rat
+brain slices
+449
+生物技术进展
+生物技术进展 Current Biotechnology
+2.5
+大鼠脑片中 BDNF⁃TrkB 信号通路相关蛋白
+检测结果
+检测大鼠脑片中 BDNF-TrkB 信号通路相关
+蛋白发现，与空白对照组相比，模型组 BDNF 和
+TrkB 蛋白表达量均显著降低（P<0.05）；与模型
+组相比，低剂量 Rg1 组、中剂量 Rg1 组及高剂量
+Rg1 组 BDNF 和 TrkB 蛋 白 表 达 量 均 显 著 升 高
+（P<0.05），且具有剂量依赖性（图4、表3）。
+3
+讨论
+AD 的主要病理特征为多种因素诱导神经细
+胞凋亡
+［8］。细胞凋亡可引起 AD 脑内皮质皱缩，基
+底前脑胆碱能神经元的减少及海马胆碱能纤维和
+突触的丢失，会导致记忆认知障碍
+［9］。本研究病
+理观察显示，采用 Aβ1-42 培育后，大鼠脑组织损
+伤明显，且存在大量的凋亡细胞，促凋亡蛋白
+Cleaved Caspase-3 表达明显升高，Bax/Bcl-2 平衡
+也偏向促凋亡（Bax）水平，经不同剂量人参皂苷
+Rg1 处理后，脑组织损伤表现出不同程度的减轻，
+凋亡细胞也明显减少，Cleaved Caspase-3 和 Bax/
+Bcl-2 水平明显降低，表明人参皂苷 Rg1 可抑制脑
+组织细胞凋亡，从而发挥保护 AD 的作用。许彤
+等
+［10］研究也显示，人参皂苷 Rg1 可抑制过氧化氢
+诱导的海马神经元凋亡。
+Ach 是与学习和记忆密切相关的神经递质，
+主要由突触前膜释放，与突触后膜上乙酰胆碱受
+体 结 合 开 放 离 子 通 道 ，引 起 神 经 元 兴 奋 的 传
+递
+［11］。胆碱被激活后可以易化由齿状回成熟神经
+元形成的长时程增强效应
+［12］。5-HT 也是中枢神
+经 系 统 的 重 要 神 经 递 质 ，主 要 参 与 学 习 与 记
+忆
+［13］。TChE是生物神经传导中的一种关键性酶，
+其可以降解乙酰胆碱终止神经递质对突触后膜的
+兴奋，保持神经间信号正常传递
+［14］。本研究发现，
+与模型组相比，使用人参皂苷 Rg1 各组 5-HT、Ach
+水平显著升高，TChE水平显著降低。表明人参皂
+苷 Rg1 可以有效改善神经元功能。Liu 等
+［15］研究
+表明，人参皂苷 Rg1 可以有效改善神经元 Ach、
+5-HT的表达情况，与本研究结果一致。
+目前关于 Rg1改善 AD的分子机制研究较多，
+据报道，Rg1可通过 MAPK/ERK、PI3K/Akt和 PKA/
+CREB 等信号通路改善 AD 症状
+［16］，说明 Rg1 对人
+体的作用可能是多途径、多方式和多靶点的。
+BDNF 是一种神经营养因子，主要在中枢神经系
+统中表达，具有神经保护功能
+［17］。据报道，提高海
+马体内的 BDNF 水平，可以有效促进新突触形成
+并显著提高学习和记忆能力
+［18］。TrkB是 BDNF的
+特异性受体，BDNF可以与细胞膜上的 TrkB结合，
+激活细胞内 BDNF-TrkB 信号通路，通过调节钙离
+子对神经的生长和发育发挥促进作用，同时 TrkB
+可以参与调节谷氨酸和 γ-氨基丁酸突触后神经
+递质受体的数量和分布，从而调节突触可塑性，显
+著改善学习和记忆能力
+［19-20］。本研究发现，人参
+皂苷 Rg1 处理后可有效逆转 AD 导致的 BDNF 和
+TrkB蛋白表达降低。说明人参皂苷Rg1可以通过
+激活 BDNF-TrkB 信号通路，调节神经递质受体的
+数量和分布，改善神经受损后突触可塑性，加快大
+鼠神经功能的恢复。
+A：空白对照组；B：模型组；C：低剂量Rg1组；D：中剂量Rg1组；E：
+高剂量Rg1组
+图4
+大鼠脑片中BDNF‐TrkB信号通路相关
+蛋白检测结果
+Fig. 4
+Detection results of BDNF‐TrkB signal pathway
+related proteins in rat brain slices
+表3
+大鼠脑片中BDNF‐TrkB信号通路相关
+蛋白检测结果（x±s）
+Table 3
+Detection results of BDNF-TrkB signaling path‐
+ways related proteins in brain slices of rats (x±s)
+组别
+空白对照组（n=15）
+模型组（n=15）
+低剂量Rg1组（n=15）
+中剂量Rg1组（n=15）
+高剂量Rg1组（n=15）
+F值
+P值
+BDNF/GAP‐
+DH值
+1.23±0.13
+0.49±0.09
+*
+0.64±0.10
+#
+0.78±0.08
+##'
+0.93±0.11
+##'#″
+37.724
+<0.001
+TrkB/GAPDH
+值
+1.53±0.18
+0.39±0.10
+*
+0.75±0.16
+#
+1.11±0.12
+##'
+1.33±0.15
+##'#″
+49.695
+<0.001
+注：*表示模型组与空白对照组相比，差异在 P<0.05 水平具有
+统计学意义；#表示与模型组相比差异在 P<0.05 水平具有统计学
+意义；#'表示与低剂量人参皂苷 Rg1 组相比差异在 P<0.05 水平
+具有统计学意义；#″表示与中剂量人参皂苷 Rg1 组相比差异在
+P<0.05 水平具有统计学意义。
+450
+陈晓光，等：人参皂苷Rg1对阿尔茨海默症大鼠BDNF‐TrkB信号通路的影响
+综上所述，人参皂苷 Rg1可有效保护 AD模型
+大鼠脑组织损伤，抑制神经细胞凋亡，其作用机制
+可能与激活BDNF-TrkB信号通路相关。
+参
+考
+文
+献
+［1］ SENGOKU R. Aging and Alzheimer's disease pathology[J].
+Neuropathology, 2020, 40(1): 22-29.
+［2］ QUAN Q, LI X, FENG J, et al.. Ginsenoside Rg1 reduces β-
+amyloid levels by inhibiting CDK5-induced PPARγ phosphor‐
+ylation in a neuron model of Alzheimer's disease[J]. Mol. Med.
+Rep., 2020, 22(4): 3277-3288.
+［3］ LIANG H Y, ZHANG P P, ZHANG X L, et al.. Preclinical sys‐
+tematic review of ginsenoside Rg1 for cognitive impairment in
+Alzheimer's disease[J]. Aging, 2021, 13(5): 7549-7569.
+［4］ DU Q, ZHU X, SI J. Angelica polysaccharide ameliorates
+memory impairment in Alzheimer's disease rat through activat‐
+ing BDNF/TrkB/CREB pathway[J]. Exp. Biol. Med., 2020, 245
+(1):1-10.
+［5］ 王登坤,第五永长,苟于瑞,等 . 洗心汤对阿尔茨海默病模型
+大鼠海马 BDNF, TrkB 蛋白表达及肠道菌群多样性的影响
+[J].中医杂志,2021,62(15):1362-1369.
+［6］ LU Q, ZHU H, LIU X, et al.. Icariin sustains the proliferation
+and differentiation of Aβ 25-35 -treated hippocampal neural
+stem cells via the BDNF-TrkB-ERK/Akt signaling pathway[J].
+Neurol. Res., 2020, 42(11): 936-945.
+［7］ 周丽,周军,刘艳平 . 丹参酮ⅡA 对 Aβ_(1-42)处理的体外培
+养海马脑片组织神经元与胶质细胞的影响[J]. 细胞与分子
+免疫学杂志,2013,29(11):1150-1154.
+［8］ KWON Y, SHIN J, NAM K, et al.. Rhizolutin, a novel 7/10/6‐
+tricyclic dilactone, dissociates misfolded protein aggregates and
+reduces apoptosis/inflammation associated with Alzheimer's
+disease[J]. Angew. Chem. Int. Ed. Engl., 2020, 59(51): 22994-22998.
+［9］ 何莹莹,靳辉,计胜峰,等 . 丹参酮ⅡA 抑制内质网应激及细
+胞凋亡改善 AD 小鼠的认知障碍[J]. 西安交通大学学报(医
+学版),2020,41(2):287-293.
+［10］ 许彤,付丽娜,隗永健 . 人参皂苷 Rg1 对 H2O2诱导的大鼠海
+马神经元损伤的影响及其机制[J]. 海峡药学,2019,31(1):
+19-22.
+［11］ WEIGAND A J, BONDI M W, THOMAS K R, et al.. Associa‐
+tion of anticholinergic medication and AD biomarkers with in‐
+cidence of MCI among cognitively normal older adults[J/OL].
+Neurology, 2020, 95(16): e2295-e2304[2022-03-01]. https://
+doi.org/10.1038/cddis.2015.327.
+［12］ 吴永鑫,周春妮,范金花,等.氟西汀对8月龄APP/PS1小鼠海
+马齿状回内胆碱能神经元作用的体视学研究[J]. 第三军医
+大学学报,2019,41(8):786-793.
+［13］ BOSTANCIKLIOLU M. Optogenetic stimulation of serotonin
+nuclei retrieve the lost memory in Alzheimer's disease[J]. J.
+Cell Physiol., 2020, 235(2): 836-847.
+［14］ 庞广福,李海,解继胜,等 . 葛根素联合乌圆补血口服液对阿
+尔茨海默病大鼠模型的治疗效果[J].时珍国医国药,2019,30
+(5):1064-1066.
+［15］ LIU Y, GAO Y, LI K X, et al.. Pharmacokinetics and acetyl‐
+choline releasing effects of ginsenoside Rg1 in hippocampus of
+beta-amyloid model rats[J]. J. Asian Nat. Prod. Res., 2019, 21
+(8):772-781.
+［16］ 卞俊,陈海飞,鲍蕾蕾 . 人参皂苷 Rg_1 预防阿尔茨海默病药
+理机制研究进展[J].海军医学杂志,2015,36(1):91-93.
+［17］ CAFFINO L, MOTTARLINI F, FUMAGALLI F. Born to pro‐
+tect: leveraging BDNF against cognitive deficit in Alzheimer's
+disease[J]. CNS Drugs, 2020, 34(3): 281-297.
+［18］ 尹传红,闫宇辉 . 高压氧通过激活 CREB/BDNF 信号通路减
+轻阿尔茨海默病小鼠海马神经元突触损伤[J]. 中国病理生
+理杂志,2020,36(6):1063-1070.
+［19］ ELAHI F M, CASALETTO K B, JOIE R L A, et al. Plasma bio‐
+markers of astrocytic and neuronal dysfunction in early- and
+late-onset Alzheimer's disease[J]. Alzheimers Dement., 2020,
+16(4): 681-695.
+［20］ WANG Z, WANG J, YE K. Deficiency in BDNF/TrkB neuro‐
+trophic activity stimulates delta-secretase by upregulating C/
+EBPbeta in Alzheimer's disease[J]. Cell Rep., 2019, 28(3):
+655-669.
+451

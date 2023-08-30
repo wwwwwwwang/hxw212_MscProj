@@ -1,0 +1,1045 @@
+中 国 科 技
+核 心 期 刊
+Western Journal of Traditional Chinese Medicine,2022 Vol.35 No.11
+药 理 研 究
+方
+药 ·
+人参皂苷 Rg3通过 PI3K/Akt 信号通路
+抑制大鼠卵巢型子宫内膜异位症
+血管生成相关因子表达机制研究∗
+李晨阳，张学红△
+兰州大学第一临床医学院，甘肃 兰州 730000
+［摘
+要］ 目的：探讨人参皂苷 Rg3抑制卵巢型子宫内膜异位症（ovarian endometriosis，OEMs）大鼠血
+管生成相关因子表达及其机制。方法：采用异位移植的方法建造大鼠OEMs模型，给予人参皂苷Rg3干预治疗，
+检测大鼠体质量；干预后采集大鼠卵巢型异位子宫，记录其体积和质量，利用定量聚合酶链反应（quantita-
+tive polymerase chain reaction，qPCR）法检测子宫血管内皮生长因子（vascular endothelial growth
+factor,VEGF）mRNA、血管内皮细胞生长因子受体 2（vascular endothelial growth factor receptor 2,
+VEGFR-2）mRNA、缺氧诱导因子 1α 多肽（hypoxia-inducible factor 1-alpha,HIF-1α）mRNA、基质金属蛋白
+酶-9（matrix metalloproteinase-9，MMP-9）mRNA、基质金属蛋白酶-2（matrix metalloproteinase-2，MMP-2）
+mRNA 的表达，蛋白印记 Western blot 和免疫组化法检测子宫磷脂酰肌醇-3-羟激酶（phosphatidylinositol
+3-hydroxykinase, PI3K）、磷酸化磷脂酰肌醇-3-羟激酶（phosphorylated phosphatidylinositol 3-hy-
+droxykinase，p-PI3K）、丝氨酸/苏氨酸蛋白激酶（serine/threonine protein kinase，Akt1）、磷酸化丝氨
+酸/苏氨酸蛋白激酶（serine/threonine protein kinase，p-Akt1）、细胞外调节蛋白激酶（extracellular
+regulated protein kinases，ERK1/2）、磷酸化细胞外调节蛋白激酶（phosphorylated extracellular reg-
+ulated protein kinases，p-ERK1/2）蛋白。结果：人参皂苷 Rg3可浓度依赖性减缓子宫异位大鼠体质量下降
+幅度，降低异位子宫质量和体积，降低异位子宫组织中血管生成相关因子VEGF、VEGFR-2、HIF-1α、MMP-9、MMP-2
+的mRNA表达及蛋白表达和p-PI3K、p-Akt1、p-ERK1/2蛋白表达，对PI3K、Akt 1、ERK1/2总蛋白无影响。结论：
+人参皂苷Rg3可抑制OEMs PI3K/Akt通路的激活，降低血管生成相关因子表达和ERK1/ERK2磷酸化水平，抑制
+OEMs血管生成。
+［关键词］ 子宫内膜异位症，卵巢型；PI3K/Akt信号通路；血管生成相关因子；人参皂苷Rg3
+［中图分类号］ R271.19
+［文献标识码］ A
+［文章编号］ 2096-9600（2022）11-0066-07
+Study on the Mechanism of Inhibiting Angiogenesis-related Factors Expression
+in Ovarian Endometriosis Rats by Ginsenoside Rg3 via P13K/Akt Signaling Pathway
+LI Chenyang, ZHANG Xuehong△
+First Clinical Medical College, Lanzhou University, Lanzhou 730000, China
+Abstract
+Abstract
+Objective: To discuss the inhibitory effects of ginsenoside Rg3 on the expressions of
+angiogenesis-related factors in ovarian endometriosis（OEMs） rats and its mechanism. Methods: Heterotopic
+transplantation was adopted to establish rat model with OEMs, and the models were intervened and treated with
+ginsenoside Rg3, to detect body mass of the rats; after the intervention, ovarian type ectopic uterus of the rats were
+collected to record the volume and mass, qPCR was used to determine the expressions of VEGF mRNA, VEGFR-2
+mRNA, HIF-1α mRNA, MMP-9 mRNA and MMP-2 mRNA of the uterus, Western blot and immunohistochemical
+method were applied to measure P13K, p-P13K, Akt1, p-Akt1, ERK1/2, p-ERK1/2 protein in the womb. Results:
+Ginsenoside Rg3 could slow down the decrease of body mass of the rat model in a dose-dependent manner, reduce
+the mass and volume of ectopic uterus, lower the expressions of angiogenesis-related factors VEGF-2 mRNA,
+VEGFR mRNA, HIF-1 α mRNA, MMP-9 mRNA and MMP-2 mRNA, and the contents of p-P13K, p-Akt1,
+p-ERK1/2 protein of the uterus, while it shows no influence on total protein of P13K, Akt1 and ERK1/2.
+Conclusion: Rg3 could inhibit the activation of P13K/Akt signaling pathway in OEMs rats, lower the expressions
+of angiogenesis-related factors and ERK1/ERK2 phosphorylation level, and refrain angiogenesis in OEMs.
+Keywords
+Keywords
+ovarian endometriosis; P13K/Akt signaling pathway; angiogenesis-related factors;
+ginsenoside Rg3
+DOI：10.12174/j.issn.2096-9600.2022.11.12
+66
+2022年第35卷第11期
+中 国 科 技
+核 心 期 刊
+药 理 研 究
+方
+药 ·
+子宫内膜异位症（endometriosis，EMs）是由子
+宫内膜组织异位恶性侵袭其他脏器而引起的一系
+列病症，易复发，不易根治，对患者的生殖健康带来
+不同程度影响，严重者导致不孕
+［1］。由于 EMS 的发
+病机制较为复杂，目前临床尚无有效且毒副作用小
+的治疗手段
+［2］。卵巢是受子宫异位组织侵袭的主要
+器官之一
+［3-4］，据国内数据统计，卵巢子宫内膜异位
+症（ovarian endometriosis，OEMs）占子宫内膜异
+位症的一半以上，严重影响卵巢功能
+［5］。
+人参皂苷 Rg3是人参的主要有效成分之一，具
+有抗血管生成、抗肿瘤等功效，能抑制癌细胞浸润
+转移，增强机体免疫力
+［6-7］。血管生成对于 EMs 病
+灶存活和生长有重要作用，利用人参皂苷 Rg3抑制
+血管生成治疗 EMs 的策略具有可行性。但是人参
+皂苷 Rg3对 OEMs 血管生成的影响未见报道，因此
+本研究首次通过异位移植的方法建立 OEMs 大鼠
+模型，探索人参皂苷 Rg3对 OEMs 血管生成相关因
+子的影响及其机制，为人参皂苷 Rg3治疗 OEMs 提
+供数据支持。
+1
+材料与方法
+1.1
+动物
+60只健康雌性 SD大鼠，体质量 180～
+200 g，购自兰州大学动物实验中心，动物许可证
+号：SYXK（甘）2015-0005，适宜环境饲养，自由摄食
+摄水，适应环境7天后进入实验。
+1.2
+试剂及仪器
+人参皂苷 Rg3（亚泰制药，国药
+准字 Z20030044，规格：10 mg/粒）；孕三烯酮（紫
+竹药业，国药准字 H19980020，规格：2.5 mg/粒）；
+戊酸雌二醇（拜耳医药，国药准字 J20171038，规
+格 ：1 mg/片）；RIPA 裂解液（P0013B，Beyotime）；
+BCA 蛋白浓度测定试剂盒（P0010，Beyotime）；增
+强型化学发光试剂（P0018，Beyotime）；PVDF 膜
+（HVHP29325，Merck Millipore）；SDS-PAGE 凝 胶
+试剂盒（P0012A，Beyotime）；兔抗 Akt1 多克隆抗
+体（ab235958，Abcam）；兔抗 p-Akt1 单克隆抗体
+（ab81283，Abcam）；兔 抗 ERK1/2 多 克 隆 抗 体
+（ab17942，Abcam）；兔 抗 p-ERK1/2 多 克 隆 抗 体
+（ab214362，Abcam）；兔 抗 PI3K 单 克 隆 抗 体
+（ab191606，Abcam）；兔 抗 p-PI3K 多 克 隆 抗 体
+（ab182651，Abcam）；SYBR Premix Ex TaqTM Ⅱ
+（RR820L，Takara；Trizol（9109，Takara）；Prime-
+Script TM RT reagent Kit with gDNA Eraser，
+（RR047A，Takara）。HX202T型体重秤（天东衡器厂）；
+TP1020 型组织脱水机（Leica）；KEDEE-KD-BMII 型
+石蜡包埋机（上海科迪）；RM2245 型石蜡切片机
+（Leica）；907 型-80 ℃冰箱（Thermo）；IX73 型显
+微镜（Olympus）；101-2A 型烘箱（天津泰斯特）；
+Fisher Micro型4 ℃离心机（Thermo）；QL-901型涡
+旋混合器（其林贝尔）；J32392E 型移液器（Eppen-
+dorf）；MCT-150-C 型无酶 EP 管（Axygen）；BS-15-M
+型普通 EP 管（Biosharp）；188105W 型载玻片（CI-
+TOTEST）；0677-1 型盖玻片（帆船）；0638 型研钵；
+Nanodrop 2000 型分光光度计（Thermo）；S1000 型
+逆转录仪（BIO-RAD）；Mx3000p 型荧光定量 PCR 仪
+（Aglient）；Myspin12 型 瞬 时 离 心 机（Thermo）；
+PCR-0208-C型0.2 mL八连管（Axygen）。
+1.3
+方法
+1.3.1
+分组
+采用随机数字表法将大鼠随机分
+为对照组、假手术组、模型组、阳性药物组及人参
+皂苷Rg3低、中、高剂量组。
+1.3.2
+大鼠 OEMs 模型的建立
+参考文献［8］构
+建模型方法，建模前 2天选非发情期雌性 SD大鼠，
+每只给予 0.2 mg 戊酸雌二醇。在无菌条件下，用
+3%异氟醚将大鼠麻醉后，仰卧位固定于手术板上，
+腹部手术备皮，于腹部下方正中耻骨联合上 1 cm
+处纵行 2～3 cm 切口，开腹后找到子宫所在位置，
+剪下右侧子宫，置于无菌生理盐水中，剖开，分离
+子宫内膜与肌层，剪取大小为 5 mm×5 mm 的子宫
+内膜组织，并用可吸收线将其贴于左侧卵巢并缝
+合，然后用青霉素和链霉素的稀释液冲洗手术大
+鼠腹腔，常规缝合关腹。待大鼠苏醒后常规饲养，
+观察伤口恢复及生活情况。手术后第 1 天开始，
+大鼠肌肉注射 16 万 U/kg 青霉素和链霉素，每日 1
+次，连续注射 3 天。假手术组除不进行子宫内膜
+缝合在卵巢上，其余操作相同。
+1.3.3
+给药
+第 4 天造模成功后各组大鼠灌胃
+给 药 ，阳 性 药 物 组 灌 胃 0.5 mg/（kg·d）孕 三 烯
+酮，人参皂苷 Rg3低、中、高剂量组分别灌胃 5、10、
+15 mg/（kg·d）人参皂苷 Rg3。假手术组和模型组
+灌胃等剂量生理盐水，每日1次，持续灌胃21天。
+1.3.4
+样本采集
+灌胃 21 天后，腹腔麻醉大鼠，
+在原切口处取出卵巢处的子宫内膜移植物。参照
+FANG 等
+［9］方法记录移植物大体特点，电子天平称
+取其质量，用游标卡尺测量其长、高、宽，计算体
+积：体积=0.52×长×宽×高。所取子宫与异位子
+宫组织部分液氮速冻，部分4%多聚甲醛固定。
+1.3.5
+苏木精-伊红（HE）染色
+取出 4% 多聚甲
+醛固定的子宫与异位子宫组织，石蜡包埋切片，HE
+染色，显微镜拍照观察组织病理变化，包括子宫内
+膜上皮、腺体结构，间质细胞排列及炎症细胞浸润
+情况等。
+1.3.6
+免疫组化
+取出 4% 多聚甲醛固定的子宫
+与异位子宫组织，脱水、石蜡包埋，切片机切成4～
+67
+Western Journal of Traditional Chinese Medicine,2022 Vol.35 No.11
+中 国 科 技
+核 心 期 刊
+药 理 研 究
+方
+药 ·
+5 μm 厚的切片，贴于载玻片，依次脱蜡、水化、微
+波酸修复、阻断内源性氧化酶、封闭、孵育一抗过
+夜［其中丝氨酸/苏氨酸蛋白激酶（serine/thre-
+onine protein kinase，Akt1）、磷酸化丝氨酸/苏氨
+酸蛋白激酶（serine/threonine protein kinase，
+p-Akt1）、细胞外调节蛋白激酶（extracellular
+regulated protein kinases，ERK1/2）、磷酸化细
+胞外调节蛋白激酶（phosphorylated extracel-
+lular regulated protein kinases，p-ERK1/2）
+抗体均以 1∶200 稀释、洗涤、室温孵育生物素标记
+二抗、室温孵育HRP标记的链霉素，DAB显色、拍照。
+1.3.7
+蛋白印记 Western blot 实验
+取出液氮
+保存的子宫与异位子宫组织，放于提前液氮冷却
+的研钵中研磨，4 ℃条件下静置 30 min，4 ℃离
+心半径 13.5 cm，13000 rpm/min 离心 10 min，利
+用 BCA 试剂盒检测上清中蛋白浓度后，取上清加
+入上样缓冲液 ，加热煮沸使蛋白变性 ，加入到
+SDS-PAGE 胶中上样，电泳分离后进行转膜、背景
+封闭 ；将一抗磷脂酰肌醇-3-羟激酶（phospha-
+tidylinositol 3-hydroxykinase，PI3K）、磷酸化
+磷脂酰肌醇-3-羟激酶（phosphorylated phos-
+phatidylinositol 3-hydroxykinase，p-PI3K）、
+Akt1、ERK1/2、p-ERK1/2 均以 1∶1000 稀释，p-Akt1
+抗体以 1∶5000 稀释，稀释后在 4 ℃条件下孵育，
+洗脱后室温条件下孵育二抗、显色、显影、定影等，
+并拍照分析数据。
+1.3.8
+定量聚合酶链反应（quantitative poly-
+merase chain reaction，qPCR）实验
+取液氮保
+存的子宫与异位子宫组织，置于提前用液氮冷冻
+的研钵中研磨后加入Trizol 1.5 mL研磨成匀浆，
+静置 5 min 充分裂解后，4 ℃离心半径 13.5 cm，
+13000 rpm/min离心10 min，取上清液，加入等量氯仿，
+充分混匀后离心，所得上清加入预冷的异丙醇，轻
+轻颠倒混匀，离心弃上清，所得白色沉淀用预冷的
+75%乙醇清洗干燥后向沉淀中加入DEPC处理水进行
+溶解，-80 ℃冰箱保存。qPCR实验反应程序为预变
+性：95 ℃，10 min；扩增：95 ℃，15 s；60 ℃，15 s；
+72℃，30 s；循环数为40。引物序列信息见表1。
+1.4
+统计学方法
+用 SPSS 21.0软件分析数据，
+组间两两比较用LSD-t检验，多组间比较用单因素
+方差分析，方差不齐时用 Dunnett's方法分析用比
+较，P＜0.05为差异具有统计学意义。
+2
+结果
+2.1
+子宫移植
+肉眼观察大鼠 OEMs 模型，可见
+暗红色或者透亮的囊泡，说明移植组织显著变大，且
+部分大鼠子宫内出现多房充满液体的囊肿，移植
+组织表面有血管生成，可与周围组织发生粘连，提示
+通过移植方法成功建立大鼠OEMs模型。见图1。
+2.2
+大鼠体质量
+对照组与假手术组大鼠体质
+量随饲养时间的增加缓慢稳定增加；模型组大鼠
+体质量随饲养时间的增加逐渐降低，干预后异位
+子宫大鼠体质量下降幅度减缓，并随药物浓度增
+加体质量下降幅度减小。见图2。
+2.3
+大鼠异位子宫体积及质量
+模型组大鼠异
+位子宫体积与体质量随饲养时间的增加逐渐增
+加；与模型组相比，人参皂苷 Rg3干预后，大鼠异位
+子宫体积与质量均下降，并随药物干预浓度的增
+加，体积与质量下降幅度越大。见表2。
+2.4
+异位子宫病理变化
+对照组子宫内膜上皮
+结构连续完整，间质细胞排列紧密，腺体结构清
+晰。与对照组相比，假手术组子宫组织结构无明
+显变化；模型组异位子宫内膜上皮组织破坏，产生
+大量炎性细胞，以淋巴细胞和中性粒细胞为主。
+阳性药物组及人参皂苷 Rg3低、中、高剂量组随着
+药物浓度的增加异位子宫结构趋于对照组，炎性
+细胞逐渐减少。见图3。
+图1
+大鼠OEMs模型
+1
+2
+3
+4
+5
+300
+280
+260
+240
+220
+200
+大鼠体质量（g)
+对照组
+假手术组
+模型组
+阳性对照组
+人参皂苷 Rg3 低剂量组
+人参皂苷 Rg3 中剂量组
+人参皂苷 Rg3 高剂量组
+注：1造模前体质量；2造模后第2周体质量；3给药后第
+1周体质量；4给药后第2周体质量；5给药后第3周体质量
+图2
+各组大鼠体质量变化情况
+表1
+qPCR引物序列信息
+基因
+VEGF
+VEGFR-2
+HIF-1α
+MMP-9
+MMP-2
+GAPDH
+正向引物（5'-3'）
+CTGGCTTTACTGCTGTACCTCCACC
+AAGAGATTTGTTCCGGATGG
+ACTGCACAGGCCACATTCAT
+GCATCTGTATGGTCGTGGCT
+ATCGCAGACTCCTGGAATGC
+GCGCCGCAGGGACACAAC
+反向引物（5'-3'）
+GGCACACAGGACGGCTTGAA
+CGGCAGATAGCTCAATTTCA
+CGAGGCTGTGTCGACTGAGA
+CTGTAGGGGCCTCAGAAGGA
+AGCCAGTCCGATTTGATGCT
+AAGGATGAAGCGCCACTTA
+长度（bp）
+151
+214
+168
+206
+158
+161
+68
+2022年第35卷第11期
+中 国 科 技
+核 心 期 刊
+药 理 研 究
+方
+药 ·
+2.5
+子 宫 异 位 组 织 中 VEGF、VEGFR-2、HIF-1α、
+MMP-9、MMP-2 的 mRNA 表达
+与对照组相比，假手
+术 组 异 位 子 宫 组 织 中 VEGF、VEGFR-2、HIF-1α、
+MMP-9、MMP-2 的 mRNA 表达无变化，模型组以上各
+因子mRNA的表达均上升（P＜0.05）；与模型组比较，
+阳性对照组各因子mRNA的表达均下降（P＜0.05），
+人参皂苷 Rg3低、中、高剂量组各因子 mRNA 的表达
+随浓度升高逐渐下降（P＜0.05）。见图4—6。
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+VEGFR-2蛋白相对表达量
+MMP-9蛋白相对表达量
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+**
+**
+##
+*
+HIF-1α蛋白相对表达量
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+##
+*
+*
+*
+##
+**
+**
+*
+MMP-2蛋白相对表达量
+VEGF蛋白相对表达量
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+##
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+##
+**
+**
+*
+*
+**
+**
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+注：1对照组，2假手术组，3模型组，4阳性对照组，5人
+参皂苷 Rg3低剂量组，6 人参皂苷 Rg3中剂量组，7 人参皂苷
+Rg3高剂量组；##表示与对照组比较，P＜0.01；**表示与模
+型组比较，P＜0.01
+图6
+子宫异位组织中血管生成相关因子蛋白表达柱状图
+1
+2
+3
+4
+5
+6
+7
+注：1 对照组；2 假手术组、3 模型组、4 阳性对照组；5 人参皂苷 Rg3低剂量组；6 人参皂苷 Rg3中剂量组；7 人参皂苷 Rg3高
+剂量组。1、2为子宫组织病理变化；3～7是子宫内膜异位组织的病理改变
+图3
+各组大鼠子宫及异位子宫病理改变（×200）
+表2
+各组大鼠子宫内膜异位组织大小（xˉ± s）
+组别
+对照组
+模型组
+假手术组
+阳性药物组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3中剂量组
+人参皂苷Rg3高剂量组
+鼠数
+6
+9
+9
+9
+9
+9
+9
+剂量（mg/kg）
+等剂量生理盐水
+等剂量生理盐水
+等剂量生理盐水
+0.5
+5.00
+10.00
+15.00
+异位组织
+体积（mm
+3）
+-
+144.454±14.663
+-
+87.474±13.953
+**
+134.08±12.656
+90.074±16.831
+*
+62.972±16.049
+**
+质量（mg）
+-
+211.866±16.698
+-
+137.36±17.352
+**
+204.918±12.038
+133.164±20.021
+**
+89.678±16.736
+**
+注：与模型组相比较，*表示P＜0.05，**表示P＜0.01；
+“-”表示无异位组织体积与质量
+1
+2
+3
+4
+5
+6
+7
+HIF-1α
+MMP-2
+MMP-9
+VEGF
+VEGFR-2
+β-actin
+注 ：1 对照组，2 假手术组，3 模型组，4 阳性对照组，
+5 人参皂苷 Rg3低剂量组，6 人参皂苷 Rg3中剂量组，7 人参
+皂苷Rg3高剂量组
+图5
+子宫异位组织中血管生成相关因子蛋白表达
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+**
+##
+1
+2
+3
+4
+5
+6
+7
+**
+VEGFR-2 mRNA相对表达水平
+**
+**
+1
+2
+3
+4
+5
+6
+7
+##
+VEGF mRNA相对表达水平
+*
+*
+*
+6
+5
+4
+3
+2
+1
+0
+MMP-9 mRNA相对表达水平
+##
+1
+2
+3
+4
+5
+6
+7
+8
+7
+6
+5
+4
+3
+2
+1
+0
+**
+**
+**
+**
+1
+2
+3
+4
+5
+6
+7
+MMP-2 mRNA相对表达水平
+**
+**
+**
+##
+5
+4
+3
+2
+1
+0
+1
+2
+3
+4
+5
+6
+7
+5
+4
+3
+2
+1
+0
+HIF-1α mRNA相对表达水平
+**
+##
+**
+**
+注：1 对照组，2 假手术组，3 模型组，4 阳性对照组，5
+人参皂苷 Rg3低剂量组，6 人参皂苷 Rg3中剂量组，7 人参皂
+苷 Rg3高剂量组；##表示与对照组比较，P＜0.01；**表示与
+模型组比较，P＜0.01
+图4
+子宫异位组织中血管生成相关因子mRNA表达
+69
+Western Journal of Traditional Chinese Medicine,2022 Vol.35 No.11
+中 国 科 技
+核 心 期 刊
+药 理 研 究
+方
+药 ·
+2.6
+异位子宫组织中PI3K、p-PI3K、Akt1、p-Akt1、
+ERK1/2、p-ERK1/2 蛋白表达
+与对照组相比，假手
+术组各因子蛋白表达无变化，模型组 p-PI3K、p-
+ERK1/2、p-AKT1 表达均上升（P＜0.05）；与模型组
+比较，阳性对照组 p-PI3K、p-ERK1/2、p-Akt1 表达
+均下降（P＜0.05），人参皂苷 Rg3低、中、高剂量组
+p-ERK1/2、p-Akt1表达随参皂苷Rg3浓度升高逐渐
+下降（P＜0.05），各组间 PI3K、Akt1、ERK1/2 总蛋
+白表达比较无明显变化。见图7—8，附图1。
+3
+讨论
+子宫内膜异位组织侵袭卵巢形成囊肿后影响
+卵巢功能，引起卵子质量下降，从而患者生育能力
+降低
+［10］。而异位组织的种植生长需要充足的血液
+供应，新血管形成是 EMs 发展的关键步骤
+［11］。因
+此，抑制血管生成、维持稳定的血管平衡状态成为
+临床治疗 EMs 的新方向。目前传统 EMs 药物治疗
+方法是通过将机体的雌激素水平降至绝经后水
+平，从而抑制异位病灶生长，使之萎缩，但会产生
+严重副作用如潮热、体质量增加、骨质疏松、情绪
+易变等
+［12］。而抗血管生成药物治疗 EMs 具有特异
+性强、不易产生耐药性，且复发率与副作用低等特
+点
+［13］。人参皂苷 Rg3是从人参中分离提纯的四环
+三萜类人参二醇型皂苷单体，具有抗肿瘤血管生
+成作用，可通过降低肿瘤细胞分泌基质金属蛋白
+酶抑制细胞间质和细胞外基质黏附、侵袭和血管
+生成；能阻断纤维黏连层蛋白和层黏连蛋白的结
+合，调节某些细胞因子、VEC 的增殖生长和新生血
+管形成，阻断细胞在血管壁着床，抑制肿瘤血管内
+皮细胞增长和血管生成。有研究发现人参皂苷
+Rg3在体内外可通过调节 miRNA-27b 降低 EMs 纤维
+化和侵袭
+［14］；通过抑制 VEGFR-2 介导的 PI3K/AKT/
+mTOR通路的激活抑制腹膜型EMs血管生成
+［15］。
+本研究发现通过异位移植的方式建立 OEMs
+模型后，OEMs 大鼠体质量随饲养时间的增加逐渐
+降低，给予人参皂苷 Rg3干预 OEMs 大鼠，可减缓大
+鼠体质量下降及其异位子宫的上皮组织结构以及
+炎症细胞的数量趋于正常化，提示人参皂苷 Rg3具
+有缓解OEMs病情的作用。
+子宫内膜异位组织移植理论认为腹腔中出现
+脱落的子宫内膜组织，是随着经血逆流而来，脱落
+组织经“黏附-侵袭-血管形成”步骤移植于其他脏
+器
+［16］。而在经期内子宫内膜处于缺氧状态，脱落
+的内膜组织进入腹腔后持续处于缺氧状态
+［17］，细
+胞为应对缺氧环境表达缺氧诱导因子进行调节，
+调节因子 HIF-1 在各种细胞中均有表达，多项研
+究表明 HIF-1α 在异位内膜组织中的表达高于正
+常内膜组织
+［18-19］。本研究发现异位子宫组织中
+HIF-1α mRNA 高于对照组和假手术组，与文献研
+究结果一致，HIF-1α 在缺氧环境下的稳定表达促
+进异位内膜组织的侵袭能力
+［20］，促进了血管生成
+相关基因转录
+［21］，包括 MMPs、VEGF等，其中 VEGF是
+血管内皮生长因子，在促进血管生成中发挥着关
+键作用，VEGF 启动子区的 HRE 与 HIF-1 结合后激
+活转录，同时 HIF-1α 也可间接延长 ERK 活性，ERK
+的持续活化能够促进一系列血管生成因子表
+达
+［22］。本研究发现人参皂苷 Rg3可浓度依赖性降
+1
+2
+3
+4
+5
+6
+7
+Akt1
+p-Akt1
+P13K
+p-P13K
+Erk1/2
+p-Erk1/2
+β-actin
+注：1 对照组，2 假手术组，3 模型组，4 阳性对照组，5
+人参皂苷 Rg3低剂量组，6 人参皂苷 Rg3中剂量组，7 人参皂
+苷Rg3高剂量组
+图7
+子宫内膜异位组织中各因子蛋白表达
+1
+2
+3
+4
+5
+6
+7
+**
+##
+##
+Akt1蛋白相对表达量
+*
+1.5
+1.0
+0.5
+0.0
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+1.5
+1.0
+0.5
+0.0
+1.5
+1.0
+0.5
+0.0
+4
+3
+2
+1
+0
+*
+*
+*
+**
+**
+**
+**
+**
+##
+ERK1/2蛋白相对表达量
+P13K蛋白相对表达量
+p-P13K蛋白相对表达量
+p-ERK1/2蛋白相对表达量
+p-Akt1蛋白相对表达量
+注：1 对照组，2 假手术组，3 模型组，4 阳性对照组，5
+人参皂苷 Rg3低剂量组，6 人参皂苷 Rg3中剂量组，7 人参皂
+苷 Rg3高剂量组 ；与对照组比较，##表示 P＜0.01；与模型
+组比较，*表示P＜0.05，**表示P＜0.01
+图8
+子宫内膜异位组织中各因子蛋白表达柱状图
+70
+2022年第35卷第11期
+中 国 科 技
+核 心 期 刊
+药 理 研 究
+方
+药 ·
+低异位子宫组织中 HIF-1α、VEGF、VEGFR、MMP2 、
+MMP9 的 mRNA 表达以及 ERK1/2 的磷酸化水平，提
+示人参皂苷 Rg3可抑制异位子宫中血管生成相关
+因子表达，进而通过抑制异位子宫血管生成抑制
+异位子宫生长。
+研究显示，信号通路 PI3K/Akt/mTOR 在促进
+细 胞 增 殖 和 新 血 管 生 成 方 面 起 关 键 作 用 ，在
+PI3K/Akt 信号通路中 Akt 蛋白激酶起关键作用，
+通过磷酸化 ，达到最大活化效应
+［23］。据 Gordan
+等
+［24］研究 ，PI3K/Akt 信号通路可促进 HIF-1α 表
+达，进而促使血管形成。CHANG 等
+［25］报道内膜间
+质细胞中 PI3K/Akt 通路经异常低表达的肿瘤转
+移抑制因子（NME1）激活后 ，IL-8 和 VEGF 大量表
+达，CD62E 和 CD105 血管生成相关分子表达量增
+加，进而促使异位病灶处生成大量血管内皮细胞。
+研 究 发 现
+［26-27］内 皮 型 一 氧 化 氮 合 酶（nitric
+oxide synthase，NOS）被 Akt 磷酸化后生成 NO，进
+而促进血管生成 ，而 EMs 患者体内 eNOS 表达升
+高
+［28］，异位病灶周围血管生成增多，可能与 PI3K/
+Akt通路激活相关。本研究发现人参皂苷Rg3可降
+低 PI3K/Akt 通 路 PI3K、Akt 的 磷 酸 化 水 平 ，对
+PI3K/Akt 通路的激活具有抑制作用，进而通过抑
+制 PI3K/Akt 通 路 控 制 的 下 游 因 子 如 HIF-1α、
+eNOS、VEGF、IL-8、CD62E 和 CD105 等抑制异位子宫
+血管生成。但本研究只从已报道 PI3K/Akt/mTOR
+通路与血管生成关系的角度推测人参皂苷 Rg3可
+通过抑制 PI3K/Akt/mTOR通路抑制 EMs血管生成，
+但未在实验中直接证明该推测，因此本课题组将
+进一步设计实验直接验证这种推测。
+综上所述，人参皂苷 Rg3可抑制 OEMs 中 PI3K/
+Akt 通路的激活，降低血管生成相关因子 HIF-1α、
+VEGF、VEGFR-2、MMP-2、MMP-9 的表达和 ERK1/ERK2
+的磷酸化水平，抑制OEMs血管生成。
+参考文献
+［1］
+周应芳 . 子宫内膜异位症的临床诊断和治疗［J］. 中华妇
+产科杂志，2005，40（1）：67-70.
+［2］
+胡秋霞，彭新月，石杰敏，等.CXCL12/CXCR4/CXCR7轴在子宫
+内膜异位症中的研究进展［J］. 生命的化学，2020，40（2）：
+262-268.
+［3］
+萧倩敏，徐婉媚，肖玲丽 .卵巢子宫内膜异位症与卵巢癌的
+超声鉴别诊断［J］.吉林医学，2020，41（2）：284-285.
+［4］
+姚书忠，梁炎春.重视子宫内膜异位症手术治疗的恰当性和
+彻底性［J］.中国实用妇科与产科杂志，2020，36（1）：45-49.
+［5］
+徐梅，杨琳，肖翔，等.LYPmRNA在卵巢子宫内膜异位症外周血及卵
+巢组织的表达［J］.中国妇产科临床杂志，2020，21（1）：67-68.
+［6］
+ZOU J F，SU H F，ZOU C L，et al.Ginsenoside Rg3 sup-
+presses the growth of gemcitabine-resistant pan-
+creatic
+cancer
+cells
+by
+upregulating
+lncRNA-
+CASC2 and activating PTEN signaling［J］.J Biochem
+Mol Toxicol，2020，34（6）：e22480.
+［7］
+TIAN L L，SHEN D C，LI X D，et al.Ginsenoside Rg3 in-
+hibits epithelial-mesenchymal transition（EMT）and
+invasion of lung cancer by down-regulating FUT4［J］.
+Oncotarget，2016，7（2）：1619-1632.
+［8］
+PELCH K E，SHARPE-TIMMS K L，NAGEL S C.Mouse model
+of surgically-induced endometriosis by autotran-
+splantation of uterine tissue［J］. J Vis Exp，2012
+（59）：e3396.
+［9］
+FANG F，GONG L L，WANG X J，et al. The association
+between vascular endothelial growth factor（VEGF）+
+405G>C genetic polymorphism and endometriosis［J］.
+Exp Biol Med（Maywood），2015，240（9）：1177-1182.
+［10］ SANCHEZ A M，VANNI V S，BARTIROMO L，et al. Is the
+oocyte quality affected by endometriosis？ A re-
+view of the literature［J］.J Ovarian Res，10（1）：43.
+［11］ 张新艳，刘彦 . 子宫内膜异位症的血管生成与抗血管生成
+治疗［J］.生殖与避孕，2007，27（2）：133-136.
+［12］ VERCELLINI P，VIGANò P，SOMIGLIANA E，et al.Endome-
+triosis：pathogenesis and treatment［J］.Nat Rev En-
+docrinol，2014，10（5）：261-275.
+［13］ VERCELLINI P，SOMIGLIANA E，VIGANò P，et al.Endome-
+triosis：current therapies and new pharmacologi-
+cal developments［J］.Drugs，2019，69（6）：649.
+［14］ KIM M K，LEE S K，PARK J H，et al.Ginsenoside Rg3 de-
+creases fibrotic and invasive nature of endome-
+triosis by modulating mirna-27b：in vitro and in
+vivo studies［J］.Sci Rep，2017，7（1）：17670.
+［15］ CAO Y，YE Q，ZHUANG M F，et al.Ginsenoside Rg3 inhib-
+its angiogenesis in a rat model of endometriosis
+through
+the
+VEGFR-2-mediated
+PI3K/Akt/mTOR
+sig-
+naling pathway［J］.Plos One，2017，12（11）：e0186520.
+［16］ BURNEY R O，GIUDICE L C. Pathogenesis and patho-
+physiology of endometriosis［J］.Fertil Steril，2012，
+98（3）：511-519.
+［17］ COUSINS F L，MURRAY A A，SCANLON J P，et al.Hypoxy-
+probe reveals dynamic spatial and temporal changes
+in hypoxia in a mouse model of endometrial break-
+down and repair［J］.Bmc Res Notes，2016，9：30.
+［18］ FILIPPI I，CARRARELLI P，LUISI S，et al. Different
+expression of hypoxic and angiogenic factors in
+human endometriotic lesions［J］. Reprod Sci，2016，
+23（4）：492-497.
+［19］ LIU H W，ZHANG Z B，XIONG W Q，et al.Hypoxia-inducible
+factor-1α promotes endometrial stromal cells migra-
+tion
+and
+invasion
+by
+upregulating
+autophagy
+in
+endometriosis［J］.Reproduction，2017，153（6）：809-820.
+［20］ XIONG W Q，ZHANG L，XIONG Y，et al.Hypoxia promotes
+invasion of endometrial stromal cells via hypoxia-
+inducible factor-1α upregulation-mediated β-catenin
+activation in endometriosis［J］. Reprod Sci，2016，
+23（4）：531-541.
+［21］ LIN S C，WANG C C，WU M H，et al.Hypoxia-Induced mi-
+71
+Western Journal of Traditional Chinese Medicine,2022 Vol.35 No.11
+中 国 科 技
+核 心 期 刊
+药 理 研 究
+方
+药 ·
+croRNA-20a expression increases ERK phosphoryla-
+tion and angiogenic gene expression in endometri-
+otic stromal cells［J］. J Clin Endocrinol Metab，
+2012，97（8）：e1515-1523.
+［22］ YU Y X，XIU Y L，CHEN X，et al.Transforming growth
+factor-beta 1 involved in the pathogenesis of en-
+dometriosis through regulating expression of vas-
+cular endothelial growth factor under hypoxia［J］.
+Chin Med J（Engl），2017，130（8）：950-956.
+［23］ ETTL T，SCHWARZ-FURLAN S，HAUBNER F，et al.The PI3K/
+AKT/mTOR signalling pathway is active in salivary
+gland cancer and implies different functions and
+prognoses depending on cell localisation［J］.Oral
+Oncol，2012，48（9）：822-830.
+［24］ GORDAN J D，SIMON M C. Hypoxia-inducible factors：
+central regulators of the tumor phenotype［J］.Curr
+Opin Genet Dev，2007，17（1）：71-77.
+［25］ CHANG K K，LIU L B，JIN L P，et al.NME1 suppression
+of endometrial stromal cells promotes angiogene-
+sis in the endometriotic milieu via stimulating
+the secretion of IL-8 and VEGF［J］.Int J Clin Exp
+Pathol 2013，6（10）：2030-2038.
+［26］ LIU J X，LUO M Q，MENG X，et al.Marine compound ca-
+tunaregin inhibits angiogenesis through the modu-
+lation of phosphorylation of Akt and eNOS in vivo
+and in vitro［J］.Mar Drugs，2014，12（5）：2790-2801.
+［27］ KANG Z C，ZHU H B，JIANG W L，et al.Protocatechuic
+acid induces angiogenesis through PI3K-Akt-eNOS-
+VEGF signalling pathway［J］. Basic Clin Pharmacol
+Toxicol，2013，113（4）：221-227.
+［28］ YEO S G，WON Y S，LEE H Y，et al.Increased expression
+of pattern recognition receptors and nitric oxide
+synthase in patients with endometriosis［J］.Int J
+Med Sci，2013，10（9）：1199-1208.
+收稿日期：2022-04-03
+*基金项目：甘肃省自然科学基金（18JR3RA350/092NKDA009）。
+作者简介：李晨阳（1987—），女，硕士学位，医师。研究方向：
+妇产科。
+△通讯作者：张学红（1967—），女，硕士学位，主任医师，教
+授。研究方向：妇产科。
+1
+2
+3
+4
+5
+6
+7
+Akt 1
+1
+2
+3
+4
+5
+6
+7
+p-Akt1
+1
+2
+3
+4
+5
+6
+7
+ERK1/2
+1
+2
+3
+4
+5
+6
+7
+p-ERK1/2
+注：1对照组，2假手术组，3模型组，4阳性对照组，人参皂苷 Rg3低剂量组，6人参皂苷 Rg3中剂量组，7人参皂苷 Rg3高剂
+量组
+附图1
+子宫内膜异位组织中Akt1、p-Akt1、ERK1/2、p-ERK1/2蛋白表达（×200）
+72

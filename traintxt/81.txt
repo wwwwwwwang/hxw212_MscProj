@@ -1,0 +1,948 @@
+2022年10月
+第44卷第10期
+中成药
+Chi nese Tradi t i onal
+Pat ent Medi ci ne
+Oct ober 2022
+Vol I 44
+No．10
+[ 制
+剂]
+人参皂苷Re—p环糊精包合物的制备及其体内药动学研究
+章国磊1，
+姜星宇2，
+王
+伟1，
+陆勃帆1，
+李世男1，
+焦丽丽1，
+李
+慧h，
+吴
+巍h
+( 1．长春中医药大学，吉林省人参科学研究院，吉林长春130117；2．长春金赛药业有限责任公司，吉林
+长春130012)
+摘要：目的制备人参皂苷Re．B．环糊精包合物，并考察其体内药动学。方法溶液搅拌- 冷冻干燥法制备B一环糊精包
+合物，测定溶解度、溶出度，盯．I R、XRD、DSC、SEM进行表征。大鼠随机分为2组，分别灌胃给予人参皂苷Re及
+其B．环糊精包合物的混悬液( 100 mg／kg) ，于0．083、0．25、0．5、l 、2、3、4、6、9、10、12、24 h采血，HPLC-
+MS／MS法测定人参皂苷Re血药浓度，计算主要药动学参数。结果环糊精包合物溶解度、溶出度分别为原料药的
+10．11、4．26倍。人参皂苷Re与B．环糊精以非共价键形式结合，并且前者以无定形状态存在，生成了新物相。与原
+料药比较，p一环糊精包合物C。。、AUCo叫。、AUC。一。升高( P<0．05) ，CLt 、Vdss降低( P<0．05) ，Tl ／2、MRT延长
+( P<0．05) ，L。，缩短( P<0．05) ，相对生物利用度为191．01％。结论环糊精包合物可明显提高人参皂苷Re溶出度、
+体内生物利用度。
+关键词：人参皂苷Re；3- 环糊精包合物；制备；体内药动学；溶液搅拌一冷冻干燥法；HPLC．MS／MS
+中图分类号：R944
+文献标志码：A
+文章编号：1001—1528( 2022) 10．3085．07
+doi ：10．3969／j ．i ssn，1001—1528．2022．10．001
+Preparat i on and
+i n
+vi vo
+pharmacoki net i cs
+of
+gi nsenosi de
+Re—- 13- - cycl odextri n
+i ncl usi on compl ex
+ZHANG Guo—l ei l ，
+J I ANG Xi ng—yu2，
+WANGWei l ，LU Bo．f anl ，LI
+Shi ．nanl ，
+J I AO Li ．1i 1，
+LI Hui h．
+WU Wei l +
+( J ．J i l i n Gi nseng Academy，Changchun Uni versi t y of Chi nese Medi ci ne，Changchun 130117，Chi na；2．Changchun GeneSci enee
+Pharmaceut i cal
+Co．
+Lt d．，Changchun 130012，Chi na)
+ABSTRACT：AI M
+To prepare gi nsenosi de Re一13一cycl odext ri n i ncl usi on compl ex and t o
+i nvest i gat e
+i t s
+i n
+vi vo
+pharmacoki net i cs．METHODS
+The 13- cycl odext ri n
+i ncl usi on compl ex was
+prepared by
+sol ut i on st i rri ng—f reeze
+dryi ng met hod，t hen t he sol ubi l i t y and di ssol ut i on rat e were det ermi ned，and t he charact eri zat i on was perf ormed by
+FT—I R，XRD，DSC and SEM．Rat s were randoml y assi gned i nt o t wo groups and gi ven i nt ragast ri c admi ni st rat i on of
+t he suspensi ons of gi nsenosi de Re and i t s 13- cycl odextri n i ncl usi on compl ex( 100 mg／kg) ，respect i vel y，af t er whi ch
+bl ood col l ect i on was made
+at
+0．083，0．25，0．5，1，2，3，4，6，9，10，12，24 h，HPLC was adopt ed i n t he
+pl asma concent rat i on
+det ermi nat i on of
+gi nsenosi de Re，and mai n pharmacoki net i c
+paramet ers
+were
+cal cul at ed．
+RESULTS
+The sol ubi l i t y and di ssol ut i on rat e of 13一cycl odextri n i ncl usi on compl ex were 10．1 1 and 4．26 t i mes
+as
+hi gh as t hose of raw medi ci ne，respect i vel y．Gi nsenosi de Re and 13- cycl odext ri n were combi ned i n a non- coval ent
+bond f orm，and t he f ormer exi st ed i n
+an amorphous
+st at e wi t h t he generat i on of
+new phase．Compared wi t h raw
+medi ci ne，t he 13- cycl odext ri n i ncl usi on compl ex di spl ayed i ncreased C。。，AUCo一24h and AUCo一。( P<0．05) ，
+decreased CLt and Vdss( P<0．05) ，prol onged
+Tl ／2 and MRT( P<0．05) ，and short ened Tm。。( P<0．05) ，t he
+收稿日期：2022．02．16
+基金项目：国家自然科学基金( 82003969) ；大学生创新创业训练项目( 202110199015) ；吉林省卫计委项目( 2020Q027) ；吉林省教
+育厅项目( J J KH20220883KJ ) ；长春中医药大学青年科学家项目( QNKXJ 2—2021+zr21)
+作者简介：章国磊( 1998一) ，男，硕士生，从事中药分析研究。E．mai l ：2084153663@qq．corn
+。通信作者：李慧( 1984一) ，女，博士，助理研究员，从事中药制剂研究。E．mai l ：l i hui t erri sa@163．com
+吴巍( 1974一) ，女，博士，研究员，从事质谱分析研究。E- mai l ：wei wu—ccucm@126．com
+3085
+万方数据
+2022年10月
+第44卷第10期
+中成药
+Chi nese Tradi t i onal
+Pat ent Medi ei ne
+0ct ober 2022
+V01．44
+No．10
+rel at i ve bi oavai l abi l i y was 191．01％．CONCLUSI ON
+13- Cycl odext ri n i ncl usi on compl ex
+can obvi ousl y i mprove
+t he di ssol ut i on rat e and i n vi vo bi oavai l abi l i t y of gi nsenosi de Re．
+KEY WORDS：gi nsenosi de
+Re；13- cycl odext ri n
+i ncl usi on
+compl ex；preparat i on；i n
+vi vo
+pharmacoki net i cs；
+sol ut i on st i rri ng—f reeze dryi ng met hod；HPLC- MS／MS
+人参皂苷Re是人参三醇型皂苷的主要成
+员¨ ] ，具有提高记忆力‘
+2。、促进脂质代谢阳] 、改
+善心血管Hj 、抗衰老[ 5] 、抗疲劳M3等药理活性。
+但该成分溶解度较差，生物利用度很低，导致其临
+床应用受限¨ 1。
+近年来，环糊精包合技术在提高疏水性药物溶
+解性、化学稳定性、生物利用度方面取得了较好效
+果旧‘ 9J ，其中B一环糊精作为难溶性药物分子的包合
+材料，因其低生物毒性、高生物相容性而备受关
+注¨ 0。” ] ，但尚无应用于包合人参皂苷Re的报道。
+因此，本实验制备人参皂苷Re一13一环糊精包合物，
+并考察其体内药动学，以期为改善该成分吸收、增
+加其临床应用提供依据。
+1材料
+1．1仪器Agi l ent 1200高效液相色谱仪( 美国
+Agi l ent 公司) ；Ni col et i S5傅里叶变换红外光谱仪
+( 美国Thermo公司) ；TA—Q20差示量热扫描仪
+( 美国TA公司) ；TD3500 X射线衍射仪( 丹东通
+达科技有限公司) ；J SM．I Tl 00扫描电子显微镜
+( 日本电子株式会社) ；HAC．I 自动氮吹浓缩仪
+( 天津市恒奥科技发展有限公司) ；Uhi mat e3000型
+液相色谱系统、TSQ Endura三重四极杆质谱仪
+( 美国Thermo公司) ；AG 22331低温高速离心机
+( 德国Eppendorf 公司) ；SQP电子分析天平[ 赛多
+利斯科学仪器( 北京) 有限公司] 。
+1．2
+试剂与药物
+对照品人参皂苷Re( 批号
+B10M8S35243，上海源叶生物科技有限公司，纯度
+I >98％) 、人参皂苷Rf ( 批号52286—58· 5，上海宝
+曼生物科技有限公司，纯度≥98％) 。B一环糊精
+( 批号C10575901，上海麦克林生化科技有限公司，
+纯度>98％) 。甲酸、乙腈为色谱纯( 美国Thermo
+Fi sher Sci ent i f i c公司) ；其他试剂均为分析纯；水
+为双蒸水。
+1．3动物
+SD大鼠，雄性，体质量200—220 g，
+购自中国长春亿斯实验动物技术有限公司，许可证
+号XSl 91227014037，动物福利和实验由长春中医
+药大学动物保健与使用委员会批准。
+2方法与结果
+2．1相溶解度测定基于Hi guchi 、Connorsl l 4] 报
+3086
+道的方法，将过量人参皂苷Re加到2 mL不同浓
+度( 0—30 mmol ／L) 3- 环糊精溶液中搅拌混匀，充
+入氮气后密封以防止药物氧化，将混悬液在25℃
+下搅拌168 h，达到平衡后4 000 r／mi n离心
+10 mi n，除去多余的人参皂苷Re，滤液过0．22 I xm
+微孔滤膜，适当稀释后采用HPLC法¨ 纠测定人参
+皂苷Re含量。以B一环糊精浓度为横坐标( X) ，
+人参皂苷Re在不同浓度B一环糊精溶液中的溶解度
+为纵坐标( y) 绘制相溶解度曲线，计算表观稳定
+常数( K。) ，公式为K。=Sl ope／S。( 1- Sl ope) ，其中
+Sl ope为曲线斜率，5。为在没有B．环糊精时人参皂
+苷Re溶解度。其他热力学参数可通过温度和稳定
+常数计算得到，如吉布斯自由能( AG) ，公式为
+AG=一RTI nKs，其中J R为通用气体常数[ 8．314
+J ／( mol · K) ] ，r为开尔文温度。
+结果，相溶解度曲线为y=0．002 7X+0．105 4
+( R20．997 0) ，表明人参皂苷Re溶解度随着B一环
+糊精浓度增加而线性升高，根据相溶解度图分类方
+法，可将其归为A．型，即包合物是由人参皂苷Re
+与B．环糊精按1：1比例结合所得。另外，S。( × 10。3
+mol ／L) 为0．403，Sl ope为0．189，K( × 10。mol ／L) 为
+0．631，AG为一16．837 5 kJ ／mol <0，表明包合在常温
+常压下溶液中可能是自发进行的。
+2．2包合物、物理混合物制备
+2．2．1包合物按1：1比例精密称取B一环糊精、
+人参皂苷Re适量，将前者置于磨口锥形瓶中，加
+入150倍量水，水浴加热搅拌使其充分溶解；后者
+加入适量无水乙醇使其完全溶解，缓慢滴加至前者
+溶液中，在30℃下搅拌4 h，60℃旋转蒸发除去
+溶剂，滤液在一80℃下冷冻12 h，置于冻干机中冷
+冻至完全干燥，即得( 性状为白色固体粉末) 。
+2．2．2物理混合物按1：1比例精密称取B一环
+糊精、人参皂苷Re适量，搅拌混匀，即得。
+2．3溶解度测定精密称取过量人参皂苷Re及
+其B．环糊精包合物，置于10 mL棕色量瓶中，蒸
+馏水溶解并定容至刻度，制成过饱和溶液，35℃、
+100 r／mi n离心，微孑L滤膜过滤，取续滤液，HPLC
+法¨ 纠测定人参皂苷Re含量，计算溶解度。结果，
+人参皂苷Re及其p．环糊精包合物的溶解度分别为
+万方数据
+2022年10月
+第44卷第10期
+中成药
+Chi nese Tradi t i onal
+Pat ent
+Medi ci ne
+Oct ober 2022
+V01．44
+No．10
+0．35、3．54 mg／mL，后者是前者的10．11倍。
+2．4溶出度测定精密称取原料药、物理混合物、
+8一环糊精包合物各6份( 均含20 mg人参皂苷
+Re) ，置于( 37± 0．5) ℃恒温的200 mL去离子水
+中，设定转速为100 r／mi n。采用转篮法，当药物
+接触到介质时于5、15、30、45、60 mi n用取样针
+各取样1．0 mL，同时补加1．0 mL同温介质，0．22
+斗m水系微孑L滤膜过滤，在203 nm波长处测定吸
+光度¨ 5I ，计算累积溶出度，绘制溶出曲线，结果
+见图1。由此可知，原料药溶出非常缓慢，60 rai n
+内累积溶出度仍小于20％；物理混合物累积溶出
+度略高于原料药；3- 环糊精包合物溶出非常迅速，
+这可能是由于B一环糊精可显著减少人参皂苷Re与
+溶解介质之间的界面张力，从而提高前者溶出度和
+溶解度，并且在一定程度上也能改善其口服生物利
+用度№17I 。
+100
+80
+薹60
+毳
+嚣40
+20
+O
+图1各样品溶出曲线
+Fi g．1
+Di ssol ut i on curves f or vari ous sampl es
+2．5表征研究
+2．5．1傅立叶红外光谱( FT—I R)
+取原料药、
+p．环糊精、物理混合物、p．环糊精包合物适量，与
+KBr混合研磨均匀后压片，采用傅里叶红外光谱仪
+在4 000～400 am。波数范围内进行分析，结果见图
+2。由此可知，原料药红外谱图中3 427．1 am一附
+近为．OH的伸缩振动峰，2 932．3、2 872．3 em一附
+近分别为一CH，、一CH，的伸缩振动峰，1 650．3 am。1
+附近为一OH的弯曲振动峰，1 029．3 am叫附近为c一
+0的伸缩振动峰；物理混合物红外谱图可看成是
+B．环糊精、人参皂苷Re红外谱图的叠加，一CH：的
+伸缩振动峰仍存在；3- 环糊精包合物红外谱图中上
+述特征峰消失，与B．环糊精红外谱图非常接近，
+表明该制剂成功形成，同时没有出现新的吸收峰，
+表明原料药与B．环糊精包合物之间没有形成共价
+键，而是以非共价键形式结合。
+2．5．2
+x射线衍射( XRD)
+取原料药、B．环糊
+、
+／、∥
+、＼／2 9，如2粤3
+3 4271
+，／、／
+。?，一’ 1翼’ j ／
+30名。苔㈣
+3407 8
+，
+、
+2 929 8
+1坐!
+竺! ：
+．4 000
+．3 500
+．3 000
+—2 500
+—2 000
+- I
+500
+- l
+000
+- 500
+波数／cm。。
+注：A～D分别为人参皂苷Re、B- 环糊精、物理混合物、人
+参皂苷Re· B一环糊精包合物。
+图2各样品FT- I R图谱
+Fi g．2
+FT- I R spect ra f or vari ous sampl es
+精、物理混合物、p一环糊精包合物适量，在2p
+0。～80。范围内进行分析，结果见图3。由此可知，
+原料药呈晶形结构，明显特征峰出现在9．58。处；
+B．环糊精也呈晶形结构，明显特征峰出现在
+13．26。处；物理混合物存在人参皂苷Re衍射峰、
+B．环糊精无定形结构，其图谱是由每个单一组分的
+光谱叠加组成，表明没有新结构形成；3- 环糊精包
+合物峰型和强度与上述样品明显不同，呈光晕状的
+无定形状态，9．580、13．26。处特征峰消失，原料
+药、B．环糊精的衍射峰晶形在包合前后发生显著变
+化，表明两者成功形成包合物。
+注：A～D分别为人参皂苷Re、B- 环糊精、物理混
+合物、人参皂苷Re—B一环糊精包合物。
+图3各样品XRD图谱
+Fi g．3
+XRD pat t erns f or vari ous sampl es
+2．5．3差示扫描量热( DSC)
+在DSC分析测定
+曲线中，当客体分子全部或部分包含在CD腔或晶
+格中时，其自身特征可能不同于自然结构，一般来
+说其融化、沸腾或升华点可转移到1个不同的温度
+或消失¨ 8I 。取原料药、B一环糊精、物理混合物、
+B一环糊精包合物适量，以氧化铝作为参考材料，在
+N，保护下以10 oC／mi n扫描速率程序升温( 20～
+300℃) ，结果见图4。由此可知，原料药在95．8、
+112．8℃处分别有1个吸热峰；3- 环糊精在93．0℃
+处有1个宽的吸热峰，可能是由于其所含水的释放
+所致；物理混合物仍存在原料药吸热峰；3- 环糊精
+包合物中原料药吸热峰消失，在104．3℃处出现了
+3087
+v
+～、．、，一
+∥参妒龄，。
+万方数据
+2022年10月
+第44卷第10期
+中成药
+Chi nese Tradi t i onaJ
+Pat ent
+Medi ei ne
+Oct ober
+2022
+V01．44
+No．10
+1个新的吸热峰，表明原料药与B- 环糊精成功形成
+包合物。
+、
+A
+—一、√i —1i F赢i 百一
+．25￡E叠! 堇．
+竺竺竺坚
+0
+50
+I OO
+50
+200
+250
+j O( J
+温度／“ C
+．：∑五二二二二坠：
+0
+50
+l OO
+150
+200
+250
+300
+温度／' C
+0
+50
+I UU
+50
+200
+250
+300
+温度，℃
+L＼＼、、 ／／／～～、D
+0
+50
+l OO
+50
+200
+250
+300
+温度／℃
+注：A—J ) 分别为人参一皂f } =Re、3- 环糊精、物理混合
+物、人参皂仟Re一13一环糊精包合物。
+图4各样品DSC图谱
+Fi g．4
+DSC pat t erns f or vari ous sampl es
+2．5．4扫描电子显微镜( SEM)
+取原料药、B．
+环糊精、物理混合物、6一环糊精包合物适量，对其
+形状和表面特征进行观察，结果见图5。由此可
+知，原料药呈块状晶体；3- 环糊精呈碎片状晶体；
+物理混合物同时存在块状、碎片状晶体；3- 环糊精
+包合物中原料药、B．环糊精形态消失，其物相结构
+明显不同于物理混合物，表明两者形成包合物后主
+客分子的原晶格排列发生变化，形成新物相。
+注：、～1) 分圳为人参t 也汁R|、3- 环糊f f 々、物理混i ÷ 物
+人参r4 f 1：Ib，一B· 环糊精包合物
+图5各样品SEM图
+Fi g．5
+SEMi mages f or vari ous sampl es
+2．6药动学研究
+2．6．1
+药液制备
+称取200 mg原料药，加到
+10 mL蒸馏水中，超声处理后充分混匀，制成
+3088
+20 mg／mL混悬液；称取500 mg 3- 环糊精包合物
+( 原料药含量为40．07％) ，加到10 mL蒸馏水中，
+超声处理后充分混匀，制成50 megmL混悬液。
+2．6．2分组、给药与采血
+12只大鼠随机分为2
+组，每组6只，适应性饲养1周，给药前禁食不禁
+水12 h，分别一次性灌胃给予“ 2．6．1” 项下2种
+药液，剂量均为100 mg／kg，于0．083、0．25、
+0．5、1、2、3、4、6、9、10、12、24 h眼眶静脉
+丛采血各约0．5 mL，置于肝素钠抗凝处理的1．5
+mL离心管中，4℃、4 000 r／mi n离心10 mi n，分
+离得到上层血浆，在一80℃下保存。
+2．6．3
+HPLC—MS／MS分析条件
+2．6．3．1色谱反相Accucore C】8分析柱( 100 mmx
+2．1 mi l l ，2．6“ m) ；流动相0．1％甲酸( A) 一乙腈
+( B) ，梯度洗脱( 0～5．0 mi n，25％一30％B；5．0—
+8．0 mi n，30％～32％B；8．0—9．0 mi n，32％～36％
+B；9．0～16．0 mi n，36％～37％B；16．0～16．8 mi n，
+37％～48％B；16．8～17．8 mi n，48％一70％B；
+17．8～18．8 mi n，70％～90％B；18．8～20．8
+mi n，
+90％一25％B；20．8—25 mi n，25％B) ；体积流量
+0．2 mL／mi n；柱温30 cC；自动进样器温度4 oc；
+进样量5 LLL。
+2．6．3．2质谱电喷雾离子源( ESI ) ，负离子多
+级反应监测模式( MRM) ；喷雾电压3 kV；毛细
+管温度325 oC；雾化器温度275℃；鞘气、辅助气
+压力30、10 arb；人参皂苷Re、人参皂苷Rf 均采
+用[ M+HC00] 一离子进行多级反应监测( MRM) ，
+前者m儿991．5～945．5，945．5～637．3，637．3—
+475．3；后者m／z 845．48～799．3l ，799．3l ～637．3，
+637．3—475．3；碰撞能量55、45 eV。
+2．6．4对照品、内标溶液制备
+精密称取人参皂
+苷Re对照品5．00 mg，5 mL 80％甲醇制成
+l mg／mL对照品溶液；同法将人参皂苷Rf 对照品
+制成10 ng／mL内标溶液，在4℃下保存。
+2．6．5血浆处理精密移取血浆0．1 mL、内标溶
+液20 t xL、50％甲醇80“ L，加入0．5 mL甲醇一乙腈
+( 60：40) 混合溶液进行蛋白沉淀，涡旋振荡3 mi n，
+12 000 r／mi n离心10 mi n，分离出上清液，40℃氮
+气流蒸干，残余物用0．2 mL 80％甲醇溶解，过
+0．22斗m有机滤膜，进行HPLC—MS／MS分析( 进
+样量5止) ，内标法计算人参皂苷Re血药浓度。
+2．6．6线性关系考察分别将对照品、内标溶液
+加到空白血浆中，制备血浆对照品、内标溶液，两
+者质量浓度分别为0．05～100、1 ng／mL，按
+万方数据
+2022年10月
+第44卷第10期
+中成药
+Chi nese Tradi t i onal
+Pat ent Medi ci ne
+0ct ober 2022
+V01．44
+No．10
+“ 2．6．5” 项下方法处理，在“ 2．6．3” 项条件下进
+样测定。以对照品、内标峰面积比值为横坐标
+( x) ，对照品质量浓度为纵坐标( y) 进行回归，
+得方程为Y=0．233 4X+1．564 5( R2=0．993 6) ，
+在0．05—100 ng／mL范围内线性关系良好。同时，
+信噪比( S／N) ≥3时检测限为0．001 6 n∥ mL，
+S／N≥10时定量限为0．005 3 ri g／mL。
+2．6．7专属性、基质效应考察
+取空白血浆、血
+浆质控样品( 含0．05 ng／mL人参皂苷Re) 、给药
+24 h后血浆适量，按“ 2．6．5” 项下方法处理，在
+“ 2．6．3” 项条件下进样测定，结果见图6。由此可
+知，对照品、内标分离度良好，内源性血浆物质无
+明显干扰。取低、中、高质量浓度( 0．05、10、
+100 ng／mL) 血浆质控样品适量，按“ 2．6．5” 项
+下方法处理，在“ 2．6．3” 项条件下进样测定，同
+法分析含内标的相同质量浓度对照品溶液和内标溶
+液，测得人参皂苷Re基质效应分别为103．69％、
+98．45％、95．07％，内标基质效应分别为95．26％、
+96．33％、94．81％，表明该方法具有较好的专属
+性，可有效避免基质效应对测定结果的影响。
+2．6．8精密度、准确度、提取回收率、稳定性试
+验按“ 2．6．6” 项下方法制备低、中、高质量浓
+度( 0．05、10、100 ng／mL) 对照品溶液及含
+1 ng／mL内标的血浆质控样品溶液，按“ 2．6．5”
+项下方法处理，同一天内在“ 2．6．3” 项条件下进
+样测定6次，计算日内精密度；同法连续测定3 d，
+每天1次，计算日间精密度，测得前者RSD分别
+为6．72％、4．16％、8．36％，后者RSD分别为
+8．03％、5．69％、9．10％，表明该方法精密度良
+好。准确度用相对方法回收率表示，测得日内准确
+度分别为104．01％、107．80％、104．32％，日间准
+确度分别为106．71％、105．18％、91．37％，表明
+该方法准确度良好。取上述质量浓度血浆质控样品
+溶液各0．1 mL，按“ 2．6．5” 项下方法处理，在
+“ 2．6．3” 项条件下进样测定，同时取0．1 mL相同
+来源的空白血浆，按“ 2．6．5” 项下方法处理，加
+人与血浆质控样品相同质量浓度的对照品溶液和内
+标溶液，在“ 2．6．3” 项条件下进样测定，计算提
+取回收率，公式为提取回收率=( C／S) × 100％，
+其中c为血浆质控样品溶液中人参皂苷Re峰面
+积，S为对照品溶液中人参皂苷Re峰面积，结果
+分别为91．24％、94．16％、95．18％。取上述3个
+质量浓度的血浆质控样品溶液适量，分别在4℃下
+保存24 h、- 20 oC下进行3次冻融循环、- 80℃下
+80
+70
+60
+50
+萋一o
+30
+20
+10
+O
+80
+70
+60
+§ 50
+交40
+鼎30
+20
+10
+O
+80
+70
+60
+p 50
+2
+o 40
+蜊
+鳗30
+20
+10
+0
+0
+2
+4
+6
+8
+10
+I ／mt i l
+A空白血浆
+0
+2
+4
+6
+8
+10
+t ／mi n
+B血浆质控样品( 含O 05 ng／mL人参皂苷Re)
+，，ml l l
+C给药24 h后血浆
+1．人参皂苷Re
+2．内标( 人参皂苷Ⅺ)
+1．gi nsenosi de Re
+2．i nt ernal st andard( gi nsenosi de Rf )
+图6人参皂苷Re MRM色谱图
+Fi g．6
+MRMchromat ograms of gi nsenosi de Re
+保存30 d，按“ 2．6．5” 项下方法处理，在
+“ 2．6．3” 项条件下进样测定，测得人参皂苷Re峰
+面积RSD分别为4．65％、5．1 1％、8．35％，表明样
+品在上述条件下均具有良好的稳定性。
+2．7结果分析大鼠灌胃给药后，绘制血药浓度．
+时间曲线，见图7，再采用Phoeni x Wi nNonl i n 8．1
+药动软件( 美国Pharsi ght 公司) 中的非房室模型
+统计矩方法计算主要药动学参数，结果见表1。由
+此可知，与原料药比较，p一环糊精包合物C。一
+AUCo。24 h、AUCo．。升高( P<0．05) ，CLt 、Vdss降
+低( P<0．05) ，Tl ／2、MRT延长( P<0．05) ，n。。
+3089
+万方数据
+2022年10月
+第44卷第10期
+ee成药
+Chi nese Tradi t i onal
+Pat ent Medi ci ne
+Oct ober 2022
+V01．44
+No．10
+缩短( P<O．05) ，相对生物利用度为191．01％。
+f
+一
+基
+∞S
+型
+爱
+椽：
+自
+} 物
+图7人参皂苷Re血药浓度- 时间曲线
+Fi g．7
+Pl asma concent rat i on- t i me curves f or gi nsenosi de Re
+环中人参皂苷Re在胃肠道不同位置吸收速率的差
+异所致旧1|。除此之外，肠肝循环也是重要原因之
+一，并受某些酶的水解作用或重吸收过程中胆汁间
+歇性释放的影响，导致产生2个或多个峰，并且药
+物由于分布于。肾脏、心脏、肝脏，其再分配效应也
+可能会造成多峰现象睥2I ，这对人参皂苷Re相关剂
+型的开发具有重要参考意义。
+参考文献
+[ 2]
+[ 3]
+表1人参皂苷Re主要药动学参数( i 蜘，n=6)
+Tab．1
+Mai n pharmacoki net i c paramet ers
+f or gi nsenosi de
+Re( i 蝴，n=6)
+[ 4]
+参数
+单位
+人参皂苷Re人参皂苷Re- B一环糊精包合物
+C。。
+ng·
+mL～
+32．24± 8．15
+66．86± 2．75+
+Tm。h
+1．023± 0．04
+0．49± 0．03+
+rl ／2
+h
+11．76+2．15
+19．33+7．11+
+AUC0—24 h ng·
+mL～·
+h
+80．28± 11．46
+153．34± 22．81+
+AUCo一。ng·
+mL～·
+h
+92．49士17．27
+186．99± 19．13+
+MRT
+h
+5．68± 0．69
+9．70± 1．04‘
+CLt
+L．h一1
+2．73士0．35
+1．39± 0．22+
+∑! ：!
+生：!g：：
+! ：堑圭! ：! !
+! ：! i 圭! ：! ! ：
+注：与人参皂苷Re比较，+P<0．05。
+3讨论
+本实验将水溶性较差的人参皂苷Re与p- 环糊
+精制成包合物，通过兀1- I R、XRD、DSC表征发
+现，包合后该成分热性质、晶体形貌等参数发生明
+显变化，表明包合物成功形成。再建立HPLC—MS／
+MS法测定人参皂苷Re血药浓度，发现包合物可
+增加C。。，缩短咒。。，提高相对生物利用度，其原
+因可能是由于B．环糊精含有多个亲水性的醇羟基，
+使包合物具有良好的可湿润性，在水中的溶解度得
+到改善，药物分子更易通过生物细胞膜和血脑屏
+障[ 19。；包合物体内半衰期延长，可能是由于包合
+作用使人参皂苷Re溶解性增加，从而加速药物吸
+收，提高血药浓度，导致机体清除时间延长。
+研究表明，B一环糊精及其衍生物可耗竭细胞膜
+上胆固醇，改变其结构、通透性，从而抑制与口服
+药物生物利用度密切相关的P．糖蛋白活性。20c，使
+药物进入肠上皮细胞的机率、进人肝肠循环的药物
+增加，导致MRT、T∽延长。本实验发现，包合物
+药动学曲线消除相上有峰波动，可能是由于肠胃循
+3090
+[ 5]
+[ 6]
+[ 7]
+[ 8]
+[ 9]
+[ 10]
+[ 12]
+韦豪华，张红玲，李兴太，等．人参皂苷Re的药理作用研
+究进展[ J ] ．大连民族大学学报，2018，20( 1) ：21—26；35．
+Li u Y W，Zhu
+X，Li
+W，et
+a1．Gi nsenosi de
+Re
+at t enuat es
+di ahet es- associ at ed cogni t i ve
+def i ci t s
+i n rat s[ J ] ．Pharmacol
+Bi ochemBehav，2012，101( 1) ：93- 98．
+Peng
+L，Sun
+S，Xi e
+L
+H，et
+a1．Gi nsenosi de
+Re：
+pharmacol ogi cal
+ef f ect s on cardi ovascul ar syst em[ J ] ．Cardi ovasc
+Ther，2012，30( 4) ：183—188．
+陈广通，杨敏，果德安．人参皂苷Re在大鼠体内的代谢
+研究[ J ] ．中国中药杂志，2009，34( 12) ：1540- 1543．
+Yi n B C，Yu F W，Wei
+H，et
+a1．Ef f ect of
+B- compl ex vi t ami ns
+on t he ant i f at i gue act i vi t y
+and bi oavai l abi l i t y of
+gi nsenosi de Re
+af t er oral
+admi ni st rat i on[ J ] ．J
+Gi rLseng Res，2017，41( 2) ：
+209．214．
+Zhang X M，Wang Y Z，Ma C，et
+a1．Gi nsenosi de Rd and
+gi nsenosi de
+Re
+of f er
+neuroprot ect i on
+i n
+a
+novel
+model
+of
+Parki nson’
+S di sease[ J ] ．Am J
+Neurodegener Di s，2016，5
+( 1) ：52—61．
+J oo K M．Lee J H，J eon H Y，el
+a1．Pharmacoki net i c st udy of
+gi nsenosi de Re
+wi t h pure
+gi nsenosi de Re
+and gi nseng
+berry
+ext ract s
+i n
+mouse
+usi ng
+ul t ra
+perf ormance
+l i qui d
+chmmat ogmphy／mass
+spect romet ri c
+met hod[ J ] ．J
+Pharm
+Bi omed Anal ，2010，51( I ) ：278—283．
+Gao S S．Sun J ，Fu D J ，et
+a1．Preparat i on，charact eri zat i on
+and
+pharmacoki net i c
+st udi es
+of
+t acrol i mus· di met hyl - B—
+cycl odext ri n
+i ncl usi on
+compl ex—l oaded
+al bumi n
+nanopart i cl es
+[ J ] ．肌￡J Pharm，2012，427( 2) ：410—416．
+Hwang Y Y，Shi n D C，Nam Y S，et
+a1．Charact eri zat i on，
+st abi l i t y，and
+pharmacoki net i cs
+of
+si but rami ne／13一cycl odext ri n
+i ncl usi on compl ex[ J ] ．J
+l nd Eng Chem，2012，18( 14) ：
+1412．1417．
+He J
+F，Guo F X，Li n L，el
+a1．I nvest i gat i ng t he oxyresverat rol
+3- cycl odext ri n
+and 2- hydroxypropyl 一13一cycl odext ri n compl exes：
+The ef f ect s
+on
+oxyresverat rol
+sol ut i on，st abi l i t y，and
+anti —
+browni ng
+abi l i t y
+on
+f l esh
+grape j ui ce[ J ] ．LWT- Food
+Sei
+Technol ，2019，100：263- 270．
+Yi l di z Z l ，Cel ebi ogl u
+A，Ki l i c ME，el
+a1．Fast · di ssol vi ng
+carvacrol ／cycl odext ri n i ncl usi on compl ex el ect rospun f i bers wi t h
+enhanced t hermal
+st abi l i t y，wat er
+sol ubi l i t y，and
+ant i oxi dant
+act i vi t y[ J ] ．，Mat er Sci ，2018，53( 23) ：15837—15849．
+Sharma A．Lee
+H J ．Gi nsenosi de compound K：I nsi ght s
+i nt o
+万方数据
+2022年10月
+第44卷第10期
+中成药
+Chi nese Tradi t i onal
+Pat ent Medi ci ne
+Oct ober 2022
+V01．44
+No．10
+recent
+st udi es
+on
+pharmacoki net i cs
+and
+heal t h·
+promot i ng
+act i vi t i es[ J ] ．Bi omol ecul es，2020，10( 7) ：1028．
+Lee P S，Han
+J
+Y，Song T W，et
+a1．Physi cochemi cal
+charact eri st i cs and bi oavai l abi l i t y of a novel
+i nt est i nal
+met abol i t e
+of 舀nseng saponi n( I H901) compl exed wi t h 13- cycl odextri n[ J ]
+／nt J Pharm，2006，316( 1- 2) ：29—36．
+Hi guchi
+T，Connom K A．Phase—sol ubi l i t y
+t echni ques[ J ] ．
+Adv Anal ChemI nst rum，1965，4：117- 212．
+高金芝，焦安妮，于敏，等．人参皂苷Re冻干脂质体的制
+备及贮存稳定性研究[ J ] ．中草药，2018，49( 2) ：330—336．
+Li u
+H．Yang
+G，Tang
+Y
+J ，et
+a1．Physi cochemi cal
+charact eri zat i on
+and
+pharmacoki net i cs
+eval uat i on
+of
+B-
+caryophyl l ene／13一cycl odextri n
+i ncl usi on compl ex[ J ] ．h￡J
+Pharm，2013，450( 1- 2) ：304· 310．
+Soares．Sobri nho J
+L，Sant os
+F L A，Lyra MA M，et
+al ，
+Benzni dazol e
+drug
+del i very
+by
+bi nary
+and
+mul t i component
+i ncl usi on
+compl exes
+usi ng
+cycl odext ri ns
+and
+pol ymers[ J ] ．
+Carbohydr Pol ym，2012，89( 2) ：323—330．
+[ 18]
+[ 19]
+[ 20]
+[ 21]
+[ 22]
+Marques
+H MC，Hadgraf t
+J ，Kel l away
+I
+W．St udi es
+of
+cycl odext ri n i ncl usi on compl exes．I ．The sal but amol —cycl odext ri n
+compl ex as
+st udi ed by
+phase sol ubi l i t y
+and DSC[ J ] ．砌，
+Pharm，1990，63( 3) ：259—266．
+Li u
+H，Yang
+G，Tang
+Y
+J ，et
+a1．Physi cochemi cal
+charact eri zat i on
+and
+pharmacoki net i es
+eval uat i on
+of
+B-
+caryophyl l ene／13· eycl odextri n
+i ncl usi on compl ex[ J ] ．如￡，
+Pharm，2013，450( 1- 2) ：304—310．
+张艳斌，崔元璐．环糊精包合作用对在体大鼠肠道P一糖蛋
+白药泵的影响[ J ] ．中国药理学通报，2008，24( 10) ：
+1318．1323．
+Gu
+F，Li
+W，Men
+G，et
+a1．Pharmacoki net i c
+st udy
+of
+norf l oxaei n—sul f obut yl et her—B—cyel odext ri n
+compl ex
+i n rat [ J ] ．
+Chi n J Mod Appl p^orm，2012，29：346- 349．
+Wu H C，Li u
+H M，Du S
+Y，et
+a1．Compari son
+of
+pharmacoki net i cs
+of
+di f f erent
+oral
+Panax not ogi nseng saponi ns
+usi ng
+ul t ra—hi gh
+perf ormance
+l i qui d
+mass
+spect romet ry[ J ] ．
+J
+Tradi t
+Chi n Med Sci ，2021，8( 1) ：90—98．
+白屈菜红碱PLGA纳米粒的制备及其体内药动学研究
+徐志杰
+( 威海海洋职业学院，山东威海264300)
+摘要：目的制备白屈菜红碱聚乳酸一羟基乙酸共聚物( PLGA) 纳米粒，并考察其体内药动学。方法溶剂挥发法制
+备PLGA纳米粒，XRPD进行晶型分析，测定溶解度、体外释药。以表面活性剂种类和浓度、PLGA用量、超声功率、
+超声时间为影响因素，包封率、载药量、粒径为评价指标，单因素试验优化制备工艺。大鼠随机分为2组，分别灌胃
+给予白屈菜红碱及其PLGA纳米粒的0．5％CMC- Na混悬液，于不同时间点采血，HPLC法测定白屈菜红碱血药浓度，
+计算主要药动学参数。结果最佳条件为白屈菜红碱用量30 mg，PLGA用量400 mg，表面活性剂( F68) 浓度1％，
+超声功率300 W，超声时间12 rai n，平均包封率为( 83．71± 1．73) ％，载药量为( 5．76± 0．27) ％，粒径为( 231．82±
+15．73) nm，PDI 为0．101_+0．014，Zet a电位为( - 17．11± 1．94) mV。白屈菜红碱以无定形状态存在。PLGA纳米粒溶
+解度为原料药的13．4倍，72 h内累积释放度为81．07％。与原料药比较，PLGA纳米粒t ⋯ 、t l ／2延长( P<0．01) ，
+C。。、AUC¨ 、AUC。一。升高( P<0．01) ，生物利用度增加至4．08倍。结论PLGA纳米粒可促进白屈菜红碱体外溶
+出，提高其口服生物利用度。
+关键词：白屈菜红碱；聚乳酸- 羟基乙酸共聚物( PLGA) 纳米粒；制备；体内药动学；溶剂挥发法；HPLC
+中图分类号：R944
+文献标志码：A
+文章编号：1001．1528( 2022) 10．3091．07
+doi ：l O．3969／j ．i ssn．1001—1528．2022．10．002
+收稿日期：2022．06- 24
+基金项目：国家自然科学青年基金( 51804021) ；山东省医药卫生科技发展计划项目( 2017WS594)
+作者简介：徐志杰( 1984一) ，女，硕士，讲师，研究方向为现代给药系统与制剂新技术。Tel ：( 0631) 7697687，E- mai l ：=j 18669333606@
+126．com
+3091
+吲
+州
+吲
+吲
+忉
+rL
+rl
+rL
+万方数据

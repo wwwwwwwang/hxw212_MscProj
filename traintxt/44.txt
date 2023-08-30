@@ -1,0 +1,424 @@
+国 
+凼 婆 
+盘查 
+! 生 旦箜 ! 鲞箜 塑
+! 
+』 nd0cri nol ~ktab，MaI℃h 2(XI7，Vol 27，No．2 
+人参及其主要成分抗糖 尿病作用机制 
+尚 文斌
+杨 颖 
+陈名道 
+【摘要】 
+临床和实验研究表明人参及其活性成分具有调节糖脂代谢，抗糖尿病和肥胖的作用。 
+由于有效成分组成和含量的不同 ，导致其作用机制具有复杂性 和多样性 ，涉及糖脂 代谢 的多个方 面 ，
+ 
+主要 与抑制食欲和肠道葡萄糖与脂肪的吸收 ；影响糖脂代谢通 路 ，增加 能量消耗 ；调节过氧 化物酶体 
+增殖物活化受体 
+( PPAR7) 活性 和表达 ，改善胰岛素抵抗 ；促进胰岛素合成 和释放以及抗胰 岛 』3细胞 
+凋亡 ；抗氧化应激和抗炎作用有关。今后需 要对人参不 同有效部位和单体成分进行进一步 的研究 ，明 
+确其抗糖尿病 和肥胖 的确切有效 成分 和作用机制 。 
+【关键词】 人参；人参皂苷；糖尿病 
+A n ti -dia beti c ef ec t of gin seng and  its c onsti tuents 
+SH AN G Wen-bin ．YAN G Yi ng ．CH E N M ing -da o ．Sho~
+- 
+hal Institute of E ndocrine and Metabolic Diseases ，Department of Endz~rine and Metabolic Diseases ， 
+Clini— 
+cal Centerf or Endocrine and Metabolic Oiseo~es ，Ruijin Hospital ，School of Medicine ，Shanghai J iaotong Universi一 
+， Shang ha／200025 ， Ch ／na 
+【Abstract】 A series of clinical and experi mental studies show that ginseng an d its active components  pos— 
+sess the abi lity to regulate the metabol isms  of  gluco se  an d li pid ，an d th en produc e th e ef ec ts  of  an ti -di abetes an d 
+an ti—obes ity ．O wing to the vari ety of the ac tive c omponents  in ginseng ，th e mec hani sm of  its  an ti-di abetic  properti es 
+is c ompl icated an d di
+verse ，whic h is mairdy i nvolved in inhi biti ng appe ti te an d th e abs orption of  gluc o~
+an d lipid 
+from intestines ，af ec ting glucose  an d li pid metabolic pathway an d inc reas ing energy expe nd iture ，regulating th e ac — 
+tivi tv an d expressi on of  pe mxisome proliferator-ac tivated  rec eptor 
+to improve insuli n re sistanc e，enhan c ing i m ulin 
+production an d release ，preventi ng apoptosis of  pancreatic 』
+3 cell s，an tioxidation and an ti - inflammati on ．Further re— 
+searc hes are need ed to c lari fy th e exac t c omponent an d the underlying mec hani sm in th e treatment of  di abetes an d 
+obesity 
+t}1 gi nse ng．
+ 
+【Key words】 
+Ginseng；Ginsenoside；Diabetes 
+( Intern  J Endz~ri nol Metab，2O07，27 ：115—117) 
+人参( Panax ginseng C ．A ．Meyer)及西洋参( Panax 
+quinquefolius) 系五加科植物 ，是常用 的具有补益强壮 
+作用的中药 。长期研究表 明人参、西洋参及其主要 
+活性成分人参皂苷具有多种生物活性 。近年来一系 
+列临床和实验研究发现人参 、西洋参及其活性成分 
+具有调节糖脂代谢 ，抗糖尿病 和肥胖的作用，并从 
+多方面对其作用机制进行了探索 。以下根据近年来 
+的研究结果对其作用机制进行总结 。 
+1
+人参的主要活性成分 
+人参含有多种化学成 分，主要有人参皂苷( Gin． 
+senosides ) 、人参多糖 、多肽 、人参炔醇 、麦 芽酚 、腺嘌 
+呤核苷以及某些氨基酸和微量元素等，其中人参皂 
+基金项 目：上海 市优 秀青年医学人才培养基金 (2OO4) ；上海联合 
+利华研究发展基金(2OO4) 
+作者单位 ：2O0025 上海市内分泌代谢病 研究所 ，上海 交通大学 
+医学院附属瑞金医院内分泌代谢科 ，上海 市内分泌代谢病 临床医学 
+中心；第一作者 现在南京 中 医药大 学第 一 临床 医学院 内科 研究所 
+2 1(X l2 9 
+苷是人参生理活性最重要的有效成分，从植物人参 
+和西洋参 中已分离并确定了结构的皂苷 成分共 2O 
+余种，主要分为二醇组皂苷( Protopanaxadiol，PPD) 、 
+三醇组皂苷( Protopanaxatriol ，P 
+) 和齐墩果酸皂 苷 
+(Oleanic acid．gi nsenoside) 。二醇组皂苷 主要包括人 
+参皂苷 Ra1、Ra2、Rb1、Rb2、Rb3、Re、Rd、Rg3，三 醇组 
+皂苷包括人参皂苷 Re、Rf、Rg1、Rg2、Rh1，其含量在植 
+物的根茎、叶和果实中各有不同，总 的来说 Rb 、Ro、
+ 
+Rg】、Rc 和 Re 的含量相对较高。 
+2
+作用机 制 
+2．1
+抑制食欲和肠道葡萄糖与脂肪的吸收
+从 日 
+本人参中提取 的皂苷成分 ehikusetsusaponins 可 以减 
+少高脂饲料喂养的 ICR 小 鼠体重和 内脏脂 肪的增 
+加 ，增加粪便中甘油三酯 ( TG) 的水平 ，降低肝脏重 
+量和肝脏内 TG 含量 ，抑制脂乳输注后血清 1 
+的升 
+高和胰腺脂酶的活性 ，但 FI均摄食量与高脂对照组 
+无显著差别 ，说明其可能通过减少肠对食物中脂肪 
+的吸收而发挥抗肥胖的作用⋯1 。高丽红参中提取的 
+皂苷 (CS) 200 mg／'kg 腹腔注射治疗 3 周可以减少普 
+坌婆 
+苤圭 
+笙 
+旦 
+鲞筮 塑 
+ntem J Endocrinol Metab，March 2007，Vol 27，No．2 
+通饲料组或高脂 饲料组 Sprague—Dawley( SD) 大 鼠的 
+食物摄入量 ，使两组体 重均 明显下 降 20 ％左右 ，内 
+脏脂肪 ( 附 睾、肾周 、腹 膜脂 肪 ) 含量 减少 10％ ～ 
+70％，血清瘦素水平下降 ，与体重和内脏脂肪密切相 
+关 ；而经 cs 治疗后 只有高脂饲料喂养的大鼠下丘脑 
+神经肽 Y 表达量下降 ，而正常饲料组大 鼠未见 明显 
+变化 ，可见其通过抑制大 鼠的摄食而减轻体重E2 J。 
+人参 果提取 物每天 150 mg／kg 体重腹腔注 射治疗 
+ob／ob肥胖糖尿病小 鼠 12 d，其空腹血糖( FBG) 和糖 
+耐量明显改善 ，口服葡萄糖耐量试验( OGT F) 曲线下 
+面积下降 46％，同时摄食减少 15％，体重比治疗前 
+下降近 12％，比高脂对照组下降 18％，而停止治疗 
+后 ，体重又逐步恢复到对照组水平_3一。 
+2．2
+影响糖脂代谢通路 ，增加能量消耗
+人参糖肽 
+能降低正常小鼠血糖和肝糖原含量 ，同时增强肝脏 
+腺苷酸环 化酶 和磷 酸化酶活性 ，升高环磷酸腺苷 
+(cAMP)水平 ，降低乳酸脱氢酶活性 和血乳 酸水平 ，
+ 
+而与三羧酸循环相关的 4 个限速酶( 柠檬酸合成酶 、
+ 
+苹果酸脱氢酶 、琥珀酸脱氢酶 、细胞色素氧化酶) 活 
+性均明显增强 ，说明其通过加速葡萄糖利用，增强 
+有氧糖酵解而降低血糖 4一。基因芯 片分析显示 ，人 
+参皂苷 Re 可以调节骨骼肌 中多个与糖尿病相关基 
+因的表达 ，其 中降低 硬脂 酰辅酶 A 去饱和酶 、脂肪 
+酸合成酶和脂蛋 白脂酶的表达 ，而增加磷脂酶 
+和 
+肌球蛋白重链肽 8 的表达 5 J。在体外 ，人参提取物 
+能够减少大 鼠脂肪细胞甘油和游离脂肪酸的释放 ，
+ 
+明显抑制基础脂解。与胰岛素作用机制不同，其抑 
+制脂解的作用不能被磷脂酰肌醇 3 激酶( PB K ) 抑制 
+剂 wortmannin 和 磷 酸 二 酯 酶 ( PDE ) 3 抑 制 剂 
+cilostamide 所阻断 ，同时蛋 白激 酶 B ( PKB／Akt) 也没 
+有被激活，而 PDE4 的抑制剂 mlipram则能完全逆转 
+其脂解作用-6j。人参皂苷 
+不仅可以升 高小 鼠肝 
+脏的载脂蛋 白(apo) A—I
+和 C一Ⅲ的 mRNA 水平 ，而 
+且能够逆转过氧化物酶体增殖物活化受体( PPAR ) a 
+配体Wy14 643所 致的肝脏 apo A—I
+和 C—III mRNA 
+和血清水平 的下降 ，而在 PPARa 基 因敲 除的小 鼠 
+中，人参皂苷 
+所产生 的这两种效应均消失 ，说 明 
+PPARa 是人参皂苷 
+调节脂蛋 白代谢 的靶点。体 
+外转染试验证实人参皂苷 
+可以抑制 PPAt~ 报告 
+基因的表达 ，凝胶迁移试验( EMsA)表 明其 可以干扰 
+PPARa 与 目标 DNA 序列 的结合活性 
+。西洋参叶 
+总提取物每天 50 mg／kg 体重和 150 mg／kg 体重腹腔 
+注射治疗糖尿病 ob／ob 小 鼠共 12 d，第 5 天高剂量 
+组 FBG 明显下降，第 l2 天两个剂量组 FBG 显著降 
+低 ，腹腔葡萄糖耐量试验( WGTr )显示糖耐量明显改 
+善 ，治疗后小鼠体重增加趋缓 ，同时两治疗组小鼠体 
+温平均升高 1℃[引。而另一 次实验 中，西洋参叶提 
+取物150 mg／kg~ 重治疗 ob／ob 小 鼠 12 d，糖耐量改 
+善和体温升高的同时，通过氧耗量和二氧化碳生成 
+量的检测 ，发现治疗组糖尿病小 鼠的能量消耗增加 
+50 ％ [3I
+。 
+2 ．3
+调节 PPA聊 活性和表达 ，改善胰岛素抵抗 
+人参皂苷属于类固醇类皂苷 ，其分子中有一个与类 
+固醇激素共有的 四环骨架结构，人参皂苷既可以作 
+用于细胞膜上的受体或离子通道 ，也可 以进入细胞 
+核调控某些基 因的表达。在 3T3．L1 细胞分化过程 
+中，人参 皂苷 Rb．和 PPT 可分别激活 PPAR y 的转 
+录，并增加 PPARy 及其下游 基 因脂 肪酸结合蛋 白 
+(ap2 ) 、脂蛋 白脂酶( I凡 ) 和磷酸烯醇式丙酮酸羧激 
+酶( PEPCK ) 的表达量和细胞 内 TG 的含量 ，明显促进 
+脂肪细胞的分化 ，使基础和胰岛素刺激的葡萄糖转 
+运增 加，同 时葡萄 糖转运 蛋 白一4 ( GLUT-4 ) 表达 增 
+加[ ，m]。韩国红参能降低 db／db 糖尿病小 鼠 FBG、 
+胰岛素 、糖化血红蛋 白( Hb) Alc 和 TG 水平 ，增加脂 
+肪组织 PPARy 和肝脏 PPAR~ 及 LPL mRNA 表达水 
+平_l 。野山参醇提取物 250 mg／kg 体重和 500 ra g／ 
+体重可以显著减少高脂喂养 ICR 小 鼠体重增加 
+的幅度 ，降低 FBG、TG 和游离脂肪酸水平 ，分别使胰 
+岛素敏感性指数增加 55％和 6l ％，白色和棕色脂肪 
+细胞 的直径分别减小 62％和 46％l 121。人参果提取 
+物腹腔注射治疗肥 胖糖尿病 小 鼠，其 FBG 恢复 正 
+常，糖耐量显著改善，治疗后糖尿病小 鼠空腹和非空 
+腹胰岛素水平均降低 40％，高胰 岛素正常血糖钳夹 
+试验表明，治疗后葡萄糖输注率增加两倍多 ，胰岛素 
+敏感性显著增加_3 J。单用人参皂苷 Re 治疗也可使 
+ob／ob 肥胖糖尿病小鼠空腹和进食后胰岛素水平 明 
+显下降[ 。人参根粉能降低果糖喂养大鼠的血糖水 
+平和糖负荷后胰岛素水平的升高 ，改善糖耐量 ，还 
+能增强甲苯磺 丁脲的降糖效应 ，考虑与其增加胰 岛 
+素敏感性有关_l 。 
+2 ．4
+促进胰岛素分泌和抗胰岛 B 细胞凋亡 
+西洋 
+参( 1 g／L) 乙醇提取物可以显著促进仓 鼠胰 岛 HIT- 
+T 15 细胞 的胰 岛素分 泌 ，半 数有 效浓度 ( ECS0 ) 为 
+178．9 mg／L ，其促分泌作用高于 10 nmol／L 优降糖 ，
+ 
+同时发现其可以抑制优降糖与细胞膜 的结合 ，抑制 
+率达 45．1％，说明西洋参乙醇提取物通过结合细胞 
+膜上磺脲类受体 ( SUR 1) 从 而促进胰 岛素分泌_l 。 
+正常 Wistar 大 鼠口服人参或静脉注射人参皂苷 Rh2 
+90 min 后 ，FBG 呈剂量依赖性下 降，最大下降值约 
+20％，同时血浆胰岛素和 c 肽水平上升约 1倍 ，而抑 
+制胆碱摄取和转运以及 阻断胆碱 M3 受体可以对抗 
+两者引起的代谢效应 ，相反抑制 乙酰胆碱酯酶活性 
+则可以增强其降血糖 和升胰岛素的作用 ，说明人参 
+和人参皂苷 Rll2可 能促进神经末梢 乙酰胆碱 的释 
+放 ，刺激胰岛 M3 受体从 而释放胰岛素【I5' j。西洋 
+参水提取物可 以促进 B 细胞株 INS一1的胰岛素合成 
+凼 
+婆 
+进苤圭 
+! 生 
+箜 望鲞箜 塑 
+』 n 
+nol Metab，March 2007，Vol 27，No．2 
+和释放 ，其 促分泌作用 与下调解偶联 蛋 白．2( UCP． 
+2) 、升高胞 内 ATP 水平有关 ，同时西洋参水提取物 
+能够对抗 白细胞介素．1口( II厂l口) 所致的胰 岛素合成 
+和分泌障碍 以及 口细胞凋亡 ，其抗凋亡作用是通过 
+上调抗凋亡因子 Bc1．2 和下调促凋亡酶半胱氨酸蛋 
+白酶( caspase)．9 而实现的E" 。 
+2．5
+抗氧化应激和抗炎作用 
+氧化应激在糖尿病 
+慢性并发症的产生及胰岛素抵抗和胰 岛 J3细胞功能 
+损伤中均具有重要 的作用 ，而慢性低度炎症状态与 
+口细胞功能 、胰岛素抵抗 和糖尿病 的发生密切相关。 
+已证实人参皂苷可 以抗氧化和抗 自由基损伤而保护 
+脊髓神经元 、心肌和血管 内皮细胞免于氧化应激 的 
+伤害。链脲佐菌素 ( STZ) 诱导的糖尿病大 鼠口服人 
+参皂苷 Re 治疗 8 周后 ，FBG、血清 HbA lc、TG、胆 固 
+醇水平均 明显下降，同时肾脏 、眼、主动脉的谷胱甘 
+肽水平升高 ，丙二醛水平降低 ，但对正常大鼠无显著 
+作用H 。通过对 SqZ 诱导糖 尿病大 鼠的蛋 白质组 
+学分析和血清检测发现 ，人参皂苷 Re 治疗 8 周能够 
+使升高的炎症标志物 c 反应蛋 白( CRP)下降至正常 
+水平ll 。野山参水提取物在显著降低 SqZ 诱导糖 
+尿病大鼠血糖水平 的同时 ，能恢 复组织 中谷胱甘肽 
+过氧化酶和超氧化物歧化酶 的活性 ，发挥抗脂质过 
+氧化作用l20-。可见抗氧化应 激作用可能成为人参 
+及其活性成分抗糖尿病作用 ，尤其是防治慢性并发 
+症 的一 个基础 。 
+3
+问题和 展望 
+人参 中成分复杂 ，不 同提取方法 、采获年限 、生 
+长地 、用药部位( 根茎 、叶 、果 ) 等导致有效成分组成 
+与含量不 同。其 主要成分 皂苷l ，
+ ，
+ 
+、多肽l引、多 
+糖_2 等均有抗糖尿病作用 ，而其作用机制可能不尽 
+相同，人参的抗糖 尿病 和抗肥胖作用可能是多种有 
+效成分的综合效应 ，各个成分之 间也可能存在协 同 
+或拮抗作用。如与总提取物相反 ，单一的皂苷 Re 改 
+善糖耐量的同时 ，对体重和体温没有影响l3，
+ ；研究 
+表明 PPD：PFrr 比值是重要因素 ，人参中 PPD ：PPT 比 
+值越高 ，治疗后患者 葡萄糖和胰岛素水平越低 ¨2 ； 
+人参果比人参根能更显著的降低 ob／ob 小鼠血糖和 
+体重l23一。不同的试验方法和动物模 型也可能导致 
+试验结果的不一致，甚至相反，如西洋参和人参在体 
+外和正常大鼠促进胰岛素分泌¨ ．1 ，但人参皂苷 Re 
+和人参可 以降低胰 岛素抵抗动物模型 的胰 岛素水 
+平|3．5-I3 。另一方面 ，在大多数 的研究 中，直接使用 
+人参醇或水粗提取物进行研究，而含量和组分不同 
+也是实验结果不一致的又一 原因，不利于其作用机 
+制的探讨 。由于人参作用机制的复杂性 和多样性 ， 
+今后需要对人参不同有效部位和单体成分进行深入 
+研究 ，明确其抗糖尿病和肥胖 的确切成分 和主要作 
+用机制 
+参
+考
+文
+献 
+1 
+H art  L K ，Z he ng Y N，Y es hikawa M ，et a1 ．A nt i—obesity ef ec ts of c hikuset— 
+susaponins isolated from Panax japonicus rhizomes．BMC Complement 
+AI tern  Med
+，2 0 o5 ，5 ：9
+． 
+2 
+K im J H ，Hahm DH ，Yang DC ，et a1 ．E 
+t of c rude saponin of K orean 
+red gi nse ng on high—fat diet—induced  obesity in the rat．J  Pharm~ ol sci ．
+ 
+2 oo5 ．9 7 ：124 —13 1 ．
+ 
+3 
+A ttele AS ，Zhoti  YP ，Xi e J T ，et a1 ．An
+tidiabetic ef ec ts of Panax  ginseng 
+berry extract and th e identifi cat ion of  an  ef
+ec tive component
+． Di abetes ， 
+2 0 o2 ．5 1 ：18 5 1—18 58 ．
+ 
+4 
+Wan g BX ，Zhou QL ，Y ang M，et a1 ．Hypng lycemic mechani sm of gi nseng 
+glycopeptide ．A cta Pharmacol S in，2003 ，24 ：6 1—66 ．
+ 
+5 
+X ie J T ，Mehendale SR ，L i X ，et a1 ．Anti—diabetic ef
+ec t of ginsenes ide R e 
+in ob／ob mice ．B iochi In Biophys Ac ta ，2(X)5 ．1740 ：319—325 ．
+ 
+6 
+W an g H ，R eaves L A ．E dens NK ．G inse ng  ext ract inhibits lipoly sis in rat 
+adipocyt es in vi tro by activating phosphed ies terase 4 ．J  Nutr，2OO6 ，136 ：
+ 
+3 37 —3 42 ．
+ 
+7 
+L ee H ，Gonzalez FJ ，Yoon M．Ginse nes ide Rf ，a component of  gin se ng，
+ 
+regulates lipopmtein metaboli sm throtIg}l pemxisome pmlifemtor-aetivated  
+rec印 tor al pha ．Bi oc he m B iophys Res Conlnlun ，2006 ，339 ：196—203．
+ 
+8 
+X ie JT ，Mehendal e SR ，Wan g A ，et a1 ．Ameri can gi nse ng learl  ginseno— 
+side an al y sis an d hypng ly cemic activity ．Pha rmacol R es ，2004 ，49 ：113— 
+1 17 ．
+ 
+9 
+Shan g W ，Y an g Y ，J ian g B ，et a1 ．Ginsenes ide R b( 1) promotes adipogen— 
+esis i n 3 
+—L 1 c ells by enhancing PPA R gamm~ ( 2 )
+an d C／EBPal【pha 
+gene expression ．L ife S ci ，2啷
+．80 ：6 18 —6 25 ．
+ 
+10 
+Han K L ，J ung MH，Sohn JH ，et a1 ．Ginsenes ide 20 ( S ) 一protopanaxatriol 
+( PPT )
+activates pemxiso me 
+pmliferator-aetivated  tee印tor gamma 
+( PPAR 印mn1a) in 3 
+—L l adipocytes ．Biol Pharm Bull ，2OO6 ，29：110— 
+1 13 ．
+ 
+11 
+Park MY ，Lee KS ，Sung MK ．Ef ec ts of dietary mulberry，Korean red gi n— 
+se ng, an d banaba  on 
+ucose homeostasis in relation to PPA R -a lpha ，
+ 
+PPAR -gamma ，an d 【JPI．tu R NA expre ssions ．L if e Sci ，20o5 ，77 ：3344— 
+3 35 4 ．
+ 
+12 
+Y un  SN，Moon SJ ，Ko SK，et a1 ．Wild gi nse ng prevents the onset of hi g}l— 
+fa t diet indtic ed hy pe 
+yce mia an d obe sity in IC R mice ．Arch Pharm 
+Res ，20 o4 ．27 ：7 90 —7 96 ．
+ 
+13 
+L iu 11) ．L iu IM ．C heng J T ．Improv ement of insulin re sistanc e by panax 
+gi nse ng in fructose—rich chow—fed rats．Horm Metab Res，2005 ．37 ：146— 
+15 1 ．
+ 
+14  
+R otshteyn Y ，Z ito SW ．A pplica tion of  modifi ed in vitro scree ning proce — 
+dure for identif ying herbal s posses sing sulfony lurea—like ac tivi ty ．J 
+E thnophm'mae o1．20o4 ．93 ：337—344 ．
+ 
+15 
+Su CF ．Cheng J T ，L iu I M．Increase of  acety lc holi ne release by Pan ax gin— 
+se ng root enhan ce s insulin sec retion in W istar rats ．N eurosci Lett ．2 0  
+．
+ 
+4 12 ：10 1—10 4 ．
+ 
+16 
+Lee W K ．Kao ST ，Liu IM．el a1．In crease of insulin secretion by gi nse no— 
+side  Rh，to lower plasma 
+ucose in W istar rats ．Cl in E XP  PhaImacol 
+Physiol ，20o6．33：27—32 ．
+ 
+17 
+Luo J Z ，Luo L ．Ameri can  gi nseng stimulates insulin production an d pre— 
+vents apoptes is through regulati on of un c oupling protein--2 in culture d be
+·· 
+ta cells ．E vid Based Complement AI tema t Med ，20o6 ．3：365—372 ．
+ 
+18 
+Cho W C，Chun g WS ，Lee SK ，et a1 ．Ginse nes ide R e of Panax gi nseng 
+possesse s signifi ca nt an tioxidan t an d an tihyperli pidemic efl lca eies in 
+stra ptozotocin-induced  diabeti c rats ．Eur J  Pharmaeo1．20o6 ．550 ：173— 
+17 9 ．
+ 
+19 
+C ho W C ，Y ip T IP，Chun g W S ，et a1 ．AIte red exp ression of  se runq protein 
+in gi nse nes ide R e—treated  diabetic rats detec ted by SELDI—To F MS ．J  
+E thnopharma eol ，2006 ．108 ：272—279 ．
+ 
+20 
+J un g CH ，Seog HM，Choi IW，et a1 ．Ef
+ec ts of wi ld gi nse ng ( Panax gi n— 
+seng C ．A ．Meyer) leaves on l ipid pemxidation levels an d an ti oxidan t en— 
+zy me ac tivities in streptozotoc in diabetic mts ．J Ethnopharmaeol ，20o5 ．
+ 
+98 ：24 5 —2 50 ．
+ 
+21 
+X ie J T ，W 
+J A ，Mehendal e S ，et a1 ．An
+ti—hypergly cemic ef ec t of th e 
+polysaccharides fraction from American  gi nseng be rry extract in ob／ob 
+mice ．Phyto~
+eine ，20o4．11：182—187 ．
+ 
+22 
+Sievenpiper 儿 ，A iTlason J T ，L ei ter LA ，et a1 ．Decreasing
+，null an d in —
+ 
+creasing ef ec ts of eiOt popular types of gi nseng on acute postprandial  
+glycemic indices i n health y hulnans ：th e role of ginsenes ides ．J  Am  Coil  
+N utr ．2oo4 ，23 ：24 8 —25 8 ．
+ 
+23 
+Dey L ，X ie J T ，Wan g A ，et a1 ．An ti—hyperglyce mic ef ec ts of gi nse ng：
+ 
+eonlpfl l3son be tw een root an d be rry ．Phytomedici ne ，2003，10：60 
+605 ．
+ 
+( 收稿 日期 ：2006-03．26) 

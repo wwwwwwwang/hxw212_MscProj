@@ -1,0 +1,390 @@
+2 5 0 
+解 剖 与 临 床 
+2007 年 8 月 第 12 卷 第 4 期 
+Anatomy and Clinics, AuĶ. 2007 , V �1. 12 No. 4 
+论�
+著�
+人 参 皂 苷 R b l 对 大 鼠 脑 缺 血 再 灌 注 损 伤 中�
+N A I P 表 达 的 影 响�
+孙 德 旭 萧 洪 文 袁 琼 兰 杨 朝 鲜 邓 莉 高 小 青 龚 林�
+« 金 项 g� ：四川W教育厅资助项目（N‹›. 2000 - Λ28 ) 
+作者单位=221002江苏徐州，徐州医学院人体解剖学教研室（孙德旭）：泸州医学院人体解剖学教研室(萧洪文、袁琼\杨朝鲜、邓莉,高�
+小青、龚林) 
+作者简介：孙德旭(1979 -),男，助教，硕1.:研究生，研究方向：缺血性脑损伤的分ř机制�
+通í‘ì作者：萧洪义,Kmail ： Xiaoliongvven4&1 soliu. com 
+【 摘 要 】 目 的 ： 观 察 人 参 皂 苷 R b l 对 神 经 元 凋 亡 抑 制 蛋 白 （ n e u r o m i l apoptosis inhibitory protein，NAIP)在�
+脑 缺 血 再 灌 注 损 伤 中 表 达 的 影 响 ， 探 讨 人 参 皂 苷 R h l 对 缺 血 性 脑 病 的 防 治 机 制 ; 方 法 : 线 栓 法 阻 断 矢 鼠 大 脑�
+中 动 脉 2 h，再灌注3 h � 5 
+d 制 备 脑 缺 血 再 灌 注 模 型 ， 应 用 免 疫 组 织 化 学 方 法 标 记 N A I P 阳 性 细 胞 ， 观 察 人 参�
+皂 苷 R b l 对 N A I P 阳 性 细 胞 数 的 影 响 。 结 果 ： 缺 血 再 灌 注 后 ， 缺 血 半 暗 带 内 的 N A I P 阳 性 细 胞 表 达 增 加 ， 海 马�
+CA 
+1 区 等 部 位 的 N A I P 阳 性 细 胞 数 量 也 明 显 增 加 ， 而 缺 血 中 心 区 无 N A I P 阳 性 细 胞 的 表 达 。 实 验 对 照 组 中�
+N A I P 阳 性 细 胞 数 量 随 再 灌 注 时 间 延 长 逐 渐 升 高 ， 1 2 h 达 到 高 峰 ， 至 5 
+d 时 N A I P 阳 性 细 胞 数 量 表 达 低 于 正 常�
+水 平 。 实 验 用 药 组 中 N A I P 阳 性 细 胞 数 量 在 2 
+d 时 达 到 高 峰 ， 且 其 高 峰 值 明 显 高 于 实 验 对 照 组 中 的 高 峰 值 ， 后�
+随 再 灌 注 时 间 的 延 长 而 逐 渐 下 降 ， 至 5 
+d 时 仍 处 于 较 高 水 平 。 结 论 ： 脑 缺 血 再 灌 注 后 ， N A 1 P 表 达 增 加 是 脑 组�
+织 对 损 伤 的 一 种 保 护 性 反 应 ， 其 对 缺 血 区 周 围 的 神 经 细 胞 的 保 护 作 用 更 为 明 显 。 N A I P 在 脑 组 织 中 的 表 达 具�
+有 一 定 的 时 间 规 律 性 ， 并 且 人 参 皂 苷 R b l 可 能 通 过 上 调 N A I P 的 表 达 发 挥 对 受 损 脑 组 织 的 保 护 作 用 。�
+【 关 键 词 】 人 参 皂 苷 R b l ; 神 经 元 凋 亡 抑 制 蛋 白 ； 缺 血 再 灌 注 ; 脑 损 伤�
+【 中 图 分 类 号 】 R 3 9 2 【 文 献 标 识 码 】 A 【 文 章 编 号 】 1 6 7 1 - 7 1 6 3 ( 2 0 0 7 ) 0 4 
+-0250 - 0 4 
+Effect of Ginsenoside Rbl on Expression of Neuronal Apoptosis Inhibitory Protein in Cerebral Tissue of Rats 
+Subjected to cerebral ischemic - reperfusion Injury 
+Sun Dexu,Xiao Hongwen, Yuan Qionglan, Yang Chaoxian,Deng 
+Li, Gao Xiaoqing, Gonglin. ∏epartmenl of Human A-
+natomy, Xuzhou Medical College，Jiangsu 221002, China. Corresponding author： Xiao Hongwen, Email�： Xiaohong-
+wen4@ sohu. com 
+� A b s t r a c t �
+ Objective:To investigate the influence of ginsenoside Rbl on expression of neuronal apoptosis in-
+hibitory protein ( NAIP) in cerebral tissue of rats subjected to cerehral ischemia - reperfusion, and find out the mech-
+anisms of ginsenoside Rbl on cerebral tissue against cerebral ischemia - reperfusion injury. Methods�： The models of 
+cerebral ischemia - reperfusion were induced by blocking right middle cerebral artery occlusion ( MCAO) with intralu-
+minal nylon fiber for 2 h and reperfusion for 3 hours to 5 days. These rats were divided into two groups randomLy�： ex-
+periment control and ginsenoside Rbl group. Sham - operated rats were regarded as a control group. The immunohis-
+tochemical staining was employed to observe the expression of NAIP in cerebral tissues. Results�： After cerebral ische-
+mia -reperfusion, the number of NAIP - positive cells in semidarkness zone of ischemia and hippocampus CAI in-
+creased. The expression of NAIP became stronger during cerebral ischemia - reperfusion. However, no NAIP - posi-
+tive cell was observed in the centre of ischemic zone. In experiment control group, the numi›er of NAIP - positive 
+cells peaked at 12 h of reperfusion, and then decreased gradually to the lower than normal level on 5th day of reperfu-
+sion. In ginsenoside Rbl group, the number of NAIP positive cells peaked at 2 d of reperfusion, and then gradually 
+decreased, but it was higher on 5th day of reperfusion. Conclusions�： The increased expression of NAIP is protective 
+reaction of brain tissue against injury during cerebral ischemia - reperfusion，especially the nerve cells around ische-
+mic region. The expression of NAIP in brain tissues possesses some time regularity. Up - regulating expression of 
+NAIP is one way of protection of ginsenoside Rbl on nervous tissue against ischemia - reperfusion injury. 
+� K e y words�Ginsenoside Rbl�；Neuronal apoptosis inhibitory protein ( NAIP)�；ischemia - reperfusion； Brain in-
+Q2xvdWRWZXJzaW9uLQo?
+解 剖 4 临 床 
+2007 年 8 月 第 12 卷 第 4 期 
+Analmm• and Clinics, Auş. 2 0 0 7 . Vol. 12 No. 4 
+2 5 1 
+人 参 皂 苷 类 药 物 被 证 实 对 缺 血 性 脑 血 管 疾 病 有�
+明 确 的 疗 效 。 近 年 来 的 国 内 外 研 究 证 明 ， 人 参 皂 苷�
+通 过 改 善 缺 血 脑 组 织 的 血 流 量 … ， 减 少 内 流 ，�
+促 进 A T P 的 生 成 ， 清 除 自 由 基 等 途 径 对 缺 血 脑 损 伤�
+产 生 保 护 作 用
+1 2 1 ， 但 其 具 体 作 用 机 制 仍 待 阐 明 。 在�
+脑缺血再灌注过程中，神经元凋亡抑制蛋白（neuro-
+nal apoptosis inhibitory protein, NAIP)被认为参与了�
+调 控 脑 缺 血 后 神 经 细 胞 的 凋 亡 过 程 ， 通 过 抑 制 神 经�
+细 胞 的 凋 亡 , 减 轻 缺 血 再 灌 注 脑 损 伤
+1 。 本 实 验 通�
+过 观 察 人 参 皂 苷 单 体 R b l 对 脑 缺 血 再 灌 注 过 程 中�
+N A I P 表 达 水 平 的 影 响 ， 探 讨 人 参 皂 苷 R b l 对 缺 血�
+性 脑 损 伤 的 保 护 作 用 机 制 ， 为 实 验 室 的 进 一 步 研 究�
+和 临 床 应 用 提 供 依 据 。�
+】 材 料 与 方 法�
+1 • 1 材 料�
+人 参 皂 苷 R M 购 于 中 国 药 品 生 物 制 品 鉴 定 所 。�
+成 年 健 康 雄 性 W i s t a r 大 鼠 共 ½ 只 ， 体 重 2 5 0 ~ 300 
+g ， 由 泸 州 医 学 院 实 验 动 物 中 心 提 供 。 羊 源 性 N A I P 
+多 克 隆 抗 体 购 于 ¾ n t a 公 司 ， L - 多 聚 赖 氨 酸 和 胰 蛋�
+白 酶 为 ¾ g m a 公 司 产 品 ， S P 试 剂 盒 为 北 京 中 山 生 物�
+公 司 产 品 ， 羊 血 清 为 武 汉 博 士 德 生 物 公 司 产 品 。�
+1 . 2 方 法�
+1 . 2 . 1 局 灶 性 脑 缺 血 再 灌 注 模 型 的 制 备 ： 按 照 袁 琼�
+兰 等 人
+4 1 的 线 栓 法 制 备 脑 缺 血 再 灌 注 模 型 。 手 术�
+前 大 鼠 自 由 饮 水 进 食 。 按 3 0 
+m g / k q 体 重 腹 腔 内 注�
+射 1 % 戊 巴 比 妥 钠 。 取 颈 正 中 切 口 长 约 2 cm，分离�
+右侧颈总动脉（common carotid artery, CCA)� Ŝ页夕卜�
+动脉(external carotid artery，EC A )禾口颈内动脉（in-
+ternal caroid artery, ICA)；用 1#�丝 线 结 扎 CCA� 及�
+E C A , 在 I C A 起 始 处 打 二 松 结 。 在 C C A 近 分 叉 处 剪�
+一 V 形 切 口 ， 将 阻 塞 线 （ 长 度 依 动 物 体 重 不 同 约 1 . 8 
+~1.9 
+c m ) 由 切 口 插 入 并 轻 推 入 I C A 颅 内 段 后 ， 扎�
+紧 I C A , 缝 合 皮 肤 。 大 鼠 清 醒 后 ， 观 察 其 神 经 缺 失 症�
+状，包括:动物不能伸左前肢，行走时向左侧转圈’爬�
+板 实 验 总 是 落 向 左 侧 ， 提 尾 时 左 前 肢 内 收 头 弯 向 左�
+上 。 满 足 以 上 拽 经 缺 失 症 状 ， 则 造 模 成 功 。 缺 血 ¾�
+时 , 大 鼠 用 乙 醚 麻 醉 ， 剪 开 切 口 ， 将 阻 塞 线 退 出 直 至�
+线 头 端 在 I C A 的 颈 段 以 实 现 血 液 再 灌 注 ， 缝 合 皮�
+肤。�
+1 . 2 . 2 实 验 分 组 ： 正 常 对 照 绀 动 物 3� ∏�
+假 手 术 组�
+( 手 术 操 作 程 序 与 实 验 组 相 同 ， 但 阻 塞 线 长 1 . 5 cm 
+不 能 阻 塞 大 脑 中 动 脉 ) 3 
+R � 实 验 对 照 （ I R ) 组 共 3 0 
+只，3 h� 12
+ h � l
+ d � 2
+ d� 3
+ d� 5
+ d 各 时 间 点 5 只 。 人 参�
+皂苷（IR/Rhl)组在缺血2 h 后 ， 腹 腔 注 射 人 参 皂 苷�
+Rbl 30 mg/kq,共 30�只，3 h � 1 2 h � l <1,2 (1�3 d � 5 d 
+各 时 间 点 5 只 。�
+1 . 2 . 3 取 材 : 假 手 术 组 手 术 2 
+h后，实验对照（1R) 
+组 和 人 参 皂 苷 （ I R / R b l ) 组 大 鼠 在 再 灌 注 3 h�12 h � 
+1 d � 2 d � 3 d � 5 
+d 时 间 点 ， 用 1 % 戊 巴 比 妥 钠 过 量 麻�
+醉 处 死 动 物 。 置 冰 块 于 大 鼠 周 围 降 温 ， 夹 闭 胸 主 动�
+脉 ， 剪 开 右 心 耳 ， 经 心 脏 快 速 灌 注 0 . 9 % 生 理 盐 水�
+200 m L 后 , 用 4 ¾ A%多聚甲醛200 
+mL灌注固定„ 
+取 出 脑 组 织 ， 将 其 切 成 三 部 分 浸 泡 于 相 同 的 固 定 液�
+4 ¾ 过 夜 , 石 蜡 包 埋 。 切 片 厚 度 5 ~7 µ m � 
+1.2.4免疫组织化学染色程序：（1)切片脱蜡；（2) 
+0.01 M PBS�漂 洗 5 min ×3� 次；（3)3% H20,20 min 
+以消除内源性过氧化物酶活性；（4)0. 01 M PBS漂�
+洗 5 minx 3 次 （ 5 ) 0 . 1 % 胰 酶 1 0 min暴露被固定遮�
+蔽的抗原；（6)0.01 M PBS漂洗5 minx 3 次 ; ( 7 ) 递�
+加 1 0 % 羊 血 清 室 温 3 0 min； ( 8 ) 羊 源 性 N A I P 多 克 隆�
+抗体（1�： 4 0 0 稀 释 ） 过 夜 ； （ 9 ) 0 . 0 1 M PBS漂洗5 
+minx 3 次 ； （ 1 0 ) 兔 抗 羊 生 物 素 化 二 抗 （ 1 : 100稀�
+释），室温 60 min； (11)0. 01 M PBS�漂 洗 5 min x 3 
+次 ; （ 1 2 ) 递 加 链 霉 素 过 氧 化 酶 复 合 物 , 室 温 6 0 min；�
+(13)0.01 M PBS�漂洗 5 min × 3�次；（14) DAB�显色�
+5 - 1 0 
+m i n ; ( 1 5 ) 乙 醇 脱 水 ， 二 甲 苯 透 明 后 中 性 树 胶�
+封 片 。�
+1.2.5�
+观 察 项 目 ： 每 一 例 动 物 取 前 囟 后 方 1 . 8 ~ 
+2.3 mm围内的三处的冠状切面，观察皮质、纹状体、�
+海 马 部 位 N A I P 阳 性 细 胞 的 表 达 情 况 。 镜 下 观 察 ，�
+N A I P 阳 性 细 胞 的 胞 浆 和 突 起 呈 棕 红 色 。 在 每 个 区�
+域 选 5 个 视 野 ， 在 4 0 倍 物 镜 下 对 视 野 的 阳 性 细 胞 计�
+数。�
+1 . 3 统 计 学 处 理�
+对 所 得 数 据 以 均 数 ± 标 准 差 ū ± . 0 表 示 , 进 行�
+单 因 素 方 差 分 析 , 借 助 S P S S 
+1 1 . 5 统 计 软 件 完 成 。�
+2 结 果�
+2. 1 
+N A I P 阳 性 细 胞 的 形 态 学 特 点 及 分 布�
+NAIP阳性细胞表达于胞浆和突起中，而在细胞�
+核 中 没 有 表 达 。 皮 质 内 的 阳 性 细 胞 表 现 为 以 锥 体 细�
+胞为主，胞体肥大，轴突较长，伸向分子层（图�
+皮 质 内 缺 血 中 心 区 内 的 阳 性 细 胞 表 现 为 胞 体 收 缩 呈�
+扇 形 、 三 角 形 , 细 胞 周 围 间 隙 增 大 ， 轴 突 缩 短 或 者 消�
+失 （ 图 2 ) 。 海 马 区 内 锥 体 细 胞 层 阳 性 表 达 表 现 为 细�
+胞 排 列 紧 密 , 轴 突 整 齐 ， 完 整 、 较 长 （ 图 3 ) - 缺 血 侧�
+海 马 内 阳 性 细 胞 表 现 为 肿 胀 , 细 胞 核 呈 椭 圆 形 ， 淡 染�
+( 图 4 ) � I R / R h l 组 在 侧 脑 室 下 区 与 胼 胝 体 交 界 处�
+也 观 察 到 阳 性 细 胞 表 现 为 核 大 淡 染 , 胞 质 少 ， 突 起 多�
+( 图 5 ) � 
+各 组 脉 络 丛 上 皮 细 胞 、 第 三 脑 室 及 侧 脑 室 室 管�
+膜 上 皮 细 胞 有 阳 性 表 达 （ 图 6 ) 大 脑 皮 质 各 部 均 有�
+阳性细胞分布，主要分布于大脑皮质的运动区，其中�
+Q2xvdWRWZXJzaW9uLQo?
+2 5 2 
+解 剖 与 临 床 
+2007 年 8 月 第 12 卷 第 4 期 
+Anatomy and C l i n i c s , A U Ķ . 2 0 0 7 , V o l . 12 N Θ . 4 
+以 第 3 � 5 层 的 锥 体 细 胞 最 为 明 显 。 海 马 的 C A
+ 
+1 区 、�
+CA 3 区 和 D G 区 均 观 察 到 阳 性 细 胞 ， 以 C A 
+1 区 阳�
+性 细 胞 数 目 最 多 。 纹 状 体 区 有 少 量 散 在 分 布 的�
+N A I P 阳 性 细 胞 ， 但 I R 组 和 I R / R b l 组 纹 状 体 中 未 观�
+察到NAIP阳性细胞。另外苍白球、腹侧苍白球、杏�
+仁核、屏状核等部位也有NAIP阳性细胞的分布。�
+2. 2 各 时 间 点 N A I P 阳 性 细 胞 表 达 量 的 差 别�
+I R 组 中 上 顶 叶 及 额 顶 皮 质 部 位 的 阳 性 细 胞 数�
+目在24 h 达 到 峰 值 ， 随 后 逐 渐 下 降 。 皮 质 内 的 缺 血�
+中 心 区 细 胞 大 量 坏 死 ， 只 有 少 量 阳 性 细 胞 散 在 分 布�
+( 图 7 ) , 至 第 5 
+d 梗 死 灶 内 没 有 阳 性 细 胞 。 而 缺 血�
+半 暗 带 区 内 阳 性 细 胞 数 量 增 多 ， 密 集 分 布 。 海 马 区�
+阳 性 细 胞 数 目 在 1 2 h 达 到 高 峰 ， 至 ¾ h 只 有 少 量 细�
+胞 分 布 在 海 马 的 C A 1 区 。 I R / R b l 组 中 缺 血 侧 皮 质�
+中 N A I P 阳 性 细 胞 表 达 增 加 至 4 8 
+h 达 到 峰 值 ， 缺 血�
+中 心 区 中 有 相 当 数 量 的 阳 性 细 胞 分 布 （ 图 8 ) 。 海 马�
+CA 1 区 阳 性 细 胞 肿 胀 ， 少 量 锥 体 细 胞 分 布 其 中 （ 表�
+1)。 
+图 1 
+I R / R b l 组 再 灌 注 2 天 皮 质 区 N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染 色 × 2 0 0 ) 图 2 
+I R 组 再 灌 注 1 2 小 时 缺 血 区 内�
+N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染 色 × 4 0 0 )�
+图 3 
+I R 组 再 灌 注 3 小 时 海 马 C A 
+1 区 N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染�
+色 X İ 0 0 ) 图 4 
+I R 组 再 灌 注 1 2 小 时 海 马 部 位 N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染 色 × 2 0 0 )�
+图 5 
+I R / R b l 组 再 灌 注�
+5 天 后 S V Z 区 N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染 色 × 4 0 0 )�
+图 6 正 常 对 照 组 第 三 脑 室 室 管 膜 N A I P 阳 性 细 胞 （ 免 疫�
+组 织 化 学 染 色 × 2 0 0 )�
+图 7 
+I R 组 再 灌 注 5 天 梗 死 灶 周 边 区 N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染 色 × 100)�
+图 8 
+IR/ 
+R b l 组 再 灌 注 2 天 皮 质 缺 血 区 内 N A I P 阳 性 细 胞 （ 免 疫 组 织 化 学 染 色 × 4 0 0 ) 
+Fig. 1 
+The NAIP positive cells in cortex on 2nd day during reperfusion in I R / R b l group (immunohistochemistry stai-
+ning × 200) 
+Fig. 2 
+The NAIP positive cells in ischemia region at 12th hour in IR group (immunohistochemistry stai-
+ning ×400) 
+Fig. 3 
+The NAIP positive cells in hippocampus CAI region at 3rd hour in IR group (immunohistochem-
+istry staining × 100) 
+Fig. 4 
+The NAIP positive cells in hippocampus region at 12th hour in IR group (immunohisto-
+chemistry staining × 200) 
+Fig. 5 
+The NAIP positive cells in SVZ region on 5th day in IR/Rbl group (immunohisto-
+chemistry staining × 400) 
+Fig. 6 
+The NAIP positive cells in ependyma of third ventricle in normal control (immuno-
+histochemistry staining ×400) 
+Fig.7 
+The NAIP positive cells around Infarction areas on 5th day in IR group (im-
+munohistochemistry staining × 100) 
+Fig. 8 
+The NAIP positive cells in ischemic zone of cortex on 2nd day in I R / R b l 
+group (immunohistochemistry staining × 400) 
+表 1�
+各 组 N A I P 阳 性 细 胞 计 数 （ . τ ± s ) 
+Tab. 1 
+The numbers of NAIP positive cells in various groups(x ± s ) 
+组别（Group) 
+NAIP�阳性细胞数（The number of NAIP positive cells) 
+对照组（Control) 
+ĪR 
+IR/Rbl 
+正常对照组（Normal control) 
+假手术组（Sham operation group) 
+3h 
+12h 
+Id 
+2d 
+3d 
+5d 
+26.37 ±1.71 
+28.03 ± 2 . 5 4 
+38. 10 ±2.41 * 
+55.20 ±1.51 * Δ 
+38.28 ±1.91 * 
+38.08 ± 3 . 8 4 * 
+32. 18 ± 2 . 0 2 * 
+20. 18 ± 2 . 4 0 * 
+41.58 ±2.68 * 
+63.62�士2. 38 * 4 
+77.52 ±3.26 * 4 
+90.82 ±2.81 * • 
+64.76 ±2.49 * 
+43.26 ± 3 . 3 2 * 
+Q2xvdWRWZXJzaW9uLQo?
+解 剖 与 临 床 
+2007�年 8�月第 12�卷第 4�期 
+Anatomy and Clinics,AuS. 2007,Vol. 12 No.4 
+2 5 3 
+*�正常对照组、假手术组比较（VS normal control an sham operation group) ’ f = 0. 735 
+<0. 05 ; Δ 与 3h�1 d � 2 d � 3 d � 5 d�组比较（vs groups of 3 h, 
+1 d � 2 d � 3 d � 5 d ) , 厂 = 1 7 . 2 8 4 , P < 0 . 0 5 ;� • 与 3 h � 1 2 h � l d � 3 d � 5 d�组比较(vs groups of3 h�12 h � l d � 3 d � 5 d ) ’ f =52.590，ř <0.05�；�• 与 IR 
+中 12 h 1 d,2 d�组比较（vs groups of 12 h,l d,2 d in IR) ,F = 56,569 ,P <0.05 
+3 讨 论�
+缺 血 再 灌 注 脑 损 伤 后 脑 组 织 内 既 出 现 坏 死 改�
+变 ， 又 有 凋 亡 的 发 生 ， 这 表 明 缺 血 性 脑 损 伤 的 作 用 机�
+制 相 当 复 杂 。 这 种 损 伤 不 仅 发 生 在 脑 组 织 缺 血 缺 氧�
+的 当 时 ， 更 主 要 的 是 发 生 在 缺 血 后 再 灌 注 时 ， 即 迟 发�
+性 神 经 元 死 亡 。 证 据 表 明 继 发 性 神 经 细 胞 的 死 亡 以�
+凋 亡 为 主 , 凋 亡 主 要 位 于 半 暗 带 区 ， 而 坏 死 主 要 发 生�
+在 缺 血 中 心 区 。 减 少 凋 亡 细 胞 的 数 量 ， 抑 制 半 暗 带�
+区 向 缺 血 中 心 区 的 发 展 是 治 疗 缺 血 性 脑 血 管 病 的 关�
+键。�
+N A I P 属 于 凋 亡 抑 制 蛋 白 因 子 家 族 中 的 一 员 ， 是�
+第 一 个 被 发 现 的 具 有 抗 凋 亡 作 用 的 蛋 白 质
+[ 5 1 。 应 用�
+RT - P C R 技 术 在 脑 组 织 内 只 能 检 测 到 少 量 的 N A I P 
+m R N A ， 而 在 原 代 培 养 的 小 脑 颗 粒 细 胞 则 检 测 不 到�
+NAIP m R N A 的 表 达 ， 这 表 明 正 常 状 态 下 N A I P 的 转�
+录 活 动 并 不 活 跃 ， 内 源 性 N A I P 不 是 中 枢 神 经 系 统 维�
+持 正 常 活 动 所 必 需 的
+[ 6 ] 。 从 表 1 可 以 看 出 ， 各 实 验�
+组 与 正 常 对 照 组 、 假 手 术 组 比 较 其 差 异 均 有 统 计 学�
+意 义 ( P < 0. 0 5 ) ， 显 示 缺 血 再 灌 注 导 致 脑 组 织 内 表�
+达 N A I P 的 细 胞 数 量 增 加 ， 证 明 N A I P 表 达 的 上 调 是�
+脑 组 织 对 缺 血 再 灌 注 损 伤 的 一 种 保 护 性 反 应 。 实 验�
+对照组（IR)中12 h 组 与 3 h � l d � 2 d � 3 d � 5 d 组 比�
+较 ， 差 异 具 有 统 计 学 意 义 （ P < 0 . 0 5 ) ， 显 示 该 组 中�
+N A I P 的 阳 性 表 达 在 1 2 h 达 到 高 峰 ， 随 后 逐 渐 下 降 ，�
+表 明 N A I P 在 受 损 脑 组 织 中 的 表 达 具 有 一 定 的 时 间�
+规 律 性 。 实 验 证 实 脑 组 织 缺 血 半 暗 带 区 内 有 较 多 的�
+N A I P 阳 性 细 胞 ， 而 梗 死 灶 内 只 有 少 数 N A I P 阳 性 细�
+胞 散 在 分 布 ， 因 此 缺 血 半 暗 带 区 内 N A I P 表 达 的 增 加�
+可 以 抑 制 受 损 神 经 细 胞 的 凋 亡 ， 减 轻 脑 损 伤 。 N A I P 
+抑 制 神 经 细 胞 凋 亡 的 机 制 可 能 与 其 降 低 C a s p a s e 酶�
+的 活 性 有 关 ， 但 N A I P 的 结 构 与 家 族 内 的 其 他 成 员 有�
+很 大 的 差 别 ， 其 具 体 的 调 节 机 制 尚 需 深 入 的 研 究
+[ 7 : 。�
+人 参 皂 苷 单 体 的 鉴 定 、 分 离 和 提 取 ， 为 深 入 研 究�
+人 参 的 功 效 提 供 、 了 有 利 的 条 件 。 人 参 皂 苷 R b l 是 人�
+参 中 主 要 的 活 性 化 合 物 。 研 究 发 现 人 参 皂 苷 R b l 能�
+有 效 地 清 除 自 由 基 , 这 被 认 为 与 人 参 皂 苷 R b l 可 以�
+显 著 减 少 L D H 的 释 放 量 有 关
+: 8 ] 。 尽 管 人 参 皂 苷�
+R b l 不 是 钙 离 子 的 拮 抗 剂 体 ， 但 是 它 可 选 择 性 地 抑�
+制 由 于 高 浓 度 谷 氨 酸 和 钾 离 子 引 起 的 钙 超 载 ， 从 而�
+显 著 延 长 培 养 海 马 神 经 细 胞 的 存 活 时 间 ， 降 低 其 死�
+亡 率 W 。 人 参 皂 苷 R b l 可 以 增 加 小 鼠 海 马 C A 
+3 区�
+细 胞 突 触 数 目 ， 促 进 神 经 系 统 的 发 育 ， 提 高 神 经 系 统�
+的 功 能
+[ w ] 。 还 有 研 究 表 明 ， R b l 由 静 脉 内 注 入 永 久�
+性 大 脑 中 动 脉 闭 塞 大 鼠 后 ， 能 减 少 大 脑 梗 塞 体 积 ，�
+改 善 动 物 的 位 置 导 航 残 疾 ， 其 作 用 机 理 是 抗 凋 亡 和�
+可 能 存 在 的 促 进 血 管 再 生 的 作 用
+[ 1 1 ] 。 众 多 证 据 表�
+明 表 人 参 皂 苷 R M 对 神 经 细 胞 存 在 确 切 的 保 护 作�
+用 。 表 1 中 I R / R b l 组 1 2 h � l d � 2 d 时 间 点 N A I P 阳�
+性 细 胞 数 比 I R 组 多 （ P ‹ 0 . 0 5 ) ， 证 实 使 用 人 参 皂 苷�
+R b l 可 以 促 进 N A I P 的 表 达 。 因 此 推 测 人 参 皂 苷�
+R b l 可 能 通 过 上 调 N A I P 的 表 达 来 抑 制 受 损 神 经 细�
+胞 凋 亡 的 发 生 ， 从 而 发 挥 其 药 效 ， 但 是 目 前 无 法 确 认�
+人 参 皂 苷 R b l 调 控 N A I P 表 达 的 具 体 途 径 ， 其 机 制 仍�
+需 进 一 步 的 探 讨 。�
+参
+考
+文
+献�
+1 
+Li Z, Chen X，Niwa Y, et al. Involvement of Ca2 + activated K + 
+channels in ginsenosides - induced aortic relaxation in rats. J Cardio-
+vaso Pharmacol, 2001, 37(1)： 41 - 4 7 
+王迪，李晓东，王化洲，等.绞股兰总皂苷对小鼠脑缺血的保护�
+作用及对自由基生成的抑制作用.中国现代应用药学，2002，19 
+(2) ： 101 -102 
+Xu DG, Crocker SJ, Doucet JP, et al. Elevation of neuronal expres-
+sion of NAIP reduces ischemic damage in the rat hippocampus. Nat 
+Med, 1997，3(9)�： 997 ~ 1004 
+袁琼兰，李瑞祥，羊惠君，等.改良的短暂局灶性大鼠脑缺血模�
+型.四川解剖学杂志，1998，6(2)� ：65 - 6 7 
+Roy N，Mahadevan MS，McLean M，et al. The gene for neuronal 
+apoptosis inhibitory protein is partially deleted in individuals with spi-
+nal muscular atrophy. Cell, 1995 , 8 0 ( 1 ) :167 ~ 178 
+Simons M , Beinroth S, Gleichmann M, et al. Adenovirus - mediated 
+gene transfer of inhibitors of apoptosis protein delays apoptosis in cer-
+ebellar granule neurons. J Neurochem, 1999，72( 1)� ：292 ~301 
+Chamaillard M, Girardin SE, Viala J, et al. Nods, Nalps and Naip：�
+intracellular regulators of bacterial - induced inflammation. Cell Mi-
+crobiol, 2003, 5 ( 9 )�：581 -592 
+朱陵群，范吉平，黄啟福，等.人参皂苷Rbl对大鼠胎鼠海马神�
+经 细 胞 凋 亡 的 影 响 . 中 国 病 理 生 理 杂 志 ， 2 0 0 1 ， 1 7 ( 1 2 ) : 1 2 2 9 � 
+1231 
+刘民，张均田.人参皂甙Rbl和Rgl对原代培养大鼠海马神经细�
+胞的保护作用.药学学报，1995，30(9) : 6 7 4 � 6 7 8 
+10杨迎，张均田，石成璋，等.人参皂甙Rbl和Rgl促智作用机制�
+的探讨——对小鼠脑神经发育的影响.药学学报，1994，29(4)：�
+241 -245 
+Kimura Y，Sumiyoshi M，Kawahira K，et al. Effects of ginseng sapo-
+nins isolated from Red Ginseng roots on burn wound healing in mice. 
+Br J Pharmacol, 2006, 148(6)�：860 �86870 
+(收稿日期:2007 - 0 3 - 2 1 ) 
+2 
+3 
+4 
+5 
+6 
+8 
+9 
+11 
+Q2xvdWRWZXJzaW9uLQo?

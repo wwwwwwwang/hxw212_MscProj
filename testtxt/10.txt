@@ -1,0 +1,484 @@
+中华医学杂志 2020 年8月18日第 100 卷第31期
+Natl Med J China，August 18, 2020, Vol. 100, No. 31
+·基础研究·
+人参皂苷Rb‑1对阿尔茨海默病模型
+大鼠的神经保护作用
+王利军 1
+何静春 2
+王丽芳 1
+谷亚伟 1
+范宏光 1
+田红军 3
+1南开大学附属天津市第四中心医院介入神经病学科，天津 300140；2南开大学附属
+天津市第四中心医院呼吸与危重症学科，天津 300140；3南开大学附属天津市第四
+中心医院精神疾病科，天津 300140
+通信作者：田红军，Email：thj‑home@163.com
+【摘要】 目的
+探讨人参皂苷 Rb‑1 对阿尔茨海默病（AD）模型大鼠大脑保护的作用机制。
+方法
+选取 SD 雄性大鼠 56 只，按照随机数字表法分为对照组、模型组、Rb‑1 低剂量组（Rb‑1 25 mg·
+kg-1·d-1）、Rb‑1 高剂量组（Rb‑1 50 mg·kg-1·d-1），每组14 只。通过Morris 水迷宫实验观察大鼠学习记
+忆能力的改变，应用流式细胞术检测大鼠海马神经元的凋亡；通过免疫组化及Western印迹检测凋亡
+相关基因p53、Bax、Cyto C、caspace‑3、caspace‑9，及抗氧化应激相关基因Nrf2 、keap‑1、血红素加氧酶1
+（HO‑1）、NADPH 醌氧化还原酶（NQO1）的蛋白表达水平；应用试剂盒检测抗氧化酶过氧化氢酶
+（CAT）、谷 胱 甘 肽 过 氧 化 物 酶（GSH‑Px）、超 氧 化 物 歧 化 酶（SOD）的 活 性 。 应 用 方 差 分 析 及
+Tukey-Kramer 检验进行统计分析。结果
+模型组大鼠学习记忆能力低于对照组大鼠（P<0.01）；Rb‑1
+高剂量组学习记忆能力均明显高于模型组［（80±8）s比（100±11）s，t=5.390，P<0.01］。凋亡相关基因
+p53、Bax、Cyto C、caspace‑3、caspace‑9 在模型组大鼠表达明显高于对照组（P<0.01），Rb‑1 低剂量组及
+Rb‑1高剂量组表达明显低于模型组（P<0.01）。模型组大鼠Nrf2、HO‑1、NQO1的表达明显低于对照组
+（P<0.05），Rb‑1 低剂量组及 Rb‑1 高剂量组表达明显高于模型组（P<0.01）。模型组抗氧化酶 CAT、
+GSH‑Px、SOD 的表达活性低于对照组（P<0.01），Rb‑1 低剂量组及 Rb‑1 高剂量组活性高于模型组（P<
+0.05）。结论
+Rb‑1低剂量组及Rb‑1高剂量组对AD模型大鼠记忆力及认知功能具有保护作用，可以
+降低海马神经元的损伤和凋亡，并通过下调p53、Bax、Cyto C、caspace‑3、caspace‑9蛋白的表达水平，上
+调Nrf2、HO‑1、NQO1的表达以及增加抗氧化酶CAT、GSH‑Px、SOD的活性发挥作用。Rb‑1对大鼠大脑
+的保护作用可能呈剂量相关性。
+【关键词】 阿尔茨海默病； 人参皂苷； 氧化应激； 凋亡
+DOI:10.3760/cma.j.cn112137‑202000123‑00151
+Neuroprotective effect of ginsenoside Rb‑1 on a rat model of Alzheimer′s disease
+Wang Lijun1, He Jingchun2, Wang Lifang1, Gu Yawei1, Fan Hongguang1, Tian Hongjun3
+1Department of Interventional Neurology, the Fourth Central Hospital of Tianjin, Affiliated to Nankai
+University, Tianjin 300140, China; 2Department of Respiratory and Critical Care Medicine, the Fourth Central
+Hospital of Tianjin, Affiliated to Nankai University, Tianjin 300140, China; 3Department of Psychiatry, the
+Fourth Central Hospital of Tianjin, Affiliated to Nankai University, Tianjin 300140, China
+Corresponding author: Tian Hongjun, Email: thj‑home@163.com
+【Abstract】
+Objective
+To investigate the protective mechanism of ginsenoside Rb-1 on the brain
+in a rat model of Alzheimer′s disease. Methods
+Fifty‑six male Sprague-Dawley rats were randomly divided
+into control group, model group, low-dose Rb-1 group (Rb-1: 25 mg•kg-1•d-1) and high-dose Rb-1 group
+(Rb-1:50 mg•kg-1•d-1). Morris water maze was designed to observe the changes of learning and memory
+ability
+in
+rats.
+Flow
+cytometry
+was
+used
+to
+detect
+the
+apoptosis
+of
+hippocampal
+neurons.
+Immunohistochemistry and Western blot were employed to detect the expression levels of apoptosis-related
+genes (p53, Bax, cytochrome C (Cyto C), Caspase-3 and caspase-9) and anti-oxidative stress-associated
+genes (nuclear Factor-E2-related factor 2 (Nrf2), kelch-like ECH-associated protein 1 (keap-1), heme
+oxygenase 1(HO-1) and NADPH quinone dehydrogenase 1 (NQO1)). The activities of catalase (CAT),
+glutathione peroxidase (GSH-Px) and superoxide dismutase (SOD) were detected by relevant kits. ANOVA
+·
+·2462
+中华医学杂志 2020 年8月18日第 100 卷第31期
+Natl Med J China，August 18, 2020, Vol. 100, No. 31
+and Tukey-Kramer test were used for statistical analysis. Results
+The learning and memory ability of rats
+in the model group was lower than that of the control group (P<0.01).The learning and memory ability of rats
+in the high-dose Rb-1 treatment group was significantly higher than that of the model group [(80±8) s vs
+(100±11) s, t=5.390, P<0.01]. The expression levels of apoptosis-related genes (p53, Bax, Cyto C, caspase-3
+and caspase-9) in the model group were significantly higher than those in the control group (P<0.01), while
+the expression levels of these genes in low-dose and high-dose Rb-1 groups were significantly lower than
+those of the model group (P<0.01). The expression levels of Nrf2, HO-1 and NQO1 genes in the model group
+were significantly lower than those in the control group (P<0.05), while the expression of these genes in
+low-dose and high-dose Rb-1 groupswere significantly higher than those of the model group (P<0.01). The
+activities of CAT, GSH-Px and SOD in the model group were lower than those in the control group (P<0.01),
+however the activities of CAT, GSH-Px and SOD in low-dose and high-dose Rb-1 groups were higher than
+those of model group (P<0.05). Conclusions
+Both low-dose and high-dose Rb-1 have protective effect on
+memory and cognitive function of Alzheimer′s disease rats by reducing the damage and apoptosis of
+hippocampal neurons, down-regulating the expression levels of p53, Bax, Cyto C, caspase-3 and caspase-9,
+up-regulating the expression of Nrf2, HO-1 and NQO1 genes, and increasing the activities of CAT, GSH-Px
+and SOD. Moreover, the protective effect of Rb-1 on rat brain may be dose-dependent.
+【Key words】
+Alzheimer′s disease;
+Ginsenoside;
+Oxidative stress;
+Apoptosis
+DOI:10.3760/cma.j.cn112137‑202000123‑00151
+阿尔茨海默病（Alzheimer′s disease，AD）是一
+种易发生在高龄人群的以逐渐加重的进行性认知
+功能障碍为主要表现的神经系统退行性疾病。海
+马作为中枢神经系统的重要组成部分在记忆和学
+习的多个环节发挥重要作用，其也是神经系统退行
+性疾病最早受累的部位。神经元凋亡和氧化应激
+是导致AD的重要原因［1‑2］。
+人参是一种具有悠久历史的传统中药，人参皂
+苷（gnsenoside，GS）是人参主要药理活性成分，Rb‑1
+属于人参二醇组皂苷。在人参的众多成分中以
+Rb‑1 含量最高，活性最强，其具有抗自由基、抗凋
+亡、改善微循环等多种功效，已被广泛运用于临床
+治疗。但 Rb‑1 对 AD 所致的认知功能障碍是否有
+治疗作用尚不明确。本实验采用氯化铝联合 D‑半
+乳糖的方法［3］建立 AD 动物模型，观察 Rb‑1 对海马
+神经元凋亡及氧化应激指标的影响，以探讨药物的
+效果及作用机制。
+材料与方法
+1. AD模型大鼠制备：选取SD雄性大鼠56 只，
+鼠龄 12 个月，体质量 200~250 g，按照随机数字表
+法分为对照组、模型组、Rb‑1 低剂量组、Rb‑1 高剂
+量组，每组 14 只。D‑半乳糖购自北京化学试剂公
+司，Rb‑1购自大连富生制药有限公司，纯度为60%。
+模型组及治疗组胃饲氯化铝水溶液 200 mg·kg-1·
+d-1，同时腹腔注射D‑半乳糖60 mg·kg-1·d-1，连续给
+药2个月［3］；对照组每日胃饲、腹腔注射与治疗组胃
+饲、腹腔注射剂量相同的蒸馏水。造模完成后1 d，
+治疗组腹腔注射人参皂苷 Rb‑1，低剂量组 25 mg·
+kg-1·d-1，高剂量组50 mg·kg-1·d-1，连续给药1周。
+2. Morris 水迷宫行为测试：所有动物于处死前
+5 d进行Morris水迷宫行为测试［4］，用于测试大鼠对
+水迷宫学习和记忆的获取能力。分别从 4 个不同
+象限的中点将大鼠头朝池壁放入水池，任其在水中
+自由游泳，如大鼠在120 s内找到并爬上平台，让其
+在平台上停留 30 s，以强化记忆效果，逃避潜伏期
+为实际寻找平台所用的时间，如在 120 s 内大鼠未
+能找到平台，则由实验者用工具将其引导至平台，
+同样让大鼠在平台上停留 30 s，以强化记忆效果，
+同时以 120 s 为逃避潜伏期。潜伏期>90 s 的大鼠
+视为成功模型。上述运动轨迹被设在水池正上方
+的摄像记录系统实时记录。逃避潜伏期越短，其学
+习能力越强。水迷宫行为测试结束后处死所有大
+鼠取海马组织，取模型组大鼠海马组织病理刚果红
+（HE）染色，可见到老年斑，进一步证实模型成功。
+3. 流式细胞术检测海马组织细胞凋亡：将4组
+大鼠的海马组织裂解成细胞，进行碘化丙啶（PI）染
+色，应用流式细胞术检测海马组织细胞凋亡。
+4. 免疫组化检测海马组织凋亡相关基因表达：
+切片常规脱蜡至水，3% H2O2室温孵育 10 min 灭活
+内源性酶，蒸馏水洗 3 次，按照免疫组织化学显色
+试剂盒步骤进行免疫组织化学显色，检测 p53、
+Bax、Cyto C、caspace‑3、caspace‑9 的表达水平，DAB
+显色、苏木精复染，中性树胶封固，摄片。
+5. Western 印迹法检测凋亡相关基因蛋白表
+达：取部分海马组织加入放射免疫沉淀法缓冲液
+·
+·2463
+中华医学杂志 2020 年8月18日第 100 卷第31期
+Natl Med J China，August 18, 2020, Vol. 100, No. 31
+（RIPA），提取蛋白，测定并定量蛋白。取 30 μg 蛋
+白变性，10% 聚丙烯酰胺凝胶电泳（SDS‑PAGE）胶
+分离，再电转至聚偏二氟乙烯（PVDF）膜，5% 的脱
+脂牛奶封闭2 h，Western印迹检测海马组织中p53、
+Bax、Cyto C、caspace‑3、caspace‑9，及抗氧化应激相
+关 基 因 Nrf2、keap‑1、血 红 素 加 氧 酶 1（HO‑1）、
+NADPH醌氧化还原酶（NQO1）的表达水平。
+6. 抗氧化酶活性检测抗氧化应激相关酶水平：
+取海马组织在电子天平上称重，匀浆，在 4 ℃低温
+离心机中 4 000 r/min 离心 10 min，取上清液，超氧
+化物歧化酶（SOD）活性测定用黄嘌呤氧化酶法，过
+氧化氢酶（CAT）活性测定用过氧化氢分解法，谷胱
+甘肽过氧化物酶（GSH‑Px）活性测定用二硫代二硝
+基苯甲酸（DTNB）法。
+7. 统计学处理：采用统计分析软件 SPSS 22.0
+进行统计学分析，符合正态分布的数据以 xˉ ± s 表
+示，寻找平台潜伏期的组间比较采用重复测量的多
+因素方差分析及Tukey‑Kramer检验，其余数据均用
+单因素方差分析进行统计学分析。单因素方差分
+析用于多组比较，组间方差齐时，用 LSD 法进行组
+间两两比较，方差不齐时，用 Dunnett′s T3 进行组
+间两两比较，以 α＝0.05 为检验标准，采用双侧检
+验。P<0.05为差异有统计学意义。
+结
+果
+1. Morris 水迷宫学习记忆能力
+检测结果：模型组大鼠寻找平台的
+潜伏期时间明显长于对照组［（100±
+11） s 比（74 ± 10） s，t=6.450，P<
+0.01］。Rb‑1高剂量组大鼠寻找平台
+潜伏期时间明显短于模型组［（80±
+8） s 比（100 ± 11） s，t=5.390，P<
+0.01］；Rb‑1 低剂量组寻找平台潜伏
+期时间与模型组比较，差异无统计
+学意义［（97±11）s 比（100±11）s，t=
+2.350，P=0.067］。
+2. 流式细胞术检测大鼠海马组
+织细胞凋亡：通过 M1峰下的面积值
+可得出凋亡细胞在所测细胞群中所
+占的比例。模型组细胞凋亡比例
+（74%±11%）明显高于对照组（15%±
+4%，t=19.360，P<0.01），Rb‑1 低剂量
+组细胞凋亡（62%±12%）低于模型组
+（t=2.980，P<0.05），Rb‑1 高剂量组细胞凋亡（54%±
+1%）明显低于模型组（t=5.430，P<0.01）。
+3. Rb‑1对AD模型大鼠海马p53、Bax、Cyto C表
+达水平的影响：模型组海马组织p53蛋白表达水平
+（0.180±0.015）高于对照组（0.100±0.024，t=9.660，
+P<0.05），Rb‑1 高剂量组 p53 蛋白表达水平（0.093±
+0.020）低于模型组（t=13.449，P<0.01）。模型组海
+马组织 Bax 蛋白表达水平（0.672±0.017）高于对照
+组［（0.415±0.013），t=24.050，P<0.05］，Rb‑1 低剂量
+组、Rb‑1高剂量组Bax蛋白表达水平均低于模型组
+（均 P<0.05）。模型组海马 Cyto C 蛋白表达水平
+（0.720 ± 0.018）高 于 对 照 组［（0.015 ± 0.018），t=
+73.090，P<0.01）］，Rb‑1 低剂量组、Rb‑1 高剂量组
+Cyto C 蛋白表达水平均低于模型组（均 P<0.01）。
+免疫组化图片显示，Rb‑1高剂量组海马组织中Bax
+基因、Cyto C基因蛋白表达均明显少于模型组（图1）。
+4. Rb‑1 对 AD 模 型 大 鼠 海 马 caspase‑3、
+caspase‑9 表达水平的影响：caspase‑3、caspase‑9 免
+疫组织化学染色阳性结果为胞体内出现棕黄色颗
+粒，以胞质为主，强阳性时细胞核也出现棕黄色颗
+粒。模型组海马组织的caspase‑3及caspase‑9表达
+水平及阳性细胞数明显高于对照组（均 P<0.01），
+Rb‑1治疗后海马caspase‑3及caspase‑9 表达水平及
+阳性细胞数显著低于模型组（均P<0.01），其中高剂
+注：与对照组比较 aP<0.05，与模型组比较，
+bP<0.05，与对照组比较，
+cP<0.01，与模型组比
+较，
+dP<0.01
+图 1
+Rb‑1 对阿尔茨海默病（AD）模型大鼠海马组织 p53、Bax、Cyto C 表达水平的影响
+A：Western 印迹检测海马组织中 p53、Bax、Cyto 蛋白表达；B：4 组海马组织中 p53、Bax、
+Cyto C 相对光密度值；C：大鼠海马组织 Bax 免疫组织化染色， ×200；D：大鼠海马组织
+Cyto C免疫组织化染色， ×200
+·
+·2464
+中华医学杂志 2020 年8月18日第 100 卷第31期
+Natl Med J China，August 18, 2020, Vol. 100, No. 31
+量 组 更 明 显［caspase‑3：（0.235 ±
+0.018）比（0.748 ± 0.033），t=42.622，
+P<0.01；caspase‑9（0.275 ± 0.035）比
+（0.747 ± 0.036），t=29.878，P<0.01］
+（图2）。
+5. Rb‑1 对 AD 模型大鼠海马组
+织 Nrf2、Keap1 表达的影响：模型组
+海马组织的 Nrf2 表达水平低于对照
+组（P<0.05），Rb‑1 治疗后海马 Nrf2
+表达增多，其中 Rb‑1 高剂量组较模
+型组增多更显著［（0.102±0.020）比（0.220±0.021），
+t=12.494，P<0.01］；相反，模型组海马组织的 Keap1
+表达明显多于对照组（P<0.05），Rb‑1高剂量组治疗
+后海马Keap1表达明显低于模型组［（0.801±0.049）
+比（1.193±0.051），t=17.511，P<0.01］（图3）。
+6. Rb‑1 对 AD 模型大鼠海马组织二相解毒酶
+NQO1、HO1 表 达 的 影 响 ：模 型 组 海 马 组 织 的
+NQO1、HO1 表达水平明显低于对照组，Rb‑1 治疗
+后海马 NQO1、HO1 表达增多，其中高剂组与模型
+组比较，差异有统计学意义［NQO1：
+（0.512±0.122）
+比（0.725±0.066），t=5.343，P<0.01；HO-1：（0.708±
+0.039）比（1.137±0.203），t=7.183，P<0.01］（图4）。
+7. Rb‑1 对 AD 模型大鼠海马组织氧化应激水
+平的影响：模型组大鼠脑组织 CAT、SOD、GSH‑Px
+水平均明显低于对照组（均 P<0.01），Rb‑1 治疗后
+可提高 AD 大鼠海马组织 CAT、SOD、GSH‑Px 的水
+平（均P<0.05）（表1）。
+讨
+论
+AD 是最常见的脑变性疾病，以进行性脑功能
+失调为特征表现。Rb‑1 能增强细胞活性、减轻细
+胞核形态的改变、减少DNA断裂、增加细胞膜流动
+性、抑制细胞凋亡。海马区及皮质是学习记忆等高
+级神经活动的重要部位，受损后出现行为学改变。
+本实验应用水迷宫实验观察到AD大鼠学习记忆能
+力下降，Rb‑1对AD大鼠的学习记忆功能有保护作
+用，而且提示高剂量人参皂苷可显著改善AD 大鼠
+的记忆力。通过流式细胞术方法对海马组织细胞
+凋亡检测提示 Rb‑1 可以显著减少海马细胞凋亡，
+且随较大剂量组对凋亡的抑制作用
+较小剂量强。Rb‑1 可以显著减少
+AD 大鼠海马组织细胞的促凋亡基
+因表达，高剂量的 Rb‑1 干预后可见
+促凋亡基因 p53、Bax、Cyto C 表达水
+平低于模型组。Rb‑1可以显著降低
+AD 大 鼠 海 马 组 织 的 caspase‑3 及
+caspase‑9 水平，高剂量组更为明显。
+Rb‑1 可以通过上调 AD 大鼠海马组
+织的 Nrf2 水平，下调 Keap1 水平，发
+挥抑制海马细胞凋亡的作用。Rb‑1
+还可以通过上调 AD 大鼠海马组织
+的 NQO1、HO1 水平，抑制海马细胞
+凋亡。通过对 CAT、SOD、GSH‑Px 抗
+氧化酶的检测显示，Rb‑1 可显著提
+高抗氧化酶水平，减轻AD大鼠的氧
+化应激反应水平。
+神经元凋亡和氧化应激是导致
+AD 的重要原因［1‑2］。细胞凋亡发生
+注：与对照组比较，
+aP<0.01；与模型组比较，
+bP<0.01
+图 2
+Rb‑1 对阿尔茨海默病（AD）模型大鼠海马 caspase‑3 及 caspase‑9 表达水平的影响
+A：Western印迹检测海马组织中caspase‑3及caspase‑9表达水平；B：caspase‑3及caspase‑9
+的相关光密度值；C：大鼠海马 caspase‑9 的免疫组织化染色， ×200；D：大鼠海马
+caspase‑3的免疫组织化染色， ×200
+注：与对照组比较，
+aP<0.05；与模型组比较，
+bP<0.05，
+cP<0.01
+图3
+Rb‑1对阿尔茨海默病（AD）模型大鼠海马组织Nrf2、Keap1表达的影响
+A：Western
+印迹检测 AD 模型大鼠海马组织中 Nrf2、Keap1 表达水平；B：AD 模型大鼠海马组织中
+Nrf2、Keap1表达的相对光密度值
+·
+·2465
+中华医学杂志 2020 年8月18日第 100 卷第31期
+Natl Med J China，August 18, 2020, Vol. 100, No. 31
+的信号转导途径多样，线粒体信号通路是最核心的
+凋亡通路。caspase‑9 被认为是导致线粒体内在凋
+亡途径的主要发起者，caspase‑3 是效应 caspase 及
+细胞凋亡的执行者［5］。Bcl‑2和Bax分别是Bcl‑2家
+族中最有代表性的抑制凋亡和促进凋亡基因，β淀
+粉样蛋白（Aβ）是SP中主要的不溶性蛋白质，Aβ42
+可直接激活 p53 启动子，导致 p53 依赖的细胞凋
+亡［6］。我们的研究结果显示，Rb‑1治疗组大鼠海马
+组织细胞凋亡减少，其可能是通过下调凋亡相关基
+因p53、Bax、Cyto C、caspace‑3、caspace‑9 的表达来发
+挥作用。
+氧化应激也在AD发病中也起着关键作用。氧
+化应激的增强可能是 AD 神经退行性疾病的基
+础［7］。Nrf2 通路是体内关键的内源性氧化还原通
+路之一［8］。发生氧化应激时，Keap1 可以作为氧化
+还原敏感调节器释放 Nrf2，解离后进入细胞核，在
+核内基因启动子区与 ARE 结合，启动受 ARE 调控
+的二相解毒酶HO‑1和NQO1的转录［9］，它们协同构
+成多效的细胞内抗氧化及解毒防御体系，清除
+ROS，驱除内源性及外源性化学物质引起的细胞毒
+作用，维持细胞内的氧化还原电位。消除ROS的主
+要抗氧化酶有 CAT、GSH‑Px、SOD。本研究结果显
+示，Rb‑1治疗组Nrf2、HO‑1、NQO1 表
+达 增 加 ，抗 氧 化 酶 CAT、GSH‑Px、
+SOD的活性增加。其表明Rb‑1可以
+通过 Nrf2‑ARE 氧化应激通路对 AD
+大鼠大脑发挥保护作用。深入研究
+Nrf2 在中枢神经系统疾病发生发展
+中的作用机制以及抗氧化作用的机
+制，寻找有效的抗氧化机制激活靶
+点或药物，将为中枢神经系统疾病
+的防治提供一条新的途径。
+利益冲突
+所有作者均声明不存在利益冲突
+参
+考
+文
+献
+[1]
+Teixeira
+JP,
+de
+Castro
+AA,
+Soares
+FV,
+et al.
+Future
+therapeutic
+perspectives
+into
+the
+Alzheimer′s
+disease
+targeting the oxidative stress hypothesis[J]. Molecules, 2019,
+24(23):4410.DOI: 10.3390/molecules24234410.
+[2]
+Singh AK, Verma S. Use of ocular biomarkers as a potential
+tool for early diagnosis of Alzheimer′s disease[J]. Indian J
+Ophthalmol, 2020,68(4):555‑561. DOI: 10.4103/ijo.IJO_999_
+19.
+[3]
+Wei Y, Liu D, Zheng Y, et al. Protective effects of kinetin
+against aluminum chloride and D‑galactose induced cognitive
+impairment and oxidative damage in mouse[J]. Brain Res Bull,
+2017,134:262‑272. DOI: 10.1016/j.brainresbull.2017.08.014.
+[4]
+Weitzner DS, Engler‑Chiurazzi EB, Kotilinek LA, et al. Morris
+water maze test: optimization for mouse strain and testing
+environment[J]. J Vis Exp, 2015,(100):e52706. DOI: 10.3791/
+52706.
+[5]
+Lee S, Youn K, Jun M. Major compounds of red ginseng oil
+attenuate
+Aβ25‑35‑induced
+neuronal
+apoptosis
+and
+inflammation by modulating MAPK / NF‑κB pathway[J]. Food
+Funct,2018,9(8):4122‑4134. DOI: 10.1039/c8fo00795k.
+[6]
+Shi Z, Zhang K, Zhou H, et al. Increased miR‑34c mediates
+synaptic
+deficits
+by
+targeting
+synaptotagmin
+1
+through
+ROS‑JNK‑p53 pathway in Alzheimer′s disease[J]. Aging Cell,
+2020,19(3):e13125. DOI: 10.1111/acel.13125.
+[7]
+Battino M, Giampieri F, Cianciosi D, et al. The roles of
+strawberry and honey phytochemicals on human health: a
+possible clue on the molecular mechanisms involved in the
+prevention
+of
+oxidative
+stress
+and
+inflammation[J].
+Phytomedicine, 2020:153170. DOI: 10.1016/j.phymed.2020.
+153170.
+[8]
+Kasai S, Shimizu S, Tatara Y, et al. Regulation of Nrf2 by
+mitochondrial reactive oxygen species in physiology and
+pathology[J]. Biomolecules, 2020, 10(2): 320. DOI: 10.3390 /
+biom10020320.
+[9]
+Wang Y, Li C, Cheng K, et al. Activation of liver X receptor
+improves viability of adipose‑derived mesenchymal stem cells
+to attenuate myocardial ischemia injury through TLR4/NF‑κB
+and Keap‑1 / Nrf‑2 signaling pathways[J]. Antioxid Redox
+Signal,2014,21(18):2543‑2557. DOI: 10.1089/ars.2013.5683.
+（收稿日期：2020‑01‑23）
+（本文编辑：朱瑶）
+注：与对照组比较，
+aP<0.05，与模型组比较，
+bP<0.05，
+cP<0.01；HO‑1 为血红素加氧酶 1，
+NQO1为NADPH醌氧化还原酶
+图4
+Rb‑1对阿尔茨海默病（AD）模型大鼠海马组织NQO1、HO‑1表达的影响
+A：Western
+印迹检测 4 组大鼠海马组织中 NQO1、HO‑1 表达水平；B：4 组大鼠海马组织中 NQO1、
+HO‑1表达的相对光密度值
+表1
+Rb‑1对阿尔茨海默病模型大鼠海马组织氧化应激
+水平的影响（xˉ ± s）
+组别
+对照组
+模型组
+Rb‑1低剂量组
+Rb‑1高剂量组
+动物
+数（只）
+14
+14
+14
+14
+CAT
+（mg/kg）
+4±1
+3±1a
+3±1b
+3±1b
+GSH‑Px
+（mg/kg）
+600±26
+442±51a
+575±27b
+687±40b
+SOD
+（mg/kg）
+70±7
+60±8a
+78±6b
+85±8b
+注：与对照组比较，
+aP<0.01；与模型组比较，
+bP<0.05；CAT 为抗
+氧化酶过氧化氢酶；GSH‑Px为谷胱甘肽过氧化物酶；SOD为超氧化
+物歧化酶
+·
+·2466

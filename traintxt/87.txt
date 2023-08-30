@@ -1,0 +1,313 @@
+3 3 0  
+人参皂苷 
+I3 分 泌酶 
+中华医学杂志 2012 年 2 月 7 日第 92 卷第 5 期
+Nat Med J China ，February 7 ，2012 ，Vo1．92 ，No．5 
+Rgl 调 节 N2a／APP695 细胞 
+活 性 的可 能机 制 
+陈丽敏
+林楠
+张静
+朱元贵
+陈晓春 
+【摘要】 
+目的
+观察人参皂苷 Rgl 能否通过核蛋白因子 KB(NF—KB) 影响 N2a／APP695 细胞 p 
+淀粉样 肽( A13 ) 的生 成和代谢 ，从源头上缓解和 ( 或 ) 减轻 阿尔茨海默病 ( AD) 病人 的神经病理 改变 。 
+方法
+利用稳定 表达突变型 APP695 的 N2a 细胞 ( N2a／APP695 ) ，通过 RT —PCR 、蛋 白免疫 印迹 、激 光 
+共聚焦显微镜等方法检测人参皂苷 Rgl 对 B 分泌酶 活性及上 游转 录因子 NF—KB 活性的影 响。结果 
+2．5 txmol／L 人参皂苷 Rgl 作 用 6 ～12 h 后 ，N2a／APP695 细胞外液 A p 
+和 ABl42水 平较 Rgl 作用 前 
+均有不 同程度的下降 [ 最低值分别为 ( 13．3 ±4．3 ) ng／ml 及 ( 12．0 ±5．4) ng／m1] ；BACE 1 的蛋 白表达 
+水平下 降( BACE 1／I5 ．肌 动蛋 白比值为 0．26 ±0．05) ；NF—KB p65 蛋 白表达水平 明显增加 ( 磷酸化 p65／ 
+总 p65 比值为 0．93 ± 0．02 ) 并诱导促进 NF—KB 的核转位 ；NF KB 的抑制剂 quinazoline 预处 理后可见人 
+参 皂苷 Rgl 对 BACE1 mRNA 和蛋 白表达 的抑制作用明显减弱。结论
+人参皂苷 Rgl 能激 活 NF—KB，
+ 
+促进 NF—KB 的核转位 ，增加 与 BACE 1 启动子相应 位点 的结合 ，导致 B 分泌酶 的活性减少 。 
+【关键词】 
+人参皂苷 Rgl ； 核蛋白因子 KB； B 分泌酶； N2a 细胞 
+Mechanism of  ginsenoside R gl regulating the acti v ity of B secretase in N2a／AP P695 cells 
+CHEN  Li— 
+min．u N Nan．z HANG J ing 。z HU Yuan—gui ，CHEN Xiao—chur~ F uj ian Institute of  Geriatrics ，Union 
+HospitaZ．F uj ian Medica l University ．F uzhou 35D0D 
+C ina 
+C orrespond ing author ：C H E N X i ao—ch un ．E m ail ：c henx iaoch un9 98 @ g ma i L con  
+【Abstract】 
+Obj ective 
+To explore whether or not ginsenoside Rgl can modify the metabolism of 
+amyloid precursor protein ( APP ) and the generation of amyloid beta ( A13 ) by nuclear factor-kappa B ( NF— 
+KB ) ．M ethods 
+N2a／APP695 cell s ．a mutated APP—overexpr essing neuronal cell li ne ，was used to mimi c 
+the A PP metabol ism and A B generati on in vitro．T he BA CE 1 mR NA and protein l evel s were detected by R T — 
+P CR
+( reverse tran scri pti on．pol ymerase ch ai n reacti on 
+and W estern bl ot respectivel y． T h en the exp ression 
+l eve] s an d s ubc el lul ar l oc ali zation of N F ．KB  were detec ted by W es tern bl ot an d confoc al l as er sc an ni ng 
+microscope resp ectively ．R esu lts 
+T he treatment of gi nsenoside R gl  at a dose of 2 ．5 I．
+tmoL／L  d ecreased the 
+levels of A 131-40 and AB1-42 ( 13．3 ．
+4- 4．3 )
+ng／ml vs ( 12．0 ± 5．4 )
+ng／ml in N2a／APP695 cells ，
+ 
+decreased the protein level of BA CE 1 ( B AC E 1／B —actin 0．26 ± 0．05 ) 。increased the protein l ev el of NF ．KB 
+p65 ( p-p65／O65 0．93 ± 0．02 )
+and resulted in th e translocation of NF ．KB from cytoplasm to nacleus．
+ 
+Quinazoline inhibited the activation of NF —KB with a reduction of p-p65 and P一065／p65 in N2a／A PP695 ceils 
+and i nc reased the B A C E 1 protei n l eve1． A nd the treatmen t of gin senosi de R gl show ed sim il ar c han ges in 
+N2 a／A P P69 5 c ell s wh en comp ared with th e treatmen t of qui nazoli ne al one． C on c lu si on  
+G in senosi de R g l 
+may mod ify th e metahIol ism of  A P P  by enh ancin g the n uclear bi ndi ng of N F．KB to B AC E 1 p romoter and 
+in hi bitin g the transcrip ti on and transl ati on of BA CE 1．
+ 
+【K ey words】 
+Ginsenoside Rgl ； 
+NF-KB ；
+ 
+B secretase； N2a cells 
+p 淀粉样肽 ( Ap ) 是 由 p 分泌酶( BACE 1) 和 ^y 
+分泌酶剪切 APP 而形成的。在 阿尔茨海默病 ( AD) 
+DOI ：10．3760／cma．j ．issn．0376-2491．20 12．05．0 12 
+基金项 目：国家 自然科学基 金 ( 30772555) ；教育部 博士 点专项 
+基金( 20070392004 ) 
+作者单位 ：350001 福州 ，福建 医科大学 附属 协和医院 内科 ，福 建 
+省老年 医学研究所 
+通信作者 ：陈晓春 ，Email ：chenxiaochun998@ gmail．corn 
+． 基 础 研 究 ．
+ 
+患者 脑 中，BACE 1 的蛋 白含量和酶活性 都明显 升 
+高_1 
+，而且存在转录调节。BACE 1 基 因启动 子包 
+含的转 录 因子 结 合 位 点 PPAR^y，核 蛋 白因子 
+B 
+( NF．KB ) 等 在 大 鼠、小 鼠和 人 类 中是 高 度 保 守 
+的¨3 4。，于是 ，我们选取稳定表达人类 APP695 基 因 
+的小 鼠神经母细胞瘤 N2a 细胞作为 AD 的细胞模 
+型 ，探 讨 BACE 1 表 达 调节 在 AD 治 疗 中的 可 能 
+作用。 
+中华 医学杂 志 2012 年 2 月 7 日第 92 卷第 5 期
+Natl Med J Chi na ，Febmarv 7 ，2012，Vo1．92 ，No．5 
+人参能增强体质 ，提 高认知能力。本课题的前 
+期研究发现人参皂苷 Rgl 可以通过抑制 A13 诱导的 
+tau 蛋 白过度磷酸化及抑制 CDK4．pRB．E2F1 通路等 
+多种途径减轻 A13 诱导 的大 鼠皮层 、海马神经元 凋 
+亡 
+。本研究将重点观察人参皂苷 Rgl 能否影响 
+APP 的代谢和 A13 的生成及其可能机制。 
+材 料 与方 法 
+一
+、 药物与试剂 
+DME M、OPTI—ME M、5％胎牛血清 、G418 和 RNA 
+提取液均购 自美 国 G1BCO BRL 公司，羊抗兔二抗购 
+自美 国 KPL 公 司 ，B一肌 动蛋 白单 克 隆抗 体 购 自 
+NeoMarkers 公司。W estern 印迹化学发光检测试 剂 
+盒 购 自美 国 K PL 公 司。RT—PCR 试 剂 盒 购 自 
+Promega 公司。DNA 标准参照物购 自 Fermentas 公 
+司。BACE1 兔 源 一 抗 受 赠 于许 华 曦 教 授 ( 美 国 
+Burnham 研 究所 ) ，NF—KB p65 一抗 购 自美 国 Cell 
+Signaling 公司 ，quinazoline 购 自美 国 Calbiochem 公 
+司 ，Alex488 标 记 的 二 抗 和 Topro一3 购 自 美 国 
+Invitrogen 公司。人参皂苷 Rgl ( 分子量 800 ，分子式 
+C H 0 ) 由白求 恩医科 大学有机化学教研室 提 
+供 ，纯度 > 98％ ，以 DMEM 培 养基配 置成储 备液 ， 
+一 20 ℃保存备用。 
+二 、细胞及细胞培养 
+小 鼠神经纤维瘤野生型 N2a 细胞( N2a／wt) ，稳 
+定表达突变型 APP695 的 N2a 细胞 ( N2a ／APP695 ) 
+受赠 于 许 华 曦 教 授 。细 胞 培 养 基 内 含 47．5％ 
+DMEM ，47．5％ OPTI．MEM 和
+5％ 胎 牛 血 清 及 
+200 
+g／ml G418。所有细胞复苏后 以 1．2 X 10。／孔 
+接种于 6 孔培养板上，1．4 ml 培养基／孔 ，放置于温 
+度 37 cI= ，体积分数为 5％CO：饱和湿度 的 CO 培养 
+箱中培养 ，每 2 天传代 1 次 ，传代 3 次后将细胞用 于 
+各项实验 。 
+三 、药物干预及实验分组 
+将培养 细胞分为 5 组 ：( 1) 对 照组 ：N2a／wt 细 
+胞 ；(2 ) 实验对照组 ：N2a／APP695 细胞 ；( 3 ) Rgl 组 ：
+ 
+2．5 Ixmolf L 的人参皂苷 Rgl 培养 N2a／APP695 细胞 
+3、6、12、24 h；( 4 ) 单 纯 用 药 组 ：NF．KB 抑 制 剂 
+quinazoline 500 nmol／L 预 处 理 N2a／APP695 细 胞 
+18 h；( 5) 联合用药组 ：NF．KB 抑制剂 quinazoline 500 
+nmol／L 预处理 N2a／APP695 细胞 18 h 后 ，再以 2．5 
+Ixmol／L 的人参皂苷 Rgl 继续培养 3、6 、12 、24 h，然 
+后提取细胞裂觯液用于各项实验。各实验组设 3 个 
+平行对照。拟行免疫荧光染色 的细胞 ，先将玻片置 
+于 24 孔培养板 中，然后以 10 ooo／~L的密度接种细 
+胞 ，以 2．5 Ixmol／L 的人参 皂苷 Rgl 培养 3 、6 、12 、 
+24 h后将玻片取 出进行实验 ，实验重复 3 次。 
+四、酶联 免疫 吸附测定 ( E LISA ) 检测 A13 。
+ 
+及 
+A13 
+水平 
+参照 ELISA 试剂盒的产品说 明书进行操作 ，分 
+别测定培养上清液的 A 13 。及 A13 
+水平 ，ELISA 测 
+定时同时设空白孔 、标准孔 、待测样品孔 ，严格参 照 
+产品说明书操作后用酶标仪在 450 nm 波长依序测 
+量各孑L的吸光度 (4 值 ) ，根据标 准曲线计算 出上清 
+液 A 13 。及 A13 
+水平 ，结果 以 ng／ml 表示。 
+五 、细胞核蛋 白和细胞质蛋 白的提取 
+拟行 NF．KB P65 检测的标本进行细胞核蛋白和 
+细 胞 质 蛋 白 的 提 取 。细 胞 用 裂 解 缓 冲 液 A 
+( 10 mmol／L HEPE S， pH 7．9 ， 10 mmol／L K C1， 
+0 ．1 mm ol ／L  E D T A ，0 ．1 mm ol ／L  E GT A ， 1 m mol／L  
+DT r ，0．5 mmol／L PMSF ) 400 Ixl 冰 上 裂 解 细 胞 15 
+ra in，然后加入 10％NP-40 ( 终浓度 0．2％ ) 振荡 20 S， 
+6000 X g 4 ℃离心 5 min，上清液 即为胞质蛋 白。将 
+沉 淀 重 悬 于 5O 
+裂 解 缓 冲 液 B
+( 10 mmol／L 
+HE PE S ，pH 7．9 ，25％ 甘 油 ，420 mmol／L NaC1， 
+1．5 mm ol／L  
+M gC 12 ， 1 
+mm ol／L  E DT A ，1 
+m mol／L  
+EGTA ，1 mmoL／L DT F，1 mmol／L PMSF ) ，冰上振荡 
+20 min，14 000 X g 4 oC 离心 5 ra in，上清液即为可溶 
+性 的核蛋 白，储存于 一80 ℃以备检测 p65 核蛋 白。 
+六 、蛋 白免疫印迹 
+细胞 用 细 胞 裂 解 液 ( 10 mmol／L Tris ，pH 7．4 ， 
+100 mm ol／L  N aC 1， 1 m mol
+／L  E DT A ，1 m mol
+／L  
+E G T A ， 1 
+mmol ／L  
+N aF ， 20 
+mm ol／L  
+N a4P 20 7 ， 
+2 mmol／L ，Na V O ，0．1％ SDS ，0．5％ 脱氧胆酸钠 ， 
+1％Trion-X  100 ，1 mmol／L PMSF ，60 
+g／ml 抑 肽 
+酶 ，10 
+ml 亮肽素 ，1 Ixg／ml 胃酶抑素) 冰上裂解 
+30 min，低温下 12 000 X g 离心 30 min 后汲取上 清 
+液进行 SDS．聚丙烯酰胺凝胶 电泳分离 ，分离的蛋 白 
+转移到 PV DF 上 ，室温下用封闭液 ( 含 5％脱脂奶粉 
+和 0．2％吐温一20 ) 封 闭 1 h 后分别加入用封闭液稀 
+释的一抗 ( 1：500 稀释 ) ，4 ℃孵 育过夜 ，用 1：4000 
+稀释的辣根过氧化物酶偶联的羊抗兔 IgG 孵育 2 h， 
+再用增强型化学发光法显色 ，x 射线底片曝光。同 
+时选择 B．肌动蛋 白为 内参照 。每次曝光后底片扫 
+描后 对条带 的点密度 用 Scion 公 司 的软件进 行定 
+量 ，然后与 B一肌动蛋 白作比较 ，计算出相对百分值。 
+七 、免疫荧光染色及激光共聚焦显微镜观察 
+处理的细胞经 0．01 mol／L PBS 冲洗后用 4％多 
+中华 医学杂志 2012 年 2 月 7 日第 92 卷第 5 期
+Natl Med J China ，February 7，2012 ，Vo1．92，No．5 
+BACE 1启动子包含有一个单独 的 NF—KB 结合位点 ，
+ 
+它 也 出 现 在 人 类 BACE 1 启 动 子 中 ( 一152 1 一 
+一 1512 ，同源 性 > 85％) ，m J 。NF．KB 结合 位点 的 
+作用依细胞的类型和培养的环境而不同。在神经细 
+胞和未活化的胶质细胞 ，NF—KB 对 BACE 1 起抑制作 
+用 ，而在活化的星型胶质细胞 中则起 激动作用 。因 
+此 ，NF—s：B 对 N2af APP695 细胞 的 BACE 1 起 抑 制 
+作用 。 
+基于 NF—KB 在 AD 发病和神经保护方面的广泛 
+作用 ，我们想了解人参 皂苷 Rgl 是否能通过 NF．KB 
+对 BACE 1 的转录调节来发挥其作用。结果发现 ，人 
+参皂苷 Rgl 作用 于 N2a／APP695 细胞 3 —6 h 后 出 
+现 NF．KB 的活化及核移位增加 ，NF．KB 蛋 白水平 增 
+加 ，伴随着 BACE 1 mRNA 表达水平 以及 BACE 1 蛋 
+白水平都明显下降 ；NF—KB 抑制剂能阻断人参皂苷 
+Rgl 的上述作用。以上研究结果提示人参皂苷 Rgl 
+可能通过激活 NF KB ，增加 NF．KB 的核转位 ，使其 
+与 BACE 1 启动子相 应位点 的结合增 加 ，从 而抑制 
+BACE 1 的转录和翻译 ，使 hi31 。和 AI3 2生成减少。 
+参
+考
+文
+献 
+[ 1]
+Fukumoto H ，Rosene DL ，Moss MB ，et a1 ．Beta-secretase activity 
+increases with aging i n human ，monkey ，and mouse brai n．A m J  
+·
+3 3 5 
+Pathol ，2004 ，164 ：719 -725 ．
+ 
+[ 2j 
+l er SJ ，Dawbarn D ，Wi lcock GK ，et a1．al pha- and beta— 
+secret ase ： profound c ha nge s in A l zhe imer S disea se ． B ioe he m 
+B iophys R e s C om mun ，2 0 0 2 ，2 9 9 ：37 3 —3 7 6 ．
+ 
+[ 3] Lange—Dohna C ，Zeitschel U，Gan nitz F ，et a1．Cloning and 
+expression of  th e rat BA C E 1 promoter．J  Neurosei R es ，2003 ，73 ：
+ 
+73I 80 ．
+ 
+[4 ] Christensen MA ，Zhou W ， Oing H ，et a1． Transcriptional 
+reg ulati on of  B A C E 1， the be ta -a my loid pre cursor prot ein beta - 
+se cretas e ，by  S p1．M ol Ce ll Biol ，2004 ，24 ：865—874．
+ 
+[5]
+彭小松 ，陈晓春 ，朱元贵 ，等．人参皂苷 R gl 对 A I325-35 诱 导大 
+鼠海 马神经元 tau 蛋白异 常磷酸化 的影响．中国药理学通报 ， 
+200 5 ，2 1 ：299 -305 ．
+ 
+I 6 l Chen XC ，Chen LM，Zhu Y G，et a1．Involvement of CDK4． 
+pR B ，and E2 F 1 in ginsenoside R gl protecting rat cortic al neurons 
+from be ta —a myl oid—induced apoptosis ．A cta Pharma col S in ，2003 ， 
+24 ：12 5 9 ．12 6 4 ．
+ 
+[7] Y ang LB ，Lindhal m K ，Yan R ，et a1．Elevated beta—secrctase 
+ex pression and enzymati c act ivity detec ted in sporadic A lzhei mer 
+di se ase ．N at M ed ，2003 ，9 ：3_4 ．
+ 
+[8] Rossner S ，Sastre M ，Bourne K ，et a1． Tran scriptional an d 
+transla tional  re gulat ion of  BA C E 1 
+expression—impli cati ons 
+for 
+A lzheimer S diseas e．P rog Neuro biol ，2006 ，79 ：95 ．1 1 1．
+ 
+[9] Bourne KZ ，Ferrari DC ，L an ge—Dohna C ，et a1．Dif erential 
+regu l ation of BA CE 1 promote r a ctiv ity by nucle ar fa ctor-k appaB  in 
+neurons and glia upon exposure to beta—amy loid peptides． J  
+N euro sc i R es ，20 0 7 ，8 5 ：1 19 4 - 12 0 4 ．
+ 
+[ 1O] Sambamurti K ，Kinsey R ，Maloney B ，et a1．Gene structure and 
+organizati on of the human  beta—secretase ( BACE ) promoter．Faseb 
+J ，2004 ，18 ：1034- 1036 ．
+ 
+( 收稿 日期 ：2011—11-06) 
+( 本文编辑 ：朱 瑶) 
+本刊 “ 疑 难病例 析评" 栏 目征稿 
+中华 医学杂 志开辟 “ 疑 难病 例析评 ” 栏 目。结 构分 “ 病 
+历摘要” 和“ 分析与讨 论 ” 两部分 。与本 刊“ 临床病 理讨论 ” 
+栏 目文稿 的不 同之处 为 ：( 1) 作者 在文 题 下署 名 ，而非 仅在 
+文末注 明由何 人整理 ，作者 拥有本 文 的著作 权。 ( 2 ) “ 分析 
+与讨 论” 部分不采用依 次发言的形式 ，而由作 者系统归纳 ，形 
+成思路清晰 、条 理清楚 、分析得 当、科学性强 的原创性 临床论 
+文。论文性质等 同于本 刊“ 论 著 ” 。( 3 ) 所 分析 的病 例不 一 
+定都 具备病理检查结果 ，但必须经科学手段确诊 。 
+1．病例 选择 ：( 1) 疑难病例 ，特别 是涉及多学科 、多领域 
+的疑难病 例。( 2) 误诊且有经验教训 的病例 。( 3) 诊 断 已经 
+明确 ，但病情危重或有诸 多并 发症 ，治疗上甚 为棘 手的病例 。 
+( 4) 罕见病 例。( 5) 其他对临床实践有 指导或提 示意义 的病 
+例。以上病例须最终获得明确诊断或成功治疗 ，临床资料应 
+齐全 ，能提供实验室 、影像学和 ( 或 ) 病理确诊证据 。 
+2．写作格式 ：文 题可 用 主要症 状 、体 征或 诊断 命题 ，各 
+． 读 者 ．作 者 ．编 者 ．
+ 
+短语之 间用 一字 线连 接。正文分 “ 病历 摘要 ” 和“ 分 析与讨 
+论 ” 两部分 。“ 病历摘要” 部分 ：交代 清楚患者 主诉 、病史 ( 包 
+括既往史 ) 、作者接诊后 的诊治 经过等 。应 提供必要 的实证 
+图片。字数 以不超过 1000 字为 宜 ( 不 包括 图片 ) 。“ 分析 与 
+讨论 ” 部分 ：要求逻辑性强 ，条理 清楚 ，能较好 地体现 正确 的 
+临床思维 ，对读者的临床工作有实际借鉴意义 。重点部分可 
+采用序号标 示 法 ，以突 出 层次 。写 作 上应 满 足 以下 要 求 ： 
+( 1) 开 门见 山，首先说 明本 例需要从 哪几个方 面讨 论 ；( 2 ) 写 
+清诊断和治疗思路 ，如何发 现并优先 处理疾 病 的关 键 问题 ； 
+( 3) 请将疑点 、鉴别 诊断要 点另 列 出，通 过什 么手 段排 除相 
+关疾病 ；( 4) 给 出本 例 的最后 诊 断和诊 断 依据 ；( 5) 若 为误 
+诊 ，则 总结经验教训 ；( 6) 若为罕见 病 ，则 介绍 目前 国内外 的 
+最新进展 ；( 7) 列 出相关 的国 内外 主要参考 文献 。字数 以控 
+制在 2000 ～2500 字为宜 。 

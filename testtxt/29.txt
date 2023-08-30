@@ -1,0 +1,477 @@
+第 33 卷
+第 4 期 
+20 16 年 4 月 
+新乡医学院学报 
+J ournal  of  X i nxiang Medical University  
+V 01．33 
+No．4 
+Apr．2016 
+· 275
+· 
+：。。。。。 。。’ 。。 。。 。。’ 。。’ 。。’ 。。 。。’ 。。 。。。。。 。。’ 。。’ 。。’ 。。’ 。。 。。 。。 。。 。。’ 。。 。。 。。’ 。。’ 。。 。。 。。’ 。。’ 。。’ 。。 。。 。。’ 。。 。。 。。： 
+本文弓。
+用：
+ 嚣 
+Rg ，
+3对巾
+3(白
+金
+4)森
+27
+J 
+2016 33 4：
+27病
+52小
+80嚣D中
+O I 1嚣
+0质
+76神
+83经
+／
+xx调
+yx节
+yx b 2 016 0 4 007 号通路活性的影 
+【基础研究】
+ 
+：
+ 
+响[]．
+新乡医学院学报，
+ ，
+ 
+．
+ ：
+ ．
+ 
+．
+ ．
+ ．
+ ．
+ 
+：
+ 
+一 。
+ 。
+ 
+人参皂苷 R gl 对帕金森病小 鼠中脑 黑质神经调节蛋 白 1-E rbB4 
+信 号通 路 活性 的影 响 
+李苗苗 
+，王淑 秀 
+( 1．新乡 医学 院基础 医 学 院病 理学 教 研 室 ，河 南
+新 乡
+453003；2．新 乡 市 第一 人 民 医院 病 理科 ，河 南 
+新 乡 
+453000 ) 
+摘要 ： 
+目的
+探讨 人参 皂苷 Rgl 对 帕金森病 ( PD) 小 鼠中脑黑 质 中神经 调节蛋 白 1( NRG1) 一ErbB4 信号 通路 活 
+性 的影响 。方 法
+将 40 只 C57BL／6 小 鼠随机 分为生 理盐水 对照组 、1- 甲基4 -苯基-1 ，2 ，3 ，6- 四氢吡 啶 ( MPTP) 模 型 
+组 、MPTP + Rgl 组 、MPTP + Rgl + N．[ 2-( P．溴 苯丙 烯 盐基 氨基 ) 乙基 ] _5一异 喹啉 磺酰 胺 ( H89) 组 。在注 射 MPTP 前 
+3 d，生理 盐水 对照组 、MPT P 模型组小 鼠腹腔注射生理盐水 1 mL · kg一 · d～，MPTP +Rgl 组 、MPTP + Rgl + H89 组 小 
+鼠腹腔注射人参皂苷 Rgl 10 mg · kg ～ · d～，连续 4 d，第 4 天在 注射完人参 皂苷 2 h 后 ，MPTP 模 型组 、MPTP + Rgl 
+组 、MPTP + Rgl + H89组 小鼠腹腔注射 MPTP 20 mg · kg ～，均注射 4 次 ，每次 间隔 2 h，而 MPTP +Rgl + H89 组在首 次 
+注射 MPT P 前 30 min腹腔 注射 H89 1 mg · kg ～。药物注射后连续 7 d 观察小 鼠行 为学变化 ，采用 反转录 多聚酶链反 
+应 ( RT-PCR ) 检测小 鼠中脑黑质中 Nrgl 与 
+基 因的 mRNA 表达情况 ，采用 Western blot 检测 NRG1受 体 ErbB4 蛋 
+白及磷酸化 E rbB4( p-ErbB4) 蛋 白的表达及其磷酸化水平 。结 果
+MPTP 模型 组小 鼠中脑黑质 内 Nrgl 基 因 mRNA 表 
+达水平低于生理盐水对照组 ( P = 0．007 9 ) 和 MPTP + Rgl 组 ( P = 0．004 9 ) ；MPT P + Rgl + H89 组 与 MPTP 模 型组 相 
+比，Nrgl mRNA 表达水平差异无统计学 意义( P = 0．151 3 ) ；MPTP + Rgl + H89 组与 MPT P + Rgl 组 比较 ，小 鼠 中脑 黑 
+质 内 Nrgl  mRNA 表达水平降低 ( P =0．049 3) 。MPTP 模 型组小 鼠 中脑 黑质 内的 Nrgl —type I ／II 的 mRNA 表 达水 平 
+显著低 于生理盐水对照组 ( P = 0．001 9) 和 MPT P + Rgl 组 ( P = 0．043 2) ；MPTP + Rgl + H89 组 与 MPT P 模 型组小 鼠 
+中脑黑质 内 Nrg1．type I ／I1 mRNA 表达水平 比较差异无 统计学意义 ( P = 0．688 5 ) ；MPTP + Rgl + H89 组与 MPT P 
+Rgl 组 比较 ，小 鼠中脑黑质 内 Nrgl -type I ／I1 mRNA 表达显著下 降( P =0．029 4) 。与生理盐水对 照组相 比 ，Nrgl -type 
+III mRNA 在 MPTP 组 略有 降低 ，但差异无统计学意义 ( P =0．290 8) ；与 MPTP 模 型组 比较 ，MPTP + Rgl 组 小 鼠中脑 黑 
+质 内 Nrg1．type Ⅲ mRNA 表达升高 ( P = 0．041 9 ) ，MPT P + Rgl + H89 组 小 鼠黑 质 Nrgl -typ e 9I mRNA 表 达 降低 ( P = 
+0．728 9 ) ；MPTP + Rgl + H89 组 与 MPTP + Rgl 组 小 鼠黑 质 Nrgl —typ e III mRNA 表达 比较 差 异无 统 计 学意 义 ( P = 
+0．164 2) 。生理盐水对照组 、MPTP 模型组 、MPTP + Rgl 组 、MPTP + Rgl + H89 组小 鼠黑 质 E rbB4 mRNA 表 达水 平 比较 
+差异均无统计学 意义 ( P = 0．531 8) 。各组 小 鼠 中脑 黑质 内 E rbB4 蛋 白表 达 水平 比较 差 异均 无 统计 学 意 义 ( P = 
+0．800 5) ；MPTP 模型组小 鼠黑质 内 p-ErbB4 蛋 白表达水平低于生理盐水对照组 ( P = 0．013 4 ) 和 MPTP + Rgl 组 ( P = 
+0．019 9) ；MPTP + Rgl + H89 组 p-ErbB4 蛋 白表达 水平 低 于 MPTP + Rgl 组 ( P = 0．04 7 8 ) ；MPTP + Rgl + H89 组 与 
+MPTP 模型组 p-ErbB4 表达水 平 比较差异无统计学意 义 ( P = 0．887 7) 。结论
+PD 小 鼠脑 内的 NRG1 基 因表 达及 其 
+E rbB4 受体 的活性降低 ，而人参 皂苷 Rgl 可能通过增 强小 鼠中脑黑质 NRG1一E rbB4 的通路活性 而改善 PD 的症状 。 
+关键词 ：
+ 
+帕金森病 ；人参皂苷 Rgl ；神经调节蛋 白 1；ErbB4 
+中图分 类号 ：R741 
+文献标 志码 ：A
+文章编号 ：1004 -7239 ( 2016 ) 04 —0275—06 
+E f ec t of  g insenosid e R g l  on  act iv ity  of  neu reg ulin l - E r l，B 4 sig na l pat h w ay  in  sub sta nt ia nig r a of  
+m idb r ain in P a rk i nson  s d isease m od el m o use 
+L I M iao．miao1．
+ ．W A NG  S hu ．x iu 
+( 1．Department of Pathology ，School of Basic Medical Sciences，X inxiang Medical University ，X inxiang 453003 ，Henan Province，
+ 
+China ；2．Department of Pathology ，
+ 
+e F irst People s Hospital of X inxiang City ，Xinxiang 453000 ，Henan Prov ince，China) 
+A bstract： 
+Obj ective 
+To explore the ef ect of ginsenoside Rgl on neuregulinl ( NRG1) 一ErbB4 signal pathway in sub- 
+stantia nigra 0f midbrain in Park inson s diseases ( PD ) model mouse．M ethods 
+F orty C57B L／6 mice ~vere randomly divided 
+D O I ：10 ．7683／xx yx yxb ．2016．04
+．007 
+收稿 日期 ：2015 —12 —21 
+基金项 目：河南省高校科技创新人才 支持计划 资助项 tfl ( 编号 ：2010HASqqqD08) 。 
+作者简介 ：李苗苗( 1982 一) ，女 ，河南济源人 ，硕士研究生在读 ，主要从事 帕金森病发病机制研究 。 
+通信作者 ：王淑秀( 1970 一) ，女 ，河南济源人 ，博 士，教授 ，硕士研究 生导师 ，主要从 事帕金森病 发病机 制研究 ；E—mail：shuxiuwang2003@ aliyun 
+c o rn
+。 
+· 27 6 · 
+新乡医学 院学报
+http ：／／www．x~yxyxb．com 
+2016 年
+第 33 卷 
+into physiological saline control group，1-methy-4 pheny-1 ，2 ，3 ，6-tetrahy—dro pyrdine ( MPT P) group，MPTP + Rgl gr oup， 
+MPTP +Rgl + N-E2一[ [ 3一(4一bromopheny1) -2-propen-1-y1] amino] ethy1] ( H89) group，with ten mice in each gr oup．At three 
+days before injecting MPT ，the mice in physiologi cal sal ine control group and MPT P gr oup were gi ven intraperitoneal  injection 
+of physiological sal ine 1 mL · kg一 · d 一 ：the mice in MPTP + R gl gr oup and MPTP + R gl + H89 were gi ven intraperitoneal  
+injection of gi nsenoside R gl 10 mg · kg～ · d ～for fo ur days．On the fourth day ，at the tow hours after injecting gi nsenoside ，
+ 
+the mice in MPTP model group．MPTP + Rgl group and MPTP + Rgl + H89 group were gi ven intraperitoneal  injection of MPTP 
+20 mg · kg一。for four times at intervals of 2 h ；while the mice in MPTP + Rgl + H89 group were gi ven intraperitoneal  injection 
+of H89 1 mg · kg～ at 30 min before injecting MPTP．The ethology change of mice were observed after administration of drugs 
+for 7 -con sec utive—d ay ．R evers e transc ri ption -p olym eras e c h ain reac ti on was u sed to d etec ted  the N rg l  an d E rbB 4 mR N A  ex— 
+p ress ion in su bstantia n igra of mid brai n  of  mi c e ；W estern blo tti ng was u sed to detec t the express ion l evel s of E rbB 4 protei n an d 
+phosphorylation ErbtM( p-E rbB4 ) protein．Results 
+The expression of Nrgl mRNA in substantia nigra of midbrai n of mice in 
+MPTP model gr oup was signifi cantly lower than  that in physiological saline control group ( P = 0．007 9 )
+and MPTP + Rgl 
+group( P = 0．004 9 ) ；there was no statistic difference of Nrgl mR NA expression between MPT P + Rgl + H89 group and MPT P 
+model gr oup( P = 0．151 3 ) ；the expression of Nrgl  mRNA in substan tia nigra of midbrain of mice in MPT P + Rgl + H89 group 
+was sign ifi cantly lower than that in MPTP + Rgl gr oup( P = 0 ．049 3 、．The expression of Nrgl —type I ／lI mRNA in substantia 
+nigra of midbrain of mice in MPTP model gr oup was sign ifi cantly lower than that in physiological saline control group ( P = 
+0．00 1 9 ) and MPTP + Rgl group( P = 0．043 2 ) ；there was no statistic difference of Nrgl —type I ／I1 mRNA expression be— 
+tween the MPT P + Rgl + H89 gr oup and MPTP model gr oup( P ： 0．688 5 ) ；th e expression of Nrgl —type I ／Ⅱ mRNA in 
+MPTP + Rgl + H89 gr oup was sign ifi cantly lower th an that in MPTP + R gl group ( P = 0 ．029 4 ) ．There was no statistic differ- 
+ence of Nrgl -type II1 mRNA expression between physiologi cal  saline control gr oup an d MPTP model gr oup( P = 0 ．290 8) ；the 
+ex pression of N rgl -typ e III mR N A in  M P T P + R g l group  was sign ifi cantl y high er th an that i n MP T P  model group f P =  
+0．04 1 9 ) ；the expression of Nrgl -type 11I mRNA in substantia nigra of midbrain of mice in MPTP + Rgl + H89 group was sig— 
+nifi cantly lower than th at in MPTP model gr oup( P = 0 ．728 9 ) ；there was no statistic dif erence of Nrgl —type III mRNA expres— 
+sion in substantia nigra of midbrain of mice between the MPTP + Rgl + H89 gr oup and MPTP + Rgl gro up ( P = 0．164 2 ) ．
+ 
+T h ere was no stati stic dif eren c e of E rbB 4 mR N A  ex press ion i n s ubs tantia n igra of mic e amon g phy siol ogi c al  s al in e c on trol 
+group，MPTP model group，MPTP + Rgl gr oup and MPTP + Rgl + H89 group( P = 0．531 8) ．There was no statistic difference 
+of E rb B4  protei n expres si on in  su bs tantia n igr a of m ic e among p hys iologi c al  s al in e c ontrol gr ou p ，M PT P model grou p ，M PT P + 
+R gl group and MPT P + R gl + H89 gr oup ( P = 0．800 5 ) ；the expression of p-ErbB4 protein in substantia nigra of mice in 
+MPTP model group was sign ifi cantly lower than  that in physiologic al saline control gr oup ( P = 0．013 4 ) and MPTP + R gl group 
+( P = 0．019 9 ) ；the expression of p-ErbB4 protein in substantia nigra of mice in MPTP + Rgl + H89 group was sign ifi cantl y 
+lower than that in MPTP + R gl group ( P = 0．047 8) ；there was no statistic dif erence of the expression of p-ErbB4 protein be— 
+tween the MPTP + Rgl + H89 gr oup and MPT P model gr oup( P = 0．887 7 、．C onclusion 
+Nrgl  gene expression and the acti- 
+vation of  E rbB4 are decreased in brain of PD model mice ；gi nsenoside R gl can improve the symptoms of PD by hyperenhanc e— 
+m enting the ac tivation of N R G 1一E rb B 4 si gn al p ath way． 
+K ey words ： Parkinson 8 diseases；gi nsenoside Rgl ；neuregn linl ；ErbB4 
+帕金森病 ( Parkinson s disease ，PD) 是一种常见 
+的神经退行性疾病 ，其病理学 特征是 中脑黑质致密 
+区( SNc) 多 巴胺能神经元变性及进行性缺失。神经 
+调节蛋 白 1( neuregulin 1 ，NRG1) 是生长 因子家族 中 
+的一员 ，在神经系统发育过程中发挥着重要的作用 ，
+ 
+参与了神经细胞的存活、增殖、分化 ，神经元的迁移 ，
+ 
+神经突起的外 向性生长和突触 的形成 ，对 中脑 的多 
+巴胺能神经元有神经营养作用 ；它通过激活 ErbB 家 
+族 的受体酪氨酸激酶( 表皮生长 因子受体 的经典成 
+员 ) 进行一 系列 的细胞 内信 号传导 ，从 而在脑 内发 
+挥重要 的调节功能⋯ 。其 中，神经元上 的 ErbB4 受 
+体是 NRG1 的主要 受体 之一 ，介导着 NRG1 在脑 内 
+神经 元 中 的 生 理 效 应 ¨J 。 目前 研 究 已经 表 明，
+ 
+NRG1一ErbB4 信号通路与多种神 经系统疾病如精神 
+分裂症 、癫痫 、抑郁症等疾病 的发生发展过程密切相 
+关 _l J ，但其是否参 与 PD 的发 生 尚未 阐明。人参 皂 
+苷 Rgl 属于人参皂苷三醇型，具有抗神经细胞凋亡 
+和保护神经元 的作用 
+；N_[2．( P一溴苯丙烯盐基氨 
+基 ) 乙基 ] -5-异喹 啉磺酰胺 ( H89) 是腺苷酸 环化酶 
+( adenylaty cyclase，AC ) ／环磷酸 腺苷 ( cyclic adeno— 
+sine monophosphate ，cAMP)／蛋 白激酶 A ( protein ki— 
+naseA ，PKA ) 信号通路 中 PKA 的抑制剂 ，可以通过 
+Ac／cAMP／PKA 信号通路抑制人参皂苷在帕金森模 
+型小 鼠中脑黑质 中的作用 j 。本研 究拟观察 人参 
+皂苷 Rgl 对 PD 小 鼠模型中脑黑质多 巴胺能神经元 
+中 NRG1 和 ErbB4 表达及活性 的影响。 
+第 4 期 
+李 苗苗 ，等 ：人参皂苷 Rg1 对帕金森病小 鼠中脑黑质神经调节蛋 白 l -ErbB4 信号通路活性的影响 
+· 277 · 
+1
+材料与方法 
+1．1
+实验动物
+1 1 周龄无特定病原体级 C57BL／6 
+小 鼠40 只 ，体质量 20 ～25 g，购于北京 维通利华实 
+验动物技术有限公司[ 许可证编号 SCX K ( 京 ) 2006． 
+0009] 。实验前给予 自然光照 ，适应性喂养 10 d。 
+1．2
+主要试剂 
+1．甲基4 一苯基一1，2 ，3 ，6．四氢 吡啶 
+( 1-methy-4-pheny-1，2 ，3 ，6-tetrahy —dropyrdine，MP 】
+ 
+) 
+购于美国 Sigma 公司；人参皂苷 Rgl 购于北京寰宇 
+科技生物科创发展有限公司 ；H89 购于江苏碧云天 
+生物技术 研 究 所 ；反转 录聚 合 酶 链 反 应 ( reverse 
+transcription—polymerase chain reaction ，RT —PCR ) 试 
+剂盒和甘油醛_3一磷酸脱氢酶 ( glyceraldehyde-3一phos— 
+phate dehydrogenase，GAPDH ) 购于宝生 物工程 ( 大 
+连) 有限公 司，actin 抗体、辣 根酶标 记 山羊 抗小 鼠 
+IgG、辣根酶标记山羊抗兔 IgG 购于北京 中杉金桥生 
+物有限公司，蛋 白磷酸酶抑制剂混合物( All—in—One， 
+100X ) 购于北京普利莱基 因技术有限公 司，兔 多克 
+隆抗磷酸化 ErbB4 抗体购于美 国 Santa Cruz 公 司， 
+兔单克 隆抗 E rbB4 抗体购 于美 国 Epitomics 公 司， 
+PCR 引物由 Life Technology 公 司合 成 ，其余试剂均 
+为国产分析纯。 
+1．3
+分组与模型构建
+参考文献 [4 ] 中 PD 小鼠造 
+模和评价方法 ，将 40 只小鼠随机分为生理盐水对照 
+组 、M 
+P 模 型 组 、MPTP + R gl 组 和 MPTP + R gl + 
+H89 组 ，每组 10 只。在注射 MPTP 前 3 d，生理盐水 
+对 照 组、MPTP 模 型组 小 鼠腹 腔 注 射 生 理 盐 水 
+l mL · kg 一 · d一 ，MPT P + Rg l 组 、MPT P + Rg 1 + H89 
+组小 鼠腹腔注射人参皂苷 Rgl  10 mg · kg～ · d。。，连 
+续 4 d，第 4 天在注射完人参皂苷 2 h 后 ，MPTP 模型 
+组 、MPTP + R gl 组 、MPTP + R gl + H89 组 小 鼠腹 腔 
+注射 MPTP 20 mg · kg ～，均注 射 4 次 ，每次 间隔 
+2 h，而 MPTP + Rgl + H89 组 在首次注射 MPTP 前 
+30 min 腹腔注射 H89 1 mg · kg ～。按照文献 [ 5] 中 
+所述的游泳实验方法和评分标准来进行 ，将小 鼠放 
+于 50 em× 30 em × 20 cm、水温 ( 27 ± 2 ) ℃的水箱 
+中，连续 7 d，观察其游泳情况，对模型小鼠进行运动 
+能力评估 和分析 。7 d 后对 各组小 鼠快速 断头取 
+脑 ，于冰上分离出中脑黑质组织 ，在液氮 中快速冷冻 
+后 ，一80 ℃冰箱保存备用。 
+1．4 
+R T -PCR 检测 总 Nrgl 、Nrg1 亚型 I ／Ⅱ／Ⅲ及 
+受体 E rbB4 mRNA 水 平
+应用 TRIzol 试剂提取 中 
+脑黑质中总 RNA ，根据试剂盒 说明反转 录合成 cD— 
+NA 。总 Nrgl 上 游 引 物 序 列 ：5 一TYGGAAATGGA． 
+CAGCAACCC-3 ，下游 引 物序 列 ：5 -TGT rCTGTAT． 
+GCCCAGGAATGG-3 ，PCR 扩增产物长度为 102 bp； 
+Nrgl —type I ／Ⅱ上游 引物序列 ：5 -ATGTGCAAAGT— 
+GATCAGCAAG_3 ，下 游 引 物 序 列 5 一TGAGGACA— 
+CATA GGGTCT IT 一3 ；PCR 扩增产 物长度为 120 bp； 
+Nrgl —type Ⅲ上游 引物序 列 ：5 ．GCTGTCTGC唧
+C． 
+CTCCCT r．3 下 游 引 物 序 列 ：5 ．T 
+GT GGCT— 
+GAGT YCCTGA -3 ，PCR 扩 增 产 物 长 度 为 103 bp； 
+E rbB4 上 游 引 物 序 列 ：5 ．CTCAGGACCAAAGGA． 
+CAC-3 ， 下 游
+引 物
+序 列 ： 5 一GGAATCTAC— 
+CACGAAGT rAT一3 ，PCR 扩增 产物 长 度 为 190 bp； 
+GAPDH 上游引物序列 5 ．GCcAAGGTcATCcATGA— 
+CAAC-3 ，下 游 引物 序 列 5 一AGTGTAGcCCAAGAT． 
+GCCCT I'-3 ，PCR 扩增 产物长度为 351 bp。PCR 反 
+应条件 ：94 oC 预变性 3 min，变性 30 S，60 oC 退火 
+30 S，72 ℃延 伸 30 s，共 29 个 循 环 ，72 o【=再延 伸 
+10 min。PCR 产物进行琼脂糖凝胶 电泳 ，采用快速 
+凝胶成像系统拍摄 电泳图谱条带 ，利用 图像分析软 
+件分析条带灰度值 。以各实验组 目的基 因相对于 
+GAPDH 的亮度值与生理盐水对照组再做相对 比值 ， 
+来表示各组 目的基因的相对表达变化程度。实验重 
+复 3 次。 
+1．5 
+Western blot 实 验 检 测 E rbB4 及 磷 酸 化 
+E rbB4 ( P-E rbB4 ) 蛋 白表 达水 平 
+取 中脑黑质 组 
+织 ，每 100 mg 组织 中加入 1 mL 细胞裂解液与蛋 白 
+磷酸 酶 抑 制 剂 混 合 物 ( 99 ：1 ) ，冰 上研 磨 ，4 ℃ 
+12 000 r · min 
+离心 17 min 后取上清，取 20 
+L 用 
+于测蛋 白浓度 ，其余上清液加 聚丙烯酰氨凝胶 电泳 
+蛋 白上样缓冲液混匀 ，沸水浴 5 min，冰上冷却 ，蛋 白 
+变性 ，一20 ℃保存。以聚丙烯酰胺凝 胶电泳分 离 ，
+ 
+用湿转法转移至聚偏二氟 乙烯膜上 ，质量分 数 5％ 
+脱脂牛奶封闭 1 h，加一抗 ( ErbB4 多克隆抗体 1 ：
+ 
+200 ，p-E rbB4 多克隆抗体 1 ：100 ，B．actin 单克隆抗 
+体 1 ：1 000 ) ，4 ℃冰箱过夜。三羟甲基氨基甲烷缓 
+冲液冲洗后 ，分别 与辣根酶标记 的山羊抗兔／小 鼠 
+IgG 抗血清( 1 ：12 000) 室温震荡孵育 2 h，暗室内 x  
+光片曝光显影 ，用惠普扫描仪扫描底片 ，采用 Qnan- 
+tity One 图像分析软件测定条带灰度值 ，以目的条带 
+与 B—actin 灰度值 之 比作为 目的基 因蛋 白的表达 。 
+以各实验组 目的蛋 白条带相对 于 B—actin 条带的灰 
+度值与生理盐 水对 照组 再做 相对 比值 ，表示 各 组 
+E rbB4 蛋白的相对表达变化程度 。实验重复 3 次。 
+1．6
+统计学处理
+应用 SPSS 15．0 软件进行统计 
+分析 ，计量资料 以均数 ± 标准差( 元± s) 表示 ，采用方 
+差分 析 比较组 间差异 ，LSD—t 检验进 行两 两 比较 ；
+ 
+P <0．05 为差异有统计学意义 。 
+2
+结果 
+2．1 
+R T -P CR 结果 
+2．1．1 
+Nrgl mRNA 表达水 平变化
+琼 脂糖凝胶 
+·
+280 · 
+新 乡医学 院学报
+http ：／／www．xxyxyxb．com 
+2016 年
+第 33 卷 
+皂苷 Rgl 的作用 J 。当给予 PD 小 鼠以 H89 来阻断 
+人参皂苷 Rgl 的作用后 ，Nrgl mRNA 及其主要剪切 
+体的表达上调则不明显 。这些研究表 明 ，人参皂苷 
+Rgl 对多 巴胺能神经元具有保护作用 ，增强 小鼠中 
+脑多巴胺能神经元 中 NRG1 的基 因表达 ，进 而激 活 
+其 E rbB4 受体 的磷酸化活性 ，缓解 PD 症状。 
+综上所述 ，PD 小 鼠脑 内的 Nrgl 基 因表达及其 
+E rbB4 受体 的活性降低 ，而人参皂苷 Rgl 可能通过 
+增强小 鼠中脑黑质 NRG1一ErbB4 的通路活性而改善 
+PD 的症 状 。 
+[ 2] 
+[ 3] 
+参考文献 ：
+ 
+郭汝金 ，敖丽娟 ，李咏梅 ，等．神经调节蛋 白 1一ErbB 信 号通路 的 
+研究进展 [ J ] ．中国康复医学杂志 ，2014，2( 7) ：3O．34．
+ 
+LIU Q，KOU J P ，Y U BY ．Ginsenoside Rgl protects against hydro— 
+ge n pero x ide--ide ·-induc ed ce ll deat h in pc l 2 ce lls v ia inhibit ing 
+NF -KB activation[ J ] ．Neurochem lnt ，2011，58( 1) ：2090-2101．
+ 
+魏家彬 ，杨 帆 ，王淑 秀，等．人参 皂苷 Rgl 对 l 一甲基4 一苯基一1，
+ 
+2，3 ，6-四氢 吡啶诱导 的帕金森病小 鼠黑质 酪氨酸蛋 白激酶 A4 
+表达 的影 响[ J ] ．新乡医学 院学报 ，2015 ，32( 5) ：404-407．
+ 
+郭德 玉 ，于向东 ，陈彪 ，等．MPTP 致 C57BL／6 小 鼠帕金森病 模 
+型的复制及常用 的行 为学分析方法 [ J ] ．实验动 物学 ，2010 ，27 
+( 2) ：1-4 ．
+ 
+B LE SA  J ，J UR I C ，G A R C IA —C A B EZ A S M A ，et a1．Inter- hemi — 
+spheric a symmetry  of nigrostriatal  dopaminergic l esion ：a possible 
+compendatory mechanism in parkinsin S disease [ J ] ．F ront Syst 
+Neurosci ，2011 ，5 ( 3 ) ：92 -94 ．
+ 
+姜建凯 ，王玉梅 ，邢 红霞 ，等．米诺 环素对 帕金 森病模型 大鼠胶 
+质细胞 源性神经生 长因子受体 nl 表达的影 响[ j ] ．新 乡医学 
+院学 报 ，2014，31(8) ：612-615．
+ 
+韩喧 ，牛朝诗．新型神经营养因子 CDNF／MANF 家族与 帕金森 
+病[ J ] ．立体定 向和功能性神经外科杂志 ，2011，5( 3) ：91-9 3．
+ 
+M E I L ，X I ONG  W  C ．Ne ureg uIin 1 in neu ra I de ve lopment ，sy na ptic 
+plasticity and schizophrenia[ J ] ．Nat Rev Neurosci，2008，9 ( 6 ) ：
+ 
+4 3 7 -4 52 ．
+ 
+朱 丰霞 ，王 淑 ，段瑛 ，等．人 参皂苷 Rgl 对 帕金森病 小 鼠黑质 
+EphB 1、ephfi nB2 表 达 的 影 响 [ J ] ．中 国 老年 学 杂 志 ，2015，4 
+( 35 ) ：10 15 -10 17．
+ 
+( 本文编辑 ：孟
+月
+英文编辑 ：孟
+月 ) 
+( 上接第 274 页) 
+的神经元钙超载 ，amino Nogo + 尼莫 地平组神经 元 
+细胞 内钙离子浓度 随着 时间推移呈持续上升趋 势 ，
+ 
+在 3 min 时 ，amino Nogo+ 尼莫地平组与 amino—Nogo 
+组相 比神经元细 胞 内钙离子浓度 差异无统计 学意 
+义 ，5 、7 min 时 ，amino—Nogo + 尼莫地平 组较 amino— 
+Nogo组神经元细胞 内钙离子浓度低 ，但较同时间点 
+对照组和 Nogo-66 组 明显升高 ，提示 amino—Nogo 所 
+引起 的钙超载可能与其他 因素 ( 如 T 型钙通道 、钙 
+库等 ) 也具有相关性。 
+虽然本实验揭示 了 amino．Nogo 是 Nogo—A 中导 
+致神经元细胞 内钙离子浓 度升高 的责任功能片段 ， 
+但 目前 其受 体和相 关信 号通 路并 不 明确。amino． 
+Nogo是 Nogo—A 的氨基端 ，一部分位于细胞表面 ，一 
+部分位于细胞 内，功能 片段包 括 Nogo—A．A 2、Nogo． 
+A -A 20 
+；除了可以抑制神经轴 突生 长，该 片段 还 
+具有抑制细胞粘附和迁移的功能 
+。 目前 Nogo—A— 
+A 2、Nogo-A- A 20 的受体和信号 通路均 不 明确 ，明 
+确上述功能片段的对应受体及信号通路 ，从而寻找 
+其竞争性拮抗剂具有重要意义。本实验对于揭示上 
+述机制提供了有益 的思路 ，即从 amino—Nogo 导致神 
+经元钙超载途径的角度筛选与钙超载相关 的信号通 
+路 ，从而进一步探 索 Nogo．A ．A 2、Nogo—A ．A 20 所对 
+应的受体及信号通路。 
+参考文献 ：
+ 
+[ 1]
+CHEN M S ，HUBER A B ，VAN DER HAAR M E ，eg a1．Nogo—A is a 
+my elin—as soc iat ed ne ufi te outg rowth inhibitor an d an a ntig en for 
+monoclonal  an tibody IN．1[ J ] ．Nature，2000 ，403( 6768) ：434439．
+ 
+[ 2]
+GOMEZ T M，ZHENG J Q．The molecular bas is for calcium—depen— 
+dent axon pathfi nding[ J ] ．Nat Rev Neurosci ，2006 ，7 ( 2) ：115— 
+1 25 ．
+ 
+[ 3] 
+熊南翔 ，赵洪洋 ，张方 成 ，等．钙离子 参与 Nogo—A 抑制 轴突生 
+长 的作用 [ J ] ．解剖学报 ，2005 ，36( 6) ：582-585．
+ 
+[ 4]
+HUO Y ，YIN X L ，Jt S X ，et a1．Amino-Nogo inhibits optic nerve 
+reg enerat ion an d func tiona l rec ove ry v ia the integ rin d v signal ing 
+pathway in rats[ J ] ．Cell Physiol Biochem，2015，35(2 ) ：616-6 26．
+ 
+[ 5]
+李晓娟 ，白瑞樱 ，郭直岳 ，等．B 淀粉样 蛋 白对三 磷腺苷 所致大 
+鼠海 马神经元损伤 的影响 [ J ] ．新乡医学院学报 ，2014，31( 9) ： 
+6 9 1 -6 9 4 ．
+ 
+[6]
+SUI Y P ，ZHANG X X ，Lu J L ，et a1．New insights into the roles of 
+Nogo-A in CNS biology and diseases[ J ] ．Neurochem Res，2015，40 
+( 9 ) ：1767 -17 85 ．
+ 
+[7] 
+A TWA L J K ，PINK ST ON-GOSSE J ，SY KE N J ，et a 1．PirB is a 
+functional  receptor for myelin inhibitors of axonal  regeneration[ J ] ．
+ 
+Science，2008 ，322 ( 5903 ) ：967-9 70 ．
+ 
+[ 8] 
+杜宇翔 ，郭大东 ，毕宏 生．视觉 系统 中钙库操 纵钙 内流通 路 的 
+研究进展 [ J ] ．眼科新进展 ，2014 ，34(4 ) ：389-393．
+ 
+[ 9] 
+KEMPF A ，SCHWAB M E．Nogo—A represses an atomical  and syn- 
+aptic plasticity in the central nervous system[ J ] ．Physiology ， 
+2013 ，2 8 (3 ) ：151．163 ．
+ 
+[ 1O]
+HU F ，STRITI'MATIE R S M．Th e N-terminal domain of Nogo-A 
+inhibits cel l adhesion an d axon al outgr owth by  an integri n- specifi c 
+mechanism[ J ] ．J  Neurosci，2008 ，28( 5) ：1262·1269．
+ 
+( 本 文编辑 ：李胜利
+英 文编辑 ：杨
+博 ) 
+1
+ 
+J
+] ．J
+ 
+1 J
+ 
+1
+J
+ 
+1 J
+ 
+1 J
+ 

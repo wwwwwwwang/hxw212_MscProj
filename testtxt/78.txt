@@ -1,0 +1,882 @@
+中国药房
+2020年第31卷第11期
+China Pharmacy 2020 Vol. 31 No. 11
+Δ 基 金 项 目 ：国 家 自 然 科 学 基 金 面 上 项 目（No.81971231，
+No.81774116）；辽 宁 省 科 学 技 术 计 划 项 目（No.20180530093，No.
+20180550197）；辽宁省自然科学基金指导计划项目（No.20170540379）
+＊硕士研究生。研究方向：脑血管疾病的基础与临床。E-mail：
+649443209@qq.com
+# 通信作者：主任医师，教授，硕士生导师，硕士。研究方向：脑血
+管疾病的基础与临床。E-mail：minlianqiu@163.com
+·药学研究·
+人参皂苷 Rg1对局灶性脑缺血再灌注损伤模型大鼠的预防作用
+及机制研究
+Δ
+武文文
+1＊，吴诗卉
+1，刘春红
+2，包翠芬
+2，闵连秋
+1 #（1.锦州医科大学附属第一医院神经内科，辽宁 锦州
+121001；
+2.锦州医科大学基础医学实验教学中心，辽宁 锦州
+121001）
+中图分类号
+R285
+文献标志码
+A
+文章编号
+1001-0408（2020）11-1287-07
+DOI
+10.6039/j.issn.1001-0408.2020.11.02
+摘
+要
+目的：研究人参皂苷Rg1对局灶性脑缺血再灌注损伤（CIRI）模型大鼠的预防作用及机制。方法：将78只SD大鼠随机分
+为假手术组、模型组、丁苯酞对照组（阳性对照，10 mL/kg）和人参皂苷Rg1低、中、高剂量组（10、20、40 mg/kg），每组13只。各给药
+组大鼠腹腔注射相应药物，假手术组和模型组大鼠腹腔注射等体积生理盐水，每天1次，连续7 d。给药结束后，除假手术组外，其
+余各组大鼠均采用右侧大脑中动脉栓塞法复制局灶性CIRI模型。造模完成后，参照改良神经功能缺损评分标准对大鼠进行神经
+功能缺损评分，采用2，3，5-氯化三苯基四氮唑（TTC）染色法测定大鼠脑梗死体积百分比，采用干湿重法测定大鼠脑含水量，采用
+酶联免疫吸附法检测大鼠血清中白细胞介素1β（IL-1β）、IL-6含量，分别采用免疫组织化学法和Western blotting法测定大鼠脑组
+织中磷酸化 p38 丝裂原活化蛋白激酶（p-p38 MAPK）、磷酸化核因子-κB p65（p-NF-κB p65）蛋白表达情况。结果：与假手术组比
+较，模型组大鼠神经功能缺失评分、脑梗死体积百分比、脑含水量和血清中IL-1β、IL-6含量以及脑组织中p-p38 MAPK、p-NF-κB
+p65阳性蛋白表达细胞数和蛋白表达水平均显著升高（P＜0.05或P＜0.01）；与模型组比较，各给药组大鼠上述指标水平均显著降
+低（P＜0.05或P＜0.01），且人参皂苷Rg1的作用具有一定的剂量依赖性趋势；人参皂苷Rg1中、高剂量组与丁苯酞对照组比较，上
+述指标差异均无统计学意义（P＞0.05）。结论：人参皂苷 Rg1对局灶性 CIRI 模型大鼠具有一定的预防作用。其机制可能与下调
+p-p38 MAPK、p-NF-κB p65蛋白表达，抑制炎症因子IL-1β、IL-6的释放有关。
+关键词
+人参皂苷Rg1；磷酸化p38丝裂原活化蛋白激酶；磷酸化核因子-κB p65；脑缺血再灌注损伤；炎症；大鼠
+Study on Preventive Effects and Mechanism of Ginsenoside Rg1 on Focal Cerebral Ischemia-reperfusion
+Injury Model Rats
+WU Wenwen
+1，WU Shihui
+1，LIU Chunhong
+2，BAO Cuifen
+2，MIN Lianqiu
+1（1.Dept. of Neurology，the First
+Affiliated
+Hospital
+of
+Jinzhou
+Medical
+University， Liaoning
+Jinzhou
+121001， China；2.Basic
+Medical
+Experimental Teaching Center，Jinzhou Medical University，Liaoning Jinzhou 121001，China）
+先使用影响因素研究：基于计划行为理论[J].中国卫生
+政策研究，2019，12（11）：39-44.
+[22]
+JIANG MH，ZHOU ZL，WU L，et al. Medicine prices，
+availability，and affordability in the Shanxi province in
+China：implications for the future[J]. Int J Clin Pharm，
+2015，37（1）：12-17.
+[23]
+WU GJ，GONG SW，CAI HB，et al. The availability，price
+and affordability of essential antibacterials in Hubei prov-
+ince，China[J]. BMC Health Serv Res，2018，18（1）：
+1013-1020.
+[24]
+YANG H，HASSAN HD，ZHU MM，et al. Prices，avail-
+ability and affordability of essential medicines in rural ar-
+eas of Hubei province，China[J]. Health Policy Plan，
+2010，25（3）：219-229.
+[25]
+JIANG MH，YANG SM，YAN KK，et al. Measuring ac-
+cess to medicines：a survey of prices，availability and af-
+fordability in Shanxi province of China[J]. PLoS One，
+2013. DOI：10.1371/journal.pone.0070836.
+[26]
+晨迪，沈爱宗，张圣雨，等.安徽省各级医疗机构药品使用
+现状及目录共同性研究[J].中国医院药学杂志，2019，39
+（24）：2554-2557.
+[27]
+陈辰，路云，艾丹丹，等. 2015－2017 年湖北省基层医疗
+机构 6 种慢性病常用基本药物的可及性分析[J].中国药
+房，2019，30（1）：5-10.
+[28]
+梁颖，李焱.专家深度访谈：与仿制药相比，原研药的优势
+有哪些：以阿卡波糖为例[J].药品评价，2017，14（15）：
+5-7.
+[29]
+李新刚，赵志刚.从临床疗效角度谈原研药和仿制药的区
+别[J].药品评价，2013，10（12）：8-12.
+（收稿日期：2019-12-10
+修回日期：2020-03-06）
+（编辑：刘明伟）
+􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂􀤂
+·1287·
+China Pharmacy 2020 Vol. 31 No. 11
+中国药房
+2020年第31卷第11期
+缺血性脑卒中具有高复发率、高致残率和高致死率
+的特点，严重危害人类健康。目前，对于该病的治疗原
+则主要为溶解血栓、恢复血液供应，但血液再通时经常
+会导致脑缺血再灌注损伤（Cerebral ischemia reperfusion
+injury，CIRI）
+[1]。减轻再灌注损伤已成为缺血性脑血管
+疾病治疗的重要环节。研究显示，炎症是CIRI的主要原
+因之一
+[2-3]。从抑制炎症反应方面探讨药物是否对 CIRI
+有防治作用已成为目前研究的热点。人参皂苷Rg1为传
+统中药人参的主要活性成分之一，以往研究证实，人参
+皂苷Rg1能够改善缺血再灌注损伤症状，发挥神经保护作
+用，其作用机制可能与抗细胞凋亡、抗氧化作用有关
+[4-5]。
+目前，也有文献证实，人参皂苷Rg1可通过抑制炎症反应
+发挥对中脑黑质多马胺能神经元的保护作用
+[6-7]。但是
+关于人参皂苷 Rg1对 CIRI 中的炎症反应是否有抑制作
+用，目前还不甚清楚。p38 丝裂原活化蛋白激酶（p38
+MAPK）/核因子-κB（NF-κB）是目前较为经典的炎症通路，
+可以调控多种炎症因子的表达，从而调节炎症反应
+[8]。
+鉴于此，本研究拟通过研究人参皂苷 Rg1对局灶性 CIRI
+模型大鼠炎症反应的影响，并通过p38 MAPK/NF-κB通
+路探索其作用机制，为治疗缺血性脑卒中疾病的新药开
+发提供实验基础。
+1
+材料
+1.1
+仪器
+DNM-9602G 型酶标分析仪（广州沪瑞明仪器公
+司）；PowerPac 3000 型电泳仪、Trans-BlotSDcell 型半干
+转印仪（美国Bio-Rad公司）；Vibra Cell Vcx105型超声波
+细胞粉碎机（美国 Sonics 公司）；CM1900 型冰冻切片机
+（德国 Leica 公司）；YZ20P6 型手术显微镜（苏州六六视
+觉科技股份有限公司）；Primo Start 型荧光显微镜（德国
+Zeiss 公司）；Matrx VIP 3000 型动物麻醉机（美国 Mid-
+mark公司）。
+1.2
+药品与试剂
+人参皂苷Rg1对照品（吉林大学有机化学教研室，批
+号：201810，纯度：＞95％）；丁苯酞注射液（石药集团恩
+必普制药有限公司，批号：618180813，规格：每100 mL中
+含丁苯酞 25 mg、氯化钠 0.9 g）；兔抗磷酸化 p38 MAPK
+（p-p38 MAPK）多克隆抗体、兔抗磷酸化 NF-κB p65
+（p-NF-κB p65）多克隆抗体、兔抗磷酸甘油醛脱氢酶
+（GAPDH）多克隆抗体（英国 Abcam 公司）；异硫氰酸荧
+光素（FITC）标记的免疫球蛋白 G（IgG）二抗（北京中杉
+金桥生物技术有限公司）；白细胞介素1β（IL-1β）、IL-6酶
+联免疫吸附（ELISA）检测试剂盒（美国R&D公司，批号：
+均为201901）；二喹啉甲酸（BCA）蛋白浓度测定试剂盒（北
+京鼎国昌盛生物技术有限责任公司，批号：93H001100）；
+增强化学发光显影剂（ECL，上海碧云天生物技术有限公
+司）；2，3，5-氯化三苯基四氮唑（TTC）染色剂（美国 Sig-
+ma公司）；4′，6-二脒基-2-苯基吲哚（DAPI）染色剂（美国
+Genview公司）；其余试剂均为分析纯，水为超纯水。
+1.3
+动物
+健康清洁级 SD 大鼠 78 只，雄性，体质量（280±50）
+g，由锦州医科大学实验动物中心提供，实验动物使用许
+可证号：SYXK（辽）2017-0003。饲养环境温度为 20～
+25 ℃、相对湿度为 50％～60％，饮用水为无菌纯净水。
+本研究已通过锦州医科大学实验动物伦理委员会审核
+（批件编号：2018014）。实验过程中对动物的处置符合
+科学技术部颁发的《关于善待实验动物的指导性意见》
+ABSTRACT
+OBJECTIVE：To study preventive effect and mechanism of ginsenoside Rg1 on focal cerebral ischemia-reperfusion
+injury （CIRI） model rats. METHODS：Totally 78 SD rats were randomly divided into sham operation group，model group，
+butylphthalide control group（positive control，10 mL/kg），ginsenoside Rg1 low-dose，medium-dose and high-dose groups（10，
+20，40 mg/kg），with 13 rats in each group. Administration groups were give relevant medicine intraperitoneally，sham operation
+group and model group were given constant volume of normal saline intraperitoneally，once a day，for consecutive 7 d. After
+medication，except for the sham operation group，focal CIRI model was induced by middle cerebral artery occlusion（MCAO）
+method in other groups. After modeling，neurological deficit scoring was performed according to the modified neurological difict
+scoring standard； TTC staining was used to detected the percentage of cerebral infarction of rats；the cerebral water content was
+measured by dry/wet weight method；serum contents of IL-1β and IL-6 were detected by ELISA；the protein expressions of p-p38
+MAPK and p-NF-κ B p65 in cerebral tissue were determined by immunohistochemistry and Western blotting assay. RESULTS：
+Compared with sham operation，neurological deficits score，percentage of cerebral infarction and cerebral water content，serum
+contents of IL-1β and IL-6，positive expression numbers of cells and protein expressions of p-p38 MAPK and p-NF-κB p65 in
+cerebral tissue were increased significantly in model group（P＜0.05 or P＜0.01）. Compared with model group，above index levels
+of administration groups were all decreased significantly （P＜0.05 or P＜0.01），and the effect of ginsenoside Rg1 had a
+dose-dependent trend；there was no significant difference of all above indexes between ginsenoside Rg1 middle-dose，high-dose
+groups and butylphthalide control group （P＞0.05）. CONCLUSIONS：Ginsenoside Rg1 has a certain preventive effect on focal
+CIRI model rats，the mechanism of which may be associated with down-regulating the protein expression of p-p38 MAPK and
+p-NF-κB p65，inhibiting the release of inflammatory factors such as IL-1β and IL-6.
+KEYWORDS
+Ginsenoside Rg1；p-p38 MAPK；p-NF-κB p65；Cerebral ischemia-reperfusion injury；Inflammation；Rats
+·1288·
+中国药房
+2020年第31卷第11期
+China Pharmacy 2020 Vol. 31 No. 11
+的要求。
+2
+方法
+2.1
+分组、给药与造模
+将 78 只 SD 大鼠采用抽签法随机分为假手术组、模
+型组、丁苯酞对照组（阳性对照，10 mL/kg）
+[9]和人参皂苷
+Rg1低、中、高剂量组（10、20、40 mg/kg）
+[10-11]，每组 13 只。
+各给药组大鼠腹腔注射相应药物，假手术组和模型组大
+鼠腹腔注射等体积生理盐水，每天 1 次，连续 7 d。给药
+结束后，除假手术组外，其余各组大鼠均采用右侧大脑
+中动脉栓塞法（MCAO）
+[12]复制局灶性CIRI模型：异氟烷
+气体麻醉大鼠后，沿颈旁正中切口，分离颈部动脉，分别
+找 到 颈 总 动 脉（CCA）、颈 外 动 脉（ECA）、颈 内 动 脉
+（ICA），用动脉夹夹闭 ICA；在 ECA 剪一切口，插入线
+栓，沿着ICA走向在ICA内缓慢推进直至感觉有少许阻
+力为止（从 ECA 与 ICA 分叉处起始插入约 22 mm，此时
+已插至大脑前动脉端，阻断了大脑中动脉血流）；栓塞 2
+h后拔出线栓，再灌注24 h。假手术组大鼠不插入线栓，
+其他操作步骤相同。
+2.2
+大鼠神经功能缺损评分
+造模结束并待大鼠苏醒后，每组随机取5只大鼠，参
+照改良神经功能缺损评分标准
+[13]对其进行评分，评分越
+高则表明神经功能缺损越严重。
+2.3
+大鼠脑梗死情况检测
+采用TTC染色法检测。每组随机取4只大鼠，断头
+取脑组织，置于冰上脑模内，沿冠状切面以脑腹侧视交
+叉为中点切第 1 片，连续切 5 片，每片厚约 2 mm。将切
+片置于 1％TTC 染色液中，在 37 ℃染色 20 min 左右，以
+10％福尔马林固定后拍照，并采用Image J 1.36b软件计
+算大鼠脑梗死体积占对侧半球体积的百分比（即脑梗死
+体积百分比）。
+2.4
+大鼠脑含水量检测
+采用脑组织干湿重法
+[14]检测。每组随机取 3 只大
+鼠，断头取脑后称定湿质量，之后将脑组织在烘箱中
+（105 ℃）干燥72 h，再次称定质量。计算脑含水量[脑含
+水量（％）＝（湿质量－干质量）/湿质量×100％]，以此反
+映脑水肿情况。
+2.5
+大鼠血清中IL-1β、IL-6含量检测
+采用 ELISA 法检测。每组随机取 3 只大鼠，10％水
+合氯醛麻醉后，将其于仰卧位行心脏取血（取血后放回
+用于后续实验），血样以 1 500 r/min 离心 20～30 min，取
+上清液，于－20 ℃保存，备测。按照ELISA试剂盒说明
+书方法操作，检测血清中IL-1β、IL-6含量。
+2.6
+大鼠脑组织中 p-p38 MAPK、p-NF-κB p65 蛋白表
+达情况检测
+2.6.1
+采用免疫组织化学法检测
+每组随机取 3 只大
+鼠，10％水合氯醛麻醉后，通过心脏经 4％多聚甲醛-戊
+二醛混合液灌流固定，断头取脑组织，以蔗糖沉糖后行
+10 μm冰冻切片。切片采用牛血清白蛋白封闭1 h，滴加
+p-p38 MAPK（稀释比例为1 ∶ 100）、p-NF-κB p65（稀释比
+例为1 ∶ 200）一抗工作液，于4 ℃孵育过夜；次日取出，恢
+复至室温后，以磷酸盐缓冲液（PBS）漂洗 3 次，每次 5
+min；滴加二抗工作液（稀释比例为1 ∶ 200），于37 ℃下孵
+育 30 min，PBS 漂洗 3 次，每次 5 min；加入 DAPI 染色剂
+复染细胞核，在 37 ℃下孵育 5 min 后，PBS 漂洗 3 次，每
+次 5 min。以荧光淬灭剂封片，在荧光显微镜下观察并
+拍照（目标蛋白的阳性表达呈黄绿色荧光；细胞核呈蓝
+色荧光，用以定位细胞位置）。每只大鼠选取5张切片，
+在高倍镜（×400）下计数阳性表达细胞数，取平均值。
+2.6.2
+采用Western blotting法检测
+每组取剩余3只大
+鼠，10％水合氯醛麻醉，通过心脏经生理盐水灌流后断
+头取脑，于脑模上冠状切取部分脑组织，加入RIPA裂解
+液，超声粉碎，在4 ℃下以12 000 r/min离心25 min，取上
+清液，采用 BCA 法测定蛋白含量后，制成含蛋白 2.5
+µg/mL的组织提取液。取20 µL组织提取液行十二烷基
+硫酸钠-聚丙烯酰胺（SDS-PAGE）凝胶电泳，然后在 300
+mA、25 ℃条件下转移 80 min 至聚偏氟乙烯（PVDF）膜
+上；将膜置于含1％牛血清白蛋白封闭液中，摇床上振摇
+1.5 h进行封闭；然后分别加入p-p38 MAPK（稀释比例为
+1 ∶ 1 000）、p-NF-κB p65（稀释比例为1 ∶ 2 000）和GAPDH
+（稀释比例为 1 ∶ 5 000）抗体，于 4 ℃孵育过夜；以 TBST
+清洗 3 次，加入相应的二抗（稀释比例均为 1 ∶ 2 000），室
+温下振摇1.5 h；再次用TBST清洗3次后，以ECL进行发
+光显色，采用 Image J 1.36b 软件测定条带吸光度。以
+GAPDH 为内参，根据目的蛋白条带与内参蛋白条带吸
+光度的比值表示目的蛋白的表达水平。
+2.7
+统计学方法
+采用 SPSS 22.0 统计软件进行数据分析。结果以
+x±s 表示，多组间比较采用单因素方差分析，当方差齐
+性时组间两两比较采用LSD检验，当方差不齐时组间两
+两比较采用Tamhane’s T2检验。P＜0.05表示差异具有
+统计学意义。
+3
+结果
+3.1
+大鼠神经功能缺损评分结果
+与假手术组比较，模型组和各给药组大鼠神经功能
+缺损评分均显著升高（P＜0.01）。与模型组比较，各给
+药组大鼠神经功能缺损评分均显著降低（P＜0.05或P＜
+0.01）。与人参皂苷 Rg1低剂量组比较，人参皂苷 Rg1高
+剂量组大鼠神经功能缺损评分显著降低（P＜0.05）。与
+丁苯酞对照组比较，人参皂苷 Rg1各剂量组大鼠神经功
+能缺损评分差异均无统计学意义（P＞0.05）。各组大鼠
+神经功能缺损评分结果见表1。
+3.2
+大鼠脑梗死体积百分比测定结果
+除假手术组大鼠脑组织呈均匀红色、无梗死灶外，
+·1289·
+China Pharmacy 2020 Vol. 31 No. 11
+中国药房
+2020年第31卷第11期
+其余各组大鼠均有深浅不同的白色梗死灶，其中以模型
+组最为明显。与假手术组比较，模型组和各给药组大鼠
+的脑梗死体积百分比均有不同程度的升高，且除人参皂
+苷Rg1高剂量组外的其余各组大鼠差异均有统计学意义
+（P＜0.01）。与模型组比较，各给药组大鼠脑梗死体积
+百分比均显著降低（P＜0.05 或 P＜0.01）；与人参皂苷
+Rg1低剂量组比较，人参皂苷Rg1高剂量组大鼠脑梗死体
+积百分比显著降低（P＜0.01）。与丁苯酞对照组比较，
+人参皂苷Rg1各剂量组大鼠脑梗死体积百分比差异均无
+统计学意义（P＞0.05）。各组大鼠脑组织TTC染色结果
+见图1，脑梗死体积百分比测定结果见表1。
+3.3
+大鼠脑含水量测定结果
+与假手术组比较，模型组和各给药组大鼠脑含水量
+均显著升高（P＜0.05或P＜0.01）。与模型组比较，各给
+药组大鼠脑含水量均显著降低（P＜0.05或P＜0.01）；人
+参皂苷 Rg1不同剂量组间比较以及人参皂苷 Rg1各剂量
+表 1
+各组大鼠神经功能缺损评分、脑梗死体积百分比
+和脑含水量测定结果（x±s）
+Tab 1
+Neurological deficits score，volume ratio of ce-
+rebral infarction and cerebral water content of
+rats in each group（x±s）
+组别
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+神经功能缺损评分
+（n＝5），分
+0.0±0.0
+13.6±1.9
+＊＊
+11.4±1.1
+＊＊#
+9.8±1.9
+＊＊##
+9.0±1.2
+＊＊##Δ
+9.6±1.5
+＊＊##
+脑梗死体积百分比
+（n＝4），％
+0.0±0.0
+60.7±12.6
+＊＊
+39.8±15.7
+＊＊#
+29.5±11.5
+＊＊##
+13.1±5.1
+##ΔΔ
+24.8±7.9
+＊＊##
+脑含水量
+（n＝3），％
+77.5±0.4
+81.6±1.2
+＊＊
+80.1±0.6
+＊＊#
+79.5±0.9
+＊#
+78.6±0.6
+＊＊##
+79.4±1.1
+＊＊##
+注：与假手术组比较，
+＊P＜0.05，
+＊＊P＜0.01；与模型组比较，
+#P＜
+0.05，
+##P＜0.01；与人参皂苷Rg1低剂量组比较，
+ΔP＜0.05，
+ΔΔP＜0.01
+Note：vs. sham operation group，
+＊P＜0.05，
+＊ ＊P＜0.01；vs. model
+group，
+#P＜0.05，
+##P＜0.01；vs. ginsenoside Rg1 low-dose group，
+ΔP＜
+0.05，
+ΔΔP＜0.01
+图1
+各组大鼠脑组织TTC染色结果
+Fig 1
+TTC staining of cerebral tissue of rats in each group
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+1 cm
+1 cm
+1 cm
+1 cm
+1 cm
+1 cm
+组与丁苯酞对照组比较，大鼠脑含水量差异均无统计学
+意义（P＞0.05）。各组大鼠脑含水量测定结果见表1。
+3.4
+血清中IL-1β、IL-6含量测定结果
+与假手术组比较，除人参皂苷Rg1中、高剂量组大鼠
+血清中IL-6含量外，其余各组的IL-1β、IL-6含量均显著
+升高（P＜0.05或P＜0.01）。与模型组比较，各给药组大
+鼠血清中 IL-1β、IL-6 含量均显著降低（P＜0.05 或 P＜
+0.01）。人参皂苷 Rg1不同剂量组间比较以及人参皂苷
+Rg1各剂量组与丁苯酞对照组比较，大鼠血清中IL-1β含
+量差异均无统计学意义（P＞0.05），但人参皂苷 Rg1中、
+高剂量组和丁苯酞对照组大鼠血清中 IL-6 含量显著低
+于人参皂苷 Rg1低剂量组（P＜0.05）。各组大鼠血清中
+IL-1β、IL-6含量测定结果见表2。
+表2
+各组大鼠血清中IL-1β、IL-6含量测定结果（x±s，
+n＝3，pg/mL）
+Tab 2
+Serum contents of IL-1 β and IL-6 of rats in
+each group（x±s，n＝3，pg/mL）
+组别
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+IL-1β
+10.07±0.33
+15.77±0.76
+＊＊
+11.62±0.77
+＊##
+11.63±0.40
+＊##
+11.67±1.01
+＊##
+11.48±1.10
+＊##
+IL-6
+27.70±7.97
+62.27±8.05
+＊＊
+48.69±4.29
+＊＊#
+37.83±5.26
+##Δ
+34.74±1.48
+##Δ
+40.05±5.19
+＊##Δ
+注：与假手术组比较，
+＊P＜0.05，
+＊＊P＜0.01；与模型组比较，
+#P＜
+0.05，
+##P＜0.01；与人参皂苷Rg1低剂量组比较，
+ΔP＜0.05
+Note：vs. sham operation group，
+＊P＜0.05，
+＊ ＊P＜0.01；vs. model
+group，
+#P＜0.05，
+##P＜0.01；vs. ginsenoside Rg1 low-dose group，
+ΔP＜0.05
+·1290·
+中国药房
+2020年第31卷第11期
+China Pharmacy 2020 Vol. 31 No. 11
+3.5
+大鼠脑组织中 p-p38 MAPK、p-NF-κB p65 蛋白表
+达情况测定结果
+3.5.1
+免疫组织化学法测定结果
+与假手术组比较，模
+型组和各给药组大鼠脑组织中 p-p38 MAPK、p-NF-κB
+p65 蛋白阳性表达细胞数均显著增加（P＜0.05 或 P＜
+0.01）。与模型组比较，各给药组大鼠脑组织中 p-p38
+MAPK、p-NF-κB p65 蛋白阳性表达细胞数均显著减少
+（P＜0.05 或 P＜0.01）。与人参皂苷 Rg1低剂量组比较，
+人参皂苷 Rg1中、高剂量组和丁苯酞对照组大鼠脑组织
+中p-p38 MAPK、p-NF-κB p65蛋白阳性表达细胞数均显
+著减少（P＜0.05或P＜0.01），且人参皂苷Rg1中、高剂量
+组和丁苯酞对照组大鼠脑组织中p-p38 MAPK、p-NF-κB
+p65 蛋白阳性表达细胞数组间差异无统计学意义（P＞
+0.05）。各组大鼠脑组织中 p-p38 MAPK、p-NF-κB p65
+蛋白表达的免疫荧光染色显微图见图 2（图中，
+“Merge”
+表示染色的叠加图），阳性表达细胞计数结果见表3。
+B. p-NF-κB p65
+图2
+各组大鼠脑组织中p-p38 MAPK、p-NF-κB p65蛋白表达的免疫荧光染色显微图（×400）
+Fig 2
+Immunofluorescence staining micrograms of p-p38 MAPK and p-NF-κB p65 protein in cerebral tissue of
+rats in each group（×400）
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+A. p-p38 MAPK
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+10 μm
+10 μm
+p-p38 MAPK
+DAPI
+Merge
+p-NF-κB p65
+DAPI
+Merge
+3.5.2
+Western blotting 法测定结果
+与假手术组比较，
+模型组和人参皂苷 Rg1 低剂量组大鼠脑组织中 p-p38
+MAPK、p-NF-κB p65蛋白表达水平以及人参皂苷Rg1中
+剂量组和丁苯酞对照组大鼠脑组织中p-p38 MAPK蛋白
+表达水平均显著升高（P＜0.05 或 P＜0.01）。与模型组
+比较，各给药组大鼠脑组织中 p-p38 MAPK、p-NF-κB
+p65蛋白表达水平均显著降低（P＜0.05或P＜0.01）。人
+参皂苷 Rg1不同剂量组间比较以及人参皂苷 Rg1各剂量
+组与丁苯酞对照组比较，大鼠脑组织中 p-p38 MAPK 蛋
+白表达水平差异均无统计学意义（P＞0.05），但人参皂
+苷 Rg1 中、高剂量组和丁苯酞对照组大鼠脑组织中
+p-NF-κB p65 蛋白表达水平均显著低于人参皂苷 Rg1低
+剂量组（P＜0.05）。各组大鼠脑组织中 p-p38 MAPK、
+p-NF-κB p65蛋白表达电泳图见图3，蛋白表达水平测定
+结果见表4。
+4
+讨论
+CIRI 是由于血流再通所引起的级联反应导致的对
+脑组织的二次损伤，其常常导致机体出现神经功能缺
+·1291·
+China Pharmacy 2020 Vol. 31 No. 11
+中国药房
+2020年第31卷第11期
+损、脑梗死和脑水肿等症状，严重者可引起偏瘫、失语甚
+至死亡
+[15]。本研究结果显示，CIRI后大鼠均出现了不同
+程度的神经功能缺损、脑组织梗死和脑水肿症状，但是
+在给予不同剂量人参皂苷 Rg1处理后，CIRI 大鼠的神经
+功能缺损症状和脑水肿程度均显著减轻、脑梗死体积显
+著缩小，且其作用与丁苯酞（丁苯酞为临床常用药，对急
+性脑缺血性脑卒中患者的神经功能缺损有明显改善作
+用
+[16]，故本文以其为阳性对照）相近，这提示人参皂苷
+Rg1能够减轻缺血再灌注所造成的脑组织损伤，具有一
+定的神经保护作用。
+炎症反应在CIRI中扮演着重要角色，许多炎性细胞
+和炎性介质均参与了炎症反应
+[17-18]。抑制炎症反应、减
+轻脑组织损伤，是脑卒中治疗的重要手段之一
+[19-20]。IL
+由多种细胞产生，在炎症反应、体液免疫方面发挥着重
+要作用
+[21]。狄政莉等
+[22]发现，IL-1β和IL-6参与了脑缺血
+再灌注后炎症损伤的病理过程。本研究结果显示，CIRI
+后大鼠血清中IL-1β、IL-6含量显著升高，而给予不同剂
+量人参皂苷 Rg1 处理可以显著降低 CIRI 大鼠血清中
+IL-1β、IL-6含量，且人参皂苷Rg1中、高剂量组和丁苯酞
+组间两者含量差异均无统计学意义（P＞0.05）。NF-κB
+广泛存在于真核细胞内，能与大量炎症反应基因的启动
+子结合，是一种重要的转录激活因子，其调控基因可以
+编码细胞因子、免疫调节分子等，通过上述作用参与炎
+症反应等生物学进程
+[23-24]。在脑缺血时，NF-κB 被炎性
+因子、细胞因子、钙超载等因素刺激而磷酸化，诱导细胞
+因子、黏附分子、炎性酶类的表达，形成炎症反应的恶性
+循环，导致脑组织水肿和神经细胞的损伤
+[25-27]。而作为
+MAPK 家族成员之一的 p38 MAPK，在炎症反应及其调
+控中发挥了重要作用
+[28]：p38 MAPK 受到刺激后被磷酸
+化，激活为特异性底物p-p38 MAPK，参与炎症反应的调
+控。p-p38 MAPK 作为 NF-κB 的上游信号分子，可促使
+NF-κB 的磷酸化，活化后的 NF-κB 分解为 p50 和 p65，之
+后进行核转位进入细胞核，调节炎症基因的转录
+[29]。本
+研究结果显示，CIRI 后大鼠脑组织中 p-p38 MAPK、
+p-NF-κB p65 阳性表达细胞数显著增加，其相应蛋白表
+达水平也显著升高；而经人参皂苷Rg1处理后，大鼠脑组
+织中只有少量的阳性表达细胞，蛋白表达水平也显著
+降低。
+综上所述，本研究证实了人参皂苷 Rg1可通过下调
+p-p38 MAPK、p-NF-κB p65 蛋白的表达，减轻脑梗死症
+状，从而发挥脑保护作用。然而，本研究还存有许多不
+足之处，如只选用单一时间点进行考察、未进行时-效关
+系分析等。在后续实验中，笔者将进一步对此进行
+完善。
+参考文献
+[ 1 ]
+CHOI JH，PILE-SPELLMAN J. Reperfusion changes af-
+ter stroke and practical approaches for neuroprotection[J].
+Neuroimaging Clin N Am，2018，28（4）：663-682.
+[ 2 ]
+HUANG J，KANG B，QU Y，et al. Protective effect of ex-
+osome on organs after ischemia-reperfusion injury[J].
+Zhong Guo Xiu Fu Chong Jian Wai Ke Za Zhi，2017，31
+（6）：751-754.
+[ 3 ]
+RANA AK，SINGH D. Targeting glycogen synthase ki-
+表3
+各组大鼠脑组织中p-p38 MAPK、p-NF-κB p65蛋
+白阳性表达细胞计数结果（x±s，n＝3）
+Tab 3
+Count of positive expression of p-p38 MAPK
+and p-NF-κB p65 proteins in cerebral tissue of
+rats in each group（x±s，n＝3）
+组别
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+p-p38 MAPK蛋白阳性表达细胞数
+1.8±0.8
+12.8±2.4
+＊＊
+9.6±2.4
+＊＊#
+7.0±2.0
+＊＊##Δ
+5.6±1.8
+＊＊##ΔΔ
+5.2±1.6
+＊##ΔΔ
+p-NF-κB p65蛋白阳性表达细胞数
+2.2±0.8
+16.2±2.6
+＊＊
+11.4±2.3
+＊＊##
+7.8±1.3
+＊＊##ΔΔ
+5.0±1.9
+＊##ΔΔ
+4.8±1.9
+＊##ΔΔ
+注：与假手术组比较，
+＊P＜0.05，
+＊＊P＜0.01；与模型组比较，
+#P＜
+0.05，
+##P＜0.01；与人参皂苷Rg1低剂量组比较，
+ΔP＜0.05，
+ΔΔP＜0.01
+Note：vs. sham operation group，
+＊P＜0.05，
+＊ ＊P＜0.01；vs. model
+group，
+#P＜0.05，
+##P＜0.01；vs. ginsenoside Rg1 low-dose group，
+ΔP＜
+0.05，
+ΔΔP＜0.01
+图3
+各组大鼠脑组织p-p38 MAPK、p-NF-κB p65蛋白
+表达的电泳图
+Fig 3
+Electrophoretograms of protein expressions of
+p-p38 MAPK and p-NF-κB p65 in cerebral tis-
+sue of rats in each group
+p-p38 MAPK
+GAPDH
+p-NF-κB p65
+GAPDH
+38 kDa
+36 kDa
+65 kDa
+36 kDa
+假手术组
+模型组 人参皂苷Rg1
+低剂量组
+丁苯酞
+对照组
+人参皂苷Rg1
+中剂量组
+人参皂苷Rg1
+高剂量组
+表4
+各组大鼠脑组织中p-p38 MAPK、p-NF-κB p65蛋
+白表达水平测定结果（x±s，n＝3）
+Tab 4
+Protein expression levels of p-p38 MAPK and
+p-NF-κB p65 in cerebral tissue of rats in each
+group（x±s，n＝3）
+组别
+假手术组
+模型组
+人参皂苷Rg1低剂量组
+人参皂苷Rg1中剂量组
+人参皂苷Rg1高剂量组
+丁苯酞对照组
+p-p38 MAPK/GAPDH
+0.22±0.07
+0.76±0.09
+＊＊
+0.47±0.14
+＊#
+0.46±0.17
+＊#
+0.44±0.13
+##
+0.46±0.12
+＊#
+p-NF-κB p65/GAPDH
+0.37±0.16
+1.59±0.09
+＊
+0.76±0.27
+＊#
+0.43±0.12
+#Δ
+0.37±0.14
+#Δ
+0.33±0.06
+#Δ
+注：与假手术组比较，
+＊P＜0.05，
+＊＊P＜0.01；与模型组比较，
+#P＜
+0.05，
+##P＜0.01；与人参皂苷Rg1低剂量组比较，
+ΔP＜0.05
+Note：vs. sham operation group，
+＊P＜0.05，
+＊ ＊P＜0.01；vs. model
+group，
+#P＜0.05，
+##P＜0.01；vs. ginsenoside Rg1 low-dose group，
+ΔP＜
+0.05
+·1292·
+中国药房
+2020年第31卷第11期
+China Pharmacy 2020 Vol. 31 No. 11
+nase-3 for oxidative stress and neuroinflammation：oppor-
+tunities，challenges and future directions for cerebral
+stroke management[J]. Neuropharmacology，2018，139
+（1）：124-136.
+[ 4 ]
+叶劲涛，李锋涛，宋焕瑾，等.人参皂苷Rg1通过改善氧化
+应激、线粒体损伤及炎症反应对大鼠脊髓缺血再灌注损
+伤的保护作用研究[J].中国康复医学杂志，2019，34（9）：
+1021-1027.
+[ 5 ]
+李亮，邓文祥，何军锋，等.人参皂苷Rg1对局灶性脑缺血
+再灌注大鼠的神经保护作用[J].神经损伤与功能重建，
+2016，11（2）：95-98.
+[ 6 ]
+冯梅.人参皂苷Rg1对Ag诱导的星形胶质细胞核因子κB
+活化及炎症反应的影响[D].广州：广州中医药大学，
+2005.
+[ 7 ]
+GAO Y，CHU S，ZHANG Z，et al. Hepataprotective ef-
+fects of ginsenoside Rg1：a review[J]. J Ethnopharmacol，
+2017.DOI：10.1016/j.jep.2017.04.012.
+[ 8 ]
+张泽群.欧前胡素通过 P38MAPK/NF-κB 途径对哮喘小
+鼠气道炎症的影响[D].延吉：延边大学，2018.
+[ 9 ]
+闫瑞云.醒脑静联合丁苯肽对脑缺血再灌注损伤的脑保
+护及细胞凋亡的影响[D].青岛：青岛大学，2017.
+[10]
+WANG L，ZHAO H，ZHAI ZZ，et al. Protective effect and
+mechanism of ginsenoside Rg1 in cerebral ischaemia-re-
+perfusion injury in mice[J]. Biomed Pharmacother，2018.
+DOI：10.1016/j.biopha.2018.01.136.
+[11]
+ZHENG T，JIANG H，JIN R，et al. Ginsenoside Rg1 attenu-
+ates protein aggregation and inflammatory response fol-
+lowing cerebral ischemia and reperfusion injury[J]. Eur J
+Pharmacol，2019.DOI：10.1016/j.ejphar.2019.02.018.
+[12]
+LONGA EZ，WEINSTEIN PR，CARLSON S，et al. Re-
+versible middle cerebral artery occlusion without craniec-
+tomy in rats[J]. Stroke，1989，20（1）：84-91.
+[13]
+CHEN J，SANBERG PR，LI Y，et al. Intravenous adminis-
+tration of humanumbilical cord blood reduces behavioral
+deficits after stroke in rats[J]. Stroke，2001，32（11）：
+2682-2688.
+[14]
+SHERCHAN P，HUANG L，WANG Y，et al. Recombi-
+nant Slit2 attenuates neuroinflammation after surgical
+brain injury by inhibiting peripheral immune cell infiltra-
+tion via Robo1-srGAP1 pathway in a rat model[J]. Neuro-
+bio Dis，2015，85（12）：164-173.
+[15]
+吕静，姜慧萍，王腾飞，等.脑缺血再灌注损伤主要发病机
+制的研究进展[J].滨州医学院学报，2015，38（4）：291-
+293.
+[16]
+江慧，战丽萍，张丽娟，等.丁苯酞注射液治疗急性脑梗死
+的疗效观察[J].中国实用神经疾病杂志，2015，18（8）：
+74-75.
+[17]
+KAWABORI M，YENARI MA. Inflammatory response in
+cerebral ischemia[J]. Curr Med Chem，2015，22（10）：
+1258-1277.
+[18]
+SHUKLA V，SHAKYA AK，PEREZ-PINZON MA，et al.
+erebral ischemic damage in diabetes：an inflammatory per-
+spective[J]. Neuroinflammation，2017，14（1）：20-22.
+[19]
+WULLAERT A，BONNET MC，PASPARAKIS M. NF-κB
+in the regulation of epithelial homeostasis and inflamma-
+tion[J]. Cell Res，2011，21（1）：146-158.
+[20]
+岳屹立，张力，王亚周，等.程序性细胞坏死及其炎症反应
+在脑缺血损伤中的研究进展[J].神经解剖学杂志，2019，
+35（1）：75-78.
+[21]
+王艳，朴莲荀，朴虎男，等.缺血性脑卒中患者血浆白细胞
+介素水平检测的临床意义研究进展[J].延边大学医学学
+报，2018，41（1）：63-67.
+[22]
+狄政莉，万琪，来华安，等. IL-1β和IL-6在脑缺血再灌注
+微血管内皮细胞炎症反应中的作用[J].西安医科大学学
+报，2001，22（5）：432-434.
+[23]
+余智，于民，邵晓莉，等. [Gly14]-Humanin抑制脑缺血再
+灌注损伤炎症反应及细胞凋亡与 NF-κB p65 的相关性
+分析[J].中华全科医学，2018，16（2）：214-217、256.
+[24]
+赵杨，孙波，杜书章.芦荟素抑制 p65 的磷酸化对大鼠脑
+缺血再灌注诱导的组织损伤和炎症的调节作用[J].中国
+免疫学杂志，2019，35（17）：2084-2088、2093.
+[25]
+陈灵，张相林，柳芳，等.白藜芦醇对缺氧缺血性脑损伤模
+型新生大鼠认知功能及 SIRT1/NF-κB 信号通路的影响
+[J].中国药房，2019，30（9）：1182-1186.
+[26]
+郭佳，宋思奇，王克宇.热射病小鼠大脑皮层组织中炎症
+细胞因子水平及 P38 MAPK/NF-κB P65 信号通路变化
+[J].吉林大学学报（医学版），2019，45（3）：566-571.
+[27]
+马竞，何文龙，高重阳，等.木瓜苷通过抑制 NF-κB p65/
+TNF-α通路活性减轻小鼠脑缺血再灌注诱导的组织损
+伤[J].浙江大学学报（医学版），2019，48（3）：289-295.
+[28]
+GAO F，CHEN D，HU Q，et al. Rotenone directly induces
+BV2 cell activation via the p38 MAPK pathway[J]. PLoS
+One，2013. DOI：10.1371/journal.pone.0072046.
+[29]
+KARUNAKARAN S，RAVINDRANATH V. Activation of
+p38 MAPK in the substantia nigra leads to nuclear translo-
+cation of NF-kappaB in MPTP-treated mice：implication
+in Parkinson’s disease[J]. J Neurochem，2009，109（6）：
+1791-1799.
+（收稿日期：2019-12-27
+修回日期：2020-04-14）
+（编辑：林
+静）
+·1293·

@@ -1,0 +1,566 @@
+·论著·
+人参皂苷 Rg1 联合人羊膜间充质干细胞移植治疗
+卵巢功能不全的效用及机制
+*
+祝 叶,张青云,莫晓莉,张 林,何连利**
+(遵义市第一人民医院/ 遵义医科大学第三附属医院妇产科,遵义 563000)
+  【摘要】  
+目的:评估人参皂苷 Rg1 ( Ginsenoside Rg1) 联合人羊膜间充质干细胞
+(hAD-MSCs)移植治疗卵巢功能不全(POI)的疗效优势。 方法:共使用 40 只大鼠,随机分
+为对照(Control)组、模型(Model)组、单纯 hAD-MSCs 治疗(hAD-MSCs)组和 hAD-MSCs 联
+合 Rg1 治疗(hAD-MSCs+Rg1)组,每组 10 只,其中 5 只用于采集卵巢和血液等组织样本,
+另 5 只进行卵母细胞诱导和卵母细胞线粒体功能测定相关实验。 模型组构建放疗辐射诱
+导的 POI 大鼠模型。 结果:与 Control 组相比,Model 组大鼠卵巢存在较大程度的卵泡耗竭
+和器质性病变,初级卵泡、次级卵泡、窦卵泡和排卵前卵泡均减少,卵巢指数下降,血清
+FSH 升高,E2 降低,卵巢组织 TUNEL 阳性细胞数量增加,ROS 水平上升,卵母细胞线粒体
+膜电势降低,ATP 生成量减少(P＜0. 05)。 与单纯 hAD-MSCs 组相比,hAD-MSCs+Rg1 联
+合组 POI 大鼠卵巢组织卵泡耗竭和器质性病变明显缓解,初级卵泡、次级卵泡、窦卵泡和
+排卵前卵泡明显增加,卵巢指数回升显著,血清 FSH 降低,E2 回升,卵巢组织 TUNEL 阳性
+细胞数量明显下降,ROS 水平明显降低,卵母细胞线粒体膜电势回升,ATP 生成量回升显
+著(P＜0. 05)。 结论:Rg1 通过增强 hAD-MSCs 移植改善卵母细胞线粒体功能的机制并缓
+解 POI 大鼠模型疾病进展。
+  【关键词】 人参皂苷 Rg1;人羊膜间充质干细胞;放疗;卵巢功能不全
+  中图分类号:R713. 7 文献标志码:A 文章编号:1004-7379(2023)03-0201-07
+  DOI:10. 13283 / j. cnki. xdfckjz. 2023. 03. 004
+The effects and mechanisms of ginsenoside Rg1 combined with human amniotic mesen-
+chymal stem cell transplantation for treating premature ovarian insufficiency. Zhu Ye,
+Zhang Qingyun,Mo Xiaoli,et al. Department of Obstetrics and Gynecology,the First People's
+Hospital of Zunyi/ the Third Affiliated Hospital of Zunyi Medical University,Zunyi 563000
+  【Abstract】 Objective:To evaluate the therapeutic advantages of the combination with
+transplantation of human amnion-derived mesenchymal stem cells and oral administration of
+Ginsenoside Rg1 in the treatment of premature ovarian insufficiency (POI). Methods:A total
+of 40 rats were used and randomly divided into control group,Model group,hAD-MSCs group
+and hAD-MSCs+Rg1 group. Each group had 10 rats,5 of which were used to collect ovary and
+blood samples,and the other 5 were used to test oocyte mitochondrial function. A rat model of
+POI induced by radiation was constructed. Results:Compared with the control group,the model
+group rats had a greater degree of follicular exhaustion with ovaries pathological lesions,inclu-
+ding primary follicles,secondary follicles,antral follicles and preovulation follicles decreased,o-
+varian index decreased, serum FSH increased, E2 decreased, the number of TUNEL-positive
+cells in ovarian tissue increased,ROS levels in ovarian tissue increased,mitochondrial mem-
+brane potential of oocytes decreased,and ATP production decreased (P＜0. 05). Compared with
+01
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3
+*
+*
+*
+基金资助:遵义市科技计划项目[遵市科合 HZ 字(2022)56 号];贵州省科学技术厅,黔科合基础-ZK[2022]一般 580
+通信作者 Email:heartseal@ 163. com
+hAD-MSCs group,POI rats in the hAD-MSCs+Rg1 treatment group were relieved of ovarian fol-
+licle exhaustion and ovaries pathological lesions. The primary follicles,secondary follicles,antral
+follicles and preovulatory follicles increased significantly,the ovarian index rose significantly,
+serum FSH decreased,E2 rebounded,the number of TUNEL-positive cells in ovarian tissue de-
+creased significantly,the level of ROS in ovarian tissue decreased significantly,the mitochondri-
+al membrane potential of oocytes rebounded, ATP production increased significantly ( P ＜
+0. 05). Conclusion:Rg1 enhances the effects of hAD-MSCs transplantation in alleviating dis-
+ease progression of POI rat models by additional improvement of oocyte mitochondrial function.
+ 
+ 【Key words】 Ginsenoside Rg1;Human amnion-derived mesenchymal stem cells;Radio-
+therapy;Premature ovarian insufficiency
+  临床上,40 岁以下女性出现闭经 4 个月以上、
+性激 素 缺 乏、 血 清 促 卵 泡 激 素 ( FSH) 水 平 高 于
+25IU/ L 被认为是早发性卵巢功能不全(premature o-
+varian insufficiency,POI) [1]。 POI 的病因有多种,包
+括自身免疫、遗传异常、化疗、放疗或手术所致[2]。
+POI 会导致雌激素(E2) 水平低下,FSH 和促黄体生
+成素水平升高,如不加以治疗,长期卵巢功能障碍会
+增加骨质疏松症、心血管疾病,以及认知能力下降的
+风险[1]。 因此,必须探索有效治疗 POI 的方法。 欧
+洲人类生殖与胚胎学会指南推荐使用激素替代疗法
+(hormone replacement therapy,HRT) 治疗 POI 的雌
+激素水平低下症。 HRT 可预防骨质疏松症和心血
+管疾病,但并不能有效恢复卵巢的生殖功能。 目前
+保存 POI 患者生育力的治疗方法有体外卵泡激活、
+卵母细胞冷冻保存和卵巢组织移植等。 干细胞移植
+在恢复 POI 女性卵巢功能方面表现出了巨大潜
+力[3]。 间 充 质 干 细 胞 ( mesenchymal stem cells,
+MSCs)是一种具有低免疫原性的多能非造血干细
+胞[3],最初是从骨髓中分离出来的,也可从脐带、脂
+肪组织、胎盘和羊膜中分离[3]。 MSCs 除了具有多
+能性,还具有其他广泛的生理作用,包括免疫调节活
+性、器官稳态的保持和受损组织的再生[4]。 目前
+MSCs 移植广泛应用于 POI 的研究,其具有归巢、免
+疫调节和抗凋亡活性等[4]。 人参皂苷 Rg1(Ginsen-
+oside Rg1)是从人参提取的植物雌激素有效单体化
+合物,其分子式为 C42 H72 O14。 Rg1 作为小分子物
+质,具有抗炎,抗氧化,清除自由基,抑制细胞凋亡,
+促进血管生成等作用[5]。 本研究拟通过构建放疗
+辐射诱导 POI 大鼠模型,比较 hAD-MSCs 移植联合
+Rg1 治疗与单纯 hAD-MSCs 移植治疗的疗效,评估
+hAD-MSCs 移植联合 Rg1 治疗的优势。
+1 材料与方法
+1. 1 实验材料 
+5 ~ 6 周龄雌性 SD 大鼠( 体质量 200 ~
+250g,SPF 级)由遵义医学院实验动物中心提供。 hAD-MSCs
+购自中国科学院上海干细胞库。 透明质酸酶(hyaluronidase)
+( H1115000 ) 购 自 Sigma-Aldrich ( 美 国)。 人 参 皂 苷 Rg1
+(RSZD-121106,纯度 98. 3％ )购自吉林宏久(中国)。 DCFH-
+DA 荧光探针(C2938),MitoProbe JC-1 Assay Kit(M34152)购
+自 Thermo Fisher ( 美 国)。 大 鼠 FSH ( CSB-E06869r) 和 E2
+(CSB-E05110r)ELISA 检测试剂盒购自武汉华美生物 ( 中
+国)。 一步法 TUNEL 检测试剂盒( C1088) 购自碧云天( 中
+国)。 怀孕母马血清促性腺激素(HOR-272)和人绒毛膜促性
+腺激 素 ( HOR-250) 购 自 ProSpec ( 以 色 列)。 G-MOPSplus
+(10129)和 G-IVFplus(10134) 培养液购自 Vitrolife(瑞士)。
+RPMI 1640 培养液(11875101),胎牛血清(10099141) 购自
+Gibco(美国)。 ATP 定量检测试剂盒(ab83355) 购自 Abcam
+(英国)。 鼠抗人 CD44(555479),鼠抗人 CD73(550257),鼠
+抗人 CD90(555596),鼠抗人 CD105(560839),鼠抗人 CD11b
+(555388),鼠抗人 CD19(555413),鼠抗人 CD34(555822),
+鼠抗人 CD45(555483),鼠抗人 HLA-DP/ DQ/ DR(562008),
+鼠抗人 IgG(FITC)同型对照(560952) 或鼠抗人 IgG(PE) 同
+型对照(560951) 购自 BD( 美国)。 酶标仪( FLX800) 购自
+BioTek 品牌(美国),倒置荧光显微镜(IX71-F22FL/ DIC)、3D
+激光共聚焦显微镜(OLS5000)购自 Olympus 品牌(日本),流
+式细 胞 仪 ( NAVIOS) 购 自 BECKMAN COULTER 品 牌 ( 美
+国)。
+1. 2 实验方法
+1. 2. 1 hAD-MSCs 培养 
+hAD-MSCs 细胞培养于含 10％ 胎
+牛血清(FBS)的 RPMI 1640 培养液,并添加 1％ 青霉素-链霉
+素。 培养于含 5％ CO2、37℃ 湿润恒温细胞培养箱。 将细胞
+连续传代在第 3 代的细胞用于后续实验。
+1. 2. 2 流式细胞术对 hAD-MSCs 的鉴定 
+取培养第 3 代
+hAD-MSCs 细胞,流式细胞术分析表面标志物,以确定其干
+细胞特性。 收获细胞,250×g 室温离心 5min,将细胞沉淀重
+悬于 PBS 中制备单细胞悬液,调整细胞浓度 1×105 / mL。 细
+胞分别与抗人 CD-133、抗人 CD-45、抗人 CD-73、抗人 CD-105
+和抗人 CD-90 单抗于室温避光孵育 20min。 用 PBS 清洗细
+胞 2 次去除一抗。 细胞与偶联有 FITC 或 PE 的山羊抗鼠
+IgG 二抗于 4℃ 避光孵育 30min。 用 1％ 多聚甲醛溶液固定
+细胞,上机 BECKMAN COULTER 流式细胞仪,使用 Kaluza 软
+件 ( BECKMAN COULTER, v1. 3) 进 行 分 析, 表 面 标 志 物
+CD11b- / CD19- / CD34- / CD45- / HLA-DP/ DQ/ DR- / CD44+ /
+CD73+ / CD90+ / CD105+为目的细胞类型。
+1. 2. 3 辐射诱导构建 POI 大鼠模型[6]  
+将 5 ~ 6 周龄雌性
+SD 大鼠饲养于温度受控、具有标准光/ 暗循环的鼠房内,大
+鼠可自由饮水和进食。 适应性饲养 1 周后,将其随机分为 4
+组,每组 10 只大鼠:(1)Control 组:正常对照组大鼠,仅对大
+02
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3
+鼠行腹腔注射氯胺酮(100mg/ kg) 和甲苯噻嗪(10mg/ kg) 麻
+醉,不进行放疗辐照；(2)Model 组:向大鼠腹腔注射氯胺酮
+(100mg/ kg)和甲苯噻嗪(10mg/ kg)麻醉,进行 CT 定位,利用
+精密 VMAT 医用直线加速器,避开心、肝、脾、肺、肾,并准确
+限定至盆腔放疗照射目标区域,照射距离 1m,设置单次照射
+剂量 4. 8Gy,建立 POI 大鼠模型。 大鼠在接受放疗照射后每
+周行 CT 检查一次,连续 4 周,在大鼠接受放疗照射后第 29d
+对大鼠行 CO2 窒息法安乐死；(3) AD-MSCs 组( hAD-MSCs
+治疗组):大鼠接受放疗照射,将制备好的重悬于 0. 5mL PBS
+中的 3×106 hAD-MSCs,每周 1 次,连续 4 周,通过尾静脉注
+射入大鼠体内；(4)hAD-MSCs+Rg1 组(hAD-MSCs 联合 Rg1
+治疗组):大鼠接受放疗照射造模后当天开始,每日上午 10
+时,将溶解于 3mL 无菌去离子水、单次剂量为 20mg/ (kg·
+d)的 Rg1 通过口服管饲法对大鼠进行治疗,直至安乐死当
+天。 每组 10 只实验大鼠,其中 5 只用于采集卵巢和血液等
+组织样本,另 5 只进行卵母细胞诱导,进行卵母细胞线粒体
+功能测定相关实验。
+1. 2. 4 H ＆ E 染色与病理学分析 
+收集大鼠新鲜卵巢组
+织,立即浸入 10％ 中性福尔马林固定液,于 4℃ 固定超过
+48h,经石蜡包埋并切成 5μm 切片。 切片经二甲苯脱蜡,再
+经梯度酒精(100％ ×2—95％ ×2—80％ —75％ )水化。 H ＆ E
+染色:使用苏木精染色液染细胞核—使用 1％ 盐酸乙醇进行
+分化—伊红染色液染细胞质。
+卵巢组织病理学分析:从一个卵巢组织切片样本中选择
+10 张卵泡中含有卵母细胞并且是间隔开的组织切片,对每
+张组织切片进行卵泡计数。 根据颗粒细胞、卵泡腔或卵丘细
+胞的存在和分布,将卵泡分为初级卵泡、次级卵泡、窦卵泡
+(antralfollicles)或排卵前卵泡(preovulatory follicles) [15] 。 当
+卵母细胞被单层立方体颗粒细胞覆盖时确定为初级卵泡；当
+有一层以上颗粒细胞覆盖时,确定为次级卵泡；窦卵泡的特
+征是存在由卵泡液形成的窦腔；排卵前卵泡通常具有卵丘细
+胞边缘。
+1. 2. 5 卵巢指数测定 以颈椎脱臼法处死大鼠并采集大鼠
+卵巢,收样前称量大鼠体质量。 采集卵巢组织并称量其质
+量,计算卵巢指数(ovarian index)。 卵巢指数(mg/ g)＝ 卵巢
+质量(mg) / 大鼠体质量(g)。
+1. 2. 6 ELISA 测定 FSH 和 E2 从眼眶静脉丛采集血样,以
+1500×g/ min 于 4℃ 离心 15min 分离获得血清。 使用 FSH 和
+E2 ELISA 检测试剂盒进行检测。 按试剂盒制造商说明书进
+行操作,使用 BioTek 酶标仪在 450nm 下读取光密度值。
+1. 2. 7 TUNEL 染色 使用一步法 TUNEL 检测试剂盒进行
+检测。 石蜡组织切片于室温浸入二甲苯中 5min,重复一次,
+以彻底脱蜡。 于室温无水乙醇浸泡 5min,重复一次。 梯度
+乙醇(95％ ×2,80％ ,75％ ) 水化,室温每次 3min。 使用 PBS
+润洗切片,滴加 PBS 稀释好的蛋白酶 K 工作液(终浓度为
+20μg/ mL)于组织切片,室温孵育 20min。 PBS 清洗组织切片
+除去蛋白酶 K 工作液,滴加 100μL 1×平衡缓冲液(试剂盒自
+带)至组织切片,室温孵育 20min。 于 冰 上 融 化 FITC-12-
+dUTP Labeling Mix,于冰上混合 FITC-12-dUTP Labeling Mix,
+Recombinant TdT Enzyme 和 5×平衡缓冲液,配制“TdT 孵育
+缓冲液”。 向组织切片上滴加 TdT 孵育缓冲液,随后将组织
+切片放于湿盒中,于 37℃ 避光孵育 60min。 PBS 室温避光清
+洗切片 5min,重复 1 次。 使用含 0. 1％ Triton X-100 的 5mg/
+ml BSA 的 PBS 缓冲液,室温避光清洗切片 2 次,每次 5min。
+向组织切片滴加 DAPI 工作液( PBS 稀释,终浓度为 1μg/
+mL),室温避光孵育 5min。 PBS 室温避光清洗切片 5min,重
+复 3 次。 立即于 Olympus 倒置荧光显微镜下镜检分析样品,
+使用标准荧光过滤装置在(520±20)nm 下观察 FITC 绿色荧
+光,在 454nm 下观察 DAPI 蓝色荧光。
+1. 2. 8 诱导排卵和卵母细胞孵化 
+大鼠用 50IU 怀孕母马
+血清促性腺激素超排卵[16] 。 48h 后,向大鼠腹膜内注射
+50IU 人绒毛膜促性腺激素 ( HCG),触发 卵 母 细 胞 成 熟。
+HCG 给药后 24h 收样输卵管。 通过用针撕裂输卵管将卵母
+细胞释放到 37℃ 预热的 G-MOPSplus 培养液中。 加 0. 3mg/
+mL 透明质酸酶去除颗粒细胞,从卵母细胞-冠状-卵丘复合
+物(oocyte-corona-cumuluscomplex) 中收获无卵丘卵母细胞。
+用 37℃ 预热的 G-MOPSplus 培养液洗涤 3 次,将细胞培养于
+G-IVFplus 培养液,置 37℃ 、6％ CO2 湿润细胞培养箱培养。
+1. 2. 9 DCFH-DA 荧光探针测定卵母细胞活性氧自由基(re-
+active oxygen species,ROS) 水平 
+使用荧光探针 DCFH-DA
+标记并定量卵母细胞内 ROS 水平。 含 10μmol/ L DCFH-DA
+的 G-IVFplus 培养液(37℃ 预热) 与采集好的活卵母细胞于
+37℃ 共孵育 20min。 用培养液冲洗细胞 3 次,使用 Olympus
+3D 激光共聚焦显微镜进行观察并使用 Image J v1. 8. 0 定量
+荧光。
+1. 2. 10 JC-1 探针测定卵母细胞线粒体膜电势水平 
+线粒
+体膜电势荧光探针 JC-1 是线粒体膜电势的双发射和膜电势
+敏感性指标:当膜电势高时,JC-1 优先在线粒体基质内积累
+并形成 J-聚集体(红色荧光)；反之,分解为 J-单体(绿色荧
+光),代表膜电势处于低位。 使用 MitoProbe JC-1 Assay Kit
+进行检测。 将含 JC-1 的 G-IVFplus 培养液(37℃ 预热)与采
+集好的活卵母细胞于 37℃ 共孵育 20min[15] 。 孵育结束后,
+卵母细胞立即用 MitoProbe JC-1 Assay Kit 自带的 4℃ 预冷的
+JC-1 staining buffer 冲洗两次,重新将卵母细胞放置于不含
+JC-1 的 G-IVFplus 培养液中,Olympus 3D 激光共聚焦显微镜
+进行观察并使用 ImageJ v1. 8. 0 定量荧光。
+1. 2. 11 卵母细胞线粒体 ATP 生成水平测定 
+采集好的单
+个卵母细胞被转移到一个含 100μL 裂解液的无菌管中,作
+为一个独立样本,释放胞内 ATP。 根据 ATP 定量检测试剂
+盒说明书,建立标准曲线并对样品进行检测,在 BioTek 酶标
+仪上于 Ex/ Em＝535 / 587nm 读取荧光值。
+1. 3 统计学分析 使用 GraphPad Prism v8 软件。 数据以 -
+x
+±s 表示。 多组间比较采用单因素方差分析(one way ANO-
+VA)及 Turkey's 事后检验。 P＜0. 05 为差异有统计学意义。
+2 结 果
+2. 1 
+Rg1 能增强 hAD-MSCs 改善 POI 大鼠卵巢功
+能的疗效 HE 染色结果显示,与正常 Control 组大
+鼠卵巢比较,Model 组大鼠卵巢存在较大程度的卵
+泡耗竭和器质性病变,尤其是初级卵泡数明显减少
+(P＜0. 05),次级卵泡、窦卵泡和排卵前卵泡也相应
+减少(P＜0. 05)。 与 Model 组相比,hAD-MSCs 治疗
+组卵泡耗竭有所缓解,初级卵泡和排卵前卵泡数有
+所增加(P＜0. 05),但器质性病变仍存在；与 hAD-
+MSCs 组相比,而 hAD-MSCs+Rg1 组显著提高了初
+03
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3
+级、次级卵泡、窦卵泡和排卵前卵泡数(P＜0. 05),明
+显改善了卵巢器质性病变。 卵巢指数分析结果显
+示,与 Control 组相比,Model 组的卵巢指数明显下降
+(P＜0. 05)；与 Model 组相比,hAD-MSCs 治疗组改善
+了大鼠的卵巢指数( P＜0. 05)；与 hAD-MSCs 组相
+比,hAD-MSCs+Rg1 组则显著提高了大鼠的卵巢指
+数(P＜0. 05)。 Model 组大鼠发生了激素紊乱,与
+Control 组相比, Model 组 FSH 增 加、 E2 减 少 ( P ＜
+0. 05)；与 Model 组相比,hAD-MSCs 治疗组对大鼠
+的 FSH 紊乱有所缓解(P＜0. 05)；与 hAD-MSCs 组相
+比,hAD-MSCs +Rg1 组显著改善了 FSH 和 E2( P ＜
+0. 05)紊乱。 见图 1、2。
+图 1 HE 染色结果
+A:Control；B:Model；C:hAD-MSCs 组；D:hAD-MSCs+Rg1 组
+图 2 Rg1 联合 hAD-MSCs 治疗 POI 大鼠模型的疗效检测
+*P＜0. 05 vs Control 组；＃P＜0. 05 vs Model 组、hAD-MSCs+Rg1 组
+2. 2 
+Rg1 增强 hAD-MSCs 的抗凋亡和抗氧化应激
+作用 
+TUNEL 染色结果显示,Control 组几乎没有
+TUNEL-阳 性 细 胞, 与 Control 组 相 比, Model 组
+TUNEL-阳性细胞数明显增加(P＜0. 05)；与 Model 组
+相比,hAD-MSCs 组 TUNEL-阳性细胞数有所减少(P
+＜0. 05)；与 hAD-MSCs 组相比,hAD-MSCs+Rg1 组减
+少更显著(P＜0. 05)。 见图 3、4。
+2. 3 
+Rg1 增强 hAD-MSCs 对卵母细胞线粒体功能
+的保护作用 
+卵母细胞中 ROS 水平指示剂 DCFH-
+DA 绿色荧光探针染色结果显示,与 Control 组相比,
+Model 组大鼠卵母细胞 DCFH-DA 绿色荧光着色强
+度显著增强(P＜0. 05)；与 Model 组相比,hAD-MSCs
+治疗组 DCFH-DA 绿色荧光着色强度有所减弱(P＜
+0. 05)；与 hAD-MSCs 组相比,hAD-MSCs+Rg1 组显
+著减弱(P＜0. 05)。 线粒体膜电势指示剂 JC-1( 红
+色/ 绿色) 荧光比值测定结果显示,与 Control 组相
+比,Model 组大鼠卵母细胞 JC-1(红色/ 绿色)荧光比
+值显著降低(P＜0. 05)；与 Model 组相比,hAD-MSCs
+治疗组 JC-1(红色/ 绿色)荧光比值仅略有回升(P＞
+0. 05)；与 hAD-MSCs 组相比,hAD-MSCs+Rg1 组则
+明显回升(P＜0. 05)。 卵母细胞内线粒体 ATP 生成
+水平测定结果显示,与 Control 组相比,Model 组大鼠
+卵母细胞线粒体 ATP 生成水平显著降低(P＜0. 05)；
+与 Model 组相比,hAD-MSCs 治疗组仅有所回升(P＜
+0. 05)；与 hAD-MSCs 组相比,hAD-MSCs+Rg1 组线
+粒体 ATP 生成水平显著回升(P＜0. 05)。 见图 5、6。
+图 3 TUNEL 染色结果统计图
+*P＜0.05 vs Control 组；＃P＜0.05 vs Model 组、hAD-MSCs+Rg1 组
+04
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3
+图 4 TUNEL 染色结果图
+A:Control；B:Model；C:hAD-MSCs 组；D:hAD-MSCs+Rg1 组
+图 5 卵母细胞中 ROS 水平指示剂 DCFH-DA 绿色荧光探针染色结果图
+A:Control；B:Model；C:hAD-MSCs 组；D:hAD-MSCs+Rg1 组
+图 6 卵母细胞线粒体功能测定
+*P＜0. 05 vs Control 组；＃P＜0. 05 vs Model 组、hAD-MSCs+Rg1 组；1:Control；2:Model；3:hAD-MSCs；4:hAD-MSCs+Rg1
+05
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3
+3 讨 论
+卵巢是女性最重要的生殖器官,其执行卵子发
+生和雌性相关分泌功能。 颗粒细胞(granulosa cells,
+GCs)和卵母细胞是卵巢功能系统的重要组成部分,
+它们组成了卵泡。 卵巢中功能性卵母细胞的数量和
+质量代表了女性的生殖潜力[7]。 在月经周期中,少
+数卵泡被激活并发育为成熟的卵泡,而大多数原始
+卵泡处于休眠状态,从而避免了过早的卵泡耗竭。
+POI 卵 巢 的 病 理 状 态 可 导 致 卵 泡 功 能 障 碍 和 耗
+竭[2]。 GCs 和卵母细胞的加速凋亡、卵泡成熟受阻
+以及卵泡激活异常导致的卵泡功能障碍或耗竭是
+POI 的潜在分子机制[2]。
+越来越多的研究支持线粒体是卵母细胞质量的
+重要监测指标的观点[8-9]。 线粒体作为细胞内的能
+量工厂,不仅可以为卵母细胞的成熟和受精提供充
+足的 ATP,而且还对卵母细胞的生殖能力、受精维
+持、早期胚胎植入和发育至关重要[8]。 已证实线粒
+体功能受损导致卵母细胞老化[8]。 放疗将引起卵母
+细胞氧化应激和加速凋亡[10]。 本研究结果显示,放
+疗所致 POI 模型组大鼠卵巢存在较大程度的卵泡耗
+竭和器质性病变,尤其是初级卵泡数量减少明显；
+TUNEL 染色结果显示,POI 模型组卵巢组织凋亡增
+加明显,卵母细胞内 ROS 水平升高显著,线粒体膜
+电势和 ATP 生成下降明显。
+MSCs 是一种多能干细胞,其优势为容易获得,
+免疫原性弱,在转化医学领域应用广泛[3]。 已有使
+用小鼠脐带源 MSCs( mUMSCs) 治疗 POI 的报道。
+POI 小鼠采用 mUMSCs 治疗后,卵丘细胞凋亡减少,
+卵巢功能恢复,性激素水平增加[11]。 此外,将人脐
+带源 MSCs(hUMSCs) 移植到 POI 大鼠后第 14、21、
+28d 检 测 发 现, FSH 降 低, E2 和 抗 苗 勒 管 激 素
+(AMH)升高,卵巢中卵泡数量增加。 hUMSCs 在临
+床转化医学方面的应用仍存在一些局限性,特别是
+对其长期安全性(致瘤性)的担忧限制了其应用[12]。
+相较于此,hAD-MSCs 的特点为无致瘤性、低/ 无免疫
+原性、以及不存在伦理或法律问题,使其更具有临床
+应用价值[13-14]。 在支气管肺发育不良、代偿性肝硬
+化、中风和耐药克罗恩病等治疗的临床试验中,hAD-
+MSCs 都表现出了良好的安全性和有效性,没有出现
+包括肿瘤形成在内的长期不良事件[15-18]。 因此,开
+发以 hAD-MSCs 为基础的治疗 POI 的策略,更具有
+临床应用的潜力。 本研究结果显示,与放疗所致
+POI 模型组相比,hAD-MSCs 能缓解 POI 大鼠的器质
+性病变和卵泡耗竭,减少卵巢组织凋亡,降低了卵母
+细胞内 ROS 水平,提高了线粒体 ATP 的生成量。 这
+归因于 hAD-MSCs 有较强的旁分泌作用和免疫调节
+功能,它们可分泌包括成纤维细胞生长因子 2(fibro-
+blast growth factor 2,FGF2)、胰岛素样生长因子 1
+(insulin-like growth factor-1,IGF-1)、肝细胞生长因
+子(hepatocyte growth factor,HGF) 等细胞因子,促进
+细胞增殖相关的基因表达,并抑制 GCs 凋亡[19]。
+本研究结果显示,联合使用 hAD-MSCs+Rg1,能
+进一步改善 POI 大鼠的器质性病变和卵泡耗竭,显
+著减少卵巢组织凋亡,明显降低卵母细胞内 ROS 水
+平,进一步提高卵母细胞线粒体膜电势和 ATP 生成
+量。 表明 Rg1 可能通过某些途径辅助增强 hAD-
+MSCs 提高卵母细胞内线粒体功能的作用。 可能原
+因包括 Rg1 具有抗衰老、抗氧化、抗炎性损伤、减少
+MSCs 凋亡和促进 MSCs 向损伤处原驻细胞分化的
+功效。 研究显示,Rg1 通过激活 NRF2 和 PI3K/ Akt
+信号通路抑制骨髓 MSCs 衰老和凋亡[6]。 Rg1 能够
+上调干细胞因子(stem cell factor,SCF)表达,进一步
+激活超氧化物歧化酶(superoxide dismutase,SOD)的
+活性,并抑制炎性细胞因子 IL-6、IL-2、TNF-α 和干细
+胞衰老相关蛋白 p16、p21、p53 转录[20]。 Rg1 可以增
+加 microRNA-124 表达,降低神经元分化抑制剂小 C-
+端结构域磷酸酶-1 蛋白表达,提高巢蛋白和 βⅢ-微
+管蛋白表达水平,从而促进异丁基甲基黄嘌呤(IB-
+MX)诱导脂肪 MSCs 向神经样细胞的分化[21]。 但
+Rg1 通过何种分子机制在辅助增强 hAD-MSCs 改善
+POI 大鼠器质性病变、提高卵母细胞内线粒体功能
+的过程中发挥关键作用的,需进一步深入研究。 本
+研究初步结果显示,联合使用 hAD-MSCs+Rg1 治疗
+POI 大鼠模型的功效显著优于单独使用 hAD-MSCs,
+提示 hAD-MSCs 治疗辅助给予 Rg1 在临床治疗女性
+POI 中的重要临床价值。
+参 考 文 献
+[1]  
+Stuenkel CA, Gompel A. Primary ovarian insufficiency
+[J]. N Engl J Med,2023,388(2):154-163
+[2] Huhtaniemi I,Hovatta O,La Marca A,et al. Advances in
+the molecular pathophysiology,genetics,and treatment of
+primary ovarian insufficiency [ J ]. Trends Endocrinol
+Metab,2018,29(6):400-419
+[3] Li ZK,Zhang ML,Tian YP,et al. Mesenchymal stem cells
+in premature ovarian insufficiency:mechanisms and pros-
+pects[J]. Front Cell Dev Biol,2021,9:718192
+[4]  
+Sheikhansari G,Aghebati-Maleki L,Nouri M,et al. Cur-
+rent approaches for the treatment of premature ovarian
+failure with stem cell therapy[J]. Biomed Pharmacother,
+2018,102:254-262
+[5] Wang Z,Wang L,Jiang R,et al. Ginsenoside Rg1 prevents
+bone marrow mesenchymal stem cell senescence via NRF2
+and PI3K/ Akt signaling[J]. Free Radic Biol Med,2021,
+174:182-194
+[6] He L,Long X,Yu N,et al. Premature ovarian insufficiency
+(POI) induced by dynamic intensity modulated radiation
+therapy via P13K-AKT-FOXO3a in rat models [ J]. Bi-
+omed Res Int,2021,2021:7273846
+[7]  
+Jarow JP. Personalized reproductive medicine:regulatory
+considerations[J]. Fertil Steril,2018,109(6):964-967
+[8] Qi L,Chen X,Wang J,et al. Mitochondria:thepanacea to
+improve oocyte quality [ J]. Ann Transl Med, 2019, 7
+(23):789
+(下转第 213 页)
+06
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3
+tion to para-aortic lymph nodes in locally advanced cervi-
+cal cancer necessary？ [J]. Cancer Res Treat,2014,46
+(4):374-382
+[12] Zhu Y,Shen B,Pei X,et al. CT,MRI,and PET imaging
+features in cervical cancer staging and lymph node me-
+tastasis. [ J]. Am J Transl Res,2021,13 (9):10536-
+10544
+[13] 
+Thelissen A,Jurgenliemk-Schulz IM,van der Leij F,et
+al. Upstaging by para-aortic lymph node dissection in pa-
+tients with locally advanced cervical cancer:a systematic
+review and meta-analysis[J]. Gynecol Oncol,2022,164
+(3):667-674
+[14] De Cuypere M,Lovinfosse P,Goffin F,et al. Added value
+of para-aortic surgical staging compared to (18) F-FDG
+PET/ CT on the external beam radiation field for patients
+with locally advanced cervical cancer: an ONCO-GF
+study[J]. Eur J Surg Oncol,2020,46(5):883-887
+[15] 
+Zhang G,Miao L,Wu H,et al. Pretreatment squamous
+cell carcinoma antigen (Scc-Ag) as a predictive factor
+for the use of consolidation chemotherapy in cervical
+cancer patients after postoperative extended-field concur-
+rent chemoradiotherapy[J]. Technol Cancer Res Treat,
+2021,20:2091180782
+[16]  
+Wang W,Liu X,Meng Q,et al. Prophylactic extended-
+field irradiation for patients with cervical cancer treated
+with concurrent chemoradiotherapy: a propensity-score
+matching analysis[ J]. Int J Gynecol Cancer,2018,28
+(8):1584-1591
+[17] Yap M,Cuartero J,Yan J,et al. The role of elective para-
+aortic lymph node irradiation in patients with locally ad-
+vanced cervical cancer[J]. Clin Oncol,2014,26(12):
+797-803
+[18]  
+Li H,Wang S,Liu Y,et al. Prophylactic extended-field
+irradiation for locally advanced cervical cancer[J]. Gy-
+necol Oncol,2022,166(3):606-613
+[19] Lei C,Ma S,Huang M,et al. Long-term survival and late
+toxicity associated with pelvic intensity modulated radia-
+tion therapy ( imrt) for cervical cancer involving CT-
+based positive lymph nodes[ J]. Front Oncol,2019,9:
+520
+[20] Liang Y,Feng S,Xie W,et al. Comparison of survival,a-
+cute toxicities,and dose-volume parameters between in-
+tensity-modulated radiotherapy with or without internal
+target volume delineation method and three-dimensional
+conformal radiotherapy in cervical cancer patients:a ret-
+rospective and propensity score-matched analysis [ J].
+Cancer Med,2022,11(1):151-165
+[21] 
+Wakatsuki M,Kato S,Ohno T,et al. Multi-institutional
+observational study of prophylactic extended-field con-
+current chemoradiation therapy using weekly cisplatin for
+patients with pelvic node-positive cervical cancer in east
+and southeast asia[J]. Int J Radiat Oncol Biol Physics,
+2019,105(1):183-189
+[22]  
+Yoon M, Lee HK, Park EY, et al. Randomized multi-
+center phase II trial of prophylactic irradiation of para-
+aortic lymph nodes in advanced cervical cancer accord-
+ing to tumor hypoxia:Korean Radiation Oncology Group
+(KROG 07-01 ) study [ J]. Int J Cancer, 2022, 151
+(12):2182-2194
+(收稿日期 2022-10-19)
+第一作者简介:陈宝杰(1995-),男,川北医学院硕士在读。
+主要研究方向:肿瘤临床研究
+＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄＄
+。
+(上接第 206 页)
+[9] 赵新永,孙岩,赵鸿森,等. 左归丸对自然衰老小鼠卵母
+细胞线粒体功能的改善作用[J]. 中药新药与临床药
+理,2020,31(8):924-929
+[10] 杨开锋,李兰,周虹,等. 氧化应激与细胞自噬凋亡对
+卵巢功能不全调控的研究进展[J]. 湖南中医药大学
+学报,2021,41(5):809-814
+[11]  
+He L,Ling L,Wei T,et al. Ginsenoside Rg1 improves
+fertility and reduces ovarian pathological damages in pre-
+mature ovarian failure model of mice[J]. Exp Biol Med
+(Maywood),2017,242(7):683-691
+[12] 
+Rodríguez-Eguren A,Gómez-Alvarez M,Francés-Herrero
+E,et al. Human umbilical cord-based therapeutics:stem
+cells and blood derivatives for female reproductive medi-
+cine[J]. Int J Mol Sci,2022,23(24):15942
+[13]  
+Abbasi-Kangevari M,Ghamari SH,Safaeinejad F,et al.
+Potential therapeutic features of human amniotic mesen-
+chymal stem cells in multiple sclerosis:immunomodula-
+tion,inflammation suppression, angiogenesis promotion,
+oxidative stress inhibition,neurogenesis induction,mmps
+regulation,and remyelination stimulation[J]. Front Im-
+munol,2019,10:238
+[14]  
+Muttini A,Barboni B,Valbonetti L,et al. Amniotic epi-
+thelial stem cells:salient features and possible therapeu-
+tic role[J]. Sports Med Arthrosc Rev,2018,26(2):70-
+74
+[15] Baker EK,Malhotra A,Lim R,et al. Human amnion cells
+for the prevention of bronchopulmonary dysplasia:a pro-
+tocol for a phase I dose escalation study[J]. BMJ Open,
+2019,9(2):e026265
+[16] Phan TG,Ma H,Lim R,et al. Phase 1 trial of amnion cell
+therapy for ischemic stroke[ J]. Front Neurol,2018,9:
+198
+[17] Lim R,Hodge A,Moore G,et al. A pilot study evaluating
+the safety of intravenously administered human amnion
+epithelial cells for the treatment of hepatic fibrosis[J].
+Front Pharmacol,2017,8:549
+[18] Otagiri S,Ohnishi S,Miura A,et al. Evaluation of amni-
+on-derived mesenchymal stem cells for treatment-resistant
+moderate Crohn's disease:study protocol for a phase I/
+II, dual-centre, open-label, uncontrolled, dose-response
+trial[J]. BMJ Open Gastroenterol,2018,5(1):e000206
+[19]  
+Abbasi-Kangevari M,Ghamari SH,Safaeinejad F,et al.
+Potential therapeutic features of human amniotic mesen-
+chymal stem cells in multiple sclerosis:immunomodula-
+tion,inflammation suppression, angiogenesis promotion,
+oxidative stress inhibition,neurogenesis induction,MMPs
+regulation,and remyelination stimulation[J]. Front Im-
+munol,2019,10:238
+[20] Hu WX,Jing PW,Wang L,et al. The positive effects of
+Ginsenoside Rg1 upon the hematopoietic microenviron-
+ment in a D-Galactose-induced aged rat model[J]. BMC
+Complement Altern Med,2017,15:119
+[21] 
+Dong J,Zhu G,Wang TC,et al. Ginsenoside Rg1 pro-
+motes neural differentiation of mouse adipose-derived
+stem cells via the miRNA-124 signaling pathway[ J]. J
+Zhejiang Univ Sci B,2017,18(5):445-448
+(收稿日期 2022-10-30)
+第一作者简介:祝叶(1998-),女,遵义市第一人民医院住院
+医师。 主要研究方向:生殖内分泌。
+13
+2
+现代妇产科进展 2023 年 3 月第 32 卷第 3 期 Prog Obstet Gynecol,Mar. 2023,Vol. 32,No. 3

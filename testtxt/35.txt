@@ -1,0 +1,596 @@
+96 2 
+第 4O卷
+第 5 期 
+2014 年 9 月 
+吉
+林
+大
+学
+学
+报
+( 医
+学
+版 ) 
+J our nal of J ili n U niv ersit y ( Medicine E di tion) 
+V o 1．4 0 
+N o．5 
+S ep ．20 14 
+[ 文 章 编 号 ]
+1671—587 X ( 2014) 05—0962—05 
+IX )I ：10．13481／j．1671—587x．20140511 
+人参皂苷 R gl 对 帕金森病模型小 鼠黑质 区 F A DD 和 F L IP 表达 的 
+影 响及 其 意义 
+王 
+茜 ，张 
+辉 ，刘 
+名。，李琪佳 ，耿丽鑫 ，孙明宏 ，田清友 ，张宇新 
+( 1．河北联合大学基础医学院人体解剖学系，河北 唐山 063000；2．河北省唐山市第二医院关节病科 ，河北 唐山 063000；
+ 
+3．河北省唐 山市协 和医院骨科 ，河北 唐 山 063004；4．河北联合 大学 医学 中心 实验 室 ，河北 唐 山 063000) 
+[ 摘
+要]  
+目的 ：探讨 人 参 皂 苷 Rgl 对 帕金 森 病 ( PD ) 模 型 小 鼠 黑质 区凋 亡 信 号 蛋 白 Fas 死 亡 结 构 域 蛋 白 
+( F ADD ) 、F ADD 样 白细胞介素 1一转化酶样抑制蛋 白( FL IP ) 及 Caspase- 3 表达 的影响 ，阐明 F ADD 和 FL IP 在 PD 
+发病 机制 中的作用及人 参皂苷 R gl 对多 巴胺 ( DA ) 能神经元 的保护作用 。方法 ：45 只 C 57BL ／6N 小 鼠随机分为对 
+照组 、模 型 组 和 人 参 皂 苷 R gl 组 ，每 组 15 只。模 型 组 小 鼠腹 腔 注 射 1一甲基一4一苯 基一1，2 ，3，6- 四氢 吡 啶 
+( MP T P ) ，人参皂苷 R gl 组小 鼠注射 MPT P 前先注射人参 皂苷 R gl ，对 照组小 鼠腹腔 注射生 理盐水 。观察各组 
+小鼠行为学变化 ；采用免疫 组织 化学法和免疫蛋 白印迹法检 测各组小 鼠中脑黑质 区酪氨 酸羟化酶 ( T H ) 、F LIP 、 
+FA DD 及 Caspase~3 的表达 。结果 ：与对照组 比较 ，模型组小 鼠出现典 型 P D 症状 ，黑 质 区 T H 阳性细胞 数明显 
+减少( P < O．01) ，F AD D 、F LIP 及 Caspase-3 阳性 细胞 数 明显增 加 ( P < 0．01) ，胞 浆染 色 深 ；FA DD 、FL IP 及 
+C aspase-3 蛋 白表达水平升高 (P < O．0 1) 。与模型组 比较 ，人参 皂苷 R gl 组 小 鼠 PD 症状 减轻 ，黑 质区 T H 阳性 
+细胞 数明显增多( P < O．O1) ，FA DD 、FL IP 及 C aspase一3 阳性细胞 数明显减 少( P < O．O1) ，胞浆 染色浅 ；FA DD 、 
+F L IP 和 Caspase一3 蛋 白表 达 水 平 降 低 ( P < 0．01) 。F A DD 与 C aspase-3 阳 性 细 胞 数 呈 正 相 关 关 系 ( r 一 0．791， 
+P <
+0．05) 。结论 ：人参皂苷 R gl 可通过影响 PD 模型小 鼠黑质 区 F ADD 和 F LI P 的表达对 DA 能神经元 起到 一 
+定 的 保 护 作 用 。
+ 
+[ 关键词] 
+帕金森 病 ；Fas 死亡 结构 域蛋 白；FA DD 样 白细胞介 素 1一转化 酶样 抑 制蛋 白 ；半 胱氨 酸蛋 白酶一3； 
+人参 皂苷 R g1 
+[ 中图分类号] 
+R742．5 
+[ 文献标志码] 
+A 
+I n f lu en ce o f  g i n sen osid e R g l  in  ex p r ession s of  F A D D  an d F L I P  
+i n su b sta n ti a n i g r a of  P ar k i n son ’ S d isease m od el m i c e 
+W A NG Q ian ，Z H A N G H ui ，L IU  M i ng 。，L I Qi-j ia ，G E N G L i—xin ，S U N M ing-hong 。，
+ 
+T IA N Q ing—you ，Z H A N G  Y u—xi n 
+( 1 ．D ep artm en t of  A n atom y ， C o ll ege of  B as ic M edi ca l S c ien ce ， H ebei U n it ed U n iv er s ity ，T ang s han  0 63 000 ， 
+C hi na ；2 ．D epar tm ent of J oint S urg er y ，S econd H ospital of T angshan C i ty ，H ebei P rovince ，T ang shan 
+0 630 00 ， C h ina ；3 ．D ep artm en t of O rt ho ped ic s ， X ieh e H o sp it al of T ang s han  C ity ， H eb ei P rov in c e， T ang s han  
+0 630 04 ， C hi na ； 4 ．M ed ical E x per imen t Cen ter ， H eb ei U ni ted U n iv ersit y ， T an gsh an 0 63 00 0 ， C h in a) 
+[ 收稿 日期]  
+[ 基金项 目] 
+[ 作者简介]  
+[ 通信作者] 
+Z 0 l 3 一l Z —l  7 
+河北省科技厅 自然科 学基金 资助课题
+( c 2004O00689) ；河北 省博士基 金资 助课题 ( 05547008D -4 ) ；河北 省 
+科学技术与社会发展计划项 目资助课题
+(04276135) ；河 北省唐 山市科 技局科学 技术研究 与发展 指令计划 性 
+项 目资助课题 ( 13130267z) ；河北联合大学科学研究基金资助课题 ( Z201236) ；河北联合 大学大学生创新 性 
+实验计划资助课题 ( X 2013034) ；河北省教育厅大学生创新创业训练计划项 目资助课题
+(201310081023) 
+王
+茜 ( 1981一) ，女 ，河北省衡水市人 ，讲 师 ，在读医学 博士 ，主要从事人 体解剖学 、神 经解 剖和医学移 
+植 材 料 等 方 面 研 究 。 
+张宇新 ( T el：0315—3726421，E—mail ：jpzyx@ 163．com) 
+王 
+茜 ，等 ． 
+人参皂苷 Rgl 对帕金森病模型小 鼠黑质 区 FA DD 和 FL IP 表达的影 响及其意义 
+963 
+A bstract ：Objec tiv e 
+T o inv estegate the effect of ginsenoside R gl on the apoptosis related protein F L IC E- inhibitory 
+pr otei n ( F L IP ) ， F as- asso ciated death do main p ro tein
+( F A D D )
+an d C aspa se-3 in th e sub atan ia n ig ra ( S N )
+of 
+1一meth y l- 4一ph en yl- 1 ， 2 ，3 ， 6-tetr ah yd- ro p yri di ne ( M P T P ) 一i nd u ced mou se mo del s o f P ark in son ’ s d isease ( P D ) ，
+ 
+an d  to i nv es tig ate th e ro le o f F A D D  an d F L IP  in th e path og en es i s of P D  an d th e p rot ectiv e effec t of gi ns eno s id es R g l  
+on dopami ner gi c neurons．Me thods 
+45 C 57BL ／6N m ice w er e r andoml y divi ded i nt o control g roup ，model g roup and 
+gi nsenoside R g l  g roup ( 咒一 15) ． T he mice i n model g roup w er e injected w ith M PT P by intraperitoneal ，the mi ce in 
+R g l group were injected w ith g insenoside R g l before injecting M PT P ，and the mice in control g roup w ere inject ed 
+w ith no rm al s ali ne b y in tr aper ito nea1． T h e b eh av ior al c h ang es o f th e m i c e i n v ario us  g ro up s w er e o bs er ved ， and 
+im m u no h is toc h em is try  an d W este rn bl ott ing m eth od s w er e u s ed to ob s erv e th e ex pr ess io ns  of t yr os in e h yd ro xy las e 
+( T H ) ， F A D D ， F L I P an d C aspa se-3 in  su b stan tia ni gr a o f th e mice． R e sults 
+C omp ared w ith co ntr ol g ro up 。 th e 
+m ic e in m od el g ro up p res ent ed  w i th ty pi cal s y m pto m s of  P D ， th e T H —p os iti v e neu ron s i n th e s u bat an ia n ig ra w as 
+sig ni fi cantl y reduced
+( P <
+0．01 ) ， the number of F A D D ， F L IP and C aspase- 3 positi ve cel l s w as si gnificantl y 
+in c reas ed ( P <
+0．0 1) ， an d th e c yto pl as m w as deep ly st ain ed ； t he p rot ein ex p res s ion  l ev els of F A D D ， F L IP  and 
+Casp ase-3 w ere sig ni fican tly in creased ( P < O．0 1) ． Co mpar ed wi th mod el g ro u p ， t he P D  sy mpto ms of t he mice in 
+gi n sen os id e R g l  gr ou p red uc ed ， th e n um b er o f T H —p os itiv e n eur on s w a s s i gn if ic an tly  i nc r eas ed ， th e n um b er o f 
+po s itiv e c el l s o f F L IP ， F A D D  an d C as pa se-3 w er e s ign ifi can tl y r edu c ed ( P <
+0 ．0 1 ) ， an d th e c yto pl asm  w a s li gh tl y 
+s tain ed ； th e p rot ein ex p res si on level s o f F A D D ， F L IP  and  C asp as e- 3 w er e s ig n ific an tly red uc ed
+( P
+<
+0 ．0 1 ) ．
+ 
+N o n lin ear c or rel ation  an aly si s f o u nd tha t t her e w as a po si tiv e r elati on s hi p b etw een  th e nu m b er of  F A D D  and 
+C aspase-3 p o si tive cell s ( r = 0．79 1 ， P <
+0．05 ) ． Oo nclusio n 
+G i n sen osid e R g l  may p lay a n eur a1 p rot ecti ve effect 
+do p am in er g ic on neu ro n s by mo d ul atin g t he F A D D and F L IP  exp res s io ns in  S N  of P D  mo d el m i ce．
+ 
+K ey w ords ：P ark in s on ’ s  di seas e ； F a s—as s oc iated d eath d om ain ； F L IC E - i n hi bi tor y pr otei ns ； easp as e-3 ； g in s en o si de 
+R g 1 
+帕金 森病 (P arkinson’ s disease，PD ) 是 一 种 中 
+枢 神 经 系 统 退 行 性 疾 病 ， 中 脑 黑 质 多 巴 胺 
+(dopamine，DA ) 能神 经元 进 行 性 变 性 缺 失 是 其 主 
+要病 理学 特 征 。遗 传 因素 、环 境 因素 、炎症 反应 和 
+细胞 凋 亡 等 多 种 因 素 与 P D 的 发 病 有 关 。 有 研 
+究[1 
+表 明 ：细 胞 凋 亡 在 P D 发 病 中起 重 要 作 用 ， 
+而半 胱 氨酸 蛋 白酶 Caspases 家 族 是 细胞 凋 亡 的 重 
+要相 关基 因 ，其 中 Caspase一3 在 神 经 细胞 的凋 亡 中 
+起 主要作 用 。F as 死 亡结 构 域 蛋 白 ( Fas—associated 
+death domain ，FA D D ) 与 F A DD 样 白细 胞 介 素 1一 
+转 化 酶 样 抑 制 蛋 白 ( F L ICE —inhibitory proteins， 
+FL IP ) 是 凋 亡 相 关 蛋 白 ，与 Caspases 家 族 关 系 密 
+切 ，有 文献Is]报 道 其 异常表 达 可 能在 PD 发病 机 制 
+中 起 着 重 要 的 作 用 。但 在 P D 发 病 中 ， 有 关 
+FA D D 、FL IP 和 Caspase一3 关 系 的报道 较少 。人 参 
+皂苷 R gl 是 人 参 中 主要 的 生 物 活 性 成 分 ，其 主 要 
+作 用 于 中 枢 神 经 系 统 ，对 PD 有 一 定 的 保 护 作 
+用 [4] 。为 明确 P D 模 型小 鼠 中脑 黑 质 DA 神 经 元 凋 
+亡 的机 制 ，观察 F A DD 与 F L IP 在凋亡 过程 中的作 
+用 ，本实验通过腹腔注射 1一甲基-4-苯基一1，2，3， 
+6一四 氢
+吡
+啶
+( 1-methyl一4一phenyl- 1， 2 ， 3， 6一 
+tetrahyd- ropyridine，M P T P ) 的方 法建 立 了 PD 小 
+鼠 模 型 ， 检 测 中 脑 黑 质 区
+FA D D 、 F L IP
+与 
+C aspase一3 和 酪 氨 酸 羟 化 酶 ( tyrosine hydroxy lase， 
+T H ) 阳性 细 胞 数 及 蛋 白表 达 情 况 ，探 讨 在 此 模 型 
+中 D A 能 神 经 元 的凋 亡 机 制 ； 同时 观 察 人 参 皂 苷 
+R gl 干预 后 上 述 指 标 的 变 化 ，探 讨 人 参 皂 苷 R gl  
+对 F A DD 和 F LIP 表 达 的影 响以及 对 DA 能神 经 元 
+的保护 机制 。 
+1
+材 料与 方法 
+1．1 
+实 验 动 物 、 主 要 试 剂 和 仪 器 
+健 康 雄 性 
+C57BL ／6N 小 鼠 45 只 ，8～ 12 周 龄 ，体 质 量 25～ 
+30 g ，购 于北 京 维 通 利 华 实 验 动 物 技 术 有 限公 司 ， 
+合 格证 号 ：SC X X ( 京 ) 2002—0003 ， 自由进 食 饮 水 ， 
+室 温 ( 25± 2) ℃ ，单 笼 喂 养 ， 自然 光 照 。MP T P ( 美 
+国 Sigma 公 司 ) ，F LIP 兔 抗 鼠多 克 隆抗 体 、F A DD 
+兔 抗 鼠多克 隆抗 体 和 Caspase-3 兔 抗 鼠多 克 隆抗 体 
+(北 京 中杉金 桥 生物技 术有 限公 司 ) ，小 鼠抗 人 T H 
+单克隆抗体 ( 美国 Chemicon 公司) ，U ltraSensitive 
+T M SP 超 敏试 剂 盒 (福 州 迈 新 生 物 技 术 开发 公 司) ， 
+预 染蛋 白 M arker ( 天 津 灏 洋 生 物 制 品科 技 有 限 责 
+任公司) ，人参皂苷 R gl ( 吉林大学基础医学院化学 
+教 研 室) 。组 织 切 片 机 (德 国 L eitz 公 司 ) ，光 学 显 
+微 镜 ( 日本 Olympus 公 司) ，图像分 析 系 统 (北 京 航 
+空航天大学) ，电泳 仪、半干式碳 板转移 电泳槽 、 
+964 
+吉林大学学报 ( 医学版 )
+第 4O卷
+第 5 期
+2014 年 9 月 
+电泳槽 ( 北 京六一 仪器 厂 ) 。 
+1．2
+动物 分 组 争 模 型 制 备
+小 鼠 随机 分 为 3 组 ， 
+每 组
+15
+只 。 模 型 组 ： 腹 腔 注 射
+MP T P 
+( 30 mg · kg 
+) ，1 次 · d_ 。，连 续 5 d；人参 皂 苷 
+R gl 组 ：在 M PT P 注 射 前 3 d 先 腹 腔 注 射 人 参 皂 
+苷 R gl ( 10 mg · kg 
+) ，并在 注射 M P T P 前 2 h 再 
+次注射 1 次人参皂苷 Rgl ，其余操作同模型组 ；对 
+照组 ：注射与模 型组 和人参皂苷 Rgl 组等体积 的 
+生理盐 水 。于每 次注 射药 物后 观察各 组小 鼠行 为变 
+化 ，以参 文[ 5] 标 准 判断 PD 小 鼠模 型是 否成 功 。 
+1．3
+标 本 采 集 
+小 鼠于 M PT P 最 后 1 次 注 射 后 
+6 h 处死 。麻 醉后经 左 心 室生 理 盐 水灌 洗 后 ，再 行 
+4 
+多 聚 甲醛磷 酸 盐 缓 冲液 灌 注 固定 ，迅 速 开 颅取 
+脑 ，4 
+多 聚 甲醛后 固定 48 h ( 4℃) ，石 蜡 包 埋 、 
+切片 。 
+1．4 
+免 疫 组 织 化 学 SP 法 检 测 各 组 小 鼠 T H 、 
+F A DD 、F L IP 和 C aspase-3 阳 性 细 胞 数 
+每 组 
+15 只小 鼠 中随 机 取 9 只 行 SP 法 免 疫 组 织 化 学 染 
+色 。脑 组织 切片 常规脱 蜡 至水后 ，采 用三 羟 甲基氨 
+基 甲烷 缓 冲液 ( T BS ) ( pH 7．4-4-
+_ 0．2) 洗 3 次 ，每次 
+3 min ；组织抗 原行 水浴 法 热修 复 ；30 mL · L  
+过 
+氧化氢 阻 断 内源 过 氧 化 物 酶 ，T BS 洗 3 次 ；采 用 
+正常非 免疫 动 物 血 清 室 温 孵 育 10 min； 同一 组 织 
+相 邻切 片 分 别 加 入 一 抗 即小 鼠抗 人 T H 单 克 隆抗 
+体 ( 1 ：400) 、兔 抗 鼠 FL IP 多克 隆抗 体 ( 1 ：100) 、 
+兔 抗 鼠 F A DD 多 克隆 ( 1 ：100) 和兔 抗 鼠 Caspase一3 
+多克隆抗体 ( 1 ：150) ，4℃过夜 ；T BS 洗涤 ，加入 
+生 物素 标 记 二 抗 室 温孵 育 ；T BS 洗 涤 ，加 入 链 霉 
+素 抗生 物素 蛋 白一过 氧 化 酶 室 温孵 育 20 min，DA B 
+显 色 ，苏木 素复 染 ，分色 ，脱水 透 明 ，中性树 胶封 
+固 ，光 镜 下 观察 拍 照 。选 定 黑 质 所 在 区域 ，采 用 
+C M IA S 真 彩 色 医学 图像 免疫 组 织 化学 自动 分 析 系 
+统 进行 阳性 细胞 计 数 。各 组 每 只 动 物 的 3 张 脑 片 
+100 倍 图像 阳 性 细 胞 个 数 的 数 值 相 加 后 取 平 均 值 
+(单 位 ：个／张切片 ) 。 
+1．5 
+免 疫蛋 白印迹 法检 测 各 组 小 鼠 T H 、F A D D 、 
+FL IP 和 Caspase-3 蛋 白表 达水平 
+取各 组小 鼠中 
+6 只行 免疫 蛋 白印迹 分 析 。小 鼠麻 醉 后取 脑 ，分 离 
+中脑 黑 质 部 分 ，置 入 细 胞 裂 解 液 中 ，低 温 匀 浆 ，
+ 
+4℃震 荡 作 用 30 ra in 后 ， 12 000 g ( 4 ℃) 离 心 
+15 min ，取 上清 ，一80℃保存备 用 。标本 蛋 白定 量 
+后加 人4 倍 体 积 样 本 缓 冲 液 ，95℃变 性 5 min。取 
+20 ktg 样 品在 100 g · L  
+十二 烷基 硫酸 钠 聚丙烯 酰 
+胺凝 胶 ( SD S-P A G E ) 上 电泳 后 ，电转 至 硝酸 纤 维素 
+膜 ，以标 准蛋 白 Marker 为参 照 ，依 相 对 分 子 质 量 
+大小 切 取 条 带 ，取 相 应 条 带 分 别 加 入 T H 一 抗 
+(1 ：l 000) 、F L IP 一 抗 ( 1 ：200) 、F A DD 一 抗 
+( 1 ：200) 和 Caspase一3 一 抗 ( 1 ：300 ) ，4 ℃ 过 夜 ， 
+T BST 冲洗后 ，分 别 与 生 物 素 标 记 的羊 抗 兔／小 鼠 
+IgG 抗 血清 ( 1 ：200) 室 温震 荡 孵 育 2 h ，T BST 洗 
+涤后 ，与 卵 白素一辣 根 过 氧 化 物 酶 复 合 物 室 温 下 孵 
+育 0．5 h ，DA B 显 色 。将 特 异 性 蛋 白条 带 扫描 后 ， 
+在 同一条 件下应 用 CM IA S 真彩 医学 图像 分 析 系 统 
+测定条带平均光密度(A )值 ，进行定量分析。 
+1．6
+统计 学分析 
+采用 SP SS 17．0 统计软件进行 
+统计 学 处 理 。 各 组 小 鼠 中 脑 黑 质 T H 、F L IP 、 
+F A DD 和 C aspase一3 阳性细 胞数 和蛋 白表达 水 平 以 
+z ±  表 示 ，组 间 比较 采 用 单 因素 方 差 分 析 。采 用 
+统计 学非 线性 相 关 分 析法 分 析 F A D D 阳性 细 胞 数 
+与 C aspase一3 阳性 细胞 数 的相 关性 。 
+2 
+结 
+果 
+2．1
+各组 小鼠行 为 学表 现
+模 型 组 小 鼠在 M PT P 
+注射后 15~ 20 ra in 可 出现 阵发性 躯体 震 颤 、竖 毛 、 
+步态蹒 跚 、尾过 伸上 翘 和小便 失禁 等短 暂 的行为反 
+应 ，随后 出现 明显 的 自发性 活 动 减 少 和 动 作 变慢 ， 
+随注射 次 数增加 ，上述表 现 愈加 严 重 ，符合 PD 小 
+鼠模 型 行 为 表 现 ；免 疫 组 织 化 学 染 色 和 W estern 
+blotting 分 析显 示 ：中脑 黑 质 T H 阳性神 经 元 和 蛋 
+白水平 (D A 能 神经元 特 异性标 记 物) 减 少约 59 
+和 
+63 
+，PD 模 型复 制成 功 。人参 皂 苷 R gl 组 与模 型 
+组 比较上述 症 状 明显 减轻 ；对 照组 小 鼠活 动 如 常 ， 
+未见 上述 症状 。 
+2．2 
+各 组 小 鼠 黑 质 区 T H 、 F A DD 、 F L IP 和 
+C aspase-3 阳性 细 胞 数
+黑 质 区 T H 阳性 细 胞 数 量 
+变化 ：对 照组小 鼠黑 质 区可见 大量 排列 整齐 呈条 带 
+状均 匀分 布 的 T H 阳 性 神 经 元 ，细 胞 数 量 多 ，胞 
+体呈锥形或梭形 ，胞浆呈棕黄色 ，轴突纤维排列整 
+齐 ；模 型组 小 鼠黑质 区 T H 阳性 细胞 减 少 约 59 
+， 
+胞 问纤 维 缺 失 ，分 布 较 分 散 ；人 参 皂 苷 R gl 组 小 
+鼠黑质 区 T H 阳 性 细 胞 数 较 模 型组 明 显 增 多 ，与 
+对照组 比较 减 少 约 30 
+，胞 间纤 维 缺 失 较 模 型 组 
+明显减 轻 。见 图 1( 插 页三 ) 。 
+黑 质 区 F L IP 和 F A DD 免 疫 组 织 化 学 检 测 结 
+果 ：对 照 组小 鼠黑质 区偶 见 F A D D 和 F L IP 阳性 细 
+胞 散 在分 布 ，胞 浆染 色浅 ，数 量少 ；模 型组 小 鼠黑 
+质 区可见 F A D D 和 F L IP 阳性 细胞 条 带状分 布 ，胞 
+浆染 色深 ，数 量 多 ；人 参 皂 苷 R gl 组 小 鼠黑 质 区 
+王
+茜 ，等 ．
+ 
+人参皂 苷 Rgl 对 帕金 森病 模型小 鼠黑质区 F ADD 和 FL IP 表达 的影 响及其意义 
+965 
+黑 质 区 F A DD 和 F L IP 阳性 细胞 数较 模 型组 明显减 
+少 ，胞 浆着 色 略浅 。见 图 2 和 3(插 页 三) 。 
+黑质 区 C aspase一3 免疫 组 织 化 学结 果 ：对 照组 
+小 鼠黑质 区偶 见 Caspase-3 阳性 细 胞 散在 分 布 ，胞 
+浆 染 色 较 浅 ，数 量 少 ；模 型 组 小 鼠黑 质 区 可 见 
+Caspase-3 阳性 细 胞 大 面 积 分 布 ，胞 浆 染 色 深 ，数 
+量 多 ；人参 皂 苷 R gl 组 小 鼠黑质 区 C aspase-3 阳性 
+细胞 散在 分布 ，胞 浆染 色较 深 ，数量较 模 型组 明显 
+减少 。见 图 4(插 页 三) 。 
+各组 T H 、F L IP 、FA D D 和 Caspase一3 阳性 细 
+胞数 单 因素方 差分 析结 果 显示 ：3 组 间 阳性 细胞 数 
+比较 差 异 均 有 统 计 学 意 义 ( P < 0．01) 。 见 表 1。 
+FA DD 与 Caspase-3 阳性 细胞 数 之 间存 在 正 相关 关 
+系 ( r 一 0．79l ，P <
+0．05) 。 
+表 1
+各组小 鼠中脑黑质 区 T H 、F L IP 、F ADD 和 C aspase-3 阳性细胞数 
+T ab ．1 
+N um ber o f  T H ，F L IP ，F A D D  an d C as p as e- 3一p os itiv e c el l s i n s u batan ia n ig ra o f m ou s e m id br ain in v ari ou s g r ou ps 
+( 一 9 ，z 土 s) 
+P <
+O．0 1 VS cont rol g roup ：
+ 
+P < O．0 1 VS mode1 g roup 
+2．3 
+各 组 小 鼠 黑 质 区 T H 、F A DD 、F L IP
+和 
+Caspase-3 蛋 白表 达 水 平 
+在 预 染 蛋 白标 准 约 
+61 000 、55 000 、23 000 和 32 000 处 ，分 别 可 见 
+T H 、F L IP 、F A DD 和 C aspase-3 特 异 性 蛋 白 条 
+带 。图 像 分 析 显 示 ：对 照 组 F L IP 、 FA DD 和 
+C aspase-3 均有 少 量 表 达 ，T H 表 达 明 显 ；模 型 组 
+F LIP 、FA D D 和 Caspase-3 表 达 水 平 明 显 增 加 ， 
+T H 表达水平则 明显降低 ，与对照组 比较差异有统 
+计学 意 义 ( P < 0．O1) ；与 模 型 组 比较 ，人 参 皂 苷 
+R g1 组 F LIP 、FA D D 和 Caspase一3 表 达 水 平 均 降 
+低 ，T H 表 达水 平 降低 程 度 减 轻 ，2 组 比较 差 异 均 
+有 统计 学意 义 ( P < O．01) 。见 图 5 和 表 2。 
+T H  
+F L IP  
+F A D D  
+M r  
+6 1 00 0  
+55 0 00  
+图 5
+各组小 鼠中脑 黑质 T H 、F LI P 、FA DD 和 C aspase-3 蛋 
+白表 达 电泳 图 
+F ig ．5 
+E lec tro p ho reg ram  o f 
+exp res s io ns 
+of T H ，F L IP ，
+ 
+F A D D an d C asp as e- 3 in s u ba tan ia n ig ra of m o u se m id br ain i n 
+v ari ou s g ro u ps 
+L a ne 1：C ont rol g ro up ；L a ne 2 ：M odel g roup ； L an e 3 ：G in seno side 
+R g l  g rou p．
+ 
+表 2
+各组小 鼠中脑黑 质区 T H 、F LI P 、FA DD 和 C aspase-3 蛋 白表达水平 
+T ab ．2 
+E x pre ss io n l evel s o f T H ，F L I P ，F A D D  an d C as p ase一3 in s ub atan ia ni gr a of m o us e m id b rai n in  va rio us g ro up s 
+( 
+一 6 ，z 士 s)  
+P <
+O．O1 
+s cont rol g ro up ；
+ 
+P <
+O．01 
+s mod el g roup 
+3
+讨
+论 
+P D 是一种 较常 见 的中枢 神经 系统退 行 性疾 
+病 ，其 临床特征为静止性震颤、肌肉强直和运动迟 
+缓 。P D 患 者均有 黑 质 区 D A 能 神经 元 的变性 缺失 。 
+MP T P 有 高度 的脂 溶性 ，易 通过血 脑屏 障 ，M PT P 
+诱 导 的 PD 动 物模 型是 目前 最 合适 的 P D 动 物 模 型 
+之一[引。本 实验 中 PD 模 型 小 鼠 出现 静 止 性 震 颤 、 
+运动迟缓等行为学表现与 PD 患者临床行为表现很 
+类似 ，同时实验结果也提示小鼠黑质区大量 DA 能 
+966 
+吉林大学学报 ( 医学版 )
+第 4O卷
+第 5 期
+2014 年 9 月 
+神 经元 变性 缺失 ，PD 模 型建 立成 功_5] 。 
+P D 的发病与遗传 因素、环境因素、氧化应激 
+和细胞 凋亡 等 多 种 因 素有 关 。近 期 有 研 究[7 提 示 ：
+ 
+细胞 凋 亡 可 能 在 P D 的 发 病 中 起 重 要 作 用。 
+C aspases 家 族 是 细 胞 凋 亡 的 重 要 相 关 基 因 ，在 大 
+脑 神 经 细 胞 的 凋 亡 中 起 主 要 作 用 ， 可 通 过 测 定 
+C aspase一3 以判 断凋亡 情况 _2] 。同时有 研究 [8]表 明 ：
+ 
+通 过 抑 制 PD 模 型 小 鼠 Caspase一3 的 表 达 可 减 轻 
+D A 能 神 经 元 的 大 量 丢 失 。 FA DD 与 FL IP 为 
+F as—FasL途 径 凋 亡 相 关 蛋 白 ，与 Caspases 家 族 关 
+系非 常密 切 。FA DD 可 活 化效 应 酶 Caspase-3 ，使 
+细胞 发生 凋亡 [g] 。而 F L IP 能 阻断 F as 介 导 的 凋亡 
+信 号 的 转 导 ，抑 制 细胞 凋 亡 [1 
+。有 研 究 
+显 示 ：
+ 
+P D 模 型大 鼠黑质 纹状 体 F as 和 F A DD 表 达 明显升 
+高 ，说 明 F as 和 F A DD 在 PD 发病机 制 中起重 要作 
+用 。 
+、 
+为 了解 PD 模 型 小 鼠黑 质 区 F L IP 、F A D D 与 
+Caspase-3 之 间的 关 系 ，本 实 验 检 测 PD 模 型 小 鼠 
+黑质 区 FL IP 、FA DD 与 Caspase- 3 阳性 细 胞 数 以 
+及 蛋 白表达 水平 结果 显示 ：与 对照组 比较 ，模 型组 
+小 鼠黑质 区 F L IP 和 F A DD 表 达均 明显 升高 ，提示 
+在 PD 发 病 过 程 中存 在 F as—F asL 途 径 的激 活 ；同 
+时 Caspase- 3 表 达 亦 升 高 ，F A DD 与 Caspase一3 存 
+在正 相关 关 系 ，提 示 在 PD 发 病 过 程 中 F as—F asL  
+途 径激 活后 ，F A DD 可 能活化 了效 应酶 C aspase一3 ， 
+这 也与 前期 报道 [4]结果 一致 。本 实验 检测模 型 小 鼠 
+黑 质 区 T H 表 达 情 况 还 显 示 ：FL IP 、 FA DD 和 
+Caspase-3 表 达 增 加 的 同 时 小 鼠黑 质 区 出 现 大 量 
+T H 阳性 神经元 及蛋 白丢 失 ，提示 在 模 型小 鼠黑质 
+区存在 DA 能神经元凋亡 ，F as—FasL 途径 的激 活 
+可 能激 发 细 胞 凋 亡 最 终 导 致 了 DA 能 神 经 元 的缺 
+失 。 
+人参 皂 苷 R gl 是 人 参 重 要 的活 性 成 分 ，具 有 
+清 除 自 由 基 、 抗 炎 和 抗 氧 化 等 作 用口 
+。有 研 
+究 [4 
+M 表 明 ：人参 皂 苷 R gl 对 M PT P 的 PD 模 型 
+小 鼠 D A 能神 经元 具有重 要 的保护 作用 ，其 可抑 制 
+细胞 凋亡 ，还可 以下 调 F as-FasL 途 径 的凋 亡 相 关 
+基 因 的表 达 ，从 而抑制 神经 细胞 的凋 亡 。在本 实验 
+中 ，人 参 皂 苷 R gl
+干 预 后 小 鼠 黑 质 区 FL IP 和 
+FA DD 阳性表达明显降低 ，提示在本实验条件下人 
+参皂 苷 R gl 可 能 通 过 抑 制 FA DD 和 FL IP 的 表 达 
+进而 抑制 神经 细胞 的凋 亡 ；同时 干预 后伴有 小 鼠黑 
+质 区 Caspase一3 阳性 表 达 明显 降低 ，而 D A 能 神 经 
+元 的缺 失 也 明显 减 少 ，提 示 人 参 皂 苷 R gl 可 能通 
+过抑制 神 经元凋 亡 ，对 DA 能神 经元起 到 一定 的保 
+护作用 。 
+综 上 所述 ，F as-F asL 途 径 可 能 是 M PT P 所致 
+PD 模 型 小 鼠 中 脑 黑 质 区 细 胞 凋 亡 的 重 要 上 游 事 
+件 ；而人参 皂 苷 R gl 可 通 过 影 响 F L IP 和 F A D D 
+的表 达抑 制 Fas—FasL 凋 亡途 径 对 DA 能神 经元 起 
+到一定 的保 护作 用 。 
+[ 参考文献] 
+[ 11
+马晓伟 ，李 晓丽 ，张 忠 霞，等． 1一甲基一4一苯基一1，2，3，6一 
+四氢 吡 啶 的神 经毒 性 与 帕金 森 病 [ J ] ． 中国 老 年学 杂 志 ，
+ 
+2O13 ， 33
+( 24) ： 6350—6353．
+ 
+[ 2]
+徐 晓露 ，施建生．神经元凋亡在 帕金 森病 中的作 用 [ J ] ．医 
+学综述 ，2012 ，18 ( 7) ：1004—1006．
+ 
+[3]
+李爱红 ，吴二兵 ，张元嫒 ，等．F as 和 F A DD 在 6-OHDA 诱 
+导 的帕金森病模型大鼠黑质纹状 体系统 的表达 EJ ] ．江 苏医 
+药 ，2013 ，39
+( 15) ：1751- 1753． 
+[4]
+李 
+娜． 人 参 皂 苷 Rg l 治 疗 神 经 退 行 性 疾 病 的 研 究 
+进展 [ J ] ．中国老年学杂志 ，2012 ，32 ( 15) ：3345—3347．
+ 
+[ 5]
+张
+健 ，徐阿晶．帕金森病动 物模型研究 进展 l-J ] ．药 学服 
+务与研究 ，2012，12 ( 5) ：382—386．
+ 
+[6]
+Bove J ，Perier C． Neurotoxin—based model s of Parkinson’ S 
+disease [ J] ．Neurosci ence ，2012，211 ( 6) ：51-76．
+ 
+[ 7] 
+田明秀，张志清 ，解洪荣 ，等． 帕金 森病发病 机制 的研 究进 
+展 口] ． 中国老年学杂志 ，2012 ，32 ( 16) ：3597—3601．
+ 
+[ 8]
+张 
+田，魏子峰 ，周 洪霞 ，等．p38MA PK 通 路参 与亚急 性 
+帕金森病模型小 鼠黑质 iNOS 表达 的调控 口] ．神 经解 剖学 
+杂 志 ，2010 ，26 ( 3 ) ：279—283 ．
+ 
+[9]
+赵美玲 ，季宇彬 ，毕 明刚．细胞 凋 亡的 死亡 受体 途径
+[ J ] ．
+ 
+黑龙江医药 ，2013 ，26 ( 2) ：19 6—199．
+ 
+[ 1o]
+朱亚平 ，周
+雨 ，刘 
+静 ，等．凋 亡相 关蛋 白死亡 受体 5、 
+细胞 内 F as 相关死 亡域 样 白介 素 卜B 转换酶 抑制蛋 白在 胃组 
+织 中 的 表 达 及 临 床 意 义 [ J ] ． 中 国 老 年 学 杂 志 ，2014 ，
+ 
+34
+( 1) ： 42—4 3．
+ 
+[ 11]
+宗
+一 ，何
+颖 ，詹
+东，等． 三七皂苷 R gl 抑制脂 多糖诱 
+导小胶质细胞激活的机制研究 口] ．神 经解剖学 杂志 ，2012，
+ 
+28
+( 1) ： 12- 16． 
+[ 12]
+李少霞 ，吕燕妮 ，寇俊 萍，等．皂苷类成分抗神 经细胞 凋亡 
+机制 的研究进展 口] ．药学进展 ，2013，37 ( 10) ：509—515．
+ 
+[13]
+于
+利 ，刘
+霞 ，包翠 芬，等．人参皂苷 R gl 对脑 缺血 再灌 
+注大 鼠大脑细胞死 亡方式 的影 响 口] ． 中国临床解剖 学杂志 ，
+ 
+2013 ， 31 ( 5) ： 555—559．
+ 
+[ 14]
+刘
+霞 ，包翠芬 ，魏
+嘉 ，等．人参皂苷 R gl 对脑缺血再 灌 
+注大 鼠 Caspase-3 蛋 白表达 的影 响 [ J ] ． 中国组 织化 学与 细 
+胞化学杂志 ，2 010 ，19 ( 1) ：88—92．
+ 
+图 2
+各 组大 鼠黑质纹状体 cdl l b 免疫组织化学染色结果 ( × 400) 
+F ig · 2 
+R es ul ts 。f im m un ()h is to c hem i st ry stai n ing o f cd l  l b in su b s tanti a nig r a and s tri atum 。f ra ts  i n vario ns  g r ()u 
+( × 400 )  
+A · D ：C on t ro l g ro uI) ( q ({ and 8 d) ；B ，E ：M ode l g roup ( 4 d a nd 8 d ) ；C
+， F ：E ldep ry l g ro up ( 4 d and 8 d) ．
+ 
+( se en 0 n pag e 9 5 5 in pa rag rap h) 
+罔 l 
+各 组 小 鼠 中 脑 黑 质 T H 免 疫 组 织 化 学 染 色 结 果 
+罔 2 
+各 组 小 鼠 中 脑 黑 质 FA DD 免 疫 组 织 化 学 染 色 结 果 
+( × 200 )  
+( ×
+100 ) 
+F i g- 1 
+R es ul ts o f in1m u no h is toc h em is try s ta in ing  o f T H  i n 
+m id b rain s ub atan ia n ig ra o f m ic e in v a rio us g ro up s ( × 2 00 ) 
+A ：C ont rol g roup ；B ：M ode l g ro up ；C ：G ins enoside R g l  g roup
+． 
+( s ee n o ”
+pa g e 9 6 4 in para g ra ph 、 
+F ig · 2 
+R es u lts  of i m m un oh is to ch em is tr y s ta in ing  o f F A D D i n 
+m id br ain s ub atan ia n ig ra of m ic e in v ari ou s g ro u ps ( × 100 ) 
+A ：C on t ro 1 g roup ；B ：M ude1 g r0 up ；C ：G in sen oside R g l g rouP
+． 
+( s ee n on pa g e 9 6 5 in pa ra g ra ph) 
+网 3 
+各 组 小 鼠 中脑 黑 质 FI IP 免 疫 组 织 化学 染 色 结 果 
+( × 10 0 ) 
+F ig ．3 
+R es u lts o f im m u no hi s toc h em is tr y s tain in g o f F I IP  in 
+m i db ra in su b atan ia n ig ra o f m i ce in v ario u s g ro u p s ( × 100 )  
+A ：C on trol g roup ；B ：M odel g roup ；C ：G i nsen oside R g l g rou p
+．
+ 
+( se en 0 n pa g e 9 6 5 in pa ra g rap h) 
+图 4 
+各 组 小 鼠 中 脑 黑 质 C aspase~3 免 疫 组 织 化 学 染 色 结 果 
+( ×
+l O0 ) 
+F ig ．4 
+R es ul ts o f im m u no h is toc h em is try s tain i ng o f c as pas e~ 3 
+in m id b rai n s u ba ta ni a n ig r a of  m ic e in  v a rio us  g ro up s ( ×
+1 00 ) 
+A ：C on trol g roup ；B ：M ode l g roup ；C ：G ins enos id e R g l g r()LIP
+． 
+( se en on pag e 9 65 in pa rag ra ph ) 
+罔 1
+各组心肌 细胞 的形 态学 ( × 40) 
+F ig 
+1 
+M o rp h ol og y  o f m y o car d ial c el ls in v ar io us g ro up s ( × 40 )  
+A ：C ont rol g roup ；B ：M odel g roup ；C -
+E ：250 ，5O，a nd 10 mg · L  
+S eh B g rou ps
+． 
+( se en oil pag e 9 7 8 ，9 7 9 in pa rag raph ) 

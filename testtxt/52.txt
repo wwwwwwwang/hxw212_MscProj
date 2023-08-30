@@ -1,0 +1,505 @@
+CH INES E J OU RNA L  OF A NA T OMY  V o1．34 No．3 201 1 
+解剖学杂志
+2011年第 34 卷第 3 期 
+人参皂甙 R bl 对血管性痴呆大鼠认知功能及突触素表达的影响 
+董静尹 
+袁张根 
+宋7~ ．nl 。 
+张大勇 
+王俊波 
+李 
+达 
+丁立峰 
+( 1 浙江大学城市学院医学与生命科学学院 ，杭州
+310015；2 解放军 117 医院 ，杭州
+310013) 
+摘要 
+目的 ：研究人参皂甙 Rbl ( GSRb1) 对血管性痴呆大 鼠认 知功能与海 马突触素表达 的影响 。方 法：将 36 只大 鼠随机 
+分为对照组 、模 型组 和治疗 组。以双侧颈 总动脉结扎法制作 血管性痴呆大 鼠模 型。造模后治疗组大 鼠腹腔注射 GSRbl ( 30 
+mg · kg 
+· d 
+) 。Y 型迷 宫和免疫组织 化学 法结 合 图像 分析检 测各组 大鼠认知 功能和海 马突触 素免疫 阳性 产物 的平均 
+光密度 。结果 ：与对 照组 大鼠相 比 ，模型组大 鼠 Y 型迷宫 中错误次数增加 ，模型组大 鼠学 习记忆能力减退 ，其海马区突触素 
+免疫反应 阳性产物平均光密度降低 ；与模型组相 比，治疗组大 鼠出错次数减 少 ，而海马 区突触素免 疫 阳性产 物平 均光密度 
+升高 。结论 ：人参皂甙 Rbl 可增加 血管 痴呆性 大鼠海 马区突触 素表 达 ，显著改善其认知功能 。 
+关键词
+人参皂甙 Rbl ；血 管性 痴呆 ；认知功能 ；海 马 ；突触素 
+E ffects of gi nsenoside R bl  on cogni tiv e function a nd syn aptophy sin ex pr ession 
+in va scular  dem en tia ra ts 
+Dong J ingy in ，Y uan Z hang gen ，S ong S huichuan2，Z hang  Dayong  ，W a ng J unbo ，L i Da ，Ding L i feng 
+( 1．School of  M ed icine and L i。
+f e S cience ，C ity Col lege ，Z hej iang Univ ersity ，H angzhou 
+310015 ；
+ 
+2．T he 11 7th H ospital of  P L A ．H angzhou 
+310013 ，C hina) 
+Abstract Obj ective：T o study the effects of ginsenoside R bl on cognitiv e function and synaptophysin expression of hippo— 
+campus i n v ascular dementia (V D ) rats．M ethods：T otall 36 rats w ere divi ded randomly into a control g roup，a V D  mode l 
+g roup and a treated g roup．T he v ascular dem enti a ra ts w er e establi shed by permanent l igat ion of bil ateral common car ot id ar— 
+teries．
+ A fter operation ，the rat s of the t reated group w ere treated intrape r itoneal1y w ith g insenoside R bl
+( 30 mg · k g 
+· 
+d一 ) for 4 week s．Cog initiv e function w as detected in a Y  m odel maze，and the ex pr essi on of sy naptophy si n ( SY N ) of hi p— 
+pocampus was detected w ith i mm unohi stochemical method and immag e ana ly si s．R esults ：C om par ed w ith contr ol ra ts，the 
+nu mber of er ro rs o f V D  rats in a Y  mo del maz e incr ea sed an d mean o pt ical den sity o f S Y N  in  h ip pocamp us decrea sed sig n ifi — 
+cantl y．Compar ed w ith the model ra ts，the er ror t ime of t reated r at s decr eased ，and m ea n optical density of SY N in the hip— 
+po cam pu s in cr ea sed sig n ifican tly ．C on clu si on ：T h e stu dy in d icates th at g in seno si de R bl  cou l d en h an ce th e exp ressio n of SY N  
+in V D  rats and imp ro ve cog in iti ve fun ction ．
+ 
+K ey words 
+g insenoside R bl ；v ascula r dementia ；cog ni tive funct ion ；hippocam pus；synaptophy si n 
+血管性痴呆 (vascular dementia) ，是指 由各种脑血 
+管疾病引起 的脑功能障碍 ，其突出表现有记忆力下降 ， 
+智能减退 ，行为异常和人格改变等Eli ，严重影响了患者 
+的生活质量 ，因此改善其学 习记忆能力是 目前 治疗 血 
+管性 痴 呆 重 要 指 标 之 一。突 触 素 ( synaptophysin， 
+SY N) 是一种位于突触前囊泡上的固有钙结合蛋 白，其 
+数量和分布可间接反 映突触 的数量 和密度_2] 。目前 ， 
+有关人参皂甙 Rbl ( ginsenoside Rbl ，GSRb1) 能否通 
+过影响学习记忆 脑 区之一 的海马 内突触素 的表达 ，达 
+到改善血管性痴呆大 鼠认知功能( 学习记忆能力) 的研 
+浙 江大学城市学院 2009 年教师科研 基金 (J 09013) ；浙江 教育厅 2009 
+年度科研立项项 目( Y 200909882) 
+第 1 作者 E—mail ：dongjy@ ZUCC．edu．crl 
+收稿 日期 ：2010—09—10；修 回日期 ：2010—11—12 
+—
+—
+350
+——— 
+究报道较少。本实验拟采用颈 总动脉结扎法制作血管 
+性痴呆大鼠模型 ，以 GSRb1 作为干预因素，通过 Y 型 
+迷宫 和免 疫 组 织 化 学 结 合 图像 分 析 的方 法 ，探 讨 
+GSRb1 对血管性痴呆大 鼠学习记忆能力及海马突触素 
+表达的影响，为临床治疗血管性痴呆 ，改善患者学 习记 
+忆能力的减退提供实验依据 。 
+1
+材料和方法 
+1．1 
+实验 动 物 
+清洁级 2～3月龄健康雄性 SD 大 鼠 36 只，体质量 
+180~ 200 g ，浙江省医科 院提供 ，许可证号 ：SCXK ( 浙) 
+2008—0033。动物 自由进食 ，饮水 ，室温保 持在 23℃ ～ 
+25℃，自然光照 。适应性饲养 l 周 ，观察状态 良好 。 
+1．2
+仪 器 ，药品与试 剂 
+Y 型迷宫( 江苏三兴声 电公 司) ；Nikon 50i 显微镜 
+( 日本 N ikon 公 司) ；Microm 石蜡 切片机 ( 德 国美康公 
+司) ；GSR bl ( 上海 融禾 医药 科技 发展有 限公 司 ，批 号 
+0901O9) ；突触素抗体 (Synaptophysin A b一4) ( NeoMar— 
+kers 生产) ；即用型 SP 试剂盒 (福建迈新公 司) 。 
+1．3
+实验 分组 
+大 鼠随机分为 3 组 ：对照组 、模 型组、治疗组 ，每组 
+12 只 。 
+1．4
+造 模 与给 药 
+采用郑敏 等的改 良双侧 颈总 动脉结扎法[引，建立 
+血管性痴呆大 鼠模型 。大 鼠术前 12 h 禁食 ，自由饮水 。 
+1 
+戊 巴比妥钠腹腔麻醉 (30 mg／kg) 后 ，颈部正 中线左 
+侧旁开 0．5 em 处做手术切 口，分离出该侧颈总动脉后 ，
+ 
+以手术线作 双重结扎 。术后每 天以 80 万单位青霉 素 
+肌 肉注射作预防感染 。术后 3 d，于颈正中线右侧旁开 
+0．5 em 处切开 ，同前分离该侧 颈总动脉并结扎 。对照 
+组大鼠除不结 扎颈总动脉外 ，麻醉方 法和手术过程 均 
+与模 型 组 相 同 ，术 后肌 肉注 射青 霉 素 80 万 U 预 防 
+感染。 
+术后 24 h 腹 腔 注 射 给药 ，各 组 大 鼠如 下处 理 ， 
+(1) 对照组 ：假手术 + 生理盐水 ( 30 mg · kg_1 · d 
+) ； 
+(2) 模型组 ：双 侧颈 总动脉结扎 + 生理 盐水 ( 30 mg · 
+kg 
+· d 
+) ；( 3) 治疗组 ：双侧颈 总动 脉结扎 + GSRb1 
+( 30 mg · kg 
+· d_1) 。腹腔注射给药持续 4 周 。 
+1．5 
+Y 型迷 宫测试 学习记忆能力 
+造模给药完成之后 ，参照余建 等改 良的评 价方法 
+对 3 组实验动物进行 Y 型 电迷宫测试_4] ，每天分别进 
+行 50 次测试 ，第 1 天为学 习阶段 ，检测其学 习能力 ，第 
+2 天为保持 阶段 ，检测其记忆能力 ，以 10 为计 数单位 ， 
+比较每天每个计数单位之间的错误次数 。检测完成之 
+后 ，采用灌注 固定法取脑 。取脑之前 ，上述各组存 活大 
+鼠分别有 1O、10、12 只。 
+1．6
+免 疫 组 织化 学方 法 
+将大鼠以 1 
+戊巴比妥钠腹腔麻醉( 30 mg／kg) 后 ， 
+打开胸腔 ，经左心室升主动脉 4 
+多聚甲醛 ( pH7．2) 灌 
+流取脑 ，取视交叉后 4 mm 处至小脑前的脑组织置于相 
+同固定液 内后固定 4～8 h，石蜡包埋制片。连续切片 ， 
+隔 3 取 1，片厚 5 m。每只大 鼠海马切片分为 2 套 ，分 
+别进行 H—E 染色及免疫组织化学显色方法 。 
+应用免疫 组织 化 学 SP 法测 定 血 管性 痴 呆 大 鼠 
+海 马 区突触 素表达水平 。显色步 骤按 照突触 素测定 
+试 剂盒 说 明 书 进 行 。突 触 素 抗 体 浓 度 为 1 ：100 。 
+阴性对照 以 0．1 mol／L PBS 代 替一抗 进 行免疫 组织 
+化 学显色 ，余步骤 相 同。于 光学 显 微镜 下 观 察 突触 
+素 免疫反 应 阳性 产物 的分 布 ，同时应 用 Nikon 显微 
+镜 Image-Pro Plus ( IPP) 分析软件检测 突触素免疫反 
+应 阳性产 物的平均光 密度 。每 只大 鼠各 取 3 张不 同 
+断面切 片 ，并 使 切 片在 各 组 间保 持 断 面 一 致 ，海 马 
+CA 1 和 CA 4＆DG 区随机 选取 3 个 视 野测 量 突触 素 
+阳性产 物 的平 均光 密度 。所得 数 据计 算 其均 值 ，再 
+计算每组 均值 。
+ 
+1．7
+统计学处理 
+．
+ 
+所得数据经统计学处理后 ，求 出每组 平均每张 切 
+片测试 区 内突触 素 阳性 产 物 的平 均光 密 度 ，数 据 以 
+± 5表示 ，运用 SPSSI 1．0 统计软件进行单 因素方差分 
+析 ( One—way A NOV A ) 。 
+2
+结果 
+2．1 
+Y 型迷 宫 测定 结果 
+对照组 ，模 型组和治疗组大 鼠每天每个计数 单位 
+之间的错误次数差异有统计学意义 (表 1) 。 
+表 1
+各组大鼠 Y 型迷宫学 习记忆检测数据 ( 
+士S，／l o ti mes) 
+T ab I  
+C ogni ti ve f un ct ion de tec te d in a  Y  m odel m a ze 
+i n di fferent groups ( 
+士S，／10 times) 
+P <
+0．01 
+s c ont rol ；／x／xP <
+0．01 WS m od el 
+2．2
+光镜下 H —E 切片观察 
+光镜下 ，对照组大鼠海马 内组织结构基本正常 ，锥 
+体细胞排列 整齐 ，形态正 常，细胞着色均匀 ，胞质呈淡 
+红色 ，胞核呈蓝色并较清亮 ；而模 型组大 鼠该区域锥体 
+细胞排列紊乱 ，细胞间隙增宽，神经元发生明显 的变性 
+和坏死 ，出现胞 质红染 ，胞核 固缩 、碎裂、溶解 等；治疗 
+组神经元细胞排列稍显紊乱 ，可见细胞变性坏死 ，但数 
+量较模型组明显减少 ( 图 1～4) 。 
+2．3 
+突触素阳性产物平均光密度 
+突触素免疫反应 阳性产物为棕黄色点状或颗粒状 
+沉积 ，主要分布于神经元周 围，颗粒大小不一 ，这 与突 
+触前终末 的大小和 突触类 型有关 ，胞 质 内颗粒状产物 
+较少见 ，白质 、血管和胶质细胞不着色 。各组间海 马区 
+神经元突触素表达水平 的比较显示 ，模型组 、治疗组 和 
+对照组大鼠突触素 阳性产物含量依次 升高 。模型组与 
+对照 组 比较 ，阳性产 物 平 均光 密 度 明显 降低 (P <  
+0．01) ；治疗组与模型 组 比较 ，平 均光密 度增加 (P <  
+0．05) ，差异均具有统计学意义 ( 表 2) 。阴性对照组为 
+完全 阴性 。 
+表 2
+各组大 鼠海 马脑 区突触素表达 阳性产物 平均光密 度( 
+士s) 
+T a b 2 
+M ean opt ica l d ensit y of  S Y N in  hi ppoca mp us 
+in di ffer ent groups ( ~ 4- s) 
+P <
+0．O1 WS c on t rol ；△ P <
+0．0 5 s mode1 
+—
+35 1
+—  
+图 l
+大 鼠 C A 4 & D G 区 H
+— E 染色
+， 10 0 ×
+．
+图 2
+大 鼠 C A 4 & IX ；区 H
+— E 染色 ，20 0 ×
+．
+图 3
+大 鼠 C A 4 & D G 区 突触素的表达
+，免疫组 织 化学 显 色 ， i 0 0 ×
+．
+图 4
+大 鼠 C A 4 ＆D G 区 突触素 的表达
+，免疫组 织 化学 显 色 ，2 0 0 ×
+．
+A
+：对照组 ；B
+：模 型组 ；C
+：治疗 组
+．
+F ig 1
+C A 4 & D G
+r e g i o n s in
+hip p o c a m p u s
+， H
+— E
+。 10 0 ×
+．
+F ig 2
+C A 4 ~
+- D G
+r e g io n s in
+hip p o c a m p u s
+， H E
+， 2 0 0 ×
+．
+F ig 3
+S y n a p t o p h y s i n
+e x p r e s s io n
+o f C A 4 & D G
+r e g io n s in
+hip p o c a m p u s
+． im
+m
+u n o hi s o c h e m i c a l
+s t a in in g
+． 10 0 ×
+F ig 4
+S y n a p t o p h y s in
+e x p r e s s io n
+o f C A 4 & D G
+r e g io n s in
+hip p o c a m p u s
+， im
+m
+u n o hi s o c h e m i c a l
+s t a in in g
+． 20 0 ×
+A
+： C o n t r o l g r o u p ； B
+： M o d e l g r o u p ； C
+： t r e a t m
+e n t g r o u p
+．
+3
+讨 论
+血 管性痴 呆 是
+一
+种 病 因 不 明 的全 身 性 疾 病
+， 已 明
+确 的高危 因 素 众 多 ， 其 中之
+一
+即 为 慢 性 脑 缺 血
+。
+本 实
+验采 用 改 良的双 侧 颈 总 动 脉结扎 术 制 作血 管性 痴呆 模
+型
+，大 鼠存活率较高 ，且 更接 近 临床 上 常见 的脑部慢性
+缺血 的病理 过程 [ 引
+。
+已知海 马 是 进 行 信息储存 的重 要 部位 ，也 是 研 究
+突触可 塑性
+，长 时程增 强 效应 ( 10 n g
+— t e r m
+p o t e n t i a t i o n
+，
+L T P ) 的最 佳单位 【5]
+。
+突触 的变 化 是 学 习 与记 忆 形 成
+的
+一
+个重要 形 态 学 和 功 能 学 基 础
+， 广泛 分 布 于 神 经 组
+织 的突触素 『6]
+，其 表 达 可 反 映 突触 的发 生 和 密度
+。 本
+一
+3 5 2
+一
+研 究结果 显 示
+， 模 型 组 大 鼠不 仅 学 习 记 忆 能 力 明显 衰
+退
+，且 海 马 区 突触素水平 明显 降低 ，提示 血 管 性 痴 呆 大
+鼠海 马 内突触 受 到严 重 损 伤 ， 可 能 是 其 学 习 记 忆 认 知
+功能 出现 衰退 的 原 因 之
+一
+， 同 时佐 证 了 突 触 素 与 认 知
+存在 明显 的正 相 关 。
+目前认 为血 管性 痴 呆 突触 素 的减
+少 可 能与下 列 的 因 素 有 关 ：缺 血 性 脑 损 害导 致 海 马 内
+各层传人 纤 维 发 生 顺 行 性 退 变 ， 由于 轴 突发 生 变 性 和
+突触后神经 元 的缺 失使 得 功 能性 突触前 成 份减 少 ；同
+时 由于缺血 导致神经 元 物质代谢 和 蛋 白质合成 能 力 下
+降 ， 轴 浆 运 输 障 碍
+， 从 而 对 损 伤 的 突 触 重 建 产 生
+障碍 ‘ 引
+。
+与模型 组 比较 ， 治疗 组 大 鼠学 习 记 忆 能 力 明 显 改
+善 ，海马 内突触素含量升高显著 ，显示 GSR bl 不仅能 
+增强血管性痴呆大 鼠海 马内突触素 的表达水平 ，并有 
+改善认知的显著功效。GSR bl 是人参 二醇系皂甙 ，研 
+究显示 R bl 在抗氧化 ，清除 自由基 ，抑制神经毒性 ，促 
+进蛋白质合 成等方面均有较 强活性_8J 。另外 ，还可通 
+过促进乙酰胆碱释放 ，增加神经末梢摄取 乙酰胆碱 ，及 
+营养神经 ，促进轴突生长和神经再生的作用 ，发挥其促 
+智效应[9 10] 。GSR bl 是否通过上述途径改善血管性痴 
+呆的神经症状 尚不 明确 ，已知 LT P 的诱导与突触素的 
+合成是偶联的，而突触素与突触可塑性密切相关 ] ，推 
+测 GSR bl 有可能通过提高海 马内突触素水 平 ，促进 突 
+触重建 ，诱导 L T P 形成发挥其促智效应。 
+综上所述 ，GSRbl 可改善血管性痴呆 大鼠学 习记 
+忆能力 ，增强海马内突触素表达 ，进而易化与突触素相 
+关的学习记 忆环节 ，达 到改善 大 鼠学 习记 忆 的能力。 
+作为一种促智中药 ，GSR bl 在智能相关脑疾病研究领 
+域具有广 阔应用前景 。 
+参 考 文 献 
+[ 1 ]
+徐姜定 ．血管性认 知功 能障碍 (痴呆 )诊 断与治疗进 展EJ ]．浙江 临 
+床 医学 ，2008，10( 9) { 1153—1154．
+ 
+[ 2 ]
+K hvotchev M V ，Sudhof T C  Stimulus—dependent dynamic homo— 
+and heteromul timerization of synaptobrevin／V A MP and synpto— 
+physin EJ] ．Biochemistry ，2004，43(47) ：15037—15043．
+ 
+郑敏 ，赵骥 ，陈红光 ，等．大 鼠血管 性痴 呆模型 的改 良EJ ] ．咸 宁学 
+院学报 医学版 ，2008，22(4) ：277—278，284．
+ 
+余建 ，黄育文 ，陈忠．经过改 良的评价大鼠空 间记忆能力的交替电刺 
+激 Y 型迷宫[ J] ．浙江大学学报 医学版 ，2003，32( 2) ：121—125，140． 
+M orr is R  G． E l ement s of a neurobiologic al t heo ry of hip poeam pal 
+f unc tion ：t he role of sy napti c plast ici ty ，sy napt ic t agg in g isc hem as 
+[J] ．Eur J Neurosd ，2006，23( I I ) ：2829 2846． 
+M asliah E ，T erry  R ． T h e role of s y naptic prot eins in t he p at ho— 
+genesis of disorders of the central nervous system EJ ] ． Brain 
+P athol ，1993 ，3 ( 1) ：77—85．
+ 
+金善 ，赵忠新 ，邵福 源．骨髓间充质干细胞对血管性 痴呆 大 鼠海马 
+CA1 区突触素表达的影响EJ ] ．中国康复医学杂志，2006，21( 8) ：
+ 
+683—68 5．
+ 
+杨吉平 ，赖红 ，吕永利．人参皂 甙 R bl 对阿尔茨海 默病样大 鼠海 马 
+结构 8一分泌 酶和早老 素一1 表达 的影 响口] ．解剖学 杂志 ，2009，32 
+( 6) ：7 62—764．
+ 
+X ue J  F ，L iu Z J ，H u J  F ，et a1．G insenoide R b l prom otes n eur o— 
+transm itter release b y m odulating ph0s phOry lati0n of sy napsins 
+through a cA MP—dependent protein kinase pathway [ J ] ．Brain 
+R es ，2006 ，1 106 ( 1) ：91—98．
+ 
+赖红 ，王铁 民，赵海 花 ，等．人参皂 甙对 老龄 大 鼠海 马结构 胆碱能 
+纤维的影响口] ．解剖学杂志 ，2006，29(2) ：249—251．
+ 
+Jang S，R yu J H ，K im D H ，et a1．Changes of [ 。H ] M K一801， 
+[ 。H] muscimol and [ 。H ] flunitrazepam binding in rat brain by the 
+prolonged ventricular infusion of transformed ginsenosides [ J ] ．
+ 
+N eu rochem R es ，20 04 ，29( 12 ) ：22 57—2266．
+ 
+( 编辑 ：刘 
+芳) 
+( 上 接 英 文 目次 二 ) 
+卵黄囊血 管变得复杂 ，羊膜褶 即将合拢 。 
+3．2 
+4～14 d 的发 育 
+随胚 体的生 长 ，胎 膜 ( 卵 黄囊 、羊膜 、绒毛 膜 、尿 囊) 发 育 迅 
+速 ，应重点观察胚体外形 的变 化和胎膜 的发 育状况 ，此时可从 大 
+头破壳进 行观察 ，或取 出胚 体 直接 观 察 ，孵 化 4 d，羊 膜包 绕 胚 
+体 ，胚体呈 弓形在羊水 中浮动 ，尿囊及 尿囊血 管清晰可辨 。孵化 
+7 d，可见浅层 的尿囊 血管 ，深 层 的 卵黄血 管 ，羊水 宽 阔 ，胚体 位 
+于清澈 的羊水 中 。孵化 10 d，可见 浅层鲜红 的尿囊血 管 ，深 层暗 
+红 的卵黄血管 ，胚胎 在羊 水中运动 ，眼、喙、翅 、肢 的发 育较完 善 ，
+ 
+将其游离 出来 可见卵黄囊下缘 ，尿囊下缘 ，尿囊 的血管还没 有合 
+拢 ，在下缘 留有缺 口，孵化 13 d，尿 囊血 管 和卵黄囊 血 管发 育更 
+加完善 ，尿绒毛膜血管 已合拢 ，胚体表 面可见纤 细的绒羽 。 
+3．3 
+15~ 21 d 的发 育 
+随着胚体 发育逐渐完善 ，胎膜 逐渐完成应 有 的作 用 ，此 时可 
+去掉蛋壳 ，揭去壳膜 ，直 接观察 胚胎 与胎 膜 的变化 。孵 化 15 d，
+ 
+可见胚胎 发育 较完善 ，但仍保 留较 多的卵黄 。孵化 19 d，尿囊 血 
+管逐渐减少 ，卵黄囊逐渐变小 ，为 出壳后 的独立生 活作准备 。孵 
+化 20 d，小鸡啄破胎膜 ，将 头伸 向气 室 ，卵黄囊 和 卵黄 即将全 部 
+收入腹 内。孵化 21 d，小鸡本能地逆 时针方 向啄破蛋壳 ，挣 脱脐 
+带 ，顽 强地破壳而 出，开始新 的发育过程 。 
+4
+实验 效果 
+4．1
+动 态图像 利于反映 实验 结果 的真 实性 
+破壳直接观察活体鸡胚，或者将早期鸡胚取出放在盛有任氏液 
+的凹玻片上进行镜下活体结构的观察，未经压片、切片、固定、干燥、 
+染色等处理过程 ，有效避免人 为因素造成 的假象 ，观察到 的图像充 
+分反映实验结果的真实性，有利于学生获取真实的实验结果 。 
+4．2
+动态 图像增强 了实验结果 的直观性 
+观察鸡胚 的动 态图像 ，了解鸡胚发育 状况 ，使教科 书上描写 
+鸡胚发育 的内容生 动直 观地 展现 在学 生面前 ，让 学生 看到 真实 
+生活状态下鸡胚形态发 生及 其动 态变 化 ，有利 于学生 对胚 胎知 
+识的正确掌握 和理解 。 
+4．3
+动 态图像观 察利于激发 学生 学习的兴趣性 
+在实验过程 中 ，学生通过设计孵化 和观察时 间 ，能够 牢 固掌 
+握胚胎发育过程 的时序关 系 ，可 以看 到生 活状 态下鸡 胚发 育过 
+程 ，如 ：体 节 的发生 ，原条 的发 生 与 回缩 ，神经 板 、神 经沟 、神 经 
+褶 、神经管 、三脑泡 、五脑泡 的发生 ，血 岛 、心 管 、心 、体循环 、卵黄 
+囊循环 、尿囊循 环 的发 生 和血液 流 动 ，翅 芽 、肢 芽的 发生 ，卵黄 
+囊 、羊膜 、尿囊 的发生及演变 ，小鸡破壳 而出等奇妙 的生命 现象 ，
+ 
+使学生充分感悟生命 现象的奥秘 ，激发 学生学 习的兴趣 ，同时也 
+为学生进行探究性 学习和设 计性实验奠定 了基础 。 
+4．4
+动静 结合有利 于掌握知识的 系统性 
+整个实验过 程 中在 观察 动 态 图像 的 同时辅 以观察 鸡 胚切 
+片 ，通过 动态与静态相结合 ，使学生观察到鸡 的囊胚 、原肠胚 、神 
+经胚 以及小鸡破壳 而出的整个发育过程 。不仅 可 以看 到鸡 胚外 
+形和 内部结构 的变化 ，而 且还 可 以看 到胎 膜与 胚胎 发育 的密切 
+关系，使学生容易获得鸟类胚胎发育的系统知识 。
+ 
+参 考 文 献 
+[ I ]
+张红卫．发育生物学[M]．第 2版．北京：高等教育出版社，2006：1-3．
+ 
+[ 2 ]
+吴 秀山．现代 发育生 物学 指南EM] ．北 京 ；化学 工业 出版社 ，2007：
+ 
+9—1O．
+ 
+( 编辑 ：黄会龙) 
+一
+353
+一  
+]
+ 
+]
+ 
+]
+ 
+]
+ 
+]
+ 
+]
+ 
+]
+ 
+]
+ 
+]
+ 
+一
+0
+一
+ 
+一
+ 
+—
+ 一
+ 
+妇 
+[
+ 
+[
+ 
+[
+ 
+[
+ 
+[
+ 
+[
+ 
+[
+r L  
+I二 

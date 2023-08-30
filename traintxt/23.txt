@@ -1,0 +1,796 @@
+论著·生物信息技术
+▲基金项目:国家自然科学基金(81360531);广西自然科学基金(2020GXNSFAA238030);广西中医药大学硕士研究生科研创新
+项目(xjyb112)
+第一作者简介:卢鑫,硕士,住院医师,研究方向:消化系统疾病中西医结合防治研究。
+通信作者简介:张涛,博士后,主任医师,研究方向:中医药治疗消化系统疾病的基础与临床研究。
+基于网络药理学及分子对接技术探讨人参治疗胃癌的作用机制▲
+卢　 鑫1　 尹硕鑫1　 江水玉1　 李清梅1　 覃靖燊1　 张　 涛2　 陈远能2
+(1 广西中医药大学研究生院,广西南宁市　 530000;
+2 广西中医药大学附属瑞康医院消化内科,广西南宁市　 530011)
+【摘要】　 目的　 采用网络药理学方法及分子对接技术,探讨人参治疗胃癌的作用机制。 方法　 通过中药
+系统药理学数据库与分析平台搜索人参的有效化学成分及其相应的作用靶点,通过 GeneCards■ 数据库、
+OMIM■ 数据库、DRUGBANK 数据库检索胃癌相关靶点,运用 Venny 2. 1. 0 软件获取人参有效化学成分作用靶
+点与胃癌相关靶点的交集靶点。 通过 STRING 数据库构建交集靶点的蛋白-蛋白相互作用(PPI)网络后,应用
+Cytoscape 软件进行可视化处理及网络拓扑学分析以筛选核心靶点。 利用 STRING 数据库构建核心靶点的 PPI
+网络。 基于 Metascape 平台对交集靶点进行基因本体论( GO) 功能富集分析和京都基因与基因组百科全
+书(KEGG)通路富集分析。 使用 AutoDock Tools 软件对人参主要有效化学成分与核心靶点进行分子对接分析。
+结果　 (1)共得到人参有效化学成分 24 个,作用靶点 117 个,胃癌相关靶点 1 921 个。 人参有效化学成分作用
+靶点与胃癌相关靶点的交集靶点共 60 个,筛选出核心靶点 21 个,包括蛋白激酶 B(AKT)1、Jun B 原癌基因
+(JUN)、肿瘤坏死因子(TNF)、前列腺素内过氧化物合酶 2(PTGS2)、Caspase-3 等。 (2) GO 功能富集分析和
+KEGG 通路富集分析结果显示,交集靶点涉及 88 种分子功能,如蛋白质结构域特异性结合、蛋白质同源二聚化
+活性等;涉及 1 211 个生物过程,如凋亡信号通路、活性氧的代谢过程、对脂多糖的反应等;涉及 32 种细胞组
+分,如薄膜筏、细胞质核周区、细胞外基质等;涉及 247 条信号通路,包括磷脂酰肌醇 3-激酶(PI3K) / AKT 信号
+通路、TNF 信号通路、丝裂原活化蛋白激酶(MAPK)信号通路等。 分子对接结果提示,人参皂苷 Rh2、人参皂苷
+Rh4、山柰酚、β-谷甾醇、豆甾醇均能与 AKT1、JUN、TNF 结合且大部分化合物与靶点的结合性良好。 结论　
+人
+参主要有效化学成分有人参皂苷 Rh2、人参皂苷 Rh4、山柰酚、β-谷甾醇、豆甾醇,它们通过作用于核心靶点
+AKT1、JUN、TNF,主要在薄膜筏、细胞质核周区、细胞外基质中参与细胞凋亡、活性氧的代谢过程、炎症反应等
+进程,作用于 PI3K/ AKT 信号通路、TNF 信号通路、MAPK 信号通路等关键信号通路,从而发挥治疗胃癌的作用。
+【关键词】　 胃癌;人参;人参皂苷;网络药理学;分子对接;作用机制
+【中图分类号】　 R 735. 2　 　 【文献标识码】　 A　 　 【文章编号】　 0253-4304(2023)07-0796-08
+DOI:10. 11675 / j. issn. 0253-4304. 2023. 07. 12
+Mechanism of ginseng for the treatment of gastric cancer: an exploration
+based on network pharmacology and molecular docking technique
+LU Xin1, YIN Shuoxin1, JIANG Shuiyu1, LI Qingmei1, QIN Jingshen1, ZHANG Tao2, CHEN Yuanneng2
+(1 Graduate School, Guangxi University of Chinese Medicine, Nanning 530000, Guangxi, China; 2 Department of Gastroenterology,
+Ruikang Hospital Affiliated to Guangxi University of Chinese Medicine, Nanning 530011, Guangxi, China)
+【Abstract】　 Objective　 To explore the mechanism of ginseng for the treatment of gastric cancer by employing
+network pharmacology and molecular docking technique. Methods　
+The effective chemical components and their
+corresponding effect targets of ginseng were retrieved from the Traditional Chinese Medicine Systems Pharmacology
+Database and Analysis Platform. The targets related to gastric cancer were retrieved from the databases of GeneCards■ ,
+OMIM■ , and DRUGBANK. The intersection targets of effect targets of effective chemical components of ginseng with
+gastric cancer related targets were obtained by using Venny 2. 1. 0 software. The protein-protein interaction ( PPI)
+network of intersection targets was established by STRING database, and then visual processing and network topology
+analysis were performed to screen the core targets by employing Cytoscape software. The PPI network of core targets
+was established by the application of STRING database. The Gene Oncology (GO) functional enrichment analysis and
+Kyoto Encyclopedia of Genes and Genomes ( KEGG) pathway enrichment analysis were performed on intersection
+796
+Guangxi Medical Journal, Apr. 2023, Vol. 45, No. 7
+targets based on Metascape platform. The molecular docking analysis was performed on main effective chemical
+components and the core targets of ginseng by using AutoDock Tools software. Results　
+(1) A total of 24 effective
+chemical components of ginseng, 117 corresponding effect targets, and 1921 targets related to gastric cancer were
+obtained. There were 60 intersection targets between effect targets of effective chemical components of ginseng and gastric
+cancer related targets, and 21 core targets were screened, including protein kinase B (AKT)1, Jun B proto-oncogene (JUN),
+tumor necrosis factor (TNF), prostaglandin-endoperoxide synthase 2 (PTGS2), Caspase-3, etc. (2) The results of GO
+functional enrichment analysis and KEGG pathway enrichment analysis revealed that the intersection targets involved
+88 molecular functions with respect to protein domain specific binding and protein homologous dimerization activity,
+etc., 1211 biological processes in terms of apoptotic signaling pathways, reactive oxygen metabolism, reaction to
+lipopolysaccharide, etc.,32 cell compositions, such as membrane raft, perinuclear region of cytoplasm, extracellular
+matrix, etc., and 247 signaling pathways, including phosphoinositide 3-kinase (PI3K) / AKT signaling pathway, TNF
+signaling pathway, mitogen-activated protein kinase (MAPK) signaling pathway, etc. The results of molecular docking
+indicated that ginsenoside Rh2, ginsenoside-Rh4_qt, kaempferol, β-sitosterol, and stigmasterol could be combined
+with AKT1, JUN, and TNF, and most of the chemical compounds exerted favorable bindings with targets. Conclusion
+　 The main effective chemical components of ginseng involve ginsenoside Rh2, ginsenoside-Rh4 _qt, kaempferol,
+β-sitosterol, and stigmasterol, and they play a role in the treatment of gastric cancer by acting on the core targets of
+AKT1, JUN and TNF, and participating in cell apoptosis, reactive oxygen metabolism, inflammatory responses and
+other processes mainly in membrane rafts, perinuclear region of cytoplasm, extracellular matrix, and acting on
+PI3K/ AKT signaling pathway, TNF signaling pathway, MAPK signaling pathway and other key signaling pathways.
+【Key words】　 Gastric cancer, Ginseng, Ginsenoside, Network pharmacology, Molecular docking, Mechanism
+　 　 胃癌是全球第五大常见癌症,也是第三大常见癌
+症死亡原因[1]。 世界卫生组织 2020 年发布的数据显
+示,在中国癌症患者中,胃癌的总患病率和病死率均
+排名第三[2]。 胃癌早期患者症状不明显,多数患者
+确诊时已是中晚期,给其家庭和社会带来沉重的负
+担[3]。 中医认为,胃癌是由于饮食劳伤、情志内伤、
+瘀血内阻、热毒内蕴等多种因素综合作用而发病,病
+位在胃,病理因素主要有痰、瘀、毒。 扶正培本是中医
+治病的基本原则。 对于肿瘤患者,扶正培本是指通过
+扶助补益与调节肿瘤患者的阴阳气血,改善肿瘤患者
+“虚证”状态,从而达到防治肿瘤的目的[4]。 人参享
+有“百草之王,百药之长” 的美誉,在我国用药频率
+高[5],治疗的病种范围广,是我国珍贵的中药之一。
+人参为大补元气、扶正补益之药,对胃癌晚期患者大
+有裨益。 有研究显示,人参含有的人参皂苷等化合物
+对胃癌细胞的增殖有抑制作用[6 - 7]。 还有研究显示,
+人参皂苷 Rh2 联合阿霉素能够提高人胃癌阿霉素耐
+药性细胞 SGC7901 的化疗敏感性,可通过阻滞细胞
+周期、促进细胞凋亡,进而抑制肿瘤细胞的增殖[8]。
+但人参防治胃癌的机制可能是多成分通过多靶点、多
+通路调控细胞周期、促进细胞凋亡。 本研究运用网络
+药理学方法结合分子对接技术探讨人参治疗胃癌的
+作用机制,以期为传统中药人参在胃癌治疗中的临床
+应用提供理论依据。
+1　 资料与方法
+1. 1　 人参有效化学成分及其相应作用靶点的筛选　
+利用中药系统药理学数据库与分析平台(Traditional
+Chinese Medicine Systems Pharmacology Database and
+Analysis Platform,TCMSP;http:/ / tcmspw. com/ tcmsp.
+php) 检 索 “ 人 参” 的 化 学 成 分, 并 设 置 药 物 相 似
+性(drug-likeness,DL) ≥0. 18、口服生物利用度( oral
+bioavailability,OB)≥15% 为有效化学成分的筛选标
+准。 将符合条件的有效化学成分输入 TCMSP,得到
+有效化学成分的相应作用靶点,剔除尚未明确相应作
+用靶 点 的 有 效 化 学 成 分。 将 限 定 物 种 设 置 为 人
+类[9],再利用 UniProt 数据库( https:/ / www. uniprot.
+org / )将靶点名称转换为标准基因名,根据对应靶点
+数目由多到少、OB 由高到低、DL 由高到低将有效化
+学成分进行综合排序,以排名前 5 的有效化学成分作
+为人参主要有效化学成分。
+1.2 　
+胃 癌 相 关 靶 点 的 筛 选 　
+以 “ gastric cancer”
+“gastric carcinoma”为关键词,分别在 GeneCards■ 数
+据库(https:/ / www. genecards. org / )、DRUGBANK 数
+据库 ( https:/ / go. drugbank. com/ )、 OMIM ■ 数 据
+库(https:/ / www. omim. org / ) 检索胃癌相关靶点,检
+索时间为建库至 2021 年 10 月,以 Relevance score > 9
+为标准对 GeneCards■ 数据库检索到的靶点进行进一
+步筛选,再将 3 个数据库得到的靶点导入 Microsoft
+Excel 表格中进行格式调整、标准基因名转换等标准
+化处理,删除重复的靶点,获得胃癌相关靶点,利用
+UniProt 数据库将靶点名称转换为标准基因名。
+1. 3　 “人参-成分-靶点” 网络构建　
+将人参的有效
+化学成分及其相应作用靶点导入 Cytoscape 3. 7. 2
+(https:/ / cytoscape. org / download. html) 中, 并 利 用
+Network Analyzer 插件的 Merge 功能绘制成“人参-成
+797
+广西医学　 2023 年 4 月第 45 卷第 7 期
+分-靶点” 网 络。 运 用 Venny 2. 1. 0 软 件 ( http:/ /
+www. bioinformatics. com. cn / ) 绘制韦恩图,从而获取
+人参有效化学成分作用靶点、胃癌相关靶点的共有靶
+点(即交集靶点)。
+1.4　 蛋白-蛋白相互作用网络的构建　 将交集靶点上传
+至 STRING 11.0 数据库(https:/ / string-db. org/ ),将置信
+度设置为 >0.400,获取蛋白-蛋白相互作用(protein-protein
+interaction,PPI)网络,并保存为 TSV 格式文件。 将该
+PPI 网络导入 Cytoscape 3. 7. 2 进行可视化处理及网络
+拓扑学分析,根据介数中心性(betweenness centrality,
+BC)、接近中心性(closeness centrality,CC)、度值等拓
+扑参数筛选核心靶点,根据筛选结果构建核心靶点的
+PPI 网络图。
+1. 5　 功能富集分析与通路富集分析　 为进一步探究
+人参治疗胃癌所涉及的生物过程、分子功能、细胞组
+分及信号通路,将交集靶点上传至 Metascape 平台
+(http:/ / metascape. org / ),限定物种设置为人类[9],进
+行基因本体论(Gene Ontology,GO) 功能富集分析和
+京都基因与基因组百科全书( Kyoto Encyclopedia of
+Genes and Genomes, KEGG) 通 路 富 集 分 析。 根 据
+Benjamini-Hochberg 校正法,设定 P <0. 01,根据 - lg P 值
+由大到小对富集分析结果进行排序,筛选出排名前
+20 的生物过程、细胞组分、分子功能和信号通路。 同
+时将人参有效化学成分、交集靶点、KEGG 通路富集
+分析数据导入 Cytoscape 3. 7. 2 进行可视化处理,绘
+制“人参成分-交集靶点-通路”网络图。
+1. 6　 分子对接　
+在 TCMSP 数据库下载人参的主要
+有效化学成分的结构并保存为 MOL2 格式;参考文
+献[10 - 13],选取与胃癌相关性较高的核心靶点,在
+PDB 数据库(http:/ / www. rcsb. org / )下载这些核心靶
+点的 RCSB PDB 格式数据文件;借助 AutoDock Tools
+软件对主要有效化学成分和上述核心靶点的结构进
+行去水、加氢、计算电荷等处理,然后对两者进行分子
+对接分析。 当结合能 < 0 kcal/ mol 时,配体即可自发
+与受体结合,当结合能 < - 4. 0 kcal/ mol 时,说明受
+体与配体结合良好。
+2　 结　 果
+2. 1　 人参有效化学成分及其相应作用靶点的筛选结
+果　 通过 TCMSP 数据库初步获取人参的化学成分共
+190 个,以 DL≥0. 18、OB≥15% 为标准筛选得到人参
+的有效化学成分 58 个,剔除未找到相应作用靶点的
+化学成分后获得人参有效化学成分共 24 个,根据靶
+点数目由多到少、OB 由高到低、DL 由高到低进行综
+合排序后得到的主要有效化学成分为人参皂苷 Rh2、
+人参皂苷 Rh4、山柰酚、β-谷甾醇、豆甾醇,基本信息
+见表 1。 应用 UniProt 数据库将上述 24 个有效化学
+成分对应的 279 个靶点转化为标准基因名,剔除不符
+合条件的靶点,最终得到作用靶点 117 个。 将人参有
+效化学成分及相应作用靶点导入 Cytoscape 3. 7. 2 软
+件进行可视化处理,得到“人参-成分-靶点” 网络图,
+该网络由 302 条边、142 个节点组成,见图 1。
+表 1　 人参有效化学成分基本信息表
+化合物 ID
+化合物名称
+OB 值(% )
+DL 值
+MOL005308
+阳极胺(aposiopolamine)
+66. 646 907 13
+0. 219 99
+MOL005321
+灌木远志酮 A(frutinone A)
+65. 903 730 70
+0. 341 84
+MOL003648
+高丽槐素(inermin)
+65. 830 931 45
+0. 537 54
+MOL005356
+吉九里香碱(girinimbin)
+61. 215 302 51
+0. 314 84
+MOL000787
+原藜芦碱(fumarine)
+59. 262 504 58
+0. 826 94
+MOL005384
+苏奇拉内酯(suchilactone)
+57. 518 824 25
+0. 555 73
+MOL005320
+花生四烯酸(arachidonate)
+45. 573 249 91
+0. 204 91
+MOL000449
+豆甾醇(stigmasterol)
+43. 829 851 58
+0. 756 65
+MOL002879
+邻苯二甲酸二异辛酯(diop)
+43. 593 325 47
+0. 392 47
+MOL000422
+山柰酚(kaempferol)
+41. 882 249 54
+0. 240 66
+MOL005318
+石竹胺(dianthramine)
+40. 446 411 87
+0. 196 76
+MOL005317
+去氧哈林通碱(deoxyharringtonine)
+39. 274 439 88
+0. 811 60
+MOL000358
+β-谷甾醇(beta-sitosterol)
+36. 913 905 83
+0. 751 23
+MOL005399
+西托糖苷(alexandrin_qt)
+36. 913 905 83
+0. 752 68
+MOL005344
+人参皂苷 Rh2(ginsenoside Rh2)
+36. 319 511 62
+0. 558 68
+MOL005376
+人参二醇(panaxadiol)
+33. 087 960 60
+0. 794 04
+MOL005348
+人参皂苷 Rh4(ginsenoside-Rh4_qt)
+31. 112 148 28
+0. 778 29
+MOL005285
+20(s)-原人参二醇[20(s)-protopanaxadiol]
+29. 692 037 47
+0. 771 48
+MOL005386
+普通菌素(vulgarin)
+29. 211 240 48
+0. 197 40
+MOL005305
+泽兰黄酮(nepetin)
+26. 750 382 73
+0. 308 35
+MOL001965
+蝙蝠葛碱(8CI)[dauricine(8CI)]
+23. 650 482 21
+0. 369 75
+MOL011400
+人参皂苷 Rf(ginsenoside Rf)
+17. 741 077 78
+0. 241 46
+MOL007500
+人参三醇(panaxatriol)
+15. 419 844 71
+0. 793 24
+MOL005304
+7α-L-鼠李糖-6-甲氧基酮(7alpha-L-rhamnosyl-6-methoxylutcolin)
+15. 029 689 20
+0. 786 79
+798
+Guangxi Medical Journal, Apr. 2023, Vol. 45, No. 7
+图 1　 “人参-成分-靶点”网络
+　 　 注:红色圆圈代表人参;黄色圆圈代表人参有效化学成分;蓝色圆
+圈代表人参有效化学成分作用靶点。
+2. 2　
+胃癌相关靶点的筛选结果　
+在 GeneCards■ 数
+据库中获得胃癌相关靶点 1 523 个、在 DRUGBANK
+数据库中获得胃癌相关靶点 75 个、在 OMIM■ 数据
+库中获得胃癌相关靶点 498 个,将 3 个数据库获得的
+相关靶点去重后合并,共获得胃癌相关靶点 1 921 个。
+将 1 921 个胃癌相关靶点与 117 个人参有效化学成
+分的作用靶点取交集,共获得 60 个交集靶点,即人参
+治疗胃癌的相关靶点。 见图 2。
+图 2　 人参有效化学成分作用靶点与胃癌相关靶点的韦恩图
+2. 3 　
+人参治疗胃癌相关靶点的 PPI 网络 　
+利用
+STRING 11. 0 及 Cytoscape 3. 7. 2 构建人参治疗胃癌
+相关靶点的 PPI 网络(见图 3),此网络由 591 条边、
+60 个节点构成,节点平均 BC 值为 0. 662,平均 CC 值
+为 0. 692,平均度值为 19. 7,根据 BC 值、CC 值和度值
+筛选得出 21 个核心靶点,包括 Jun B 原癌基因(Jun B
+proto-oncogene JUN)、蛋白激酶 B ( protein kinase B,
+AKT)1、信号转导和转录激活因子 1(signal transducer
+and activator of transcription,STAT1)、基质金属蛋白
+酶 9、Caspase-3、白细胞介素(interleukin,IL)-1β、过氧
+化物酶体增殖物激活受体、前列腺素内过氧化物合
+酶 2(prostaglandin-endoperoxide synthase 2, PTGS2 )、
+肿瘤坏死因子(tumor necrosis factor,TNF)、丝裂原活
+化蛋白激酶(mitogen-activated protein kinase,MAPK)8
+等,见表 2。 构建核心靶点的 PPI 网络,该网络由 187
+条边、21 个节点组成,见图 4。
+图 3　 人参治疗胃癌相关靶点的 PPI 网络
+表 2　 拓扑学分析结果
+靶点名称
+BC 值
+CC 值
+度值
+JUN
+0. 055 160 24
+0. 776 315 79
+42
+STAT1
+0. 013 325 16
+0. 655 555 56
+28
+AKT1
+0. 099 249 25
+0. 819 444 44
+46
+热休克蛋白 90α
+0. 022 605 23
+0. 662 921 35
+29
+一氧化氮合酶 3
+0. 019 462 3
+0. 641 304 35
+26
+基质金属蛋白酶 9
+0. 042 726 03
+0. 719 512 2
+36
+细胞间黏附分子
+0. 006 786 06
+0. 662 921 35
+29
+Caspase-3
+0. 033 028 93
+0. 737 5
+38
+RELA 原癌基因
+0. 013 341 45
+0. 686 046 51
+32
+IL-1β
+0. 025 452 68
+0. 710 843 37
+35
+芳香烃受体
+0. 023 516 16
+0. 641 304 35
+26
+过氧化物酶体增殖物激活受体
+0. 027 974 91
+0. 678 160 92
+31
+血红素加氧酶 1
+0. 026 541 22
+0. 670 454 55
+30
+基质金属蛋白酶 26
+0. 010 541 98
+0. 662 921 35
+29
+IL-4
+0. 006 344 49
+0. 655 555 56
+28
+PTGS2
+0. 031 942 03
+0. 746 835 44
+39
+Caspase-8
+0. 007 266 05
+0. 634 408 6
+25
+TNF
+0. 064 990 32
+0. 776 315 79
+42
+γ 干扰素
+0. 002 212 23
+0. 627 659 57
+25
+雄激素受体
+0. 022 356 4
+0. 634 408 6
+25
+MAPK8
+0. 029 054 55
+0. 728 395 06
+37
+799
+广西医学　 2023 年 4 月第 45 卷第 7 期
+图 4　 核心靶点的 PPI 网络
+2. 4　 交集靶点的 GO 功能富集分析和 KEGG 通路富
+集分析结果　 将 60 个交集靶点上传至 Matescape 平台
+进行 GO 功能富集分析(P < 0. 01),得到 1 211 个生物
+过程、32 种细胞组分、88 种分子功能,以 - lg P 值排
+名前 20 的条目建立气泡图,见图 5。 其中,生物过程
+条目以凋亡信号通路、活性氧的代谢过程、对脂多糖
+的反应、炎症反应、上皮细胞迁移等为主;细胞组分条
+目以薄膜筏、膜微区、等离子膜筏、细胞质核周区、细
+胞外基质、外部封装结构等为主;分子功能条目以蛋
+白质结构域特异性结合、蛋白质同源二聚化活性、
+DNA 结合转录因子结合、半胱氨酸型内肽酶活性、激
+酶结合等为主。
+将 60 个交集靶点上传至 Matescape 平台进行
+KEGG 通路富集分析(P < 0. 01),得到 247 条信号通
+路, - lg P 值排名前 20 的主要信号通路包括癌症相
+关通路、流体剪切应力与动脉粥样硬化、乙型肝炎、
+IL-17 信 号 通 路、 TNF 信 号 通 路、 磷 脂 酰 肌 醇 3-激
+酶(phosphoinositide 3-kinase,PI3K) / AKT 信号通路、
+MAPK 信号通路等,见表 3 和图 5。 将人参有效化学
+成分、 交 集 靶 点、 KEGG 通 路 富 集 分 析 数 据 导 入
+Cytoscape 3. 7. 2 软件处理得到 “ 人参成 分-交 集靶
+点-通路”网络图,见图 6。
+表 3　 交集靶点的 KEGG 通路富集分析(排名前 20)
+ID
+通路名称
+富集程度
+P 值
+参与基因数(个)
+hsa05200
+癌症相关通路
+0. 416 666 667
+7. 29 × 10 - 31
+25
+ko05418
+流体剪切应力与动脉粥样硬化
+0. 316 666 667
+1. 100 87 × 10 - 29
+19
+hsa05161
+乙型肝炎
+0. 3
+7. 107 83 × 10 - 26
+18
+hsa05169
+EB 病毒感染
+0. 3
+1. 087 87 × 10 - 21
+18
+ko04933
+AGE/ RAGE 信号通路在糖尿病并发症中的作用
+0. 266 666 667
+2. 008 88 × 10 - 26
+16
+ko05145
+弓形体病
+0. 266 666 667
+1. 929 63 × 10 - 25
+16
+hsa05162
+麻疹
+0. 266 666 667
+5. 352 14 × 10 - 23
+16
+ko05164
+甲型流感
+0. 266 666 667
+2. 396 87 × 10 - 22
+16
+ko04657
+IL-17 信号通路
+0. 25
+8. 727 76 × 10 - 25
+15
+ko04668
+TNF 信号通路
+0. 25
+9. 565 82 × 10 - 24
+15
+hsa04932
+非酒精性脂肪肝
+0. 25
+1. 052 95 × 10 - 20
+15
+hsa05160
+丙型肝炎
+0. 233 333 333
+6. 200 46 × 10 - 19
+14
+ko05152
+肺结核
+0. 233 333 333
+1. 409 54 × 10 - 18
+14
+ko04151
+PI3K/ AKT 信号通路
+0. 233 333 333
+1. 219 52 × 10 - 14
+14
+ko05142
+美洲锥虫病
+0. 216 666 667
+3. 749 7 × 10 - 20
+13
+ko04659
+Th17 细胞分化
+0. 216 666 667
+7. 205 87 × 10 - 20
+13
+ko04380
+破骨细胞分化
+0. 2
+6. 459 16 × 10 - 17
+12
+hsa04210
+细胞凋亡
+0. 2
+1. 347 35 × 10 - 16
+12
+hsa04621
+NOD 样受体信号通路
+0. 2
+1. 720 04 × 10 - 15
+12
+hsa04010
+MAPK 信号通路
+0. 2
+2. 231 62 × 10 - 13
+12
+　 　 注:AGE / RAGE 信号通路为晚期糖基化终末产物-糖基化终末产物受体信号通路。
+800
+Guangxi Medical Journal, Apr. 2023, Vol. 45, No. 7
+图 5　 交集靶点的 GO 功能富集分析和 KEGG 通路富集分析结果
+注:圆点大小表示参与基因数,圆点越大,说明基因数越多;颜色深浅代表 - lg P 值的大小,颜色越深,数值越小。
+图 6　 人参成分-交集靶点-通路网络图
+　 　 注:红色圆圈代表人参,黄色圆圈代表人参有效化学成分,绿色圆
+圈代表胃癌,橘色圆圈代表主要 KEGG 通路,蓝色为交集靶点。
+2. 5　
+分子对接结果　
+将人参 5 个主要有效化学成
+分,即人参皂苷 Rh2、人参皂苷 Rh4、山柰酚、β-谷甾
+醇、豆 甾 醇, 分 别 与 核 心 靶 点 AKT1、 JUN、 TNF、
+PTGS2、Caspase-3、MAPK8 进行分子对接验证。 结果
+表明,人参皂苷 Rh2、人参皂苷 Rh4、山柰酚、β-谷甾
+醇、豆甾醇均能与 AKT1、JUN、TNF 结合,其中人参皂
+苷 Rh2、人参皂苷 Rh4、β-谷甾醇、豆甾醇与 AKT1 结
+合良好,人参皂苷 Rh4、山柰酚、β-谷甾醇与 JUN 结合
+良好,人参皂苷 Rh4、山柰酚、β-谷甾醇、豆甾醇与
+TNF 结合良好,但上述化合物均与 PTGS2、Caspase-3、
+MAPK8 未能完成分子对接,结合性较差,见表 4 和图 7。
+表 4　 分子对接结果
+靶点
+化合物
+结合能
+(kcal/ mol)
+AKT1
+人参皂苷 Rh2(ginsenoside Rh2)
+- 4. 20
+AKT1
+人参皂苷 Rh4(ginsenoside-Rh4_qt)
+- 4. 34
+AKT1
+山柰酚(kaempferol)
+- 3. 73
+AKT1
+β-谷甾醇(beta-sitosterol)
+- 4. 04
+AKT1
+豆甾醇(stigmasterol)
+- 4. 28
+JUN
+人参皂苷 Rh2(ginsenoside Rh2)
+- 1. 84
+JUN
+人参皂苷 Rh4(ginsenoside-Rh4_qt)
+- 4. 33
+JUN
+山柰酚(kaempferol)
+- 4. 28
+JUN
+β-谷甾醇(beta-sitosterol)
+- 4. 51
+JUN
+豆甾醇(stigmasterol)
+- 3. 97
+TNF
+人参皂苷 Rh2(ginsenoside Rh2)
+- 2. 77
+TNF
+人参皂苷 Rh4(ginsenoside-Rh4_qt)
+- 4. 78
+TNF
+山柰酚(kaempferol)
+- 4. 12
+TNF
+β-谷甾醇(beta-sitosterol)
+- 5. 23
+TNF
+豆甾醇(stigmasterol)
+- 4. 83
+801
+广西医学　 2023 年 4 月第 45 卷第 7 期
+图 7　 部分分子对接模式图
+3　 讨　 论
+　 　 人参作为大补元气的圣药,在临床上被广泛应用
+于各种疾病的治疗,特别是胃癌等肿瘤的晚期治疗。
+人参含有挥发油类、皂苷、蒽醌、黄酮、脂肪酸、游离氨
+基酸、微量元素等成分[14],其中人参皂苷不仅可以抑
+制癌细胞的增殖、侵袭和迁移,还可以通过促进细胞
+凋亡、阻滞细胞周期和诱导自噬,在多种癌症(如胃
+癌、乳腺癌、脑癌、肝癌和肺癌)中表现出抗癌和抗转
+移的特性[15]。 研究显示,人参皂苷在胃癌的防治中
+发挥了重要作用[5 - 7]。 因此,挖掘人参防治胃癌的作
+用机制对其药用价值的研究具有重要意义。
+本研究通过 TCMSP 筛选得到人参的主要有效化
+学成分有人参皂苷 Rh2、人参皂苷 Rh4、山柰酚、β-谷
+甾醇、豆甾醇等。 其中,人参皂苷 Rh2 为人参皂苷类
+中抗肿瘤功效最好的单体成分[16],其具有抗过敏、调
+节免疫、改善心肌缺血、抗抑郁、抗肿瘤、提高化疗敏
+感性等多种功效[8,17]。 研究表明,人参皂苷 Rh4 可以
+诱导结肠癌细胞凋亡,从而发挥抗肿瘤作用[18]。 山
+柰酚是一种具有良好药理活性的植物黄酮类化合物。
+研究发现, 山柰酚通过上调 miR-181a 表达和抑制
+MAPK/ 细胞外调节蛋白激酶信号通路、PI3K 信号通
+路,可以抑制人胃癌细胞 SNU-216 的增殖,促进细胞
+自噬[19]。 研究显示,β-谷甾醇不仅可促进人外周血
+单个核细胞的增殖,并增强人外周血单个核细胞对胃
+癌细胞 SGC-7901 的杀伤活性,还能抑制胃癌细胞增
+殖并促进其凋亡,其抗癌机制可能与 β-谷甾醇通过抑
+制 PI3K/ AKT/ 哺乳动物雷帕霉素靶蛋白(mammalian
+target of rapamycin,MTOR)信号通路从而诱导细胞自
+噬有关[20 - 21]。 豆甾醇已被证实在多种肿瘤细胞中具
+有潜在的抗癌活性,豆甾醇可通过抑制 AKT/ MTOR
+信号通路来诱导胃癌细胞凋亡和保护性自噬[22]。 这
+些研究证明人参的主要有效化学成分在防治胃癌中
+具有重要作用。
+本研究从 GeneCards■ 、DRUGBANK、OMIM■ 数
+据库获取胃癌相关靶点,进一步筛选得到人参治疗胃癌
+的核心靶点,包括 AKT1、JUN、TNF、PTGS2、Caspase-3、
+MAPK8 等。 AKT1 是 AKT 的亚型之一,参与细胞增
+殖、血管生成、调节代谢等多种过程,推测 AKT1 作为
+AKT 同源基因也可能与胃癌相关。 Wang 等[23] 发现,
+JUN、AKT1 等基因在关木通诱导胃癌的发病过程中
+起关键作用。 研究显示,肿瘤坏死因子诱导蛋白是肿
+瘤促进剂,可以促进幽门螺杆菌的致癌性,诱发胃癌
+发生[24]。 肿瘤相关巨噬细胞通过释放 IL-6 和 TNF-α
+等炎性因子,诱导程序性细胞死亡蛋白配体 1 的表
+达,进而促进胃癌细胞的增殖[10]。 这些研究表明
+AKT1、JUN、TNF 在胃癌的发生和发展中发挥了重要
+作用。
+GO 功能富集分析结果显示,人参治疗胃癌的相
+关靶点主要涉及细胞薄膜筏、细胞质核周区、细胞外
+基质等细胞组分,以及蛋白质同源二聚化活性、DNA
+结合转录因子结合、半胱氨酸型内肽酶活性等分子功
+能,这些靶点可通过细胞凋亡、活性氧的代谢过程、对
+脂多糖的反应、炎症反应、上皮细胞迁移等生物过程
+来发挥治疗胃癌的作用。 KEGG 通路富集分析结果
+显示,人参治疗胃癌涉及的主要信号通路包括癌症相
+关通路、流体剪切应力与动脉粥样硬化、IL-17 信号通
+路、乙型肝炎、TNF 信号通路、PI3K/ AKT 信号通路、
+MAPK 信号通路等。 研究显示,人参皂苷通过激活活
+性氧介导的 MAPK 信号通路诱导胃癌细胞发生周期
+阻滞、凋亡和自噬,从而有效地抑制胃癌细胞的生
+长[25]。 另有研究表明,人参抗胃癌的作用可能是通
+过调控表皮生长因子受体、MAPK1、MAPK3 和 IL-6
+等相关信号通路来实现[26]。 人参皂苷还可通过阻断
+PI3K/ AKT 信号通路来抑制钙调蛋白的表达,进而促
+进胃癌细胞 BGC-823 的凋亡[27]。 这些研究均证实人
+参治疗胃癌与 PI3K/ AKT 信号通路密切相关,且与
+MAPK 信号通路也可能存在一定的关联,这与 KEGG
+富集分析结果一致。 分子对接结果表明,人参的大部
+分主要有效化学成分与胃癌核心靶点 AKT1、JUN、
+TNF 有较好的结合性,说明 AKT1、JUN、TNF 可能是
+人参治疗胃癌的重要靶点。
+综上所述,人参治疗胃癌是一个涉及多成分、多
+靶点、多通路、多环节的复杂过程,其主要有效化学成
+802
+Guangxi Medical Journal, Apr. 2023, Vol. 45, No. 7
+分人参皂苷 Rh2、人参皂苷 Rh4、山柰酚、β-谷甾醇、
+豆甾醇通过作用于 AKT1、JUN、TNF 等核心靶点,主
+要在薄膜筏、细胞质核周区、细胞外基质中参与细胞
+凋亡、活性氧的代谢过程、炎症反应等进程,作用于
+PI3K/ AKT 信号通路、TNF 信号通路、MAPK 信号通路
+等关键信号通路,从而发挥治疗胃癌的作用。 这一结
+论可为进一步挖掘人参的有效化学成分及其作用靶
+点并开展实验研究奠定了基础,也为从人参中提取有
+效化学成分治疗胃癌提供了参考依据。
+参　 考　 文　 献
+[1]　 Smyth EC,Nilsson M,Grabsch HI,et al. Gastric cancer[J].
+Lancet,2020,396(10251):635 - 648.
+[2]　 Wold Health Organization. Latest global cancer data:cancer
+burden rises to 19. 3 million new cases and 10. 0 million
+cancer deaths in 2020[EB/ OL]. [2023-01-10]. https:/ /
+www. iarc. who. int/ fr/ news-events/ latest global-cancer-data-
+cancer-burden-rises-to-19-3-million-new-casesand-10-0-million-
+cancer-deaths-in-2020/ .
+[3]　
+白日兰. 免疫治疗联合化疗在胃癌治疗中的研究进
+展[J]. 中国肿瘤生物治疗杂志,2019,26(6):700 - 704.
+[4]　
+郑红刚,花宝金,朴炳奎. 肿瘤扶正培本思想源流概
+述[J]. 中医杂志,2015,56(15):1269 - 1272.
+[5]　 李　 雪,时圣明,赵余庆. 人参及其皂苷和人参方剂防治
+病毒 性 疾 病 的 研 究 进 展 [ J]. 中 草 药,2020,51 (9):
+2379 - 2389.
+[6]　 赵翔宇,何振宇,宰守峰. 人参皂苷 Rg5 对胃癌细胞周
+期和侵袭的影响及其机制[J]. 中国应用生理学杂志,
+2020,36(1):51 - 55.
+[7]　 唐　 立,徐惠亮,郝双影. 人参皂苷 Rg3 调控 lncRNA-LINP1
+抑制胃癌细胞生长的作用机制[J]. 医学研究生学报,
+2020,33(11):1157 - 1160.
+[8]　 胡双双,闫克敏,王娇娇,等. 人参皂苷 Rh2 对胃癌细胞
+SGC7901 / ADR 耐药敏感性的影响[ J]. 中草药,2018,
+49(17):4113 - 4117.
+[9]　 卢　 鑫,张馨月,林逸婷,等. 基于网络药理学-分子对接探
+讨四逆散“异病同治”溃疡性结肠炎和肠易激综合征的作
+用机制[J]. 中药药理与临床,2022,38(4):167 - 173.
+[10] Ju XL,Zhang H,Zhou ZD,et al. Tumor-associated macrophages
+induce PD-L1 expression in gastric cancer cells through IL-6
+and TNF-ɑ signaling [ J]. Exp Cell Res,2020,396 (2):
+112315.
+[11] Low JT,Christie M,Ernst M,et al. Loss of NFKB1 results in
+expression of tumor necrosis factor and activation of signal
+transducer and activator of transcription 1 to promote gastric
+tumorigenesis in mice[J]. Gastroenterology,2020,159(4):
+1444 - 1458. e15.
+[12] Sun ZW,Gao XY,Zabkiewicz C,et al. Noggin is associated
+with a poor prognosis of gastric cancer by promoting the
+proliferation of gastric cancer cells via the upregulation of
+EGFR[J]. Int J Oncol,2020,57(3):813 - 824.
+[13] 姜明东,梁　 博,刘泓键,等. X-连锁性外胚层发育不良
+受体调控 c-Jun 氨基末端激酶信号通路抑制前列腺癌
+细胞增殖、迁移并诱导细胞凋亡[J]. 中华实验外科杂
+志,2022,39(6):1071.
+[14] 邵 　
+莉,王 　
+锦,罗 　
+伟,等. 刺人参的 化 学 成 分 研
+究[J]. 中药材,2017,40(10):2331 - 2334.
+[15] Hong H, Baatar D, Hwang SG. Anticancer activities of
+ginsenosides,the main active components of ginseng[ J].
+Evid Based Complement Alternat Med,2021,2021:8858006.
+[16] Kim JH,Choi JS. Effect of ginsenoside Rh-2 via activation
+of caspase-3 and Bcl-2-insensitive pathway in ovarian cancer
+cells[J]. Physiol Res,2016,65(6):1031 - 1037.
+[17] 徐　 文,曹　
+辉,杨远荣. 人参皂苷 Rh2 的药理活性研
+究进展[J]. 中国医药导报,2017,14(28):42 - 45.
+[18] 吴　 倩. 人参皂苷 Rh4 抗结肠癌作用及机制研究[D].
+西安:西北大学,2018.
+[19] Zhang F, Ma CM. Kaempferol suppresses human gastric
+cancer SNU-216 cell proliferation,promotes cell autophagy,
+but has no influence on cell apoptosis[J]. Braz J Med Biol
+Res,2019,52(2):e7843.
+[20] 王　 娟,刘军权,陈复兴,等. β-谷甾醇对人共刺激细胞
+杀伤胃癌 SGC-7901 细胞的影响及其机制的探讨[J].
+免疫学杂志,2014,30(7):578 - 584.
+[21] 孙玉成,刘晓巍,片光哲. β-谷甾醇诱导人胃癌细胞自噬
+与凋亡的作用及机制研究[ J]. 中国医师杂志,2019,
+21(6):866 - 871.
+[22] Zhao H,Zhang X,Wang M,et al. Stigmasterol simultaneously
+induces apoptosis and protective autophagy by inhibiting
+Akt/ mTOR pathway in gastric cancer cells [ J ]. Front
+Oncol,2021,11:629008.
+[23] Wang L,Li C, Tian J, et al. Genome-wide transcriptional
+analysis
+of
+Aristolochia
+manshuriensis
+induced
+gastric
+carcinoma[J]. Pharm Biol,2020,58(1):98 - 106.
+[24] Suganuma M,Watanabe T,Sueoka E,et al. Role of TNF-α-
+inducing protein secreted by Helicobacter pylori as a tumor
+promoter in gastric cancer and emerging preventive strategies[J].
+Toxins(Basel),2021,13(3):181.
+[25] 刘彦楠. 人参皂苷 Rg5 的制备及其抗胃癌和乳腺癌活性
+研究[D]. 西安:西北大学,2019.
+[26] 基于网络药理学探讨人参挥发性成分治疗胃癌的作用
+机制研究[D]. 南京:南京中医药大学,2022.
+[27] 石燕燕,李树才,孙　
+军. 人参皂苷 Rg3 通过 PI3K/ AKT
+信号系统调控 CaM 基因表达促进胃癌 BGC-823 细胞的凋
+亡[J]. 中国肿瘤生物治疗杂志,2018,25(6):590 - 594.
+(收稿日期:2023-01-12　 修回日期:2023-03-16)
+803
+广西医学　 2023 年 4 月第 45 卷第 7 期

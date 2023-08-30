@@ -1,0 +1,371 @@
+Tianjin Med J, July 2016, Vol. 44 No. 7
+抑郁症大鼠海马-杏仁核 pMAP-2 表达改变及人参皂苷
+Rb1 的干预作用
+刘继刚
+1，袁杨
+2，臧蔚
+2，刘昊
+2△
+摘要：目的
+观察人参皂苷 Rb1 对抑郁大鼠海马-杏仁核组织磷酸化微管相关蛋白-2（pMAP-2）的影响。方
+法
+将 30 只健康 SPF 级成年雄性 Wistar 大鼠随机均分为对照组、模型组和治疗组。采用慢性不可预见性温和应激
+（CUMS）结合孤养建立抑郁症大鼠模型（模型组），治疗组在造模的同时灌胃给予人参皂苷 Rb1（药液含原生药 1 g/mL，
+剂量 1 mL/100 g 体质量，1 次/d）；对照组除每天抓取 1 次外，不作其他处理，持续 22 d。采用 Western blot 法检测海
+马、杏仁核组织微管相关蛋白-2（MAP-2）及 pMAP-2 蛋白表达，Real-time PCR 检测 pMAP-2 mRNA 表达。结果
+模型组大鼠海马和杏仁核组织 pMAP-2 蛋白和 mRNA 表达水平以及 pMAP-2/MAP-2 比值均明显低于对照组（均
+P < 0.05），治疗组 pMAP-2 蛋白和 mRNA 表达水平以及 pMAP-2/MAP-2 比值较模型组明显升高，但仍低于对照组
+（均 P < 0.05）。结论
+人参皂苷 Rb1 可能通过抑制 MAP-2 磷酸化水平来发挥抗抑郁作用。
+关键词：人参皂苷；抑郁症；海马；杏仁核；微管相关蛋白；磷酸化微管相关蛋白-2
+中图分类号：R285.5
+文献标志码：A
+DOI：10.11958/20150266
+The change of phosphorylated MAP-2 in hippocampus/amygdala and the influence of
+ginsenoside Rb1 on it in depressive rat model
+LIU Jigang
+1, YUAN Yang
+2, ZANG Yu
+2, LIU Hao
+2△
+1 Department of Stomatology, Zunhua Peolple’s Hospital, Zunhua 064200;
+2 Department of Neurology, Affiliated Hospital of North China University of Science and Technology
+△Corresponding Author
+E-mail:liuhao938@163.com
+Abstract: Objective
+To observe effects of ginsenoside Rb1 on phosphorylation of microtubule-associated protein 2
+(pMAP- 2) in hippocampus and amygdala of depressive model rats. Methods
+Thirty male Wistar rats were randomly
+divided into control group, model group and treatment group. The depression rat model was produced by giving chronic
+unpredicted mild stress (CUMS). Treatment group was given daily intragastric administration of ginsenoside RB1 (1 g/mL
+crude drug, 1 mL/100 g body weight) for 22 days during modeling. Western blot assay was used to detect expressions of
+MAP-2 and pMAP-2 protein, and real-time PCR was used to detect expressions of pMAP-2 mRNA respectively. Results
+The expressions of pMAP-2 protein and mRNA in hippocampus and amygdala were significantly lower in model group than
+those of control group (P < 0.05). The expressions of pMAP-2 protein and mRNA were significantly higher in treatment
+group than those of model group (P < 0.05). Conclusion
+Ginsenoside Rb1 can play anti-depression role by inhibiting the
+phosphorylation of MAP-2 in rats.
+Key words: Ginsenoside; depressive disorder; hippocampus; amygdala; microtubule-associated proteins; pMAP-2
+基金项目：国家自然科学基金资助项目（81201048）
+作者单位：1遵化市人民医院口腔科（邮编064200）；2华北理工大学附属医院神经内科
+作者简介：刘继刚（1962），男，主治医师，主要从事应激性疾病发生机制研究
+△通讯作者
+E-mail:liuhao938@163.com
+随着生活压力增大和应激事件的不断增多，抑
+郁症（depression）等精神性疾病的发病率呈现增高
+趋势
+［1］。反复的应激是导致抑郁症发生的根本原
+因，但抑郁症的具体发病机制尚未明确。研究发
+现，抑郁症患者海马、杏仁核等部位存在体积缩小
+的现象
+［2-3］，这可能与这些部位细胞骨架相关蛋白
+磷酸化有关
+［4］。人参是我国传统名贵药材，具有补
+气、安神、生津、益智等作用。研究表明，人参皂苷
+（Ginsenoside）活性成分 Rb1 具有明显的抗抑郁作
+用
+［5-6］，但其具体作用机制尚未明确。本研究通过
+建立应激性抑郁症大鼠模型，观察人参皂苷 Rb1 对
+大鼠海马、杏仁核磷酸化微管相关蛋白-2（pMAP-
+2）的影响，以探讨人参皂苷 Rb1 抗抑郁症的可能
+机制。
+实验研究
+846
+天津医药2016年7月第44卷第7期
+1
+材料与方法
+1.1
+动物与试剂
+健康 SPF 级成年雄性 Wistar 大鼠 30 只，
+体质量 180~210 g，实验动物合格证号：SCXK 京 2009-0004，
+由华北理工大学实验动物中心提供。适应性饲养 1 周后用
+于实验。兔微管相关蛋白-2（MAP-2）多克隆抗体和兔
+pMAP-2 多克隆抗体购自 Santz Cruz 公司，Western blot 相关
+试剂购自武汉博士德生物工程有限公司，Real-time PCR 试
+剂盒购自 TaKaRa 公司。人参皂苷 Rb1 购自中国药品生物
+制品检定所。其他试剂为国产分析纯。
+1.2
+实验分组和抑郁症模型的建立
+适应性饲养结束后，采
+用随机数字表法将大鼠分为对照组、模型组和治疗组，每组
+10 只。采用慢性不可预见性温和应激（CUMS）结合孤养的
+方法建立抑郁症模型大鼠，应激包括夹尾 1 min、黑白颠倒、
+天敌声音 3 min、冰水强迫游泳 15 min、热水强迫游泳 15
+min、潮湿垫料、鼠笼倾斜等 11 种。每天给予 1 种应激，造模
+共持续 22 d，具体方法参见文献［3］。治疗组大鼠在造模同
+时通过灌胃给予人参皂苷 Rb1，每日 1 次（药液含原生药 1 g/
+mL，剂量：1 mL/100 g 体质量）。对照组除每天抓取 1 次外，
+不作其他处理。
+1.3
+Western blot 检测海马、杏仁核 MAP-2 和 pMAP-2 蛋白
+表达
+每组各取 5 只大鼠，麻醉后断头取脑，冰上快速分离
+海马和杏仁核，加适量 RIPA 裂解液完全裂解后，4 ℃ 12 000
+r/min 离心 10 min，收集上清液。考马斯亮蓝法测定蛋白浓
+度，按照 40 μg 蛋白量上样，进行 10%SDS-PAGE 电泳，2 h
+后 PVDF 膜电转印（180 mA，1.5 h），5%牛血清白蛋白室温封
+闭 1 h，PBST 漂洗后，加 MAP-2 一抗（1∶500），4 ℃孵育过夜，
+加辣根过氧化物酶标记的二抗 IgG（1∶2 000）37 ℃孵育 1 h，
+ECL 显色。同上述方法进行 pMAP-2 和内参照β-actin 的
+Westen blot 分析。以目的条带与内参照的光密度比值表示
+蛋白表达。
+1.4
+Real-time PCR 检测 pMAP-2 mRNA 表达
+每组各取 5
+只大鼠，麻醉后断头取脑，在冰上快速分离海马和杏仁核组
+织，提取总 RNA。定量后取 1 μg RNA，按照试剂盒说明
+书 进 行 反 转 录 和 PCR 扩 增 。 引 物 序 列 ：正 义 5′-
+TGGCTTTCTCATCTCCATCC-3′，反义 5′-CTCACTGCCCCAT
+TAGTGC-3′，产物大小 357 bp。PCR 扩增条件：94 ℃ 4 min；
+94 ℃ 30 s，55 ℃ 30 s，72 ℃ 25 s，35 个循环；72 ℃ 10 min。按
+照公式△Ct=Ct（目的基因）-Ct（管家基因）、△△Ct=△Ct（实
+验组）-△Ct（对照组）计算 2
+-△△C t（pMAP-2 mRNA 水平）。
+1.5
+统计学方法
+应用 SPSS 17.0 软件进行统计分析，计量
+资料以x±s表示，多组间比较采用单因素方差分析，组间多重
+比较采用 LSD-t 检验，检验水准α= 0.05。
+2
+结果
+2.1
+海马、杏仁核组织中 MAP-2 和 pMAP-2 蛋白
+表达水平
+模型组海马和杏仁核组织 pMAP-2 蛋白
+和 pMAP-2/MAP-2 比值均明显低于对照组，治疗组
+较模型组升高，但仍低于对照组（均 P＜0.05），见图
+1、表 1。
+2.2
+大鼠海马、杏仁核组织中 pMAP-2 mRNA 的表
+达
+模型组大鼠海马和杏仁核 pMAP-2 mRNA 相对
+表达量均明显低于对照组，治疗组较模型组升高，但
+仍低于对照组（均 P＜0.05），见表 2。
+3
+讨论
+抑郁症发病机制及治疗研究成为当前研究的热
+点内容
+［7］。由于受到伦理学限制，对抑郁症的基础
+研究往往通过建立抑郁症动物模型进行，CUMS 能
+模仿人类生活中遭遇的各种应激。研究表明，CUMS
+应激大鼠能较好地表现出抑郁症的核心临床症状，
+是被普遍接受的抑郁症大鼠模型
+［8］。有学者对抑郁
+Tab. 1
+Comparison of MAP-2 and pMAP-2 protein expressions in three groups
+表 1
+3 组大鼠海马、杏仁核组织 MAP-2 和 pMAP-2 蛋白表达水平比较
+＊P＜0.05；
+a与对照组比较，
+b与模型组比较，P < 0.05
+（n=5，x±s）
+组别
+对照组
+模型组
+治疗组
+F
+pMAP-2
+海马
+0.94±0.11
+0.18±0.02
+a
+0.43±0.05
+ab
+7.68
+＊
+杏仁核
+1.17±0.09
+0.62±0.07
+a
+1.01±0.06
+ab
+11.35
+＊
+MAP-2
+海马
+1.05±0.12
+1.18±0.20
+a
+0.71±0.08
+ab
+8.77
+＊
+杏仁核
+1.12±0.15
+1.02±0.12
+a
+1.03±0.08
+a
+6.49
+＊
+pMAP-2/MAP-2
+海马
+0.90±0.11
+0.15±0.03
+a
+0.61±0.04
+ab
+14.92
+＊
+杏仁核
+1.04±0.10
+0.61±0.04
+a
+0.98±0.09
+ab
+8.53
+＊
+对照组
+模型组
+治疗组
+MAP-2
+β-actin
+β-actin
+MAP-2
+pMAP-2
+pMAP-2
+海马
+海马
+海马
+杏仁核
+杏仁核
+杏仁核
+Fig.1
+Expressions of pMAP-2 and MAP-2 protein detected by
+Western blot assay
+图 1
+Western blot 检测海马和杏仁核 MAP-2、pMAP-2 蛋白表达
+847
+Tianjin Med J, July 2016, Vol. 44 No. 7
+症患者海马等部位体积减少原因进行研究，结果表
+明这可能与这些部位神经凋亡增强以及神经细胞骨
+架蛋白改变有关
+［4，9-10］。微管相关蛋白（microtubule-
+associated proteins，MAPs）特别是 MAP-2 能调节微
+管的聚合状态，在维持神经元形态和突触可塑性方
+面起主要作用
+［11］。本课题组既往研究表明，抑郁症
+大鼠 pMAP-2 出现先降低后增高的现象
+［9］。本研究
+结果表明，抑郁症大鼠海马和杏仁核组织中的
+pMAP-2 表达均较对照组显著降低，可以推测在抑
+郁症发病过程中，MAP-2 的磷酸化是引起抑郁症患
+者海马、杏仁核体积缩小的一个重要因素。
+祖国传统医学对抑郁症有独到认识。中医认
+为，抑郁症是情志不舒，肝气郁结，渐致五脏不和、化
+火、生痰、瘀阻、耗气、伤阴等而致，多采用疏肝理气
+法对其进行治疗
+［12］。人参是一味名贵中药，具有补
+气、安神、生津、益智等作用。有研究表明，人参的活
+性成分人参皂苷 Rb1 具有明显的抗抑郁作用
+［5-6］；孙
+秀萍等
+［13］研究亦表明，人参总皂苷能明显减轻抑郁
+小鼠行为学症状，但其抗抑郁的具体作用机制仍不
+清楚。本研究结果表明，对抑郁症模型大鼠给予人
+参皂苷 Rb1 干预后，大鼠海马和杏仁核组织 pMAP-
+2 蛋白和 mRNA 相对表达量均明显升高，提示人参
+皂苷 Rb1 可能通过抑制 MAP-2 磷酸化发挥抗抑郁
+作用，其具体机制有待于进一步深入研究。
+参考文献
+［1］Wu ZQ，Wang J，Li ZL，et al. An investigation of mental health
+status for college students［J］. J Psychiatry，2015，28（6）：413-416.
+［吴震卿，王菊，李稚林，等. 在校大学生精神卫生现状研究［J］.
+精神医学杂志，2015，28（6）：413-416］. doi：10.3969/j.issn.2095-
+9346.2015.06.004.
+［2］Colle R，Chupin M，Cury C，et al. Depressed suicide attempters
+have smaller hippocampus than depressed patients without suicide
+attempts［J］. J Psychiatr Res，2015，61（1）：13-18. doi：10.1016/j.
+jpsychires.2014.12.010.
+［3］Wijeratne C，Sachdev S，Wen W，et al. Hippocampal and amygdala
+volume in an older bipolar disorder sample［J］. Int Psychogeriatr，
+2013，25（1）：54-60. doi：10.1017/S1041610212001469.
+［4］Sui ZX. The Research of structural changes and mechanism on
+hippocampal neurons of the depression rats［D］. Hebei：North
+China Unversity of Science and Technology，2015.［隋竹欣. 抑郁
+大鼠海马神经元结构改变及机制研究［D］. 河北：华北理工大
+学，2015］.
+［5］Huang Q，Chu SF，Zhang JT，et al. Effects of Ginsenoside Rg1 on
+anti-
+depression
+and
+synaptic
+ultrastructure ［J］.
+Chinese
+Pharmacological Bulletin，2013，29（8）：1124-1127.［黄倩，楚世
+峰，张均田，等. 人参皂苷 Rg1 的抗抑郁作用及对突触超微结构
+的影响［J］. 中国药理学通报，2013，29（8）：1124-1127］. doi：
+10.3969/j.issn.1001-1978.2013.08.019.
+［6］Liu H，Xu AJ，Qin LJ，et al. Influence of ginsenoside Rb1 on 5-HT
+level and expression of 5- HT1A receptor in hippocampus of
+depressive rats［J］. Lishizhen Medicine and Materia Medica
+Research，2014，25（11）：2565-2567.［刘昊，徐爱军，秦丽娟，等.
+人参皂苷 Rb1 对抑郁症大鼠海马 5-HT 及 5-HT1A 受体表达的
+影 响［J］. 时 珍 国 医 国 药 ，2014，25（11）：2565- 2567］. doi：
+10.3969/j.issn.1008-0805.2014.11.001.
+［7］Duman RS，Kehne JH. Depression［J］. CNS Neurol Disord Drug
+Targets，2007，6（2）：85-86.
+［8］Li Q，Yang D，Wang J，et al. Reduced amount of olfactory receptor
+neurons in the rat model of depression［J］. Neurosci Lett，2015，603
+（1）：48-54. doi：10.1016/j.neulet.2015.07.007.
+［9］Sui ZX，Li Z，Liu H，et al. Investigation on the expression of
+microtubule- associated protein pMAP- 2 and p- Tau in the
+hippocampus of rats with depression［J］. Chinese Journal of
+Neuroanatomy，2015，31（2）：175-180.［隋竹欣，李珍，刘昊，等.
+抑郁大鼠海马微管相关蛋白 pMAP-2 和 p-Tau 表达的研究［J］.
+神经解剖学杂志，2015，31（2）：175-180］. doi：10.11670/1000-
+7547.201502009.
+［10］Tian YX，Wang HT，Li R，et al. Increased apoptosis in amygdala
+neurons of depression model rats［J］. Basic & Clinical Medicine，
+2011，31（8）：879-883.［田艳霞，王海涛，李冉，等. 抑郁模型大
+鼠杏仁核神经元凋亡增加［J］. 基础医学与临床，2011，31（8）：
+879-883］.
+［11］Pereno GL，Beltramino CA. Timed changes of synaptic zinc，
+synaptophysin and MAP2 in medial extended amygdala of epileptic
+animals are suggestive of reactive neuroplasticity［J］. Brain Res，
+2010，1328（1）：130-138. doi：10.1016/j.brainres.2010.01.087.
+［12］Zhou QY，Liu HY. Study of Chinese medicine streat depression
+［J］. Journal of Changchun University of Traditional Chinese
+Medicine，2013，29（1）：88-89.［周庆莹，刘宏岩. 中医治疗抑郁
+症研究［J］. 长春中医药大学学报，2013，29（1）：88-89］.
+［13］Sun XP，Li TF，Shi Z，et al. Study of antidepressant-like effects of
+combination of ginseng total saponins and polygala tenuifolia total
+glycosiders in mice［J］. Chin J Comp Med，2012，22（6）：30-36.
+［孙秀萍，李腾飞，石哲，等. 人参总皂苷和远志总苷配伍对小鼠
+抗抑郁作用［J］. 中国比较医学杂志，2012，22（6）：30-36］. doi：
+10.3969/j.issn.1671.7856.2012.06.008.
+（2015-11-04 收稿
+2016-03-18 修回）
+（本文编辑
+陈丽洁）
+组别
+对照组
+模型组
+治疗组
+F
+海马
+1.00±0.00
+0.38±0.04
+a
+0.75±0.11
+ab
+9.57
+＊＊
+杏仁核
+1.00±0.00
+0.27±0.05
+a
+0.50±0.04
+ab
+7.29
+＊
+Tab. 2
+Result of pMAP-2 mRNA expressions in three groups
+表 2
+3 组大鼠海马、杏仁核组织 pMAP-2 mRNA
+表达水平比较
+＊P＜0.05；
+a与对照组比较，
+b与模型组比较，P < 0.05
+（n=5，x±s）
+848

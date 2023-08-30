@@ -1,0 +1,566 @@
+中国病理生理杂志 Chinese Journal of Pathophysiology 2023， 39（2）：287-296
+杂志网址：  http: 
+/ / 
+www. cjpp. net
+人参皂苷Rg1通过TLR4/MyD88/NF-κB p65
+通路调控小鼠急性肾损伤诱导的
+急性肝损伤的机制研究*
+迟晓晨
+1， 曹瀛心
+1， 包翠芬
+2△， 李婷钰
+1， 阎丽菁
+2△
+（
+1锦州医科大学组织胚胎学教研室，辽宁 锦州 121001；
+2锦州医科大学基础医学实验教学中心，辽宁 锦州 121001）
+[摘
+要] 目的：探讨人参皂苷 Rg1（GRg1）对小鼠急性肾损伤所诱导的急性肝损伤的保护作用及其调控机
+制。方法：昆明小鼠随机分为假手术（sham）组、模型（model）组、GRg1组和 necrostatin-1 （Nec-1）组，每组 10只。制
+备急性肾损伤模型，24 h后收集血液。采用生化试剂盒检测小鼠血清肌酐（SCr）、血尿素氮（BUN）、天冬氨酸转氨酶
+（AST）、谷氨酸转氨酶（ALT）、丙二醛（MDA）和超氧化物歧化酶（SOD）水平。采用 ELISA 法检测炎症因子白细胞介
+素 1β（IL-1β）、IL-6、IL-8 和肿瘤坏死因子 α（TNF-α）的表达。HE 染色观察组织病理学改变，采用免疫组织化学和
+Western blot法检测TLR4、MyD88和NF-κB p65蛋白的表达水平。结果：与假手术组比较，model组小鼠出现明显的
+肝细胞坏死、肝肾功能减退，血清中 SCr、BUN、AST和 ALT均显著升高（P<0. 01），MDA含量显著上升，SOD活性显著
+降低（P<0. 01），且血清中炎症因子 IL-1β、IL-6、IL-8 和 TNF-α 含量显著升高（P<0. 01），TLR4、MyD88 和 NF-κB p65
+蛋白表达显著增高（P<0. 01）；与 model组相比，GRg1和 Nec-1组处理后小鼠肝细胞坏死减轻，肝肾功能显著改善（P
+<0. 01），血清中 SCr、BUN、AST 和 ALT 水平显著降低（P<0. 01），MDA 含量显著降低，SOD 活性显著增高（P<0. 01），
+血清中炎症因子 IL-1β、IL-6、IL-8 和 TNF-α 含量显著降低（P<0. 01），TLR4、MyD88 和 NF-κB p65 蛋白表达显著降低
+（P<0. 01）；GRg1 组和 Nec-1 组小鼠上述指标比较差异无统计学意义。结论：GRg1 可以改善小鼠急性肾损伤所致
+急性肝损伤的肝肾功能，其机制可能与抑制TLR4/MyD88/NF-κB p65信号通路有关。
+[关键词] 人参皂苷Rg1；急性肾损伤；急性肝损伤；TLR4/MyD88/NF-κB p65信号通路
+[中图分类号] R363. 2； R692    [文献标志码] A  
+doi： 10. 3969/j. issn. 1000-4718. 2023. 02. 011
+Mechanism of ginsenoside Rg1 regulating acute hepatic damage induced 
+by acute kidney injury in mice through TLR4/MyD88/NF-κB p65 signaling 
+pathway
+CHI Xiaochen
+1， CAO Yingxin
+1， BAO Cuifen
+2△， LI Tingyu
+1， YAN Lijing
+2△
+（
+1Department of Histology and Embryology， Jinzhou Medical University， Jinzhou 121001， China； 
+2Experimental Teaching Center 
+of Basic Medicine， Jinzhou Medical University， Jinzhou 121001， China.  E-mail： 736466881@qq. com； 3212141299@qq. com）
+[ABSTRACT] 
+AIM： To investigate the protective effect of ginsenoside Rg1 （GRg1） on acute hepatic damage in-
+duced by acute kidney injury in mice and its regulatory mechanism.  METHODS： Kunming mice were randomly divided 
+into sham group， model group， GRg1 group and necrostatin-1 （Nec-1） group， with 10 mice in each group.  The acute kid-
+ney injury model was prepared， and blood was collected after 24 h.  The serum creatinine （SCr）， blood urea nitrogen 
+（BUN）， aspartate aminotransferase （AST）， alanine aminotransferase （ALT）， malondialdehyde （MDA）， and superoxide 
+dismutase （SOD） levels were measured by biochemical kits.  The expression of interleukin-1β （IL-1β）， IL-6， IL-8， and 
+tumor necrosis factor-α（TNF-α） were measured by ELISA.  Histopathological changes were observed by HE staining， the 
+levels of TLR4， MyD88 and NF-κB p65 were detected by immunohistochemistry and Western blot.  RESULTS： Com-
+pared with sham group， the model group showed significant hepatocyte necrosis and hepatorenal function were significantly 
+decreased.  SCr， BUN， AST and ALT were significantly increased （P<0. 01）.  The content of MDA was increased and the 
+[文章编号] 1000-4718（2023）02-0287-10
+   [收稿日期] 2022-01-24   [修回日期] 2022-12-16
+ * [基金项目] 国家自然科学基金资助项目（No.  81774116）；辽宁省教育厅项目（No.  JYTJCZR2020083）
+△通讯作者 包翠芬 Tel： 13941605408； E-mail： 736466881@qq. com； 阎丽菁 Tel： 18704160516； E-mail： 3212141299@qq. com
+·287·
+activity of SOD was decreased dramatically （P<0. 01）， the serum levels of IL-1β， IL-6， IL-8 and TNF-α were remarkably 
+increased （P<0. 01）.  The expressions of TLR4， MyD88 and NF-κB p65 were significantly increased （P<0. 01）.  Com-
+pared with the model group， hepatocyte necrosis was reduced， liver and kidney functions were dramatically improved （P<
+0. 01）， serum levels of SCr， BUN， AST and ALT were decreased significantly （P<0. 01）.  The content of MDA was de-
+creased and the activity of SOD was increased obviously （P<0. 01）.  The contents of inflammatory factors IL-1β， IL-6， IL-
+8， TNF-α were remarkably decreased （P<0. 01）.  The expressions of TLR4， MyD88 and NF-κB p65 were significantly de-
+creased （P<0. 01）.  There was no significant difference in the above indexes between GRg1 group and Nec-1 group.  CON-
+CLUSION： Ginsenoside Rg1 can improve liver and kidney function in mice with acute hepatic damage induced by acute 
+kidney injury， and the mechanisms may be related to the inhibition of the TLR4/MyD88/NF-κB p65 signaling pathway.
+[KEY WORDS] ginsenoside Rg1； acute kidney injury； acute hepatic damage； TLR4/MyD88/NF-κB p65 signaling 
+pathway
+急性肾损伤（acute kidney injury， AKI）多见于原
+位移植、急性缺血性创伤等疾病，尤其是在肾移植、
+肾切除等低灌注类大手术时，发生率极高
+[1]。AKI发
+生后，机体出现毒素积累、酸碱平衡失调、电解质失
+调、氧化应激等一系列炎症级联反应，引起其它脏器
+受累，如急性肝损伤（acute hepatic damage， AHD）
+[2]。
+上述因素可导致肝脏代谢负担加重，促进肝脏细胞
+变性、坏死，炎症渗出物增多，引发AHD。
+炎症反应是维持机体稳态的重要环节。Toll 样
+受体（Toll-like receptor， TLR）是机体固有免疫系统
+重要模式识别受体，可以检测并激活炎症信号通路，
+TLR4 可以通过多种通路发起促炎作用，包括核苷酸
+结合寡聚化结构域样受体蛋白 3（nucleotide-binding 
+oligomerization domain-like receptor protein 3， NLRP3）、
+髓 样 分 化 因 子 88（myeloid differentiation factor 88， 
+MyD88）等
+[3-5]，AKI 发生后，肾组织中 TLR4 表达明显
+增高，促发炎症反应，从而引发一系列的病理改变。
+据目前研究，为了缓解 AKI，提升机体机能，连
+续肾脏替代治疗法能够有效的改善肾脏受损程度，
+但由于治疗程序繁琐也会对其他器官造成副作用，
+有实验研究采用中、西药改善 AKI
+[6-7]，但对于同时能
+够缓解远端器官损伤的药物研究相对较少，人参皂
+苷Rg1（ginsenoside Rg1， GRg1）是传统中草药人参的
+主要活性成分，具有抗凋亡、改善认知功能和保护神
+经系统功能等多种药理作用
+[8-9]。有研究显示，GRg1
+可以通过 TLR4/NF-κB/NLRP3 通路抑制心肌细胞凋
+亡和炎症反应
+[10]，但在肝损伤治疗的机制有待进一
+步研究，本项工作拟通过制备动物模型，并使用
+GRg1 进行干预治疗，以探讨 GRg1 对小鼠 AKI 所诱
+导的AHD的保护作用及其可能的调控机制。
+材
+料
+和
+方
+法
+1 动物
+SPF 级昆明小鼠，雄性 5～6 周，28～32 g，40 只，购
+自锦州医科大学实验动物中心，生产许可证编号为
+SCXY（辽）2019-0003。本实验中使用的所有方案均
+得 到 了 实 验 动 物 伦 理 委 员 会 的 审 核 批 准（No.  
+2018011001）。
+2 主要试剂
+GRg1（吉林大学有机化学教研室）；程序性坏死
+抑制剂 necrostatin-1 （Nec-1）购自 Sigma；血肌酐（se-
+rum creatinine， SCr）、血尿素氮（blood urea nitrogen， 
+BUN）、谷 草 转 氨 酶（aspartate aminotransferase， 
+AST）、谷丙转氨酶（alanine aminotransferase， ALT）、
+超氧化物歧化酶（superoxide dismutase， SOD）和丙二
+醛（malondialdehyde， MDA）检测试剂盒（南京建成生
+物工程研究所）；白细胞介素 1β（interleukin-1β， IL-
+1β）、IL-6、IL-8 和肿瘤坏死因子 α（tumor necrosis fac-
+tor-α， TNF-α）酶联免疫吸附检测试剂盒（上海酶联
+生物科技有限公司）；抗 TLR4 和 NF-κB p65 抗体[艾
+博抗（上海）贸易有限公司]；MyD88 抗体（武汉爱博
+泰克生物科技有限公司）；HRP标记的Ⅱ抗 IgG（北京
+中杉金桥生物技术有限公司）；BCA 蛋白浓度测定试
+剂盒和电化学发光 ECL 显影液（上海碧云天生物技
+术有限公司）。
+3 主要仪器设备
+PowerPacTMHC 电泳仪（Bio-Rad）；MK3 酶标仪
+（Thermo Fisher Labsystems）；VibraCellVcx105 超声粉
+碎机（Sonics）；ST 16R 超速离心机（ThermoFisher）；
+AMERSHAM IMAGER600 凝胶成像系统（日本通用
+电气公司）。
+4 主要方法
+4. 1 动物分组与处理 采用随机数字法将小鼠分
+为 4 组，假手术组（sham 组）、AKI 模型组（model 组）、
+GRg1组和 Necrostatin-1抑制剂组（Nec-1组），每组 10
+只。GRg1 组术后腹腔注射 GRg1（56 mg/kg
+[11]），Nec-
+1组注射 Nec-1（1. 65 mg/kg
+[12]），sham 组和 model组分
+别注射等量生理盐水。
+·288·
+4. 2 动物模型制备 采用 20% 乌拉坦麻醉小鼠，沿
+背正中线剪开皮肤，先于脊柱右侧肌肉开一小口，双
+线结扎法结扎右肾后进行切除，消毒切口并缝合。
+然后于脊柱左侧肌肉开一小口，探寻左侧肾脏，游离
+肾蒂，剥离表面被膜，小心分离肾动静脉，使用无损
+伤动脉夹夹闭肾动脉，计时，观察到肾脏表面颜色逐
+渐加深，由粉红色变为暗红色，肾脏体积明显变大，
+45 min 后，松开动脉夹
+[13]，观察肾脏血流恢复，颜色
+逐渐转为粉红色后，将肾脏回纳腹腔，消毒切口并逐
+层缝合，sham组只游离并剥离肾动静脉，做挑起肾动
+脉的动作，但不夹闭，术后注意动物保暖，正常喂养，
+24 h后灌流取材
+[14]。
+4. 3 标本收集 采集各组小鼠心尖血液，离心力
+1 370 ×g，4 ℃离心 15 min 后，取上清液于-20 ℃冻
+存；取血后小鼠生理盐水灌流，取部分肝组织放入
+10% 中性缓冲福尔马林溶液中固定，用于制备形态
+学标本；其余肝组织置于-80 ℃冻存。
+4. 4 血清肝肾功能指标检测 按照试剂盒说明书
+检测各组小鼠血清SCr、BUN、AST和ALT水平。
+4. 5 氧化应激水平检测 按照试剂盒说明书检测
+各组小鼠血清MDA含量和SOD活性。
+4. 6 ELISA 法检测炎症因子表达 按照试剂盒说
+明书检测各组小鼠血清中 IL-1β、IL-6、IL-8 和 TNF-α
+炎症因子表达，测 450 nm 波长吸光度（A）值，以标准
+品浓度为横坐标，吸光度值为纵坐标，制作标准曲
+线，计算待测样本实际浓度值。
+4. 7 HE 染色观察肝脏损伤程度 将各组固定在
+10% 中性缓冲福尔马林液的标本常规脱水后制备石
+蜡标本。切片后进行 HE染色，光学显微镜下观察肝
+脏病理学改变。
+4. 8 免疫组织化学染色观察肝脏病变位置 TLR4/
+MyD88/NF-κB p65 蛋白表达 将上述制备好的石蜡
+切片，采用 Envision法进行免疫组织化学染色。石蜡
+切片常规脱蜡水合后，置于 pH 6. 0 的柠檬酸缓冲液
+中，于高压锅内修复 2. 5 min。采用 3% H2O2处理以
+灭活内源性过氧化物酶，滴加Ⅰ抗工作液（TLR4 1∶
+500，MyD88 1：500，NF-κB p65 1∶200）4 ℃孵育过夜，
+滴加辣根酶标记的Ⅱ抗多聚体 37 ℃孵育 30 min。每
+步之间采用磷酸盐缓冲液（phosphate buffer saline，
+PBS）进行漂洗。DAB显色，苏木精复染，中性树胶封
+固。采用PBS替代Ⅰ抗作为阴性对照。
+4. 9 Western blot 法检测 TLR4/MyD88/NF-κB p65 蛋
+白表达 小鼠灌流后，将取下的肝脏组织剪碎，放入
+电动匀浆器中匀浆，加入组织裂解液和最终浓度为
+1mmol/L 的 丝 氨 酸 蛋 白 酶 抑 制 剂 苯 甲 基 磺 酰 氟
+（phenylmethanesulfonyl fluoride，PMSF），在冰上裂解
+30 min 后，离心力 16 099 ×g，4 ℃离心 30 min，取上清
+液置于新的 Ep管中，-20 ℃冻存。取少量上清液，以
+BCA 试剂盒进行蛋白定量检测，以最低浓度为标准
+制定样本。SDS-PAGE 后转至聚偏二氟乙烯（polyvi-
+nylidene fluoride，PVDF）膜上，1% 山羊血清封闭 1 h，
+三 乙 醇 胺 缓 冲 盐 水 溶 液（tris buffered saline and 
+tween20，TBST）清 洗 后 加 入 Ⅰ 抗（TLR4 1∶2 000，
+MyD88 1∶2 000，NF-κB p65 1∶2 000）4 ℃摇床过夜，
+TBST洗膜，加入 HRP标记的Ⅱ抗 IgG，室温摇床孵育
+1 h，TBST洗膜，ECL发光显色液显影，以 β-actin为内
+参照，采用ImageJ图像处理分析计算各指标灰度值。
+5 统计学处理
+采用 SPSS 25. 0软件对各组数据进行分析，计数
+资料以均数±标准差（mean±SD）形式表示，多组之间
+数据比较采用单因素方差分析，以 P<0. 05 为差异有
+统计学意义。
+结
+果
+1 GRg1对小鼠肾功能、肝功能和氧化应激的影响
+与 sham组相比，model组小鼠 BUN和 SCr水平显
+著升高（P<0. 01）；与 model 组相比，GRg1 组和 Nec-1
+组 BUN 和 SCr 水平则显著降低（P<0. 01），见图 1A、
+B。与 sham 组相比，model 组小鼠血清 AST 和 ALT 水
+平显著升高（P<0. 01）；与 model 组相比，GRg1 组和
+Nec-1 组 小 鼠 血 清 AST 和 ALT 水 平 显 著 降 低（P<
+0. 01），见图 1C、D。与 sham 组相比，model 组小鼠血
+清 MDA 含量显著升高（P<0. 01），SOD 活性显著降低
+（P<0. 01）；与 model 组相比，GRg1 组和 Nec-1 组小鼠
+血清 MDA 含量显著降低（P<0. 01），SOD 活性显著升
+高（P<0. 01），见图1E、F。
+2 GRg1对小鼠血清炎症因子水平的影响
+与 sham 组相比，model 组小鼠血清 IL-1β、IL-6、
+IL-8和 TNF-α水平显著升高（P<0. 01）；与 model组相
+比，GRg1 组和 Nec-1 组小鼠血清 IL-1β、IL-6、IL-8 和
+TNF-α水平显著降低（P<0. 01），见图2。
+3 GRg1对小鼠肝脏组织病理学改变的影响
+HE染色结果显示，sham 组小鼠肝脏呈现正常组
+织表现；model组肝脏于被膜下及肝小叶均可见明显
+的局灶状坏死，有的肝细胞的细胞质淡染、空泡状为
+脂肪样变性（黑色箭头），有的肝细胞的细胞质呈明
+显的嗜酸样变，与周围细胞着色明显不同，细胞可见
+核固缩（红色箭头）。近血管处有的可见明显的炎症
+细胞浸润（*）；GRg1和 Nec-1组小鼠可见少量肝细胞
+的细胞质呈嗜酸样变，肝损伤细胞数量明显减少，未
+·289·
+见脂肪样变性及明显的炎症细胞浸润，见图3。
+4 GRg1 对 小 鼠 肝 脏 组 织 TLR4/MyD88/NF- κB 
+p65通路蛋白表达的影响
+4. 1 TLR4 表达情况 免疫组化染色显示，sham 组
+仅见少量表达微弱的阳性细胞；model组可见较多的
+肝细胞的细胞质和肝血窦内呈明显的黄色或棕黄色
+阳性表达；GRg1 组和 Nec-1 组的阳性表达细胞数量
+较少，肝细胞的细胞质着色呈淡黄色或黄色，见图 4。
+Western blot 结果显示，与 sham 组相比较，model 组呈
+现明显 TLR4 表达条带，显著高于 sham 组；与 model
+组比较，GRg1组和 Nec-1组的表达条带明显减弱；而
+GRg1组和Nec-1组之间则无显著差异，见图5。
+4. 2 MyD88表达情况 免疫组化染色显示，sham组
+可见肝血窦内有少量呈淡黄色或黄色的阳性细胞；
+model 组可见部分肝血窦以及部分肝细胞的细胞质
+内有黄色、棕黄色或褐色颗粒，为阳性表达细胞；
+GRg1 组和 Nec-1 组的阳性细胞数量较少，且表达细
+胞呈色为淡黄色或黄色，见图 6。Western blot 结果
+显示，model 组呈现明显 MyD88 表达条带，显著高于
+sham 组；与 model 组比较，GRg1 组和 Nec-1 组的表达
+条带明显减弱；而 GRg1 组和 Nec-1 组之间则无显著
+差异，见图7。
+4. 3 NF-κB p65（phospho S536）表 达 情 况 p-NF-
+κB p65（Ser536）为 NF-κB p65 的活化形式。NF-κB 
+p65 被激活后从细胞质移入到细胞核内发挥其转录
+作用，因此主要定位于细胞核。免疫组化染色观察
+sham 组可见少量肝细胞的细胞核呈淡黄色或黄色，
+肝血窦的窦腔内也有少量阳性表达细胞；model组可
+见较多肝细胞的细胞核呈黄色或棕黄色，肝血窦窦
+腔内的阳性表达细胞也较多；而 GRg1 组和 Nec-1 组
+NF-κB p65 活化细胞数量较少，见图 8。Western blot
+结果显示，与 sham 组比较，model 组呈现明显 p-NF-
+κB p65 表达条带，显著高于 Sham 组；与 model 组比
+较 ，GRg1 组 和 Nec-1 组 的 表 达 条 带 明 显 减 弱 ；而
+GRg1组和Nec-1组之间则无显著差异，见图9。
+讨
+论
+1 GRg1对AKI诱导的AHD的保护作用
+AKI 是由各种原因导致的肾功能快速下降，伴
+随一系列连贯的细胞事件发生，包括活性氧释放、凋
+亡、坏死、炎症细胞的浸润和活性介质的释放，导致
+肾组织或其它组织损伤
+[15- 16]。本实验通过阻断肾动
+脉血流 45 min 后复灌 24 h 的方法制备 AKI 模型，结
+果显示，经过缺血再灌注处理的小鼠血清肌酐和尿
+Figure 1.  The BUN level （A）， SCr level （B）， serum AST activity （C）， serum ALT activity （D）， serum MDA content （E） and se-
+rum SOD activity （F） of mice in each group.  Mean±SD.  n=3 in A， B， D and F； n=4 in C and E.  
+**P<0. 01 vs sham group； 
+##P<0. 01 vs model group； 
+△P<0. 05 vs GRg1 group.
+图1 各组小鼠BUN水平、SCr水平、血清AST活性、血清ALT活性、血清MDA含量和血清SOD活性
+·290·
+Figure 2.  IL-1β， IL-6， IL-8， and TNF-α contents of mice in each group.  Mean±SD.  n=4.  
+**P<0. 01 vs control group； 
+##P<0. 01 vs 
+model group.
+图2 各组小鼠血清IL-1β、IL-6、IL-8和TNF-α炎症因子表达水平
+Figure 3.  Pathological changes in the liver of mice in each group （HE staining， scale bar=50 μm）.  The black arrow shows hepatocyte 
+steatosis.  The red arrow shows the eosin ophilic change.  *  shows inflammatory infiltration.
+图3 各组小鼠肝脏病理学改变
+·291·
+素氮的含量显著升高，肾脏形态学病理检测可见部
+分肾小管上皮细胞变性、坏死，肾小管管型形成，有
+的可见脱落细胞，提示小鼠出现 AKI。在此基础上，
+检测小鼠肝脏功能变化，结果显示血清谷草转氨酶
+和谷丙转氨酶含量显著增高。肝脏病理切片观察显
+示，model 组肝脏可见明显的局灶状坏死，部分肝细
+胞胞质淡染甚至空泡状。有的肝细胞胞质呈明显的
+嗜酸样变，与周围细胞明显不同。细胞核有的固缩，
+近血管处有的可见明显的炎性细胞浸润。上述结果
+均提出小鼠出现了 AHD。而经过 GRg1处理后，小鼠
+肝组织的坏死情况明显改善，提示 GRg1对小鼠肝损
+伤具有保护作用。
+Figure 5.  The expression level of TLR4 in the liver of mice in each group.  Mean±SD.  n=4.  
+**P<0. 01 vs sham group； 
+##P<0. 01 vs 
+model group.
+图5 各组小鼠肝脏TLR4的表达水平
+Figure 4.  The expression of TLR4 protein in the liver of mice in each group observed by immunohistochemical staining.  Positive cells 
+are indicated by arrows.
+图4 免疫组织化学染色观察各组小鼠肝脏TLR4蛋白的表达
+·292·
+2 GRg1 通过抑制炎症反应发挥对 AHD 的保护
+作用
+细胞坏死时由于细胞裂解释放出内含物，经常
+引发炎症反应。炎症因子作为炎症微环境的关键组
+成部分，在 AHD过程中也发挥着关键作用。包括 IL-
+1β、IL-6、IL-8和 TNF-α 等
+[17]。IL-1β 和 TNF-α 是重要
+的炎症因子，参与炎症反应、细胞凋亡、氧化应激等，
+具有强烈的促炎活性
+[15， 18-19]。在 TNF-α 的刺激下白
+细胞不断加剧炎症反应
+[20]，吞噬细胞和间充质细胞
+产生 IL-8，诱导趋化、胞吐和氧爆发。加剧促炎因子
+表达
+[21]。AKI 发生后，单核细胞和巨噬细胞快速产
+生 IL-6，并介导远端器官效应
+[22]。IL-6能够清除感染
+因子和修复受损组织，对肝细胞稳态至关重要
+[23]。
+机体受到损伤后，处于应激状态，由于交感神经兴奋
+会产生大量的氧自由基，体内氧化与抗氧化平衡被
+打破，中性粒细胞发生炎症浸润，蛋白酶分泌增加，
+Figure 6.  The expression of MyD88 protein in the liver of mice in each group observed by immunohistochemical staining.  Positive 
+cells are indicated by arrows.
+图6 免疫组织化学染色观察各组小鼠肝脏MyD88蛋白的表达
+Figure 7.  The expression level of MyD88 in the liver of mice in each group.  Mean±SD.  n=4.  
+**P<0. 01 vs sham group； 
+##P<0. 01 vs 
+model group.
+图7 各组小鼠肝脏MyD88蛋白的表达水平
+·293·
+氧化中间产物大量释放，如白三烯、血栓素 A2等，都
+是促炎介质，加剧炎症反应，恶性循环。
+本研究结果显示，AKI 诱发肝损伤后，血清中的
+炎症及坏死相关因子 IL-1β、IL-6、IL-8 和 TNF-α 的表
+达水平显著上调，切片观察结果显示在部分肝细胞
+呈现变性或坏死状态，近肝血管附近有炎症细胞浸
+润现象，提示坏死的同时伴随着炎症反应。同时，检
+测到 model 组 SOD 的活性显著降低，MDA 的含量显
+著升高。SOD 为自由基清除剂，当体内 SOD 含量降
+低，机体清除自由基能力下降，自由基含量升高，其
+细胞毒性致使脂质过氧化，MDA含量升高，损伤细胞
+膜，从而加剧炎症反应。而经 Nec-1 处理后，组织病
+理改变明显减轻，上述炎症相关因子的表达降低，提
+示 AKI 所致肝损伤症状可以被 Nec-1 抑制。经 GRg1
+处理后，肝脏受损的程度与 model 组相比明显减轻，
+肝功能相对恢复，IL-1β、IL-6、IL-8 和 TNF-α 的表达
+Figure 8.  The expression of NF-κB p65 protein in the liver of mice in each group was observed by immunohistochemical staining.  Posi-
+tive cells are indicated by arrows.
+图8 免疫组织化学染色观察各组小鼠肝脏NF-κB p65蛋白的表达
+Figure 9.  The expression level of p-NF-κB p65 in the liver of mice in each group.  Mean±SD.  n=4.  
+**P<0. 01 vs sham group； 
+##P<
+0. 01 vs model group.
+图9 各组小鼠肝脏p-NF-κB p65的表达水平
+·294·
+水平显著降低，SOD 水平升高，MDA 含量减少，表明
+GRg1处理对AKI所诱导的肝损伤具有保护作用。
+3 GRg1 通过 TLR4/MyD88/NF-κB p65 通路调控
+AKI诱导的AHD的机制研究
+TLR4/MyD88/NF-κB p65 通路是参与机体固有
+免疫的重要通路。TLR4 通过招募 MyD88 发挥其功
+能
+[24]，MyD88 是含有 TLRs 结构域的接头蛋白，是
+TLR 受体家族下游信号通路的典型适配器。MyD88
+的死亡结构域与 IL-1R 相关激酶（IL-1R-related ki-
+nase， IRAK）的死亡结构域相结合，引起后者磷酸
+化，进一步诱导 IκB 的活化，从而导致 NF-κB 的激活
+和转位
+[25]，诱导 TNF-α 表达，TNF-α 增高的同时还会
+促进NF-κB p65活化，两者互相作用，加重损伤，促进
+多种炎症因子释放，启动程序性坏死，加剧炎症反应
+进而导致一系列损伤
+[26-27]，有研究表明 Nec-1 可以降
+低 TLR4 的表达，抑制 NF-κB p65 磷酸化，降低缺血
+再灌注所致细胞内ROS产生
+[28-29]。
+本实验结果显示，model组小鼠肝组织内有数量
+较多的 TLR4、MyD88 和 p-NF-κB p65 阳性细胞表达，
+主要表达于实质肝细胞及肝血窦。其中 TLR4 和
+MyD88主要定位于细胞质，而 p-NF-κB p65为活化的
+NF-κB p65，主要定位于细胞核。此结果提示由 AKI
+所诱导的 AHD 过程中启动了 TLR4/MyD88/NF-κB 
+p65 通路，由于 TLR4 的表达增高，进一步与 MyD88
+结合后，诱导NF-κB p65磷酸化，从而使其定位改变，
+从细胞质迅速移入细胞核，启动细胞核转录，进而促
+进炎症因子 IL-1β、IL-6、IL-8 和 TNF-α 等的释放，促
+发炎症反应，进一步导致细胞坏死等肝损伤。进一
+步采用 GRg1 处理后，TLR4、MyD88 和 p-NF-κB p65
+蛋白的表达水平明显降低，提示 GRg1 抑制了 TLR4
+功能，从而减少了 TLR4 与 MyD88 的结合，进一步抑
+制 NF-κB p65 的磷酸化水平，减少促炎相关因子 IL-
+1β、IL-6、IL-8 和 TNF-α 等的释放，减轻炎症细胞浸
+润，从而使肝细胞坏死情况明显改善。且应用 GRg1
+处理的疗效与阳性对照药 Nec-1 的处理效果并无明
+显差异。上述结果提示，GRg1 可能通过抑制 TLR4/
+MyD88 通路的激活，干预 NF-κB p65 磷酸化水平，抑
+制 AHD 炎症反应发展、减轻坏死、改善肝功能，从而
+发挥保护肝功能作用。
+[参
+考
+文
+献]
+[1]
+Siew ED， Parr SK， Wild MG， et al.  Kidney disease 
+awareness and knowledge among survivors ofacute kidney 
+injury[J].  Am J Nephrol， 2019， 49（6）：449-459.
+[2]
+Choi YJ， Zhou D， Barbosa ACS， et al.  Activation of con-
+stitutive androstane receptor ameliorates renal ischemia-re-
+perfusion-induced kidney and liver injury[J].  Mol Phar-
+macol， 2018， 93（3）：239-250.
+[3]
+Ciesielska A， Matyjek M， Kwiatkowska K.  TLR4 and 
+CD14 trafficking and its influence on LPS-induced pro-in-
+flammatory signaling[J].  Cell Mol Life Sci， 2021， 78
+（4）：1233-1261.
+[4]
+许武军， 谢娟娟， 陈仙 .  H2S 通过抑制 TLR4/MyD88/
+PI3K信号通路减轻尿源性脓毒血症诱导的急性肾损伤
+[J].  中国病理生理杂志， 2019， 35（2）：243-247.
+Xu WJ， Xie JJ， Chen X.  Hydrogen sulfide attenuates uro-
+sepsis-induced acute kidney injury by blocking TLR4/
+MyD88/PI3K signaling pathway[J].  Chin J Pathophysiol， 
+2019， 35（2）：243-247.
+[5]
+Chen Y， Jin S， Teng X， et al.  Hydrogen sulfide attenu-
+ates LPS-induced acute kidney injury by inhibiting inflam-
+mation and oxidative stress[J].  Oxid Med Cell Longev， 
+2018， 2018：6717212.
+[6]
+Wang Z， Wu J， Hu Z， et al.  Dexmedetomidine alleviates 
+lipopolysaccharide-induced acute kidney injury by inhibiting 
+p75NTR-mediated oxidative stress and apoptosis[J].  Oxid 
+Med Cell Longev，2020， 2020（4）：5454210.
+[7]
+Wang J， Zhou L， Yin W， et al.  Clinical efficacy of Dan-
+hong injection in preventing contrast-induced acute kid-
+ney injury based on propensity score matching method
+[J].  Zhong Nan Da Xue Xue Bao Yi Xue Ban， 2020， 45
+（10）：1193-1198.
+[8]
+Li Y， Wang L， Wang P， et al.  Ginsenoside Rg1 rescues 
+stress-induced depression-like behaviors via suppression 
+of oxidative stress and neural inflammation in rats[J].  
+Oxid Med Cell Longev， 2020， 2020：2325391.
+[9]
+Lin J， Huang HF， Yang SK， et al.  The effect of Gin-
+senoside Rg1 in hepatic ischemia reperfusion （I/R） injury 
+ameliorates ischemia-reperfusion-induced liver injury by 
+inhibiting apoptosis[J].  Biomed Pharmacother， 2020， 
+129：110398.
+[10] Luo M， Yan D， Sun Q， et al.  Ginsenoside Rg1 attenuates 
+cardiomyocyte apoptosis and inflammation via the TLR4/
+NF-κB/NLRP3 pathway[J].  J Cell Biochem， 2020， 121
+（4）：2994-3004.
+[11] Xiao Q， Zhang S， Ren H， et al.  Ginsenoside Rg1 allevi-
+ates ANIT-induced intrahepatic cholestasis in rats via acti-
+vating farnesoid X receptor and regulating transporters and 
+metabolic enzymes[J].  Chem Biol Interact， 2020， 324
+（9）：109062.
+[12] Huang Z， Epperly M， Watkins SC， et al.  Necrostatin-1 
+rescues mice from lethal irradiation[J].  Biochim Biophys 
+Acta， 2016， 1862（4）：850-856.
+[13] Fu Y， Tang C， Cai J， et al.  Rodent models of AKI-CKD 
+transition[J].  Am J Physiol Renal Physiol， 2018， 315
+·295·
+（4）：F1098-F1106.
+[14] Hesketh EE， Czopek A， Clay M， et al.  Renal ischaemia 
+reperfusion injury： a mouse model of injury and regenera-
+tion[J].  J Vis Exp， 2014， 88（6）：51816-52824.
+[15] Dasdelen D， Solmaz M， Menevse E， et al.  Increased 
+apoptosis， tumor necrosis factor-alpha， and DNA damage 
+attenuated by 3'，4'-dihydroxyflavonol in rats with brain 
+ischemia-reperfusion[J].  Indian J Pharmacol， 2021， 53
+（1）：39-49.
+[16] Zhao S， Chen W， Li W， et al.  LncRNA TUG1 attenuates 
+ischaemia-reperfusion-induced apoptosis of renal tubular 
+epithelial cells by sponging miR-144-3p via targeting Nrf2
+[J].  J Cell Mol Med，2021， 25（20）：9767-9783.
+[17] Rong Z， Huang Y， Cai H， et al.  Gut microbiota disorders 
+promote inflammation and aggravate spinal cord injury 
+through the TLR4/MyD88 signaling pathway[J].  Front 
+Nutr， 2021， 13（8）：702659-702673.
+[18] Iwawaki T.  From property of IL-1beta to imaging of in-
+flammation[J].  Nihon Rinsho Meneki Gakkai Kaishi， 
+2017， 40（5）：329-336.
+[19] 付阳， 董一飞 .  白细胞介素 33 通过增强炎症反应加重
+脂多糖诱导的急性肾损伤[J].  中国病理生理杂志， 
+2022， 38（8）：1424-1429.
+Fu Y， Dong YF.  Interleukin-33 aggravates lipopolysac-
+charide-induced acute kidney injury in mice by enhancing 
+inflammation[J].  Chin J Pathophysiol， 2022， 38（8）：
+1424-1429.
+[20] Chen T， Zhang X， Zhu G， et al.  Quercetin inhibits TNF-
+α induced HUVECs apoptosis and inflammation via down-
+regulating NF-κB and AP-1 signaling pathway in vitro[J].  
+Medicine （Baltimore）， 2020， 99（38）：e22241.
+[21] Skrypnyk NI， Gist KM， Okamura K， et al.  IL-6-mediated 
+hepatocyte production is the primary source of plasma and 
+urine neutrophil gelatinase-associated lipocalin during acute 
+kidney injury[J].  Kidney Int， 2020， 97（5）：966-979.
+[22] Schmidt-Arras D， Rose-John S.  IL-6 pathway in the liver： 
+from physiopathology to therapy[J].  J Hepatol， 2016， 64
+（6）：1403-1415.
+[23] Mlachkova A， Popova C， Doseva V.  Presence of IL-8 
+gene polymorphism and IL-8 serum levels in patients with 
+chronic periodontitis-literature review[J].  Folia Med 
+（Plovdiv）， 2020， 62（2）：253-257.
+[24] Zhu X， Liu J， Chen O， et al.  Neuroprotective and anti-in-
+flammatory effects of isoliquiritigenin in kainic acid-in-
+duced epileptic rats via the TLR4/MYD88 signaling pathway
+[J].  Inflammopharmacology， 2019， 27（6）：1143-1153.
+[25] Zhu G， Cheng Z， Huang Y， et al.  MyD88 mediates 
+colorectal cancer cell proliferation， migration and inva-
+sion via NF- κB/AP1 signaling pathway[J].  Int J Mol 
+Med， 2020， 45（1）：131-140.
+[26] 陶计委， 南亚强， 周杰， 等 .  Exendin-4通过抑制 Toll样
+受体4/核因子κB信号通路对帕金森病小鼠保护作用的
+研究[J].  中国病理生理杂志， 2022， 38（3）：502-508.
+Tao JW， Nan YQ， Zhou J， et al.  Protective effect of exen-
+din-4 on Parkinson disease mice by inhibiting Toll-like re-
+ceptor 4/nuclear factor-κB signaling pathway[J].  Chin J 
+Pathophysiol， 2022， 38（3）：502-508.
+[27] Yan S， Fang C， Cao L， et al.  Protective effect of glycyr-
+rhizic acid on cerebral ischemia/reperfusion injury via in-
+hibiting HMGB1-mediated TLR4/NF-κB pathway[J].  Bio-
+technol Appl Biochem， 2019， 66（6）：1024-1030.
+[28] Liang S， Lv ZT， Zhang JM， et al.  Necrostatin-1 attenu-
+ates trauma-induced mouse osteoarthritis and IL-1beta in-
+duced apoptosis via HMGB1/TLR4/SDF-1 in primary 
+mouse chondrocytes[J].  Front Pharmacol， 2018， 9（11）：
+1378-1389.
+[29] Cao L， Mu W.  Necrostatin-1 and necroptosis inhibition： 
+Pathophysiology and therapeutic implications[J].  Pharma-
+col Res， 2021， 163（1）：105297-105313.
+（责任编辑：宋延君，李淑媛）
+·296·

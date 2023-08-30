@@ -1,0 +1,865 @@
+DOI: 10． 7683 /xxyxyxb． 2020． 11． 002
+收稿日期: 2019 － 11 － 05
+基金项目: 2018 年河南省科技攻关项目( 编号: 182102310314) 。
+作者简介: 杨晓瑞( 1987 － ) ，女，河南濮阳人，硕士，主管药师，研究方向: 恶性肿瘤的药物治疗
+欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁
+欁欁
+欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁欁
+欁欁
+氉
+氉
+氉
+氉
+。
+本文引用: 杨晓瑞，王江，潘琼，等． 奥希替尼联合人参皂苷 Rg3 对非小细胞肺癌 H1975 细胞增殖和凋亡的影响
+［J］． 新乡医学院学报，2020，37( 11) : 1007-1012，1017． DOI: 10． 7683 /xxyxyxb． 2020． 11． 002．
+【基础研究】
+奥希替尼联合人参皂苷 Rg3 对非小细胞肺癌 H1975 细胞增殖和凋亡的
+影响
+杨晓瑞
+1，王
+江
+2，潘
+琼
+1，刘凡凡
+1，丁孝良
+1
+( 1． 郑州大学附属郑州中心医院药学部，河南
+郑州
+450000; 2． 郑州大学附属郑州中心医院胃肠疝和腹壁外科，河南
+郑州
+450000)
+摘要:
+目的
+探讨奥希替尼联合人参皂苷 Rg3 对非小细胞肺癌 H1975 细胞增殖、凋亡的影响及其机制。方法
+将
+对数生长期的 H1975 细胞随机分为人参皂苷 Rg3 组、奥希替尼组、奥希替尼 + 人参皂苷 Rg3 组和对照组，每组设 5 个复孔。
+人参皂苷 Rg3 组细胞使用终质量浓度为 15．0 mg·L －1人参皂苷 Rg3 干预，奥希替尼组细胞使用 0． 1 μmol·L － 1 奥希替
+尼干预，奥希替尼 + 人参皂苷 Rg3 组细胞使用 0． 1 μmol·L － 1奥希替尼和终质量浓度为 15． 0 mg·L － 1 人参皂苷 Rg3
+干预，对照组细胞加入等量的磷酸盐缓冲溶液。采用 Hoechst33342 染料染色各组细胞，观察药物干预 48 h 时各组细
+胞形态变化; 采用甲基噻唑基四唑法检测药物干预 24、48、72 h 时各组细胞增殖抑制率，采用流式细胞术检测药物干
+预 48 h 时各组细胞凋亡和细胞周期分布情况，采用实时荧光定量聚合酶链式反应检测药物干预48 h时各组细胞中磷
+脂酰肌醇 3-激酶( PI3K) 、蛋白激酶 B( Akt) 、caspase-3 mRNA 相对表达量，采用 Western blot 法检测药物干预 48 h 时各
+组细胞中 PI3K、Akt、caspase-3、磷酸化 PI3K( p-PI3K) 、磷酸化 Akt( p-Akt) 蛋白相对表达量。结果
+药物干预 48 h 时，
+对照组细胞形态正常，人参皂苷 Rg3 组、奥希替尼组、奥希替尼 + 人参皂苷 Rg3 组细胞均出现核固缩、染色质凝集、核
+碎裂，部分出现凋亡小体，其中奥希替尼 + 人参皂苷 Rg3 组细胞形态变化最为明显，奥希替尼组次之，人参皂苷 Rg3
+组细胞形态变化最轻。药物干预 24、48、72 h 时，人参皂苷 Rg3 组、奥希替尼组、奥希替尼 + 人参皂苷 Rg3 组细胞增殖
+抑制率均显著高于对照组( P ＜ 0． 05) 。人参皂苷 Rg3 组、奥希替尼组、奥希替尼 + 人参皂苷 Rg3 组细胞增殖抑制率随
+干预时间延长均显著升高，各时间点间增殖抑制率差异均有统计学意义( P ＜ 0． 05) 。药物干预 48 h 时，各药物干预组
+细胞凋亡率显著高于对照组( P ＜ 0． 05) ; 奥希替尼组和奥希替尼 + 人参皂苷 Rg3 组细胞凋亡率显著高于人参皂苷
+Rg3 组( P ＜ 0． 05) ; 奥希替尼 + 人参皂苷 Rg3 组细胞凋亡率显著高于奥希替尼组( P ＜ 0． 05) 。药物干预 48 h 时，与对
+照组相比，人参皂苷 Rg3 组 G0 /G1 期细胞占比升高，G2 期细胞占比降低( P ＜ 0． 05) ; 奥希替尼组和奥希替尼 + 人参皂
+苷 Rg3 组 G0 /G1 期、G2 期细胞占比均降低，S 期细胞占比均升高( P ＜ 0． 05) ; 与人参皂苷 Rg3 组相比，奥希替尼组和奥
+希替尼 + 人参皂苷 Rg3 组 G0 /G1 期、G2 细胞占比均降低，S 期细胞占比均升高( P ＜ 0． 05) ; 奥希替尼 + 人参皂苷 Rg3
+组 G2 期细胞占比显著低于奥希替尼组( P ＜ 0． 05) 。药物干预 48 h 时，人参皂苷 Rg3 组、奥希替尼组、奥希替尼 + 人参
+皂苷 Rg3 组细胞中 caspase-3 mRNA 相对表达量均显著高于对照组( P ＜ 0． 05) ，奥希替尼组和奥希替尼 + 人参皂苷
+Rg3 组细胞中 caspase-3 mRNA 相对表达量均显著高于人参皂苷 Rg3 组( P ＜ 0． 05) ，奥希替尼 + 人参皂苷 Rg3 组细胞
+中 caspase-3 mRNA 相对表达量显著高于奥希替尼组( P ＜ 0． 05) ; 各组细胞中 PI3K、Akt mRNA 相对表达量比较差异均
+无统计学意义( P ＞ 0． 05) 。药物干预 48 h 时，人参皂苷 Rg3 组、奥希替尼组和奥希替尼 + 人参皂苷 Rg3 组细胞中
+caspase-3 蛋白相对表达量均显著高于对照组( P ＜ 0． 05) ，p-PI3K/PI3K、p-Akt/Akt 均显著低于对照组( P ＜ 0． 05) ; 奥希
+替尼组和奥希替尼 + 人参皂苷 Rg3 组细胞中 caspase-3 蛋白相对表达量均显著高于人参皂苷 Rg3 组，p-PI3K/PI3K、
+p-Akt/Akt均显著低于人参皂苷 Rg3 组( P ＜ 0． 05) ; 奥希替尼 + 人参皂苷 Rg3 组中 caspase-3 蛋白相对表达量显著高于
+奥希替尼组( P ＜ 0． 05) ，p-PI3K/PI3K、p-Akt/Akt 显著低于奥希替尼组( P ＜ 0． 05) 。结论
+奥希替尼联合人参皂苷
+Rg3 可有效抑制非小细胞肺癌 H1975 细胞增殖，促进其凋亡，其机制可能与抑制 PI3K/Akt 信号通路有关。
+关键词:
+奥希替尼; 人参皂苷 Rg3; 非小细胞肺癌; 增殖; 凋亡
+中图分类号: R734． 2
+文献标志码: A
+文章编号: 1004-7239( 2020) 11-1007-07
+Effect of osimertinib combined with ginsenoside Rg3 on proliferation and apoptosis of non-small cell
+lung cancer H1975 cells
+YANG Xiaorui
+1，WANG Jiang
+2，PAN Qiong
+1，LIU Fanfan
+1，DING Xiaoliang
+1
+( 1． Department of Pharmacy，Zhengzhou Central Hospital Affiliated to Zhengzhou University，Zhengzhou 450000，Henan
+Province，China; 2． Department of Surgery of Gastrointestinal Hernia and Abdominal Wall，Zhengzhou Central Hospital Affiliated
+to Zhengzhou University，Zhengzhou 450000，Henan Province，China)
+·1007·
+第 37 卷
+第 11 期
+2020 年 11 月
+新乡医学院学报
+Journal of Xinxiang Medical University
+Vol． 37
+No． 11
+Nov． 2020
+Abstract:
+Objective
+To explore the effect of osimertinib and ginsenoside Rg3 on the proliferation and apoptosis of
+non-small cell lung cancer cell line H1975 and its mechnism． Methods
+The H1975 cells in logarithmic growth phase were
+randomly divided into the ginsenoside Rg3 group，osimertinib group，osimertinib + ginsenoside Rg3 group and control group，
+with 5 multiple holes in each group． The cells in the ginsenoside Rg3 group were treated with ginsenoside Rg3 at a final con-
+centration of 15． 0 mg · L － 1，the cells in the osimertinib group were treated with osimertinib at a final concentration of
+0． 1 μmol·L － 1，the cells in the osimertinib + ginsenoside Rg3 group were treated with osimertinib with a final concentration of
+0． 1 μmol·L － 1 and ginsenoside Rg3 with a final concentration of 0． 1 μmol·L － 1，and the cells in the control group were
+treated with an equal amount of phosphate buffered solution． The cells in each group were stained with Hoechst 33342 dye，and
+the morphological changes of the cells in each group were observed at 48 h after drug intervention; The methyl thiazolyl tetrazolium
+method was used to detect the inhibition rate of cell proliferation in each group at 24，48 and 72 h after drug intervention; The flow
+cytometry was used to detect the cell apoptosis and cell cycle distribution in each group at 48 h after drug intervention; The
+real-time fluorescence quantitative polymerase chain reaction was used to detect the relative expression of phosphatidylinositol
+3-kinase ( PI3K) ，protein kinase B ( Akt) and caspase-3 mRNA in each group after drug intervention for 48 h; The western blot was
+used to detect the relative expression levels of PI3K，Akt，caspase-3，phosphorylated PI3K( p-PI3K) and phosphorylated Akt( p-Akt)
+protein of cells in each group after drug intervention for 48 h． Results
+After 48 h of drug intervention，the morphology of the cells in
+the control group were normal． The cells in the ginsenoside Rg3 group，the osimertinib group and the osimertinib + ginsenoside Rg3
+group all appeared nuclear pyknosis，chromatin agglutination，nuclear fragmentation，and some of them appeared apoptotic
+bodies． The cell morphology changes in the osimertinib + ginsenoside Rg3 group were the most obvious，followed by the osimertinib
+group，and the cells in the ginsenoside Rg3 group had the least changes． At 24，48，and 72 h of drug intervention，the cell prolifera-
+tion inhibition rates in the ginsenoside Rg3 group，osimertinib group，osimertinib + ginsenoside Rg3 group were significantly
+higher than that in the control group ( P ＜ 0． 05) ． The cell proliferation inhibition rates in the ginsenoside Rg3 group，osimer-
+tinib group，osimertinib + ginsenoside Rg3 group increased significantly with the intervention time，and the differences in the
+proli-feration inhibition rates between each time point were statistically significant ( P ＜ 0． 05 ) ． At 48 h of drug intervention，
+the apoptosis rates in each drug intervention group were significantly higher than that in the control group ( P ＜0． 05) ; the apop-
+tosis rates in the osimertinib group and osimertinib + ginsenoside Rg3 group were significantly higher than that in the ginseno-
+side Rg3 group ( P ＜ 0． 05) ; the apoptosis rate in the osimertinib + ginsenoside Rg3 group was significantly higher than that in
+the osimertinib group ( P ＜ 0． 05) ． After 48 h of drug intervention，compared with the control group，the proportion of G0 /G1
+phase cells in the ginsenoside Rg3 group increased，and the proportion of G2 phase cells decreased ( P ＜ 0． 05) ; the proportions
+of G0 /G1 cells and G2 phases cells in the osimertinib group and osimertinib + ginsenoside Rg3 decreased，and the proportion
+of cells in S phase increased ( P ＜ 0． 05) ; compared with the ginsenoside Rg3 group，the proportions of G0 /G1 and G2 phase
+cells in the osimertinib group and the osimertinib + ginsenoside Rg3 decreased，and the proportions of S phase cells increased
+( P ＜ 0． 05) ; the proportion of cells in the G2 phase of the osimertinib + ginsenoside Rg3 group was significantly lower than
+that in the osimertinib group ( P ＜ 0． 05) ． After 48 h of drug intervention，the relative expressions of caspase-3 mRNA in the
+cells of the ginsenoside Rg3 group，the osimertinib group and the osimertinib + ginsenoside Rg3 group were significantly higher
+than that in the control group ( P ＜ 0． 05) ，the relative expressions of caspase-3 mRNA in the cells of the osimertinib group and
+the osimertinib + ginsenoside Rg3 group were significantly higher than that in the ginsenoside Rg3 group ( P ＜ 0． 05) ，The rela-
+tive expression of caspase-3 mRNA in the cells of the osimertinib + ginsenoside Rg3 group was significantly higher than that
+in the osimertinib group ( P ＜ 0． 05) ; there were no significantly difference of the relative expressions of PI3K and Akt mRNA
+of the cells in each group ( P ＞ 0． 05) ． After 48 h of drug intervention，the relative expressions of caspase-3 protein of the cells
+in the ginsenoside Rg3 group，the osimertinib group and the osimertinib + ginsenoside Rg3 group were significantly higher than
+that in the control group ( P ＜ 0． 05) ，p-PI3K /PI3K and p-Akt/Akt were significantly lower than those in the control group
+( P ＜ 0． 05) ; the relative expressions of caspase-3 protein in the osimertinib group and the osimertinib + ginsenoside Rg3 group
+were significantly higher than that of ginsenoside Rg3 group，p-PI3K/PI3K and p-Akt/Akt were significantly lower than those
+in the ginsenoside Rg3 group ( P ＜0． 05) ; the relative expression of caspase-3 protein in the osimertinib + ginsenoside Rg3
+group was significantly higher than that in the osimertinib group，p-PI3K/PI3K and p-Akt/Akt were significantly lower than
+those in the osimertinib group ( P ＜0． 05) ． Conclusion
+Osimertinib combined with ginsenoside Rg3 can effectively inhibit the
+proliferation and promote apoptosis of non-small cell lung cancer H1975 cells，and the mechanism may be related to PI3K/Akt
+signaling pathway．
+Key words:
+osimertinib; ginsenoside Rg3; non-small cell lung cancer; proliferation; apoptosis
+非 小 细 胞 肺 癌 ( non-small cell lung cancer，
+NSCLC) 属于临床常见的呼吸道恶性肿瘤，约占所有
+类型肺癌的 80% ，近年来，随着环境恶化及生活压
+力增加，其发病率呈逐年升高趋势，给人们的健康造
+成严重威胁
+［1］。手术是早期 NSCLC 的有效治疗手
+段，但由于病情隐匿且进展迅速，多数患者确诊时已
+至中晚期，失去最佳手术时机
+［2］。有研究显示，约
+50% 以上的腺癌患者存在表皮生长因子受体( epi-
+dermal growth factor receptor，EGFR) 基因突变，我国
+NSCLC 患者 EGFR 基因突变率约为 30% ，靶向治疗
+·1008·
+新乡医学院学报
+http: / /www． xxyxyxb． com
+2020 年
+第 37 卷
+EGFR 基因突变成为延长 NSCLC 患者生存期的主
+要方法
+［3］。奥希替尼属于第 3 代 EGFR-酪氨酸激酶
+抑制剂( epidermal growth factor receptor-tyrosine ki-
+nase inhibitor，EGFR-TKI) ，具有高效、低毒的优势，
+但仍有部分 NSCLC 患者易对其产生耐药性，使治疗
+难度增加
+［4］。人参皂苷 Rg3 是从人参中提取的重
+要单体，可通过抑制肿瘤新生血管生成而发挥抗肿
+瘤作用。目前有研究报道，人参皂苷 Rg3 联合新辅
+助化学治疗可抑制胃癌肿瘤新生血管生成，提高患
+者生存率
+［5］，但关于其联合应用于抗 NSCLC 的研究
+较少。本研究以人 NSCLC 细胞株 H1975 为研究对
+象，观察奥希替尼与人参皂苷 Rg3 单独及联合用药
+对 NSCLC 细胞增殖和凋亡的影响，并探讨其可能的
+调控机制。
+1
+材料与方法
+1． 1
+细胞
+人 NSCLC 细胞 H1975 购自中国科学院
+上海生命科学研究院。
+1． 2
+主要试剂与仪器
+人参皂苷 Rg3 单体注射干
+粉购自吉林亚泰制药股份有限公司，奥希替尼购自
+美国阿里斯康公司，RPMI-1640 培养基、胎牛血清、
+磷酸盐缓冲液( phosphate buffered solution，PBS) 购
+自美国 Gibco 公司，二甲基亚砜( dimethyl sulfoxide，
+DMSO) 购自美国 Sigma 公司，Hoechst33342 染色液
+购自上海瓦兰生物科技有限公司，TRIzol Reagent 试
+剂盒、实时荧光定量检测试剂盒购自美国 Invitrogen
+公司，反转录试剂盒购自日本 Takara 公司，总蛋白
+提取试剂盒购自上海碧云天生物技术有限公司，二
+喹啉甲酸( bicinchoninic acid，BCA) 蛋白定量分析试
+剂盒购自美国 Thermo 公司，异硫氰酸荧光素-人膜
+联蛋白 V( fluorescein isothiocyanate-Annexin V，FITC-
+Annexin V) 染液、碘化丙啶( propidium iodide，PI) 染
+液、细胞凋亡检测试剂盒、甲基噻唑基四唑( methyl
+thiazolyl tetrazolium，MTT) 试剂盒购自广州碧云天有限
+公司，10 × TBST 缓冲液购自北京索莱宝科技有限公司，
+磷 脂 酰 肌 醇 3-激 酶 ( phosphatidylinositol 3-kinase，
+PI3K) 、蛋白激酶 B( protein kinase B，Akt) 、caspase-3、
+磷酸化 PI3K( phosphorylated PI3K，p-PI3K) 、磷酸化
+Akt( phosphorylated Akt，p-Akt) 、兔抗人一抗及辣根
+过氧化物酶标记的二抗购自美国 Abcam 公司，电化
+学发光( electrochemiluminescence，ECL) 试剂盒购自
+北京索莱宝科技有限公司; Leica DMI4000B 智能型
+倒置荧光显微镜购自德国 Leica 公司，ELX800 酶标
+仪购自美国 Bio Tek 公司，ViiA TM7 实时荧光定量
+聚合 酶 链 反 应 ( real-time fluorescence quantitative
+polymerase chain reaction，qRT-PCR) 仪购自美国 ABI
+公司，电泳仪、CheniDoc XRS 化学发光成像分析系
+统购自美国 Bio-Rad 公司。
+1． 3
+含药培养基配制
+取7．5 mg 人参皂苷 Rg3 单体注
+射干粉溶于2．5 mL DMSO 中，配制质量浓度为 3．0 g·L
+－1
+母液，取 500 μL 母液加入 49． 5 mL RPMI-1640培养
+基，混匀，获得质量浓度为30． 0 mg·L
+－ 1 人参皂苷
+Rg3 溶液 备 用。取 4． 99 mg 奥 希 替 尼 溶 于 5 mL
+DMSO 中，配 制 浓 度 为 2 000 μmol · L
+－ 1 母 液，取
+500 μL母液加入 49． 5 mL RPMI-1640 培养基混匀，获
+得浓度为 0． 2 μmol·L
+－ 1奥希替尼溶液备用。
+1． 4
+实验方法
+1． 4． 1
+细胞培养及分组
+将 H1975 细胞接种于含
+体积分数 10% 胎牛血清的 RPMI-1640 培养液，置于
+37 ℃、含体积分数 5% CO2 细胞培养箱中培养。收
+集对数生长期的 H1975 细胞，使用胰蛋白酶消化，
+以每孔 2 000个细胞接种于 96 孔板，培养约 24 h 细
+胞再次贴壁，细胞融合度达 75% 时分为人参皂苷 Rg3
+组、奥希替尼组、奥希替尼 + 人参皂苷 Rg3 组和对照
+组。人参皂苷 Rg3 组细胞使用 15．0 mg·L
+－1人参皂苷
+Rg3 干预，奥希替尼组细胞使用 0．1 μmol·L
+－1奥希替
+尼干预，奥希替尼 + 人参皂苷 Rg3 组细胞使用奥希替
+尼( 0．1 mmol·L
+－1) 和人参皂苷 Rg3( 15． 0 mg·L
+－ 1)
+干预，对照组细胞加入等量 PBS，每组设 5 个复孔。
+1． 4． 2
+细胞形态学观察
+加药后各组细胞继续培
+养 48 h，弃去上清液，用 PBS 洗涤 2 次，每孔加入
+100 μL Hoechst33342 染色液，37 ℃避光孵育 30 min
+后，荧光显微镜下观察各组细胞形态学变化。
+1． 4． 3
+细胞增殖抑制率测定
+药物干预 48 h 时，
+将 H1975 细胞胰蛋白酶消化后接种于 96 孔板，每
+孔 2 × 10
+3 个细胞，培养 24、48、72 h 时，每孔加入
+5． 0 g·L
+－ 1 MTT 溶液 20 μL，恒温培养箱中继续培
+养 4 h，吸去上清液，每孔加入 150 μL DMSO，避光摇
+匀，用酶标仪测定波长 490 nm 处的吸光度值，细胞
+增殖抑制率 = ( 对照组吸光度值 － 干预组吸光度
+值) /对照组吸光度值 × 100% 。试验重复 3 次，取均
+值。
+1． 4． 4
+流式细胞术检测各组细胞凋亡情况
+收集
+药物干预 48 h 的各组细胞，4 ℃ PBS 洗涤细胞 2
+次，加入 10 μL PI、5 μL FITC-Annexin V，室温避光
+孵育20 min，加入 400 μL 结合缓冲液，60 min 后于
+流式细胞仪上测定各组细胞凋亡情况。试验重复 3
+次，取均值。
+1． 4． 5
+流式细胞仪检测细胞周期
+收集药物干预
+48 h 的各组细胞，用预冷的 PBS 洗涤细胞 2 次，体
+积分数 70% 乙醇固定 24 h，1 500 r · min
+－ 1 离心
+10 min，弃去上清，用预冷的 PBS 洗涤 2 次，加入
+100 μL 含 体 积 分 数 1% 的 RNA 酶，37 ℃ 孵 育
+30 min，PI 染色，冰上避光孵育 30 min，于流式细胞
+仪上测定激发波长 488 nm 处红色荧光强度，采用
+Cell modifit 软件分析各组细胞周期分布情况。试验
+重复 3 次，取均值。
+1． 4． 6
+qRT-PCR 检测 各 组 细 胞 中 PI3K、Akt、
+caspase-3 mRNA 相对表达量
+取药物干预48 h的
+各组细胞，根据 TRIzol Reagent 试剂盒说明书提取
+·1009·
+第 11 期
+杨晓瑞，等: 奥希替尼联合人参皂苷 Rg3 对非小细胞肺癌 H1975 细胞增殖和凋亡的影响
+总 RNA，并用反转录试剂盒获得互补脱氧核糖核酸
+( complementary deoxyribonucleic acid，cDNA) ，琼脂
+糖凝胶电泳法鉴定产物。应用实时荧光定量检测试
+剂盒检测 PI3K、Akt、caspase-3 mRNA 表达情况，反
+应体系: SYBR Premix Ex Taq 10． 5 μL，上下游引物
+各 0． 5 μL( 引物序列见表 1) ，cDNA 1． 5 μL，ddH2O
+7． 0 μL; 反应条件: 94 ℃ 预变性 5 min; 94 ℃ 变性
+30 s，5 ℃ 退火 45 s，72 ℃ 延伸 2 min，重复 40 个循
+环。以 β-actin 为管家基因，采用 2
+－ △△Ct法计算各目
+的基因的相对表达量。试验重复 3 次，取均值。
+表 1
+引物序列
+Tab． 1
+Primer sequence
+目的基因
+引物序列
+PI3K
+F: 5'-ATCGATGTGCTGTAGCTGTAGC-3'
+R: 5'-GCTAGTCGTGTAGCTGTCTATC-3'
+Akt
+F: 5'-CGTAGCTGATCGTGATGCTGAG-3'
+R: 5'-TAGCTGTAGTGCTGTAGCTGTA-3'
+caspase-3
+F: 5'-CGTAGCTGTAGCTGATCGTGAT-3'
+R: 5'-CGTAGCTGATCGTAGCTGCGAC-3'
+β-actin
+F: 5'-ACGTGATGCTGTGATGCTGACG-3'
+R: 5'-GGTAGTCGTAGTCGTAGCTGTC-3'
+注: F: 上游引物; R: 下游引物。
+1． 4． 7
+Western blot 法检测各组细胞中 PI3K、
+p-PI3K、Akt、p-Akt、caspase-3 蛋白相对表达量
+收
+集药物干预 48 h 的各组细胞，依据蛋白提取试剂盒
+步骤提取总蛋白，使用 BCA 蛋白定量试剂盒进行蛋
+白定量，取 30 μg 样品与等体积上样缓冲液混匀，沸
+水水浴 3 min，4 ℃ 12 000 r·min
+－ 1离心 10 min，收集
+上清液，十二烷基硫酸钠聚丙烯酰胺凝胶电泳，转膜
+1 h，封闭液封闭 2 h，加入稀释的一抗［PI3K( 1 ∶
+500) 、p-PI3K( 1∶500) 、Akt( 1∶1 000) 、p-Akt( 1 ∶
+1 000) 、caspase-3( 1∶1 000) ］，4 ℃摇床孵育过夜，用
+TBST 缓冲液洗涤 3 次，每次10 min，加入稀释的二
+抗( 1∶2 000) ，常温孵育 30 min，加入 ECL 发光液
+在暗室中曝光、显 影。采用凝胶成像系统 扫 描，
+BandScan软件进行灰度值分析，以待测目的蛋白与
+内参 β-actin 灰度值比值表示蛋白相对表达量。实
+验重复 3 次，取均值。
+1． 5
+统计学处理
+应用 SPSS 20． 0 软件进行统计
+分析，计量资料以均数 ± 标准差( 珋
+x ± s) 表示，多组间
+比较采用单因素方差分析，两两比较采用 SNK-q 检
+验，P ＜ 0． 05为差异有统计学意义。
+2
+结果
+2． 1
+4 组 H1975 细胞形态学观察
+结果见图 1。
+药物干预防 48 h，对照组细胞形态正常，人参皂苷
+Rg3 和奥希替尼单独或联合干预的细胞均出现核固
+缩、染色质凝集、核碎裂，部分出现凋亡小体，其中奥
+希替尼 + 人参皂苷 Rg3 组细胞形态变化最为明显，奥
+希替尼组次之，人参皂苷 Rg3 组细胞形态变化最轻。
+A: 对照组; B: 人参皂苷 Rg3 组; C: 奥希替尼组; D: 奥希替尼 + 人参
+皂苷 Rg3 组。
+图 1
+荧 光 显 微 镜 下 各 组 H1975 细 胞 形 态 学 观 察
+( Hoechst33342，×200)
+Fig． 1
+Morphological observation of H1975 cells in each
+group under fluorescence microscope( Hoechst33342，×200)
+2． 2
+4 组 H1975 细胞增殖抑制率比较
+结果见表
+2。药物干预 24、48、72 h 时，人参皂苷 Rg3 组、奥希
+替尼组、奥希替尼 + 人参皂苷 Rg3 组细胞增殖抑制
+率均显著高于对照组( P ＜ 0． 05) ; 奥希替尼组和奥
+希替尼 + 人参皂苷 Rg3 组细胞增殖抑制率均显著
+高于人参皂苷 Rg3 组( P ＜ 0． 05) ; 奥希替尼 + 人参
+皂苷 Rg3 组细胞增殖抑制率显著高于奥希替尼组
+( P ＜ 0． 05) 。人参皂苷 Rg3 组、奥希替尼组和奥希
+替尼 + 人参皂苷 Rg3 组细胞增殖抑制率随干预时
+间延长均呈显著升高趋势，各时间点间增殖抑制率
+比较差异均有统计学意义( P ＜ 0． 05) 。
+表 2
+4 组 H1975 细胞增殖抑制率比较
+Tab． 2
+Comparison of H1975 cell proliferation inhibition
+rate among the four groups
+( 珋
+x ± s)
+组别
+n
+增殖抑制率/%
+24 h
+48 h
+72 h
+对照组
+3
+0． 03 ± 0． 01
+0． 04 ± 0． 01
+0． 02 ± 0． 01
+人参皂苷 Rg3 组
+3
+10． 25 ± 2． 14a
+22． 40 ± 3． 47ad
+31． 08 ± 4． 61ade
+奥希替尼组
+3
+14． 81 ± 2． 50ab
+33． 62 ± 3． 50abd
+50． 34 ± 6． 75abde
+奥希替尼 + 人参皂苷 Rg3 组
+3
+30． 45 ± 4． 21abc
+67． 11 ± 5． 17abcd
+72． 64 ± 7． 69abcde
+F
+112． 169
+306． 169
+150． 402
+P
+0． 000
+0． 000
+0． 000
+注: 与对照组比较aP ＜ 0． 05; 与人参皂苷 Rg3 组比较bP ＜ 0． 05;
+与奥希替尼组比较c P ＜ 0． 05; 与本组 24 h 比较d P ＜ 0． 05; 与本组
+48 h比较eP ＜ 0． 05。
+2． 3
+4 组 H1975 细胞凋亡率比较
+结果见图 2。药物
+干预 48 h 时，人参皂苷 Rg3 组、奥希替尼组、奥希替
+尼 + 人参皂苷 Rg3 组细胞凋亡率［( 11．35 ±2． 20) % 、
+( 24． 09 ± 3． 37) % 、( 44． 16 ± 4． 55) %］均显著高于
+对照组细胞凋亡率［( 2． 24 ± 0． 35) % ］，差异有统计
+·1010·
+新乡医学院学报
+http: / /www． xxyxyxb． com
+2020 年
+第 37 卷
+学意义( t = 9． 144、14． 420、27． 666，P ＜ 0． 05) ; 奥希
+替尼组和奥希替尼 + 人参皂苷 Rg3 组细胞凋亡率
+均显著高于人参皂苷 Rg3 组，差异有统计学意义
+( t = 7． 078、18． 230，P ＜ 0． 05) ; 奥希替尼 + 人参皂苷
+Rg3 组细胞凋亡率显著高于奥希替尼组，差异有统
+计学意义( t = 9． 416，P ＜ 0． 05) 。
+A: 对照组; B: 人参皂苷 Rg3 组; C: 奥希替尼组; D: 奥希替尼 + 人参
+皂苷 Rg3 组。
+图 2
+各组 H1975 细胞凋亡率( 流式细胞术)
+Fig． 2
+Apoptosis rate of H1975 cells in each group( flow
+cytometry)
+2． 4
+4 组 H1975 细胞周期分布情况比较
+结果见
+表 3。与对照组相比，人参皂苷 Rg3 组 G0 /G1 期细
+胞占比升高，G2 期细胞占比降低，差异有统计学意
+义( P ＜ 0． 05) ; 奥希替尼组和奥希替尼 + 人参皂苷
+Rg3 组 G0 /G1 期、G2 期细胞占比降低，S 期细胞占比
+升高，差异有统计学意义( P ＜ 0． 05) 。与人参皂苷
+Rg3 组相比，奥希替尼组和奥希替尼 + 人参皂苷
+Rg3 组 G0 /G1 期、G2 期细胞占比降低，S 期细胞占比
+升高，差异有统计学意义( P ＜ 0． 05) 。奥希替尼 +
+人参皂苷 Rg3 组 G2 期细胞占比显著低于奥希替尼
+组 H1975，差异有统计学意义( P ＜ 0． 05) 。
+表 3
+4 组 H1975 细胞周期分布情况比较
+Tab． 3
+Comparison of H1975 cell cycle distribution among
+the four groups
+( 珋
+x ± s)
+组别
+n
+细胞周期/%
+G0/G1
+S
+G2
+对照组
+3
+44． 52 ±3． 26
+37． 21 ±3． 58
+18． 27 ±1． 89
+人参皂苷 Rg3 组
+3
+50． 45 ±4． 57a
+35． 56 ±3． 27
+13． 99 ±1． 35a
+奥希替尼组
+3
+37． 06 ±3． 70ab
+52． 30 ±4． 85ab
+10． 64 ±0． 93ab
+奥希替尼 + 人参皂苷 Rg3 组
+3
+39． 11 ±3． 84ab
+55． 69 ±4． 71ab
+6． 20 ±0． 84abc
+F
+12． 015
+23． 619
+46． 671
+P
+0． 000
+0． 000
+0． 000
+注: 与对照组比较aP ＜0． 05; 与人参皂苷 Rg3 组比较bP ＜0． 05; 与奥希替尼组比较
+cP ＜0． 05。
+2．5
+4 组 H1975 细胞 PI3K、Akt、caspase-3 mRNA 相
+对表达量比较
+结果见表 4。药物干预 48 h 时，人参
+皂苷 Rg3 组、奥希替尼组和奥希替尼 + 人参皂苷 Rg3
+组细胞中 caspase-3 mRNA 相对表达量显著高于对照组
+细胞，奥希替尼组和奥希替尼 + 人参皂苷 Rg3 组细胞
+中 caspase-3 mRNA 相对表达量显著高于人参皂苷 Rg3
+组，奥希替尼 + 人参皂苷 Rg3 组细胞中 caspase-3
+mRNA相对表达量显著高于奥希替尼组，差异均有统计
+学意义( P ＜0．05) ; 各组细胞中 PI3K、Akt mRNA 相对
+表达量比较差异均无统计学意义( P ＞0．05) 。
+表 4
+4 组 H1975 细胞 PI3K、Akt、caspase-3 mRNA 相对表
+达量比较
+Tab． 4
+Comparison of the relative expression of PI3K，Akt
+and caspase-3 mRNA among the four groups
+( 珋
+x ± s)
+组别
+mRNA 相对表达量
+PI3K
+Akt
+caspase-3
+对照组
+0． 97 ± 0． 10
+1． 14 ± 0． 15
+0． 27 ± 0． 03
+人参皂苷 Rg3 组
+0． 98 ± 0． 12
+1． 11 ± 0． 12
+0． 60 ± 0． 06a
+奥希替尼组
+0． 95 ± 0． 11
+1． 13 ± 0． 14
+0． 74 ± 0． 10ab
+奥希替尼 + 人参皂苷 Rg3 组
+0． 96 ± 0． 10
+1． 12 ± 0． 12
+1． 13 ± 0． 16abc
+F
+0． 072
+0． 047
+63． 259
+P
+0． 974
+0． 986
+0． 000
+注: 与对照组比较aP ＜ 0． 05; 与人参皂苷 Rg3 组比较bP ＜ 0． 05;
+与奥希替尼组比较cP ＜ 0． 05。
+2． 6
+4 组 H1975 细胞中 caspase-3 蛋白、p-PI3K/
+PI3K、p-Akt/Akt 相对表达量比较
+结果见图 3 和
+表 5。药物干预 48 h 时，人参皂苷 Rg3 组、奥希替尼
+组和奥希替尼 + 人参皂苷 Rg3 组细胞中 caspase-3
+蛋白相对表达量均显著高于对照组 ( P ＜ 0． 05) ，
+p-PI3K/PI3K、p-Akt/Akt 均 显 著 低 于 对 照 组
+( P ＜ 0． 05) ; 奥希替尼组和奥希替尼 + 人参皂苷
+Rg3 组细胞中 caspase-3 蛋白相对表达量均显著高
+于人参皂苷 Rg3 组，p-PI3K/PI3K、p-Akt/Akt 均显著
+低于人参皂苷 Rg3 组( P ＜ 0． 05) ; 奥希替尼 + 人参
+皂苷 Rg3 组中 caspase-3 蛋白相对表达量显著高于
+奥希替尼组( P ＜ 0． 05) ，p-PI3K/PI3K、p-Akt/Akt 显
+著低于奥希替尼组( P ＜ 0． 05) 。
+A: 对照组; B: 人参皂苷 Rg3 组; C: 奥希替尼组; D: 奥希替尼 + 人参
+皂苷 Rg3 组。
+图 3
+各 组 H1975 细 胞 中 PI3K、p-PI3K、Akt、p-Akt 及
+caspase-3 蛋白表达
+Fig． 3
+Expression of PI3K、p-PI3K、Akt、p-Akt and
+caspase-3 protein in H1975 cells in ech group
+·1011·
+第 11 期
+杨晓瑞，等: 奥希替尼联合人参皂苷 Rg3 对非小细胞肺癌 H1975 细胞增殖和凋亡的影响
+表 5
+各 组 H1975 细 胞 中 p-PI3K/PI3K、p-Akt/Akt 及
+caspase-3 蛋白相对表达量比较
+Tab． 5
+Comparison of the relative expression of p-PI3K/
+PI3K，p-Akt/Akt and caspase-3 protein in H1975 cells
+among the four groups
+( 珋
+x ± s)
+组别
+n
+p-PI3K/PI3K
+p-Akt/Akt
+caspase-3
+对照组
+3
+1． 05 ±0． 14
+0． 95 ±0． 10
+0． 21 ±0． 03
+人参皂苷 Rg3 组
+3
+0． 84 ±0． 07a
+0． 50 ±0． 06a
+0． 51 ±0． 06a
+奥希替尼组
+3
+0． 71 ±0． 05ab
+0． 35 ±0． 04ab
+0． 72 ±0． 08ab
+奥希替尼 + 人参皂苷 Rg3 组
+3
+0． 40 ±0． 05abc
+0． 21 ±0． 03abc
+1． 13 ±0． 14abc
+F
+50． 215
+127． 981
+97． 984
+P
+0． 000
+0． 000
+0． 000
+注: 与对照组比较aP ＜ 0． 05; 与人参皂苷 Rg3 组比较bP ＜ 0． 05;
+与奥希替尼组比较cP ＜ 0． 05。
+3
+讨论
+NSCLC 的病死率居恶性肿瘤的首位，其发病原
+因多样，涉及工业污染、长期吸烟、遗传等多种因
+素
+［6-7］。NSCLC 早期进展迅速，症状缺乏特异性，多
+数患 者 确 诊 时 已 失 去 手 术 指 征，预 后 差。晚 期
+NSCLC 患者以放射治疗、化学治疗、免疫治疗及靶
+向治疗等综合治疗为主。NSCLC 发病机制与基因
+突变关系密切，靶向突变基因治疗成为研究热点。
+近年来，奥希替尼、吉非替尼等 EGFR-TKI 治疗晚期
+NSCLC 的临床疗效得到广泛认可
+［8］。研究发现，由
+于癌细胞基因突变能力强，靶向药物治疗易产生耐
+药性，一旦耐药则治疗效果不理想，预后较差
+［9-10］。
+因此，寻找有效药物提高 NSCLC 细胞敏感性，对延
+长患者生存时间、提高生存质量有重要意义。
+本研究发现，与对照组相比，各药物干预组细胞
+形态均改变，细胞增殖抑制率和凋亡率均升高，且奥
+希替尼 + 人参皂苷 Rg3 组最高，提示奥希替尼联合
+人参皂苷 Rg3 可有效抑制 H1975 细胞增殖、促进其
+凋亡，分析原因可能为人参皂苷 Rg3 与奥希替尼联
+合用药可协同增强抗肿瘤效果。此外，与对照组相
+比，人参皂苷 Rg3 组 G0 /G1 期细胞占比升高，G2 期
+细胞占比降低，奥希替尼组及奥希替尼 + 人参皂苷
+Rg3 组 G0 /G1 期、G2 期降低，S 期细胞占比升高，且
+奥希替尼 + 人参皂苷 Rg3 组 G2 期细胞占比较奥希
+替尼组降低，提示人参皂苷 Rg3 将细胞阻滞于 G0 /
+G1 期，奥希替尼将细胞阻滞于 S 期，联合用药阻滞
+效果较单独用药好。第 3 代 EGFR-TKI 药物奥希替
+尼可通过选择性抑制酪氨酸激酶活性，阻断癌细胞
+间活化信号的传递，发挥杀伤肿瘤细胞的作用
+［11］。
+人参皂苷 Rg3 为四环三萜皂苷，对胃癌、宫颈癌等
+多种恶性肿瘤细胞的增殖均有抑制作用
+［12-13］。另
+有动物实验研究显示，人参皂苷 Rg3 与放射治疗、
+化学治疗联合重组人血管内皮抑素可有效抑制乳腺
+癌组织中 VEGF 基因及蛋白的表达，协同增强抗肿
+瘤效果
+［14］。因此，在奥希替尼基础上应用人参皂苷
+Rg3 可进一步增强肿瘤杀伤效果。
+本研究应用奥希替尼及人参皂苷 Rg3 单独及
+联合干预 H1975 细胞后，人参皂苷 Rg3 组、奥希替
+尼组和奥希替尼 + 人参皂苷 Rg3 组细胞中 p-PI3K/
+PI3K、p-Akt/Akt 均显著低于对照组; 奥希替尼组和
+奥希替尼 + 人参皂苷 Rg3 组细胞中 p-PI3K/PI3K、
+p-Akt/Akt 均显著低于人参皂苷 Rg3 组; 奥希替尼 +
+人参皂苷 Rg3 组中 p-PI3K/PI3K、p-Akt/Akt 显著低
+于奥希替尼组，提示奥希替尼联合人参皂苷 Rg3 可
+通过协同抑制 PI3K、Akt 蛋 白 磷 酸 化 水 平，激活
+caspase-3 转录和翻译过程，从而发挥抑制细胞增
+殖、促进细胞凋亡的作用。PI3K 是由调节亚基和催
+化亚基组成的异源二聚体，细胞外信号传递至细胞
+表面后，调节亚基被募集至细胞膜，PI3K 磷酸化激
+活与下游效应分子 Akt 的 N 端结合，使 Akt 由细胞
+质膜转位至细胞膜上，进而发生磷酸化，进入细胞内
+发挥调节作用
+［15-16］。PI3K/Akt 信号通路被激活后，
+可间接调控下游凋亡执行蛋白 caspase-3，启动细胞
+表面死亡受体途径或线粒体途径，诱导细胞凋亡发
+生
+［17］。由此可知，人参皂苷 Rg3 可进一步增强奥希
+替尼对癌细胞间活化信号传递的阻断作用，活化下
+游凋亡蛋白 caspase-3，从而促进癌细胞凋亡。
+综上所述，奥希替尼联合人参皂苷 Rg3 可有效
+抑制 NSCLC H1975 细胞增殖，促进其凋亡，其机制
+可能与抑制 PI3K/Akt 信号通路有关，这为临床应用
+奥希替尼联合人参皂苷 Rg3 治疗 NSCLC 提供了理
+论支持，但需要在进一步的研究中继续寻找有无其
+他调控通路发挥抗肿瘤作用，为临床靶向治疗提供
+更多参考。
+参考文献:
+［1］
+熊小玲，刘杰，朱丽萍，等． 2010-2014 年江西省肿瘤登记地区
+肺癌发病率及时间趋势分析［J］． 中华疾病控制杂志，2017，21
+( 10) : 1002-1004．
+［2］
+TABCHI S，KASSOUF E，RASSY E E，et al． Management of stage
+Ⅲ non-small cell lung cancer［J］． Semin Oncol，2017，44( 3) :163-177．
+［3］
+GUO J，LIU Y，TIAN X，et al． Less is more in solid-dominant lung
+cancer? Sublobar resection versus lobectomy for solid-dominant
+stage IA non-small-cell lung cancer: a meta-analysis study［J］． Mol
+Clin Oncol，2019，11( 5) : 465-473．
+［4］
+LIU Y T，ZHANG K，LI C C，et al． Depth of response was associated
+with progression-free survival in patients with advanced non-small
+cell lung cancer treated with EGFR-TKI［J］． J Cancer，2019，10
+( 21) : 5108-5113．
+( 下转第 1017 页)
+·1012·
+新乡医学院学报
+http: / /www． xxyxyxb． com
+2020 年
+第 37 卷
+regulation of NF-kappaB，Nrf2，transforming growth factor beta，
+Smad7，and hepatic stellate cell activation［J］． Phytother Res，
+2018，32( 12) : 2568-2576．
+［7］
+FABREGAT I，CABALLERO-DAZ D． Transforming growth factor-
+β-induced cell plasticity in liver fibrosis and hepatocarcinogenesis
+［J］． Front Oncol，2018，8: 357．
+［8］
+ANDUEZA A，GARDE N，GARCA-GARZO
+＇ N A，et al． NADPH
+oxidase 5 promotes proliferation and fibrosis in human hepatic ste-
+llate cells［J］． Free Radic Biol Med，2018，126: 15-26．
+［9］
+YOSHIDA K，MATSUZAKI K，MURATA M，et al． Clinico-patho-
+logical importance of TGF-β /phospho-Smad signaling during hu-
+man hepatic fibrocarcinogenesis［J］． Cancers ( Basel) ，2018，10
+( 6) : 183．
+［10］
+SYSA P，POTTER J J，LIU X，et al． Transforming growth factor-β1
+up-regulation of human α1 ( I) collagen is mediated by Sp1 and
+Smad2 transacting factors［J］． DNA Cell Biol，2009，28( 9) : 425-
+434．
+［11］
+卢春远． 基于 TGF-β /Smads、ERK 信号通路探讨委陵菜酸抑
+制肝星状细胞的作用及其机制［D］． 南宁: 广西医科大学，
+2017．
+［12］
+MAKINO Y，HIKITA H，KODAMA T，et al． CTGF mediates
+tumor-stroma interactions between hepatoma cells and hepatic
+stellate cells to accelerate HCC progression［J］． Cancer Res，
+2018，78( 17) : 4902-4914．
+［13］
+KIM J，HYUN J，WANG S，et al． MicroRNA-378 is involved in
+hedgehog-driven epithelial-to-mesenchymal transition in hepato-
+cytes of regenerating liver［J］． Cell Death Dis，2018，9( 7) : 721．
+［14］
+CHEN Y，LI C，TAN C，et al． Circular RNAs: a new frontier in the
+study of human diseases［J］． J Med Genet，2016，53 ( 6) : 359-
+365．
+［15］
+ZHANG Y，ZHANG X O，CHEN T，et al． Circular intronic long
+noncoding RNAs［J］． Mol Cell，2013，51( 6) : 792-806．
+［16］
+TAULLI R，LORETELLI C，PANDOLFI P P． From pseudo-
+ceRNAs to circ-ceRNAs: a tale of cross-talk and competition［J］．
+Nat Struct Mol Biol，2013，20( 5) : 541-543．
+［17］
+SUZUKI H，TSUKAHARA T． A view of pre-mRNA splicing from
+RNase R resistant RNAs［J］． Int J Mol Sci，2014，15( 6) :9331-9342．
+［18］
+NG W L，MOHD MOHIDIN T B，SHUKLA K． Functional role of
+circular RNAs in cancer development and progression［J］． RNA
+Biol，2018，15( 8) : 995-1005．
+［19］
+GUO J，ZHOU Y，CHENG Y，et al． Metformin-induced changes of
+the coding transcriptome and non-coding RNAs in the livers of
+non-alcoholic fatty liver disease mice［J］． Cell Physiol Biochem，
+2018，45( 4) : 1487-1505．
+［20］
+WANG Q，YU Y，ZHANG P，et al． The crucial role of activin A/
+ALK4 pathway in the pathogenesis of Ang-II-induced atrial fibro-
+sis and vulnerability to atrial fibrillation［J］． Basic Res Cardiol，
+2017，112( 4) : 47．
+［21］
+MAURICE D，PIERREUX C E，HOWELL M，et al． Loss of
+Smad4 function in pancreatic tumors: C-terminal truncation leads
+to decreased stability［J］． J Biol Chem，2001，276( 46) : 43175-
+43181．
+( 本文编辑: 孟
+月)
+( 上接第 1012 页)
+［5］
+李祥伟，张正元，周光荣，等． 人参皂苷 Rg3 联合新辅助放化疗
+对胃癌组织 VEGF、MTA1 蛋白表达及预后的影响［J］． 医学临
+床研究，2017，34( 3) : 459-461．
+［6］
+CHEN Y，LI G，LEI Y，et al． Lung cancer family history and expo-
+sure to occupational/domestic coal combustion contribute to varia-
+tions in clinicopathologic features and gene fusion patterns in non-
+small cell lung cancer［J］． Thorac Cancer，2019，10( 4) : 695-707．
+［7］
+CHEDGY E C，VANDEKERKHOVE G，HERBERTS C，et al． Bia-
+llelic tumour suppressor loss and DNA repair defects in de novo
+small-cell prostate carcinoma［J］． J Pathol，2018，246 ( 2) : 244-
+253．
+［8］
+KIT O I，VODOLAZHSKY D I，TIMOSHKINA N N，et al． EGFR
+mutations and tumor metastases in patients with non-small cell lung
+cancer in the South of Russia［J］． J BUON，2017，22( 6) : 1410-
+1415．
+［9］
+MAKAROV M，PELED N，SHOCHAT T，et al． Circulating tumor
+DNA T790M testing as a predictor of osimertinib efficacy in epider-
+mal growth factor receptor mutant non-small cell lung cancer: a sin-
+gle center experience［J］． Isr Med Assoc J，2019，21( 6) : 394-398．
+［10］
+SAITO H，FUKUHARA T，FURUYA N，et al． Erlotinib plus be-
+vacizumab versus erlotinib alone in patients with EGFR-positive
+advanced non-squamous non-small-cell lung cancer ( NEJ026) :
+interim analysis of an open-label，randomised，multicentre，phase
+3 trial［J］． Lancet Oncol，2019，20( 5) : 625-635．
+［11］
+龚磊，潘志文，覃晶，等． 非小细胞肺癌患者外周血表皮生长
+因子受体 T790M 检测与奥希替尼疗效的相关性研究［J］． 中
+国肿瘤，2019，28( 3) : 77-82．
+［12］
+ZOU M，WANG J，GAO J，et al． Phosphoproteomic analysis of the
+antitumor effects of ginsenoside Rg3 in human breast cancer cells
+［J］． Oncol Lett，2018，15( 3) : 2889-2898．
+［13］
+李根，陈文文，梁华，等． 人参皂苷 Rg3 联合 rh-ES 治疗乳腺癌
+荷瘤小鼠的实验研究［J］． 中国普通外科杂志，2017，26( 11) :
+1493-1497．
+［14］
+CAO Y，YE Q，ZHUANG M，et al． Ginsenoside Rg3 inhibits an-
+giogenesis in a rat model of endometriosis through the VEGFR-2-
+mediated PI3K/Akt/mTOR signaling pathway［J］． PLoS One，
+2017，12( 11) : 186-192．
+［15］
+XU W，NI Z，ZHANG M，et al． The role of polymorphisms in
+genes of PI3K/Akt signaling pathway on prostate［J］． J Cancer，
+2019，10( 4) : 1023-1031．
+［16］
+OKADA K，NOGAMI A，ISHIDA S，et al． FLT3-ITD induces ex-
+pression of Pim kinases through STAT5 to confer resistance to the
+PI3K/Akt pathway inhibitors on leukemic cells by enhancing the
+mTORC1 /McL － 1 pathway［J］． Oncotarget，2017，9( 10) : 8870-
+8886．
+［17］
+王耀伍，张宏义，尹春丽，等． 人尿激肽原酶通过激活 PI3K/
+Akt 信号通路减轻大鼠脑缺血再灌注损伤［J］． 中华神经医学
+杂志，2019，18( 5) : 459-463．
+( 本文编辑: 郭
+潇)
+·1017·
+第 11 期
+吴宙光，等: 环状 RNA 42398 调控转化生长因子-β1 /Smad 信号通路在大鼠胆道闭锁肝纤维化中的作用机制

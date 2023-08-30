@@ -1,0 +1,483 @@
+人参皂甙预防SAMP8小鼠空间参考
+记忆减退的作用和机制实验研究
+赵海峰12，李琼1。裴新荣1，张召锋1，王军波1，李勇1
+1．北京大学公共卫生学院营养与食品卫生学系，北京100191
+2．山西医科大学公共卫生学院营养与食品卫生学教研室，太原030001
+擒耍为探讨人参皂甙预防SAMP8小鼠空间参考记忆减退的作用和机制，本研究选用SPF级4月龄雄性SAMP8小鼠。将小鼠
+随机分为快速老化对照组和人参皂甙低、中、高3个剂量干预组，每组17只。人参皂甙3个剂■ 分别为50。100．200 mg／( kg· d) ，随
+饮水摄入．共干预7个月。另外。设同月龄的SAMRl 小鼠作为正常老化对照组。干预结束后，利用Moms水迷宫实验检测空间记
+忆参考能力。记忆检测时．加设4月龄SAMP8小鼠作为青年对照组。行为学检测完毕后．测定各组动物血清T—SOD、MDA及
+GSH—Px含量、小鼠海马神经元超微结构的改变以及海马组织中AJ Bl —2的表达。结果显示，人参皂甙100，200 mg／kg可以预防老
+年SAMP8小鼠空间参考记忆的减退，其增加小鼠体内的抗氧化水平、减轻海马神经元的氧化损伤以及减少A凸一2在海马组织中
+的沉积是改善记忆的重要机制。
+关■ 词人参皂甙；SAMP8小鼠；空间参考记忆；氧化应激
+中圈分类号R332
+文献标识码A
+文章簟号1000—7857( 2009) 17—0052—05
+The Prevent i on t he Memory Loss
+Through Long- t ermGi nsenosi de
+Consumpt i on i n Aged SAl 。P8
+Mi ceEed
+AM
+Mi ce
+上J
+by Decreasi ng Oxi dat i ve St ress
+ZHAO Hai f eng比，LI Qi on91，PEI Xi nron91，
+ZHANG Zhaof eng‘
+，WANG J unB01，LI Yon91
+1．Depart ment of Nut ri t i on and而甜Hygi ene．School of Publ i c
+Heal t h, Peki ng Uni versi t y, Bei j i ng 100191，Chi na
+2．Depart ment of Nut ri t i on and而甜Hygi ene．School of Publ i c
+Heal t h, Shaaxi Medi cal
+Uni versi t y, Tai yuan 030001，Chi na
+Abst ract
+To i nvest i gat e t he prevent i ve ef f ect of gi nsenosi de on t he
+spat i al
+ref e! rence memory i mpai rment
+i 11 Senescence
+Aecel crat ed
+Mouse Prone 8( SAMP8) and t he mechani sms，i n t he present st udy，
+SAMP8
+mi ce
+aged
+4
+mont hs
+were
+chroni cal l y
+t reat ed
+wi t h
+gi nsenosi de( si yen i n dri nki ng wat er．i n 3 dose groups and f or 7
+mont hs) ．The 3 dose groups were admi ni st ered wi t h gi nsenosi de of
+50，100 and 200 m以g per day，respect i vel y．Pl acebo—t reat ed aged
+mi ce and young mi ce( 4 mont hs
+ol d) were
+used
+as
+cont rol s．I n
+addi t i on，Senescence Accel erat ed Mouse Resi st ant 1( SAMRl ) mi ce
+were
+used as” normal
+agi ng” cont r01．ne
+benef i ci al
+rol e
+of
+gi nsenosi de was
+mani f est ed i n
+t he prevent i on
+of
+spat i al
+ref erence
+memory l oss
+i n aged SAMP8 mi ce．ne opt i mal
+dose of gi nsenosi de
+i s
+100 or
+200 mg／kg
+per day．I n gi nsenosi de t reat ed groups，t he
+ant i oxi dase l evel
+i n serumi s
+si gni f i cant l y i ncreased．However, t he
+nenroDS damage
+l evel
+of
+t he
+uhrast ruct ure
+and
+t he
+AJ BJ 一2 l evel
+markedl y decreased i n hi ppocampus．These f i ndi ngs suggest
+t hat
+t he
+i ncrease of ant i oxi dat i on may be one of mechani sms of t he memory
+l oss prevent i on of gi nsenosi de i n aged SAMP8 mi ce．
+隐，yw岫gi nsenosi de；SAMP8 mi ce；spat i al
+ref erence memory；
+oxi dat i ve st ress
+进行性记忆力丧失是阿尔茨海默病( Al zhei mer' s
+Di sease，
+AD) 的最主要的表现．并可累及语言功能直至完全失去生活
+自理能力而死于多种并发症。在西方国家，AD已成为继心血
+管疾病、恶性肿瘤和脑卒中之后的第4位死因．而中国AD患
+者的数量已经达到600万左右。因此．AD相关的老年记忆障
+收稿日期：2009- 08—) 6
+基全项目：国家“ 十一五” 科技支撑项目( 2006BAD27808)
+作者简介：赵海峰( 中国科协所属全国学会个人会员登记号：M102700166M) ，副教授，研究方向为营养与疾病．电子信箱：hai f engzhaol xm@yahoo．COf f l ．cn；
+李勇( 通信作者，中国科协所属全国学会个人会员登记号：M100102956M) ．教授，研究方向为营养与疾病，分子营养，分子与食品毒理学，电子
+信箱：l i yong@bj mu．edu．cn
+52科技导报2009．27( 17)
+ 万方数据
+碍已经成为严重危害人类健康的社会问题，给个人、家庭和
+社会带来沉重的精神和经济负担【阔。然而．目前老年记忆障
+碍的解决办法主要是在AD发生以后，使用乙酰胆碱酯酶抑
+制剂如多奈哌齐( donepezi l ) 等治疗。这类药物对于暂时缓解
+记忆障碍是有效的。但并不能预防或逆转潜在的神经功能衰
+退161。近几年提出的基因治疗虽有一定进展，但一直存在很大
+争议。因此，通过诸如功能性食品等干预手段早期预防与AD
+相关的老年记忆障碍的发生，对提高老年人的生活质量以及
+实现健康老龄化均具有重要的科学、经济和社会意义。
+快速老化小鼠( Senescence Accel erat ed Mouse。SAM) 是一
+类显示早衰的近交系小鼠，包括易快速老化小鼠( Senescence
+Accel erat ed
+Prone Mouse．SAMP) 和抗快速老化小鼠
+( Senescence Accel erat ed Resi st ant Mouse，SAMR) 两种品系。是
+日本京都大学培育而成的。SAMP8是SAMP系中的一个亚
+系，寿命约12一13个月，4～6个月后。SAMP8小鼠迅速出现以
+学习记忆能力障碍为主要表现的老化特征．并呈现出增龄性
+加速衰退变化，表现为被动回避和空间学习记忆能力下降。
+此外，中枢神经系统如皮层、海马等部位会出现病理学改变。
+因此，SAMP8是研究衰老与学习记忆功能和学习记忆功能障
+碍发生机制和评价益智药物的良好动物模型．也为这些研究
+提供了实验动物保证[ 7- 91。
+人参属五加科植物，主要药用部位是根。茎、叶也可入
+药。早在中国第一部药物学专著《神农本草经》中就记载了当
+时人们对人参的养生和治病功用的认识：“ 主补五脏，安精
+神，定魂魄，止惊悸，明目，开心益智。久服轻身延年” 。但关于
+其预防AD相关的老年记忆障碍的研究较少．并且机制还很
+不清楚。随着人参中活性物质( 人参皂甙) 的有效分离和提
+纯，上述研究成为可能，这也是本研究的主要目的。
+1材料与方法
+1．1材料和试剂
+人参皂甙购买于抚顺市兴京制药有限公司( 批号：
+20060501) ，淡黄色粉末状。郎l m多克隆抗体购自Abcam公
+司，蛋白提取和定量试剂购自北京博奥森生物技术有限公
+司。T—SOD、GSH—Px和MDA检测试剂盒购自南京建成生物
+制品工程研究所，其他试剂均为国产或进口分析纯。
+1．2主要仪器
+Morri s水迷宫系统( 中国医学科学院药物研究所) ，离心
+机( Eppendog 5840R) ，XH2B型旋涡混匀器，UV一762型分光
+光度计( 上海精密科学仪器有限公司) ，GeneAmp PCR一9700
+PCR扩增仪( 美国PE公司) ，蛋白质电转移装置( 美国Bi o—
+Rad公司) ，凝胶成像系统( 日本复Et 公司) 。
+1．3实验动物和分组
+SPF级4月龄雄性SAMP8和SAMRl 小鼠，由北京大学
+医学部实验动物中心提供。SPF级动物房饲养．饲养环境温度
+21～23℃，湿度50％～60％RH。动物随机分为快速老化对照组
+和人参皂甙50，100，200 mg／( kg· d) 共3个剂量组，每组17
+只，人参皂甙随饮水摄入。另外设月龄相同的SAMRl 正常老
+化对照组和4月龄SAMP8青年小鼠。所有动物自由摄食。人
+参皂甙干预7个月后，利用Morri s水迷宫实验检测小鼠的空
+间参考记忆，此外，为排除自主活动能力对记忆能力的影响．本
+研究利用旷场实验( open- f i el dt est ) 检测小鼠自主活动能力。
+1．4
+Morri s水迷宫实验
+人参皂甙干预结束后，利用改良Morri s水迷宫实验f - 01检
+测小鼠的定位航行和空间探索记忆能力。在定位航行实验
+中，小鼠放于水池中( 直径120 cm．高30 cm) 保持水温在20—
+21℃，池中放置一个藏于水下1 cm透明平台( 直径10 cm。高
+24 cm) 。水池人为划分为4个象限。将小鼠面向池壁放入水
+中．小鼠找到平台后让其在平台上停留10 s：若在90 8内小
+鼠不能找到平台。也将其人为引导到平台上并置于平台上停
+留10 s，则此小鼠的成绩即为其最大成绩90 S。连续7 d均对
+小鼠重复该实验，每天实验过程中小鼠初始放置的象限不
+同，但平台的位置始终固定在同一个象限。在训练的实验过
+程中，记录每次实验中小鼠找到平台的潜伏期。实验第8天
+时，撤离平台，进行空间探索实验，将小鼠从平台所在象限的
+对侧象限放入池中，小鼠自由游泳60 s后结束实验．该实验
+中记录小鼠在目标象限( 即平台所在的象限) 停留的时间以
+及小鼠准确穿越平台所在位置的次数。
+1．5旷场实验
+木制箱尺寸( 长× 宽X高) 为42 cmx42 cmx36 cm．内衬黑
+色垫纸，底部为白色，并画有5x5正方格。将小鼠放人中央
+格，记录5 mi n内小鼠的跨格数、进人中央格的次数、外周格
+停留时间、直立次数以及粪粒数。
+1．6血清抗氧化水平和海马神经元超微结构测定
+使用化学比色法测定血清中T—SOD．GSH—Px水平以及
+MDA含量，用透射电镜检测海马神经元的超微结构。
+1．7
+West ern bl ot 方法检测海马AB罐蛋白表达
+提取各组小鼠海马组织的蛋白．BCA法测定蛋白含量。进
+行电泳、转膜和免疫印迹．按ECL检测试剂盒进行显色、曝光、
+照相。Band Lead图像分析系统进行条带分析。抗体1：500稀释。
+1．8数据统计分析
+行为学实验结果以X：|c．sem表示．其他数据用X蜘d表示．
+用SPsS 13．0进行数据统计分析。Morri s水迷宫定位航行实验
+中的潜伏期利用重复测量的方差分析进行统计。Morri s水迷
+宫空间探索实验中，小鼠在目标象限的停留时间，穿越平台
+区的次数．旷场实验的相关指标．以及SOD、MDA和GSH—Px
+的比较利用单因素方差分析法。两组间比较按照方差是否齐
+同而采用LsD或Dunnet t ’
+s T3方法进行．以P<O．05为统计检
+验的显著性界值。
+2结果
+2．1
+参皂甙对小鼠自主活动能力的影响——旷场实验
+除青年对照组的站立次数、跨格数较其他各组高以外．
+其余各组之间的各个指标均无差异( 表1) 。
+科技导报2009．27I 17l
+53
+ 万方数据
+! 罗⋯ 一i ⋯ ⋯ 一‘ i ⋯ ～一⋯ ’ ’ ～～一‘ 一⋯ ⋯ ⋯ ⋯ “ 1‘ 。～’ ⋯ +。⋯ 4。‘
+一’ ’ 。⋯ ” ⋯ ⋯ ⋯ 1’ 璃
+。
+表1
+各组小鼠自主活动能力比较
+：
+“
+：Tabl e1
+The ef f ect
+of gi nsenosi de on l ocomot or act i vi t y of aged SAMP8 mi ce i n open f i el d t est
+?
+组别
+站立次数
+进入中央格次数
+跨格数
+外周停留时间，s
+注：· 表示与老年对照组比较P<0．05。
+Not e：‘
+moai l 8 P<0．05 8J J ∞呷ared wi tl I噼d cont zol
+group．
+2．2对小鼠空间参考学习记忆的影响——Morri s水迷宫实验
+2．2．1定位航行实验
+研究结果表明。人参皂甙干预可有效预防老年SAMP8小
+鼠的空间记忆的减退，并且表现出剂量依赖性。连续7天检
+测逃避潜伏期，每天进行4次实验。随着学习时间的延长，各
+组的潜伏期都表现出了降低趋势( 时间主效应统计结果是：
+F( 6，576) =123．46，P<0．001) 。各组的潜伏期具有显著性差异。
+组别主效应统计结果为：F( 5，96) =85．19，P<O．00l 。但时间和
+组别的交互作用没有统计学意义( F( 30，576) =0．602，P>O．05) 。
+老年对照组的逃避潜伏期较青年对照组以及SAMRl 小鼠的
+逃避潜伏期长( ，( 2，51) =171．49，P<0．001) 。而人参皂甙3个
+干预组的小鼠逃避潜伏期较老年SAMP8小鼠的潜伏期降低
+( F( 3，64) =82．84，19<0．001) ，100和200哗江g· BW两个干预剂
+量组的小鼠逃避潜伏期较老年SAMP8小鼠的潜伏期降低明
+显，差异具有显著性，干预后的两组和SAMRI 小鼠的潜伏期
+差异没有统计学意义。50 mg，l 【g· BW的干预组有降低的趋势，
+但差异没有统计学意义( 图1) 。
+{
+最g
+鍪
+捌
+橱
+图1
+各组小鼠逃避潜伏期随时间的变化
+Fi g．1
+The ef f ect of gi nsenosi de on t he escapE} l at ency
+of aged SAMP8 mi ce i n Morns wat er maze
+i n a dose- - dependent manner
+2．2．2空间探索实验
+实验进行的第8天，撤离定位航行实验中的平台进行空
+54科技导报2009．27f 17J
+间探索实验。老年SAMP8小鼠在目的象限的停留时间较青
+年对照组以及SAMRl 小鼠明显缩短．穿越平台所在的位置的
+次数较青年对照组也明显减少。而人参皂甙和200 ms／ks· BW
+干预的小鼠在目的象限的停留时间较老年SAMP8小鼠的时
+间明显延长( F=19．83，P<0．001) ，准确穿越原平台所在位置的
+次数明显增加( 尼- 2．735，P<0．05) ( 图2) 。
+图2各组小鼠在目标象限停留的时间
+及穿越平台的数量
+Fi g．2
+The ef f ect
+of gi nsenosi de i ncrease on t he t i me
+of mi ce spent
+i n t arget quadrant and t he
+number of pl at f ormcrossi ng
+注：’
+表示与老年SAMP8小鼠比较．P<0．05；” 表示与青年
+SAMl >8小置比较．P<O．01
+Notes：· m锄咖p删to aged SAMP8 cont rol ，P<O，05；
+’ ’ 眦蛐comp=Ml
+t O young SAMP8 cont r01．P<0．01
+∞∞∞加∞∞∞如∞m
+0
+ 万方数据
+2．3对小鼠血清T—SOD、MDA和GSH—Px的影响
+血清T- SOD和GsH—P】【的活性以及MDA的水平常用来
+作为老年动物模型体内氧化和抗氧化水平的生物标致。老年
+对照组SAMP8小鼠体内T- SOD和GSH—Px活性较青年对照
+组以及SAMRl 小鼠体内的活性降低，MDA水平明显升高。人
+参皂甙干预后，老年小鼠体内的GSH—Px和T—SOD活性升
+高，而MDA的水平明显降低。与SAMRl 小鼠相比，老年
+SAMP8小鼠血清T- sOD和GSH—Px的活性分别降低44．37％
+和50．14％，而MDA的水平增加27．49％。与青年对照小鼠相
+比．老年SAMP8小鼠血清T- SOD和GSH—Px的活性分别降
+低44．48％和101．01％。而MDA的水平增加38．48％。人参皂甙
+100ms／ks- BW干预组中．小鼠血清的T—SOD和GSH—Px较
+老年对照组增加了94．19％和73．40％，而MDA的水平降低约
+20．77％。此外．人参皂甙200 rag／ks干预组中小鼠血清的T—
+SOD和GSH—P】【较老年对照组增加了79．09％和64．32％，而
+MDA的水平降低了近34．94％( 表2) 。
+表2人参皂甙对小鼠血清T- SOD，GSH—Px和MDA水平的影响
+Tabl e 2 The ef f ect of gi nsenosi de on GSH- Px，T- SOD and MDA l evel
+i n serumi n aged SAMP8 mi ce
+注：与老年时照组比较．’
+为P<O．05．· ‘
+为P<O．OI ，与青年对照组比较．+为P<O．05，· 十为P<0．01。
+Not es：Compared t o aged control ‘ P<0．05，++舢．01。comp刹to young cont rol ，+P<0．05，’
+’
+P<O．01
+2．4海马神经元透射电镜的超微结构的观测
+老年SAMP8小鼠海马神经细胞的超微结构发生了明显
+的改变。与青年对照组相比，老年SAMP8小鼠海马神经细胞
+内线粒体嵴断裂或空泡样变。细胞核缩小、不规则，染色质浓
+缩深染。而人参皂甙干预组海马神经元细胞线粒体及细胞核
+的变化明显改善，此外，在干预组中可见大量的神经髓鞘，有
+利于神经信息的传递。
+图3所示为小鼠海马CAl 区的超微结构改变的典型变
+化。放大倍数为8 000倍。图中箭头所指的改变如下：图3( a)
+为老年SAMP8对照组中线粒体的断裂或缺失；图3( b) 为细
+胞核体积缩小。形状变的不规则状，染色质浓缩深染等；图3
+( c) 、( d) 为人参皂甙100 mgks· BW干预组的球形的细胞核
+和丰富的神经髓鞘；图3( e) 、( f ) 为SAMRI 小鼠海马组织中
+完整的球形细胞核和丰富的神经髓鞘；图3( g) 、( h) 为SAMP8
+青年对照组完整的超微结构图。
+2．5减少了小鼠海马组织中AJ Bl 违表达
+老年SAMP8小鼠海马的郑。吨蛋白表达量较青年对照
+组及SAMRl 对照组分别增加了97％( P<0．01) 和27％( P<
+0．05) 。然而。在人参皂甙100和200 ms／ks- BW两个干预组
+中，A口，一2蛋白表达量较老年对照组分别减少了16．33％j }I l
+25．6％。人参皂甙50 re#ks干预组中该蛋白在海马中的表达
+量与老年对照组差异无统计学意义( 图4) 。
+3讨论
+正常情况下．机体会产生少量自由基，但它们迅速被抗
+图3
+海马CAl 区神经元超微结构的改变
+Fi g．3
+The ef f ect
+of gi nsenosi de on t he damage l evel of
+t he neuron ul t rast ruct ure i n hi ppocampus
+科技导报2009。27117) 55
+ 万方数据
+图4海马组织中A晶一2的表达
+Fi g．4
+The ef f ect of gi nsenosi de on t he expressi on of A／31罐
+i n hi ppocampus
+i n aged SAMP8 mi ce
+氧化酶系统所破坏。随着年龄的增长，机体内物质代谢发生
+变化，酶活性改变从而使自由基产生过多或清除能力下降．
+对机能造成损害。实验研究发现，老年鼠在衰老过程中，由于
+自由基的作用而导致海马神经元死亡．而海马是动物学习记
+忆的重要神经解剖学结构，故导致学习记忆能力下降f J I 一。
+Ap。吨具有强的氧化作用，^筋罐的强氧化作用又可引起
+线粒体膜电位降低，并且有PTP( Permeabi l i t y Transi t i on Pore)
+的形成，致使一系列凋亡启动因子的释放，进而出现细胞核
+染色体凝聚、DNA断裂等形态学改变。线粒体受损会产生氧
+化应激，而氧化应激又加剧了线粒体的损害作用【131。
+已有文献报道．大鼠膳食中补充人参粉能有效减少ROS
+的产生、促进内源性抗氧化酶的生成，减少衰老导致的蛋白
+氧化以及脂质的过氧化【14J 。本研究发现，人参皂甙可以通过增
+强机体内的抗氧化酶的活性、减少氧化产物的形成以及A口。罐
+在海马组织中的沉积、减少海马神经元的超微结构的改变而
+预防老年SAMP8小鼠的空间参考记忆的减退。
+当然，记忆的机制相当复杂．如神经营养的改变、突触形
+态和功能的改变、中枢神经递质及受体的改变、钙离子浓度
+的改变、细胞凋亡及相关基因表达的改变、信号转导的改变
+如PKC—Ng—CaMKI I 途径、cAMP／PKA—CREB途径、NO／cGMP
+信号转导系统的改变等．这些机制仍需进一步研究。
+4结论
+本实验中剂量为100．200 ms／ks的人参皂甙可以预防老
+年SAMP8小鼠的空间参考记忆的减退．其增加小鼠体内的
+抗氧化水平、减轻海马神经元的氧化损伤以及减少郑。罐在
+海马组织中的沉积是改善记忆的重要机制。
+56科技导报2009．27( 17 J
+参考文献《Ref erences)
+【l 】裴新荣，杨睿悦，赵海峰，等．海洋胶原肽改善老年记忆作用的试验研
+究【J 】．科技导报，2009，27( 1 6) ：26—31．
+Pei
+Xi nrong，Yang Rui yue，Zhao
+Hai f eng, et a1．Sci ence＆Technol ogy
+Revi ew。2009，27( 16) ：26- 31．
+【2】Smal l
+S A．Age—rel at ed memory del i ne：current
+concept s
+and f ut ure
+di recti ons[ J ] ．Arch Neurol ，2001，58：360- 364．
+【3】全国老龄办公室．中国人口老龄化发展趋势预测研究报告[ R】．北京，
+2004．
+Chi na Nat i onal
+Commi t t ee on Agei ng．The report
+of devel opment al
+t rend
+on Chi na’
+s popul at i on agi ngf R] ．Bei j i ng，2004．
+【4】Hacman D．Al zhei mer’
+S di sease pat hogenesi s：rol e of agi ng田．AnnⅣY
+Acad Sci ，2006，5：454．460．
+【5】Zawi a
+N H，Basha
+M R．Envi ronment al
+ri sk
+f act ors
+and
+t he
+devel opment al
+basi s f or A] zhei mer' s di sease【J 】．Rev Neurosci ，2005，16
+( 4J ：325- 337．
+【6】Tohda C，Ma乜umot 0 N，Kun Z，et 以．A芦( 25- 35) - I ndueed
+memory
+i mpai rment ，axonal
+at rophy，and synapt i c l oss
+are amel i orat ed by M1，A
+met abol i t e of protopanaxadi ol —type saponi ns叽．Neuropsychopharmacol ogy,
+2004，29( 5) ：860—868．
+【7】7
+But t erf i el d D A，Poon H F．The senescence- accel erat ed
+prone mouse
+( SAMP8) ：A model
+of age—rel at ed cogni t i ve decl i ne wi t h rel evance
+t o
+al t erat i ons
+of
+t he
+gene
+expressi on
+and
+prot ei n
+abnormal i t i es
+i n
+Al zhei mer7s di sease[ J ] ．Experi mental
+Geront ol ogy。2005．40：774- 783．
+[8】8
+Fl ood J
+F，Morl ey J E．Learni ng and memory
+i n t he SAMP8 mouse叨．
+Neurosci ence and Bi obehavi oral Revi ews，1998，22：1- 20．
+【9】9
+Nakayama T，Sawada T．I nvol vement
+of mi cmt ubul e i nt egri t y
+i n memory
+i mpai rment caused by col chi ci nes们．Pharmacol Bi ochem成^∞，2002，
+7l ：119一138．
+【10】Chen G H，Wang Y J ，Qi n S，et 以Age- rel at ed spat i al
+cogni t i ve
+i mpai rment
+i s
+correl at ed埘t I I
+i ncrease of
+synapt ot agrai n
+l
+i n
+dorsal
+hi ppocampus i n SAMP8 mi ce[ J ] ．Neurobi ol ogy of Ag／ng, 2007，28：61 1-
+618．
+【11】Al varez- Garct a O，Vega- Naredo I ，Si erra V，et
+a1．El evat ed oxi dat i ve
+st ．regs i n t he brai n of senescence- accel erat ed mi ce
+at
+5 mont hs of
+age
+【J 】．Bi ogerontol ogy，2006，7：43- 52．
+【12】Cho Y M，Bac S H，Choi ，B K et af ．Di f f erent i al
+expressi on of t he l i ver
+prol eome i n
+senescence accel erat ed mi ee[ J 】．Proteorai cs，2003，3：1883-
+1894．
+【13J 赵海峰，肖荣．Al zhei mer氏病基因突变及病理改变的研究进展册．中
+国公共卫生，2002，18( 7) ：880—882．
+Zhao Hai f eng, Xi ao Rong．Chi na Publ i c Heal t h，2002，18∽：880- 882．
+【14】Fu
+Y，J i
+L Chroni c
+gi nseng
+consumpt i on at t enuat es age- associ at ed
+oxi dat i ve st ress i n rat8[ J ] ．The J ournal of Nut ri t i on, 2003：3603～3610．
+( J r任壕辑王芷)
+欢迎向“ 学术聚焦” 栏目推荐会议文集
+《科技导报》“ 学术聚焦” 栏目旨在围绕当前某一与科
+技相关的热点问题展开讨论，客观、简洁、集中地发表原创
+性科技成果或专家的创新言论。每期将从科学会议、学术
+沙龙的众多科研报告中精选l O篇左右，从中提炼成一篇4
+500字左右的综述性文章。以反映研究者的重要研究成果
+和主要学术观点。欢迎科技会议、学术沙龙、学术论坛组织
+者及时提供会议论文集、主要报告材料。栏目责任编辑：陈
+广仁博士；投稿信箱：chenguangren@casLorg．cn。
+ 万方数据

@@ -1,0 +1,476 @@
+· 60·
+山西中医2023年2月第39卷第2期sHANⅪJ oFTcM Feb．2023、『01．39
+No．2
+· 实验研究·
+人参皂苷Rd对锌指E盒结合蛋白1
+抑制脑胶质瘤细胞增殖和血管生成的影响
+陈碧茵
+王文武石淑平林芳峰
+摘要：目的：探讨人参皂苷Rd( g如enosi de Rd，Gs—Rd) 对锌指E盒结合蛋白1( zmc一6n萨r E_box bi ndi ng pmt e访1，zEBl ) 在
+脑胶质瘤血管生成中的分子调控机制的影响。方法：采用qRT—PcR检测zEBl 在脑胶质瘤细胞系中的表达。采用分子对接模拟
+实验预测与zEBl 结合的小分子。构建zEBl 过表达／沉默表达细胞系研究zEBl 在脑胶质瘤中的调控作用，采用west embl o凇恻
+血管内皮生长因子A( ％cul ar endod砣l i al 四ro、Ⅳ吐l 矗ct or A，ⅦGFA) 的蛋白表达水平，通过ccK- 8实验、血管形成实验检测Gs—Rd
+处理对细胞增殖和血管生成能力的影响。结果：zEBl 在脑胶质瘤细胞中高表达，且促进脑胶质瘤细胞增殖和血管生成。Gs—Rd
+被预测到能与zEBl 结合，并且能明显抑制脑胶质瘤细胞增殖和血管生成。回复实验结果显示，Gs—Rd处理可显著抑制zEBl 过
+表达诱导的脑胶质瘤细胞增殖和血管生成。结论：该研究证实了Gs—Rd通过结合zEBl 抑制脑胶质瘤血管生成的分子机制，应用
+Gs—Rd或抑制zEBl 功能可能是抑制脑胶质瘤血管生成和肿瘤生长的可行途径。
+关键词：脑胶质瘤；血管生成；锌指E盒结合蛋白1；人参皂苷Rd；实验研究
+中图分类号：R739．4l
+文献标识码：A文章编号：1000一7156( 2023) 02—0060—05
+DOl ：10．20002／i ．i ssn．1000一7156．2023．02．025
+l nhi bi t O吖e仟eCt Of gi nSenOsi de Rd bOund l O zj nc f i nger E—bOx bi ndi ng prOt ei n 1 On Ce¨
+pr01．f erat j on and angi Ogenesi s Of brai n gl i oma
+CHENBi —yi n，WANGWen—wu，SHI Shu—pi ng，et a1．
+( The Thi rd Peopl ef s Hospi t 越A舔l i at ed t o Fu{i an Uni veEsi t y Qf Tradi t i on越Chi nese Medi ci ne．Fuzhou
+350108，∞面a)
+Abstract：Obj ecti ve：To appmach t he m01ecul ar regul at i on mechani smof zi nc f i nger E—box bi ndi ng prot ei n
+1( zEBl ) on an西。驴nesi s 0f bmi n甜i oma．Met hods：The expressi on of ZEBl
+i n ceU l i nes of brai n gl i oma was det ect ed
+by qRT—PCR．The smau mol ecul es bound t o ZEB 1 were predi ct e by si m山ti on eXperi ment
+of m01ecul ar docki ng·
+The
+ceⅡl i nes f br overexpressi on／si l ence expressi on of ZEB1 was const l l l ct ed i n order t o research t he regul at i ng ef kct of
+ZEB1 on brai n di oma．The pmt ei n expressi on l eveI
+of vascul ar endot hel i al gm砒h f act or A( VEGFA) was det ect ed by
+West embl ot ．The ef f bct of gi nsenosi de Rd( GS—Rd) t reat ment
+on cel l prol i f brat i on and angi ogenesi s was det ect ed by
+CCK一8 experi ment and angi ogenesi s experi ment ．Resul t s：zEB 1 was hi ghl y expressed i n ceUs of brai n甜i oma，and
+pmmot ed t he cel l pml i f erat i on and angi ogenesi s of brai n di oma．It was predi ct ed t hat GS—Rd coul d bi nd t o ZEB1 and
+si gni f i cant l y i nhi bi t t he ceU prol i f erat i on and an西ogenesi s of brai n出i oma．The resul t s of
+rescue experi ment showed
+t hat GS—Rd t reat ment coul d si gni f i cant l y i nhi bi t t he cel l prol i f bmt i on and angi ogenesi s of brai n di oma i nduced by
+overexpressi on of ZEB1．Concl usi on：Thi s research conf i rms t he mol ecul ar mechani smof ZEB1一bound GS—Rd
+i nhi bi t i ng angi ogenesi s of brai n di oma．The appl i cat i on of GS—Rd or i nhi bi t i on of ZEB1 f unct i on may be a f easi bl e
+印proacht o i nhi bi t i ng肌西ogenesi s and t umor gm叭h of brai n gl i oma．
+Keywords：brai n gl i oma，angi ogenesi s，zi nc f i nger E—box bi ndi ng prot ei n 1( zEB1) ，gi nsenosi de Rd( GS—
+Rd) ，experi ment al research
+基金项目：福建省自然科学基金项目( 编号：202叫01767) 。
+作者简介：陈碧茵，女，硕士，副主任医师，福建中医药大学附属
+第三人民医院( 福州350108) ；王文武、石淑平、林芳峰，单位同第
+一作者。
+通讯作者：王文武，E—mai l ：酗yqw_4657@163．c( ) m
+脑胶质瘤是最常见、最具侵袭性的原发性脑恶性肿
+瘤之一，复发率和死亡率高。脑胶质瘤细胞可以通过分
+泌血管内皮生长因子( vascul ar endot hel i al gmwt h f act or A，
+vEGFA) 和其他促血管生成因子，促进血管内皮细胞的生
+长。同时，胶质血管内皮细胞能分泌多种促进肿瘤生长的
+万方数据
+山西中医2023年2月第39卷第2期
+sHANxI
+J OF TcMFeb．2023
+V01．39
+No．2
+‘ 61．
+因子，促进脑胶质瘤细胞的生长。因此，探究影响脑胶质瘤
+血管生成的分子调控机制非常必要。
+锌指E盒结合蛋白l ( zi nc—f i nger E- box bi ndi ng prot ei n
+1，zEBl ) 是转录因子网络的主要元件。有研究显示，zEBl
+可以上调VEGF的表达并刺激乳腺癌血管生成⋯ 。Chen等¨ 1
+研究表明ZEBl 受到mi R一23b的负调控，进而抑制胶质瘤细
+胞的血管生成、迁移和侵袭能力。上述研究并未完全揭示
+zEBl 在调节脑胶质瘤血管生成中的作用机制，笔者拟进一
+步探寻在脑胶质瘤中影响zEBl 调控作用的新机制。
+该研究探究了人参皂苷Rd( gi nsenosi de Rd，Gs—Rd) 对
+zEBl 的影响以及在脑胶质瘤细胞增殖和血管生成中发挥
+的调控作用，为进一步认识脑胶质瘤血管生成机制提供了
+新的见解。
+1材料与方法
+1．1
+细胞培养和药物处理：人胶质瘤细胞系u3 7 3
+( BNCC338603) 、A172( BNCC341782) 、U87( BNCC337885)
+和u25 1( BNCC337874) ，以及人正常脑胶质细胞系
+HEB( BNcc338123) 、人皮静脉内皮细胞HuvEcs
+( BNCC337632) 均购自北纳生物( BNCC，中国) 。所有细胞
+在37c|C、5％c02的条件下，培养在DMEM培养基( 10％FBs，
+Gi bco，美国) 中。GS—Rd( C48H。2018' CAS号52705—93—8，纯度
+≥98％) 购自ChemFaces( 中国) ，溶解于DMSO中，储存浓
+度为500斗M，，用培养基稀释至100¨ M用于处理细胞。
+1．2细胞转染：si —zEBl 和oe—zEBl 及其各自的阴性对照
+( Nc) 均由Ri bobi o公司合成( 中国) 。当细胞融合达到50％
+左右时，使用Li pof ect ami ne 3000( I nvi t mgen，美国) 瞬时转
+染细胞。48 h后收集细胞。
+1．3
+qRT—PCR检测：根据制造商的方案，使用Tri zol
+( I nvi t mgen，美国) 从细胞中分离总RNA。用0ne st ep sYBR
+Pri meScri pt RT—PCR Ki t ( Takara Bi omedi cal Technol ogy，日
+本) 检测ZEBl 的表达水平，以GAPDH为内源性对照。qRT—
+PcR使用7500 Real —t i me PcR syst em( Appl i ed Bi osystems，美
+国) 分析。使用2“ ¨ 。方法计算RNA的相对表达水平。zEBl
+的上游引物为57一GATGATGAATGCGAGTCAGATGC一3’
+，
+下游引物为5’
+一cTGGTCCTCTTCAGGTGCC一3’
+，GAPDH的
+上游引物为5’
+一AGGTCGGTGTGAAcGGATTTG一3’
+，下游
+弓I 物为5’
+一GGGGTCG7I TGATGGCAACA一3’
+。
+1．4
+west ern bl ot 实验：west embl ot 的具体操作步骤按照前
+述方法进行‘ 3I 。该研究所用的一抗：兔抗血管内皮生长因子
+A( Vascul ar Endot he“ al Gmwt h Fact or A，VEGFA，ab46154)
+和兔抗GAPDH( abl 81602) ，二抗：羊抗兔I gG( ab205718) ，
+均购自Abcam( 英国) 。
+1．5
+ccK一8实验：ccK一8检测试剂盒( Beyot i me，中国) 用
+于检测细胞增殖能力。将细胞以2 000个细胞／孔的密度接
+种在96孔板中，培养0 h、24 h、48 h、72 h后每个孑L加入10汕
+CCK一8溶液在37℃下孵育2 h。使用酶标仪在450 nm处测定
+OD值。
+1．6血管生成实验：Mat ri gel ( corni ng，美国) 基质胶在4℃
+下解冻过夜。将75“ L基质胶添加到预冷的96孔板中，然后
+在37℃下培养60 mi n。将细胞悬浮液以2．5× 104个细胞／孔
+的密度添加到96孔板中。待细胞贴壁后，用转染脑胶质瘤
+细胞条件培养基( cul t ured medi um，cM) 替换原培养基。培
+养4～6 h后，显微镜下拍照。
+1．7分子对接模拟：为了进行分子对接分析，从蛋白质数
+据库( hIl ps：／／www．rcsb．org／) 中获得了目标蛋白质zEBl 的结
+构。除去额外配体和所有非标准残基( 水，N一乙酰氨基葡
+萄糖和锌) 作为参照蛋白质。添加缺失的氢，并分配残基的
+最佳电离状态。从小分子药物数据库( https：／／go．drugbank．
+com／) 下载潜在靶向小分子结构。使用Aut odock进行分子
+对接并得到结合能。用Pymol 处理对接的结果进行可视化
+并导出图片。
+1．8数据分析：所有实验至少进行3次。数据以“ 均值± 标
+准差” 表示。所有统计分析均在GraphPad蹦sm versi on 6中
+进行。统计评估采用两组间的双尾St udent ’ s—t 检验或单因
+素方差分析。
+2结果
+2．1
+zEB1在脑胶质瘤异常上调：TcGA数据库分析表明，
+与癌旁正常组织比较，zEBl 在脑胶质瘤组织中显著高表达
+( P=0．0086) ( 图1A) 。qRT—PCR结果显示，ZEBl 在脑胶质瘤
+细胞系中显著高表达( P<O．01) ( 图1B) 。表明ZEBl 在脑胶
+质瘤异常上调。
+gI nl l l l
+注：A：Expressi on of ZEBl
+i n gl i omas and adj acent t i ssues；B：The expressi on of ZEBl
+i nf our gl i oma cel l l i nes( U373，A172，U87
+and u25 1) and no瑚a1 human brai n甜i al cel l s( HEB) was det ect ed by qRT—PcR；卑P<0．050．
+图1
+ZEBl 在脑胶质瘤异常上调
+万方数据
+· 62·
+山西中医2023年2月第39卷第2期
+sHANxI J OFTcM Feb．2023
+V01．39
+No．2
+2．2过表达zEBl 促进脑胶质瘤细胞增殖和血管生成：qRT—
+PCR结果显示，zEBl 沉默表达后A172细胞的zEBl 表达水
+平显著低于对照组( 尸=0．0002) ；zEBl 过表达后u87细胞
+的zEBl 表达水平显著高于对照组( P=0．0017) ( 图2A) 。
+ccK一8结果显示zEBl 沉默表达后A172细胞的增殖能力显
+著低于对照组( 尸=0．0018) ；zEBl 过表达后u87细胞的增殖
+能力显著高于对照组( P<O．0001) ( 图2B) 。west ern bl ot 结
+虹薹h
+si ．NC
+si ．ZEBl
+VEG阶渊嶙瓣A172
+GAPDH镯簟赢黧簟醚i i Ii i —◇
+oe．NC oe—ZEB l
+VE吣；聱赣u87
+GAPDH潮朦陶溯辍
+B
+D
+果显示，与对照组比较，zEBl 沉默表达细胞中VEGFA的蛋
+白表达水平显著降低，而zEBl 过表达细胞中VEGFA的蛋白
+表达水平显著增加( 图2C) 。血管形成实验结果显示，相较
+于对照组，si —zEBl 处理显著抑制了血管形成( P=0．0024) ，
+oe—zEBl 处理显著促进了血管形成( P=0．0010) ( 图2D) 。
+以上结果表明，过表达zEBl 可显著促进脑胶质瘤细胞的增
+殖和血管生成能力。
+汕
+24h
+4曲
+72b
+A172
+0h
+2扎
+48h
+72h
+U87
+si ．NC
+si ．ZEBl
+oe．NC
+oe．ZEBl
+E门E】E■ 圉
+虹l {h
+注：A：qRT—PCR experi ment
+t o veri f y t he t ransf ect i on ef f i ci ency of zEBl ；B：ccK一8 assay was used t 0 det e瑚i ne t he cel l
+vi abi l i t y
+of
+cel l s i n di f 玷rent t reat ment groups；C：West ern bl ot was used t o det ect t he pmt ei n expressi on l evel
+of VEGFA i n cel l s i n di f 扎rent
+t reat ment groups；D：Det ect i on of an舀ogenesi s i n HUVECs t reat ed wi t h di 蠡f erent condi t i oned medi um；半P<0．050．
+图2过表达ZEBl 促进脑胶质瘤细胞增殖和血管生成
+2．3
+Gs—Rd是zEBl 的潜在靶向药物：见图3。
+B
+注：A：Combi nat i on mode di agmmof GS—Rd and ZEBl ；B：The
+3D moI ecul ar docki ng model
+i s used t o si mul at e t he bi ndi ng
+mode of GS—Rd and ZEBl ．
+图3
+GS—Rd是ZEBl 的潜在靶向药物
+生物信息学模拟结果表明GS—Rd与zEBl 的结合可能性
+较大。通过计算机模拟，可视化Gs—Rd与zEBl 具有潜在结
+合关系( 图3A一3B) 。推测Gs—Rd是zEBl 的潜在靶向药物。
+2．4
+Gs—Rd抑制脑胶质瘤细胞增殖和血管生成：ccK一8结
+果显示，u87在Gs—Rd中24 h、48 h和72 h的I c50值分别为
+102．6斗M、54．20斗M和17．74斗M( 图4A) 。细胞杀伤实验结
+果显示，与单独使用DMs0比较，Gs—Rd处理显著抑制了u87
+细胞活力( P=0．0019) ( 图4B) 。west embl ot 结果显示，不同
+浓度( 50斗M、100斗M和200斗M) 的GS—Rd处理24 h均显著抑
+制了vEGFA的蛋白表达( 图4c) 。血管形成实验结果显示，
+Gs—Rd处理以剂量依赖性方式显著抑制HuvEC细胞血管形
+成( P<0．01) ( 图4D) 。以上结果表明，Gs—Rd可显著抑制脑
+胶质瘤细胞增殖和血管形成。
+5
+O
+5
+0
+A
+_即N≮j¨￡o。即；￡“E
+c
+描
+¨
+¨
+帅
+*g罩l宣‰In五暑言Ja丑Ejc
+o三甍≮匹
+万方数据
+山西中医2023年2月第39卷第2期
+sHANxI
+J OF TcMFeb．2023
+V01．39
+No．2
+· 63·
+A
+u87
+B
+D
+住0
+^
+爨90
+V
+当
+兰60
+暑
+三30
+写
+o
+0
+U87。_DMso
+0
+100
+200
+300
+400
+O
+Gs．R舢Ml
+Ti me( h)
+GS—Rd( 肛M)
+O
+50
+100
+200
+GS．Rd
+|誊誊蜚i =|1】■ i |i 1|}i i fJ
+C
+GS—Rd( “ M)
+O
+VEGFA
+GAPDH
+50
+100
+200
+囊震霹i 黛麓粪l 鬻滋i
+0
+S0
+100
+200
+Gs—Rdi pMl
+注：A：U87 cel l s were exposed t o t he i ncreased concent mt i on of GS—Rd f or 24 h，48 h and 72 h respect i vel y，and t he I C50 val ue of GS—
+Rd on humaI l gl i oma ceUs was det emi ned by CCK一8：B：Use GS—Rd( 100斗M) or DMS0 t reat ment
+of U87 ceUs f or 24 h，usi ng CCK一
+8 t o det e瑚i ne t he vi abi l i t v 0f human gl i oma U87 cel l s；C：West embl ot was used t o det ect t he prot ei n expressi on l evel of VEGFA i n cel l s
+t reat ed wi t h GS—Rd( 0斗M，50斗M，100斗M，200斗M) f or 24 h；D：Det ect i on of angi ogenesi s i n HUVECs t reat ed wi t h GS- Rd( 0肛M，
+50斗M，100斗M，200斗M) f or 24 h；4P<0．050．
+图4
+GS一刚抑制脑胶质瘤细胞增殖和血管生成
+2．5
+Gs—Rd可以抑制zEBl 引起的脑胶质瘤增殖和血管
+生成：qRT—PcR结果显示，与oe—Nc+DMs0组相比，oe—
+zEBl +DMs0组zEBl
+mRNA表达水平显著增高( 尸<0．0001)
+( 图5A) 。ccK一8分析结果显示，Gs—Rd处理后显著抑制
+了zEBl 过表达脑胶质瘤细胞的增殖能力( P=0．0006) ( 图
+5B) 。west ern bl ot 结果显示，与oe—Nc+DMs0组比较，oe—
+zEBl +DMs0组细胞中vEGFA的蛋白表达水平显著增
+A
+I 】87
+一。e．Nc+DMso
+B
+D
+加，而与oe—zEBl +DMs0组比较，oe—zEBl +Gs—Rd组细
+胞中VEGFA的表达水平明显降低( 图5C) 。血管形成实
+验结果显示，相较于oe—NC+DMS0组，oe—zEBl +DMSO组
+HuVEcs血管生成能力显著增强( P=0．0012) ，而相较于oe—
+zEBl +DMS0组，oe—ZEBl +GS—Rd组HUVECs血管生成能力
+显著减弱( P=0．0017) ( 图5D) 。Gs—Rd可显著抑制zEBl 诱
+导的脑胶质瘤细胞增殖和血管生成。
+l 『fi 7
+C
+U87
+oe—NC+
+DMSO
+oe—ZEBl 十
+DMS0
+oe—ZEBl +
+GS．Rd
+鬣涸囡鬃■
+U87
+Oe．NC+DMSO
+oe- ZEBl +DMSO
+oe．ZEBH- GS．Rd
+注：A：Detecti on of zEB 1 mRNA expressi on l evel by qRT—PcR；B：The cel l vi abi l i t y of ceUs i n di 妇f erent t reat ment gmups was det e珊i ned
+by CCK一8 met hod；C：West embl ot was used t o det ect
+t he pmt ei n expressi on 1evel
+of VEGFA i n cel l s of di f f ' erent
+t reat ment gmups；D：
+An百ogenesi s i n HUVECs i n di f 玷rent condi t i oned medi umt reat ment gmups was det ect ed；术P<0．050．
+图5
+GS—Rd可以抑制ZEBl 引起的脑胶质瘤增殖和血管生成
+“
+枷
+瞄
+帅
+∞=0苗^巨k0J
+k点：o=_．Jo
+k占E=E∞^I_量q篮
+4
+3
+2
+l
+0
+一酋蝴NJ0
+Eo—l￡A×∞《虿g∞三甍百崔
+3
+2
+1
+0
+∞=o=■置koJ鲁In上暑Jo
+kaqEjc
+o^I；一星
+万方数据
+· 64·
+山西中医2023年2月第39卷第2期
+sHANxI J oF TcMFeb．2023
+V01．39
+No．2
+3讨论
+血管生成是产生肿瘤相关新生血管的生理过程，由促
+血管生成因子和抗血管生成因子的正常平衡控制。研究表
+明，VEGFA是最显著的促血管生成因子之一，在促进多种人
+类肿瘤的血管生成中起着至关重要的作用。由于恶性脑胶
+质瘤具有很强的血管侵袭性，因此，揭示脑胶质瘤血管生成
+的分子机制对于个体化治疗具有重要意义。
+zEBl 是EMT过程中的重要转录因子，参与胚胎发育、
+纤维化和肿瘤进展等多种生命过程。在血管生成的相关研
+究中，Rong Fu等H研究表明内皮细胞zEBl 的缺失可减少H
+型血管形成。xi a等¨ 研究表明l ncRNA FGD5一ASl 通过结合
+mi R—454—3p上调zEBl 增加VEGFA的表达，从而促进非小细
+胞肺癌的血管生成，该研究证实了zEBl 在脑胶质瘤中发
+挥促癌作用。细胞功能实验结果显示，ZEBl 促进脑胶质瘤
+细胞增殖和血管生成，与前人的研究结果一致。另外，有研
+究研究表明zEBl 在肿瘤中受到人参提取物的调控。例如，
+人参皂苷R93在鼻咽癌细胞中抑制了zEBl 的表达【6l 。该研
+究通过生信分子对接研究表明Gs—Rd是zEBl 的潜在靶向药
+物。
+人参皂甙Rd化学式为c。。H。：0，。· 3H：0，是从中草药人参
+中分离出来的生物活性化学物质，可在抗炎、抗衰老、神经
+保护中发挥重大作用，对乳腺癌、宫颈癌、胃癌、结直肠癌等
+具有显著的抗增殖、转移，促凋亡作用。研究表明，在人脑
+胶质瘤中，Gs—Rd可能通过抑制端粒酶活性，下调Bcl 一2和
+I l T】ERT的表达来抑制人神经胶质瘤u251细胞的增殖并促进
+细胞凋亡⋯ 。最近，Li u等¨ J 研究表明Gs—Rd通过上调mi R一
+144—5p表达抑制胶质母细胞瘤细胞增殖。该研究表明Gs．
+Rd以时间和剂量依赖的方式抑制人胶质瘤细胞株的细胞活
+力，并且Gs．Rd的处理显著减少了HuvEC管状结构的形成，
+与前人研究一致。我们在进一步的探究中表明用Gs—Rd处
+理zEBl 过表达的脑胶质瘤细胞后，脑胶质瘤细胞的增殖和
+血管生成能力明显受到抑制。由此可知，GS—Rd可能是一
+种有前途的抗血管生成药物，在人类脑胶质瘤中具有显著
+的抗肿瘤活性。
+综上所述，该研究证实了Gs—Rd通过抑制zEBl 的表达
+抑制脑胶质瘤细胞的增殖和血管生成，首次揭示了Gs—Rd
+调节zEBl 在脑胶质瘤细胞血管生成过程中的作用。由于该
+研究仅在细胞水平对Gs—Rd／zEBl 在脑胶质瘤血管生成中
+的作用进行了初步探究，尚未在动物水平和临床水平进行
+验证，这是该研究的不足之处。未来本团队将进一步寻找
+Gs—Rd／zEBl 轴调控的下游信号通路，并通过动物实验和临
+床试验深入探究Gs—Rd／ZEBl 轴在脑胶质瘤中的功能。该
+研究结果不仅为脑胶质瘤的血管生成提供了新的机制，而
+且为脑胶质瘤的抗血管生成治疗提供了潜在的靶点。
+参考文献：
+[ 1]
+Li u L，T0ng Q，“ u S，et a1．ZEBl
+upregul at es VEGF Exp托ssi on
+and St i mul at es An西ogenesi s i n Breast Cancer[ J ] ．PLoS 0ne，
+2016．11( 2) ：e0148 774．
+[ 2]
+chen L，Zhang K，shi
+z，et
+a1．A 1ent i vi rus—medi at ed mi R一23b
+sponge di mi ni shes t he mal i gnant phenot ype of 甜i oma cel l s
+i n
+vi t ro andi n vi vo[ J ] ．0ncoI Rep，2014，3l ( 4) ：1 573—1 580．
+[ 3]
+Yao H，Hou G，Wang QY，et al _LncRNA SPRY4一I Tl
+promot es
+progressi on of
+ost eosarcoma by regul af i ng ZEB 1 and ZEB2
+expressi on t hrough 8pongi ng of mi R一101 acti vi ty[ J ] ．Int J
+0nc01．2020，56( 1) ：85—100．
+[ 4]
+Fu R，Lv
+wC，xu Y，et a1．Endot hel i al
+ZEBl
+promot es
+an西ogenesi s—dependent bone f 0Ⅱnat i on and revers档os￡eopomsi s
+[ J ] ．Nat commun，2020，11( 1) ：460．
+[ 5]
+Xi a Y，Wang WC，Shen WH，et
+a1．Thal i domi de suppresses
+angi ogenesi s and i mmune evasi on vi a l ncRNA FGD5一ASl ，nl i R一
+454—3p／ZEBl
+axi s—medi aCed VEGFA e】【preggi on蛐d PD—l ／】PD—
+L1 checkpoi nt
+i n NSCLC[ J ] ．ChemBi ol I nt emct ，2021( 349) ：
+109 652．
+[ 6]
+wang D，Wu C，Li u D，et a1．Gi nsenosi de R93 I nhi bi t s Mi gr砒i on
+and I nvasi on of Na8叩haryngeaI Carci noma Ceus arI d Suppresses
+Epi t hel i al
+Mesenchymal Transi t i on[ J ] ．Bi omed Res I nt ，2019
+( 2019) ：8 407 683．
+[ 7]
+Gu B，wang J ，Song Y，et
+a1．The i nhi bi t ory e船ct s硝画nsenosi de
+Rd
+on t he human gI i oma U25l
+ceI l s and i t s underI yi ng
+mechani sms[ J ] ．J CeuBi ochem，2019，120( 3) ：4444—4450．
+[ 8] Li u GM，Lu TC，Sun ML，et
+a1．Gi nsenosi de Rd I nhi bi t s
+G1i ohl ast oma Cel l Pml 如mt i on by Up—RegIl l “ ng tl l e Expre8si on
+of mi R—144—5p[ J ] ．Bi ol PhamBul l ，2020，43( 10) ：l
+534一
+l
+541．
+( 收稿日期：2022一l l 一08)
+本文编辑：宋雨
+万方数据

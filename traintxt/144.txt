@@ -1,0 +1,714 @@
+2023 年 1 月 5 日 第 32 卷第 1 期
+Vol. 32，No. 1，January 5，2023
+China Pharmaceuticals
+doi:10.3969 / j.issn.1006 - 4931.2023.01.011
+多囊卵巢综合征（PCOS）是一种以多囊卵巢、高雄
+激素血症和无排卵为特征的复杂生殖内分泌疾病，是
+造成女性不孕的重要原因之一，育龄妇女发病率为
+6%～10%［1］。病理生理学因素包括下丘脑 - 垂体 - 卵
+巢轴紊乱、内分泌及遗传因素等［2 - 4］。越来越多的证据
+表明，慢性轻度炎症在 PCOS 的发展中起着至关重要的
+* 基金项目：黑龙江省自然科学基金优秀青年项目［YQ2019H016］。
+第一作者：王文芳，女，硕士研究生，主管药师，研究方向为药物生物学，
+（电子信箱）wwfang1982@163. com。
+△通信作者：海鑫，女，博士研究生，主任药师，研究方向为药物分析、医院药学，
+（电子信箱）hai_xin@163. com。
+人参皂苷 Rh2在卵巢颗粒细胞炎性反应中的作用及作用
+机制网络药理学与分子生物学研究*
+王文芳，海
+鑫△
+（哈尔滨医科大学附属第一医院，黑龙江 哈尔滨
+150086）
+摘要：目的
+探讨西洋参中人参皂苷 Rh2（简称 Rh2）在脂多糖（LPS）致人卵巢颗粒细胞瘤细胞系 KGN 细胞炎性反应中的作用及作用
+机制。方法
+通过网络药理学方法筛选西洋参治疗多囊卵巢综合征（PCOS）的潜在活性成分及靶点。以 200 ng / mL LPS 作用 KGN 细
+胞 6 h 诱导炎性反应，采用酶联免疫吸附（ELISA）法测定 KGN 细胞中炎性因子白细胞介素 1β（IL - 1β）和肿瘤坏死因子 - α（TNF - α）的
+水平，采用 2′，7′ - 二氯双氢荧光素双乙酸酯（DCFH - DA）染色法测定活性氧（ROS）的水平；40 µmol / L Rh2 作用 KGN 细胞 24 h 后，
+采用免疫印迹（Western blot）法测定哺乳动物雷帕霉素靶蛋白（mTOR）在 LPS 诱导的 KGN 细胞中的表达水平。结果
+网络药理学分
+析结果显示，共筛选出西洋参的主要化学成分 11 个、潜在靶点 144 个、治疗 PCOS 的靶点 13 个，其中 Rh2 与下游靶基因 mTOR 是西
+洋参抗 PCOS 的关键活性成分及潜在作用靶点。分子生物学研究结果显示，Rh2 能抑制 LPS 导致的 KGN 细胞中 ROS 和 mTOR 表达水
+平的升高，下调 IL - 1β 和 TNF - α 的表达；低表达（50 nmol / L）mTOR 能促进 Rh2 缓解 LPS 导致的 KGN 细胞炎性反应，过表达（3 µg）
+mTOR 能逆转此现象。结论
+Rh2 通过调控 mTOR 的表达水平参与 LPS 导致的卵巢颗粒细胞炎性反应。
+关键词：多囊卵巢综合征；卵巢颗粒细胞；人参皂苷 Rh2；西洋参；哺乳动物雷帕霉素靶蛋白；炎性反应；网络药理学；分子生物学
+中图分类号：R932；R285.5
+文献标志码：A
+文章编号：1006 - 4931（2023）01 - 0046 - 06
+Role and Mechanism of Ginsenoside Rh2 in the Inflammatory Response of Ovarian Granulosa
+Cells Based on Network Pharmacology and Molecular Biology
+WANG Wenfang，HAI Xin
+（The First Affiliated Hospital of Harbin Medical University，Harbin，Heilongjiang，China
+150086）
+Abstract
+Abstract：Objective
+To
+investigate
+the
+role
+and
+mechanism
+of
+ginsenoside
+Rh2 （hereinafter
+referred
+to
+as
+Rh2） in
+the
+inflammatory response of human ovarian granulosa tumor cell line KGN induced by lipopolysaccharide （LPS）. Methods
+The
+potential active components and targets of Panacis Quinquefolii Radix in the treatment of polycystic ovary syndrome （PCOS） were
+screened based on the network pharmacology. The KGN cells were treated with
+200 ng / mL LPS for 6 h to induce the
+inflammatory response. The levels of inflammatory factors including interleukin - 1β （IL - 1β） and tumor necrosis factor - α
+（TNF - α） in the KGN cells were detected by the enzyme - linked immunosorbent assay （ELISA） method. The reactive oxygen
+species （ROS） level in the KGN cells was detected by the 2′，7′ - dichlorodihydrofluorescein - diacetate （DCFH - DA） staining
+method. After the KGN cells were treated with 40 µmol / L Rh2 for 24 h，the expression level of mammalian target of rapamycin
+（mTOR） in the KGN cells induced by LPS was detected by the Western blot. Results
+The results of network pharmacology
+showed that 11 main chemical components，144 potential targets and 13 targets in the treatment of PCOS in Panacis Quinquefolii
+Radix were screened out. Among them，Rh2 and the downstream target gene mTOR were the key active component and potential
+target of Panacis Quinquefolii Radix in the treatment of PCOS. The results of molecular biology showed that Rh2 could inhibit the
+high expression of ROS and mTOR and downregulate the expression of IL - 1β and TNF - α in the KGN cells induced by LPS.
+Low expression of mTOR （50 nmol / L） could promote Rh2 to alleviate the inflammatory response of KGN cells induced by LPS，
+while overexpression of mTOR （3 µg） could reverse this phenomenon. Conclusion
+Rh2 participates in the inflammatory response
+of ovarian granulosa cells induced by LPS by regulating the expression of mTOR.
+Key words
+Key words：polycystic ovary syndrome；ovarian granulosa cell；ginsenoside Rh2；Panacis Quinquefolii Radix；mammalian target of
+rapamycin；inflammatory response；network pharmacology；molecular biology
+•药学论著•
+Pharmacy Articles
+46
+2023 年 1 月 5 日 第 32 卷第 1 期
+Vol. 32，No. 1，January 5，2023
+China Pharmaceuticals
+作用。尤其是促炎细胞因子表达失调与 PCOS 相关病因
+学存在密切联系［5］，主要表现为血清中 C 反应蛋白
+（CRP）、白细胞介素6（IL6）、肿瘤坏死因子 - α（TNF - α）
+和 C - C 基序趋化因子配体 2（CCL2）等的高表达［6 - 8］。
+研究表明，抑制卵巢局部及全身的炎性反应可减轻卵
+巢炎性反应，从而抑制 PCOS 模型小鼠的卵巢功能障
+碍［9 - 11］。故探讨炎性反应在 PCOS中潜在的作用机制对
+了解 PCOS 的发病机制具有重要意义。研究表明，西洋
+参具有清除自由基及抗氧化作用，在抗肿瘤、降糖、降
+血压、止吐、保护神经等方面具有良好的功效［12］；能调
+节前列腺素生物合成，降低前列腺素 E2（PGE2）、卵泡刺
+激素（FSH）、黄体生成素（LH）等的高激素水平，使雌二
+醇（E2）分泌接近正常水平，防止卵巢衰老［13］；可通过调
+节血清激素水平和改变卵巢组织中卵巢早衰（POF）相
+关基因的表达水平，有效预防 POF，缓解相关症状［14］。
+人参皂苷 Rh2（简称 Rh2）是西洋参的重要活性成分，具
+有提高免疫力、增强记忆力、抗抑郁和保护心血管等药
+理作用［15］。同时，Rh2在抗氧化及抗肿瘤活性中起着重
+要作用［16］。如 Rh2通过调节信号转导及转录激活因子 3
+（STAT3）/ miR - 214 信号通路减轻溃疡性结肠炎［17］；
+通过激活调节哮喘模型小鼠核因子 - κB（NF - κB），减
+轻过敏性气道炎症［18］。但 Rh2在 PCOS 中尤其是在内毒
+素诱导的颗粒细胞验证中的作用及潜在作用机制尚未
+明确。本研究中基于网络药理学及分子生物学方法探
+讨了西洋参中主要活性成分 Rh2在致卵巢颗粒细胞炎
+性反应中的作用及作用机制。现报道如下。
+1
+材料与方法
+1. 1
+仪器、试药与细胞
+仪器：H - YGD 型倒置荧光显微镜（中国凤凰光学
+有限公司）；硝酸纤维素膜（美国PALL公司）。
+试药：人参皂苷 Rh2（分析标准品，阿拉丁试剂<上
+海>有限公司，40 µmol / L）；DMEM 高糖培养基、胎牛血
+清、5% 脱脂牛奶（美国 Gibco 公司）；脂多糖（LPS，质量
+浓度为 1 µg / mL），2′，7′ - 二氯双氢荧光素双乙酸酯
+（DCFH - DA）染色液，均购自美国西格玛公司；1% 青 -
+链霉素，辣根过氧化物酶（HRP），与 HRP 结合的山羊抗
+兔抗体（编号为 GB23303，1∶3 000），十二烷基硫酸钠 -
+聚丙烯酰胺（SDS - PAGE）凝胶，均购自上海碧云天生
+物技术有限公司；哺乳动物雷帕素靶蛋白（mTOR，广州
+锐博生物技术有限公司）；抗 β - actin（美国 Abclonal 公
+司，编号为 AC004，1∶25 000）；抗 mTOR（英国 Abcam 公
+司，编号为ab109268，1∶1 000）；白细胞介素1β（IL - 1β）
+试剂盒、TNF - α试剂盒（南京建成科技有限公司）。
+细胞：KGN 细胞（人卵巢颗粒细胞瘤细胞系，北纳
+生物科技有限公司）。
+1. 2
+方法
+西洋参活性成分及潜在靶点筛选：通过中药系统
+药理学数据库与分析平台（TCMSP，http：/ / tcmspw.
+com / tcmsp. php）搜索西洋参已知化学成分，根据口服
+生物利用度（OB）≥ 30% 且类药性（DL）≥ 0. 18 进行筛
+选，并在 TCMSP 中预测、提取西洋参有效成分的作用蛋
+白靶点，将筛选出的蛋白靶点名导入蛋白质数据库
+（UniProt，https：// www. uniprot. org / ），物种设置为人
+类，将作用人类蛋白名称转换成标准基因名。
+PCOS 疾病相关靶点筛选：通过人类基因信息数据
+库（Genecards，https：// www. genecards. org）及孟德尔遗
+传 数 据 库（DMIM，https：// www. omim. org / ）筛 选 与
+PCOS 相关的疾病基因靶点，剔除重复靶点，设置关联
+分数 ≥ 10，结果导出为Excel文件。
+治疗 PCOS 活性成分筛选：将西洋参活性成分与
+PCOS 疾病靶点导入，取交集数据库（Venn，https：// bio‐
+infogp. cnb. csic. es / tools / venny / index. html）进行对比
+匹配处理，共同靶点即为西洋参治疗 PCOS 的关键靶
+点，反向筛选出治疗PCOS的潜在活性成分。
+PCOS - 西洋参 - 活性成分 - 靶点网络构建：将西
+洋参活性成分、PCOS 疾病靶点导入 Cytoscape 3. 9. 1 软
+件，构建疾病 - 药物 - 活性成分 - 靶点基因可视化网
+络，网络中节点（Node）代表疾病、药物、靶点、活性成
+分，边用来连接疾病与靶点、靶点与活性成分、活性成
+分与药物。
+蛋白互作（PPI）网络构建：将西洋参治疗 PCOS 的
+关键靶点输入蛋白质 - 蛋白质相互作用数据库（String，
+https：// string - db. org /），物种设置为人类，可信度设
+置为中等可信，隐藏未连接的节点，其他参数保持数据
+库系统推荐设置，进行PPI分析，获取PPI网络。
+细胞培养及转染：取 KGN 细胞，进行短串联重复序
+列（STR）分析以确保细胞真实性，培养于添加 10% 胎牛
+血清及 1% 青链霉素的 DMEM 高糖培养基，置温度为
+37 ℃的 CO2孵箱中。为了保持细胞独特的功能特性，仅
+使用第 4～9 代的 KGN 细胞作为实验对象。参考文献
+［19 - 20］，取 LPS（质量浓度为 1 µg / mL）稀释为质量浓
+度为 200 ng / mL，作用 KGN 细胞 6 h 以激活炎性反应。
+将不同表达的 mTOR 的质粒分别转染到 KGN 细胞中作
+用72 h，进行后续实验。
+免疫印迹（Western blot）法［21］分析：使用 12% SDS -
+PAGE 凝胶分离蛋白质样品，转移到硝酸纤维素膜上，
+用 5% 脱脂牛奶在室温下封膜 2 h，并在 4 ℃温度下用抗
+β - actin 和抗 mTOR 过夜孵育过夜。硝酸纤维素膜在磷
+酸盐吐温缓冲液（PBST）中洗涤 3 次，与 HRP 结合的山
+羊抗兔抗体孵育。使用 Image J 软件对图像进行定量分
+•药学论著•
+Pharmacy Articles
+47
+2023 年 1 月 5 日 第 32 卷第 1 期
+Vol. 32，No. 1，January 5，2023
+China Pharmaceuticals
+析，计算显影正常蛋白与 β - actin 的灰度值比率，以确
+定某些蛋白质的改变。
+酶联免疫吸附（ELISA）试验：KGN细胞以4 × 104的细
+胞密度接种于24孔培养板中，每孔1 mL DMEM / F12，不含
+红色苯酚和炭化处理的10%胎牛血清。经LPS或Rh2作用
+后，按IL - 1β和TNF - α试剂盒中所述方法进行检测。
+DCFH - DA 染色：KGN细胞用 DCFH - DA 染色，用
+Rh2 与 LPS 单独或共同处理细胞，检测正常组（正常
+KGN 细胞）、LPS 组（诱导炎性反应后的 KGN 细胞）、Rh2
+组（诱导炎性反应用药 Rh2 24 h 的 KGN 细胞）细胞中的
+ROS含量的变化，以分析 Rh2及 LPS对 KGN 细胞中活性
+氧（ROS）的影响。按文献［22 - 23］的操作进行处理，使
+用荧光显微镜选取随机5个区域分析图像。
+1. 3
+统计学处理
+采用 SPSS 25. 0 统计学软件分析。计量资料以 X ± s
+表示，组间比较行t检验，3组及以上的比较采用单因素方
+差分析中的Tukey检验。P < 0. 05为差异有统计学意义。
+2
+结果
+2. 1
+网络药理学分析
+西洋参活性成分及靶点：共筛选出西洋参的主要
+化学成分 11 个（表 1），预测到潜在靶点 144 个，通过
+Uniprot 数据库标准基因名转换后得到 680 个作用人类
+的基因靶点。通过 Genecards 和 OMIM 数据库共检索到
+与 PCOS 相关的基因 358 个，其中与西洋参有效成分靶
+点匹配映射得到西洋参治疗 PCOS 的靶点共 13 个，分
+别 为 mTOR，AKT3，ESR1 及 胆 碱 能 毒 蕈 碱 受 体 3
+（CHRM3）、胃蛋白酶原1 / 胃蛋白酶原2（PGR）、类固醇5α
+还原酶 1（SRD5A1）、类固醇 5α 还原酶 2（SRD5A2）、细
+胞 色 素 P450 19A1（CYP19A1）、细 胞 色 素 P450 2C19
+（CYP2C19）、UDP 葡 萄 糖 醛 酸 转 移 酶 2 家族多肽 B7
+（UGT2B7）、细胞色素 P450 2C9（CYP2C9）、雄激素受体
+（AR）、性激素结合球蛋白（SHBG）。
+PCOS - 西洋参 - 活性成分 - 靶点网络构建：将西
+洋参活性成分及疾病相关靶点导入 Cytoscape 3. 9. 1 软
+件构建 PCOS - 西洋参 - 活性成分 - 靶点可视化网络。
+剔除天然产物分离过程中的“垃圾成分”后，共包含 7个
+化学成分和 13 个靶点，主要活性成分为 MOL000358
+（β - 谷甾醇）、MOL005344（Rh2）、MOL008173（胡萝卜
+苷）等，详见图1。
+PPI 网络构建：将 PCOS 及人参皂苷 Rh2导入 String
+数据库构建 PPI 网络，包含 13 个节点、71 条边，平均
+连接度值为 10. 93，详见图 2。利用 Cytoscape3. 9. 1 软
+件插件中 Degree 算法确定度值（Degree），并以度值排
+名 前 6 的 蛋 白 为 Hub 蛋 白 ，其 中 ESR1，CYP19A1，
+SRD5A1，SRD5A2，AR，PGR，mTOR，AKT3 8 个蛋白的
+度值分别为23，20，14，14，14，13，11，7，均大于平均值。
+表1
+西洋参治疗PCOS的潜在活性成分
+Tab. 1
+Potential active components of Panacis Quinquefolii Radix
+in the treatment of PCOS
+TSCMP编号
+MOL011434
+MOL011435
+MOL011455
+MOL000358
+MOL005344
+MOL006774
+MOL006980
+MOL011394
+MOL011442
+MOL008173
+MOL008397
+活性成分
+polyacetylene PQ - 2
+PQ - 2
+20 - hexadecanoylingenol
+β - 谷甾醇
+人参皂苷Rh2
+stigmast - 7 - enol
+罂粟碱
+（2R，3S，4S，5R，6R）- 2 -
+（hydroxymethyl） -
+6
+-
+［［（3S，5R，8R，9R，10R，
+12R，13R，14R，17S）- 12 -
+hydroxy - 4，4，8，10，14 -
+pentamethyl - 17 -［（2S）-
+6 - methyl - 2 -［（2S，3R，
+4S，5S，6R）- 3，4，5 - tri‐
+hydroxy - 6 - （hydroxy‐
+methyl）oxan - 2 - yl］oxy‐
+hept - 5 - en - 2 - yl］- 2，
+3，5，6，7，9，11，12，13，15，16，
+17 - dodecahydro - 1H - c
+（8S，9S，10R，13R，14S，17R）-
+17 -［（1R，4R）- 4 - ethyl -
+1，5 - dimethylhexyl］- 10，
+13 - dimethyl - 1，2，8，9，
+11，12，14，15，16，17 -
+decahydrocyclopenta
+［a］
+phenanthren - 7 - one
+胡萝卜苷
+曼陀罗灵
+口服生物利
+用度（%）
+36. 74
+36. 74
+32. 70
+36. 91
+36. 32
+37. 42
+64. 04
+36. 43
+43. 87
+36. 91
+50. 37
+CaCo - 2细胞
+渗透性
+- 0. 27
+- 0. 35
+- 0. 24
+1. 32
+- 0. 51
+1. 39
+1. 22
+- 1. 76
+1. 55
+1. 33
+0. 61
+血脑屏障
+通透性
+- 1. 14
+- 1. 10
+- 0. 38
+0. 99
+- 1. 38
+1. 04
+0. 57
+- 2. 64
+1. 23
+0. 85
+0. 06
+类药性
+0. 20
+0. 19
+0. 65
+0. 75
+0. 56
+0. 75
+0. 38
+0. 25
+0. 75
+0. 75
+0. 77
+图1
+PCOS - 西洋参 - 活性成分 - 靶点网络
+Fig. 1
+Network of PCOS - Panacis Quinquefolii Radix - active
+components - targets
+•药学论著•
+Pharmacy Articles
+48
+2023 年 1 月 5 日 第 32 卷第 1 期
+Vol. 32，No. 1，January 5，2023
+China Pharmaceuticals
+图2
+人参皂苷Rh2治疗PCOS的蛋白互作网络
+Fig. 2
+Protein - Protein interaction network of ginsenoside Rh2
+in the treatment of PCOS
+2. 2
+分子生物学方法分析
+Rh2对 ROS 表达水平的影响：结果显示，与正常组
+比较，LPS 组 KGN 细胞中 ROS 的表达水平显著升高
+（P < 0. 05）；与LPS组比较，Rh2组KGN细胞中ROS的表
+达水平显著降低（P < 0. 05），表明 Rh2能抑制由 LPS 导
+致的炎性反应KGN细胞中ROS水平的升高。详见图3。
+Rh2 对 IL - 1β，TNF - α，mTOR 表达水平的影响：
+ELISA 实验结果显示，与正常组比较，LPS 组 KGN 细胞
+中IL - 1β和TNF - α的表达水平均显著升高（P < 0. 05）；
+与 LPS 组比较，Rh2组 KGN 细胞中 IL - 1β 和 TNF - α 的
+表达水平均显著降低（P < 0. 05），表明 Rh2（40 µmol / L，
+24 h）能抑制由LPS导致的炎性反应KGN细胞中IL - 1β
+和 TNF - α 表达水平升高。详见图 4 A 和图 4 B。Western
+bolt 实验结果显示，与正常组比较，LPS 组 KGN 细胞中
+mTOR 的表达水平显著升高（P < 0. 05）；与 LPS组比较，
+Rh2组KGN细胞中mTOR的表达水平显著降低（P < 0. 05），
+表 明 Rh2 能 抑 制 LPS 导 致 的 炎 性 反 应 KGN 细 胞 中
+mTOR蛋白表达水平的升高。详见图4 C和图4 D。
+不同表达水平 mTOR 对 IL - 1β 和 TNF - α 表达水
+平的影响：通过细胞转染技术将表达不同水平的 mTOR
+质粒转染到 KGN 细胞中，采用 Western blot 法检测 KGN
+细 胞 中 mTOR 的 蛋 白 表 达 水 平 。结 果 显 示 ，低 表 达
+（50 nmol / L）mTOR 能下调 KGN 细胞中 mTOR 蛋白表
+达，过表达（3 µg）mTOR能上调KGN细胞中mTOR蛋白
+表达，详见图5 A。通过ELISA试剂盒检测不同表达水平
+的 mTOR对 Rh2保护 LPS刺激后 KGN细胞中 TNF - α 和
+IL - 1β 的水平。结果显示，与 Rh2组比较，低表达 mTOR
+能明显促进 Rh2对 LPS 诱导的 KGN 细胞损伤的保护作
+用，过表达 mTOR 能加重 KGN 细胞的炎性反应，详见图
+5 B至图5 D。
+3
+讨论
+PCOS 患者多伴随慢性炎症，临床表现为外周血白
+细胞计数及中性粒细胞计数均增加，同时血清中 CRP，
+组别
+3
+2
+1
+0
+正常组
+LPS组
+Rh2组
+*
+ROS / DCFH - DA
+注：与正常组比较，
+*P < 0. 05；与LPS组比较，
+#P < 0. 05。图4和图5同。
+图3
+人参皂苷Rh2对LPS诱导炎性反应KGN细胞中ROS水平的影响（n = 3）
+Note：Compared with those in the normal group，*P < 0. 05；Compared with those in the LPS group，#P < 0. 05 （for Fig. 3 - 5）.
+Fig. 3
+Effect of ginsenoside Rh2 on the ROS level in the KGN cells with inflammatory response induced by LPS（n = 3）
+正常组
+LPS组
+Rh2组
+A. 对IL - 1β水平的影响
+B. 对TNF - α水平的影响
+C，D. 对mTOR水平的影响
+图4
+人参皂苷Rh2对LPS诱导炎性反应KGN细胞中IL - 1β，TNF - α，mTOR水平的影响（n = 3）
+A. Effect on the IL - 1β level
+B. Effect on the TNF - α level
+C，D. Effects on the mTOR level
+Fig. 4
+Effects of ginsenoside Rh2 on the IL - 1β，TNF - α and mTOR levels in the KGN cells with inflammatory response induced by
+LPS（n = 3）
+A
+B
+C
+D
+组别
+80
+60
+40
+20
+0
+正常组
+LPS组
+Rh2组
+*
+IL - 1β / pg·mL - 1
+组别
+5
+4
+3
+2
+1
+0
+正常组
+LPS组
+Rh2组
+*
+mTOR / β- actin
+组别
+400
+300
+200
+100
+0
+正常组
+LPS组
+Rh2组
+*
+TNF - α / pg·mL - 1
+正常组
+LPS组
+Rh2组
+mTOR
+β- actin
+298
+43
+#
+#
+#
+#
+•药学论著•
+Pharmacy Articles
+49
+2023 年 1 月 5 日 第 32 卷第 1 期
+Vol. 32，No. 1，January 5，2023
+China Pharmaceuticals
+TNF - α，IL - 1β，IL - 6，IL - 18 等炎性因子的水平均
+升高［24 - 25］。而炎性因子水平升高，胰岛素受体酪氨酸
+激酶的活性会受到抑制，这可能是导致代谢性疾病发
+生的重要原因之一［6，26］。故本研究中使用 LPS 刺激
+KGN 细胞模拟体内 PCOS 的过程，进而研究慢性炎症与
+PCOS 间的作用及潜在作用机制。本研究结果显示，相
+较于对照组，LPS组中 IL - 1β 和 TNF - α 的表达水平均
+升高，而 Rh2能逆转此水平的升高，表明 Rh2对 LPS导致
+的炎性颗粒细胞有很好的保护作用。
+信号通路激活可能参与 PCOS炎症的发病机制［27］，
+而炎性因子的产生取决于炎性信号通路的激活。GUO
+等［28］的研究表明，PCOS 患者的 mTOR 活性高于健康受
+试者。而 mTOR是与多种细胞炎症及增殖相关的重要因
+子之一，如在前列腺细胞和成纤维细胞中，mTOR 的异
+常表达与炎性信号通路密切相关［29］。但目前尚无Rh2直
+接调控 mTOR 参与炎症导致 PCOS 的相关报道。网络药
+理学研究结果显示，mTOR 可能是 Rh2抗 PCOS 的重要
+作用靶点之一。mTOR 是女性生殖的重要靶点，参与卵
+巢的各种过程，包括卵巢储备、卵泡发育、卵母细胞减
+数分裂成熟、卵巢老化、卵巢体细胞增殖和类固醇生成
+等［30］。同时，卵母颗粒细胞中 mTOR 表达升高能激活原
+始卵泡，进而提升卵巢储备，产生保护能力［31］。抑制
+mTOR 会阻碍卵母细胞减数分裂成熟，这可能会限制
+mTOR 抑制药物在生育相关疾病中的应用［32］。临床前
+的实验研究表明，应用 mTOR 调节剂有可能改善与 POF
+及 PCOS和子宫内膜异位症相关的生育问题［33］。上述研
+究均说明，mTOR 在卵巢功能中具有良好作用。mTOR
+能作为一个关键因子参与体内 ROS 表达水平的变
+化［34］，如 ROS / mTOR 能参与红景天苷保护 LPS 对心肌
+细胞的损伤［35］。分子生物学研究结果显示，Rh2能逆转
+由 LPS 诱导的 KGN 细胞中 mTOR 的表达升高；此外，外
+源 性 过 表 达 mTOR 能 降 低 Rh2 的 保 护 能 力 ，低 表 达
+mTOR 能增加 Rh2的保护能力。以上结果均说明，mTOR
+可能是 Rh2保护 LPS 诱导 KGN 细胞炎性反应的主要调
+节因子。
+综上所述，本研究中基于网络药理学分析了西洋
+参抗 PCOS 的主要活性成分及潜在的作用靶点；结合分
+子生物学方法验证了 Rh2能通过激活 ROS 而调控 KGN
+细胞中 mTOR 的表达，抑制 LPS 诱导的炎性因子的表达
+而抑制炎性反应，起到抗炎作用，为 Rh2成为 PCOS的潜
+在治疗药物提供了更多实验室依据。
+参考文献
+［1］HOEGER KM，DOKRAS A，PILTONEN T. Update on PCOS：
+Consequences，Challenges，and Guiding Treatment［J］. J Clin
+Endocrinol Metab，2021，106（3）：e1071 - e1083.
+［2］KASHYAP S，RABBANI M，DE LIMA I，et al. HOPX Plays a
+Critical Role in Antiretroviral Drugs Induced Epigenetic Modifi‐
+cation and Cardiac Hypertrophy［J］. Cells，2021，10（12）：3458.
+［3］ROSENFIELD RL，EHRMANN DA. The Pathogenesis of Poly‐
+cystic Ovary Syndrome（PCOS）：The Hypothesis of PCOS as
+Functional Ovarian Hyperandrogenism Revisited［J］. Endocr
+Rev，2016，37（5）：467 - 520.
+［4］GOODARZI MO，DUMESIC DA，CHAZENBALK G，et al. Poly‐
+cystic ovary syndrome：etiology，pathogenesis and diagnosis［J］.
+Nat Rev Endocrinol，2011，7（4）：219 - 231.
+［5］REGIDOR PA，MUELLER A，SAILER M，et al. Chronic Inflam‐
+mation in PCOS：The Potential Benefits of Specialized Pro -
+Resolving Lipid Mediators（SPMs）in the Improvement of the
+Resolutive Response［J］. Int J Mol Sci，2020，22（1）：384.
+［6］BORTHAKUR A，D PRABHU P，VALSALA GOPALAKRISH‐
+NAN A. Role of IL - 6 signalling in Polycystic Ovarian Syn‐
+drome associated inflammation［J］. J Reprod Immunol，2020，
+141：103155.
+［7］ESCOBAR - MORREALE HF，LUQUE - RAMIREZ M，GON‐
+A，B. 不同表达mTOR质粒转染后正常KGN细胞中mTOR的表达
+C，D. 对TNF - α和IL - 1β表达水平的影响
+图5
+不同表达水平mTOR对KGN细胞中IL - 1β，TNF - α，mTOR表达水平的影响（n = 3）
+A，B. Expression of mTOR in normal KGN cells after the transfection of mTOR plasmids with different expression levels
+C，D. Effects on the
+expression levels of TNF - α and IL - 1β
+Fig. 5
+Effects of mTOR with different expression levels on the expression levels of IL - 1β，TNF - α and mTOR in KGN cells （n = 3）
+A
+B
+C
+D
+组别
+3
+2
+1
+0
+*
+mTOR / β- actin
+正常组
+mTOR
+β- actin
+298
+43
+#
+正常 - si组
+mTOR - si组
+空质粒组
+mTOR组
+正常组
+正常 - si组
+mTOR - si组
+空质粒组
+mTOR组
+组别
+80
+60
+40
+20
+0
+*
+IL - 1β / pg·mL - 1
+组别
+500
+400
+300
+200
+100
+0
+*
+TNF - α / pg·mL - 1
+*
+Rh2 + mTOR - si组
+Rh2组
+Rh2 + mTOR组
+LPS
+*
+Rh2 + mTOR - si组
+Rh2组
+Rh2 + mTOR组
+LPS
+•药学论著•
+Pharmacy Articles
+50
+2023 年 1 月 5 日 第 32 卷第 1 期
+Vol. 32，No. 1，January 5，2023
+China Pharmaceuticals
+ZALEZ F. Circulating inflammatory markers in polycystic ovary
+syndrome：a systematic review and metaanalysis［J］. Fertil Steril，
+2011，95（3）：1048 - 1058.
+［8］PILTONEN TT. Polycystic ovary syndrome：Endometrial mar ‐
+kers［J］. Best Pract Res Clin Obstet Gynaecol，2016，37：66 - 79.
+［9］GIAMPAOLINO P，FORESTE V，DI FILIPPO C，et al. Micro‐
+biome and PCOS：State - of - Art and Future Aspects［J］. Int J
+Mol Sci，2021，22（4）：2048.
+［10］RYU Y，KIM SW，KIM YY，et al. Animal Models for Human
+Polycystic Ovary Syndrome（PCOS） Focused on the Use of
+Indirect Hormonal Perturbations：A Review of the Literature［J］.
+Int J Mol Sci，2019，20（11）：2720.
+［11］郭
+瑞 . 苍附导痰汤加减治疗肥胖型多囊卵巢综合征临
+床研究［J］. 中国药业，2017，26（9）：70 - 72.
+［12］马
+英，孔
+丽 . 人参皂苷 Rg3 诱导小鼠肝癌细胞凋亡的
+作用研究［J］. 中国药业，2014，23（24）：21 - 23.
+［13］ZHU L，LI J，XING NN，et al. American ginseng regulates
+gene expression to protect against premature ovarian failure in
+rats［J］. Biomed Res Int，2015，2015：767124.
+［14］GE PL，XING NN，REN YH，et al. Preventive effect of American
+ginseng against premature ovarian failure in a rat model［J］.
+Drug Dev Res，2014，75（8）：521 - 528.
+［15］LI X，CHU SF，LIN MY，et al. Anticancer property of ginse‐
+noside Rh2 from ginseng［J］. Eur J Med Chem，2020，203：
+112627.
+［16］LIU Y，YU ST，XING X，et al. Ginsenoside Rh2 stimulates the
+production of mitochondrial reactive oxygen species and induces
+apoptosis of cervical cancer cells by inhibiting mitochondrial
+electron transfer chain complex［J］. Mol Med Rep，2021，
+24（6）：873.
+［17］CHEN XQ，XU TT，LV XY，et al. Ginsenoside Rh2 alleviates
+ulcerative colitis by regulating the STAT3 / miR - 214 signaling
+pathway［J］. J Ethnopharmacol，2021，274：113997.
+［18］LI LC，PIAO HM，ZHENG MY，et al. Ginsenoside Rh2 attenuates
+allergic airway inflammation by modulating nuclear factor - κB
+activation in a murine model of asthma［J］. Mol Med Rep，
+2015，12（5）：6946 - 6954.
+［19］YAN S，DING JJ，ZHANG Y，et al. C1QTNF6 participates in
+the pathogenesis of PCOS by affecting the inflammatory
+response of granulosa cellsdouble dagger［J］. Biol Reprod，
+2021，105（2）：427 - 438.
+［20］ZHONG ZY，LIANG S，SANCHEZ - LOPEZ E，et al. New
+mitochondrial DNA synthesis enables NLRP3 inflammasome
+activation［J］. Nature，2018，560（7717）：198 - 203.
+［21］WANG DJ，WENG YJ，ZHANG YL，et al. Exposure to hyperan‐
+drogen drives ovarian dysfunction and fibrosis by activating
+the NLRP3 inflammasome in mice［J］. Sci Total Environ，
+2020，745：141049.
+［22］ARANDA A，SEQUEDO L，TOLOSA L，et al. Dichloro - dihy‐
+dro - fluorescein diacetate（DCFH - DA）assay：a quantitative
+method for oxidative stress assessment of nanoparticle - treated
+cells［J］. Toxicol In Vitro，2013，27（2）：954 - 963.
+［23］TANG J，DIAO P，SHU XH，et al. Quercetin and Quercitrin At‐
+tenuates the Inflammatory Response and Oxidative Stress in
+LPS - Induced RAW264. 7 Cells：In Vitro Assessment and a
+Theoretical Model［J］. Biomed Res Int，2019，2019：7039802.
+［24］RUDNICKA E，SUCHTA K，GRYMOWICZ M，et al. Chronic
+Low Grade Inflammation in Pathogenesis of PCOS［J］. Int J
+Mol Sci，2021，22（7）：3789.
+［25］韩体微，袁凤玲，王艳鹏，等 . 地黄苦苷元对多囊卵巢综合
+征模型大鼠卵巢功能的影响［J］. 中国药业，2021，30（24）：
+50 - 54.
+［26］LIU YH，LIU H，LI ZJ，et al. The Release of Peripheral Im‐
+mune Inflammatory Cytokines Promote an Inflammatory Cas‐
+cade in PCOS Patients via Altering the Follicular Microenvi‐
+ronment［J］. Front Immunol，2021，12：685724.
+［27］XIONG HX，HU Q，JIANG Q. Protective effects of lidocaine
+on polycystic ovary syndrome through modulating ovarian gra‐
+nulosa cell physiology via PI3K / AKT / mTOR pathway［J］.
+Cytotechnology，2022，74（2）：283 - 292.
+［28］GUO ZX，YU Q. Role of mTOR Signaling in Female Reproduc‐
+tion［J］. Front Endocrinol（Lausanne），2019，10：692.
+［29］DU HY，ZHANG X，ZENG YC，et al. A Novel Phytochemical，
+DIM，Inhibits Proliferation，Migration，Invasion and TNF - α
+Induced Inflammatory Cytokine Production of Synovial Fibro‐
+blasts From Rheumatoid Arthritis Patients by Targeting MAPK
+and AKT / mTOR Signal Pathway［J］. Front Immunol，2019，
+10：1620.
+［30］LIU J，WU DC，QU LH，et al. The role of mTOR in ovarian
+Neoplasms，polycystic ovary syndrome，and ovarian aging［J］.
+Clin Anat，2018，31（6）：891 - 898.
+［31］YABA A，DEMIR N. The mechanism of mTOR（mammalian
+target of rapamycin）in a mouse model of polycystic ovary syn‐
+drome（PCOS）［J］. J Ovarian Res，2012，5（1）：38.
+［32］GUO J，ZHANG T，GUO YS，et al. Oocyte stage - specific ef‐
+fects of MTOR determine granulosa cell fate and oocyte quality
+in mice［J］. Proc Natl Acad Sci USA，2018，115（23）：e5326 -
+e5333.
+［33］ESTIENNE A，BONGRANI A，RAMÉ C，et al. Energy sensors
+and reproductive hypothalamo - pituitary ovarian axis（HPO）
+in female mammals：Role of mTOR（mammalian target of rapa‐
+mycin），AMPK（AMP - activated protein kinase）and SIRT1
+（Sirtuin 1）［J］. Mol Cell Endocrinol，2021，521：111113.
+［34］LIU XH，ZHAO PY，WANG XJ，et al. Celastrol mediates
+autophagy and apoptosis via the ROS / JNK and Akt / mTOR
+signaling pathways in glioma cells［J］. J Exp Clin Cancer Res，
+2019，38（1）：184.
+［35］CHEN L，LIU P，FENG X，et al. Salidroside suppressing LPS -
+induced myocardial injury by inhibiting ROS - mediated PI3K /
+Akt / mTOR pathway in vitro and in vivo［J］. J Cell Mol Med，
+2017，21（12）：3178 - 3189.
+（收稿日期：2022 - 06 - 10；修回日期：2022 - 08 - 27）
+•药学论著•
+Pharmacy Articles
+51

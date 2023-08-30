@@ -1,0 +1,444 @@
+— 310 —
+CHINESE JOURNAL OF ANATOMY Vol.45 No.4 2022 
+解剖学杂志 2022 年第 45 卷第 4 期
+doi ： 10.3969/j.issn.1001-1633.2022.04.002
+·论 著·
+第 1 作者 E-mail ：tdpangyn@163.com
+△ 通信作者，E-mail ：xiaojuanzhou1987@126.com
+收稿日期 ：2021-10-04 ；修回日期 ：2022-03-20
+人参皂苷Re对人神经母细胞瘤SH-SY5Y细胞缺氧复氧损伤的保护作用
+庞亚南
+1 李 敏
+2 周小娟
+1△
+（1 浙江省立同德医院药学部，杭州 310012；2 浙江大学药物信息学研究所，杭州 310058）
+摘要 
+目的 ：探讨人参皂苷 Re 对人神经母细胞瘤 SH-SY5Y 细胞缺氧复氧损伤的保护作用。 方法 ：采用缺氧复
+氧法制备 SH-SY5Y 细胞损伤模型，分为对照组、模型组、Re 6.25 μg/mL 组和 Re 12.50 μg/mL 组。采用 MTT
+法测定细胞存活率，四甲基罗丹明甲酯（TMRM）染色评估细胞线粒体膜电位变化，DAPI 染色观察细胞凋亡
+率，并进一步采用免疫印迹检测各组细胞核因子 NF-E2 相关因子 2（Nrf-2）、Bax 和 p53 的蛋白表达。 结果 ：人
+参皂苷 Re 对 SH-SY5Y 细胞活力无显著影响 ；缺氧复氧条件下，细胞存活率显著降低，而人参皂苷 Re 在 6.25、 
+12.50 μg/mL 浓度下预保护可显著提高细胞存活率。缺氧复氧损伤后，人参皂苷 Re 6.25、12.50 μg/mL 能显著提
+高 SH-SY5Y 细胞的线粒体膜电位水平和抑制 SH-SY5Y 细胞的凋亡率。人参皂苷 Re 能够提高 Nrf-2 的蛋白表达，
+抑制 Bax 和 p53 蛋白的表达。结论 ：人参皂苷 Re 可以抑制缺氧复氧损伤细胞的凋亡和氧化损伤，对缺氧复氧诱导
+的神经细胞具有显著的保护作用。
+关键词 人参皂苷 Re ；SH-SY5Y 细胞 ；缺氧复氧 ；线粒体膜电位 ；凋亡
+Protective effect of ginsenoside Re on human neuroblastoma SH-SY5Y cells  
+injured by hypoxia reoxygenation
+Pang Yanan
+1， Li Min
+2， Zhou Xiaojuan
+1 △
+（1. Department of Pharmacy， Tongde Hospital of Zhejiang Province， Hangzhou 310012 ；  
+2. Institute of Pharmaceutical Informatics， Zhejiang University， Hangzhou 310058， China）
+Abstract 
+Objective ： To observe the protective effect of ginsenoside Re on human neuroblastoma SH-SY5Y 
+cells injured by hypoxia reoxygenation. Methods ： SH-SY5Y cells were divided into control group， hypoxia 
+reoxygenation group， Re 6.25 μg/mL group， and Re 12.50 μg/mL group. MTT assay was used to determine the cell 
+survival rate. Mitochondrial membrane potential was assessed using TMRM staining. DAPI staining was used to 
+observe cell apoptosis. And immunoblotting was used to detect the protein expression of nuclear factor-erythroid 
+2-related factor 2（Nrf-2）， Bax and p53. Results ： Ginsenoside Re alone had no significant effect on the viability of 
+SH-SY5Y cells. The viability of SH-SY5Y cells was significantly decreased in the model group. While ginsenoside 
+Re at 6.25 μg/mL and 12.50 μg/mL could significantly improve the survival rate of SH-SY5Y cells. Ginsenoside Re 
+6.25 μg/mL and 12.50 μg/mL could significantly increase mitochondrial membrane potential and inhibit the apoptosis 
+rate. Ginsenoside Re could increase the protein expression of Nrf-2 and inhibit the expression of Bax and p53. 
+Conclusion ： Ginsenoside Re can inhibit cell apoptosis and oxidative damage and has significant protective effect on 
+neurons induced by hypoxia reoxygenation. 
+Key words ginsenoside Re ； SH-SY5Y cells ； hypoxia reoxygenation ； mitochondrial membrane potential ；apoptosis
+近年来，中医药在防治脑缺血损伤方面取得了
+巨大进展
+[1]。人参皂苷是人参发挥药理作用的主要
+成分，Re 是人参皂苷的重要组成
+[2]。现代药理学研
+究表明，人参皂苷 Re 在心血管系统
+[3]、中枢神经
+系统
+[4]、抗休克
+[5]和抗血小板聚集
+[6]等多方面具有
+显著的保护作用。李政泽等
+[7]报道人参皂苷 Re 能
+抑制谷氨酸损伤的神经细胞凋亡，提高细胞存活率。
+但人参皂苷 Re 对缺氧复氧损伤的人神经母细胞瘤
+SH-SY5Y 细胞的保护作用及机制尚无报道，因此，
+本研究通过建立体外 SH-SY5Y 细胞缺氧复氧损伤
+模型，研究人参皂苷 Re 对神经细胞的保护作用，
+并初步探讨其作用机制，为进一步开发利用人参皂
+苷提供理论依据。
+— 311 —
+1 材料和方法
+1.1 材料及分组
+人神经母细胞瘤 SH-SY5Y 细胞购自中国科学
+院细胞库 ；人参皂苷 Re（ 产品批号 ：1901062）购
+自上海源叶生物科技有限公司 ；胎牛血清、胰蛋
+白酶、青霉素链霉素溶液购自美国 Gibco 公司 ；
+DMEM 高糖培养基购自美国 Corning 公司 ；二甲
+基亚砜购自国药集团化学试剂有限公司 ；噻唑蓝
+（MTT）粉末购自美国 Sigma 公司 ；四甲基罗丹明
+甲基（TMRM）染料购自 Invitrogen 公司 ；DAPI 染
+色液、β-actin 抗体和辣根过氧化酶二抗购自碧云
+天生物技术有限公司 ；核因子 NF-E2 相关因子 2 
+（nuclear factor-erythroid 2-related factor 2，Nrf-2）、 
+p53 抗体购自 Proteintech 公司 ；Hoechst 染料、Bax
+抗体购自 CST 公司。
+采用缺氧复氧法制备 SH-SY5Y 细胞损伤模型，
+分为对照组、模型组（ 缺氧 4 h/ 复氧 2 h）、Re 6.25 
+μg/mL 组、Re 12.50 μg/mL 组（ 人 参 皂 苷 Re 缺 氧
+复氧前预孵育细胞 12 h）
+1.2 MTT 法检测人参皂苷 Re 对常氧 SH-SY5Y 细胞
+存活率的影响
+取对数期生长的SH-SY5Y神经细胞消化计数，
+以5×10
+3个/孔的密度接种于96孔板，37 ℃、5% 
+CO2细胞培养箱中贴壁生长24 h。更换含不同浓度
+人 参 皂 苷Re（6.25、12.50、25.00、50.00 μg/mL）
+的药液孵育24 h，吸去培养液，避光加入MTT溶液
+（每孔100 μL），继续于37 ℃、5% CO2细胞培养箱
+孵育4 h，吸弃上清液，每孔加入100 μL DMSO，
+37 ℃振摇10 min，使用Inﬁnite M1000 Pro多功能
+酶标仪测定580 nm波长处各孔吸光度值。
+1.3 MTT 法检测人参皂苷 Re 对缺氧复氧 SH-SY5Y
+细胞存活率的影响
+取对数期生长的SH-SY5Y神经细胞消化计数，
+以5×10
+3个 /孔的密度接种于96孔板，37 ℃、5% 
+CO2细胞培养箱中贴壁生长24 h。以完全培养基（含
+10% FBS 的高糖DMEM）配制不同浓度的人参皂苷
+Re（6.25、12.50、25.00、50.00 μg/mL）加 药 预 保
+护12 h，吸去培养液，更换无糖无血清DMEM培
+养基，于37 ℃ 缺氧小室中缺氧处理4 h。然后更换
+为完全培养基，并转移至37 ℃、5% CO2的培养箱
+中复氧2 h。正常对照组细胞不进行缺氧复氧处理。
+复氧 2 h 后，按照上述 MTT 法测定 580 nm 波长处
+各孔吸光度，计算各组细胞存活率。
+1.4 TMRM 染色评估人参皂苷 Re 对 SH-SY5Y 细胞
+线粒体膜电位的影响
+细胞培养及缺氧复氧处理同上述操作。复氧 2 h 
+后，吸去上清液，PBS 清洗细胞，然后用 Hoechst
+染 色 液 37 ℃ 避 光 孵 育 10 min，PBS 清 洗 细 胞，
+TMRM 染色液 100 μL 避光孵育染色 30 min，随后
+于荧光显微镜下拍照，统计分析细胞线粒体膜电位
+变化情况。
+1.5 DAPI 染色观察人参皂苷 Re 对 SH-SY5Y 细胞凋
+亡的作用
+细胞培养及缺氧复氧处理同上述操作。复氧 2 h 
+后，吸去上清液，预冷 PBS 清洗细胞，然后用多聚
+甲醛固定液 100 μL 室温固定 30 min，PBS 洗去固
+定液，每孔加入 50 μL DAPI 染色液，室温避光孵
+育 5 min， PBS 洗涤，随后于荧光显微镜下观察拍
+照。
+1.6 免疫印迹检测 SH-SY5Y 细胞蛋白表达
+取对数期生长的 SH-SY5Y 神经细胞消化计数，
+以 3×10
+5/ 孔的密度接种于 6 孔板，37 ℃、5% CO2
+细胞培养箱中贴壁生长 24 h。以完全培养基（ 含
+10% FBS 的高糖 DMEM）配制不同浓度的人参皂
+苷 Re（6.25、12.50 μg/mL）加药预孵育 12 h 后按照
+上述操作进行缺氧复氧处理。复氧 2 h 后，吸去上
+清液，预冷 PBS 清洗细胞，然后用 4× 上样缓冲液
+80 μL 进行细胞裂解，金属浴煮沸 10 min。取 10 μL
+上样，进行 SDS-PAGE 电泳，转膜后用 5 % 牛奶室
+温封闭 1 h，然后 4 ℃孵育 Nrf-2（1∶1 000）、p53（1∶ 
+1 000）、Bax（1∶1 000）和 β-actin（1∶1 000）一
+抗过夜，TBS-T 洗 3 次，室温孵育二抗（1∶5 000） 
+1 h，TBS-T 洗 3 次后进行 ECL 显影曝光。采用凝
+胶图像软件分析系统扫描，以目的条带与内参条带
+的灰度值比作为蛋白相对表达量。
+1.7 统计学处理
+采 用 GraphPad Prism 8.0 软 件 进 行 统 计 学 分
+析。所有数据以 x±s 表示，组间比较采用 t 检验，
+P<0.05 为差异有统计学意义。
+2 结果
+2.1 人参皂苷 Re 对常氧 SH-SY5Y 细胞存活率的影响
+MTT 检 测 细 胞 存 活 率 结 果 显 示（ 图 1）， 人
+参 皂 苷 Re 在 6.25~50.00 μg/mL 浓 度 范 围 内 与 SH-
+SY5Y 神经细胞共孵育 24 h 对细胞活力没有明显影
+响，可以采用该浓度进行后续实验研究。
+2.2 人参皂苷 Re 对缺氧复氧 SH-SY5Y 细胞存活率的
+影响
+MTT 结果显示（ 图 2），缺氧 4 h 复氧 2 h 能够
+— 312 —
+显著降低模型组细胞的存活率 ；与模型组比较，人
+参 皂 苷 Re 在 6.25 μg/mL 和 12.50 μg/mL 浓 度 下 预
+保 护 12 h 能 够 显 著 提 高 SH-SY5Y 细 胞 的 存 活 率
+（P<0.05），对缺氧复氧损伤的细胞具有明显的保护
+作用。
+2.5 人参皂苷 Re 对 SH-SY5Y 细胞蛋白表达的影响
+免疫印迹结果显示（ 图 5），模型组细胞促凋
+亡蛋白 Bax 和 p53 表达明显增加。而人参皂苷 Re 
+6.25 μg/mL 和 12.50 μg/mL 处 理 组 Bax 和 p53 的 表
+达水平显著降低。同时人参皂苷 Re 处理组抗氧化
+蛋白 Nrf-2 的表达明显提高，与模型组比较差异有
+统计学意义（P<0.01）。
+3 讨论
+缺血性脑卒中是世界上最常见的脑血管病，并
+且近年来在年轻人群中的发病率也显著增加
+[8-9]。
+早期的血运重建仍然是最有效的治疗手段，但是血
+流恢复会对缺血脑组织产生新的再灌注损伤。发现
+和探索具有保护缺血再灌注损伤的药物对缺血性脑
+卒中的预后具有重要意义。SH-SY5Y 细胞缺氧复
+氧模型是经典的模拟脑缺血再灌注损伤的体外细胞
+模型
+[10]，本实验通过糖氧剥夺建立缺氧复氧损伤
+的 SH-SY5Y 细胞模型，探讨人参皂苷 Re 的神经保
+护作用。研究结果显示，缺氧复氧后，SH-SY5Y
+细胞存活率明显降低，细胞线粒体膜电位显著降低，
+细胞凋亡增加。人参皂苷 Re 6.25 μg/mL 和 12.50 
+μg/mL 能够提高 SH-SY5Y 细胞存活率，抑制细胞
+线粒体膜电位降低，提高细胞抗氧化能力，从而抑
+制细胞凋亡，对 SH-SY5Y 细胞缺氧复氧损伤具有
+明显的保护作用。
+线粒体在维持细胞正常功能中起重要作用，正
+常的线粒体膜电位是维持线粒体进行氧化磷酸化、
+产生三磷酸腺苷的重要前提，线粒体膜电位的稳定
+有利于维持细胞的正常生理功能。氧化应激条件下，
+细胞产生大量氧自由基，进而刺激细胞线粒体，导
+致线粒体膜电位降低，线粒体功能障碍
+[11-12]。本研
+究结果显示缺氧复氧条件下，SH-SY5Y 细胞线粒
+体膜电位水平较正常对照组显著下降，细胞线粒体
+功能明显受损。而人参皂苷 Re 预孵育能够增加线
+粒体膜电位，说明人参皂苷 Re 能够保护缺氧复氧
+损伤 SH-SY5Y 细胞的线粒体，对维持细胞正常功
+能具有促进作用。
+氧化应激损伤在缺血性脑病的发生发展过程
+中起着至关重要的作用，研究表明，通过提高机体
+内源性的抗氧化能力将是保护缺血性脑血管疾病的
+重要途径
+[13]。Nrf-2 是一种重要的核转录因子，具
+有改善机体氧化应激状态，维持氧化还原稳态的作 
+用
+[14-15]。 血 红 素 氧 合 酶 1（heme oxygenase-1，
+HO-1）是一种重要的抗氧化酶，研究表明，机体在
+氧化应激条件下，Nrf-2 可以激活下游的 HO-1，从
+2.3 
+人参皂苷 Re 对 SH-SY5Y 细胞线粒体膜电位的 
+影响
+TMRM 染色结果显示（ 图 3），与对照组相比，
+模型组 SH-SY5Y 细胞线粒体 TMRM 荧光强度显著
+降 低 ；而 人 参 皂 苷 Re 6.25 μg/mL 和 12.50 μg/mL
+预孵育能够增加线粒体膜电位水平，人参皂苷 Re 
+6.25 μg/mL 处理组与模型组比较差异有统计学意义
+（P<0.01）。
+2.4 人参皂苷 Re 对 SH-SY5Y 细胞凋亡的抑制作用
+DAPI 染色结果显示（ 图 4），与对照组相比，
+模型组 SH-SY5Y 细胞发生明显凋亡，细胞核固缩，
+呈致密浓染 ；而人参皂苷 Re 在 6.25 μg/mL 和 12.50 
+μg/mL 浓度下预孵育能够减少浓染的细胞核比例，
+抑制细胞凋亡，与模型组比较差异有统计学意义
+（P<0.05）。
+图 1 人参皂苷 Re 对常氧 SH-SY5Y 细胞存活率的影响
+120
+100
+80
+60
+40
+20
+0
+存活率（%）
+对照组
+Re 6.25 μg/mL 组
+Re 12.50 μg/mL 组
+Re 25.00 μg/mL 组
+Re 50.00 μg/mL 组
+图 2 人参皂苷 Re 对缺氧复氧损伤 SH-SY5Y 细胞存活率的影响
+**P<0.01 vs 对照组 ； 
+#P<0.05 vs 模型组
+120
+100
+80
+60
+40
+20
+0
+存活率（%）
+模型组
+对照组
+Re 6.25 μg/mL 组
+Re 12.50 μg/mL 组
+Re 25.00 μg/mL 组
+Re 50.00 μg/mL 组
+**
+#
+#
+— 313 —
+图 3 
+人参皂苷 Re 对缺氧复氧损伤 SH-SY5Y 细胞线粒体膜电位的影响，×200。A1~D1 ：Hoechst 染色 ；A2~D2 ：TMRM 染色 ；A3-D3 ：
+Merge。A ：对照组 ；B ：模型组 ；C ：Re 6.25 μg/mL 组 ；D ：Re 12.50 μg/mL 组 ；E ：各组阳性染色细胞积分强度水平。
+***P<0.001 
+vs 对照组 ； 
+##P<0.01 vs 模型组. 
+图 4 
+人参皂苷 Re 对缺氧复氧损伤 SH-SY5Y 细胞凋亡的影响，×200。A ：对照组 ；B ：模型组 ；C ：Re 6.25 μg/mL 组 ；D ：Re 12.50 μg/mL 
+组 ；E ：各组 SH-SY5Y 细胞凋亡率。
+**P<0.01 vs 对照组 ； 
+#P<0.05 vs 模型组.
+而发挥抗氧化和抑制细胞凋亡的作用
+[16-17]。本研
+究结果显示，缺氧复氧损伤后，人参皂苷 Re 6.25、
+12.50 μg/mL 能够增加 SH-SY5Y 细胞抗氧化蛋白
+Nrf-2 的表达，说明人参皂苷 Re 能够通过增强细胞
+对抗氧化应激的能力，保护细胞免受损伤。
+药理学研究表明，细胞凋亡在脑缺血缺氧诱导
+3A1
+3B1
+3C1
+3D1
+3A2
+3B2
+3C2
+3D2
+3A3
+3B3
+3C3
+3D3
+4A
+4B
+4C
+4D
+3E
+4E
+对照组
+对照组
+模型组
+模型组
+Re 6.25 μg/mL 组
+Re 6.25 μg/mL 组
+Re 12.50 μg/mL 组
+Re 12.50 μg/mL 组
+120
+100
+80
+30
+20
+10
+0
+阳性细胞积分强度（%）
+60
+40
+20
+0
+凋亡率（%）
+***
+**
+##
+#
+#
+— 314 —
+神经细胞死亡过程中具有重要的意义，而 Bcl-2 家
+族对细胞凋亡起到重要的调节作用，其中抑凋亡蛋
+白 Bcl-2 和促凋亡蛋白 Bax 的相互拮抗决定细胞是
+否进入凋亡状态
+[18-19]。p53 是一个重要的抗癌基因，
+p53 可以上调 Bax 的表达水平，以及下调 Bcl-2 的
+表达共同完成促进细胞凋亡作用
+[20]。本研究结果
+显示，SH-SY5Y 细胞缺氧复氧后，p53 和 Bax 蛋白
+表达与正常对照组相比显著增加，而人参皂苷 Re
+能够显著抑制细胞的凋亡，抑制 p53 和 Bax 蛋白表
+达水平。
+综上所述，人参皂苷 Re 对缺氧复氧损伤 SH-
+SY5Y 细胞具有明显的保护作用，其机制可能是通
+过抑制细胞线粒体损伤，提高细胞抗氧化应激水平，
+从而减少细胞凋亡而实现，具体作用机制仍需进一
+步深入研究。
+参 考 文 献  
+[1] 
+李岩， 王凯华 . 脑缺血再灌注损伤过氧化相关机制及中医药治疗
+[J]. 解放军医药杂志， 2019， 31（5）：113-116.
+[2] 
+曹瑀莹， 杜丙秀， 李劭恒，等 . 人参皂苷 Re 对异丙肾上腺素诱
+导离体灌流大鼠心脏心律失常的调节作用 [J]. 中草药， 2021， 52
+（20）：6234-6244.
+[3] 
+Yu Y， Sun J， Liu J， et al. Ginsenoside Re preserves cardiac 
+function and ameliorates left ventricular remodeling in a rat model 
+of myocardial infarction[J]. J Cardiovasc Pharmacol， 2020， 75（1）： 
+91-97.
+[4] 
+Madhi I， Kim J H， Shin J E， et al. Ginsenoside Re exhibits 
+neuroprotective effects by inhibiting neuroinflammation via 
+CAMK/MAPK/NF-κB signaling in microglia[J]. Mol Med Rep， 
+2021， 24（4）：698.
+[5] 
+吕爽 . 人参皂苷 Re 的抗休克作用 [D]. 沈阳 ：沈阳药科大学， 2006.
+[6] 
+刘晓春， 张瑞英 . 人参皂苷 Re 抗血小板聚集及作用机制研究 [J]. 
+山西医药杂志， 2015， 44（14）：1610-1612.
+[7] 
+李政泽，肖深根，刘仲华，等 . 人参皂苷 Re 对谷氨酸致 SH-SY5Y
+细胞损伤的保护作用 [J]. 北京农业，2013，（7）：1-2.
+[8] 
+秦伟， 胡红梅， 李譞婷，等 . 青年缺血性脑卒中患者脑小血管病发
+生情况及危险因素分析 [J]. 山东医药， 2021， 61（17）： 20-24.
+[9] 
+Zhang Z， Cao X， Bao X， et al. Cocaine- and amphetamine-
+regulated transcript protects synaptic structures in neurons after 
+ischemic cerebral injury[J]. Neuropeptides， 2020， 81 ：102023.
+[10] 刘麟文， 周雅春， 姚俊岩 . DADLE 对 SH-SY5Y 细胞缺氧复氧损伤
+的保护作用 [J]. 解剖学杂志， 2020， 43（1）：31-36.
+[11] 尤旭，朱小芳，胡运鹏，等 . 黄芪总皂苷对心衰大鼠心肌细胞凋
+亡和线粒体膜电位的影响 [J]. 基础医学与临床，2020，40（9）：
+1218-1223.
+[12] 吴倩，汪宁，刘娇，等 . 藁本内酯对缺糖缺氧 / 复氧所致 PC12 细
+胞线粒体分裂的影响 [J]. 中国中药杂志，2020，45（16）：3931-
+3937.
+[13] Su X T， Wang L， Ma S M， et al. Mechanisms of acupuncture in 
+the regulation of oxidative stress in treating ischemic stroke[J]. 
+Oxid Med Cell Longev， 2020， 24 ：7875396.
+[14] Ma Q. Role of Nrf-2 in oxidative stress and toxicity[J]. Ann Rev 
+Pharmacol Toxicol， 2013， 53（1）：401- 426.
+[15] Peng S， Hou Y， Yao J， et al. Activation of Nrf2 by costunolide 
+provides neuroprotective effect in PC12 cells[J]. Food Funct， 
+2019， 10（7）：4143-4152.
+[16] 郭伟伟， 张晓鹏， 李霞，等 . 三七皂苷 R1 调控 AMPK/Nrf-2/HO-1
+信号通路缓解冠心病大鼠心肌损伤的研究 [J]. 中国现代应用药
+学， 2021， 38（1）：36-41.
+[17] Surh Y J， Kundu J K， Li M H， et al. Role of Nrf2-mediated heme 
+oxygenase-1 upregulation in adaptive survival response to nitrosative 
+stress[J]. Arch Pharmacal Res， 2009， 32（8）：1163-1176.
+[18] 崔阳 . 高压氧治疗对癫痫大鼠血清白细胞介素 1β，白细胞介素 2，
+白细胞介素 8，肿瘤坏死因子 α 水平及海马神经元 Bax 及 Bcl-2 表
+达的影响 [J]. 解剖学杂志， 2021， 44（3）： 204-208. 
+[19] 陈秉朴，黄瑞雅，李培春，等 . 参麦注射液对缺氧复氧致鼠大脑
+皮层神经细胞 Bcl-2/Bax 蛋白表达的影响 [J]. 中华现代中西医杂
+志，2005，3（19）：1732-1734.
+[20] Yan H， Huang W， Rao J， et al. miR-21 regulates ischemic 
+neuronal injury via the p53/Bcl-2/Bax signaling pathway[J]. Aging 
+（ Albany NY）， 2021， 13（18）：22242-22255.
+图 5 人参皂苷 Re 对 SH-SY5Y 细胞 Nrf-2、p53 和 Bax 蛋白表达的影响
+*P<0.05， 
+**P<0.01 vs 对照组 ； 
+#P<0.05， 
+##P<0.01 vs 模型组   
+Nrf-2
+p53
+Bax
+β-actin
+对照组
+模型组
+Re 6.25 μg/mL 组
+Re 12.50 μg/mL 组
+ 对照组
+ 模型组
+ Re 6.25 μg/mL 组
+ Re 12.50 μg/mL 组
+2.0
+1.5
+1.0
+0.5
+0.0
+蛋白表达量
+**
+**
+*
+#
+#
+#
+#
+##
+#
+Nrf-2
+p53
+Bax

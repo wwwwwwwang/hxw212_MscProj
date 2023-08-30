@@ -1,0 +1,1954 @@
+【实验研究】
+人参对自发性糖尿病小鼠的肾脏保护
+作用及机制研究
+❋
+刘媛媛
+1,刘轶凡
+1,胡　 洁
+1,肖　 遥
+2,田楚箫
+1,周　 楠
+1,傅　 强
+1△
+(1. 北京中医药大学东直门医院,北京　 100700;
+2. 北京中医药大学第三附属医院肾病科,北京　 100029)
+　 　 摘要: 目的　 观察人参对自发性 2 型糖尿病(db/ db)小鼠糖脂代谢、炎症反应及氧化应激的影响,探讨其肾脏保护作用的内
+在机制。 方法　 选取 8 周龄雄性自发性 2 型糖尿病 db/ db 小鼠 18 只,分为模型组、人参组、二甲双胍组,另取同周龄雄性同窝野生
+型 db/ m 小鼠 6 只为正常组,干预 9 周后测量小鼠的体质量、6 小时尿蛋白定量(six
+ 
+hours
+ 
+urinary
+ 
+total
+ 
+protein,6hUTP)及尿微量白蛋
+白与尿肌酐比值(albumin / urine
+ 
+creatinine
+ 
+ratio,ACR)。 采用病理染色观察小鼠肾脏病理改变。 检测血清甘油三酯( triglyceride,
+TG)、总胆固醇(total
+ 
+cholesterol,TC)、低密度脂蛋白( low-density
+ 
+lipoprotein
+ 
+cholesterol,LDL-C)、糖化血清白蛋白( glycated
+ 
+serum
+ 
+protein,GSP)、血肌酐(serum
+ 
+creatinine,SCr)、血尿素氮(blood
+ 
+urea
+ 
+nitrogen,BUN) 水平,以及氧化应激指标过氧化氢酶( catalase,
+CAT)、丙二醛(malondialdehyde,MDA)、超氧化物歧化酶( superoxide
+ 
+dismutase,SOD) 水平,炎症因子白细胞介素 1β( interleukin1β,
+IL-1β)、白介素 6(interleukin
+ 
+6,IL-6)、肿瘤坏死因子 α(tumor
+ 
+necrosis
+ 
+factorα,TNF-α)水平。 结果　 与正常组比较,模型组小鼠体质
+量、ACR、6hUTP 显著升高(P<0. 01),肾脏病理可见肾小球肥大,系膜细胞增殖,系膜基质扩张,纤维组织增生,大片炎细胞浸润等
+典型表现,血清 TG、TC、GSP、BUN、MDA、IL-1β、IL-6、TNF-α 显著升高(P<0. 05),SOD、CAT 显著下降(P<0. 05)。 与模型组比较,人
+参组上述指标均有改善(P<0. 05 或 P<0. 01),且能显著降低 SCr(P<0. 01)。 与二甲双胍组比较,人参组上述指标差异无统计学意
+义。 结论　 人参可能通过改善炎症反应、氧化应激,调节糖血脂代谢,发挥对糖尿病小鼠肾脏的保护作用。
+　 　 关键词: 人参;益气法;糖尿病肾脏病;炎症;氧化应激
+　 　 中图分类号: R285　 　 文献标识码: A　 　 文章编号: 1006-3250(2023)02-0234-06
+❋基金项目:国家自然科学基金青年科学基金项目(8200151369)-基于肠道菌群-LPS / TLR4 / NF-κB 炎症通路的黄连人参药对治疗 2 型糖尿病
+机制研究
+作者简介:刘媛媛(1996-),女,内蒙古人,在读硕士研究生,从事中医药防治内分泌代谢疾病研究。
+△通讯作者:傅　 强(1982-),女,北京人,副主任医师,硕士研究生导师,从事中医药防治内分泌代谢疾病研究,Tel:010-
+84015829,E-mail:13693332059@ 163. com。
+Study
+ 
+on
+ 
+Nephroprotective
+ 
+Effect
+ 
+and
+ 
+Mechanism
+ 
+of
+ 
+Ginseng
+ 
+in
+ 
+Spontaneously
+ 
+Diabetic
+ 
+Mice
+LIU
+ 
+Yuanyuan1,
+ 
+LIU
+ 
+Yifan1,
+ 
+HU
+ 
+Jie1,
+ 
+XIAO
+ 
+Yao2,
+ 
+TIAN
+ 
+Chuxiao1,
+ 
+ZHU
+ 
+Nan1,
+ 
+FU
+ 
+Qiang1△
+(1. Dongzhimen
+ 
+hospital,Beijing
+ 
+University
+ 
+of
+ 
+Chinese
+ 
+Medicine,
+ 
+Beijing,
+ 
+100700,
+ 
+China;
+2.
+ 
+Third
+ 
+Affiliated
+ 
+Hospital,
+ 
+Beijing
+ 
+University
+ 
+of
+ 
+Chinese
+ 
+Medicine
+ 
+Beijing
+ 
+100029,
+ 
+China)
+ 
+　 　
+Abstract: Objective
+ 
+To
+ 
+observe
+ 
+the
+ 
+effects
+ 
+of
+ 
+Ginseng
+ 
+on
+ 
+glucolipid
+ 
+metabolism,
+ 
+inflammatory
+ 
+response,
+ 
+and
+ 
+oxidative
+ 
+stress
+ 
+in
+ 
+spontaneous
+ 
+type
+ 
+2
+ 
+diabetic
+ 
+db/ db
+ 
+mice
+ 
+and
+ 
+to
+ 
+explore
+ 
+the
+ 
+underlying
+ 
+mechanisms
+ 
+of
+ 
+renal
+ 
+protective
+ 
+effects
+ 
+of
+ 
+Ginseng. Methods
+ 
+18
+ 
+8-week-old
+ 
+male
+ 
+spontaneous
+ 
+type
+ 
+2
+ 
+diabetic
+ 
+db/ db
+ 
+mice
+ 
+were
+ 
+selected
+ 
+and
+ 
+divided
+ 
+into
+ 
+the
+ 
+model
+ 
+group,
+ 
+Ginseng
+ 
+group,and
+ 
+Metformin
+ 
+group. 6
+ 
+male
+ 
+wild-type
+ 
+db/ m
+ 
+mice
+ 
+of
+ 
+the
+ 
+same
+ 
+litter
+ 
+at
+ 
+the
+ 
+same
+ 
+week
+ 
+of
+ 
+age
+ 
+were
+ 
+selected
+ 
+as
+ 
+a
+ 
+control
+ 
+group.
+ 
+All
+ 
+indexes
+ 
+were
+ 
+measured
+ 
+after
+ 
+9
+ 
+weeks
+ 
+of
+ 
+intervention. Six
+ 
+hours
+ 
+urinary
+ 
+total
+ 
+protein
+(6hUTP)and
+ 
+albumin
+ 
+/ creatinine
+ 
+ratio(ACR) were
+ 
+measured
+ 
+and
+ 
+the
+ 
+pathological
+ 
+changes
+ 
+of
+ 
+the
+ 
+kidney
+ 
+in
+ 
+mice
+ 
+were
+ 
+observed
+ 
+by
+ 
+pathological
+ 
+staining.
+ 
+The
+ 
+serum
+ 
+triglyceride(TG),
+ 
+total
+ 
+cholesterol
+ 
+(TC),
+ 
+low-density
+ 
+lipoprotein
+ 
+cholesterol
+ 
+(LDL-C),
+ 
+glycated
+ 
+serum
+ 
+protein(GSP),
+ 
+creatinine(Cr),
+ 
+blood
+ 
+urea
+ 
+nitrogen(BUN) levels,
+ 
+as
+ 
+well
+ 
+as
+ 
+oxidative
+ 
+stress
+ 
+indexes
+ 
+catalase(CAT),
+ 
+malondialdehyde
+ 
+(MDA),
+ 
+superoxide
+ 
+dismutase(SOD) levels,
+ 
+inflammatory
+ 
+factors
+ 
+Interleukin
+ 
+1β(IL-1β),
+ 
+Interleukin
+ 
+6(IL-6),
+ 
+Tumor
+ 
+Necrosis
+ 
+Factor
+ 
+α(TNF-α)levels
+ 
+were
+ 
+all
+ 
+measured.
+ 
+Results
+ 
+Compared
+ 
+with
+ 
+the
+ 
+normal
+ 
+control
+ 
+group,
+ 
+model
+ 
+group
+ 
+mice
+ 
+had
+ 
+higher
+ 
+body
+ 
+mass,
+ 
+ACR
+ 
+and
+ 
+6hUTP
+ 
+(P<0. 01).
+ 
+Their
+ 
+renal
+ 
+pathology
+ 
+showed
+ 
+typical
+ 
+manifestations
+ 
+of
+ 
+diabetic
+ 
+nephropathy
+ 
+such
+ 
+as
+ 
+glomerular
+ 
+hypertrophy,
+ 
+the
+ 
+proliferation
+ 
+of
+ 
+thylakoid
+ 
+cells,
+ 
+expansion
+ 
+of
+ 
+thylakoid
+ 
+stroma,
+ 
+the
+ 
+proliferation
+ 
+of
+ 
+fibrous
+ 
+tissue,
+ 
+and
+ 
+extensive
+ 
+infiltration
+ 
+of
+ 
+inflammatory
+ 
+cells.
+ 
+Their
+ 
+serum
+ 
+TG、TC、
+GSP、BUN、MDA、 IL-1β、 IL-6、 TNF-α
+ 
+were
+ 
+higher ( P < 0. 05),
+ 
+SOD,
+ 
+CAT
+ 
+were
+ 
+significantly
+ 
+decreased ( P < 0. 05).
+Compared
+ 
+with
+ 
+the
+ 
+model
+ 
+group,
+ 
+the
+ 
+above
+ 
+indexes
+ 
+in
+ 
+the
+ 
+ginseng
+ 
+group
+ 
+were
+ 
+improved
+ 
+(P<0. 05,P<0. 01),
+ 
+and
+ 
+SCr
+ 
+levels
+ 
+of
+ 
+Ginseng
+ 
+group
+ 
+were
+ 
+significantly
+ 
+reduced
+ 
+( P < 0. 01).
+ 
+Compared
+ 
+with
+ 
+the
+ 
+metformin
+ 
+group,
+ 
+there
+ 
+was
+ 
+no
+ 
+significant
+ 
+difference
+ 
+in
+ 
+the
+ 
+above
+ 
+indexes
+ 
+in
+ 
+Ginseng
+ 
+group. Conclusion
+ 
+Ginseng
+ 
+can
+ 
+provide
+ 
+good
+ 
+protection
+ 
+to
+ 
+the
+ 
+kidney
+ 
+of
+ 
+spontaneously
+ 
+diabetic
+ 
+mice
+ 
+by
+ 
+improving
+ 
+inflammatory
+ 
+response,
+ 
+oxidative
+ 
+stress,
+ 
+and
+ 
+regulating
+ 
+lipid
+ 
+metabolism.
+　 　 Key
+ 
+words: Ginseng;
+ 
+Benefiting
+ 
+Qi
+ 
+method;
+ 
+Diabetic
+ 
+kidney
+ 
+disease;
+ 
+Inflammation;
+ 
+Oxidative
+ 
+stress
+ 
+34
+2
+中国中医基础医学杂志
+Journal
+ 
+of
+ 
+Basic
+ 
+Chinese
+ 
+Medicine　 　 　 　 　 　 2023 年 2 月第 29 卷第 2 期
+February
+ 
+2023
+ 
+Vol. 29. No. 2
+　 　 糖尿病肾脏病(diabetic
+ 
+kidney
+ 
+disease,DKD)是
+糖尿病重要的微血管并发症,我国约有 20% ~ 40%
+的糖尿病患者合并 DKD,现已成为慢性肾脏病和终
+末期肾病的主要原因[1-2]。 早期肾脏病变具有可逆
+性,进入显性蛋白尿期后则发展迅速且不可逆,因此
+DKD 的早期防治尤为重要。 现代医学尚无治疗
+DKD 的有效药物,主要通过管理血糖、血压延缓其
+发展,中医药具有疗效好、副作用小等优点,为 DKD
+的早期防治提供了可能[3]。
+人参为五加科植物人参 Panax
+ 
+ginseng
+ 
+C. A. Mey.
+的干燥根,经晒干者称生晒参,经蒸熟并干燥者称红
+参,有大补元气、生津止渴之效,是临床治疗糖尿病
+及其并发症的有效药物。 研究发现,人参的有效成
+分具有抗衰老、抗疲劳、调节免疫力等药理作用[4]。
+炎症与氧化应激被认为是 DKD 发生发展的重要病
+理机制,并可进一步激活其他 DKD 进展相关的机制
+通路[5-7],故本研究以此为切入点,观察了人参对自
+发性糖尿病小鼠糖脂代谢、肾功能、肾脏病理等的影
+响,旨在探讨其对肾脏保护作用及内在机制,以指导
+临床治疗。
+1　 材料与方法
+1. 1　 实验动物
+SPF 级 8 周龄雄性自发性 2 型糖尿病 db / db
+(C57BLKS)小鼠 18 只,体质量 35 ~ 40 g;同周龄雄
+性同窝野生型 db / m 小鼠 6 只,体质量 20 ~ 25 g,均
+购自常州卡文斯实验动物有限公司[实验动物许可
+证号:SCXK(苏 2016-0010)]。 饲养于北京中医药
+大学 东 直 门 医 院 SPF 级 环 境 屏 障 动 物 实 验 室
+[SYXK ( 京) 2020-0013], 饲 养 环 境 温 度 为 20 ~
+26 ℃,日温差≤3℃,相对湿度 40% ~ 70%,12 h 光/
+暗周期。 常规喂养饲料及饮用水,基础饲料配方:糖
+水化合物 65%、蛋白质 24. 2%、脂肪 10. 3%,由北京
+华阜康生物科技股份有限公司提供( 货号 1022)。
+动物实验方案经北京中医药大学动物福利委员会批
+准(编号为 21-19),实验期间按照 3R 原则给予实验
+动物人道关怀。
+1. 2　 药物
+生晒参饮片(产地:吉林)由东直门医院草药房
+自同仁堂采购并鉴定,依据临床常规煎煮方法,取生
+晒参 3 g(剂量依据预实验确定) 置于砂锅中,加蒸
+馏水 500 mL,浸泡 30 min,武火煮沸,改文火煎煮
+45 min,用双层棉纱布过滤;再加入蒸馏水 300 mL,
+武火煮沸,改文火煎煮 30 min,过滤后将两次滤液合
+并浓缩至含生药 39 mg/ mL,分装后 4 ℃保存,每周按
+上述方法煎煮一次备用。 盐酸二甲双胍片(0. 5 g/
+片,中 美 上 海 施 贵 宝 制 药 有 限 公 司, 国 药 准 字
+H20023370),称取 1. 5 g 盐酸二甲双胍片并粉碎,用
+蒸馏水配成浓度为 19. 5 mg / mL 的盐酸二甲双胍混
+悬液,4 ℃储存备用,用时室温放置 60 min,振摇使
+其混匀,每周配置一次。
+1. 3　 试剂及仪器
+总胆固醇(total
+ 
+cholesterol,TC)测定试剂盒、甘
+油三酯(triglyceride,TG)测定试剂盒、低密度脂蛋白
+胆固醇(low-density
+ 
+lipoprotein
+ 
+cholesterol,LDL-C)测
+定试剂盒、肌酐(creatinine,Cr)测定试剂盒、尿素氮
+(blood
+ 
+urea
+ 
+nitrogen,BUN)测定试剂盒、糖化血清白
+蛋白(glycated
+ 
+serum
+ 
+protein,GSP)测定试剂盒,苏木
+素-伊红染色液、马松染液、爱先蓝-糖原染液均购自
+南京建成生物工程研究所( 货号分别为 A111-1-1、
+A110-1-1、A113-1-1、 C011-2-1、 C013-2-1、 A037-2-1、
+D006、D026-1-2、D033-1-1);尿微量白蛋白试剂盒购
+自上海酶联生物科技有限公司( 货号:ML063626-
+2);丙二醛(glycated
+ 
+serum
+ 
+protein,MDA) 比色法测
+试盒、总超氧化物歧化酶(total
+ 
+superoxide
+ 
+dismutase,
+T-SOD)比色法测试盒、过氧化氢酶(catalase,CAT)
+比色 法 测 试 盒、 白 介 素 1β ( interleukin1β, IL-1β)
+ELISA
+ 
+试剂盒、白介素 6( interleukin
+ 
+6,IL-6) ELISA
+试剂盒、肿瘤坏死因子 α ( tumor
+ 
+necrosis
+ 
+factor
+ 
+α,
+TNF-α)ELISA 试剂盒均购自武汉 Elabscience 公司
+(货号 分 别 为 E-BC-K025-M、 E-BC-K020-M、 E-BC-
+K031-M、 E-MSEL-M0003、 E-MSEL-M0001、 E-MSEL-
+M0002);bx51 型光学显微镜,日本 Olympus 公司;
+MK3 型酶标仪, 德国赛默飞世尔仪器有限公司;
+D1008E 型涡旋机,美国 SCILOGEX 公司;ICV-450
+型电热恒温培养箱,日本 ASONE 公司;H1650-W 型
+台式微量高速离心机,湖南湘仪离心机有限公司;
+RM2135 型石蜡切片机,德国 Leica 公司;EG1140H
+型包埋机,德国 Leica 公司。
+1. 4　 分组及给药
+18 只 db / db 小鼠随机分为模型组、人参组、二
+甲双胍组,以 6 只 db / m 小鼠为正常组。 人参组给
+予 0. 39 g / kg 生晒参水煎剂灌胃、二甲双胍组给予
+0. 195 g / kg 药物混悬液灌胃、模型组、正常组给予等
+体积蒸馏水灌胃(10 mL/ kg),每日 1 次,连续灌胃 9
+周。 小鼠剂量(g/ kg)= 9. 1×人的临床剂量(g/ kg) [8]。
+1. 5　 观察指标与标本收集
+观察小鼠的精神状态、活动情况、毛发、饮食、饮
+水、排便、排尿等情况,每周测量小鼠体质量。 取材前
+使用代谢笼收集各组小鼠 6 h 尿液,4 ℃
+ 
+3000 r/ min,
+离心 15 min,计算尿量,取上清液按照试剂盒说明书
+步骤检测并计算得出尿微量白蛋白与尿肌酐比值
+(albumin / urine
+ 
+creatinine
+ 
+ratio,ACR) 及 6 h 尿微量
+白蛋白(six
+ 
+hours
+ 
+urinary
+ 
+total
+ 
+protein,6 h
+ 
+UTP)。 灌
+胃 9 周后将小鼠处死,处死前禁食水 12 h,3%戊巴
+比妥腹腔注射麻醉后进行摘眼球取血,1200 g 离心
+20 min,收集上清液分装保存于-80 ℃ 冰箱。 摘取肾
+35
+2
+2023 年 2 月第 29 卷第 2 期
+February
+ 
+2023
+ 
+Vol. 29. No. 2 　 　 　 　 　 　
+中国中医基础医学杂志
+Journal
+ 
+of
+ 
+Basic
+ 
+Chinese
+ 
+Medicine
+脏,一半置于 4%多聚甲醛中固定,另一半置于冻存
+管中,-80 ℃冰箱保存。
+1. 6　 肾脏病理学检查
+将固定后的肾组织取出,石蜡包埋、切片、进行
+苏木精-伊红( hematoxylin-eosin
+ 
+staining,HE) 染色、
+糖原 ( periodic
+ 
+acid-schiff
+ 
+stain, PAS) 染 色 和 马 松
+(Masson)染色,封片后光学显微镜下观察小鼠肾脏
+病理改变。
+1. 7　 血清指标测定
+糖脂代谢指标:甘油磷酸氧化酶法检测小鼠血
+清 TG、TC,双试剂直接法检测 LDL-C,果糖胺法测定
+GSP 的表达水平。 肾功能指标:肌氨酸氧化酶法检
+测小鼠血清 Cr,脲酶法检测小鼠血清 BUN 表达水
+平。 氧化应激指标:比色法测定 CAT、MDA、SOD 的
+表达水平;炎症指标:酶联免疫吸附法检测小鼠血清
+IL-1β、IL-6、TNF-α 表达水平。
+1. 8　 统计学方法
+本实验采用 SPSS20. 0 统计软件进行分析,计
+量资料以均数±标准差( 􀭰
+x±s) 表示。 符合正态分布
+使用单因素方差分析(One-way
+ 
+ANOVA),若数据方
+差齐,两两比较采用独立样本 t 检验及 Dunnett 检
+验;若数据方差不齐,使用 DunnettT3 检验。 不符合
+正态分布使用非参数检验进行分析,以 P<0. 05 为
+差异具有统计学意义。
+2　 结果
+2. 1　 各组小鼠一般情况及体重比较
+正常组小鼠毛色光亮,行动敏捷,体型瘦长,活
+动频繁。 模型组、人参组、二甲双胍组小鼠形体肥
+胖,动作迟缓,活动少,摄食及饮水增多,灌胃后期模
+型组小鼠出现竖毛,体温偏低,对外界刺激反应迟钝
+的现象。 db / db 小鼠灌胃前体质量约 40 g,db / m 小
+鼠体质量约 25 g。 与模型组比较,人参组体质量增
+长趋势减缓,自第 6 周起差异有统计学意义(第 6、7
+周 P<0. 05,第 8、9 周 P<0. 01)。 人参组与二甲双胍
+组无差异无统计学意义。 见图 1。
+注:人参组与模型组比较,∗P<0. 05,∗∗P<0. 01
+图 1　 各组小鼠 9 周体质量变化(n= 6)
+2. 2　 尿蛋白指标变化
+如表 1 所示,与正常组比较,模型组尿蛋白显著
+升高(P<0. 01)。 与模型组比较,人参组 ACR、6 h
+ 
+UTP 显著下降(P<0. 01)。 二甲双胍组 6hUTP 显著
+下降(P<0. 01),ACR 有下降趋势,但差异无统计学意
+义。 人参组与二甲双胍组比较,差异无统计学意义。
+表 1　 各组小鼠尿蛋白水平比较(n = 6,􀭰
+x±s)
+组别
+ACR(mg/ mmol)
+6hUTP(mg)
+正常组
+31. 83±5. 59
+31. 64± 4. 94
+模型组
+222. 71±35. 30##
+135. 82±19. 26##
+人参组
+145. 03±16. 54∗∗
+78. 00±15. 56∗∗
+二甲双胍组
+169. 07±22. 0
+75. 46±13. 44∗∗
+　 　 注:与正常组比较,## P<0. 01;与模型组比较,∗∗ P<0. 01;尿蛋
+白及尿微量白蛋 白 与 尿 肌 酐 比 值 ( albumin / urine
+ 
+creatinine
+ 
+ratio,
+ACR);6 小时蛋白定量(six
+ 
+hours
+ 
+urinarytotalprotein,6hUTP)
+2. 3　 肾脏组织病理形态变化
+小鼠肾脏 HE 染色结果显示:正常组肾脏组织
+结构大体正常,肾小球未见明显增大,系膜细胞、系
+膜基质、肾小囊未见明显异常,肾间质未见明显异常
+及纤维化。 模型组与正常组比较,肾小球肥大明显,
+毛细血管袢扩张充血严重,系膜细胞增殖,系膜基质
+扩张,肾小囊变窄,肾间质严重充血水肿,纤维组织
+增生,可见大片严重的炎细胞浸润。 与模型组比较,
+人参组及二甲双胍肾小球肥大较轻,毛细血管袢扩
+张充血,系膜细胞增殖,系膜基质扩张,肾小囊变窄
+较小,见图 2。
+小鼠肾脏 PAS 染色结果显示,正常组毛细血管
+袢扩张,系膜基质正常。 模型组系膜细胞增殖,系膜
+基质扩张,肾小囊变窄。 与模型组相比,人参组和二
+甲双胍组系膜细胞增殖,系膜基质扩张较轻,见图 2。
+小鼠肾脏 Masson 染色结果显示:正常组纤维化
+增生不明显,模型组纤维化增生明显。 与模型组相
+比,人参组和二甲双胍组纤维化程度较轻,见图 3。
+2. 4　 糖脂代谢指标变化
+如表 2 所示,与正常组比较,模型组 TG、TC、
+GSP 均有显著升高(P<0. 05),LDL-C 有升高趋势,
+但差异无统计学意义。 与模型组比较,人参组 TC、TG
+显著下降(P<0. 01),GSP 明显降低(P<0. 05),LDL-C
+有下降趋势,但差异无统计学意义。 二甲双胍组 TG
+显著下降(P<0. 01),TC、GSP、LDL-C 均明显下降(P<
+0. 05),人参组与二甲双胍组差异无统计学意义。
+表 2　 各组小鼠血脂及血清白蛋白水平比较(n = 6,􀭰
+x±s)(mmol/ L)
+组别
+TG
+TC
+LDL-C
+GSP
+正常组
+0. 71±0. 10
+2. 68±0. 32
+0. 24±0. 13
+4. 20±0. 23
+模型组
+1. 59±0. 22#
+4. 47±0. 71#
+0. 50±0. 26
+6. 43±0. 20#
+人参组
+1. 08±0. 22∗∗ 2. 84±0. 33∗∗ 0. 27±0. 21
+5. 68±0. 40∗
+二甲双胍组 1. 22±0. 11∗∗ 3. 07±0. 47∗
+0. 23±0. 07∗
+5. 51±0. 54∗
+　 　 注:与正常组比较,# P< 0. 05;与模型组比较,∗ P< 0. 05,∗∗ P<
+0. 01;血清甘油三酯( triglyceride,TG);总胆固醇( total
+ 
+cholesterol,
+TC);低密度脂蛋白( low-density
+ 
+lipoprotein
+ 
+cholesterol,LDL-C);糖化
+血清白蛋白(glycated
+ 
+serum
+ 
+protein,GSP)
+36
+2
+中国中医基础医学杂志
+Journal
+ 
+of
+ 
+Basic
+ 
+Chinese
+ 
+Medicine　 　 　 　 　 　 2023 年 2 月第 29 卷第 2 期
+February
+ 
+2023
+ 
+Vol. 29. No. 2
+2. 5　 肾功能指标变化
+如表 3 所示,与正常组比较,模型组 BUN 显著
+升高( P < 0. 05),SCr 升高,但差异无统计学意义。
+与模型组比较,人参组和二甲双胍组 BUN、SCr 均明
+显下降(P<0. 01),但两组间差异无统计学意义。
+A1
+A1
+B1
+B2
+C1
+C2
+D1
+D2
+注:苏木精-伊红染色(hematoxylin-eosin
+ 
+staining,HE)、糖原染色(periodic
+ 
+acid-schiff
+ 
+stain,PAS);
+HE:A1 正常组、B1 模型组、C1 人参组、D1 二甲双胍组;PAS:A2 正常组、
+B2 模型组、C2 人参组、D2 二甲双胍组
+图 2　 各组小鼠肾组织光镜下病理学观察(HE×200、PAS×200)
+表 3　 各组小鼠肾功能水平比较(n = 6,􀭰
+x±s)
+组别
+BUN(mmol/ L)
+SCr(umol/ L)
+正常组
+5. 28±1. 01
+205. 86±11. 37
+模型组
+8. 65±0. 60#
+228. 56±21. 96
+人参组
+6. 31±0. 37∗∗
+173. 76± 3. 18∗∗
+二甲双胍组
+5. 41±0. 85∗∗
+174. 19± 3. 81∗∗
+　 　 注:与正常组比较,#P<0. 05;与模型组比较,∗∗ P<0. 01;血尿素
+氮(blood
+ 
+urea
+ 
+nitrogen,BUN);血肌酐(serum
+ 
+creatinine,SCr)
+2. 6　 氧化应激指标变化
+如表 4 所示,与正常组比较,模型组 SOD、MDA
+均显著升高(P<0. 05),CAT 显著下降(P<0. 05);与
+模型组 比 较, 人 参 组 SOD、 MDA 显 著 下 降 ( P <
+0. 01),CAT 显著升高(P<0. 05);二甲双胍组 SOD、
+MDA 显 著 下 降 ( P < 0. 01), CAT 显 著 升 高 ( P <
+0. 01),人参组与二甲双胍组差异无统计学意义。
+表 4　 各组小鼠血清氧化应激水平比较(n = 6,􀭰
+x±s)
+组别
+SOD(U/ mL)
+CAT(U/ mL)
+MDA(μmol/ L)
+正常组
+109. 78±2. 96
+22. 99±0. 42
+6. 53±0. 86
+模型组
+99. 74±6. 31#
+17. 36±2. 57#
+9. 99±1. 01#
+人参组
+119. 25±6. 92∗∗ 23. 74±3. 15∗
+7. 71±1. 77∗∗
+二甲双胍组
+112. 94±3. 88∗∗ 24. 25±2. 71∗∗
+7. 05±0. 49∗∗
+　 　 注:与正常组比较,# P< 0. 05;与模型组比较,∗ P< 0. 05,∗∗ P<
+0. 01;超氧 化 物 歧 化 酶 ( superoxide
+ 
+dismutase, SOD); 过 氧 化 氢 酶
+(catalase,CAT);丙二醛(malondialdehyde,MDA)
+37
+2
+2023 年 2 月第 29 卷第 2 期
+February
+ 
+2023
+ 
+Vol. 29. No. 2 　 　 　 　 　 　
+中国中医基础医学杂志
+Journal
+ 
+of
+ 
+Basic
+ 
+Chinese
+ 
+Medicine
+A3
+B3
+C3
+D3
+注:马松染色(Masson)A3 正常组、B3 模型组、C3 人参组、D3 二甲双胍组
+图 3　 各组小鼠肾组织光镜下纤维化情况比较(Masson×200)
+2. 7　 炎症指标变化
+如表 5 所示,与正常组比较,模型组血清炎症因
+子 IL-6、IL-1β、TNF-α 均显著升高(P<0. 05)。 与模
+型组比较,人参组 IL-6、IL-1β、TNF-α 均显著下降
+(P<0. 01),二甲双胍组 IL-6、IL-1β 显著下降( P <
+0. 01),TNF-α 下降明显(P<0. 05),人参组与二甲双
+胍组差异无统计学意义。
+表 5　 各组小鼠药物血清炎症指标水平比较(n= 6,􀭰
+x±s)(pg/ mL)
+组别
+IL-6
+IL-1β
+TNF-α
+正常组
+12. 39±3. 35
+20. 37±5. 40
+15. 17±0. 73
+模型组
+31. 81±3. 64#
+53. 45±4. 46#
+32. 76±4. 28#
+人参组
+19. 62±4. 93∗∗
+32. 50±7. 56∗∗
+22. 60±1. 35∗∗
+二甲双胍组
+18. 60±4. 69∗∗
+34. 12±4. 86∗∗
+24. 64±2. 52∗
+　 　 注:与正常组比较,# P< 0. 05;与模型组比较,∗ P< 0. 05,∗∗ P<
+0. 01;白介素 6 ( interleukin
+ 
+6,IL-6); 白介素 1β ( Interleukin
+ 
+1β, IL-
+1β);肿瘤坏死因子 α(Tumor
+ 
+Necrosis
+ 
+Factorα,TNF-α)
+3　 讨论
+国医大师吕仁和教授认为,DKD 是由于消渴病
+(糖尿病)内热伤阴耗气,日久损及肾络,痰湿瘀诸
+邪邪胶结形成 “ 微型癥瘕”,致肾体受损, 肾用失
+司[9]。 气虚是贯穿以上病理过程的关键病机,故益
+气法是贯穿治疗始终的关键治法。 人参作为治疗消
+渴病益气药物的代表,可补五脏之气,生津液、安精
+神。 《名医别录》还记载人参有“止消渴,通血脉,破
+坚积”的作用。 本团队早期临床研究发现,以人参、
+黄连为主要成分的“三黄安消胶囊” 具有明显的降
+血糖、降血脂、降血压的效果[10]。 前期依托国家自
+然科学基金课题研究发现,人参、黄连药对可以起到
+调节肠道菌群、改善胰岛素抵抗的作用[11]。 可见,
+人参在 2 型糖尿病及其并发症的防治中的关键药
+物,但人参单味药防治 DKD 的研究相对不足。 本研
+究对人参对糖尿病动物模型的药效学进行评价,并
+从氧化应激及炎症反应角度探究在人参保护肾脏的
+内在机制。
+实验选用 db / db 小鼠,具有极度肥胖、多食、多
+饮、多尿等糖尿病典型临床症状,是研究 2 型糖尿病
+及其并发症的理想模型。 其存在显著的糖脂代谢紊
+乱,约在 16 周龄左右可见明显的蛋白尿及肾小球滤
+过率的轻度下降,与人类的肾脏疾病病理改变相似,
+可出现肾小球肥大、系膜基质扩张等多种病理变
+化[12]。 本研究中,模型组 18 周龄的 db / db 小鼠出
+现了显著糖脂代谢异常,GSP、TC、TG、LDL-C 显著
+升高,并出现了显著的蛋白尿和血肌酐的轻度升高,
+其肾脏病理改变符合,与文献报道基本一致。 研究
+首先从糖脂代谢、尿蛋白、肾功能等方面对人参药效
+学进行了评价。 其中由于 db / db 小鼠随机血糖波动
+较大,故选用 GSP 以反映机体 2~3 周的血糖代谢情
+况,有较强的敏感性和稳定性[13]。 经人参干预后,
+反应糖脂代谢的 GSP、TG、TC、LDL-C 均显著改善,
+效果与二甲双胍相近,反映人参具有良好的调节糖
+脂代谢的作用。 在尿蛋白方面,人参干预后显著下
+降了 ACR、6hUTP,提示人参对肾小球滤过膜损伤具
+有一定保护作用。 在肾功能方面,db / db 小鼠 SCr
+具有上升趋势,但尚无显著差异,可能与肾脏损伤尚
+不严重,仍具有一定的代偿功能有关。 但经人参干
+预后,BUN、SCr 显著下降,病理染色所见肾脏病理
+改变较模型组明显减轻,纤维化减少,说明人参具有
+保护肾功能的作用,这也印证了气虚对消渴病进展
+的影响。
+38
+2
+中国中医基础医学杂志
+Journal
+ 
+of
+ 
+Basic
+ 
+Chinese
+ 
+Medicine　 　 　 　 　 　 2023 年 2 月第 29 卷第 2 期
+February
+ 
+2023
+ 
+Vol. 29. No. 2
+机体的 SOD 活性、MDA 和 CAT 含量是表征氧
+化应激水平的常用指标。 研究表明,在 2 型糖尿病
+的动物模型中,常出现 SOD、CAT 下降,MDA 升高等
+氧化应激表现。 由于胰岛 B 细胞 SOD、CAT 水平下
+降且活性较低,ROS 可以直接损伤胰岛 B 细胞,ROS
+还可以作为细胞内信使,通过多种途径诱导内皮细
+胞和足细胞损伤及凋亡,诱发肾脏炎症,引起肾损
+伤、蛋白尿产生[14]。 炎症因子在 DKD 中起着重要
+的作用,常见的炎症因子如 IL-6、IL-1β、TNF-α 等,
+在疾病中往往都呈现升高趋势,大量炎症因子聚集
+在肾脏中,一方面可以激活 NF-κB 通路,加重炎症
+反应,另一方面导致 ROS 增加,进一步加重氧化应
+激反应[15-17]。 本研究从氧化应激与炎症角度初步
+探究人参的起效机制,可观察到人参提升了抗氧化
+防御体系中关键酶 SOD、CAT 的水平,下降了反映
+氧化损伤程度的 MDA,起到良好的抗氧化能力。 除
+此之外,通过人参干预后,db / db 小鼠的 IL-6、IL-1β、
+TNF-α 均下降,说明其具有抗炎症反应的重要作用。
+部分研究表明,人参的活性成分如人参皂苷 Rg1、人
+参皂苷 CK 能够改善血清氧化应激指标、下调炎症
+因子,增强肾组织抗氧化能力,增强机体抗疲劳能
+力,与本研究结果具有一致性[18-20]。
+本研究采用二甲双胍作为阳性药物对照,二甲
+双胍为 2 型糖尿病一线用药,研究证实其具有抗炎、
+抗氧化应激、保护肾功能的作用[21-23]。 中药人参在
+药效学方面,与二甲双胍改善炎症、氧化应激方面的
+作用大致相似,但研究中采用剂量为前期实验确定
+的动物最佳剂量,相当于临床剂量的 3 g,相信通过
+适当配伍和调节剂量,其疗效能进一步提升。 诚然,
+本研究在药效学外,仅对其作用机制进行了初步探
+讨,这有待于后续深入研究。
+综上所述,人参可以通过改善炎症与氧化应激,
+调节糖脂代谢,发挥对自发性糖尿病小鼠的肾脏保
+护作用,本研究为临床应用人参防治 DKD 提供了一
+定科学依据。
+参考文献:
+[ 1 ]　 ZHANG
+ 
+L,
+ 
+LONG
+ 
+J,
+ 
+JIANG
+ 
+W,
+ 
+et
+ 
+al.
+ 
+Trends
+ 
+in
+ 
+Chronic
+ 
+Kidney
+ 
+Disease
+ 
+in
+ 
+China
+ 
+[ J].
+ 
+N
+ 
+Engl
+ 
+J
+ 
+Med,2016,375(9):
+905-906.
+[ 2 ]　 AMERICAN
+ 
+DIABETES
+ 
+ASSOCIATION. Microvascular
+ 
+Complications
+ 
+and
+ 
+Foot
+ 
+Care:
+ 
+Standards
+ 
+of
+ 
+Medical
+ 
+Care
+ 
+in
+ 
+Diabetes-2020[J].
+Diabetes
+ 
+Care,2020,43(Suppl
+ 
+1):S135-S151.
+[ 3 ]　 中华医学会糖尿病学分会微血管并发症学组.
+ 
+中国糖尿病肾
+脏病防治指南(2021 年版)[J].
+ 
+国际内分泌代谢杂志,2021,
+41(4):388-410.
+ 
+[ 4 ]　 王月,翟华强,鲁利娜,刘傲雪,王佳琳,郭亚芳,郭怡祯,王晶
+娟. 人参的本草考证及现代研究综述[J]. 世界中医药,2017,
+12(2):470-473,476.
+[ 5 ]　 CHARLTON
+ 
+A,
+ 
+GARZARELLA
+ 
+J,
+ 
+Jandeleit-Dahm
+ 
+KAM,
+ 
+et
+ 
+al.
+ 
+Oxidative
+ 
+Stress
+ 
+and
+ 
+Inflammation
+ 
+in
+ 
+Renal
+ 
+and
+ 
+Cardiovascular
+ 
+Complications
+ 
+of
+ 
+Diabetes[J]. Biology
+ 
+(Basel),2020,10(1):18.
+[ 6 ]　 HE
+ 
+J,
+ 
+LI
+ 
+J,
+ 
+LIU
+ 
+H,
+ 
+et
+ 
+al.
+ 
+Scandoside
+ 
+Exerts
+ 
+Anti-Inflammatory
+ 
+Effect
+ 
+Via
+ 
+Suppressing
+ 
+NF-κB
+ 
+and
+ 
+MAPK
+ 
+Signaling
+ 
+Pathways
+ 
+in
+ 
+LPS-Induced
+ 
+RAW
+ 
+264. 7
+ 
+Macrophages[J]. Int
+ 
+J
+ 
+Mol
+ 
+Sci,2018,
+19(2):457.
+[ 7 ]　 PEREZ-MORALES
+ 
+RE,
+ 
+DEL
+ 
+PINO
+ 
+MD,
+ 
+VALDIVIELSO
+ 
+JM,et
+ 
+al.
+ 
+Inflammation
+ 
+in
+ 
+Diabetic
+ 
+Kidney
+ 
+Disease
+ 
+[ J].
+ 
+Nephron,
+2019,143(1):12-16.
+ 
+[ 8 ]　 徐叔云. 药理实验方法学第三版[ M]. 北京:人民卫生出版
+社,2002:202-203.
+[ 9 ]　 赵进喜,王世东,肖永华. 吕仁和诊疗糖尿病“二五八六三”经
+验[M]. 北京:中华中医药出版社,2018:119.
+[10]　 姜淼.
+ 
+三黄安消改善 2 型糖尿病胰岛素抵抗作用的临床研
+究[D]. 北京:北京中医药大学,2003.
+[11]　 孙瑞茜.
+ 
+2 型糖尿病清热益气治法的传承及机制研究[ D].
+北京:北京中医药大学,2020.
+[12]　 SHARMA
+ 
+K,
+ 
+MCCUE
+ 
+P,
+ 
+DUNN
+ 
+SR.
+ 
+Diabetic
+ 
+kidney
+ 
+disease
+ 
+in
+ 
+the
+ 
+db / db
+ 
+mouse
+ 
+[ J].
+ 
+Am
+ 
+J
+ 
+Physiol
+ 
+Renal
+ 
+Physiol,2003,284
+(6):F1138-44.
+[13]　 罗金花,何来鹏,袁满. 糖化血清白蛋白对糖尿病诊断价值的
+meta 分析[J]. 中国当代医药,2021,28(32):23-27.
+[14]　 ROJAS
+ 
+J,
+ 
+BERMUDEZ
+ 
+V,
+ 
+PALMAR
+ 
+J,
+ 
+et
+ 
+al.
+ 
+Pancreatic
+ 
+Beta
+ 
+Cell
+ 
+Death:
+ 
+Novel
+ 
+Potential
+ 
+Mechanisms
+ 
+in
+ 
+Diabetes
+ 
+Therapy
+ 
+[J].
+ 
+J
+ 
+Diabetes
+ 
+Res,2018:9601801.
+[15]　 STIEGER
+ 
+N,
+ 
+WORTHMANN
+ 
+K,
+ 
+TENG
+ 
+B,
+ 
+et
+ 
+al.
+ 
+Impact
+ 
+of
+ 
+high
+ 
+glucose
+ 
+and
+ 
+transforming
+ 
+growth
+ 
+factor-β
+ 
+on
+ 
+bioenergetic
+ 
+profiles
+ 
+in
+ 
+podocytes
+ 
+[J].
+ 
+Metabolism,
+ 
+2012,61(8):1073-1086.
+[16]　 KARUNASAGARA
+ 
+S,
+ 
+HONG
+ 
+GL,
+ 
+PARK
+ 
+SR,
+ 
+et
+ 
+al.
+ 
+Korean
+ 
+red
+ 
+ginseng
+ 
+attenuates
+ 
+hyperglycemia-induced
+ 
+renal
+ 
+inflammation
+ 
+and
+ 
+fibrosis
+ 
+via
+ 
+accelerated
+ 
+autophagy
+ 
+and
+ 
+protects
+ 
+against
+ 
+diabetic
+ 
+kidney
+ 
+disease[J]. J
+ 
+Ethnopharmacol,2020,254:112693.
+ 
+[17]　 QIAO
+ 
+S,
+ 
+LIU
+ 
+R,
+ 
+LV
+ 
+C,
+ 
+et
+ 
+al.
+ 
+Bergenin
+ 
+impedes
+ 
+the
+ 
+generation
+ 
+of
+ 
+extracellular
+ 
+matrix
+ 
+in
+ 
+glomerular
+ 
+mesangial
+ 
+cells
+ 
+and
+ 
+ameliorates
+ 
+diabetic
+ 
+nephropathy
+ 
+in
+ 
+mice
+ 
+by
+ 
+inhibiting
+ 
+oxidative
+ 
+stress
+ 
+via
+ 
+the
+ 
+mTOR/ β-TrcP / Nrf2
+ 
+pathway[J].
+ 
+Free
+ 
+Radic
+ 
+Biol
+ 
+Med,2019,145:118-135.
+[18]　 杨敬,代俞燕,熊燕影,等. 人参皂苷 Rg1 对糖尿病肾病大鼠
+血 清 氧 化 应 激 指 标、 炎 性 因 子 及 肾 组 织 TGF-β1、
+MCP-1
+ 
+mRNA 的影响[J]. 现代生物医学进展,2020,20(5):
+853-856+918.
+ 
+[19]　 刘妮,安丽萍. 人参皂苷 CK 对 2 型糖尿病大鼠肾脏的保护作
+用[J]. 北华大学学报(自然科学版),2019,20(3):315-319.
+[20]　 刘飞祥,林子璇,张怀亮,张振强,杨克勤,范晓飞,徐进,王永
+涛,赵玉男. 人参抗疲劳的作用机制和潜在靶点研究[ J]. 中
+国中药杂志,2019,44(24):5479-5487.
+[21]　 KANG
+ 
+Z,
+ 
+ZENG
+ 
+J,
+ 
+ZHANG
+ 
+T,
+ 
+et
+ 
+al.
+ 
+Hyperglycemia
+ 
+induces
+ 
+NF-
+κB
+ 
+activation
+ 
+and
+ 
+MCP-1
+ 
+expression
+ 
+via
+ 
+downregulating
+ 
+GLP-1R
+ 
+expression
+ 
+in
+ 
+rat
+ 
+mesangial
+ 
+cells:
+ 
+inhibition
+ 
+by
+ 
+metformin[J]. Cell
+ 
+Biol
+ 
+Int,2019,43(8):940-953.
+ 
+[22]　 KAWANAMI
+ 
+D,
+ 
+TAKASHI
+ 
+Y,
+ 
+TANABE
+ 
+M.
+ 
+Significance
+ 
+of
+ 
+Metformin
+ 
+Use
+ 
+in
+ 
+Diabetic
+ 
+Kidney
+ 
+Disease [ J]. Int
+ 
+J
+ 
+Mol
+ 
+Sci,
+2020,21(12):4239.
+[23]　 ZHANG
+ 
+S,
+ 
+XU
+ 
+H,
+ 
+YU
+ 
+X,
+ 
+et
+ 
+al.
+ 
+Metformin
+ 
+ameliorates
+ 
+diabetic
+ 
+nephropathy
+ 
+in
+ 
+a
+ 
+rat
+ 
+model
+ 
+of
+ 
+low-dose
+ 
+streptozotocin-induced
+ 
+diabetes[J]. Exp
+ 
+Ther
+ 
+Med,2017,14(1):383-390.
+收稿日期:2022-07-14
+(责任编辑:宁张弛)
+39
+2
+2023 年 2 月第 29 卷第 2 期
+February
+ 
+2023
+ 
+Vol. 29. No. 2 　 　 　 　 　 　
+中国中医基础医学杂志
+Journal
+ 
+of
+ 
+Basic
+ 
+Chinese
+ 
+Medicine

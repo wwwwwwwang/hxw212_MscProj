@@ -1,0 +1,281 @@
+中国心理卫生杂志2006年第20卷第7期
+· 基础研究·
+人参皂甙对精神分裂症
+动物模型大鼠记忆保持的影响
+高永利①韩文强②戴捷①原亚文①杨来启①邓自和①
+【摘要】目的：探讨人参皂甙( Gi nsenosi des，GS) 对精神分裂症动物模型大鼠记忆保持的影响。方
+法：入组大鼠随机分为实验组和对照组，实验组给予人参皂甙灌胃，对照组给予生理盐水灌胃，治疗第5天
+后，两组大鼠同时注射药物MK801( 5一甲基二氢二苯并环庚稀亚氨马来酸或地卓西平马来酸盐) 建立精神
+分裂症的动物模型；在用MK801前、第1、3、5天，采用主动回避反应( AAR) 和一次性被动回避反应
+( OPAR) 观察各组大鼠的行为变化。结果：给予MK801后，实验组大鼠ARR第1、3、5习得率明显高于对
+照组( 231．79
+4- 18．90／158．28 4- 6．78，134．86 4- 15．49／92．29 4- 9．22，81．64± 17．29／36．08士17．12，t =
+10．35、6．68、5．29，P<0．01) ，且消退也慢于对照组( 199．09 4- 15．78／169．44士13．72，128．94± 10．80／
+108．15 4- 13．45，98．06 4- 11．50／42．33 4- 20．08，t =4．01、3．41、6．81，P<0．01) 。给MK801后，OPAR训练
+到第5天，大鼠的步入潜伏期实验组显著大于对照组( 79．25 4- 13．49／51．33 4- 11．09，t =4．53，P<0．01) ，
+触电次数和触电时间显著低于对照组( 4．25± 1．49／8．33 4- 2．09，7．25 4- 3．49／27．33 4- 6．09，t =4．49、8．10，
+P<0．01) 。结论：连续口服GS对精神分裂症动物模型大鼠记忆保持能力受损有明显保护作用。在一定的时
+间内，这种保护作用随动物模型时间的延长面增强。
+【关键词】
+人参皂甙；记忆保持；动物研究；精神分裂症动物模型；大鼠；MK801
+中图分类号：R749．3文献标识码：A文章编号：1000—6729( 2006) 07—0437—03
+Ef f ect
+of Gi nsenosi des
+on Memory Ret ent i on of Rat s i n Ani mal Model s of Schi zophreni a
+GAOYong—Li ，HANWen—Qi ang，DAI J i e。et
+al
+Depart ment
+of Psychi at ry，Thi rd Hospi t al
+of PLA，Bal i ，Shaanxi 721004
+【Abst ract 】0bj ect i ve：To expl ore t he ef f ect
+of gi nsenodel s
+on t he memory ret ent i on of
+rat s
+of ani mal model s
+of
+schi zophreni a．Met hods：The rat s
+i n experi ment were di vi ded i nt o experi ment al
+group and cont rol
+group，t he
+rat s
+i n
+t he experi ment al
+group were oral l y gi ven Gi nsenosi des，and rat s i n cont rol groupwere gi ven normal
+sal i ne．Bot h groups
+were t reat ed f or 5 days。t hen gi ven i nj ecti on of MK801 t o est abl i sh ani mal model s of schi zophreni a．Bef ore( d0) ，dur-
+i ng( dl ，d3) and af t er( d5) MK801．Several
+behavi or model s such
+as act i ve
+avoi dance react i on( AAR) and once
+passi ve avoi dance react i on( OPAR) were used t o research t he process of l earni ng and memory bef ore and af t er experi —
+ment al ．Resul t s：I n t he act i ve avoi dance react i on，t he rat s of experi ment al
+group were used t o i ncrease
+l and t he f ade
+away sl owed t o t he rat s
+of cont rol s
+groups si gni f i cant l y( 231．79 4- 18．90／158．28 4- 6．78。134．86± 15．49／92．29 4-
+9．22。81．64± 17．29／36．08± 17．12，t =10，35，6．68，5．29，P<0．01) ．I n t he once passi ve avoi dance
+reac—
+t i on I
+af t er est abl i shi ng t he ani mal model s of
+schi zophreni a，t hrough t he t rai ni ng of 5 days，t he st ep t hrough l at ent
+of
+t he experi ment group was
+l onger( 199．09 4- 15．78／169．44± 13．72，128．94± 10．80／108．15士13．45，98．06±
+11．50／42．33± 20．08，t =4．01。3．41，6．81，P<0．叭) ，t he number and
+t i me
+of
+el ect ri f i ed were l ess t han t he
+cont rol group( 4．25 4- 1．49／8．33 4- 2．09。7．25± 3．49／27．33± 6．09，t =4．49。8．10，P<0．01) o
+Concl usi on：
+Gi nsenosi des have memory ret ent i on f aci l i t at i ng ef f ect
+on rat s
+i n ani mal model s of schi zophreni a，t he ef f ect may be
+en-
+hanced by t he i ncrease of durat i on of ani mal model s of schi zophreni a．
+【Key words】
+schi zophreni a；ani mal model s；MK801；memory ret ent i on；Gi nsenosi des
+精神分裂症患者治疗终结后的认知功能损害是他
+们难以回归社会的主要原因。通过MK801( 5一甲基
+二氢二苯并环庚稀亚氨马来酸或地卓西平马来酸盐)
+建立精神分裂症动物模型，是目前公认的研究方法之
+一。MK801对动物的短时记忆、记忆的保持和巩固、
+长时记忆的形成均有影响‘
+¨ 。人参皂甙是人参的主
+要药理成分，已有大量的报道阻4|，它对电休克、药
+物和脑缺血等造成的动物学习记忆受损，有明显的保
+①陕西宝鸡解放军第三医院，宝鸡721004②第四军医大学航空航天医学系，710032
+ 万方数据
+万方数据
+中国心理卫生杂志2006年第20卷第7期
+护作用，但对精神分裂症动物模型大鼠状态下的动物
+学习记忆的影响，未见报道。本研究用动物行为学的
+方法，初步探讨人参皂甙( gi nsenosi des，GS) 对精
+神分裂症动物模型大鼠记忆保持的影响。
+对象和方法
+1．1试剂和溶液的配制：地卓西平马来酸盐
+( MK801，美国TOCRI 公司生产) 溶解于生理盐水
+中，用稀释法配成0．6mg／kg剂量的溶液。人参皂甙
+由上海生物化学研究所提供，为人参茎叶皂甙
+( GSLS) 粉剂，GS含量90％以上。
+1．2实验动物及分组：成年雄性上海产Sprague
+—Dawl ey大鼠32只，体重250- 4- 509( 由第四军医大
+学动物研究所提供) 。将大鼠随机分为2组( 分别入
+主动回避反应组和一次性被动回避反应组) ，每组16
+只。各组动物又随机分为实验组和对照组，每组8
+只。
+把人参皂甙用生理盐水稀释成适当浓度，以
+50mg／kg给实验组灌胃药，每日一次，连续5日；对
+照组以同样的方式给予等量生理盐水，每日一次，连
+续5日。然后两组动物进入实验，do为实验组和对
+照组分别以人参皂甙和生理盐水灌胃5天后( 未给
+MK801) 、dl 为给MK801第1天( 给MK801即建立
+动物模型) ，d3为给MK801第3天，d5为给MK801
+第5天。
+1．3动物模型的建立：对所有实验动物，参照吴
+金华方法bJ ，用浓度为0．6mg／kg的MK801溶液，分
+别以100uL／209大鼠体重的注射量行腹腔注射。
+1．4实验方法：主动回避反应( AAR) ：采用爬
+杆反应箱∞1习得：开始前3次训练时，信号灯亮5s
+后，再通以0．7mA交流电刺激大鼠，如果电击后5—
+10S内大鼠不爬到木杆上，则轻轻将大鼠放在木杆
+上。在以后的训练中，如果电击5—10S内大鼠不爬
+到木杆上，则持续电击30S，30S内仍不爬木杆则由
+实验者将大鼠放在木杆上。以后灯亮5s后大鼠自动
+爬木杆为AAR。如果大鼠爬到木杆上30S仍不下来，
+实验者轻轻将大鼠拿下来，每次训练间隔30—60S，
+每天训练20次。以正确反应率连续3天都在80％以
+上为习得标准。消退：只给予灯光信号5s不给电击，
+观察习得以后不同时间AAR正确率的变化。
+一次性被动回避反应( OPAR) ：将多功能条件
+反射箱"1平放在桌边使跳板悬空，大鼠背对着门洞
+放在跳板上，大鼠找到门洞并进入反应箱后关闭门
+洞，并用适宜电压( 电流强度为0．7mA，工作电压
+为36伏) 电击大鼠前爪，重复训练3次。24小时后
+再将大鼠背对门洞置于跳板上，同时开启计时器，大
+鼠在跳板上停留的时间记为步人潜伏期( St ep
+t hrough l at ent ，STL) ，凡达到300S仍不进入反应箱
+均视为记忆保持良好。以此测试大鼠一次性被动回避
+反应的记忆保持能力。实验指标：步人潜伏期、5mi n
+内的触电次数( number of el ect i f i cat i on) 及触电时间
+( t i me of el ectri f i cati on) o
+行为实验程序：训练各组大鼠均适应环境后开
+始进行主动回避反应和一次性被动回避反应。以10
+次训练为一训练单元，中间休息15分钟，每日每鼠
+训练至学会( 即信号灯亮5—10S内大鼠爬到木杆或
+在跳板上停留的时间超过5mi n) ，共训练3天。行为
+测试：各组动物均于腹腔注射MK801前和后不同时
+问测试其记忆成绩。
+1．5统计学分析：进行t 检验。
+结果
+2．1实验组大鼠和对照组大鼠AAR差异比较
+在主动回避反应中，实验组大鼠习得率明显高于
+对照组，而且消退也慢于对照组大鼠( 见表l 、2) 。
+由此表明，对照组大鼠在AAR中的学习记忆能力弱
+于实验组。
+表1
+两组大鼠不同时间主动回避反应习得率比较( i 4- s) ( ％)
+女} P<0．01。MK801：地卓西平马素酸盐
+表2两组大鼠不同时间主动回避反应消退情况比较( i 士s) ( s)
+实验组大鼠在经过训练与对照组无显著性差异时进行消退比较
+2．2两组大鼠一次性被动回避反应差异比较
+在给予MK801后，各组大鼠步入潜伏期均较给
+MKl 01前下降，触电次数和触电时间均较给MK801
+前增加。表3、4、5显示给予MK801前实验组和对
+照组的步人潜伏期、触电次数和触电时间差别无显著
+性( P>0．05) ；给MK801，通过训练到第5天，大
+ 万方数据
+万方数据
+中国心理卫生杂志2006年第20卷第7期
+鼠的步入潜伏期实验组显著大于对照组，触电次数和
+触电时间实验组显著低于对照组；给MK801后第1
+天和第3天，动物步入潜伏期、触电次数和触电时问
+实验组和对照组无显著差异( 见表3～5) 。
+表3两组大鼠一次性被动回避反应步人潜伏期( s) 比较( i 士s)
+。{ 尸<O．01，MK801：地卓西平马来酸盐
+表4两组大鼠一次性被动回避反应中( 5mi n) 的触电次数比较( i
+± s)
+} ，P<0．Ol ，MK801：地卓西平马来酸盐
+表5两组大鼠一次性被动回避反应中( 5mi n) 的触电时间比较( i
+± s) ( s)
+} } P<O．01，MK801：地卓西平马来酸盐
+讨论
+本实验采用MK801建立精神分裂症的动物模型。
+MK801是N一甲基一D一天门冬氨酸( NMDA) 非竞
+争性受体拮抗剂，后者是谷氨酸的主要受体，MK801
+实际上是谷氨酸的非竞争性拮抗剂。谷氨酸可以选择
+性地与其受体结合，激活N一甲基一D一天门冬氨酸
+受体( NMDA—R) ，使钙通道开放，钙离子内流增
+加，调节着兴奋性突触的传递，参与学习和记忆的形
+成[ 8】。通过MK801阻断非竞争性NMDA型谷氨酸受
+体，也就是通过影响谷氨酸的含量来观察学习记忆能
+力的变化。
+本研究表明实验组和对照组大鼠经过建立动物模
+型后，其记忆保持能力受影响，表现为在主动回避反
+应中，大鼠习得率下降，而且消退升高；在一次性被
+动回避反应中，大鼠步人潜伏期均下降，触电次数和
+触电时间均增加。且其影响程度随动物模型建立后时
+间的延长而加大。实验组经人参皂甙治疗后，与对照
+组相比，在主动回避反应中，大鼠习得率增加，而且
+消退率减少；在一次性被动回避反应中，大鼠步入潜
+伏期均增加，触电次数和触电时间均减少，这种对抗
+作用随动物模型时间的延长而增强，以第5天最为明
+显。但人参皂甙对正常大鼠( 建立动物模型前) 的
+学习记忆促进作用不明显。显示动物模型建立后给大
+鼠连续口服人参皂甙可有效地改善动物模型造成的记
+忆保持能力下降，人参皂甙对其记忆保持能力损害有
+明显保护作用。
+参考文献
+1
+Ban TA，Guy W，Wi l son WH．Descri pt i on and di st ri but i on of
+t he subt ypes
+of
+chroni c schi zophreni a based
+on Leonhard，s
+cl assi f i cat i on．Psychi at r Dev 1984，2( 3) ：179—199，12．
+2
+曹颖林，Pet cov VD，Todorov I ，等．中国人参茎叶皂甙对
+大鼠行为的影响．沈阳药科大学学报，1996，13( 3) ：
+185一188．
+3
+MA Ti ancai ，YU Qi nghai ，Chen Mi nghua．Ef f ect
+of gi nseng
+st em——l eaves saponi ns
+on one——way
+avoi dance behavi or
+i n
+rat s．Act a
+Pharmacol ogi ca Si ni ca，1991，12( 5) ：403—
+406．
+4
+马天才，于庆海．人参茎叶皂甙和人参根皂甙及塞庚啶
+对大鼠主动回避反应的影响．沈阳药科大学学报，1995，
+12( 2) ：86—90．
+2
+吴金华，邹洪，于军，等．用不同实验小鼠品系建立精
+神分裂症的动物模型．生理学报，2003，55( 4) ：381—
+385．
+3
+Sagas
+A．
+Behavi oural
+Neurosei ence：A
+pract i cal 印一
+preach．V01．1．Oxf ord Uni versi t y Press，1993．107—186．
+4
+Sui J F，Xi ong Y，Zhang CC．A mul t i —f unct i on box f or condi —
+t i oned
+ref l ex
+t rai ni ng
+of
+passi ve avoi dance behavi or
+of
+rat s．
+Act a Acad Med Mi l i Ter，1994，16( 5) ：363—365．
+5
+裴印权，苏丹．NMDA受体和其拮抗剂的药理．中国药
+理学通报，1996，12：303．
+6
+Oni ani
+TN．Rol e
+of sl eep i n
+t he regul at i on of
+l earni ng
+and
+memory．Fi zi ol ogi ya Chel oveka，1982，69( 2) ：21 1—217．
+7
+MA Ti an—Cai ．Yu Qi ng—Hal ．CHEN Mi ng—Hua．Ef f ect
+of
+gi nseng st em——l eaves saponi ns
+on one——way avoi dance be—-
+havi or
+i n rat s．Act a Pharmacol ogi ea，1991，12( 5) ：403—
+406．
+8
+曹颖林，Pet cov VD，Todorov I ，等．中国GSLS对大鼠行
+为的影响．沈阳药科大学学报，1996，13( 3) ：185—
+188．
+责任编辑：张卫华
+05—07—26收稿，06一ol 一12修回
+ 万方数据
+万方数据

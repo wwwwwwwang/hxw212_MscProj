@@ -1,0 +1,292 @@
+DOI: 10. 19756 / j. issn. 0253-3820. 221420
+超高效液相色谱-轨道阱高分辨质谱法对
+人参寡糖提取物与蓖麻凝集素 120 相互作用的研究
+吴怡#1　 邵思梦#1　 李孟媛1　 万茜淋2　 张哲2　 杨洪梅∗1
+(长春中医药大学 东北亚中医药研究院1, 人参科学研究院2, 长春 130117)
+摘　 要　 利用超高效液相色谱-轨道阱高分辨质谱(UHPLC-Orbitrap-MS)结合链霉亲和素包被的 96 孔板的方
+法筛选人参复杂体系中蓖麻凝集素 120 (RCA 120) 的寡糖结合剂。 将 RCA 120 修饰的 96 孔板与溶菌酶修
+饰的 96 孔板分别与寡糖标准品孵育,对未结合的寡糖利用 UHPLC-Orbitrap-MS 进行分析,利用峰面积的变化
+表征寡糖是否与 RCA 120 发生相互作用。 对影响亲和力的因素包括孵育时间、 孵育温度和缓冲液等进行了
+优化。 在优化条件下,对生晒参、 红参和西洋参的寡糖提取物进行 RCA 120 结合剂的筛选,从生晒参中筛选
+出 3 种二糖化合物和 2 种三糖化合物,从西洋参中筛选出 2 种二糖化合物和 2 种三糖化合物,发现生晒参和
+西洋参中具有相同单糖残基的寡糖与 RCA 120 的结合强度均具有显著性差异。 但是,从红参中未筛选到
+RCA 120 结合剂,推测这是由红参炮制工艺导致的差异。 本方法简单、 快速、 准确,可高通量地识别和筛选复
+杂体系中多个糖类组分与蛋白质的相互作用,为糖和蛋白质相互作用的研究提供了新方法。
+关键词　 超高效液相色谱-质谱技术; 人参; 寡糖; 蓖麻凝集素 120; 糖-蛋白质相互作用
+　 2022-08-15 收稿; 2022-09-27 接受
+国家自然科学基金项目(No. 82074548)、 吉林省科技厅中青年科技创新创业卓越人才( 团队) 项目(No. 20220623026TC) 和吉林省卫
+生技术创新项目(No. 2021JC075)资助。
+# 共同第一作者
+∗ E-mail: yanghm0327@ sina. cn
+人参为五加科人参属植物 Panax ginseng C. A. Mey. 的干燥根及根茎[1],主要成分有人参皂苷、 多
+糖、 寡糖、 氨基酸及挥发油等[2-5]。 人参中的糖类化合物具有改善认知、 抗肿瘤及调节免疫等活性[6-7] 。
+糖和蛋白质间的相互作用是许多生命过程的核心,是很多细胞识别过程的基础,在病理和生理过程中发
+挥了重要作用,例如细胞粘附、 细胞迁移、 信号转导、 细菌和病毒反应、 受精过程、 癌细胞异常增生及
+转移和免疫反应等[8-12]。 糖-蛋白质相互作用的研究方法主要包括表面等离子共振( Surface plasmon
+resonance, SPR)、 毛细管电泳法( Capillary electrophoresis, CE)、 聚糖微阵列技术( Glycan microarray
+technologies)及核磁共振波谱(Nuclear magnetic resonance spectroscopy, NMR) 等方法[13-17]。 但是,以上
+方法均无法提供糖和蛋白质的结构信息。
+电喷雾电离质谱(Electrospray-ionization mass spectrometry, ESI-MS) 技术具有高灵敏度、 高选择性
+和高准确度等优点,可以快速获得各种化合物的相对分子质量和裂解碎片等信息[18]。 Kitova 等[19] 建立
+了一种半定量的 ESI-MS 方法,用于分析未知的低聚糖混合物与目标蛋白的相互作用,并从人乳和细菌
+毒素片段与人半乳糖凝集素 3 的混合物中筛选出了与目标蛋白具有相互作用的人乳低聚糖,证明了此
+方法的可行性。 此外, El-Hawiet 等[20]利用捕捉和释放电喷雾电离质谱仪(CAR-ESI-MS)成功筛选出与
+抗凝集素具有相互作用的人乳低聚糖库。 上述研究表明, ESI-MS 技术可用于分析糖和蛋白质的相
+互作用。
+本研究采用超高效液相色谱与轨道阱高分辨质谱联用(Ultra-high performance liquid chromatography
+coupled with orbitrap mass spectrometry, UHPLC-Orbitrap-MS)技术与链霉亲和素包被的 96 孔板相结合,
+建立了人参复杂体系中糖与蓖麻凝集素 120(Ricinus communis agglutinin 120, RCA 120)相互作用的灵
+敏、 准确、 高通量的快速测量方法。 利用本方法从生晒参和西洋参中筛选到可与靶蛋白结合的糖类,
+第 51 卷
+2023 年 1 月
+　 　 　 　 　 　 　 　 　 　 　 　
+分析化学 (FENXI HUAXUE)　 研究报告
+Chinese Journal of Analytical Chemistry
+　 　 　 　 　 　 　 　 　 　 　 　
+第 1 期
+112 ~ 119
+并推测了其结构类型。 本研究为复杂生物基质中不同结构蛋白质结合物的质谱筛查与定量检测提供了
+数据支持及方法参考。
+1　 实验部分
+1. 1　 仪器与试剂
+UltiMate 3000 高效液相色谱仪(美国 Thermo 公司); 四极杆静电场轨道阱高分辨质谱仪( 美国
+Thermo 公司),配有 ESI 离子源及 Xcalibur 2. 2 数据处理系统; 电子天平 Bt25s(北京赛多利斯科学仪器
+有限公司); PHS-3C pH 计(上海精密科学仪器有限公司); EYEL4 N-1300 型旋转蒸发仪、 EYEL4 FDU-
+1100 型冻干机(东京理化器械株式会社)。 微孔滤膜(0． 22 μm,天津津腾公司); 透析袋(截留分子量
+3 kDa,上海源叶生物科技有限公司)。
+链霉亲和素修饰的 96 孔板(美国 Piers 公司); RCA 120(美国 Sigma 公司); 葡萄糖、 半乳糖和
+N-乙酰-D-(+)-氨基葡萄糖和甘露二糖标准品(美国 Megazyme 公司); 牛血清白蛋白(BSA)(≥98． 0% ,
+上海阿拉丁生化科技股份有限公司); 溶菌酶(上海强耀生物科技有限公司); 甲酸和乙腈(HPLC 级,
+美国 Fisher 公 司)。 红 参、 生 晒 参 和 西 洋 参 ( 北 京 同 仁 堂 长 春 药 店)。 实 验 用 水 为 超 纯 水
+(18． 25 MΩ·cm)。
+1. 2　 实验方法
+1. 2. 1　 水溶性人参寡糖的提取
+准确称取粉碎后的生晒参、 红参和西洋参样品各 50 g,室温下用 500 mL 超纯水浸泡过夜, 70 ℃下
+提取 3 h, 4 层纱布过滤,残渣再反复提取 2 次。 合并 3 次提取液, 5000 r/ min 离心 15 min,弃去沉淀,合
+并上清液,于 50 ℃ 旋转蒸发,合并浓缩液,冻干后得到人参寡糖粗提物。 将人参寡糖粗提物样品与水
+以质量比 7 ∶ 500 混合,用截留分子量为 3 kDa 的透析袋透析 48 h,分别间隔 1、 2、 6、 12、 12 和 15 h 更
+换透析液,收集析出液,使用旋转蒸发仪浓缩析出液,合并浓缩液,冻干得人参寡糖样品。 将 3 种人参寡
+糖样品分别配成 10 μg / mL 的溶液,备用。
+1. 2. 2　 筛选方法
+向链霉亲和素包被的 96 孔板中加入 98 μL Tris-HCl 缓冲溶液(25 mmol/ L Tris, 150 mmol/ L NaCl,
+0． 1% BSA, 0． 05% Tween-20, pH=7． 2)和 2 μL 125 μmol/ L 生物素修饰的 RCA 120, 20 ℃ 静置反应
+2 h 后甩干,再加入 300 μL Tris-HCl 缓冲溶液,静置 5 min,甩干,重复洗涤 3 次,以去掉未结合的
+RCA 120,即得到 RCA 120 修饰的 96 孔板,该组作为实验组; 以生物素修饰的溶菌酶代替生物素修饰的
+RCA 120 作为空白组。 将 100 μL 的人参寡糖样品或糖标准品混合物加入到 96 孔板中, 20 ℃ 反应 1 h
+后取出,加入 100 和 120 μL 稀释 200 倍的 Tris-HCl 缓冲液洗涤 2 次,静置 5 min,收集糖混合物进行检
+测,进样前用 0． 22 μm 滤膜过滤。
+1. 2. 3　 液相色谱与质谱条件
+色谱条件: BEH Amide 色谱柱(150 mm × 2． 1 mm i. d. , 1． 7 μm,爱尔兰 Waters 公司),柱温 35 ℃;
+流动相 B 为水, C 为乙腈。 线性梯度洗脱: 0 ~ 5 min, 15% ~ 26% B; 5 ~ 10 min, 35% ~ 38． 6% B;
+10 ~ 20 min, 15% B。 流速: 0． 25 mL/ min; 进样量: 2 μL。
+质谱条件: 氮气作为鞘气和辅助气,流速为 0． 53 和 4． 5 L/ min,毛细管温度为 350 ℃,喷雾电压为
+3． 6 kV,透镜电压为 55 V,采用正负离子同时扫描模式。 串联质谱实验采用碰撞诱导解离模式(CID),
+在各自最优的碰撞能量下对糖类化合物进行串联质谱分析。
+2　 结果与讨论
+2. 1　 孵育时间、 孵育温度和缓冲液的考察
+为了方便比较糖和蛋白质的结合情况,用相对结合强度(Relative binding degrees, RBDs)表示糖和
+蛋白质的结合力[21],计算方法如公式(1)所示。 糖和蛋白质的 RBDs 受孵育时间、 孵育温度和缓冲液
+13
+1
+　
+　
+第 1 期
+吴怡等: 超高效液相色谱-轨道阱高分辨质谱法对
+　
+人参寡糖提取物与蓖麻凝集素 120 相互作用的研究
+　 　
+的影响。
+RBD = (Ac - Ae) / Ac × 100%
+(1)
+其中, Ac 代表对照组化合物的峰面积, Ac 代表实验组化合物的峰面积。
+为了获得良好的重现性,以半乳糖为模型化合物,对缓冲溶液、 孵育时间和孵育温度进行了考察。
+缓冲液的选择对链霉亲和素和生物素的孵育至关重要,因此首先考察了缓冲液对 RBDs 的影响。 选取
+PBS-T(pH=7． 4)和 Tris-HCl(pH=7． 2)两种常用的缓冲液进行考察。 结果表明,在 Tris-HCl 缓冲液中
+RBDs 的重复性较好, RSD<15% ,而在 PBS-T 缓冲液中, RBDs 的 RSD>30% ,结果如图 1a 和 1f 所示。
+因此,后续实验均采用 Tris-HCl 缓冲液。
+分别考察了 96 孔板和 RCA 120 以及糖类化合物和 RCA 120 相互作用的孵育时间对 RBDs 的影响。
+比较图 1b、 1c 及 1f 可知,较长的孵育时间条件下获得的 RBDs 与文献报道的半乳糖与 RCA 120 的
+RBDs 接近[22-23]。 由于糖类化合物以非共价键的方式与 RCA 120 结合,因此进一步考察了孵育温度对
+RBDs 的影响。 图 1d 和 1f 表明,在 20 ℃孵育有利于糖和蛋白质发生相互作用。
+最后,考察了 BSA 对 96 孔板封闭的影响。 如图 1e 所示,在未添加 BSA 的情况下, RBDs 更低,重
+现性更差(RSD>30% )。 因此,有必要在缓冲液中添加 BSA 阻断非特异性蛋白结合位点。
+综上,选取的最优实验条件为: RCA 120 和 96 孔板孵育 2 h; 糖类化合物和 RCA 120 孵育 1 h; 实
+验温度 20 ℃; 含 0． 1% BSA 的 Tris-HCl(pH=7． 2)作为 RCA 120 固定的缓冲液。
+图 1　 RCA 120 和半乳糖相互作用的影响因素: (a) PBS-T 作为缓冲液; (b) RCA 120 与 96 孔板孵育
+1 h; (c)糖类化合物和 RCA 120 孵育 0． 5 h; (d) 孵育温度: 37 ℃ ; (e) 不含 BSA 的 PBS-T 缓冲液;
+(f)本实验采取的条件。 (a ~ e)的其它条件与(f)相同
+Fig. 1 　
+The factors that affect the interaction between RCA 120 and galactose. Experimental conditions:
+(a) PBS-T as buffer for RCA 120 immobilization; ( b ) Incubation of RCA 120 and plate for 1 h;
+(c) Incubation of carbohydrates and RCA 120 for 0． 5 h; (d) Incubation temperature of 37 ℃ ; (e) PBS-T
+buffer without BSA; ( f) The same as described in “ Experimental”. The other experimental conditions of
+(a-e) are the same as (f)
+2. 2　 糖混合物中 RCA 120 结合剂的竞争性结合
+在优化的实验条件下,选取葡萄糖、 半乳糖、 N-乙酰-D-(+)-氨基葡萄糖和甘露二糖组成糖化合物
+库,区分强、 中、 弱结合物,以证明方法的有效性。 将 4 种糖混合物溶液分别与 RCA 120 修饰和未修饰
+的 96 孔板孵育,收集未结合的化合物进行 UHPLC-Orbitrap-MS 分析。 结果如图 2A 和 2B 所示,糖库中
+的各种糖在负离子和正离子模式下均可很好地区分。 根据 m/ z 值,这 4 个峰分别被确认为葡萄糖
+(图 2C, 保留时间(tR)= 4． 31 min)、 半乳糖(图 2D, tR =4． 91 min)、 N-乙酰-D-(+)-氨基葡萄糖(图 2E,
+tR =3． 79 min)和甘露二糖(图 2F, tR =8． 15 min)。 在竞争性结合条件下,根据公式(1)计算了糖化合物
+库和 RCA 120 相互作用的 RBDs,发现 RCA 120 只与半乳糖结合,与葡萄糖和甘露糖不结合,表明 RCA
+120 特异性结合半乳糖。 这与文献[22-25]报道的结果一致,证明了本方法的有效性。
+2. 3　 生晒参、 西洋参和红参样品中 RCA 120 寡糖结合剂的筛选
+人参中的寡糖具有多种生物活性,用 RCA 120 筛选人参复杂体系中的寡糖结合剂,以期为人参中
+14
+1　 　
+分 析 化 学
+第 51 卷
+图 2　 负离子模式(A)和正离子模式(B)下糖化合物库的提取离子流色谱图; (C ~ F)糖化合物库中各
+个糖标准品的一级扫描质谱图: (C)葡萄糖, (D) N-乙酰-D-(+)-氨基葡萄糖, (E)半乳糖, (F)甘露
+二糖
+Fig. 2　 Extracted ion chromatograms in negative (A) and positive (B) ion mode of the testing carbohydrate
+library; (C-F) Mass spectra of the eluted peaks of carbohydrate library: (C) Glucose, (D) N-acetyl-D-(+)-
+glucosamine, (E) Galactose, (F) Mannose. The inset shows the chemical structures of the carbohydrates
+寡糖的活性研究提供理论基础。 图 3A 和 3B 是生晒参寡糖提取物与 RCA 120 结合后的提取离子流色
+谱图,与对照组相比,实验组的峰面积减少,表明这 5 个组分均是 RCA 120 的结合剂。 对这 5 个组分进
+行串联质谱分析,其中,保留时间为 10． 64、 11． 64 和 11． 75 min 的组分为二糖化合物,这 3 种化合物的
+串联质谱图分别见图 3C ~ 3E,其主要的碎片离子峰为二糖化合物的糖苷键断裂产生的 Y 型离子,即
+m/ z 203． 05 的离子。 此外, 在图 3C 和 3D 中还出现了 m/ z 185． 04 的 B 型离子, 在图 3D 中出现
+由0,2A 交叉环裂解产生的 m/ z 305． 09 的离子,这些离子都是二糖化合物的串联质谱图中的典型离子。
+图 3B 中,保留时间为 12． 98 和 13． 82 min 的组分为三糖化合物,图 3F 和 3G 分别是这 2 种三糖化合物
+的串联质谱图, m/ z 365． 10 和 203． 05 的 Y 型离子来自于三糖化合物的糖苷键断裂。
+此外,还对西洋参中的寡糖提取物进行了 RCA 120 结合剂的筛选,结果如图 4 所示。 从西洋参中
+共筛选出 4 种 RCA 120 结 合 剂, 对 这 4 种 组 分 进 行 串 联 质 谱 分 析, 观 察 到 了 交 叉 环 断 裂 离 子
+(m/ z 305． 08, 图 4D)和糖苷键断裂离子(m/ z 185． 04、 203． 05、 365． 10, 图 4C ~ 4F),表明这 4 个组分
+为 2 种二糖化合物和 2 种三糖化合物。
+为了充分理解不同人参产品的寡糖差异,采用本方法进一步研究了红参寡糖提取物。 红参寡糖提
+取物与 RCA 120 相互作用后的提取离子流色谱图如图 5 所示,与对照组相比,实验组的峰面积没有变
+15
+1
+　
+　
+第 1 期
+吴怡等: 超高效液相色谱-轨道阱高分辨质谱法对
+　
+人参寡糖提取物与蓖麻凝集素 120 相互作用的研究
+　 　
+图 3　 生晒参中二糖化合物(A)和三糖化合物(B)提取物与 RCA 120 相互作用后在正离子模式下的提
+取离子流色谱图; (C ~ G)依次对应(A)和(B)中在 10. 64、 11. 64、 11. 75、 12. 98 和 13. 82 min 处出现的
+洗脱峰在正离子模式下的串联质谱图
+Fig. 3　 Extracted ion chromatograms of disaccharide (A) and trisaccharide (B) extracts of white ginseng in the
+positive ion mode, the black line represents the experimental group, and the red line corresponds to the control
+group; (C-G) Tandem mass spectra of the eluted peaks at retention time of 10. 64, 11. 64, 11. 75, 12. 98 and
+13. 82 min in (A) and (B) in the positive ion mode, respectively
+化,表明红参中的寡糖不与 RCA 120 相互作用。 可能由于红参的炮制导致寡糖的结构发生变化所
+致[26],因此,红参中不存在与 RCA 120 相互作用的寡糖。
+为了更加直观地体现各个寡糖与 RCA 120 结合能力的差异,根据公式(1)计算了寡糖与 RCA 120
+的 RBDs,结果如图 6 所示,生晒参和西洋参中的水溶性寡糖与 RCA 120 的结合具有显著性差异。
+16
+1　 　
+分 析 化 学
+第 51 卷
+图 4　 西洋参中二糖化合物(A) 和三糖化合物(B) 提取物与 RCA 120 相互作用后在正离子模式下的提
+取离子流色谱图; (C ~ F) 依次对应(A) 和 (B) 中在 10． 66、 11． 70、 12． 99 和 13． 87 min 处出现的洗脱
+峰在正离子模式下的串联质谱图
+Fig. 4　 Eextracted ion chromatograms of disaccharide (A) and trisaccharide (B) extracts of American ginseng
+in the positive ion mode, the black line represents the experimental group, and the red line corresponds to the
+control group; (C-G) Tandem mass spectra of the eluted peaks at retention time of 10． 66, 10． 70, 12． 99 and
+13． 87 min in (A) and (B) in the positive ion mode, respectively
+图 5　 红参中二糖化合物(A)和三糖化合物(B)提取物与 RCA 120 相互作用后在正离子模式下的的提
+取离子流色谱图
+Fig. 5　 Extracted ion chromatograms of disaccharide (A) and trisaccharide (B) extracts of red ginseng in the
+positive ion mode
+17
+1
+　
+　
+第 1 期
+吴怡等: 超高效液相色谱-轨道阱高分辨质谱法对
+　
+人参寡糖提取物与蓖麻凝集素 120 相互作用的研究
+　 　
+图 6　 生晒参与西洋参寡糖提取物与 RCA 120 的相对结合强度(n=6), ∗p<0． 05; ∗∗p<0． 01; ∗∗∗p<0． 001
+Fig. 6　 Diagrams of the relative binding degrees of the extracts of white ginseng and American ginseng toward RCA
+120 (n=6). ∗p<0． 05; ∗∗p<0． 01; ∗∗∗p<0． 001
+3　 结论
+将超高效液相色谱-轨道阱高分辨质谱联用技术与链霉亲和素包被的 96 孔板相结合,建立了一种从
+复杂人参样品中高通量筛选 RCA 120 蛋白质结合剂的方法。 利用本方法结合串联质谱,从生晒参和西洋
+参复杂样品中共筛选出 5 种与 RCA 120 具有相互作用的寡糖, 2 种人参中的水溶性寡糖与 RCA 120 的
+结合强度具有显著性差异,表明这是一种具有相互竞争性的结合作用。 但是,可能由于红参的炮制导致
+寡糖的结构发生变化,在红参中未筛选到与 RCA 120 具有相互作用的寡糖。 本研究为不同的人参寡糖
+具有不同的活性的观点提供了理论依据,同时为蛋白质与寡糖的相互作用研究提供了理论基础。
+References
+[1]　 People′s Republic of China Pharmacopoeia Commission. Chinese pharmacopoeia. Part Ⅰ. China Medical Science and
+Technology Publishing House, 2020: 8.
+　 中华人民共和国药典委员会. 中国药典(一部). 中国医药科技出版社, 2020: 8.
+[2]　 CHUNG I M, KIM J W, SEGUIN P, JUN Y M, KIM S H. Food Chem. , 2012, 130(1): 73-83.
+[3]　 LUO D, FANG B. Carbohydr. Polym. , 2008, 72(3): 376-381.
+[4]　 QI L W, WANG H Y, ZHANG H, WANG C Z, LI P, YUAN C S. J. Chromatogr. A, 2012, 1230: 93-99.
+[5]　 QIU Y, LU X, PANG T, MA C, LI X, XU G. J. Sep. Sci. , 2008, 31(19): 3451-3457.
+[6]　 JIAO L, ZHANG X, LI B, LIU Z, WANG M, LIU S. Int. J. Biol. Macromol. , 2014, 65: 229-233.
+[7]　 XU T, SHEN X, YU H, SUN L, LIN W, ZHANG C. J. Ginseng Res. , 2016, 40(3): 211-219.
+[8]　 VARKI A. Glycobiology, 1993, 3(2): 97-130.
+[9]　 DAI Z, KAWDE A N, XIANG Y, LA BELLE J T, GERLACH J, BHAVANANDAN V P, JOSHI L, WANG J.
+J. Am. Chem. Soc. , 2006, 128(31): 10018-10019.
+[10]　 LU W, PIETERS R J. Expert Opin. Drug Discov. , 2019, 14(4): 387-395.
+[11]　 MIURA R, ETHELL I M, YAMAGUCHI Y. J. Neurochem. , 2001, 76(2): 413-424.
+[12]　 COHEN M. Biomolecules, 2015, 5(3): 2056-2072.
+[13]　 LINMAN M J, TAYLOR J D, YU H, CHEN X, CHENG Q. Anal. Chem. , 2008, 80(11): 4007-4013.
+[14]　 NAKAJIMA K, ODA Y, KINOSHITA M, KAKEHI K. J. Proteome Res. , 2003, 2(1): 81-88.
+[15]　 BELLAPADRONA G, TESLER A B, GRÜNSTEIN D, HOSSAIN L H, KIKKERI R, SEEBERGER P H,
+VASKEVICH A, RUBINSTEIN I. Anal. Chem. , 2012, 84(1): 232-240.
+[16]　 LIANG P H, WANG S K, WONG C H. J. Am. Chem. Soc. , 2007, 129(36): 11177-11184.
+[17]　 LIANG A, DESAI U R. Methods Mol. Biol. , 2015, 1229: 355-375.
+[18]　 QU Zheng-Yi, ZHENG Pei-He, LI Ya-Li, HOU Wei, WANG Ying-Ping. Chin. J. Anal. Chem. , 2022, 50(2):
+225-234.
+　 曲正义, 郑培和, 李亚丽, 侯微, 王英平. 分析化学, 2022, 50(2): 225-234.
+18
+1　 　
+分 析 化 学
+第 51 卷
+[19]　 KITOVA E N, EL-HAWIET A, KLASSEN J S. J. Am. Soc. Mass Spectrom. , 2014, 25(11): 1908-1916.
+[20]　 EL-HAWIET A, CHEN Y, SHAMS-UD-DOHA K, KITOVA E N, KITOV P I, BODE L, HAGE N, FALCONE F H,
+KLASSEN J S. Analyst, 2018, 143(2): 536-548.
+[21]　 YANG H, YAO W, WANG Y, SHI L, SU R, WAN D B, XU N, LIAN W, CHEN C, LIU S. Analyst, 2017,
+142(4): 670-675.
+[22]　 JEONG D, LEE W Y. J. Electroanal. Chem. , 2021, 903: 115846.
+[23]　 NARASIMHAN S, FREED J C, SCHACHTER H. Carbohydr. Res. , 1986, 149(1): 65-83.
+[24]　 YANG Y, CUI X K, ZHONG M, LI Z J. Carbohydr. Res. , 2012, 361: 189-194.
+[25]　 NORBERG O, DENG L, AASTRUP T, YAN M, RAMSTRÖM O. Anal. Chem. , 2011, 83(3): 1000-1007.
+[26]　 ZHOU S, XU J, KONG M, YIP K M, XU J, SHEN H, ZHAO Z, LI S, CHEN H. J. Pharm. Biomed. Anal. ,
+2017, 145: 59-70.
+Investigation of Interaction Between RCA120 and Ginseng
+Oligosaccharides by Ultra-High Performance Liquid
+Chromatography Coupled with Orbitrap Mass Spectrometry
+WU Yi#1, SHAO Si-Meng#1, LI Meng-Yuan1, WAN Xi-Lin2, ZHANG Zhe2, YANG Hong-Mei∗1
+1(Northeast Asia Institute of Chinese Medicine,
+Changchun University of Traditional Chinese Medicine, Changchun 130117, China)
+2(Jilin Ginseng Academy, Changchun University of
+Traditional Chinese Medicine, Changchun 130117, China)
+Abstract　
+A method was developed for screening protein binders from complicated ginseng samples by a
+streptavidin-coated 96-well plate format coupled with ultra-high performance liquid chromatography-orbitrap
+mass spectrometry (UHPLC-Orbitrap-MS). The Ricinus communis agglutinin 120 (RCA 120) coated 96-well
+plate and lysozyme coated 96-well plate ( as control ) were incubated with oligosaccharide standards
+respectively, and the compounds with the decreased peak areas in experimental group compared to those in the
+control group were detected as binders by UHPLC-ESI-MS. The factors such as incubation time, incubation
+temperature, and buffer, which might affect the binding affinity and reproducibility, were optimized. The
+potential of the approach was examined using the extracts of white ginseng, American ginseng and red ginseng.
+Three disaccharides and two trisaccharides were screened out from the extracts of white ginseng. As for the
+extracts of American ginseng, two disaccharides and two trisaccharides were observed to bind to RCA120.
+While no binders were detected in the extracts of red ginseng. Significant differences were observed in the
+relative binding degrees ( RBDs) of the detected oligosaccharides in white ginseng and American ginseng
+binding to RCA 120. To our knowledge, it′s the first time to reveal the differences and analogies in RCA 120-
+binding capabilities of oligosaccharides between the extracts of white ginseng and American ginseng, indicating
+the efficiency of the developed method for analysis of complicated samples.
+Keywords　
+Ultra-high performance liquid chromatography-mass spectrometry; Ginseng; Oligosaccharides;
+Ricinus communis agglutinin 120; Carbohydrate-protein interaction
+(Received 2022-08-15; accepted 2022-09-27)
+Supported by the National Natural Science Foundation of China (No. 82074548), the Science and Technology Development
+Planning Project of Jilin Province, China (No. 20220623026TC) and the Health Technology Innovation Project of Jilin Province,
+China (No. 2021JC075).
+19
+1
+　
+　
+第 1 期
+吴怡等: 超高效液相色谱-轨道阱高分辨质谱法对
+　
+人参寡糖提取物与蓖麻凝集素 120 相互作用的研究
+　 　

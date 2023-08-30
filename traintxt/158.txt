@@ -1,0 +1,378 @@
+许诣, 秦建品, 沈文婷. 人参皂苷通过 NF-κB / NLRP3 途径改善狼疮性肾炎小鼠肾损伤[J]. 中南医学科学杂志, 2022, 50(6): 832-836.
+[收稿日期] 2021-12-20
+[修回日期] 2022-04-02
+[基金项目] 湖北省卫生和计划生育委员会科研项目(WJ2017Q039)
+[作者简介] 许诣,硕士,主治医师,研究方向为儿科疾病诊疗,E-mail 为 15971039756@ 163. com。 通信作者沈文婷,硕士,主
+治医师,研究方向为儿科疾病诊疗,E-mail 为 sysysy135635@ 163. com。
+·基础医学·
+DOI:10. 15972 / j. cnki. 43-1509 / r. 2022. 06. 012
+人参皂苷通过 NF-κB / NLRP3 途径改善狼疮性肾炎小鼠肾损伤
+许诣, 秦建品, 沈文婷
+(湖北文理学院附属医院襄阳市中心医院儿科,湖北省襄阳市 441021)
+[关键词] 人参皂苷; 狼疮性肾炎; 肾损伤; NF-κB/ NLRP3 通路; 小鼠
+[摘 要] 目的 探究人参皂苷对狼疮性肾炎(LN)小鼠肾损伤及核因子-κB(NF-κB) / 核苷酸结合寡聚化结构域样
+受体蛋白 3(NLRP3)通路的影响。 方法 将 60 只红斑狼仓小鼠随机均分为模型组、人参皂苷低、中、高剂量组、醋酸
+泼尼松组,另取 12 只 C57BL/ 6 小鼠为对照组。 检测各组小鼠一般情况、肾功能指标;HE 染色检测肾组织病理形态改
+变;免疫荧光染色检测肾组织 IgG 免疫复合物沉积;酶联免疫吸附法检测血清抗核抗体(ANA)、抗双链 DNA(dsDNA)
+抗体含量及炎症因子白细胞介素-1β(IL-1β)、干扰素-γ(IFN-γ)含量;Western blotting 检测肾组织 NF-κB/ NLRP3 通路
+相关蛋白表达。 结果 与对照组比较,模型组小鼠精神萎靡、反应迟钝、活动减少、食欲减退、毛色暗淡,体质量明显
+减轻,肾组织发生明显病理损伤,24 h 尿蛋白、血清肌酐(Cr)、ANA、抗 dsDNA 抗体、IL-1β 及 IFN-γ 含量、肾组织 IgG
+免疫荧光强度及 NF-κB、NLRP3 蛋白表达水平明显升高(P<0. 05)。 与模型组比较,人参皂苷低、中、高剂量组及醋酸
+泼尼松组小鼠以上观察指标均得到明显改善,且人参皂苷各组指标随剂量递增而改善更明显(P<0. 05)。 结论 人参
+皂苷可下调 NF-κB/ NLRP3 通路蛋白表达,抑制 LN 小鼠肾组织炎症反应,减轻 IgG 免疫复合物沉积,改善其肾功能。
+[中图分类号] R593. 242
+[文献标识码] A
+Ginsenoside through NF-κB/ NLRP3 pathway improves renal injury in lupus nephritis mice
+XU Yi, QIN Jianpin, SHEN Wenting
+(Department of Pediatrics, Xiangyang Central Hospital, Affiliated Hospital of Hubei University of Arts and Science, Xiangyang
+441021, Hubei, China)
+[KEY WORDS] ginsenosides; lupus nephritis; kidney damage; NF-κB/ NLRP3 pathway; mice
+[ABSTRACT]  Aim To investigate the effects of ginsenosides on renal injury and nuclear factor-κB(NF-κB) / NOD-
+like receptor protein 3 (NLRP3) pathway in lupus nephritis (LN) mice.   Methods Sixty MRL/ LPR mice were ran-
+domly divided into model group, ginsenoside low-dose, medium-dose and high-dose groups, prednisone acetate group, and
+12 female C57BL/ 6 mice were set as control group.  After drug grouping, the general condition, contents of renal function
+indexes of mice in each group were detected.  The pathological and morphological changes of mouse kidney tissue were de-
+tected with hematoxylin-Eosin (HE) staining; the IgG immune complex deposition in mouse kidney tissue was detected
+with immunofluorescence staining; the contents of serum antinuclear antibody ( ANA ), anti-double-stranded DNA
+(dsDNA) antibody and inflammatory factors interleukin-1 β (IL-1β) and interferon-γ (IFN-γ) in mouse were detected
+with enzyme-linked immunosorbent assay; the expression of NF-κB/ NLRP3 pathway related proteins in mouse kidney tissue
+was detected with Western blotting.   Results Compared with the control group, the mice in the model group were de-
+pressed, unresponsive, with decreased activity, anorexia, dull hair color, and their body weight was significantly reduced,
+the kidney tissue had obvious pathological damage, the 24 h urine protein, serum creatinine (Cr), ANA, anti-dsDNA an-
+tibody, IL-1β and IFN-γ contents, kidney tissue IgG immunofluorescence intensity, and nuclear NF-κB and NLRP3
+protein expression levels were significantly increased (P<0. 05).  Compared with the model group, the above observation
+indexes of mice in the low, medium and high dosage groups of ginsenoside and prednisone acetate group were improved,
+and the indexes of each group of ginsenoside were improved more obviously with the increasing dosage (P<0. 05).  
+ 
+Conclusion Ginsenosides can down-regulate the expression of NF-κB/ NLRP3 pathway proteins, inhibit the inflammation
+in the kidney tissue of LN mice, reduce the deposition of IgG immune complexes, and improve their kidney function.
+832
+ISSN 2095-1116 Medical Science Journal of Central South China,Vol 50,No 6,2022
+  狼疮性肾炎(lupus nephritis,LN)是系统性红斑
+狼疮(systemic lupus erythematosus,SLE)的严重并发
+症之一,随着病情发展,可导致患者因终末期肾病
+而死亡,机体免疫系统异常激活引发的全身炎症是
+其主 要 发 病 机 制[1-2]。 抑 制 核 因 子-κB ( nuclear
+factor-κB,NF-κB) / 核苷酸结合寡聚化结构域样受
+体蛋白 3(NLRP3)信号激活,减轻炎症,降低免疫复
+合物沉积,进而降低肾细胞凋亡,改善 LN 症状[3-4]。
+人参皂苷能降低炎症介质表达,减弱过氧化反应,
+对风湿性疾病具有较好的疗效[5],且人参皂苷 Rg1
+可阻断脓毒症小鼠 TLR4 / NF-κB / NLRP3 信号转导,
+减轻组织炎症损伤[6]。 本文观察人参皂苷对 LN 小
+鼠肾损伤及 NF-κB/ NLRP3 通路的影响。
+1 材料和方法
+1. 1 主要试剂和仪器
+人参皂苷 Rg1(成都普菲德生物技术有限公司);
+醋酸泼尼松片(上海信谊药厂有限公司);FITC 标记
+的羊抗小鼠抗 IgG 荧光抗体(北京中杉金桥公司);小
+鼠抗核抗体(antinuclear antibody,ANA) 酶联免疫分
+析试剂盒、小鼠抗双链(double-stranded DNA,dsDNA)
+抗体酶联免疫分析试剂盒(上海酶联生物科技有限公
+司);小鼠白细胞介素-1β(interleukin-1β,IL-1β)酶联
+免疫分析试剂盒、小鼠干扰素-γ(interferon-γ,IFN-γ)
+酶联免疫分析试剂盒、兔源 NF-κB p65 一抗、兔源
+PCNA 一抗、兔源 NLRP3 抗体、兔源 GAPDH 一抗、羊
+抗兔二抗(美国 Abcam 公司);细胞核蛋白/ 浆蛋白抽
+提试剂盒、HE 染色试剂盒、BCA 蛋白质定量检测试
+剂盒(上海生工生物工程股份有限公司)。
+Combas c311 全自动生化分析仪( 瑞士罗氏公
+司);RT6500 酶标仪(美国雷杜公司);DM750 正置
+光学显微镜(徕克显微系统有限公司);YKY-1000
+四激发倒置荧光显微镜(上海永科光学仪器有限公
+司);YGQ-3126F 轮转式切片机(孝感市亚光医用电
+子技术有限公司);PowerPac 3000 转膜仪、Mini PRO-
+TEAN 蛋白电泳仪(美国伯乐公司);Image Master 凝
+胶成像分析仪(美国 Applied Biosystems 公司)。
+1. 2 动物及分组
+60 只 C57BL/ 6 红斑狼疮(MRL/ lpr)雌性小鼠及
+12 只 C57BL/ 6 雌性小鼠购自华中科技大学实验动物
+中心[SCXK(鄂)2018-0009],体质量 18 ~ 22 g,12 周
+龄。 严格按照实验动物规范条例进行饲养,温度 22 ~
+24 ℃,湿度 50% ~55%,12 h/ 12 h 明暗循环光照。
+将 60 只 MRL/ lpr 雌性小鼠随机均分为模型组、人
+参皂苷低(29 mg/ kg)、中(58 mg/ kg)、高(116 mg/ kg)
+剂量组、醋酸泼尼松(6 mg/ kg)组,每组 12 只,另 12 只
+C57BL/ 6 雌性小鼠设为对照组。 将人参皂苷 Rg1 和醋
+酸泼尼松分别制为相应质量浓度的人参皂苷药液[7]和
+醋酸泼尼松药液[8],给药组小鼠以 10 mL/ kg 的剂量灌
+胃,模型组和对照组以相同剂量的生理盐水灌胃,每天
+上午灌胃 1 次,共给药 21 天。
+1. 3 观察小鼠一般情况及测定肾功能指标
+小鼠末次给药结束后,观察各组小鼠一般情
+况,包括食量、活动情况、体质量、精神状态、毛色
+等。 收集其 24 h 内尿液,然后以乙醚麻醉小鼠,自
+颈动脉采血 1. 2 mL,离心收集血清,全自动生化分
+析仪测定尿液 24 h 尿蛋白及血清肌酐(creatinine,
+Cr)含量,剩余血清保存于-80 ℃冰箱中。
+1. 4 HE 染色检测小鼠肾组织病理改变情况
+处死小鼠,解剖取出肾脏,剪下 0. 5 g 肾组织,
+匀浆并采用细胞核蛋白/ 浆蛋白抽提试剂盒分别提
+取其细胞核蛋白及细胞浆蛋白,保存在-80 ℃ 冰箱。
+其余肾组织进行 固 定、 脱 水、 透 明、 包 埋 处 理 后,
+2 μm 切片,脱蜡、梯度乙醇浸泡、PBS 漂洗处理后,
+行 HE 染色,再次脱水、透明后封片,普通光学显微
+镜观察并拍照。
+1. 5 免疫荧光染色检测肾组织 IgG 免疫复合物沉积
+肾组织切片经脱蜡、梯度乙醇浸泡、PBS 漂洗处
+理后,滴加 FITC 标记的羊抗小鼠抗 IgG 荧光抗体,
+避光,室温孵育 3 h,PBS 漂洗 3 遍,避光封片,通过
+荧光显微镜观察并拍照,以软件 Image Pro Plus 6. 0
+对图像荧光强度进行分析。
+1. 6 酶联免疫吸附法检测血清 ANA、抗 dsDNA 抗
+体、IL-1β、IFN-γ 含量
+酶联免疫吸附法测定血清 ANA、抗 dsDNA 抗
+体、IL-1β、IFN-γ 水平,具体按照各试剂盒说明书进
+行操作。
+1. 7 Western blotting 检测肾组织 NF-κB / NLRP3 通
+路相关蛋白
+BCA 法测定细胞核蛋白及细胞浆蛋白样品液
+蛋白总含量,混入适量上样缓冲液,煮沸 5 min 变
+性,各组分别取 20 μg 蛋白,加入 SDS-PAGE 浓缩胶
+上样孔中,110 V 恒压电泳并湿转至硝酸纤维素膜,
+使用 3% 牛血清白蛋白溶液室温孵育硝酸纤维素
+膜,封 闭 膜 上 蛋 白, 分 别 使 用 兔 源 NF-κB p65、
+NLRP3、GAPDH、 PCNA 一 抗 溶 液 4 ℃ 孵 育 8 h,
+TBST 溶液漂洗,采用羊抗兔二抗溶液室温孵育 2 h,
+TBST 溶液再次漂洗,滴加化学发光显色液,显影蛋
+白条带,凝胶成像分析仪拍照并使用 Image-J 软件
+833
+CN 43-1509 / R 中南医学科学杂志 2022 年第 50 卷第 6 期
+分析图像蛋白条带灰度值,最后得出 NLRP3、核内
+NF-κB p65 蛋白相对表达。
+1. 8 统计学分析
+采用统计学软件 SPSS 24. 0 分析,数据以 x±s
+表示,采用单因素方差分析进行多组间比较,进一
+步两两比较采用 LSD-t 检验。 P<0. 05 为差异有统
+计学意义。
+2 结 果
+2. 1 各组小鼠一般情况及肾功能比较
+对照组小鼠饮食、活动正常,毛色光滑。 模型
+组小鼠精神萎靡、反应迟钝、活动减少、食欲减退、
+毛色暗淡,体质量较对照组明显减轻。 人参皂苷
+低、中、高剂量组及醋酸泼尼松组小鼠上述症状较
+模型组得到改善,且人参皂苷高剂量组和醋酸泼尼
+松组上述症状改善最明显。 与对照组比较,模型组
+小鼠 24 h 尿蛋白、Cr 含量明显升高(P<0. 05)。 与
+模型组比较,其他给药组小鼠 24 h 尿蛋白、Cr 含量
+降低,且人参皂苷各组呈剂量依赖性递减(P<0. 05;
+表 1)。 人参皂苷高剂量组与醋酸泼尼松组小鼠 24
+h 尿蛋白、Cr 含量比较,差异无显著性(P>0. 05)。
+表 1 各组小鼠 24 h 尿蛋白、Cr 含量比较(n=12)
+分组
+24 h 尿蛋白/ mg
+Cr/ (μmol/ L)
+对照组
+3. 15±0. 76
+49. 20±3. 52
+模型组
+72. 54±11. 45a
+94. 03±9. 36a
+人参皂苷低剂量组
+51. 21±7. 42b
+81. 04±6. 27b
+人参皂苷中剂量组
+28. 93±5. 38bc
+62. 02±4. 37bc
+人参皂苷高剂量组
+5. 23±0. 79bcd
+50. 87±3. 63bcd
+醋酸泼尼松组
+5. 41±0. 83bcd
+51. 95±4. 01bcd
+  注:a 为 P<0. 05,与对照组比较;b 为 P<0. 05,与模型组比较;c
+为 P<0. 05,与人参皂苷低剂量组比较;d 为 P<0. 05,与人参皂苷中
+剂量组比较。
+2. 2 各组肾组织病理形态比较
+对照组小鼠肾组织形态结构清晰,未见病理损
+伤。 模型组小鼠肾小管上皮细胞变性坏死,呈空泡
+及颗粒状,肾小球系膜弥漫性增生,有节段性白金
+耳样结构形成,并有炎症细胞浸润,肾组织发生严
+重病理损伤。 与模型组比较,人参皂苷低、中、高剂
+量组及醋酸泼尼松组小鼠肾组织上述病理损伤减
+轻,且人参皂苷剂量越高,病理损伤越轻;人参皂苷
+高剂量组与醋酸泼尼松组小鼠肾组织形态几乎恢
+复正常,两者无明显差异(图 1)。
+图 1 各组小鼠肾组织病理形态(HE 染色,400×)
+A 为对照组;B 为模型组;C 为人参皂苷低剂量组;D 为人参皂苷中剂量组;E 为人参皂苷高剂量组;F 为醋酸泼尼松组。
+2. 3 各组肾组织 IgG 免疫复合物沉积比较
+与对照组比较,模型组小鼠肾组织有大量 IgG
+免疫复合物沉积,其荧光强度明显升高(P<0. 05)。
+与模型组比较,人参皂苷低、中、高剂量组及醋酸泼
+尼松组小鼠肾组织 IgG 免疫复合物沉积减少,其荧
+光强度降低,且人参皂苷各组呈剂量依赖性递减
+(P<0. 05)。 人参皂苷高剂量组与醋酸泼尼松组小
+鼠肾组织 IgG 免疫复合物沉积及其荧光强度比较,
+差异无统计学意义(P>0. 05;图 2)。
+2. 4 各组血清 ANA、抗 dsDNA 抗体、IL-1β、IFN-γ
+含量比较
+与对 照 组 比 较, 模 型 组 小 鼠 血 清 ANA、 抗
+dsDNA 抗 体、 IL-1β、 IFN-γ 含 量 明 显 升 高 ( P <
+0. 05)。 与模型组比较,人参皂苷低、中、高剂量组
+834
+ISSN 2095-1116 Medical Science Journal of Central South China,Vol 50,No 6,2022
+及醋酸泼尼松组上述指标含量降低,且人参皂苷各
+组呈剂量依赖性递减(P<0. 05)。 人参皂苷高剂量
+组与醋酸泼尼松组上述指标比较,差异无统计学意
+义(P>0. 05;表 2)。
+图 2 各组小鼠肾组织 IgG 免疫复合物沉积及免疫荧光强度
+A 为对照组;B 为模型组;C 为人参皂苷低剂量组;D 为人参皂苷中剂量组;E 为人参皂苷高剂量组;
+F 为醋酸泼尼松组;G 为免疫荧光强度的柱状图。
+a 为 P<0. 05,与对照组比较;b 为 P<0. 05,与模型组比较;c 为 P<0. 05,与人参皂苷低剂量组比较;d 为 P<0. 05,与人参皂苷中剂量组比较。
+表 2 各组小鼠血清 ANA、抗 dsDNA 抗体、IL-1β、IFN-γ 和 NF-κB/ NLRP3 通路相关蛋白比较(n=12)
+分组
+ANA/ (IU/ mL) 抗 dsDNA 抗体/
+(IU/ mL)
+IL-1β/ (ng/ L)
+IFN-γ/ (ng/ L)
+核内 NF-κB p65 /
+PCNA
+NLRP3 / GAPDH
+对照组
+11. 87±0. 64
+8. 71±0. 49
+10. 32±1. 27
+30. 01±0. 74
+0. 10±0. 03
+0. 07±0. 02
+模型组
+23. 38±1. 70a
+19. 16±1. 13a
+45. 16±3. 12a
+49. 78±1. 35a
+1. 08±0. 25a
+0. 91±0. 12a
+人参皂苷低剂量组
+19. 73±1. 05b
+16. 74±0. 91b
+33. 05±2. 67b
+43. 90±1. 04b
+0. 69±0. 10b
+0. 53±0. 08b
+人参皂苷中剂量组
+15. 42±0. 86bc
+12. 54±0. 84bc
+21. 72±2. 05bc
+37. 13±0. 87bc
+0. 34±0. 04bc
+0. 23±0. 05bc
+人参皂苷高剂量组
+12. 90±0. 62bcd
+9. 43±0. 53bcd
+10. 98±1. 54bcd
+30. 94±0. 95bcd
+0. 12±0. 03bcd
+0. 09±0. 03bcd
+醋酸泼尼松组
+12. 97±0. 59bcd
+9. 52±0. 58bcd
+11. 06±1. 72bcd
+31. 02±0. 87bcd
+0. 13±0. 04bcd
+0. 10±0. 03bcd
+  注:a 为 P<0. 05,与对照组比较;b 为 P<0. 05,与模型组比较;c 为 P<0. 05,与人参皂苷低剂量组比较;d 为 P<0. 05,与人参皂苷中剂量组
+比较。
+2. 5 
+各组肾组织 NF-κB / NLRP3 通路相关蛋白表
+达水平
+与对 照 组 比 较, 模 型 组 小 鼠 肾 组 织 NF-κB /
+NLRP3 通路相关蛋白(核内 NF-κB p65、NLRP3) 表
+达水平明显升高(P<0. 05)。 与模型组比较,人参皂
+苷低、中、高剂量组及醋酸泼尼松组上述指标相关
+蛋白表达水平降低,且人参皂苷各组呈剂量依赖性
+递减(P<0. 05)。 人参皂苷高剂量组与醋酸泼尼松
+组相关蛋白表达水平比较,差异无统计学意义(P>
+0. 05;表 2)。
+3 讨 论
+LN 的主要病理特征为免疫系统异常激活,SLE
+特异性标志物抗 dsDNA 抗体、ANA 含量及血清炎
+症因子水平明显升高,大量 IgG 免疫复合物沉积于
+肾组织[9-11]。 本文中 MRL/ lpr 雌性小鼠精神萎靡、
+食欲减退、毛色暗淡,体质量较正常小鼠明显减轻,
+血清 ANA、抗 dsDNA 抗体、IL-1β、IFN-γ 含量明显升
+高,肾组织发生明显病理损伤,肾功能指标异常,肾
+组织有 IgG 免疫复合物沉积,表明 MRL/ lpr 雌性小
+鼠具有 LN 的主要临床症状,可作为 LN 模型用来
+研究。
+人参皂苷是传统名贵中药人参干燥根茎的主
+要有效成分,具有抑制炎症、减弱氧化应激等药理
+活性,其家族成员人参皂苷 Rg1 可下调 NF-κB 信
+号,降低促炎因子表达释放,减弱氧化应激及炎症
+反应,保护神经细胞,减轻大鼠脊髓缺血再灌注损
+835
+CN 43-1509 / R 中南医学科学杂志 2022 年第 50 卷第 6 期
+伤;人参皂甙 Rg3 能明显降低肾细胞凋亡,缓解糖
+尿病肾病大鼠肾组织损伤[12-13]。 本文结果显示,人
+参皂苷可改善小鼠精神萎靡、食欲减退、毛色暗淡、
+体质量减轻等症状,减轻 LN 小鼠肾组织病理损伤,
+降低 24 h 尿蛋白、Cr、ANA、抗 dsDNA 抗体、IL-1β
+及 IFN-γ 含量、肾组织 IgG 免疫复合物沉积,表明人
+参皂苷可降低 LN 小鼠炎症因子水平,缓解其免疫
+系统异常激活,减少 IgG 免疫复合物沉积,减轻肾组
+织炎性损伤,改善肾功能障碍,并随剂量升高而作
+用增强。
+NF-κB / NLRP3 在 LN 的发生及疾病进展过程
+中起到关键调控作用,激活该信号,可启动炎症,导
+致 LN 发生发展;抑制 NF-κB 激活,可下调 NLRP3
+炎症小体生成,阻断炎症,减轻 SLE 引起的肾脏氧
+化应激和炎症损伤,修复肾功能[14-15]。 本研究以不
+同剂量人参皂苷处理 LN 小鼠,可降低其肾组织核
+内 NF-κB 及 NLRP3 蛋白表达水平,并随剂量升高
+而作用增强,表明人参皂苷改善小鼠 LN 临床症状
+可能是通过 NF-κB / NLRP3 通路蛋白表达实现的。
+综上所述,人参皂苷可降低 NF-κB p65 的核转
+移和 NLRP3 蛋白表达,减弱炎症,降低肾组织 IgG
+免疫复合物沉积,减轻肾损伤,修复肾功能,改善
+MRL/ lpr 小鼠临床症状,为 SLE 和 LN 的临床治疗
+提供了新思路,阻滞 NF-κB / NLRP3 信号转导可能
+是其药理机制,但本文的证据还存在一定不足,后
+续需通过激活和抑制该通路进行对照验证,以便对
+其进行更准确全面的阐述。
+[参考文献]
+[1] 吴皞, 王瑞平, 陈雪. 小柴胡汤抗肿瘤机制研究进展[J]. 中医
+药导报, 2019, 25(2): 70-72.
+[2] JING C, CASTRO-DOPICO T, RICHOZ N, et al. Macrophage met-
+abolic reprogramming presents a therapeutic target in lupus nephritis
+[J]. Proc Natl Acad Sci U S A, 2020, 117(26): 15160-15171.
+[3] PURVIS G D, COLLINO M, ARANDA-TAVIO H, et al. Inhibition
+of bruton's TK regulates macrophage NF-κB and NLRP3 inflamma-
+some activation in metabolic inflammation [ J]. Br J Pharmacol,
+2020, 177(19): 4416-4432.
+[4] YANG S R, HUA K F, CHU L J, et al. Xenon blunts NF-κB/ NLRP3
+inflammasome activation and improves acute onset of accelerated and se-
+vere lupus nephritis in mice[J]. Kidney Int, 2020, 98(2): 378-390.
+[5] 韩广弢, 李皓桓. 人参及人参皂苷治疗风湿性疾病的研究进展
+[J]. 中国医药导报, 2020, 17(10): 38-41.
+[6] LUO M, YAN D, SUN Q, et al. Ginsenoside Rg1 attenuates cardio-
+myocyte apoptosis and inflammation via the TLR4 / NF-kB / NLRP3
+pathway[J]. J Cell Biochem, 2020, 121(4): 2994-3004.
+[7] 刘雁, 秦黎, 韩雪飞, 等. 人参皂苷对阿霉素大鼠肾病模型作
+用分析[J]. 临床合理用药杂志, 2019, 12(28): 11-14.
+[8] 谢立虎, 龙小平. 白藜芦醇对狼疮性肾炎小鼠的保护作用[J].
+中国临床药理学杂志, 2020, 36(14): 1999-2002.
+[9] BRADY M P, KORTE E A, CASTER D J, et al. TNIP1 / ABIN1
+and lupus nephritis: review [ J]. Lupus Sci Med, 2020, 7 (1):
+e000437-e000444.
+[10] MEJIA-VILET J M, ZHANG X L, CRUZ C, et al. Urinary soluble
+CD163: a novel noninvasive biomarker of activity for lupus nephritis
+[J]. J Am Soc Nephrol, 2020, 31(6): 1335-1347.
+[11] WU J, LU W J, SHAN H Z, et al. The effect of Casitas b-lineage
+lymphoma b on regulating T follicular helper in lupus nephritis
+[J]. Eur Rev Med Pharmacol Sci, 2020, 24(8): 4451-4460.
+[12] 叶劲涛, 李锋涛, 宋焕瑾, 等. 人参皂苷 Rg1 通过改善氧化应
+激、线粒体损伤及炎症反应对大鼠脊髓缺血再灌注损伤的保护
+作用研究[J]. 中国康复医学杂志, 2019, 34(9): 1021-1027.
+[13] 吴胜斌, 王应灯. 人参皂甙 Rg3 对糖尿病肾病大鼠肾组织 Bax
+和 B 淋巴细胞瘤-2 蛋白表达及肾细胞凋亡的影响[J]. 中华实
+用诊断与治疗杂志, 2020, 34(1): 5-8.
+[14] YANG S R, HSU W H, WU C Y, et al. Accelerated, severe lupus
+nephritis benefits from treatment with honokiol by immunoregulation
+and differentially regulating NF-κB/ NLRP3 inflammasome and sirtuin
+1/ autophagy axis[J]. FASEB J, 2020, 34(10): 13284-13299.
+[15] BONOMINI F, DOS SANTOS M, VERONESE F V, et al. NLRP3
+inflammasome modulation by melatonin supplementation in chronic
+pristane-induced lupus nephritis [ J]. Int J Mol Sci, 2019, 20
+(14): 3466-3470.
+(此文编辑 蒋湘莲)
+836
+ISSN 2095-1116 Medical Science Journal of Central South China,Vol 50,No 6,2022

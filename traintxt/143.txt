@@ -1,0 +1,734 @@
+第 48 卷
+第 2 期
+2022 年 3 月
+吉
+林
+大
+学
+学
+报 （ 医
+学
+版 ）
+Journal of Jilin University （Medicine Edition）
+Vol. 48
+No. 2
+Mar.
+2022
+DOI：10. 13481/j. 1671‑587X. 20220218
+人参皂苷 Rh2 型联合氟化钠对变异链球菌生长及生物膜形成的
+抑制作用
+方
+圆 1,2, 刘晓璇 1,2, 王
+瑞 1,2
+（1. 吉林大学口腔医院口腔预防科，吉林 长春 130021；2. 吉林省牙发育及颌骨重塑与再生重点实验室，
+吉林 长春 130021）
+［摘
+要］
+目的
+目的：探讨人参皂苷 Rh2 型 （G-Rh2） 联合氟化钠 （NaF） 对体外变异链球菌生长及生物
+膜形成的抑制作用，为其将来在口腔临床上的应用提供理论依据。方法
+方法：采用微 量 稀 释 法 分 别 测 量
+G-Rh2 与 NaF 对变异链球菌的半数最小抑制浓度 （MIC50）；采用棋盘微量稀释法测量 G-Rh2 与 NaF 联
+合应用于变异链球菌的 MIC50值，并计算分级抑菌浓度 （FIC） 指数来判断两者的联合效应，当 FIC<
+0. 5 时证明 2 种药物间具有协同抑制变异链球菌的作用；采用结晶紫染色实验分别测量 G-Rh2 与 NaF
+对 变 异 链 球 菌 的 半 数 最 小 生 物 膜 抑 制 浓 度 （MBIC50） 值 ； 实 验 分 为 空 白 对 照 组 、 MIC50G-Rh2 组、
+MIC50NaF 组和 MIC50G-Rh2+MIC50NaF 联合组，采用生长曲线及产酸实验评估各组变异链球菌浮游
+菌 生 长 速 度 及 产 酸 抑 制 率 ； 实 验 分 为 空 白 对 照 组 、 MBIC50G-Rh2 组 、 MBIC50NaF 组 及
+MBIC50 G-Rh2+MBIC50NaF 联合组，采用结晶紫染色实验及扫描电镜观察各组变异链球菌生物膜形
+成量及结构的变化；空白对照组内不含任何药物。结果
+结果：G-Rh2 与 NaF 作用于变异链球菌的 MIC50分
+别为 25. 000 和 125. 000 mg·L
+－1；G-Rh2 与 NaF 联合应用时 MIC50 分别为 5. 00 和 31. 25 mg·L
+－1，FIC
+指数为 0. 45，小于 0. 50，证明 2 种药物间具有协同抑制变异链球菌的作用；G-Rh2 与 NaF 作用于变异
+链球菌的 MBIC50 分别为 22. 5 和 62. 5 mg·L
+－1。与空白对照组、MIC50G-Rh2 组和 MIC50NaF 组比较，
+MIC50G-Rh2+MIC50NaF 联合组变异链球菌的生长速度明显降低 （P<0. 05）。与空白对照组比较 ，
+MIC50G-Rh2 组 、 MIC50NaF 组 和 MIC50G-Rh2+MIC50NaF 联 合 组 ΔpH 值 均 降 低 ， 且 MIC50G-Rh2+
+MIC50NaF 联合组 ΔpH 值低于 MIC50G-Rh2 组和 MIC50NaF 组 （P<0. 05）；MIC50G-Rh2+MIC50NaF 联
+合组的产酸抑制率高于 MIC50G-Rh2 组和 MIC50NaF 组 （P<0. 05）。MBIC50G-Rh2+MBIC50NaF 联合
+组的生物膜形成量明显少于空白对照组、MBIC50G-Rh2 组和 MBIC50NaF 组 （P<0. 01）。扫描电镜观
+察，MBIC50G-Rh2 组和 MBIC50NaF 组生物膜厚度降低，胞外基质量减少，细菌之间排列疏松，而
+MBIC50G-Rh2+MBIC50NaF联合组生物膜结构消失，细菌数量减少且细菌形态发生变化。结论
+结论：G-Rh2 与
+NaF 联合应用对体外变异链球菌生长及生物膜形成具有协同抑制作用。
+［关键词］
+变异链球菌；人参皂苷 Rh2 型；氟化钠；联合药敏实验
+［中图分类号］
+R781. 1
+［文献标志码］
+A
+Inhibitory effects of ginsenoside Rh2 combined with sodium
+fluoride on growth and biofilm formation of Streptococcus mutans
+FANG Yuan1,2, LIU Xiaoxuan1,2, WANG Rui1,2
+（1. Department of Stomatology Prevention，Stomatology Hospital，Jilin University,Changchun 130021，
+[文章编号]
+1671‑587X(2022)02‑0407‑07
+[收稿日期]
+2021‑07‑24
+[基金项目]
+吉林省卫计委卫生计生科技项目 （2017W001）；吉林省卫计委卫生适宜技术扶贫项目 （2017FP024）；吉林省
+卫健委卫生健康研究项目 （2020JK001）
+[作者简介]
+方
+圆 （1995－），女，山东省菏泽市人，在读硕士研究生，主要从事龋病及口腔预防医学方面的研究。
+[通信作者]
+王
+瑞，副教授，硕士研究生导师 （E-mail：w_rui@jlu.edu.cn）
+407
+第 48 卷
+第 2 期
+2022 年 3 月
+吉林大学学报 （医学版）
+China；2. Key Laboratory of Tooth Development and Jaw Bone Remodeling and Regeneration，
+Jilin Province，Changchun 130021，China）
+ABSTRACT
+Objective：To explore the inhibitory effects of ginsenoside Rh2 （G-Rh2） combined with
+sodium fluoride （NaF） on the growth of
+Streptococcus mutans and biofilm formation in vitro，and to
+provide theoretical basis for their application in stomatological clinic.
+Methods：The half minimum
+inhibitory concentrations （MIC50） of G-Rh2 and NaF against Streptococcus mutans were measured by
+microdilution method；the MIC50 value of G-Rh2 combined with NaF on Streptococcus mutans was
+measured by chessboard microdilution method，and the fractional inhibitory concentration（FIC）value was
+calculated to judge the combined effect of these two drugs. When FIC<0. 5，it was proved that the two
+drugs had synergistic inhibitory effect on Streptococcus mutans.
+The half minimum biofilm inhibition
+concentrations（MBIC50）of G-Rh2 and NaF against Streptococcus mutans were measured by crystal violet
+staining test. The experiment was divided into blank control group，MIC50G-Rh2 group，MIC50NaF group
+and MIC50G-Rh2+MIC50NaF combined group，the growth curve and acid production test were used to
+evaluate the growth speeds and inhibitory rates of acid production of Streptococcus mutans in each group；
+the experiment was divided into blank control group，MBIC50G-Rh2 group，MBIC50NaF group and
+MBIC50G-Rh2+MBIC50NaF combined group，the changes of biofilm formation of Streptococcus mutans and
+structures were observed by crystal violet staining test and scanning electron microscope in each group. The
+blank control group did not contain any drugs.
+Results：The MIC50 of G-Rh2 and NaF acting on
+Streptococcus mutans alone were 25. 000 and 125. 000 mg·L－1，respectively；the MIC50 of G-Rh2 combined
+with NaF on Streptococcus mutans were 5. 00 and 31. 25 mg·L－1，the FIC index was 0. 45 and less than
+0. 5，which proved that the two drugs had synergistic inhibitory effect on Streptococcus mutans. The MBIC50
+of G-Rh2 and NaF were 22. 5 and 62. 5 mg·L － 1. The growth speed of Streptococcus mutans in
+MIC50G-Rh2+MIC50NaF combined group was significantly lower than those in blank control group，
+MIC50G-Rh2 group and MIC50NaF group（P<0. 05）. The ΔpH values in MIC50G-Rh2 group，MIC50NaF
+group and MIC50G-Rh2+MIC50NaF combined group were lower than that in blank control group，and the
+ΔpH value in MIC50G-Rh2+MIC50NaF combined group was lower than those in MIC50G-Rh2 group and
+MIC50NaF group（P<0. 05）. The inhibition rate of acid production in MIC50G-Rh2+MIC50NaF combined
+group was higher than those in MIC50G-Rh2 group and MIC50NaF group（P<0. 05），and the amount of
+biofilm formation in MBIC50G-Rh2+MBIC50NaF combined group was significantly lower than those in
+blank control group，MBIC50G-Rh2 group and MBIC50NaF group （P<0. 01）. The scanning electron
+microscope results showed that the thickness of biofilm，and the mass of extracellular base in MBIC50G-Rh2
+group and MBIC50NaF group were decreased ， the arrangement of bacteria was loose ； while in
+MBIC50G-Rh2+MBIC50NaF combined group，the biofilm structure was disappeared，the number of
+bacteria was decreased ，and the morphology of bacteria was changed.
+Conclusion ：The combination of
+G-Rh2 and NaF has the synergistic inhibitory effect on the growth and biofilm formation of Streptococcus
+mutans in vitro.
+KEYWORDS
+Streptococcus
+mutans；
+Ginsenoside
+Rh2；
+Sodium
+fluoride；
+Combined
+drug
+susceptibility experiments
+龋病是一种发生于牙体硬组织的慢性感染性疾
+病，被世界卫生组织 （World Health Organization，
+WHO） 列为三大慢性非传染性疾病之一，其主要
+致病菌为变异链球菌
+［1］。变异链球菌为革兰阳性
+菌，具有较强的产酸和耐酸能力，其胞壁表面物质
+有助于细菌的黏附、定植和聚集，从而有助于形成
+生物膜，研究
+［2-3］ 表明：生物膜中的变异链球菌比
+浮游状态时更能抵抗抑菌药物及宿主的免疫功能，
+因此抑制变异链球菌的生长及生物膜形成是防龋工
+作 的 关 键 。 目 前 氟 化 钠 （sodium fluoride， NaF）
+408
+方
+圆，等 .
+人参皂苷 Rh2 型联合氟化钠对变异链球菌生长及生物膜形成的抑制作用
+是临床上使用范围最广和最有效的防龋物质，其能
+降低釉质溶解度、促进釉质再矿化及改变牙萌出后
+的形态和结构，还能对致龋菌的代谢产生影响，如
+抑制基质金属蛋白酶活性等
+［4-5］，但 NaF 使用不当
+易 出 现 氟 牙 症 和 耐 氟 菌 株 等 一 系 列 不 良 反 应
+［6］。
+而中药不仅能调节机体免疫功能，抑制细菌生长，
+还能延缓细菌的耐药性，因此中药抑菌现已成为研
+究热点之一
+［7］。人参皂苷作为我国传统中药材人参
+中的主要活性成分，近年来已有研究
+［8-9］ 证明其对
+多种细菌均有抑制作用。但人参皂苷联合 NaF 是
+否能够增强抑菌效果国内外尚未见报道，因此本研
+究 选 择 将 人 参 皂 苷 Rh2 型 （ginsenoside Rh2， G-
+Rh2） 与 NaF 联合应用于变异链球菌，探讨 2 种药
+物是否具有协同抑菌作用，是否在减少 NaF 使用
+剂量的同时增强对变异链球菌的抑制作用，为开发
+更有效的防龋产品提供科学依据。
+1
+材料与方法
+1. 1
+细菌
+细菌、主要试剂和仪器
+主要试剂和仪器
+变异链球菌 UA159
+由吉林大学口腔医院牙发育及颌骨重塑与再生重点
+实 验 室 提 供 。 G-Rh2 （上 海 源 叶 生 物 科 技 有 限 公
+司），NaF （上海易恩化学技术有限公司），脑心浸
+出 液 肉 汤 （brain heart infusion， BHI）（赛 默 飞 世
+尔科技公司），蔗糖 （北京索莱宝科技有限公司），
+结晶紫染料 （北京酷来博科技有限公司），戊二醛
+（北京雷根生物技术有限公司）。二氧化碳细胞恒温
+培养箱 （日本 SANYO 公司），酶标仪 （美国 Bio-
+Tek 公司），分光光度计 （上海尤尼科有限公司），
+pH 值检测仪 （上海雷磁新泾仪器有限公司），抽气
+式厌氧罐 （上海坤科仪器设备有限公司）。
+1. 2
+实验菌株和菌液制备
+实验菌株和菌液制备
+将－80 ℃冻存的变异
+链球菌复苏后接种于 BHI 琼脂板中，于 37 ℃、5%
+CO2厌氧条件下培养 24 h，扫描电镜鉴定为纯培养
+后挑取单菌落接种于含 1% 蔗糖的 BHI 液体培养基
+中，继续培养至对数生长期以备后续实验使用。
+1. 3
+半 数 最 小 抑 菌 浓 度
+半 数 最 小 抑 菌 浓 度（half minimum inhibition
+concentration，MIC50）的测定
+的测定
+通过微量稀释法分
+别测量 G-Rh2 与 NaF 对变异链球菌的 MIC50值。分
+别将等量的菌液和不同浓度的药物加入 96 孔细胞
+培养 板 中 ， 菌 液 最 终 浓 度 为 1×10
+6 CFU·mL
+－ 1 ，
+G-Rh2 的浓度为 12. 5、15. 0、20. 0、25. 0、30. 0 和
+40. 0 mg·L
+－1， NaF 的 浓 度 为 15. 625、 31. 250、
+62. 500、 125. 000、 250. 000 和 500. 000 mg·L
+－1，
+于 37 ℃、5% CO2条件下厌氧培养 24 h，采用酶标
+仪在波长为 600 nm 处测量吸光度 （A） 值，对照组
+A （600） 值的 1/2 所对应的浓度即为 MIC50。MIC50
+定义为与空白对照组相比至少抑制 50% 细菌生长
+的最低药物浓度。
+1. 4
+棋盘微量稀释法
+棋盘微量稀释法
+通过棋盘微量稀释法进行
+联合药敏试验，检测 G-Rh2 和 NaF 间是否具有协
+同抑制变异链球菌的作用。将 100 μL 菌液依次加
+入 96 孔细胞培养板中，再于 96 孔细胞培养板的 2~
+6 行和 2~6 列中分别加入 50 μL 不同浓度的 G-Rh2
+和 NaF， G-Rh2 的 最 终 浓 度 为 3. 125、 3. 750、
+5. 000、 6. 250 和 7. 510 mg·L
+－1， NaF 的 最 终 浓 度
+为 3. 906 25、 7. 812 50、 15. 625 00、 31. 250 00、
+62. 500 00 和 125. 000 00 mg·L
+－1，菌液最终浓度为
+1×10
+6 CFU·mL
+－1， 空 白 对 照 组 内 不 含 任 何 药 物 。
+各组混匀 后 厌 氧 培 养 24 h ， 采 用 酶 标 仪 检 测
+A （600） 值以观察实验结果。根据单独用药及联
+合 用 药 时 的 结 果 计 算 分 级 抑 菌 浓 度 （fractional
+inhibitory concentration，FIC） 指数，定量检测 2 种
+药 物 之 间 是 否 具 有 协 同 作 用 。 FIC 的 计 算 公 式 ：
+FIC=联合用药时 A 药的 MIC50 值/单独应用 A 药时
+的 MIC50值 +联合应用 B 药时的 MIC50 值/单独应用
+B 药时的 MIC50值。当 FIC<0. 5 时，表示 2 种药物
+间 有 协 同 作 用 ； 当 FIC 为 0. 5~1. 0 和 1. 0~2. 0 时
+分别表示相加作 用 和 无 关 作 用 ； 当 FIC>2. 0 表
+示 2 种药物间有拮抗作用。
+1. 5
+生物膜形成量的测定
+生物膜形成量的测定
+采用结晶紫染色法定
+量检测 G-Rh2 与 NaF 单独和联合应用时变异链球
+菌生物膜的形成量，并检测药物半数最小生物膜抑
+制
+浓
+度
+（half
+minimum
+biofilm
+inhibition
+concentration， MBIC50）。 将 等 量 的 菌 液 和 不 同 浓
+度的药物分别加入 96 孔细胞培养板中，G-Rh2 最
+终 浓 度 ： 15. 0、 20. 0、 22. 5、 25. 0、 30. 0 和
+40. 0 mg·L
+－1； NaF 最 终 浓 度 ： 15. 625、 31. 250、
+62. 500、 125. 000、 250. 000 和 500. 000 mg·L
+－1；
+检测 G-Rh2 和 NaF 单独与联合应用对变异链球菌
+生 物 膜 形 成 量 的 影 响 时 分 组 为 MBIC50G-Rh2 组 、
+MBIC50NaF 组 和 MBIC50G-Rh2+MBIC50NaF 联 合
+组；空白对照组内不含任何药物。各组厌氧培养
+24 h 后吸出每孔中的液体，戊二醛固定，结晶紫染
+色，最后溶于 95% 酒精中，用酶标仪测定 600 nm
+波长处的A值，定量检测MBIC50，对照组A（600） 值
+的 1/2 所对应的浓度即为 MBIC50。MBIC50 定义为
+与空白对照组相比至少抑制 50% 细菌生物膜形成
+409
+第 48 卷
+第 2 期
+2022 年 3 月
+吉林大学学报 （医学版）
+时的最低药物浓度。
+1. 6
+变异链球菌生长曲线的绘制
+变异链球菌生长曲线的绘制
+分别将等量的
+菌液和不同分组的药物加入离心管中，药物分组为
+MIC50G-Rh2 组 、 MIC50NaF 组 和 MIC50G-Rh2+
+MIC50NaF 联 合 组 ， 空 白 对 照 组 内 不 含 任 何 药 物 。
+各组混匀后置于厌氧环境中培养，每隔 4 h 采用酶
+标仪测量 A （600） 值 ， 并 绘 制 生 长 曲 线 ， 观 察
+G-Rh2 和 NaF 单独与联合应用时对变异链球菌生长
+变化的影响。
+1. 7
+产酸实验检测
+产酸实验检测 G-Rh2 和 NaF 单独与联合应用
+单独与联合应用
+时对变异链球菌的产酸抑制率
+时对变异链球菌的产酸抑制率
+分别将等量的菌液
+和 不 同 分 组 的 药 物 加 入 离 心 管 中， 药 物 分 组 为
+MIC50G-Rh2 组 、 MIC50NaF 组 和 MIC50G-Rh2+
+MIC50NaF 联 合 组 ， 空 白 对 照 组 内 不 含 任 何 药 物 。
+调整各管内初始 pH 值，即 pH0均为 7. 4，厌氧培养
+24 h 后取上清液，依次测量 pH 值，记为 pH1。计算
+pH 值的变化即 ΔpH，ΔpH=pH0－pH1，并计算产
+酸抑制率，空白对照组产酸抑制率为 0。产酸抑制
+率= （对照组 ΔpH－实验组 ΔpH） /对照组 ΔpH×
+100%。ΔpH 值越小，产酸抑制率越高，表明抑制
+细菌产酸的作用越强。
+1. 8
+扫描电镜观察各组变异链球菌形态
+扫描电镜观察各组变异链球菌形态、数量和生
+数量和生
+物 膜 结 构
+物 膜 结 构
+将 细 胞 爬 片 置 于 24 孔 细 胞 培 养 板 中 ，
+每孔分别加入等量的菌液和不同分组的药物，药物
+分 组 为 MBIC50G-Rh2 组、 MBIC50NaF 组 和
+MBIC50G-Rh2+MBIC50NaF 联合组，于厌氧环境下
+培养 24 h 后吸出每孔中的液体，戊二醛固定、酒精
+梯度脱水、干燥、样本镀金，扫描电镜下观察变异
+链球菌形态、数量和生物膜结构。
+1. 9
+统计学分析
+统计学分析
+采用 SPSS 22. 0 统计软件进行
+统计学分析。各组生物膜形成量和 ΔpH 值符合正
+态分布，以 x±s 表示，多组间样本均数比较采用
+单 因 素 方 差 分 析 ， 组 间 样 本 均 数 两 两 比 较 采 用
+LSD-t 检验，计数资料以率 （%） 表示。所有实验
+均重复 3 次。以 P<0. 05 为差异有统计学意义。
+2
+结 果
+2. 1
+微量稀释法检测不同浓度
+微量稀释法检测不同浓度 G-Rh2 和 NaF 对变
+对变
+异链球菌的
+异链球菌的 MIC50值
+随着浓度的升高，G-Rh2 和
+NaF 对变异链球菌的抑制作用逐渐增强，当 G-Rh2
+浓度为 25. 0 mg·L
+－1，NaF 浓度为 125. 000 mg·L
+－1
+时 可 以 抑 制 空 白 对 照 组 50% 细 菌 的 增 长 （P<
+0. 05）， 因 此 G-Rh2 的 MIC50 值 为 25. 0 mg·L
+－1，
+NaF 的 MIC50值为 125. 000 mg·L
+－1。见图 1。
+2. 2
+G-Rh2 和 NaF 联合应用对变异链球菌的抑制
+联合应用对变异链球菌的抑制
+作 用
+作 用
+当 G-Rh2 与 NaF 单 独 应 用 时， G-Rh2 的
+MIC50 值 为 25. 0 mg·L
+－1， NaF 的 MIC50 值 为
+125. 000 mg·L
+－1，而当 G-Rh2 与 NaF 联合应用时，
+G-Rh2 的 MIC50值仅为 5. 00 mg·L
+－1，NaF 的 MIC50
+值仅为 31. 25 mg·L
+－1，FIC=0. 45，小于 0. 50，表
+明 G-Rh2 与 NaF 具 有 协 同 抑 制 变 异 链 球 菌 的
+作用。
+2. 3
+结晶紫染色法检测
+结晶紫染色法检测 G-Rh2 和 NaF 对变异链球
+对变异链球
+菌的
+菌的 MBIC50值
+当 G-Rh2 浓度为 15. 0 mg·L
+－1时可
+以抑制变异链球菌生物膜的形成，随着浓度的升
+高，抑制作 用 越 强 ， 生 物 膜 的 形 成 量 越 少 ， 且
+G-Rh2 的 MBIC50值为 22. 5 mg·L
+－1 （P<0. 05）；NaF
+可以减少变异链球菌生物膜的形成量，且浓度越大
+生物膜的形成量越少，当 NaF 浓度为 62. 5 mg·L
+－1
+时，变异链球菌生物膜形成量仅为空白对照组的
+1/2，因此 NaF 的 MBIC50 值为 62. 500 mg·L
+－1 （P<
+0. 05）。见图 2。
+2. 4
+结晶紫染色法检测
+结晶紫染色法检测 G-Rh2 和 NaF 联合应用对
+联合应用对
+变异链球菌生物膜的抑制作用
+变异链球菌生物膜的抑制作用
+本实验结果显示：
+与单组药物 组 和 空 白 对 照 组 比 较 ， 联 合 应 用 组
+A （600） 值降低，见表 1。结晶紫染色检测结果显
+示空白对照组生物膜较厚，着色较深；与空白对照
+组 比 较 ， MBIC50G-Rh2 组 和 MBIC50NaF 组 变 异 链
+球菌生物膜形成受到抑制，生物膜着色相对较浅，
+而 MBIC50G-Rh2+MBIC50NaF 联 合 组 生 物 膜 几 乎
+*P<0.05 compared with blank control group.
+图 1
+不同浓度
+不同浓度 G-Rh2 和 NaF 对变异链球菌生长的抑
+对变异链球菌生长的抑
+制作用
+制作用
+Fig.1
+Inhibitory effects of different concentrations of
+G-Rh2 and NaF on growth of Streptococcus mutans
+410
+方
+圆，等 .
+人参皂苷 Rh2 型联合氟化钠对变异链球菌生长及生物膜形成的抑制作用
+不能着色，生物膜形成量明显减少并少于单独应用
+单组药物时。见图 3。
+2. 5
+G-Rh2 和 NaF 单独与联合应用时变异链球菌
+单独与联合应用时变异链球菌
+的生长曲线
+的生长曲线
+生长曲线图可见空白对照组的变异链
+球菌在 0~12 h 内生长迅速，之后生长逐步缓慢 ，
+最后进入稳定期。与空白对照组比较，单独应用
+G-Rh2 或 NaF 时 变 异 链 球 菌 的 生 长 速 度 均 降 低
+（P<0. 05），而联合应用 G-Rh2 与 NaF 时变异链球
+菌 的 生 长 速 度 明 显 降 低 ， 且 低 于 单 独 药 物 组
+（P<0. 05），表明 2 种药物联合应用时对变异链球
+菌的抑制作用更优。见图 4。
+2. 6
+各 组
+各 组 ΔpH 值 和 产 酸 抑 制 率
+值 和 产 酸 抑 制 率
+空 白 对 照 组 、
+MIC50G-Rh2 组 、 MIC50NaF 组 和 MIC50G-Rh2+
+MIC50NaF 联 合 组
+ΔpH 值 为
+2. 627±0. 048、
+1. 457±0. 026、 1. 393±0. 035 和 0. 433±0. 049。
+与空白对照组比较，MIC50G-Rh2 组、MIC50NaF 组
+和 MIC50G-Rh2+MIC50NaF 联 合 组 的 ΔpH 值 均 降
+低，且 MIC50G-Rh2+MIC50NaF 联合组 ΔpH 值低于
+MIC50G-Rh2 组和 MIC50NaF 组。结合实验结果由产
+酸抑制率计算公式可得，24 h 内单独应用 G-Rh2 或
+NaF 的产酸抑制率分别为 44. 54% 和 47. 00%，而
+联 合 应 用 G-Rh2 与 NaF 时 产 酸 抑 制 率 高 达
+83. 51%。
+2. 7
+扫描电镜下
+扫描电镜下变异链球菌形态
+变异链球菌形态
+空白对照组变
+异链球菌的生物膜较厚，细菌之间紧密连接，形态
+规则，结构完整，并由致密的胞外基质包绕成三维
+立体结构；MIC50G-Rh2 组和 MIC50NaF 组可见生物
+膜厚度降低，胞外基质量减少，细菌之间排列疏
+松；而 MIC50G-Rh2+MIC50NaF 联合组生物膜结构
+消失，细菌数量减少且细菌形态发生变化，可见细
+菌表面较粗糙，有凹坑状结构存在。见图 5。
+表 1
+G-Rh2 和 NaF 单独与联合应用对变异链球菌生物膜的
+单独与联合应用对变异链球菌生物膜的
+抑制作用
+抑制作用
+Tab
+Tab. 1
+Inhibitory effects of G
+nhibitory effects of G-Rh
+Rh2 and NaF alone or in
+and NaF alone or in
+com
+combination on
+bination on Streptococcus mutans
+Streptococcus mutans biofilm
+biofilm
+(n=3,x±s)
+Group
+A(600)
+Blank control
+3.298±0.0368
+MBIC50G-Rh2
+1.657±0.0321
+*
+MBIC50NaF
+1.616±0.0326
+*
+MBIC50G-Rh2+MBIC50NaF combined
+0.602±0.0440
+*△#
+*P<0.01
+compared
+with
+blank
+control
+group；
+△P<0.05
+compared
+with
+MBIC50G-Rh2
+group；
+#P<0.01
+compared
+with
+MBIC50NaF group.
+A：MBIC50G-Rh2+ MBIC50NaF combined group；B：MBIC50G-Rh2 group；C：MBIC50NaF group；D：Blank control group.
+图 3
+结晶紫染色分析
+结晶紫染色分析 G-Rh2 和 NaF 单独与联合应用时变异链球菌生物膜形成量
+单独与联合应用时变异链球菌生物膜形成量
+Fig. 3
+Biofilm formation amounts of Streptococcus mutans when treated with G-Rh2 and NaF alone or in combination
+analyzed by crystal violet staining
+*P<0.05 compared with blank control group.
+图 2
+不同浓度
+不同浓度 G-Rh2 和 NaF 对变异链球菌生物膜的
+对变异链球菌生物膜的
+MBIC50值
+Fig.2
+MBIC50 of Streptococcus mutans biofilm when
+treated with different concentrations of G-Rh2 and NaF
+411
+第 48 卷
+第 2 期
+2022 年 3 月
+吉林大学学报 （医学版）
+3
+讨
+论
+氟化物作为一种常用的防龋物质，使用不当会
+出 现 耐 氟 菌 株 、 氟 牙 症 和 氟 骨 症 等 不 良 反 应
+［10］，
+短期内氟化物抑制变异链球菌产酸的能力可随时间
+的推迟而减弱
+［11］，因此许多学者提出将氟化物与
+其他药物联合使用，以达到降低氟化物用量、弥补
+氟化物不足和增强防龋效果的目的
+［12］。人参皂苷
+具有抗氧化、调节免疫和提高机体抗感染能力等功
+能，其不仅可以抑制细菌生长还可以增强其他药物
+的抑菌性能
+［13-14］。因此本研究将 G-Rh2 与 NaF 联合
+应用，以期通过 2 种药物间潜在的协同作用来降低
+单组药物的用量。
+变异链球菌是公认的主要致龋菌，其可以利用
+葡糖基转移酶代谢蔗糖产生胞外多糖，从而有利于
+细菌黏附和生物膜形成
+［15］，还可以利用碳水化合
+物产生乳酸等多种有机酸，使菌斑 pH 值始终处于
+临界 pH 值 （5. 5） 之下，且变异链球菌具有较强的
+耐酸性，在酸性环境中可通过改变自身基因表达来
+提高生存能力，使其在牙菌斑致龋过程中发挥重要
+作用
+［16］，因此减弱变异链球菌的黏附性、产酸性
+和耐酸性等致龋毒力因素是防龋的关键。
+本研究结果显示：联合应用 G-Rh2 与 NaF 可
+以抑制变异链球菌生长、生物膜形成和产酸，且较
+单组药物应用时效果更好。棋盘微量稀释法检测结
+果显示：仅将 5. 0 mg·L
+－1 G-Rh2 与 31. 250 mg·L
+－1
+NaF 联合应用就可以 达 到 单 独 应 用 25. 0 mg·L
+－ 1
+G-Rh2 或 125. 000 mg·L
+－1 NaF 的 效 果 ； 生 长 曲 线
+表明：与空白对照组和单组药物组比较，联合组对
+细菌生长的抑制作用更明显；结晶紫染色实验和扫
+描电镜检测结果显示：联合组较单独药物组更能抑
+制变异链球菌生物膜的形成，且联合组的产酸抑制
+率高于空白对照组和单独药物组，表明联合应用时
+能更好地抑制变异链球菌产酸。关于 G-Rh2 和 NaF
+抑制变异链球菌的相关机制，2 种药物均可通过降
+低变异链球菌胞外多糖水平，抑制葡糖基转移酶、
+乳酸脱氢酶和烯醇酶等糖酵解相关酶的活性等来影
+响生物膜形成和产酸
+［17-18］。除上述共同抑菌途径之
+外，NaF 还可抑制胞内多糖生长及抑制过氧化物酶
+和过氧化氢酶活性来影响变异链球菌生长及生物膜
+形成，且其能抑制 F
+－ATPase 和 H
++ ATPase 等质子
+转运酶的活性使细胞质酸化，降低变异链球菌的耐
+酸性
+［19-21］，而 G-Rh2 可以直接破坏细菌细胞壁、抑
+制磷酸转移酶和乙醛/乙醇脱氢酶等的活性、影响
+群体感应系统及抑制 eDNA 释放
+［22］，此外还可通
+过消除质粒和抑制 β-内酰胺酶活性等途径来干预及
+逆转细菌耐药性
+［23］。
+综上所述，将 G-Rh2 与 NaF 联合应用不仅可
+图 4
+G-Rh2 和 NaF 单独与联合应用时变异链球菌生
+单独与联合应用时变异链球菌生
+长曲线
+长曲线
+Fig. 4
+Growth curves of Streptococcus mutans when
+treated with G-Rh2 and NaF alone or in combination
+A：Blank control group；B：MBIC50 G-Rh2 group；C：MBIC50 NaF group；D：MBIC50 G-Rh2+ MBIC50 NaF combined group.
+图 5
+G-Rh2 和 NaF 单独与联合应用时变异链球菌扫描电子显微镜图像
+单独与联合应用时变异链球菌扫描电子显微镜图像（×20 000）
+Fig. 5
+Scanning electron microscope images of Streptococcus mutans when treated with G-Rh2 and NaF alone or in
+combination（×20 000）
+412
+方
+圆，等 .
+人参皂苷 Rh2 型联合氟化钠对变异链球菌生长及生物膜形成的抑制作用
+通过共同的抑菌途径发挥作用，还可通过各自的抑
+菌机制增强效果，降低变异链球菌耐药性的发生，
+但 2 种药物协同抑制变异链球菌的具体机制，仍需
+要进一步的探讨研究。
+[参考文献]
+［1］ CONRADS G，ABOUT I. Pathophysiology of dental
+caries［J］. Monogr Oral Sci，2018，27：1-10.
+［2］ BEDOYA-CORREA C M，RINCÓN RODRÍGUEZ R J，
+PARADA-SANCHEZ M T. Genomic and phenotypic
+diversity of Streptococcus mutans［J］. J Oral Biosci，
+2019，61（1）：22-31.
+［3］ GRIGALAUSKIENĖ
+R，
+SLABŠINSKIENĖ
+E，
+VASILIAUSKIENĖ I. Biological approach of dental
+caries management［J］. Stomatologija，2015，17（4）：
+107-112.
+［4］ JAIN A， SUPRABHA B S， SHENOY R， et al.
+Remineralising effectiveness of two fluoride varnishes
+containing additives：an in vitro study［J］. Oral Health
+Prev Dent，2019，17（4）：385-393.
+［5］ MANARELLI M
+M， DELBEM
+A
+C
+B， BÁEZ-
+QUINTERO L C，et al. Fluoride varnishes containing
+sodium trimetaphosphate reduce enamel demineralization
+in vitro［J］. Acta Odontol Scand，2017，75（5）：376-378.
+［6］ YU O Y，MEI M L，ZHAO I S，et al. Remineralisation
+of
+enamel
+with
+silver
+diamine
+fluoride
+and
+sodium
+fluoride［J］. Dent Mater，2018，34（12）：e344-e352.
+［7］ ZHAO Y，LI H，WEI S，et al. Antimicrobial effects of
+chemical compounds isolated from traditional Chinese
+herbal
+medicine
+（TCHM）
+against
+drug-resistant
+bacteria： a review paper［J］. Mini Rev Med Chem，
+2019，19（2）：125-137.
+［8］ CAO X，YE Q，FAN M，et al. Antimicrobial effects of
+the ginsenoside Rh2 on monospecies and multispecies
+cariogenic biofilms［J］. J Appl Microbiol，2019，126（3）：
+740-751.
+［9］ KACHUR
+K， SUNTRES
+Z
+E.
+The
+antimicrobial
+properties of ginseng and ginseng extracts［J］. Expert
+Rev Anti Infect Ther，2016，14（1）：81-94.
+［10］WEGEHAUPT
+F，MENGHINI
+G.
+Update
+fluorid
+［fluoride update］［J］. Swiss Dent J，2020；130（9）：
+677-683.
+［11］DANG M H，JUNG J E，LEE D W，et al. Recovery of
+acid production in streptococcus mutans biofilms after
+short-term fluoride treatment［J］.Caries Res，2016，50（4）：
+363-371.
+［12］CHEN X Q，DALIRI E B M，KIM N，et al. Microbial
+etiology
+and
+prevention
+of
+dental
+caries： exploiting
+natural
+products
+to
+inhibit
+cariogenic
+biofilms ［J］.
+Pathogens，2020，9（7）：569.
+［13］LI X，CHU S，LIN M，et al. Anticancer property of
+ginsenoside Rh2 from ginseng［J］. Eur J Med Chem，
+2020，203：112627.
+［14］IM D S. Pro-resolving effect of ginsenosides as an anti-
+inflammatory
+mechanism
+of
+panax
+ginseng ［J］.
+Biomolecules，2020，10（3）：444.
+［15］YOO H J，JWA S K. Inhibitory effects of β-caryophyllene
+on Streptococcus mutans biofilm［J］. Arch Oral Biol，
+2018，88：42-46.
+［16］LIU S，WEI Y，ZHOU X，et al. Function of alanine
+racemase in the physiological activity and cariogenicity of
+Streptococcus mutans［J］. Sci Rep，2018，8（1）：5984.
+［17］DAMÉ-TEIXEIRA N，DENG D，DO T. Streptococcus
+mutans transcriptome in the presence of sodium fluoride
+and sucrose［J］. Arch Oral Biol，2019，102：186-192.
+［18］LÓPEZ-LÓPEZ A，MIRA A. Shifts in composition and
+activity of oral biofilms after fluoride exposure ［J］.
+Microb Ecol，2020，80（3）：729-738
+［19］NAUMOVA E A，WEBER L，PANKRATZ V，et al.
+Bacterial viability in oral biofilm after tooth brushing with
+amine fluoride or sodium fluoride［J］. Arch Oral Biol，
+2019，97：91-96.
+［20］KITAGAWA H，MIKI-OKA S，MAYANAGI G，et al.
+Inhibitory effect of resin composite containing S-PRG
+filler on Streptococcus mutans glucose metabolism［J］.
+J Dent，2018，70：92-96.
+［21］ISHIGURO T，MAYANAGI G，AZUMI M，et al.
+Sodium fluoride and silver diamine fluoride-coated tooth
+surfaces inhibit bacterial acid production at the bacteria/
+tooth interface［J］. J Dent，2019，84：30-35.
+［22］曹茜茜，叶倩琳，周立波，等. 人参皂苷Rh2抑制致龋菌
+生物膜的实验研究［J］. 口腔医学研究，2018，34（12）：
+1302-1306.
+［23］刘
+迪，张
+浩，孙宏宇，等. 人参皂苷抑菌活性研究
+进展［J］.中国病原生物学杂志，2018，13（12）：1424-1426.
+413

@@ -1,0 +1,369 @@
+1168 
+中华麻醉学杂志 2010 年 l 0 月第 30 卷第 1O期
+Chin J Anesthesiol ，October 2010，Vo1．30，No．10 
+· 心 血 管 麻 醉 · 
+一
+氧化氮在人参皂 甙 Rbl 预处理减轻糖尿病 
+大 鼠心肌缺血再灌 注损伤 中的作 用 
+张力 
+夏 中元 
+吴 洋 
+库 玛 
+【摘要 】 
+目的 
+评 价一氧化 氮( NO) 在人 参皂 甙 Rbl 预处 理减轻糖 尿病 大鼠心肌 缺血再灌 注损 
+伤中的作 用。方法
+成年雄性 sD 大 鼠 ，体重 220 ～280 g，腹 腔注射 1％链脲佐 菌素一柠檬 酸盐缓 冲液 
+65 mg／kg 制备糖 尿病模 型。取糖尿 病模 型制备 成功 的大 鼠 40 只，随机 分 为 4 组 ( n = 10 ) ：假 手术 组 
+( s 组 ) 、缺血再灌注组( IR 组) 、人参 皂甙 Rbl 预处理组 ( R 组 ) 和 L-NAME + 人 参皂 甙 Rbl 预处 理 组 
+( LR 组) 。IR 组 、R 组和 LR 组采用结扎左冠状 动脉前降支 30 min，再灌 注 120 min 的方法制 备大 鼠心 
+肌缺血再灌注模型 ；s 组只穿线 。LR 组于缺血前 25 min 时静脉注射一氧化氮合酶抑制剂 N．硝基． 精 
+氨酸甲酯 10 mg／kg；R 组和 LR 组于缺血前 10 min 时静脉注射人参皂甙 Rbl 40 mg／kg；S 组和 IR 组给予 
+等容量生理盐水。再灌注 120 min 时 ，颈动脉采集血样 ，测定血 清肌酸激酶 ( CK ) 和乳 酸脱 氢酶 ( LDH) 
+的活性 。然后处死大 鼠，取 心肌组织 ，计算 心肌梗死 范围 ，测定 内皮型一氧化氮合酶( eNOS) 表达、MDA 
+和 NO 的含量 以及 SOD 活性 ，光镜下观察病理结果 。结果 
+与 s 组 比较 ，IR 组 、R 组 和 LR 组 血清 CK 
+和 LDH 的活性升高 ，心肌梗 死范围增 大 ，IR 组和 I 
+组 心肌 eNOS 表达下调 ，MDA 含 量升高 ，SOD 活性 
+和 NO含量 降低 ( P < 0 ．05) ；与 IR 组和 LR 组 比较 ，R 组血清 CK 和 LDH 的活性降低 ，心肌梗 死范 围减 
+小 ，心肌 eNOS 表达上调 ，MDA 含量 降低 ，SOD 活性和 NO 含量升 高( P < 0．05) ；IR 组 和 LR 组 各指标 比 
+较差异无统计学意义( P > 0 ．05) 。结论
+人参皂甙 Rbl 预处理可通过激 活 eNOS，促进 NO 生成 ，抑制 
+心肌细胞脂质过氧化反应 ，从而减轻糖尿病大 鼠心肌缺血再灌注损伤 。 
+【关键词 】 一 氧化氮 ； 人参皂甙类 ； 缺血预处理 ； 糖尿病 ； 心肌再灌注损伤 
+Role of  NO in reduction of myocardial ischemia-reperfusion injury by ginsenoside R bl preconditioning in 
+diabetic rats 
+ZHANG L i ，XIA Zhong -yuan ，刚
+Yang ，K U Ma ．Department of Anesthesiology ，People's Hospital ，
+ 
+Wuhan U niversity ， Wuhan 430060 ， C hina 
+Corresp ond ing  author ： X IA  Z h ong- y uan ，E ma il ： x iazhongy ua n2 005 @ y a hoo ．com ．en 
+【Abstract 】 0 bjective 
+To evaluate the role of by NO in reduction of myocardial ischemia—repef nsion ( IR) 
+inj ury by ginsenoside Rbl preconditioning in diabetic rats ．M ethods 
+Forty healthy adult mal e SD rats weighing 
+220—280 g w ere used in t his st udy ． Diabet es mellit us was induc ed by  intrapefi toneal st reptozotoci n 65 mg／k g and 
+c onfi rmed by fasti ng blood gl ucose
+> 16 ．7 mmol／L ．T he animals were randomly divided into 4 group s ( n = 10 
+each) ：sham operation group ( gr oup S) ，group IR ，ginsenoside R bl group ( group R ) and L-NAME 
+ginsenoside 
+Rbl group (group LR ) ．IR was produced by occlusi on of the anterior descending branch of l eft  coro nary artery  
+( LA D) for 30 min followed by 120 min reperfusion in group IR ，R and LR ．In group S ，LAD was exposed but not 
+occluded．In group LR ，L-NAME  10 mg／kg was inj ected iv 25 min before ischemia ．In group R  and LR ，ginsen— 
+oside Rbl 40 mg／kg was injected iv 10 min before ischemia．In group S and IR ，eaqual volume of norm al saline 
+was injected instead of ginsenoside Rb1 ．T he blood sample was taken from carotid artery  at 120 min of reperfusion 
+fo r determination of serum activities of creatine kinase ( CK ) and lactate dehydrogenase ( L DH ) ．Then the animals 
+were sacri fi ced and my oeadial ti ssues were obtained fo r determ inat ion of infarc t size ， en dot hel ial nit ri c ox ide syn — 
+thase ( eNOS ) expression，MDA and NO contents，SOD activity and microscopic examination ．R esults 
+T he SCRim 
+DOI：10 ．3760／cma ．J ．issn ．0254—1416 ．2010 ．10．005 
+基 金 项 目 ：国 家 自然科 学 基 金 (30672033) 
+作者单位：430060
+武汉大学人 民医院麻醉科 
+通信作 者：夏中元 ，E mail ：xiazhongyuan2005 @yahoo．eom．cn 
+中华麻醉学杂志 2010 年 1O月第 30 卷第 l 0 期 
+Chin J  Anesthesiol ，October 2010 ，V o1．30 ，No．10 
+activ ities of  C K  and LD H w ere signifi cantly  inc reased and the my ocardial inf arc t size was enl ar ged in group IR ，R  
+and L R ，and eNO S ex pression was signifi cant ly down—regul at ed ，M DA  content was inc reased ，and SOD ac tiv ity  and 
+NO content was signifi can tly decreased in group IR and LR compar ed with group S ( P < 0．05) ．T he serum activi — 
+t ies of  C K  an d L DH ， an d MDA  cont ent were signifi can tl y  dec reas ed ，t he my oc ardial inf
+arc t siz e w as reduc ed ，the 
+ex pression of eNO S was up- regu lated an d the ac tiv ity  of  SOD was inc reased in group R  compar ed with group I R  and 
+LR ( P < 0．05) ．There was no signifi cant dif erence in the indices mentioned above between group IR and L R ( P 
+> 0 ．05) ．C onclusi on 
+Ginsenoside Rbl  preconditioni ng can attenuate myocar dial IR injury in diab eti c rats vi a ac— 
+t ivati on of  eN OS ， increase in N O product ion ，and inhibiti on of  the lip id perox idation reac ti on ．
+ 
+【Key words】 Nitric oxide； Ginsenosides； Iscbe mic preconditioning； Diab etes mellitus；
+ 
+Myocar dial 
+reperfu sion inj ury  
+心 血 管 并 发 症 是 糖 尿 病 患 者 主 要 的 致 死 原 
+因⋯ 。糖 尿病 状 态 下 的高 血 糖 、氧 自由基 增 多 及 脂 
+质代谢紊乱加重了心肌及血管内皮细胞损伤 
+。人 
+参 皂甙 Rbl 是参 附注 射 液 的 主要 生 物 活 性成 分 ，具 
+有 清除 氧 自由基 、阻断神 经细 胞钙 超载 、抑制 Na 通 
+道活 性 、改 善能量 代谢 等作 用 
+。研 究 表 明 ，人 参皂 
+甙 Rbl 预处 理 可 减 轻 糖 尿 病 大 鼠心 肌 缺 血 再 灌 注 
+损伤 H 。NO 是 重要 的血 管 内皮舒 张 因子 ，由一 氧化 
+氮合 酶 (NOS)催 化底 物 L 精 氨酸 合 成 。慢性 糖 尿病 
+患者 内皮 型一氧 化 氮 合 酶 ( eNOS ) 表达 下 调 ，其介 导 
+的 NO 生 成减 少 、可 利用 度 降低 ，加 剧 了糖 尿 病 患者 
+的血 管 内皮 功能紊 乱 
+；激 活血 管 内皮 细 胞 eNOS 、 
+增加 NO 的生 物利用 度 ，可减 轻 心肌 再 灌 注损 伤 
+。 
+本 研究 拟评 价 NO 在人 参 皂甙 R bl 预处 理减 轻糖 尿 
+病 大 鼠心肌缺 血再 灌注 损伤 中的作 用 。 
+材 料 与 方 法 
+清 洁级 成 年雄 性 sD 大 鼠 ，体重 220 ～280 g，由 
+华 中科技 大学 同济 医学 院实 验动 物 中心提供 。适 应 
+性 观察 1 周 ，禁食 12 h，腹 腔注 射 1％链脲 佐菌 素．柠 
+檬 酸盐缓 冲液 ( Sigma 公 司 ，美 国 )65 mg／kg。3 d 后 禁 
+食 4 h ，断尾 取 血 样 ，测 定 空腹 血糖 ，若 空 腹 血 糖 > 
+16 ．7 mmol／L ，并 出现多 饮 、多 食 、多尿 即为 糖 尿 病模 
+型制备 成 功 
+。大 鼠 自 由饮 水 ，此 后 每 2 周测 定 一 
+次空腹 4 h 时 的血糖 和体 重 ，普 食饲 养 8 周 。 
+取 糖尿 病模 型制 备成 功 的大 鼠 40 只 ，随机 分 为 
+4 组 ( n = 10 ) ：假 手 术 组 ( S 组 ) 、缺 血 再 灌 注 组 ( IR 
+组 ) 、人参 皂甙 Rbl 预 处理 组 ( R 组 ) 和 L—NAME + 人 
+参皂 甙 Rbl
+预 处 理 组 ( LR 组 ) 。 LR 组 于 缺 血 前 
+25 min时经 30 s 静 脉注 射 NO 合酶抑 制剂 N一硝基 一L． 
+精 氨酸 甲酯 ( L—NAME ) ( 南通 市碧 云天 生物 技 术研 究 
+所 ) 10 mg／kg，溶 于 l ml 生理 盐水 中 ；R 组 和 LR 组 于 
+缺 血前 10 min 时 经 30 S 静脉 注 射人 参 皂甙 Rbl ( 纯 
+度 ≥98％ ，批 号 ：110704．200420，中 国药 品 生 物 制 品 
+检定所 ) 40 mg／kg，溶 于 1 ml 生理 盐水 ；S 组 和 IR 组 
+静 脉注 射生 理盐 水 1 ml 。 
+大 鼠术 前禁食 12 h。腹 腔 注射 3％戊 巴比妥 钠 
+50 mg／kg~ 醉 下 固定 大 鼠 。气 管 插 管 后 接动 物 呼 吸 
+机 行机 械通 气 。右侧 股静 脉置 管建立 静脉通 道 。放 
+置皮 下 电极监 测 Ⅱ导 联 心 电 图。左 侧 股 动 脉 置 管 ， 
+注射 肝素 500 U／kg，监 测 ECG 、HR 和 MAP 。采 用结 
+扎左 冠状 动脉 前 降支 ( LAD ) 的方 法制 备 大 鼠心 肌 缺 
+血再 灌注模 型 。前 胸 壁 左 锁 骨 中线 处 切 开 ，在 左 心 
+耳根 部 与肺动 脉 圆锥夹 交点 下约 3 ～4 mm 处 用无创 
+小 圆针经 LA D 下 方 的心 肌穿线 包绕 。IR 组 、R 组 和 
+LR 组 稳定 10 min 后 结 扎 LA D 缺 血 30 ．min，松 开结 
+扎线再 灌 注 120 min。缺 血成功 的标 准 为 ：心 前 区变 
+白，Ⅱ导联 心 电图 T 波 高耸 ，与 QR S 波融 合 ，QRS 波 
+增 宽 、变 高 。再 灌 注 成 功 标 准 为 ：s —T 段 回 落 ，心 尖 
+恢 复红 润 。S 组只 穿线 ，不结 扎 LA D 。 
+再 灌注 120 min 时 ，颈 动脉 采 血 样 3 rIll ，离心 后 
+取 血清 ，测定 肌 酸激 酶 ( CK ) 和乳 酸 脱 氢 酶 ( L DH ) 的 
+活性 。然 后 经 右 侧 颈 内 静 脉 注 射 1．5％ 伊 文 氏 蓝 
+1 ml 和 10％氯化 钾 2 ml ，处 死 大 鼠 ，快 速 摘 取 心 脏 ， 
+以冷 PBS 溶液 洗净 。 
+取 5 只大 鼠 的心 脏 ，垂 直 于 长轴 方 向将 其 切 成 
+2 mm 厚 的薄 片 ，置 于 1％氯 化 三 苯 四 氮 唑 溶 液 中 
+37 ℃孵 育 20 min。存 活 的心肌 呈 蓝色 ，梗 死 区心 肌 
+呈灰 白色 ，缺 血 区 心肌 呈 砖 红 色 。仔 细分 离 梗 死 区 
+心肌 和 缺血 区心 肌 ，用 电子 天平分 别称 重 ，以梗死 区 
+心肌 重量 与 缺 血 区 心 肌 重 量 的 比值 反 映心 肌 梗 死 
+范 围 。 
+取 5 只大 鼠 的心 脏 ，进 行 下 述 指标 的 测定 。取 
+缺血 区心 肌组 织 ，置于 4 ％多 聚 甲醛 溶液 中固定 ，石 
+蜡包 埋 后 常 规 切 片 ，HE 染 色 ，光 镜 下 观 察 病 理 结 
+果 。取心 肌组织 切 片 ，进 行免 疫组 化染 色( 试 剂盒 由 
+南京 建成 生物 工程 研究 所 提供 ) ，于光 镜 下 ( × 400) 
+进行 观察 ，每 张切 片随机 选 取 5 个 视野 ，采 用 Image— 
+中华麻醉学杂志 2010 年 1O月第 3O卷第 1O期
+Chin J Anesthesiol ，October 2010，Vo1．30，No．10 
+Pro Plus 彩 色 图像 分 析 系统 进 行 分 析 ，测 定 光 密 度 
+值 ，反 映 eNOS 的 表 达 。取 缺 血 区 心 肌 组 织 ，制 成 
+10 ％匀浆 ，采用 比色 法 测 定 MDA 含 量 ，采 用 羟 胺 法 
+测定 SOD 活性 ，采用 化学 法测定 NO 含 量 ，试 剂盒 均 
+购 自南京建 成 生物工 程研究 所 。 
+采用 SPSS 13．0 统 计学 软件 进行 分析 ，计 量资 料 
+以均数 4-标 准差 ( 元4- s) 表 示 ，组 间 比较 采 用单 因素 
+方差 分析 ，P < 0 ．05 为差 异有 统计 学意 义 。 
+结 
+果 
+与 S 组 比较 ，IR 组 、R 组 和 L R 组 心 肌梗 死 范 围 
+增 大 ( P < 0 ．05) ；与 IR 组 和 LR 组 比较 ，R 组 心 肌梗 
+死 范 围减小 ( P < 0．05) ；IR 组 和 LR 组 心肌 梗死 范 围 
+差 异无统计 学 意义 ( P > 0．05) ，见 表 1。 
+表 1
+各组大 鼠心肌梗死范 围的 比较 ( n = 5， 
+± s) 
+注 ：与 S 组 比较 ，
+ P < 0 ．05
+与 IR 组 比较 ，
+ P < 0 ．05
+与 R 组 比 
+较 ， P < 0 ．05 
+与 S 组 比 较 ，IR 组 、R 组 和 L R 组 血 清 CK 和 
+LDH 的活 性升 高 ( P < 0 ．05) ；与 IR 组 和 L R 组 比较 ， 
+R 组血 清 CK 和 LDH 的活 性 降低 ( P < 0 ．05) ；IR 组 
+和 LR 组 血清 CK 和 LDH 的活性 比较 差异 无统 计 学 
+意义 ( P > 0 ．05) ，见表 2。 
+表 2
+各 组 大 鼠血 清 CK 和 LDH 活 性 的 比较 ( U／L 
+n = 5， 
+± s) 
+注 ：与 S 组 比较 ，
+ P < 0 ．05
+与 IR 组 比较 ，
+ P < 0 ．05
+与 R 组 比 
+较 ，。P < 0 ．05 
+与 S 组 比较 ，IR 组 和 LR 组 心 肌 MDA 含 量 升 
+高 ，SOD 活性 降低 ( P < 0 ．05) ，R 组心肌 MDA 含 量和 
+SOD 活性 差异 无统 计 学意 义 ( P > 0．05 ) ；与 IR 组 和 
+LR 组 比较 ，R 组 心肌 MDA 含量 降 低 ，SOD 活 性升 高 
+( P < 0．05) ；IR 组 和 L R 组 心肌 MDA 含 量 和 SOD 活 
+性 比较差 异无 统计 学意 义 ( P > 0．05) ，见表 3。 
+表 3
+各 组 大 鼠心 肌 MDA 和 SOD 水平 的 比 较 ( n = 5 ，
+ 
+± s) 
+注 ：与 S 组比较， P < 0 ．05
+与 IR 组 比较 ，
+ P < 0 ．05
+与 R 组 比 
+较 ，
+ P < 0．05 
+与 S 组 比较 ，IR 组 和 L R 组 心 肌 eNOS 表 达 下 
+调 ，NO 含量 降低 ( P < 0．05) ，R 组 心 肌 eNOS 表 达 和 
+NO 含 量差 异 无 统 计 学 意 义 ( P > 0 ．05) ；与 IR 组 和 
+LR 组 比较 ，R 组 心 肌 eNOS 表 达 上 调 ，NO 含 量 升 高 
+( P < 0．05 ) ；IR 组 和 L R 组 心 肌 eNOS 表 达 和 NO 含 
+量差 异无 统计 学意 义 ( P > 0 ．05) ，见表 4。 
+表 4
+各组大鼠心肌 eNOS 表达和 NO含 量的比较 
+( n = 5 ，
+ 
+4- s ) 
+注 ：与 S 组 比较 ，
+ P < 0 ．05
+与 IR 组 比较 ，
+ P < 0 ．05
+与 R 组 比 
+较 ，
+ P < 0．05  
+光镜 下 S 组 心 肌纤 维 排 列 稍 紊 乱 ，心 肌 细胞 轻 
+度 断裂 、水肿 ，中性 粒 细 胞 浸 润 ，间质 纤 维 化 ；IR 组 
+心肌纤 维增 生 、水 肿 ，灶 状坏 死 、断裂 ，心肌 间质充 血 
+水肿 伴大 量炎 性 细 胞 浸 润 ；R 组 心肌 纤 维 排 列 较 紧 
+密 ，少数 心肌 纤维 胞浆玻 璃样 变 呈波 浪状排 列 ，轻 度 
+变性水 肿 ，少 量 坏 死 ，病 理 学 损 伤 较 IR 组 减 轻 ；RL 
+组心 肌纤 维排 列稍 紊乱 ，局部 少量 炎性 细胞 浸润 ，问 
+质水 肿 ，间 隙增 大 。 
+讨 
+论 
+本研 究 成 功制 备 糖 尿病 大 鼠模 型后 ，维 持 空腹 
+血糖 ≥16．7 mmol／L 继续 饲养 8 周 ，以确保 大 鼠糖尿 
+病心 肌改 变形 成 。与 s 组 比较 ，IR 组 再灌 注 120 min 
+时心肌 梗死 体积 增大 ，血 清 CK 和 LDH 的活性 升高 ，
+ 
+光镜下 心 肌纤维 增 生 水 肿 ，灶 状 坏 死 ，断裂 ，心肌 间 
+质充血 水肿伴 大 量 炎性 细 胞 浸 润 ，提 示 糖 尿病 大 鼠 
+心肌缺 血再 灌注 损 伤 模 型制 备 成 功 。参 照 文 献 [3] 
+选 择人 参皂 甙 Rbl 预 处 理 的 剂 量 为 40 mg／kg，结 果 
+表明 ，与 IR 组 比较 ，R 组 心 肌 梗 死 面 积 减小 ，血 清 
+CK 和 LDH 的 活性 降低 ，光 镜 下 心 肌 纤 维 排 列 较 紧 
+密 ，少数 心肌 纤维 胞浆 玻璃 样变呈 波 浪状排 列 ，轻度 
+变性 水 肿 ，少 量坏 死 ，病 理 学 损 伤 减轻 ，提示 人 参 皂 
+甙 Rbl 预处 理 可 减 轻 糖 尿 病 大 鼠心 肌 缺 血再 灌 注 
+损 伤 。 
+本研究 参 照 文 献 [9 ] 选 择 NOS 抑 制 剂 L—NAME 
+的剂 量 。结果 表 明 ，与 S 组 相 比 ，IR 组 心 肌 eNOS 表 
+达下调 ，NO 含 量 降 低 ，MDA 含 量 升 高 ，SOD 活性 降 
+低 ，提示 缺 血 再 灌 注 可 抑 制 eNOS 的 活 性 ，抑 制 NO 
+的生成 ，诱发 脂 质 过氧 化 反 应 。与 IR 组 和 LR 组 比 
+较 ，R 组 心肌 eNOS 表达 上 调 ，NO 含 量 升 高 ，MDA 含 
+量 降低 ，SOD 活性 升高 ，提示 人参 皂甙 Rbl 预 处理 可 
+通过 激活 eNOS ，促 进 NO 生 成 ，抑 制 脂 质 过 氧 化 反 
+中华麻醉学杂志 2010 年 10 月第 30卷第 10 期
+Chin J Anesthesiol ，October 2010，Vo1．30，No．10 
+应 ，从 而减 轻糖尿 病 大 鼠心肌 缺血再 灌注 损伤 。 
+在心肌 缺血 再 灌 注 过 程 中 ，内源 性 NO 含 量 显 
+著降 低 ，NOS 的 活 性 被 抑 制 ，进 一 步 降 低 NO 的含 
+量 ，从 而加剧 心肌 缺 血再 灌 注 损 伤u 。糖 尿病 时机 
+体 内的代 谢异 常 ，包 括 线 粒体 活 性 氧 自由基 产 生 增 
+多 、糖基 化终 末产 物 的 生 成增 多 、血糖 的 自氧 化 ，参 
+与 了慢性 高血糖 的脂 质 过 氧 化反 应 ；并 且 过 度 氧 化 
+应 激产 生 内源 性 NOS 抑 制 物 ，使 eNOS 活 性 降 低 ，
+ 
+NO 生物 利用 度降 低 ，又 可 导 致微 血 管 循 环 障 碍 ，加 
+重 组织缺 氧 ，同时 清 除氧 自由基 的能力 减 弱 u 。研 
+究 表明 ，人 参 皂 甙 Rbl 可 直 接 升 高 NOS 的活 性 ，使 
+NO 的生成 增加 
+，抑 制 脂 质过 氧 化反 应 ；也 可 通 过 
+激活 PI3K ／Akt 信 号 通 路 H ，提 高 内皮 细 胞 eNOS 活 
+性 ，促 进 NO 的生成 ，从 而发 挥保 护作用 
+。 
+综上所 述 ，人 参 皂 甙 Rbl 预 处 理 可 通 过 激 活 
+eNOS，促 进 NO 生 成 ，抑 制 心 肌 细 胞 脂 质 过 氧 化 反 
+应 ，从 而减 轻糖尿 病 大 鼠心 肌缺 血再 灌注 损伤 。 
+[ 2 ] 
+[ 3 ] 
+[ 4 ] 
+参
+考 
+文 
+献 
+C er gh iza n A ，Bala C ，Ni ta C ，et a1．P racti cal aspect s of  th e con tr ol 
+of  card iov ascu lar  ri sk in typ e 2  diab etes mellitu s an d th e metabo lic 
+sy ndrome．Exp Clin Cardiol ，2007 ，12( 2) ：83- 86 ．
+ 
+Bell DS ．Diabetic c ardiomyopathy．Diabetes C ar e ，2003 ，26 ( 10 ) ： 
+29 49 ．2 9 5 1 ．
+ 
+W ang Z ， L i M ，W u W K ，e t a1 ．G insenosi de R bl prec onditioning 
+pr otects again st my ocar dial i nf ar ction af ter re gion al ise he mi a and  
+rep erfu sion b y a ctivati on of ph osph atid ylino sito l--3 --kin ase sign al  tra ns-—
+ 
+duction ．Cardiovas c Drugs Ther ，2008 ，22(6 ) ：443—452 ．
+ 
+张力 ，夏中元 ．人参皂甙 Rbl 预 处理 对糖尿病大 鼠心肌缺血 
+再灌注损伤 的保护 作用 ．中国 医药导 刊 ，20 10 ，12 ( 3) ：446一 
+[ 5 ] 
+[ 6 ] 
+[ 7 ] 
+[ 8 ] 
+[ 9 ] 
+[ 10 ] 
+[ 11] 
+[ 12 ] 
+[ 13 ] 
+117 1 
+44 9 ．
+ 
+N ar use K ，R a sk —Ma dsen C ，T akab ar a N ，et a1 ．Ac tivation of  vascu - 
+lar p ro te in k in ase C - B in h ibits a kt- dep en de nt end oth elial n itri c oxid e 
+syn tha se fu n ction in  o besity- assoc iated  insul in  resistanc e ．D iab etes ， 
+2006 ，55 (3) ：691—698 ．
+ 
+V icent D ，I lany  J ，K ondo T ，et a1 ．T he role of  e ndothelial  insulin 
+sign al ing i n the re gula tion of vasc ular  tone and insulin resistanc e ．J  
+Clin Invest，2003 ，111(9 ) ：1373．1380 ．
+ 
+J ugdutt B I ．Nitri c oxide and cardioprote ction duri ng isc hemia -reperfu— 
+sion ．Heart Fal l R ev ，2002 ，7( 4 ) ：391 405 ．
+ 
+Th ir un avu kk ar asu M ，P en u math sa S V ，K o ner u S ，et a1 ．R esver atro l 
+alleviate s car d iac dy sfu n ction in st rep tozotec in  ind uc ed d iabe tes ：role 
+of n itri c ox ide ，th io red oxin ， and  h eme oxy gena se ．F re e R ad ic Biol 
+Med ，2007 ，43(5 ) ：720．729 ．
+ 
+Maslov LN ，L ish mano v Y B ，Oe ltgen P R ，et a1 ．Act ivation  of p eri - 
+p he ral  d elta2 op ioi d rece ptor s in cre ase s car dia c tol eran ce to isc he mia ／ 
+repef usion injury involvement of pro tein kinase C ，NO—synthase ，
+ 
+K A口 c han n els an d th e a uton omic n ervo us system ．L ife Sci ，2 00 9 ，84  
+( 19．20 ) ：657．663 ．
+ 
+Cal v ert JW ， Le fer DJ ．My ocar dial  protec ti on by nit ri te ．C ardiovase 
+R es ，2009 ，83( 2 ) ：195-203 ．
+ 
+F ior da liso F ，B ian chi R ，Sta szew sk y L ，e t a1．An tiox id an t treatm ent 
+atte nuates hyperglyce mia—induced ea rdl omyoc yte de ath in rats ．J  M ol 
+Cell Cardiol ，2004 ，37(5 ) ：959—968 ．
+ 
+Sc ott G I ，C oll ig an  P B ，R an  BH ．G insen oside s R b l and  R e decr ease 
+car dia c cont ract ion in ad ult rat ven tri eu lar  myocy tes ：ro le of  nit ri c ox— 
+ide ．Br J Pharmaeol ，200 1，134( 6) ：1159—1165 ．
+ 
+Y u J ，E to M ，A k ishita M ，et a1 ．Si gn al ing pathwa y of  nitric oxide 
+pr od ucti on in du ced  by gin seno sid e R b l i n hu man  a or tic en d othe lial  
+cells ：a possib le inv olvemen t of an dr ogen  rece ptor ．Biec
+hem B ioph ys 
+R es Commun ，2007 ，353 (3) ：764．769 ．
+ 
+( 收 稿 日期 ：2010．04．21) 
+( 本 文 编辑 ：王 娟 ) 
+关于《中华麻 醉学杂 志》调整稿件处理费 的通告 
+· 消 息 · 
+自2001 年以来 ，本 刊一直严格 按照“ 中华医学会系列 杂志稿 件处理 费的收取 办法 ”收取 稿件处理 费 ，每篇文稿 1500 字 以 
+下 20 元 ，1500 字 以 上 4O元 ，第 一 作 者 为 中华 医 学 会 会 员 者 减 半 ( 需 附 会 员 证 复 印 件 ) 。 
+随着 经 济 发 展 ，物 价 普 遍 上 扬 ，成 本 大 幅上 升 ，中 华 医 学 会 杂 志 社 根 据 实 际情 况 制 定 了 新 的 “ 中华 医学 会 系 列 杂 志有 关 稿 
+件费用给付和收取办法” ，自 2009 年 1 月 1 日起执行 ，其 中明确规定 ：来稿须付稿件处理 费 ，中华 医学会会员 50 元／篇 ( 需附会 
+员证 复印件 ) ，非会员 100 元，篇。 
+本刊 自2010 年 2 月 1 日起执行 ，调 整稿 件处 理费如下 ：中华 医学会会员 50 元／篇 ( 需 附会员证复 印件 ) ，非会员 100 元，篇 。 
+特 此 通 告 ! 
+本 刊 编 辑 部 

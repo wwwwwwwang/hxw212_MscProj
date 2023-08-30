@@ -1,0 +1,465 @@
+安 徽 医 药 Anhui Medical and Pharmaceutical Journal 2022 May，26（5）
+［9］ ZHANG L，HU R，CHENG Y，et al. Lidocaine inhibits the prolif-
+eration of lung cancer by regulating the expression of GOLT1A
+［J］. Cell Prolif，2017，50（5）：12364.DOI：10.1111/cpr.12364.
+［10］ SUN H，SUN Y. Lidocaine inhibits proliferation and metastasis of
+lung cancer cell via regulation of miR-539/EGFR axis［J］. Artif
+Cells Nanomed Biotechnol，2019，47（1）：2866-2874.
+［11］ YE L，ZHANG Y，CHEN YJ，et al. Anti-tumor effects of lido-
+caine on human gastric cancer cells in vitro［J］. Bratisl Lek Listy，
+2019，120（3）：212-217.
+［12］ 王亚非，邢姝琴，尉志强，等 . 巴戟天含药血清对人骨肉瘤
+MG63 细胞凋亡及 JNK 信号通路的影响［J］. 遵义医学院学报，
+2018，41（5）：579-583.
+［13］ 柴旭泽，魏凯，王贵方 . 番茄红素对人骨肉瘤细胞顺铂增敏作
+用及机制研究［J］. 医学研究杂志，2018，47（4）：167-170.
+［14］ 邹海盯，孙丽，陶蕾，等 . 七氟醚、异氟醚对骨肉瘤 MG63细胞
+增殖、凋亡及化疗敏感性的影响［J］. 现代生物医学进展，
+2015，15（23）：4419-4423.
+［15］ 王峻，刘仁忠，徐亚青，等 . 苯妥英钠对化疗耐药胶质母细胞
+瘤多药耐药相关蛋白 1 及 O6-甲基鸟嘌呤-DNA-甲基转移酶基
+因表达的影响［J］. 中华实验外科杂志，2015，32（11）：2718-
+2721.
+［16］ 杨晓燕，向琼，殷杰，等 . MiR-195对 BEL-7402/5-FU细胞 5-氟
+尿嘧啶耐药性的影响［J］.中南医学科学杂志，2017，45（1）：32-
+34，47.
+［17］ 王鸽，周志红 . 微小 RNA-195 对结肠癌细胞奥沙利铂耐药逆
+转的影响及其机制［J］. 中华实验外科杂志，2016，33（4）：
+979-981.
+［18］ YE R，WEI B，LI S，et al. Expression of miR-195 is associated
+with chemotherapy sensitivity of cisplatin and clinical prognosis
+in gastric cancer［J］. Oncotarget，2017，8（57）：97260-97272.
+［19］ 阳曙东，谭文甫，刘金华，等 . 沉默 PPARγ对骨肉瘤 MG-63细
+胞增殖的影响及相关机制［J］. 暨南大学学报（自然科学与医
+学版），2018，39（1）：55-60.
+（收稿日期：2019-10-14，修回日期：2019-12-08）
+引用本文：周自广 . 人参皂苷 Rh2 调控微小 RNA-133a-3p 对瘢痕疙瘩成纤维细胞凋亡的影响［J］. 安徽医药，2022，
+26（5）：873-876.DOI：10.3969/j.issn.1009-6469.2022.05.006.
+人参皂苷Rh2调控微小RNA-133a-3p对瘢痕疙瘩成纤维细胞
+凋亡的影响
+周自广
+作者单位：郑州市第一人民医院皮肤科，河南
+郑州450000
+摘要： 目的
+探讨人参皂苷 Rh2 调控微小 RNA（miR）-133a-3p 对瘢痕疙瘩成纤维细胞（KF）凋亡的影响。方法
+用浓度为
+50、100、200 mg/L 的人参皂苷 Rh2 培养 KF，未给人参皂苷 Rh2 的 KF 记为对照（NC）组；将 miR-NC、miR-133a-3p 分别转染至 KF
+中记为 miR-NC 组、miR-133a-3p 组；将 anti-miR-NC、anti-miR-133a-3p 分别转染至 KF 再用 200 mg/L 的人参皂苷 Rh2 处理记为
+anti-miR-NC+人参皂苷 Rh2 组、anti-miR-133a-3p+人参皂苷 Rh2 组。流式细胞术检测细胞凋亡；实时荧光定量 PCR（RT-qPCR）
+检测 miR-133a-3p表达水平；蛋白质印迹法检测裂解的半胱氨酸天冬氨酸蛋白酶-3（Cleaved caspase-3）、β-连环素（β-catenin）表
+达。结果
+与对照组相比，50、100、200 mg/L 人参皂苷 Rh2 处理的 KF 中细胞凋亡率升高［（9.08±0.91）%、（16.28±1.63）%、
+（23.18±2.32）%比（4.29±0.43）%］，miR-133a-3p 表达水平升高，β-catenin 表达水平降低（P<0.05）。过表达 miR-133a-3p，Cleaved
+caspase-3表达水平升高，细胞凋亡率升高（P<0.05）。低表达 miR-133a-3p部分逆转了人参皂苷 Rh2对 KF凋亡和 β-catenin的影
+响。结论
+人参皂苷Rh2可促进瘢痕疙瘩成纤维细胞凋亡，其机制可能与miR-133a-3p和Wnt/β-catenin信号通路有关。
+关键词： 人参皂苷类； 瘢痕疙瘩； 成纤维细胞； 微小RNA-133a-3p； Wnt/β-连环素信号通路； 凋亡
+Effect of ginsenoside Rh2 on the apoptosis of keloid fibroblasts by regulating miR-133a-3p
+ZHOU Ziguang
+Author Affiliation:Department of Dermatology, The First People's Hospital of Zhengzhou, Zhengzhou, Henan 450000,
+China
+Abstract： Objective
+To investigate the effect of ginsenoside Rh2 on the apoptosis of keloid fibroblasts (KF) by regulating miR-
+133a-3p.Methods
+KF was cultured with ginsenoside Rh2 at different concentrations of 50, 100, 200 mg/L, and KF without ginsen-
+oside Rh2 was recorded as control (NC) group; miR-NC and miR-133a-3p were transfected to KF, which was recorded as miR-NC
+group and miR-133a-3p group; anti-miR-NC and anti-miR-133a-3p were transfected into KF and treated with 200 mg/L ginsenoside
+Rh2 as anti- miR-NC+ginsenoside Rh2 group, anti-miR-133a-3p+ginsenoside Rh2 group. Apoptosis was detected by flow cytometry;
+the expression of miR-133a-3p was detected by real-time quantitative PCR (RT-qPCR); the expression of cleaved cysteine-containing
+◇药学研究◇
+·873·
+安 徽 医 药 Anhui Medical and Pharmaceutical Journal 2022 May，26（5）
+aspartate-specific proteases-3 (Cleaved caspase-3) and β-catenin was detected by Western blot.Results
+Compared with control group,
+the apoptosis rate of KF treated with 50, 100, 200 mg/L of ginsenoside Rh2 was significantly increased [(9.08±0.91)%, (16.28±1.63)%,
+(23.18±2.32)% vs. (4.29±0.43)%], the expression of miR-133a-3p was significantly increased, and the expression of β-catenin was sig-
+nificantly decreased (P<0.05). Overexpression of miR-133a-3p, the expression of Cleaved caspase-3 was significantly increased, and
+the apoptosis rate was significantly increased (P<0.05). Low expression of miR-133a-3p partially reversed the effect of ginsenoside Rh2
+on KF apoptosis and β-catenin.Conclusion
+Ginsenoside Rh2 promotes apoptosis of keloid fibroblasts, and its mechanism may be re-
+lated to miR-133a-3p and Wnt/β-catenin signaling pathways.
+Key words： Ginsenosides;
+Keloid;
+Fibroblasts;
+MiR-133a-3p;
+Wnt/β-catenin signaling pathway;
+Apoptosis
+瘢痕疙瘩是一种以纤维增生为特征的皮肤病，
+通常难以治愈，如果治疗不当，会导致病人出现严
+重的情绪和身体痛苦；其手术切除极易复发，现在
+多用药物进行治疗
+［1］。瘢痕疙瘩成纤维细胞（keloid
+fibroblasts，KF）的异常增殖和凋亡是导致瘢痕疙瘩
+的主要原因
+［2］。研究表明中药可以抑制瘢痕疙瘩成
+纤维细胞增殖，有效防治瘢痕疙瘩
+［3］。人参皂苷有
+多种有效单体成分，研究发现人参皂苷 Rb1 能抑制
+活性细胞增殖，血管生成减少，胶原合成减少，有效
+改善兔耳瘢痕的增生
+［4］。人参皂苷 R3 可诱导成纤
+维细胞凋亡，抑制病理学瘢痕的形成
+［5］。人参皂苷
+Rh2 能抑制肝癌细胞生长并促进其凋亡
+［6］。而人参
+皂苷Rh2对瘢痕疙瘩成纤维细胞凋亡的影响及其机
+制尚不清楚。miRNA 在瘢痕疙瘩的发展中发挥着
+不可替代的作用
+［7］。研究发现，miR-133a-3p 对胃癌
+细胞增殖
+［8］、结直肠癌细胞增殖
+［9］具有抑制作用，还
+能促进结直肠癌细胞凋亡
+［9］。然而 miR-133a-3p 对
+瘢痕疙瘩成纤维细胞凋亡的影响也不清楚。本研
+究自 2019年 3―9月研究人参皂苷 Rh2和 miR-133a-
+3p对瘢痕疙瘩成纤维细胞凋亡的影响及其机制。
+1
+材料与方法
+1.1
+材料
+人参皂苷 Rh2 购自西安瑞林生物科技
+有限公司；RNA 提取试剂盒、荧光定量试剂盒购自
+美国 Progema 公司；miScript Reverse Transcription Ⅱ
+试剂盒购自上海 Qiagen；十二烷基硫酸钠聚丙烯酰
+胺 凝 胶 电 泳（sodium dodecyl sulfate polyacrylamide
+gel electrophoresis，SDS-PAGE）试剂盒购自江苏 Bey-
+otime Biotechnology；蛋白提取试剂盒、二辛可宁酸
+（bicinchoninic acid，BCA）试 剂 盒 、RIPA 蛋 白 裂 解
+液 、膜 联 蛋 白 V（Annexin V）- 异 硫 氰 酸 荧 光 素
+（FITC）/碘化丙锭（PI）试剂盒购自北京 Solarbio 公
+司；抗体购自北京博奥森生物科技有限公司。
+1.2
+方法
+1.2.1
+人瘢痕疙瘩成纤维细胞的分离培养
+无菌
+条件下将手术切除的人瘢痕疙瘩组织去除表皮及
+脂肪组织，用含 100 U/mL 青霉素和 100 g/L 链霉素
+的 PBS洗涤 3次，剪碎成组织微粒，后用 DMEM 培养
+基置于 37 ℃，含 5% 二氧化碳恒温箱培养，每 2~3天
+换液一次，1 周后在显微镜下观察，待组织微粒周围
+有梭形细胞游出后，吸去组织块和培养液，换新鲜
+培养液继续培养，用苏木精-伊红染色鉴定确为瘢痕
+疙瘩成纤维细胞后继续继代培养，取对数生长期细
+胞用于实验。
+1.2.2
+细胞处理与分组
+取对数生长期 KF，分别用
+浓度为50、100、200 mg/L的人参皂苷Rh2培养，未给
+人参皂苷 Rh2 记为对照（NC）组；将 miR-NC、miR-
+133a-3p 分 别 转 染 至 KF 中 记 为 miR-NC 组 、miR-
+133a-3p组；将 anti-miR-NC、anti-miR-133a-3p分别转
+染至 KF再用 200 mg/L 的人参皂苷 Rh2处理记为 an-
+ti-miR-NC+人参皂苷 Rh2 组、anti-miR-133a-3p+人参
+皂苷Rh2组。
+1.2.3
+流式细胞术检测细胞凋亡
+Annexin V-FITC/
+PI 试剂盒用于检测 KF 凋亡。各组 KF 在 25 ℃的黑
+暗环境中用 Annexin V-FITC 和 PI 染色 10 min。在
+FACSCantoⅡ流式细胞仪上分析细胞凋亡率。
+1.2.4
+实 时 荧 光 定 量 PCR（real-time quantitative
+PCR，RT-qPCR）检测 miR-133a-3p表达水平
+各组
+KF 培养 48 h 后提取细胞总 RNA，在 RNA 被 miScript
+Reverse Transcription Ⅱ 试 剂 盒 逆 转 录 后 ，miRNA
+qRT-PCR 试剂盒用于测量 miR-133a-3p 表达，PCR
+扩增反应在 95 ℃ 30 s，60 ℃ 30 s；72 ℃ 30 s，40 cy-
+cles；60 ℃延长5 min的循环条件下进行。采用2
+-△△Ct
+法计算结果。引物序列为（5'-3'）：miR-133a-3p 正
+向 ：ACACTCCAGCTGGGTTGGTCCCCTTCAACC，反
+向
+：
+CTCAACTGGTGTCGTGGAGTCG-
+GCAATTCAGTTGAGACA；U6（内 参）正 向 ：CTC-
+GCTTCGGCAGCACA， 反
+向
+： AACGCTTCAC-
+GAATTTGCGT。
+1.2.5
+蛋白质印迹（Western blotting）法检测裂解的
+半胱氨酸天冬氨酸蛋白酶-3（Cleaved caspase-3）、
+β-连环素（β-catenin）蛋白表达
+各组 KF 培养 48 h
+后，将 RIPA 裂解溶液在冰上裂解 KF 20 min。使用
+BCA 试剂盒测量样品蛋白质浓度水平。将蛋白样
+品进行聚丙烯酰胺凝胶电泳后立即将其转移到聚
+偏二氟乙烯膜上，在 25℃下，将蛋白与 5% 脱脂奶粉
+一起孵育 1 h，在 4 ℃下，使用一抗（1∶1 000）孵育蛋
+·874·
+安 徽 医 药 Anhui Medical and Pharmaceutical Journal 2022 May，26（5）
+白 12 h，然后与二抗（1∶2 000）室温孵育 1.5 h，用
+ECL 发光液显影，用 ChemiDoc XRS+系统成像，用
+Quantity One 凝胶分析以 β 肌动蛋白（β-actin）为内
+参分析蛋白条带的灰度以检测表达差异。
+1.3
+统计学方法
+实验数据经 SPSS 20.0 分析，计
+量资料用 x■ ± s 表示，两组间比较采用独立样本 t 检
+验，多组间比较采用单因素方差分析，组间两两比
+较采用LSD法，以P<0.05表示差异有统计学意义。
+2
+结果
+2.1
+不同浓度人参皂苷Rh2对KF凋亡的影响
+与
+对照组相比，50、100、200 mg/L 的人参皂苷 Rh2培养
+KF 中 细 胞 凋 亡 率 升 高［（9.08±0.91）% 、（16.28±
+1.63）%、
+（23.18±2.32）%比（4.29±0.43）%，P<0.05］。
+2.2
+人 参 皂 苷 Rh2 对 miR-133a-3p 表 达 的 影 响
+与对照组（1.00±0.10）相比，200 mg/L 人参皂苷 Rh2
+组 miR-133a-3p 表达水平（3.64±0.36）升高（t=12.24，
+P<0.05）。
+2.3
+高表达 miR-133a-3p 对 KF 凋亡的影响
+miR-
+133a-3p组KF中miR-133a-3p表达水平比miR-NC组
+升高，Cleaved caspase-3 表达水平也比 miR-NC 组升
+高，细胞凋亡率比 miR-NC 组升高（P<0.05）。见图
+1，表1。
+2.4
+低表达 miR-133a-3p 可以部分逆转人参皂苷
+Rh2 对 KF 凋亡的影响
+与 anti-miR-NC 组相比，an-
+ti-miR-133a-3p 组 KF 中 Cleaved caspase-3 表达水平
+降低，细胞凋亡率降低（P<0.05）；anti-miR-133a-3p+
+人参皂苷 Rh2组 KF中 miR-133a-3p表达水平比 anti-
+miR-NC+人参皂苷 Rh2 组降低，Cleaved caspase-3 表
+达水平也比 anti-miR-NC+人参皂苷 Rh2 组降低，细
+胞凋亡率降低（P<0.05）（图2，表2）。
+2.5
+Wnt/β-catenin 信号通路相关蛋白的表达
+人
+参皂苷 Rh2 组 KF 中 β-catenin 表达水平低于 NC 组
+［（0.38±0.04）比（0.80±0.08），P<0.05］；anti-miR-
+133a-3p+人参皂苷 Rh2 组 KF 中 β-catenin 高于 anti-
+miR-NC+ 人 参 皂 苷 Rh2 组［（0.71±0.07）比（0.42±
+0.05），P<0.05］。见图3。
+3
+讨论
+瘢痕疙瘩的治疗选择范围广泛，这些治疗方案
+都有各自优势，但副作用和复发的高风险仍然存
+6
+2
+3
+4
+1
+5
+7
+8
+9
+注：1―β肌动蛋白（β-actin）；2―裂解的半胱氨酸天冬氨酸蛋白
+酶-3（Cleaved caspase-3）；3―miR-NC组；4―miR-133a-3p组。
+图1
+Western blotting检测高表达miR-133a-3p后Cleaved caspase-3
+蛋白表达
+表1
+高表达miR-133a-3p对KF凋亡的影响/x■ ± s
+组别
+miR-NC
+miR-133a-3p
+t值
+P值
+重复
+次数
+3
+3
+miR-133a-3p
+1.00±0.11
+2.76±0.28
+10.13
+0.001
+Cleaved cas-
+pase-3
+0.32±0.03
+0.86±0.09
+9.86
+0.001
+凋亡率/%
+4.37±0.44
+15.72±1.57
+12.06
+<0.001
+注：Cleaved caspase-3为裂解的半胱氨酸天冬氨酸蛋白酶-3。
+6
+2
+3
+4
+1
+5
+7
+8
+9
+注：1―β肌动蛋白（β-actin）；2―裂解的半胱氨酸天冬氨酸蛋白
+酶 -3（Cleaved caspase-3）；3―anti-miR-NC 组 ；4―anti-miR-133a-3p
+组；5―anti-miR-NC+人参皂苷 Rh2 组；6―anti-miR-133a-3p+人参皂
+苷Rh2。
+图2
+低表达miR-133a-3p可以部分逆转人参皂苷Rh2对KF中
+Cleaved caspase-3蛋白的影响
+表2
+低表达miR-133a-3p可以部分逆转人参皂苷Rh2对KF凋亡的影响/x■ ± s
+组别
+anti-miR-NC
+anti-miR-133a-3p
+anti-miR-NC+人参皂苷Rh2
+anti-miR-133a-3p+人参皂苷Rh2
+F值
+P值
+重复次数
+3
+3
+3
+3
+miR-133a-3p
+1.00±0.10
+0.30±0.03①
+0.96±0.10
+0.45±0.05②
+64.94
+<0.001
+Cleaved caspase-3
+0.30±0.03
+0.10±0.01①
+0.98±0.10
+0.42±0.04②
+138.75
+<0.001
+凋亡率/%
+4.30±0.45
+1.01±0.10①
+23.08±2.31
+7.26±0.73②
+189.54
+<0.001
+注：Cleaved caspase-3为裂解的半胱氨酸天冬氨酸蛋白酶-3。
+①与anti-miR-NC比较，P<0.05。②与anti-miR-NC+人参皂苷Rh2比较，P<0.05。
+6
+2
+3
+4
+1
+5
+7
+8
+9
+注：1―β 肌动蛋白（β-actin）；2―β-连环素（β-catenin）；3―NC
+组；4―人参皂苷 Rh2 组；5―anti-miR-NC+人参皂苷 Rh2 组；6―anti-
+miR-133a-3p+人参皂苷Rh2组。
+图3
+Western blotting检测β-catenin蛋白的表达
+·875·
+安 徽 医 药 Anhui Medical and Pharmaceutical Journal 2022 May，26（5）
+在
+［10］。因此，确定用于治疗瘢痕疙瘩的改进的治疗
+方法或药物是紧迫且非常重要的。研究发现人参
+皂苷 Rg3 处理后，KF 的增殖、迁移、侵袭、血管生成
+和胶原合成受到显著抑制，人参皂苷 Rg3 可作为治
+疗瘢痕疙瘩病人的可靠药物
+［11］。人参皂苷 Rg1能抑
+制心肌成纤维细胞的增殖，减少高糖培养心肌成纤
+维细胞胶原和 TGF-β1的分泌，抑制 Wnt信号通路的
+异常表达
+［12］。说明人参皂苷具有抑制瘢痕形成的
+作用，且可能与部分信号通路有关。还有研究发现
+人参皂苷Rh2通过下调Wnt/β-catenin信号通路抑制
+SHG44 细胞增殖，诱导细胞凋亡
+［13］。本研究结果显
+示，不同浓度人参皂苷 Rh2处理的 KF中细胞凋亡率
+升高。说明人参皂苷Rh2可促进瘢痕疙瘩成纤维细
+胞凋亡，也具有抑制瘢痕形成的作用。
+研究发现上调 miR-133a-3p 抑制食管鳞状细胞
+癌 细 胞 增 殖 、迁 移 和 侵 袭 ，并 促 进 细 胞 凋 亡
+［14］。
+miR-133a-3p 过表达通过调控糖原磷酸化酶 B（gly-
+cogen phosphorylase B，PYGB）/Wnt /β-catenin信号通
+路抑制卵巢癌细胞的增殖，侵袭和迁移
+［15］。本研究
+结果显示，过表达 miR-133a-3p，Cleaved caspase-3表
+达水平升高，细胞凋亡率升高。说明过表达 miR-
+133a-3p 可促进瘢痕疙瘩成纤维细胞凋亡。且人参
+皂苷 Rh2培养 KF后，miR-133a-3p表达增强，人参皂
+苷 Rh2对 KF 凋亡的促进作用被低表达 miR-133a-3p
+所部分逆转。表明人参皂苷 Rh2 可能通过上调
+miR-133a-3p表达促进瘢痕疙瘩成纤维细胞凋亡。
+Wnt/β-catenin 信号通路在细胞增殖、迁移和凋
+亡中起重要作用，β-catenin 是该信号通路发关键因
+子，β-catenin 高表达可激活 Wnt/β-catenin 信号通
+路，进而促进细胞增殖，抑制细胞凋亡
+［16］。Wnt/β-
+catenin 信号通路与病理性瘢痕的形成密切相关
+［17］。
+研究发现沉默 β-catenin 能够抑制瘢痕疙瘩成纤维
+细胞增殖并促进其凋亡
+［18］。本研究数据表明，人参
+皂苷 Rh2 处理的 KF 中 β-catenin 表达水平降低，低
+表达 miR-133a-3p 部分逆转了人参皂苷 Rh2 对 β-
+catenin 的抑制作用。以上结果表明，人参皂苷 Rh2
+可抑制 Wnt/β-catenin 信号通路激活，其可能是通过
+调控miR-133a-3p实现的。
+综上所述，人参皂苷 Rh2 可促进瘢痕疙瘩成纤
+维细胞凋亡，其机制可能与 miR-133a-3p 和 Wnt/β-
+catenin信号通路有关。
+参考文献
+［1］ 李周娜，朱莲花，方宇辉，等 . 瘢痕疙瘩药物治疗研究进展
+［J］. 中国皮肤性病学杂志，2016，30（2）：196-199.
+［2］ ZHU H，BAI W，WANG H，et al. Peroxisome proliferator-acti-
+vated receptor-Î³ agonist inhibits collagen synthesis in human ke-
+loid fibroblasts by suppression of early growth response-1 expres-
+sion through upregulation of miR-543 expression.［J］. Am J Can-
+cer Res，2016，6（6）：1358-1370.
+［3］ 赵庆利，孟如松，杨庆琪，等 . 自制中药提取物对瘢痕疙瘩成
+纤维细胞增殖的影响［J］. 中国美容医学杂志，2010，19（5）：
+83-85.
+［4］ 罗亮 . 人参皂苷 Rb1 治疗兔耳增生性瘢痕相关机制的探索
+［D］.桂林：桂林医学院，2017.
+［5］ 刘鹤松，赵自然，兰珊珊，等 . 人参皂苷 Rg3 对人成纤维细胞
+增殖和凋亡影响的实验研究［J］. 中国实验诊断学，2010，14
+（11）：1697-1700.
+［6］ 何鑫，何剪太，张阳德 . 人参皂苷 Rh_2 对人肝癌 Bel-7402 细
+胞增殖和凋亡的影响［J］. 中国现代医学杂志，2012，22（20）：
+24-27.
+［7］ 徐志山，陶凯，郭冰玉 . miRNA在病理性瘢痕中作用的研究进
+展［J］. 中国美容整形外科杂志，2018，29（1）：63-64.
+［8］ 周欣亮，吴昊，李丹，等 . miR-133a-3p在胃癌组织和血浆中的
+表达及其对胃癌细胞增殖的影响［J］. 中国肿瘤生物治疗杂
+志，2018，25（6）：613-619.
+［9］ 韩俊，赵静，张立群 . 丙泊酚调控 miR-133a/SOX4 表达对结直
+肠癌 HCT116 细胞增殖凋亡的影响［J］. 分子诊断与治疗杂志，
+2019，11（3）：238-244.
+［10］ 管志强，陈桂升，封乐驰，等 . 基于文献研究分析中医药治疗
+病理性瘢痕的用药规律［J］. 中华中医药学刊，2018，36（8）：
+1803-1805.
+［11］ TANG M，BIAN W，CHENG L，et al. Ginsenoside Rg3 inhibits
+keloid fibroblast proliferation，angiogenesis and collagen synthe-
+sis in vitro via the TGFβ/Smad and ERK signaling pathways［J］.
+Int J Mol Med，2018，41（3）：1487-1499.
+［12］ 韩路拓，任钧国，杨佳妹，等 . 人参皂苷 Rg1 对高糖培养的心
+肌成纤维细胞 Wnt 信号通路的影响［J］. 北京中医药大学学
+报，2014，37（11）：758-762.
+［13］ 华夏，李广兴，刘仲涛，等 . 人参皂苷 Rh2 下调 Wnt/β-catenin
+信号通路调控 SHG44 细胞的增殖和凋亡［J］. 解剖学研究，
+2018，40（3）：189-192.
+［14］ YIN Y，DU L，LI X，et al. miR-133a-3p suppresses cell prolifer-
+ation，migration，and invasion and promotes apoptosis in esopha-
+geal squamous cell carcinoma［J］. J Cell Physiol，2019，234（8）：
+12757-12770.
+［15］ ZHOU Y，JIN Z，WANG C. Glycogen phosphorylase B promotes
+ovarian cancer progression via Wnt/β-catenin signaling and is reg-
+ulated by miR-133a-3p［J］. Biomed Pharmacother，2019，120：
+109449. DOI：10.1016/j.biopha.2019.109449.
+［16］ 张嘉美，赵宁，吴晓玲，等 . Wnt/β-catenin 信号通路对细胞凋
+亡和坏死的调控研究进展［J］. 中国细胞生物学学报，2015，
+37（9）：1309-1316.
+［17］ 费猛，汤諹 . Wnt/β-catenin信号转导通路与病理性瘢痕形成研
+究进展［J］. 云南医药，2016，37（4）：461-463.
+［18］ 荣媛，刘明华，邓朝霞，等 . RNA 干扰敲低 β-catenin 的表达对
+瘢痕疙瘩成纤维细胞增殖及凋亡的影响［J］. 现代生物医学进
+展，2018，18（14）：2631-2636.
+（收稿日期：2019-11-22，修回日期：2020-01-10）
+·876·

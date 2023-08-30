@@ -1,0 +1,433 @@
+5 3 6 
+文章编号 ：1003-2754 ( 2014 ) 06-0536-04 
+J A poplex y and Nervou s Di seases ，J une 20 14 ，V ol 3 1 ，No．6 
+人参皂苷对癫痫 大 鼠行 为学 和突触蛋 白的影 响 
+甄军 丽 ，
+ 
+王维平 ，
+ 
+曲珍 珍 ，
+ 
+房 海 波 ， 
+王 洪超 ， 
+臧红敏 ， 
+王丽娜 
+摘
+要 ：
+ 
+目的
+探讨人参皂苷 Rbl 对癫痫大 鼠学 习记忆及海 马 kalirin-7 和突触后 致密物 95 ( PSD一95 ) 表达 
+的影 响。方 法
+40 只 sD 大 鼠随机分为 4 组 ：对照组 、模型组 、Rbl 低 、高剂量 组。模型 制备成功后 ，采用 Morris 水 
+迷 宫检 测其 行为学 ，电镜法观 察海 马 CA 区突 触超微 结构 ，Western blot 法 检测海 马 kalirin一7 和 PSD一95 的表 达 。 
+结果
+模 型组 大 鼠的末次逃避潜伏期 、穿台次数 、海 马 CA 区 PSD 厚度 、kalirin一7 和 PSD一95 表达 [ 分别 为 ( 11．2 ± 
+1．6 ) s、( 4．9 ± 1．3) 次 、( 25．9 ± 2．4 ) nm、( 0．32 ± 0 ．03) 、( 0．95 -4-0 ．08) ] ；与对照组[ 分别为 (4 ．5 ± 0．8) s、( 10．9 ± 
+2．1) 次 、( 34 ．1 -4- 3．7 ) 11113．、( 0．86 ± 0．07 ) 、( 1．94 ± 0 ．13) ] ，比较 均具 有显著性 差异 ( P < 0．05 ) 。而人参皂苷 Rbl 干 
+预组剂量依赖性地逆转了上述的异常变化( P < 0．05 ) 。结论 
+人 参皂苷 Rbl 可 能通过上 调海马 kalirin一7 和 PSD一 
+95蛋 白的表达来改善癫痫 大 鼠的认 知功能障碍 。 
+关键词 ： 
+人参皂苷 Rbl ； 
+认知功能障碍 ；
+ 
+kalirin-7 ；
+ 
+突触后致密物一95 
+中图分类号 ：11742．1 
+文献标识 码 ：A 
+E f ects o f gin sen o sid e on  b eh avi or s an d  sy n apti c associ ated p r otein s i n  ep il ep ti c r ats 
+Z H E N J u n—l i ，WAN G Wei-p i ng ，
+ 
+QU Zhen—zhen，et a1．( Department of  Neurology ，the Second Hospital of  Hebei Medical University，Shij iazhuang 050000 ，Chi— 
+na ) 
+Abstract ： 0 bj ective 
+To explore the effects of ginsenoside on behav iors and expression of synaptic associated pro— 
+teins in th e hi ppoc amp us of epil eptic rats ．M eth o ds 
+F orty rats were randoml y di vided into 4 groups ：c ontrol ，epil eptic ，l ow 
+do se of g ins en osid e R b l and hi gh dose of  gin senosi de R b l  groups ．R ats w ere gi ven 
+Z til l bein g kin dled s uc c essfull y．T h eir 
+b ehaviors were afterward s d etermine d by Morris water maz e ，morphol ogy was observed by el ectron microscope ，an d exp res— 
+s ions of  k aliri n- 7 and PS D -95 i n th e h ipp oca mpus were detec ted by W es tern bl ot．R esu l ts 
+C om pared to th e con trol group ，
+ 
+the abi li ty of learni ng and memory was imp aired in the escape laten cy ( 11 ．2 ± 1．6 compared to 4 ．5 ± 0 ．8 )
+and i n th e 
+number of crossing ( 4．9 4- 1．3 compared to 10．9 4- 2．1 )
+( P < 0 ．05 ) ，the synaptic uhrastructure of hippocampus C A1 
+showed significantly changes in the PSD一95 thickness ( 25．9 ± 2．4 compared to 34．1 ± 3．7 ) ( P < 0．05 ) ，and expressions 
+of kalirin-7 ( 0．32 ± 0 ．03 compared to 0．86 4- 0 ．07) and PSD一95 ( 0 ．95 4- 0．08 compared to 1．94 4- 0．13) obviously de— 
+creased in rats with PrI —kindled epilepsy ( P < 0 ．05) ，while ginsenoside R bl could dose—dependently reverse such abnor— 
+mal changes ( P < 0．05 ) ．C onclusion 
+Ginsenoside R bl could effectively improve the cognitive impairment of rats with 
+P T Z —k ind led ep il ep sy by up —regu lati ng th e express ions of kal i ri n-7 and PS D 一9 5 in the h ipp oc am pus ．
+ 
+K ey w or d s ：
+ 
+G in senos ide R b l ； 
+C ognitive i mpai rm ent ；
+ 
+K ali rin 一7 ；
+P ost syn ap ti c dens ity-9 5 
+种类繁多的抗癫痫药物虽应用于临床 ，但 只是 
+控制 症状 ，长期 应用 可导致 认 知功能 障碍 等副 作用 。 
+因此 ，寻求一种既无 明显 的副作 用又能有效改善认 
+知功能的药物便成为 当务之急。人参皂苷 Rbl 可 
+作用于中枢神经系统 ，能通过激活神经保护机制、调 
+控神经递质、改善学 习记 忆等 ，已广泛应用 于临床 
+中，如脑血管病 0] 、阿尔茨海默病 
+等 ，但在癫痫 
+方 面 的研 究甚 少 。 
+本实验采用戊 四氮 ( pentelenetrazol ，PTZ ) 致 痫 
+大 鼠模型研究不 同剂量 的人参皂苷 Rbl 对癫痫大 
+鼠认知功能及海马突触相关蛋 白 kalirin一7 和突触后 
+致密物 95 ( PSD．95) 的表达有无影响，以期为临床治 
+疗癫痫提供新思路和理论依据。 
+1
+材 料与 方法 
+1．1
+材料
+7 ～8 周龄清洁级健 康雄性 SD 大 
+鼠40 只 ，体重约 180 ± 20 克，由河北 医科大学 实验 
+动物 中心 提供 ，许 可证 号 为 ：SCX K ( 冀 ) ：2008—1— 
+003 ；12 h 光亮／黑暗条件、22 
+～25 cIC 环境温度 ， 
+分笼喂养。F FZ ( CAS：54 —95-5 ) 购 自美 国 Sigma 公 
+司 ；人 参 皂苷 R bl ( SF1743 ) ，纯 度 > 98％ ，购 自上海 
+士锋生物科技有 限公 司；兔抗 kalirin-7 多克隆抗体 
+收稿 日期 ：2014-02—12；修订 日期 ：2014-0 5．27 
+基金项 目：河北省 自然科学基金项 目( C2010000548) 
+作者单位 ：( 河北医科 大学第二医院神经 内科 ，河北 石家庄 050000) 
+通讯作者 ：王维平 ，E -mail ：WWP_ Z J L_456 @ 163．COIO 
+中风与神经疾病杂志
+2014 年 6 月
+第 31 卷
+第 6 期 
+( Y T1421，ImmunoWay ，USA ) ；兔 抗 PSD一95 多 克 隆 
+抗体 ( PR-0286 ) ，购 自北京 中杉金桥 生物技 术有 限 
+公司；羊抗 兔 IgG 荧光二抗 ( Rockland，USA ) ；BCA 
+蛋 白定量 试 剂 盒 购 自北 京 普 利 莱 公 司 ，Western blot 
+远红 外荧 光 扫描成 像 系统 ( Odyssey ) ；电镜 ( JE M一 
+1230 ，日本 ) 。 
+1．2
+动物分组及模型制备
+将大 鼠随机分为 
+4 组 ，每组各 1O 只 ：正 常对 照组 ( NC ) 、癫痫 模型组 
+( PTZ ) 、低剂量干预组 ( PTZ + L—Rb1) 和高剂量 干预 
+组( PTZ +H—Rb1) 。大 鼠每 日晨 8：O0 ～9：O0 腹腔注 
+射 PTz  35 mg／kg，连续 40 d，每次注射完毕后观察 
+1 h。人参皂苷 Rbl 干预组分别在每次注射 PTZ 前 
+30 min 经 腹 腔注 射 20 mg／kg Rbl 或 40 mg／kg R bl 
+进行低、高剂量干预 ；NC 组大 鼠经同样 方式给予 同 
+等剂量 、同等次数 的生理盐水。依据 Racine 分级标 
+准 
+将大 鼠行为分为 6 级。0 级 ：无反应 ；I 级 ：节 
+律性嘴和面部抽动 ；Ⅱ级 ：点头或甩尾 ；llI级 ：一侧前 
+肢阵发性痉挛 ；1V 级 ：站立时双前肢阵发性痉挛和强 
+直 ；V 级 ：跌倒和全面性强直阵挛发作。完全点燃的 
+标准是连续获得 3 次Ⅳ级或以上的惊厥发作。 
+1．3 
+Morris 水迷宫测定 大 鼠学 习记忆能力 
+实验第 41 天起行水迷 宫检测 ，本实验 包括 ：( 1) 定 
+位航行实验 ：历时 4 d，第 1 天大 鼠在水池 内自由游 
+泳 2 min，熟悉环境后每天上下午各测试一次 ，每次 
+每只大鼠从 4 个相同象限入水 ，记录逃避潜伏期 ，如 
+120 S 未找到平 台，将其引上平台休息 30 S，记 录潜 
+伏期为 120 S。( 2 ) 空间探索实验 ：用于测试大 鼠的 
+空间记忆能力 。定位航行实验完毕后 ，将平台撤除， 
+选平台相对象 限为人水 点 ，记 录大 鼠在 120 S 内穿 
+越平台区域的次数及在平台象限的游泳时间。 
+1．4 
+电镜观察大 鼠海马 CA 区突触的超微结 
+构
+水迷宫实验结束后 ，每组 3 只以 10％ 的水合氯 
+醛( 300 mg／kg) 腹 腔麻 醉 ，迅速 开胸 经左室快 速灌 
+注 37 
+生 理盐 水 100 ml ，再 用 1．5％ 戊二 醛 和 
+2．5％多 聚 甲醛混 合液 250 ml 缓 慢滴 注。断 头取 
+脑 ，分离大鼠海 马并取 出 CA 区 1 mm。放入 4％戊 
+二醛 固定 液 中固定 24 h ，1％ 四氧化 锇 和 0．O1％ 重 
+铬酸钾后 固定 2 h，酒精梯度脱水后置于 100％ 丙酮 
+中 30 min。将标 本浸 于 50％ 环氧树 脂 和 50％ 丙 酮 
+混合液 中室温 30 min，在 80 
+聚合的环氧树脂中封 
+闭过夜 ，将 70 nm 厚度切片用 乙酸双氧铀和柠檬酸 
+铅染色 ，最后通过透射电镜观察海马 CA 区的超微 
+结构。应用 图像 分析 软件 计算 突触 间 隙的宽 度、 
+PSD 的厚度、突触后活性带长度及突触界面曲率 ，界 
+面 曲率以突触界面弧长与弦长之比表示 。每组选取 
+10 张照片( 放大率为 40 ，000 × ) ，测定过程采用“ 双 
+盲法 ” 。 
+1．5 
+Western blot 法 检 测 大 鼠海 马 kalifi n-7 和 
+PSD一95 蛋 白的表达
+将各组剩余 的大 鼠快速分离 
+海 马 ，提取 总 蛋 白。BCA 法 进 行 蛋 白浓 度 定 量 ，取 
+50 
+g 蛋 白 98 c【二～100 ℃ 变性 5 min ，然后 以 120 g／ 
+L 非连续 的 Tris．SDS 聚丙烯酰凝胶垂直平板 电泳 ，
+ 
+转膜 ，在 0．0 1 mol／L PBS 配置 的 5％ 脱脂 奶 粉 中室 
+温封闭 1 h 后 ，分别与兔抗 kalirin-7 ( 1：1000 ) 和兔 
+抗 PSD-95 抗体 ( 1：600 ) 孵育 ，4 ℃过夜。TPBS 漂 
+洗 5 × 5 ra in，羊抗兔 IgC 荧光二抗 ( 1：2000 ，Rock- 
+land，USA ) 中室 温孵育 1 h，TPBS 漂洗 5 × 5 ra in，
+ 
+Odyssey 远红外荧光扫描成像 系统扫描并测定 目标 
+带单位密度与 B—aetin ( 1：500 ，Santa Cruz 公司) 单 
+位密度值相比后再行统计分析 ，实验重复 2 次。 
+1．6
+统计学处理
+实验数据应用 SPSS13．0 软 
+件进行统计学处理 ，以均数 ± 标准差( 
+± S) 表示 ，P 
+< 0．05 为有统计学差异。多个样本均数 问比较首 
+先选用方差齐性检验和正态性检验 ，若符合这两种 
+检验 ，则数据进行 One．W ay ANOV A 和 LSD 方差分 
+析 ；对于不符合这两种检验的数据则采用秩和检验。 
+2
+结
+果 
+2．1
+动物模型 的制备
+癫痫模型组大 鼠第 5 
+天起开始 出现凝视 、点头、反复洗脸 、头面部抽搐等 ， 
+以后症状逐 El加重 ，于给药第 19 —25 天出现全身肌 
+阵挛、双侧前肢抬起 ，最终发生全身强直．阵挛发作 ， 
+造模第 40 天时 9 只达到点燃标准，其 中 3 只死于 
+癫痫持续状态 ，1 只未达到点燃标准被剔除。PTZ + 
+L—Rbl 组中 1 只死 于癫痫持续状态。NC 组 中无癫 
+痫发作 ，且 NC 组和 
+z + H—Rbl 组 中均无 大 鼠死 
+亡 。 
+2．2
+行 为学 检测
+定位 航行 实验 ：记 录每 日上 
+下午的逃避潜伏期 ，取其平均值进行比较 ，第 1 天无 
+明显变化 ( F3 ，31 = 0．72 ，P = 0 ．15 ) ；而第 2 天 ( 
+， 
+31 = 12．47 ，P < 0 ．001) ；第 3 天 ( F3 ，31 = 25．69 ，P < 
+0．001) 和第 4 天( F3 ，31 = 14．37 ，P < 0．001) 呈进行 
+性缩短 ，各组问有统计学差异( 见表 1) 。空 间探索 
+试验 ：各组问均有统计学差异( F3 ，31 = 43．46 ，P < 
+0．001) ，与 NC 组相 比，PTZ 组大鼠 120 S 内穿越平台 
+区域的次数减少了 54．5％ ( P < 0．05) 。与 
+组比 
+较 ， 
++ L．Rbl 组的穿台次数增加 了43．2％，PTZ + 
+H．Rbl 组 增 加 了 84．0％ ，均 有 显 著 性 差 异 ( P < 
+0．05) 。对于在平 台象限的游泳时间而言 ，PTZ 组的 
+时间(29．9 ± 3．7s) 虽然少于其它组别 ，但各组间差异 
+无统计学意义( 乃 ，31 = 17．43 ，P = 0．08 ) ( 见表 1) 。 
+2．3
+人参皂苷 Rbl 对大鼠海马 CA 区超微结 
+构 的影 响 
+与 NC 组 相 比 ，PTZ 组 的 突 触 间 隙增 加 
+了 36．7％ ( F3 ，35 = 55．75 ，P < 0．00 1) ，PSD 的厚 度 
+降低了 25．1％ ( F3 ，35 = 15．34 ，P < 0．001) ，突触后 
+活性 带 长度 缩短 了 27．8％ ( F3 ，35 = 21．39 ，P < 
+0．001) 。与 PTZ 组 比较 ，人参皂苷 Rbl 组干预后不 
+同程度地逆转 了上述异常的变化( P < 0．05 ) 。而对 
+于突触界面曲率的变化 ，各组 间的差异 则无 明显的 
+统计学差异 ( 
+，35 = 15．34 ，P = 0．08) ( 见表 2) 。 
+2．4
+人参 皂 苷 Rbl 对 大 鼠海马 CA．区 kalirin一 
+7 和 PSD一95 表 达 的影 响 
+Western blot 结 果 显 示 ， 
+kalirin-7 和 PSD一95 表 达 均 有 统 计 学 差 异 ( 分 别 为 
+F 3 ，19
+= 4 9 1．64 ，P
+< 0 ．00 1 ；F 3 ，19
+= 152 ．33 ，P
+< 
+0．00 1) 。与 NC 组 相 比 ，PTZ 组 中大 鼠海 马 kalirin一7 
+的表达减少了 62．8％ ，PSD-95 表达减 少了 51．0％ 
+( P <0 ．05 ) 。与 PrrZ 组相 比，人参皂苷 Rbl 剂量依 
+赖性 地 上 调 了 kalirin-7 和 PSD一95 的表 达 ( P < 
+0．05 ) 。PTz + H．Rbl 组 中 kalirin-7 的表达 虽低 于 
+NC 组 ，PSD一95 的表达稍高于 NC 组 ，但与 NC 组相 
+比均无统计学意义 ( P = 0 ．1 1，P = 0．06 ) 。与 NC 组 
+比较 ：
+l：P < 0．05 ；与 V I'Z 组 比较 #P < 0 ．05 ；与 PTZ + 
+L —Rbl 组 比较 △ P < 0．05 。 
+表 1 
+水迷 宫实验逃避潜伏期及 穿越平 台象限次数 、游泳时间的比较( 
+± s) 
+与 NC 组比较 
+P < 0．05 ；与 PTZ 组比较样P < 0．05 ；与 Prz + L-Rbl 组比较 △ P < 0．05 
+表 2
+各 组间大 鼠海 马 CA。区突触超微结构的比较( n = 3 ，
+ 
+± s) 
+与 NC 组 比较 
+P < 0．05；与 
+z 组比较#P < 0．05；与 阿z + L—Rb! 组比较 △ P < 0．05 
+3
+讨
+论 
+PTZ 点燃致痫模型是 目前研究癫痫后认知功能 
+障碍的理想模 型_5 J ，所致 的大鼠海马 CA 区神经元 
+丢失及相关的病理改变与人类癫痫极其相似 。本实 
+验结果表明癫痫组大鼠学 习记忆能力较正常对 照组 
+明显下降 ，提示慢性癫痫发作对大鼠认知功能有明 
+显 的损害作用，而人参皂苷 Rbl 能够剂量依赖性地 
+改善癫痫所致 的认知功能下降。 
+海马长时程增 强 ( 
+P ) 是学 习记忆 的基 础 ，其 
+形成需要有扩增 的树突棘、增加的突触前膜递质释 
+放及后膜受体的有效性等共同作用来维持。突触既 
+是神经元之间在功能上发生联系又是信息传递的关 
+键部位 ，大量 研究 已证 实，在慢性癫痫发作过程 中 ，
+ 
+大鼠海马 区的突触结构及 功能均发 生 了明显 的改 
+变 ～引。 
+kalirin 是脑 内新 发现 的一种 多 功 能 R ho 鸟 苷 酸 
+交换因子 ，它是维持神经元树突分支 、树 突棘数量 、 
+突触结构与功 能所必需的因子，对树 突棘 的形成是 
+必需 的，在 神经 元 的胞 体 和 轴 突 中 高表 达 
+。 
+kalirin．7 是成年大 鼠脑内最普遍 的 kalirin 同源物，在 
+维持神经元正常的生理过程和突触可塑性及学习、 
+记忆等行为方面起着至关重要 的作用 12} 。kalirin一7 
+包含的 PDZ ( PSD．95／Dlg／ZO1) 结合基序 ，使这个亚 
+型能够定位在突触后密度 片段上 
+J ，在海马神经 
+元中过度表达时能激发神经元突起再生，而 kalirin-7 
+基因敲除或内源性的减少可导致海马 CA 。区锥形神 
+经元从顶树突到基树突 的树突棘进行性减少 ，甚至 
+丢失 15,16] 。本实验结果显示 ，癫痫组大 鼠在行为学 
+检测中认知功 能下 降的同时，海马 内 kal irin．7 表达 
+也减少 ，与对照组相 比差异显著 ；而人参皂苷 Rbl 可 
+中风与神经疾病杂志
+2014 年 6 月
+第 3l 卷
+第 6 期 
+有效地上调 kalirin．7 的表达 ，表 明慢性 癫痫发作可 
+通过减少海 马内 kalirin一7 的表达使神经元树突棘数 
+量减少 ，进而改变突触可塑性 ，这可能是癫痫后所致 
+认知功能障碍 的病理机制之一。 
+PSD一95 是位于突触活性 区突触后膜下方与胞浆 
+相连 的一种膜相关蛋 白，与神经终末突触囊 泡膜上 
+的突触 素及 突触后 的 kalirin-7 蛋 白的表 达密 切相 
+关 ，参与神经递质 的调节 ，串集 N．甲基．D．门冬氨酸 
+( NMDA ) 受体_l 
+，此受 体是诱发 LTP 的必要 条件 ， 
+在信号转导中起着关键作用。。
+ 
+，该蛋 白表达的减少 
+最终在行为学 上可表现为学 习记 忆障碍 
+。本 
+研 究 结 果 发 现 ，癫 痫 组 大 鼠的 空 间 学 习记 忆 能 力 下 
+降，海马 CA 区突触 的密度减低 ，数量减少 ，PSD一95 
+蛋 白表达也明显减少 ，表 明 PTz 诱导 的癫痫可使大 
+鼠海马 区突触结构明显受损 ，影响突触点对点 的信 
+息传递 ，干扰 LTP 的形成 ，最终导致认知功能障碍。 
+通过应用不 同剂量的人参皂苷 Rbl 对 PTZ 致痫大鼠 
+的行 为 学 、形 态 学 及 分 子 生 物 学 多 方 面进 行 对 比研 
+究 ，发现人参皂苷 Rbl 干预组能有效地提高癫痫大 
+鼠的学 习记忆能力 ，增加突触超微结构 的密度 和数 
+量 ，同时可上调 kalirin．7 和 PSD．95 蛋 白的表 达 ，提 
+示这种保护机制可能与增强大 鼠海马的突触可塑性 
+密切相关。 
+总之 ，本研究结果表明，慢性癫痫发作导致 的认 
+知功能下降可能的病理机制是通过减少大 鼠海马内 
+kalirin-7 和 PSD-95 突触相关 蛋 白的表达 ，进 而影 响 
+其突触可塑性 。而人参皂苷 Rbl 可能为今后临床上 
+防治癫痫所致 的认知功能障碍提供新 的靶点和应用 
+依据 。然而 ，由于癫痫 的发病机制较为复杂 ，人参皂 
+苷 Rbl 是否还具有其它相关 的保护机制 尚需进一步 
+研究 。 
+[ 参考文献] 
+[ 1] Zhang B ，Hata R ，Zhu P，et a1．Prevention of ischemic neuronal death 
+by intravenous infusion of a ginseng saponin，ginsenoside Rb( 1) ，that 
+upregulates Bcl—x ( L ) expression[J ] ．J Cerebral Blood Flow and Me- 
+tabol ism，2006 ，26 ( 5 ) ：708 —72 1．
+ 
+[2 ]Z hang B ，Matsuda S ，Tanaka J ，et a1 ．Ginsenoside Rb( 1) prevents i m— 
+age navi gat ion disab ility ，cort ica l infa rct ion ，and tha lam ic deg enera— 
+tion in rats with focal cerebral ischemia[ J ] ．J Stroke and Cerebrovas— 
+cular Diseases，1998 ，7 ( 1) ：1 —9．
+ 
+[3 ] Wang Y ，Liu J ，Zhang Z ，et a1．Anti·neuro infl ammation effect of gin- 
+senoside Rbl in a rat model of Alzheimer disease[ J ] ．Neurosci Lett， 
+20 11，487 ( 1) ：70 —72．
+ 
+[ 4] Racine RJ ．Modifi cation of seizure activity by electri cal stimulation II 
+Motor seizure[ J ] ．Electmencephalography and clinical neurophysiolo— 
+gY ．t972 ，32 ( 3) ：281 —294 ．
+ 
+5 3 9  
+[5] Mortazavi F ，Ericson M，Story D，et a1．Spatial learning defi cits and e- 
+motional impairments in pentylenetetrazole·kindled rats [ J ] ．Epilepsy 
+Behav，2005 ，7 ( 4 ) ：629 —638．
+ 
+[6] Jackson J ，Chugh D ，Nilsson P ，et a1 ．Altered synaptie properties dur． 
+ing i nt egrat ion of  adult- born hippoea mpal  neurons foll ow ing a seizure 
+insult[ J ] ．PLoS One，2012 ，7(4 ) ：e35557．
+ 
+[7] Yokoi N，Fukata M，Fukata Y．Synaptic plasticity regulated by protein— 
+protein i nteractions and posttransl ational  modifi cations [ J ] ．Int Rev 
+C ell M ol Bio1．20 12 ，297 ：1 —43 ．
+ 
+[ 8] Y udowski GA ，Ol sen O，Adesnik H ，et a1 ．Acute inactivation of PSD． 
+95 destabilizes A MPA receptors at hippocampal synapses [ J ] ．PLoS 
+One ，2013 ，8 ( 1) ：e53965 ．
+ 
+[ 9] Nicholson DA ，Cab ill ME ，Tulisiak CT ，et a1．Spatially restri cted actin- 
+regulatory  signaling contributes to synapse morphology [ J ] ．J Neuro — 
+chem，2012 ，12 1( 6 ) ：852 —860．
+ 
+[ 1O] Lemtiri—Chl ieh F ，Zhao L ，Kiral y DD，et a1 ．Kal irin-7 is necessary" for 
+normal NMDA receptor—dependent synaptic plasticity [ J ] ．BMC Neu- 
+ro se i ，20 1 1 ，12 ：12 6 ．
+ 
+[ 1 1] Ma XM．Kalirin一7 i s a key player i n the formation of excitatory  synap— 
+ses in hippoeampal neurons [ J ] ．Scientific World Journal ，2010，10 ：
+ 
+16 5 5 — 16 66 ．
+ 
+[ 12] Penzes P ，Jones KA ．Dendri tic spine dynami cs—a key role for kal irin-7 
+[J ] ．Trends Neuro sci ，2008，31( 8) ：419 —427．
+ 
+[ 13] McPherson CE ，E ipper BA ，Mains RE ．Genomic organization and dif- 
+ferential  expression of Kalirin isoforms[ J ] ．Gene，2002 ，284 ( 1) ：41 
+—
+5 1 ．
+ 
+[ 14 ] Kiraly DD ，Stone KL ，Colangelo CM ，et a1 ．Identifi cation of kalirin-7 
+as a potential post-synaptic density signaling hub [ J ] ．J Proteome 
+Res ，20 11 ，10 (6 ) ：2828 —2841．
+ 
+[ 15] Penzes P ，Johnson RC ，Sattler R ，et a1．The neuronal  Rho-GEF Kal ir— 
+in-7  i nt eracts w ith P D Z  doma in-c onta ining prote ins a nd re gulat es 
+dendritic morp hogenesis[J ] ．Neuron，2001，29 ( 1) ：229 —242．
+ 
+[ 16] Penzes P，Johnson RC ，Kambampati V ，et a1．Distinct roles fo r the two 
+R ho G D P／G T P e xc hange f actor dom ains of  k al irin in re gu lation of  
+neurite gr owth and neuronal morp hology
+[ J ] ．J Neuro seienee ，2001，
+ 
+21 ( 2 1) ：84 26 —8434．
+ 
+[ 17] Akama KT ，Thompson L I，Milner T A ，et a1 ．Post-synaptic density-95 
+( PSD -95 )
+binding capacity of G—protein-coupled receptor 30 
+( GPR30 ) ，an estrogen receptor that can be identifi ed in hippocampal 
+dendri tic spines[ J ] ．J Biol Chem，2013 ，288(9) ：6438 —6450．
+ 
+[ 18] Chao Hw ，Tsai L Y ，Lu YL ，et a1 ．Deletion of CPEB3 Enhances Hip- 
+pocam pus —D e pendent M e mory v ia I nc re asing E xpressions of  PS D 9 5 
+and NMDA Receptors[ J ] ．J Neuro science ，2013 ，33 (43 ) ：17008 — 
+17 0 22 ．
+ 
+[ 19] Head E ，Co~ada MM，Kahte·Wrobleski K ，et a1 ．Synapti c proteins，
+ 
+neuropathology  and cogniti ve status in the oldest—old[ J ] ．Ncurobiol 
+A ging ，2009，30( 7) ：1125 —1134．
+ 
+[2O] Zamzow DR ，Elias V ，Shumaker M，et a1．A n increase in the associa— 
+ti on of G l uN2 B conta ining NM D A  rec eptors with membrane se affo l - 
+ding proteins was related to memory  declines duri ng aging[ J ] ．J Neu- 
+ro science ，20 13 ，33 (30 ) ：12300 —12005 ．
+ 

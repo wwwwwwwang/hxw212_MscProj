@@ -1,0 +1,463 @@
+CH INESE jo u R NA L  OF  A NA T OM Y V o1．39 No．2 2016 
+解剖学杂志
+2016年第 39 卷第 2 期 
+人参 皂 苷 R gl 调 控 癫痫 大 鼠海 马 Bcl一2 和 Bax 的表 达 
+边立功 
+尚群竺 
+艾青龙 
+郭家智 。 
+许金 美 
+董书勤 
+陆 
+地 。口 
+钟莲梅。△ 
+( 昆 明医科大学 ，1 基础 医学 院人体解 剖学 与组织学与胚胎学系 ，2 第一附属医院神经 内科 ，
+ 
+3 生 物医学工程研 究 中心 ，4 2013 级临床 医学 ，昆明
+650500) 
+摘要 
+目的：本 研究 通过建立氯化锂一匹罗卡 品诱导 大鼠癫 痫模型 ，用人参 皂苷 Rgl ( Rg1) 进行干 预 ，检测 癫痫 大 鼠海 马中 
+的 Bax、Bcl一2 的表达及 Rgl 对其 的调控作用 ，初步探讨 R gl 对癫痫可 能的神经保 护机制 。方 法：健康成 年雄性 SD 大 鼠随 
+机分为 5 组 ，即空白对 照组 ，模型组 ，低 、中、高剂量 Rgl 治疗组 ，每组 2O只 ，观察行 为学变化 ，并于点燃后 72 h 取脑 ，分别 通 
+过免疫荧光显色 、免疫印迹和 RT - PCR 检测 Bax 和 Bcl-2 的蛋 白和 RNA 表达情况 。结果 ：空 白组未 出现癫痫发作及 死亡 ， 
+不同剂量 的 R gl 预处理组与模型组相 比，大发作 潜伏期时间延长 。匹罗卡 品诱导大 鼠癫痫发作后 ，海 马神经元 的胞质 内凋 
+亡因子 Bax 免疫阳性反应 增 强 ，蛋 白产物 表 达增 多 ，抗 凋 亡 因子 Bcl-2 表达 减 少 。Rgl 预处 理组 促 凋亡 因子 Bax 及其 
+mRNA 表达减少 ，抗凋亡因子 Bcl-2 及 其 mR NA 表达增 加 。结 论 ：癫 痫发 作后 可引起 凋亡 因子 的表 达 变化 ，而人 参皂 苷 
+Rgl 可以通过下调促凋亡 因子 Bax 的表达 ，上调抗凋亡 因子 Bcl一2 的表达 ，从 而发挥抗癫痫的神经保护作用 。 
+关键词
+人参皂苷 Rgl ；癫痫 ；海马 ；凋亡 ；Bcl一2；Bax 
+G insenoside R gl  r egul ates ex p ressi on of B cl一2 and B a x in the h ipp oc am p us of epi lepti c ra ts 
+B ian L igong ，Shang Q unzhu 
+，A i Q inglong。，Guo J iazhi 
+，X u J inmei ，Dong Shuqin4，L u Di ' 
+，Zhong L ianmei △ 
+1．D epartment of  A natomy ，H istology and  E mbryology ，2 ．F irst A l f iliated H osp ital ，Department of  N eurology ，
+ 
+3．Biomed ical E ngineering R esearch Center ，4．C linica l Med icine of  201 3 ， 
+K unmi ng  M ed i ca l U ni ver si ty ，K unmi ng  
+650 50 0 ，C hi na ) 
+Abstract 
+Obj ective：T o explore the prot ectiv e mechanism of ginsenoside R gl on epilepsy and detect the Bax and Bcl一2 
+expression in rat s induced by intraperitoneal inject ion of pilocarpine combined w ith lit hium chloride and treated wit h R g1．
+ 
+M eth od s：A d u lt mal e SD  r ats w er e r and oml y div id ed  in to five g ro up s ：co nt rol gro u p ， mo del gro up  an d d iffer ent d oses o f 
+ginsenoside R gl (R g1) pretreatment group．T he st atus of seizure after intraperitonea1 injection w ith pilocarpine was observ ed，
+ 
+and  th en  th e h ead s o f the r ats w ere c u t to tak e their  b r ai ns 7 2 h ou r s af ter  s eiz ur e．E x pr ess io n o f B c l-2 an d B ax p rotein  w as 
+detected w ith  W est er n b lot ting an d immun ofl uo rescen ce meth od． T he mR N A  level s of B ax a nd Bcl一2 w ere d etected by R T - 
+P CR ．R esu lts ：S eiz u re an d death  did n ’t app ear in  th e con tro l gr ou p．C om par ed wit h th e mo del g rou p ，laten t per iod of seizu r e 
+in cr eased obv iou sly a ft er tr eatmen t wi th d iffer en t do se s of R g 1．W est er n b lo ttin g sh owed th at t he exp ression o f B cl一2 p rot ein 
+an d th e B c l一2 m R N A  leve ls in  R g l g ro u p w ere h igh er th an that in  the m od el gro u p ，an d th e ex pr es sio n of B ax p rot ein and  th e 
+B ax mR N A  l evels in  R g l  g rou p we re low er th an th at in th e mo del g ro up ．Bcl-2 p ositiv e cel ls in  th e h ip pocamp us in th e mod el 
+g ro up in creased th an th at i n R g l  gr ou p ，w h ile Ba x po sit ive cel ls o f in R g l  gr ou p decreased．Con cl usi on ：S eiz ur e can cau se the 
+activ ation  of apo p to sis factor s． R g l  may p l ay a p ro tecti ve ro le o n ner vou s system th rou g h d ow n-r eg u lati ng th e ex pr ession of 
+B ax an d up -reg ul atin g th e exp res s ion  of B c l-2 ．
+ 
+K ey w or ds 
+g in sen os id e R g l ；ep ilep sy ；h ip po cam p u s ；apo pto sis ；B c l一2 ；B ax  
+癫痫是一组 由不同病 因所 引起的反复发作 的慢性 
+doi ：10．396 9／j ．issn．100 1—1633．2016．02．010 
+国家 自然科学 基金( 81460210，81460350，81260297，81360200) ；云南省 
+科技 厅 一昆 明 医 科 大 学 应 用 基 础 研 究 联 合 专 项 ( 2013F B120，
+ 
+2O 1 4 F BO0 4 ) 
+第 1作者 E-mail ：bianligong@ 163．corn  
+# 共同第 1 作者 E-mail ：shaquzh@ sina．tom 
+△ 通讯作者 ，E -mail ：13888967787@ 163．corn  
+口共同通讯作者 ，E-mail：ludi20040609@ 126．com 
+收稿 日期 ：2015—06—29；修 回 日期 ：2015-12—24 
+神经系统疾病 ，主要表现为脑部神经元 高度 同步化异 
+常放 电，发 病率 为 5‰～ 7‰，全球 约有 9 000 万 的患 
+者l_1 ] 。 目前主要治疗手段仍 以药物为主 ，大部分抗癫 
+痫药物有一定的副作用 ，如认知功能障碍 ，精神改变以 
+及癫痫 的复发[34] 。且 I ／3 的患者对 药物治疗并不敏 
+感 ，进而发展成为难治性癫痫 ，严重影响了患者的生活 
+质量 ，增加 了家庭及社会的负担 。研究表明 ，姜黄素和 
+白藜芦醇可以减少癫痫大 鼠 CA 1 及 CA 3 区的神经元 
+凋亡_5] ，人参皂苷 Rgl ( ginsenoside Rgl ，R g1) 是从三 
+七中提取出的主要药理成分之一l_6] ，具有抗血小板 、抗 
+一
+1 7 3
+—  
+炎、抗氧化、抗 动脉粥样硬化等功能 ，对 中枢神经 系统 
+可能是直接作 用于血 脑屏 障上 的靶点 
+发挥保 护作 
+用 ，本实验拟通过构建癫痫大鼠模型 ，初步探讨 R gl 调 
+控凋亡因子而起到的脑保护作用。 
+1
+材 料和 方法 
+1．1
+实验 材料 
+氯化 锂 ( Sigma，USA ) ；匹 罗 卡 品 ( P ilocarpine，
+ 
+Sigma，USA ) ；Rgl ( 昆 明制 药厂) ；地 西泮注射 液 ( 安 
+定 ，上海旭东海普药业有限公司) ；BCA 蛋 白含量测定 
+试剂盒( T hermo Scientific) ；Bax 小 鼠单克隆抗体 、Bcl一 
+2 小 鼠单 克 隆抗 体、H RP 标 记 的 山 羊 抗 小 鼠二 抗 
+( Santa Cruz ，U SA ) ；兔抗 N euN ( 英 国 A bcam 公司) ； 
+Cy3 标记 的山羊抗 小 鼠 IgG 、FIT C 标 记 的 山羊 抗 兔 
+IgG 、D A PI (美 国 Sigma 公 司) ；R NA simpl e T otal R NA  
+kit (天根) ；垂直 电泳 系统 ( Bio—R ad，U SA ) ；冷冻 切片 
+机 (L eica CM1950 ，GE R ) ；匀浆机 ( 宁波新芝生物科技 
+股份 有 限公 司 D Y 89—1 型 ) 。 
+1．2
+实验动 物 
+SPF 级健 康成年 雄性 SD (Sprague-Dawley )大 鼠 100 
+只，体质量为(285-4-_ 15) g ，由昆明医科大学实验动物中心 
+提供，分笼饲养于室温 22 ℃± 2 ℃ ，自由摄食和饮水，各 
+组间暴露因素无差异。对动物 的处置符合 2006 年科技 
+部《关于善待实验动物的指导性意见》的规定。 
+1．3
+动 物分 组及 癫痫模 型 制备 
+大鼠随机分为 5 组 ，分别为空 白对照组 ，模 型组 ， 
+50 mg／kg R gl (低剂量) 治疗组 ，100 mg／kg R gl ( 中剂 
+量) 治疗组 ，200 mg／kg Rgl ( 高剂量 ) 治疗 组 ，每 组 2O 
+只。R gl 预治疗组于造模前 6 h 分别对大 鼠使 用不同 
+浓度的 Rgl 腹腔注射进行预处理。空 白组和模 型组给 
+予相同剂量 的生理盐水 ，模型组及各 Rgl 治疗组 同时 
+注射氯化锂 ( 127 mg／kg ，i．P．) 。18 h 后给予硫 酸阿托 
+品( 1 mg／kg，i．P．) 减轻 匹罗 卡品的胆碱 能外周反应 ， 
+再过 30 min 注射匹罗卡 品( 30 mg／kg，i．P．) 。对 照组 
+则给予等剂量的生理盐水 。 
+1- 4
+行 为学观察及评分 
+行为学变化按 目前 国际较公认 的 Racine 分 级标 
+准[。]分级：0 级为无任何反应 ；工级为凝视 ，面肌抽搐 ； 
+Ⅱ级为湿狗样点头动作；llI 级为双侧前肢阵挛 ，或一侧 
+前肢／后肢频繁性抽搐 ；IV 级为 双侧前肢 阵挛 ，后肢站 
+立 ；V 级为四肢抽搐站立并跌倒、旋转。大 鼠达到 Ⅲ级 
+及以上发作可认 为是癫痫发作 。对照组无痫 性发作 ， 
+模型组和 Rgl 组于 观察达 Ⅲ级 以上发作 90 min 后给 
+予地西泮 ( 10 mg／kg) 终止发作 ，后期 给予精心护理 以 
+减少大 鼠死亡率 。 
+1．5
+免 疫印迹 检 测凋 亡 因子 
+各组随机取 1O 只大 鼠，于癫痫发作后 72 h，给予 
+3．6 
+水合氯醛麻醉后 ，灌 注取脑 ，迅速分离大 鼠大脑 
+一
+1 7 4
+一  
+海马 ，加入预冷 R IPA ／P MSF 裂解液提取总蛋 白，在冰 
+浴下制成脑组织匀浆 ，低温离心取上清分装 ，BCA 蛋 白 
+定量试剂盒进行蛋 白定量 。置于一80 ℃保存 。SDS 一聚 
+丙烯酰胺凝胶 电泳 ，半干转印至 PV DF 膜 ，在 T BST 配 
+制的 5 
+脱脂 牛奶 中室温封 闭 2 h，加 入一抗 Bax 或 
+Bcl一2(1 ：800) ，4 ℃孵育过夜 ；T BST 溶液漂洗后加入 
+标有辣根酶过氧化物酶 的 IgG 二抗( 1 ：3 oo0) ，室温摇 
+床摇动 90 min，T BST 漂洗 ，免疫 印迹化 学发 光试剂 
+(E CL ，Millipore) 反 应 5 min，胶 片显影 ，成像 ，扫描 。 
+应用 Image J 图像 灰度分 析系统 对条带 进行 光密 度 
+( optical density ，OD) 分 析 。 
+1．6 
+Bax 、Bcl一2 的免 疫 荧光 染 色检 测 
+各组余下大鼠经生理盐水快速灌流 200 ml 后 ，给 
+予 4 
+多聚甲醛缓冲液( PF A ) ，取全脑置于 4 
+P FA 中 
+后固定 ，3O 9／6蔗糖溶液 中脱水直至沉底 。用冷 冻切 片 
+机 ( L eica，CM 1950)切 冠状 位片 ，片厚 15 
+m ，随机 选取 
+每组各一 张切片 ，PBST 漂洗 ，l O 9／6的山羊血清室温封 
+闭 2 h。与一 抗 小 鼠抗 Bcl-2／兔 抗 NeuN 或 小 鼠抗 
+Bax／兔抗 NeuN ，1 ：100 ，孵育 2 h，PBST 漂洗( 以下步 
+骤避光 ) ，加免疫荧光二抗 Cy3 标记的山羊抗小 鼠IgG／ 
+FIT C 标记的山羊抗兔 IgG ，1 ：200 ，孵育 2 h，PBST 漂 
+洗 ，DA PI 反应 5 min，P BST 漂洗 ，封片液封片 。对照 
+切片用 PBS 代替一抗 ，其余步骤相 同。尼康正置荧光 
+显微镜观察 ，同一条件拍片 。重复 3 次。 
+1．7 
+B ax 、B cl-2 mR N A 的 P C R 检 测 
+试剂盒提取海马总 RNA ，逆转录合成 cDNA ，按以 
+下体系分别加入 4 l 的 5× Reaction buffer( 含 DT T ) ， 
+1 ul 的 R nase Inhibitor，2 u1 的 10 mmol／L NT P M ix 
+和 1 
+l 的 M —ML V  R ev erse T ranscriptase( 200 U ) ，轻 
+轻混匀后离心甩壁。42 ℃温浴 60 min，反应结束后置 
+于冰上进行后续 PCR 实验。Bcl一2 引物序列 ( 240 bp) ：
+ 
+5'- C T C G T C  G C T  A C C  GT C  G T G A C T  T C G- 3 ( 上  
+游 ) ，5'-CA G A T G  CCC GT T  CA G G T A CT C A G T C- 
+3 ( 下 游 ) 。Bax 引 物 序 列 ( 360 bp ) ：5，_A A G CT G  
+A GC G AG  T G T  CT C CG G C(、
+r 3 ( 上 游 ) ，5f_G CC 
+A C A  A A G A T G  GT C A CT  GT C T G C C-3 ( 下 游 ) 。 
+内参引物序列 (98 bp) ：5'-CCA  T T C T T C CA C CT T  
+T G A  T G C T 一3 ( 上游 ) ，5 T G T  T G C T G T A G C C A T  
+A T T  CA T  T GT 一3 (下游 ) 。PCR 反应条件设置如下 ：
+ 
+94 ℃预变 性 4 ra in ，94 ℃变 性 40 S、退 火 ( Bcl一2 ：58 ℃ ， 
+40 8；Bax ：60 ℃ ，40 s) 、72 ℃延伸 l min，32 个循环 。 
+琼脂糖 电泳结果采用凝胶 扫描分析仪扫描凝胶 ，应用 
+Image J 图像灰度分析系统分析 Bcl一2、Bax 与 GA PDH 
+条带灰度值 ，与 GA PDH 的 比值 ( 即相 对 系数 ) 表 示 
+Bcl一2 和 Bax mR NA 水平的相对表达量。 
+1．8
+统计学处理 
+所有数据采用 SPSS 17．0 软件进行统 计学分析 ， 
+分类 资 料 采用 
+。检验 ，计 量 资料 数 据 经 正 态 检 验 
+( normal test distribution) 均为正态分布 (P > O．05) ，用 
+互± s 表示 ；经方 差 齐性 检验 ( H omogeneity of V ariance 
+T est)方差均齐 (P > O．05) ，组 间比较采用单 因素方差 
+分析( one-way A NOV A ) ，两两 比较采用 Bonf eroni t 
+检验 ，P < 0．05 为有统计学意义。 
+2
+结果 
+2．1
+大鼠行为学观察 
+注射匹罗卡品后大 鼠于 2～5 min 开始出现竖毛 ， 
+流泪，结 膜 充 血 ，流 涎 等 外 周 胆碱 能 兴 奋 表 现，5 ～ 
+10 min后有 工～ Ⅱ级发作 。与模型组相 比，各 R gl 治 
+疗组潜 伏 期 明显 延 长 ，差 异具 有 统 计 学 意 义 ( P <  
+0．05) ；发作率有所下降 ；低 、中剂量治疗组死亡率较模 
+型组 明显降低 (P < O．05) ，正常对照组未 出现痫性发作 
+及死亡 。各组发作及死亡情况见表 1。 
+表 1 
+Rg1 对癫痫大鼠潜伏期 、发作率和死亡率的影响(n= 20 ，
+ 
+士 ) 
+T ab 1 
+E f fe ct s of  R g l  on t he la te nt period ，incide nce a nd morta l ity  
+in epilepic rats ( n = 20 ， 
+士 ) 
+P < 0．05 "US m od el group 
+2．2 
+Bax 、Bcl一2 蛋白的表达 
+癫痫模 型点燃 72 h 后 ，模型组 Bcl一2 的表达 明显低 
+于空 白对照组( P < 0．05) ，Bax 的表达显著高于空白对 
+照组( P < 0．05) ；各 Rgl 治疗组上调 Bcl一2 的表 达，下 
+调 Bax 的表达 ( 图 1) 。 
+Bax(23 kD) 
+Bcl-2(26 kD) 
+一actin(43 kD) 
+④ 
+⑧ 
+图 1
+海马组织 中 Bax 、Bcl-2 的蛋 白表达 
+F i g 1 
+E x pression of B a x  a nd B cl-2 in t he hippocam p us 
+A ：W est ern blot ting ；B ：R elat iv e d ensi ty ． 1 ：C on tr o1 grou p； 
+2 ：M odel group；3 ：50 mg／kg R gl  treatment group；4 ：100 mg ／kg 
+R gl  treatment g roup；5：200 mg／kg R gl treatment group ；
+ 
+# P < O．05 7)5 con trol group ；△ P < O．0 5 VS model grou p 
+2．3 
+B cl-2、B ax 免 疫 荧光 显 色 
+免 疫荧 光 显 色显 示 ，蓝 色 为 DA P I 标 记 的 细胞 核 ， 
+绿色为 NeuN 标 记 的神 经元 ，红色荧 光为 凋亡 蛋 白。 
+模型组海马神经元 中，Bcl一2 蛋 白表达降低 ，Bax 增高 ，
+ 
+而天麻素治疗组上调癫痫模型抗凋亡蛋 白 Bcl一2 的表 
+达 ( 图 2) ，下调 促凋 亡蛋 白 Bax 的表达 ( 图 3) ( P <  
+0．05) ，以 100 mg／kg 最为显著( 图 2C 和图 3C) 。 
+2．4 
+Bax、Bcl-2 mRNA 的表达 
+P CR 结果显示 ，模型组 ( 1．073± 0．053) 大 鼠 Bax 
+的 mRNA 表达量 与空 白对照组 ( 0．285± 0．063) 相 比 
+明显增加 ，经不 同剂 量 的 R gl 治疗干预后 ，低剂量 组 
+( 0．957± 0．087) 与模型组 比较 ，差异无统计学意义 ，中 
+剂量及 高 剂 量组 均 出现 明显 下 降 ( 分别 为 0．751 -2-_  
+0．156，0．779 ± 0．138，P < 0．05) 。模 型 组 ( 0．263 ±  
+0．074) 大 鼠 Bcl一2 的 mRN A 表 达 量 与 空 白对 照 组 
+( 1．4004- 0．206) 相 比显著下降(P < O．05) ，不 同剂量 的 
+Rgl 治疗 组 与模 型组相 比均 出现 明显升 高 ( 分别 为 
+0．7 11 ±
+0．107 ，1．189 ±
+0 ．137 ，0．980 ±
+0 ：232 ，P <  
+0．05) ( 图 4) 。 
+Bax (360 bp) 
+Bcl一2(240 bp) 
+GA P DH (98 bp) 
+3．O 
+2．5 
+丕2．
+ 
+g 
+1．
+ 
+岛 
+蠹 1．
+ 
+号 
+O  0．
+ 
+【工_ 
+2 
+3 
+4 
+④ 
+⑤ 
+图 4
+各组海 马组织 中 Bax 、Bcl-2 的 mRNA 表达情况 
+F ig  4  
+E x pre ssion of  B ax  m R N A  an
+d B c l-2  m R N A  
+in the hippoca mpus in R T - PC R  
+A ：R T - P C R ；B ：Fo ld c hang e．1 ：C ontrol group ；
+ 
+2 ：Model g roup；3 ：50 mg／kg Rgl  treatment group；4：i 00 mg／kg 
+R gl  treatment group；5：200 mg／kg Rg l treatment group．
+ 
+# P < O．05 VS co nt ro1 group ；△ P < O．05 w  m odel group 
+3
+讨 论 
+匹罗卡品癫痫模型是 目前 国际上 比较公认 的一种 
+造模方法 ，与人类慢性癫痫发作较为相似，通过注射匹 
+罗卡品引起癫痫 ，进而引发一系列促癫痫事件 的发生 ， 
+最终引起 自发性癫痫发作 ，造成慢性癫痫模 型[g] 。慢 
+性癫痫形成的重要机制之一是胶质细胞的增生及神经 
+元 的丢失 ，有研究表 明，在癫痫 大鼠海马神经元 中有线 
+粒体凋亡蛋白的聚集 ，启动线粒体凋亡通路 ，释放凋亡 
+一
+] 7 5
+—  
+蛋 白相互合作 ，通过对细胞线粒体刺激信号进行整合 ，
+ 
+调控 Caspase 而决定 细胞 的存活[15-16] 。其 中 Bcl一2 具 
+有抑制细胞 凋亡的作用 ，Bax 具有促 进细胞凋亡 的作 
+用，Bax 与 Bcl一2 可各 自构成 同源二聚体 ，也 可以相互 
+结合构成异二聚体( Bcl一2／bax) ，存在于线粒体外膜 ，两 
+者的比例决定着 细胞到底 该 向存 活还是死 亡方 向发 
+展 ，当比例升 高时促进 细胞存 活，反之致 凋亡[1 。当 
+Bcl一2 家族中的成员 Bad 发生去磷酸化时 ，可使与 Bcl一2 
+相结合 的 Bax 释放 出来 ，形成同源二聚体 ，发挥其促凋 
+亡作用 ，通过引起线粒体膜 的通透 性增加导致细胞色 
+素 C( cytochrome C ，cytC) 等一系列物质的释放导致细 
+胞凋亡[1引。Bcl一2 则 主要通过抑制线粒体 释放 cytC 对 
+抗 细胞 凋亡 。 
+人参皂苷 Rgl 具有广泛的药理学活性 ，其神经 营 
+养和神经保 护作 用越来 越受 到关注[18-19] 。有研 究 表 
+明，Rgl 的抗凋亡作用可能是与其可以上调脑 源性 神 
+经营养 因子及 Bcl 蛋白家族 中抗凋亡因子的表达 ，同时 
+下调促进促凋亡 因子的表达有关[。 。Zhang 等[。 研究 
+显示在海人酸致痫大 鼠海马神经元 中，Bcl一2 蛋 白表达 
+显著减少 ，Bax 蛋 白表达显著增加。本研究结果显示 ， 
+匹罗卡品致痫后 大 鼠的海马神经元 出现凋亡 ，免疫荧 
+光显色和免疫印迹显示 Bcl一2 的表达显著减少 ，Bax 表 
+达增加 ，各 R g1 治疗组 Bcl-2 的表达较模型组增多 ，Bax 
+表达较模型组减少 。提示 Rgl 可能通过上调 Bcl-2 的 
+表达、下调 Bax 的表达 ，从而抵抗匹罗卡品诱导的海马 
+神经元的凋亡 ，而起到神经保护作用 ，但具体机制还有 
+待于进一步深入研究 ，以期寻找癫痫治疗的新靶点 ，并 
+为 R gl 应用于临床治疗癫痫提供理论支持 。 
+参 考 文 献 
+[ 1]
+F isher R S，V an Ero de Boas W ，Blume W ，et a1． Epileptic 
+s eizu res and ep il eps y ：d ef in itio ns proposed by  the Intern ationa1 
+L eagu e A g ainst E pi lepsy ( IL A E ) an d the International B ureau f or 
+E pilepsy (IBE ) [J] ．Epilepsia，2005，46(4) ：470—472．
+ 
+[ 2 ]
+Nquqi A  K ，K ariuk i S M ，Bo ttomley C ，et a1．Incidence of 
+epilepsy ：a systematic rev iew and meta-analysis[J ']．N eurology ， 
+20 11，7 7( 10 ) ：1005- 10 12．
+ 
+[ 3 ]
+Perucca E ，F rench J ，Bialer M  Development of new antiepileptic 
+drugs：challenges，incentives，and recent advances [ J ] ．L ancet 
+N euro1，2007 ，6 ( 9) ：793—804．
+ 
+[ 4 ]
+Schmitz R  Effects of antiepileptic drugs on mood and behavior 
+[ J] ．Epilepsia，2006，47(S2) ：28—33．
+ 
+[ 5 ]
+Wu Z ，Xu Q ，Zhang L ，et a1．Protective effect of resveratrol 
+against kainate—induced temporal lobe epilepsy in rats[ J ] ．Neuro一 
+一
+178
+一  
+chem  R as ，200 9，34 ( 8 ) ，1393—1400 ．
+ 
+[ 6 ]
+Gao Y ，De ng J ，Y u X  F ，et a1．Ginsenoside R gl inhibits vascular 
+intimal hyperpl asia in balloon-inj ur ed rat carotid artery by down- 
+regulation of extracellular signaI_regulated kinase 2 [ J ] ． J 
+E thnopharmacol ，2011 ，138( 2) ，472—478．
+ 
+[ 7 ]
+王睿，李 燕楠 ，王广基 ，等．人参皂苷 Rgl 神 经保护 作用 及脑部 转 
+运的研究 [J ] ．中国天然药物，2009，7(4) ：315—320． 
+[ 8 ]
+Racine R  J ．Modification of seizure activity by electrical stimula— 
+tion．II．Motor seizure[J ] ．Electroencephalogr C lin Neurophy- 
+siol ，1972 ，32( 3) ：28 1—294．
+ 
+[ 9 ]
+Curia G ，L ongo D ，Biagini G，et a1．T he pilocarpinemodel of 
+temporal lobe epilepsy[ J ] ．J Neurosci Methods，2008，172( 2) ：
+ 
+1 4 3 —1 5 7 ．
+ 
+[1O]
+Engel T ，Hatazaki S ，T anaka K ，et a1．De letion of Puma protects 
+hippoeampal neurons in a model of severe status epileptieus[ J ] ．
+ 
+N eurosc ience ，20 10 ，168 ( 2 ) ：443．
+ 
+[ u ]
+Sharma A  K ，Jordan W  H ，R eams R  Y ，et a1．T emporal profile 
+of  clin ic al s ig ns and hist opath o1ogic c hang es in an F - 344 rat  model 
+of kainic acid-induced mesial tempo ral lobe epilepsy [ J ] ．T oxicol 
+P at hol ，2008 ，36( 7) ，93 2—943．
+ 
+[ 123 
+Maragakis N J ，Rothstein J n  Mechanisms of disease：astrocytes 
+in neurodegenerative disease[ J ]．Nat C lin Pract Neurol，2006，2 
+( 1Z) ，679—689．
+ 
+[ 13]
+Mikati M A ， A bi—Habib R J ， E l Sabban M E ， et a1．
+ 
+H ippocam pal 
+programm ed 
+cell 
+deat haf t er 
+st at us 
+epil ept ic us ：
+ 
+ev idence for N M DA - reeept or and eeram ide- med iat ed mechanis ms 
+[ J] ．Epilepsia，2003，44(3) ：282—291． 
+[ 14]
+H enshall D C ，Murphy B ^，
+L Modulators of neuronal cell death in 
+epilepsy[J ] ．Curr Opin Pharmacol，2008，8( 1) ：75—81． 
+[15]
+H ardwick J M ，Soane L  Multiple functions of BCL -2 family 
+proteins[ J] ．Cold Spring  H arb Perspect Biol，2013，5( 2) ：pii：
+ 
+a008722．doi ：10．1 1O1／cshperspect．a008722．
+ 
+[ 16]
+Niquet J ，Wasterlain C G  Bim，Bad，and Bax ：a deady combination 
+in epileptic seizures[J ] ．J Clin Invest ，2004，113(7) ：960—962． 
+[ 17]
+W u Z，X u Q ，Zhang L ，et a1．Protective effect of resveratrol 
+against k ainate-induced temporal lobe epilepsy in R ats [ J ] ．
+ 
+N euroc hem R as ，2009 ，34( 8) ：1393—1400．
+ 
+[ 18]
+王海波 ，李源莉．人参皂苷 R gl 神经 保护作 用 的研 究进 展 [J ] ．白 
+求 恩军 医学 院学报 ，2008，6(5) ：291—293．
+ 
+[ 19]
+张均田．人参研究 的最新 进展 [J ] ．江 苏大学学 报 ：医学版 ，2009，
+ 
+19( 3) ：185- 191．
+ 
+[ 2O]
+L eung K  W ，Y ung K  K ，Mak N K ，et a1．Neuroprotective effects 
+of gins enoside-R gl  in prim ar y nigral neu ron s against  rot enone 
+toxicity[ J] ．Neuropharmacology，2007，52(3) ：827—835．
+ 
+EZ1] 
+Zhang J ，Y an H ，w u Y  P ，et a1．A ctivation of GluR6一containing 
+k ainate r ecept ors indu ces ubiquit in- dependent B cl一2 degrad at ion 
+v ia denit rosy 1at ion  in t he rat  h ippo cam pus af ter k ainit e treatm ent  
+EJ ]．J Biol C hem ，2011 286( 9) ：7669—7680．
+ 
+( 编辑 ：蔺海 燕) 

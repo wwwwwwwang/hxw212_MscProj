@@ -1,0 +1,769 @@
+［收稿日期］2019 － 07 － 23
+［修回日期］2019 － 12 － 29
+［基金项目］蚌埠医学院自然科学基金面上项目( BYKY1799)
+［作者单位］蚌埠医学院第一附属医院 1． 肿瘤妇科，2． 肿瘤外科，安
+徽 蚌埠 233004
+［作者简介］刘静波( 1987 － ) ，女，硕士，主治医师．
+［通信作者］马
+玲，主任医师，副教授． E-mail: ml1970222 @ 163．
+com．
+［文章编号］1000-2200( 2020) 04-0442-05
+·基础医学·
+人参皂苷 Ｒg1 联合奈达铂通过 Hedgehog 通路抑制卵巢癌
+细胞 OVCAＲ-3 的增殖及机制探究
+刘静波
+1，郭晨旭
+2，马
+玲
+1
+［摘要］目的: 探究人参皂苷 Ｒg1 联合奈达铂对卵巢癌细胞 OVCAＲ-3 增殖的影响、可能的机制以及二者的协同作用。方法:
+CCK-8 法检测人参皂苷 Ｒg1、奈达铂以及两者联合对 OVCAＲ-3 细胞增殖的影响; Western blotting 检测 3 组药物干预后
+Hedgehog 通路关键蛋白 PTCH1、SMO、Gli1 表达的改变; 流式细胞仪检测 3 组药物干预后 OVCAＲ-3 细胞周期的变化。结果: 与
+未进行药物干预的对照组相比，人参皂苷 Ｒg1 组、奈达铂组、联合药物组均对 OVCAＲ-3 细胞的增殖产生了抑制作用，差异有
+统计学意义( P ＜ 0． 05) ，人参皂苷 Ｒg1 与奈达铂表现出协同增效作用; 与对照组相比，奈达铂组、人参皂苷 Ｒg1 组、联合药物组
+降低了 PTCH1、SMO、Gli1 蛋白的表达，差异有统计学意义( P ＜ 0． 05) ，人参皂苷 Ｒg1 与奈达铂表现出协同增效作用; 与对照组
+相比，仅有联合药物组将细胞周期阻滞在 G2 期( P ＜ 0． 05) 。结论: 人参皂苷 Ｒg1 联合奈达铂可能通过调低 Hedgehog 通路相
+关蛋白将 OVCAＲ-3 细胞的周期阻滞在 G2 期从而抑制其增殖，人参皂苷 Ｒg1 对奈达铂表现出协同增效作用。
+［关键词］卵巢肿瘤; Hedgehog 通路; 奈达铂; 人参皂苷 Ｒg1
+［中图法分类号］Ｒ 737． 31
+［文献标志码］A
+DOI: 10． 13898 /j． cnki． issn． 1000-2200． 2020． 04． 006
+Study on the inhibitory effects of ginsenoside Ｒg1 combined with nedaplatin on the proliferation
+of ovarian cancer cells OVCAＲ-3 through Hedgehog pathway and its mechanism
+LIU Jing-bo1，GUO Chen-xu2，MA Ling1
+( 1． Department of Gynecologic Oncology，2． Department of Surgical Oncology，The First Affiliated Hospital
+of Bengbu Medical College，Bengbu Anhui 233004，China)
+［Abstract］Objective: To investigate the effects of nedaplatin combined with ginsenoside Ｒg1 on the proliferation of ovarian cancer
+cells OVCAＲ-3，and its possible mechanism． Methods: The CCK-8 assay was used to detect the effects of ginsenoside Ｒg1，nedaplatin
+and their combination on the proliferation of OVCAＲ-3 cells． Western-blot was used to detect the expression levels of key proteins of
+Hedgehog pathway( PTCH1，SMO and Gli1) ． The flow cytometry was used to detect the changes of cell cycle of OVCAＲ-3 cells after
+drug intervention． Ｒesults: Compared with the control group，the proliferation of OVCAＲ-3 cells in ginsenoside Ｒg1 group，nedaplatin
+group and combined drug group were inhibited，and the difference of which among three groups were statistically significant( P ＜ 0． 05) ．
+At the same time，ginsenoside Ｒg1 and nedaplatin showed synergistic effects． Compared with the control group，the expression levels of
+PTCH1，SMO and Gli1 proteins in nedaplatin group，ginsenoside Ｒg1 group and combined drug group decreased significantly，the
+difference of which among three groups were statistically significant( P ＜ 0． 05) ，and the synergistic effect between ginsenoside Ｒg1 and
+nedaplatin was found． Compared with the control group，only the combined drug group，the cell cycle was arrested at G2 phase( P ＜
+0． 05) ． Conclusions: Ginsenoside Ｒg1 combined with nedaplatin may inhibit the proliferation of OVCAＲ-3 cells by modulating
+Hedgehog pathway related proteins to arrest the cell cycle at G2 phase，and ginsenoside Ｒg1 shows the synergistic effect on nedaplatin．
+［Key words］ovarian neoplasms; Hedgehog pathway; nedaplatin; ginsenoside Ｒg1
+妇科肿瘤中卵巢癌的恶性程度较高，易复发转
+移，且发现时通常是晚期从而难治。目前卵巢癌在
+临床上因其首诊时通常病期较晚，通常需要新辅助
+化疗
+［1］后再评估手术机会，但在治疗上仍然缺少切
+实有效的靶点。
+学者在果蝇中最早发现了 Hedgehog 通路
+［2］，因
+其可致使果蝇的胚胎表面形成刺凸，外形酷似刺猬
+得名，在细胞增殖及分化中扮演着重要角色
+［3］，其
+绝大多数时间处于静息状态，主要起修复及维持作
+用
+［4］。近年来的研究
+［5］认为该途径为一条促进恶
+性肿瘤发生发展的通路。
+在卵巢癌的临床治疗中，奈达铂作为第二代铂
+类药物，因消化系统毒性及神经毒性均低于顺铂，从
+而被应用于临床
+［6］。同时在寻求中西医结合抗肿
+442
+J Bengbu Med Coll，April 2020，Vol． 45，No． 4
+瘤的过程中，近些年祖国传统医学在抗肿瘤的治疗
+中发挥了重要的作用。人参皂苷 Ｒg1 主要存在于
+人参属药材中，被视作是人参的活性成分之一，也有
+研究者表明其具备明确的抗癌作用
+［7］。
+本文基于奈达铂对卵巢癌的作用，同时联合人
+参皂苷 Ｒg1 作用于卵巢癌 OVCAＲ-3 细胞，检测对
+细胞增殖、周期以及 Hedgehog 通路蛋白的作用，进
+而探讨奈达铂通过该通路影响卵巢癌发生发展的机
+制以及人参皂苷 Ｒg1 对奈达铂作用是否具有协同
+增效作用。
+1
+材料与方法
+1． 1
+实验材料及试剂
+卵巢癌 OVCAＲ-3 细胞购自
+中国科学院武汉细胞库，奈达铂( H20050563) 购自
+齐鲁 制 药 公 司，人 参 皂 苷 Ｒg1 ( MB6863 ) 购 自
+meilunbio 公司，PTCH1 抗体( 17520-1-AP) 购自武汉
+三鹰公司，SMO 抗体( 20787-1-AP) 购自武汉三鹰公
+司，Gil1 抗体( PB0142) 购自博士德公司，GAPDH 抗
+体( 10493-1-AP) 购自武汉三鹰公司，羊抗兔 IgG-
+HＲP( KGAA35) 购自江苏凯基公司，OVCAＲ-3 细胞
+完全培养基由江苏凯基生物技术股份有限公司提供
+( 90% DMEM + 10% FBS，37 ℃、5% CO2 细胞培养箱
+培育) ，Cell Counting Kit-8( CCK-8) 试剂盒( CP736)
+购自日本 DOJINDO Laborataries，全蛋白抽提试剂盒
+( KGP250) 购自江苏凯基公司，BCA 蛋白含量检测
+试剂盒( KGA902) 购自江苏凯基公司，SDS-PAGE 试
+剂盒( KGP113) 购自江苏凯基公司，Western Blotting
+检测试剂盒( KGP1201) 购自江苏凯基公司，显影定
+影试剂( KGP116) 购自江苏凯基公司，细胞周期检测
+试剂盒( KGA511) 购自江苏凯基公司。
+1． 2
+实验方法
+1． 2． 1
+CCK-8
+卵巢癌 OVCAＲ-3 细胞消化、计数、
+配制成浓度为 5 × 10
+4 个/毫升的细胞悬液，每孔
+100 μL细胞悬液加入 96 孔板中; 37 ℃，5% CO2 培
+育 24 h; 实验组分别设置人参皂苷 Ｒg1( G 组) 与奈
+达铂药物干预组( N 组) ，使得利用完全培养基稀释
+的含药培养基至目的浓度，2 组均选择 100 μg /mL
+为最高浓度，向下依次设置浓度梯度，目的浓度分别
+为 0、0． 39、0． 78、1． 56、3． 12、6． 25、12． 50、25． 00、50．
+00、100． 00 μg /mL，将 0 μg /mL 的培养基设置为空
+白对照组，第 3 组实验组为人参皂苷 Ｒg1 联合奈达
+铂干预组( G + N 组) ，依据最大人参皂苷 Ｒg1 干预
+组实验结果确立无毒剂量( 增殖抑制率 ＜ 10% ) 控
+制人参皂苷 Ｒg1 的终浓度为 6． 25 μg /mL 的培养
+基，分别再次调整联合奈达铂的培养基浓度分别为
+0、0． 39、0． 78、1． 56、3． 12、6． 25、12． 50、25． 00、
+50． 00、100． 00 μg /mL。100 μL 培养基加至实验每
+孔; 37 ℃、5% CO2 继续培育 48 h 后 CCK-8 染色，在
+波长 450 nm 处测定吸光度值; 计数各组别增殖抑制
+率 = ( OD 对 照 组 － OD 实 验 组) /OD 对 照 组 ×
+100% ，应用 SPSS 19． 0 通过机率单位加权回归法计
+算半抑制浓度( IC50) 。而后根据 IC50值进行人参皂
+苷 Ｒg1 与奈达铂的联合药物组后续的细胞增殖、
+Western blotting 与细胞周期实验。
+细胞计数如上，设置无药物干预的细胞为空白
+对照组( Control 组) ，依据奈达铂组 IC50及人参皂苷
+Ｒg1 组增殖抑制率 ＜ 10% 的最大无毒剂量，3 组实
+验组分别设置为由含人参皂苷 Ｒg1( 6． 25 μg /mL) 、
+奈达铂( 4． 607 μg /mL) 、人参皂苷 Ｒg1 ( 6． 25 μg /
+mL) 联合奈达铂( 4． 607 μg /mL) ，每孔 100 μL 加入
+96 孔板，37 ℃、5% CO2 条件下培育，于 6、24、48、
+72、96、120、144、168 h 时间点各选取 5 孔，分别
+CCK-8 染色，继续培养 3 h 后波长 450 nm 处测定吸
+光度，绘制增殖曲线。
+1． 2． 2
+Western blotting
+对照组及实验组分组同
+“1． 3． 1”，分别含人参皂苷 Ｒg1( 6． 25 μg /mL) 、奈达
+铂( 4． 607 μg /mL) 、人参皂苷 Ｒg1( 6． 25 μg /mL) 联
+合奈达铂( 4． 607 μg /mL) 的完全培养基干预培养
+48 h后的 OVCAＲ-3 细胞，干预后提取细胞样本全蛋
+白，BCA 试剂盒进行蛋白定量后 30 μg 蛋白质行
+SDS-PAGE 电泳、转膜。5% 脱脂牛奶封闭 2 h，加入
+兔抗人 PTCH1 ( 1 ∶ 1 000) 、SMO ( 1 ∶ 500) 及 Gli1
+( 1∶ 1 000) 抗体，4 ℃孵育过夜，TBST 洗膜。辣根过
+氧化酶标记的羊抗兔 IgG( 1∶ 5 000) ，常温孵育 1h 后
+TBST 洗膜。ECL 试剂盒发光显影，凝胶成像系统成
+像后灰度扫描。
+1． 2． 3
+细胞周期检测( PI 单染法) 分组同“1． 3．
+1”，药物干预后分别搜集不同组 5 × 10
+5 细胞，后在
+细胞中加入 100 μL ＲNase A 37 ℃水浴 30 min 后上
+400 μL PI 染色，避光下 4℃、30 min 后上小流式细
+胞仪，分别记载激发波长 488 nm 处的红色荧光。
+1． 3
+统计学方法
+采用方差分析和 q 检验。
+2
+结果
+2． 1
+CCK-8 法检测奈达铂联合人参皂苷 Ｒg1 对卵
+巢癌细胞 OVCAＲ-3 增殖的影响
+4 组在同浓度药
+物干预 48 h 后，与 Contral 组相比药物干预后的卵
+巢癌细胞 OVCAＲ-3 增殖能力明显有减弱，并且随着
+443
+蚌埠医学院学报 2020 年 4 月第 45 卷第 4 期
+药物浓度的增加，增殖抑制作用越明显( P ＜ 0． 01) 。
+在最高浓度位置 G( 100 μg /mL) 、N( 100 μg /mL) 、G
+( 6． 25 μg /mL) + N( 100 μg /mL) 组的增殖抑制率分
+别为 16． 50% 、91． 62% 、95． 70% ; IC50 分别为未达
+到、4． 607 μg /mL、3． 387 μg /mL( 见表 1) 。
+选取 Control 组 ( 不 含 药 完 全 培 养 基) 、G 组
+( 6． 25 μg /mL，依据增殖抑制率 ＜ 10% 的最大无毒
+剂量) 、N 组( 4． 607 μg /mL，依据 IC50) 、G( 6． 25 μg /
+mL) + N( 4． 607 μg /mL) 组，CCK-8 法绘制药物干预
+7d 细胞增殖曲线，与对照组比较，各组药物干预后
+均有明显抑制细胞增殖的现象( P ＜ 0． 05) ，且实验
+组间两两比较的差异在大多数时间点上有统计学意
+义( P ＜ 0． 05) ( 见图 1) 。
+表 1
+不同浓度各组药物干预 48 h 后的细胞增殖能力( ni =5)
+浓度/
+( μg/mL)
+OD( x ± s)
+G 组
+N 组
+G + N 组*
+抑制率/%
+G 组
+N 组
+G 组 + N 组
+0
+2． 656 ± 0． 064
+2． 849 ± 0． 010
+2． 772 ± 0． 018
+—
+—
+—
+0． 39
+2． 647 ± 0． 051
+2． 724 ± 0． 020
+2． 514 ± 0． 017
+0． 34
+4． 40
+9． 30
+0． 78
+2． 612 ± 0． 035
+2． 535 ± 0． 017
+2． 332 ± 0． 017
+1． 65
+11． 04
+15． 88
+1． 56
+2． 559 ± 0． 029
+2． 177 ± 0． 025
+1． 916 ± 0． 089
+3． 64
+23． 61
+30． 88
+3． 12
+2． 492 ± 0． 017
+1． 657 ± 0． 153
+1． 479 ± 0． 059
+6． 18
+41． 86
+46． 64
+6． 25
+2． 414 ± 0． 031
+0． 970 ± 0． 073
+0． 845 ± 0． 047
+9． 11
+65． 95
+69． 52
+12． 50
+2． 378 ± 0． 019
+0． 650 ± 0． 047
+0． 452 ± 0． 021 10． 47
+77． 20
+83． 71
+25． 00
+2． 333 ± 0． 032
+0． 403 ± 0． 021
+0． 333 ± 0． 007 12． 14
+85． 87
+87． 98
+50． 00
+2． 235 ± 0． 031
+0． 313 ± 0． 007
+0． 230 ± 0． 014 15． 85
+89． 02
+91． 71
+100． 00
+2． 217 ± 0． 047
+0． 239 ± 0． 020
+0． 119 ± 0． 020 16． 50
+91． 62
+95． 70
+F
+81． 5
+1 466． 60
+3 389． 81
+—
+—
+—
+P
+＜ 0． 01
+＜ 0． 01
+＜ 0． 01
+—
+—
+—
+MS组内
+0． 001
+0． 004
+0． 002
+—
+—
+—
+* : G + N 组浓度为固定人参皂苷 Ｒg1 的终浓度为 6． 25 μg/mL，依次增加奈达铂药物
+浓度形成梯度
+OD450
+!"/h
+Control
+G
+N
+G+N
+!
+"#* < .
+! "## < .
+! "#& < .
+Control
+0 05;
+G
+0 05;
+N
+0 05
+P
+P
+P
+$
+%&’()*+,-
+./01234
+1
+OVCAR-3
+2． 2
+Western blotting 检测奈达铂联合人参皂苷 Ｒg1
+对 OVCAＲ-3 细胞中 PTCH1、SMO、Gli1 蛋白表达的
+影响
+依据“2． 1”实验结果，设定分组为对照组及
+实验组同“2． 1”。PTCH1、SMO、Gli1 蛋白表达( 相对
+表达量，目的蛋白/内参) 在经过 G 组、N 组、G + N 组
+干预后相比较对照组均有明显调低( P ＜ 0． 05) ，趋势
+按次序依次降低( P ＜0． 05) ( 见表 2、图 2) 。
+表 2
+不同分组药物干预后 OVCAＲ-3 细胞中 PTCH1、
+SMO、Gli1 的相对表达量( x ± s)
+分组
+n
+SMO/GAPDH
+PTCH1 /GAPDH
+Gil1 /GAPDH
+Control 组
+3
+0． 523 ±0． 021
+0． 777 ±0． 038
+0． 790 ±0． 030
+G 组
+3
+0． 38 ±0． 017*
+0． 627 ±0． 042*
+0． 583 ±0． 049*
+N 组
+3
+0． 210 ±0． 020* #
+0． 467 ±0． 029* # 0． 310 ±0． 030* #
+G + N 组
+3
+0． 077 ±0． 012* #△ 0． 310 ±0． 035* #△0． 087 ±0． 021* #△
+F
+—
+357． 72
+94． 42
+245． 10
+P
+—
+＜0． 01
+＜0． 01
+＜0． 01
+MS组内
+—
+0． 000
+0． 001
+0． 001
+注: 与 Control 组比较* P ＜ 0． 05; 与 G 组比较#P ＜ 0． 05; 与 N 组比较
+△P ＜0． 05
+Contol
+G
+N
+G+N
+PTCH1
+SMO
+Gli1
+GAPDH
+!
+"#$%&’()*
+- +,-
+.
+.
+/0123456
+2
+OVCAR 3
+PTCH1
+SMO
+Gli1
+2． 3
+流式细胞仪检测奈达铂联合人参皂苷 Ｒg1 干
+预后卵巢癌细胞周期的变化
+分组同“2． 1”，不同
+分组药物干预后，组内比较药物干预后的细胞周期
+变化显示，在 3 组实验组中的表现均为 G1、S、G2 期
+细胞所占比例呈逐期下降趋势( P ＜ 0． 01) ; 组间比
+较显示，与 Control 组相比，G + N 组中 G2 期细胞比
+例差异明显低于其他组( P ＜ 0． 05) ( 见表 3、图 3) 。
+3
+讨论
+有研究发现 Hedgehog 通路在一些恶性肿瘤如
+乳腺癌
+［8］、基底细胞癌
+［9］、卵巢癌
+［10］中有过表达，意
+味着其在恶性肿瘤的发生发展中可能发挥了诱导肿
+瘤细胞过度增殖的作用
+［11］。经典 Hedgehog 通路由
+Sonic Hedgehog 配体、Indian Hedgehog 配体、Desert
+Hedgehog 配体、12 次跨膜蛋白 PTCH1 和 PTCH2、
+Smoothened 蛋白、核转录因子 GLI 蛋白( Gli1、Gil2、
+Gil3) 构成。配体与 PTCH 的联结可解除其对 SMO
+的抑活作用，从而 SMO 获得位移至纤毛，进而改变
+自身的构象及磷酸化。而后促使 GLI 入细胞核启动
+444
+J Bengbu Med Coll，April 2020，Vol． 45，No． 4
+Gli1、PTCH1 等激活 Hedgehog，促使细胞的增殖
+［12］。
+在治疗卵巢癌的过程中，奈达铂的抗肿瘤作用明确，
+但铂类药物在卵巢癌的治疗中近年来确实没有实质
+性的进展。一些文献报道了抗肿瘤中药在基础研究
+以及临床中的应用，在此之中，人参( 人参皂苷 Ｒg1)
+作为健脾益气扶正的经典药物常用于抗肿瘤的辅助
+治疗及相关研究当中。故先应用人参皂苷 Ｒg1 作
+用于卵巢癌细胞，确定抗卵巢癌作用明确后应用奈
+达铂及与人参皂苷 Ｒg1 联合作用于卵巢癌细胞，观
+察对细胞增殖的影响，同时为寻求其可能机制检测
+干预前后细胞中 Hedgehog 通路的改变及细胞周期
+的变化，这或许能为卵巢癌的治疗提供一些新的
+思路。
+表 3
+不同分组药物干预后 OVCAＲ-3 细胞周期比例( x ± s; %)
+分组
+n
+G1
+S
+G2
+F
+P
+MS组内
+Control 组 3
+56． 12 ± 4． 37
+30． 16 ± 3． 32
+13． 72 ± 2． 33
+115． 70
+＜ 0． 01 11． 849
+G 组
+3
+58． 07 ± 6． 18
+30． 06 ± 7． 91
+11． 87 ± 1． 78
+46． 91
+＜ 0． 01 34． 634
+N 组
+3
+60． 17 ± 5． 73
+29． 77 ± 6． 52
+10． 06 ± 0． 79
+75． 50
+＜ 0． 01 25． 323
+G + N 组
+3
+67． 89 ± 4． 78
+26． 23 ± 4． 73
+5． 88 ± 0． 07* #△198． 83
+＜ 0． 01 15． 075
+F
+—
+2． 83
+0． 31
+14． 62
+—
+—
+—
+P
+—
+＞ 0． 05
+＞ 0． 05
+＜ 0． 01
+—
+—
+—
+MS组内
+—
+28． 243
+34． 619
+2． 307
+—
+—
+—
+注: 与 Control 组比较* P ＜ 0． 05; 与 G 组比较#P ＜ 0． 05; 与 N 组比较△P ＜ 0． 05
+"
+#$%!&’()*
++,-./01
+3
+OVCAR-3
+A Control
+B G
+C N
+D G N
+:
+!;
+:
+!;
+:
+!;
+:
++ !
+Channels(FL2-A)
+30
+60
+90
+120
+150
+0
+0
+200
+400
+600
+800
+1000
+Number
+0
+200
+400
+600
+800
+0
+30
+60
+90
+120
+150
+Channels(FL2-A)
+Number
+0
+30
+60
+90
+120
+150
+0
+300
+600
+900
+1200
+Number
+Channels(FL2-A)
+Number
+0
+200
+400
+600
+800
+1000
+0
+30
+60
+90
+120
+150
+Channels(FL2-A)
+A
+B
+C
+D
+课题组意图从细胞学及分子生物学角度阐述奈
+达铂及奈达铂联合人参皂苷 Ｒg1 对卵巢癌细胞作
+用的生物学机制。先利用 CCK-8 检测了药物干预
+后对细胞增殖的影响，首先不论是单用奈达铂还是
+联合人参皂苷 Ｒg1 均可抑制 OVCAＲ-3 细胞的增
+殖，再次证实了人参皂苷 Ｒg1 的抗肿瘤作用，并且
+在两者联合应用后可以表现出对细胞增殖抑制的增
+效作用。与此同时，确立了奈达铂单独作用及人参
+皂苷 Ｒg1 联合奈达铂( 人参皂苷 Ｒg1 浓度恒定下)
+作用于细胞的奈达铂的 IC50，发现了联合作用的
+IC50要低于单药作用，故联合用药可以提升奈达铂
+的抗肿瘤增殖作用。
+因人参皂苷 Ｒg1 独立作用于细胞增殖的抑制
+作用较弱，进而在常规剂量中未达到 IC50。以此为
+基础，选择奈达铂的 IC50 ( 4． 607 μg /mL) 为后续实
+验的奈达铂浓度，进而在保证安全剂量的同时为证
+实人参皂苷 Ｒg1 对奈达铂抗肿瘤的协同增效性，选
+择人参皂苷 Ｒg1 作用细胞的增殖抑制率 ＜ 10% 的
+最大无毒剂量即 6． 25 μg /mL 后为后续实验的人参
+皂苷 Ｒg1 的浓度。之后进一步从分子层面检测了
+药物干预后 Hedgehog 通路相关蛋白 PTCH1、SMO、
+Gli1 在 OVCAＲ-3 细胞中表达的变化，结果显示在实
+验组药物干预后的 3 种蛋白均有被调低表达的情
+况，与此同时人参皂苷 Ｒg1 仍然表现了对奈达铂作
+用的协同效果。结合前期实验与相关学者研究，已
+证实 PTCH1、SMO、Gli1 的增高可以明显促进细胞的
+恶性增殖。故认为奈达铂与人参皂苷 Ｒg1 可能通
+过调低这三种 Hedgehog 通路关键蛋白抑制了细胞
+的增殖。了解到了增殖抑制可能的分子机制，从而
+继续探讨是否在药物抑制细胞增殖过程中的细胞周
+期的分布发生了变化，结果流式细胞仪检测到药物
+干预后的 OVCAＲ-3 细胞周期中 G1 所占比例明显增
+高，而同时 G2 比例有所下降，并且我们仅在人参皂
+苷 Ｒg1 联合奈达铂组得出差异的明显性，这也进一
+步验证了人参皂苷 Ｒg1 与奈达铂的协同作用甚至
+可以起到关键性作用。
+结合以上进而我们推出结论，奈达铂可能通过
+Hedgehog 通路关键蛋白 PTCH1、SMO、Gli1 的调低
+作用，改变了细胞周期的分布，使多数细胞阻断在细
+胞周期 G1，从而抑制卵巢癌细胞的增殖。与此同
+时，人参皂苷 Ｒg1 在实验中显现了与奈达铂作用于
+细胞的协同增效作用，其可能在细胞周期的改变中
+起到关键作用。
+以本实验为基础我们展望，对于卵巢癌尤其是
+晚期卵巢癌的综合治疗中，增加抗 Hedgehog 通路的
+理论靶向治疗可能会为卵巢癌病人带来新的治疗思
+445
+蚌埠医学院学报 2020 年 4 月第 45 卷第 4 期
+路和希望。
+［
+参
+考
+文
+献
+］
+［1］
+KESSOUS Ｒ，LASKOV I，ABITBOL J，et al． Clinical outcome of
+neoadjuvant chemotherapy for advanced ovarian cancer ［J］．
+Gynecol Oncol，2017，144( 3) : 474．
+［2］
+NSSLEINVOLHAＲD C，WIESCHAUS E． Mutations affecting
+segment number and polarity in Drosophila［J］． Nature，1980，
+287( 5785) : 795．
+［3］
+LI J，CUI Y，XU J，et al． Suppressor of Fused restraint of
+Hedgehog activity level is critical for osteogenic proliferation and
+differentiation during calvarial bone development［J］． J Biol
+Chem，2017，292( 38) : 15814．
+［4］
+SＲIPEＲUMBUDUＲ
+A，BＲEITZIG
+M，LOCKEY
+Ｒ，et
+al．
+Hedgehog: the
+key
+to
+maintaining
+adult
+lung
+repair
+and
+regeneration［J］． J Cell Commun Signal，2017，11( 1) : 95．
+［5］
+SZCZEPNY A，ＲOGEＲS S，JAYASEKAＲA W S N，et al． The
+role of canonical and non-canonical Hedgehog signaling in tumor
+progression in a mouse model of small cell lung cancer［J］．
+Oncogene，2017，36( 39) : 5544．
+［6］
+YOSHIDA H，SHINTANI D，OGASAWAＲA A，et al． Feasibility
+and response to nedaplatin monotherapy in older patients with
+ovarian cancer［J］． Arch Gynecol Obstet，2017，296( 4) : 819．
+［7］
+王梓，许兴月，李琼，等． 人参皂苷 Ｒg1 热裂解产物对 H22 荷
+瘤小鼠的抗肿瘤作用［J］． 中国药学杂志，2017，52 ( 15) :
+1319．
+［8］
+AＲNOLD KM，POHLIG ＲT，SIMSMOUＲTADA J． Coactivation of
+Hedgehog and Wnt signaling pathways is associated with poor
+outcomes in triple negative breast cancer［J］． Oncol lett，2017，14
+( 5) : 5285．
+［9］
+YANG X，DINEHAＲT MS． Triple Hedgehog pathway inhibition
+for treatment of basal cell carcinoma ［J］． J Clin Aesthet
+Dermatol，2017，10( 4) : 47．
+［10］
+ZENG C，CHEN T，ZHANG Y，et al． Hedgehog signaling pathway
+regulates ovarian cancer invasion and migration via adhesion
+molecule CD24［J］． J Cancer，2017，8( 5) : 786．
+［11］
+ZHANG F，ＲEN CC，LIU L，et al． SHH gene silencing suppresses
+epithelial-mesenchymal
+transition，proliferation，invasion
+and
+migration of cervical cancer cells by repressing the hedgehog
+signaling pathway［J］． J Cell Biochem，2018，119( 5) : 3829．
+［12］ ＲAHMAN M M，HAZAN A，SELWAY JL，et al． A novel
+mechanism for activation of GLI1 by nuclear SMO that escapes
+anti-SMO inhibitors［J］． Cancer Ｒes，2018，78( 10) : 2577．
+( 本文编辑
+周洋)
+( 上接第 441 页)
+［9］
+HU C，JIA W． Diabetes in China: epidemiology and genetic risk
+factors and their clinical utility in personalized medication［J］．
+Diabetes，2018，67( 1) : 3．
+［10］
+LEONAＲD SL． 心血管病理生理学［M］． 张天德，智光，译． 3
+版． 北京: 人民军医出版社，2013: 102．
+［11］
+GONNA H，ＲAYKAUSIK K． The importance of dyslipidaemia in
+the pathogenesis of cardiovascular disease in people with diabetes
+［J］． Diabetes Obes Metab，2019，4( 7) : 6．
+［12］
+SHAＲMA S，ADＲOGUE JV，GOLFMAN L，et al． Intramyocardial
+lipid accumulation inthe failing human heart resembles the
+lipotoxic rat heart［J］． FASEB J，2004，18( 14) : 1692．
+［13］
+罗清宇，秦英楠，刘阳． 曲克芦丁对链脲佐菌素诱导的糖尿病
+大鼠心肌病的改善作用［J］． 安徽医科大学学报，2020，55
+( 4) : 534．
+［14］
+SHEN BB，MEI M，PU YM，et al． Necrostatin-1 Attenuates Ｒenal
+Ischemia and Ｒeperfusion Injury via Meditation of HIF-1α /mir-
+26a/TＲPC6 /PAＲP1 Signaling［J］． Mol Ther Nucleic Acids，
+2019，17: 701．
+［15］
+OU L，SUN T，CHENG Y，et al． MicroＲNA-214 contributes to
+regulation of necroptosis via targeting ATF4 in diabetes-associated
+periodontitis［J］． Cell Biochem，2019，120( 9) : 14791．
+［16］
+KAＲ S，KAMBIS TN，MISHＲA PK，et al． Hydrogen sulfide-
+mediated regulation of cell death signaling ameliorates adverse
+cardiac remodeling and diabetic cardiomyopathy ［J］． Am J
+Physiol Heart Circ Physiol，2019，316( 6) : 1237．
+［17］
+ALTMANN C，SCHMIDT MHH． The role of microglia in diabetic
+retinopathy:
+inflammati-on， microvasculature
+defects
+and
+neurodegeneration［J］． Int J Mol Sci，2018，19( 1) : 942．
+［18］
+HUNTEＲ CA，JONES
+SA． IL-6
+as a
+keystonecytokine
+in
+healthanddisease［J］． Nat Im munol，2015，16( 5) : 448．
+［19］
+LEE SB，KIM JJ，HAN SA，et al． The AMPK-Parkin axis
+negatively regulates necroptosis and tumorigenesis by inhibiting
+the necrosome［J］． Nat Cell Biol，2019，21( 8) : 940．
+［20］
+MOMPEAN M，LI W，LI J，et al． The structure of the necrosome
+ＲIPK1-ＲIPK3 core，a human hetero-amyloid signaling complex
+［J］． Cell，2018，173( 5) : 1244．
+［21］
+XIA B，FANG S，CHEN X，et al． MLKL forms cation channels
+［J］． Cell Ｒes，2016，26( 5) : 517．
+［22］
+XU Y，GAO H，HU Y，et al． High glucose-induced apoptosis and
+necroptosis in podocytes is regulated by UCHL1 via ＲIPK1 /
+ＲIPK3 pathway［J］． Exp Cell Ｒes，2019，382( 2) : 111463．
+［23］
+XU HX，DU X，LIU G，et al． The pseudokinase MLKL regulates
+hepatic insulin sensitivity independently of inflammation［J］． Mol
+Metab，2019，23: 14．
+［24］
+LOTZEＲICH M，ＲOULIN PS，BOUCKE K，et al． Ｒhinovirus 3C
+protease suppresses apoptosis and triggers caspase-independent
+cell death［J］． Cell Death Dis，2018，9( 3) : 272．
+［25］
+KＲETZ AL，VON KS，HILLENBＲAND A，et al． Should we keep
+walking along the trail for pancreatic cancer treatment revisiting
+TNF-related apoptosis-inducing ligand for anticancer therapy［J］．
+Cancers ( Basel) ，2018，10( 3) : 77．
+［26］
+LIU X，LI Y，PENG S，et al． Epstein-Barr virus encoded latent
+membrane protein 1 suppresses necroptosis through targeting
+ＲIPK1 /3 ubiquitination［J］． Cell Death Dis，2018，9( 2) : 53．
+［27］
+方婷婷，曹瑞平，叶红伟，等． 高糖诱导的大鼠原代心肌细胞
+损伤对程序性坏死的影响及其机制［J］． 中国应用生理学杂
+志，2019，35( 2) : 160．
+( 本文编辑
+周洋)
+446
+J Bengbu Med Coll，April 2020，Vol． 45，No． 4

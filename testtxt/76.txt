@@ -1,0 +1,699 @@
+C HINE S E JOU RNA L  OF A NA T OMY  V o1．34 No．3 20 1 1 
+解剖学杂 志
+2011年第 34 卷第 3 期 
+人参 皂 甙 R bl 抑 制 1一甲基一4一苯基一1，2 ，3 ，6一四氢 吡 啶所 致 的 
+内质 网应 激 对 多 巴胺 能神 经 元 的保 护作 用 
+蒙国光 
+张作风 
+桓秀杰 
+魏子峰 
+李 
+冉 
+张宇新 
+(华 北煤炭医学院 ，1 解 剖学 教研 室 ，2 附属 医院，唐山
+063000) 
+摘 要 
+目的 ：研究 内质 网应激反应在 1一甲基一4一苯基一1 ，2 ，3 ，6- 四氢 吡啶( MPT P) 所致帕金森 病 ( PD) 小 鼠模 型黑质 区多 巴胺 
+能神经元凋亡的作用 。方法 ：将小 鼠随机分为 M PT P 模型组 、R bl 干预剂 组和对照组 。观察 行为学 ，免 疫组织化 学和 免疫 
+蛋 白印迹法观察黑质酪氨酸羟化酶( T H ) 、葡萄糖调节蛋 白 78 ( GRP78) 、半胱氨酸蛋 白酶一12 ( caspase- 12) 和半胱氨酸 蛋 白 
+酶一3 ( caspase- 3) 的表达 。结果 ：与对照组相 比，模 型组小 鼠出现 典型 PD 症状 ，T H 阳性神 经元 明显丢 失 、蛋 白水 平下 降 ，
+ 
+GR P78 、caspase- 12、caspase-3 阳性细胞及蛋 白水平 增加 ；经人 参皂 甙 Rbl 处理后 ，上述 变化均 减轻 。结论 ：内质 网应 激 
+( ER S) 在 MPT P 诱 导的 PD 小 鼠模型多巴胺能神经元凋亡中可起重要 作用 ，人参 皂甙 Rbl 可通过抑制 E RS 而对 PD 小 鼠 
+具有一定 的神 经保 护作用 。 
+关键 词
+帕金森病 ；半胱 氨酸蛋 白酶一3；内质网应激 ；葡萄糖调 节蛋 白 78 ；半胱氨 酸蛋 白酶一12；酪氨酸羟化 酶 ；卜甲基一4一苯 
+基一1，2，3，6- 四氢吡啶 
+G insenosid e R bl  pr otects the dop am iner g ic neur on s in  substa nti a ni gr a ag a inst th e apoptosi s 
+via  dow nr eg ula te the endopl asmi c reti culum stress pr oteins ex p r essi on s i n th e 
+M P T P - induced P a rk in so n’ S dis ease m o ns e m o del 
+M eng G uoguang ，Zhang Z uofeng ，H uan X iujie2，W ei Zif eng ，L i R an ，Z hang Y uxin △ 
+01．D epartment of  A natomy ，2 ．A { {t liated H ospital ，North China Coal Medical Colleg e，Tangshan 063000 ，China) 
+Abstract 
+Obj ective：T o explore the role of endoplasmic reticulum stress ( E R S) in apoptosis of dopaminergic neurons in 
+substantia nig ra ( S N)
+of M PT p- induced P ark inson’ S disease mouse mode1，therefor e ，tO v alidate w hether g insenoside R bl  
+allev iate the apoptosis above-mentioned．Methods ：H ealthy male C 5 7BL／6N  mice were randomly divided into 3 groups ：
+ 
+M P T P  mod el g ro up ，R bl  gro u p and  co ntr ol g ro up ．Besid es o f b eh av ior ，th e n umb er of po sitiv e cell fo r tyr osin e h yd ro x yl ase 
+( T H ) ，g lucose- reg ul ated pr ot ei n ( G RP 78) ，caspase~12 a nd caspase-3 and the expression l evel s of these proteins in the S N of 
+mi dbr ai n w ere detected using immunohistochem istry a nd W estern blot．R esults ：C ompared w ith control mice ，the m ode l ani — 
+mals sho wed  ty pi cal sym toms o f P D  w ith  d ecreased po sitiv e cell n umb er an d exp ression  level o f T H ，an d mark ed ly in creased 
+posi tive cel l number and ex pressi on l evels of G R P 78 ，caspase-1 2 and caspase~3 in SN  of the midbrain．A fter gi ving R bl ，the 
+abo ve chan g es w ere al levia ted o bv iou sly．Con clu si on ：In  M P T p -i nd u ced P D  mou se mo del ，E R S  m ed iates th e S N  d opam iner 
+gi c neurons tO apoptosi s that can be suppressed by g insenoside R b1．
+ 
+K ey words 
+P ark inson’ S disease ；caspase- 3 ；endoplasmic reticulum stress ；g lucos 
+reg u1ated pr otein 7 8 ；caspase- 12 ；t yro— 
+sin e by dr ox yl ase 
+M P T P  
+帕金森病 (Parkinson’S disease，PD ) 是常见 的中 
+枢神经系统退变性疾病 ，其主要病理改变为 中脑黑质 
+多巴胺 ( dopamine，DA ) 能神经元 变性丢失 。迄今为 
+止 ，病因及发病机制不详 。研 究认为 ，细胞凋亡与 PD 
+发病关系密切[1] 。近年来发 现内质网应激 ( endoplas— 
+mic reticulum stress ，E RS) 也是 引起细胞凋亡 的重要 
+河 北省 自然科 学 基金 (C 2004000689) ；河北 省博 士基金 ( 05547008D  
+4) ；河北省科 学技术 与社会发展计划 (04276135) 
+第 1作者 E—mail：mengguoguang 79O621@ 163．corn  
+△
+通讯作者 ，E -mail ：jpzy x@ 163．tom 
+收稿 日期 ：2010—10—27；修 回日期 ：2011—02—28 
+—
+358
+～  
+机制_2] ，并 可 能 与 PD 发 病 密 切 相 关l_3] 。人 参 皂 甙 
+Rbl ，具有抗衰老 、抗炎 、抗 氧化 、提高免疫力和增强记 
+忆等作用 ，文献报道 Rbl 对损伤的多 巴胺能神经元具 
+有一定的保护作用l4] 。本研究采用 MPT P 所致 PD 动 
+物模型 ，并 给予人参皂甙 Rbl 干预治疗 ，观察内质网应 
+激相关蛋 白 GRP78、caspase-12 和凋亡蛋 白 caspase一3 
+表达变化以及 Rbl 干预效果 ，进一步探讨 E RS 在 PD 
+发病 中的作 用，以期 为 PD 的 防御 和治 疗提 供 实验 
+依据 。 
+1
+材料和方法 
+1．1 
+试 剂 
+MPT P (Sigma，u SA ) ，兔抗 鼠 GRP 78 多克 隆抗 
+体 ，兔抗 鼠 caspase-12 多克隆抗体 ，兔抗 鼠 caspase-3 多 
+克隆抗体 (北京博奥森生物公司) ；预染蛋 白 Marker( 天 
+津灏洋生 物公 司) ；小 鼠抗 人 酪氨 酸羟化 酶 ( tyrosine 
+hydroxylase，T H ) 单 克隆抗 体 ( Chemicon，USA ) ；人 
+参皂甙 Rbl ( 吉林 大学 基 础 医学 院化 学 教研 中心 ) ； 
+FIT C 标记 山羊抗兔 IgG 二抗 ，T RIT C 标 记山羊抗小 
+鼠 IgG 二抗 (北京中杉生物) ；U ltraSensitive SP 超敏试 
+剂盒( 福州迈新公司) 。 
+1．2
+实验 动 物 
+健康雄性 C57BL ／6N 小 鼠 85 只 ，l 2～l 4 周 龄 ，体 
+质量 25～30 g ，清 洁级 ，购于北京维通利华公 司Esexx 
+(京) 2002- 2003~，自由进食 ，饮水 ，室温 25℃± 2℃单 
+笼喂养 ，自然光照。 
+1．3
+动物分组和模型制备 
+实验动物随机分为模型组 、R bl 干预剂组和对照组 
+3 组 。模型组 ：腹腔注射 MPT P (30 mg／kg ，生理盐水溶 
+解) ，每天 1次，连续 5 d，共 25 只；Rbl 干预剂组 ：除给予 
+模型组相 同的处理外 ，MFrI、
+P 注射前 4 d 每天定时腹腔 
+注射人参皂甙 Rbl ，干预剂组依剂量的不 同(分别为 1O 
+mg／kg 和 20 rng／kg，生理盐水溶解) 分为干预剂低浓度 
+和高浓度两个亚组 ，分别为 25 只和 l 0 只 ；对照组 ：注射 
+与模型组和干预剂组等量生理盐水 ，共 25 只。 
+1．4
+标本 采 集 
+MPT P 第 5 次注射后 72 h，除干预剂 2 组外每组 
+随机取 15 只小 鼠。以 0．3 ml／100 g 水合氯醛腹腔麻 
+醉小 鼠后 ，经左心室生理盐水灌洗 ，然后用 4％o的多 聚 
+甲醛磷酸盐缓冲液灌注 固定 ，取 中脑黑质部位脑块 ，于 
+4 
+多聚 甲醛后固定 48 h ( 4℃) ，其 中 10 块脑组织经石 
+蜡包埋后 ，石蜡切片机做连续冠状切片，片厚 5 肛m，4℃ 
+保存备用 ；剩余 5 块脑组织置于 3O 
+蔗糖液中过夜 ，直 
+至脑组织沉底 。次 日取脑组织标本 后 ，自视 交叉处用 
+恒冷箱切片机连续冠状切片 ，片厚 15 
+m，贴 附于载玻 
+片上 ，置于 一2O℃冰箱待用 。每组小 鼠中随机取 6 只 
+进行免疫蛋 白印迹分析。小 鼠麻 醉后取脑 ，分离 中脑 
+黑质 部 分 ，置人 细 胞 裂 解 液 中，低 温 匀 浆 ，4℃ 震 荡 
+30 min后 ，12 000 r／ra in，4℃离 心 15 min，取 上清 液 ， 
+-
+80℃保存备用 。 
+1．5
+免疫荧光组织化 学显色 
+取脑 组织 切 片室 温 放置 30 min 后 ，用 PBS ( pH 
+7．4 4 - 0
+． 2) 洗涤；正常非免疫动物血清室温孵育 30 min， 
+同一组织相邻切片分别加人小 鼠抗人 T H 单克 隆抗体 
+( 1 ：300) 与兔抗 鼠 GRP78 多克隆抗体 ( 1 ：100) 一抗 
+混合液 、小 鼠抗 人 T H 单克 隆抗体 ( 1 ：300) 与兔 抗 鼠 
+caspase一12 抗体( 1 ：1O0) 一抗混合液、小鼠抗人 T H 单 
+克隆抗 体 ( 1 ：300) 与 兔 抗 鼠 easpase一3 多 克 隆抗 体 
+( 1 ：100) 一抗混合液 4℃过夜 ，加入 F IT C 标记 山羊抗 
+兔 IgG
+( 1 ：60 ) 和 T R IT C 标 记 山 羊 抗 小 鼠 IgG 
+( 1 ：100)荧光二抗混合液 ，37℃孵育 60 ra in，双蒸水 振 
+洗10 min，甘油缓冲液 封片 ，激光共 聚焦显微镜观察 照 
+相。绿色荧光为 GRP 78、caspase一12 、caspase-3 表达 ，
+ 
+红色荧光为 T H 表达 ，橘黄色为双重荧光染色。 
+1．6
+免 疫组 织 化 学显 色 
+脑组织切 片常规脱蜡 至水后 ，用 PBS ( pH 7．4 ±  
+0．2) 洗 3 次 ，每次 5 ra in；组织切片进行水浴法抗原修 
+复；降至室温 ；加入 30 ml／L 过氧化氢阻断内源性过氧 
+化物酶 7 min；正常非免疫兔血清室温孵育 10 min；同 
+一
+组 织 相邻 切 片分 别加 兔抗 鼠 GR P78 多 克 隆抗 体 
+( 1 ：200) ，兔抗 鼠 caspase一12 多克 隆抗体 ( 1 ：200) ，兔 
+抗 鼠 caspase一3 多克隆抗体( 1 ：200) ，小 鼠抗人 T H 单 
+克隆抗 体 ( 1 ：400 ) ，4℃ 过 夜 ；次 日取 出，室 温放 置 
+20 min；加人生物素标记二抗室温孵育 20 min；加入链 
+霉素抗生物素蛋 白一过 氧化酶 室温孵育 2O min ，DA B 
+显色 ，中性树胶封片 ，光镜下观察 。 
+1．7
+免 疫 印迹 法 
+每组取 30 
+g 样 品进行 1O 9／6 SDS-PA GE 电泳后 ，
+ 
+电转移至硝酸纤维膜上 ，依分子量大小切取条带 ，加人 
+封闭液 室 温 下 震 荡 2 h 后 ，取 相 应 条 带 分 别 加 入 
+GRP 78 多抗 ( 1 ：150) ，caspase一12 多抗 ( 1 ：150) ，T H 
+单抗 ( 1 ：350) ，caspase一3 多抗 ( 1 ：150) ，4℃过夜 。 室 
+温孵育 1 h；再加入二抗室温孵育 1 h；然后加入辣根过 
+氧化物酶室温下孵育 0．5 h；DA B 显色 ，中间均用 T ris一 
+0．1 
+T ween 20 振摇洗涤 5 次，每次 3 min。将特异性 
+蛋 白条带扫描后 ，在 同一条件下应用 CMIA S 真彩医学 
+图像分析系统测定条带平均光密度值。 
+1．8
+统计学处理 
+选定黑质所在区域 ，采用 CMIA S 真彩医学 图像免 
+疫组织化学 自动分析系统进行 阳性 细胞记数。各组每 
+只动物的 3 张脑片数值相加后取平均值 。实验结果使 
+用 SPSS13．0 统计软件进行统计处理 。分别 采用单 因 
+素方差分析 g 检验 ；免疫印迹法统计分析同上 。 
+2
+结 果 
+2．1
+行为学观察 
+模型组小 鼠于第 1 次注药后 10~ 30 min 均出现不 
+同程度的震颤 、竖毛、翘尾 ，MPT P 第 5 次注射后 ，PD 
+组小 鼠出现步态蹒跚 、活动减少、动作变慢等症状 ；对 
+照组未出现上述行为学变化 ；R bl 组与 PD 组 相 比较 ，
+ 
+上述行为学症状明显减轻 。 
+2．2
+免 疫 荧光双 重显 色 
+模型组 中脑黑质区可见 T H 免疫荧光单标记细胞 
+为红色( 图 1A 、D 、G ，见封- - ) ，GRP78 免疫荧光单标 
+记细胞为绿色 ( 图 1B 、E 、H ，见封二) ，融合图像可见橘 
+一
+3 5 9
+—  
+黄色荧光 ，表 明 G R P 7 8 与 T H 有部分共定位 ( 图 1C
+，见
+封 二 ) ；c a s p a s e
+一 12
+、
+c a s p a s e
+- 3 和 T H 也 有部 分 共 定 位 ，
+融合 图像呈 橘黄色荧 光 ( 图 1F
+、 I
+，见 封 二 )
+。
+2 ． 3
+免 疫 组 织 化 学检 测 结 果
+对 照 组 小 鼠 中脑 黑 质 区 可 见 大量 T H 阳 性 细 胞
+，
+胞 质 着 色 棕 黄
+， 排 列 整 齐
+， 呈 条 带 状
+， 轴 突 密 集 ；
+G R P 7 8
+、
+c a s p a s e
+- 1 2
+、
+c a s p a s e
+- 3 免 疫 阳 性 细 胞 较 少
+， 其
+中 G R P 7 8
+、
+c a s p a s e
+- 3 阳 性 表 达 主 要 位 于 细 胞 质 且 胞
+质 着 色 较 淡
+， c a s p a s e
+- 1 2 在 细 胞 质 中有 弱 表 达
+。
+与 对
+照 组 比较
+，模 型 组 小 鼠黑 质 区 T H
+阳 性 细 胞 缺 失
+， 胞
+间纤 维 稀 疏 ； G R P 7 8
+、
+c a s p a s e
+- 1 2 和
+c a s p a s e
+- 3 免 疫 阳
+性 细 胞 增 多
+， 阳 性 细 胞 着 色 加 深
+， 且 分 布 与 T H
+阳 性
+细 胞 高度
+一
+致
+。
+与模 型 组 比 较
+， 干 预 剂 低 浓 度 组 T H
+阳 性 细 胞 丢 失 程 度 减 轻
+， G R P 7 8
+、
+c a s p a s e
+- 1 2 和
+c a s p a s e
+- 3 免疫 阳性 细胞 减 少
+。
+图像分 析 结 果 显 示
+， 差
+异 具 有 统计学 意 义 ( P <
+0
+． 0 1
+， 表 1 ， 图 2
+， 见 封 二 )
+。
+表 1
+各 组 小 鼠黑 质 区 331
+、 G R P 7 8
+、 C a s p a s e
+- 12 和 C a s p a s e
+- 3 阳性细胞数量 的变化 ( H
+=
+15
+，
+i ±
+s )
+T a b 1
+N u m be r
+o f p o s i t i v e
+c e l l s
+o f T H
+． G R P 7 8
+．
+c a s p a s e
+- 1 2
+a n d
+c a s p a s e
+- 3 i n
+d i f f e r e n t g r o u p s
+( "
+=
+15
+．
+i 士 s )
+2
+． 4
+免 疫 印迹 法 检 测 结 果
+预染蛋 白标准相 对 分 子 质量 约 6 1 k D 处 可 见 T H
+特 异性 蛋 白条带 ，对 照 组 蛋 白条带 着 色最 深
+， 模 型 组 着
+色较 浅 ，干预 剂低 浓 度 组 和 干 预 剂 高浓 度 组 与模 型 组
+比较条带着 色 较 深
+。
+经 图像 分 析
+， 差 异 具 有 统 计 学 意
+义 ( P <
+0
+． 0 1 ， 图 3 )
+。
+预 染蛋 白标 准相 对 分 子 质量 约
+7 8
+、 4 6 和
+3 0
+k D 处 分 别 可 见 G R P 7 8
+、
+c a s p a s e
+一 1 2 和
+c a s p a s e
+一 3 特异性 蛋 白条带
+，对照组 蛋 白条带不 明显
+，模
+型 组 条带 略宽 ， 着 色最 深
+， 与模 型 组 比较 ， 干 预 剂 低 浓
+度组 和 干 预 剂 高浓 度组 蛋 白条 带 着 色 变 浅 ， 结 果 分 析
+显 示
+，差 异具有统计学 意义 ( P <
+0
+． 0 1 ， 图 3 )
+。 干 预剂
+低浓度组 与干预 剂高浓度组 比较无 明显 差异
+。
+T H
+嘲蛹漱
+。蝴 姆
+3嘲鞠▲
+蝴 懒
+b
+G R P 7 8
+霸秽
+帮
+霸弊 骥
+黉醺孥骜 斓繁照黪
+c a s pa s e
+一 12 鋈弩嚼曝 蔫尝墓黪 斓酾鞫麟
+j，嘲黼
+。。s p 硒 e
+— s
+瑚酾螭妒 霸嗣攀 前彝醣茹酒鞫嘲骖
+p- ac ti n
+睁
+慧
+掣孥0醐睁
+! ! T H
+心 G R P 78
+日 c a s p a s e
+一
+12
+111 c a s p a s e
+一 3
+罩
+-喜
+疆
+喜喜
+三
+。
+J
+1 2
+l
+4
+图 3
+中脑 黑质 区 T It
+、 G R P 78
+、
+c a s p a s e I l 2 和 c a s p ~
+e
+- 3 免疫 印迹 结 果
+P ig 3
+W e s t e r n
+b lo t
+o f T It
+， G R P 78
+，
+c a s p a s e _ 1 2
+a n d
+e ~
+p a s e
+- 3
+i n
+t h e S N
+o f t h e
+m i d b r a i n
+1 ： C o n t r o l g r o u p ； 2 ： M o d e l g r o u p ； 3 ： L o w
+do s e R b l
+g r o u p ；
+4 ： H ig h do s e R b l
+g r o u p ．
+△ P <
+O ． 0 1
+7) 5
+c o n t r o l g r o u p ； △ △ P <
+0
+． 0 1
+"U S
+m o d e l g r o u p ；
+一
+P <
+O． 0 1
+V 5
+m o d e l g r o u p ( r e s u lt s f r o m
+72 h
+a ft e r
+t h e fif t h in j e c t io n
+o f M IP T P )
+3
+讨 论
+内质 网应激 ( E R S ) 是细胞 的
+一
+种应 激反应过 程
+，在
+缺氧
+、 饥饿
+、 钙平衡紊乱
+、 自由基 侵袭及 药物 等情 况 下
+，
+均可 导致 内质 网功能失调
+。 适 度 应 激 会激 活 未折 叠 蛋
+白反 应 ( u n f o ld p r o t e i n
+r e s p o n e
+， U P R )
+，使蛋 白折叠 能
+力提 高
+、 蛋 白合 成 抑 制 ， 以 适 应 应 激 ， 但 是 长 时 间或 过
+强 E R S 可 触发其介 导 的凋 亡 信号 通 路
+。
+文献 报 道 ，许
+多神 经 系 统 退 行 性 疾 病 与 E R S 相 关 ∞j
+。
+分 子 伴 侣
+G R P 7 8 和
+c a s p a s e
+一 1 2 是 E R S 时表 达 增 多 的两 种 分 子
+，
+其 中 G R P 7 8 是应激 激 活 的标 志 ， 而
+c a s p a s e
+一 12 则 引起
+c a s p a s e 级 联反应启动细胞凋 亡 程 序
+_ 6“ j
+。
+有研究表 明 ， E R S 与 P D 病 理 过 程 密切 相 关
+， 可 能
+是 P D 患者黑 质 D A 能神经 元 缺失 重 要 因素
+l_9]
+。
+A ll a di
+等 r lo] 在 P D 患 者脑 内发 现 G R P 78
+、
+c a s p a s e
+一 12 显 著 活
+化
+。 本实验 结 果 显 示
+， 模 型 组 小 鼠 黑 质 区 出 现 大 量
+G R P 7 8
+、
+c a s p a s e
+一 12 阳性 细 胞
+， 其 蛋 白水 平 也 升 高 ， 同
+时 T H 阳性神经 元 大量 缺失
+， 蛋 白水 平 降低
+。
+提 示 中
+脑黑质 区 D A 能神经 元 大量 缺失可 能 与黑 质 区 E R S 密
+切相关
+。 为进
+一
+步明确 D A 能神经 元 变性 缺失 与 E R S
+的关 系 ， 本 实 验 结 果 显 示
+， 中 脑 黑 质 区 绝 大 多 数
+G R P 7 8
+、
+c a s p a s e
+一 12 阳 性 细 胞 是 D A 能 神 经 元
+。
+该 结
+果提示 模 型 组 黑 质 区 残 存 的 D A 能 神 经 元 可 能 发 生
+E R S 反 应
+。
+以 上 结 果表 明 ，在本 实 验 条件 下
+， 中脑 黑 质
+D A 能神经 元 大量 丢失 可 能 与 E R S 在 D A 能神 经 元 内
+介导 的凋亡 程 序 密切 相 关
+， E R S 可 能 是 D A 能 神 经 元
+变性丢失的关键事件 。
+C a s p a s e
+一 3 是细胞 凋 亡 的最 终 执行 者 ， 在 P D 患 者
+脑 内 D A 能神经 元 丢失 的同时存在 c a s p a s e
+一 3 活化 口川
+，
+而抑制 c a s p a s e
+一 3 激 活能 明显 起 到对 D A 能神经 元 的保
+护作用 _ 】
+引
+。
+Y a n g 等[ 】副 在体 外 实验 中表 明抑 制 内质 网
+应激反应 能够减 少
+c a s p a s e
+- 3 表 达
+， D A 能 神 经 元 丢 失
+程度得以减轻 。鉴于 E RS 、caspase一3 以及 PD 发病可 
+能存在的联系 ，本 实验观察 了上述 三者在 中脑黑质 区 
+的表达情况 。结果显示 ，模型组 中脑黑质 caspase一3 表 
+达水平升高 ，其分布与 GRP78、caspase一12 和 T H 阳性 
+细胞相一致 。以上结果表明 ，caspase-3 可能参与 中脑 
+黑质区 DA 能神经元 内 E R S 凋亡通路中 caspase一12 所 
+介导的凋亡过程 ，并且与 DA 能神经元变性丢失密切相 
+关 。为进一步 明确上 述三 者在 中脑黑 质 区的表达 关 
+系 ，本实验免疫荧光双标记显 色结果显示黑质 区大多 
+数 caspase一3 阳性细胞与 T H 有部分共定位 ，表 明其是 
+DA 能 神 经 元 表 达 。当 给 予 R bl 处 理 后 黑 质 区 
+GRP 78、caspase一12 、caspase一3 阳性 细胞 大幅减少 ，蛋 
+白水平降低 ，T H 阳性神经元 丢失程度得到减轻 ，小 鼠 
+行为学症状得 以改善 。以上实验结果表 明，在本实验 
+条件下 ，MPT P 可导致 DA 能神经元 内 E RS 凋亡通路 
+的激活 ，启动 caspase一3 表达 ，导致 DA 能神经元变性丢 
+失 。Rbl 抑制 E RS ，保护了 由 MPT P 介导的 DA 能神 
+经元损伤 。由此认 为 ，在 MPT P 诱导 的 PD 小 鼠模型 
+中，抑制 E RS 对 DA 能神经元可能具有一定 的神经保 
+护作用。 
+图版说 明( 图见封二 ) 
+图 1 
+GRP78、caspase- 12 和 caspase-3 与 T H 免疫荧光双标记显色 ，400× 。 
+A ，D ，G ：模 型组 中 T H 阳性 细胞 呈 红 色 ；B ，E ，H ：模 型组 中 
+GR P78、caspase-12、caspase-3 阳性细胞 呈绿色 ；C ，F ，I ：分别 为 
+T H 和 GRP78、caspase- 12、caspase一3 共存 的细胞呈橘黄色．
+ 
+图 2
+中脑黑质 区 T H 、GRP78、caspase-12 和 caspase一3 免疫 组织化 学 
+显色 。A ，B ，C ：T H ，200× ；D ，E ，F ：GRP78，400× ；G ，H ，I ：
+ 
+caspase-12，400× ；J ，K ，L ：caspase-3，400× ；A ，D ，G ，J ：对 照 
+组 ；B ，E ，H ，K ：模 型组 ；C ，F ，I ，L ：干预剂组一1．
+ 
+E xp lanat ion of  f igur es ( S ee inside f ront  cov er ) 
+F ig 1 D o uble-l abeling imm unofl uorescence ass ay  of G R P 78，c as pas e- 12 ，
+ 
+casp as e- 3 and T H ，400 × ． A ，D ，G ：T R IT C  1abeling f or T H  in 
+model g roup ( red ) ；B ，E ，H ：F IT @ l abeling for GR P 78 ，c as pas e一 
+12 and casp ase- 3 in model group ( green) ；C ：M erged imag e of A  
+and B ； F ： M erged image of D  and E ； I ： M erged imag e of  G  
+a nd H ．
+ 
+F ig 2 SP  immuno hist och emic al st aining for T H ，GR P 78 ，caspase- 12 and 
+caspase一3 in SN  of the m idbrain．J ，K ，L ：Imm unohistoc hem ical 
+st aining f or T H ，200 × ；M ，N ，O ：Im munohi st ochem ical st ain ing 
+for G R P 7 8，400 × ；P ，Q ，R ：Imm unoh istochemic al s taining for 
+caspase- 12 ，400 × ； S ， T ， U ： I mmu nohis toc hem ieal st ain ing f or 
+caspase一3 ，400× ．J ，M ，P ，S ：Co ntrol group ；K ，N ，Q ，T ：mo d— 
+el grou p；L ，O ，R ，U ：low dos e R b l group． 
+参 考 文 献 
+[ 1]
+E berhardt O，Schulz J B．Apoptotic mechanisms and antiapoptotic 
+therapy in the MPT P model of Parkinson’disease [ J ]．T oxieol 
+L ett ，2003 ，139( 2—3 ) ：135—151．
+ 
+[ 2 ]
+R asheva V  I ，Do mingos P ^，L Cellular responses to endoplasmic 
+reticulum stress and apoptosis [ J ]． A poptosis，2009，14 ( 8 ) ：
+ 
+996—1007．
+ 
+[ 3 ]
+T anaka M ，Y amazaki M ，C hiba K ．Neuroprotective action of ge— 
+nipin on tunicamycin-induced cytotoxicity in neuro2a cells _J ] ．Bi— 
+ol P harm  B ul1，2009 ，32 ( 7) ：1220—12 23．
+ 
+[ 4 ]
+Hwang Y  P ，J eong H G．Ginsenoside R bl protects against 6一 
+hy drox y do pamin e- induced ox idat iv e s tr ess by  incr easing heme ox — 
+ygenase一1 expression through an estrogen r ecept0卜related PI3K ／ 
+A kt／Nrf2一dependent pathway in human dopaminergic cells [ J ] ．
+ 
+T oxicol A ppl P harmacol ，20 10，2 42( 1) ：18—28．
+ 
+[ 5 ]
+L indholm D ，W ootz H ，K orhonen L ．ER stress and neurodegen— 
+erative diseases I-J ] ．Cell Death Differ，2006，13(3) ：385—392． 
+L 6 ]
+Martinez J A ，Zhang Z ，Sv etlov S I ，et al，C alpain and caspase 
+processing of caspase一12 cont rib ut e t o t he E R  s tress—indu ced cel 1 
+death pathway in differentiated PC12 cells 口] ．A poptosis，2010，
+ 
+15 ( 12 ) ：1480—1493．
+ 
+[ 7 ]
+K ishi S，Shimoke K ，Nakatani Y ，et al，Nerve growth factor at— 
+t enuates 
+2 deox y- d-g lucos e- tr igg ered 
+endopl asm ic 
+retic ulum 
+stress-mediated apoptosis via enhanced ex pression of GR P78 [J ] ．
+ 
+N eurosc i R es ，20 10 ，66 ( 1) ：14—21．
+ 
+[ 8 ]
+F ribley A ，Zhang K ，K aufman R J．R egulation of apoptosis by 
+the unfolded protein response [J ]．Methods MoI Bio，2009，559 
+( 10) ：191—20 4． 
+[ 9 ] 
+Shastry B s  N eurodegenerative disorders of protein aggregation 
+[ J] ．Neurochem Int，2003，43( 1) ：1- 7．
+ 
+[ 1O]
+A lladi P A ，Mahadevan A ，V ijayalakshmi K ，et al，A geing en— 
+han ces al pha syn ucl ein ， ubiquit in 
+and 
+endopl asm ic 
+ret icu lum 
+st ress prot ein ex pression in t he nigr al neurons of A s ian I ndians 
+I-j ] ．Neurochem Int，2010，57( 5) ：530—539．
+ 
+[ u ]
+H an B S，Hong H S ，C hoi W  S，et a1．Caspase_dependent and — 
+indep endent cell deat h pat hw ay s in p rimar y cul tu res of m es enee— 
+phalic dopaminergic neurons after neurotox in treatment [ J ] ．J 
+N euros ci ，2003 ，23( 12) ：5069—5078．
+ 
+[ 12]
+Ikeda Y ，T suji S ，Satoh A ，et a1．Protective effects of astaxan— 
+th in on 6- hy drox y dop amin e indu ced apopt osis in hum an neu roblas— 
+toma SH—SY 5Y cells [ J ] ． J Neuroehem， 2008，107 ( 6 ) ：
+ 
+1 7 3 0—17 4 0 ．
+ 
+[ 13]
+Y ang W ，T iffany Castiglioni E ，K oh H C ，et a1．Paraquat acti— 
+vates the IR E 1／A SK 1／J N K  cascade associated with apoptosis in 
+human neuroblastoma SH—S Y 5Y  cells [ J ] ．T oxicol L ett ，2009， 
+191( 2- 3) ：203—210．
+ 
+( 编 辑 ：刘 
+芳 ) 
+一
+361
+—  
+1
+◎
+@
+≤醚
+≤攀 摹
+⑨
+◎
+③
+l
+：
+k
+’
+I
+飞
+i §
+、
+．
+卜
+．
+一
+、
+；
+I
+． 、
+’ 、
+@
+‘
+-
+' ' |
+‘
+～ 。
+。
+。
+．1r
+p
+● 1 F
+▲
+．
+毒
+j
+譬
+●
+-__．二 二竺
+2 二壶
+1 T
+●
+r
+，
+l
+办
+@
+③
+④

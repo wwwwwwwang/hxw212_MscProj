@@ -1,0 +1,671 @@
+中国实验诊断学
+2022年12月
+第26卷第12期
+文章编号：l 007—4287( 2022) 12一1839一06
+1839
+基于TGFl 31／Smad4信号通路探究人参四逆汤
+对亚临床甲状腺功能减退症大鼠心功能的影响
+高艳超，柳越，王
+岩，孙永艳
+( 朝阳市第二医院内分泌科，辽宁朝阳122000)
+摘要：目的基于转化生长因子p1( TGFpl ) ／smad同源物4( smad4) 信号通路探究人参网逆汤对业临床甲状腺
+功能减退症( scH) 大鼠心功能的影响。方法
+随机数字表法将60只大鼠分为假手术组、scH组、I 。T。组、低剂量
+组、高剂量组、高剂量+I 。Y2109761组( TG耶1／smad4通路抑制剂I 。Y2109761) ，10只／组；甲状腺全切术及术后皮下
+注射I ．T{ 建造s( ：H模型大鼠，成功后各组分别灌胃相应剂量药物或生理盐水，为期30 d，实验结束观察大鼠一般状
+况；检测大鼠心功能指标；EI ．I sA法检测血清中促甲状腺激素( TsH) 、总甲状腺素( TT4) 水平；HE染色观察大鼠心肌
+组织病理学情况；west ern bl ot 检测心肌组织肌浆网钙离子ATP酶2a( serca2a) 、Ryanodi ne受体( Ryr2) 及TGFBl ／
+smad4通路蛋白表达。结果
+与假手术组相比，大鼠左心室收缩压( I 。VsP) 、左室内J 土上升最大速率( I 。V+df ) ／dt
+max) 、心率( HR) 、左室内压下降最大速率( I ．V dp／dt max) 、serca2a、Ryr2蛋白水平在scH组显著降低，左心事舒张末
+压( I 。VEDP) 、TsH水平、心肌组织病理学程度、TGF8l 、smad4蛋白水平在scH组显著增加( P<o．05) ；与scH组相
+比，I ．VsP、I 。V+dp／dl Hl ax、HR、I 。V dp／dl max、serca2a、Ryr2蛋白水平在I 。T【组、低剂量组、高剂量组及高剂量+
+I 。Y2109761组显著增加，I 。VEDP、TsH水平、心肌组织病理学程度、T( ；即1、smad4蛋白水平在I ．Tl 组、低剂量组、高
+剂量组及高剂量+I 。Y2109761组显著降低( P<o．oj ) ，且低剂量组与高剂量组间比较差异有统计学意义( P<o．05) ；
+与高剂量组相比，I 。VsP、+dp／mmax、HR、dp／dt max、serca2a、Ryr2蛋白水平在高剂量+I 。Y2109761组屁著增加，
+I ．VEDP、TsH水平、心肌组织病理学程度、TGFBl 、smad4蛋白水平在高剂量+I 。Y2109761组显著降低( P<o．05) 。
+结论
+人参四逆汤通过抑制TG邯l ／smad4通路改善scH大鼠心功能。
+关键词：人参四逆汤；心功能；亚临床甲状腺功能减退症；转化牛长囚子8l ；Smad同源物4
+中图分类号：R581．2
+文献标识码：人
+Expl ori ng t he ef f ect
+of Renshen Si ni
+Decoct i on on t he heart f unct i on of rat s wi t h subcl i ni cal
+hypot hyroi di smbased on t he
+TGFpl ／Smad4
+si gnal i ng pat hway
+( ；Ao ya 77( ^Ho，LJ U y“ P，WANG 1y“ 挖，Ff “ z．( DPp出rf 7"P” f
+o~，1 E” do( ri ” ozogy，
+C，z“ uy“ "g Se( u” 矗Ho』pi f “ f ，C?，7“ oy“ "g
+1 22000，C?，7i ” “ )
+Abst ract ：obj ect i ve
+Bascd
+on t hc
+t ransf ormi ng
+growt h ract or芦l ( TGFpl ) ／mot hcrs
+agai nst
+DPP homol og
+4
+( Smad4) si gnal i ng pat hway，t o expl ore l he ef f ect
+of Renshen Si ni
+Decoct i on on t he hearl
+f unct i on of
+subcl i ni cal
+hypo卜
+hyroi di sm( SCH) rat s．Met hods
+Si xt y rat s
+were di vi ded i nt o shamoperat i on group，SCH group，I ．T4 group，l ow dose
+grouI ) ，hi gh dosc
+grouI ) ，hi gh dosc+I 。Y210976l
+group( 1、GF口l ／Smad4 pat hway i nhi bi t or I 。Y2109761) by randomnum
+ber t abl e met hod，wi t h
+1 O rat s／group；t ot al
+t hyroi dect omy
+and post operat i ve subcut aneous
+i nj ect i on of
+I ．T以were per_
+f ormed
+t o bui l d SCH model
+rat s，and af t er success，each group was gi ven correspondi ng doses of drugs
+or normal
+sal i ne
+f or 30 days．Af t er
+t he experi ment ，t he general
+condi t i ons
+of
+t he rat s were observed；t he i ndi cat ors of
+rat
+heart f unct i on
+were det ect ed；1he 1evel s of
+serum 1hyroi d s“ mul at i ng h( ) rmone( TSH) and
+t ( ) l al t hyroxi ne( TT4) were det ecI ed
+wi t h
+EI 。I SA met hod；t he pat hol ogy of
+rat myocardi al
+t i ssue was observed wi t h HE st ai ni ng；t he expressi on of myocardi al
+t i s
+sue sarcopl asmi c re“ cul umcal ci um ATPase 2a( serca2a) ，Ryanodi ne recept ( ) r( Ryr2) and T( j F口1／Smad4
+pat hway pro
+t ei ns was det ect ed wi t h West ern bl ot ．Resul t s
+Compared wi t h仆1e sham operat i on group，t he
+l ef t
+vent ri cul ar
+syst ol i c
+pressure( I ．VSP) ，t he maxi mum rat e of
+l ef t
+vent ri cul ar
+pressure i ncrease( I ．V+dp／dt max) ，heart
+rat e( HR) ，and t he
+maxi mumrat c or
+l crt
+vcnt ri cul ar
+1) rcssurc dccrcasc( LV dp／dt max) ，scrca2a and Ryr2
+1) rot ci n l cvcl s
+wcrc si gni ri cant l y
+reduced i n t he SCHgroup，t he 1ef t
+vent ri cul ar end di ast 01i c pressure( I 。VEDP) ，TSH 1evel ，myocardi al
+hi st opat h0109y，
+TGF8l
+and Smad4
+prot ei n l evel s
+were
+si gni f i cant l y i ncreased i n t he SCH group( P<O．05) ；compared wi t h t he SCH
+gr( ) up，t he I 。VSP，I ．V+dp／dl max，HR，I ．V dp／dl max，serca2a，and Ryr2
+prot ei n 1evel s
+were si gni f i canl l y
+i ncreased i n
+t he I ．T4 group，l ow dose
+gr( ) up，hi gh dose group，and hi gh dose+I 。Y2109761 group，l he I 。VEDP，TSH l evel ，myocar
+di al
+hi st opat hol ogy，TGFBl
+and Smad4 prot ei n l evel s
+were si gni f i cant l y reduced i n t he I 。T4 group，l ow dose group，
+万方数据
+1840
+hi gh dosc group，and hi gh dosc+I 。Y210976l
+grouf ) ( P<O．05) ，and t hc
+di rrcrcncc bct wccn t hc l ow dosc grouf ) and t hc
+hi gh dose group was st al i s“ cal l y si gni f i canl ( P<O．05) ；compared wi t h t he
+hi gh d( ) se group，t he I 。VSP，+dp／dt max，
+HR，dp／dt max，scrca2a，and Ryr2 prot ci n l cvcl s
+wcrc si gni ri cant l y i ncrcascd i n t hc hi gh dosc+I 。Y210976l
+grouI ) ，t hc
+I 。VEDP，TSH l evel ，myocardi al
+hi sl opat hol ogy，T( ；FBl
+and Smad4 prot ei n l evel s
+were si gni “ canl l y reduced i n l he hi gh
+dose+I 。Y2 1 0976 1 group( P<O．05) ．Concl usi on
+Renshen Si ni
+Decoct i on can i mprove t he heart f unct i on of SCHrat s
+by i nhi bi t i ng t he TGFBl ／Smad4 pat hway．
+Key words：Renshen Si ni
+Decoct i on；heart
+f unct i on；subcl i ni cal
+hypot hyroi di sm；t ransf ormi ng
+growt h
+f act or
+81；
+mot hcrs agai nst DPP homol og 4
+( C^i "J
+L“ 6 Di “ g” ，2022，26：1839)
+亚临床甲状腺功能减退症( subcl i ni cal
+hypo卜
+hyroi di sm，sCH) 被定义为血清促甲状腺激素( t hy
+roi d st i mul at i ng hormone，TSH) 水平升高，而游离
+甲状腺素( Free t hyroxi ne i ndex，FT4) 及游离三碘
+甲腺原氨酸( Free t ri i odot hyroni ne，FT3) 水平正常
+的一种甲状腺疾病，慢性自身免疫性甲状腺炎是其
+发生的主要原因之一，该疾病影响全球高达10％的
+成年人口1。大量研究发现，SCH可能与心力衰
+竭、冠心病等心脏疾病的发生风险增加及患者死亡
+有关1。2。因此有必要对SCH患者心脏损伤的治疗
+机制进行探究。人参四逆汤由人参、干姜、附子及甘
+草构成，在临床中具有治疗冠心病、心源性休克、心
+力衰竭等心脏疾病的作用，但其在scH引发的心
+脏疾病中的治疗机制还未见报道⋯ 。TGF|3通路在
+垂体发育、分化和功能的多个过程中十分活跃，有研
+究表明，转化生长因子81( t ransf ormi ng growt h f ac一
+10r pl ，TGFpl ) ／Smad同源物4( mot hers
+agai nsl
+DPP hom0109 4，smad4) 信号通路不仅参与scH的
+发生，还与心血管疾病的发生具有密切联系，其激活
+会致使心肌损伤卧⋯ 。因此，有必要探讨人参四逆汤
+是否可通过影响TGF|3l ／Smad4通路来对SCH患
+者心功能起到保护作用，本研究通过对其探究，以期
+为人参四逆汤在SCH中的治疗机制研究提供参
+考。
+1材料与方法
+1．1
+实验动物
+上海吉辉实验动物饲养有限公司购得的7周龄
+60只雄性大鼠( SPF级，wi st ar) ( 205± 30) g，适应
+性分笼喂养1周( 自由采食饮水，通风，光暗循环12
+h，温度23～25℃，湿度55％) ，许可证：SCXK( 沪)
+2017一0012。本研究获得医院动物伦理委员会的批
+准( 批准文号：2020—0013) ，符合3R原则。
+1．2主要试剂
+左甲状腺素钠片( I ．T4) ( 50"g，国药准字
+H20041605，扬子江药业集团四川海蓉药业有限公
+司) ；I 。T4针剂( 批号：1365065，Si gma USA，生理盐
+水配置为o．95” g／mI 。) ；I 。Y2109761( 货号：HY
+12075，MedChemExpress I ．I 。C) ；BCA蛋白检测试
+剂盒( 货号：FT D24505，上海梵态生物科技有限公
+司) ；苏木精伊红( hemal oxyl i n eosi n，HE) 染色试
+剂盒( 货号：ZY7070 100 m1，上海泽叶生物科技有
+限公司) ；TSH、总甲状腺素( Tot al
+Thyr。xi ne，
+TT4) 酶联免疫吸附实验( Enzyme 1i nked i mmu
+nosorbent assay，ELI SA) 试剂盒( 货号：HL20061、
+HI 。20058，上海哈灵生物科技有限公司) ；兔抗
+TGFJ 31、GAPDH、smad4、Ryanodi ne受体( ryanod
+i ne recept or
+2，Ryr2) 抗体、( j oat
+Ant i —Rabbi t
+I g( j
+H＆。L( HRP) 抗体( 货号：21898—1 AP、10494—1 AP、
+10231—1一AP、
+19765—1 AP、
+SA00001—2，
+Prot ei n—
+t ech) ；肌浆网钙离子ATP酶2a( sarcOpl asmi c ret i c—
+ul umCa” 一ATPase，serca2a) ( 货号：PA5
+78837，I n—
+vi t rogen Ant i bodi es) 。
+E Gel I mager凝胶成像仪( 上海宾智生物科技
+有限公司) ；FI 。u( ) st ar( ) mega全自动多功能酶标仪
+( 香港伯齐科技有限公司) 。
+1．3
+分组及SCH模型构建
+人参四逆汤中所用药材配置( 人参6 g、附子10
+g、干姜6 g、甘草5 g，按照1：5加水煎煮2次，50
+mi n／次，合并煎液后过滤、浓缩至l
+g／mI J
+6；随机
+数字表法将60只大鼠分为假手术组、SCH组( 模型
+组) 、L—T【组( 5肚g／kg L—T．) L7] 、低剂量组( 3 g／kg
+人参四逆汤) 、高剂量组( 12 g／kg人参四逆汤) ⋯ 、
+高剂量+I 。Y2109761组( 12 g／kg人参四逆汤+l
+pg T( ；Fj 31／Smad4通路抑制剂I 。Y2109761) [ L) ，10
+只／组；甲状腺全切术及术后皮下注射L L建造
+SCH模型大鼠：水合氯醛腹腔麻醉后暴露并剪断双
+侧甲状腺肌，摘除两侧甲状腺后缝合，术后给予基础
+饲料及含有o．1％Ca2。‘
+高钙水，假手术组仅暴露甲
+状腺，给予基础饲料喂养；术后均进行3 d 5万单位
+青霉素注射，术后2周后进行颈部皮下注射I ．T。
+万方数据
+中国实验诊断学
+2022年12月
+第26卷第12期
+( o．95肚g／100 g／d) ，假手术组注射等剂量生理盐
+水，为期16 d[ 1⋯ ，于第17 d尾部取血，检测SCH组
+大鼠TSH及TT4水平，若高于假手术组TSH均
+值的90％CI ：o．014～o．02肚I u／mI 。TT4均值的
+90％CI ：46．57～63．27 ng／mL，即造模成功L70；造模
+成功后按照临床70 kg患者所服剂量，根据人与动
+物体表面积换算，I 。L组、低剂量组、高剂量组、高
+剂量+I 。Y2109761组大鼠分别给予相应剂量I 。T。
+或人参四逆汤，假手术组、scH组灌胃等剂量生理
+盐水，为期30 d，实验结束观察大鼠一般状况。
+1．4大鼠心脏血流动力学指标检测
+于灌胃结束后使用4％戊巴比妥钠腹腔麻醉大
+鼠，切开大鼠颈部皮肤，待右侧颈总动脉充分暴露后
+置入20( ；的血管鞘，使其从主动脉瓣进入左心室记
+录左室内压上升最大速率( maxi mal
+rat e of t he i n
+crease
+of
+l ef t
+vent ri cul ar
+pressure，I ．V+dp／dt —
+max) 、左室内压下降最大速率( maxi mal
+rat e of t he
+decrease
+of
+l ef t
+vent ri cul ar
+pressure，LV—dp／dt —
+max) 、心率( heart
+rat e，HR) 、左心室收缩压( 1ef t
+vent ri cul ar syst ol i c pressure，I 。VSP) 以及左心室舒
+张末压( 1ef t
+vent ri cul ar end di ast ol i c pressure，LV
+EDP) ，共记录5个心动周期取平均值( 们一5) 。
+1．5
+ELl sA法检测血清中TsH、TT4水平
+所有大鼠血流动力学指标检测结束后，取大鼠
+腹主动脉血3 ml ，静置( 30 mi n) 后3 000 r／mi n进行
+离心( 15 mi n) 吸取上清，严格根据TSH、TT4放免
+试剂盒说明书步骤操作检测二者血清水平( ” 一10) 。
+1．6
+HE染色
+随机选取大鼠( 5只) 处死并取出心脏组织浸于
+多聚甲醛( 10％) 磷酸缓冲液中固定1 d，经二甲苯、
+乙醇梯度处理后包埋，制作常规石蜡切片( 5肚m) ，
+依次进行脱蜡、水化，用苏木精和伊红染色后脱水，
+透明、中性树脂封片、光学显微镜下进行观察拍照( "
+一5) 。
+1．7
+west ern bl ot 检测心肌组织serca2a、Ryr2及
+TGF肛1／Smad4通路蛋白表达
+将剩余大鼠心脏组织置于RI PA缓冲液中裂
+解，使用匀浆器制作组织匀浆，离心收集上清，BCA
+法定量蛋白质浓度，制作分离胶( 10％) ，以50” g／
+孔蛋白样品进行SDS—PA( j E凝胶电泳分离并转至
+偏氟乙烯膜，牛血清白蛋白封闭( 2 h) ，圹C孵育一抗
+( 兔抗serca2a、Ryr2、( ；APDH、T( ；FJ 31、Smad4抗
+体) ( 1：1 000) ，过夜后将膜在二抗( HRP标记的
+I g( ；) ( 1：1 000) 中孵育( 2 h) ，ECI 。一Pl us蛋白印迹
+1841
+检测试剂对蛋白条带进行可视化，使用蛋白凝胶成
+像仪观察条带，Quant i t y( ) ne软件分析条带灰度，
+计算serca2a、Ryr2、TGF81、Smad4水平( ” 一5) 。
+1．8统计学分析
+应用SPSS 22．o进行数据分析，符合正态分布
+时数据用均数± 标准差( 孑± s) 描述，单因素方差分
+析( AN( ) VA) 进行多组样本比较，SNK q检验进行
+多重比较，P<o．05为差异具有统计学意义。
+2
+结果
+2．1大鼠一般情况观察
+假手术组大鼠皮毛有光泽、运动灵敏、大便成
+形；scH组大鼠皮毛枯黄、脱落稀疏、大便不成型、
+反应迟缓、弓背；与SCH组相比，L T。组、低剂量
+组、高剂量组大鼠皮毛脱落减轻、大便成形、反应较
+为敏捷；与高剂量组相比，高剂量+I 。Y2109761组
+大鼠上述症状进一步得到改善。
+2．2
+人参四逆汤对大鼠血清中TSH、TT4水平的影
+响
+与假手术组相比，大鼠血清中TSH水平在
+SCH组显著增加( P<o．05) ；与SCH组相比，TSH
+水平在L T。组、低剂量组、高剂量组及高剂量+
+LY2109761组显著降低( P<o．05) ；与低剂量组相
+比，TSH水平在高剂量组、高剂量+LY2109761组
+显著降低( P<o．05) ；与高剂量组相比，TSH水平
+在高剂量+LY2109761组显著降低( P<o．05) ；各
+组问TT4水平无显著性变化，见表1。
+表1
+人参四逆汤对大鼠血清中’
+rsH、Trl l 4水平的
+影响( 凡=10，i ± s)
+注：与假手术组相比，“ P<o．05；与SCH组相比，1’
+P<o．05；与
+I 。T1组相比，rP<o．05；与低剂量组相比，“ P<o．05；与高剂量组相
+比，。P<O．05。
+2．3
+人参四逆汤对大鼠心功能的影响
+与假手术组相比，大鼠LVSP、+dp／dt max、
+HR、
+dp／dt max在sCH组显著降低，I ．VEDP在
+SCH组显著增加( P<o．05) ；与SCH组相比，
+I 。VSP、+dp／dt max、HR、一dp／dt max在I 。T4组、
+低剂量组、高剂量组及高剂量+LY2109761组显著
+增加，I 。VEDP在I 。L组、低剂量组、高剂量组及高
+万方数据
+1842
+剂量+LY2109761组显著降低( P<o．05) ；与低剂
+量组相比，I 。VSP、+dp／dt max、HR、
+dp／dt max在
+高剂量组、高剂量+LY2109761组显著增加，LV
+EDP在高剂量组、高剂量+I 。Y210976l 组显著降低
+Chl n J
+I 。ab Di agn，December，2022．V01 26，No．12
+( P<o．05) ；与高剂量组相比，LVSP、+dp／dt max、
+HR、一dp／dt max在高剂量+I 。Y2109761组显著增
+加，I 。VEDP在高剂量+I 。Y2109761组显著降低( P
+<0．05) ，见表2。
+表2人参四逆汤对大鼠心功能的影响( H=10，i ± s)
+⋯ ．
+I ．VSP
+I 。VEDP
++dI ) ／dt max
+dp／dt max
+HR
+差H另U
+( mmHg)
+( mmHg)
+( mmHg／s)
+( mmHg／s)
+( Beat s／ml n)
+假手术组
+120．08± 14．21
+2．46± o．43
+2 540．1 6± 201．34
+2 990．42± 200．75
+4l o．46± 20．62
+SCH组
+I 。TI 组
+低剂量组
+高剂量组
+71．30± 5．43
+a
+11 5．75± 14．08
+b
+89．10± 6．78。1bc
+100．27± 5．23a岫
+10．80± O．41
+a
+2．67± O．24 b
+8．54± O．35ah
+5．10± O．41
+ab【1【=|
+1 251．08± 1d1．22
+a
+2 480．43± 198．64‘
+2 870．67± 186．75
+2 097．40± 186．70ab州
+2 309．40± 157．22ab州
+28d．36± 15．1l
+a
+402．79± 1 9．36 6
+326．1l ± 14．95ahr
+369．20± 14．38abccl
+高剂量+I 。Y210976l 绀
+114．7d± 7．80“ 山
+2．80± o．40¨ c
+2 410．65± 225．76hl c
+2 8j 8．27± 159．31l mc
+100．1 6± 1j ．07hl c
+注：与假手术组相比，‘
+1P<( ) ．( ) j ；与s( 、H组相比，“ P<( ) ．( ) 5；与I 。Tl 组相比，t P<( ) ．( ) i ；与低剂量组相比．c1P<( ) ．( ) 5；与高剂量组相比，t P<
+( ) ．( ) 5。
+2．4大鼠心肌组织病理学观察
+假于术组大鼠心肌细胞结构清晰完整、整齐排
+列、未见出现炎性细胞浸润；与假手术组相比，SCH
+组大鼠心肌细胞排列紊乱松散、肿胀、断裂坏死、炎
+性细胞浸润、充血现象明显；与SCH组相比，I 。一Tl
+一
+假手术组
+低剂量组
+组、低剂量组、高剂量组大鼠心肌细胞排列较为有
+序、肿胀坏死、炎性浸润、充血现象减轻；与高剂量组
+相比，高剂量+I 。Y2109761组大鼠上述症状得到进
+一步减轻，见图l 。
+摩
+麓
+sCH组
+麟
+高剂量组
+高剂量+LY2109761组
+图1
+大鼠心肌组织病理学观察( HE，200斗m)
+2．5
+人参四逆汤对大鼠心肌组织serca2a、Ryr2蛋
+白表达的影响
+与假于术组相比，大鼠心肌组织中serca2a、
+Ryr2蛋白水平在SCH组显著降低( P<o．05) ；与
+SCH组相比，serca2a、Ryr2蛋白水平在I 。T4组、低
+剂量组、高剂量组及高剂量+I ．Y2109761组显著增
+加( P<o．05) ；与低剂量组相比，serca2a、Ryr2蛋白
+水平在高剂量组、高剂量+LY2109761组显著增加
+( P<o．05) ；与高剂量组相比，serca2a、Ryr2蛋白水
+平在高剂量+I ．Y2109761组显著增加( P<o．05) ，
+见表3、图2。
+万方数据
+中国实验诊断学
+2022年12月
+第26卷第12期
+表3
+人参四逆汤对大鼠心肌组织serca2a、Ryr2蛋白表达
+的影响( n=l O，i ± s)
+注：与假手术组相比，3P<o．05；与SCH组相比，“ P<o．05；与
+I 。T一组相比，。P<o．05；与低剂量组相比，“ P<o．05；与高剂量组相
+比，。P<O．05。
+serca2a- 一- - - - -
+Ryr2- - - - - -
+㈣● —■ ● ■ ■ --● ● ■ ● ● ■
+A
+B
+C
+D
+E
+F
+图2
+人参四逆汤对大鼠心肌组织serca2a、Ryr2蛋白
+表达的影响
+注：A：假手术组：I j ：SCH组；C：I 。T【组；D：低剂量组；F：高剂量组
+F：高剂量+I ，Y21 0976l 绢
+2．6
+人参四逆汤对大鼠心肌组织TGFpl ／smad4
+通路蛋白表达的影响
+与假手术组相比，大鼠心肌组织TGFl 31、
+Smad4蛋白水平在SCH组显著增加( P<0．05) ；与
+SCH组相比，TGFl 31、Smad4蛋白水平在L T。组、
+低剂量组、高剂量组及高剂量+I 。Y2109761组显著
+降低( P<o．05) ；与低剂量组相比，TGFl 31、Smad4
+蛋白水平在高剂量组、高剂量+I 。Y2109761组显著
+降低( P<o．05) ；与高剂量组相比，TGFl 31、Smad4
+蛋白水平在高剂量+I 。Y210976l 组显著降低( P<
+0．05L见表4、图3。
+表4
+人参四逆汤对大鼠心肌组织TG邯1／smad4通路
+蛋白表达的影响( H=10，i ± s)
+注：与假手术组相比，“ P<( ) ．( ) 5；与s( 、H组相比，“ P<( ) ．( ) 5；与
+I 。T4组相比，。P<( ) ．( ) j ；与低剂量组相比，“ P<( ) ．( ) 5；与高剂量组相
+比，。P<( ) ．( ) i 。
+3讨论
+SCH是一种在成年人中患病率相对较高的一
+1843
+TGFB1一● —■ 一● —■ · l I．
+smad4_- - ● - - -
+㈣● —■ ● ■ ■ ● ■ ■ ● ■ ■ ● ■ ■ ● ■ ■
+A
+B
+C
+D
+E
+F
+图3
+人参四逆汤对大鼠心肌组织T( ：邱l ／smad4
+通路蛋白表达的影响
+沣：A：假手术组；1j ：SCH组；C：I ，TI 组；D：低剂最组；F：高剂最组
+F：高剂量+I ，Y2l 0976l 绸
+种甲状腺疾病【“ ] 。心血管系统中含有大量甲状腺
+受体，对TSH水平变化敏感性较强一] 。TSH水平
+异常增加会导致氧化应激、内皮功能异常，心力衰竭
+等心脏疾病的发生风险增大- J 。因此有效治疗
+SCH造成的心脏损伤对患者的生命健康十分重
+要‘ 1⋯ 。
+人参四逆汤是治疗冠心病等心脏疾病的常用
+药[ 121⋯ ，有研究发现，人参四逆汤可有效增强心衰模
+型细胞抗氧化及细胞存活能力⋯ 。甲状腺激素可通
+过直接作用于心肌细胞膜中钠、钙、钾离子通道来调
+节心脏中基因的表达，除此之外，还可通过影响外周
+循环来问接影响心血管系统[ 1“ 。Ryr2蛋白水平在
+心肌收缩中具有十分重要的作用，而serca2a则会
+通过将Ca’
+泵人内质网来完成心肌舒张期，还有研
+究发现在TSH外源性刺激心肌细胞后二者表达水
+平显著降低口¨ ⋯ 。本研究发现，人参四逆汤可有效
+增加SCH大鼠I 。VSP、I 。V+dp／dt max、HR、I 。V
+dp／dt max、serca2a、Ryr2蛋白水平，降低I 。VEDP、
+TSH水平、心肌组织病理学程度，该结果表明人参
+四逆汤能够有效改善SCH大鼠心功能及心肌损
+伤，因此可能具有治疗SCH造成的心肌损伤的良
+好作用。
+TGF|31是转录因子家族成员之一，参与细胞生
+长、分化、免疫炎症反应等细胞生理病理过程，
+smad4是其下游靶基因，可将上游信号从细胞表面
+受体传至细胞核中。5J 。研究发现，TGFBl 参与自身
+免疫性疾病，在慢性自身免疫性甲状腺炎所造成的
+甲减患者血清中表达显著增加” 。1⋯ 。心风胶囊通过
+抑制TGF pl ／Smads通路中TGF 13l 及Smad4蛋
+白表达来改善佐剂性关节炎大鼠的心功能和心肌损
+伤[ 1⋯ 。本研究发现，TGFl 31、Smad4在SCH大鼠心
+肌组织中表达显著增加，人参四逆汤则可显著降低
+二者表达水平；与前人研究结果相似M。1 9。该结果
+表明T( j F一|31／Smad4通路参与SCH造成的大鼠心
+肌损伤的发生。除此之外，本研究还发现，TGF 13l ／
+万方数据
+Smad4通路抑制剂LY2109761能够进一步增强人
+参四逆汤对sCH大鼠心肌损伤的改善作用。该结
+果表明，人参四逆汤对scH大鼠心功能的改善作
+用可能与其抑制TGFl 31／smad4通路有关。
+综上所述，人参四逆汤可能通过抑制TGFpl ／
+smad4通路改善scH大鼠心功能，以此达到治疗
+SCH患者心肌损伤的作用。本研究结果不仅为人
+参四逆汤在sCH心肌损伤治疗机制的研究提供数
+据支持，还对其发生机制的研究具有重要意义。但
+本研究仅对人参四逆汤影响TGFBl ／Smad4通路的
+机制进行了探究，但对其下游机制缺乏深入研究，因
+此，这将成为后续研究重点。
+作者简介：高艳超( 1984) ，女，硕士，副主任医师，研究方向：
+内分泌与代谢性疾病。
+参考文献：
+[ 1] Bi ondi
+B，( 、appol a AR，( 、ooper Ds．subcl i ni cal
+Hypot hyroi di sm：人
+Revi ew[ J ] ．J AMA，2( ) 19，322( 2) ：l j 3．
+[ 2] Del i t al a AP。Scut eri
+A，Mai 。l i
+M。et
+a1．sul ) cl i ni cal
+hypot hyroi d
+i snl
+and cardi ovascul ar
+ri sk ract ors[ J ] ．Mi nerva Med，2( ) l 9。l l ( )
+( 6) ：i 3( ) ．
+r3] 李硕，苏萍．张广平，等．人参网逆汤及其有效成分对戊巴比
+妥钠所致心肌细胞损伤模型的保护作用[ J ] ．中国实验方剂学杂
+志，2( ) l 9，2j ( 1) ：9( ) ．
+[ 4] xLl e D．sun J I ．，Yang J ．Earl y I 。T4 i nt ervent i on i mproVes
+f et al
+heart devel opnl ent
+i n pregnant
+rat s wi t h subcl i ni cal
+hypot hyr。i d
+i smrat s
+by act i vat i ng BMP4／smad4
+si gnal i ng pat hway[ J ] ．BM( 、
+( 、ardi ovasc
+D1sord，2( ) 2( ) ，2( ) ( 1) ：369．
+r5] 任学娇，祁轶斐．娄利霞，等．扶正化瘀胶囊对心肌梗死大鼠心肌
+纤维化及T( ；F Bl ／smads信号通路的影响[ J ] ．中西医结合心腑
+血管病杂志，2018．16( 9) ：儿8j ．
+r6] 李影雄．蔡海荣，蔡惠铃．等．加味人参网逆汤对急性心肌梗死后
+心力衰竭大鼠心功能的保护机制研究[ J ] ．广州中医药大学学报，
+202l ，38( 6) ：1236．
+[ 7] 陈巍，杨潇，高天舒，等．健脾化痰活血方对Ⅱ临床甲减大鼠
+甲状腺激素水平及脑单羧酸转运蛋白8的影响[ J ] ．中华中医药
+学刊，2019．37( 2) ：285．
+chl n J
+I ，ab Di agn，December，2022．V01 26，世旦』呈
+r8] 韩晴晴，沈晓旭，赵静，等．四逆汤对心肌梗死后慢性心哀大鼠
+心功能和氧化应激反应的作用研究[ J ] ．环球中医药，2019，12
+( 6) ：819．
+[ 9] 罗湘蓝，张
+望，苏华龙．黄芪甲苷。I V对T( j F一口l ／smad2介导的
+癫痫合并抑郁小鼠的保护作用[ J ] ．实用药物与临床，202l ，24
+( 4) ：301．
+[ 10] 杨瑞霞，陈如泉．温肾方对亚临床甲状腺功能减退模型大鼠心肌
+组织T3及甲状腺激素受体的影响[ J ] ．中医学报，2013，28( 7) ：
+989．
+[ 11] Quan x，J l Y，zhang c，et a1．ci rcul at l ng Ml R 146a May be
+a Po
+t ent i al Bi omarker
+of
+Coronary
+Heart
+Di sease
+l n Pat l ent s
+wl t h
+subcl i ni cal Hypot hyroi di sm[ J ] ．cel l
+Phy吼ol
+Bi ochem，2018，45
+( 1) ：226．
+[ 12] 李
+硕．人参四逆汤抗心力衰竭的作用及机理研究[ D] ．辽宁师
+范大学，2019．
+[ 13] 彭兰，张序晴，王志琪，等．附子一甘草对离体大鼠衰竭心脏的
+影响及其指纹图谱研究[ J ] ．中南药学，2019，1 7( 3) ：65．
+[ 14] sue LY，I ，eung AM．Levot hyroxLne f or
+t he Treat ment
+of
+sub
+cl l nl cal
+Hypot hyroi di sm and cardi ovascul ar
+Di sease[ J ] ．Front
+Endocrl n01( I ．ausanne) ，2020，11( 1) ：59158．
+[ 15] 陈雪迪．亚临床甲减埘心功能影响的研究[ D] ．宁夏医科大学，
+2018．
+[ 16] 胡冬冬，刘
+韬，右少波，等．丹曲林对慢性心力衰竭大鼠心室细
+胞钙运转及心功能的影响[ J ] ．中围医药导报，2020，17( 1 7) ：4．
+r1 7] St ani l 。va SA，Gcrcn。va J B，Ml t cva l 。D，ct a1．Thc Rol c。f Trans
+f orml ng Gr。wt h Fact or B1 Gcnc P。1ym。rphi sm and I t s Scrum
+l 。cvcl s
+l n Hashi m。t 。’
+s Thyroi di t i s[ J ] ．curr
+PharmBi ot ccl mol ，
+2018，19( 7) ：581．
+[ 18] H6f l l ng【) B，chavant cs Mc，Accnci o MM，ct
+a1．Ef f cct s。f
+l ow
+kvcl l ascr t hcrapy。n t hc scrumTGF口1 conccnt rat i ons
+l n i ndi
+vl dual s wi t h aut 01mmunc t hyr。i di t i s[ J ] ．Ph。t 。mcd
+I 。ascr surg．
+2014，32( 8) ：444．
+[ 1 9] Huang c，wan
+I。，l 。n1
+J ．Ef f cct 。f
+xi nf cng capsul c。n nucl car
+f act or Kappa B／t umor
+nccrosl s
+f act or
+al pha and t ransf 。rmi ng
+gr。wt h f act 。r bct a 1／Smads pat hways
+l n rat s wl 仆l
+cardl ac
+l nj u
+rl cs i nduccd by a( 1j uvant
+arthri ti s[ J ] ．J
+Tradi t
+chi n Mcd，2016·
+36( 1) ：92．
+( 收稿日期：2022
+05
+17)
+万方数据

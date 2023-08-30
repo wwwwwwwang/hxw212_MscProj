@@ -1,0 +1,443 @@
+网络出版时间:2021 / 12 / 22 15:39 网络出版地址:https:/ / kns. cnki. net/ kcms/ detail/ 34. 1065. R. 20211221. 1001. 022. html
+人参皂苷在治疗因 CLDN18-ARHGAP26 表达引起的
+耐化疗药治疗过程中的抗肿瘤作用
+李 靖,谢 波,汪 虎,张晨嵩,贾建光,潘成武,马家驰
+2020 - 09 - 27 接收
+基金项目:安徽省高校自然科学研究项目(编号:KJ2019A0368)
+作者单位:蚌埠医学院第一附属医院肿瘤外科,蚌埠 233004
+作者简介:李 靖,男,主治医师,硕士;
+马家驰,男,主任医师,博士,责任作者,E-mail:tsmjc2013
+@ 163. com
+摘要 
+目的 
+探究胃癌细胞中 CLDN18-ARHGAP26 融合突
+变基因引起的耐化疗药的作用,并探究人参皂苷在治疗因
+CLDN18-ARHGAP26 融合突变基因表达引起的耐化疗药治疗
+过程中的抗肿瘤作用。 方法 
+采用免疫磁珠抗体标记胃癌
+细胞系 BGC-823 的侧群(SP) 细胞和非侧群(NSP) 细胞,选
+出 NSP 细胞转染过表达 CLDN18-ARHGAP26 融合突变基因
+的慢病毒载体。 用 qPCR 检测细胞中 CLDN18-ARHGAP26 融
+合突变基因和三磷酸腺苷结合转运蛋白 G 超家族成员 2
+(ABCG2) mRNA 水平的表达。 用 Western blot 检测转染上
+皮 - 间质转化( EMT) 相关蛋白 E-Cadherin、Vimentin 的表
+达。 用 CCK-8 检测转染细胞对化疗药奥沙利铂的敏感性。
+用 CCK-8 检测人参皂苷对转染细胞耐药性的影响。 人参皂
+苷处理转染细胞后 Western blot 检测转染细胞的钙黏蛋白 E
+(E-Cadherin)、波形蛋白(Vimentin)的表达。 结果 qPCR 检
+测显示转染过表达 CLDN18-ARHGAP26 融合突变基因慢病
+毒载体的 NSP 细胞中 CLDN18-ARHGAP26 融合突变基因表
+达高于未转染组,ABCG2 mRNA 表达高于未转染组( P <
+0. 001)。 Western bolt 显示过表达 CLDN18-ARHGAP26 融合
+突变基因的 NSP 细胞中 E-Cadherin 蛋白表达低于未转染组
+(P < 0. 05),Vimentin 蛋白表达高于未转染组(P < 0. 01),转
+染细胞对奥沙利铂的敏感性低于未转染组(P < 0. 05)。 人
+参皂苷和奥沙利铂同时处理转染细胞,细胞存活率低于单纯
+奥沙利铂处理( P < 0. 05)。 人参皂苷处理转染细胞后 E-
+Cadherin 蛋白表达高于未处理组(P < 0. 01),Vimentin 蛋白
+表达低于未处理组(P < 0. 05)。 结论 
+人参皂苷能逆转胃
+癌细胞中 CLDN18-ARHGAP26 融合突变基因表达诱导的细
+胞 EMT 转化和奥沙利铂的耐药性。
+关键词 人参皂苷;CLDN18-ARHGAP26 融合突变基因;上皮
+- 间质转化;耐药性
+中图分类号 R 573. 9
+文献标志码 A 文章编号 1000 - 1492(2022)01 - 0111 - 06
+doi:10. 19405 / j. cnki. issn1000 - 1492. 2022. 01. 021
+  胃癌( gastric carcinoma, GC) 是世界上最常见
+的恶性肿瘤之一,全球发病率排名第五,病死率排名
+第三[1]。 虽然手术治疗、放疗和化疗已被应用于胃
+癌的 治 疗, 但 胃 癌 患 者 的 5 年 生 存 率 仍 低 于
+30% [2]。 基因重组是癌症的一个标志,可导致具有
+致癌特性的基因融合[3]。 近年来研究[4] 表明,胃癌
+中 有
+CLDN18-ARHGAP26
+融 合 基 因。
+表 达
+CLDN18-ARHGAP26 融合期的胃癌细胞系上皮表型
+明显减少,出现上皮 - 间质转化( epithelial-mesen-
+chymal transition, EMT)表型,从而对目前主要的胃
+癌化疗相关药物耐药。 研究[5] 表明,人参皂苷可以
+有效抑制胃癌细胞的增殖并促进胃癌细胞的凋亡,
+在低浓度奥沙利铂(oxaliplatin, L-OHP)细胞模型中
+人参皂苷可以显著提高低浓度的奥沙利铂对胃癌侧
+群(side population, SP)细胞的敏感性,而在耐奥沙
+利铂胃癌 EMT 模型中,人参皂苷可以有效逆转胃癌
+耐药细胞株 EMT,从而达到抗肿瘤的效果。 该研究
+中利用人参皂苷干预探究人参皂苷在 CLDN18-AR-
+HGAP26 融合突变引起的耐化疗药过程中的抗肿瘤
+作用。
+1 材料与方法
+1. 1 主要材料 人胃癌细胞系 BGC-823 购自南京
+科佰生物科技有限公司。 胎牛血清( FBS)、RPMI-
+1640 培养基购自美国 Gibco 公司;青链霉素混合液
+购美国 Hyclone 公司;过表达 CLDN18-ARHGAP26
+突变基因的慢病毒载体由上海吉玛基因公司构建;
+Lipofectamine 2000 转染试剂均购自美国 Thermo 公
+司;TRIzol 试剂购自上海索莱宝生物科技有限公司;
+逆转录试剂盒和 SYBR PremixEx TaqTM(Tli RNaseH
+Plus) 试剂盒均购自宝生物工程(大连) 有限公司;
+E-Cadherin、Vimentin 抗体均购自美国 Abcam 公司;
+RAPI 裂解液和 BCA 法蛋白浓度检测试剂盒均购自
+上海碧云天生物技术有限公司;蛋白酶抑制剂购自
+美国罗氏公司;PVDF 膜和 ECL 发光液均购自美国
+Millipore 公司;CCK-8 试剂盒购自日本同仁公司;
+Hoechst33342 染液购自美国 Sigma 公司。 BD FACS-
+Melody 细胞分选仪购自美国 BD 公司。
+·111·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Jan;57(1)
+1. 2 细胞培养 人胃癌细胞系 BGC-823 用含 10%
+FBS 的 RPMI-1640 培养基置于 37 ℃、5% CO2 细胞
+培养箱内培养。 细胞长到 70% ~ 80% 融合时,用
+0. 25% 胰酶-EDTA 消化进行传代。 取对数生长期的
+细胞进行后续实验。
+1. 3 细胞分选 
+选择生长状态良好的对数生长期
+的细胞用 0. 25% 胰酶-EDTA 消化,取适量细胞悬液
+收集细胞 1 000 r/ min,4 ℃,离心 5 min,用含 2%
+FBS 的 PBS 液洗涤 2 次。 调整细胞密度为 1 × 106
+个/ ml 细胞,加入终浓度为 5 μg / ml Hoechst33342 染
+液放置于 37 ℃、5% CO2 细胞培养箱箱中孵育 2 h,
+孵育结束后,细胞用含 2% FBS 的 PBS 清洗一次终
+止反应。 最后使用 BD FACSMelody 细胞分选仪进
+行 SP 和 NSP 细胞的检测及分选(355 nm 波长紫外
+光激发 Hoechst 染色,于 450 nm 收集蓝光荧光信
+号,650 nm 收集红光荧光信号)。
+1. 4 
+细胞转染 
+取对数生长期的 BGC-823NSP 细
+胞用胰酶消化,细胞计数将细胞浓度调整为 1 × 105
+个/ ml,取 2 ml/ 孔接种于 6 孔板中,放于培养箱中培
+养 24 h,第二天,用含有 5 μg / ml polybrene 的新鲜培
+养基加入适量病毒悬液替换原培养基,37 ℃、5%
+CO2 培养箱中常规培养。 Control 组加入对照慢病
+毒,Lentivirus 组加入过表达 CLDN18-ARHGAP26 融
+合突变基因的慢病毒。 培养 12 h 后,用新鲜培养基
+替换含有病毒的培养基。 继续培养 24 h 后进行后
+续实验检测步骤。
+1. 5 总 RNA 提取和 qPCR 
+将转染 CLDN18-AR-
+HGAP26 融合突变基因 48 h 的 NSP 细胞培养基倒
+掉,用无菌 PBS 洗涤 2 次,再加入 1 ml 的 TRIzol 裂
+解液室温裂解 5 min 后转移到 1. 5 ml EP 管中,取
+200 μl 三氯甲烷加入裂解液中充分混匀后静置 15
+min 后,4 ℃、12 000 r/ min 离心 15 min,吸取上层透
+明的水相并加入等体积的异丙醇后混匀,室温静置
+10 min 后,4 ℃、12 000 r/ min 离心 10 min,倒掉上清
+液,所得到的白色沉淀即为细胞总 RNA,用 75% 乙
+醇将沉淀洗 2 次,用适量的水将 RNA 溶解。 用 Nan-
+odrop 2000 超微量分光光度计测 RNA 浓度,按照
+逆转录试剂 盒 说 明 书 将 总 RNA 逆 转 录 为 cDNA 。
+设 计合成CLDN18 -ARHGAP26 引物,F:5 '-TGGG
+TCCAACACCAAAAACAAG-3',R:5'-GAGTCTGTTTT
+CCGCCGTGT-3';ABCG2 引物,F:5'-TTTACGCACAG
+AGCAAAGCC-3', R: 5'-GTCAGCGTGGGATCCTCTT
+C-3';内参 GAPDH 引物, F:5'-TCAGCCGCATCTTC
+TTTTGC-3', R: 5'-ATGGTGTCTGAGCGATGTGG-3'。
+以 cDNA 作为模板,每组设置 3 个复孔,根据设计好
+的引物用 ABI SystemStepOnePlus 进行荧光实时定量
+反应。 按照两步法扩增标准程序:95 ℃、30 s 预变
+性;95 ℃、5 s,60 ℃、30 s 进行 40 个循环的扩增反
+应。 反应结束后得到各孔的循环阈值(threshold cv-
+cle,Ct),采用 2 - ΔΔCt法分析各样本数据。
+1. 6  
+Western blot  
+将转染 CLDN18-ARHGAP26
+融合突变基因 48 h 的 NSP 细胞培养基倒掉,用无菌
+PBS 洗涤 2 次,用细胞裂解液提取细胞总蛋白。 分
+别配制分离胶和浓缩胶,蛋白电泳结束后将蛋白质
+电转移到 PVDF 膜上,用 5% 脱脂牛奶封闭,一抗 4
+℃孵育过夜。 TBST 洗涤 3 次,每次 8 min;二抗 37
+℃孵育 1 h,TBST 洗涤 3 次,每次 8 min。 滴加适量
+ECL 底物显色剂曝光,扫描图像,应用 Image J 软件
+分析扫描蛋白条带的灰度值,以 β-actin 为内参计算
+目的蛋白的相对表达量。
+1. 7 CCK-8 检测药物敏感性 将 100 μl 细胞接种
+于 96 孔培养板每孔 5 × 104 个细胞,于 37 ℃、5%
+CO2 培养箱中培养 24 h 后,加入不同浓度梯度的 L-
+OHP(0. 5、1、2、4、8、16、32 μg / ml) 培养 24 h,加入
+10 μl CCK-8 溶液,于 37 ℃、5% CO2 培养箱中培养 3
+h,读取 490 nm 处吸光度值。 计算细胞活力(% ) =
+[A(待测孔) - A(空白孔)] / [A(对照孔) - A(空
+白孔)] × 100%
+1. 8 
+统计学处理 
+用 SPSS21. 0 进行统计学分析,
+数据用 Graphpad 7. 0 进行分析,数据以 ■
+x ± s 表示。
+两组间比较采用 t 检验,Western blot 数据用单向方
+差分析(ANOVA)。 以 P < 0. 05 为差异有统计学意
+义。
+2 结果
+2. 1 
+NSP 细胞过表达 CLDN18-ARHGAP26 突变
+基因后 ABCG2 蛋白的表达 流式细胞术分选胃癌
+细胞系 BGC-823 的 SP(1. 3% ) 和 NSP(98. 7% ) 细
+胞(图 1A),将得到 NSP 用于本研究。 以慢病毒为
+载体携带过表达 CLDN18-ARHGAP26 融合突变基
+因于 NSP 细 胞 中, 用 qPCR 检 测 CLDN18-ARH-
+GAP26 融合突变基因和 ABCG2 的 mRNA 表达,结
+果显示 CLDN18-ARHGAP26 融合突变基因的表达
+增加(图 1B)。 细胞过表达 CLDN18-ARHGAP26 融
+合突变基因后 ABCG2 mRNA 的表达高于未转染细
+胞(图 1C)。
+·112·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Jan;57(1)
+图 1 NSP 细胞转染过表达 CLDN18-ARHGAP26 融合突变基因的效率和 ABCG2 的表达
+A:细胞分选仪分选 BGC-823 细胞 SP 和 NSP 细胞;B:qPCR 检测 CLDN18-ARHGAP26 融合突变基因;C:ABCG2 的 mRNA 表达;Control 组:
+转染阴性对照慢病毒;Lentivirus 组:转染过表达 CLDN18-ARHGAP26 融合突变基因的慢病毒;与 Control 组比较:∗∗∗P < 0. 001
+2. 2 
+NSP 细胞过表达 CLDN18-ARHGAP26 突变
+基因后 E-Cadherin、Vimentin 蛋白的表达 
+West-
+ern bolt 检测 EMT 相关蛋白 E-Cadherin、Vimentin 蛋
+白的表达,结果显示,Control 组细胞 E-Cadherin 蛋
+白表达高于 Lentivirus 组细胞 E-Cadherin 蛋白表达
+(t = 4. 372,P < 0. 01),Lentivirus 组细胞 Vimentin 蛋
+白表达高于 Control 组 ( t = 6. 674, P < 0. 01)。 见
+图 2。
+图 2 过表达 CLDN18-ARHGAP26 融合基因的 NSP 细胞发生 EMT
+A:Western bolt 检测 E-Cadherin、Vimentin 蛋白表达;B:统计学分
+析 E-Cadherin、Vimentin 蛋白相对表达量;与 Control 组比较:∗∗ P <
+0. 01
+2. 3 
+NSP 细胞过表达 CLDN18-ARHGAP26 突变
+基因后对 L-OHP 耐药性的影响 
+不同浓度 L-OHP
+处理转染慢病毒的 NSP 细胞 24 h 后,用 CCK-8 检
+测其对过表达 CLDN18-ARHGAP26 融合基因细胞生
+长的抑制作用。 结果显示,不同浓度 L-OHP 对 NSP
+细胞增殖均有抑制作用,IC50 为 4. 28 μg / ml。 过表
+达 CLDN18-ARHGAP26 融合基因后,L-OHP 对细胞
+增殖的抑制作用减弱,IC50为 15. 87 μg / ml。 见图 3。
+图 3 NSP 细胞过表达 CLDN18-ARHGAP26 突变基因后
+对 L-OHP 耐药性的影响
+与 Control 组比较:∗∗P < 0. 01
+2. 4 人参皂苷对过表达 CLDN18-ARHGAP26 突变
+基因的 NSP 细胞耐药性的影响 
+为了研究人参皂
+苷对过表达 CLDN18-ARHGAP26 突变基因的 NSP 细
+胞耐药性的影响。 先用不同浓度(0、10、30、50、100
+μg / ml)人参皂苷处理 NSP 细胞,结果显示,50、100
+μg / ml 人参皂苷明显抑制 NSP 细胞增殖,10 μg / ml
+人参皂苷对 NSP 细胞增殖没有明显作用,因此选用
+30 μg / ml 作为人参皂苷刺激 NSP 的有效浓度( 图
+4A)。 进一步检测 30 μg / ml 人参皂苷和不同浓度
+L-OHP 对过表达 CLDN18-ARHGAP26 突变基因的
+NSP 细胞活力的影响。 结果显示人参皂苷和 L-OHP
+联合用药降低了转染细胞的活力。 提示人参皂苷能
+逆转过表达 CLDN18-ARHGAP26 突变基因引起的对
+L-OHP 的耐药作用。 见图 4B。
+·113·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Jan;57(1)
+图 4 人参皂苷对过表达 CLDN18-ARHGAP26 突变基因的
+NSP 细胞耐药性的影响
+与 L - OHP 组比较:∗P < 0. 05,∗∗P < 0. 01
+2. 5 人参皂苷对过表达 CLDN18-ARHGAP26 突变
+基因的 NSP 细胞 EMT 的逆转作用 
+Western bolt
+检测人参皂苷对过表达 CLDN18-ARHGAP26 突变基
+因的 NSP 细胞 EMT 相关蛋白的表达。 结果显示,
+人参皂苷处理的转染组细胞的 E-Cadherin 蛋白表达
+高于单纯转染组(t = 18. 063,P < 0. 01),Vimentin 蛋
+白的表达为(0. 37 ± 0. 12),低于单纯转染组( t =
+4. 011,P < 0. 05)。 见图 5。
+3 讨论
+ 
+ 
+有 研 究[6] 表 明 100 个 胃 癌 患 者 中 有 3 个
+CLDN18(一个使细胞间紧密结合的基因) 和 ARH-
+GAP26(一个编码 RHOA 抑制剂的基因) 发生突变,
+融合形成了 CLDN18-ARHGAP26,细胞和细胞及细胞
+和细胞外基质的附着力降低,表现出 EMT,这种突
+变可能导致癌细胞转移。 2018 年 Yang et al[7] 利用
+高通量测序发现了 CLDN18-ARHGAP26 融合突变与
+胃印戒细胞癌临床诊断/ 预后指标和化疗耐药显著
+相关,该研究表明目前的化疗方式对肿瘤中存在该
+融合基因的患者效果不好。 该研究利用慢病毒转染
+过表达CLDN18-ARHGAP26融合突变基因,在细胞
+图 5 人参皂苷对过表达 CLDN18-ARHGAP26 突变基因的
+NSP 细胞 EMT 的逆转作用
+A:Western bolt 检测 E-Cadherin、Vimentin 蛋白表达;B:统计学分
+析 E-Cadherin、Vimentin 蛋白相对表达量;1:Lentivirus 组;2:Lentivirus
++ 人参皂苷组;与 Lentivirus 组比较:∗∗P < 0. 01
+水平上探索其对肿瘤细胞耐药性和侵袭性的影响。
+有研究[8] 对胃癌细胞进行流式细胞分选时发
+现,不同分化程度的胃癌细胞株中均有少量侧群
+(SP) 细胞,比例大约在 1% ~ 4% 之间。 ABCG2 是
+与肿瘤多药耐药性密切相关的多药耐药跨膜蛋白,
+SP 细胞表现出高表达 ABCG2 的特点,SP 细胞 AB-
+CG2 的表达比 NSP 细胞高 3 倍。 而对于未分选细
+胞(SP + NSP) 来说,ABCG2 的表达并不高,但是在
+进行诱导耐药后 ABCG2 的表达明显升高[9]。 该研
+究利用流式细胞分选仪分选出 BGC-823 细胞中的
+NSP 细胞,显示 NSP 细胞中过表达 CLDN18-ARH-
+GAP26 融合突变基因能使 ABCG2 表达明显升高。
+EMT 是指具有极性的上皮细胞丧失极性和细
+胞间接触等上皮细胞样表型,转化成具有迁移能力
+的间质细胞的过程。 在肺癌细胞中,EMT 的发生与
+肿瘤的侵袭性和耐药性有关[10]。 E-Cadherin 是参
+与细胞之间黏附连接的主要蛋白分子,主要分布于
+上皮细胞中,发挥着维持细胞极性和组织结构完整
+性的功能[11]。 波形蛋白( Vimentin) 是间充质细胞
+的主要骨架成分。 因此,Vimentin 常被用作 EMT 的
+细胞标记物[12]。 一般情况下,E-Cadherin 蛋白表达
+降低和 Vimentin 蛋白表达增加提示发生了 EMT。
+过表达 CLDN18-ARHGAP26 基因的 NSP 细胞 E-Cad-
+herin 蛋白表达显著降低,而 Vimentin 蛋白表达显著
+·114·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Jan;57(1)
+增加,表明细胞发生了 EMT。 为了研究 CLDN18-
+ARHGAP26 融合突变基因对癌细胞耐药性的影响,
+该研究利用化疗药 L-OHP 对分选的 BGC-823 NSP
+细胞进行耐药测试。 该研究用 CCK-8 检测细胞存
+活率,结果表明,与对照组相比,过表达 CLDN18-AR-
+HGAP26 基因的 NSP 细胞对 L-OHP 产生了耐药。
+人参的主要成分是人参皂苷,人参皂苷能通过调控
+NF-κB、ERK、Akt 信号通路等抑制癌细胞的 EMT,从
+而抑制癌细胞的迁移和侵袭过程[13]。 为探究人参
+皂苷干预对 CLDN18-ARHGAP26 基因融合引起的
+EMT 和耐药性的影响,该研究首先确定了人参皂苷
+对 BGC-823 NSP 细胞的有效作用浓度为 30 μg / ml。
+NSP 细胞转染过表达慢病毒之后给予人参皂苷和
+L-OHP 干预,只用 L-OHP 的细胞存活率明显低于同
+时给予人参皂苷和 L-OHP 的细胞,提示人参皂苷能
+逆转 CLDN18-ARHGAP26 基因融合引起的耐药。 同
+时检测了两组细胞的 EMT 相关蛋白,结果表明,人
+参皂苷也能逆转 CLDN18-ARHGAP26 基因融合引起
+的 EMT 作用。
+综上, 人 参 皂 苷 干 预 能 逆 转 CLDN18-ARH-
+GAP26 过表达引起的 EMT 和耐药,从而发挥抗肿瘤
+作用。 该研究对肿瘤化疗药物的研究及临床转化应
+用有指导意义。
+参考文献
+[1] Zhong B, Wang Q, He J, et al. LncRNA LOC285194 modulates
+gastric carcinoma progression through activating Wnt/ β-catenin
+signaling pathway[J]. Cancer Med,2020,9(6):2181 - 9.
+[2] Hou J,Tan Y,Su C,et al. Inhibition of protein FAK enhances 5-
+FU chemosensitivity to gastric carcinoma p53 signaling pathways
+[J]. Comput Struct Biotechnol J,2020,18(7):125 - 36.
+[3] Tsuda H. Gene and chromosomal alterations in sporadic breast
+cancer: correlation with histopathological features and implications
+for genesis and progression[J]. Breast Cancer,2009,16(3):186
+- 201.
+[4] Shu Y,Zhang W,Hou Q,et al. Prognostic significance of frequent
+CLDN18-ARHGAP26 fusion in gastric signet-ring cell cancer[J].
+Nat Commun,2018,9(1):2447.
+[5] 李 靖,郑旭薇,贾建光,等. 人参皂苷 Rh2 对低浓度的奥沙利
+铂诱导人胃癌 SGC-7901 侧群细胞凋亡的增敏作用[ J]. 蚌埠
+医学院学报,2018,43(5):561 - 6,572.
+[6] Yao F,Kausalya J P,Sia Y Y,et al. Recurrent fusion genes in gas-
+tric cancer: CLDN18-ARHGAP26 induces loss of epithelial integ-
+rity[J]. Cell Rep,2015,12(2):272 - 85.
+[7] Yang H,Hong D,Cho S Y,et al. RhoGAP domain-containing fu-
+sions and PPAPDC1A fusions are recurrent and prognostic in dif-
+fuse gastric cancer[J]. Nat Commun,2018,9(1):4439.
+[8] Jia J,Qin Y,Zhang L,et al. Sijunzi decoction-treated rat serum in-
+duces apoptosis of side population cells in gastric carcinoma[ J].
+Exp Ther Med,2018,15(2):1718 - 27.
+[9] Yan B L,Li X L. MicroRNA-328 acts as an anti-oncogene by targe-
+ting ABCG2 in gastric carcinoma [ J]. Eur Rev Med Pharmacol
+Sci,2019,23(14):6148 - 59.
+[10] Jiao J. Long noncoding RNA MEG3 suppresses gastric carcinoma
+cell growth, invasion and migration via EMT regulation[ J]. Mol
+Med Rep,2019,20(3):2685 - 93.
+[11] Feldkoren B,Hutchinson R,Rapoport Y,et al. Integrin signaling
+potentiates transforming growth factor-beta 1 (TGF-β1) dependent
+down-regulation of E-Cadherin expression - Important implications
+for epithelial to mesenchymal transition (EMT) in renal cell carci-
+noma[J]. Exp Cell Res,2017,355(2):57 - 66.
+[12] Fritsch R. Oxaliplatin in perioperative chemotherapy for gastric and
+gastroesophageal junction (GEJ) adenocarcinoma[ J]. Expert Rev
+Gastroenterol Hepatol,2019,13(4):285 - 91.
+[13] 彭文婷, 孙妩弋, 孙家昌, 等. 人参皂苷 CK 对人肝癌细胞
+HepG2 迁移及侵袭的影响[J]. 中国药理学通报,2018,34(1):
+27 - 32.
+Anti-tumor effct of ginsenosides in the treatment of chemotherapeutic
+drugs resistance induced by the expression of CLDN18-ARHGAP26 fusion
+Li Jing,Xie Bo,Wang Hu,Zhang Chensong,Jia Jianguang,Pan Chengwu,Ma Jiachi
+(Dept of Oncology, The First Affiliated Hospital of Bengbu Medical College,Bengbu 233004)
+Abstract  
+Objective 
+To investigate the effect of chemotherapeutic drug resistance induced by CLDN18-ARH-
+GAP26 fusion mutation gene in gastric cancer cells, and to investigate the sensitization effect of ginsenoside in the
+treatment of chemotherapeutic drug resistance caused by the expression of CLDN18-ARHGAP26 fusion mutation
+gene. Methods The side population (SP) cells and non-side population (NSP) cells of gastric cancer cell line
+BGC-823 were labeled with immunomagnetic bead antibody, and the lentiviral vector with overexpression of
+CLDN18-ARHGAP26 fusion mutation gene was selected for transfection with NSP cells. qPCR was used to detect the
+mRNA levels of CLDN18-ARHGAP26 fusion mutation and ATP Binding Cassette Subfamily G Member 2 (ABCG2).
+The expression of EMT-related proteins E-Cadherin and Vimentin was detected by Western blot. The sensitivity of
+transfected cells to oxaliplatin was detected by CCK-8. The effect of ginsenoside on drug resistance of transfected
+cells was detected by CCK - 8 . The expression of E - Cadherin and Vimentin in transfected cells was detected by
+·115·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Jan;57(1)
+Western blot after ginsenoside treatment. Results 
+qPCR detection showed that the expression of CLDN18-ARH-
+GAP26 fusion mutant gene in NSP cells transfected with overexpressed CLDN18-ARHGAP26 fusion mutant gene was
+significantly higher than that of the non-transfected group, and the expression of ABCG2 mRNA was significantly
+higher than that of the non-transfected group. Western bolt showed that the expression of E-Cadherin protein in NSP
+cells with over-expressed CLDN18-ARHGAP26 fusion mutation gene was lower than that in the non-transfected
+group, the expression of Vimentin protein was higher than that in the non-transfected group, and the sensitivity of
+transfected cells to oxaliplatin was lower than that in the non-transfected group. The survival rate of transfected cells
+treated with ginsenoside and oxaliplatin was significantly lower than that treated with oxaliplatin alone. The expres-
+sion of E-Cadherin protein in the transfected cells treated with ginsenoside was higher than that in the untreated
+group, and the expression of Vimentin protein was lower than that in the untreated group. Conclusion 
+Ginsen-
+oside can reverse cell EMT transformation and oxaliplatin resistance induced by CLDN18-ARHGAP26 fusion mutated
+gene expression in gastric cancer tissues.
+Key words ginsenoside;CLDN18-ARHGAP26 fusion mutated gene;epithelial-mesenchymal transition;drug resist-
+ance
+网络出版时间:2021 / 12 / 22 15:41 网络出版地址:https:/ / kns. cnki. net/ kcms/ detail/ 34. 1065. R. 20211221. 1001. 023. html
+内毒素血症大鼠肝脏 RAS 表达与肝功能损伤的关系
+李晶铃1,阴赪宏2
+摘要 目的 探讨内毒素血症大鼠肝脏肾素 - 血管紧张素
+系统(RAS)的表达特点及其与肝功能损伤的关系。 方法 
+将 90 只大鼠随机分为对照组和注射后 2、4、8、12、24、48、72
+h 及 7 d 组。 除对照组以外,均腹腔注射脂多糖(LPS) 制备
+脓毒症模型。 分别于注射 2、4、8、12、24、48、72 h 及 7 d 取 10
+只,取心脏血,测肝功能标志物丙氨酸氨基转移酶(ALT)、天
+冬氨酸氨基转移酶(AST)、乳酸脱氢酶(LDH),循环 RAS 标
+志物肾素(PRA)、血管紧张素转换酶(ACE)、血管紧张素Ⅱ
+(Ang Ⅱ);取肝脏组织,观察肝组织病理,测组织 RAS 标志
+物 PRA、ACE、Ang Ⅱ及血管紧张素 1 型受体(AT1R) mRNA
+表达。 结果 模型组大鼠的循环 AST、ALT 及 LDH 水平在
+LPS 注射后逐渐升高,8 h 达峰,AST 与 LDH 在 4 ~ 48 h 均高
+于对照组,ALT 在 2 ~ 48 h 均高于对照组,差异有统计学意
+义(P < 0. 05)。 模型组大鼠的循环和肝脏 PRA 在注射后迅
+速升高,2 h 达峰,48 h 降至正常水平,中间时间段均高于对
+照组(P < 0. 05);ACE 和 AngⅡ在注射后逐渐升高,8 h 达
+峰,ACE 在 2 ~ 24 h 高于对照组,Ang Ⅱ在 2 ~ 48 h 高于对照
+组,差 异 有 统 计 学 意 义 ( P < 0. 05)。 模 型 组 大 鼠 AT1R
+2021 - 11 - 02 接收
+基金项目:北京市自然科学基金(编号:7032017)
+作者单位:1 清华大学医院内科,北京 100086
+2 北京妇产医院内科,北京 100026
+作者简介:李晶铃,女,硕士,主治医师;
+阴赪宏,男,博士,教授,博士生导师,主任医师,责任作者,
+E-mail:waijjwaijjwaijj@ 163. com
+mRNA 表达在注射后逐渐升高,4 ~ 48 h 均高于对照组,差异
+有统计学意义(P < 0. 05)。 结论 
+内毒素血症所致肝功能
+损伤可能与肝脏局部 RAS 激活有关系。
+关键词 内毒素血症;肝脏;肾素 - 血管紧张素系统;炎性反
+应;应激反应
+中图分类号 R 363. 1
+文献标志码 A 文章编号 1000 - 1492(2022)01 - 0116 - 05
+doi:10. 19405 / j. cnki. issn1000 - 1492. 2022. 01. 022
+  内毒素血症是由于病原菌释放大量内毒素至血
+液而引起的,以多器官功能障碍综合征(multiple or-
+gan dysfunction syndrome, MODS) 为主要病理特征
+的一系列综合征[1 - 2]。 肝脏是人体内最大的解毒器
+官,也是内毒素代谢的主要场所,极易受到内毒素攻
+击,这也是内毒素血症常常并发肝功能障碍的主要
+原因[3]。 既往研究[4 - 5] 表明,肾素 - 血管紧张素系
+统(renin-angiotensin system, RAS) 在脓毒症导致的
+器官损伤中介导重要机制。 在脓毒症动物模型中,
+有学者发现肝脏亦存在着局部 RAS 系统,该系统以
+血管紧张素Ⅱ(angiotensin Ⅱ, Ang Ⅱ)为主要效应
+分子,通过与肝细胞膜的血管紧张素 1 型受体(an-
+giotensin type 1 receptor, AT1R)结合而增加血管紧
+张素原的转录与翻译,从而形成自身反馈机制,引起
+恶性循环和不断放大的炎性级联反应[6]。 该研究
+·116·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Jan;57(1)

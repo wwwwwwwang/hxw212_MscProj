@@ -1,0 +1,403 @@
+麟
+山东医药2022 年第 62 卷第 8 期
+人参皂苷 Rg1 对人内皮祖细胞增殖、黏附、
+迁移、成管能力及PDGF分泌水平调控观察
+谭梅鑫
+1，熊武
+2，黄玎玲
+1，何晶晶
+1，于洋
+3，兰宏伟
+2，王婷婷
+2，张熙
+4
+1 湖南中医药大学中西医结合学院，长沙410208；2 湖南中医药大学第一附属医院烧伤整形外科；
+3 湖南中医药大学医学院；4 湖南省脑科医院（湖南中医药大学临床医学院）
+摘要：目的
+观察人参皂苷（GS-Rg1）对人内皮祖细胞（EPCs）增殖、黏附、迁移、成管能力及血小板衍生生长因
+子（PDGF）分泌水平的调控作用。方法
+取足月健康新生儿脐带血，培养并鉴定 EPCs，将 EPCs 随机分为实验组和
+对照组，实验组给予 40 mg/L的 GS-Rg1，对照组给予等量 PBS。培养 48 h后，采用 CCK-8试剂盒检测细胞增殖能力，
+黏附能力测定实验检测细胞黏附能力，细胞划痕实验检测细胞迁移能力，Matrigel 体外成血管实验检测细胞成管能
+力，采用 ELISA 法检测细胞培养液上清中的 PDGF。结果
+与对照组相比，实验组 EPCs 增殖能力增高，细胞黏附数
+增多，细胞绝对迁移宽度增宽，体外成管数增多，细胞培养液上清中 PDGF水平增高（P均<0. 05）。结论
+GS-Rg1能
+提高人EPCs的增殖、黏附、迁移、成管能力，并促进其分泌PDGF。
+关键词：人参皂苷；内皮祖细胞；血小板衍生生长因子；细胞增殖；细胞迁移；血管新生
+doi：0. 3969/j. issn. 1002-266X. 2022. 08. 003
+中图分类号：R628
+文献标志码：A
+文章编号：1002-266X（2022）08-0011-04
+Effects of ginsenoside Rg1 on proliferation，adhesion，migration，tube formation ability and PDGF se⁃
+cretion of human endothelial progenitor cells
+TAN Meixin
+1，XIONG Wu，HUANG Dingling，HE Jingjing，YU Yang，LAN Hongwei，WANG Tingting，ZHANG Xi
+1 College of Integrated Traditional Chinese and Western Medicine，Hunan University of
+Chinese Medicine，Changsha 410208，China
+Abstract：Objective
+To observe the effects of ginsenoside Rg1（GS-Rg1）on the proliferation，adhesion，migra‐
+tion，tube formation ability and secretion of platelet-derived growth factor（PDGF）of human endothelial progenitor cells
+（EPCs）. Methods
+Umbilical cord blood was collected from healthy full-term newborns，and EPCs were cultured and
+identified. EPCs were randomly divided into the experimental group and control group. EPCs in the experimental group
+were treated with 40 mg/L GS-Rg1，and EPCs in the control group were treated with the same volume of PBS. After 48 h of
+culture，Cell Counting Kit-8（CCK-8）was used to detect the cell proliferation ability，adhesion ability test was used to de‐
+tect cell adhesion ability，cell scratch test was used to detect the cell migration ability，Matrigel angiogenesis test in vitro
+was used to detect the cell tube formation ability，and ELISA was used to detect PDGF in the cell culture medium superna‐
+tant. Results
+Compared with the control group，EPCs’proliferation ability，cell adhesion number，cell absolute migra‐
+tion width，tube formation number in vitro and PDGF level in the cell culture medium supernatant increased in the experi‐
+mental group（all P<0. 05）. Conclusion
+GS-Rg1 can enhance the proliferation，adhesion，migration and tube forma‐
+tion ability of human EPCs，and promote the secretion of PDGF.
+Key words：ginsenoside；endothelial progenitor cells；platelet-derived growth factor；cell proliferation；cell migra‐
+tion；angiogenesis
+内皮祖细胞（EPCs）是内皮细胞的前体细胞，能
+通过迁移、特异性归巢到受损部位促进血管壁内皮
+损伤修复，并能分泌血管生长因子如血小板衍生生
+长因子（PDGF）
+［1］、血管内皮生长因子（VEGF）
+［2］、成纤
+基金项目：国家自然科学基金青年基金项目（81904217）；湖南中医药大学一流学科《基础医学》项目。
+第一作者简介：谭梅鑫（1993-），男，硕士研究生，主要研究方向为中西医结合外科基础。E-mail：1598153649@qq. com
+通信作者简介：张熙（1971-），女，博士，教授，主要研究方向为中西医结合外科基础。E-mail：cmxfyjzx2049@126. com
+开放科学（资源服务）
+标识码（OSID）
+11
+万方数据
+山东医药2022 年第 62 卷第 8 期
+维细胞生长因子（FGF）
+［3］参与血管形成。近年来，一
+系列动物实验和早期临床研究证实，EPCs移植治疗
+各种严重缺血性疾病疗效肯定。人参为五加科植物
+人参的干燥根和根茎，具有大补元气、复脉固脱、补
+气生血等作用，已证实治疗慢性难愈性溃疡有效
+［4］。
+现代药理研究表明，人参主要成分人参皂苷Rg1（GS-
+Rg1）具有保护心脑血管
+［5］、抗肿瘤
+［6］、降血脂
+［7］等作
+用。进一步研究发现，GS-Rg1 对 EPCs 具有保护作
+用，但具体机制尚不明确。本课题组前期研究表明，
+GS-Rg1 能提升 EPCs 的细胞活性，GS-Rg1 促进人
+EPCs增殖的最适浓度为 40 mg/L。在前期研究基础
+上，2020 年 11 月—2021 年 9 月，本研究进一步观察
+GS-Rg1 对 EPCs 增殖、黏附、迁移、成管能力及分泌
+PDGF水平的调控作用，现报告如下。
+1
+材料与方法
+1. 1
+主要实验材料
+人参皂苷 Rg1（纯度≥98%）购
+自上海源叶生物科技有限公司；胎牛血清购自美国
+GIBCO 公司；EGM™-2MV 购自美国 Lonza 公司；淋巴
+细胞分离液购自北京 Solarbio 公司；Fibronectin 购自
+美 国 Sigma 公 司 ；0. 25% Tripsin-EDTA 购 自 美 国
+Thermo Fisher Scientific 公司；DMEM 购自美国 Hy‐
+clone 公司。DMEM/F12 培养基购自美国 Hyclone 公
+司；CCK8 试剂盒购自日本同仁公司；血小板衍生的
+内皮细胞生长因子（PDECGF）购自上海研鑫生物科
+技有限公司。CO2培养箱购自日本 SANYO 公司；生
+物倒置显微镜购自日本 OLYMPUS 公司；台式低速
+离心机购自德国 Eppendorf 公司；4 ℃离心机购自德
+国 Eppendorf 公司；振荡器购自上海沪西分析仪器
+厂；立式压力锅购自上海博讯公司；电热鼓风干燥箱
+购自上海圣欣公司；共聚焦显微镜购自德国蔡司公
+司；酶联免疫检测仪购自美国 Thermo 公司；细胞培
+养箱（3110 系列水套 CO2培养箱）购自美国 Thermo
+Scientific公司。
+1. 2
+EPCs 的提取、鉴定及分组处理
+无菌条件下
+取正常剖宫产胎盘脐带血（脐带血的获取已得到
+孕妇及其家属同意并签署知情同意书，获湖南中
+医药大学第一附属医院伦理委员会同意，批准文
+号 HN-LL-KY-2020-013-01），采用密度梯度离心法
+得到单个核细胞。使用 EGM™-2MV 培养基重悬上
+述细胞，置于 37 ℃、5% CO2、饱和湿度培养箱中培
+养，4 d 后换液，去除未贴壁的细胞，细胞融合约
+90% 时进行传代。按前期实验方法提取并鉴定
+EPCs
+［8］，将鉴定成功的 EPCs 随机分为实验组和对
+照组。
+1. 3
+EPCs 增殖能力观察
+两组细胞接种于 96 孔
+板中，实验组加入 40 mg/L的 GS-Rg1，对照组加入等
+量 PBS 液。48 h 后向每孔中加入 10 μL 的 CCK-8 溶
+液并孵育 4 h，用酶标仪测定 450 nm 处的光密度
+（OD）值，表示细胞增殖能力。
+1. 4
+EPCs黏附能力观察
+用 0. 25% 胰蛋白酶消化
+贴壁 EPCs，使细胞脱落悬浮在 500 μL 培养液中，将
+同等数目 EPCs 分别铺在 24 孔板中，在 37 ℃、5%
+CO2 环境下孵育 1 h。实验组加入 40 mg/L 的 GS-
+Rg1，对照组加入等量 PBS 液，每组培养 8 h 后分别
+将 EPCs 接种在大鼠纤维连接蛋白培养板中，37 ℃
+下培养 30 min，高倍镜（200×）视野下计数贴壁细胞
+数目，表示细胞黏附能力。
+1. 5
+EPCs 迁移能力观察
+实验前器械灭菌，用
+Marker 笔在 6 孔板背后每隔 1 cm 划一道横线，横穿
+过 孔 ，每 孔 至 少 穿 过 5 条 线 。 取 对 数 生 长 期 的
+EPCs，在孔中加入约 5×10
+5 个细胞，置于 37 ℃、5%
+CO2培养箱培养过夜，再用无菌 200 μL 枪头在培养
+孔底部中央划一道痕迹，PBS 冲洗 3 次去除划下的
+细胞。实验组加入 40 mg/L 的 GS-Rg1，对照组加入
+等量PBS液。培养48 h后在生物倒置显微镜（200×）
+下分别观察0、48 h时划痕创面愈合情况。以绝对迁
+移宽度表示细胞迁移能力。
+1. 6
+EPCs体外成管能力观察
+Matrigel基质胶 4 ℃
+过 夜 溶 解 ，次 日 在 冰 盒 上 铺 胶 ，37 ℃ 孵 箱 放 置
+30 min。当细胞融合到约 80% 后，用胰酶消化，用含
+10% FBS 的 DMEM/F12 重悬，在 12 孔板孔中加入
+1 mL 重悬液。实验组加入 40 mg/L 的 GS-Rg1，对照
+组加入等量 PBS 液。24 h 后在生物倒置显微镜
+（200×）下观察并拍照。计算小管形成长度，取平
+均值。
+1. 7
+EPCs 分泌 PDGF 水平检测
+采用 ELISA 法。
+实验组加入 40 mg/L 的 GS-Rg1，对照组给予等量
+PBS 液，培养 72 h 后，取两组细胞培养液上清，使用
+酶标仪测定450 nm处的OD值。
+1. 8
+统计学方法
+采用 SPSS23. 0 统计软件。采用
+Shapiro-Wilk法检验计量资料正态性，符合正态分布
+的数据以-x ± s表示，组间比较采用 t检验；不符合正
+态分布的数据以 M（IQR）表示，组间比较采用 Wil‐
+coxon秩和检验。P<0. 05为差异有统计学意义。
+2
+结果
+与对照组相比，实验组 EPCs 增殖能力增高，细
+胞黏附数增多，细胞绝对迁移宽度增宽，体外成管数
+增多，细胞培养液上清中 PDGF 水平增高（P 均<
+0. 05）。详见表1及图1 ~ 图3。
+12
+万方数据
+对照组
+实验组
+蠹
+一陵隧蕊
+蓬
+山东医药2022 年第 62 卷第 8 期
+3
+讨论
+慢性皮肤溃疡是多种原因导致的皮肤及皮下组
+织缺损，具有难愈合、易复发等特点，局部血液循环
+障碍、血管损伤是其难愈的主要原因
+［9］。慢性皮肤溃
+疡迁延难愈给患者带来了难以忍受的痛苦和沉重的
+经济负担。因此，寻找到有效的治疗方法具有非常
+重要的意义。目前针对慢性皮肤溃疡的治疗方法众
+多，包括控制血糖、抗感染、外科手术治疗等。EPCs
+由于其易于获得、低免疫原性、分化潜力高等诸多优
+点而获得广泛关注和研究，为慢性皮肤溃疡的治疗
+提供了新思路。
+EPCs是血管内皮细胞的前体，由日本学者ASA‐
+HARA 等
+［10］首次分离得出，EPCs 不仅参与胚胎时期
+血管新生，还能在血管受损时从骨髓向病变部位动
+员、归巢、分化，迁移到损伤处参与血管修复及新生。
+随着研究的不断深入，学者们发现，EPCs可以调控血
+管重构
+［11］、参与炎症过程
+［12］。研究发现，骨保护素借
+助CXCR4通路增强EPCs的增殖和迁移，促进骨缺损
+部位血管生成和骨形成
+［13］。ZENG等
+［14］研究表明，SD
+大鼠内皮祖细胞来源的微泡在体外能够促进SD大鼠
+脑微血管内皮细胞血管生成。WANG等
+［15］的研究表
+明，EPCs移植能促进受损肾脏和移植支架的血管生
+成。PDGF作为体内一种重要的促有丝分裂剂，参与
+了各种损伤后组织修复过程
+［10］。PATEL 等
+［16］发现，
+PDGF在伤口愈合过程中具有重要作用，可作为伤口
+愈合的生物标志物。PDGF 还可通过营养和招募周
+细胞促进毛细血管成熟，并延缓血管退化
+［17］。而
+EPCs 与 PDGF 在 生 理 功 能 上 有 着 密 切 的 联 系 。
+FANG 等
+［18］研究表明，EPCs 能通过 PDGF-BB/PDG‐
+FR-β信号通路及其下游PI3K/Akt通路、MEK/Erk通
+路促进 MSCs 的活力和潜在的神经再生能力。还有
+研究表明，PDGF、碱性成纤维细胞生长因子和一氧
+化氮在 EPCs向成熟内皮细胞的迁移、归巢和分化中
+发挥作用
+［19］。WANG等
+［15］发现，PDGF、VEGF和缺氧
+诱导因子 1α 等生长因子在脱细胞化支架中大量存
+在。这些生长因子对 EPCs有趋化作用，参与血管生
+成。由此可知，EPCs 与 PDGF 能相互作用、相互影
+响，在血管新生中共同发挥作用，促进慢性皮肤溃疡
+愈合。
+缺氧、高糖等环境对 EPCs的损伤会引起血管功
+能障碍，进一步影响局部血运，减慢患处皮肤修复及
+愈合。寻找具有保护EPCs、促进EPCs分泌PDGF、促
+进血管新生功能的药物可为慢性皮肤溃疡等疾病的
+治疗提供新的思路。人参为五加科植物人参的干燥
+根和根茎，具有大补元气、复脉固脱、补脾益肺、生津
+养血、安神益智等作用。临床上常用人参治疗慢性
+皮肤溃疡等疾病。GS-Rg1 是人参的主要成分之一。
+相关研究表明，GS-Rg1在一定浓度时可通过 VEGF、
+PI3K/Akt 通路促进斑马鱼血管生长，并能抑制血管
+内皮生长因子酪氨酸酶抑制剂Ⅱ诱导的血管损
+伤
+［20］。CAI等
+［21］研究表明，在高糖培养的人脐静脉内
+皮细胞中，GS-Rg1 可通过通过提高 miR-23a 水平来
+表1
+两组EPCs增殖、黏附、迁移、体外成管能力及培养液上清中PDGF水平比较（-x ± s）
+组别
+实验组
+对照组
+细胞增殖能力
+1. 09 ± 0. 14##
+0. 50 ± 0. 01
+细胞黏附数
+（个）
+77. 87 ± 7. 71##
+31. 12 ± 2. 56
+细胞绝对迁移宽度
+（μm）
+15. 43 ± 0. 21##
+10. 77 ± 0. 76
+体外成管数
+（个）
+415. 56 ± 48. 69#
+258. 50 ± 20. 48
+PDGF水平
+（pg/mL）
+143. 21 ± 16. 62#
+49. 07 ± 1. 10
+注：与对照组相比，
+#P<0. 05，
+##P<0. 01。
+对照组
+实验组
+图1
+两组EPCs黏附实验结果（黏附能力测定实验）
+对照组
+实验组
+0 h
+0 h
+48 h
+48 h
+图2
+两组EPCs迁移实验结果（细胞划痕实验）
+对照组
+实验组
+图3
+两组EPCs成管情况（Matrigel体外成血管实验）
+13
+万方数据
+山东医药2022 年第 62 卷第 8 期
+诱导一氧化氮和VEGF表达，促进糖尿病创面愈合过
+程中的血管生成，加速糖尿病足溃疡创面闭合。蒋
+文捷等
+［22］认为，GS-Rg1 可能通过激活 Akt 信号通路
+来对抗过氧化氢对大鼠骨髓来源的 EPCs 的损伤作
+用。黄锋等
+［23］研究表明，在特发性肺纤维化 SD大鼠
+模型中，GS-Rg1 可能通过调节 PDGF-A 表达从而发
+挥抗肺纤维化作用，具体机制有待进一步明确。由
+此可知，GS-Rg1 能够促进血管新生，对 EPCs 具有保
+护作用，并且对PDGF的分泌以及其生理作用有一定
+影响。
+本研究初步探讨 GS-Rg1 对 EPCs 生物学功能和
+分泌 PDGF 的影响，结果发现，GS-Rg1 能明显提高
+EPCs的增殖、黏附、迁移、体外成管能力，并且能促进
+EPCs分泌PDGF。然而本实验为离体实验，存在一定
+的局限性，且 GS-Rg1 对 EPCs 生物学功能及分泌
+PDGF影响的内在机制尚不明确，有待在后续研究中
+进一步探讨。
+参考文献：
+［1］ LEE C H，LIU K S，CHENG C W，et al. Codelivery of sustain‐
+able antimicrobial agents and platelet-derived growth factor via
+biodegradable nanofibers for repair of diabetic infectious wounds
+［J］. ACS Infect Dis，2020，6（10）：2688-2697.
+［2］ PENG X，GUO H，CHEN J，et al. The effect of pirfenidone on
+rat chronic prostatitis/chronic pelvic pain syndrome and its mech‐
+anisms［J］. Prostate，2020，80（12）：917-925.
+［3］ KIM T J，YU Y D，HWANG S I，et al. Analysis of risk factors
+for post-bacillus Calmette-Guerin-induced prostatitis in patients
+with non-muscle invasive bladder cancer［J］. Sci Rep，2020，10
+（1）：9763.
+［4］ HO D R，CHANG P J，LIN W Y，et al. Beneficial effects of in‐
+flammatory cytokine-targeting aptamers in an animal model of
+chronic prostatitis［J］. Int J Mol Sci，2020，21（11）：3953.
+［5］ 孙娜，王洪新，鲁美丽 . 人参皂苷 Rg1通过 SIRT1/PGC-1α信号
+通路抑制 AngⅡ诱导乳鼠心肌细胞肥大的研究［J］. 中药药理
+与临床，2019，35（5）：69-73.
+［6］ AGLAMIS E，CEYLAN C，AKIN M M. Is there a correlation be‐
+tween the aggressiveness of chronic asymptomatic prostatitis NIH
+category IV and the Gleason score in patients with prostate cancer
+［J］. Can Urol Assoc J，2020，14（11）：E568-573.
+［7］ SMOTHERS A，YOUNG S，CONSTANTINE L. Management of
+chronic nonbacterial prostatitis and chronic pelvic pain syndrome
+in the adult male patient with comorbid conditions［J］. J Christ
+Nurs，2020，37（3）：21-26.
+［8］ 王禹萌，邹晓玲，余亦程，等 . 黄芪甲苷促人内皮祖细胞分泌血
+管生长因子的实验研究［J］. 中医学报，2020，35（5）：1050-1054.
+［9］ MAGISTRO G，STIEF C G，WAGENLEHNER F. Chronic pros‐
+tatitis/chronic pelvic pain syndrome［J］. Urologe A，2020，59
+（6）：739-748.
+［10］ SU Z T，ZENILMAN J M，SFANOS K S，et al. Management of
+chronic bacterial prostatitis［J］. Curr Urol Rep，2020，21（7）：29.
+［11］ YANG J X，PAN Y Y，WANG X X，et al. Endothelial progeni‐
+tor cells in age-related vascular remodeling［J］. Cell Transplant，
+2018，27（5）：786-795.
+［12］ ACOSTA S A，LEE J Y，NGUYEN H，et al. Endothelial progen‐
+itor cells modulate inflammation-associated stroke vasculome［J］.
+Stem Cell Rev Rep，2019，15（2）：256-275.
+［13］ ZHANG R，LIU J，YU S，et al. Osteoprotegerin（OPG）pro‐
+motes recruitment of endothelial progenitor cells（EPCs）via CX‐
+CR4 signaling pathway to improve bone defect repair［J］. Med
+Sci Monit，2019，25：5572-5579.
+［14］ ZENG W，LEI Q，MA J，et al. Endothelial progenitor cell-de‐
+rived microvesicles promote angiogenesis in rat brain microvascu‐
+lar endothelial cells in vitro［J］. Front Cell Neurosci，2021，15：
+638351.
+［15］ WANG X，YU Y，LI M，et al. EPCs enhance angiogenesis in re‐
+nal regeneration［J］. Oncotarget，2016，7（29）：44941-44949.
+［16］ PATEL S，MAHESHWARI A，CHANDRA A. Biomarkers for
+wound healing and their evaluation［J］. J Wound Care，2016，25
+（1）：46-55.
+［17］ BAI Y，BAI L，ZHOU J，et al. Sequential delivery of VEGF，
+FGF-2 and PDGF from the polymeric system enhance HUVECs
+angiogenesis in vitro and CAM angiogenesis［J］. Cell Immunol，
+2018，323：19-32.
+［18］ FANG J，HUANG X，HAN X，et al. Endothelial progenitor cells
+promote viability and nerve regenerative ability of mesenchymal
+stem cells through PDGF-BB/PDGFR-β signaling［J］. Aging（Al‐
+bany NY），2020，12（1）：106-121.
+［19］ MOTAMER M，HAGHJOOY JAVANMARD S，MORTAZAVI Z
+S，et al. Evaluation the effect of testosterone on the number of en‐
+dothelial progenitor cells and amount of SDF-1α，PDGF，bFGF，
+and NO［J］. Int J Prev Med，2019，10：214.
+［20］ 石秀娟，魏易洪，吴琼，等 . 人参皂苷 Rg1对斑马鱼血管生长的
+影响［J］. 辽宁中医杂志，2021，48（8）：193-196.
+［21］ CAI H A，HUANG L，ZHENG L J，et al. Ginsenoside（Rg-1）
+promoted the wound closure of diabetic foot ulcer through iNOS el‐
+evation via miR-23a/IRF-1 axis［J］.
+Life Sci， 2019，233：
+116525.
+［22］ 蒋文捷，梁雪梅 . 人参皂苷 Rg1对骨髓来源内皮祖细胞损伤的
+保护作用［J］. 中国组织工程研究，2018，22（33）：5338-5343.
+［23］ 黄锋，孙娟，杨智华，等 . 人参皂苷 Rg1灌胃对大鼠特发性肺间
+质纤维化的治疗作用及其机制探讨［J］. 山东医药，2017，57
+（27）：40-42.
+（收稿日期：2022-01-03）
+14
+万方数据

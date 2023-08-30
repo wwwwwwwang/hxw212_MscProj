@@ -1,0 +1,460 @@
+医学肿瘤学分册 2 
+生 
+旦笠 
+鲞笙 ! 塑
+!：
+ 
+鲤 
+型 
+! 
+人 参 皂 苷 与 肿 瘤 
+封颖璐 综 述
+凌 昌全 审校 
+摘要
+人参皂苷( Gs ) 是人参的主要有效 成分 ，包括数 十种单体 。Gs 及其 不 同单 体的抗肿 
+瘤机 制各 异 ，主要有 以下几个方 面 ：甾体类 激素样 作用 ，诱 导肿 瘤细胞 凋亡 ，调节 多种癌 基 因及 
+抑癌 基因表达 ，逆转肿瘤细胞 的多药耐药性提高化疗药物疗效 ，提高机体免疫 力 ，一定 条件下对 
+恶性 细胞诱导分化 ，抑 制肿瘤血 管生成。 
+关键词
+人参皂甙 ；抗 肿瘤 药物( 中药 ) ；中药药理学 
+中图分类号
+R730．52 
+文献标 识码 
+A 
+文章编号 
+1000 —8225 ( 2005 ) 09—0665—04 
+现代药理研究及临床流行病学调查发现 ，人参 
+对多种肿瘤具有非器官特异性的预防作用 ，在降低 
+肿瘤发生率 、治疗 及预 防肿瘤 复 发方 面有 重要 作 
+用 ¨ 。人 参皂 苷 ( ginsenoside ，GS ) 是 人 参 的 主要 有 
+效成分 ，具有确切 的抗肿瘤活性。 目前 已经明确结 
+构的 GS 单体约有 40 余种 ，大体分为 3 类 ：①人参皂 
+苷二醇型 ，包括 Rbl 、Rb2 、Rc 、Rh2 等。②人参皂苷 
+三醇型 ，主要有 Re 、Rf 、Rgl 、Rg2 、Rhl 等。③齐墩果 
+酸型，代 表有 Ro 、Rh3 、Ri 等。不同的 GS 单体通 过 
+各 自途径发挥不同的抗肿瘤作用 ，现就近几年的研 
+究状 况 综述 如下 。 
+1 
+甾体 类激 素样 抗肿 瘤作 用 
+甾体类激素与肿瘤 的关系非常密切 ，它在肿瘤 
+治疗及预后中的作用受到越来越多的关注。甾体类 
+激素通过激活或抑制其受体基 因的表达 ，选择性地 
+启动激素依赖的基因网络 ，发挥 调节肿瘤细胞代谢 
+的生物学效应。与 GS 相关的 甾体类激素主要有 糖 
+皮质激素( glucocorticoids ，GC) 和性激素。 
+1．1 
+GC 样 作 用 
+Attele 等 
+报道 GS 对血浆细胞膜 上的多受体 
+系统具有靶 向性 ，并可激活细胞内类固醇受体 ，从而 
+发挥激素样抗肿瘤作用。目前研究发现具有此类作 
+用的 Gs 单体 主要 有 Rgl 、Rbl 、Rhl 、Rh2 等 。例如 
+Rgl 通过剂量依赖 方式诱导 受体基 因表达 ，和 GC 
+一
+样 ，它也可导致细胞内糖皮质激素受体含量下调。 
+Lee 等¨ 实验发现 Rgl 以 1 ～10~ mol／L 的特殊亲和 
+力与 H 地塞米松共同竞争结合糖皮质激素受体 ，并 
+激活 GC 反应元件 。尽管 Rgl 和地塞米松均以剂量 
+基 金 项 目：国 家 自然 科 学 基 金 委 杰 出青 年 基 金 资 助 项 目 
+( 30025045 ) 
+作者单位 ：200433 上海 ，第二军医大学附属长海医院中医科 
+依赖的方式发挥作用 ，但要产生同样规模的反应 ，前 
+者的需要浓度是后者 的 2 ～3 倍。Popovich 等 
+认 
+为 ，Rh2 可促进人白血病细胞的凋亡 ，其途径可能与 
+地塞米松一样 ，均为受体依赖性。 
+1．2
+性 激 素样作 用 
+Gs 单体不但具有 GC 样作用 ，还可通过与性激 
+素受体 结合 ，调 节性激 素分 泌 ，发挥抗 肿瘤 作用。 
+Tsai 等 
+在探索 Rbl 对体 内外黄体素分泌 的影 响 
+时发现 ，接受游泳运动实验的小鼠中，用药组 的睾丸 
+素水平较生理盐水对 照组 明显低。体外 实验表 明 
+Rbl 可 以直接作用 于鼠 AP 细胞 ，提高黄体素 的分 
+泌量。Le e 等 ’ 在 Gs 与性激素关 系方面做了大量 
+研 究 。发 现 一定 浓度 的 R bl 、R hl 可 以激 活 MCF．7 
+人乳腺癌细胞中雌激素荧光酶报告基 因的转 录，激 
+活作用可被特 异性雌激 素受体拮 抗剂 ICI182 、780 
+阻断 ，从而证明 Rbl 、Rhl 的雌激素样作用是雌激素 
+受体依赖性 的。但这二者均不能激活糖皮质激素受 
+体 、维 甲酸受体 、雄激素受体 。 
+由此可见，某些 GS 单体具有植物激素作用 ，可 
+通过与甾体类激素受体结合 ，调节此类激素分泌 ，并 
+激活或抑制其受体基 因的表达 ，从而调节肿瘤细胞 
+代谢 。 
+2
+诱 导 肿瘤 细胞 凋亡 
+凋亡又称 “ 程序性 细胞死亡 ” 或 “ 细胞 自杀” 。 
+在正常情况下 ，机体细胞增殖 与凋亡之 间保持动态 
+平衡 ，一旦这种平衡被打破 ，无论增殖失控或凋亡受 
+阻都会导致肿瘤的产生。因而 ，人工诱导肿瘤细胞 
+凋亡成为抗癌治疗 的研究热点。Rh2 和 Rg3 是两种 
+目前 研究 最 多的与 凋亡 相关 的 GS 单 体 。 
+2．1 
+Rh2 与 凋 亡 
+Rh2 可以通过不同途径调节凋亡相关基 因包括 
+c-j un、caspase、bcl -2 和 bax 等的活性及表达，诱导肿 
+医学肿瘤学分册 2005 年! 旦筮 
+鲞箜 ! 塑 
+鲤 
+Q !  
+! 
+瘤细胞凋亡。Ham 等 
+发现 Rh2 处理过的人肝癌 
+SK —HEP一1 细胞 会发 生 凋亡 ，并 且 凋 亡 过程 中 c—J un 
+的 N 末 端 蛋 白 激 酶 1 ( c—J un N—terminal protein ki— 
+nase 1，J NK 1) 活性 明显上调 ，异位的 JNK 1 过表达可 
+抑制凋亡 ，而隐性的 J NK 1 突变体表达可促进凋亡。 
+caspase 是细胞凋亡调控的关键分子群 ，被称为凋亡 
+执行器。它们通过切断与周围细胞的联络 ，重组 细 
+胞骨架 ，关 闭 DNA 复制和修 复 ，破 坏 DNA 和核结 
+构 ，诱导凋亡小体的形成等 ，在细胞凋亡中发挥重要 
+作用 。Park 等 
+也 证 实 Rh2 可 诱 导 人 肝 癌 SK — 
+HEP一1 细胞 凋亡 ，并 发现 在 凋亡 过 程 中 ，有 bcl一2 敏 
+感的 caspase一3 蛋 白激酶的活化。caspase一3 促使细 
+胞周期相关蛋 白 p21 裂解 ，并伴有细胞周期素 A 依 
+赖蛋 白激酶 CDK2 的活化，从而导致凋亡发生。此 
+外 ，Fei 等¨。。研究发现 Rh2 还可以通过诱导凋亡，抑 
+制体外培养 的人恶性 黑色素瘤 A375一s2 细胞 的生 
+长 ，该凋亡 的产 生部分依赖 caspase一3 和 caspase一8 
+通路 ，其他凋亡通路也可能参与其 中。 
+Rh2 诱导 凋亡 的机 制 复 杂 ，除调 节 凋 亡 相 关基 
+因的表达外 ，还有其他作用 机制值得进一 步研究。 
+如 K im等⋯ 在研究 Rh2 对 脑肿瘤 的作用 时发现 ， 
+Rh2 处理过的鼠 c 6 神经胶质瘤细胞发生 了凋亡 ，凋 
+亡相关基因 bcl 一2 和 bax 表达水平无变化 ，证 明 Rh2 
+诱导的细胞凋亡与 以下两种因素有关：细胞内活性 
+氧和 bcl—xl 非依赖方式激活的 caspase 通路 。 
+2 ．2 
+R．
+g3 与 凋 亡 
+Rg3 是与凋亡关系密切的另一种 GS 单体。Liu 
+等¨ 报道它可通过 激活细胞周期激 酶抑制子 p21 
+和 p27 的表 达 ，抑 制 多 种 生 物 标 记 基 因 ，如 前 列 腺 
+特异性抗原 、雄激 素受体等 的表达 ，使人 前列腺癌 
+LNCaP 细胞 阻滞 于 G ．期 ，进 而 通 过 caspase一3 介 导 
+的凋 亡机 制抑 制细 胞生 长 。 
+此外 ，尚有一些 GS 单体如 Rbl 、Rb2 、Rc 等也从 
+不同途径对细胞凋亡产生作用 ，目前仍在研究中。 
+3
+逆转肿瘤细胞耐药性 
+化疗仍是 目前肿瘤治疗 的主要手段 ，肿瘤细胞 
+产生耐药性是导致化疗失 败和肿瘤复 发的重要原 
+因 ，多药耐药基因的过表达是肿瘤细胞产生耐药的 
+重要机制之一。多药耐药 1 基因产物 P一糖蛋 白( P— 
+glycoprotein，Pgp) 位于细胞膜 上 ，可使药物外 流 ，细 
+胞内药物减少 ，导致细胞对多种化疗药物产生耐药。 
+同时 ，这一过程需要钙离子通道参与，所 以阻滞该通 
+道也有助于逆转耐药性。 
+K im 等¨ 研究发现 Rg3 可以剂量依 赖的方式 
+逆转耐药细胞 KBV20C 对多柔吡星 、长春新碱 、VP一 
+16 等的耐药性。Rg3 逆转肿瘤 细胞耐药性 主要通 
+过抑制药物 向细胞外流动 ，该抑制作用产生 的机制 
+主要 是 Rg3 可与多种化疗 药物 竞争结合位于细胞 
+膜上 的 Pgp，而与控制多药耐药 1 基因的表达及 Pgp 
+水平均无 关。Tachikawa 等¨ 报道 ，在牛 肾上腺嗜 
+铬细胞中，Rg3 通过剂量依赖的方式降低 乙酰胆碱 
+诱导的钙离子内流 ，并且高浓度 的 Rg3 还 可以调 节 
+细胞膜的流动性。 
+4
+提高免疫功能 
+机体免疫功能与肿瘤发生发展关系密切 ，当宿 
+主免疫功能低下或受抑制时 ，肿瘤发病率高 ，而在肿 
+瘤进行性生长时，免疫功能也会受到抑制 ，两者互 为 
+因果 ，因而提高免疫力 ，已成为抗肿瘤治疗不可或缺 
+的部分。近 来 K ong 等¨ 证 实，Gs 可加速 接 种过 
+Newcastle 病疫苗 的鸡外周淋 巴细胞增殖 ，提高血清 
+抗体滴度 ，促进 体液和细胞免疫。Hu 等¨ 给使用 
+oval bumin 免疫过的奶牛肌 肉注射 GS ，每 2 周注射 
+一
+次 ，共 2 次 ，并设 立空 白对照组 ，结 果发现用药组 
+血清中抗体反应较未用药组 明显升高。另一实验给 
+S．aureus 疫苗免疫 过的奶 牛注射 Rbl ，发现 Rbl 不 
+但可以提高抗体产生 量 ，而且对 淋巴细胞 的增殖有 
+明显促进作用。证 明了 GS 和 Rbl 对 免疫功能有 明 
+确 的增强 作 用 ，并 且指 出 R bl 的作 用 要优 于 GS 。 
+GS 不但可以介导多种免疫效应 ，还能调节细胞 
+产生细胞 因子。Lee 等 
+利 用 鼠脾 细胞研究 Rgl 
+对免疫功能的影响时发现 ，Rgl 可 以提高 T 细胞 中 
+T 辅助细胞的比例 ，促进 白细胞介素一2 基因的表达 ，
+ 
+这表明Rgl 可 以提高 CD4 T 细胞的免疫活性 ，但具 
+体机制未 明。实验过程 中观察到 Rgl 对未 受刺激 
+的 CD4 T 细胞不产生有丝分裂作用 ，但可通过剂量 
+依赖的方式用抗 CD3 或抗 CD28 抗体放 大 CD4 T 
+细胞 的增殖活性。同时 Rgl 可以提高 白细胞介素一2 
+mRNA 和 CD4 T 细胞上 白细胞介素一4 mRNA 的表 
+达 ，表明 Rgl 诱导 T 辅助细胞 2 家族的产生。提高 
+细胞 表 面蛋 白 CD69 的表达 也是 R gl 的重要作 用 。 
+5
+抗肿瘤 侵 袭及 转移 
+GS 抗肿瘤侵袭转移 的作用机制主要表现在抑 
+制肿瘤血管生成 、减低细胞粘附性 及调节细胞 内钙 
+离子浓度等方面。 
+当肿瘤大小超过 1．0 ～2．0mm 时 ，不仅需要新 
+生血管供给营养和排 泄代谢产物 ，还需要提供有利 
+于转移的通道 。因而抑制血管生成可以阻止肿瘤生 
+长转移¨ 。新生血管的形成过程大体分为 3 步 ：① 
+200 5 年 9 月第 32 卷第 9 期
+Foreign Med Sci 
+Oncol Sect, September 2005 , V o1．32 , No．9 
+局部毛细血管基底膜降解。②血管内皮细胞迁移并 
+伴随细胞增殖 。③ 内皮细胞形成新的毛细血管。破 
+坏 以上任一环节都将阻碍血管生成 。Fujimoto 等¨ 
+用 Rb2 处理子宫内膜癌细胞 ，发现 Rb2 可抑制金属 
+蛋 白酶一2 的表达和活性 ，但不 能改变细胞中金属蛋 
+白酶抑制子一1 和金属蛋 白酶抑制子一2 的表 达。结 
+论 是在 某些 内膜 癌 中 ，Rb2 可 以通 过 金 属 蛋 白酶 抑 
+制子一2 阻止肿瘤细胞 向基底膜 的侵袭。 
+肿瘤转移与肿瘤细胞粘附性关系密切。癌细胞 
+浸润时，先 由表面受体识 别层连 蛋 白、纤维 连接蛋 
+白，进而附着于Ⅳ型胶原上，这样粘附于细胞外基质 
+的肿瘤细胞才不会被清除而具有侵袭性 。Rg3 对人 
+前列腺 癌 LNCaP 细胞 系 具 有 生 长 抑 制 活性 ，在 
+2501xmol／L 浓 度下 孵 育 48h 后 ，发 现 肿 瘤 细 胞 失 去 
+粘 附能 力 ¨ 。 
+此外 ，Rhim 等 
+发现 R 
+可以剂量依赖方式 
+抑制鼠神经元的钙离子通道 ，调节细胞 内钙离子浓 
+度，抵抗肿瘤的侵袭转移。 
+6
+参 与细胞 信 号转导 
+GS 可以通过调节多种癌相关基 因的转 录与表 
+达，参与细胞信号转导，达到抗肿瘤 目的。如 K eum 
+等 
+发现，Rg3 不但可以抑制鼠皮肤和人中性粒 白 
+血病细胞中真核生物转 录因子 NF—KB ，而且对另一 
+种转录因子激活蛋 白一1 也有抑制作用 。已知该蛋 
+白在 癌基 因 c—fos 和 c—j un 的 转 录激 活 中有 重 要 作 
+用 。因而推 测 ，R 
+的抗 肿 瘤 活 性 可 能 是 通 过 下 调 
+NF—KB 和激 活 蛋 白一1 实 现 的 。另 有 研 究 证 实 
+，
+ 
+Rbl 、Rhl 可以在 mRNA 和蛋 白质水平提高 c—fos 的 
+表达 ，而另外两种 GS 单体 Rc 和 Re 既不能提高 c— 
+fos 的表达，也不能作为转录因子 与细胞 内甾体类激 
+素受体连接。 
+此外 ，GS 对肿瘤细胞 的诱 导分化，也是其抗癌 
+的机制之一 ，是 当今肿瘤治疗学研究的热点。其具 
+体作用机制 尚在探索 中。 
+7
+结语 
+大量研究表明 GS 及其各种单体具有明确的抗 
+肿瘤作用。 目前 已有 部分皂苷单 体作为新 一代高 
+效 、低毒抗癌药应用于临床 ，取得了一定疗效 。随着 
+单体皂苷作用研究的不断深入 ，是 否需要考虑这样 
+的问题 ：人参皂苷单体的抗肿 瘤活性是否优 于总皂 
+苷 ，各单体间在疗效上是否具有协同或制约的关系， 
+研究仍是任重而道远。 
+参
+考
+文
+献 
+l 
+Y un T K ．E xperi me ntal and epide miolog ica l ev idenc e on non—org an 
+． 6 6 7 · 
+s pe cifi c ca nc er pre ven ti ve e ffec t of  K ore an gi nse ng  a nd ide ntifi c ation 
+of ac tiv e compou nds．M uta t R es ，2 00 3 ，52 3 - 5 24 ：63 - 7 4 ．
+ 
+2 
+A t tele AS ，Wu J A ，Y uan CS ．G inseng pharmacology ：multi pl e cons tit— 
+uents an d multiple actions．B ioc hem Pharm ac o1．1 999 ，58 ( 1 1 ) ：
+ 
+l 6 8 5 ．16 9 3 ．
+ 
+3 
+Lee Y J ，Chung E ，Lee KY ，et a1．Ginsenoside—Rgl ，one of the maj or 
+active mol ecules from Panax gi nseng ，is a functional l igand of gIu— 
+cocorticoid re ceptor．Mol Cell Endocri nol ，1997 ，133 ( 2 ) ：135 —140 ．
+ 
+4  
+Popov ich D G ，K itts D D ．S tructure —funct ion re l ationship e xists f or gin— 
+senos ide s i n reduc ing ce ll proliferat ion and inducing a poptosis in the 
+human l eukemia ( T H P一1 ) cel l l ine．A rch B iochem B ioph ys ，2002 ． 
+406 ( 1) ：1-8．
+ 
+5 
+T sai S C ，C hia o Y C ，L u C C ，et a1．S tim ulat ion of the sec re tion of 1utein— 
+izing hormone by ginsenoside—R bl in mal e rats．Chin J Physio1．
+ 
+2003 ，46 ( 1 ) ：1—7．
+ 
+6 
+Le e Y J ，J in Y R ，Lim W C ，et a1．Ginsenosi de—R bl acts as a weak phy- 
+toe stroge n in M CF 一7 hum n bre as t c anc er ce lls．A rch Pharm  R es ， 
+2003 ，26 ( 1 ) ：58 —63．
+ 
+7 
+Le e Y J ，J in Y R ，Li m W C ，et a1．Ginsenoside R c and R e stimulate c ． 
+fos ex pre ssion in M C F 一7  huma n bre ast c arcinoma ce lls．A rch P ha rm 
+R es．2003 ，26 ( 1 ) ：53—57 ．
+ 
+8 
+H am Y M ，C hun K H ，C hoi J S ，et a1．SEK I - dependent J NK I act iv at ion 
+prolong s c ell s urvi val duri ng  G - R h2 - induced apoptosis．B ioc hem B io— 
+phys R es Commun ，200 3 ，304 ( 2 ) ：35 8—364．
+ 
+9 
+Park J A ，Le e K Y ，Oh Y J ，et a1．A c tiv ation of caspase- 3 protease via a 
+B cl - 2 一inse nsitiv e pathw ay duri ng the p roc ess of gi nse noside R h2 一in— 
+duced apoptosi s．Cancer Le tt，1997 ，12 1( 1 ) ：73 -81．
+ 
+10  
+F e i X F ，W ang B X ，T ashiro S ，e t a1 ．A poptotic e ffe cts of g insenos ide 
+R h2 on hum an mal
+ig na nt me la noma A 3 7 5 一S2  c el ls
+． A ct a Pharm acol 
+Sin ，200 2 ，23 ( 4 ) ：3 15-322．
+ 
+1 1 
+K im H E ，Oh J H ，Le e SK ，et a1．G insenoside R H· 2 induc es ap optotic 
+c ell de ath i n ra t C6  gl iom a via a reac tiv e ox yg en· and c as p~ e - de． 
+pendent but Bcl· X ( L ) · independent pathway．L ife Sci ，1999 ，65 
+( 3 ) ：PL33．40．
+ 
+12 
+L iu W K ，X u S X ，Che C T ．A nt i· pro li ferativ e effe ct of  g inse ng  sa po- 
+nins on human pro state canc er cel l line．Life Sc i ，2000 ，67 ( 11 ) ：
+ 
+l 29 7 一l 3 0 6 ．
+ 
+13 
+K i m S W ，K w on H Y ，C hi D W ，e t a1 ．R e ve rsal of P - gly copro tein—m edi． 
+ated muh idrug re sistance by ginsenoside R g ( 3 ) ．Biochem Pharma． 
+col ，2003 ，65 ( 1) ：75 —82．
+ 
+14  
+T ac hik aw a E ，K udo K ，N unok aw a M ，et a1．C harac teri zat ion of g in． 
+seng saponin gi nsenoside· R g( 3 ) inhi bi tion of catechol amine secre ． 
+tion in bov ine a dre nal c hro ma flqn c ell s．Bioc hem  Pharm ac o1 ．2 0 0 1 ．6 2 
+(7 ) ：943．95 1．
+ 
+15 
+K ong X F ，H u Y L ，R ui R ，et a1．E ffe cts of Ch ine se he rbal  me dicinal  
+i ng re die nts on peripheral ly mphoc yte pro liferat ion a nd selTum anti． 
+body t iter afte r va cc ination in c hic ke n．1nt lmm unopha rm acol
+， 2 00 4 ，
+ 
+4 ( 7 ) ：975 —982 ．
+ 
+16 
+Hu S ，Concha C ，Lin F ，et a1．Adjuvant ef ect of ginseng extracts on 
+the im mu ne responses to im munisat ion ag ainst S t aphylococ cus aure us 
+in dairy cattle．V et l mmunol Immunopathol ，2003 ，9 1( 1) ：29 —37．
+ 
+17 
+Le e E J ，K o E ，Lee J ，et a1 ．Gi nsenoside R gl enhanc es C D4 ( + ) T ． 
+200 5 年 9 月第 32 卷第 9 期 
+Foreign —
+Med Sci
+—Oncol Sect ~ September 2005 , V o1．32 , No．9 
+ce11 a ct ivitie s and modula tes T h l／T h2 dif ferentia tion．I nt I m munop— 
+harmaco1．2004 ，4 ( 2 ) ：235 —244 ．
+ 
+18 
+T hompson W D ．L i W W ．M aragouda k is M T he cl inical manipula tion 
+of  a ng iog enes is ：pathology ，side—eff ec ts ，surpri se s ，a nd opport unities 
+with novel hu man therapies．J Pathol ，2000 ，190 ( 3 ) ：330—337 ．
+ 
+19 
+Fuj imoto J ，Sakaguchi H ，Aoki I ，et a1．Inhibitory effect of gi nsen— 
+oside —R b2 on inv asiv eness of  ute ri ne e ndom etri al c ance r c ells to the 
+basement membrane．E ur J  Gynaec ol Onco1，2 00 1 ，22 ( 5 ) ：339 —34 1．
+ 
+2 0 
+R him H ，K im H ，L e e D Y ，et a1．G inseng and g insenosi de S g3 ，a new — 
+ly ident ifi ed ac tive  ingredie nt of  ginse ng ，m odula te C a2  
+c hannel 
+currents in rat sensory  neurons．E ur J Pharmacol ，200 2 ，4 36 ( 3 ) ：
+ 
+l5 l —l 5 8 ．
+ 
+2 1 
+Keum Y S ，Han SS ，Chun KS ，el a1．Inhibitory  effects of the gi nsen— 
+os ide S g3 on phorbol este r—induce d cyc looxy ge na se一2 ex pre ss ion ，
+ 
+NF-kappaB ac tivation and tumor promotion．Murat R es ．200 3 ．523— 
+5 24 ：75 —8 5 ．
+ 
+22 
+Le e Y ，J i n Y ，L im W ，et a1．A ginsenoside—R h l ，a c omponent of gin— 
+se ng sapo
+nin ，act iva tes e st rog en rec eptor i n hum an brea st ca rc inom a 
+MCF 一7 cells．J  Stero id Biochem Mol Biol ，2003 ，84 (4 ) ：463—468．
+ 
+( 收稿 日期 ：2005—0 1—04 
+修 回 日期 ：2005 一Ol 一25 ) 
+小 檗碱抗肿瘤 的分子机制研究进展 
+田原僮
+钟 毅
+潘 玉琢 综 述
+赵 丽娟 审校 
+摘要
+小檗碱 又名黄 连素 ，是一种季胺类化合 物 ，属于异喹啉衍生 物。近年来 ，随着对 小檗 
+碱及其衍生 物的深入 研究 发现 ，小檗碱 对许 多肿 瘤均有 治疗 作用 。现 综 合国 外对 小檗碱 的研 
+究 ，从 DNA 水平 、RNA 水平 及蛋白质水平上浅谈小檗碱抗肿瘤 的研究进 展。 
+关键词
+小 檗碱 ；抗肿瘤药 ( 中药 ) ；肿瘤 
+中图分 类号
+R730．52 
+文献标识码
+A 
+文章编号
+1000—8225 ( 2005 ) 09- 0668—04 
+小檗碱 ( bererine，Ber) 又名黄连素 ，可来源于毛 
+莨 科植 物黄 连 ( coptis chinensis franch ) 的根 状 茎 、小 
+檗碱科植物 日本小檗碱 Berbergii DC 根 茎、罂杰科 
+植物 白屈菜 ( chelidonium maj us L ) 种 子 和芸 香 科 植 
+物黄 柏 ( phellodendron amurense rupr ) 树 皮 和 果 实 
+等 。小檗 碱属 于异 喹 啉 衍 生 物 ，用 于 腹 泻 治疗 已经 
+有 3000 多 年历 史 。近年 来 ，随着对 小檗 碱 及其 衍生 
+物 的深人研 究 发现 ，小 檗 碱 对 许 多 肿瘤 均 有 治疗 作 
+用 ，其 中包括 白血病 、脑肿瘤 、肺癌 、肝癌 、食管癌 、结 
+肠腺癌和膀胱癌等。现综述小檗碱抗肿瘤的分子机 
+制研 究进 展 。 
+1
+小 檗碱 在 DNA 水 平上 的作 用 
+小 檗 碱 可 以 抑 制 环 氧 化 酶 ( cyclooxygenase， 
+COX ) -2 的表达及活性。COX 是前列腺素 ( PG) 合 
+成过程中一个重要 的限速酶。COX 可分 为 COX ．1 
+与 COX 一2 二种异构体⋯ 。COX 一1 为结构性酶 ，在 
+许 多细 胞 中持 续表 达 ，主要 介 导 生 理 性 前 列 腺 素形 
+成 ；COX -2 为诱导性酶 ，需在有 丝分裂原的诱 导下 
+选择性表达。COX 一2 主要存在于炎症部 位，与痛敏 
+有关 ，在结肠癌高表达 J。COX ．2 催化花生 四烯酸 
+作者单位 ：130021 长春 ，吉林大学基础医学院药理教研室 
+产生 PG 和 凝 血 烷 酸 。 PG 通 过 腺 苷 酸 环 化 酶 偶 联 
+受体和过氧化物增殖家族受体发挥 自分泌和旁分泌 
+作用 ，影响细胞增殖 、凋亡及血管生成。因此 ，阻断 
+PG 合 成可 以促 进细 胞凋 亡 。 
+DuBois 
+和 Sheng 等 
+报 道 小檗 碱 可 以抑制 
+COX 一2 ，可 阻 断结 肠 腺 瘤 和腺 癌 的 形成 。小 檗 碱 及 
+其类似物可使 COX ．2 合成减少 ，但对不同细胞有不 
+同调节机制 。Fukuda 等 
+报道小檗碱 可 以与结肠 
+癌细胞 内的大分子蛋 白质结合 ，抑制 COX ．2 基因的 
+启动子 ，使 COX -2 基因转录受阻，COX 一2 生成减少。 
+Lee 等 
+报道 13一甲基小檗碱和 13一乙烷基小檗碱 
+可以在不影响 COX 一2 蛋白表达情况下 ，抑制 COX 一2 
+活性 ，使 PG E 产生减少。Cordero 等 
+证明小檗碱 
+浓度为 3mmol／L 时 ，对人类结肠癌细胞有明显的细 
+胞毒性作用 ，并且证 明这种细胞毒作用是 通过抑制 
+COX ．2 的转 录活性 实现 的 。 
+2
+小檗 碱在 R NA 水平 上的 作 用 
+2．1 
+作 用 于激 活蛋 白一1 和 尿 激 酶 型 纤溶 酶 原 激 活 
+物 
+激活蛋白- 1 ( activator protien一1，AP一1) 是 由 Fos 
+( 55kD) 和 Jun( 39kD) 组成 的异二聚体 ，通过亮氨酸 
+拉链 ( 1eucine zipper ，LZ ) 与 DNA 调 节序列上 的 AP一 
+1 位点结合 ，激活与生长相关 的基 因。肿瘤细胞及 

@@ -1,0 +1,772 @@
+第 1O期 
+2017年10月 
+· 基础研 究 · 
+No．10 
+0 c t．20 17 
+人参皂 苷 Re 对 阿尔茨海默病模 型小 鼠脑组织生 
+物标记物 调控作用的研究 
+李菁媛
+王酷
+刘颖
+李伟
+李乃静 
+【摘要】 
+目的 
+通过超高速液相色谱．质谱联用( UPLC—MS) 技术研究人参皂苷 Re( G·Re) 对阿尔茨海默病 
+( AD ) 模 型小鼠生物标记物的调控作 用以及机 制 ，为 AD 的 中药治疗提供新 思路 。 
+方 法
+将 小 鼠随机 分 为对照 
+组 、AD 模 型组和 G—Re 治疗组 ，通过免疫组化 实验观 察小 鼠脑部 海马 区细胞的病理 学改 变，运 用以 UPLC-MS 为基 
+础 的代谢组 学技 术研 究 G—Re 对 AD 模型 小鼠脑组织生物标记物 的调控作 用。 
+结 果
+免疫组化 实验发现 ，对照 
+组 小鼠海马 区无 AB 沉积 ，AD 模型组小 鼠海马 区可见 大量 At3 沉积 ，经 G—R e 治疗后 小鼠海马 区A p 沉积 明显减 少。 
+代 谢组 学分析发现 ，AD 模型组 小鼠脑组 织 中存在 次黄嘌呤 、次黄 嘌呤核苷 、苯 丙氨酸 、16 碳鞘氨 醇、植物鞘氨醇 、溶 
+血磷脂酰胆碱 C16 ：0 、溶血磷 脂酰胆碱 C18：1、溶血磷 脂酰胆碱 C18：0 等 9 种 生物标记物 。与对 照组 比较 ，AD 组次 
+黄嘌呤 、次黄 嘌呤 核苷和苯 丙氨酸 的含量 明显升高( P<0．05) ，16 碳 鞘氨 醇、植物鞘氨 醇 、溶 血磷脂 酰胆碱 ( C16：0 、 
+C18：l 、C18 ：0) 的含量 明显 降低 ( P < 0．05) 。经 G—Re 干预 后 ，AD 组 小鼠脑组织 中次黄嘌吟 、次黄嘌呤核苷和 苯 丙氨 
+酸的含量明显 降低 ( P <O．05) ，16 碳鞘氨 醇、植物鞘 氨醇 、溶血磷 脂酰胆碱 ( C16 ：0、C18 ：1、C18 ：0 ) 的含 量明显升 高 
+( P<0．05) 。 
+结 论
+G—Re 可 以干预 AD 小鼠体 内氨 基酸 、核酸及 脂质 等代谢途 径 ，减 少小鼠海马 区的 Ap 沉积 ， 
+从 而对 AD 起到 治疗作用。 
+【关键词】 
+人参皂苷 Re；阿尔茨海默病；生物标记物；超高速液相色谱一质谱联用 
+[ 中图分类号 ] 
+R 749．16 
+[ 文献标识码 ] 
+A 
+doi ：10．3969／j．issn．1003—9198．2017．10．007 
+P r ot ective ef fect  of  ginsenoside R e on bioma rk ers in mi ce w it h A lz heimer ’ s disease 
+LI  J ing —yua n． 
+WANG Zhe，LI Nai-j ing．Department of Gerontology ，Shengfi ng Hospital of
+China Medical University ，She— 
+nyang 110004 ，China ；LI U Ying．Department of  Emergency Medicine ，Laboratory of  P  
+Wound and 
+Trauma Center，the Ge neral Hospital of Shenyang Military ，Shenyang 1100 16 ，China ；LI Wei．College of  
+P h arm acy ，S h eny a ng  P harmaceutical Un iversity ，S h eny ang  1 10 0 16 ，C h ina 
+【A bstract】Objective 
+To investigate the effect of ginsenoside Re( G-Re) on biomarkers in an 
+Alzheimer’S disease ( AD ) mouse model based on UP LC—MS ，and to provide new ideas for traditional 
+C hinese medicine treatm ent of A D ．
+ 
+M eth ods 
+T wenty —four mic e w ere randomly div ided into c ontrol 
+g roup ，A D  model  gr oup a nd G -R e tr ea tme nt g roup wi th ei g ht mi c e in ea ch gr ou p．P a thol ogi c al  c ha nge s i n 
+the hippoc amp us were assessed by im mun 0histochemistry ．U P L C ／M S -based met abolomic s w as used to 
+identify  b iomark ers w hich w ere differen tiall y ex pressed in th e brains of  A D mi ce． 
+R esults  
+T h e 
+基金项 目：国家 自然科学基金( 81203002) 
+作者单位 ：110004 辽 宁省 沈阳市，中国医科 大学附属盛京 医院干诊科 ( 李菁媛 ，王站，李乃静) ；110016
+辽宁省沈 阳市，沈阳军 区总医院急诊 医学部 
+全军重症战创伤救治 中心实验室( 刘颖) ；110016 辽 宁省沈阳市，沈阳药科 大学药学院药物分析教研 室( 李伟) 
+通 讯作 者 ：李乃静 ，Email ：lnjlw2003@ 163．tom 
+9 2 1 
+实用老年 医学 20 17 年 10 月第 31 卷第 10 期
+Pract Geriatr，Oct．20 17 ，Vo1．31，No．10 
+hippoc ampal amy loid deposition inc reased in A D mic e ，an d it w as am eliorated by  the treatment of  G - R e．
+ 
+A  total  of  9 pote nti al  bi oma rk e rs w ere  i de ntifi e d ，w hi ch w er e a ssoci ate d w ith the me tabol i sm of  pur in e ，
+ 
+am ino acid s ， sphin golipid s and ly sophosp hatidyl cholin es in A D  mi ce．C om pared t o c ontrol group ， the 
+peak intensities of 9 biomarkers give a pronounced change in AD ( P <0．05) ．G—R e treatment affected all 
+these metabolic pathw ay s ．
+ 
+C on clu sions 
+T hese results indic ate that G —R e can reduc e the hippocampal 
+amyloid deposition in A D mic e by regulation of  related brain metabolic pathways ．In a word ，G —R e play s a 
+positi v e rol e i n the tre atm ent of  A D ． 
+【K ey words】 
+ginsenoside Re；Alzheimer’S disease；biomarkers；ultra performance liquid 
+c hroma tog ra phy ．m ass spe ctrome try 
+阿尔茨海默病 ( Alzheimer’S disease ，AD) 是一种致 
+死性的神经系统退行性疾病 ，其 临床特点包 括渐进性 
+的记忆减退 、情绪改变 、沟通及推理方面障碍 ，最终病 
+人将失去独立生活的能力¨ 。AD 不仅严重影响老年 
+人的社交 、工作与生活，其医疗和护理也给病人家庭和 
+社会带来沉重的经济 负担 
+。因此 ，研究 AD 的发生 
+机制 ，探索有效的预防和治疗策略 ，具有重要的临床意 
+义 。人参 皂苷 Re( ginsenoside Re，G-Re) 作 为人参 的 
+生物活性成分之一 ，具有改善脑缺血缺氧 ，提高学习和 
+记忆 能力等作用 
+。关于 G—Re 治疗 AD 的代谢组学 
+研究 ，国内外均未见报道 。本研究首次将超高速液相 
+色
+谱一质
+谱
+联
+用
+( ultra 
+perf ormance 
+liquid 
+chromatography—mass spectrometry ，UPLC—MS) 为 基 础 的 
+代谢组学技术 ，用于研究 c ．Re 对 AD 生物标记物的调 
+控作用及其机制 ，以期为 AD 的防治指明新方向。 
+1
+材 料与 方法 
+1．1
+试剂与仪器
+G—Re( 上海源叶生物科技有 限公 
+司) ；B 淀 粉 样 肽 25—35 ( amyloid 
+-protein 25—35 ， 
+Af32 
+) 、兔抗 鼠 Ap ：( 美国 Sigma 公 司) ；山羊抗兔／鼠 
+免疫组化试剂盒 ( 北京中杉金桥生物技术有 限公司) ； 
+色谱 乙腈 ，色谱甲醇 ( 美国 Fisher 公司) 。TGL一16 台式 
+高速冷冻离 心机 ( 湖 南湘仪实 验室仪 器开发 有 限公 
+司 ) ；液 相 系 统
+Acquity 
+Ultra Performance Liquid 
+Chromatography system，质 谱 仪 Quattro micro 
+API 
+Mass Spectrometers( 美国 Waters 公司) 。 
+1．2
+实验动物及分组
+健康 12 周龄雄性 昆 明小 鼠 
+24 只 ，体质量为 18 ～22 g，由沈 阳药科 大学实验动物 
+中心 提 供 ，动 物 使 用 许 可 证 号 [ SY X K ( 辽 ) 2014． 
+004 ] 。将 24 只小 鼠随机分为对 照组 、AD 模 型组 和 
+G．Re 治疗 组 ，每组 各 8 只。小 鼠置 于 室温 23 ℃ ～ 
+25 c【= ，光照 12 h／12 h 昼 夜循环 的条件下饲养 ，自由 
+饮水和进食。 
+9 2 2 
+1．3
+实 验方 法 
+1．3．1 
+AD 模型制备 ：AD 组和 G．Re 组小 鼠经 5％水 
+合氯醛麻醉后 ，选取右侧侧脑室为注射位点 ，缓慢注射 
+凝聚态 的 Ap： 
+溶液 5 
+l 。对照组小鼠侧脑室内注射 
+等体积生理盐水 。 
+1．3．2
+给药方法 ：造模 成功后 3 d 开始灌 胃给药 ，G— 
+Re 治疗组小 鼠给予 G-Re 4 mg／( kg · d) ，对照组 和 
+AD 组均给予生理盐水 10 mE／( kg · d) 。1 次／d，连续 
+给药 30 d。 
+1．3．3
+免疫组化实验 ：实验小鼠经乙醚麻醉后 ，采用 
+断头取脑的方法获取脑组织 。取脑后置于 4％多聚 甲 
+醛液 中，固定 3 d，将脑组织常规包埋并制成石蜡切片 ，
+ 
+切片厚度为 2．5 
+m。切片置于 60 ℃恒温箱 内过夜。 
+切片脱蜡处理后 ，用 PBS 洗去酒精 。将切片放在抗原 
+修复液中，37 ℃温箱中修复 30 min 以暴露抗原。漂洗 
+后 3％过氧化氢溶液室温孵育 40 min，以阻断 内源性过 
+氧化物酶活性。漂洗后滴加 山羊血清封 闭抗原 ，室温 
+孵育 40 min。漂洗后滴加兔抗 鼠 At3 
+( 1 ：100 ) ，4 ℃ 
+孵育过夜。漂洗后滴 加 聚合 物辅助剂 ，室 温孵育 20 
+min。滴加辣根酶标记的抗 鼠／兔 IgG 聚合物 ，室温孵 
+育 20 min。应用 DAB 显色、苏木素复染后 ，自来水充 
+分冲洗返蓝 ，酒精梯度脱水 ，二 甲苯透明，封片后光镜 
+下观 察 。 
+1．4
+样品的采集与预处理
+样品采集 ：各组小鼠经乙 
+醚麻醉后 ，断头取脑置于 E P 管 中，分别称重并记录 ， 
+放人- 80 c《=冰箱待用 。预处理 ：每 0．1 g 脑组织加入 1 
+ml 水 ，冰浴 中匀 浆 。取 150 txl 匀 浆 液 ，加入 600 txl 甲 
+醇沉淀蛋白，涡旋 5 ra in，在4 ℃条件下15 000 r／min离 
+心 10 min，取上清液于氮气下吹干。临测 时用 100 txl 
+初始流动相 ( 乙腈一水 ，v ：v 2 ：98) 复溶 ，取 10 
+l 注入 
+UPLC 系统 。 
+1．5
+色谱和质谱条件
+色谱分析条件 ：色谱柱为 AC． 
+QUITY UPLC @
+BEH C18 Column ( 1．7 txm，2．1 X 50 
+丈川老年医学 20 17 年 l0 川第 31 眷 
+10 期
+Pra(-t ( rlair，0 I 20 17，v(，1．31．N1)_10 
+Illln ，Watel‘s ) ，流 动卡H A 为 0．1％ 甲酸 水 ，流 动 相 l3 为 
+0．1％甲酸 乙 腈 ，流 速 为 0．25 ml／min 。梯 度 洗 脱 条件 
+如下 ：0 nlin，98％ A ；0～3 ra in ，98％～80％ A ：3 ～4 lllin ．
+ 
+80％ ～45 ％
+A ；4 ～13 111i I1，4 5 ％ ～0％
+A ；13 ～ 14 nl i n ，0％ 
+～ 98％ A 。进样 量 为 10．0 Ixl ，柱 温 为 30 
+。质 潜分析 
+条件 ：采用 电喷雾离 子 源 ( ESI ) ，离子 源 温度 为 l 20 
+℃ ，正离子模式检测 ，扫描方式 为全扫描 ，扫描 
+同为 
+100～1000 m／z ；毛细管电压为 3．2 kV ，锥孔电 
+为 30 
+V ；脱溶剂气为氮气 ，流速为 600 1／h，温度 为 350 
+在运 州 MS／MS 的 力 式 进 行 二 级 扫 捕 时 ，碰 撞 
+为 
+氚气 
+1．6 
+代 埘 组 学 数 据 处 理 
+将 原 始 
+}{竿导 入 
+Markerlynx V 4．1 软件 分析 ，收集 每 个色谱 【皋】的总 离 子 
+强 度 数据 ，进 行 主成分 分 析 ( principal eonlpo~lenl analy 
+sis ，PCA ) 
+经 PCA 分 析输 出得 分 I纠和 载倚 
+，对 数抓 
+进 行 分组 ，找 I斗I对 分组 贡献 较大 的物 质 ，进 行 二级 手J捕 
+以获得更 多质谱 碎 片信息 ，根据 HMDB ( httI】：／／www．
+ 
+hmdb．ca／) 、K EGG ( http ：／／www。kegg ．jp／) 和
+I 1l lI) 
+MAPS ( http：／／www．1ipidmaps．org／) 等数据库 ，确定 AI) 
+的生物标记物。3 组问各生物标记物的峰强度比较采 
+A 
+() 【1 
+0  
+B 
+l 0 0 
+() 
+( ：
+ 
+0 0  
+( 
+6 ．
+2 9  
+用 t 检验 ，P <0．05 认 为謦 蚌 
+l彳『统 计 学意 义 ．．
+ 
+2 
+结果 
+2．1 
+免疫组 织 化学 实 验 
+对 J!({组 小 鼠大 脑 海 马 IX 神 
+经 元 细胞排 列 紧密 ，细胞 核大 而规 则 ，可 观察 到 明 
+的 
+核f■ ，细胞 问 无 AB 沉积 
+AD 组 小 鼠大 脑海 马部 位神 
+经元细胞稀疏 ，排列紊 乱。细胞核深染 ，细胞问有 明 
+深褐色的大块 A 6 沉积。( 一Re 组小 鼠 与 AD 组 比较 ，
+ 
+小 鼠海 马 部位 神经 元细 胞 排 列 较 为 整 齐 ，细胞 核 染 色 
+0
+ 
+J ‘ 啼  
+J  
+a 
+．  
+。一? 
+B 
+B ：AD绀 ；C ：G —R e组 
+图 l
+小鼠腑组织海 5I 免疫纰 化染色结果 ( P V 法 ，x400 ) 
+2．2
+小 鼠脑组 织代 谢组 学分 析 
+2．2．1 
+UPI C—MS 代 谢产物阁谱：埘照组 、AI) 组 和 c — 
+Re 组小 鼠脑组织 止离子模式下的基峰色谱 图 
+l殳1 2。 
+a n E S +  
+l _2
+1 ．3 8艋
+1 81 2八
+．
+9 
+＼
+一
+ 一
+ 3 ．
+：
+64 二
+ Bt'1 3lP6 
+2 ．O0 
+4 ．0 0 
+6 O O 
+8 ．O0 
+l 0 ．O0  
+l 2 ．
+O0  
+l 4 ．
+0 0  
+7
+： 
+l 2 8 、
+ 
+l 
+。 
+1．
+20 
+＼．
+ 
+．
+!：
+ ／
+ ： 蓝 
+．
+：
+j 
+；
+ 三 
+4 O0 
+6 ．0 () 
+8 ．0 O 
+l 0 O0 
+12 ．O0  
+l4 O() 
+6 ．
+4 4  
+S i!III1 E S +  
+"
+ 
+9 ·4 9  
+12
+． 3 9
+9
+． 6 1 
+6l6t 
+㈣  
+： 
+州 
+㈣ 。 
+’ 
+： 
+。 
+2 ．O0 
+4 ．O0  
+6 ．O0  
+8 ．
+ 
+) 
+l 0 ．
+ 
+) 
+l 2 ．O0  
+l 4 ．
+O0  
+A ：刈j{f 
+【；B ：AI)21t ；C ：( 一Re组 
+图 2
+小鼠腑 
+纵 1I 离 _I二模式下 的丛峰 色 
+2．2．2 
+UPLC—MS 数据 分 析 ：将 对 照 组 、AD 组 和 G —R e 
+组小 鼠脑组织的代谢物 潜数据进行 PCA 分析 ，得到得 
+分 图 ( 图 3A ，横 纵 坐标 分别代 表 PCA 模 型 中的 两 个 主 
+成~j-fl ~打分向量) 和载荷 降I( 阁 3B ，横纵 
+标分别代表 
+的是 两个 主成 分 的载 荷 向量 ) 。得 分 图可 见 对 照组 
+AD 组 界 限明 
+，无 任 何 交 集 ，而 G—R e 组 处 于 对 照 组 
+9 2 3 
+。
+一、
+ ■．
+ 
+麓一
+ 
+少 
+．
+ 
+．
+．
+ 
+明 
+、
+ 
+积 
+况 
+．，
+ 
+邯 
+，
+ 
+淡 
+变 
+H ¨ 
+ ．
+A 戛； 
+A  
+●
+， 
+2
+ 
+实用老年医学 2017 年 10 月第 31 卷第 10 期
+Pract Geriatr ，Oct．2017 ，V o1．31，No．10 
+和 AD 组之间 ，证明 G．Re 干预后 AD 小 鼠脑组织代谢 
+物发生明显变化 。载荷图中分散于外围的变量为对分 
+组贡献较大的变量 ，即 AD 的生物标志物。 
+A  
+。
+。
+ 
+⋯
+ 
+／；
+ 
+／ 
+／ 
+_
+●  
+⋯
+i ／ 
+；
+ 
+．  
+／ 
+⋯呻 
+⋯
+ 
+7；
+ 
+， 
+；
+ 
+／
+ 
+：x 
+＼
+ 
+／ 
+， 
+B 
+L oading ：C om pone nt I —C om pone nt2 
+0 -7  
+0 ．6  
+0 ·5 
+0 ．4  
+l 0．
+3 
+} 0．2 
+0  
+u  0
+． 1 
+0  
+— 0 ．1 
+- 0 ．2  
+Q1．
+．_13 & 9 l 
+．
+j ．Z Z 
+Z U．
+ 
+l 
+： 
+i 
+ ：
+7 ．
+ D ’ Z74 ：
+ 32。
+。
+‘ 
+’
+ 
+- ●
+’
+● ●
+-  
+I U．4 r ’ 
+．j Z 
+⋯ 
+3 复6 g m 
+∈ 
+⋯ 
+一 
+24．j ；
+4 
+巍 
+-
+‘
+ 
+螺  _： 
+二／ 
+⋯ i ： 
+‘1 
+n ．
+j  3 ⋯一 
+．
+ 
+一 7  
+O I  118 ．：
+ 
+一 O．4 
+—0 ．2  
+0  
+0 ．
+2  
+0 ．
+4  
+0 ．6 
+Com pone nt 1 
+图 3 
+3 组脑组织代谢 物普 的得 分图 ( A ) 和载荷 图( B) 
+2．2．3
+生物标 记 物 的确认 ：经 PCA 分析 及 相关 代 
+谢组 学数据库 ，确定 了 9 种 A D 的生物标志物 ，分别 
+是次 黄嘌呤 、次黄嘌呤核苷 、苯 丙氨酸 片段 、苯丙 氨 
+酸 、16 碳 鞘氨醇 、植物鞘氨醇 、溶血磷脂 酰胆碱 ( Ly． 
+s0ph0sphatidylch0line ，L P C ) C 16 ：0 、L P C C 18 ：1 、LP C 
+C 18 ：0 ，这 9 种 生物标 记 物在各 组小 鼠脑组 织 中 的 
+峰强度 变 化 见 图 4 。与 对 照组 比较 ，A D 组 次 黄 嘌 
+呤 、次黄 嘌呤核苷和 苯丙氨 酸 的含 量 明显升 高 ( JP< 
+0．05 ) ，16 碳 鞘 氨 醇 、植 物 鞘 氨 醇 、LP C ( C16 ：0 、 
+C 18 ：1 、C 18 ：0 ) 的含 量 明显 降低 ( P < 0．05 ) 。经 G— 
+R e 干预后 ，小 鼠脑组织 中次 黄嘌 呤 、次黄 嘌呤核 苷 
+和苯丙 氨酸的含 量 明显 降低 ( P < 0．05 ) ，16 碳鞘 氨 
+醇 、植 物鞘 氨 醇 、LP C ( C 16 ：0 、C18 ：1 、C18 ：0 ) 的含 
+92 4 
+量明显升高 ( P < O．05 ) 。 
+m ／z 
+注 ：与 对 照 组 比较 ，
+ 
+P< 0．05；与 AD 组 比较 ，
+ P < 0．05。m／z 
+136．98：次黄 嘌呤 ；m／z 268．10：次黄嘌呤核苷；m／z 120．01：苯丙 
+氨酸片段 ；in／z 166．09：苯丙氨酸 ；m／z 274．32：16 碳鞘氨 醇 ；m／z 
+318．30：植物鞘氨醇 ；nV z 496．32：LPC C 16：0；m／z 522．32：LPC 
+C 18 ：1 ；nV z 5 2 4 ．3 4 ：L P C C 18 ：0 。 
+图 4
+对 照组 、AD 组和 G—Re 组生物标记物 的峰强度 
+3
+讨 论 
+研究表明 ，G．Re 能通过减少 AD 细胞模型中活性 
+氧的生成、抑制 AD 小 鼠脑组织糖原合成酶激酶．3B 的 
+活性等途径 ，对神经元起到保护作用 ，缓解 AD 的病理 
+过程 
+。而代谢组学 以相对分子质量 < 1000 的小分 
+子代谢物质为研究对象 ，着重研究机体受 内外因素扰 
+动后 ( 如基因改变或 环境变化等 ) ，代谢物 的种类、数 
+量变化及其规律 J。换言之 ，代谢组学可 以从宏观层 
+面来理解疾病的发展过程 ，与 中医的整体观思维方式 
+不谋而合。因此 ，代谢组学可用来研究 G．Re 对 AD 模 
+型小 鼠体内内源性代谢 物及 异常代谢通路 的调控作 
+用 ，进一步阐明 G—Re 治疗 AD 的作用机理 。 
+AD 的特征性病理改变包括 AB 沉积形成 的老年 
+斑( senile plaques ，SPs) ) 和 tau 蛋 白过度磷酸化形成的 
+神经元纤维缠结( neurofi brillary tangles ，NFTs) ，常伴有 
+神经元丢失。本研究通过免疫组化 的方法 ，在 AD 小 
+鼠大脑海马区观察到神经细胞减少 、排列紊乱 ，细胞核 
+呈现凋亡的特征性改变 ( 核质 固缩 、边集及碎裂 ) ，并 
+有明显的 SPs，提示 AD 模型小 鼠具备与 AD 病人脑部 
+类似 的病理学改变 。G—Re 组与对照组 比较 ，虽然神经 
+元细胞似乎仍有减 少 ，但 相对于 AD 组，小 鼠海马 区 
+AB 沉积明显减少 ，仅能观察到少量 SPs。以上结果说 
+明了 G-Re 可以减弱 A I3 蛋 白对海马区神经元 的毒 害 
+作用 ，对神经元具有保护作用 。 
+本研究 通过 UP LC．MS 技术 来 研究 AD 小 鼠脑 
+组织 中代谢物谱 的变 化 ，确定 了 9 种 AD 生 物标 记 
+物 。与对 照组 比较 ，A D 小 鼠脑组 织 中次黄 嘌呤 、次 
+‰ 
+A
+G  
+实用老年 医学 2017 年 10 月第 31 卷第 10 期
+Pract Geriatr ，Oct．2017 ，Vo1．31，No．10 
+黄嘌呤核 苷 和苯 丙氨 酸 的含 量 明显 增 加 ，而 16 碳 
+鞘氨醇 、植物 鞘 氨醇 、LPC ( C16 ：0 、C18 ：1 、C18 ：0 ) 
+的含量 明显 降低 。经 G—Re 干 预后 ，与 A D 组 比较 ，
+ 
+次 黄嘌呤 、次黄 嘌呤核 苷和苯 丙氨 酸的含量 明显 降 
+低 ，16 碳 鞘氨醇 、植物鞘氨 醇 、LPC ( C 16 ：0 、C18 ：1、 
+C 18 ：0 ) 的含量 明显升 高。说 明 G．R e 可 以干预 AD 
+小 鼠体 内 氨基 酸 、核 酸 及脂 质 等 代谢 途 径 ，对 AD 
+起到 治疗 作用 。 
+次黄嘌呤核苷又称肌苷 ，是核酸代谢的中间产物 ，
+ 
+由腺苷脱氨后产生 ，在核苷磷酸化酶 的作用下生成次 
+黄嘌呤。有研究表 明，AD 病人脑 中磷 酸腺苷脱 氨酶 
+活性升高 ，加速磷 酸腺 苷降解生成腺苷l 
+，因而肌苷 
+和次黄嘌呤的浓度随之升高。嘌呤能信号在 AD 的发 
+展过程中发挥重要 的作用 J 。次 黄嘌呤可 以通 过抑 
+制 Na ，K+-ATP 酶 的活性 来诱导 大 鼠纹状体 氧化 应 
+激 j 。氧化应激在 AD 中起重要作用 ，多种 可能的发 
+病机制或 病理生 理改变都 与氧化应 激反应 有关 
+。 
+Kaddurah．Daouk 等 ¨研究表明，嘌呤代谢紊乱可能与 
+tau 蛋 白及 A I3 蛋白的病理发展过程相关。因此 ，次黄 
+嘌呤和肌 苷可 以作 为 AD 的生物标 记物。本 研究 表 
+明，AD 小 鼠脑组织 内次黄嘌呤、肌苷 的含量均高于对 
+照组小 鼠。G．Re 给药后 ，与 AD 组 比较 ，次黄 嘌呤和 
+肌苷水平均 明显下调 ，证明 G-Re 可通过介导核 酸代 
+谢发挥作用。 
+苯丙氨酸 是人 体必需 氨基 酸 之一 ，主 要存 在于 
+血浆 和脑 组 织 内。Wissmann 等 ¨ 的研 究 表 明 ，A D 
+病人 的血清 中苯丙氨酸浓度升 高 ，且苯丙 氨酸／色氨 
+酸 的比值也升高 ，这与慢性免 疫激活紧密相关 ，免疫 
+应答激活有关 的苯丙 氨酸 的代谢 障碍可 能与 A D 的 
+炎症机制相 关。本研 究 中，与对 照组 相 比，AD 组 小 
+鼠脑组织 中苯 丙氨 酸浓 度显著 升高 ，这 和之前 的报 
+道相一致 。因此 ，苯丙氨酸可以作为 A D 一个 的生物 
+标记物 。G—Re 组与 AD 组 比较 ，小 鼠脑组 织 内苯丙 
+氨酸的含量明显降低 ，提示 G—Re 可以干预苯丙氨酸 
+代谢发挥治疗作用 。 
+鞘氨醇又称神经鞘 氨醇，属于鞘脂类 。鞘脂类是 
+体 内重要 的信号分子 ，参与多种生理功能调节 ，例如细 
+胞 的生长与老化 、细胞识别、信号转导等 ，在细胞 功能 
+的维持中起着一系列至关 重要作用 
+。神经酰胺是 
+鞘脂类 的中间代谢产物 ，由神经鞘氨醇长链 碱基 与脂 
+肪酸组成 。鞘氨醇作为鞘脂的分解 产物，它通过再 酰 
+化被 回收利用 ，生成神经酰胺及其衍生物_1 。有报道 
+称 ，在以 AD 为代表的神经退行性疾病中 ，膜相关的氧 
+化应激异常活跃 ，导致神经酰胺 的的大量蓄积 ，而作为 
+合成原料 的鞘氨醇含量 明显 降低¨ 。本研究 中，AD 
+小鼠脑组织中 16 碳鞘 氨醇和植物鞘氨醇的含量均显 
+著下降。经 G-Re 干预后 ，与 AD 组 比较 ，二者的含量 
+均明显升高 ，说 明 G-Re 可 以改变异常的鞘 氨醇代谢 
+通路 。 
+LP C 是磷脂代谢 的的 中间产物 ，是体内重要的生 
+物活性物质 ，可作为第二信使来参 与多种细胞 功能的 
+调节 ，包括信号转导 、基 因表达和细胞增殖等¨1 。神 
+经细胞膜上 的磷脂代谢 异常是 AD 的特征性病 理改 
+变 ，它会导致细胞膜崩解_1 ，这可能与 AD 发病过程 
+中的神 经元 丢失 有关 。磷 脂酶 A ( phospholipaseA ，
+ 
+P LA ) 是磷脂代谢的关键酶。P LA 的过度活化会刺 
+激磷脂酰胆碱( P C) 变性生成 LP C ，LPC 迅速水解产生 
+甘油磷酸胆碱 ( GPCh) ，磷酸胆碱 ( PCh) ，最后变为胆 
+碱 ( Ch) ，并释放游离脂肪酸_l引。有研究表 明，LPC 在 
+AD 病人的脑脊 液 
+、脑组织 。 和血浆 
+中均显 著 
+降低。本实验结果表明 ，AD 小 鼠脑组织 中 LPC C16 ： 
+0、LP C C18 ：1、LPC C18：0 的含量较对照组显著降低 。 
+经 G．Re 干 预 后 ，与 AD 组 比较 ，LPC ( 16：0、C18 ：1、 
+C18：0) 的含量明显升高，说明 G—Re 能通过调控磷脂 
+代谢起到抗 AD 的效果 。 
+本研 究 运 用 UPLC—MS 技 术 ，对 G—Re 干 预 的 
+A6 
+所致 AD 模型小 鼠的脑组织代谢物谱进行分析 ， 
+确定 了 9 种 AD 的生物标志物 ，并发现 G．Re 通过干预 
+AD 小 鼠体 内氨基酸、核酸及脂质等代谢途径，发挥对 
+AD 的治疗作用 。 
+[ 参 考文献] 
+[ 1]
+Pan X ，Nasaruddin MB ，E lliott CT ，et a1．Alzheimer’S dis— 
+ease—l ik e path ol ogy h as tr an sien t effec ts on the b rai n and 
+blood metabolome[ J ] ．Neurobiol Aging ，2016 ，38 ：151· 163．
+ 
+[ 2 ] 
+Graham SF ，Chevallier OP ，Roberts D ，et a1．Investigation 
+of th e hu man b rain metab ol ome to i dentify potenti al markers 
+for early d iagnos is an d th erap eu ti c targets of A l zh eimer’S d is — 
+ease[ J ] ．Anal Chem，2013，85( 3 ) ：1803- 1811．
+ 
+[ 3 ] 
+姜红柳 ，杨振 ，孟勤 ，等．人参皂苷 Re 对 小 鼠学 习记 忆 
+障碍 的 作 用 [ J ] ．中 国药 理 学 通 报 ，2008，24 ( 10 ) ：
+ 
+13 99 ．1400 ． 
+[ 4 ]
+Huang GD，Zhong X F ，Deng ZY ，et a1．Proteomic analysis 
+of  gi ns en osi de R e attenu ates hydrogen p eroxi de--i ndu c ed oxi -- 
+dative stress in human umbilical vein endothelial cells[ J ] ． 
+Food Funct ，2016，7 ( 5) ：2451—2461．
+ 
+[ 5]
+贾立云 ，潘晓华 ，刘 晶 ，等．人参 皂苷 Rbl 、Re 对 Apzs 
+9 25 
+实用 老年 医学 2017 年 10 月第 31 卷第 10 期
+Pract Geriatr ，Oct．2017 ，Vo1．3 1，No．10 
+[ 6 ] 
+[ 7 ] 
+[ 8] 
+[ 9] 
+[ 10 ] 
+[ 12 ] 
+[ 13] 
+[ 14] 
+926 
+诱 导 SK．N．SH 细胞损伤 的保 护作用 [ J ] ．山东 大学学报 ： 
+医学 版 ，2011，49( 4) ：33—37．
+ 
+Alnouti Y ． Metabolomics [ M ] ． Springer New Y ork ，
+ 
+20 14 ：10． 
+Gon z~lez —D omtn guez R ，G arcIa· Barrera T ，V i tofi ca J ，et a1． 
+M etabolom ic  s c reen ing of regi onal b rai n alteration s i n th e 
+A P P／P S 1 trans genic  model of  A l zhei mer's di sease by  dir ec t 
+infusion mass spectrometry [ J ] ．J Pharm Biomed Anal ，
+ 
+20 15 ，102 ：42 5—4 35 ．
+ 
+K add urah —D aouk R ．M etabolomi c c h anges in autopsy —c on — 
+fi rmed Alzheimer’s disease『J _．Alzheimers Dement ，201 1 ，7 
+( 3) ：309—317．
+ 
+W ys e A T ，B avaresc o C S ，R ei s E A ，et a1 ．T raini ng in i nh ibi — 
+tory  
+avoi danc e 
+cau ses 
+a red uc ti on 
+of 
+Na ， K *-A T P ase 
+activity in rat hippocampus[ J ] ．Physiol Behav，2004 ，80 
+( 4 ) ：475—479．
+ 
+林 玉坤 ，曾园山 ，曲泽强 ，等．氧化应激与阿尔茨海默病 
+[ J ] ．解剖学研究 ，2009 ，31( 1) ：67—70．
+ 
+K ad durah -Dao uk R ，Z hu H ，Sharm a S ，et a1．A lter ations in 
+metabolic pathways and networks in Alzheimer's disease[ J ] ．
+ 
+T r an sl P sy c h iatry ，20 13 ，3 ：e244 ．
+ 
+W i ss mann P ，G eis ler S ，Leb lh uber F ，et a1．Immu ne ac ti va— 
+tion i n p atien ts wi th A l zh eimer's dis ease i s as soc iated wi th 
+high sel~m pbenylal anine concentrations[ J ] ．J Neurol Sci， 
+20 13 ，329( 1／2 ) ：29—33．
+ 
+A l es enko A V ．T h e p otential rol e f or sph in gol ipi ds i n neu ro— 
+pathogenesis of Alzheimer's disease [ J ] ．Biomed Khim， 
+20 13 ，59 ( 1) ：25—50．
+ 
+K itatani K ，Id kowi ak -Bal dys J ，H an nun Y ．Th e sph in gol ip id 
+salvage pathway in ceramide metabolism and signaling [ J ] ．
+ 
+Cell Signal ，2008，20( 6 ) ：1010—1018．
+ 
+[ 15 ] 
+[ 16 ] 
+[ 17 ] 
+[ 18] 
+[ 19] 
+[ 20 ] 
+[ 21] 
+H augh ey N J ，Band an a V V ，Bae M ，et a1．R ol es fo r dy sfu nc— 
+ti on al s ph ingoli pid  metab oli sm i n A l zh eimer's di sease n euro— 
+pathogenesis[ J ] ．Biochim Biophys Acta，2010，1801( 8 ) ： 
+87 8．886 ．
+ 
+F arooqu i A A ， H orroc ks L A ． P h os phol ip as e A 2 一generated 
+li pi d m ediators in th e b rain ：the good ，th e b ad ，and the ugly 
+[ J ] ．Neuroscientist，2006 ，12( 3) ：245—260． 
+G onz~ilez -D omi nguez R ，G arcia—Ba~ era T ，G omez—Ari za J L ．
+ 
+C omb in ation of m etabolomi c an d p hosp hol ipi d· pr ofi l in g 印 一 
+proaches for the study of Alzheimer’s disease [ J ] ．J Pro— 
+teomics ，2014 ，104 ( 1) ：37—47．
+ 
+G onz~ilez —D omi nguez R ，G arcia—B a~ era T ，G 6mez—A ri za J L ．
+ 
+U si ng d irec t i nfu si on m ass sp ec tr om etry  for selql m metabolo— 
+mics in Alzheimer’s disease[ J ] ．Anal Bioanal Chem，2014， 
+406( 28) ：7137·7148．
+ 
+M uld er C ，W ahl und L O ，T eerli nk T ，et a1．D ecreased lyso— 
+ph os phati dylc hol ine／phosp hatid3，l ch olin e rati o i n c erebrospi nal 
+fl uid in Alzheimer’s disease [ J ] ．J Neural Transm( Vienna) ，
+ 
+2003 ，110( 8) ：949—955． 
+Gri mm MO ，G rtisgen S ，R iemen sc hne ider M ， et a1．From 
+brai n to food ： A nalys is of p hos phatidyl ch oli ns ，l yso —p hos — 
+ph atid ylc hol ins 
+and 
+ph os ph altidyl c hol in—p las malogens 
+derivates in A l zhei mer’s d iseas e h um an post m ortem br ai ns 
+and mice model via mass spectro metry [ J ] ．J  Chromatogr A ， 
+2011 ，1218( 42) ：7713-7722．
+ 
+L iu Y ，L i N ，Z hou L ，et a1．P l asma metab oli c p rofi l in g of  
+mil d c ogni ti ve im pairm en t and A l zhei mer's di sease 
+us ing 
+liquid chromatography／mass spectrometry
+[ J ] ．Cent Nerv 
+Syst Agents Med Chem，2014 ，14 ( 2 ) ：113—120．
+ 
+( 收稿 日期 ：2016，12．12) 

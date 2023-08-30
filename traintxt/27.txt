@@ -1,0 +1,1175 @@
+2022 年 9 月第 45 卷第 3 期
+成都中医药大学学报
+September 2022， Vol. 45， No. 3
+Journal of Chengdu University of TCM
+【 基 金 项 目 】
+国 家 自 然 科 学 基 金 项 目
+（ 81503272）
+【 第 一 作 者 】
+万 彦 ， 男 ， 1996 年 生 ； 硕 士 研 究 生 在 读 ； E － mail： 15592038985＠ 163. com
+【 通 信 作 者 】
+敖 慧 ， 女 ， 1980 年 生 ； 博 士 ， 教 授 ； E － mail： aohui2005＠ 126. com
+基 于 网 络 药 理 学 探 讨 人 参 皂 苷
+Rb1 肠 道 菌
+转 化 物 治 疗 胃 癌 的 作 用 机 制
+万 彦 ， 敖 慧
+▲
+（ 成 都 中 医 药 大 学 ， 四 川  成 都  611137）
+【 摘  要 】
+目 的 ： 基 于 网 络 药 理 学 技 术 研 究 人 参 皂 苷 Rb1的 肠 道 菌 转 化 物 － 人 参 皂 苷 Rd 及 人 参 皂 苷 F2
+治 疗 胃 癌 的 作 用 机 制 ， 为 人 参 皂 苷 的 临 床 合 理 应 用 提 供 科 学 依 据 。 方 法 ： Swiss Target Prediction 数 据 库 预
+测 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 的 靶 点 ； 以
+“ Gastric cancer”
+为 关 键 词 在 Disgenet、 Malacards 和
+Omim 数 据
+库 中 获 得 胃 癌 的 靶 点 ； 将 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 的 PPI 网 络 分 别 与 胃 癌 的 PPI 网 络 取 交 集 分 别 获 得 人
+参 皂 苷 Rd 及 人 参 皂 苷 F2 治 疗 胃 癌 的 PPI 网 络 ； 分 别 将 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 治 疗 胃 癌 的 核 心 靶 点 导
+入 到 Metascape 数 据 库 中 ， 得 到 GO 分 析 结 果 和 KEGG 富 集 结 果 。 结 果 ： 网 络 药 理 学 结 果 表 明 人 参 皂 苷 Rd
+及 人 参 皂 苷 F2 治 疗 胃 癌 的 关 键 靶 点 分 别 有 64 个 及 56 个 。 结 合 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 的 生 物 学 特 性 ，
+发 现 PI3K － Akt 信 号 通 路 、 MAPK 信 号 通 路 、 HIF － 1t 信 号 通 路 及 ErbB 信 号 通 路 可 能 是 上 述 两 种 人 参 皂 苷
+抗 胃 癌 作 用 涉 及 的 主 要 通 路 。 结 论 ： 人 参 皂 苷 Rb1肠 道 菌 群 转 化 物 － 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 可 能 通 过
+调 节 PI3K － Akt 信 号 通 路 、 MAPK 信 号 通 路 、 HIF － 1t 信 号 通 路 及 ErbB 信 号 通 路 治 疗 胃 癌 ， 后 续 可 开 展 相
+关 实 验 加 以 验 证 。
+【 关 键 词 】
+PI3K － Akt 信 号 通 路 ； MAPK 信 号 通 路 ； HIF － 1t 信 号 通 路 ； ErbB 信 号 通 路 ； 人 参 皂 苷 Rb1
+肠 道 菌 群 转 化 物 ； 人 参 皂 苷 Rd； 人 参 皂 苷 F2； 胃 癌 ； 网 络 药 理 学
+【 中 图 分 类 号 】
+R 285. 5； R 969. 1 
+【 文 献 标 识 码 】
+A 
+【 文 章 编 号 】
+1004-0668 （ 2022）
+03-0049-09
+【 DOI 编 码 】
+10. 13593 ／ j. cnki. 51-1501／ r. 2022. 03. 049
+【 引 文 格 式 】
+万 彦 ， 敖 慧 . 基 于 网 络 药 理 学 探 讨 人 参 皂 苷 Rb1肠 道 菌 转 化 物 治 疗 胃 癌 的 作 用 机 制
+［ J］ .
+成 都 中 医 药 大 学 学 报 ， 2022， 45 （ 3） ： 49-57.
+【 开 放 科 学
+（ 资 源 服 务 ）
+标 识 码
+（ OSID） 】
+  胃 癌 是 癌 症 相 关 死 亡 率 的 第 二 大 原 因 ，
+也 是
+全 球 第 四 大 常 见 癌 症
+［ 1］ 。
+其 发 病 机 制 复 杂 ，
+涉 及
+多 通 路 以 及 多 靶 点
+［ 2］ 。
+目 前 ，
+胃 癌 的 治 疗 手 段 多
+样 ， 多 以 化 疗 以 及 手 术 疗 法 居 多 。
+然 而 ，
+这 些 方
+法 有 着 不 可 忽 视 的 副 作 用 ，
+例 如 化 疗 后 的 不 良 反
+应 以 及 预 后 不 佳 等
+［ 3］ 。
+因 此 ，
+有 必 要 寻 找 安 全 有
+效 且 多 靶 点 的 药 物 。
+研 究 表 明 ，
+人 参 皂 苷 可 有 效 防 治 胃 癌
+［ 4］ 。
+人
+参 皂 苷
+Rb1是 人 参 含 量 最 高 的 皂 苷 原 型 成 分 之 一 ，
+但 膜 通 透 性 差 ，
+口 服 生 物 利 用 度 低 ，
+较 难 被 人 体
+肠 道 直 接 吸 收
+［ 5， 6］ 。 本 课 题 组 前 期 研 究 表 明 ，
+人 参
+皂 苷 Rb1并 无 明 显 的 体 外 抗 胃 癌 活 性 ，
+常 经 肠 道 菌
+群 的 脱 糖 作 用 转 化 为 稀 有 人 参 皂 苷 而 转 运 到 上 皮
+膜 被 肠 道 吸 收 。
+因 此 ，
+肠 道 菌 群 转 化 的 代 谢 物 可
+能 是 人 参 皂 苷 Rb1在 体 内 发 挥 药 效 的 主 要 形 式
+［ 7， 8］ 。
+人 参 皂 苷 Rd、 F2 是 人 参 皂 苷 Rb1主 要 肠 道 菌 群 转 换
+产 物
+［ 9］ 。 有 研 究 表 明 人 参 皂 苷 Rd 和 人 参 皂 苷 F2 具
+有 一 定 的 抗 胃 癌 活 性 ， 但 其 机 制 不 清 晰
+［ 10， 11］ 。
+网 络 药 理 学 就 是 将 生 物 学 网 络 与 药 物 作 用 网
+络 整 合 ， 分 析 药 物 在 网 络 中 与 节 点 或 网 络 模 块 的
+关 系 ， 由 寻 找 单 一 靶 点 转 向 综 合 网 络 分 析
+［ 12］ 。
+网
+络 药 理 学 主 要 是 通 过 系 统 生 物 学 的 研 究 方 法 进 行
+研 究 ， 使 用 统 计 学 、
+复 杂 网 络 等 数 学 手 段 ，
+能 够
+在 分 子 水 平 上 更 好 地 理 解 细 胞 以 及 器 官 的 行 为 ，
+加 速 药 物 靶 点 的 确 认 以 及 发 现 新 的 生 物 标 志
+物
+［ 13 － 15］ ， 对 于 研 究 多 靶 点 药 物 作 用 机 制 具 有 一 定
+优 势 。 本 研 究 拟 将 网 络 药 理 学 应 用 于 预 测 人 参 皂
+苷 Rd 和 人 参 皂 苷 F2 的 抗 胃 癌 作 用 机 制 ， 为 人 参 皂
+· 49·
+成都中医药大学学报
+2022 年第 45 卷
+苷 的 临 床 合 理 应 用 提 供 科 学 依 据 。
+1 实 验 材 料 与 方 法
+1. 1 人 参 皂 苷 F2 及 Rd 的 靶 点 预 测
+Swiss Target Prediction 是 一 种 基 于 与 已 知 化 合
+物 的 二 维 和 三 维 结 构 的 相 似 性 来 预 测 化 合 物 的 靶
+标 的 数 据 库 。 该 数 据 库 由 280 381 个 小 分 子 与 2 686
+个 靶 标 间 的 相 互 作 用 构 成 ， 其 中 大 多 数 靶 标 是 人 的
+蛋 白 。 Swiss Target Prediction 为 每 个 预 测 靶 标 提 供
+一 个 分 数 ， 以 评 估 预 测 正 确 的 可 能 性 。
+因 此 本 实
+验 通 过
+Swiss Target Prediction （ http：
+／ ／ swisstarget-
+prediction. ch ／ ）
+数 据 库 获 得 人 参 皂 苷
+F2 和
+Rd 的
+潜 在 靶 点 。
+1. 2 胃 癌 相 关 基 因 的 筛 选
+以
+“ gastric cancer ”
+为 关 键 词 在
+Disgenet（ ht-
+tp： ／ ／ www. disgenet. org ／ ） 、 Malacards （ http： ／ ／ www.
+malacards. org ／ ） 和
+Omim（ https： ／ ／ omim. org ／ ） 数 据
+库 中 获 得 胃 癌 的 靶 点 ，
+并 对 获 得 的 靶 点 进 行 去 重 ，
+得 到 疾 病 的 潜 在 靶 点 。
+1. 3 核 心 靶 点 垂 钓 及 PPI 网 络 构 建
+BisoGenet 旨 在 评 估 来 自 蛋 白 质 组 学 或 基 因 组
+学 实 验 的 基 因 或 蛋 白 质 组 之 间 的 功 能 关 系 的 突 出
+程 度 ， 通 过
+Bisogenet 内 在 整 合 数 据 库 对 输 入 的 靶
+点 进 行 拓 展 分 析 可 以 得 到 一 组 更 全 面 的
+PPI 网 络 。
+在 Cytoscape 3. 8. 2 软 件 中 ， 将 人 参 皂 苷
+F2、
+Rd 和
+胃 癌 的 潜 在 靶 点 分 别 输 入
+Bisogenet 插 件 中 ，
+点 击
+“ Gene identifiers only”
+进 入 下 一 步
+“ DataSettings” ，
+勾 选
+“ Protein Protein Interaction”
+选 项 ，
+点 击 确 定
+分 别 构 建 人 参 皂 苷
+F2、
+Rd 和 胃 癌 的
+PPI 网 络 。
+然
+后 利 用 Merged 工 具 将 人 参 皂 苷
+F2、 Rd 的
+PPI 网 络
+分 别 与 胃 癌 的 PPI 网 络 取 交 集 获 得 人 参 皂 苷
+Rd 治
+疗 胃 癌 的
+PPI 网 络 和 人 参 皂 苷
+F2 治 疗 胃 癌 的
+PPI
+网 络 。 利 用 CytoNCA 插 件 计 算 两 组 PPI 网 络 的 属 性
+值 。 在 人 参 皂 苷
+Rd 治 疗 胃 癌 的
+PPI 网 络 中 先 利 用
+Degree 值 的 中 位 数 筛 选 一 次 ，
+再 利 用
+Degree、
+Be-
+tweenness 和 Clossness 中 位 数 进 行 三 次 筛 选 获 得 人
+参 皂 苷 Rd 治 疗 胃 癌 的 核 心 靶 点 。
+同 法 获 得 人 参 皂
+苷 F2 治 疗 胃 癌 的 核 心 靶 点 。
+1. 4 药 物 － 核 心 靶 点 网 络 构 建
+利 用 Cytoscape 3. 8. 2 软 件 分 别 对 人 参 皂 苷
+F2
+治 疗 胃 癌 的 核 心 靶 点 和 人 参 皂 苷
+Rd 治 疗 胃 癌 的 核
+心 靶 点 构 建 药 物 － 核 心 靶 点 网 络 。
+1. 5 富 集 分 析
+分 别 将 人 参 皂 苷
+F2 治 疗 胃 癌 的 核 心 靶 点 和 人
+参 皂 苷
+Rd 治 疗 胃 癌 的 核 心 靶 点 导 入 到
+Metascape
+（ http： ／ ／ metascape. org ／ ） 数 据 库 中 ， 物 种 选 择
+“ ho-
+mo sapiens” ， 点 击 Costom Analysis 进 入 下 一 步 。 在
+Enrichment 页 面 设 置
+P≤0. 05，
+勾 选
+GO Biological
+Processes 选 项 进 行 基 因 本 体 论
+（ Gene Ontology，
+GO）
+生 物 学 过 程 分 析 ； 勾 选 KEGG Pathway 选 项 进
+行 KEGG 分 析 。
+得 到
+GO 分 析 结 果 和
+KEGG 富 集
+结 果 。
+2 实 验 结 果
+2. 1 人 参 皂 苷 F2、 Rd 及 胃 癌 的 潜 在 靶 点
+根 据 SwissTargetPrediction 数 据 库 得 到 人 参 皂 苷
+F2 靶 点 20 个 ， 人 参 皂 苷
+Rd 靶 点 23 个 。 在
+disgen-
+et、 malacards 和 OMIM 数 据 库 中 分 别 获 得 胃 癌 相 关
+靶 点 34 个 、 32 个 、
+140 个 ，
+合 并 以 上 检 索 结 果 并
+删 去 重 复 值 ， 共 得 到 胃 癌 相 关 靶 点
+189 个 。
+2. 2 人 参 皂 苷 F2 及 Rd 治 疗 胃 癌 关 键 靶 点 筛 选
+2. 2. 1 人 参 皂 苷 Rd 治 疗 胃 癌 关 键 靶 点 筛 选
+构 建 人 参 皂 苷 Rd 的 作 用 靶 点 PPI 网 络 ， 其 中 包
+括 节 点
+1 269 个 ， 节 点 之 间 的 相 互 关 系 28 398 个 ；
+构 建 胃 癌 疾 病 相 关 靶 点 PPI 网 络 ， 其 中 具 有 5 804个
+节 点 ， 节 点 之 间 的 相 互 关 系
+149 080 个 。 随 后 使 用
+Merge 插 件 ， 提 取 人 参 皂 苷
+Rd 治 疗 胃 癌 起 效 的 交
+集 靶 点 网 络 ，
+通 过
+Degree、
+Betweenness 和
+Closs-
+ness 中 位 数 进 行 筛 选 ， 具 体 参 数 如 表
+1 所 示 ， 最 后
+得 到 人 参 皂 苷
+Rd 治 疗 疾 病 的 关 键 靶 点 ，
+例 如
+NTRK1、
+Fibronectin 1、
+MCM2、
+AKT1 等
+64 个 靶
+点 ， 如 图
+1、 表 2 所 示 。
+表 1 人 参 皂 苷 Rd、 F2 治 疗 胃 癌 关 键 靶 点 筛 选 参 数
+网 络
+筛 选 次 数
+参 数
+Degree
+Betweenness
+Clossness
+人 参 皂 苷 Rd 治 疗 胃 癌 PPI 网 络
+1
+29
+—
+—
+2
+57
+921. 649
+0. 477 3
+3
+89
+1991. 236 4
+0. 495 3
+4
+112
+4471. 888 7
+0. 506 7
+人 参 皂 苷 F2 治 疗 胃 癌 PPI 网 络
+1
+27
+—
+—
+2
+52
+775. 495 2
+0. 479 8
+3
+83
+1874. 543 2
+0. 497 1
+4
+104. 5
+3710. 388 1
+0. 507 6
+· 50·
+第 3 期
+万彦 等 基于网络药理学探讨人参皂苷 Rb1肠道菌转化物治疗胃癌的作用机制
+图 1 人 参 皂 苷 Rd 治 疗 胃 癌 关 键 靶 点 的 拓 扑 网 络
+表 2 人 参 皂 苷 Rd 关 键 靶 点 详 细 信 息
+编 号
+靶 点
+靶 点 英 文 名
+1
+NPM1
+Nucleophosmin／ Nucleoplasmin Family， Member 1
+2
+HSP90AA1
+Heat shock protein 90 alpha family class A member 1
+3
+HSPA5
+Heat shock 70 kDa protein 5
+4
+YWHAZ
+Tyrosine 3 － Monooxygenase／ Tryptophan 5 － Monooxygenase Activation Protein Zeta
+5
+TP53
+Tumor protein p53
+6
+HSP90AB1
+Heat shock protein 90 kDa alpha， class B member 1
+7
+HSPA8
+Heat shock protein family A member 8
+8
+VCP
+Valosin － containing protein
+9
+HNRNPA1
+Heterogeneous nuclear ribonucleoprotein A1
+10
+NTRK1
+Neurotrophic receptor tyrosine kinase 1
+11
+ESR1
+Estrogen receptors 1
+12
+UBC
+Ubiquitin C
+13
+TUBB
+Tubulin beta
+14
+HNRNPU
+Heterogeneous Nuclear Ribonucleoprotein U
+15
+CUL1
+cullin 1
+16
+EGFR
+Epidermal Growth Factor Receptor
+17
+MCM2
+Minichromosome Maintenance 2
+18
+EEF1A1
+Eukaryotic elongation factor 1A1
+19
+CDK2
+Cyclin － dependent kinase 2
+20
+ACTB
+Beta － actin
+21
+HSPB1
+Heat shock protein beta － 1
+22
+CLTC
+Clathrin heavy chain
+23
+CUL3
+Cullin 3
+24
+COPS5
+COP9 signalosome subunit 5
+25
+RPA1
+NRF2 － replication protein A1
+26
+HSPA4
+Heat shock 70 kDa protein 4
+27
+FN1
+Fibronectin 1
+28
+CDK1
+Cyclin － dependent kinase 1
+29
+MYH9
+Myosin heavy － Chain 9
+（ 见 续 表 2）
+· 51·
+成都中医药大学学报
+2022 年第 45 卷
+（ 续 表 2）
+编 号
+靶 点
+靶 点 英 文 名
+30
+EP300
+E1A Binding Protein P300
+31
+CDC5L
+Cell division cycle 5 － like
+32
+HUWE1
+HECT， UBA And WWE Domain Containing E3 Ubiquitin Protein Ligase 1
+33
+GRB2
+Growth factor receptor － bound protein － 2
+34
+APP
+Amyloid precursor protein
+35
+AKT1
+Serine／ threonine kinase 1
+36
+CAND1
+Cullin － associated Nedd8 － dissociated protein 1
+37
+SNW1
+SNW Domain containing 1
+38
+XPO1
+Exportin 1
+39
+RPA2
+Replication Protein A2
+40
+MDM2
+Mouse double minute 2
+41
+CTNNB1
+Catenin beta1
+42
+IKBKG
+Inhibitor of kappa polypeptide gene enhancer in B cells， kinase gamma
+43
+AR
+Androgen receptor
+44
+EWSR1
+EWS RNA － binding protein 1
+45
+BRCA1
+BReast － CAncer susceptibility gene 1
+46
+CDC37
+Cell division cycle 37
+47
+SRC
+Src kinase
+48
+CCDC8
+Coiled － coil domain containing 8
+49
+CDKN1A
+Cyclin － dependent kinase inhibitor 1A
+50
+HDAC5
+Histone deacetylase 5
+51
+OBSL1
+Obscurin － like 1
+52
+ARRB2
+Beta － arrestin 2
+53
+MYC
+Myelocytomatosis oncogene
+54
+SHC1
+Src homology domain － containing transforming protein 1
+55
+CUL7
+Cullin 7
+56
+UBE2I
+Ubiquitin － conjugating enzyme E21
+57
+ITGA4
+Integrin alpha4
+58
+FBXO6
+F － box only protein 6
+59
+VHL
+Von Hippel － Lindau
+60
+TRAF6
+TNF receptor associated factor 6
+61
+MAPK1
+Mitogen － activated protein kinase 1
+62
+HDAC1
+Histone deacetylase 1
+63
+RNF2
+Ring finger protein 2
+64
+STAT3
+Signal transducer and activator of transcription 3
+2. 2. 2 人 参 皂 苷 F2 治 疗 胃 癌 关 键 靶 点 筛 选
+构 建 人 参 皂 苷 F2 的 作 用 靶 点 PPI 网 络 ， 其 中 包
+括 节 点
+1 125 个 ， 节 点 之 间 的 相 互 关 系 23 363 个 ；
+构 建 胃 癌 疾 病 相 关 靶 点 PPI 网 络 ， 其 中 具 有 5 804个
+节 点 ， 节 点 之 间 的 相 互 关 系 149 080个 。
+随 后 使 用
+Merge 插 件 ， 提 取 人 参 皂 苷
+F2 治 疗 胃 癌 起 效 的 交
+集 靶 点 网 络 ，
+通 过
+Degree、
+Betweenness 和
+Closs-
+ness 中 位 数 进 行 筛 选 ， 具 体 参 数 如 表
+1 所 示 ， 最 后
+得 到 人 参 皂 苷
+F2 治 疗 疾 病 的 关 键 靶 点 ，
+例 如
+HNRNPU、 AURKA、 IKBKB、
+AKT1 等
+56 个 靶 点 ，
+如 图 2、 表 3 所 示 。
+2. 3 人 参 皂 苷
+Rd 及 人 参 皂 苷
+F2 － 核 心 靶 点 网 络
+构 建
+2. 3. 1 人 参 皂 苷 Rd － 核 心 靶 点 网 络 构 建
+人 参 皂 苷
+Rd － 关 键 靶 点 网 络 如 图
+3 所 示 ，
+包
+扩
+NTRK1、
+FN1、
+MCM2、
+IKBKG、
+AKT1 等 在 内
+的 64 个 靶 点 。
+2. 3. 2 人 参 皂 苷 F2 － 核 心 靶 点 网 络 构 建
+人 参 皂 苷
+F2 － 关 键 靶 点 网 络 如 图 4 所 示 ，
+包
+扩
+HNRNPU、
+AURKA、
+IKBKB、
+AKT1 等 在 内 的
+56 个 靶 点 。
+2. 4 人 参 皂 苷
+Rd 及 人 参 皂 苷
+F2 关 键 靶 点 的
+GO
+和 KEGG 分 析
+2. 4. 1 人 参 皂 苷 Rd 关 键 靶 点 的 GO 和 KEGG 分 析
+利 用 Metascape 数 据 库 进 行
+GO 分 析 ，
+共 包 含
+了 869 个 生 物 过 程
+（ BP） ，
+109 个 细 胞 组 分
+（ CC）
+以 及
+104 个 分 子 功 能
+（ MF） 。
+对 富 集 排 名 靠 前 的
+BP10 条 ， CC10 条 及 MF10 条 进 行 可 视 化 展 示 ，
+如
+图 5 所 示 。 其 中 ， 生 物 学 过 程 细 胞 周 期 过 程 的 调 节 、
+DNA 代 谢 过 程 的 调 节 、 细 胞 对
+DNA 损 伤 刺 激 的 反
+· 52·
+第 3 期
+万彦 等 基于网络药理学探讨人参皂苷 Rb1肠道菌转化物治疗胃癌的作用机制
+应 、 细 胞 对 氮 化 合 物 的 反 应 、 有 丝 分 裂 细 胞 周 期 的
+调 节 及 有 丝 分 裂 细 胞 周 期 等 ； 细 胞 组 分 涉 及 粘 着 斑 、
+囊 泡 腔 、 细 胞 － 基 质 连 接 、 主 轴 及 分 泌 颗 粒 管 腔 等 ；
+分 子 功 能 包 括 蛋 白 质 结 构 域 特 异 性 结 合 、 泛 素 蛋 白
+连 接 酶 结 合 、 泛 素 样 蛋 白 连 接 酶 结 合 、 激 酶 结 合 、
+蛋 白 激 酶 结 合 、 转 录 因 子 结 合 、 无 序 结 构 域 特 异 性
+结 合 等 等 。 KEGG 分 析 结 果 显 示 了
+P ＜ 0. 05 的 富 集
+条 目 后 制 作 气 泡 图
+（ 图 6） ， 包 括 PI3K － Akt 信 号 通
+路 ， FoxO 信 号 通 路 ， ErbB 信 号 通 路 ， HIF － 1t 信 号
+通 路 ， MAPK 信 号 通 路 等 等 。
+图 2 人 参 皂 苷 F2 治 疗 胃 癌 关 键 靶 点 的 拓 扑 网 络
+表 3 人 参 皂 苷 F2 关 键 靶 点 详 细 信 息
+编 号
+靶 点
+靶 点 英 文 名
+1
+YWHAZ
+Tyrosine 3 － Monooxygenase／ Tryptophan 5 － Monooxygenase Activation Protein Zeta
+2
+HSP90AB1
+Heat shock protein 90 kDa alpha， class B member 1
+3
+HSPA5
+Heat shock 70 kDa protein 5
+4
+HSPA8
+Heat shock 70 kDa protein 8
+5
+NPM1
+Nucleophosmin／ Nucleoplasmin Family， Member 1
+6
+NTRK1
+Neurotrophic receptor tyrosine kinase 1
+7
+VCP
+Valosin － containing protein
+8
+HNRNPA1
+Heterogeneous nuclear ribonucleoprotein A1
+9
+UBC
+Ubiquitin C
+10
+TP53
+Tumor protein p53
+11
+CUL1
+Cullin 1
+12
+CUL3
+Cullin 3
+13
+MCM2
+Minichromosome Maintenance 2
+14
+TUBB
+Tubulin beta
+15
+ESR1
+Estrogen receptors 1
+16
+HSPD1
+Heat shock protein family member D1
+17
+COPS5
+COP9 signalosome subunit 5
+18
+HNRNPU
+Heterogeneous nuclear ribonucleoprotein U
+19
+HSPA4
+Heat shock 70 kDa protein 4
+20
+HSPB1
+Heat shock protein beta － 1
+21
+CDK2
+Cyclin － dependent kinase 2
+22
+CLTC
+Clathrin heavy chain
+23
+CAND1
+Cullin － associated Nedd8 － dissociated protein
+（ 见 续 表 3）
+· 53·
+成都中医药大学学报
+2022 年第 45 卷
+（ 续 表 3）
+编 号
+靶 点
+靶 点 英 文 名
+24
+EGFR
+Epidermal Growth Factor Receptor
+25
+HUWE1
+HECT， UBA And WWE Domain Containing E3 Ubiquitin Protein Ligase 1
+26
+EEF1A1
+Eukaryotic elongation factor 1A1
+27
+FN1
+Fibronectin 1
+28
+GRB2
+Growth factor receptor － bound protein － 2
+29
+MYH9
+Myosin heavy － Chain 9
+30
+CDC5L
+Cell division cycle 5 － like
+31
+RPA2
+Replication Protein A2
+32
+SNW1
+SNW Domain containing 1
+33
+AKT1
+Serine／ threonine kinase 1
+34
+IKBKG
+Inhibitor of kappa polypeptide gene enhancer in B cells， kinase gamma
+35
+APP
+Amyloid precursor protein
+36
+CTNNB1
+Catenin beta1
+37
+HDAC5
+Histone deacetylase 5
+38
+XPO1
+Exportin 1
+39
+EWSR1
+EWS RNA － binding protein 1
+40
+CCDC8
+Coiled － coil domain containing 8
+41
+EP300
+E1A Binding Protein P300
+42
+ITGA4
+Integrin alpha4
+43
+CUL7
+Cullin 7
+44
+MDM2
+Mouse double minute 2
+45
+SHC1
+Src Homology 2 Domain Containing 1
+46
+ARRB2
+Beta － arrestin 2
+47
+CDC37
+Cell division cycle 37
+48
+FBXO6
+F － box only protein 6
+49
+BRCA1
+BReast － CAncer susceptibility gene 1
+50
+TRAF6
+TNF receptor associated factor 6
+51
+MYC
+Myelocytomatosis oncogene
+52
+SRC
+Src kinase
+53
+VHL
+Von Hippel － Lindau
+54
+AR
+Androgen receptor
+55
+MAPK1
+Mitogen － activated protein kinase 1
+56
+STAT3
+Signal transducer and activator of transcription 3
+图 3 人 参 皂 苷 Rd － 核 心 靶 点 网 络
+图 4 人 参 皂 苷 F2 － 核 心 靶 点 网 络
+· 54·
+第 3 期
+万彦 等 基于网络药理学探讨人参皂苷 Rb1肠道菌转化物治疗胃癌的作用机制
+图 5 人 参 皂 苷 Rd 治 疗 胃 癌 关 键 靶 点 的
+GO 生 物 功 能 富 集 分 析
+图 6 人 参 皂 苷 Rd 治 疗 胃 癌 关 键 靶 点 的
+KEGG 通 路 富 集 分 析
+2. 4. 2 人 参 皂 苷 F2 关 键 靶 点 的 GO 和 KEGG 分 析
+利 用 Metascape 数 据 库 进 行
+GO 分 析 ，
+共 包 含
+了 801 个 生 物 过 程 ， 93 个 细 胞 组 分 以 及 86 个 分 子
+功 能 。
+对 富 集 排 名 靠 前 的
+BP10 条 ，
+CC10 条 及
+MF10 条 进 行 可 视 化 展 示 ， 如 图 7 所 示 。 其 中 ， 生
+物 学 过 程 包 括 细 胞 对 氮 化 合 物 的 反 应 、
+细 胞 周 期
+过 程 的 调 节 、
+细 胞 对 有 机 氮 化 合 物 的 反 应 、
+细 胞
+对
+DNA 损 伤 刺 激 的 反 应 、
+DNA 代 谢 过 程 的 调 节 、
+DNA 结 合 转 录 因 子 活 性 的 正 调 节 、
+对 生 长 因 子 的
+反 应 及 细 胞 对 有 机 环 状 化 合 物 的 反 应 等 ；
+细 胞 组
+分 涉 及 粘 着 斑 、
+细 胞
+－ 基 质 连 接 、
+囊 泡 腔 、
+主 轴
+及 分 泌 颗 粒 管 腔 等 ；
+分 子 功 能 包 括 泛 素 蛋 白 连 接
+酶 结 合 、 泛 素 样 蛋 白 连 接 酶 结 合 、
+蛋 白 质 结 构 域
+特 异 性 结 合 、
+激 酶 结 合 、
+蛋 白 激 酶 结 合 、
+转 录 因
+子 结 合 及
+DNA 结 合 转 录 因 子 结 合 等 等 。
+KEGG 分
+析 结 果 显 示 了
+P ＜ 0. 05 的 富 集 条 目 后 制 作 气 泡 图
+（ 图 8） ， 包 括 PI3K － Akt 信 号 通 路 ， MAPK 信 号 通
+路 ， NF － kB 信 号 通 路 等 等 。
+图 7 人 参 皂 苷 F2 治 疗 胃 癌 关 键 靶 点 的
+GO 生 物 功 能 富 集 分 析
+图 8 人 参 皂 苷 F2 治 疗 胃 癌 关 键 靶 点 的
+KEGG 通 路 富 集 分 析
+3 讨 论
+本 研 究 通 过
+Swiss Target Prediction 数 据 库 得 到
+人 参 皂 苷
+Rd 靶 点 23 个 ， 人 参 皂 苷
+F2 靶 点 20 个 ；
+在 disgenet、 malacards 和
+OMIM 数 据 库 中 共 筛 选 出
+胃 癌 相 关 靶 点
+189 个 。 随 后 将 人 参 皂 苷
+Rd、
+F2 的
+PPI 网 络 分 别 与 胃 癌 的
+PPI 网 络 取 交 集 获 得 人 参 皂
+苷 Rd 治 疗 胃 癌 的 PPI 网 络 和 人 参 皂 苷 F2 治 疗 胃 癌
+的 PPI 网 络 ， 经 过 筛 选 后 得 到 人 参 皂 苷
+Rd 治 疗 胃
+癌 的 关 键 靶 点 64 个 以 及 人 参 皂 苷 F2 治 疗 胃 癌 的 关
+键 靶 点 56 个 。 GO 分 析 结 果 显 示 人 参 皂 苷
+Rd 共 包
+含 了 869 个 生 物 过 程 ，
+109 个 细 胞 组 分 以 及
+104 个
+分 子 功 能 ；
+人 参 皂 苷
+F2 包 含 了
+801 个 生 物 过 程 ，
+93 个 细 胞 组 分 以 及
+86 个 分 子 功 能 。
+此 外 ，
+KEGG
+结 果 表 明 人 参 皂 苷
+Rd 治 疗 胃 癌 所 涉 及 的 通 路 包 括
+PI3K － Akt 信 号 通 路 ， FoxO 信 号 通 路 ，
+ErbB 信 号
+通 路 ，
+HIF － 1t 信 号 通 路 ，
+MAPK 信 号 通 路 等 等 ；
+而 人 参 皂 苷 F2 治 疗 胃 癌 所 涉 及 的 通 路 包 括
+PI3K －
+· 55·
+成都中医药大学学报
+2022 年第 45 卷
+Akt 信 号 通 路 ， MAPK 信 号 通 路 ， NF － kB 信 号 通 路
+等 等 。
+分 析 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 的 生 物 学 过 程
+可 知 ， 上 述 两 种 人 参 皂 苷 的 生 物 学 过 程 主 要 与 细
+胞 对 氮 化 合 物 的 反 应 、
+细 胞 周 期 过 程 的 调 节 、
+细
+胞 对
+DNA 损 伤 刺 激 的 反 应 、
+DNA 代 谢 过 程 的 调
+节 、 DNA 结 合 转 录 因 子 活 性 的 正 调 节 等 有 关 。
+而
+这 些 生 物 学 过 程 皆 与 细 胞 凋 亡 有 所 关 联 ，
+表 明 上
+述 两 种 人 参 皂 苷 的 抗 胃 癌 途 径 可 能 与 凋 亡 途 径 相
+关 。 此 外 ， KEGG 结 果 表 明 人 参 皂 苷
+Rd 及 人 参 皂
+苷
+F2 调 节 胃 癌 的 相 关 通 路 及 其 的 一 致 。
+其 中 ，
+PI3K － Akt 信 号 通 路 以 及 MAPK 信 号 通 路 是 调 控 胃
+癌 的 关 键 信 号 通 路 ，
+已 有 相 关 实 验 证 实 上 述 两 条
+通 路 在 胃 癌 的 发 生 发 展 中 扮 演 了 重 要 的 角 色 。
+例
+如 ， PI3K － Akt 通 路 的 异 常 激 活 可 诱 导 胃 癌 细 胞 存
+活 和 转 移 ，
+也 可 通 过 诱 导 抗 凋 亡 基 因 和 促 凋 亡 基
+因 的 失 调 而 导 致 癌 细 胞 逃 脱 凋 亡
+［ 16， 17］ ；
+MAPK 通
+路 通 过 COX － 2 的 诱 导 参 与 了
+NF － κB 的 激 活 ， 促
+进 了 GC 细 胞 的 增 殖 等
+［ 18］ 。
+此 外 ，
+大 量 文 献 报 道 ，
+通 过 调 控
+PI3K － Akt 信 号 通 路 以 及
+MAPK 信 号 通
+路 ， 可 诱 导 胃 癌 细 胞 凋 亡 ，
+从 而 发 挥 药 物 的 抗 胃
+癌 活 性
+［ 19 － 24］ 。 例 如 ， 人 参 皂 苷 通 过 激 活
+MAPK 通
+路 ， 促 进 细 胞 自 噬 ， 并 在 G2 ／ M 过 渡 期 间 阻 断 胃 癌
+细 胞 周 期 ， 从 而 发 挥 抗 胃 癌 活 性 ；
+血 竭 素 高 氯 酸
+盐 抑 制 PI3K／ Akt 和
+NF － κB 的 激 活 ，
+上 调
+P53 的
+表 达 ， 促 进 胃 癌 细 胞 凋 亡 等 等 。
+因 此 ，
+笔 者 认 为
+人 参 皂 苷
+Rd 及 人 参 皂 苷
+F2 可 能 通 过 抑 制
+PI3K －
+Akt 信 号 通 路 ，
+MAPK 信 号 通 路 ， HIF － 1t 信 号 通
+路 ， ErbB 信 号 通 路 ，
+特 别 是
+PI3K － Akt 信 号 通 路
+以 及 MAPK 信 号 通 路 ， 促 进 胃 癌 凋 亡 、
+抑 制 增 殖 ，
+从 而 发 挥 治 疗 胃 癌 的 作 用 。
+然 而 ，
+网 络 药 理 学 结
+果 仅 是 一 种 预 测 ，
+且 存 在 一 定 缺 陷 。
+故 有 必 要 进
+行 体 内 外 实 验 加 以 验 证 。
+网 络 药 理 学 在 实 际 应 用
+时 应 注 重 与 体 内 外 实 验 和 临 床 研 究 相 结 合 ，
+以 验
+证 网 络 药 理 学 预 测 结 果 的 准 确 性 。
+此 外 ， 网 络 药 理 学 是 预 测 药 物 与 疾 病 靶 点 的
+学 科 ， 但 并 不 能 直 接 推 测 药 物 对 疾 病 是 否 具 有 活
+性 。 笔 者 对 已 知 的 数 据 库 进 行 了 检 索 ，
+并 未 发 现
+人 参 皂 苷 Rb1抗 胃 癌 的 报 道 。
+人 参 皂 苷
+Rb1的 肠 道
+菌 群 转 化 物 － 人 参 皂 苷 Rd 及 F2 已 被 报 道 具 有 抗 胃
+癌 活 性 ，
+但 是 其 机 制 却 并 不 清 晰 。
+因 此 ，
+本 研 究
+是 基 于 已 知 人 参 皂 苷
+Rb1的 肠 道 菌 群 转 化 物
+－ 人 参
+皂 苷 Rd 及 F2 具 有 抗 胃 癌 活 性 的 前 提 下 ， 对 其 未 知
+的 抗 癌 机 制 的 进 行 预 测 ，
+为 后 续 实 验 提 供 方 向 。
+值 得 注 意 的 是 ， 人 参 皂 苷
+Rb1的 肠 道 菌 群 转 化 物
+－
+人 参 皂 苷 Rd 及 F2 在 体 内 是 同 时 存 在 的 。 尽 管 两 者
+结 构 相 似 ， 但 仍 有 所 不 同 ，
+两 者 之 间 的 抗 胃 癌 作
+用 机 制 可 能 有 所 区 别 。
+因 此 ，
+本 课 题 分 别 对 人 参
+皂 苷 Rd 及 F2 的 抗 胃 癌 机 制 进 行 网 络 药 理 学 分 析 ，
+结 果 表 明 除 了 共 有 通 路
+PI3K － Akt 信 号 通 路 与
+MAPK 信 号 通 路 有 相 关 性 的 差 距 外 ，
+人 参 皂 苷
+Rd
+似 乎 还 可 以 通 过 FoxO 信 号 通 路 ， ErbB 信 号 通 路 和
+HIF － 1t 信 号 通 路 调 控 胃 癌 ，
+而 人 参 皂 苷
+F2 似 乎
+还 能 通 过 NF － κB 通 路 调 控 胃 癌 。 上 述 结 果 表 明 两
+种 人 参 皂 苷 可 能 因 其 结 构 差 异 导 致 其 抗 癌 机 制 上
+的 不 同 ， 尽 管 需 要 进 一 步 的 实 验 验 证 。
+综 上 所 述 ， 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 治 疗 胃
+癌 可 能 是 通 过 参 与 机 体 的 细 胞 对 氮 化 合 物 的 反 应 、
+细 胞 周 期 过 程 的 调 节 、 细 胞 对
+DNA 损 伤 刺 激 的 反
+应 、 DNA 代 谢 过 程 的 调 节 、
+DNA 结 合 转 录 因 子 活
+性 的 正 调 节 等 生 物 过 程 ，
+调 控
+PI3K － Akt 信 号 通
+路 ， MAPK 信 号 通 路 ， HIF － 1t 信 号 通 路 ，
+ErbB 信
+号 通 路 等 发 挥 抗 胃 癌 活 性 。
+本 课 题 通 过 利 用 现 代
+生 物 信 息 学 技 术 ，
+充 分 理 解 了 蛋 白 与 蛋 白 间 的 关
+系 网 络 ， 并 对 人 参 皂 苷 Rd 及 人 参 皂 苷 F2 治 疗 胃 癌
+的 可 能 作 用 机 制 进 行 探 讨 。
+该 方 法 亦 体 现 了 中 药
+活 性 成 分 治 疗 疾 病 的 多 靶 点 及 多 通 路 协 同 作 用 的
+特 征 。 这 为 下 一 步 研 究 人 参 皂 苷
+Rd 及 人 参 皂 苷
+F2
+治 疗 胃 癌 的 分 子 机 制 提 供 方 向 ，
+亦 为 临 床 合 理 应
+用 人 参 皂 苷 提 供 了 科 学 依 据 。
+参 考 文 献
+［ 1］
+AHMEDIN JEMAL， FREDDIE BRAY， MELISSA M CEN-
+TER， et al. Global cancer statistics ［ J］ . CA Cancer J Clin，
+2011， 61（ 2） ： 69 － 90.
+［ 2］
+SONG Z Y， WU Y Y， YANG J B， et al. Progress in the
+treatment of advanced gastric cancer ［ J］ . Tumour Biol，
+2017， 39（ 7） ： 1010428317714626.
+［ 3］
+SUN HYUN BAE， DONG WOOK KIM， MISOOK KIM， et
+al. Radiotherapy for gastric mucosa － associated lymphoid
+tissue lymphoma： dosimetric comparison and risk assess-
+ment of solid secondary cancer ［ J］ . Radiat Oncol J， 2017，
+35（ 1） ： 78 － 89.
+［ 4］
+KISEOK CHOI， HEUP SONG， EUNHEE KIM， et al. Inhibi-
+tion of hydrogen sulfide － induced angiogenesis and inflam-
+mation in vascular endothelial cells： potential mechanisms
+of gastric cancer prevention by Korean red ginseng ［ J］ . J
+Ginseng Res， 2012， 36（ 2） ： 135 － 145.
+［ 5］
+HAN M， SHA X Y， WU Y J， et al. Oral absorption of gin-
+senoside Rb1 using in vitro and in vivo models ［ J］ . Planta
+Med， 2006， 72（ 5） ： 398 － 404.
+［ 6］
+HAEUNG LEE， EUNAH BAE， MYUNG JOO HAN， et al.
+Hepatoprotective effect of ginsenoside Rb1 and compound K
+on tert － butyl hydroperoxide － induced liver injury ［ J］ .
+Liver Int， 2005， 25（ 5） ： 1069 － 1073.
+［ 7］
+TIAGO
+SOUSA，
+RONNIE
+PATERSUN，
+VANESSA
+MOORE， et al. The gastrointestinal microbiota as a site for
+· 56·
+第 3 期
+万彦 等 基于网络药理学探讨人参皂苷 Rb1肠道菌转化物治疗胃癌的作用机制
+the biotransformation of drugs ［ J］ . Int J Pharm， 2008，
+363（ 1 － 2） ： 1 － 25.
+［ 8］
+LIU C， HU M Y， GUO H F， et al. Combined contribution of
+increased intestinal permeability and inhibited deglycosyla-
+tion of ginsenoside Rb1 in the intestinal tract to the en-
+hancement of ginsenoside Rb1 exposure in diabetic rats after
+oral
+administration
+［ J］ .
+Drug
+Metab
+Dispos， 2015，
+43（ 11） ： 1702 － 1710.
+［ 9］
+YANQ， ZHOU W， SHI X L， et al. Biotransformation path-
+ways of ginsenoside Rb1 to compound K by β － glucosidases
+in fungus Paecilomyces Bainier sp. 229 ［ J］ . Process Bio-
+chem， 2010， 45（ 9） ： 1550 － 1556.
+［ 10］
+TIAN YZ， LIU YP， TIAN SC， et al. Antitumor activity of
+ginsenoside Rd in gastric cancer via up － regulation of
+Caspase － 3 and Caspase － 9 ［ J］ . Pharmazie， 2020，
+75（ 4） ： 147 － 150.
+［ 11］
+MAO Q， ZHANG PH， WANG Q， et al. Ginsenoside F2 in-
+duces apoptosis in humor gastric carcinoma cells through
+reactive oxygen species － mitochondria pathway and mod-
+ulation of ASK － 1／ JNK signaling cascade in vitro and in
+vivo ［ J］ . Phytomedicine， 2014， 21（ 4） ： 515 － 522.
+［ 12］
+毛 丽 斯 ， 朱 晓 红 . 网 络 药 理 学 在 中 药 领 域 的 应 用 进
+展 ［ J］ . 中 医 药 管 理 杂 志 ， 2021， 29（ 13） ： 98 － 102.
+［ 13］
+解 静 ， 高 杉 ， 李 琳 ， 等 . 网 络 药 理 学 在 中 药 领 域 中 的 研
+究 进 展 与 应 用 策 略 ［ J］ . 中 草 药 ， 2019， 50（ 10） ： 2257.
+［ 14］
+袁 甜 ， 崔 琳 琳 ， 王 莹 ， 等 . 中 药 网 络 药 理 学 最 新 进
+展 ［ J］ . 中 医 药 学 报 ， 2021， 49（ 1） ： 101 － 106.
+［ 15］
+段 贤 春 ， 黄 石 ， 彭 代 银 ， 等 . 网 络 药 理 学 在 中 药 复 方 研
+究 中 的 应 用 ［ J］ . 中 国 药 理 学 通 报 ， 2020， 36（ 3） ： 303.
+［ 16］
+SADEGH FATTAHI， FATEMEH AMJADI － MOHEB，
+REZA TABARIPOUR， et al. PI3K／ AKT／ mTOR signaling
+in gastric cancer： epigenetics and beyond ［ J］ . Life Sci，
+2020， 262： 118513.
+［ 17］
+HU M L， ZHU S X， XIONG S W， et al. MicroRNAs and the
+PTEN ／ PI3K／ Akt pathway in gastric cancer （ Review） ［ J］ .
+Oncol Rep， 2019， 41（ 3） ： 1439 － 1454.
+［ 18］
+LUCIA MAGNELLI， NICOLA SCHIAVONE， FABIO STA-
+DERINI， et
+al.
+MAP
+kinases
+pathways
+in
+gastric
+cancer ［ J］ . Int J Mol Sci， 2020， 21（ 8） ： 2893.
+［ 19］
+JIANG T L， XIA Y W， LV J L， et al. A novel protein en-
+coded by circ MAPK1 inhibits progression of gastric canc-
+er by suppressing activation of MAPK signaling ［ J］ . Mol
+Cancer， 2021， 20（ 1） ： 66.
+［ 20］
+WU S Y， CHEN M， HUANG J， et al. ORAI2 promotes
+gastric cancer
+tumorigenicity
+and
+metastasis
+through
+PI3K／ Akt signaling and MAPK － dependent focal adhe-
+sion disassembly ［ J］ . Cancer Res， 2021， 81（ 4） ： 986.
+［ 21］
+熊 加 秀 ， 卫 勃 ， 叶 棋 浓 ， 等 . PI3K／ AKT／ NF － κB 轴 调 控
+胃 癌 细 胞
+HGC － 27 增 殖 ［ J］ . 生 物 技 术 通 讯 ， 2016，
+27（ 3） ： 367 － 370.
+［ 22］
+AZHAR RASUL， DING C， LI X M， et al. Dracorhodin per-
+chlorate inhibits PI3K／ Akt and NF － κB activation， up －
+regulates
+the
+expression
+of
+p53，
+and
+enhances
+apoptosis ［ J］ . Apoptosis， 2012， 17（ 10） ： 1104 － 1119.
+［ 23］
+ZHI Q M， CHEN H， LIU， et al. Podocalyxin － like protein
+promotes gastric cancer progression through interacting
+with RUN and FYVE domain containing 1 protein ［ J］ .
+Cancer Sci， 2019， 110（ 1） ： 118 － 134.
+［ 24］
+刘 勇 ， 韩 涛 ， 潘 源 ， 等 . PI3K 信 号 通 路 对 胃 癌 细 胞
+P27
+磷 酸 化 蛋 白 分 布 表 达 的 影 响 ［ J］ . 中 国 肿 瘤 临 床 ，
+2012， 39（ 14） ： 945 － 948.
+（ 收 稿 日 期 ： 2022-04-12 编 辑 ： 杨 露 ）
+Mechanism of Ginsenoside Rb1 Intestinal Bacterial Transformation in Treatment of Gastric Cancer Based on Network Phar-
+macology
+Wan Yan， Ao Hui▲
+（ Chengdu University of Traditional Chinese Medicine， Chengdu， 611137， China）
+【 Abstract】 Objective： Study the mechanism of ginsenoside Rb1 and ginsenoside F2 in the treatment of gastric cancer based on network
+pharmacology， and to provide scientific basis for rational clinical application of ginsenoside Rd and ginsenoside F2. Methods： The targets
+of ginsenoside Rd and ginsenoside F2 were predicted by SwissTargetPrediction database， and the targets of gastric cancer were obtained
+from Disgenet， Malacards and Omim databases with the key word “ Gastriccancer” . The PPI networks of ginsenoside Rd and ginsenoside
+F2 were intersected with the PPI network of gastric cancer to obtain the PPI networks of ginsenoside Rd and ginsenoside F2 in the treat-
+ment of gastric cancer， respectively. The core targets of ginsenoside Rd and ginsenoside F2 in the treatment of gastric cancer were intro-
+duced into Metascape database， and the results of GO analysis and KEGG enrichment were obtained. Results： The results of network
+pharmacology showed that there were 64 and 56 key targets of ginsenoside Rd and ginsenoside F2 in the treatment of gastric cancer， re-
+spectively. Combined with the biological characteristics of ginsenoside Rd and ginsenoside F2， it was found that PI3K － Akt signal path-
+way， MAPK signal pathway， HIF － 1t signal pathway and ErbB signal pathway may be the main pathways involved in the anti － gastric
+cancer effects of the two ginsenosides above. Conclusion： Ginsenoside Rb1 intestinal flora transformants － ginsenoside Rd and ginsen-
+oside F2 may treat gastric cancer by regulating PI3K － Akt signal pathway， MAPK signal pathway， HIF － 1t signal pathway and ErbB sig-
+nal pathway， which can be verified by related experiments.
+【 Keywords】 PI3K － Akt signaling pathway； MAPK signaling pathway； HIF － 1t signaling pathway； ErbB signaling pathway； Ginsenoside
+Rb1 intestinal flora transformant； Ginsenoside Rd； Ginsenoside F2； Gastric cancer； Network pharmacology
+· 57·

@@ -1,0 +1,647 @@
+118
+speci al wi l d Economi c Ani mal and Pl ant Research
+特产研究
+DOI ：1 0．1 6720／j ．cnk．_tcyj ．2022．074
+人参皂苷抗胃癌作用研究进展
+王冬雪l ，吴新民2，蔺冬梅3，刘馨泽1，刘淑莹1，4，万茜淋l ，5※ ，吴巍l ※
+( 1．长春中医药大学吉林省人参科学研究院，吉林长春130117；2．吉林大学第一医院神经肿瘤外科，吉林长春13002l ：3．吉林
+市中医院，吉林吉林132000；4．中国科学院长春应用化学研究所，吉林长春130022；5．吉林农业大学食药用菌教育部工程研
+究中心，吉林长春
+130118)
+摘要：人参为多年生草本植物，具有多种生物活性，常被用于治疗疾病或日常保健中。胃癌是全球性发病率和致死率较高的恶性肿瘤
+之一，临床中多使用手术、化疗及放疗等方法对其进行治疗，但是治疗的同时均对身体造成较大损害。人参皂苷具有良好的抗肿瘤活
+性，其中很多已被证实对胃癌细胞具有良好的抑制作用。对1960—2020年问所发表的研究性论文以“ 人参皂苷” 和“ 胃癌” 等为关键
+词，于知网、万方和PubMed等数据库进行文献检索，将人参皂苷抑制胃癌细胞的作用及相关机制进行总结和分析，希望能对未来关
+于人参皂苷与胃癌的相关基础或临床研究提供参考。
+关键词：人参皂苷；胃癌；胃癌诱因；胃癌治疗
+中图分类号：R285；S567．5+l
+文献标识码：A
+文章编号：1001．4721( 2022) 03．叭18．07
+Research Progress 0f Gi nsenosi de Agai nst Gast ri c Cancer
+WANGDong．xuel ，WUXi l l ．IIl i n2，LIN DoI l g—mei 3，LI UXi I l - zel ，LI UShu- yi Il 91一，WANⅪ．1i Il l ，5※ ，WUWei l ※
+( 1．J i l i nGi nsengAcademy，ChangchunUni Versi t yof Chi neseMedi ci ne，Changchun 130117，Chi na；2．Depart ment of Neur-
+osu唱eⅨFi rst Hospi t al of J i l i n Uni Versi 饥Changchul l
+1 3002 1，Chi na；3．J i l i n Hospi t al of Tradi t i onal Chi nese Medi ci ne，J i l i n
+1 32000，Chi na；4．Changchun Cent er of Mass Spectrome略Changchun I I l st i t ut e of Appl i ed Chemi st ⅨChi nese Academy of
+Sci ences，Changchun 1 30022，Chi na；5．I nt emat i onal Coopemt i on Research Cent er of Chi na f or NewGermpl asmand Bre—
+edi ng of Edi bl e Musl l rooms，J i l i n Agri cul t ural Uni versi 吼Changchul l
+130118，Chi na)
+Abst ract ：Gi nseng，a perenni al herb，has a vari et y of bi ol ogi cal act i vi t i es and has been used i n t he t reat Hl ent of many di seases
+as wel l
+as i n
+dai l y heal t h care．Gast ri c cancer i s one of me mal i gl l ant t umors wi t h hi gh morbi di 够and f atal i t) ，rate over t he worl d．Su唱e吼chemot hempy，
+radi ot herapy and ot her met hods are used t o t reat i t i n cl i ni cal ，but t hese t r℃at ment s are al so causi ng伊eat damage t o t he body- Gi nsenosi des
+have good ant i - t umor act i Vi 吼many of whi ch have been proVed t o have good i I l hi bi t oDr e舵ct on gast ri c cancer cel l s．I n t hi s revi ew，research
+p印ers publ i shed be铆een 1 960 and 2020 were ret ri eved丘omCNⅪ，Wanf ang，PubMedand ot her dat abases usi ng” gi nsenosi de” and” gas—
+t ri c cancer” as key words．The i nhi bi t ory ef rect of gi nsenosi de on gast ri c cancer cel l s and i ts rel at ed mechani smwere summari zed aI l d anal -
+yzed．I t i s hoped t o provi de a ref brence f or如t ure research or cl i ni cal dmg use on gi nsenosi des and gast ri c cance r．
+Key words：gi nsenosi de；gast ri c cancer；gast ri c cancer causes；t reat ment of gast ri c cancer
+人参( P口，z甜g加sP馏C．A．Mey．) 为五加科多年生
+宿根草本植物的干燥根及根茎，是我国延用了多年的
+传统名贵药材。其所含化学成分较为复杂，主要有皂
+苷、多糖、挥发油、氨基酸、蛋白质、多肽和有机酸等[ 1] 。
+作为药食同源的一味中药材其具有延缓衰老[ 2】、抗疲
+劐3] 、调节免疫功能[ 4|、抗肿瘤[ 5] 、保护心脑血管[ 6' 7] 和
+保护神经系统【8】等多种生物活性。
+胃癌是现如今发病率较高的恶性肿瘤之一，据我
+收稿日期：2022．01．06
+基金项目：吉林省教育厅科学技术研究项目( J J KH20220876KJ ) ；吉林省中医药科技项目( 2021003)
+作者简介：王冬雪( 1991一) ，女，吉林省长春市人，博士研究生，从事中药化学研究。
+※ 通讯作者：万茜淋( 1987．) ，女，山东省日照市人，博士，实验师，从事中药活性物质筛选表征及新药研发研究；吴巍( 1974．) ，女，吉
+林省通化市人，博士，研究员，从事中药化学研究。
+万方数据
+第3期
+王冬雪，等：人参皂苷抗胃癌作用研究进展
+119
+国国家癌症中心统计，2019年以来我国胃癌的发病人
+数己处于所有癌症中第二名，是仅次于肺癌的主要癌
+症。胃癌也是全球常见的恶性肿瘤之一，每年新增病例
+超过100万，而且，由于早期症状的不明显，常常导致
+发现即为晚期，因此死亡率很高。不论是手术治疗还是
+化疗等治疗方法，都对人体造成极大损害，且预后存活
+率并不十分理想。因人参皂苷良好的抗肿瘤活性以及
+一些研究表明其对胃癌具有良好的抑制作用[ 9，l o] ，由
+此，共检索文献126篇，从中选取5l 篇( 英文24篇，
+中文27篇) ，主要从人参皂苷对胃癌的抗肿瘤作用的
+角度展开论述。
+1
+胃癌的诱因及治疗方法
+1．1胃癌的诱因
+胃癌是指发生于胃黏膜上皮的恶性肿瘤。经研究
+发现，胃癌的诱发因素如下：盐以及盐腌食品可能会是
+引发胃癌的原因[ 11] 。多项实验表明【12- 14] ，喜欢食用咸
+食品的人患胃癌的风险更高；蔬菜和水果的摄入偏少
+也会增加患胃癌的风险【15】；同时，幽门螺杆菌( hel i co—
+bacterpyl ori ，Hp) 与胃炎、胃溃疡[ 16] 及胃癌[ 17】都有着密
+切的联系，流行病学将75％的胃癌归因于Hp[ 18】；生
+活习惯方面，吸烟会提高多种癌症的患病风险，当然也
+包括胃癌在内[ 19，20】，戒烟者胃癌发生风险会降低，但是
+仍旧高于从不吸烟者[ 21】。此外，还有一些其他因素，如
+年龄的增长【22】、性别、肥胖、抗氧化剂以及他汀类药物
+的使用、社会经济地位等等[ 23，24] 。
+1．2胃癌的治疗方法
+目前，对于胃癌患者一般采用多模式、个体化的治
+疗方式，但是何为最佳治疗方法仍旧没有统一的标准。
+胃癌的治疗方法主要有分期治疗和靶向治疗等，其中
+分期治疗包括手术治疗和细胞毒性治疗。手术治疗一
+般较适用于早期胃癌患者，手术的类型因肿瘤发生位
+置和侵袭深度而异，一般包括内镜下黏膜切除术、远端
+食管切除术、胃次全切除术或全胃切除术等[ 25．27] 。细
+胞毒性治疗适用于进展期胃癌，是指以手术治疗为主，
+在新辅助治疗前、辅助治疗后或围手术期使用化疗药
+物。靶向治疗是指明确致癌靶点后，设计出与致癌靶点
+能发生特异性结合的药物，使肿瘤细胞发生特异性死
+亡，而不对正常细胞造成不良影响。目前所使用的胃癌
+靶向药物主要有酪氨酸激酶抑制剂[ 28】，细胞骨架成分
+抑制剂【29】等。
+针对于胃癌诱发原因的多样性，除了建立良好的
+饮食习惯，调整作息时间，还要定期做好Hp筛查，早
+发现早治疗，从各方面尽量避免胃癌的诱发。胃癌的治
+疗方法较多，手术治疗以及细胞毒性治疗都会对身体
+造成较大的伤害，靶向药物的出现，减少了化疗药物所
+带来的不良反应，降低了对身体的损害，但是单独凭借
+靶向药物是否可以完全清除胃癌细胞，或是针对胃癌
+最为有效的靶向药物是什么还有待研究发现。找寻或
+制造具有抗胃癌作用的低毒性或无毒性药物用于治疗
+或辅助治疗，是未来不断攻克胃癌的行之有效的途径
+之一。
+2人参皂苷抗胃癌作用及机制研究
+人参作为一味药食同源中药材，其皂苷类成分具
+有良好的抗肿瘤活性，许多实验表明人参皂苷能够对
+胃癌细胞的增殖、侵袭及迁移起到良好的抑制作用，其
+中人参皂苷R93、R95、R91、I №2及CK的抗胃癌作用
+相关研究较多，本综述分别从以下几个方面进行分别
+阐述。
+2．1
+人参皂苷R93( GS—R93) 抗胃癌作用及机制
+汪彦君等【3Q】研究了GS．R93对胃癌细胞生长的抑
+制作用，实验选取0．0c2岬舭、0D4岬x儿和O．08¨ mo儿
+GS．R93作用于体外培养的SNU．216胃癌细胞，分别
+培养24 h、48 h和72 h后计算细胞的生长抑制率，结
+果显示，培养24h后生长抑制率分别为70．13％、79．22％
+和83．1l ％；48h后，抑制率分别为72．37％、80．26％和
+85．53％；72 h后，抑制率分别为70．97％、78．71％和’
+85．16％，均与对照组具有显著差异( P<O．01) ，培养
+48 h与72 h两组间抑制率无显著差异，此研究表明
+GS．R93对胃癌细胞的增长具有抑制作用，72 h内呈剂
+量和时间依赖性。Yang等[ 31] 研究发现，GS- R93处理后
+胃癌SGc．790l 细胞与阴性组相比，增殖率、侵袭数量
+和迁移能力显著降低，凋亡率显著增加( P<0．05) 。通
+过对PTEN、P53、p．P13k和AKT蛋白的表达进行检
+测来探讨GS．R93对SGC．7901细胞的作用机制，发
+现PTEN、P53蛋白表达水平显著升高，p—P13k、AKT
+蛋白表达水平显著降低，且均呈剂量依赖关系( P<
+0．05) ，最后得出GS．R93可通过调节PTEN／p．P13刚
+AKT信号通路抑制胃癌SGC一7901细胞的结论。楼亭
+等[ 32] 通过使用实时荧光定量PCR( Real 1抽e—Pol ynl emse
+Chai n Rea商on，I oPCR) 方法检测了SGC一790l 胃癌细
+胞中长链非编码RNA( Longnon—codi ngRNA，LncI 矾A)
+CDKN2B．ASl 的表达水平，发现加有1¨ mol ／L GS．R93
+的LncRNA CDKN2B。ASl 表达量显著低于对照组，
+抗凋亡蛋白Bcl ．2的mI 矾A表达量由对照组的1．12士
+万方数据
+120
+特
+产
+研
+究
+2022年第44卷第3期
+0．23降至给有GS．R移组的0．65士0．11，促凋亡蛋白
+Ba) 【的111】刚A的相对表达量由对照组的1．23土0．34升
+至给有GS．R93组的3．41士0．27。除此以外，实验中发
+现Gs．R93抑制了上皮细胞与间质细胞的转换，一定
+程度上控制了胃癌病灶的转移。通过抑制细胞外调节
+蛋白激酶1／2( ex仃acel l ul ar regul at ed prot ei n ki nases 1／2，
+ERKl ／2) 的磷酸化从而抑制了与癌症密切相关的
+MAPK信号通路。唐立等【33】认为GS．I 沁3对胃癌细胞
+增殖及迁移的抑制作用与其下调LncRNA LI NPl 的
+表达有关。
+GS—R93的抗胃癌作用目前多通过使用体外胃癌
+细胞来进行实验和求证。从结果来看，GS．R93可对胃
+癌细胞的增殖、侵袭及迁移起到良好的抑制作用。从机
+制角度分析，PTEN作为一种抑癌基因，其缺失可导致
+细胞增殖加速、凋亡减少以及细胞迁移和形态的改变，
+促进肿瘤的形成，而GS．R93可通过上调PTEN的蛋
+白表达，抑制其下游通路P13刚AKT的活性，诱导胃
+癌细胞凋亡。对AKT蛋白的抑制又可间接增强P53
+蛋白的表达，从而对细胞周期和细胞增殖实现调控，使
+胃癌细胞阻滞于Gl 期，提升其凋亡率；MAPK信号
+通路对细胞的生长、分化、应激及炎症反应等都有着重
+要的调节作用，与癌症也有着很高的关联度，GS—R93
+可通过降低ERKl ／2蛋白的表达，抑制MAPK信号通
+路活性，减少胃癌细胞增殖；LncRNA是不能翻译为蛋
+白质的功能性RNA分子，在发育和基因表达过程中
+起着重要的调控作用，实验表明胃癌细胞中LncRNA
+表达上调[ 34] ，通过在体外胃癌细胞中对其进行敲低，
+则可降低细胞活力，减少细胞的侵袭和迁移，提升凋亡
+率，目前所发现的LncRNA种类繁多，其中大部分作
+用还不明确，GS—R93能够通过调节LncRNACDKN2B—
+ASl 、LncRNALI NPl 的表达，对胃癌细胞的增殖和迁
+移起到抑制作用。GS—R93基于以上几种不同机制都可
+对胃癌细胞产生抑制作用，但是体内实验相对较少，目
+前，也有将GS—R93应用于胃癌的临床试验，比如与新
+辅助放化疗的联合使用显示可有效提高胃癌患者的免
+疫力及生存率【35】。综上所述，GS．R93具有抗胃癌活性，
+可为治疗或辅助治疗胃癌提供新的药物选择。
+2．2人参皂苷R95( GS—R95) 抗胃癌作用及机制
+赵翔宇等[ 36] 使用GS．R93和GS．R95对MKN一45
+胃癌细胞进行24 h处理，测得半抑制浓度分别为( 29．4l 士
+1．84) pmol ／L和( 22．50士1．60) ¨ mol 几( 尸<0．05) ，由
+此得出GS．R95对胃癌细胞株的抗癌活性强于GS—R93。
+此外，GS．R95可抑制与胃癌密切相关Not ch 1信号通
+路的活性及其所在通路中Cycl i nAl 、CDK2、PCNA和
+P21等多种周期相关蛋白的表达，使细胞发生S期阻滞，
+有效抑制癌细胞的增殖。在Gs．飚5浓度为20 pmon。
+时，基质金属蛋白酶家族成员MM口．2和MM衅．9两种
+与侵袭转移相关蛋白的表达量均有明显下降( P<0．01) 。
+李为等[ 37】研究了GS．R95通过影响微小RNA．125b
+( mi croRNA．125b，mi R—125b) ／类固醇敏感性调节蛋白
+相关脂类转运体结构域13( St AR- rel at ed l i pi d t ransf er
+domai n prot ei n 13，STARDl 3) ／唾液酸酶1( neurami ni ．
+dase 1，NEUl ) 信号通路对BGC．823胃癌细胞侵袭迁
+移的影响，结果表明当GS．R95浓度由12．5岬ol ／L增
+至50 umol ／L时，mi R．125b的相对表达量由0．904士0．032
+降至0．435士O．059，STARDl 3和NEUl 的相对表达量
+分另0由1．084土O．028增至1．485士0．091、1．032士0．011
+增至1．713士0．040。当GS．R95浓度为12．5 pmol ／L时
+所引起的蛋白相对表达量与空白组无显著差异，当浓
+度升至50岬ol ／L时，具有显著差异( P<0．01) 。后经
+进一步研究发现[ 38] ，GS—R95对胃癌细胞增殖的抑制作
+用，其作用机制可能是源自对细胞中与线粒体凋亡途
+径相关的抗凋亡因子Bcl 一2的下调作用以及对促凋亡
+因子Bax的上调作用实现的。此外，卓少华等[ 39] 研究
+发现，GS—R95还可通过抑制LncI ⅢA—PCATl 2的表达
+抑制SNu．1人胃癌细胞的增殖与迁移，促进其凋亡。
+作用机制方面，GS—R95能够通过抑制Not ch 1信
+号通路活性、调节与线粒体凋亡途径相关的Bcl 一2、Bax
+因子的表达来抑制胃癌细胞的增殖。癌细胞的侵袭和
+转移是导致患者死亡的因素之一，GS—R95能够下调
+MMP．2、MMP．9两种重要转移调控因子的表达、降低
+mi R—125b的表达，提高其靶基因STARDl 3，NEul 的
+表达，从而起到抑制胃癌细胞侵袭和转移的作用，且其
+具有与GS—R93相似的抑制胃癌细胞中LncRNA的
+作用。GS—R95对胃癌细胞的抑制作用是多途径、多靶
+点的，不单只是抑制了胃癌细胞的增殖，还有效控制住
+了肿瘤细胞的侵袭和转移。虽然上述实验表明GS．R95
+的抗胃癌活性强于GS—R93，但其是否是抑制胃癌细胞
+活性最强的人参皂苷还有待进一步研究。
+2．3人参皂苷R91( GS—R91) 抗胃癌作用及机制
+Shang Y等[ 40] 研究发现，GS．Rgl 对胃癌细胞的增
+殖具有抑制作用，且呈浓度和时间依赖性。在进展期胃
+癌中，GS—I 追1可通过上调调控因子p16姗( 4a、p21wAFl
+眦矾A的表达来影响细胞周期，抑制CDK4的活性，
+万方数据
+第3期
+王冬雪，等：人参皂苷抗胃癌作用研究进展
+121
+阻止细胞进入S期，从而抑制胃癌细胞的增长。赵保
+胜等【41] 通过使用RT- PCR和MTT等方法，测定了不
+同浓度GS．Rgl 作用24h时BGC一823胃癌细胞中促
+凋亡因子BaX和半胱天冬酶家族成员caspase一3 111] [ ⅢA
+的表达，发现随着GS—Rgl 浓度的增加，Bax、caspase一3
+mRNA含量随之增加，当GS．R91浓度达到80 m∥ L
+时，Bax和caspase．3 mRNA含量己接近于阳性药物
+紫杉醇( 10 m∥ L) 作用下的效果，药效与阳性组相近，
+对细胞增殖的抑制率高达92．3％。李靖等[ 42】研究了主
+要有效成分为GS．Rgl 的四君子汤对胃癌细胞SGC．790 1
+中侧群( si de popul at i on，SP) 细胞、非侧群( non si de
+popul at i on，NSP) 细胞以及未经分选的所有细胞的抑
+制作用，最终发现，随着GS．Rgl 浓度的升高，SP、NSP
+以及总细胞的增殖能力均有所降低，但是对SP细胞
+增殖的抑制作用明显低于NSP细胞和总细胞。
+上述研究表明，GS．Rgl 可通过诱导肿瘤细胞发生
+周期阻滞来实现抑制胃癌细胞的增殖。GS—Rgl 上调的
+p16恻az11】刚A所编码的蛋白质可直接促进细胞内与
+细胞周期相关的固有蛋白与CDK4结合，抑制CDK4
+活性，阻止细胞G1．S周期转换。上调的p21、ml rnj [ 斟A
+所编码的蛋白质可抑制cvcl i n．CDK复合物活性，减
+少Rb蛋白磷酸化，抑制DNA合成，使细胞周期阻滞
+于G1期；另一方面，GS．R91又可提升促凋亡因子Bax、
+caspase．3 mI 矾A含量，促进细胞凋亡。由此GS．Rgl 可
+在诱导已有癌细胞凋亡的同时，通过对细胞周期的调
+控，减少新的癌细胞增殖，两种机制并存可放大其对胃
+癌细胞的抑制作用。而以GS—Rgl 为主要有效成分的
+四君子汤可有效抑制对化疗药物不敏感的SP细胞的
+增殖，虽然抑制效果低于NSP细胞，但是这将为胃癌
+术后的药物治疗或与新辅助放化疗的联合使用提供新
+的思路。
+2．4人参皂苷Rh2( GS—Rh2) 抗胃癌作用及机制
+Qi anJ 等[ 43] 研究发现在胃癌细胞株中SP细胞增
+殖较快，因此着重研究了GS—Rh2对SGC一7901胃癌
+细胞中SP细胞增殖和凋亡的影响。在GS．Rh2作用
+下，SP细胞发生G1／GO周期阻滞，当GS—Rh2浓度为
+20¨ 鲈11L，处理时间24h时，SP细胞的凋亡率为( 17．5土
+1．6) ％，48 h达到( 39．4士1．O) ％( P<0．05) ，GS—Rh2
+发挥抗胃癌作用的部分机制可能是与其使BaX活性
+增加，Bcl 一2活性降低有关。李靖等⋯ 在分别考察了
+GS．R112和低浓度化疗药物奥沙利铂( Oxal i pl at i n，OHP)
+对人胃癌细胞SGC一7901细胞周期增殖情况以及细胞
+增长抑制率的影响后，将不同浓度的GS．Rh2与低浓
+度( 1．45}l 咖L) L．OHP联合使用，发现随着GS．Rh2浓
+度的增高，细胞凋亡率也随之增高，当GS。Rh2浓度达
+到30}l ∥ mL时，细胞凋亡率为( 46．58士3．13) ％，这与
+单独使用低浓度L．0HP的凋亡率( 7．9l 士1．43) ％具有
+显著差异。GS—Rh2在与阿霉素( Adri amyci n，ADR) 联
+合使用时可抑制人胃癌SGC790l ／ADR耐药细胞的
+增殖[ 45】，使半数抑制浓度( I C50) 由单独使用ADR的
+54．52 pm01／L减小至30．14¨ mol ／L，将细胞周期阻滞
+在G2／M期，与单药组相比，GS．Rh2与ADR的联合
+使用进一步降低了抗凋亡蛋白的表达，抑制胃癌细胞
+增殖，促进其凋亡。
+由此可见，GS—Rh2可通过对Bax、Bcl 一2蛋白的调
+节来促进胃癌细胞凋亡，以此起到抗胃癌作用，低浓度
+OHP在与GS．I m2一同使用后，对胃癌细胞的敏感性
+增强，可以更好地促进癌细胞的凋亡，两种药物的联合
+使用提升了单独药物的抗癌效果，同时降低了药物使
+用浓度。与ADR的联合使用也同样提高了细胞的化
+疗敏感性。因此，GS．Rh2未来也可能成为与其他抗癌
+药物联合使用的一种增敏剂。
+2．5人参皂苷CK( GS—CK) 抗胃癌作用及机制
+GS—CK是天然二醇型人参皂苷在肠道内的代谢
+产物和在体内发挥作用的活性实体。目前，它是人们发
+现的人体中抗肿瘤活性较强的人参皂苷单体。李波等m】
+发现GS．CK可使BGC一823胃癌细胞的增殖受到抑
+制，当浓度为5岬01／L作用48 h时，可使细胞发生
+G2／M期阻滞，细胞凋亡率为( 21．17土3．16) ％，显著高
+于对照组( 4．09土0．53) ％( P<O．01) ，Bi d和Bcl ．2蛋
+白表达量随GS—CK浓度增加而减少。邓晶等[ 47】在研
+究中发现，当GS．CK浓度达到50}l ∥ mL时，对SGC一790l
+胃癌细胞的抑制率可达到90％。除此以外，当GS．CK
+浓度为50}J 劝[ I l L作用96h时，血管内皮生长因子( vas—
+cul ar endot hel i al growt h f act or，VEGF) 的含量为( 11．67
+士1．59) ¨ 舭11L，对照组为( 24．36士1．74) 嵋厅Il L( P<O．05) ，
+这表明GS．CK通过影响VEGF而发挥作用也是其抗
+胃癌的机制之一。
+综上所述，GS—CK可通过调节线粒体介导的凋亡
+途径来抑制胃癌细胞的增殖，促进其凋亡。肿瘤生长和
+转移都需依赖新生血管，从其中获得营养供给，VEGF
+是促进肿瘤新生血管形成的主要因子，随着GS—CK给
+药浓度的升高以及药物作用时间的延长，对VEGF的
+抑制作用也愈加明显，GS—CK通过减少内源性VEGF
+万方数据
+122
+特
+产
+研
+究
+2022年第44卷第3期
+的产生，抑制胃癌组织内新生血管的生成，从而发挥抑
+制胃癌发生发展的作用。GS。CK抗胃癌作用的多靶点
+和高活性为拓宽抗胃癌药物提供了更多思路。
+2．6其他人参皂苷抗胃癌作用及机制
+人参皂苷Rd( GS．Rd) 同样是二醇型人参皂苷在
+人体肠道内的主要代谢产物之一，具有多种生物活性。
+研究表明[ 48】GS．Rd可明显抑制胃癌细胞的增殖，作用
+48h时对SGC．790l 和MKN．45两种胃癌细胞的I C50
+分另0为( 86．96士O．23) }Ig／mL和( 71．70士2．16) pg／mL，
+诱导细胞发生G0／G1期阻滞，通过增加半胱天冬酶家
+族成员caspase．3、caspase一9蛋白和bax／bcl ．2蛋白的
+比值以及降低周期蛋白D1的表达来促进细胞凋亡。
+王小平等[ 49] 研究发现，人参皂苷R- o( GS—Ro) 可诱导
+MFC胃癌细胞阻滞于G0／G1期，当浓度在∞6¨ 蛳【1L
+范围内时，Gs- Ro对啪陀细胞的增殖抑制率由( 14．5士
+1．18) ％增长至( 64．0士3．63) ％，且呈浓度依赖性。人参
+皂苷F2( GS．F2) 对人胃癌细胞SGC7901在体内体外
+均有良好的抑制作用[ 50] ，当作用时间为24 h时，GS．
+F2对体外SGC7901细胞的I C50为( 49．9士4．2) uM，
+使细胞受损发生萎缩，表现出较强的细胞毒性。对于胃
+癌异种移植的小鼠模型，当给药浓度为1．6 m眺g时，
+肿瘤体积增长降低47．14％。
+GS．Rd对胃癌细胞的抑制作用主要源自其对凋
+亡蛋白以及周期蛋白的调控；GS．Ro作用于胃癌细胞
+的相关实验相对较少，其对胃癌细胞的抑制作用是通
+过诱导细胞发生周期阻滞，提升细胞增殖抑制率实现
+的；GS—F2对胃癌细胞的体外抑制作用主要是通过诱
+导ROS积累，激活线粒体凋亡途径，增加caspase．3、
+caspase一9蛋白表达来促进细胞凋亡的。对胃癌的体内
+抑制作用则是诱导ROS积累、激活ASKl 腻K信号
+通路，从而诱导细胞凋亡。人参皂苷种类繁多，抑制胃
+癌细胞的机制和效果也各有不同，这将为以后的研究
+带来更多的可能。
+3前景与展望
+胃癌是如今常见的恶性肿瘤之一，寻找有效的治
+疗方法多年来一直是科学研究的焦点。目前胃癌的治
+疗方法中较为常见的是手术治疗、化疗和放疗等，但是
+这些方法其中一部分免不了对身体造成巨大的损害，
+手术治疗并不能控制肿瘤后续的复发和转移，化疗和
+放疗的毒副作用又比较大，在杀伤肿瘤细胞的同时对
+正常细胞也有较大的损伤，这些方法的预后效果和生
+存率都不是十分理想[ 51] 。因此，找到新的或可与新辅
+助治疗法联合应用的胃癌治疗方法和药物变得尤为重
+要。
+人参皂苷具有良好的抗肿瘤活性，对胃癌的发展
+具有良好的控制作用。通过对文献的整理、归纳和分拆
+得知人参皂苷对胃癌细胞的干预作用是多途径多靶点
+的，可调节细胞凋亡相关蛋白、肿瘤抑制因子和细胞侵
+袭相关蛋白等多种分子以及基因的表达，例如LncRNA
+和VEGF的表达，进一步调控细胞内MAPK、I I l i R．125b／
+S1’ AI①13／1忸U1和Notch 1等多条信号通路中蛋白分
+子的表达，对胃癌细胞的凋亡、侵袭和转移等过程产生
+影响，有效抑制胃癌细胞的增殖，促进细胞凋亡，从而
+达到控制病情发展的目的。因此，研究表明单独使用人
+参皂苷或与化疗药物联合使用都可表现出较好的抑制
+胃癌发生发展的作用。进一步将人参皂苷开发成单体
+药物，或开发成与其他化疗药物联合使用的辅助药物，
+应用于胃癌的治疗领域，可能会有较好的应用前景。
+参考文献
+[ 1] 于雪妮，冯小刚，张建民，等．人参化学成分与药理作用研究
+新进展[ J 】．人参研究，2019，31( 1) ：47．51．
+[ 2】LUOQ，Li u J ，Wal l gHL，et al ．St nl ct l l ml chamc跏刎onof 咖
+seng ol i 90pept i des and ant i 吨gi ng pot ency eVal 删on证Caenor-
+hab缸i s el egans[ J 】．RSC Adv锄ces，2020，10( 65) ：39485．39494．
+[ 3】黄超．人参及其炮制品对小鼠耐缺氧和抗疲劳能力的作用分
+析[ J ] ．临床合理用药杂志，2019，( 12) ：101．102．
+[ 4] 任国庆，邹晓峰，韩亚男，等．人参全草免疫调节作用研究简[ J ] ．
+中国现代中药，2019，21( 1) ：54—61．
+[ 5】WANXL，J i nX，RenYH，et a1．Ant i t umor ef f bct s andmech—
+ani smof prot ei n丘om，切聍饿g泐印g C．A．Meyer on humaI l
+breast
+caI l cer cel l
+1i ne MCF- 7叨．PhanI l acognosy MagaZi ne，
+2019，15( 65) ：715．
+[ 6] 张洁．人参皂苷在心血管系统药理作用的研究进展[ J ] ．中医
+临床研究，2019，11( 7) ：141- 144．
+[ 7】孔令提，宋春丽，石庆平．人参皂苷对脑缺血再灌注损伤的保
+护机制研究现状[ J ] ．中国药房，2019，30( 17) ：2445．2448．
+[ 8】郑丽娜，赵大庆，赵文学，等．人参总蛋白对AB( 25．35) 诱导
+sH．SY5Y细胞凋亡的机制研究[ J ] ．食品研究与开发，2019，
+40( 5) ：6—11．
+[ 9] 权恺，刘群，李萍，等．人参皂苷抗癌活性的最新研究进展[ J ] ．
+医学研究生学报，2015，28( 4) ：427—431．
+【10] 魏朝辉，张文军，赵艳明，等．人参皂苷佐治晚期胃癌效果观
+察[ J ] ．临床合理用药杂志，2015，8( 16) ：70．71．
+[ 1 1] WI SEMANM．The second worl d cal l cer research Fund‰eri ．
+caI l i nst i 乜l t e f 研cancer research expert r印ort．Food，删ti on，
+physi cal
+act i vi 劬aI l d me preVent i on of
+caI l cer：a gl obal
+per—
+specti ve．【J ] ．Proc Nu打Soc，2008，67( 3) ：253．256．
+[ 12】SHI KAl l A K，KI YoHARA Y，KuB0 M，et a1．A prospect i ve
+万方数据
+第3期
+王冬雪，等：人参皂苷抗胃癌作用研究进展
+123
+st udy of di et ary sal t i nt ake and gas仃i c cancer i nci dence i n a
+def i ned J apaIl ese p叩ul aI i on：The Hi sayaIIl a咖dy[ J ] ．Int J Can-
+cer，2006，119( 1) ：196．2叭．
+[ 1 3] J EONGSEON K，SOHEE P' BYUNG．H0 N．Gast ri c cancer
+and sal t pref erence：apopul at i on- based cohonsmdy i n Kl orea【J 】．
+Ameri can J ouHml of Cl i I l i cal Nutri ti on，2010，91( 5) ：1289．1293．
+【14] TSUGANE S，SASAZUKI S，KOBAYASHI M，et a1．Sal t and
+sal t ed f ood i ntal 【e a11d subsequent ri sk of gast ri c cal l cer among
+mi ddl e- agedJ 印anese men and women[ J ] ．Br J Cancer，2004，
+90( 1) ：128．134．
+[ 1 5】LARSSON S C，BERGKVI ST L，WOLK A．Fmi t and veg．
+e协bl e consumpt i on and i nci dence of gast ri c cancer：A pms-
+pect i Ve study[ J 】．Cancer Epi demi ol Bi omarkers Prev，2006，
+15( 10) ：1998．2001．
+[ 1 6】WARRENJ R，MARSHALL B．Uni dent i f i ed curved baci l l i
+on gasmc epi mel i 啪i Il act i Ve chroI l i c gastri ti s[ J 】．Lanc吒1983，
+321( 8336) ：1273．1275．
+[ 17] ALI POUR M．Mol ecul 2Lr mechani smof hel i cobact er pyl ori -
+I nduced gast ri c caIl cer[ J ] ．J oumal of Gast roi nt est i nal CaI l cer，
+2021。52( 1) ：23- 30．
+【1 8】HERRERA v，PARSONNET J ．Hel i cobact er pyl ori aIl d gas-
+t ri c adenocarci noma[ J 】．Cl i ni cal Mi cmb—i ol ogy and I nf ect i on，
+2009，15( 11) ：971—976．
+[ 19】AGUD0 A，CANTOR K P，CHANP C，et a1．I ARC worki ng
+grol J p on me eval uat i on of carci nOgeni c ri sks t o humans．I n—
+gest ed ni t rat e aI l d ni t ri t e，and cyanobact eri al pept i de toxi ns[ J 】．
+I arc Monogr Eval Carci nog Ri sks H啪，2010，94：411—412．
+[ 20】LADEI RAS．LOPES R，PEREI RA AK，NOGUEI RA A，et a1_
+Smol 【i ng锄d gast ri c c锄cer：syst emat i c revi ew aI l d me珏anal y-
+si s of cohort studi es[ J 】．Cal l cer Causes Con缸Dl ，2008，19( 7) ：
+689．701．
+[ 21] 李洋．吸烟与胃癌的关系[ J ] ．全文版：医药卫生，2016，8( 4) ：
+186．
+【22】王静雷，杨一兵，耿云霞，等．1990—2017年中国胃癌发病、
+患病及死亡状况趋势分析[ J ] ．中国慢性病预防与控制，2020，
+28( 5) ：321．325．
+[ 23】梁文全，郗洪庆，乔岫，等．基于单中心万例胃癌专病数据库
+的胃癌外科临床病理信息分析[ J 】．中华胃肠外科杂志，2020，
+23( 11) ：1051．1058．
+[ 24] CHENP，LI NY，ZHENG K，et a1．Ri sk eact ors of gas仃i c can-
+cer i n Hi gh—ri sk regi on of Chi na：A Popul at i on- based Case-
+con仃ol
+st udy[ J 】．Asi 粕Paci f i c j o啪al
+of cancer prevent i on：
+APJ CP，2019，20( 3) ：775- 781．
+[ 25】RAUSEI
+S，LI ANOS GD．1' reat ment of Gast ri c Cancer[ J ] ．
+Cancers，2020，12( 9) ：2627．
+[ 26】季加孚，季鑫．胃癌治疗的新进展[ J ] ．循证医学，2011，11( 2) ：
+82．86．
+[ 27] SExTON R E，HALLAK MNA H，DI AB M，et a1．Gast ri c
+cancer：a comprehensi Ve reVi ewof current and f ht ure t I - eat ．
+ment strategi es[ J ] ．Cancer
+and Met ast asi s Revi ew，2020，39
+( 4) ：1179- 1203．
+[ 28】xI E L，SU x，zHANG L，et a1．FGFR2 gene ampl i f i cat i on i n
+gast nc cal l cer predl ct s sensl t l Vl 哼t o t11e sel ect l Ve FGFR l nhl bl -
+t or AZD4547[ J 】．Cl i Il i cal Cal l cer Research An 0mci al J o啪al
+of t he Ameri can Associ at i on f or Cancer Research，20 1 3，1 9
+( 9) ：2572．2583．
+[ 29] HUANGM，Ma X，SHI H，et a1．R～M83D，a mi crot ubul e—as．
+soci at ed procei I l ，promot es t umor growI t l aI l d pmgressi on of hu-
+mal l gaSt ri c cancer【J ] ．Oncot鹕鸭20l 7，8( 43) ：74479—74493．
+[ 30】汪彦君，胡海燕，王婷，等．人参皂苷R93对胃癌( SNu．216)
+细胞的生长抑制作用[ J ] ．人参研究，2019，31( 2) ：18．19．
+[ 3 1] YANGQ，CAI N，CHE D B，et a1．Gi nsenosi de R93 i nhi bi t s
+t he bi ol ogi cal act i vi 哆of SGC- 790l [ J 】．Food Sci ence&Nu．
+tri ti on，2020，8( 8) ：41 5 1．4l 58．
+[ 32] 楼亭，胡学谦，张婷素，等．人参皂苷R93调控LncRNA
+CDKN2B．ASl 对胃癌细胞抑制作用的研究[ J 】．新中医，2020，
+52( 17) ：1．4．
+[ 33] 唐立，徐惠亮，郝双影．人参皂苷R93调控l ncRNA．LI NPl
+抑制胃癌细胞生长的作用机制[ J ] ．医学研究生学报，2020，
+33( 11) ：1157．1160．
+【34] LI U P，ZHANGMM，NI UQ H，et a1．Knockdown of l ong
+non—codi ng I 己NA ANⅪL i nhi bi t s t umori genesi s
+i n human
+gast ri c cancer cel l s Vi a mi croRNA一99a- medi at ed down—regu·
+l at i on of BMl l [ J ] ．Brazi l i an J ounl al of Medi cal and Bi ol og．
+i cal Research，2018，51( 10) ：1．10．
+[ 35】孙义长．人参皂苷R93联合新辅助放化疗对胃癌患者免疫
+功能及生存率的影响[ J ] ．现代诊断与治疗，2020，31( 6) ：
+894．895．
+[ 36】赵翔宇，何振宇，宰守峰．人参皂苷R95对胃癌细胞周期和
+侵袭的影响及其机制[ J 】．中国应用生理学杂志，2020，36( 1) ：
+51．55．
+【37] 李为，刘伟，邹君君．人参皂苷R95通过mi R．125b／STARDl 3／
+NEUl 信号通路对胃癌BGC．823细胞侵袭迁移的影响[ J ] ．
+中国实验方剂学杂志，2018，24( 22) ：138．142．
+[ 38] 李为，刘伟，邹君君．人参皂苷R95对胃癌BGC一823细胞
+增殖凋亡及凋亡相关因子的影响[ J ] ．中国中医急症，2018，
+27( 6) ：955．958．
+[ 39】卓少华，丘远聪，郑俊德，等．人参皂苷R95调控l ncI 斟A．
+PCATl 2抑制胃癌细胞生长实验研究[ J ] ．陕西中医，2020，
+4l ( 4) ：437．439．
+[ 40] SHANGY，CAI Q Z．I nhi bi t i ng e丘bct s and i Its mechani sms
+of gi l l senosi de Rgl
+on humaI l gaSt ri c cancer ceU l i ne i 11 Vi nD[ J 】．
+Chi nese J oumal of CeI l Bi ol ogy，2011，33( 3) ：269—274．
+[ 41] 赵保胜，刘洋，徐暾海．人参皂苷R91对人胃癌BGc．823的
+抑制作用研究[ J ] ．中国临床药理学与治疗学，2011，16( 4) ：
+361．365．
+[ 42】李靖，钱军，贾建光，等．四君子汤对胃癌细胞株sGc一7901
+侧群细胞增殖的影响[ J ] ．中国中西医结合杂志，2014，34( 6) ：
+704．709．
+[ 43] QMNJ ，LI J ，J 认J
+G，et a1．Gi nsenosi de- Rl l 2 i 11l l i bi ts prol i f ．
+erat i on a11di nduces印叩t osi s of h啪a11 gas倒c caf l cer SGC一790l
+si de popul at i on cel l s[ J ] ．Asi an Paci f i c J ol l nl al of Cancer Pre-
+venti on，2016，17( 4) ：1817．1821．
+( 下转第128页)
+万方数据
+128
+特
+产
+研
+究
+2022年第44卷第3期
+[ 2】白也明．刺五加多糖的分离纯化和结构研究[ D] ．长春：东北
+师范大学，2015．
+[ 3] 胡勇超，符群．刺五加不同部位的乙醇提取物成分分析[ J ] - 森
+林工程，2018，34( 6) ：1．6．
+14 HU H，LI H，HAN M，et a1．Chemi cal modi f i cat i on and aIl ti ox-
+i dant act i vi 曰of t he pol ysacchari de行om爿c玎玎砌Dp日"nx l eu．
+conhi zus[ J ] ．Carbohydr Res，2020，487：1 07890．
+[ 5] HU H B，LI ANG H P，LI H M，et
+a1．I soI at i on，puri f i cat i on，
+charact eri zat i on aI l d aI l t i oxi daI l t act i v岫of pol ysacch撕des
+丘Dmtl l e st embarks of 爿c口行砌叩硎饿l euco玎】1i zus【J 】．Carbo-
+hydr Pol ym，2叭8，196：359- 367．
+[ 6】SUN D，CHEN J ，HU H，et a1．爿c册历叩硎砒sP船f f c∞埘pol -
+ysacchari de suppressi ng prol i f erat i onand met ast asi s of me hu—
+maI l non．smal l cel l l l 】ngcancerNCI ．H520cel l si s associ at edwi m
+wn邶- cal }eni l l si 印a1吨[ J 】．Ne叩l asma，20l 9，66( 4) ：555· 563．
+【7】佟潇禹．刺五加果多糖的提取纯化及其体外抗肺癌活性研究[ D] ．
+哈尔滨：黑龙江大学，2021．
+[ 8] 李利红，李凯，李向辉，等．刺五加多糖的提取工艺研究[ J ] ．饲
+料研究，2019，42( 6) ：93．96．
+[ 9】MENG Q，PAN J ，LI U Y
+et a1．Ant i - nunour e疵cts of pol -
+ysacch捌de exn．acted缸肋爿c绷扔掣讲蹦删硝c倒嬲and cel l -
+medi at ed i mmul l i t) r[ J ] ．Exp Ther Med，2018，15( 2) ：1694—1701．
+[ 10】于淼，王冰，付叶珊，等．响应面法优化刺五加根废弃物多糖
+提取工艺的研究[ J 】．中草药，2019，50( 7) ：1610．1613．
+[ 1l 】李俊萍，郭盛磊，王谦博，等．不同产地刺五加中多糖含量测
+定、聚类分析及其超声提取工艺优化[ J ] ．中国药房，2019，30
+( 18) ：2541- 2545．
+[ 12] 刘冉，郝晓亮，方志刚．正交试验优化刺五加多糖超声提取
+研究[ J 】．农业技术与装备，2021( 5) ：20—21+23．
+[ 13] 张小飞，果秋婷．Box—Behnken响应面法优化微波提取刺五
+加多糖工艺[ J 】．中国药师，2015，18( 9) ：1502．1505．
+[ 14] 李天金，翟树平，李洁，等．刺五加多糖提取纯化工艺的优化[ J 】．
+安徽农业科学，2009，37( 17) ：7977．7980+8029．
+[ 15] HUH，LI ANGH，WU Y．I sol at i on，puri f i cat i on and s仃uct ural
+cJ l l 坍淞【J J ．Carbohydr Pol ym，2015，127：94- 100．
+[ 16】刘俊秋，高语枫，郑佳怡，等．三叶青化学成分及其抗肿瘤作
+用研究进展[ J ／0L] ．中国实验方剂学杂志，1．16[ 2022．03．08] ．
+DOI：10．13422／j ．c幽．sy旬x．20211855．
+[ 17】牛淑睿，石芸，杨鑫，等．半枝莲化学成分的抗肿瘤作用研
+究进展[ J 】．中国药房，2021，32( 15) ：1915．1920．
+[ 18】陈高，杨晓婷，王曦，等．车前子多糖对乳腺癌细胞增殖、迁移和
+侵袭的影响及其机制[ J 】．中国药房，2021，32( 15) ：1848．1853．
+[ 19] 陈靖昀，于书剑，肖冬．刺五加多糖对肿瘤干细胞的作用研
+究【J ] ．中国实验诊断学，2019，23( 7) ：1233．1238．
+[ 20] 靳神，肖锋，武均宜，等．刺五加多糖下调Sun，i vi n蛋白表达
+诱导HeLa细胞凋亡[ J ] ．中成药，2016，38( 4) ：902．904．
+[ 21】赵俊霞，闫永鑫，王彦玲，等．刺五加多糖通过EI Ⅸ信号转
+导途径诱导H446细胞G2／M期阻滞【J 】．基础医学与临床，
+2010，30( 1) ：59．62．
+[ 22】周丽菁，龙婷婷，周星，等．刺五加多糖对Lewi s荷瘤小鼠抗
+肿瘤免疫调节作用及机制的研究[ J ] ．中国免疫学杂志，2017，
+33( 6) ：849．853+858．
+【23】孟庆龙，刘雅婧，崔文玉，等．刺五加多糖抗炎作用的研究[ J 】．
+时珍国医国药，2019，30( 11) ：2621．2624．
+[ 24] 张娜，赵良友，毛迪，等．刺五加多糖调控炎性因子对小鼠免
+疫性肝损伤的保护作用[ J ] ．中国中药杂志，2019，44( 14) ：
+2947．2952．
+[ 25] 张海燕，熊莉华．刺五加多糖对糖尿病大鼠代谢功能的影响
+及作用机制【J 】．北华大学学报( 自然科学版) ，2021，22( 3) ：
+333．337．
+[ 26】盛瑜，白丽丹，段懿涵，等．北虫草刺五加组合物抗疲劳活性
+及机理研究[ J ] ．食品研究与开发，2020，41( 20) ：15．21．
+[ 27】XI A Y G，HUANGY X，LI ANG J ，et a1．Comparabl e st udi es
+of 觚o pol ysacch撕des仔oml eaves of 爿c口胛历Dp口月似sP玎f f cD—
+s埘：S仃uctL鹏and锄廿o】【i dati on[ J ] ．hl t J Bi ol Mac枷l ，2020，
+147：350．362．
+[ 28】孙守坤，宋涛，卢义．刺五加酸性多糖对免疫低下小鼠的免
+疫调节作用[ J 】．免疫学杂志，2018，34( 10) ：863．868．
+charact erl zat l on ot pol ysacchande丘om爿∞甩f 矗印口n础6阳一
+· · ● ‘ ‘ ’ ‘ ● ．-· H。‘ ’ · ‘ I● 。‘ ‘ 。‘ · · · ● ’ 。‘ _● ．-· ● ‘ ‘ 。。● · _· ∥ ‘ 。' ．．· _’ ’ ‘ 1● ．_‘ ● ’ 。‘ 。_．-· ● ’ ‘ 。‘ ‘ ．· ∥ ‘ 。‘ ．，● ● ’ 1‘ ’ ● ．．· -● 。‘ ‘ 。⋯● ‘ ’ 1‘ 。．．· ● ‘ ’ ’ ‘ ● ，．· ● _’ ’ 1● ．．t● ● ’ ’ ‘ ● ，“ ‘ 。‘ ‘ ’ -。● ∥ ‘ ’ 。．_· -‘ 。’ ‘ ● ．．· ‘ ‘ ‘ ’ ’ 。．．· ⋯‘ 。● _．· ● ’ ‘ ’ ’ ’ -_· -’ 。’ 。● ．．· ● 1‘ ’ ‘ 。I．∥ ’ 。’ ● _．_-● ‘ ’ ‘ -．t● ‘ ‘ 1‘ 。．．· ● 。’ ’ 。●
+( 上接第123页)
+gi nsenosi de Rd i n gast ri c cancer vi a up—regul at i on of caspa一
+[ 44] 李靖，郑旭薇，贾建光，等．人参皂苷Rh2对低浓度的奥沙
+8e。3 and caspase。9[J 】．Ph锄azi e，2020，75(4)：147· 150．
+利铂诱导人胃癌sGc．7901侧群细胞凋亡的增敏作用[ J ] ．蚌
+[ 49】王小平，王鹏飞，白吉庆，等．人参皂苷R0对胃癌细胞砌Fc
+埠医学院学报，2018，43( 5) ：561．566+572．
+增殖和凋亡的影响[ J 】．华西药学杂志，2017，32( 5) ：499- 501．
+[ 45] 胡双双，闰克敏，王娇娇，等．人参皂苷Rh2对胃癌细胞
+[ 50] MAOQ，ZHANGP H，wANG Q，et a1．Gi nsenosi de F( 2) i n_
+SGC7901／ADR耐药敏感性的影响[ J 】．中草药，2018，49( 17) ：
+duces印叩t osl s mhumor gas仃l c carcl noma cel l s t hr01唱h re‘
+4113．4117．
+act i Ve oxygen speci es- mi t ochon“ a pat hway and modul at i on
+[ 46】李波，毛莉，董霞，等．人参皂甙肠道代谢物CompoundK对
+of ASK一1／ⅢK si gI l aI i ng cascadei nVi 仃o a11di nVi Vo[ J 】．Phy-
+人胃癌细胞增殖及凋亡相关基因表达的影响【J 】．中国实用
+t omedi ci ne I nt emat i onal
+J oumal
+of Phyt ot l l er印y&Phyt o-
+医刊，2叭4，41( 5) ：12．14．
+phanl l acol ogy，2014，2l ( 4) ：515- 522．
+[ 47] 邓晶，蒋永新，寸英丽，等．人参皂苷CK对胃癌细胞株sGG7901
+[ 51】LORENz0 F，ENRJ c0 V GI uSEPPE A，et a1．Local l y ad-
+及其内源性ⅦGF的影响[ J 】．肿瘤防治研究，2011，38( 1) ：
+vanced gas仃0- oesophageal
+cancer：recent t hempeut i c advat l —
+17—20．
+ces a11d research di recti ons[ J 】．cal l cer Trea廿I l emRevi ews，2018，
+[ 48] TI ANY Z，LI U Y P’
+TI ANS C，et a1．Ant i t umor act i vi 西of
+69：90．100．
+万方数据

@@ -1,0 +1,326 @@
+· 702 · 
+中华老年多器官疾病杂志
+2014 年 9 月 28 日 第 13 卷 第 9 期
+Chin J Mult OrganDis Elderly，V o1．13，No．9，Sep 28，2014 
+基础研 究 · 
+人参皂苷R gl 对阿尔茨海默病大鼠脑片模型tau蛋白磷酸化的影响 
+李 
+明 ，李 
+玺 ，权乾坤 ，袁海峰2，李 
+源 ，王 
+娟4 
+( 西安交通大学 医学院第二附属医院 ： 
+老年病科 ， 
+脑病科 ，西安 710004 ； 
+西安市 电力 中心医院脑病科 ，西安 710032 ；
+ 
+第 
+四军医大学西京医院检验 中心 ，西安 710032 ) 
+【摘 
+要 】目的 
+观察人参皂苷Rgl对阿尔茨海默病 ( AD ) 大鼠脑片模型中磷酸化tau蛋白 ( P．tau ) 及钙调神经磷酸酶 
+( CaN ) 表 达的影 响 。探讨 人参 皂苷R gl 是否通 过上 调CaN表达从 而抑制 AD模 型大 鼠脑 片tau蛋 白磷 酸化 。方法 
+制备 5 
+周 龄雄 性SD大 鼠脑 片 ( 含 皮质 和海 马 ) ，随机分 为4组 ：对 照组 、模型 组和人 参皂 苷R gl 组 ，人参 皂苷R gl + 他克 莫司 
+( FK 506 ) ( 一种CaN抑制剂 ) 组 ，每组10张脑片。各组脑片首先置于人工脑脊液中孵育1h，之后人参皂苷Rgl 组和人 
+参 皂苷R gl + F K506组 分别加 入人参 皂苷R gl 作用 2h ，然 后除 对照组 外 的各 组分别 加入 冈 田酸 作用 3h。干 预结束后 脑片 
+经多聚甲醛固定后做冰冻切片 ，采用免疫组织化学染色 、图像分析技术等方法检测各组大鼠脑片P．tau、CaN 的表达水 
+平 。结果
+与对 照组 比较 ，模型组 各脑 区P—tau表达水 平增加 ( P < 0．05 ) ，CaN表 达水平减 少 ( 尸< O．05 )；与模 型组 比较 ， 
+人 参皂 苷Rg l组 各脑 区P．tau表达 水平减 少 ( P < O．05) ，C aN表 达水 平增加 ( P < 0．05 ) ；与人参 皂苷R gl 组 比较 ，人参皂 
+苷 Rgl + F K 506组 P．tau表达水平 增加 ( 尸< 0．05 )，C aN表 达水 平减少 ( P < 0．05 o 结论 
+人参皂 苷Rg l 可能通 过上调 CaN 
+蛋 白表 达途径 抑制A D大 鼠脑 片模 型tau蛋 白磷 酸化 ，从而 发挥抗 痴呆作 用 。 
+【关键词 】人参皂苷Rgl ；阿尔茨海默病 ；磷酸化tau蛋白；钙调神经磷酸酶 
+【中图分类号 】 R 745．7 
+【文献标识码 】 A 
+【DOI 】 10．3724／SP．
+J ．1264．2014．000162 
+E f f ect of  g en s en os id e R g l  on t au p h 0 s p h 0 r y l a ti0 n in r a t b r a in slic e m od el of  
+A lz h ei m er ’ s d is ea s e 
+L I Ming ，L I X i ，QUA N Qian。K un ，Y UA N Ha1．Feng ，L I Y uan ，WA N G J uan 
+( 1Department of Geriatric s， Depar tment of  Encephalopathy, the Second A fi liated Hospital，C ollege of  M edicine，X i’an J iaotong 
+Univ ersity, X i’an 7 1 0004，C hina；
+ D epartment of  E ncepha1opathy，X i’ an Central H ospital of  Electrical P ower Inc，X i’an 7 1 0032， 
+C hina；
+ C enter for Laboratory Medicine，X ij ing Hospital，the Fourth Military Medical Univ ersity, X i’ an 710032，China) 
+【A bstract 】 o bjective 
+To determine the effect of  ginsenoside Rgl on the expression of phosphorylated tau protein(P—tau) and 
+calcineurin ( CAN) in a rat brain slice model of  A lzheimer’s disease (A D) induced by okadaic acid (OA )，and to investigate w hether 
+g ensenoside R g l inhibits tau phosphorylation throug h up—regulating CaN in the process．M ethods 
+B rain slices (containing cerebral 
+cod ex  and hippocampus) in 400 gm thi ckness were obtained from 5-week—ol d S D r ats，and then randoml y di vi ded into control ，model ，
+ 
+ginsenoside R gl and ginsenoside R gl + tacrolimus (FK 506，CaN inhibitor) groups，with 10 slices in each group．All these brain slic es 
+w ere cultured w ith artifi cial cerebrospinal fluid (A C SF ) fi rstly, and then ginsenoside R gl with or without F K 506 was added into the 
+A C S F of  the c orresp on din g grou ps fo r 2 h ．T h en ，O A  w as ad mi ni strated in to A C SF  of  m od el，gin seno sid e R g l  and gin seno si de 
+R g 1+ FK 50 6 gro up s s ep arately  fo r 3 h to i ndu ce tau p ho sph ory lati on to p rep are A D  mo de1．T h ere w as n o any  i nterv enti on fo r the c on tro l 
+g roup ．E xp res si on of  P - tau and  C aN  protein s in  b rai n sl ic es as determ i ned by  i mm un ohi stoc hem ic al stain in g，an d th e resu lts w ere 
+analy z ed by  i mag e ac qu isi ti on an d analy si s s y s tem ．R es ul ts 
+C om p ar ed w i th th e c on trol gr oup ，the l ev el of  P —tau  p rotei n w as 
+significantly higher 
+< 0．05) and that of C aN protein was obv iously lower 
+< O．05) in the model group ．Compared w ith the model 
+gr oup，the expression of  P —tau w as mark edly lower (P < O．0 1) and that of C aN  protein was remarkably higher 
+< 0．05) in the 
+ginsenoside Rgl gr oup．C ompared w ith the ginsenoside R gl gr oup，the ex pression of P—tau w as higher (P < 0．01) and the expression of 
+C aN protein was lower (P < 0．
+05) in the ginsenoside R gl +FK 506 group ．C onclusion 
+Ginsenoside R gl inhibits tau phosphorylation 
+p rob ably  by  enhanc ing C aN  expres si on i n rat brain sl ic e m odel of A D ，an d thu s exerts anti· dem en ti a ef ec t．
+ 
+【K ey words 】 gensenoside Rgl ；Alzheimer’ s disease；phosphorylated tau protein；calcineurin 
+This work was supported by the Tackling Proj ect of  Science and Technology Development of  Shaanxi Province 
+收稿 日期：2014—06- 03；修 回日期：2014—07—11 
+基金项 目：陕西省科技攻关计划项 
+2007K 16—07 ( 5 ) ]；陕西省中医药管理局基金项 目 ( 2005030) 
+通信作者：李
+玺，E ．mai l：li xi2100@sohu．com 
+中华老年多器官疾病杂志
+2014 年 9 月 28 日 第 l3 卷 第 9 期
+Chin J Mult OrganDis Elderly, V o1．13，No．9，Sep 28，2014
+· 703 · 
+[2007K 16-07(5) ] and the Proj ect of Shaanxi Provincial Department of
+Traditional Chinese Medicine (2005030) 
+Corresponding author：L I X i．E —mail．
+"lixi2 100@sohu．com 
+阿尔 茨海默病 ( Alzheimer’S disease，AD ) 的核 
+心 病 理 变化 之 一 是神 经 原纤 维 缠结 ( neurofi brillary 
+tangle，NFT ) 形 成 ，其 产生原 因是tau蛋 白过度磷酸 
+化致使微管正常功能丧失所致【l】。并且NFT 的数 目与 
+AD患者的痴呆程度密切相关 [21。研究表明 ，钙调神 
+经磷酸酶 ( calcineurin，CaN ) 的活性下降在A D的tau 
+蛋 白异常磷 酸化 中发 挥了重要 的作用[3】。而且 ，CaN 
+活性 缺 陷所致 的tau蛋 白异常磷 酸化 是一个 可逆 的生 
+理过 程 ，CaN激 活剂有望在 这一过程 中扮演 重要 的角 
+色。人参皂苷Rgl 是人参的主要成分之一 ，有增强记 
+忆和认知功能的作用【4】。目前研究 已证实人参皂苷 
+Rgl 可 以通 过 抑 制 细 胞 周 期 蛋 白依 赖 性 激 酶 5 
+( CDK 5 ) 的表达 L5J ，下 调蛋 白激 酶A ( PK A ) 的表达 
+】等途径以抑制tau蛋白磷酸化 ，但其对CaN 的研究未 
+见报道。因此 ，本实验采用磷酸酯酶抑制剂 冈田酸 
+( okadaic acid，OA ) 孵 育大 鼠脑片制备 tau蛋 白过 度 
+磷酸化AD大 鼠脑片模型，观察人参皂苷Rg1对AD大 
+鼠脑 片模型 中磷 酸化tau蛋 白 ( phosphorylated tau 
+protein ，P—tau ) 及 CaN表达 的影 响 ，拟 阐明人参 皂苷 
+Rgl 是否通过上调CaN蛋白表达途径以降低AD大鼠 
+脑 片模型 中P．tauTJ~平 ，从 而发挥抗 痴呆 作用 。 
+1
+材料 与方 法 
+1．1 
+动 物 
+5 周 龄 健 康 雄 性 SD 大 鼠 10 只 ，体 质 量 110 ～ 
+130g ，清洁 级 ，购 自西 安交通 大 学 医学 院实验 动物 
+中心 ，合格 证号 为SCX K ( 陕 ) 2007—001。 
+1．2
+主 要 试 剂 
+人参皂苷Rgl ，纯度98．99％，吉林宏久生物科技 
+股份有 限公司 ；OA ，美 国Alexis生物制 剂公 司 ；CaN 
+多克隆抗体 ，北京博奥森生物技术有限公司；他克莫 
+司 ( tacrolimus，FK 506 )，爱尔兰Fuj isawa~_} 司 ；P．tau 
+( Ser202 ) 多克隆抗体及SABC试剂盒、抗体稀释液 ，
+ 
+武汉博士德生物工程有 限公 司。 
+1．3
+主 要 仪 器 
+振动切片机 ( 上海之信仪器有限公司 ，型号 ：
+ 
+ZQP一86 ) ；冰冻 切 片 机 ( 德 国Microm公 司 ，型号 ：
+ 
+HM500 )；图像处理与分析系统 ( 德国Leic讼 司，型号 ：
+ 
+Qwin550c w )；6孔培养板 ( 美国Millipore公司 )。 
+1．4
+实验 方法 
+1．4．1 
+AD 大鼠脑片模型制备 
+SD大 鼠经水合氯醛 
+麻醉后，断头取脑，快速置于0～4℃的人工脑脊液冰 
+水混 合物 中 ，振 动切片机 以振 幅8档 ，速度 3档行冠状 
+切片所 切脑 片含皮 质和海马 ，平 均厚度400gm。挑选 
+形态较好 的脑 片 ( 含 皮质和海 马 ) 置人盛有人 工脑脊 
+液 的6孔 板 中孵 育 ，温度 ( 32．0 ± 0．5 ) ℃，整个 过程 
+人工脑脊液中持续通入混合氧气 ( 95％0 2+ 5％CO2 )。 
+人工脑脊液成分 ( mmol／L )：NaC1 150， CaC12 2 ，
+ 
+MgSO4 1．2 ，K H2PO40．5，K 2HPO4 1．5，葡萄糖 l 0， 
+p H 7 ．4 。 
+1．4．2
+分组及干预
+脑片随机分为4组 ：对照组 、模 型 
+组 、人参皂 苷R gl 组 、人参皂苷Rgl + FK 506组 ，每组 
+10张脑片。人工脑脊液孵育1h，人参皂苷Rgl 组加人 
+人参皂苷Rgl 240~tmol／L ，人参皂苷Rgl + FK 506组加 
+入 人参皂 苷R g1 240gmol／L 、FK 506 1．
+25~tmol／L ，培养 
+2h ，然后模 型组 、人参 皂苷 Rgl 组和人参 皂苷R gl + 
+FK 506组 分别加入 OA ( 1 fl mol／L ) 孵 育3h。对照组不 
+加任何处 理因素 。 
+1．4．3 
+P—tau、CaN蛋白表达检测
+干预结束后 ，各 
+组 大 鼠脑 片经 4％多聚 甲醛 固定 4h ，然后转 入30％蔗 
+糖溶液浸泡至沉底 ，做冰冻切片 ，切片10gm厚，每 
+张 切片 含皮层 、海 马 、齿状 回。采用 免疫组 化染 色 
+( SABC法 ) 分 别 检测 各 组脑 片皮 质 和海 马P tau 、 
+CaN 的蛋 白表 达情 况 。P—tau ( Ser202 )、c aN一抗 浓 
+度分别为1 ：1000和 1 ：600 ，染色步骤按说 明书进 
+行 ，PBS代替一抗作阴性对照。采用图像处理与分 
+析 系统检 测脑 片 阳性反应 物质 的平 均灰 度值 ，每 张 
+切 片 同一 区域 中 ，随机 选取6个 视野 ，检测 面积相 同 ， 
+取其平均灰度值代表该切片 目标区域的蛋白表达水 
+平。灰度值越低 ，阳性表达量越高 ，反之灰度值越 
+高 ，阳性表 达量越 低 。 
+1．5
+统计 学处理 
+数据统计分析使用SPSS13．0统计软件 ，正态性 
+检 验 采 用 Shapiro—Wilk 检 验 ，方 差 齐 性 检 验 采 用 
+L ev ene检 验 ，多组 间 比较采 用one way ．ANOVA ，组 
+间两两 比较采 用L SD —t检 验 。所 有数 据 以 
+± S表示 。 
+P < 0．05为差异有 统计 学意 义 。 
+2 
+结 
+果 
+2．1 
+OA 处理后脑片P．tau、CaN表达情况 
+与对 照组 比较 ，模 型组各脑 区P。tau阳性反 应物 
+质表 达增 加 ( P < 0．05 ) ，CaN 阳性 反应物 质表达减 
+少 ( P < 0．05；表 1) 。 
+中华老年多器官疾病杂志
+2014 年 9 月 28 日 第 13 卷 第 9 期
+Chin J Mult OrganDis E lderly，V o1．13，No．9，Sep 28，2014 · 705 · 
+C A 1：C A 1 area of hipp oc ampu s；C A 3 ：C A 3 ar ea of h ipp oc amp us ；D G ：d ent ate gy m s．C omp ared w i th c ont rol group， P < 0．0 5；c omp ar ed w i th 
+mo del grou p， P < 0 ．
+0 5；c om pared  w ith  g ins en osid e R g l group ，
+ 
+P < 0 ．05 
+鼠脑 片 可 见 少 量 细 胞 结 构 破 坏 ，胶 质 细胞 增 生 ， 
+未 见 细 胞 层 厚 度 变 化 ；免 疫 组 化 染 色 结果 表 明模 
+型 组 大 鼠脑 片P ．tau蛋 白表 达 较 对 照 组 增 加 ，推 测 
+OA 可 能 诱 导 了 大 鼠脑 片 tau蛋 白在 Ser202位 点 发 
+生 磷 酸 化 。实 验结 果 还 表 明 ，人 参 皂 苷R g l 组 P—tau 
+蛋 白表达 较模型组 明显降低 ，而且人参 皂苷Rg l 
+这种作用可 以被CaN抑制剂FK 506有效抑制 ( 人参 
+皂 苷 R g l + FK 506组 与 人参 皂 苷 R g 1组 之 间 比较 ，P  
+< 0．05 o 这 表 明人 参 皂 苷 R gl 能 有 效减 轻 OA 引起 
+的Tau蛋 白过 度 磷 酸 化 ，且 这 种 作 用 可 能 与 CaN相 
+关 。 
+tau蛋 白 的磷 酸 化 主 要 受 蛋 白激 酶 和蛋 白磷 酸 
+酶 的调节 ，蛋 白磷酸 酶活性 的降低 可能 比蛋 白激 
+酶 活 性 的 升 高在 tau蛋 白的 磷 酸化 过 程 中起 更 大 的 
+作用 ⋯J。体外 磷 酸化 的tau蛋 白去 磷 酸化可 以使 
+NF T 松解 ，恢 复 tau蛋 白 的连 接 微 管 及 发 挥 促 微 管 
+组装 的功 能¨ 。研究发现 ，将CaN 的抑制剂注入 
+小 鼠脑室腔里 ，可导致tau蛋 白几个特殊位点过度 
+磷 酸化l¨】。体外实验研究证实蛋 白磷酸酶均可使 
+P．tau蛋 白发 生 去 磷 酸 化 ，其 中C aN 导致 P．tau去磷 
+酸 化 的位 点 最 多 ，另 外 C aN也 是 海 马 区最 主要 的 
+P ．tau 去 磷 酸 化 磷 酸 酶 [】引。 本 实 验 采 用 人 参 皂 苷 
+R gl 对 A D 样 tau蛋 白磷 酸 化 大 鼠脑 片 模 型 干 预后 ，
+ 
+结果 表 明大 鼠脑 片 CaN表 达 明显 增 多 ，这 种 作 用 同 
+样可 以被CaN抑制~I]FK 506有效抑制 。这表 明人参 
+皂 苷 R g1可 能 通 过 上 调 C aN 表 达 途 径 从 而 促 进 
+P．tau去 磷 酸 化 。另 外 ，本 实 验 还 发 现 CaN抑 制 剂 
+FK 506对 人 参 皂 苷 R gl 下 调 P—tau作 用 的 抑 制 是 不 
+完 全 的 ，推 测 除 上调 CaN途 径 外 ，人 参皂 苷 R gl 还 
+可通过其他途径促进P．tau去磷 酸化 ，这在未来实 
+验 中需 要 进一 步 的证 实 。 
+总 之 ，本 研 究证 实 了人参 皂 苷 R gl 可能 通 过上 
+调 CaN 蛋 白表 达 途径 以 降低 A D 大 鼠 脑 片模 型 中磷 
+酸化tau蛋 白水平 ，从而发挥抗痴呆作用 ，为人参皂 
+苷Rgl 治疗AD 的研究提供了新靶点、新思路 。 
+【参考文献 】 
+[ 1] 
+Wang JZ ， Tian Q． M echanism 
+of  action 
+on tau 
+hyperphosphory lation and spatial memory  of  rat[J ]．Prog 
+B iochem B iophys，2012，39( 8) ：77卜 777．[王建 枝 ，
+ 
+田 
+青 ．tan 蛋 白过度磷 酸化机制及其在阿尔茨海默病 
+神经元 变 性 中的作 用 [J]．生 物化 学与 生物 物理 进展 ，
+ 
+2012，39(8) ：771—777．] 
+【2】 
+Giannak opoulos P，H errmann F R ，B ussi6re T，et a1．
+ 
+T an gl e an d n eur on nu mb ers ，bu t n ot am y l oi d lo ad，pre dic t 
+c ognitiv e status in A lzheimer’S disease[J] ．N eur ology, 
+2003，6O(9) ：1495—1500．
+ 
+[3】 
+M ansuy  IM ．Calcineurin in memory and bidirectional 
+plasticity [J ]． B iochem B iophys R es C ommun， 2003，
+ 
+311(4)：1195—1208．
+ 
+[4]
+Zhang JT．Nootropic mechanisms of  ginsenoside R g1一  
+infl uenc e on neuronal plastic ity  and neurogenesis[J] ．A cta 
+Pharm Sin，2005，4O(5)：385—388．[张均田．人参皂苷 
+Rgl 的促 智作用机 制一对 神经可塑 性和神经 发生 的影 
+nN[J] ．药学学报，2005，4O(5) ：385—388．】 
+[5] 
+Zhang J ，Huang TW, Chen X C ，et a1．Ginsenoside Rg l 
+attenu ates tau hy p erp h osp ory latio n i ndu c ed by  fi b ril lar 
+A 1325--35 in primary  cortic al neurons via cy clin·-dependent 
+kinase 5 signaling[J]．J  Fujian Med U niv, 2008，42( 1)：
+ 
+9- 11．[张
+静，黄天文 ，陈晓春 ，等 ．人参皂苷Rgl 通 
+过CD K 5途径减轻A 1325．35诱导的神经元tau蛋 白磷 酸化 
+[J ]．福建 医科大学学报，2008，42(1) ：9- 11．] 
+[6】
+L i X ，Z hang X ，Z hang Z 
+et a1．The ef ects of  
+gen sen os id e R g l  on the exp ress io ns o f  P —tau an d P K A  o n 
+the brain slices of  A D model rats[J] ．C hin J Gerontol， 
+2009，29( 1 9)：2468- 2470．[李
+玺 ，张
+欣 ，张智 燕，
+ 
+等．人参皂苷Rgl 对AD模型大 鼠脑片P—tau、PK A 影 响的 
+实 验 研 究 [J ]． 中 国 老 年 学 杂 志 ，2009，29( 19) ：
+ 
+2468—2470．】 
+[7】 
+Zhou F T，C hen SR ，Sun X C ．R esearch progress in 
+ab no rmal  p hos ph ory latio n o f  m ic ro tub ul e—ass o ci ated tau 
+p rotein 
+and  
+of  
+th e 
+targeted 
+i nh ib iti on 
+o f  
+th e 
+phosphorylation【J ]．J Biomed Eng，20 12，29(4)：788—792．
+ 
+[周付涛，陈双容 ，孙学川 ．微 管相关蛋 白tau磷 酸化及 
+其 靶 向抑制 作用 研究 进展 fJ ]．生物 医 学工程 学杂 志， 
+2012，29(4) ：788—792．] 
+【8】 
+Q ian W 
+Shi J ，Y in X ， et a1．PP2A  regulates tan  
+· 706 · 
+中华老年多器官疾病杂志
+2014 年 9 月 28 日 第 13 卷 第 9 期
+Chin J Mult OrganDis Elderly，V o1．13，No．9，Sep 28，2014 
+· 消 
+息 · 
+《第三军 医大学 学报 》征稿 、征 订启事 
+《第 三军 医大学学 报 》为 国内外公 开发行 的综 合性 医药卫 生类学 术期 刊 ，创 刊于 1979年 ，现 为半月 刊 。其 复合影 
+响因子0．800、复合总被引频次6419 ( 2010年 《中国学术期刊影响因子年报》)，来稿2708篇 ( 2010年 )，刊稿877篇 ( 2010 
+年 )，平 均刊稿 时 间 ( 从来稿 到刊 出 ) 164天 ( 2010年 ) ，稿件 录用率 35％左 右 。 
+《第三军医大学报 》被国内外各大检索系统收录，两度被评为国家期刊奖百种重点期刊 ，为中国科技论文统计源 
+期 刊 、中国 自然 科学类 核心期 刊和 中国科 学引 文数据 库 ( C SCD ) 核心 库收 录期刊 。2008~ 2010年连续 3年评 为 “ 中国 
+百种 杰 出学术期 刊 ”。 
+主要栏 目有 专家述 评 、专题报 道 、论著 ( 军事 医学 、基础 医学 、临床 医学 、药学 、预防 医学 、检验 医学 、生物 医 
+学工 程等 )、技 术方 法 、研究 快报 、短篇论 著 、经 验交 流 、疑难 病例 、个案 与短篇 和学术之 窗等 。 
+投稿 、查 询 、阅读本 刊请登 陆http：／／aammt．tmmu．corn ．cn／。国内邮发 代号 ：78—91，国外 邮发 代号 ：M6529。可在 当地 
+邮局 订阅 ，也 可来 函或致 电我 刊编辑 部办理 邮 购 ，免 收邮 寄费 。联 系地 址 ：重庆市 沙坪 坝区 高滩岩 正街 30号 《第三 军 
+医 大学学 报 》编辑 部 ，邮编 ：400038，电话 ：( 023 ) 68752187，E ．mail：aammt@mail．tmmu．com．crl 。 
+联 系人 ：唐素芳 、王勇 。 

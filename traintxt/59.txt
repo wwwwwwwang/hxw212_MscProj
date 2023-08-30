@@ -1,0 +1,374 @@
+�
+�
+中国中西医结合皮肤性病学杂志 2022 年第 21 卷第 1 期
+通信作者：张慧敏，E-mａiｌ：zhａnghm@shutcm.edu.cn
+人参皂苷 CK 对 H2O2 诱导人黑素细胞凋亡的保护
+作用
+唐苏为 1，陆家睛 1，谢韶琼 1，姜文成 1，赖竞思 2，杨伶俐 2，片山一朗 2，张慧敏 3
+（1. 同济大学附属皮肤病医院，上海 200443，2. 大阪市立大学色素病症治疗共同开发部门，日本 大
+阪 5450051，3. 上海中医药大学附属曙光医院，上海 201204）
+摘要：目的
+探讨人参皂苷化合物 K（CK）对 H2O2 诱导来自新生儿中度色素沉着性包皮的正常人表皮黑素细胞
+（HEMn-MP）细胞凋亡的保护作用及可能机制。 方法
+采用磷酸激酶抗体阵列检测 HEMn-MP 细胞各阵列蛋白磷酸
+化水平；比色法测定各组 HEMn-MP 细胞半胱天冬酶（Cａspａse-3）活性。 结果
+CK 减弱 H2O2 诱导的 HEMn-MP 细
+胞 P53 蛋白磷酸化；CK 降低 H2O2 诱导的 Cａspａse-3 活化。 结论
+人参皂苷 CK 可能通过抑制细胞凋亡对 H2O2 诱导
+的黑素细胞损伤有保护作用，因而可作为治疗白癜风的潜在药物。
+关键词：白癜风；人参皂苷 CK；HEMn-MP 细胞；细胞凋亡
+中图分类号：R758.4+1
+文献标识码：A
+文章编号：1672-0709（2022）01-0015-04
+Ｐroteｃtive Effeｃts of Ginsenoside Coｍpound K on Huｍan Ｍeｌanoｃyte Ａpoptosis Ｉnduｃed ｂy H2Ｏ2
+Tang Suwei1，Lu Jiajing1，Xie Shaoqiong1，Jiang Wencheng1，Lai Jingsi2，Yang Lingli2，Ichiro Katayama2，Zhang Huimin3
+1. Shanghai Skin Disease Hospital，Tongji University School of Medicine，Shanghai 200443，China；2. Graduate School of
+Medicine，Osaka City University，Osaka 5450051，Japan；3. Shuguang Hospital Affiliated to Shanghai University of Traditional
+Chinese Medicine，Shanghai 201204，China
+Ａｂstraｃt: Ｏｂjeｃtive
+In order to investigａte the protective effects ａnd possibｌe mechａnism of ginsenoside Compound K（CK）
+on H2O2 induced ａpoptosis of humａn meｌａnocyte HEMn-MP ceｌｌs. Ｍethods
+Phosphoryｌａtion ｌeveｌs of eａch protein ａrrａy in
+HEMn-MP ceｌｌs were detected by phosphor-kinａse ａntibody ａrrａy. Cａspａse-3 ａctivity of HEMn-MP ceｌｌs wａs determined by
+coｌorimetry. Resuｌts
+CK reduced H2O2-induced phosphoryｌａtion of P53 protein in HEMn-MP ceｌｌs. CK reduced H2O2-
+induced HEMn-MP ceｌｌ deａth. CK reduced the ａctivａtion of cａspａse-3 induced by H2O2. Conｃｌusion
+Ginsenoside CK mａy
+hａve protective effect on H2O2-induced meｌａnocyte injury by inhibiting ceｌｌ ａpoptosis，so it cａn be used ａs ａ potentiａｌ drug for
+the treａtment of vitiｌigo.
+Key words: Vitiｌigo；Ginsenoside Compound K；HEMn-MP Meｌａnocytes；Apoptosis
+白癜风是一种获得性慢性色素脱失性疾病，表
+现为局部表皮功能性黑素细胞选择性丧失，全球患
+病率为 0.5%～2%，本病易对患者造成极大的心理负
+担，需要及时有效的治疗[1]。白癜风的发病机制尚不
+完全清楚，可能与遗传、免疫、神经、生化和环境内
+外因素有关。近年来越来越多的研究表明，氧化应
+激会引起黑素细胞的损伤和凋亡，是白癜风发病和
+进展的关键因素[2]。因此，使用抗氧化剂来减少或逆
+转表皮中的氧化应激损伤从而恢复黑素细胞功能
+的治疗策略已引起越来越多学者的研究兴趣。人参
+皂苷化合物 K（Compound K，CK）属二醇型人参皂
+苷，其结构为 20（Ｓ）原人参二醇-20-O-β-D -吡喃
+葡萄糖苷，见图 1，是人参皂苷在人肠道内的主要代
+谢产物，并经吸收入血成为人参皂苷在体内的主要
+成分，也是人参发挥生物活性的主要成分，可从人
+参、三七等富含人参皂苷的中药材中转化获得其单
+体化合物[3]。CK 的药理作用主要包括抗炎、抗动脉
+粥样硬化、抗癌和神经保护[4-7]等。在皮肤科领域，有
+研究证实 CK 可用于对抗皮肤衰老、改善皮肤的整
+体状况[8-9]。然而，对于 CK 在黑素细胞中的作用，医
+者们知之甚少。本研究通过使用 H2O2 诱导的来自
+新生儿中度色素沉着性包皮的正常人表皮黑素细
+胞（HEMn-MP）氧化应激作为体外模型，探索 CK 对
+经氧化应激损伤后的人黑素细胞的保护作用并阐
+明其潜在的分子机制，为探讨CK 对白癜风的治疗
+·论著·
+15
+万方数据
+�
+�
+Chin J Dermａto Veneroｌ Integ Trａd W Med 2022, Voｌ.21 Ｎo.1
+作用提供理论依据。
+1
+材料与方法
+1.1
+实验材料
+1.1.1
+细胞
+HEMn-MP 细胞购自美国 Thermo Fisher
+Ｓcientific 公司。
+1.1.2
+试剂
+人参皂苷 CK（纯度：> 98.0%，四川维
+科奇生物科技有限公司），M254 细胞培养基、人类
+黑色素细胞生长补充剂、溴化乙锭（EB）、Hoechst
+33342（美国 Thermo Fisher Ｓcientific 公司），过氧化
+氢 H2O2（日本 WAKO 公司），二甲基亚砜（DMＳO）、
+半胱天冬酶-3（Cａspａse-3）比色试剂盒（美国 Ｓigmａ
+公司），磷酸激酶抗体阵列检测试剂盒（R&D system
+公司），胰蛋白酶（日本 Ｎａcａｌａi Tesque 公司）、PBＳ
+缓冲液（日本 Fujifiｌm Wａko 公司）。
+1.1.3
+仪器
+ImａgeＱuａnt TL 图像分析软件（GE
+Heａｌthcａre 公司），自动酶标仪（550 型，美国 Bio-
+Rａd Lａborａtories 公司），共聚焦荧光显微镜（Keyence
+公司）。
+1.2
+方法
+1.2.1
+细胞培养
+复苏 HEMn-MP 细胞，加入含 1%
+人黑素细胞生长补充剂的 M254 培养基，于 37 ℃、
+5%CO2 孵箱内培养。0.25%胰蛋白酶消化传代，取第
+8～11 代细胞用于做本次实验。实验前将细胞以 5×
+105 个细胞/孔的密度接种到 6 孔板中继续培养 12 h
+后加药刺激。
+1.2.2
+分组
+共分 3 组，空白对照组、0.4 mmoｌ/L
+H2O2 组、0.4 mmoｌ/L H2O2+0.625 μg/mL CK 组。
+1.2.3
+磷酸激酶抗体阵列检测
+使用磷酸激酶抗
+体阵列检测（ARY003B，R & D Ｓystems）分析磷酸化
+激酶，根据试剂盒说明检测 HEMn-MP 细胞各阵列
+蛋白磷酸化水平，每个阵列加入 300 μg 蛋白质裂解
+物，使用图像分析软件（ImａgeＱuａnt TL，GE Heａｌth-
+cａre）量化斑点的像素灰度值。
+1.2.4
+Cａspａse 3 活 性 检 测
+使 用 比 色 试 剂 盒
+（CAＳP3C-1KT）测定 Cａspａse-3 活性，根据试剂盒
+说明检测 Cａspａse-3 活性。该试剂盒基于 Cａspａse-3
+对 Ac-DEVD-pＮA 的水解，从而产生对硝基苯胺
+（pＮA）部分。在 405 nm（εmM=10.5）处检测到 pＮA。
+1.3
+统计学方法
+采用 ＳPＳＳ 21.0 软件对实验数据
+进行 t 检验或多因素方差分析用来比较各组之间的
+差异。实验数据以均数±标准差（ｘ±s）表示。P<0.05
+为差异有统计学意义。
+2
+结果
+2.1
+CK 减弱 H2O2 诱导的 HEMn-MP 细胞 p53 蛋
+白磷酸化
+磷酸激酶抗体阵列检测结果显示，在黑
+素细胞中使用 H2O2 刺激 3 h 后，Ｓer15 和 Ｓer46 处
+的 p53 磷酸化显着增加，并且其他 p53 相关磷酸化
+位点没有变化，而 CK 预处理后减弱了 H2O2 诱导的
+Ｓer15 和 Ｓer46 处 p53 磷酸化，见图 2。
+2.2
+CK 降低 H2O2 诱导的 Cａspａse-3 活化
+使用比
+色法测定 HEMn-MP 细胞中的 Cａspａse-3 活化，观
+察到 Cａspａse-3 在经 H2O2 刺激后被激活、活性显著
+增加，而在 CK 预处理后 Cａspａse-3 的活性则显著
+降低，见图 3。
+3
+讨论
+氧化应激是细胞过度产生或不充分清除活性
+氧分子的结果，其特点是自由基形成与身体抗氧化
+能力之间的不平衡，可能导致蛋白质、脂质及核酸
+等不同分子的非特异性损伤[10]。皮肤是人体身体最
+大的屏障器官，每天受紫外线辐射、空气污染、病原
+体、化学物质等侵袭，很容易引起皮肤中各类细胞
+的损伤[11]。皮肤在受到外源性刺激时可产生大量的
+氧自由基，当自由基的产生超出机体清除能力时，
+就会产生氧化应激，同时，细胞有氧代谢也会产生
+少量 H2O2、HO-等活性氧自由基，越来越多的学者认
+为白癜风的发生与氧化应激损伤密切相关，已有研
+究证实，在进展期白癜风患者表皮中可检测到过量
+蓄积的 H2O2
+[12]。由于黑色素合成过程中产生的促氧
+化状态[13]，此外，氧化应激可诱导 CD8+T细胞趋化攻
+击黑素细胞[14]，故皮肤中的黑素细胞特别容易受到
+氧化应激的影响，寻找适合的抗氧化剂，通过针对
+性的抗氧化治疗阻断自身免疫攻击、保护黑素细胞
+为白癜风的治疗提供了新的思路。中药等是天然抗
+氧化剂的主要来源，实验证明多种中药提取物可发
+挥抗氧化作用，安全性较高，在白癜风的治疗中有
+较好的应用前景，此外，药物化学提取技术的日趋
+图 1
+CK 化学结构式
+16
+万方数据
+�
+�
+中国中西医结合皮肤性病学杂志 2022 年第 21 卷第 1 期
+图 3
+CK 对 H2O2 诱导的 Caspase－3 活化的影响
+图 2
+CK 对培养的人表皮黑素细胞 p53 蛋白磷酸化的影响
+A. HEMn-MPs 细胞经给药干预 3 h 后的磷酸激酶阵列；B. 磷酸激酶阵列指示点的像素灰度值
+进步也为研究天然抗氧化化合物以改善氧化应激
+相关的皮肤病铺平了道路。
+CK 作为人参和三七的主要成分人参皂苷的肠
+道代谢产物，被证实在多种氧化应激相关条件下均
+能起到保护作用：CK 通过增加超氧化物歧化酶水
+平和谷胱甘肽过氧化物酶活性来改善肝脏抗氧化
+活性
+[15]；CK 通过显着减少氧化应激来预防肾病[16]；
+CK 通过对神经系统激活抗氧化应激增强记忆力[17]。
+然而，CK 是否可以保护黑素细胞免受氧化应激尚
+未见他人报道。基于此，笔者进行了前期研究，并且
+发现 CK 可以保护人类黑色素细胞免受 H2O2 诱导
+的细胞损伤[18]，为了探究其可能的分子机制，在查阅
+相关文献后，笔者采用 HEMn-MP 细胞作为为研究
+对象，以 H2O2 作为诱发氧化应激损伤的因素，建立
+体外模拟氧化应激的黑素细胞模型，研究了 CK 对
+H2O2 诱导氧化应激引起的黑素细胞凋亡的影响。
+黑素细胞的过度氧化应激会触发内在凋亡途
+径并最终介导细胞死亡[19]，p53 蛋白则被称为细胞
+凋亡的关键调节因子，p53 以“分子警察”的身份监
+控细胞的生长过程，一旦细胞受损，p53 蛋 白表达
+水平会很快升高，并抑制 DＮA 复制、刺激 DＮA 切
+除修复，p53 含有一系列丝氨酸（Ｓ）/苏氨酸（T）磷酸
+化位点，p53 的磷酸化在调节其激活以诱导细胞凋
+亡方面起着关键作用[20]。根据本次研究磷酸激酶阵
+列检测结果显示，在黑素细胞中用 H2O2 刺激 3 h
+后，Ｓer15 和 Ｓer46 点位处的 p53 磷酸化显着增加，
+Controｌ
+H2O2（0.4 mmoｌ/L）
+H2O2（0.4 mmoｌ/L）+CK（0.625 μg/mL）
+p-Chk-2
+（T68）
+p-P53
+（Ｓ15）
+p-P53
+（Ｓ46）
+p-P53
+（Ｓ392）
+600
+500
+400
+300
+200
+100
+0
+相对灰度值
+p-Chk-2（T68）
+n.s.
+p-P53（Ｓ392）
+p-P53（Ｓ46）
+p-P53（Ｓ15）
+n.s.
+n.s.
+***
+***
+***
+***
+***
+Ctrｌ DMＳO CK 0.625
+H2O2（0.4 mmoｌ/L）
+Ctrｌ DMＳO CK 0.625
+Ctrｌ DMＳO CK 0.625
+Ctrｌ DMＳO CK 0.625
+H2O2（0.4 mmoｌ/L）
+H2O2（0.4 mmoｌ/L）
+H2O2（0.4 mmoｌ/L）
+0.40
+0.35
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+Cａspａse-3 活性（μmoｌ pＮA/106 黑素细胞）
+Controｌ
+DMＳO
+CK 0.625
+H2O2（0.4 mmoｌ/L）
+***
+***
+A
+B
+17
+万方数据
+�
+�
+Chin J Dermａto Veneroｌ Integ Trａd W Med 2022, Voｌ.21 Ｎo.1
+99999999999999999999999999999999999999999999999"
+99999999"
+99999999999999999999999999999999999999999999999"
+99999999"
+欢 迎 订 阅
+欢 迎 � 稿
+而其他 p53 相关磷酸化位点则没有变化，CK 预处
+理后则减弱了 H2O2 诱导的黑素细胞 Ｓer15 和 Ｓer46
+处的 p53 磷酸化。与此同时，笔者结合溴化乙锭
+（EB）和 Hoechst 33342 染色来分析 CK 对 H2O2 诱导
+的细胞死亡的影响，结果显示用 H2O2 处理后死亡细
+胞的比例增加，而在 CK 预处理后则死细胞比例有
+所减少。由于 Cａspａse-3 是内切蛋白酶家族的成员，
+被称为细胞凋亡中的刽子手，并在细胞凋亡中发挥
+核心作用
+[21]，因此，笔者测定了黑素细胞中的
+Cａspａse-3 活化的程度，观察到 Cａspａse-3 活性在
+H2O2 诱导下被极大地触发，而 CK 预处理后则能使
+其活性降低。
+综上所述，CK 在减弱 H2O2 诱导的 HEMn-MPs
+细胞凋亡方面有一定的潜力，CK 可以作为一种抗
+氧化剂为预防和治疗白癜风提供新的思路。
+参考文献：
+[1]
+Picａrdo M，Deｌｌ’Annａ ML，Ezzedine K，et ａｌ. Vitiｌigo[J]. Ｎａt Rev Dis
+Primers，2015，1：15 011.
+[2]
+Abdeｌ-Mａｌek ZA，Jordａn C，Ho T，et ａｌ. The enigmａ ａnd chａｌｌenges
+of vitiｌigo pａthophysioｌogy ａnd treａtment[J]. Pigment Ceｌｌ Meｌａnomａ
+Res，2020，33：778-787.
+[3]
+Kim EH，Kim W. An insight into ginsenoside metａboｌite compound
+K ａs ａ potentiａｌ tooｌ for skin disorder[J]. Evid Bａsed Compｌement
+Aｌternａt Med，2018，2018：8 075 870.
+[4]
+Lee JO，Choi E，Ｓhin KK，et ａｌ. Compound K，ａ ginsenoside
+metａboｌite，pｌａys ａn ａntiinfｌａmmａtory roｌe in mａcrophａges by tａrget-
+ing the AKT1 -mediａted signａｌing pａthwａy [J]. J Ginseng Res，
+2019，43：154-160.
+[5]
+Zhou L，Zheng Y，Li Z，et ａｌ. Compound K ａttenuａtes the deveｌop-
+ment of ａtheroscｌerosis in ApoE（-/-）mice viａ LXRα ａctivａtion[J].
+Int J Moｌ Ｓci，2016，17：1 054.
+[6]
+Chen HF，Wu LX，Li XF，et ａｌ. Ginsenoside compound K inhibits
+growth of ｌung cａncer ceｌｌs viａ HIF-1α-mediａted gｌucose metａboｌism
+[J]. Ceｌｌ Moｌ Bioｌ（Ｎoisy-ｌe-grａnd），2019，65：48-52.
+[7]
+Ｓeo JY，Ju ＳH，Oh J，et ａｌ. Ｎeuroprotective ａnd cognition-enhａncing
+effects of compound K isoｌａted from red ginseng[J]. J Agric Food
+Chem，2016，64：2 855-2 864.
+[8]
+Kim E，Kim D，Yoo Ｓ，et ａｌ. The skin protective effects of compound
+K，ａ metａboｌite of ginsenoside Rb1 from Pａnａx ginseng[J]. J Ginseng
+Res，2018，42：218-224.
+[9]
+Pａrk ＮJ，Bong ＳK，Lee Ｓ，et ａｌ. Compound K improves skin bａrrier
+function by increａsing ＳPIＮK5 expression[J]. J Ginseng Res，2020，
+44：799-807.
+[10] Gems D，Pａrtridge L. Ｓtress -response hormesis ａnd ａging：“thａt
+which does not kiｌｌ us mａkes us stronger”[J]. Ceｌｌ Metａb，2008，7：
+200-203.
+[11] Li YF，Ouyａng ＳH，Tu LF，et ａｌ. Cａffeine protects skin from oxidａ-
+tive stress-induced senescence through the ａctivａtion of Autophａgy
+[J]. Therａnostics，2018，8：5 713-5 730.
+[12] Kostovic' K，Pａstａr Z，Pａsic' A，et ａｌ. Treａtment of vitiｌigo with nａr-
+row-bａnd UVB ａnd topicａｌ geｌ contａining cａtａｌａse ａnd superoxide
+dismutａse[J]. Actａ Dermａtoveneroｌ Croａt，2007，15：10-14.
+[13] Denａt L，Kａdekａro AL，Mａrrot L，et ａｌ. Meｌａnocytes ａs instigａtors
+ａnd victims of oxidａtive stress[J]. J Investig Dermａtoｌ，2014，134：
+1 512-1 518.
+[14] Li Ｓ，Zhu G，Yａng Y，et ａｌ. Oxidａtive stress drives CD8+ T-ceｌｌ skin
+trａfficking in pａtients with vitiｌigo through CXCL16 upreguｌａtion
+by ａctivａting the unfoｌded protein response in kerａtinocytes[J]. J
+Aｌｌergy Cｌin Immunoｌ，2017，140：177-189.
+[15] Xiａ W，Ｓun C，Zhａo Y，et ａｌ. Hypoｌipidemic ａnd ａntioxidａnt ａctivi-
+ties of sａnchi （rａdix notoginseng）in rａts fed with ａ highfａt diet[J].
+Phytomedicine，2011，18：516-520.
+[16] Ｓong W，Wei L，Du Y，et ａｌ. Protective effect of ginsenoside metａbo-
+ｌite compound K ａgａinst diａbetic nephropａthy by inhibiting ＮLRP3
+infｌａmmａsome ａctivａtion ａnd ＮF-kａppａB/p38 signａｌing pａthwａy in
+high-fａt diet/streptozotocin-induced diａbetic mice[J]. Int Immu-
+nophａrmａcoｌ，2018，63：227-238.
+[17] Yａng Ｑ，Lin J，Zhａng H，et ａｌ. Ginsenoside Compound K Reguｌａtes
+Amyｌoid β viａ the Ｎrf2/Keａp1 signａｌing pａthwａy in mice with
+scopoｌａmine hydrobromide-induced memory impａirments[J]. J Moｌ
+Ｎeurosci，2019，67：62-71.
+[18] Tａng Ｓ，Yａng L，Kurodａ Y，et ａｌ. Herb Ｓａnqi-derived compound K
+ａｌｌeviａtes oxidａtive stress in cuｌtured humａn meｌａnocytes ａnd im-
+proves oxidａtive-stress-reｌａted ｌeukodermａ in guineａ pigs[J]. Ceｌｌs，
+2021，10：2 057.
+[19] Kａmogａshirａ T，Fujimoto C，Yａmａsobａ T. Reａctive oxygen species，
+ａpoptosis，ａnd mitochondriａｌ dysfunction in heａring ｌoss[J]. Biomed
+Res Int，2015，2015：617 207.
+[20] Fridmａn JＳ，Lowe ＳW. Controｌ of ａpoptosis by p53[J]. Oncogene，
+2003，22：9 030-9 040.
+[21] Porter AG，Jänicke RU. Emerging roｌes of cａspａse-3 in ａpoptosis[J].
+Ceｌｌ Deａth Differ，1999，6：99-104.
+（收稿日期：2021-01-30）
+18
+万方数据

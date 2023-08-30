@@ -1,0 +1,516 @@
+◇ 基 础研 究 ◇ 
+·
+139 · 
+中国f临床药理学与治疗 学 
+中国药理学会主办 
+C N 34 —1206 ／R ，IS SN 100 9 -250 1 
+http：／／www．cj cpt．tom 
+2017 Feb ；22 ( 2) ：139 —143 
+人参皂苷 c —K 对匹罗卡品致痫大鼠发作的影响 
+曾祥 昌 ，周露萍 ，陈露露 ，罗 伟 ，李超 鹏 ，高 青 ，
+ 
+王亚芹 ，王欣桐 ，胡 凯 ，沈 杰。，欧阳冬生 
+中南大学湘雅 医院临床 药理研究所 ，中南大学临床药理研究所 ， 
+遗传药理 学湖南省重点实验室，长沙 410078 ，湖南；
+ 
+中南大学湘雅 医院神 经内科 ，长沙 410008 ，湖南；。皖南医学院药学院 ，芜湖 241001，安徽 
+摘要 
+目的：探讨人参皂苷 c—K 对癫痫 大鼠行 为 
+学影响及其与拉 莫三嗪的协 同作 用。方法 ：取 70 
+只雄性 SD 大鼠随机分为正常对照组、模型组、拉 
+莫三嗪组、人 参皂苷 c—K 低、中、高剂量 组、拉莫 
+三嗪与人参皂苷合用组，各组 大鼠多次给药后腹 
+腔注射氯化锂．匹罗卡 品造模 ，观察 大 鼠行 为 变 
+化 ，利用 Racine 分级标准评估癫痫发作 强度，记 
+录癫痫发作潜伏期。结果：与癫痫模型组相比，人 
+参皂苷 C—K 显著延 长癫痫发作 潜伏期 ，降低癫痫 
+发作后体质量丢失( n = 10 ，P < 0 ．05 ) 。人 参皂苷 
+C．K 与拉莫三嗪 合用显著 降低癫痫发作强度 ，进 
+一
+步延长癫痫发作潜伏期( 
+= 10 ，P < 0．05 ) 。结 
+论 ：人参皂苷 c ．K 具有抗癫痫作 用，与拉 莫三嗪 
+合用具有协同增强抗癫痫作用。 
+关键词
+人参皂苷 c ．K ；拉莫三嗪 ；癫痫 ；发作 
+中图分 类号 ：R965．2 
+文 献标 志码 ：A 
+文 章 编 号 ：1009-2501( 2017 )02-0139-05 
+癫痫是一种 以大脑神经元异常放 电导致的以 
+20 16—10 —17 收 稿 
+2016—12 -7 修 回 
+国家 自然科学基金 ( 81301106，81503236，81641141) ；湖 南省 自然 
+科学基金 ( 14JJ4006) ；湖 南省 自然科 学基金 ( 2016JJ4l 16) ；安徽 
+高校 自然科学研 究重点项 目( KJ2015A155) 
+曾祥昌 ，男 ，在读硕 士，研 究方向 ：中药与天然药物药理 学。 
+T el ：l 8274802795 
+E  mail ：zx cha ng 45 168@ 163．t om 
+欧阳冬生，通信作者 ，男，博士 ，教授 ，博 士生导师，研 究方 向：临床 
+药理学及天然药物研 究。 
+T el ：0731~ 4805380 
+E ．mail ：ouyangyj @ 163 ．tom 
+反复性癫痫发作为特征的慢性脑部疾病。全球约 
+有6 500 万 癫 痫 患 者 ，且 每 年 新 发 病 例 达 240 
+万¨ 。我 国约有 900 万癫痫患者 ，其 中活动性癫 
+痫患者约有 600 万 ，同时每年有 40 万左右 的新发 
+癫痫患者 。临床上抗癫痫药物仅 能控制癫痫发 
+作 ，20％ ～30％癫痫患者无法得到有效控制 ，伴有 
+突然死亡、并发精神和神经障碍 以及药物不 良反 
+应风险 J ，严重影响患者 的健康和生活质量 。因 
+此 ，寻找新的抗癫痫药物成 为防治癫痫的重要 目 
+标 。 
+人参皂苷是人参 的主要活性成分 ，研究显示 
+含人参皂苷 Rbl 和 Rb3 的人参提取物具有抗癫 
+痫作用 J 。人参皂苷 c ．K 是一种 四环三萜达玛 
+烷型人参皂苷 ，也是人参皂苷 Rbl 、Rb2 和 Rc 在 
+机体肠道 的主要降解产物 ，是天然二醇型人参皂 
+苷在体内吸收和发挥活性 的关键实体。人参皂苷 
+C．K 具有抗癌 、抗炎 、降糖、保肝、保护心肌等多种 
+药理活性_4 J 。近年来研究发现 ，其在神经系统 中 
+发挥重要作用 ，具有改善脑缺血再灌注和认 知障 
+碍作用 J 。也有研究显示人参皂 苷 c．K 能促进 
+神经元释放 一氨基丁酸 ( 一aminobutyric acid，GA— 
+BA ) [6 3，增强 GABA 受体活性而抑制 N-甲基一D一天 
+冬 氨 酸 受 体 ( N—methyl-D-aspartate receptor， 
+NMOAR ) 活性 J。然而，人参皂苷 C．K 是 否具有 
+抗癫痫作用 尚未有报 道。鉴于人参 皂苷 c—K 是 
+人参皂苷 Rb 类的主要代谢产物及其促进 GABA 
+介导的神经抑制效应 ，推测人参皂苷 c ．K 具有抗 
+癫痫作用 。本研究利用氯化锂．匹罗卡 品诱导 的 
+癫痫模 型探讨人参皂苷 c ．K 抗癫痫活性及其 与 
+·
+14 0 · 
+拉莫三嗪合用对癫痫行为的影响。 
+1
+材料 与方 法 
+1．1
+动 物 
+SPF 级雄性 SD 大 鼠 70 只 ，体质量 
+180 ～220 g，购于湖南斯莱克景 达实验动 物有限 
+公司。许 可证 号 ：SCX K ( 湘 ) 2011-0003。大 鼠实 
+验前适应性喂养 1 周。 
+1．2
+药 品与试剂
+人参皂苷 C—K 由浙江海正药 
+业 股 份 有 限 公 司 提 供 ，纯 度 ≥ 98％ ，批 号 ：
+ 
+S150701一M ；拉莫 三嗪购于浙江华 海药业 股份有 
+限公 司 ，批 号：5629-16-0 01；盐 酸 氯化 锂 ( 货 号 ：
+ 
+62476—100G-F ) 、盐酸 匹罗卡 品( 货号 ：P6503 ) 购 
+于 Sigma 公司。溴甲基东莨菪碱来源于中国药品 
+生物制 品检定 所 ，批号 ：100476-200301。水合 氯 
+醛溶液购于中南大学湘雅医院。 
+1．3
+分组与给药
+70 只大 鼠按体质量随机分为 
+正常对照组 、模型组 、拉莫 三嗪组 、人参 皂苷 c ．K 
+低 、中、高剂量组 、拉莫三 嗪 + 人参皂苷 c ．K 组 ，
+ 
+每组 10 只。拉莫三嗪组灌 胃40 mg／kg (0 ．5％羧 
+甲基纤维素钠溶液 配制，浓度为 4 mg／mL ) ，一 日 
+1 次 ，连续给药 5 d；人参皂苷 C．K 低 、中、高剂量 
+组分别灌 胃 80 、160 、320 mg／kg ( 0．5％羧 甲基纤 
+维素钠溶液配制，浓度分别为 8 、16 、32 mg／mL ) ，
+ 
+一
+日2 次 ，连续 给药 5 d。人参 皂苷 c—K 与拉莫 
+三嗪合用组灌 胃拉莫三嗪40 mg／kg，隔 30 ra in 后 
+给予人参皂苷 C—K 160 mg／kg，其中拉莫三嗪一 日 
+1 次 ，人参皂苷 C—K 一 日2 次 ，连续 给药 5 d。正 
+常对照组和模型组给予相 同体积的生理盐水 。大 
+鼠多次给药后 1 h 腹腔注射匹罗卡品溶液 。 
+1．4
+癫痫模型制备
+氯化锂．匹罗卡品诱导癫痫 
+持续状态模型 
+。大 鼠称 重后腹腔 注射氯化 锂 
+溶液( i ．P．，127 mg／kg，生理盐水配制 ) ，18 —20 h 
+后给予匹罗卡品溶液 ( i．P．，30 mg／kg ，生理盐水 
+配制 ) 。给匹罗卡品前 30 min 给予溴 甲基东莨菪 
+碱溶液 ( i．P．，1 ． g／kg ，生理盐 水配制 ) 以减轻匹 
+罗卡品引起的外周反应 。大 鼠给予匹罗卡品后利 
+用视频监控系统密切观察大 鼠行为变化。 
+1．5
+行为评估
+利用 Racine 标准 
+对大鼠癫痫 
+发作行为进行评估 ：0 级 ：无发作反应 ；1 级 ：口角、 
+面部肌 肉抽 动阵挛 ；2 级 ：节律性点头 ；3 级 ：全身 
+震颤 、单侧前肢阵挛 ；4 级 ：双侧前肢阵挛伴竖立 ；
+ 
+5 级 ：全身强直 阵挛发作伴跌倒 。大 鼠腹腔注射 
+匹罗卡品后观察记录大鼠发作强度 、潜伏期 。大 
+鼠发作 24 h 后称重 ，记录发作前后大鼠体质量变 
+化 。 
+1．6
+统计分析
+所有数据 以均数 ± 标准差 ( x ± 
+s) 表示 ，采用 SPSS 19 ．0 统计软件进行数据处理 ，
+ 
+癫痫发作潜伏期和体质量利用单 因素方差分 析 ，
+ 
+LSD 检验法进行多组间两两 比较 ，癫痫发作强度 
+采用非参数 Mann-Whitney U 检验法进行两组间 
+比较 ，P < 0．05表示差异具有统计学意义 。 
+2 
+结果 
+2．1 
+人参皂苷 c -K 对 氯化锂-匹罗卡 品癫痫模 
+型的行为学影响 
+与模型组相 比，人参皂苷 C—K 
+中、高剂量组大鼠显著延长阵挛性发作潜伏期 ( P 
+< 0．05) ，见 Fig．1。人参皂苷 c—K 低 、中、高剂量 
+组大鼠癫痫发作率具有降低的趋势 ( 90％ ，70％ ，
+ 
+70％ VS．100％) ，对癫痫发作强度无明显影响 ，见 
+Tab．1。结果表明人参皂苷 C—K 具有一定的抗癫 
+痫作用。 
+T ab．1 
+Ef ect of ~ nsenoside C -K  and its combination 
+、vith lamot rigine on seizure scoreI 
+± S，n = 10) 
+Dos e 
+( mg／kg) 
+L amot rigin e 
+G in sen os ide C —K  l OW—dos e 
+Gi nsen osid e C．K  midd le—d ose 
+G ins enosi de C --K  h igh --dose 
+L amotri gine + Gi nsen osid e C —K  
+40 
+3 ．1 ± 0 ．9 
+80 
+4 ．4 ± 0 ．5 
+160  
+4 ．3 ± 0 ．5 
+320  
+4 ．0 ± 0 ．6 。 
+40 + 160 2 ．6 ± 0 ．5 
+C ompa re d w ith model group ．bP < O
+． 0 5 ；c om pa re d w ith la motrig ine
++ 
+g in se noside C - K  group ．
+ P < 0 ．0 5 ．
+ 
+2．2
+人参皂苷 C-K 及其与拉莫三嗪合用对氯化 
+锂一匹罗卡品癫痫模型的行为学影响 
+与模型组 
+相 比，拉莫三 嗪能显著延长癫痫发作潜伏期。与 
+人参皂苷 C—K 或拉莫三嗪单用相比，拉莫三嗪与 
+人参皂苷 c —K 合用显著延长癫痫发作潜伏期 ，降 
+低癫痫发作强度 ，见 Tab．1、Fig．2 ，表明人参皂苷 
+C．K 与拉莫三嗪合用具有协同抗癫痫作用。 
+2．3 
+人参皂苷 C—K 对癫痫 大鼠发作后体质量丢 
+失的影响 
+大 鼠癫痫发作后 体质量 出现减 轻现 
+象 。与模型组相 比，人参皂苷 C—K 高 剂量组显著 
+减轻体质量丢失 ( P < 0．05 ) ，与拉莫 三嗪合用进 
+一
+步降低体质量丢失 ，见 Fig．1．2 ，表明人参皂苷 
+中国临床药理学与治疗学 2017 Feb ；22 ( 2 
+c．K 能改善癫痫发作后体质量减轻。 
+B  
+·
+14 1 · 
+F ig．1 
+E ffect of  ginsenoside C -K  on seizure latency and body mass loss in epileptic rats ( X ± S，n = 10 ) 
+C- K ：G i nse noside C - K ；c ompare d wi th c ontrol group ， P < 0 ．05 ；c ompa re d with model group ， P
+< O．05．
+ 
+答 
+器 
+g 
+吉 
+0  
+∞  
+B  
+F i g．2  
+E f ec t of th e c om bi n atio n of gin sen osi d e C -K  an d l am otr igi n e o n  seiz u r e l aten c y a nd  b od y m as s los s i n ep il ept ic  
+rats (x"± 。n = 10 ) 
+C - K ：G inse noside C - K ；L T G ：L a mot rig ine ；compared with control group ， P < 0 ．05 ；compared wi th ro ode1 group ，。P
+< 0．05 ，
+ P
+< 0 ．O1 ；compared 
+with gi nse noside C - K group ．
+ P < O．0 5．
+ 
+3
+讨论 
+人参 是我 国传统 的 中药材 ，其化 学成分 复 
+杂 ，药理活性独特 ，具有“ 百草之王” 的美称 ，古代 
+多用于久病初愈大补元气 和滋补养 生之用。随 
+着现代分离技术的进步 ，科学家认识到人参皂苷 
+是人参 的主要化学成分。 目前 分离的人 参皂苷 
+单体中 Rbl 、Rb2 、Rc 、Rgl 和 Re 含量居 多，约 占 
+人参皂苷的 80％以上¨⋯。研究发现人服用人参 
+粉末后血浆 中人参皂苷 Rbl 减少而人参皂苷 c． 
+K 逐渐增加 ，证实人参皂苷 c —K 是人参皂苷 Rbl 
+在机体内肠道菌群的主要代谢产物 ，是人参皂苷 
+吸收的关键实体 
+。 
+早在 2002 年 Lee 等首次发现人参具有抗惊 
+厥作用 以来 
+，科学家先后发现人参皂苷根、茎 、 
+叶提取物均无抗惊厥作用 ，而含有 Rbl 和 Rb3 的 
+提取物显著抑制癫痫发作 J 。对人参皂苷抗癫 
+痫作用机制研究发现人参皂苷 Rbl 单体可抑制 
+神经元凋亡 、NMDA 受体介导的异常放电和抗氧 
+化应激进而发挥抗癫痫作用u M J 。近年来 研究 
+显示人参皂苷 c．K 具有改善认知 障碍 
+、抑制 
+脑缺血再灌注引起的神经损伤 、对抗小神经胶质 
+细胞介导炎症 、抗抑郁 
+等作用。有趣 的是 ，体 
+外研究 证 实人 参皂 苷 C．K 可促 进 神经 元 释放 
+GABA ，促 进 GABA 介导 的神经抑 制效 应 ，抑制 
+NMDA 受体活性 。然而 ，迄今 为止 ，国内外 尚无 
+人参皂苷 c。K 抗癫痫作 用研究 报道。本研究利 
+用人参皂苷 C．K 干预氯化锂．匹罗卡 品诱导的癫 
+如 
+∞ 
+如 
+加 
+m 
+0  
+一∞一曲∞0一∞∞对_【II 言 0∞ 
+A  
+加 
+如 
+加 
+m 
+0  
+一II一霉一 3uo 
+-
+14 2 · 
+痫持续状态模型发现人参皂苷 C-K 显 著延长 癫 
+痫发作潜伏期 ，降低癫痫发作后体质量丢失 ，表 
+明人参皂苷 C—K 具有抗癫痫作用且 能维持正常 
+体质量 。 
+拉莫三嗪是一种苯 三嗪衍生物 ，于 1991 年 
+在欧洲首 次上市 ，主要 通过阻滞 电压 门控 钠通 
+道 ，减少钠离子 内流 ，增加神经元 的稳定性而发 
+挥抗癫痫作用。因其疗效 确切，对认 知功能 、睡 
+眠、行为等方面无显著影响 ，国内外多份指南 和 
+共识推荐为治疗顽固部分性癫痫发作 、原发性全 
+身性癫痫 、失神性发作 、青少年肌阵挛 性癫痫 的 
+首选药物。随着拉莫三 嗪在临床上 的广泛应用 ， 
+其不 良反 应也 逐渐报 道 ，如共 济失 调、复视 、头 
+晕 、头痛 、恶心 、皮疹 、致 畸等 ，尤 以皮疹 最 为常 
+见 ，发生率在 10％【17j ，曾有发生罕见致命性不 良 
+反应 Stevens—Jonhson 综合征和中毒性表皮坏死松 
+解症的病例报道Ⅲ】
+ 。研究结果显示 ，拉莫三嗪的 
+药物不 良反应发生与用药剂量有关 。然而 ，减少 
+给药剂量 的同时也将 降低 拉莫三嗪 的抗癫痫作 
+用。有研究显示 ，人参皂苷 c．K 可减轻粉尘螨 引 
+起 的过敏性皮炎 ，抑制恶唑酮引起 的皮炎 ，表明 
+人参皂苷 C．K 可抑制药源性过敏 19-20] 。本研究 
+利用人参皂苷 C．K 与拉莫三嗪合用干预氯化锂． 
+匹罗卡 品诱 导的癫痫模型发现两者合用 进一步 
+延长发作潜伏期 ，降低发作后体质量丢失 ，表明 
+人参皂苷 c —K 可增强拉莫三嗪的抗癫痫作用 ，具 
+有协同增效作用，从而减轻拉莫三嗪引起皮疹 。 
+本研究首次发现人参皂苷 C—K 具 有抗癫痫 
+作用 ，与拉莫三嗪合用能协 同增 强疗效。与此 同 
+时 ，也存在一些不足 ：( 1) 没有进一步探讨人参皂 
+苷 c —K 抗癫痫作用机制 ；( 2 ) 没有利用多个癫痫 
+动物模型验证人参皂苷 c．K 的抗癫痫 活性 ；( 3 ) 
+人参皂苷 C．K 能增强拉莫三嗪抗癫痫疗效 ，而未 
+探讨人参皂苷 C—K 是否减轻拉莫三嗪 的不 良反 
+应。因此 ，我们将针对上述存在的问题深入研究 
+人参皂苷 C—K 的作用机制和探讨人参皂苷 C．K 
+与拉莫 三嗪合用抗癫痫最佳 比例 ，为开发新的抗 
+癫痫复方制剂提供科学依据。 
+综上所述 ，人参皂苷 c ．K 显著延长癫痫发作 
+潜伏期 ，降低癫痫发作后体质量丢失 ，表 明人参 
+皂苷 C—K 具有抗癫痫作用 。人参皂苷 C．K 与拉 
+莫三嗪合用显著降低癫痫发作强度 、延长发作潜 
+Chi n J Cl in Pharmacol T her 2017 Feb ：22 ( 2 
+伏期 ，表明人参皂苷 c —K 与拉莫三嗪能协同增强 
+抗癫痫疗效 ，为开发抗癫痫复方制剂提供理论基 
+础和科学依据。 
+参 考 文 献 
+[ 1] 
+Moshe SL ，Perucca E ，Ryvlin P，et a1．Epilepsy ：
+ 
+new advances[ J ] ．Lancet，2015 ，385 ( 9971 ) ：884— 
+89 8 ． 
+[ 2] 
+Schmidt D，Schachter SC．Drug treatment of epilepsy 
+in adults[ J ] ．BMJ ，2014 ，348 ：g254．
+ 
+[ 3 ]
+Lian X Y ，Zhang ZZ ，Stri nger J L．Anticonvulsant ac— 
+tivity of gin seng on s eiz ures i ndu ced b y c hemi c M c on— 
+vulsants[ J ] ．E pilepsia，2005 ，46 ( 1) ：15-22．
+ 
+[ 4 ]
+Y ang X D，Y ang Y Y ，Ouyang DS ，et a1．A review of 
+b iotran sform ation 
+an d 
+pharmac ology of gi nsenos id e 
+compound K [ J ] ．Fitoterapia ，2015 ，100 ：208-220．
+ 
+[ 5 ]
+Park JS ，Shin J A ，Jung J S ，et a1．Anti—infl ammatory 
+mec hani sm of c ompo und K  in ac ti vated mic rogli a an d 
+its neuroprote ctive effect on exp eri men tal strok e in 
+mice [ J ] ．J Pharmacol Exp Ther ，2012，341( 1) ：
+ 
+5 9 ．67 ． 
+[ 6] 
+Bae MY ，Cho JH ，Choi IS，et a1．Compound K ，a 
+metab oiite 
+of gin senos ides ， fac il itates 
+sp ontaneou s 
+GABA release onto CA3 pyramidal neurons [ J ] ．J 
+Neurochem，2010 ，l 14 ( 4 ) ：1085—1096．
+ 
+[ 7 ]
+J ang S ，Ryu Jn ，Kim DH，et a1．Changes of [ 3H] 
+MK 一801 ，[ 3H ] muscimol and [ 3H ] fl unitrazepam 
+b in din g in rat brai n by the p rol onged ventric ul ar infu— 
+sion of transformed ginsenosides [ J ] ． Neurochem 
+Res ，2004 ，29 ( 12 ) ：2257-2266．
+ 
+[ 8 ]
+Inoue O，Sugiyama E ，Hasebe N ，et a1．Methyl ethyl 
+keton e b loC --K s s tatu s ep ilep tic u s i ndu ce d b y li thi um -- 
+pilocarpine in rats [ J ] ．Br J Pharmaeol ，2009 ，158 
+( 3) ：872—878．
+ 
+1 9 [ 
+Racine RJ ．Modifi cation of seizure activity by electri— 
+cal stimulation． II． Motor seizure 『J ] ． Electroen— 
+cephalogr Clin Neurophysiol ，1972 ，32 ( 3 ) ：281-294．
+ 
+[ 10 ] 于雷 ，李 成龙 ，于珊 珊．人参 皂苷 c—K 的研究 进展 
+[ J ] ．生物技术通报 ，2013 ( 01) ：31—35． 
+[ 11] Lee J ，Lee E ，Kim D，et a1．Studies on absorption， 
+d istri b uti on an d metab oli sm of gi nsen g in hu mans after 
+oral administration[ J ] ．J Ethnopharmacol ，2009，122 
+( 1) ：143—148． 
+[ 12 ] Lee J H ，Kim SR ，Bae CS ，et a1．Protective ef ect of 
+ginsenosides ，active ingredients of Panax ~ nseng ，on 
+kaini e ac i d—i ndu c ed n eu rotoxieity i n rat hi ppoc amp us 
+[ J ] ．Neurosci Lett，2002 ，325 ( 2 ) ：129—133．
+ 
+[ 13]
+Kim S ，Rhim H．Ginsenosides inhibit NMDA reeep— 
+20 17 F eb ：22 ( 2  
+tor．medi ated ep ilep ti c 
+dis ch arges 
+in 
+c ultured h ipp — 
+ocampal neurons [ J ] ．Arch Pharm Res，2004 ，27 
+( 5 ) ：524-530．
+ 
+『14 ]
+Shin EJ ，K oh Y H ，K im A Y ，et a1．Ginsenosides at— 
+tenuate 
+kain ic 
+ac id -in duc ed 
+synap tosom al 
+oxid ative 
+stress via stimulation of adenosine A ( 2A ) receptors in 
+rat hippocampus [ J ] ．Behav Brain Res ，2009 ，197 
+( 1) ：239-245 ．
+ 
+『15 ]
+Tohda C ，Matsumoto N，Zou K ，et a1．Abeta ( 25— 
+35 ) 一induced memoly impairment ， axonal atrophy ， 
+and synaptic l oss are amel iorated by M 1 ．a metab ol ite 
+of protopanaxadiol—type sapo nins [ J ] ．Neuropsycho— 
+pharmacology ，2004 ，29( 5 ) ：860—868． 
+[ 16] Zhang H ，Li Z ，Zhou Z ，et a1．Antidepressant—like 
+effec ts of gin senos ides ： A  com paris on  of gi ns en osi de 
+R b3 and i ts four deglyc osyl ated derivati ves ， R g3 ，
+ 
+Rh2 ，compound K ，and 20 ( S ) -protopanaxadiol in 
+mice models of despair 『J ] ．Pharmacol Biochem Be— 
+hay ．20 16 ，140 ：17 - 26 ． 
+·
+143 · 
+f 17 ]
+Moon J ，Park  H K ，Chu K ，et a1．The H L A —A { 
+240 2／C w 
+0 10 2 h ap lotyp e is ass oc iated w ith l amotr ig- 
+i ne．i ndu ced m acu lopapu lar erup ti on i n the 
+K orean 
+population [ J ] ． Epilepsia ，2015 ，56 ( 10 ) ：e161一 
+e 167 ．
+ 
+[ 18 ] Ordonez L ，Salgueiro E ，J imeno FJ ，et a1．Spontane— 
+OUS reporti ng of Stevens—J oh nson sy ndrome and toxic 
+epid er mal 
+nec rol y si s 
+ass oc iated 
+with 
+an tiep il ep ti c 
+dru gs [ J ] ．E ur Rev Med Pharmaeol Sci ，2015 ，19 
+( 14) ：2732—2737 ．
+ 
+[ 19 ] Kim J R ，Choi J ，Kim J ，et a1．20一O—beta-D—glucopyr— 
+anosyl-20( S ) 一protopanaxadiol—fort ifi ed ginseng extract 
+atten uates the devel opm en t of  atopic  dermatitis —l ik e 
+symptoms in NC／Nga mice [ J ] ．J Ethnopharmaeol ，
+ 
+2014 ，151( 1) ：365—37 1．
+ 
+f 20 ] Shin Y W ，Bae E A ，Kim SS ，et a1．Effect of ginsen- 
+osi de R b l an d c omp ou nd K  in c hr on ic  oxazolon e--in —
+- 
+duced mouse dermatitis [ J ] ．Int Immunopharmacol ，
+ 
+2005 ，5( 7—8) ：1183—1191．
+ 
+E f ects of  gin seno sid e C - K  o n seizu r e a ctiv i ty  i n p iloc ar p in e- in d u c ed  
+ep il ep tic r ats 
+Z E N G  X ia ngchang ，Z H O U L upi ng ，C H E N L ulu 。
+， LUO Wei ，L I Chaopeng ，GAO Qing ，
+ 
+W A NG Y aqin ．W A NG X intong ，H U K ai ，SH E N J i e ，OU Y A NG Dongsheng 
+l Depqrtment of Clinical P harmacology 。X iangy a Hospital ，Central South Univers ity ，Institute of
+Clinical p h甜。 
+，n0c0logy ．Central South University ，Hunan Key Laboratory of  Pharmacogenetics ，Changsha 410078 ，Hunan， 
+Chin0 ：。Department of  Neurology，X iangya Hospital ，Central South University，Changsha 410008 ，Hunan， 
+Chin ：
+ P harmacy School of  Wannan Medical College，Wuhu 241001 ，Anhui ，China 
+A B S T R A C T  
+A IM ： T o inv estigate the effects of  
+ginsenoside C —K  on behavior in ep ileptic rats and its 
+sy nerg ；stic effect with lam otrig ine．M E T H O D S ：70 
+m ale S D rats w ere randomly div id ed into normal 
+group ，model group ，l amotrigine group ，ginsenoside 
+C ．K  low ，mid dle ，h igh group ，lamotrigine and gin 。 
+senosi de C ．K  c omb i nati on g roup ． R ats i n 
+model  
+grou p and treatment grou p w ere prep ared for epilep ‘  
+sy animal model by intraperitoneal  injection of lithi— 
+um chlori de．p ilocarpine aft er administration of  1am — 
+otrigine or ginsenoside C -K ． B ehavior ch anges were 
+c losely  ob served by  v ideo m onitoring sy stem after pi— 
+locarp in e． B eh av ioural  seizure activ ity  was scored 
+ac cording to R ac ine grading standard an d recorded 
+seizure latency ．R E S U L T S ：A fter treatm ent of  gin- 
+senoside C —K ，the treatment group rats exh ib ited sig— 
+nif ic ant an inc rease in seizure latency  com pared w ith 
+epilepsy m od el gr oup ． T h e loss of  body wieght re。 
+duc ed sig nifi c antly in these surv iv ing animals pre。 
+treated with ginsenoside C ．K ( n ：10 ，P < 0．05 ) ．
+ 
+I ntrigu ing ly ， the c om plex of  g in senosid e C -K  an d 
+lamotrigine reduc es seizure inten sities ．seizure lat en- 
+cy was further prolonged ( n = 10 ，P
+< 0．05 ) ．
+ 
+C o N C L U S I o N ： G in senoside C —K  c an ex hibit an 
+antiep ileptic effect ． T he c omb in ation of  g in senoside 
+C —K  and lamotrigine have sy nergistic anti- ep ilep tic 
+effe ct． 
+K E Y W O R D S  
+g insenoside C —K ；lamotrigine ；epi- 
+lepsy ；seizure ac tiv ity 
+本文 编辑 ：彭京 亚 

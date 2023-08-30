@@ -1,0 +1,381 @@
+白血病 ·淋巴瘤 2005 年 8 月第 l4 卷第 4 ~
+—]
+J ournal of Leukemia & Lymp
+—homa ,A ugust 2 0 0 5 ,V o1．14 ,N o．4 
+人参皂苷诱导人 T 淋 巴细胞 白血病 
+细胞株凋亡的研究 
+陈 小红
+高瑞 兰
+钱 煦岱
+金锦梅  
+【摘要 】 
+目的
+通过观察人 参皂苷 ( GS ) 诱导人 T 淋 巴细胞 白血病 细胞株 ( J urkat 细胞 ) 凋亡 ，
+ 
+探讨 GS 影 响 T 淋 巴白血病 细胞 增生作用的机制 。方法
+选 用人 T 淋 巴细胞株 ( Iurkat 细胞 ) 作靶 细 
+胞 ，采 用 M T T 法和 半 固体 集 落培 养 法观 察 不 同浓度 的 GS 对 Iurkat 细胞 增 生的 抑制 效应 ；用 A n— 
+nexin V —FIT C 试验法分析 Iurkat 细胞 的凋亡百分率 ，并进 行 D N A 片段 分析
+( D N A Ladder ) 。结果 
+M T T 法和半 固体集落培养法均显示 GS 在 5() 
+g ／mL 农度 下能 够明显抑制 lurkat 细胞增 生 ，并随浓 
+度增加抑 制作 用增 强；流式细胞术显示 G S 在一 定浓度和 时间范围内可引起细胞 凋亡 。结论
+G S 在一 
+定浓度范围 内可抑制 Iurkat 细胞增生 ，并能够诱导其凋亡 ，为临床应 用提供理论依据 。 
+【关键词 】 人参皂苷 ； 细胞凋亡 ； Iurkat 细胞株 
+中图分类号 ：R73—35"4 
+文献标识码 ：A 
+文章 编号 ：1009—9921 ( 2005 ) 04 —02 17—03 
+Study on ef ect of ginsenosides in inducing ju rkat cell apoptosis 
+CH E 
+X iao —hon蚤 GA 0  R ui—lan， 
+QlAN X u—dai， jlN J in —mei 
+Institute of  Hematology， Zhej iang Prov inc ial Hospital of  TCM,
+H angzhou 
+3 l o o o6 ．C h ina 
+【Abstract】 Obj ecfi ve To investigate whether ginsenosides(GS) could induce J urkat cells apoptosis 
+tO exp lore the mec han ism of G S in T  ly mp hocyte leuk emia． M eth o ds 
+T he in hi bition effects of G S on J u— 
+rk at c el l l in e were obs erv ed by us in g prol if eration tes t of  MT F an d s emi —so lid c olon y fo rm atio n．T he apop to— 
+sis rate and D N A  l add er w ere an al y zed b y A n nexi n —V  F IT C test．D N A  E l ec tr0Dhores is resp ec ti v el y ． R e-  
+suits 
+GS
+(50 
+mL)
+could inhibit the proliferation of Jurkat c ells with significant difference between GS 
+and non ．GS  eontrol f P < 0 ．0 5、in both M qT  tes t a nd c ol ony  ass ay ．A n d the i nh ib ition ef fec ts w ere inc reas ed 
+bv the conc entration of G S．
+ 
+G S co uld i ndu ce J urk at cel ls apoptosis i n a c ertain scop e of c oncentrati on an d 
+reactin g ti me． C o n clu si on  
+G S cou ld i nh ib it the growth of J urk at cell s an d i nd uce the m apop tosis， wh ich 
+p rov id es an exp eri mental b asis for treatmen t of  ly mp h oc y te leu ke mia ．
+ 
+【K ey words】 
+Ginsenosides,
+Apoptosis； Jurkat cell line 
+0
+引言 
+近年来研究 表明 ，人参皂苷 ( GS ) 具有刺激造 
+血细胞增生 ，促进血细胞生成 ，抑制肿瘤细胞增生 ， 
+诱导 白血病 细胞 分化 ，增 强机体 免疫 功能 等多种 
+作用『l~3】
+。我们以往 的实验表明 GS 可增强 白血病细 
+胞对化疗药物的敏感性 ，并能诱导粒系白血病 HL 一 
+60细胞凋亡I5]，但有关 GS 对 T 淋巴细胞 白血病 的作 
+用报道较少 。本组观察 GS 对 T 淋 巴白血病 Jurkat 
+细胞抑制增生及诱导凋亡的作用 ，以了解 GS 抗淋 
+巴系 白血 病 细胞 的效应 。 
+1
+材 料 与方法 
+1．1
+药物
+GS 干燥粉剂由本院中药研究室提供 ，纯 
+度 为 86．5 ％。用 R PMI1640 ( Gibco 公 司 ) 培养 液配成 
+所需浓度的工作 液，正压过滤除菌 ，4 cI=保存备用。 
+1．2 M T T 比色法检 测细胞增生
+取对数生长期的 
+J urkat 细胞 ，调 整 细胞 浓度 至 10 ／mL ，分 别 接 种 于 
+作者单位 ：310006 杭州 ，浙江省中医院血液病研究所 
+通讯作者 ：高瑞兰 ，Email： phtcmcn@maiI-hz．zj．cn 
+·
+ 
+2 l 7  
+· 
+· 论
+著 · 
+无菌 96 孔板 ，0．2 mL ／孔 。实 验 组加 GS ，终 浓 度 分 
+别 为 20 ，50 ，100 mg ／L。对 照组 不 加 GS，每组设 4 
+个重复孔 ，置于 37 oC ，5．0 ％ CO 培养箱中培养 72 h 
+后 ，每孔加入 2O 
+L M1Tr ( 5 g ／L ，上海生工生物工 
+程技术服务有限公 司 ) 反应液孵育 4 h，去上清后加 
+入 150 txL DMSO ( Sigma ) 终止反应 ，微振荡 10 min，
+ 
+置酶标仪 570 am波长处测吸光度 ( A ) 。 
+1．3
+半固体 集落培养法
+取对数生长期的 Jurkat 细 
+胞作半 固体集落培养 ，RPMI 1640 培养体系含 1O ％ 
+FCS ( 杭州四季青生物有限公司 ) 、0．3 ％琼脂 ( Gibco 
+公 司 ) 和 1O，细 胞 ／0．5 mL ，0．5 mL ／孔 ，接 种 于 无 
+菌 24 孔 培养板 ，加 GS 作 为实 验组 ，终 浓度 分别 
+为 2O，50 ，100 mg ／L，以不 加 GS 为 对 照 组 ，均 置 于 
+37 oC ，5．0 ％ CO 培养箱 中培养 10 d，计数集 落数 
+( > 40 个 细胞 ) 。 
+1．4 A nnexin V 分析 凋 亡 细胞 的 百 分 率 I5]
+经 不 同 
+浓度的 GS 处理 48 h 后，收集细胞 1 X 105，冷 PBS 
+洗 涤 后 ，重 新 悬 浮于 100 
+L Binding 缓 冲液 中 
+( 10 mmol ／L H E PE S ／NaOH ，140 mmol ／L NaC1。
+ 
+白血病．淋巴瘤2005年8月第 14卷箜 塑 
+! 
+! 
+鱼 
+P 
+! 
+!! 
+! ! ：! ! · 
+2．5 mmol ／L CaC12，pH 7．4 ) ，分别加入 5 
+L Annexin 
+V —FITC ( 联科生物技术有限公 司 ) 和 l O 
+L PI 液 ，
+ 
+轻轻混匀后 ，室温避光作用 15 min，再加入 400 
+L 
+Binding 缓冲液孵育 ，于 1 h 内用流式细胞仪分析 。 
+1．5 
+DN A 片段 分析
+参 照文 献[5]方 法 ，GS 处 理 
+48 h 后 ，收集 5 X 10 细胞 ，经冷 PBS 洗涤后 ，加入 
+5O ¨ L 细胞裂解液 ( 1 ％ NP一40 ，0．5 mol ／L E DTA ， 
+l inol ／L 
+s—HC1 pH 7．5 ) 作用后收集上清 ，沉淀物 
+再重复提取 1 次 ，合并上清共 100 
+L ，加入 0_3 
+g 
+RNAaseA 和终 浓度 为 1 ％的 SDS ，56 ℃水 浴作用 
+2 h，然后加入终浓度为 2 
+g ／mL 蛋 白酶 K ，37 ℃ 
+水浴作用 3 h，加入 1 ／10 体积的 3 mol ／L 乙酸钠 
+和 2 倍体 积 的无 水 乙醇 ，一2O ℃过 夜沉 淀 DNA ， 
+离心弃上清 ，空气干燥 。再加入 1O 
+L TE 缓 冲液 
+( 10 mmo] ／L T ris HC1，1 mol ／L EDT A ，pH 8．0 ) ，
+ 
+56 ℃水浴溶解 DNA 30 min，加样至 1．2 ％琼脂糖凝 
+胶上 ，电泳 2 ～3 h，紫外线下观察并摄影。同样实验 
+重 复 3 次 。 
+1．6
+统计学处理
+采用 t 检验 。 
+2
+结 果  
+2．1 
+MT T 比 色法分析 GS 抑制 1urkat 细胞增 生的 
+作用
+当 GS 浓度 ≥50 g ／mL 时 ，其吸光度均明显 
+低于对照组 ，差异有显著性 ( P < 0．05 ) ，提示 GS 在 
+一
+定浓度下能明显抑制 Jurkat 细胞增生 ( 见表 1 ) 。 
+表 1 
+MT T 法观察 G S 对 J urkat 细胞 
+抑制作用 (n=5 ，
+ 
+) 
+2．2
+半 固体集落培养法观察 GS 抑制J urkat 细胞集 
+落形成的影响
+半 固体集落培养结果与 MT F 法相 
+同，GS 在 5O mg ／L 时能够明显抑 制 Jurkat 细胞增 
+生 ，其集落数明显低于对照组 ，差异有 显著性 ( P < 
+0．05 ) ，并随 GS 浓度增加抑制作用更强 ( 见表 2 ) 。 
+表 2 G S 对 J urkat 细胞集落形成的 
+抑制作用( n=5 ，
+ 
+) 
+2．3 
+G S 诱 导 J urkat 细 胞 凋 亡 的 Annexin V 分 析 结 
+果
+不同浓度的 GS 作用 48 h 后 AnnexinV —FITC 分 
+析结果显示 ，Gs 2O，50 ，100 mg ／L 的细胞凋亡率分别 
+为 5．25 ％ 、7．82 ％和 1O．95 ％ ，而 对 照组 为 O_47 ％ ，
+ 
+Jurkat 细胞经 GS 处理后凋亡明显增 多 ( 见图 1 ) 。 
+0 
+20 
+50 
+100 
+Gs浓度 ( mg ／L ) 
+图 1
+不 同浓度 的 GS 作用 J urkat 细胞 48 h 的 
+Annexin V 阳性结果 
+2．
+4 G S 诱 导 J urk at 细胞 凋亡的 D NA 片段 结果
+J u— 
+rkat 细胞 GS 处理 48 h 后 ，出现典型的 DNA 梯形条 
+带 ，提示 Gs 可激活细胞内源性核酸内切酶活性 ，将 
+核小体之间的 DNA 切割形成 180 ～200 bp 整数倍 
+的不同长度 的 DNA 片段 ( 见 图 2 ) 。 
+l 
+2 
+3 
+4  
+5 
+l 一 1：Marker ( 100 bp ) ；2—2：无 Gs 的对照组 细胞 ；3—3 ～5：20 
+50 ，100 mg ／L 的 ( 
+作用细胞 48 h 
+图 2
+不 同浓 度的 G S 作用 J urkat 细胞 48 h 后 
+D NA 片段结果 
+3
+讨 论  
+细胞凋亡是一种主动 的 、高度有序的基 因控制 
+的 、一 系列 酶 参 与 的死 亡 过 程 。正 常 情 况下 细 胞 增 
+生与细胞凋亡之 间保持着一种动态平 衡 ，这种平衡 
+是维持多细胞生物 自身稳定的重要 因素。当造血细 
+胞增生失控或凋亡受阻都可导致 白血病 的发生 ，因 
+此抑制失控 的造血细胞增 生或诱 导失控造血细胞 
+凋亡是解决白血病发生的有效途径。在细胞凋亡早 
+期 ，细胞表面发生变化 ，细胞膜 内部的磷脂酰丝氨 
+酸 ( PS ) 可迁 移 到细胞 外 层表 面 。Annexin V 是一 种 
+Ca。 依赖的 、对 PS 有高度亲和力的磷脂结合蛋 白， 
+可作为探针识别细胞膜表面是否有 PS，从而识别凋 
+亡细胞 。细胞发生凋亡 的另一特征是 ：细胞凋亡时 ， 
+细胞 内核酸内切酶被激活 ，可导致染色体 DNA 广 
+泛断裂 ，出现 180 —200 bp 整数倍不 同长度 的 DNA 
+片段 ，在琼脂糖凝胶 电泳图上出现梯形条带 。 
+我们曾报道低浓度的 GS 能刺激正常和白血病 
+2
+ 
+8  
+4  
+0
+ 
+一
+ 
+一斛 =l 
+兽再 
+白血病．淋巴瘤 2005年 8月第 14 卷麓 期 —Journal of Leukemia&—Lymphoma ,August 200—5,Vo1．1—4,No．
+4 
+祖细胞在体外增生 ，使集落数明显增加 ；但 随 GS 浓 
+度 的增高 ，其仍能轻度地提高正常 CFU-GM 祖细胞 
+集落数 ，可是对 白血病祖细胞集落 的生长起 明显抑 
+制作用【JI2J。为了解 Gs 抑制 白血病祖细胞增生 的作 
+用 ，我们对粒细胞性 白血病 HL ．60 细胞进行 了研 
+究 ，结 果表 明 用一 定 浓 度 的 GS 处 理 HL 一60 细 胞 后 
+可诱导 HL 一60 细胞凋亡『5】，但对 T 淋巴细胞 白血病 
+细胞的作用研究较少 。因此本组选用人 T 淋 巴系白 
+血病 J urkat 细胞株作为靶细胞 ，观察 GS 对其增生 
+抑制和诱导凋亡的作用 ，结果显示当 GS t> 50 g ／mL 
+时 ，M1rr 比色法 和半 固体集 落 培养 均显 示 GS 对 
+Jurkat 细胞起明显的抑制作用 ( P < 0．
+05 ) ；Annexin V  
+测定和 DNA 片段分析结果显示 GS 作用 48 h 后可 
+诱导 J urkat 细胞凋亡 ，其中 20 mg ／L GS 虽能诱导 
+细胞出现梯形条带 ，但在 M1Tr 比色法和半固体培养 
+中均显示与对照组差异无显著性 ，这可能与 Jurkat 
+存活细胞百分率较高有关 。 
+X ing 等悯用人参皂苷对 35 例直肠癌患者行灌 
+肠术 ，结果显示有 23 例患者 的肿瘤细胞均出现凋 
+亡 ，占 65．7 ％。 Popovich 等【
+7]发现人参皂苷 中结构 
+不 同的成分对 THP一1 细胞 的凋亡作用也不一致 ，带 
+有糖基修饰的结构如人参二醇等作用 明显差 于不 
+带糖基的结构 ，如 Rh2。由此可知人参皂苷 可诱导 
+不同细胞凋亡，而对其作用机制的研究也不尽相同 ， 
+大部分 的研究集 中在 bcl。2 和 bax 基因表达的差异 
+上 ，导致 bc1．2 ／bax 比值增高 ，即 bcl 一2 基因表达下 
+降，抗凋亡作用减弱。至于人参皂苷诱导 Jurkat 细胞 
+凋亡的机制还有待于我们进一步 的研究。 
+参 考 文 献 
+1 高瑞兰 ，徐从 连 ，金锦梅 ，等 ．人参总皂甙对正常 人和再生障碍性 
+贫血患 者造血祖细胞 的刺激增 生作用[J1．中国中西医结合杂志 ，
+ 
+1992 ，12 ( 5 ) ：285 —287．
+ 
+2 高瑞兰 ，牛 泱平 ，Chong BH．人参总皂 甙对 白血病 细胞作 用的实 
+验观察 『J1_上海中医药杂志 ，1999，9(1)：46—48．
+ 
+3 易永林 ，李薇 ，郝秀智 ．人参茎叶总皂甙对 58 例急性 非淋巴细胞 
+自血病细胞 的诱导 分化作用 『J1．中国 中西 医结合 杂志 ，1993，13 
+( 12 ) ：72 2- 724．
+ 
+4 高瑞兰 ，金 锦梅 ，牛泱平 ，等．人参总皂甙增加 白血 病细胞对化疗 
+药物的敏感性 [J1l中国中西医结合杂志 ，1999，19( 1 ) ：19—21．
+ 
+5 牛泱平 ，高瑞兰 ，Helen T ao，等．人参皂 甙诱 导 HL ．60 细胞凋亡 的 
+研究[J1．中国 中西医结合杂志 ，2002，22( 6 ) ：450—452．
+ 
+6 X ing J H ．Chen Y Q ，J i M X ．Clinical study on ef ect of ginsenoside in 
+induci ng rectal  cancer cell apoptosis [J ]．Z hongguo Z hongxiyi J iehe 
+Zazh i，200 1，2 1(4) ：260 —26 1．
+ 
+7  
+Popovic h D G ，K itt s D D ． S truc ture —function re lat ionship ex ists for 
+ginse nosides in re duc ing cell p roliferat ion a nd i ndu cing a poptosis in 
+the human  l eukemia frH P - 1) cell l ine[J ]．Arch Biochem Biophys，
+ 
+2002，406 (1)：1—8．
+ 
+作者简介 ：陈小红 ( 1972一 
+) ，男，2003 年 毕业 于浙江 中 医学 
+院 ，硕士 ，助理研 究 员。 
+( 收稿 日期 ：2004—09—29；修 回 日期 ：2005—04．22 ) 
+( 本文编辑 ：自润 萍
+校对 ：李旭清 ) 
+( 上 接 第 2 16 页 ) 
+在 CML 的发生 、发展中以往 的研究仅局 限于 
+单基因 ，往往仅能解释某一部分 CML 急变的发生 ，
+ 
+CML 急变是一多基因事件 ，包括癌基因 、抑癌基 因 
+和其他基因的量和质的异常 。因此分离 、克隆 CML 
+发生发展过程中关键异 常表达的基 因，可 以从 分子 
+水平进一步阐明 CML 发病的分子机制 ，并 为疾病 
+的早期诊断和基因治疗提供特异的靶点。 
+VIq'G 是 Pei 等【2l在垂体瘤细胞 中发现并命名的 
+一
+种新的肿瘤转化基因 ，在 正常垂体细胞 中不表 
+达 。大量研究显示 ，这一新基 因在大多数正常成人 
+组织只有弱表达甚至检测不到 ，但是在肿瘤组织及 
+肿瘤细胞系，如乳腺癌 、结肠癌 、肝癌中表达明显升 
+高 。肿瘤的发生是在多基因 、多步骤下发生的 ，P'IT G 
+与大多数肿瘤发生有密切关系[3-6]。 
+为 了研 究 
+TrG 基 因在 CML 中 的表 达情 况 ，我 
+们用半定量 RT —PCR 方法检测 34 例不 同临床分期 
+的 CML 患者骨髓单个核细胞 PqT G 基 因的表达 ，结 
+果显示 P'IT G 基因在 CML 慢性期 、加速期和急变期 
+中均高表达 ，明显高于正常对照 ，推测 PT YG 基因的 
+过度表达参与了 CML 的发生 。fyITrG 基因在加速期 
+和急变期 的表达明显高于慢性期 ，这可能与 唧
+ 
+促进 细胞增生有关 ，说 明 
+T G 基 因过度表达 与 
+CML 病情进展或慢粒急变有关 ，检测 P1rrG 的改变 
+对于预测 CML 急变很有意义。F IT G 有可能成为一 
+种新的肿瘤标志物 。 
+参
+考 文 献 
+1 
+D omingu e z A ，R amos —M oral es F ，R ome ro F ，et a1 ．hP qT G ，a human 
+hom ologu
+e of  rat pttg ， is ove re xpresse d in hem atopoie tic neoplas ms．
+ 
+E vidence for a tran scriptional  activation function of hFqT G[J ]．Onco— 
+g e ne ，1998，17：2187—2 193． 
+2  
+Pei L ， M elm e d S ． Is olati on an d char act erizat ion of a pit uitary tun or — 
+transforming gene(P1rr G)[J 】．Mol E ndocri nlol，1 997，1 1：
+4 33—44 1．
+ 
+3 
+Z hang  X ，H orwitz G  A ，Prezan t T  R ，et a1 ．S truc ture，ex pression．an d 
+function of human  pituitary tumor · transfo rm ing gcne (FqT G)[J ]． Mol 
+End~ ri nol，1999 ，13(1) ：156—166．
+ 
+4 K ak ar S  S ．M ole cular c loning ，ge nomie org an i za tion，and id entifi c ati on 
+of  t he promot er fo r the human  pitu it ary  t umor transform ing ge ne  
+(FqT G)[J ]．G ene，1999，240 ( 2 )：3 17 ．324．
+ 
+5 
+K ana k is D ，K irehe s E ，Ma wri n C ，e t a1 ．Promote r m utat ions 8Te n0  
+maj or cause of P IrrG overcxpression in pituitary adenoma~ 『J 1． Clin 
+E n d~ rino1．200 3．5 8f2 ：151．155 ．
+ 
+6  
+Ch ie n W ，Pe i L ．A  novel binding fac tor fa cil it ate s nucle ar  t ran slcca tion 
+a nd transc ri pt ional  ac tiva tion f unc tion of  t he pit uitary t umor —
+- trans —
+- 
+forming gene product[J ]．J Biol Chem，2000，275(25)：19422 - 19427．
+ 
+作者简 介 ：丛雅琴 ( 1952一
+) ，女 ，1975 年毕 业于潍坊 医学院 ，
+ 
+学士，主任医师，硕 士研 究生导 师。 
+( 收稿 日期 ：2005- 02．07；修回 日期：2005．05．09 ) 
+( 本文 编辑 ：李旭清
+校对 ：李旭清 ) 

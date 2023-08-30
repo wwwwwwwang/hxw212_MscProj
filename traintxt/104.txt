@@ -1,0 +1,832 @@
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.25｜September 2023｜3977
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+人参皂苷 Rg1 纳米粒局部注射治疗大鼠心肌梗死
+文题释义：
+人参皂苷Rg1：为人参的主要单体成分，已被证实具有心血管保护作用，其可通过多种途径、不同机制改善心肌缺血再灌注损伤、抗细胞
+凋亡、促进心肌血管再生、改善心肌细胞肥厚、抗动脉血栓形成。
+纳米级药物载体：是一种属于纳米级微观范畴的亚微粒药物载体输送系统。将药物包封于亚微粒中，可以调节释药的速度，增加生物膜的
+透过性、改变在体内的分布、提高生物利用度等。纳米粒又称毫微粒，是大小在10-1 000 nm之间的固态胶体颗粒，一般由天然高分子物
+质或合成高分子物质构成，可作为传导或输送药物的载体。
+摘要
+背景：人参皂苷Rg1可以减轻心肌梗死小鼠的心肌细胞凋亡与炎症反应，改善小鼠心功能，但以往研究多是腹腔注射给药，将人参皂苷
+Rg1包裹于纳米粒中应用于心肌梗死的相关研究较少。
+目的：将人参皂苷Rg1包裹于纳米粒，观察其局部注射治疗大鼠心肌梗死的效果。
+方法：采用双乳液法制备人参皂苷Rg1纳米粒，检测纳米粒的粒径、形态及电位、包封率与载药量以及体外药物缓释作用。选取64只雄性
+SD大鼠，利用随机数字表将大鼠分成4组，每组16只：假手术组仅开胸，不结扎冠状动脉左前降支；模型组结扎冠状动脉左前降支复制心
+肌梗死模型；药物组复制心肌梗死模型后，梗死周围区注射人参皂苷Rg1溶液；纳米粒组复制心肌梗死模型后，梗死周围区注射人参皂苷
+Rg1纳米粒混悬液。造模28 d后分别进行超声心动图、心肌组织学及RT-qPCR检测。
+结果与结论：①人参皂苷Rg1纳米粒的平均粒径为(231.28±3.66) nm，Zeta电位(-24.31±3.65) mV，透射电镜下可见该纳米粒呈圆球形，粒径
+在198 nm左右，纳米粒分散均匀，无团聚，纳米粒的包封率为(69.82±3.21)%，载药量为(6.05±0.02)%，该纳米粒可持续释放人参皂苷Rg1达
+30 d以上；②超声心动图检测显示，与假手术组相比，模型组左心室功能与结构异常；与模型组比较，药物组、纳米粒组左心室功能与结
+构均有明显改善，其中以纳米粒组改善更明显；③苏木精-伊红与Masson染色显示，模型组大鼠心肌组织纤维排列松散且不规则，间质水
+肿并伴有明显充血与炎性细胞浸润，缺血中心及周围可见大量胶原沉积；药物组、纳米粒组大鼠心肌组织纤维排列略松散，排列较模型
+组规则，间质较少见水肿与炎性细胞浸润，缺血中心及周围胶原沉积明显减少，其中以纳米粒组病理改善更明显；④RT-qPCR检测显示，
+与模型组比较，药物组、纳米粒组梗死区低氧诱导因子1α、血管性血友病因子、血管内皮生长因子A、血管生成素1、缝隙连接蛋白43、
+钙黏蛋白的mRNA表达量升高(P < 0.05)，肿瘤坏死因子α、白细胞介素1β、干扰素γ的mRNA表达量降低(P < 0.05)，其中以纳米粒组改善更明
+显；⑤人参皂苷Rg1纳米粒局部给药可抑制梗死心肌组织的炎症反应及心室重塑，改善心功能，促进心肌组织的修复，该作用可能通过提
+升成血管相关基因与心肌功能蛋白的表达、抑制炎症因子的基因表达有关。
+关键词：心肌梗死；纳米粒；人参皂苷Rg1；心脏结构；成血管；心功能
+Local injection of ginsenoside Rg1 nanoparticles in the treatment of myocardial infarction in rats 
+Cao Congcong1, Ling Gengfei2, Yang Chunhua3
+1Zhoukou Vocational and Technical College, Zhoukou 466000, Henan Province, China; 2Department of Critical Care, 3Department of Cardiovascular Medicine, 
+Zhoukou Central Hospital, Zhoukou 466000, Henan Province, China 
+Cao Congcong, Lecturer, Zhoukou Vocational and Technical College, Zhoukou 466000, Henan Province, China 
+Corresponding author: Yang Chunhua, Master, Associate chief physician, Department of Cardiovascular Medicine, Zhoukou Central Hospital, Zhoukou 466000, 
+Henan Province, China
+1 周口职业技术学院，河南省周口市  466000；周口市中心医院，
+2 重症医学科，
+3 心血管内科，河南省周口市  466000
+第一作者：曹聪聪，女，1987 年生，河南省南召县人，汉族，讲师，主要从事基础医学教育与研究。
+通讯作者：杨春华，硕士，副主任医师，周口市中心医院心血管内科，河南省周口市  466000
+https://orcid.org/0000-0003-2738-0480( 曹聪聪 )
+引用本文：曹聪聪，凌耿飞，杨春华 . 人参皂苷 Rg1 纳米粒局部注射治疗大鼠心肌梗死 [J]. 中国组织工程研究，2023，
+27(25):3977-3983. 
+曹聪聪
+1，凌耿飞
+2，杨春华
+3
+文章快速阅读：包裹人参皂苷 Rg1 的纳米粒应用于大鼠心肌梗死
+https://doi.org/10.12307/2023.506  
+投稿日期：2022-07-08
+采用日期：2022-08-19
+修回日期：2022-09-27
+在线日期：2022-10-25
+中图分类号： 
+R459.9；R318.08；R543.3 
+文章编号： 
+2095-4344(2023)25-03977-07
+文献标识码：A 
+纳米粒的粒径、形态及电位
+纳米粒的药物释放
+制备包裹
+人参皂苷 Rg1
+的纳米粒
+SD 大鼠
+心肌梗死
+周围区注射
+▲超声心电图检测
+▲心肌组织学观察
+▲ RT-qPCR 检 测新 生 血 管
+相关基因、炎症反应基因
+及心肌结构和功能蛋白的
+基因表达
+纳米粒的包封率与载药量
+3978｜中国组织工程研究｜第27卷｜第25期｜2023年9月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+0   引言   Introduction
+心血管疾病已成为世界范围内人类死亡的首位原因，随
+着社会经济和人口老龄化的加速发展，中国心血管疾病的发
+病率和死亡率均持续上升，目前，中国大约有 3.3 亿人患有
+心血管疾病，其中冠心病患者达到 1 100 万，预计到 2030 年
+将有 2 360 万人死于心血管疾病
+[1-2]。在心血管疾病中，心肌
+梗死及其心血管事件引起的死亡占心血管死亡人数的一半以
+上
+[3]。尽管药物与冠状动脉搭桥治疗可一定程度地改善心肌
+梗死后的心肌缺血、降低急性期的死亡率，但是尚无有效方
+法改善心肌梗死晚期心肌细胞死亡所致的心室重构和心脏破
+裂。
+纳米技术的出现为医学发展提供了多样化平台，纳米载
+药作为纳米医学的重要分支最初主要应用于肿瘤研究领域，
+近年来在心血管领域也受到了广泛关注
+[4-6]。纳米粒是一种
+粒径介于 10-1 000 nm 的新型药物递送载体，由多种有机材
+料、无机材料、金属 - 有机框架或这些材料组合而成，可作
+为化学与生物制剂之间传递的媒介，应用其包裹药物可显著
+提高药物的稳定性与生物利用度
+[7-8]。
+作为人参的主要单体成分，人参皂苷 Rg1 已被证实具
+有心血管保护作用
+[9-11]，其可通过多种途径、不同机制改善
+心肌缺血再灌注损伤、抗细胞凋亡、促进心肌血管再生、改
+善心肌细胞肥厚、抗动脉血栓形成。LUO 等
+[9] 研究显示，人
+参皂苷 Rg1 可以减轻心肌梗死小鼠的心肌细胞凋亡与炎症反
+应，改善小鼠心功能。金岩等
+[12] 研究证实人参皂苷 Rg1 能
+够促进大鼠急性心肌梗后心脏的血管新生。但以往研究多是
+Abstract
+BACKGROUND: Ginsenoside Rg1 can reduce myocardial cell apoptosis and inflammatory response in mice with myocardial infarction, and improve cardiac 
+function in mice. However, most previous studies used intraperitoneal injection. There are few related studies on the application of ginsenoside Rg1 in 
+nanoparticles for myocardial infarction.
+OBJECTIVE: Ginsenoside Rg1 was coated with nanoparticles to observe the effect of local application on myocardial infarction in rats.
+METHODS: Ginsenoside Rg1 nanoparticles were prepared by double emulsion method. The particle size, morphology, potential, sealing rate and drug loading 
+of the nanoparticles, as well as the sustained drug release effect in vitro were detected. Sixty-four male Sprague-Dawley rats were randomly divided into four 
+groups (n=16). In sham operation group, only laparotomy was performed without ligation of the left anterior descending coronary artery. In the model group, 
+ligation of left anterior descending coronary artery was conducted to make myocardial infarction model. In the medicine group, after myocardial infarction 
+model was established, ginsenoside Rg1 was intraperitoneally injected. In the nanoparticle group, ginsenoside Rg1 nanoparticle suspension was injected 
+into the peri-infarct area after replicating the myocardial infarction model. Echocardiogram, myocardial histology and RT-qPCR were conducted 28 days after 
+operation. 
+RESULTS AND CONCLUSION: (1) The average particle size of the ginsenoside Rg1 nanoparticles was (231.28±3.66) nm and the Zeta potential was (-24.31± 
+3.65) mV. Transmission electron microscopy showed that the nanoparticles were spherical with a particle size of about 198 nm. The nanoparticles were evenly 
+dispersed without agglomeration and the encapsulation efficiency of the nanoparticles was (69.82±3.21)%. The drug load was (6.05±0.02)%. The nanoparticles 
+could release ginsenoside Rg1 for more than 30 days. (2) Echocardiogram demonstrated that compared with the sham operation group, the left ventricular 
+function and structure of the model group were abnormal. Compared with the model group, the left ventricular function and structure were significantly 
+improved in the medicine group and nanoparticle group; the improvement was more obvious in the nanoparticle group. (3) Hematoxylin-eosin staining and 
+Masson staining showed that the myocardial tissue fibers of the rats in the model group were loosely arranged and irregular; the interstitial edema was 
+accompanied by obvious congestion and inflammatory cell infiltration, and a large amount of collagen deposition was seen in and around the ischemic center. 
+The fibers of the myocardial tissue of the rats in the medicine and nanoparticle groups were slightly loose, and the arrangement was more regular than that in 
+the model group. The interstitial edema and inflammatory cell infiltration were less common, and the collagen deposition in and around the ischemic center 
+was significantly reduced. Among them, the pathological improvement in the nanoparticle group was more obvious. (4) RT-qPCR detection exhibited that 
+compared with the model group, the mRNA expression of hypoxia-inducible factor 1α, von Willebrand factor, vascular endothelial growth factor A, angiopoietin 1, 
+connexin 43, and cadherin increased in the medicine group and nanoparticle group (P < 0.05), and the mRNA expression of tumor necrosis factor α, interleukin-
+1β, and interferon γ decreased (P < 0.05), and the improvement was more obvious in the nanoparticle group. (5) Local administration of ginsenoside Rg1 
+nanoparticles can inhibit the inflammatory response and ventricular remodeling of infarcted myocardial tissue, improve cardiac function, and promote the 
+repair of myocardial tissue. This effect may be associated with the expression of myocardium functional proteins and genes that inhibit inflammatory factors 
+through the promotion of vascular-related genes.
+Key words: myocardial infarction; nanoparticle; ginsenoside Rg1; cardiac structure; vascularization; cardiac function
+How to cite this article: CAO CC, LING GF, YANG CH. Local injection of ginsenoside Rg1 nanoparticles in the treatment of myocardial infarction in rats. Zhongguo 
+Zuzhi Gongcheng Yanjiu. 2023;27(25):3977-3983. 
+腹腔注射给药，将人参皂苷 Rg1 包裹于纳米粒中应用于心肌
+梗死的相关研究较少。此次实验将人参皂苷 Rg1 包裹于纳米
+粒，观察其局部应用治疗大鼠心肌梗死的效果，为临床治疗
+心肌梗死提供基础数据。
+1   材料和方法   Materials and methods
+1.1   设计   随机分组动物观察实验，采用单因素方差分析比
+较组间差异，事后检验采用 LSD-t 检验。
+1.2   时间及地点   实验于 2020 年 12 月至 2021 年 3 月在郑州
+大学医学科学院实验动物中心完成。
+1.3   材料
+1.3.1   实验动物与分组   选取 64 只雄性 SD 大鼠，6 周龄，清
+洁级，体质量 (210±20) g，购自郑州大学医学科学院实验动
+物中心，实验动物使用许可证号：SCXK( 豫 )2021-0009。在
+温度 (22±2) ℃、湿度 55%、12 h 光照 / 黑暗循环的环境饲养，
+可自由获得食物和水。利用随机数字表将大鼠分成 4 组，分
+别为假手术组、模型组、药物组与纳米粒组，每组 16 只。
+实验已获得郑州大学医学科学院实验动物中心伦理委员会批
+准。
+1.3.2   实验试剂与仪器   人参皂苷 Rg1( 纯度 98%，西安汇林
+生物科技有限公司 )；聚乳酸 - 羟基乙酸共聚物 ( 上海源叶
+生物科技有限公司 )；二氯甲烷 ( 北京百灵威科技有限公司 )；
+N- 羟基琥珀酰亚胺、碳二亚胺 ( 上海懋康生物科技有限公司 )；
+聚乙烯醇 ( 上海弘顺生物科技有限公司 )；N，N- 二异丙基
+乙胺 ( 南京化学试剂股份有限公司 )；激光粒度分析仪 ( 上海
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.25｜September 2023｜3979
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+甄明科学仪器有限公司 )，高效液相色谱仪 ( 北京元圭仪器
+科技有限公司 )；小动物呼吸机 ( 北京友诚生物科技有限公
+司 )；小动物超声影像仪 ( 北京益仁恒业科技有限公司 )；透
+射电镜 ( 北京中科科仪股份有限公司 )。
+1.4   实验方法   
+1.4.1   制备人参皂苷 Rg1 纳米粒   精确称量 1 g 的聚乳酸 - 羟
+基乙酸共聚物，溶于 2 mL 无水二氯甲烷中；将 0.3 g 的 N-
+羟基琥珀酰亚胺、0.1 g 的碳二亚胺溶于 1 mL 无水二氯甲烷
+中；将 2 种溶液混合，室温下搅拌反应 3 h；吸取反应溶液
+滴加到冰乙醚与甲醇混合溶液 ( 体积比为 1 ∶ 1) 中，缓慢搅
+拌至析出沉淀，反复洗涤沉淀 3 次；1 500 r/min 离心 20 min
+浓缩产物，真空下抽干备用。将沉淀溶于 3 mL 无水二氯甲
+烷中，加入 250 mg 的聚乙二醇和 30 mg 的 N，N- 二异丙基
+乙胺，继续搅拌反应 12 h，至析出沉淀，反复洗涤沉淀 3 次；
+1 500 r/min 离心 20 min 浓缩产物，真空下抽干，得到聚乳酸 -
+羟基乙酸共聚物 / 聚乙二醇共聚物。
+将 5 mg 的人参皂苷 Rg1 溶于 1 mL 含 1% 乙酸钠的 2%
+聚乙烯醇水溶液中；称量 100 mg 的聚乳酸 - 羟基乙酸共聚
+物 / 聚乙二醇共聚物溶于 4 mL 无水二氯甲烷中；将 2 种溶
+液混合，冰浴中 224 W 超声乳化 60 s，得到初乳；向初乳中
+加入 12 mL 4% 聚乙烯醇溶液，冰浴中 224 W 超声乳化 120 s，
+得到复乳液，常温下持续搅拌 6 h；1 000 r/min 离心 10 min
+去除杂物，4 500 r/min 离心 25 min，弃上清，无离子水洗涤
+3 次，4 500 r/min 离心 25 min 浓缩产物，制备得包裹人参皂
+苷 Rg1 的聚乳酸 - 羟基乙酸共聚物 / 聚乙二醇纳米粒，将纳
+米粒溶于 2 mL PBS 中，制得纳米粒混悬液。
+1.4.2   人参皂苷 Rg1 纳米粒的粒径、形态及电位   应用激光
+粒度分析仪测定载药纳米粒混悬液的粒径及 Zeta 电位。取适
+量的纳米粒混悬液，分散均匀，滴加到铜片上，1.0% 磷钨酸
+染色，透射电镜下观察其表面形态。
+1.4.3   人参皂苷 Rg1 纳米粒的包封率与载药量   将一定量的载
+药纳米粒混悬液置于离心管内，40 000 r/min 离心 60 min， 
+取上清液 1 mL，以甲醇稀释至 10 mL，经 0.22 μm 微孔滤膜
+滤过，取滤液注入高效液相色谱仪，检测游离人参皂苷 Rg1
+的质量，记为 m1；取离心后的沉淀，蒸馏水洗涤 3 次，真空
+冷冻干燥后精密称定总质量，记作 m。另外精密量取载药纳
+米粒混悬液 1 mL，用甲醇稀释至 10 mL，超声，经 0.22 μm
+微孔滤膜滤过，取滤液注入高效液相色谱仪，计算载药纳米
+粒混悬液中总的药物量，记作 m0。 
+包封率 =(m0-m1)/m
+载药量 =(m0-m1)/m0
+1.4.4   人参皂苷 Rg1 纳米粒的体外缓释作用   将 10 μL 载药
+纳米粒混悬液置于透析袋内，两端用透析夹夹住，置于盛有 
+4 mL PBS 的棕色瓶内，置于摇床内 37 ℃下恒温持续振荡，
+振荡速率 100 r/min，于设定的时间点各取样 20 μL，同时补
+充新鲜的等量 PBS，采用 Elisa 法检测人参皂苷 Rg1 的浓度。
+根据载药纳米粒中人参皂苷 Rg1 在不同时间的累计释放量，
+制作体外释放曲线。
+1.4.5   人参皂苷 Rg1 纳米粒的动物体内应用  
+复制心肌梗死模型：取所有 SD 大鼠，称量体质量，腹
+腔注射 2% 戊巴比妥钠 (40 mg/kg) 麻醉。剔除左侧胸部毛发，
+将大鼠仰卧位固定于手术台上，消毒术区皮肤，使用镊子牵
+拉出大鼠舌头，将气管插管置入生门并与小动物呼吸机连接；
+连接心电图。定位左侧第四肋间，沿肋骨横向剪开皮肤，暴
+露左心耳与左心室，靠近左心耳下缘处用缝合线结扎冠状动
+脉左前降分支，观察到结扎区心脏表面变苍白、心电图 ST
+段抬高，说明模型制备成功。造模约 10 min 后，药物组梗死
+周围区注射人参皂苷 Rg1 50 µL( 质量浓度 2 µg/µL)；纳米粒
+组梗死周围区注射人参皂苷 Rg1 纳米粒混悬液 50 µL( 含人参
+皂苷 Rg 100 µg)[13]。逐层缝合，关闭呼吸机。待大鼠自主呼
+吸稳定时，将其置于电热毯上保暖，直至大鼠苏醒。
+超声心动图检测：术后 28 d，麻醉后利用超声心动测试
+仪检测心功能参数，包括射血分数、缩短分数、收缩期室间
+隔厚度、舒张期室间隔厚度、收缩期左心室后壁厚度、舒张
+期左心室后壁后厚度、左心室收缩末期直径、左心室舒张末
+期直径。均测量 3 个连续心动周期的平均值。
+心肌组织学分析：术后 28 d 超声心动图检测结束后，
+麻醉后处死大鼠，取心肌梗死区周围组织，置入 40 g/L 多聚
+甲醛中固定 24 h，修块后常规脱水、透明、浸蜡，石蜡包埋，
+组织切片机切片，片厚 5 µm，进行苏木精 - 伊红与 Masson
+染色，观察心肌病理损伤与纤维化程度。
+RT-qPCR 检测：利用 RT-qPCR 检测心肌梗死区成血管相
+关基因 ( 低氧诱导因子 1α、血管性血友病因子、血管内皮
+生长因子 A、血管生成素 1) 与心肌结构与功能蛋白 ( 缝隙连
+接蛋白 43、钙黏蛋白 )、炎症因子 ( 肿瘤坏死因子 α、白细
+胞介素 1β、干扰素 γ) 的 RNA 表达。取 5 mg 的心肌梗死区
+周围组织，加入 500 µL 组织裂解液进行匀浆处理，提取总
+RNA；将 1 μL RNA 溶液与 99 μL DEPC 水混合，以 DEPC 水作
+空白对照，利用紫外分光光度计检测 RNA 浓度。将 RNA 反
+转录为 cDNA，反应条件：25 ℃ 10 min，48 ℃ 30 min，95 ℃ 
+5 min，将 cDNA 产物置于 -80 ℃冰箱内。进行实时荧光定
+量 PCR 反应，反应条件：95 ℃ 10 min，95 ℃ 15 s，60 ℃ 
+1 min，共 40 个循环。设计引物，见表 1。
+表 1 ｜ RT-qPCR 检测引物序列
+Table 1 ｜ Primer sequences of RT-qPCR
+基因名称
+正义链 (5’-3’)
+反义链 (5’-3’)
+低氧诱导因子 1α
+ATG GTC GTC TTC AGG TGT
+CTG GTA GTG GTA AGG GTT C
+血管性血友病因子
+CTG CGG CTC TAV TAC ATT G
+TGC GGT GTA CTA CAT TG
+血管内皮生长因子 A ACA GAA AGT GAG GAG CAA GA ATG GAG AAA CCA GGG AAC
+肿瘤坏死因子 α
+TCA CGC TGG CAG ACT TCA
+GCA GGG CAA CTT GGC ATT
+血管生成素 1
+TTC TAC GCC ATC ACC ACG
+TTC CAT CCC TTC CTT GCT
+白细胞介素 1β
+CGT ATC GGA CGC CTG GTT
+GAA GAT GGT GAT GGG TTT
+干扰素 γ
+GAC TAG CTA CAT TGT CTG CTG
+GTG CAG GGT CCG AGG T
+缝隙连接蛋白 43
+CTC GCT TCG GCA GCA CA
+AAC GCT TCA CGA ATT TGC GT
+钙黏蛋白
+GTG CAG GGT CCG AGG T
+CTC GCT TCG GCA GCA CA
+GAPDH
+CGT ATC GGA CGC CTC CTT
+GGA AGA TGG TGA TGG GTT T
+3980｜中国组织工程研究｜第27卷｜第25期｜2023年9月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+1.5   主要观察指标   各组大鼠超声心动图、心肌组织学及
+RT-qPCR 检测结果。
+1.6   统计学分析   实验中所得计量资料均以 x-±s 格式表达。
+使用 SPSS 22.0 软件进行统计分析，使用 EXCEL 软件进行数
+据记录和作图分析。采用单因素方差分析比较组间差异，事
+后检验采用 LSD-t 检验。P < 0.05 显示差异有显著性意义。该
+文统计学方法已经周口市中心医院生物统计学专家审核。
+2   结果   Results 
+2.1   人参皂苷 Rg1 纳米粒的粒径、形态及电位   由检测结果
+可知，人参皂苷 Rg1 纳米粒的平均粒径为 (231.28±3.66) nm 
+( 图 1A)，Zeta 电位 (-24.31±3.65) mV( 图 1B)，透射电镜下可
+见该纳米粒呈圆球形，粒径在 198 nm 左右，纳米粒分散均匀，
+无团聚 ( 图 1C)。
+2.2   人参皂苷 Rg1 纳米粒的包封率与载药量   人参皂苷 Rg1
+纳米粒的包封率为 (69.82±3.21)%，载药量为 (6.05±0.02)%。
+2.3   人参皂苷 Rg1 纳米粒的体外缓释作用    人参皂苷 Rg1 纳
+米粒的体外缓释作用曲线见图 2，结果可见：纳米粒在前 10 d 
+快速释放人参皂苷 Rg1，累计释放量达到 (72.08±2.37)%，此
+后纳米粒释放人参皂苷 Rg1 的速率减慢，至 30 d 时累计释放
+人参皂苷 Rg1 达到 (88.21±5.39)%。
+2.4   人参皂苷 Rg1 纳米粒的动物体内应用   
+2.4.1   实验动物数量分析   造模过程中无大鼠死亡，因此，
+实验纳入的 64 只大鼠全部进入结果分析。
+2.4.2   超声心动图检测结果   见图 3。
+术后 28 d，与假手术组相比，模型组大鼠左心室射血分
+数、缩短分数、舒张期室间隔厚度、收缩期室间隔厚度、舒
+张期左心室后壁厚度、收缩期左心室后壁厚度减少 (P < 0.05)，
+左心室舒张末期直径、左心室收缩末期直径增加 (P < 0.05)。
+与模型组比较，药物组、纳米粒组大鼠左心室射血分数、缩
+短分数、舒张期室间隔厚度、收缩期室间隔厚度、舒张期左
+心室后壁厚度、收缩期左心室后壁厚度增加 (P < 0.05)，左心
+室舒张末期直径、左心室收缩末期直径减少 (P < 0.05)。与药
+物组比较，纳米粒组大鼠的左心室射血分数、缩短分数、舒
+张期室间隔厚度、收缩期室间隔厚度、舒张期左心室后壁厚
+度、收缩期左心室后壁厚度增加 (P < 0.05)，左心室舒张末期
+直径、左心室收缩末期直径减少 (P < 0.05)。
+2.4.3   心肌组织学分析   术后 28 d，苏木精 - 伊红染色显示，
+假手术组大鼠心肌组织排列规则有序，细胞形态正常，未见
+病理形态改变；模型组大鼠心肌组织纤维排列松散且不规则，
+心肌纤维间距增大，胞质肿胀，间质水肿并伴有明显充血与
+炎性细胞浸润；药物组、纳米粒组大鼠心肌组织纤维排列略
+松散，排列较模型组规则，心肌纤维间距缩小，间质较少见
+水肿与炎性细胞浸润，其中以纳米粒组病理改善更明显，见
+图 4。
+Masson 染色显示，假手术组心肌纤维排列规则有序；
+与假手术组比较，模型组大鼠心肌纤维排列紊乱，部分纤维
+断裂，缺血中心及周围可见大量胶原沉积；药物组、纳米粒
+组大鼠心肌纤维排列较规则，缺血中心及周围胶原沉积明显
+减少，其中以纳米粒组胶原沉积更少，见图 5。
+胶原面积定量分析结果显示，假手术组、模型组、药物组、
+纳米粒组大鼠心肌组织胶原面积百分比分别为(5.31±0.38)%，
+(72.57±6.97)%，(53.02±3.88)%，(39.74±7.19)%； 其 中， 模 型
+组胶原面积百分比大于假手术组 (P < 0.05)，药物组胶原面积
+百分比小于模型组 (P < 0.05)，纳米粒组胶原面积百分比小于
+药物组 (P < 0.05)。
+2.4.4   RT-qPCR 检测结果   各组心肌组织各基因表达量检测结
+果，见图 6。
+检测结果显示，与假手术组比较，模型组缝隙连接蛋
+白 43、钙黏蛋白的 mRNA 表达量明显降低 (P < 0.05)，低氧
+诱导因子 1α、血管性血友病因子、血管内皮生长因子 A、血
+管生成素 1、肿瘤坏死因子 α、白细胞介素 1β、干扰素 γ 的
+mRNA 表达量明显升高 (P < 0.05)。与模型组比较，药物组低
+氧诱导因子 1α、血管性血友病因子、血管内皮生长因子 A、
+血管生成素 1、缝隙连接蛋白 43、钙黏蛋白的 mRNA 表达量
+明显升高 (P < 0.05)，肿瘤坏死因子 α、白细胞介素 1β、干
+扰素 γ 的 mRNA 表达量明显降低 (P < 0.05)。与药物组比较，
+纳米粒组低氧诱导因子 1α、血管性血友病因子、血管内皮
+生长因子 A、血管生成素 1、缝隙连接蛋白 43、钙黏蛋白的
+mRNA 表达量明显升高 (P < 0.05)，肿瘤坏死因子 α、白细胞
+介素 1β、干扰素 γ 的 mRNA 表达量明显降低 (P < 0.05)。
+2.4.5   纳米粒的生物相容性   由动物实验结果可知，人参皂
+苷 Rg1 纳米粒具有良好的生物相容性。
+3   讨论   Discussion
+冠状动脉部分或全部阻塞将会引发相应区域的缺血、缺
+氧，造成心肌细胞死亡，导致心肌梗死的发生
+[14-15]。当心肌梗
+死发生后，大量的炎症细胞浸润会使胶原蛋白遭到破坏
+[16-17]，
+导致梗死区域厚度下降，随后成纤维细胞在梗死区域沉积大
+量胶原，形成瘢痕组织来阻止梗死灶的扩大，即发生梗死后
+重塑；但是重塑会拉伸剩余存活的心肌细胞，致使心室壁张
+力随着心室半径的增大而增加，这会增加剩余存活心肌细胞
+的负担，引发心内膜下心肌缺血，造成更大的伤害 —— 心
+力衰竭
+[18-20]。对于急性心肌梗死可以采用经皮冠状动脉介入
+与冠状动脉搭桥治疗，可以减少缺血性心肌面积，阻止梗死
+灶的进一步发展
+[21-23]；对于心肌梗死后的康复期主要通过药
+物来控制心室的不良重塑，但是传统给药治疗具有一定的局
+限性，存在血浆半衰期短、药物清除速度过快、药物非病变
+器官分布及不良反应大等问题
+[24-25]。因此，寻找能有效控制
+心肌梗死及梗死后并发症的新型药物递送策略是心肌梗死治
+疗的热点研究。
+相较于传统给药治疗，纳米载药可以根据不同病理机
+制及治疗策略，将不同的配体引入相应纳米载体中并靶向结
+合病变部位，更有效针对梗死区域提高药物浓度以改善心肌
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.25｜September 2023｜3981
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+图注：A 为左室射血分数与缩短分数，B 为舒张期与收缩期室间隔厚度，
+C 为左心室舒张末期与收缩末期直径，D 为舒张期与收缩期左心室后壁
+厚度。与假手术组比较，
+aP < 0.05；与模型组比较，
+bP < 0.05；与药物组
+比较，
+cP < 0.05
+图 3 ｜各组大鼠超声心动图检测结果
+Figure 3 ｜ Results of echocardiography of rats in each group
+图注：假手术组心肌纤维排列规则有序；与假手术组比较，模型组大鼠
+心肌纤维排列紊乱，部分纤维断裂，缺血中心及周围可见大量胶原沉积；
+药物组、纳米粒组大鼠心肌纤维排列较规则，缺血中心及周围胶原沉积
+明显减少，其中以纳米粒组胶原沉积更少
+图 5 ｜各组大鼠心肌组织 Masson 染色
+Figure 5 ｜ Masson staining of myocardial tissue of rats in each group
+图注：A 为假手术组，心肌组织排列规则有序，细胞形态正常，未见病
+理形态改变；B 为模型组，心肌组织纤维排列松散且不规则，心肌纤维
+间距增大，胞质肿胀，间质水肿并伴有明显充血与炎性细胞浸润；C、D
+分别为药物组、纳米粒组，心肌组织纤维排列略松散，排列较模型组规
+则，心肌纤维间距缩小，间质较少见水肿与炎性细胞浸润，以纳米粒组
+病理改善更明显
+图 4 ｜各组大鼠心肌组织苏木精 - 伊红染色 (×200)
+Figure 4 ｜ Hematoxylin-eosin staining of myocardial tissue of rats in the 
+four groups (×200)
+A
+B
+C
+D
+图注：A 为成血管相关基因表达，
+B 为炎症因子基因表达，C 为心
+肌结构和功能蛋白基因表达。与
+假手术组比较，
+aP < 0.05；与模
+型组比较，
+bP < 0.05；与药物组
+比较，
+cP < 0.05
+图 6 ｜各组大鼠心肌组织相关基
+因表达量
+Figure 6 ｜ Expression levels of 
+related genes in myocardial tissue 
+of rats in each group
+假手术组
+模型组
+药物组
+纳米粒组
+低氧诱导
+因子 1α
+基因表达量
+基因表达量
+基因表达量
+血管内皮
+生长因子 A
+血管性血
+友病因子
+血管生成素 1
+肿瘤坏死
+因子 α
+缝隙连接蛋白 43
+干扰素 γ
+白细胞
+介素 1β
+钙黏蛋白
+A
+B
+C
+b
+b
+b
+b
+c
+c
+c
+c
+a
+a
+a
+a
+b
+b
+b
+b
+b
+c
+c
+c
+c
+c
+a
+a
+a
+a
+a
+A
+B
+C
+D
+假手术组
+模型组
+药物组
+纳米粒组
+舒张期室间
+隔厚度
+舒张期左心
+室后壁厚度
+左心室舒张
+末期直径
+左室射血分数 (%)
+收缩期室间
+隔厚度
+收缩期左心
+室后壁厚度
+左心室收缩
+末期直径
+缩短分数 (%)
+b
+b
+c
+c
+a
+a
+b
+c
+a
+b
+c
+a
+b
+b
+c
+c
+a
+a
+b
+b
+c
+c
+a
+a
+数值百分比 (%)
+厚度 (mm)
+厚度 (mm)
+直径 (mm)
+纳米粒组
+假手术组
+药物组
+模型组
+4 mm
+200 μm
+图注：A 为纳米粒的粒径，平均粒径为 (231.28±3.66) nm；B 为纳米粒的
+Zeta 电位，为 (-24.31±3.65) mV；C 为纳米粒的透射电镜观察，呈圆球形，
+粒径在 198 nm 左右，纳米粒分散均匀，标尺 =200 nm
+图 1 ｜人参皂苷 Rg1 纳米粒的粒径、形态及电位
+Figure 1 ｜ Particle size, morphology and potential of ginsenoside Rg1 
+nanoparticles
+粒径 (nm)
+Z 电位 (mV)
+Total Counts
+A
+B
+C
+600 000
+400 000
+200 000
+0
+-200           -100               0                100             200
+药物累计释放量 (%)
+时间 (d)
+图注：纳米粒在前 10 d 快速释放人参皂苷 Rg1，累计释放量达到
+(72.08±2.37)%，此后纳米粒释放人参皂苷 Rg1 的速率减慢，至 30 d 时累
+计释放人参皂苷 Rg1 达到 (88.21±5.39)%
+图 2 ｜人参皂苷 Rg1 纳米粒的体外缓释作用曲线
+Figure 2 ｜ Sustained-release curves of ginsenoside Rg1 nanoparticles in 
+vitro
+3982｜中国组织工程研究｜第27卷｜第25期｜2023年9月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+血运，具备靶向治疗能力
+[26-27]。许多的天然、人工合成及半
+人工合成生物高分子材料被用于制备纳米微球。聚乳酸 - 羟
+基乙酸共聚物是一种可生物降解的高分子材料，为 FDA 批准
+的聚合物，具有良好的生物相容性与生物降解性，是药物递
+送系统中应用最为广泛的聚合物之一
+[28-29]。聚乙二醇作为一
+种线形聚醚二醇具有极强的溶解性，且无毒、无免疫原性、
+无抗原性，可改善材料的亲水性，起到稳定剂的作用，也为
+FDA 批准的聚合物，常用于纳米粒修饰
+[30]。聚乙二醇的修饰
+可以改善聚乳酸 - 羟基乙酸共聚物的亲水性较差、降解过慢
+等不足。聚乳酸 - 羟基乙酸共聚物 / 聚乙二醇纳米粒已被广
+泛用于药物控释及组织工程领域。YANG 等
+[31] 研究显示，聚
+乳酸 - 羟基乙酸共聚物 / 聚乙二醇纳米粒纳米颗粒可以提高
+岩藻黄质的生物利用度，增强其治疗阿尔茨海默症的疗效。
+晏殊瑾等
+[32] 制备了低强度脉冲超声靶向控释基质细胞衍生
+因子 1α、骨形态发生蛋白 2 的聚乳酸 - 羟基乙酸共聚物 / 聚
+乙二醇纳米粒，该体系能有效促进人牙周膜干细胞迁移和成
+骨分化。基于以上研究结果，此次实验以聚乳酸 - 羟基乙
+酸共聚物 / 聚乙二醇纳米粒为药物控释载体，包裹人参皂苷
+Rg1，用于治疗大鼠心肌梗死。
+为检测包裹人参皂苷 Rg1 聚乳酸 - 羟基乙酸共聚物 / 聚
+乙二醇纳米粒的治疗作用，以局部注射人参皂苷 Rg1 溶液为
+对照，实验结果显示：由于模型组没有进行任何治疗，左心
+室射血分数与缩短分数显著下降，无论是舒张期还是收缩期，
+大鼠左心室室间隔厚度与厚壁厚度均减少，致使左心室直径
+增大，心肌梗死情况加重。而人参皂苷 Rg1 局部注射给药与
+纳米粒给药均可有效抑制心肌梗死后重塑，改善心脏功能，
+并且纳米粒用药组改善作用优于人参皂苷 Rg1 局部注射给
+药。作者分析纳米粒给药组治疗效果更明显的原因是：针对
+心肌梗死的发病情况，包裹人参皂苷 Rg1 的纳米粒能够实现
+逐级释放，早期快速释放人参皂苷 Rg1 可以针对梗死灶严重
+的炎症反应及时对症下药，减轻炎症反应，而人参皂苷 Rg1
+的可持续释放可长期维持促血管化作用，有效改善心肌梗死
+微环境，进而抑制左心室的不良重构，恢复心脏功能。体外
+换缓释作用结果显示，在前 10 d 内纳米粒可快速释放人参皂
+苷 Rg1，而后缓慢持续释放人参皂苷 Rg1 可达 30 d 以上，持
+续发挥药效，与体内实验结果相符。
+心肌组织病理观察结果显示，模型组心肌组织纤维化严
+重，炎症反应明显，经过药物治疗后心肌纤维化程度得到明
+显抑制，炎症反应得到明显抑制，其中纳米粒给药组正常心
+肌组织保持较完整、心脏结构较完善，明显优于药物溶液注
+射给药。
+为了更加直观地观察载药纳米粒对心肌梗死的治疗作用
+及对心功能的改善作用，采用 RT-qPCR 检测了包括新生血管
+相关基因、炎症反应基因及心肌结构和功能蛋白的表达情况。
+心肌梗死后心肌组织缺氧缺血，提升心脏内血管化就成为心
+肌梗死治疗得到关键问题。低氧诱导因子 1α、血管性血友
+病因子、血管内皮生长因子 A 及血管生成素 1 均是成血管相
+关基因
+[33-34]，此次实验结果显示，人参皂苷 Rg1 治疗可提高
+梗死心肌组织内成血管相关基因的表达，但是不同治疗组间
+存在明显的差异，纳米粒给药组提升作用强于药物直接注射，
+说明纳米粒给药可在心肌梗死局部持续促进血管生成，打开
+梗死的血流通道，改善心功能。适度的炎症反应有利于机体
+组织修复，但是过度的炎症反应将加重组织损伤，不利于组
+织修复
+[35]。心肌梗死后心脏发生严重的炎症反应，不利于心
+肌组织的修复，因此，抑制炎症反应也是心肌梗死治疗的重
+点内容。此次实验结果显示，人参皂苷 Rg1 可明显抑制心肌
+梗死区炎症反应，纳米粒给药组抑制效果更加显著，说明早
+期迅速释放的人参皂苷 Rg1 有效抑制了心肌梗死不利于组织
+修复的炎症微环境，后期继续持续释放药物保持组织修复需
+要的良好微环境，促进心肌组织修复。另外，心肌梗死后由
+于左心室重塑将导致心脏结构与功能的改变。缝隙连接是介
+导心肌细胞间信息交流和能量传导的重要结构，其中的缝隙
+连接蛋白 43 为心室缝隙连接的主要组成成分，其结构、分
+布与表达影响心脏的功能
+[36]。钙黏蛋白是血管内皮细胞表面
+特异性表达的跨膜黏附蛋白，亦是血管内皮细胞黏附连接的
+主要黏附蛋白，参与调节各种细胞增殖、凋亡及血管内皮生
+长因子受体的功能，对于维持血管内皮细胞的完整性用户血
+管内环境具有重要意义
+[37]。此次实验结果显示，纳米粒给药
+可显著提升梗死心肌组织内缝隙连接蛋白 43 与钙黏蛋白的
+表达，缓解心室重塑，促进心脏结构与功能的恢复。
+综上所述，人参皂苷 Rg1 溶液直接注射给药与人参皂苷
+Rg1 纳米粒局部注射给药均可抑制梗死心肌组织的炎症反应
+及心室重塑，改善心功能，促进心肌组织的修复，其中纳米
+粒局部给药的治疗作用显著优于药物溶液局部注射给药，该
+作用可能通过提升成血管相关基因与心肌功能蛋白的表达、
+抑制炎症因子的基因表达有关。但是，实验还存在许多不足：
+实验的时间点设置较单一，未来应增加时间点，动态观察纳
+米粒给药的治疗作用；对于人参皂苷 Rg1 的剂量仍有待考察，
+以筛选更加有效的治疗剂量；未明确纳米粒的具体释放药物
+机制；这些都是未来需要继续探索的内容。
+作者贡献：曹聪聪进行实验设计，实验实施为曹聪聪、凌耿飞，实
+验评估为杨春华，资料收集为凌耿飞，曹聪聪成文，杨春华审校。
+利益冲突：文章的全部作者声明，在课题研究和文章撰写过程中不
+存在利益冲突。
+开放获取声明：这是一篇开放获取文章，根据《知识共享许可协议》
+“署名 - 非商业性使用 - 相同方式共享 4.0”条款，在合理引用的情况下，
+允许他人以非商业性目的基于原文内容编辑、调整和扩展，同时允许任
+何用户阅读、下载、拷贝、传递、打印、检索、超级链接该文献，并为
+之建立索引，用作软件的输入数据或其它任何合法用途。
+版权转让：文章出版前全体作者与编辑部签署了文章版权转让协议。
+出版规范：该研究遵守国际医学期刊编辑委员会《学术研究实验与
+报告和医学期刊编辑与发表的推荐规范》。文章出版前已经过专业反剽
+窃文献检测系统进行 3 次查重。文章经小同行外审专家双盲外审，同行
+评议认为文章符合期刊发稿宗旨。 
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.25｜September 2023｜3983
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+4   参考文献   References
+[1] 
+CHEN R, XIAO Y, CHEN M, et al. A traditional Chinese medicine therapy 
+for coronary heart disease after percutaneous coronary intervention: 
+a meta-analysis of randomized, double-blind, placebo-controlled trials. 
+Biosci Rep. 2018;38(5):BSR20180973.
+[2] 
+中国心血管健康与疾病报告 2019 概要 [J]. 心脑血管病防治 ,2020, 
+20(5):437-450.
+[3] 
+YANAMANDALA M, ZHU W, GARRY DJ, et al. Overcoming the roadblocks 
+to cardiac cell therapy using tissue engineering. J Am Coll Cardiol. 2017; 
+70(6):766-775.
+[4] 
+BLANCO-FERNANDEZ B, CASTAÑO O, MATEOS-TIMONEDA MÁ, et al. 
+Nanotechnology Approaches in Chronic Wound Healing. Adv Wound 
+Care (New Rochelle). 2021;10(5):234-256. 
+[5] 
+LUO Y, WANG Q, ZHANG Y. Biopolymer-Based Nanotechnology 
+Approaches To Deliver Bioactive Compounds for Food Applications: 
+A Perspective on the Past, Present, and Future. J Agric Food Chem. 
+2020;68(46):12993-13000.
+[6] 
+BAYDA S, ADEEL M, TUCCINARDI T, et al.The History of Nanoscience 
+and Nanotechnology: From Chemical-Physical Applications to 
+Nanomedicine. Molecules. 2019;25(1):112. 
+[7] 
+TIBURCIUS S, KRISHNAN K, YANG JH, et al. Silica-Based Nanoparticles 
+as Drug Delivery Vehicles for Prostate Cancer Treatment. Chem Rec. 
+2021;21(6):1535-1568. 
+[8] 
+TALAT A, KHAN AU. Patents in chemotherapy: nanoparticles as drug-
+delivery vehicles. Pharm Pat Anal. 2020;9(4):117-119. 
+[9] 
+LUO M, YAN D, SUN Q, et al. Ginsenoside Rg1 attenuates cardiomyocyte 
+apoptosis and inflammation via the TLR4/NF-kB/NLRP3 pathway. J Cell 
+Biochem. 2020;121(4):2994-3004. 
+[10] 
+LU ML, WANG J, SUN Y, et al. Ginsenoside Rg1 attenuates mechanical 
+stress-induced cardiac injury via calcium sensing receptor-related 
+pathway.J Ginseng Res. 2021;45(6):683-694. 
+[11] 
+HUANG L, CAI HA, ZHANG MS, et al. Ginsenoside Rg1 promoted the 
+wound healing in diabetic foot ulcers via miR-489-3p/Sirt1 axis. J 
+Pharmacol Sci. 2021;147(3):271-283. 
+[12] 
+金岩 , 刘闺男 . 人参皂苷 Rg1 对急性心肌梗死大鼠血管新生的作用
+[J]. 中国医科大学学报 ,2007,36(5):517-519.
+[13] 
+MARUYAMA K, NAEMURA K, YOSHIHARA K, et al. Surgical protocol for 
+permanent ligation of the left anterior descending coronary artery 
+in mice to generate a model of myocardial infarction. STAR Protoc. 
+2021;2(3):100775. 
+[14] 
+BORGHI C, BENTIVENGA C, COSENTINO ER. Uric acid and risk of 
+myocardial infarction. A dynamic duo. Int J Cardiol. 2020;320:23-24.
+[15] 
+CRITCHER CR, SIEGEL M. Re-examining the Association Between 
+E-Cigarette Use and Myocardial Infarction: A Cautionary Tale. Am J Prev 
+Med. 2021;61(4):474-482.
+[16] 
+PEET C, IVETIC A, BROMAGE DI, et al. Cardiac monocytes and 
+macrophages after myocardial infarction. Cardiovasc Res. 2020;116(6): 
+1101-1112. 
+[17] 
+TOMOAIA R, BEYER RS, SIMU G, et al. Understanding the role of 
+echocardiography in remodeling after acute myocardial infarction and 
+development of heart failure with preserved ejection fraction. Ultrason. 
+2019;21(1):69-76. 
+[18] 
+JENČA D, MELENOVSKÝ V, STEHLIK J, et al. Heart failure after myocardial 
+infarction: incidence and predictors. ESC Heart Fail. 2021;8(1):222-237. 
+[19] 
+RUDDOX V, SANDVEN I, MUNKHAUGEN J, et al. Atrial fibrillation and 
+the risk for myocardial infarction, all-cause mortality and heart failure: 
+A systematic review and meta-analysis. Eur J Prev Cardiol. 2017;24(14): 
+1555-1566.
+[20] 
+TOMOAIA R, BEYER RS, SIMU G, et al. Understanding the role of 
+echocardiography in remodeling after acute myocardial infarction and 
+development of heart failure with preserved ejection fraction.Med 
+Ultrason. 2019;21(1):69-76. 
+[21] 
+KOC L, ONDRUS T, FILA P, et al. Right ventricular myocardial infarction 
+in the era of primary percutaneous coronary intervention. Bratisl Lek 
+Listy. 2021;122(10):700-707.
+[22] 
+XIAO M, LI Y, GUAN X. Community-Based Physical Rehabilitation After 
+Percutaneous Coronary Intervention for Acute Myocardial Infarction. 
+Tex Heart Inst J. 2021;48(2):e197103. 
+[23] 
+FOKIN AA, KIREEV KA, NETISANOV SV. [Coronary artery bypass grafting 
+in non-ST-segment elevation acute myocardial infarction]. Angiol Sosud 
+Khir. 2020;26(3):142-149. 
+[24] 
+WU X, REBOLL MR, KORF-KLINGEBIEL M, et al. Angiogenesis after acute 
+myocardial infarction. Cardiovasc Res. 2021;117(5):1257-1273.
+[25] 
+MAHTTA D, SUDHAKAR D, KONERU S, et al. Targeting Inflammation 
+After Myocardial Infarction. Curr Cardiol Rep. 2020;22(10):110. 
+[26] 
+DENG Y, ZHANG X, SHEN H, et al. Application of the Nano-Drug 
+Delivery System in Treatment of Cardiovascular Diseases. Front Bioeng 
+Biotechnol. 2020;7:489. 
+[27] 
+FORINI F, CANALE P, NICOLINI G, et al. Mitochondria-Targeted Drug 
+Delivery in Cardiovascular Disease: A Long Road to Nano-Cardio 
+Medicine. Pharmaceutics. 2020;12(11):1122.
+[28] 
+FU Y, TAN L, MENG L, et al. Therapeutic Effects of Paclitaxel Loaded 
+Polyethylene Glycol-Polylactic Acid-Glycolic Acid Copolymer 
+Nanoparticles on Pancreatic Cancer in Rats. J Nanosci Nanotechnol. 
+2020;20(12):7271-7275. 
+[29] 
+HUA Y, SU Y, ZHANG H, et al. Poly(lactic-co-glycolic acid) microsphere 
+production based on quality by design: a review. Drug Deliv. 2021;28(1): 
+1342-1355. 
+[30] 
+SONG F, CHEN L, LIN R, et al. Synthesis of carboxy-polyethylene glycol-
+amine (CA (PEG)n ) and [1-14 C]-CA (PEG)n via oxa-Michael addition 
+of amino-polyethylene glycols to propiolates vs to acrylates. J Labelled 
+Comp Radiopharm. 2020;63(1):15-24. 
+[31] 
+YANG M, JIN L, WU Z, et al. PLGA-PEG Nanoparticles Facilitate In Vivo 
+Anti-Alzheimer’s Effects of Fucoxanthin, a Marine Carotenoid Derived 
+from Edible Brown Algae. J Agric Food Chem. 2021;69(34):9764-9777. 
+[32] 
+晏殊瑾 , 杨珂 , 王河 , 等 . 低强度脉冲超声靶向纳米粒控释 SDF-1
+及 BMP-2 调节 hPDLCs 迁移和成骨分化 [J]. 中国超声医学杂志 ,2022, 
+38(2):222-226.
+[33] 
+WANG B, ZHANG C, CHU D, et al. Astragaloside IV improves 
+angiogenesis under hypoxic conditions by enhancing hypoxia-inducible 
+factor-1α SUMOylation. Mol Med Rep. 2021;23(4):244. 
+[34] 
+DARDEN J, PAYNE LB, ZHAO H, et al. Excess vascular endothelial growth 
+factor-A disrupts pericyte recruitment during blood vessel formation. 
+Angiogenesis. 2019;22(1):167-183.
+[35] 
+JUBAN G, MOUNIER R.[Tissue repair: Key role of annexin A1 in the 
+control of inflammatory response]. Med Sci (Paris). 2021;37(4):            
+324-326.
+[36] 
+TOTLAND MZ, RASMUSSEN NL, KNUDSEN LM, et al. Regulation of 
+gap junction intercellular communication by connexin ubiquitination: 
+physiological and pathophysiological implications. Cell Mol Life Sci. 
+2020;77(4):573-591. 
+[37] 
+LAI Y, FOIS G, FLORES JR, et al. Inhibition of calcium-triggered secretion 
+by hydrocarbon-stapled peptides. Nature. 2022;603(7903):949-956.
+( 责任编辑：GW，ZN，ZJP)

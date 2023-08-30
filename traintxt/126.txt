@@ -1,0 +1,792 @@
+收稿日期： 2022-06-07
+作者简介：马伟凤（1982-），女，硕士研究生，主治医师；E-mail：hs125124@126.com
+基金项目：北京市医院管理局临床医学发展专项“扬帆”计划项目（编号：XMLX202106）
+人参皂苷Rg3通过调节AMPK/mTOR信号通路提高骨质疏松
+老年大鼠骨密度及骨代谢
+马伟凤
+1，
+王亮
+1，
+马彦巧
+1，
+谢媛媛
+1，
+王天天
+1，
+汤玉萌
+1，
+陈文文
+1，
+王云
+2
+（1. 中国人民解放军总医院第八医学中心老年医学科，北京
+100091；2. 北京朝阳医院疼痛科，北京
+100020）
+摘要：
+【目的】 探讨人参皂苷Rg3对老年大鼠骨质疏松的治疗作用及机制。
+【方法】 将30只23月龄雌性SD大鼠随机分为模型
+组，人参皂苷Rg3低、高剂量组，每组10只，另选取10只3月龄雌性SD大鼠设为对照组。人参皂苷Rg3低、高剂量组大鼠
+灌胃 10、20 mg/kg 人参皂苷 Rg3 混悬液，对照组及模型组给予等体积生理盐水灌胃，每日 1 次，连续给药 12 周。给药结束
+后，采用 micro-CT 检测大鼠股骨骨密度（BMD）、骨体积分数（BV/TV），并检测骨微结构骨小梁数量（TB.N）、骨小梁厚度
+（TB.Th）和骨小梁分离度（TB.Sp），采用酶联免疫吸附分析（ELISA）检测大鼠血清Ⅰ型前胶原羧基端前肽（PICP）和骨钙素
+（BGP）水平，采用苏木素-伊红（HE）染色法观察股骨组织病理学变化，采用实时定量聚合酶链反应（qRT-PCR）法检测大鼠股
+骨骨髓中腺苷酸活化蛋白激酶（AMPK）和哺乳动物雷帕霉菌靶蛋白（mTOR）mRNA表达水平，采用Western Blot法检测大鼠股
+骨骨髓中磷酸化腺苷酸活化蛋白激酶（p-AMPK）、AMPK、磷酸化哺乳动物雷帕霉菌靶蛋白（p-mTOR）、mTOR、哺乳动物
+ATG6 同源蛋白（Beclin-1）、微管相关蛋白 1 轻链 3-Ⅱ（LC3-Ⅱ）的蛋白表达水平。【结果】 与模型组比较，人参皂苷 Rg3 低、
+高剂量组大鼠BMD、BV/TV、TB.N、TB.Th、BGP水平升高，TB.Sp、PICP水平降低，股骨骨髓中AMPK mRNA表达与蛋白活
+化水平及 Beclin-1 和 LC3-Ⅱ蛋白表达水平升高，mTOR mRNA 表达与蛋白活化水平降低（均 P＜0.05），且呈量效关系。
+【结论】 人参皂苷Rg3能够提高骨质疏松老年大鼠骨密度，改善骨微结构，其可能是通过调节AMPK/mTOR信号通路促进自
+噬发挥骨保护作用。
+关键词：人参皂苷Rg3；骨质疏松；骨代谢；AMPK/mTOR信号通路；自噬；大鼠
+中图分类号：R285.5
+文献标志码：A
+文章编号：1007-3213（2023）01 - 0163 - 07
+DOI：10. 13359/j. cnki. gzxbtcm. 2023. 01. 026
+Ginsenoside Rg3 Enhances Bone Mineral Density and Bone Metabolism in
+Osteoporotic Aged Rats Through Regulation of AMPK/mTOR
+Signaling Pathway
+MA Wei-Feng
+1，
+WANG Liang
+1，
+MA Yan-Qiao
+1，
+XIE Yuan-Yuan
+1，
+WANG Tian-Tian
+1，
+TANG Yu-Meng
+1，
+CHEN Wen-Wen
+1，
+WANG Yun
+2
+（1. Dept. of Geriatrics，The Eighth Medical Center，General Hospital of the People’s Liberation Army，Beijing 100091，China；
+2. Dept. of Pain Treatment，Beijing Chaoyang Hospital，Beijing 100020，China）
+Abstract：Objective To investigate the therapeutic effect and mechanism of Ginsenoside Rg3 for osteoporosis in
+aged rats. Methods Thirty 23-month-old female SD rats were randomly divided into the model group，Ginsenoside
+Rg3 low- and high- dose groups，with 10 rats in each group，and 10 3-month-old female SD rats were selected
+as the control group. The rats in the Ginsenoside Rg3 low- and high- dose groups were gavaged with 10，20 mg/kg
+of Ginsenoside Rg3 suspension，while the control group and the model group were given an equal volume of normal
+saline. The treatment in all groups were given once daily for consecutive 12 weeks. At the end of the
+administration，the bone mineral density（BMD），bone volume fraction（BV/TV）of the femur，the number of
+trabeculae（TB.N）， the thickness of trabeculae（TB.Th）and the separation of trabeculae（TB.Sp）of the bone
+microstructure of rats were measured by Micro- CT， the serum levels of carboxyterminal propeptide of type I
+procollagen（PICP）and bone glaprotein（BGP）were deteted by enzyme-linked immunosorbent assay（ELISA）. The
+广州中医药大学学报
+Journal of Guangzhou University of Traditional Chinese Medicine
+2023年1月第40卷第1期
+January 2023，Vol. 40，No. 1
+163
+histopathological changes in the femur were observed by hematoxylin- eosin（HE） staining， and the mRNA
+expression levels of adenylate-activated protein kinase（AMPK）and mammalian target protein of Mycobacterium
+rapae（mTOR）in the bone marrow of the rat femur were measured by real- time quantitative polymerase chain
+reaction（qRT-PCR）. The protein expression levels of phosphorylated adenylate-activated protein kinase（p-AMPK），
+AMPK， phosphorylated mammalian target of rapamycin（p- mTOR）， mTOR， mammalian ATG6 homolog
+（Beclin-1）and microtubule-associated protein 1 light chain 3-Ⅱ（LC3-Ⅱ）proteins were detected in rat femoral
+bone marrow by Western Blot. Results Compared with the model group，the levels of BMD，BV/TV，TB.N，TB.
+Th and BGP in rats with Ginsenoside Rg3 low- and high- dose groups were increased，the levels of TB.Sp and
+PICP were decreased， the mRNA expression and protein phosphorylated levels of AMPK and the protein
+expression levels of Beclin-1 and LC3-Ⅱ in bone marrow were increased，and the mRNA expression and protein
+phosphorylated levels of mTOR were decreased（all P＜0.05），and a quantitative-effect relationship was observed.
+Conclusion Ginsenoside Rg3 is able to increase bone mineral density and improve bone microarchitecture in aged
+rats， probably through regulating the AMPK/mTOR signaling pathway to promote autophagy thereby exerting
+osteoprotective effects.
+Keywords：Ginsenoside Rg3；osteoporosis；bone metabolism；AMPK/mTOR signaling pathway；autophagy；
+rats
+骨质疏松症（osteoporosis，OP）是一类以骨微
+结构退化、骨量减少和骨密度下降为特征的代谢
+性疾病，是老年人的常见病
+[1]。据报道，在我国50岁
+以上的中老年人 OP 的发病率约为 30%
+[2]。由于 OP
+发生的骨折病例不断增加，其高致残率和致死率
+严重影响患者的生活质量。目前，临床常用的 OP
+治疗药物为双磷酸盐、甲状旁腺激素片和钙剂
+等，但因其不同程度的耐药性与不良反应，亟需
+寻找新的药物改善现状
+[3]。骨质疏松症归属于中医
+学“骨痿”“骨枯”“虚劳”范畴。人参为五加科
+植物人参Panax ginseng C. A. Mey. 的干燥根和根茎，
+《神农本草经》 记载：“人参，味甘，微寒。主补
+五脏，安精神，定魂魄，止惊悸，除邪气，明
+目，开心益智。久服，轻身延年。”崔燎等
+[4]通过
+动物实验发现，人参具有显著地防治骨质疏松的
+药理作用，提出人参可作为雌激素的代用品用于临
+床各种骨质疏松症的预防和治疗，申请了国家发
+明专利并获得授权。人参皂苷Rg3是提取自人参的
+有效活性成分，具有抗肿瘤、抗氧化活性和抗衰
+老等多种药理作用
+[5-10]。既往有研究显示，人参皂
+苷Rg3具有调控骨代谢，促进骨重塑的作用
+[11]。本
+研究拟通过对比OP老年大鼠与青年大鼠模型，探
+讨人参皂苷 Rg3 对 OP 老年大鼠骨代谢的影响及其
+可能的作用机制，旨在为人参临床防治OP及相关
+药物开发提供参考依据，现将研究结果报道如下。
+1
+材料与方法
+1. 1
+实验动物
+10 只 SPF 级 3 月龄雌性 SD 大鼠，
+体质量220 ~ 250 g，30只23月龄SPF级雌性SD大
+鼠，体质量550 ~ 600 g，购自浙江维通利华实验动
+物技术有限公司，动物质量合格证号：SCXK（浙）
+2019-0001。所有大鼠饲养于SPF级环境7 d，环境
+条件设置为温度 20 ~ 24 ℃，湿度（50 ± 10）%，光
+暗周期为 12 h/12 h。普通饲料与清洁水源充足供
+应。本实验方案已经中国人民解放军总医院第八医
+学中心伦理委员会批准，伦理号：No20211028KY。
+1. 2
+药物、试剂与仪器
+人参皂苷 Rg3（分子式：
+C42H72O13，分子量：785.01328），分子结构如图 1
+所示，由上海西格玛奥德里奇贸易有限公司生
+产，批号：SML0184。Ⅰ型前胶原羧基端前肽
+（PICP）和骨钙素（BGP）酶联免疫吸附分析（ELISA）
+试剂盒（上海博湖生物科技有限公司）；兔抗 β-
+actin 多克隆抗体、兔抗大鼠腺苷酸活化蛋白激酶
+（AMPK） 多克隆抗体、兔抗大鼠哺乳动物雷帕霉
+菌靶蛋白（mTOR）多克隆抗体、兔抗大鼠磷酸化腺
+苷酸活化蛋白激酶（p-AMPK）多克隆抗体、兔抗大
+鼠磷酸化哺乳动物雷帕霉菌靶蛋白（p-mTOR）多克
+隆 抗 体 、 兔 抗 大 鼠 哺 乳 动 物 ATG6 同 源 蛋 白
+（Beclin-1）多克隆抗体和兔抗大鼠微管相关蛋白 1
+轻链 3（LC3-Ⅱ）多克隆抗体、山羊抗兔 IgG（北京
+索莱宝科技有限公司）。viva CT40型micro-CT仪器
+广州中医药大学学报
+2023年第40卷
+164
+（瑞士SCANCO Medical AG公司）；DYY-7C型电泳
+仪（北京六一仪器厂）；ELX-800 型多功能酶标仪
+（美国Bio-Tek公司）。
+1. 3
+分组与给药
+将 30 只 23 月龄大鼠随机分为
+模型组及人参皂苷Rg3低、高剂量组，每组10只，
+另将 10 只 3 月龄大鼠设为对照组。参照文献研
+究
+[12-13]，人参皂苷 Rg3 低、高剂量组大鼠给予灌胃
+10、20 mg/kg人参皂苷Rg3混悬液，对照组及模型组
+给予灌胃等体积生理盐水，每日1次，连续12周。
+1. 4
+样本采集
+末次给药后大鼠禁食 12 h，腹腔
+注射戊巴比妥钠麻醉，仰卧位固定于手术台上，
+腹主动脉采集血液，分离血清，-20 ℃保存。采血
+结束后处死大鼠，剥离大鼠股骨，去除周围肌肉
+等软组织，剪去骨干两端，露出骨髓腔，使用预
+冷的 PBS 溶液反复冲洗骨髓腔，并收集冲出的骨
+髓组织装入无菌冻存管内，-80 ℃保存备用。取部
+分股骨冲洗后放入多聚甲醛溶液中进行脱钙、固定。
+1. 5
+观察指标与方法
+1. 5. 1
+骨显微参数检测
+取大鼠股骨样本，使用
+micro-CT 扫描仪检测各组大鼠股骨骨密度（bone
+mineral density，BMD）和骨体积分数（BV/TV）。仪
+器调试为分辨率：18 mm；源电流：385 μA；旋转
+步骤：0.7。再选取股骨远端干骺区域，检测大鼠
+骨小梁数量（number of trabeculae bone，TB.N）、骨
+小梁厚度（trabecular bone thickness，TB.Th）和骨小
+梁分离度（bone trabecular separation，TB.Sp）。
+1. 5. 2
+ELISA 法 检 测 骨 代 谢 指 标 PICP、 BGP
+水平
+取出血清与 PICP 和 BGP ELISA 试剂盒，平
+衡至室温后严格按照试剂盒说明书检测各组大鼠
+血清中骨代谢指标 PICP 和 BGP 水平。应用酶标仪
+于 450 nm 波长处测定各组样品吸光度值，根据标
+准曲线计算样本浓度。
+1. 5. 3
+HE 染色法观察股骨组织病理变化
+将已
+完成脱钙的股骨组织取出，梯度酒精溶液、二甲
+苯溶液脱水透明，使用石蜡进行包埋，待蜡液完
+全凝固时修整蜡块，应用组织切片机制成 5 μm 薄
+片。将组织切片再次浸入二甲苯、梯度浓度酒精
+溶液脱蜡复水。浸入苏木素染液 5 min，流水冲
+洗，盐酸酒精溶液分化5 s，氨水返蓝，伊红染液染
+色1 min，清水冲洗，常规脱水透明，滴加中性树
+胶封存固片。于光学显微镜下观察股骨组织病理
+变化并进行分析。
+1. 5. 4
+实时荧光定量聚合酶链反应（qRT-PCR）法
+检测股骨骨髓组织AMPK、mTOR mRNA表达
+TRIzol
+法提取股骨骨髓组织总 RNA，检测其浓度与纯度
+后使用逆转录试剂盒合成cDNA。按照试剂盒说明书
+配制反应体系（20 μL）：上、下游引物各 0.4 μL，
+SYBR Premix Ex Tap 10 μL， cDNA 1 μL， RNase
+free ddH2O 8.2 μL。置于PCR仪器设置参数：95 ℃
+30 s，95 ℃ 5 s，60 ℃ 30 s，收集荧光信号，进行
+40个循环。以β-actin为内参，采用2
+-△△CT法计算各
+样本基因mRNA相对表达水平。引物序列见表1。
+表1
+PCR引物序列
+Table 1
+PCR primer sequences
+基因名称
+AMPK
+mTOR
+β-actin
+引物序列（5’-3’）
+上游：GTGGAGTCCTGAACGGCTAG
+下游：GTGCAGGCTTAACGAATTCG
+上游：CAGTTCGCCAGTGGACTGAAG
+下游：GCTGGTCATAGAAGCGAGTAGAC
+上游：GGCTGTATTCCCCTCCATCG
+下游：CCAGTTGGTAACAATGCCATGT
+产物长度/bp
+85
+125
+145
+1. 5. 5
+Western Blot 法 检 测 股 骨 骨 髓 组 织 中
+p-AMPK、AMPK、p-mTOR、mTOR、Beclin-1 和
+LC3-Ⅱ蛋白表达
+提前取出裂解液室温下融化，
+取适量股骨骨髓组织置于研钵内，加入裂解液冰
+上静置，取上清液后用 BCA 蛋白试剂盒测定蛋白
+含量。组装电泳装置，配制聚丙烯酰胺凝胶，进
+行电泳，恒压80 V电泳2.5 h。300 mA将蛋白转至
+聚偏氟乙烯（PVDF）膜上。TBST缓冲液加入脱脂牛
+奶制备封闭液，将膜加入封闭液室温封闭 2 h，再
+分别加入p-AMPK、p-mTOR、Beclin-1 和 LC3-Ⅱ
+等 一 抗（均 体 积 比 1∶1 000 稀 释），4 ℃孵育过
+夜。浸入TBST 缓冲液中洗膜5 min，反复4次，加
+入二抗（体积比 1∶5 000 稀释），室温孵育 60 min。
+图1
+人参皂苷Rg3分子结构
+Figure 1
+Molecular structure of Ginsenoside Rg3
+第 1 期
+马伟凤，等． 人参皂苷Rg3通过调节AMPK/mTOR信号通路提高骨质疏松老年大鼠骨密度及骨代谢
+第 1 期
+165
+洗膜后，加入增强化学发光（ECL）试剂显色后，
+置于凝胶成像系统上进行成像。以 β-actin 为内
+参，采用 ImageJ 软件分析条带灰度值，以目的蛋
+白与内参灰度值比值作为目的蛋白的相对表达量。
+1. 6
+统计方法
+采用 SPSS 23.0 统计软件分析数
+据，计量数据以均数 ± 标准差（x ± s）表示，多组间
+比较采用单因素方差分析（One-way ANOVA），组
+间两两比较采用 LSD-t 检验。以 P＜0.05 为差异有
+统计学意义。
+2
+结果
+2. 1
+各组大鼠骨密度比较
+表 2 结果显示：与对
+照组比较，模型组大鼠股骨 BMD 和 BV/TV 水平降
+低（P＜0.05）；与模型组比较，人参皂苷 Rg3 低、
+高剂量组大鼠股骨 BMD 和 BV/TV 水平升高（P＜
+0.05）；与人参皂苷 Rg3 低剂量组比较，人参皂苷
+Rg3 高剂量组大鼠股骨 BMD 和 BV/TV 水平升高
+（P＜0.05）。
+2. 2
+各组大鼠骨形态学指标比较
+表3结果显示：
+与对照组比较，模型组大鼠 TB.N 和 TB.Th 水平降
+低，TB.Sp水平升高（P＜0.05）；与模型组比较，人
+参皂苷 Rg3 低、高剂量组大鼠 TB.N 和 TB.Th 水平
+升高，TB.Sp水平降低（P＜0.05）；与人参皂苷Rg3
+低剂量组比较，人参皂苷 Rg3 高剂量组大鼠 TB.N
+和TB.Th水平升高，TB.Sp水平降低（P＜0.05）。
+表3
+各组大鼠骨形态学指标比较
+Table 3
+Comparison of bone morphological indexes among various groups of rats
+（x ± s）
+组别
+对照组
+模型组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3高剂量组
+鼠数/只
+10
+10
+10
+10
+TB.N/（个·mm
+-2）
+5.40 ± 0.37
+3.07 ± 0.26
+①
+3.82 ± 0.21
+②
+4.69 ± 0.28
+②③
+TB.Th/μm
+78.44 ± 4.28
+46.84 ± 2.62
+①
+59.55 ± 2.91
+②
+72.53 ± 3.52
+②③
+TB.Sp/mm
+0.24 ± 0.03
+0.38 ± 0.04
+①
+0.31 ± 0.03
+②
+0.25 ± 0.02
+②③
+注：①P＜0.05，与对照组比较；②P＜0.05，与模型组比较；③P＜0.05，与人参皂苷Rg3低剂量组比较
+表2
+各组大鼠骨密度比较
+Table 2
+Comparison of bone mineral density among
+various groups of rats
+（x ± s）
+组别
+对照组
+模型组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3高剂量组
+鼠数/只
+10
+10
+10
+10
+BMD/（g·cm
+-2）
+0.39 ± 0.05
+0.22 ± 0.02
+①
+0.29 ± 0.03
+②
+0.37 ± 0.03
+②③
+（BV/TV）值/%
+72.45 ± 4.04
+46.71 ± 3.24
+①
+54.19 ± 3.68
+②
+68.23 ± 3.90
+②③
+注：①P＜0.05，与对照组比较；②P＜0.05，与模型
+组比较；③P＜0.05，与人参皂苷Rg3低剂量组比较
+2. 3
+各组大鼠骨代谢指标水平比较
+表 4 结果显
+示：与对照组比较，模型组大鼠血清 PICP 水平升
+高，BGP 水平降低（P＜0.05）；与模型组比较，人
+参皂苷 Rg3 低、高剂量组大鼠血清 PICP 水平降
+低，BGP 水平升高（P＜0.05）；与人参皂苷 Rg3 低
+剂量组比较，人参皂苷 Rg3 高剂量组大鼠血清
+PICP水平降低，BGP水平升高（P＜0.05）。
+2. 4
+各组大鼠股骨组织病理学表现比较
+图 2 结
+果显示：与对照组比较，模型组大鼠股骨组织干
+骺端骨小梁数量明显减少，结构破坏严重，骨小
+梁稀疏、排列紊乱，骨小梁变薄，间隙变宽，骨
+髓腔内空洞较多；人参皂苷Rg3低、高剂量组大鼠
+股骨组织可见骨小梁数量明显增多，结构逐渐恢
+复正常，骨小梁排列紧密，骨小梁变厚，间隙恢
+复正常，且骨小梁之间的连接在一定程度上得到
+改善。
+2. 5
+各组大鼠股骨骨髓组织AMPK和mTOR mRNA
+表达比较
+表5结果显示：与对照组比较，模型组
+大鼠股骨骨髓组织中 AMPK mRNA 表达水平降低，
+mTOR mRNA 表达水平升高（P＜0.05）；与模型组
+表4
+各组大鼠骨代谢指标水平比较
+Table 4
+Comparison of levels of bone metabolic
+markers among various groups of rats（x ± s，ng·mL
+-1）
+组别
+对照组
+模型组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3高剂量组
+鼠数/只
+10
+10
+10
+10
+PICP
+41.82 ± 3.56
+68.36 ± 5.19
+①
+52.09 ± 4.17
+②
+44.29 ± 3.12
+②③
+BGP
+13.93 ± 1.35
+6.79 ± 0.58
+①
+9.80 ± 0.90
+②
+12.85 ± 1.31
+②③
+注：①P＜0.05，与对照组比较；②P＜0.05，与模型
+组比较；③P＜0.05，与人参皂苷Rg3低剂量组比较
+广州中医药大学学报
+2023年第40卷
+166
+比较，人参皂苷 Rg3 低、高剂量组大鼠 AMPK
+mRNA 表达水平升高，mTOR mRNA 表达水平降低
+（P＜0.05）；与人参皂苷 Rg3 低剂量组比较，人参
+皂苷 Rg3 高剂量组大鼠 AMPK mRNA 表达水平升
+高，mTOR mRNA表达水平降低（P＜0.05）。
+2. 6
+各组大鼠股骨骨髓组织 AMPK 和 mTOR 活化
+水平比较
+表 6、图 3 结果显示：与对照组比较，
+模型组大鼠股骨骨髓组织中p-AMPK/AMPK比值降
+低，p-mTOR/mTOR比值升高（P＜0.05）；与模型组
+比较，人参皂苷 Rg3 低、高剂量组大鼠 p-AMPK/
+AMPK 比值升高，p-mTOR/mTOR 比值降低（P＜
+0.05）；与人参皂苷 Rg3 低剂量组比较，人参皂苷
+Rg3 高 剂 量 组 大 鼠 p-AMPK/AMPK 比 值 升 高 ，
+p-mTOR/mTOR比值降低（P＜0.05）。
+2. 7
+各组大鼠股骨骨髓组织自噬蛋白 Beclin-1 和
+LC3-Ⅱ水平比较
+表7、图4结果显示：与对照组
+比较，模型组大鼠股骨骨髓组织中 Beclin-1 和
+LC3-Ⅱ蛋白表达水平降低（P＜0.05）；与模型组比
+较，人参皂苷 Rg3 低、高剂量组大鼠 Beclin-1 和
+LC3-Ⅱ蛋白表达水平升高（P＜0.05）；与人参皂苷
+Rg3 低剂量组比较，人参皂苷 Rg3 高剂量组大鼠
+Beclin-1和LC3-Ⅱ蛋白表达水平升高（P＜0.05）。
+3
+讨论
+随着年龄的增长，受多种因素干扰，骨形成
+与骨吸收之间平衡失调，导致过多的骨质流失
+[14]。
+本研究选用 23 月龄的雌性大鼠作为研究模型，模
+图2
+各组大鼠股骨组织病理学表现比较（HE染色，×10）
+Figure 2
+HE staining results of femoral tissue in each
+group of rats（HE staining，×10）
+a.对照组
+b.模型组
+c.人参皂苷Rg3低剂量组
+d.人参皂苷Rg3高剂量组
+表5
+各组大鼠股骨骨髓组织AMPK和mTOR mRNA
+表达水平比较
+Table 5
+Comparison of mRNA expression levels of
+AMPK and mTOR in femoral bone marrow tissue
+among various groups of rats
+（x ± s）
+组别
+对照组
+模型组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3高剂量组
+鼠数/只
+10
+10
+10
+10
+AMPK mRNA
+相对表达量
+1.14 ± 0.12
+0.37 ± 0.04
+①
+0.63 ± 0.06
+②
+0.85 ± 0.09
+②③
+mTOR mRNA
+相对表达量
+0.28 ± 0.02
+0.95 ± 0.10
+①
+0.59 ± 0.05
+②
+0.33 ± 0.02
+②③
+注：①P＜0.05，与对照组比较；②P＜0.05，与模型
+组比较；③P＜0.05，与人参皂苷Rg3低剂量组比较
+表6
+各组大鼠股骨骨髓组织p-AMPK/AMPK、p-mTOR/
+mTOR比值比较
+Table 6
+Comparison of ratios of p-AMPK/AMPK and
+p-mTOR/mTOR in femoral bone marrow tissue
+among various groups of rats
+（x ± s）
+组别
+对照组
+模型组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3高剂量组
+鼠数/只
+10
+10
+10
+10
+p-AMPK/AMPK
+比值
+0.87 ± 0.07
+0.31 ± 0.04
+①
+0.61 ± 0.07
+②
+0.85 ± 0.09
+②③
+p-mTOR/mTOR
+比值
+0.26 ± 0.02
+0.89 ± 0.09
+①
+0.56 ± 0.06
+②
+0.31 ± 0.03
+②③
+注：①P＜0.05，与对照组比较；②P＜0.05，与模型
+组比较；③P＜0.05，与人参皂苷Rg3低剂量组比较
+注：1. 对照组；2. 模型组；3. 人参皂苷 Rg3 低剂量
+组；4. 人参皂苷Rg3高剂量组
+图3
+股骨骨髓组织AMPK和mTOR及其磷酸化蛋白
+Western Blot电泳图
+Figure 3
+Western Blot electrophoretogram of AMPK
+and mTOR as well as their phosphorylated proteins
+in femoral bone marrow tissue
+110 kDa
+110 kDa
+289 kDa
+289 kDa
+42 kDa
+p-AMPK
+AMPK
+p-mTOR
+mTOR
+β-actin
+1
+2
+3
+4
+马伟凤，等． 人参皂苷Rg3通过调节AMPK/mTOR信号通路提高骨质疏松老年大鼠骨密度及骨代谢
+第 1 期
+167
+拟老年人骨质流失状态，观察人参皂苷Rg3对骨质
+疏松症（OP）老年大鼠骨密度与骨代谢过程的影
+响。HE 染色结果显示，与对照组青年大鼠比较，
+模型组老年大鼠结构破坏严重，骨小梁稀疏、排
+列紊乱，骨小梁变薄，间隙变宽，分离度较高，
+骨髓腔内空洞较多。micro-CT 扫描仪检测发现，
+模型组老年大鼠股骨组织 BMD 与 BV/TV 水平降
+低，且 TB.N 和 TB.Th 水平降低，TB.Sp 水平升高，
+与模型组老年大鼠病理结果相符。表明老年大鼠
+出现骨质流失情况，骨微结构受到严重破坏，提
+示 OP 模型建立成功。给予不同剂量的人参皂苷
+Rg3 治疗后老年大鼠股骨组织 BMD 和 BV/TV 水平
+均呈上升趋势，呈现剂量依赖式，表明人参皂苷
+Rg3可提升OP老年大鼠骨密度，显著促进OP老年
+大鼠骨形成。检测大鼠血清中骨代谢指标 PICP、
+BGP 水平发现，人参皂苷 Rg3 低、高剂量组血清
+PICP 水平降低，BGP 水平升高。PICP 是反映骨转
+换率的主要标志物，也是公认的骨吸收重要指
+标；BGP是骨形成指标
+[15]。表明人参皂苷Rg3可以
+显著降低老年大鼠的骨胶原代谢水平，使其高转
+换的状态逐渐降低，并促进骨形成，以保持骨代
+谢的动态平衡。
+自噬是细胞维持稳态的重要机制，细胞通过
+自噬降解残余蛋白和老化细胞器为其他生理活动
+提供能量，自噬常被认为是不良刺激和微环境失
+衡状态下细胞的自我保护过程
+[16-18]。mTOR 蛋白是
+一种非典型的丝/苏氨酸蛋白激酶，是调控细胞自
+噬水平的重要通路之一
+[19]。研究表明，AMPK/
+mTOR 信号通路在骨代谢过程中发挥着重要作用。
+在参与骨代谢中，mTOR作为AMPK的下游信号因
+子，受到 AMPK 水平的调控。在营养不足等应激
+条件下，AMPK感应到能量状态的改变，进而以磷
+酸化的形式被激活，负反馈调节下游因子mTOR的
+活性。p-mTOR作为关键靶蛋白，对自噬水平进行
+调控
+[20]。本研究结果显示，模型组老年大鼠股骨骨
+髓组织 AMPK 基因与蛋白表达水平均降低，且
+mTOR基因与蛋白表达水平升高，结合大鼠自噬蛋
+白Beclin-1和LC3-Ⅱ水平也呈降低趋势，表明 OP
+老年大鼠体内 AMPK/mTOR 信号通路活性受到影
+响，自噬水平降低。当给予人参皂苷 Rg3 治疗后，
+OP 老年大鼠股骨骨髓组织 AMPK 基因与蛋白表达
+水平均升高，且 mTOR 基因与蛋白表达水平降低，
+自噬蛋白 Beclin-1 和 LC3-Ⅱ水平也逐渐升高，表
+明人参皂苷Rg3能够调节骨髓组织AMPK/mTOR信
+号通路，促进骨细胞自噬，发挥积极的 OP 治疗
+作用。
+综上所述，人参皂苷 Rg3 能够提高 OP 老年大
+鼠骨密度，改善骨微结构，促进骨形成，其机制
+可能与调节 AMPK/mTOR 信号通路，提高骨细胞
+自噬发挥骨保护作用有关。
+参考文献：
+［1］ ZHANG F，XIE J，WANG G，et al. Anti-osteoporosis activity of
+sanguinarine
+in
+preosteoblast
+MC3T3- E1
+cells
+and
+an
+ovariectomized rat model［J］. J Cell Physiol， 2018， 233（6）：
+4626-4633.
+［2］ SABRY M， MOSTAFA S， KAMAR S， et al. The cross- talk
+between matrix metalloproteinase- 9， RANKL/OPG system and
+cardiovascular
+risk
+factors
+in
+ovariectomized
+rat
+model
+of
+postmenopausal osteoporosis［J］. PLoS One， 2021， 16（10）：
+254-258.
+注：1. 对照组；2. 模型组；3. 人参皂苷 Rg3 低剂量
+组；4. 人参皂苷Rg3高剂量组
+图4
+股骨骨髓组织Beclin-1和LC3-Ⅱ蛋白
+Western Blot电泳图
+Figure 4
+Western Blot electrophoretogram of Beclin-1
+and LC3-Ⅱ proteins in femoral bone marrow
+1
+2
+3
+4
+52 kDa
+26 kDa
+42 kDa
+Beclin-1
+LC3-Ⅱ
+β-actin
+广州中医药大学学报
+2023年第40卷
+表7
+各组大鼠股骨骨髓组织自噬蛋白Beclin-1和LC3-Ⅱ
+蛋白表达水平比较
+Table 7
+Comparison of the protein expression levels of
+the autophagy proteins Beclin-1 and LC3-II in femoral
+bone marrow tissue among various groups of rats （x ± s）
+组别
+对照组
+模型组
+人参皂苷Rg3低剂量组
+人参皂苷Rg3高剂量组
+鼠数/只
+10
+10
+10
+10
+Beclin-1蛋白
+相对表达量
+0.78 ± 0.08
+0.24 ± 0.03
+①
+0.49 ± 0.04
+②
+0.83 ± 0.07
+②③
+LC3-Ⅱ蛋白
+相对表达量
+0.73 ± 0.07
+0.33 ± 0.03
+①
+0.54 ± 0.05
+②
+0.87 ± 0.09
+②③
+注：①P＜0.05，与对照组比较；②P＜0.05，与模型
+组比较；③P＜0.05，与人参皂苷Rg3低剂量组比较
+168
+［3］ WAWRZYNIAK N，SULIBURSKA J，KULCZYŃSKI B，et al.
+Calcium- enriched pumpkin affects serum leptin levels and fat
+content in a rat model of postmenopausal osteoporosis ［J］.
+Nutrients，2021，13（7）：2334-2335.
+［4］ 崔燎，吴铁. 人参及人参茎叶提取物防治骨质疏松症的新用
+途：中国，00104283.1.2［P/OL］. 2000-05-16[2001-11-28].
+http://211.157.104.87:8080/sipo/zljs/hyjs- yx- new.jsprecid=
+CN00104283. 1&leixin=fmzl&title=人参及人参茎叶提取物防治
+骨质疏松症的新用途 &ipc=A61K35/78.
+［5］ LI L， WANG Y， GUO R， et al. Ginsenoside Rg3- loaded，
+reactive oxygen species- responsive polymeric nanoparticles for
+alleviating myocardial ischemia- reperfusion injury［J］. J Control
+Release，2020，317（10）：259-272.
+［6］ WANG T，ZHANG C，WANG S，et al. Ginsenoside Rg3 inhibits
+osteosarcoma progression by reducing circ_0003074 expression in
+a miR- 516b- 5p/KPNA4- dependent manner［J］. J Orthop Surg
+Res，2021，16（1）：724-725.
+［7］ ZHU Y，LIANG J，GAO C，et al. Multifunctional ginsenoside
+Rg3- based liposomes for glioma targeting therapy［J］. J Control
+Release，2021，330 （2）：641-657.
+［8］ ZHANG Y，YANG X，WANG S，et al. Ginsenoside Rg3 prevents
+cognitive impairment by improving mitochondrial dysfunction in
+the rat model of Alzheimer’s Disease［J］. J Agric Food Chem，
+2019，67（36）：10048-10058.
+［9］ TU C， WAN B， ZENG Y， et al. Ginsenoside Rg3 alleviates
+inflammation in a rat model of myocardial infarction via the SIRT1/
+NF-κB pathway［J］. Exp Ther Med，2020，20（6）：238-239.
+［10］ ZHANG X， HUANG F， CHEN X， et al. Ginsenoside Rg3
+attenuates ovariectomy- induced osteoporosis via AMPK/mTOR
+signaling pathway［J］. Drug Dev Res，2020，81（7）：875-884.
+［11］ ZHU Y，HU C，ZHENG P，et al. Ginsenoside Rb3 alleviates
+aluminum chloride- induced rat osteoblasts dysfunction ［J］.
+Toxicology，2016，368 （8）：183-188.
+［12］ LIU X， MI X， WANG Z， et al. Ginsenoside Rg3 promotes
+regression from hepatic fibrosis through reducing inflammation-
+mediated autophagy signaling pathway［J］. Cell Death Dis，
+2020，11（6）：454-455.
+［13］ SONG M，CUI Y，WANG Q，et al. Ginsenoside Rg3 alleviates
+aluminum
+chloride- induced
+bone
+impairment
+in
+rats
+by
+activating the TGF-β1/Smad signaling pathway［J］. J Agric Food
+Chem，2021，69（43）：12634-12644.
+［14］ ZHAO Y，XU Y，ZHENG H，et al. QingYan formula extracts
+protect against postmenopausal osteoporosis in ovariectomized rat
+model via active ER-dependent MEK/ERK and PI3K/Akt signal
+pathways［J］. J Ethnopharmacol，2021，268（3）：1136-1144.
+［15］ 王权，何贡云，杨婉纯，等. 钙联合淫羊藿及女贞子增强骨
+密度作用及机制探索［J］. 中药材，2020，43（11）：2789-
+2793.
+［16］ LI W，HE P，HUANG Y，et al. Selective autophagy of intracel⁃
+lular organelles： recent research advances［J］. Theranostics，
+2021，11（1）：222-256.
+［17］ LIU G Y， SABATINI D M. mTOR at the nexus of nutrition，
+growth，ageing and disease［J］. Nat Rev Mol Cell Biol，2020，
+21（4）：183-203.
+［18］ KAKIHATA C M， PERETTI A L， TAVARES A L， et al.
+Morphometric effects of whole-body vibration on the bone in a rat
+model of postmenopausal osteoporosis［J］. J Manipulative Physiol
+Ther，2020，43（5）：551-557.
+［19］ XU Z， HAN X， OU D， et al. Targeting PI3K/AKT/mTOR-
+mediated autophagy for tumor therapy ［J］. Appl Microbiol
+Biotechnol，2020，104（2）：575-587.
+［20］ HAN D，JIANG L，GU X，et al. SIRT3 deficiency is resistant
+to autophagy- dependent ferroptosis by inhibiting the AMPK/
+mTOR pathway and promoting GPX4 levels［J］. J Cell Physiol，
+2020，235（11）：8839-8851.
+【责任编辑：侯丽颖】
+马伟凤，等． 人参皂苷Rg3通过调节AMPK/mTOR信号通路提高骨质疏松老年大鼠骨密度及骨代谢
+第 1 期
+169

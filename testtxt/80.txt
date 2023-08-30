@@ -1,0 +1,582 @@
+［收稿日期］ 2019-02-22
+［修回日期］ 2019-05-18
+［作者简介］ 杨军华，主治医师，研究方向为神经内科，E-mail 为 234904722@ qq． com。
+［文章编号］ 1007-3949( 2019) 27-09-0751-07
+·实验研究·
+人参皂苷 Ｒg1 对脑缺血再灌注损伤大鼠神经细胞凋亡及
+FZD1、PIWIL1、FOXM1 表达的影响
+杨军华，郝彦超，朱 杰
+( 开封市中心医院神经内科，河南省开封市 475000)
+［关键词］ 人参皂苷 Ｒg1;
+脑缺血再灌注;
+神经功能缺损;
+大鼠
+［摘
+要］ 目的
+探讨人参皂苷 Ｒg1( GsＲg1) 对脑缺血再灌注损伤模型大鼠神经功能的改善作用，并探讨其作用
+机制。方法
+缺血再灌注损伤 Wistar 大鼠随机分为假手术组、模型对照组、依达拉奉组( 3. 2 mg/kg) 、GsＲg1 低( 10
+mg/kg) 、中( 20 mg/kg) 、高( 50 mg/kg) 剂量组 6 组。给药后 1 d、7 d 和 14 d 采用改良 m-NSS 法进行神经功能缺损
+评分，氯化三苯基四氮唑( TTC) 染色测定脑梗死体积; 采用原位 TUNEL 方法检测脑组织神经细胞凋亡; 采用免疫
+组化法检测 NF-κB、GAFP 蛋白水平; 采用 ＲT-PCＲ 法、Western Blot 法分别检测 FZD1、PIWIL1、FOXM1 mＲNA 和蛋
+白表达水平。结果
+与模型对照组比较，GsＲg1 低剂量组大鼠神经缺损评分明显降低( P＜0. 05) ，GsＲg1 中、高剂量
+组大鼠神经缺损评分明显降低( P＜0. 01) ; GsＲg1 低、中、高剂量组神经凋亡细胞明显减少( P＜0. 01) ，脑梗死体积显
+著缩小( P＜0. 01) ，大鼠脑组织 NF-κB、GAFP 表达显著降低( P＜0. 01) ，FZD1、FOXM1 mＲNA 及蛋白表达水平显著增
+加( P＜0. 01) ，PIWIL1 mＲNA 及蛋白表达水平显著降低( P＜0. 01) ，且呈现一定的剂量依赖性。结论
+GsＲg1 能够
+显著改善脑缺血再灌注损伤大鼠的神经功能，其可能是通过调控 FZD1、PIWIL1、FOXM1 相关基因及蛋白的表达实
+现的。
+［中图分类号］ Ｒ5
+［文献标识码］
+A
+Effects of Ginsenoside Ｒg1 on apoptosis of nerve cells and expression of FZD1，PI-
+WIL1 and FOXM1 in cerebral ischemia reperfusion rats
+YANG Junhua，HAO Yanchao，ZHU Jie
+( Department of Neurology，Kaifeng Central Hospital，Kaifeng，Henan 475000，China)
+［KEY WOＲDS］ Ginsenoside Ｒg1;
+Cerebral ischemia reperfusion;
+neurologic impairment;
+rats
+［ABSTＲACT］
+Aim
+To investigate the effect of Ginsenoside Ｒg1 on the improvement of nerve function in rats with
+Cerebral ischemia reperfusion and its mechanism．
+Methods
+Wistar rats with ischemia reperfusion injury were ran-
+domly divided into sham group，model group，edaravone group ( 3. 2 mg/kg) ，low ( 10 mg) ，medium ( 20 mg) and high
+( 50 mg) dose groups．
+At 1 d，7 d and 14 d after administration，modified m-nss method was used to score neurological
+defects，and triphenyltetrazolium chloride ( TTC) staining was used to determine the volume of cerebral infarction．
+TUNEL assay In situ was used to detect neuronal apoptosis in brain tissue．
+Immunohistochemistry was used to detect the
+levels of NF-kB and GAFP．
+The expression levels of FZD1，PIWIL1，FOXM1 mＲNA and protein were detected by ＲT-
+PCＲ and Western Blot．
+Ｒesults
+Compared with model control group，the m-NSS were significantly decreased in low
+dose ginsenoside Ｒg1 group ( P＜0. 05) ; the m-NSS were significantly decreased in medium and high dose groups ( P＜
+0. 01) ; in low，medium and high dose ginsenoside Ｒg1 groups，the nerve apoptosis cells were significantly decreased ( P＜
+0. 01) ，brain infarct volume were significantly reduced ( P＜0. 01) ，the expression of NF-κB and GAFP were significantly
+decreased( P＜0. 01) ; The mＲNA and protein expressions of FZD1，FOXM1 were significantly increased ( P＜0. 01) ; The
+mＲNA and protein expressions of PIWIL1 were significantly decreased ( P＜0. 01) ．
+Conclusions
+Ginsenoside Ｒg1
+can significantly improve the neural function of rats with Cerebral ischemia reperfusion．
+It may be achieved by regulating
+the expression of FZD1，PIWIL1，FOXM1 genes and proteins．
+751
+CN 43-1262 /Ｒ
+中国动脉硬化杂志 2019 年第 27 卷第 9 期
+缺血性脑卒中是当前社会发病率较高的一种
+疾病，病死率和致残率居高不下，脑部缺血后，大量
+神经细胞凋亡，导致脑功能损伤，使患者出现神经
+功能缺损症状，甚者瘫痪、死亡等，给患者生活带来
+很大危害
+［1］。人参皂苷对脑神经功能有一定的保
+护作用，但其作用机制比较复杂，人参皂苷 Ｒgl( Gin-
+senoside Ｒg1，GsＲg1) 是近年来研究较多的一种人
+参皂苷，其主要的靶器官是中枢神经系统
+［2］。有研
+究显示，GsＲg1 可通过增加细胞膜流动性或选择性
+降低异常升高的胞内游离钙离子浓度来降低神经
+细胞凋亡，达到保护神经功能的作用
+［3］，但 GsＲg1
+对脑缺血神经细胞的保护机制尚未明确，需要进一
+步探索。本研究拟探讨大鼠脑缺血再灌注损伤后，
+GsＲg1 对神经细胞的 保 护 作 用 及 其 对 FZD1、PI-
+WIL1、FOXM1 表达的影响，为缺血性脑卒中治疗寻
+找新的治疗靶点。
+1
+材料和方法
+1． 1
+动物、主要药品、试剂及仪器
+健康雄性 Wistar 大鼠 150 只，SPF 级，体质量
+240 ～ 260 g，由青岛市药物检验所实验动物中心提
+供［SCXK( 鲁) 20030010］。
+GsＲg1( 南京春秋生物工程有限公司，纯度≥
+98% ) ; 依达拉奉注射液( 国药集团国瑞药业有限公
+司，国药准字 H20080056，规格 20 mL ∶ 30 mg) ; 2，
+3，5-三苯基氯化三苯基四氮唑( TCC) ( 美国 Sigma
+公司) ; TUNEL 凋亡试剂盒( 美国 Ｒoche 公司) ; 反转
+录试剂盒( TransGen 公司) ; NF-κB、GAFP、FZD1、PI-
+WIL1、FOXM1 一 抗、β-actin 一 抗 ( 英 国 Abcam 公
+司) ; ＲT-PCＲ 试剂盒、Werstern blot 试剂盒 ( 北京
+TransGen 公司) ; HＲP 标记羊抗兔 IgG 二抗、HＲP 标
+记羊抗鼠 IgG 二抗( 美国 Santa Cruz 公司) 。
+超低 温 冰 箱 ( 日 本 SANYO 公 司，型 号 MDF-
+382E) ; SW-CJ-2FD 型超净工作台( 苏州安泰空气技
+术有限公司) ; 离心机( 上海安亭科学仪器厂) ; 荧光
+倒置显微镜( 日本 SANYO 公司，型号 MDF-382E) ;
+电子分析天平( 上海精密科学仪器公司) ; IQ5 荧光
+定量 PCＲ 仪( 美国 ABI 公司) ; Westernn blot 蛋白显
+影仪( 美国 Protein Simple 公司) 。
+1． 2
+分组及给药
+随机选 20 只大鼠为假手术组。余 130 只大鼠
+进行缺血再灌注损伤模型制备，成功造模 106 只，取
+100 只随机分为 5 组，每组 20 只，分别为模型对照
+组、依达拉奉组( Edaravone) 、Gs Ｒgl 低、中、高剂量
+组，各组大鼠于再灌注 24 h 后开始给药，Gs Ｒgl 组
+分别灌胃给予 Gs Ｒgl 10 mg /kg、20 mg /kg、50 mg /
+kg，依达拉奉组腹腔注射依达拉奉 3． 2 mg /kg，假手
+术组及模型对照组给予等量生理盐水，每天 1 次，连
+续给药 2 周。
+1． 3
+脑缺血再灌注损伤模型制备
+参照 Longa 等
+［4］提出的大脑中动脉栓塞线栓
+法，制备脑缺血再灌注模型。大鼠腹膜腔注射 10%
+水合氯醛( 300 mg /kg) 麻醉，仰卧位固定，颈部备
+皮，碘伏消毒，铺无菌洞巾，取颈部正中切口，分离
+左侧颈总动脉、颈内动脉、颈外动脉，结扎并游离颈
+外动脉主干，在颈外动脉剪一小口，由切口向颈内
+动脉插入，直至有轻微阻力感时停止，固定线栓，扎
+紧动脉残端，缺血 2 h，然后将线栓轻轻拔出。假手
+术组( 20 只) 除不插线栓外，其余步骤同模型对
+照组。
+模型标准参照 Zea-Longa
+［4］的 5 分制法: 0 分无
+任何神经缺损症状; l 分右前肢不能完全伸直; 2 分
+向右旋转; 3 分向右侧倾倒; 4 分不能行走或昏迷。
+分值越高，说明大鼠行为障碍越严重，1 ～ 3 分为成
+功模型，其余剔除。
+1． 4
+改良 mNSS 法评价行为学变化
+分别在给药 1、7、14 d，将各组大鼠放于地面，观
+察大鼠的活动状况。参考改良大鼠神经功能缺损
+评分( modified neurological severity score，mNSS)
+［5］，
+从感觉、生理反射、平衡能力及运动等对大鼠各项
+生理功能进行评分，正常为 0 分，有缺损者根据与量
+表匹配的严重程度记 1 ～ 6 分，各项累加，总分最高
+18 分，分值越大表明神经功能损伤越严重。
+1． 5
+氯化三苯基四氮唑( TTC) 染色法测定脑梗死
+体积
+末次给药 2 h 后，每组取 5 只大鼠，以 10% 水合
+氯醛 0． 3 mL 腹腔注射麻醉，断头取脑，自前向后将
+脑组织连续切成 2 mm 厚的冠状切片，置于 2% 氯化
+三苯基四氮唑( TTC) 磷酸盐缓冲液中，37℃ 下避光
+染色 10 min，含 4% 多聚甲醛的 PBS 溶液固定，正常
+脑组织为红色，梗死组织为白色，逐层拍照，用 Ado-
+be photoshop CS 计算各层面梗死面积，乘以层面，为
+脑梗死体积。
+1． 6
+脑组织取材
+余大鼠末次给药 2 h 后，以 10% 水合氯醛 0． 3
+mL 腹腔注射麻醉，常规胸腹联合切口，经左心室插
+管，分别用生理盐水、含 4% 多聚甲醛的 0． 1 mol/L
+磷酸盐缓冲液灌注固定，迅速断头，取双侧脑组织。
+752
+ISSN 1007-3949 Chin J Arterioscler，Vol 27，No 9，2019
+1． 7
+采用原位 TUNEL 方法检测细胞凋亡
+大鼠脑组织固定于 4% 多聚甲醛溶液，梯度乙醇
+脱水、二甲苯透明、石蜡包埋，切片，厚度 6 μm，置于
+多聚赖氨酸处理的载玻片上，脱蜡水化，以 0． 1 mol/L
+柠檬酸缓冲液浸泡，置于 0． 1 mol/L Tris-HCl( 含 3%
+BSA，20% 小牛血清) 浸泡，滴加 TUNEL 反应液，37 ℃
+避光孵育 1 h，荧光显微镜下选用蓝色激发光( 波长
+488 nm) ，观察有无发出黄绿色荧光( FITC) 的凋亡细
+胞，镜下随机取 4 个视野计数阳性细胞。
+1． 8
+采用免疫组化法检测 NF-κB、GAFP 表达
+大鼠脑组织固定于 4% 多聚甲醛溶液，梯度乙
+醇脱水、二甲苯透明、石蜡包埋，切片，厚度 6 μm，将
+切片置于二甲苯Ⅰ、Ⅱ中各 10 min 脱蜡，梯度乙醇
+水化，PBS 洗涤 3 次，切片放入柠檬酸缓冲液 20 min
+( 95 ～ 98 ℃) ，冷却至室温，PBS 洗涤 3 次，3% H2O2
+浸泡 10 min，加入一抗，4 ℃ 孵育过夜，PBS 洗涤 3
+次，加入二抗，37 ℃孵育 60 min，PBS 洗涤 3 次，DAB
+显色，光镜下观察胞质或胞核有棕色颗粒者为阳性
+细胞。
+1． 9
+ＲT-PCＲ 检 测 大 鼠 脑 组 织 FZD1、PIWIL1、
+FOXM1 mＲNA 的表达
+末次给药 2 h 后，麻醉大鼠，颈动脉处死放干血
+液后迅速断头取脑，低温取 脑 组 织，提 取 组织总
+ＲNA，按照反转录试剂盒及 PCＲ 试剂盒操作步骤，进
+行反转录及实时荧光定量 PCＲ 反应。反应条件: 95
+℃ 3 min，95 ℃ 20 s，60 ℃ 40 s，45 个循环。每个样本
+均重复 3 个复孔，取平均值，图像分析仪扫描凝胶密
+度，分析得到 mＲNA 的相对含量。引物序列见表 1。
+表 1． ＲT-PCＲ 引物序列
+Table 1． ＲT-PCＲ primer sequence
+引物
+引物序列
+β-actin
+5'-GTATACGAGTCTCGTCCAGC-3'
+5'-GACATCCATGACGAACTGGT-3'
+FZD1
+5'-ATTTGGTCTGTGCTGTGCTG-3'
+5'-TCATGACGAGCATGGTGCAG-3'
+PIWI1a
+5'-TGCCATGAGCAGTTATACGC-3'
+5'-TGTCCA GTTCCATGTTCCAG-3'
+FOXM1
+5'-GAACTCCATCCGCCACAACC-3'
+5'-TTGGCACTGGGGTGAATGG-3'
+1． 10
+Western blot 检测大鼠脑组织 FZD1、PIWIL1、
+FOXM1 蛋白的表达
+末次给药 2 h 后，麻醉大鼠，颈动脉处死放干血
+液后迅速断头取脑，低温取脑组织，蛋白裂解液匀
+浆脑组织，加蛋白上样缓冲液，95 ℃ 灭活 5 min，调
+整蛋白浓度后上样，SDS 凝胶电泳，转移到 PVDF
+上，5% FBS 室温封闭，加入一抗，4 ℃ 孵育过夜，
+TPBS 清洗，加入抗鼠的 IgG 二抗，37 ℃ 孵育 30
+min，加入 ECL，在暗室中曝光显影，用 Quantity One
+专业灰度分析软件分析自身灰度值，以目的蛋白条
+带灰度与管家蛋白 β-actin 条带灰度的比值表示蛋
+白的表达水平。
+1． 11
+统计学分析
+数据统计分析采用 SPSS 19． 0 软件包，计量资
+料以 x±s 表示，多组间差异比较采用单因素方差分
+析( One way ANOVA) ，计数资料采用 χ
+2 检验，以 P＜
+0． 05 为差异有统计学意义。
+2
+结
+果
+2． 1
+人参皂苷 Ｒg1 对脑缺血再灌注模型大鼠行为
+学的影响
+模型对照组大鼠脑神经功能评分显著增加，说
+明脑缺血再灌注模型制造成功。与模型对照组比
+较，GsＲg1 低剂量组脑神经功能评分均出现下降趋
+势( P＜0． 05) ，中、高剂量组脑神经功能评分显著下
+降( P＜0． 01) ，呈现一定的剂量依赖性，尤以给药 7
+天后下降更为明显( 表 2) 。
+表 2． 人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑神经功能评分
+的影响( n=20)
+Table 2． Effects of Gs-Ｒg1 on mNSS in Cerebral ischemia
+reperfusion rats( n=20)
+分
+组
+1 d
+7 d
+14 d
+假手术组
+0． 00±0． 00
+0． 00±0． 00
+0． 00±0． 00
+模型对照组
+11． 33±2． 25c
+9． 00±0． 63c
+6． 83±0． 75c
+依达拉奉组
+10． 01±1． 55d
+6． 21±0． 89d
+4． 17±0． 75d
+GsＲg1 低剂量组
+11． 01±1． 32b
+7． 82±1． 07b
+5． 50±1． 04b
+GsＲg1 中剂量组
+10． 76±1． 16b
+7． 07±0． 82d
+4． 93±0． 98d
+GsＲg1 高剂量组
+10． 24±1． 16b
+6． 18±0． 82d
+3． 87±0． 75d
+a 为 P＜0． 05，c 为 P＜0． 01，与假手术组比较; b 为 P＜0． 05，d 为 P＜
+0. 01，与模型对照组比较。
+2． 2
+人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑梗死体
+积的影响
+假手术组 TTC 染色呈均匀的淡红色，无脑梗死
+病灶。与假手术组比较，模型对照组脑梗死体积显
+著变大( P＜0． 01) ; 给予人参皂苷 Ｒg1 干预处理后脑
+梗塞体积均不同程度地缩小，且呈现一定的剂量依
+赖性( P＜0． 01，图 1) 。
+753
+CN 43-1262 /Ｒ
+中国动脉硬化杂志 2019 年第 27 卷第 9 期
+图 1． 人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑梗死体积的影
+响( n= 20)
+1 为假手术组，2 为模型对照组，3 为依达拉奉组
+( 3． 2 mg/kg) ，4 为 GsＲg1 低剂量组( 10 mg/kg) ，5 为 GsＲg1 中剂量
+组( 20 mg/kg) ，6 为 GsＲg1 高剂量组( 50 mg/kg) 。
+a 为 P＜0． 01，
+与假手术组比较; b 为 P＜0． 01，与模型对照组比较。
+Figure 1． Effects of Gs-Ｒg1 on brain infarct volumes in
+Cerebral ischemia reperfusion rats( n=20)
+2． 3
+人参皂苷 Ｒg1 对缺血再灌注大鼠脑组织神经
+细胞凋亡的影响
+TUNEL 法检测显示凋亡神经细胞呈绿色荧光，
+假手术组凋亡细胞较少，与假手术组比较，模型对
+照组凋亡神经细胞数显著增加; 与模型对照组比
+较，GsＲg1 组大鼠凋亡神经细胞数目显著减少( 图
+2) 。
+2． 4
+人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑组织
+NF-κB、GAFP 表达的影响
+免疫组化结果显示，假手术组可见极少量浅棕
+黄色的 NF-κB 阳性细胞和棕黄色 GFAP 阳性细胞。
+与假手术组比较，模型对照组 NF-κB、GAFP 阳性细
+胞显著增多，OD 值明显升高( P＜0． 01) ; 与模型对
+照组比较，GsＲg1 组 NF-κB、GAFP 表达水平显著降
+低( P＜0． 01，图 3) 。
+图 2． 人参皂苷 Ｒg1 对脑缺血再灌注大鼠神经细胞凋亡的影响( n=20)
+1 为假手术组，2 为模型对照组，3 为依达拉奉组( 3． 2 mg/
+kg) ，4 为 GsＲg1 低剂量组( 10 mg/kg) ，5 为 GsＲg1 中剂量组( 20 mg/kg) ，6 为 GsＲg1 高剂量组( 50 mg/kg) 。
+Figure 2． Effects of Gs-Ｒg1 on nerve cells apoptosis in Cerebral ischemia reperfusion rats( n=20)
+2． 5
+人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑组织
+FZD1、PIWIL1、FOXM1 mＲNA 表达的影响
+与假手术组比较，模型对照组大鼠脑组织中
+FZD1、PIWIL1 mＲNA 的表达明显增加，FOXM1 mＲ-
+NA 的表达明降低( P＜0． 01) ; 与模型对照组比较，
+GsＲg1 各剂量组大鼠脑组织中 FZD1、FOXM1 mＲNA
+的表达显著升高( P＜0． 01) ，PIWIL1 mＲNA 的表达
+显著降低( P＜0． 01，图 4) 。
+2． 6
+人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑组织
+FZD1、PIWIL1、FOXM1 蛋白表达的影响
+与假手术组比较，模型对照组大鼠脑组织中
+FZD1、PIWIL1 蛋白表达明显增加，FOXM1 蛋白表达
+明降低( P＜0． 01) ; 与模型对照组比较，GsＲg1 各剂
+量组大鼠脑组织中 FZD1、FOXM1 蛋白表达显著升
+高( P＜0． 01) ，PIWIL1 蛋白表达显著降低( P＜0. 01，
+图 5) 。
+754
+ISSN 1007-3949 Chin J Arterioscler，Vol 27，No 9，2019
+图 3． 人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑组织 NF-κB/GAFP 表达的影响( n = 20)
+1 为假手术组，2 为模型对照组，3 为依达
+拉奉组( 3． 2 mg/kg) ，4 为 GsＲg1 低剂量组( 10 mg/kg) ，5 为 GsＲg1 中剂量组( 20 mg/kg) ，6 为 GsＲg1 高剂量组( 50 mg/kg) 。a 为 P＜0． 01，与假
+手术组比较; b 为 P＜0． 01，与模型对照组比较。
+Figure 3． Effects of Gs-Ｒg1 on NF-κB/GAFP expression in Cerebral ischemia reperfusion rats( n=20)
+图 4． 人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑组织 FZD1、PI-
+WIL1 和 FOXM1 mＲNA 表达的影响( n = 20)
+1 为假手
+术组，2 为模型对照组，3 为依达拉奉组( 3． 2 mg/kg) ，4 为 GsＲg1 低
+剂量组( 10 mg/kg) ，5 为 GsＲg1 中剂量组( 20 mg/kg) ，6 为 GsＲg1 高
+剂量组( 50 mg/kg) 。a 为 P＜0． 01，与假手术组比较; b 为 P＜0． 01，与
+模型对照组比较。
+Figure 4． Effects of Gs-Ｒg1 on FZD1，PIWIL1，FOXM1
+mＲNA expression in Cerebral ischemia reperfusion rats( n=
+20)
+图 5． 人参皂苷 Ｒg1 对脑缺血再灌注大鼠脑组织 FZD1 /PI-
+WIL1 /FOXM1 蛋白表达的影响( n= 10)
+1 为假手术组，2
+为模型对照组，3 为依达拉奉组( 3． 2 mg/kg) ，4 为 GsＲg1 低剂量组
+( 10 mg/kg) ，5 为 GsＲg1 中剂量组( 20 mg/kg) ，6 为 GsＲg1 高剂量组
+( 50 mg/kg) 。a 为 P＜0． 01，与假手术组比较; b 为 P＜0． 01，与模型对
+照组比较。
+Figure 5．
+Effects of Gs-Ｒg1 on FZD1 /PIWIL1 /FOXM1
+protein expression in Cerebral ischemia reperfusion rats( n
+=10)
+755
+CN 43-1262 /Ｒ
+中国动脉硬化杂志 2019 年第 27 卷第 9 期
+3
+讨
+论
+Wnt/β-catenin 通路被激活后，其信号传递到细
+胞膜，可与跨膜受体 Frizzled 结合，抑制降解复合
+体，减少 β-catenin 磷酸化，致使大量 β-catenin 在胞
+质中聚集并进入细胞核内，从而调控神经细胞的增
+殖与分化
+［6-8］，Frizzled 蛋白属于 7-跨膜受体，其中跨
+膜受体卷曲蛋白 1( FZD1) 处于 Wnt/β-catenin 信号
+通路上游，能特异性地结合 Wnt3 蛋白发挥调节保
+护作 用
+［9-10］。叉 头 蛋 白 M1 ( forkhead box protein
+M1，FoxM1) 在细胞周期的调节中起着重要作用，在
+细胞周期的各个时期均有表达
+［11-12］，FoxM1 可促进
+Wnt 通路靶基因启动子招募 β-catenin 而激活 Wnt
+信号通路
+［13-15］，Wnt 通路激活引起的 FoxM1 去泛素
+化，是调控经典 Wnt 信号通路与细胞增殖的重要机
+制。PIWIL1 基因在干细胞分裂中具有重要调控作
+用
+［16］。有研究表明，PIWIL1 基因可能参与了干细
+胞增殖，并且其高表达可能引发干细胞的恶性发
+展
+［17］，同时 PIWIL1 的过度表达也与多种肿瘤发生
+有关
+［18］，但关于 PIWIL1 基因在神经损伤方面的研
+究较少。脑缺血再灌注后产生的炎症反应和凋亡
+在病理过程占主导地位，研究表明 NF-κB 与脑缺血
+再灌注损伤密切相关
+［19］，NF-κB 通过调控多种与凋
+亡相关的基因表达而造成神经细胞的损伤
+［20］，胶质
+细胞浸润和活化也是缺血性脑卒中诱导的炎症反
+应的特征反应
+［21］。研究表明，GsＲg1 通过抑制脑内
+氧化应激水平、炎性反应、凋亡蛋白等发挥神经保
+护作用
+［22］。本研究从 FZD1、PIWIL1、FOXM1 相关
+蛋白入手探索其作用机制，结果表明，GsＲg1 可能是
+通过调控 FZD1 /PIWIL1 /FOXM1 相关蛋白来实现其
+对神经细胞的保护作用。
+大鼠在大脑缺血再灌注后，脑组织缺血缺氧、
+能量代谢衰竭引起神经细胞凋亡，脑组织梗死体积
+显著增加，大鼠神经功能损伤严重，给予 GsＲg1 低、
+中、高剂量干预 2 周后，模型大鼠凋亡神经细胞显著
+减少，大鼠脑组织 NF-κB、GAFP 表达显著降低，说
+明 GsＲg1 治疗能有效改善因缺血缺氧造成的神经
+功能 损 伤，进 一 步 通 过 检 测 脑 组 织 中 FZD1 /PI-
+WIL1 /FOXM1 分子生物学的表达，发现与模型对照
+组比较，FZD1、FOXM1 mＲNA 及蛋白表达水平显著
+增加，PIWIL1 mＲNA 及蛋白表达水平显著降低，说
+明 GsＲg1 可 能 在 脑 梗 死 刺 激 下 干 预 激 活 上 调
+FZD1 /FOXM1 的表达，激活 Wnt/β-catenin 通路而
+促进神经干细胞的增殖分化，降低 PIWIL1 的表达
+而抑制脑组织神经细胞凋亡，从而发挥神经功能的
+保护作用。
+综上所述，GsＲg1 可以减少脑缺血再灌注大鼠
+神经细胞凋亡，改善其神经功能缺损，可能是通过
+调节 FZD1 /PIWIL1 /FOXM1 通路相关蛋白表达来实
+现的。
+［参考文献］
+［1］曹泽标，周小青，张利美，等． 丹龙醒脑方抗缺血性脑
+损伤机制的实验研究进展［J］． 湖南中医药大学学报，
+2015，35( 4) : 59-62．
+［2］边立功，钟莲梅，艾青龙，等． 人参皂苷 Ｒg1 调控 Nrf2
+在 SD 大鼠脑缺血再灌注损伤后的抗氧化作用［J］． 昆
+明医科大学学报，2018，39( 6) : 35-38．
+［3］雷勋明． 人参皂苷 Ｒg1 对新生鼠缺氧缺血性脑损伤海
+马神经元凋亡及学习记忆能力的影响［J］． 中国中西医
+结合儿科学，2018，10( 4) : 277-279．
+［4］ Longa EZ，Weinstein PＲ，Carlson S，et al． Ｒeversible
+middle cerebral artery occlusion without cranietomy in rats
+［J］． Stroke，1989，20( 1) : 84-91．
+［5］Luo D，Fan XN，Ma CC，et al． A study on the effect of
+neurogenesis and regulation of GSK3 β/PP2A expression in
+acupuncturetreatment of neural functional damage caused
+by focal ischemia in MCAO rats［J］． Evid Based Comple-
+ment Alternat Med，2014，2014: 962343．
+［6］Dijksterhuis JP，Petersen J，Schulte G． WNT/Frizzled sig-
+nalling receptor-ligand selectivity with focus on FZD-G pro-
+tein signalling and its physiological relevance:
+IUPHAＲ
+Ｒeview 3 ［J］．
+British J Pharm， 2014， 171 ( 5 )
+:
+1195-1209．
+［7］陈娉婷，周小青，刘旺华． 丹龙醒脑方对脑缺血再灌注
+大鼠海马区神经干细胞增殖及 Frizzled1、Dvl1、CyclinD1
+表达的 影 响［J］． 中 药 药 理 与 临 床，2016，32 ( 1) :
+120-123．
+［8］张利美，周小青，刘旺华，等． 丹龙醒脑方促进脑缺血
+再灌注损伤大鼠神经干细胞增殖与 β-catenin、Wnt-3a
+表达 及 其 机 制 的 研 究［J］． 湖 南 中 医 药 大 学 学 报，
+2015，35( 1) : 7-10．
+［9］P schl J，Grammel D，Dorostkar MM，et al． Constitutive
+activation of β-Catenin in neural progenitors results in dis-
+rupted proliferation and migration ofneurons within the cen-
+tral nervous system［J］．
+Dev Biol，2013，374 ( 2 )
+:
+319-332．
+［10］Varela-Nallar L，Grabowski CP，Alfaro IE，et al． Ｒole of
+the Wnt receptor Frizzled-1 in presynaptic differentiation
+and function［J］． Neural Dev，2009，41( 7) : 780-788．
+( 下转第 795 页)
+756
+ISSN 1007-3949 Chin J Arterioscler，Vol 27，No 9，2019
+［3］华 扬． 颈动脉超声临床研究与应用进展［J］． 中华医学
+超声杂志( 电子版) ，2015，4( 5) : 256-259．
+［4］陆 柳，孙立山，范列英． 脂蛋白相关磷脂酶 A2 在冠状
+动脉粥样硬化性心脏病患者中的临床应用价值［J］． 国
+际检验医学杂志，2016，37( 16) : 2247-2249．
+［5］Jenny NS，Arnold AM，Kuller LH，et al． Associations of
+pentraxin 3 with ardiovascular disease and all-cause death:
+the cardiovascular health study［J］． Arterioscler Thromb
+Vasc Biol，2009，29( 4) : 594-599．
+［6］Guo T，Ke L，Qi B，et al． PTX3 is located at the mem-
+brane of late apoptotic macrophages and mediates the phag-
+ocytosis of macrophages［J］． J Clin Immunol，2012，32
+( 2) : 330-339．
+［7］中华医学会神经病学分会脑血管病学组急性缺血性脑
+卒中诊治指南撰写组． 中国急性缺血性脑卒中诊治指
+南 2010［J］． 中华神经科杂志，2010，43( 2) : 146-153．
+［8］任全刚，崔春燕，刘岳峰． 脑梗死患者颈动脉彩超诊断
+颈动 脉 粥 样 硬 化 的 临 床 价 值 分 析［J］． 北 京 医 学，
+2015，37( 7) : 716-717．
+［9］张明明，梁会泽，贾化平． 颈部及颅内动脉易损斑块研
+究进展［J］． 临床荟萃，2014，12( 4) : 1423-1426．
+［10］王智明，李淮玉，李 凤． 颈动脉超声结合脂联素和超
+敏 C 反应蛋白在动脉粥样硬化脑梗死中的临床研究
+［J］． 实用医学杂志，2016，32( 5) : 799-802．
+［11］Kim G，Youn HJ，Choi YS，et al． Is carotid artery evalu-
+ation necessary for primary prevention in asymptomatic
+high-risk patients without atherosclerotic cardiovascular dis-
+ease［J］． Clin Interv Aging，2015，10( 6) : 1111-1119．
+［12］王 晶，耿 清，刘永泉，等． 阿托伐他汀对血脂水平正
+常脑梗死患者颈动脉粥样硬化斑块的影响［J］． 中华
+实用诊断与治疗杂志，2012，26( 9) : 850-851．
+［13］Kunes P，Holubcova Z，Kolackova M，et al． Pentraxin 3
+( PTX3) : an endogenous modulator of the inflammatory
+response［J］． Mediators Inflamm，2012，4( 2) : 920517．
+［14］Ｒyu WS，Kim CK，Kim BJ，et al． Pentraxin 3: a novel
+and independent prognostic marker in ischemic stroke
+［J］． Atherosclerosis，2012，220( 2) : 581-586．
+［15］李 凤，朱余友，杨孙凤，等． 血清五聚素 3、超敏 C 反
+应蛋白、脂蛋白相关磷脂酶 A2 水平以及微栓子信号
+与大动脉粥样硬化型急性脑梗死患者颈动脉粥样硬化
+斑块稳定性的相关研究［J］． 临床神经病学杂志，
+2016，29( 2) : 95-100．
+［16］陈 聪，张凌宇，吴冠霖，等． 脂蛋白磷脂酶 A2 活性与
+动脉粥样硬化斑块稳定性的相关性研究［J］． 牡丹江
+医学院学报，2017，7( 3) : 30-32．
+( 此文编辑
+曾学清)
+
+( 上接第 756 页)
+［11］李永金，张 谊，杨开勇，HIF-1α、ＲOCK-2、FoxM1 在醋
+酸铅诱导 PC12 细胞损伤中的表达变化［J］． 中国药理
+学通报，2015，31( 11) : 1562-1568．
+［12］ Jin B，Wang C，Li J，et al． Anthelmintic niclosamide
+disrupts the interplay of p65 and FOXM1 /beta-catenin
+and eradicates leukemia stem cells in chronic myelogenous
+leukemia ［J］．
+Clin Cancer Ｒes， 2017， 23 ( 3 ) :
+789-803．
+［13］CHEN Y，LI Y，XUE J，et al． Wnt-induced deubiquiti-
+nationFoxM1 ensures nucleus b-catenin transactivation
+［J］． EMBOJ，2016，35 ( 6) : 668-684．
+［14］ Chan DW，Yu SY，Chiu PM，et al． Over-expression of
+FoxM1 transcription factor is associated with cervical
+cancer progression and pathogenesis［J］． J Pathol，2014，
+215( 3) : 245-252．
+［15］Li Z，Jia Z，Gao Y，et al． Activation of vitamin D recep-
+tor signaling downregulates the expression of nuclear
+FOXM1 protein and suppresses pancreatic cancer cell
+stemness［J］． Clin Cancer Ｒes，2015，21( 4) : 844-853．
+［16］Szakmary A，Cox DN，Wang Z，et al． Ｒegulatory rela-
+tionship among piwi，pumilio，and bag-of-marbles in Dro-
+sophila germline stem cell self-renewal and differentiation
+［J］． Current Biology CB，2005，15( 2) : 171．
+［17］Greither T，Koser F，Kappler M，et al． Expression of hu-
+man piwi-like genes is associated with prognosis for soft
+tissue sarcoma patients［J］． BMC Cancer，2012，12( 1) :
+272．
+［18］孙 倩，肖 玲． 人参皂苷 Ｒh1 诱导卵巢癌细胞凋亡及
+对 piwi 基因的表达影响［M］． 中国现代医学杂志，
+2013，23( 3) : 1-5．
+［19］朱晓瓞，余资江，孙宝飞，等． NF-κB 信号通路在小鼠
+脑缺血再灌注细胞凋亡中的作用［J］． 中风与神经疾
+病杂志，2016，33 ( 6) : 486-488．
+［20］王向慧，王 迪． 尼莫地平对大鼠急性脑缺血再灌注损
+伤 NF-κB 和 caspase-3 蛋白表达的影响［J］． 中国生化
+药物杂志，2015，35 ( 1) : 10-13．
+［21］余 智，顾苏兵，于 民． ［Gly14］-Humanin 对大鼠局灶
+性 脑缺血再灌注损伤后炎症反应及细胞凋亡的影响
+［J］． 浙江医学，2017，39( 22) : 1976-1980．
+［22］Amaro S，Llull L，Ｒenu A，et al． Uricacid improves glu-
+cose-driven oxidative stress in human is chemic stroke
+［J］． Ann Neurol，2015，77( 5) : 775-783．
+( 此文编辑
+朱雯霞)
+795
+CN 43-1262 /Ｒ
+中国动脉硬化杂志 2019 年第 27 卷第 9 期

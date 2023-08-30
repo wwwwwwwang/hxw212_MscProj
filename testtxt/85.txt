@@ -1,0 +1,786 @@
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+窑基础研究窑
+人参皂甙 Rd 对 EAE 模型小鼠 Tregs/Th17
+细胞失衡的调节作用研究
+刘媚
+黄绮玲
+马晓萌
+刘莹莹
+陈晓红
+中山大学附属第三医院神经病学科袁广州 510630
+刘媚现在浙江省人民医院(杭州医学院附属人民医院)神经内科袁杭州 310014
+通信作者院陈晓红袁Email院xiaohongchenzssy@aliyun.com
+揖摘要铱
+目的
+探讨人参皂甙 Rd 对实验性自身免疫性脑脊髓炎(EAE)模型小鼠调节性 T 细
+胞(Tregs)/ 辅助性 T 细胞 17(Th17)失衡的影响遥
+方法
+将 54 只 6~8 周龄雌性 C57BL/6 小鼠按随
+机数字表法分为人参皂甙 Rd 组尧磷酸盐缓冲液(PBS)组尧空白对照组袁每组 18 只遥 前 2 组采用经典
+的髓鞘少突胶质细胞糖蛋白 35-55(Mog35-55)肽段免疫诱导方法制备成 EAE 模型袁并在接种免疫
+后第 13 天起将人参皂甙 Rd 40 mg/(kg窑d)溶解于 PBS 中腹腔注射入人参皂甙 Rd 组(1 次 /d)袁PBS
+组和空白对照组予同等剂量 PBS 腹腔注射遥各组小鼠于接种免疫后第 1~20 天每天进行临床症状评
+分袁并于评分结束当天取小鼠腰髓进行组织病理学评估(炎症评分及脱髓鞘评分)遥 在接种免疫后第
+20 天袁取各组小鼠脾脏袁行体外脾细胞培养 48 h 后取上清液袁采用酶联免疫吸附法(ELISA)检测白
+介素 -10(IL-10)尧白介素 -17(IL-17)水平曰采用流式细胞仪检测脾组织中 Tregs 细胞尧Th17 细胞的比
+例曰取各组小鼠腰髓袁采用实时荧光定量 PCR 检测腰髓中 Janus 激酶 1(JAK1)尧Janus 激酶 2(JAK2)尧
+信号转导与转录激活因子 3 (STAT3)尧 维甲酸相关孤核受体 酌t (ROR-酌t)尧 叉头型基因 p3 (Foxp3)
+mRNA 的表达水平遥
+结果
+(1)人参皂甙 Rd 组的临床症状评分尧炎症评分均明显低于 PBS 组袁差
+异均有统计学意义(P<0.05)遥 PBS 组腰髓中有大量炎性细胞浸润及大片髓鞘脱失袁而人参皂甙 Rd 组
+的髓鞘脱失较 PBS 组明显减少袁2 组间脱髓鞘评分比较差异有统计学意义(P<0.05)遥 (2)与 PBS 组相
+比袁人参皂甙 Rd 组脾细胞培养上清液中 IL-10 水平明显升高袁IL-17 水平明显降低袁差异均有统计
+学意义 (P< 0.05)遥 (3) 与 PBS 组相比袁 人参皂甙 Rd 组脾组织中 CD4+IL-17+ 细胞比例明显降低袁
+CD4+CD25+Foxp3+ 细胞比例明显升高袁差异均有统计学意义(P<0.05)遥 (4)与 PBS 组相比袁人参皂甙
+Rd 组腰髓中 JAK1尧JAK2尧STAT3尧ROR-酌t mRNA 的表达水平明显降低袁Foxp3 mRNA 的表达水平明
+显升高袁差异均有统计学意义(P<0.05)遥
+结论
+人参皂甙 Rd 可通过改变与 Tregs/Th17 细胞分化
+相关的 Foxp3/ROR酌t/STAT3 信号通路分子的表达袁升高 IL-10 水平和 Tregs 细胞比例袁降低 IL-17
+水平和 Th17 细胞比例袁从而改善 EAE 模型小鼠的临床症状遥
+揖关键词铱
+人参皂甙 Rd曰
+实验性自身免疫性脑脊髓炎曰
+调节性 T 细胞曰
+辅助性 T 细胞
+17曰
+细胞失衡
+基金项目院广东省医学科研基金(A2015337)曰浙江省自然科学基金青年项目(LQ19H090013)
+DOI:10.3760/cma.j.issn.1671-8925.2019.05.013
+Regulatory effect of ginsenoside Rd on regulatory T cells/helper T cell 17 imbalance in
+experimental autoimmune encephalomyelitis mice models
+Liu Mei, Huang Qiling, Ma Xiaomeng, Liu Yingying, Chen Xiaohong
+Department of Neurology, Third Affiliated Hospital of Sun Yat-sen University, Guangzhou 510630, China
+Liu Mei is working on Department of Neurology, Zhejiang Provincal People爷s Hospital (People爷s Hospital
+of Hangzhou Medical College), Hangzhou 310014, China
+Corresponding author: Chen Xiaohong, Email: xiaohongchenzssy@aliyun.com
+揖Abstract铱
+Objective
+To explore the effect of ginsenoside Rd on regulatory T cells (Tregs)
+/helper T cell 17 (Th17) imbalance in experimental autoimmune encephalomyelitis (EAE) mice models.
+Methods
+Fifty-four female C57BL/6 mice, aged 6-8 weeks, were randomly divided into ginsenoside Rd
+group, phosphate buffered saline (PBS) group and blank-control group (n=18). The EAE mice models in
+the first two groups were induced by classical Mog35-55 peptide immunoinduction method;
+ginsenoside
+窑 507
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+Rd of 40 mg/ (kg窑d)
+was dissolved in PBS and intraperitoneally injected into the mice daily in the
+ginsenoside Rd group on 13th d of immunization;
+the mice in the PBS group and control group were
+intraperitoneally injected with same dose of PBS. Daily clinical symptom scale scores were obtained from
+the first d to the 20th d of immunization,
+and the lumbar spinal cords of the mice were taken for
+histological evaluation (inflammation scale and demyelinating scale) after the last symptom scale. On the
+20th d of immunization, the spleens of each group were taken for cultivation; splenocytes were cultured in
+vitro for 48 h, and the culture supernatant was taken for detecting interleukin (IL)-10 and IL-17 levels by
+enzyme-linked immunosorbent assay (ELISA); the proportions of Tregs and Th17 in spleen tissues were
+detected by flow cytometry;
+real-time quantitative PCR was used to detect the mRNA expressions of
+Janus kinase 1
+(JAK1),
+Janus kinase 2
+(JAK2),
+signal transduction and activator of transcription 3
+(STAT3), retinoic acid-related orphan nuclear receptors 酌t (ROR-酌t) and forkhead gene p3 (Foxp3) in the
+lumbar spinal cords of mice in each group.
+Results
+(1)
+The clinical symptom scale scores and
+inflammation scale scores of ginsenoside Rd group were significantly lower than those of PBS group
+(P<0.05);
+there were a large number of inflammatory cells infiltration and loss of myelin in the lumbar
+spinal cord of PBS group,
+while the loss of myelin sheath in ginsenoside Rd group was obviously
+decreased as compared with that in PBS group;
+the demyelination scale scores between the two groups
+showed statistical differences (P<0.05). (2) As compared with those in the PBS group, the IL-10 level was
+significantly increased and the IL-17 level was significantly decreased in the splenocyte culture
+supernatant of ginsenoside Rd group (P<0.05). (3) As compared with the PBS group, the ginsenoside Rd
+group had significantly decreased proportion of CD4+IL-17+ cells and significantly increased proportion of
+CD4+CD25+Foxp3+ cells in the spleen (P<0.05). (4) As compared with those in the PBS group, the mRNA
+expression levels of JAK1, JAK2, STAT3 and ROR-酌t were significantly decreased, and Foxp3 mRNA
+expression level was significantly increased in the lumbar spinal cords of the ginsenoside Rd group (P<
+0.05).
+Conclusion
+Ginsenoside Rd can improve the condition of EAE mice models by altering the
+expressions of Foxp3/ROR酌t/STAT3 signaling pathway molecules related to differentiation of
+Tregs/Th17, increasing the IL-10 level and Tregs ratio, and decreasing the IL-17 level and Th17 ratio.
+揖Key words铱
+Ginsenoside Rd;
+Experimental autoimmune encephamyelitis;
+Regulatory T cell;
+Helper T cell 17;
+Cell imbalance
+Fund program:
+Guangdong Medical Research Fund
+(A2015337);
+Zhejiang Natural Science
+Foundation Youth Project (LQ19H090013)
+DOI:10.3760/cma.j.issn.1671-8925.2019.05.013
+多发性硬化(MS)是一种常见的中枢神经系统
+慢性炎症性脱髓鞘性疾病袁是导致青壮年致残的主
+要 疾 病 之 一
+[1]遥 实 验 性 自 身 免 疫 性 脑 脊 髓 炎
+(experimental autoimmune encephamyelitis袁EAE) 模
+型是研究 MS 的免疫病理学机制及其实验治疗的
+最佳动物模型[2]遥 目前袁虽然 MS 的发病机制尚未
+完全阐明袁 但已有研究表明调节性 T 细胞(Tregs)/
+辅助性 T 细胞 17(Th17)失衡与 MS 的发病密切相
+关[3-4]遥 幼稚 T 细胞在转化生长因子 -茁(TGF-茁)和白
+介素 -6(IL-6)的共同诱导下袁经由信号转导与转录激
+活因子 3(STAT3)通路激活 Th17 细胞的特异性核
+转录因子维甲酸相关孤核受体 酌t(ROR酌t)袁促使活
+化的 CD4+T 细胞向 Th17 细胞分化并分泌促炎因子
+促进 MS 发病遥 而在 MS 中起保护作用的 Tregs 细
+胞主要受叉头型基因 p3(Foxp3)调控袁其在幼稚 T
+细胞向 Tregs 细胞分化中起关键作用遥 另外袁 作为
+Tregs/Th17 细胞分化的效应产物袁白介素 -10(IL-10)
+和白介素 -17 (IL-17) 可直接分别由 Tregs 细胞和
+Th17 细胞分泌袁而其中 IL-10 可限制过度的免疫应
+答袁IL-17 可促进炎症反应致 MS 病情发生发展袁两
+者均在 MS 的发病中起着重要作用[4-6]遥
+人参皂甙 Rd 是从三七人参根部提取出来的一
+种达玛烷型的类固醇化合物袁具有抗炎尧抗氧化尧抗
+细胞凋亡和神经保护等多种药效作用袁同时其具高
+度亲脂性袁能通过生物膜袁这使得它成为治疗中枢神
+经系统疾病的一种潜在有效药物[7-11]遥 本课题组曾在
+前期实验中证实人参皂甙 Rd 能有效改善 EAE 模
+型小鼠的病情和炎症浸润情况[12]袁但人参皂甙 Rd 可
+否通过改善 EAE 模型小鼠体内 Tregs/Th17 细胞失
+衡从而产生抗炎作用尚不清楚遥
+窑 508
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+因此袁为探讨人参皂甙 Rd 对 EAE 模型小鼠抗
+炎作用的具体机制袁 本研究通过观察人参皂甙 Rd
+对 EAE 模型小鼠促炎因子 IL-17尧 抗炎因子 IL-10
+水平的影响袁 对脾组织中 Tregs 细胞尧Th17 细胞比
+例的影响袁 以及对调控 Tregs/Th17 细胞分化的
+Foxp3/ROR酌t/STAT3 信号通路分子及其上游激酶
+Janus 激酶 1(JAK1)尧Janus 激酶 2(JAK2)表达水平的
+影响袁 从而为进一步明确人参皂甙 Rd 在治疗 MS
+中的重要作用提供实验依据袁 也为开发新型的抗
+MS 药物提供新的思路遥
+材料与方法
+一尧实验材料
+1. 实验动物及分组院6~8 周龄雌性 C57BL/6 小
+鼠 54 只袁体质量 16~18 g袁购自中山大学动物实验
+中心 [合格证号院SCXK (粤)2011-0029]遥 小鼠置于
+SPF 级环境中饲养袁给予充足食物及水袁光暗各 12 h
+循环模拟昼夜环境遥 采用随机数字表法将其分为人
+参皂甙 Rd 组尧磷酸盐缓冲液(PBS)组尧空白对照组袁
+每组 18 只遥
+2. 实验仪器和试剂院ABI Prism 7500 序列检测
+仪购自美国 Applied Biosystems 公司遥 Beckman 流
+式细胞仪 -GALLIOS 购自美国 Beckman 公司遥 纯度
+为 98%的人参皂甙 Rd 购自南京泽朗医药技术有限
+公司遥髓鞘少突胶质细胞糖蛋白 35-55(Mog35-55)肽
+段由美国美联(西安)生物科技有限公司合成遥 纯度
+超过 95%的结核分枝杆菌 H37Ra 购自德国 Difco
+公司遥 百日咳菌苗毒素(PTX)购自瑞士 Alexis 公司遥
+完全弗氏佐剂购自美国 Sigma 公司遥 IL-10尧IL-17 酶
+联 免 疫 吸 附 测 定 法 (ELISA) 试 剂 盒 购 自 美 国
+Norcross 公 司 遥 AF50 标 记 抗 鼠 CD4 流 式 抗 体
+(CD4-AF450)尧PECY7 标 记 抗 鼠 CD25 流 式 抗 体
+(CD25-PECY7)尧PE 标 记 抗 鼠 Foxp3 流 式 抗 体
+(Foxp3-PE) 和 AF647 标 记 抗 鼠 IL-17 流 式 抗 体
+(IL-17-AF647)均购自美国 BD 公司遥 Trizol 试剂购
+自日本 Takara 公司遥 PrimeScriptTM 逆转录试剂盒尧
+SYBR Premix Ex TaqTM 试剂盒购自大连宝生物工程
+公司遥 PCR 引物由日本 Takara 公司合成遥
+二尧EAE 模型制备及干预措施
+参考文献[13]报道袁采用经典的 Mog35-55 肽段
+免疫诱导方法将人参皂甙 Rd 组尧PBS 组小鼠制备
+成 EAE 模型院首先将 200 滋g Mog35-55 肽段乳化于
+含结核分支杆菌 H37Ra 500 滋g 的完全弗氏佐剂中袁
+然后对小鼠经皮下注射袁 同时经腹腔注射含 PTX
+300 ng 的 PBS袁并在 48 h 后经腹腔注射相同剂量的
+PTX袁 在第 7 天经皮下追加注射含 Mog35-55 肽段
+的完全弗氏佐剂遥 空白对照组小鼠在其余组小鼠制
+备 EAE 模型同时以等量 PBS 于相应部位经多点皮
+下注射及腹腔注射遥
+在接种免疫后第 13 天袁 将人参皂甙 Rd 40 mg/
+(kg窑d)(剂量的选择依据参考文献[8袁12]报道)溶解于
+PBS 中并对人参皂甙 Rd 组进行腹腔注射袁1 次 /d曰
+而 PBS 组予相同剂量的 PBS 腹腔注射袁1 次 /d遥
+三尧临床症状评估
+各组随机挑选 6 只小鼠自接种免疫后第 1 天起
+持续观察袁至接种免疫后第 20 天结束遥 每天进行临
+床症状评分以评估小鼠的残障程度袁临床症状评分
+的标准参考文献[13]报道院0 分袁无标志曰1 分袁尾部
+张力减退曰2 分袁松弛尾曰3 分袁后肢共济失调和(或)
+轻瘫曰4 分袁后肢完全瘫痪曰5 分袁垂死或死亡袁临床症
+状评分越高袁小鼠的残障程度越重遥 统计分析时以
+观察过程中每只小鼠的临床症状评分总和的平均值
+为临床症状评分均值遥 另外袁本研究中以小鼠出现
+第一种症状的时间为疾病的发病时间遥
+四尧组织病理学评估
+在接种免疫后第 20 天袁对完成临床症状评分的
+各组 6 只小鼠袁 分别应用常规 HE 染色和依来铬花
+青浸渍染色对小鼠腰髓组织进行炎性细胞浸润和髓
+鞘脱失情况的评估遥 具体过程如下院小鼠麻醉后剪
+开腹腔袁充分暴露心脏袁剪开右心耳袁经左心室插入
+针管袁往其中注入预冷的 PBS袁直至肝脏完全肿胀
+变白遥 然后经左心室注入预冷的 40 g/L 多聚甲醛袁
+直至小鼠尾部向上翘起及全身僵硬遥 翻转小鼠袁剪
+开背部皮肤袁从小鼠背部分离出完整的脊髓袁置于固
+定液中浸泡过夜作外固定遥 切取腰髓段脊髓袁将组
+织块置于 30%~100%乙醇中梯度脱水袁 充分脱水后
+将组织块置于二甲苯中透明处理遥 将已透明处理的
+组织块置于事先融化了的石蜡中袁待石蜡完全浸入
+组织块后冷却袁使其凝固成块遥 将备好的蜡块置于
+切片机中连续横切袁厚度设定为 5 滋m遥间隔取片袁进
+行贴片后分别予 HE 染色和依来铬花青浸渍染色袁
+在光学显微镜下观察炎性细胞浸润及髓鞘脱失情
+况遥炎症评分的标准参考文献[14]报道院0 分袁没有炎
+性细胞曰1 分袁一些散在的炎性细胞曰2 分袁炎性细胞
+浸润在血管周围曰3 分袁广泛血管周围袖套带形成并
+扩展到相邻实质袁或实质浸润无明显的袖套遥 脱髓
+鞘评分的标准参考文献[15]报道院1 分袁软脑膜下脱
+髓鞘曰2 分袁 软脑膜下及血管周围发生明显的脱髓
+鞘曰3 分袁 血管周围或软脑膜下脱髓鞘发生融合曰4
+分袁 血管周围和软脑膜下脱髓鞘袁 并累及一个半腰
+窑 509
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+髓袁 伴随着大量细胞侵入中枢神经系统实质曰5 分袁
+血管周围和软脑膜下脱髓鞘袁并累及整个腰髓袁伴随
+着大量细胞侵入中枢神经系统实质遥
+五尧脾细胞分离尧提取及腰髓分离
+1. 脾细胞分离尧提取院在接种免疫后第 20 天袁各
+组随机挑选 6 只小鼠用过量的 100 g/L 水合氯醛处
+死袁取出脾脏并用无菌眼科剪剪碎脾组织袁于 200 目
+细胞筛上将脾组织用 2 mL 玻璃注射针芯反复研
+磨袁并用 RPMI-1640 液冲洗袁制备成脾细胞悬液用
+于下一步实验遥
+2. 腰髓分离院在接种免疫后第 20 天袁各组随机
+挑选 6 只小鼠用过量的 100 g/L 水合氯醛处死袁剪
+开小鼠背部皮肤袁分离肌肉等软组织袁暴露全部脊
+椎袁用剪刀剪断棘突袁用咬骨钳小心咬碎脊柱骨以暴
+露完整的脊髓袁用镊子把脊髓夹出放置于装有生理
+盐水的平皿中袁选取腰髓部分用刀片切断后装入冻
+存管袁 标记后放入液氮中速冻后转移至-80 益冰箱
+保存遥
+六尧ELISA 检测 IL-10尧IL-17 水平
+在 96 孔平底板上袁将来自各组小鼠的脾细胞培
+养于含有 10%胎牛血清的 RPMI-1640 液中袁 并用
+Mog35-55(15 滋g/mL)进行免疫遥 培养 48 h 后收集细
+胞培养上清液并储存于-80 益环境中遥 细胞培养上
+清液中 IL-10尧IL-17 水平的检测根据 ELISA 试剂盒
+说明书的操作步骤进行袁单位以 pg/mL 表示遥
+七尧 流式细胞仪检测 Tregs 细胞尧Th17 细胞的
+比例
+将来自各组小鼠的脾细胞悬液浓度调整为 1伊
+106 个 /mL 后装于流式管中袁350伊g 4 益离心 5 min袁
+弃上清曰用 1 mL 流式染色缓冲液重悬沉淀袁350伊g 4
+益离心 5 min袁弃上清曰封闭院取适量小鼠血清全 IgG
+抗体与样品细胞充分混匀袁4 益静置 15 min袁350伊g 4
+益离心 5 min袁弃上清曰用 1 mL 流式染色缓冲液重
+悬沉淀袁 分别加入适当比例稀释的 CD4-AF450尧
+CD25-PECY7 及相应阴性同型对照抗体以标记相应
+的 CD4尧CD25 表面抗体袁 混匀袁 室温避光染色 20
+min曰 加 1 mL 流式染色缓冲液洗去未结合的抗体袁
+350伊g 4 益离心 5 min袁弃上清曰用 1 mL 流式染色缓
+冲液重悬沉淀袁加入破膜剂破膜曰加 1 mL 流式染色
+缓冲液终止反应袁350伊g 4 益离心 5 min袁 弃上清曰用
+1 mL 流式染色缓冲液重悬沉淀袁分别加入适当比例
+稀释的 Foxp3-PE尧IL-17-AF647 及相应阴性同型对
+照抗体以标记相应的 Foxp3尧IL-17 胞内 / 核内抗
+体袁混匀袁室温避光染色 20 min曰加 1 mL 流式染色
+缓冲液洗去未结合的抗体袁350伊g 4 益离心 5 min袁弃
+上清曰用 200 滋L 流式染色缓冲液重悬沉淀袁上机分
+析 袁
+检 测 CD4+IL-17+ 细 胞
+(Th17 细 胞 ) 和
+CD4+CD25+Foxp3+ 细胞(Tregs 细胞)的比例遥
+八 尧 实 时 荧 光 定 量 PCR 检 测 JAK1尧JAK2尧
+STAT3尧ROR-酌t尧Foxp3 mRNA 的表达水平
+使用 Trizol 试剂从腰髓组织中提取总 RNA袁根
+据 PrimeScriptTM 逆转录试剂盒说明书进行逆转录操
+作合成 cDNA袁 逆转录反应条件为院37 益 15 min→
+85 益 5 s 后终止遥 根据 SYBR Premix Ex TaqTM 试剂
+盒说明书将合成的 cDNA 进行实时荧光定量 PCR
+反应袁反应体系 20 滋L袁反应条件为院95 益 30 s→95
+益 5 s尧60 益 30 s尧72 益 20 s(循环 40 次)→65 益缓慢
+加热至 95 益以制作溶解曲线袁其余为默认值遥 对每
+个样板进行 3 次平衡检测袁 取平均值为最终结果遥
+利用 Primer5 软件并参照小鼠在 Genbank 上序列设
+计 JAK1尧JAK2尧STAT3尧ROR-酌t尧Foxp3 基因的特异
+性引物和内参 GAPDH 的特异性引物袁 引物序列如
+下院JAK1院上游院5爷-ATGCCCACCATTACCTCTGT-
+3爷袁 下游院5爷-ATCCCCTCTTCACTCCCTTC-3爷袁产
+物大小 133 bp曰JAK2院上游院5爷-CATAGACGAGTCA
+ACCAGGCA-3爷袁下游院5爷-AAAGTCATCAAGCAG
+AGGAGC-3爷袁产物大小 136 bp曰STAT3院上游院5爷-G
+CCATCCTAAGCACAAAGC-3爷袁 下游院5爷-GTGAA
+AGTGACCCCTCCTT-3爷袁产物大小 80 bp曰ROR-酌t院
+上游院5爷-CTGACGGCCAACTTACTCTT-3爷袁 下游院
+5爷-TGTCTGTCAGAGAGGCATATG-3爷袁 产物大小
+150 bp曰Foxp3院上游院5爷-GCATGTTCGCCTACTTCA
+-3爷袁下游院5爷-AGCCTCAGTCTCATGGTT-3爷袁产物
+大小 242 bp曰GAPDH院 上游院5爷-GGCCTCCAAGGA
+GTAAGAAA-3爷袁下游院5爷-GCCCCTCCTGTTATTA
+TGG-3爷袁产物大小 141 bp遥 所得数据参考文献[16]
+报道采用相对基因表达法(2-吟吟CT)进行分析袁数据以
+基因表达倍数变化来表示袁即与内参标化后袁与空白
+对照组结果相比的变化倍数遥
+九尧统计学方法
+采用 SPSS 13.0 软件对数据进行统计学分析遥
+呈正态分布的计量资料以均数依标准差(x依s)表示袁2
+组间比较采用 t 检验曰 多组间比较采用单因素方差
+分析袁 组内进一步两两比较采用 LSD-t 法遥 以 P<
+0.05 为差异有统计学意义遥
+结
+果
+一尧人参皂甙 Rd 对 EAE 模型小鼠病情严重程
+度的影响
+在空白对照组中袁无任何小鼠发病袁临床症状评
+窑 510
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+分均为 0 分遥 PBS 组与人参皂甙 Rd 组的发病时间
+比较差异无统计学意义(P>0.05)遥 人参皂甙 Rd 组的
+临床症状评分明显低于 PBS 组袁差异有统计学意义
+(P<0.05)袁 表明人参皂甙 Rd 改善了 EAE 模型小鼠
+的临床症状遥 具体内容见表 1遥
+二尧人参皂甙 Rd 对 EAE 模型小鼠组织病理学
+结果的影响
+在接种免疫后第 20 天袁空白对照组未见炎症和
+脱髓鞘改变袁炎症评分和脱髓鞘评分均为 0 分遥 人
+参皂甙 Rd 组的炎症评分明显低于 PBS 组袁 差异有
+统计学意义(P<0.05)遥 PBS 组腰髓中有大片的髓鞘
+脱失袁 而人参皂甙 Rd 组的脱髓鞘病变较少袁2 组脱
+髓鞘评分比较差异有统计学意义(P<0.05)袁表明人
+参皂甙 Rd 减轻了 EAE 模型小鼠腰骶段脊髓的炎
+症和脱髓鞘程度遥 具体内容见图 1 和表 1遥
+三尧人参皂甙 Rd 对 EAE 模型小鼠 IL-10尧IL-17
+水平的影响
+PBS 组和人参皂甙 Rd 组的脾细胞培养上清液
+中 IL-10 水平明显低于空白对照组袁 差异均有统计
+学意义(P<0.05)遥 与 PBS 组相比袁人参皂甙 Rd 组的
+IL-10 水平明显升高袁 差异有统计学意义(P<0.05)遥
+具体内容见表 2遥
+PBS 组和人参皂甙 Rd 组的脾细胞培养上清液
+中 IL-17 水平明显高于空白对照组袁 差异均有统计
+学意义(P<0.05)遥 与 PBS 组相比袁人参皂甙 Rd 组的
+IL-17 水平明显降低袁 差异有统计学意义(P<0.05)遥
+具体内容见表 2遥
+四尧人参皂甙 Rd 对 EAE 模型小鼠 Tregs 细胞尧
+Th17 细胞比例的影响
+PBS 组和人参皂甙 Rd 组的 CD4+IL-17+ 细胞比
+例明显高于空白对照组袁 差异均有统计学意义(P<
+0.05)遥 PBS 组的 CD4+CD25+Foxp3+ 细胞比例与空白
+对照组相比有所降低袁 但差异无统计学意义(P>
+0.05)曰 而人参皂甙 Rd 组的 CD4+CD25+Foxp3+ 细胞
+比例较空白对照组明显升高袁 差异有统计学意义
+(P<0.05)遥 与 PBS 组 相 比 袁 人 参 皂 甙 Rd 组 的
+CD4+IL-17+ 细胞比例明显降低尧CD4+CD25+Foxp3+
+细胞比例明显升高袁差异均有统计学意义(P<0.05)袁
+表明人参皂甙 Rd 可以降低 EAE 模型小鼠外周的
+Th17 细胞亚群比例尧 升高 Tregs 细胞亚群比例袁从
+A院PBS 组炎性细胞浸润情况(HE 染色袁伊50)曰B院图 A 中黑框处放大图(HE 染色袁伊200)曰C院人参皂甙 Rd 组炎性细胞浸润情况(HE 染色袁伊50)曰D院
+图 C 中黑框处放大图(HE 染色袁伊200)曰E院PBS 组脱髓鞘情况(依来铬花青浸渍染色袁伊50)曰F院图 E 中黑框处放大图(依来铬花青浸渍染色袁伊200)曰
+G院人参皂甙 Rd 组脱髓鞘情况(依来铬花青浸渍染色袁伊50)曰H院图 G 中黑框处放大图(依来铬花青浸渍染色袁伊200)曰PBS院磷酸盐缓冲液
+Fig.1
+Histopathology results of lumbar spinal cords in the Ginsenoside Rd group and phosphate buffer group
+图 1
+人参皂甙 Rd 组和 PBS 组小鼠腰髓组织病理结果
+A
+B
+C
+D
+E
+F
+G
+H
+表 1
+人参皂甙 Rd 组和 PBS 组小鼠发病时间尧临床症状评分和组织病理学结果的比较(x依s)
+Tab.1
+Comparison of onset time,
+clinical symptom scale scores and pathology scale scores
+between Ginsenoside Rd group and phosphate buffer group (Mean依SD)
+组别
+只数
+发病时间(d)
+临床症状评分(分)
+炎症评分(分)
+脱髓鞘评分(分)
+PBS组
+6
+13.500依1.049
+2.750依0.822
+2.833依0.408
+3.500依1.225
+人参皂甙 Rd 组
+6
+13.333依0.577
+1.167依1.291
+1.667依0.516
+1.833依0.408
+t值
+0.251
+2.534
+4.341
+3.162
+P值
+0.809
+0.030
+0.001
+0.016
+PBS院磷酸盐缓冲液
+窑 511
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+而改善 EAE 模型小鼠 Tregs/Th17 细胞失衡情况遥
+具体内容见图 2 和表 2遥
+五 尧 人参皂 甙 Rd 对 EAE 模 型小鼠 JAK1尧
+JAK2尧STAT3尧ROR-酌t尧Foxp3 mRNA 表达水平的影
+响
+PBS 组 腰 髓 中 JAK1尧JAK2尧STAT3尧ROR -酌t
+mRNA 表 达 水 平 明 显 高 于 空 白 对 照 组 袁Foxp3
+mRNA 表达水平明显低于空白对照组袁差异均有统
+计学意义(P<0.05)遥 与 PBS 组相比袁人参皂甙 Rd 组
+的 JAK1尧JAK2尧STAT3尧ROR-酌t mRNA 表达水平明
+显降低袁Foxp3 mRNA 表达水平明显升高袁差异均有
+统计学意义 (P<0.05)袁 表明人参皂甙 Rd 可以通过
+Foxp3/ROR酌t/STAT3 信号通路调控 Tregs/Th17 细
+胞分化袁 从而影响 EAE 模型小鼠 Tregs/Th17 细胞
+比例的调整遥 具体内容见表 3遥
+讨
+论
+MS 是一种常见于年轻人的致残性自身免疫性
+疾病袁发病机制尚不十分明了袁炎症尧广泛的轴突和
+神经元病理改变是其病理学基础袁髓鞘自身反应的
+外周 T 细胞和巨噬细胞通过受损的血脑屏障进入
+中枢神经系统袁启动一系列有害的炎症链式反应袁导
+致髓鞘脱失尧轴突和神经元发生病理性改变遥 MS 尚
+无有效的治疗方法袁 目前对于 MS 的治疗主要是通
+过抑制炎症和免疫系统异常激活等袁特别是免疫调
+节抗炎治疗袁从而延缓病情和降低神经损伤[17]遥
+本课题组的前期实验已证实袁给予人参皂甙 Rd
+治疗能显著减轻 EAE 模型小鼠病情袁 降低 酌- 干扰
+表 2
+各组小鼠脾细胞培养上清液中 IL-10尧IL-17 水平及脾组织中 Tregs尧Th17 细胞比例的比较(x依s)
+Tab.2
+Comparison of levels of interleukin-10 and interleukin-17 in the spleen cell cultured supernatant and
+proportion of regulatory T cells/helper T cell 17 in the spleen tissues of mice in each group (Mean依SD)
+组别
+只数
+IL-10(pg/mL)
+IL-17(pg/mL)
+Tregs细胞比例(%)
+Th17细胞比例(%)
+空白对照组
+6
+126.866依7.218
+3.738依3.161
+5.950依0.714
+0.187依0.049
+PBS组
+6
+83.822依11.158a
+111.653依35.348a
+3.830依1.413
+17.188依3.210a
+人参皂甙 Rd 组
+6
+90.705依15.684ab
+30.375依8.740ab
+9.710依2.249ab
+13.417依2.579ab
+F值
+24.696
+48.719
+17.408
+41.808
+P值
+0.000
+0.000
+0.000
+0.000
+与空白对照组比较袁aP<0.05曰与 PBS 组比较袁bP<0.05曰PBS院磷酸盐缓冲液曰IL-10院白介素 -10曰IL-17院白介素 -17曰
+Tregs院调节性 T 细胞曰Th17院辅助性 T 细胞 17
+A院空白对照组 Th17 细胞比例曰B院PBS 组 Th17 细胞比例曰C院人参皂甙 Rd 组 Th17 细胞比例曰D院空白对照组 Tregs 细胞比例曰E院
+PBS 组 Tregs 细胞比例曰F院人参皂甙 Rd 组 Tregs 细胞比例曰PBS院磷酸盐缓冲液曰Tregs院调节性 T 细胞曰Th17院辅助性 T 细胞 17
+Fig.2
+Proportions of regulatory T cells and helper T cell 17 cells in the spleen of each group detected by flow cytometry
+图 2
+流式细胞仪检测各组小鼠脾组织中 Th17 细胞比例和 Tregs 细胞比例
+C
+CD4-AF450
+B
+CD4-AF450
+CD4-AF450
+A
+D
+CD25-PECY7
+F
+CD25-PECY7
+E
+CD25-PECY7
+窑 512
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+素(interferon-酌袁IFN-酌)及增加 IL-4 水平袁以及增加
+辅助性 T 细胞 2(Th2)漂移[12]遥 而本研究进一步发现
+了人参皂甙 Rd 在 EAE 模型小鼠中的潜在抗炎作
+用的证据袁我们观察到人参皂甙 Rd 在减轻 EAE 模
+型小鼠病情严重程度及其腰髓炎性细胞浸润尧脱髓
+鞘征象的同时袁 也降低了促炎因子 IL-17 水平和升
+高了抗炎因子 IL-10 水平袁从而发挥出抗炎作用遥
+已有研究证实人参皂甙 Rd 在大鼠 N9 小胶质
+细胞中能通过抑制核因子 -资B (nuclear factor-资B袁
+NF-资B)表达袁从而抑制脂多糖诱导的一氧化氮(NO)
+形成和肿瘤坏死因子 -琢(TNF-琢)产生以及抑制 IL-6
+表达[18-19]袁而 IL-6 是促进 CD4+T 细胞向 Th17 细胞
+分化的重要因子[20]遥 另外袁人参皂甙 Rd 在小鼠实验
+中被发现能提高辅助性 T 细胞 1(Th1)和 Th2 细胞
+水平袁促进 Th1 和 Th2 免疫反应和发挥免疫调节作
+用[21-22]遥在类风湿性关节炎模型大鼠中袁人参皂甙 Rd
+与雷公藤多甙联合应用还能促进 CD4+CD25+FoxP3+
+细胞分化袁升高 TGF-茁1尧IL-10 水平袁降低 IL-17 水
+平袁促使 Tregs/Th17 细胞平衡向 Tregs 细胞偏移[23]遥
+这说明了人参皂甙 Rd 能影响 T 细胞的分化袁 可以
+通过调节 Tregs/Th17 细胞分化而发挥抗炎作用遥 自
+身免疫是 MS 发病的重要因素袁CD4+Th 细胞在 MS
+发生及发展过程中发挥着重要作用袁其中 T 细胞亚
+群失衡特别是 Tregs/Th17 细胞失衡引起的对自身
+抗原髓鞘碱性蛋白的攻击被认为是导致 MS 发病的
+最直接原因[4]遥本研究在发现人参皂甙 Rd 降低 EAE
+模型小鼠中促炎因子 IL-17 水平和升高抗炎因子
+IL-10 水平的基础上袁应用流式细胞仪检测发现人参
+皂甙 Rd 可以降低外周的 Th17 细胞比例和升高
+Tregs 细胞比例袁 从而改善了 Tregs/ Th17 细胞失衡
+情况遥
+ROR-酌t 是 Th17 细胞分化所必需的关键转录
+因子袁 可经 STAT3 通路及其上游激酶 JAK1尧JAK2
+激活袁 促使活化的 CD4+T 细胞分化成 Th17 细胞遥
+Th17 细胞分泌包括 IL-17 等细胞因子袁参与 MS 免
+疫发病机制的促炎效应[24]遥 Foxp3 是 Tregs 细胞的主
+要调控基因袁 在幼稚 T 细胞向 Tregs 细胞分化中起
+关键作用袁可抑制 Th17 细胞分化袁分泌 IL-10 等细
+胞因子袁在体内执行免疫抑制功能袁限制过度的免疫
+应答袁发挥抗炎作用[5袁24-26]遥 本研究通过实时荧光定
+量 PCR 检 测 JAK1尧JAK2尧STAT3尧ROR-酌t尧Foxp3
+这些与 Tregs/Th17 细胞分化相关的信号通路分子袁
+发现人参皂甙 Rd 可阻止 EAE 模型小鼠腰髓中
+JAK1尧JAK2尧STAT3尧ROR-酌t mRNA 表达水平的升
+高和抑制 Foxp3 mRNA 表达水平的降低袁提示人参
+皂甙 Rd 可在 mRNA 水平上袁 通过 Foxp3/ROR酌t/
+STAT3 信号通路及其上游激酶 JAK1尧JAK2 来调控
+EAE 模型小鼠中 Tregs/Th17 细胞的分化袁从而影响
+Tregs/Th17 细胞比例的调整遥
+综上所述袁 本研究表明人参皂甙 Rd 可能通过
+阻 止 EAE 模 型 小 鼠 JAK1尧JAK2尧STAT3尧ROR -酌t
+mRNA 表达水平的上调和抑制 Foxp3 mRNA 表达
+水平的下降袁降低 Th17 细胞比例和升高 Tregs 细胞
+比例袁改善 Tregs/ Th17 细胞失衡情况袁减少促炎因
+子 IL-17 的分泌和阻止抗炎因子 IL-10 的下降袁从而
+有效改善 EAE 模型小鼠的病情严重程度遥 因此袁人
+参皂甙 Rd 可能是一种可用于 MS 治疗的潜在药
+物遥
+利益冲突
+所有作者均声明不存在利益冲突
+参
+考
+文
+献
+[1] Karussis D. The diagnosis of multiple sclerosis and the various
+related demyelinating syndromes:
+a critical review
+[J].
+J
+Autoimmun, 2014, 48-49: 134-142. DOI: 10.1016/j.jaut.2014.01.
+022.
+[2] Stromnes IM, Goverman JM. Active induction of experimental
+allergic encephalomyelitis[J]. Nat Protoc, 2006, 1(4): 1810-1819.
+表 3
+各组小鼠腰髓中 JAK1尧JAK2尧STAT3尧ROR-酌t尧Foxp3 mRNA 表达水平的比较(x依s)
+Tab.3
+Comparison of mRNA expressions of Janus kinase 1,
+Janus kinase 2,
+signal transduction and
+activator of transcription 3, retinoic acid-related orphan nuclear receptors 酌t and forkhead gene p3 in the
+lumbar spinal tissues of mice in each group (Mean依SD)
+与空白对照组比较袁aP<0.05曰与 PBS 组比较袁bP<0.05曰PBS院磷酸盐缓冲液曰JAK1院Janus 激酶 1曰JAK2院Janus 激酶 2曰
+STAT3院信号转导与转录激活因子 3曰ROR-酌t院维甲酸相关孤核受体 酌t曰Foxp3院叉头型基因 p3
+组别
+只数
+JAK1
+JAK2
+STAT3
+ROR-酌t
+Foxp3
+空白对照组
+6
+1.000依0.000
+1.000依0.000
+1.000依0.000
+1.000依0.000
+1.000依0.000
+PBS组
+6
+3.501依0.362a
+3.156依0.559a
+3.842依0.204a
+2.824依0.513a
+0.760依0.067a
+人参皂甙 Rd 组
+6
+1.389依0.148b
+0.825依0.133b
+1.043依0.138b
+1.461依0.138b
+0.990依0.227b
+F值
+212.661
+91.737
+787.389
+57.357
+5.901
+P值
+0.000
+0.000
+0.000
+0.000
+0.013
+窑 513
+窑
+中华神经医学杂志 2019 年 5 月 第 18 卷 第 5 期
+Chin J Neuromed, May 2019, Vol.18袁 No.5
+DOI: 10.1038/nprot.2006.285.
+[3] van Noort JM, Baker D, Amor S. Mechanisms in the development
+of multiple sclerosis lesions:
+reconciling autoimmune and
+neurodegenerative factors [J].
+CNS Neurol Disord Drug Targets,
+2012, 11(5): 556-569.
+[4] Furuzawa-Carballeda J, Vargas-Rojas MI, Cabral AR. Autoimmune
+inflammation from the Th17 perspective [J].
+Autoimmun Rev,
+2007, 6(3): 169-175. DOI: 10.1016/j.autrev.2006.10.002.
+[5] Kimura A, Kishimoto T. IL-6: regulator of Treg/Th17 balance[J].
+Eur J Immunol, 2010, 40 (7):
+1830-1835.
+DOI:
+10.1002/eji.
+201040391.
+[6] Lovett-Racke AE, Yang Y, Racke MK. Th1 versus Th17: are T cell
+cytokines relevant in multiple sclerosis?[J]. Biochim Biophys Acta,
+2011, 1812(2): 246-251. DOI: 10.1016/j.bbadis.2010.05.012.
+[7] Ye R, Li N, Han J, et al. Neuroprotective effects of ginsenoside Rd
+against
+oxygen-glucose deprivation
+in
+cultured
+hippocampal
+neurons[J]. Neurosci Res, 2009, 64(3): 306-310. DOI: 10.1016/j.
+neures.2009.03.016.
+[8] Ye R, Kong X, Yang Q, et al. Ginsenoside Rd attenuates redox
+imbalance and improves stroke outcome after focal cerebral
+ischemia in aged mice[J]. Neuropharmacology, 2011, 61(4): 815-
+824. DOI: 10.1016/j.neuropharm.2011.05.029.
+[9] Liu J, Yan X, Li L, et al. Ginsennoside rd attenuates cognitive
+dysfunction in a rat model of Alzheimer's disease [J]. Neurochem
+Res, 2012, 37(12): 2738-2747. DOI: 10.1007/s11064-012-0866-2.
+[10] Ren K, Jin C, Ma P, et al. Ginsenoside Rd alleviates mouse acute
+renal ischemia/reperfusion injury by modulating macrophage
+phenotype[J]. J Ginseng Res, 2016, 40(2): 196-202. DOI: 10.1016/
+j.jgr.2015.12.003.
+[11] Liu X, Wang L, Wen A, et al. Ginsenoside-Rd improves outcome of
+acute ischaemic stroke-a randomized,
+double-blind,
+placebo-
+controlled, multicenter trial[J]. Eur J Neurol, 2012, 19(6): 855-863.
+DOI: 10.1111/j.1468-1331.2011.03634.x.
+[12] Zhu D, Liu M, Yang Y, et al. Ginsenoside Rd ameliorates
+experimental autoimmune encephalomyelitis in C57BL/6 mice[J]. J
+Neurosci Res, 2014, 92(9): 1217-1226. DOI: 10.1002/jnr.23397.
+[13] Chen X, Hu X, Zou Y, et al. Combined treatment with minocycline
+and
+prednisone
+attenuates
+experimental
+autoimmune
+encephalomyelitis in C57 BL/6 mice[J]. J Neuroimmunol, 2009,
+210(1-2): 22-29. DOI: 10.1016/j.jneuroim.2009.02.016.
+[14] Racke MK, Quigley L, Cannella B, et al. Superantigen modulation
+of experimental allergic encephalomyelitis:
+activation of anergy
+determines outcome[J]. J Immunol, 1994, 152(4): 2051-2059.
+[15] Zappia E, Casazza S, Pedemonte E, et al. Mesenchymal stem cells
+ameliorate experimental autoimmune encephalomyelitis inducing
+T-cell anergy[J]. Blood, 2005, 106(5): 1755-1761. DOI: 10.1182/
+blood-2005-04-1496.
+[16] Livak KJ, Schmittgen TD. Analysis of relative gene expression data
+using real-time quantitative PCR and the 2 (-Delta Delta C (T))
+Method[J]. Methods, 2001, 25(4): 402-408. DOI: 10.1006/meth.
+2001.1262.
+[17] Tavazzi E, Rovaris M, La Mantia L. Drug therapy for multiple
+sclerosis[J]. CMAJ, 2014, 186(11): 833-840. DOI: 10.1503/cmaj.
+130727.
+[18] Wu CF, Bi XL, Yang JY, et al. Differential effects of ginsenosides
+on NO and TNF-alpha production by LPS-activated N9 microglia
+[J]. Int Immunopharmacol, 2007, 7(3): 313-320. DOI: 10.1016/j.
+intimp.2006.04.021.
+[19] Wang L, Zhang Y, Wang Z, et al. Inhibitory effect of ginsenoside-
+Rd on carrageenan-induced inflammation in rats[J]. Can J Physiol
+Pharmacol, 2012, 90(2): 229-236. DOI: 10.1139/y11-127.
+[20] Rioux N, Castonguay A. The induction of cyclooxygenase-1 by a
+tobacco carcinogen in U937 human macrophages is correlated to
+the activation of NF-kappaB[J]. Carcinogenesis, 2000, 21(9): 1745-
+1751.
+[21] Sun HX, Qin F, Ye YP. Relationship between haemolytic and
+adjuvant activity and structure of protopanaxadiol-type saponins
+from the roots of panax notoginseng[J]. Vaccine, 2005, 23(48-49):
+5533-5542. DOI: 10.1016/j.vaccine.2005.07.036.
+[22] Yang Z, Chen A, Sun H, et al. Ginsenoside Rd elicits Th1 and Th2
+immune responses to ovalbumin in mice[J]. Vaccine, 2007, 25(1):
+161-169. DOI: 10.1016/j.vaccine.2006.05.075.
+[23] 张秋媛. 雷公藤多甙联合人参皂甙对胶原诱导关节炎大鼠
+CD4+CD25+Foxp3+ 调节性 T 细胞的影响及骨免疫学机制探讨
+[D]. 石家庄: 河北医科大学, 2012.
+Zhang QY.
+Effect of tripterygium glycoside combine with
+ginsenosides on level of CD4+CD25+Foxp3+ regulatory T cells in
+rat
+of
+collagen-induced
+arthritis
+and
+its
+mechanism
+of
+onteoimmunology [D]. Shijiazhuang: Hebei Medical University,
+2012.
+[24] Parastouei K, Mirshafiey A, Eshraghian MR, et al. The effect of 1,
+25 (OH)2 D3 (calcitriol) alone and in combination with all-trans
+retinoic acid on ROR-酌t,
+IL-17,
+TGF-茁,
+and FOXP3 gene
+expression in experimental autoimmune encephalomyelitis[J]. Nutr
+Neurosci, 2018, 21(3): 210-218. DOI: 10.1080/1028415X.2016.
+1263039.
+[25] Noori-Zadeh A, Mesbah-Namin SA, Saboor-Yaraghi AA. Epigenetic
+and gene expression alterations of FOXP3 in the T cells of EAE
+mouse model of multiple sclerosis[J]. J Neurol Sci, 2017, 375: 203-
+208. DOI: 10.1016/j.jns.2017.01.060.
+[26] Ziegler SF, Buckner JH. FOXP3 and the regulation of Treg/Th17
+differentiation[J]. Microbes Infect, 2009, 11(5): 594-598. DOI: 10.
+1016/j.micinf.2009.04.002.
+(收稿日期院2018-12-12)
+(本文编辑院刘凯)
+窑 514
+窑

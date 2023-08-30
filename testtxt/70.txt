@@ -1,0 +1,622 @@
+浙江医学 2019 年第 41 卷第 21 期
+【 摘要 】 目的
+探讨人参皂苷 Rh2 对慢性不可预知应激所致抑郁小鼠的治疗作用及机制。 方法
+将 100 只小鼠随机分为对
+照组、模型组（建立抑郁模型）及 Rh2 低、中、高剂量组[建立抑郁模型后分别予 5、10、40mg/（kg·d）人参皂苷 Rh2 治疗]，每组 20 只。
+测定小鼠悬尾不动和强迫游泳不动时间百分比。免疫组化染色测定小鼠海马区 5- 溴脱氧尿嘧啶核苷（BrdU）和神经元核抗原
+（NeuN）表达情况。RT-PCR 和 Western blot 法分别测定小鼠海马区 NF-资B p65、TNF-琢、IL-1βmRNA 和蛋白表达水平。 结果
+5
+组小鼠悬尾不动和强迫游泳不动时间百分比、海马区 BrdU 阳性细胞数和 NeuN 灰度值以及海马区 NF-资B p65、TNF-琢、IL-1茁
+mRNA 和蛋白表达水平比较，差异均有统计学意义（均 P＜0.05）。与对照组比较，模型组小鼠悬尾不动、强迫游泳不动时间百分比均
+明显增加（均 P＜0.05），海马区 BrdU 阳性细胞数明显减少（P＜0.05），NeuN 灰度值明显升高（P＜0.05），海马区 NF-资B p65、
+TNF-琢、IL-1茁 mRNA 和蛋白表达水平均增加（均 P＜0.05）；与模型组比较，Rh2 中、高剂量组悬尾不动、强迫游泳不动时间百分比均
+明显降低（均 P＜0.05），海马区 BrdU 阳性细胞数均明显增加（均 P＜0.05），NeuN 灰度值均明显降低（均 P＜0.05），海马区 NF-资B
+p65、TNF-琢、IL-1茁 mRNA 和蛋白表达水平均降低（均 P＜0.05）。 结论
+人参皂苷 Rh2 可明显改善小鼠抑郁行为，其作用机制可能
+与 Rh2 可促进神经元发生、减轻神经炎症等有关。
+【关键词 】 人参皂苷 Rh2
+抑郁症
+神经元
+NF-资B
+TNF-琢
+IL-1茁
+Therapeutic effect and mechanism of ginsenoside Rh2 on mice with chronic unpredictable stress-induced depression
+FANG
+Ling, YANG Lili. Department of Psychiatry, Hangzhou Seventh People’s Hospital, Hangzhou 310013, China
+【 Abstract 】
+Objective
+To explore the therapeutic effect and mechanism of ginsenoside Rh2 on mice with chronic
+unpredictable stress-induced depression.
+Methods
+One hundred mice were randomly divided into control group, model
+group, low, medium and high dose Rh2 groups with 20 in each group. The depression was induced by chronic stress in mice of
+later 4 groups, which were given by gavage with 0, 5, 10 and 40mg/ (kg·d) ginsenoside Rh2, respectively. The tail-hanging test
+was used to determine the resting time of suspended tail. The forced swimming test was used to determine the time of forced
+swimming. Immunohistochemical staining was used to determine the expression of 5-bromodeoxyuridine (BrdU) and neuron
+nuclear antigen (NeuN) in the hippocampus of mice. RT-PCR and Western blot were used to detect the expression of NF-资B p65,
+TNF-琢 and IL-1茁 mRNA and protein in hippocampus of mice, respectively.
+Results
+Compared with the control group, in the
+model group the times of suspension and forced swimming were significantly increased (P＜0.05), the number of BrdU positive
+cells in the hippocampus were significantly decreased (P＜0.05), the NeuN gray value was significantly increased (P＜0.05), the
+expression of NF-资B p65, TNF-琢, IL-1茁 mRNA and protein in hippocampus were significantly increased(P＜0.05). Compared with
+the model group, in the Rh2 medium dose group and Rh2 high dose group the times of tail suspension and forced swimming were
+significantly decreased(P＜0.05), the number of BrdU positive cells in the hippocampus were significantly increased (P＜0.05), the
+NeuN gray value was significantly decreased
+(P＜0.05), the expression of NF-资B p65, TNF-琢, IL-1茁 mRNA and protein in hip-
+pocampus were significantly decreased (P＜0.05).
+Conclusion
+Ginsenoside Rh2 can significantly improve the depressive be-
+havior of depressing mice, which may be related to promoting neuronal activity and reducing neuroinflammation.
+【Key words】 Ginsenoside Rh2
+Depression
+Neurons
+Nuclear factor-资B
+Tumor necrosis factor-琢
+Interleukin-1茁
+方玲
+杨莉莉
+人参皂苷 Rh2 对慢性不可预知
+应激所致抑郁小鼠的治疗作用及
+机制研究
+荫论
+著
+DOI：10.12056/j.issn.1006-2785.2019.41.21.2019-1332
+作者单位：310013
+杭州市第七人民医院精神三科（方玲）；安徽医科大学医学心理系（杨莉莉）
+通信作者：方玲，E-mail：fanglingdr96@163.com
+窑2269窑
+浙江医学 2019 年第 41 卷第 21 期
+抑郁症是一种常见的情感精神障碍，严重患者可
+出现自杀念头。随着生活节奏的加快，人们工作和生活
+压力的增加，抑郁症发病率呈逐年上升趋势[1-2]。目前关
+于抑郁症的发病机制尚未十分清楚，有研究认为慢性
+应激与抑郁症的发生关系密切。海马在学习记忆、情
+绪、行为等调节中具有重要作用，是应激反应的调节中
+枢；而慢性应激易损伤海马组织并引起海马结构功能
+发生变化[3]。神经炎症在抑郁症的发生过程中也发挥着
+重要作用，抑郁症患者神经炎症因子水平往往升高[4]。
+目前抑郁症的治疗手段主要有抗抑郁药物治疗、物理
+治疗、心理治疗、中医治疗等，其中抗抑郁药物治疗是
+最主要的方法，但存在药物价格昂贵、患者易复发、不良
+反应较为严重、靶点单一、依从性差等问题[5-6]。人参皂
+苷 Rh2 是从人参中分离出来的单体，其药理作用广泛，
+在治疗恶性肿瘤、子宫内膜异位症、哮喘以及改善心肌缺
+血、调节免疫功能、抗过敏、抗辐射、抗抑郁等方面都有一
+定作用[7-11]。本研究通过建立抑郁小鼠模型来观察人参皂
+苷 Rh2 对小鼠抑郁行为、神经元发生及神经炎症的影
+响，并探讨人参皂苷 Rh2 治疗抑郁症的可能机制。
+1
+材料和方法
+1.1
+动物和试剂
+健康、清洁级、雄性、22~26g、10~12
+周龄、C57BL/6J 的小鼠 100 只，购自上海斯莱克实验动
+物有限公司，许可证号：SCXK（沪）2012-0002。人参皂
+苷 Rh2（上海顺博生物工程有限公司）；PCR 试剂盒、BCA
+蛋白浓度测定试剂盒、蛋白裂解液、SP 检测试剂盒、
+RNA 提取试剂盒等（美国 Gibco 公司）；NF-资B p65、
+TNF-琢、IL-1茁（上海生工生物有限公司合成）；Trizol 试
+剂、多聚甲醛、结晶紫溶液、山羊血清、一抗、二抗等（美
+国 Sigma 公司）。
+1.2
+动物分组与处理
+将 100 只小鼠随机分为对照
+组、模型组、Rh2 低剂量组、Rh2 中剂量组、Rh2 高剂量
+组，每组 20 只。模型组、Rh2 低剂量组、Rh2 中剂量组、
+Rh2 高剂量组小鼠建立慢性应激所致抑郁模型，应激源
+包括 2 次 5min 游泳、2 次 6h 饮水剥夺、1 次 30min 悬
+尾、2 次彻夜光照、3 次 10min 闪光、1 次 17h 湿笼、1 次
+17h 空笼无垫料、1 次 17h 合笼、2 次 14h 食物剥夺、1 次
+2h 合笼，以不可预知方式随机组合实施，每天实施 2 种
+应激源，持续 10 周；对照组小鼠不给予应激。从应激处
+理第 3 周开始，Rh2 低、中、高剂量组小鼠分别给予 5、
+10、40mg/（kg·d）的人参皂苷 Rh2（溶于 0.2ml 蒸馏水中）
+灌胃，1 次/d；对照组、模型组小鼠每天给予等量蒸馏水
+灌胃。
+1.3
+小鼠悬尾不动、强迫游泳不动时间百分比测定
+第 10 周应激处理结束后，测定小鼠悬尾不动、强迫游泳
+不动时间百分比。
+（1）悬尾测试实验：固定小鼠远端尾部
+1.5cm 处，鼠头向下、距离地面 35cm 悬挂，测定 360s 内
+小鼠悬挂时静止不动的时间百分比。
+（2）强迫游泳实验：
+在直径 25cm、高 30cm 透明玻璃水缸中注入 15cm 高的
+水，将小鼠放入水中，水温 21~25益，记录 360s 内小鼠轻
+微肢体活动或漂浮不动的时间百分比。
+1.4
+标本采集
+悬尾测试、强迫游泳实验结束后，每组
+取 10 只小鼠，用戊巴比妥钠麻醉后打开小鼠腹腔、暴露
+心脏，200ml PBS 灌流，多聚甲醛灌流固定；断头取脑、
+分离脑组织，多聚甲醛固定，石蜡包埋，切片，取 4滋m 冠
+状脑组织切片用于免疫组化染色。每组剩余 10 只小鼠
+快速断头处死，冰上分离海马组织，液氮中速冻，用于
+RT-PCR 和 Western blot 实验。
+1.5
+小鼠海马区 5-溴脱氧尿嘧啶核苷（BrdU）和神经
+元核抗原（NeuN）表达情况检测
+采用免疫组化染色法。
+（1）BrdU 表达检测：小鼠脑组织切片用 PBS 洗涤，HCl
+孵育 30min；硼酸缓冲液洗涤，PBS 洗涤，H2O2 孵育
+10min；PBS 洗涤，山羊血清封闭 45min。加入小鼠抗
+BrdU 抗体过夜孵育；PBS 洗涤，加入抗小鼠二抗孵育。
+阴性对照以 PBS 代替一抗，PBS 洗涤，DAB 显色，脱水、
+透明、封固。采用体视学方法分析 BrdU 免疫组化染色
+结果，观察并统计 BrdU 阳性细胞数。（2）NeuN 表达检
+测：小鼠脑组织切片用 PBS 洗涤，加入 Tritonx-100 孵育
+30min；PBS 洗涤，H2O2 室温孵育 10min；PBS 洗涤，山羊
+血清封闭 45min。加入小鼠抗 NeuN 抗体过夜孵育；PBS
+洗涤，加入抗小鼠二抗。阴性对照以 PBS 代替一抗，PBS
+洗涤，DAB 显色，脱水、透明、封固。采用 Carl Zeiss Axio
+Vision Rel.4.6 图像分析系统分析 NeuN 免疫组化染色
+图像，NeuN 表达量以灰度值表示，灰度值越大表示 Ne原
+uN 表达量越少。
+1.6
+小鼠海马区 NF-资B p65、TNF-琢、IL-1茁 mRNA 表
+达水平测定
+采用 RT-PCR 法。取约 100mg 小鼠海马
+组织，加入裂解液，匀浆器匀浆后提取总 RNA；取 1滋g
+RNA 反转录获得海马组织 cDNA，以 cDNA 为模板进行
+PCR，以 茁-actin 为内参照，反应条件：94益 5min；94益
+30s、55益 30s、72益 30s，共 40 个循环；72益 10min。NF-
+资B p65、TNF-琢、IL-1茁 mRNA 相对表达量以 2-驻驻CT 表示。
+1.7
+小鼠海马区 NF-资B p65、TNF-琢、IL-1茁 蛋白表达
+水平测定
+采用 Western blot 法。取小鼠海马组织
+50mg，加入裂解液提取海马组织总蛋白，BCA 法测定海
+马组织总蛋白浓度。制备电泳凝胶，每孔加入 10滋l 上样
+窑2270窑
+浙江医学 2019 年第 41 卷第 21 期
+注：与对照组比较，
+*P＜0.05；与模型组比较，
+△P＜0.05
+液进行电泳分离，将得到的目的蛋白转移至 PVDF 膜
+上，脱脂奶粉封闭，加入 NF-资B p65 抗体（1颐1 000 稀
+释）、TNF-琢 抗体 （1颐200 稀释）、IL-1茁 抗体 （1颐200 稀
+释）、茁-actin 抗体（1颐5 000 稀释）过夜孵育，加入二抗（1颐
+5 000 稀释）孵育 2h。采用 Tanon-4200 凝胶成像系统对
+结果进行分析，NF-资B p65、TNF-琢、IL-1茁 蛋白表达水
+平以 NF-资B p65、TNF-琢、IL-1茁 条带吸光度值/茁-actin
+条带吸光度值的比值表示。
+1.8
+统计学处理
+应用 SPSS 20.0 统计软件。计量资料
+用
+表示，多组间比较采用单因素方差分析，两两比较
+采用 LSD-t 检验。P＜0.05 为差异有统计学意义。
+2
+结果
+2.1
+5 组小鼠悬尾不动、强迫游泳不动时间百分比比较
+5 组小鼠悬尾不动、强迫游泳不动时间百分比比较，差
+异均有统计学意义（均 P＜0.05）。与对照组比较，模型组
+小鼠悬尾不动、强迫游泳不动时间百分比均明显增加
+（均 P＜0.05）；与模型组比较，Rh2 中、高剂量组小鼠悬
+尾不动、强迫游泳不动时间百分比均明显降低（均 P＜
+0.05），而 Rh2 低剂量组有所降低但差异均无统计学意
+义（均 P ＞0.05），见表 1。
+2.2
+5 组小鼠海马区 BrdU 和 NeuN 表达情况比较
+免
+疫组化染色显示，BrdU 阳性细胞散在或成簇分布在齿
+状回颗粒下区，呈梭形或圆形，见图 1（插页）；NeuN 阳
+性细胞广泛密集分布在海马区，见图 2（插页）。5 组小鼠
+海马区 BrdU 阳性细胞数和 NeuN 灰度值比较，差异均
+有统计学意义（均 P＜0.05）。与对照组比较，模型组小鼠
+海马区 BrdU 阳性细胞数明显减少（P＜0.05），NeuN 灰
+度值明显升高（P＜0.05）；与模型组比较，Rh2 中、高剂
+量组小鼠海马区 BrdU 阳性细胞数均明显增加（均 P＜
+0.05），NeuN 灰度值均明显降低（均 P＜0.05），而 Rh2 低
+剂量组小鼠海马区 BrdU 阳性细胞数和 NeuN 灰度值变
+化均不明显（均 P ＞0.05），见表 2。
+2.3
+5 组小鼠海马区 NF-资B p65、TNF-琢、IL-1茁 mRNA
+表达水平比较
+5 组小鼠海马区 NF-资B p65、TNF-琢、
+IL-1茁 mRNA 表达水平比较，差异均有统计学意义（均
+P＜0.05）。与对照组比较，模型组小鼠海马区 NF-资B
+p65、TNF-琢、IL-1茁 mRNA 表达水平均明显升高（均 P＜
+0.05）；与模型组比较，Rh2 中、高剂量组小鼠海马区
+NF-资B p65、TNF-琢、IL-1茁 mRNA 表达水平均明显降低
+（均 P＜0.05），而 Rh2 低剂量组有所降低但差异均无统
+计学意义（均 P ＞0.05），见表 3。
+2.4
+5 组小鼠海马区 NF-资B p65、TNF-琢、IL-1茁 蛋白
+表达水平比较
+5 组小鼠海马区 NF-资B p65、TNF-琢、
+IL-1茁 蛋白表达水平比较，差异均有统计学意义（均 P＜
+0.05）。与对照组比较，模型组小鼠海马区 NF-资B p65、
+TNF-琢、IL-1茁 蛋白表达水平均明显升高（均 P＜0.05）；
+与模型组比较，Rh2 中、高剂量组小鼠海马区 NF-资B
+p65、TNF-琢、IL-1茁 蛋白表达水平均明显降低 （均 P＜
+0.05），Rh2 低剂量组有所降低但差异均无统计学意义
+（均 P ＞0.05），见图 3 和表 4。
+3
+讨论
+有研究发现人参皂苷 Rh2 可改善结肠癌模型小鼠
+的抑郁行为，降低抑郁相关细胞因子水平，同时认为人
+表 1
+5 组小鼠悬尾不动、强迫游泳不动时间百分比比较（%）
+组别
+Rh2 低剂量组
+Rh2 中剂量组
+Rh2 高剂量组
+模型组
+对照组
+F 值
+P 值
+n
+20
+20
+20
+20
+20
+悬尾不动
+55.24±8.79*
+48.35±7.58*△
+42.73±6.97*△
+59.82±10.24*
+32.14±5.47
+37.017
+＜0.05
+强迫游泳不动
+87.23±17.32*
+78.15±17.04*△
+69.03±14.52*△
+96.27±18.92*
+55.24±12.13
+19.409
+＜0.05
+注：与对照组比较，
+*P＜0.05；与模型组比较，
+△P＜0.05
+表 2
+5 组小鼠海马区 BrdU 阳性细胞数和 NeuN 灰度值比较
+组别
+Rh2 低剂量组
+Rh2 中剂量组
+Rh2 高剂量组
+模型组
+对照组
+F 值
+P 值
+n
+10
+10
+10
+10
+10
+BrdU 阳性细胞数（个 /mm2）
+13.24±2.43*
+16.73±3.57*△
+20.68±4.57*△
+10.97±2.36*
+24.31±4.25
+23.228
+＜0.05
+NeuN 灰度值
+1624.35±157.68*
+1505.35±152.13*△
+1432.24±142.63*△
+1653.21±165.37*
+1342.35±143.74
+7.278
+＜0.05
+表 3
+5 组小鼠海马区 NF-资B p65、TNF-琢、IL-1茁
+mRNA 表达水平比较
+注：与对照组比较，
+*P＜0.05；与模型组比较，
+△P＜0.05
+组别
+Rh2 低剂量组
+Rh2 中剂量组
+Rh2 高剂量组
+模型组
+对照组
+F 值
+P 值
+n
+10
+10
+10
+10
+10
+NF-资B p65
+1.95±043*
+1.70±0.36*△
+1.54±0.32*△
+2.14±0.56*
+1.00±0.04
+13.077
+＜0.05
+TNF-琢
+1.86±0.42*
+1.61±0.32*△
+1.45±0.28*△
+1.93±0.45*
+1.00±0.06
+12.307
+＜0.05
+IL-1茁
+2.04±0.44*
+1.73±0.36*△
+1.52±0.33*△
+2.31±0.53*
+1.00±0.03
+17.667
+＜0.05
+窑2271窑
+浙江医学 2019 年第 41 卷第 21 期
+参皂苷 Rh2 可能通过降低抑郁相关细胞因子水平来发
+挥抗抑郁作用[12]。本文通过慢性不可预知应激建立抑郁
+小鼠模型并给予人参皂苷 Rh2 治疗，结果发现人参皂
+苷 Rh2 中、高剂量均可有效改善抑郁小鼠的悬尾不动
+和强迫游泳不动时间百分比，笔者认为人参皂苷 Rh2
+能抑制小鼠的抑郁行为，且可能呈剂量依赖性。
+成年动物的海马组织每天会生成大量新神经元，而
+海马齿状回终生具有生成新神经元的能力。齿状回是海
+马组织的重要信息传入通路，齿状回新生的神经元对学
+习记忆功能具有重要作用。成年动物的海马神经干细胞
+分布在海马齿状回颗粒细胞及亚颗粒区的最内层，海马
+神经干细胞产生的新生细胞可以分化为神经元。近年
+来研究发现，神经发生障碍与抑郁症的发病关系密切，
+是抑郁症的发病基础之一，抗抑郁药可通过增加海马
+区神经发生来发挥抗抑郁的作用[13]。NeuN 在成熟神经
+元中特异表达，而 BrdU 在细胞中永久存在，可用于标
+记处于 DNA 合成器的齿状回先祖细胞，NeuN 和 BrdU
+标记的阳性神经元变化可反映神经细胞增殖和分化情
+况[14-15]。本研究结果发现，抑郁模型小鼠海马区 NeuN
+表达下降（NeuN 灰度值升高）、BrdU 阳性细胞数减少，
+表明抑郁可引起小鼠海马神经元损伤及神经发生减少；
+而人参皂苷 Rh2 中、高剂量治疗可增加抑郁小鼠海马
+区 NeuN 表达及 BrdU 阳性细胞数。分析原因，笔者认为
+人参皂苷 Rh2 可能通过促进抑郁症小鼠海马神经元成
+熟和神经发生、恢复海马组织的结构和功能来发挥抗抑
+郁作用。
+细胞因子对应激反应、免疫反应、炎症反应等具有
+调节作用，抑郁症患者的生理和心理应答与细胞因子的
+中枢效应关系密切，多种炎症介质及细胞因子等活性分
+子水平的改变与抑郁症的发生有关。在抑郁症的发生过
+程中，抑郁、焦虑等负面情绪可引起下丘脑、垂体、肾上
+腺轴负反馈失调，引起机体免疫功能异常[16]。NF-资B 蛋
+白家族在中枢神经系统中广泛分布，NF-资B 为早期转
+录因子，参与包括 TNF-琢、IL-1茁 等多种炎症因子的生
+成。脑内 TNF-琢、IL-1茁 等一系列炎症细胞因子水平增
+加，可引起神经细胞损伤[17-19]。本研究结果发现，抑郁模
+型小鼠海马组织 NF-资B p65、TNF-琢、IL-1茁 水平升高。
+慢性应激能激活海马组织 NF-资B，增加 NF-资B 表达水
+平，而 NF-资B 水平升高又进一步上调 TNF-琢、IL-1茁 等
+炎症细胞因子水平，从而引起海马神经元损伤；而人参
+皂苷 Rh2 治疗可降低海马组织 NF-资B、TNF-琢、IL-1茁
+水平。故笔者认为，人参皂苷 Rh2 对抑郁症的治疗作用
+可能与人参皂苷 Rh2 抑制 NF-资B 信号通路，降低海马
+组织 TNF-琢、IL-1茁 水平有关。
+综上所述，人参皂苷 Rh2 对抑郁症小鼠具有治疗
+作用，其作用机制可能是人参皂苷 Rh2 可促进海马神
+经元成熟和神经发生，并通过抑制 NF-资B 信号通路降
+低海马组织炎性反应来发挥抗抑郁作用。
+4
+参考文献
+[1]
+Yang L, Zhao Y, Wang Y, et al. The Effects of Psychological
+Stress on Depression[J]. Curr Neuropharmacol, 2015, 13(4):494-
+504. DOI:10.1111/sjop.12389.
+[2]
+Yrondi A, Brauge D, LeMen J, et al. Depression and sports-re-
+lated concussion: A systematic review[J]. Presse Med, 2017, 46
+(10):890-902.DOI:10.1016/j.lpm.2017.08.013.
+[3]
+Matsui N, Akae H, Hirashima N, et al. Magnolol Enhances Hip-
+pocampal Neurogenesis and Exerts Antidepressant-Like Effects
+in Olfactory Bulbectomized Mice[J]. Phytother Res, 2016, 30(11):
+1856-1861. DOI: 10.1002/ptr.5695.
+[4]
+Wei P, Zheng Q, Liu H, et al. Nicotine-Induced Neuroprotection
+against Cognitive Dysfunction after Partial Hepatectomy Involves
+Acti vation of BDNF/TrkB Signaling Pathway and Inhibition of
+NF-资B Signaling Pathway in Aged Rats[J]. Nicotine Tob Res,
+2018, 20(4):515-522. DOI:10.1093/ntr/ntx157.
+[5]
+Kang S, Im K, Kim G,et al.Antiviral activity of 20(R)-ginsenoside
+Rh2 against murine gammaherpesvirus[J]. J Ginseng Res, 2017,
+a
+b
+c
+d
+e
+NF-资B
+p65
+TNF-琢
+IL-1茁
+图 3
+5 组小鼠海马区 NF-资B p65、TNF-琢、IL-1茁 蛋白表达的电
+泳图（a：对照组；b：模型组；c：Rh2 低剂量组；d：Rh2 中剂量组；e：
+Rh2 高剂量组）
+表 4
+5 组小鼠海马区 NF-资B p65、TNF-琢、IL-1茁
+蛋白表达水平比较
+注：与对照组比较，
+*P＜0.05；与模型组比较，
+△P＜0.05
+组别
+Rh2 低剂量组
+Rh2 中剂量组
+Rh2 高剂量组
+模型组
+对照组
+F 值
+P 值
+n
+10
+10
+10
+10
+10
+NF-资B p65
+0.87±0.14*
+0.52±0.11*△
+0.23±0.09*△
+0.96±0.15*
+0.12±0.03
+110.403
+＜0.05
+TNF-琢
+0.83±0.18*
+0.57±0.14*△
+0.28±0.12*△
+0.94±0.17*
+0.14±0.04
+60.872
+＜0.05
+IL-1茁
+0.82±0.13*
+0.45±0.11*△
+0.36±0.10*△
+0.91±0.14*
+0.19±0.04
+78.513
+＜0.05
+窑2272窑
+浙江医学 2019 年第 41 卷第 21 期
+[6]
+Chen Z, Wang H, Xia Y, et al. Therapeutic potential of mesenchy-
+mal cell-derived miRNA-150-5p-expressing exosomes in rheu-
+matoid arthritis Mediated by the Modulation of MMP14 and VEGF
+[J]. J Immunol, 2018, 201(8): 2472-2482.DOI: 10.4049/jimmunol.
+1800304.
+[7]
+Paradowska-Gorycka A, Pawlik A, Romanowska-Prochnicka K,
+et al. Relationship between VEGF gene polymorphisms and
+serum VEGF protein levels in patients with rheumatoid arthritis[J].
+PLoS One, 2016, 11(8): e0160769. DOI:10.1371/journal.pone.01
+60769.
+[8]
+Hollander AP, Corke KP, Freemont AJ, et al. Expression of hy-
+poxia-inducible factor 1α by macrophages in the rheumatoid
+synovium: Implications for targeting of therapeutic genes to the
+inflamed joint[J]. Arthritis Rheum, 2001, 44(7):1540-1544. DOI:
+10.1002/1529-0131(200107)44:73.0.CO;2-7.
+[9]
+Muz B, Khan MN, Kiriakidis S, et al. The role of hypoxia and
+HIF-dependent signalling events in rheumatoid arthritis[J]. Arth-
+ritis Res Ther, 2009, 11(1): 201. DOI:10.1186/ar2568.
+[10]
+Tang N, Wang L, Esko J, et al. Loss of HIF-1α in endothelial
+cells disrupts a hypoxia-driven VEGF autocrine loop necessary
+for tumorigenesis[J]. Cancer Cell, 2004, 6(5): 485-495. DOI: 10.
+1016/j.ccr.2004.09.026.
+[11]
+李光庭, 叶莹莹, 唐开奖. 医用臭氧关节腔注射治疗类风湿关节炎膝
+关节疼痛的疗效观察[J]. 世界最新医学信息文摘, 2019, 19(16):23-
+24. DOI: CNKI:SUN:WMIA.0.2019-16-009.
+[12]
+姜瑞国, 邢倩, 徐晓娜. 针刀镜关节清理术联合臭氧注射治疗类风湿
+关节炎的疗效观察[J]. 中国中西医结合杂志, 2019, 39(5):628-630.
+DOI: 10.7661/j.cjim.20190325.107.
+（收稿日期：2019-08-04）
+（本文编辑：沈昱平）
+（上接第 2268 页）
+41(4):496-502. DOI:10.1016/j.jgr.2016.08.010.
+[6]
+徐文,曹辉,杨远荣. 人参皂苷 Rh2 的药理活性研究进展[J]. 中国医药
+导报,2017,14(28):42-45.
+[7]
+Casey DA. Depression in Older Adults: A Treatable Medical Con-
+dition[J]. Prim Care, 2017, 44(3):499-510. DOI:10.1016/j.pop.2017.
+04.007.
+[8]
+Rotenstein LS, Ramos MA, Torre M, et al. Prevalence of Depres-
+sion, Depressive Symptoms, and Suicidal Ideation Among Medi-
+cal Students: A Systematic Review and Meta-Analysis[J]. JAMA,
+2016, 316(21):2214-2236. DOI:10.1001/jama.2016.17324.
+[9]
+Ge G, Yan Y, Cai H. Ginsenoside Rh2 Inhibited Proliferation by
+Inducing ROS Mediated ER Stress Dependent Apoptosis in
+Lung Cancer Cells[J]. Biol Pharm Bull, 2017, 40(12):2117-2124.
+DOI:10.1248/bpb.b17-00463.
+[10]
+Lin Y, Li Y, Song ZG, et al.The interaction of serum albumin with
+ginsenoside Rh2 resulted in the downregulation of ginsenoside
+Rh2 cytotoxicity[J]. J Ginseng Res, 2017, 41(3):330-338. DOI:
+10.1016/j.jgr.2016.06.005.
+[11]
+Li P, Zhou X, Qu D, et al. Preliminary study on fabrication, char-
+acterization and synergistic anti-lung cancer effects of self-as-
+sembled micelles of covalently conjugated celastrol-polyethy-
+lene glycol-ginsenosideRh2[J]. Drug Deliv, 2017, 24(1):834-
+845. DOI:10.1080/10717544.2017.1326540.
+[12]
+Wang J, Chen Y, Dai C,et al.Ginsenoside Rh2 alleviates tu-
+mor-associated depression in a mouse model of colorectal
+carcinoma[J]. Am J Transl Res, 2016, 8(5):2189-2195.
+[13]
+Kumar S, Mondal AC. Neuroprotective, Neurotrophic and An-
+ti-oxidative Role of Bacopa monnieri on CUS Induced Model of
+Depression in Rat[J]. Neurochem Res, 2016, 41(11):3083-3094.
+[14]
+Cahill SP, Yu RQ, Green D,et al.Early survival and delayed death
+of developmentally-born dentate gyrus neurons[J]. Hippocam-
+pus, 2017, 27(11):1155-1167. DOI:10.1002/hipo.22760.
+[15]
+Tamaki R, Orie SI, Alessandri B, et al. Spreading depression
+and focal venous cerebral ischemia enhance cortical neuroge-
+nesis[J]. Neural Regen Res, 2017, 12(8):1278-1286. DOI:10.
+4103/1673-5374.213547.
+[16]
+Shao A, Wu H, Hong Y, et al. Hydrogen-Rich Saline Attenuated
+Subarachnoid Hemorrhage-Induced Early Brain Injury in Rats
+by Suppressing Inflammatory Response: Possible Involvement
+of NF-资B Pathway and NLRP3 Inflammasome[J]. Mol Neurobi-
+ol,2016,53(5):3462-3476.DOI:10.1007/s12035-015-9242-y.
+[17]
+Su WJ, Zhang Y, Chen Y, et al. NLRP3 gene knockout blocks
+NF-资B and MAPK signaling pathway in CUMS-induced de-
+pression mouse model[J]. Behav Brain Res, 2017, 322(Pt A):
+1-8. DOI:10.1016/j.bbr.2017.01.018.
+[18]
+Fu XY, Li HY, Jiang QS, et al. Infliximab ameliorating depres-
+sion-like behavior through inhibiting the activation of the
+IDO-HAAO pathway mediated by tumor necrosis factor-α in a
+rat model[J]. Neuroreport, 2016, 27(13):953-959. DOI:10.1097/
+WNR.0000000000000637.
+[19]
+Li J, Huang S, Huang W,et al.Paeoniflorin ameliorates interfer-
+on-alpha-induced neuroinflammation and depressive-like be-
+haviors in mice[J]. Oncotarget, 2017, 8(5):8264-8282. DOI:10.
+18632/oncotarget.14160.
+（收稿日期：2019-05-04）
+（本文编辑：陈丹）
+窑2273窑
+人参皂苷 Rh2 对慢性不可预知应激所致抑郁小鼠
+的治疗作用及机制研究
+（正文见第 2269 页）
+图 1
+5 组小鼠海马区 BrdU 免疫组化染色所见（a：对照组；b：模型组；c：Rh2 低剂量组；d：Rh2 中剂量组；e：Rh2 高剂量组；×200）
+图 2
+5 组小鼠海马区 NeuN 免疫组化染色所见（a：对照组；b：模型组；c：Rh2 低剂量组；d：Rh2 中剂量组；e：Rh2 高剂量组；×25）
+a
+b
+c
+d
+e
+a
+b
+c
+d
+e
+图 1
+两组中吸烟肺腺癌患者的共同差异高表达基因
+吸烟肺腺癌组 / 正常对照组 吸烟肺腺癌组 / 非吸烟肺腺癌组
+图 2
+候选关键基因编码蛋白间的作用网络（a：以 AURKA 为核
+心的候选关键基因组；b：以 FOXM1 为核心的候选关键基因组；c：
+以 SMC2 为核心的候选关键基因组）
+a
+b
+c
+吸烟肺腺癌患者关键基因的生物学分析
+（正文见第 2281 页）

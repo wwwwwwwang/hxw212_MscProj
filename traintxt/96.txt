@@ -1,0 +1,717 @@
+第56卷第2期
+2022年4月
+福建医科大学学报
+J ournal
+of Fuj i an Medi cal Uni versi t y
+V01．56 No．2
+Apr．2022
+人参皂苷Rgl 对寡聚态A／3。m增加p38丝裂原活化蛋白激酶活性
+诱导神经元损伤的可能影响
+何饶丽1，林楠2，方丽君3，黄天文h2
+摘要：
+目的探讨人参皂苷Rgl 对伊淀粉样蛋白1—42( AS, m) 增加皮质神经元细胞p38丝裂原活化蛋白激
+酶( p38 MAPK) 活性、诱导神经元损伤的影响。
+方法采用经神经元特异性抗体检测C57BL／6胎鼠来源的皮质
+神经元为研究对象，运用寡聚态A肪。诱导神经元损伤，把神经元分为空白对照组、15, 。单独作用组( 模型组) 、
+SB203580处理组、人参皂苷Rgl 处理组、人参皂苷Rgl 单独作用组。采用West ern- bl ot 方法检测p38、磷酸化p38
+( p—p38) 的蛋白水平，采用光学显微镜观察神经元形态，采用TUNEL染色和caspase一3活性检测神经元凋亡相关指
+标。
+结果
+( 1) 在寡聚态A肪。作用5和15 mi n时，皮质神经元中P—p38蛋白水平均较空白对照组明显升高，差
+别均有统计学意义( P<0．05) 。( 2) 与模型组比较，人参皂苷Rgl 处理组中，不同浓度( 2．5、5．0和10．0 t zmol ／L) 的
+人参皂苷Rgl 作用后，寡聚态A岛。诱导升高的p- p38／p38水平均明显回落，差别均有统计学意义( P<o．001) 。与
+空白对照组比较，仅予以10．0／, mol ／L的人参皂苷Rgl 也可降低皮质神经元的p- p38／p38水平，差别有统计学意
+义( P<o．005) 。( 3) 在皮质神经元的形态学观察中，10．0弘mol ／L的人参皂苷Rgl 处理组的皮质神经元突触的完
+整性、流畅性均较模型组明显改善；在TUNEL染色及caspase一3活性检测中，10．0／, mol ／L的人参皂苷Rgl 处理组
+TUNEL阳性的凋亡神经元比例及caspase 3活性均较模型组明显降低( P<0．01) 。
+结论p38 MAPK信号通
+路可能参与人参皂苷Rgl 减轻寡聚态An。诱导的皮质神经元的损伤过程。
+关键词：
+阿尔茨海默病；人参皂苷Rgl ；p38丝裂原活化蛋白激酶
+文献标志码：
+A
+文章编号：
+1672—4194( 2022) 02—0097- 06
+阿尔茨海默病( Al zhei mer’
+S di sease，AD) 是一
+种以进行性认知障碍为主要临床特征的神经系统退
+行性疾病，常见于老年人。调查显示，目前全球约有
+5 000万AD患者，我国老年人的AD患病率为
+3％～7％[ 1] ，给家庭和社会带来了巨大负担。寡聚
+态伊淀粉样蛋白l 一42( amyl oi d p- prot ei n
+1—42，
+aPl 也) 作为AD发病机制的A口瀑布学说中毒性最
+大的片段，在AD的发病中起重要的作用。在AD
+患者的脑组织及A口的毒性机制中发现，p38丝裂原
+活化蛋白激酶( p38 mi t ogen- act i vat ed prot ei n ki nase，
+p38 MAPK) 的功能异常激活是其重要的病理生理
+机制。因此，p38 MAPK被认为是治疗AD的重要潜
+在靶点之一[ 2I 。
+近年来，传统中医药在AD防治中的作用备受
+关注。人参作为我国传统的名贵中药，具有悠久的
+应用历史，包含多种成分，其主要成分之一是人参皂
+苷Rgl ，属三醇苷，具有较强的生物学活性。本课题
+收稿日期：2021 08
+29
+资助项目：福建省自然科学基金项目( 2020J 011035) ；福建省卫生计
+生科研人才培养项目( 青年科研课题) ( 2018—1—41) ；福建
+医科大学启航基金项目( 2017XQl 033)
+作者单位：1．福建医科大学附属协和医院神经内科，福州
+350001；
+2．福建省血管衰老重点实验室( 福建医科大学) ，福州
+350001；
+3．福建医科大学附属协和医院眼科，福州
+350001
+作者简介：何饶丽，女，主治医师，医学硕士
+通信作者：黄天文．Emai l ：huangt i anwen2002@163．corn
+组前期研究证实，人参皂苷Rgl 可能通过多种途径
+减轻Af t l m诱导的神经元凋亡，从而达到防治AD的
+作用[ 3。4] 。在此基础上，本研究在A儡砌诱导的AD
+细胞模型进一步探讨人参皂苷Rgl 对p38 MAPK
+信号转导通路的分子作用机制，以期为人参皂苷
+Rgl 防治AD提供更多的实验依据。
+1材料与方法
+1．1
+材料
+1．1．1动物清洁级C57BU6孕鼠( 孕龄15～16 d，
+上海西普尔一必凯实验动物有限公司) 。
+1．1．2
+主要试剂和仪器
+寡聚态A陆地( 美国康萨
+斯大学严世都教授惠赠) ；人参皂苷Rgl ( 纯度>
+98％，吉林大学基础医学院有机化学教研室) ；
+f l - act i n单克隆抗体( 美国NeoMarkers公司) ；磷酸
+化神经丝多克隆抗体( MABl 592，美国Mi l l i pore公
+司) ；多克隆抗体p38 MAPK、鼠单克隆抗体phos—
+pho—p38 MAPK( Thrl 80／182) ( 美国Cel l
+Si gnal i ng
+Technol ogy公司) ；胎牛血清( 杭州江滨生物技术有
+限公司) ；Neurobasal 培养基( 美国Gi bco公司) ；
+West ern—bl ot 化学发光检测试剂盒( 美国KPL公
+司) ；TUNEL测定试剂盒( 美国Trevi gen公司) ；
+caspase一3活性检测试剂盒( 美国Cl ont ech Labora-
+t ori es公司) 。细胞裂解液：Tri s( pH值7．4，
+10肛mol ／L) +Na4P207( 20弘mol ／L) +Na3V04
+万方数据
+福建医科大学学报
+( 2／Mmol ／L) +NaCl ( 100弘mol ／L) +乙二胺四乙酸
+( EDl 、A) ( 1弘mol ／L) 4- 乙二醇双四乙酸( EGTA)
+( 1“ mol ／L) +NaF( 1肚mol ／L) +SDS( 0．1％) +
+PMSF( 1 umol ／L) +Sodi umdeoxychol at e( 0．5％) +
+Tri t on—X 100( 1％) - I - 抑酶肽( 60／xmol ／L) +亮抑酶
+肽( 10 f _, mol ／L) +胃蛋白酶抑制剂( 1／一mol ／L) 。解
+- N&鼠脑组织的溶液：Neurobasal 培养基+2 mol ／L
+的L一谷氨酰胺+2％的B：，+4．4 mmol ／L的
+NaHC03；皮质神经元基础培养基：Neurobasal 培养
+基+0．1 I U／L的青霉素G+0．1 I U／L的链霉素+
+1．19 g／L的HEPES+2 g／L的NaHC03；皮质神经
+元生长培养基：Neurobasal 培养基+50 U／mL的青
+霉素+50 U／mL的链霉素+2 mol ／L的L一谷氨酰
+胺+2％的B。，。倒置显微镜( CK40型，日本
+Ol ympus公司) ；CO：细胞培养箱( 3110型，美国
+Forma Sci ent i f i c公司) 。
+1．2方法
+1．2．1
+皮质神经元培养
+具体方法参考文献[ 5] ，
+简要步骤如下：取孕龄为15～16 d的C57BL／6小
+鼠，无菌条件下取出胎鼠，分离出全脑，去除脑组织
+中的脑干、小脑、桥脑及脑膜，分离出皮质，再用胰蛋
+白酶进行适时消化后，以含20％胎牛血清的解剖液
+终止消化，分离出小鼠皮质神经元，进行计数、接种
+培养，体外培养3～5 d后，分离出来的皮质神经元
+稳定生长，以此进行后续实验。
+1．2．2分组
+( 1) 空白对照组：未给予任何干预处
+理。( 2) A口。。单独作用组( 模型组) ：仅给予
+5．0／xmol ／L的寡聚态A口。砌作用于体外培养的皮质
+神经元。( 3) 人参皂苷Rgl 处理组：体外培养的小
+鼠皮质神经元，给予不同浓度的人参皂苷Rgl 预先
+孵育24 h，然后加入5．0／xmol ／L的寡聚态A口。越共
+同孵育48 h。( 4) SB203580( p38抑制剂) 处理组：予
+20／Mmol ／L的SB203580以及5．0／, mol ／L寡聚态
+A口H。共同孵育。( 5) 人参皂苷Rgl 单独作用组：仅
+给予10．0／, mol ／L的人参皂苷Rgl 作用于体外培
+养的皮质神经元。
+1．2．3神经元的免疫细胞化学鉴定
+把神经元特
+异的磷酸化神经丝抗体作为神经元的特异性识别标
+志，采用免疫细胞化学技术( ABC法) 检测培养的皮
+质神经元的神经丝。主要步骤如下：培养成熟的神
+经细胞经3．7％甲醛固定30 mi n，加入过氧化氢甲
+醇溶液灭活内源性的过氧化氢物酶，予PBS洗涤
+后，通过动物血清封闭非特异性抗原，经PBS洗涤
+后，加入磷酸化神经丝抗体( MABl 592) 孵育，经
+PBS洗涤后，加入链亲和素一过氧化物酶溶液孵育，
+经PBS洗涤后，予新鲜配制的DAB溶液显色、封
+片、显微镜下拍照。
+1．2．4
+West ern—bl ot 检测
+皮质神经元经处理后，
+用预冷的磷酸盐缓冲溶液清洗残余的细胞培养液，
+加入适量的细胞裂解液，神经元在冰上裂解20 mi n，
+用细胞刮刀收集细胞后进行离心( 14 000× g，4℃，
+10 rai n) ，取上清液，用Bradf ord法对蛋白浓度进行
+定量，并以10％SDS一聚丙烯酰胺凝胶进行电泳分
+离，转膜，在室温下使用封闭液进行封闭，一抗
+p38／MAPK、p- pS8／MAPK
+( Thrl 80／182) ，
+1：1 000稀释] ，4℃下孵育，洗涤，辣根过氧化物酶
+耦联的抗鼠I gG二抗( 1：1 000稀释) 作用2 h，采
+用化学发光法显色、曝光。以5、15、30和60 mi n为
+寡聚态A口H：作用于皮质神经元细胞的观察时间
+点，采用West ern—bl ot 方法检测细胞内p38在
+Thrl 80和Thrl 82位点的磷酸化水平，以p- p38／p38
+的比值表示p38活性的变化，以伊act i n为内参照，
+实验重复3次。
+1．2．5
+TUNEL染色
+参考文献[ 6] ，采用原位末
+端标记法检测培养神经元的凋亡情况。简要步骤如
+下：经干预处理后的神经元经多聚甲醛等进行固定，
+先后用NeuroPore试剂、淬链溶液( quenchi ng sol u—
+t i on) 、末端脱氧核苷酸转移酶( TdT) 标记缓冲液进
+行处理，再用标记反应混合物进行作用，使用
+1× TdT停止缓冲液停止反应；接着使用St rept avi —
+di n—HRP处理、DAB显色、细胞核复染、氨水返蓝、
+中性树脂封片处理。最后对染色区域内5个视野下
+的TUNEL阳性细胞进行计数。
+1．2．6
+caspase一3活性测定参考文献E6] ，并根据
+说明书检测caspase一3活性。简要步骤如下：用人参
+皂苷Rgl 或寡聚态A伪也按不同的时间处理原代皮
+质神经元。将神经元刮下、离心、弃上清，按照
+50址L溶液含2× 105个细胞的比例裂解细胞、分离
+上清液，加入2× 反应缓冲液／二硫苏糖醇( DTT) 混
+合物孵育1 h后，用荧光酶标仪( 激发波波长
+380 nm／发射波波长460 nm) 检测荧光强度以评估
+caspase一3的活性。
+1．3统计学处理数据以X± S表示，采用SPSS 26．0
+和Graphpad Pri sm软件进行统计分析。P％0．05
+为差别有统计学意义。
+2
+结
+果
+2．1
+神经元纯度
+体外培养5 d的神经元中绝大
+多数为磷酸化的神经丝抗体染色阳性细胞，胞体多
+呈椭圆形，有≥2个的突起；胞质和突起内神经丝呈
+棕黄色，胞核不着色( 图1) 。
+万方数据
+第2期
+何饶丽，等：人参皂苷Rgl 对寡聚态A岛m增加p38丝裂原活化蛋白激酶活性诱导神经元损伤的可能影响
+99
+≯
+图1
+神经元纯度鉴定( 免疫化学染色
+× 400)
+Fi g．1
+I dent i f i cat i on of
+neur on puri t y
+( i mmunochemi cal
+st ai ni ng
+× 400)
+学意义( P<o．001) ，其中10．0／, mol ／L处理组皮质
+神经元细胞中p- p38／p38水平低于2．5／, mol ／L
+( P<0．005) 及5．0 umol ／L处理组( P<0．01) 。同
+时，SB203580处理组及10．0 umol ／L人参皂苷Rgl
+单独作用组的p- p38／p38的比值低于A胁础单独作
+用组( P<0．001) 。10．0 umol ／L人参皂苷R91单
+独作用组p- p38／p38水平也低于空白对照组
+( P<0．001，图3) 。
+2．2
+寡聚态A胁砌作用不同时间对皮质神经元
+p- p38和p38蛋白水平的影响与空白对照组比较，
+毁2
+在寡聚态A51砌作用于原代皮质神经元5和15 mi n
+童
+时，p- p38蛋白水平及p- p38／p38比值均明显升高，
+甚I，
+差别均有统计学意义( P<0．05) ，且在作用5 mi n
+时最为明显( P<0．005) 。但皮质神经元内p- p38／p38
+。
+的比值随着时间延长在组间呈下降趋势( 图2) 。
+O．5
+0
+2
+3
+4
+5
+组别
+B
+p- p38：磷酸化p38。1：空白对照组；2～5分别为5、15、
+30和60
+rai n Apl _4z单独作用组。A：West ern bl ot 条带；
+B：West ern—bl ot 定量分析图。与空白对照组比较，
+☆：P<O．05；☆☆☆：P<0．005。
+图2寡聚态舶。不同作用时间点对皮质神经元
+细胞p- p38、p38及p- p38／p38水平的影响
+Fi g．2
+Prot ei n l evel
+of
+p- p38，p38 and p- p38／p38
+i n
+cort i cal
+neurons
+t reat ed wi t h ol i gomeri c apl
+4z
+at
+di f f erent t i me poi nt s
+2．3人参皂苷Rgl 减轻寡聚态A岛础诱导的皮质
+神经元p38磷酸化与模型组比较，不同浓度( 2．5、
+5．o和10．0 Mmol ／L) 的人参皂苷Rgl 处理组可不
+同程度降低p- p38／p38的比值水平，差别均有统计
+1
+2
+3
+4
+5
+6
+7
+B
+组别
+p-p38：磷酸化p38；1：空白对照组；2：舶_42单独作用组；
+3：SB203580处理组；4～6：2．5、5．0和10．0 umol ／L人参皂苷
+Rgl 处理组；7：10．0 umol ／L人参皂苷Rgl 单独作用组。
+A：West ern—bl ot 条带；B：West ern- bl ot 定量分析图。组间比较，
+☆☆☆☆：P<0．001；☆☆☆：P<O．005；☆☆：P<O．01。
+图3不同浓度的人参皂苷Rgl 对寡聚态蛳。诱导
+皮质神经元细胞p- p38及p38水平的影响
+Fi g．3
+Ef f ect s of gi nsenosi de Rgl
+at di f f erent
+concent ra—
+t i ons
+on
+P—p38
+and
+p38
+i n
+cort i cal
+neurons
+i n—
+duced by ol i gomeri c A8H2
+2．4人参皂苷Rgl 减轻寡聚态A口H。诱导的皮质
+神经元凋亡
+空白对照组的皮质神经元细胞及神经
+元间突触形态及结构正常、完整，呈均匀分布，突触
+间联系光滑、完整、流畅( 图4A) 。A儡刈单独作用组
+皮质神经元明显减少，神经元突触形态屈曲、粗糙，
+结构不完整( 图4B) 。10．0／2mol ／L人参皂苷Rgl
+处理组皮质神经元细胞数目和突触完整性、流畅性
+较A岛m单独作用组明显改善( 图4C) 。TUNEL染
+色结果显示，与空白对照组皮质神经元细胞比较，
+A岛嘲单独作用组TUNEL阳性细胞／总细胞的比值
+明显增高( P<0．001) ；与A伪越单独作用组皮质神
+经元细胞比较，10．0／umol ／L人参皂苷Rgl 处理组
+TUNEL阳性细胞／总细胞的比值明显降低
+( P<o．001，图5A) 。皮质神经元的caspase一3的活
+性检测结果显示，在相同条件下，A口。也单独作用组
+，≮堆
+，r呈I
+．、√．
+、卜y的一
+，^oI髋一
+万方数据
+100
+福建医科大学学报
+皮质神经元的caspase一3活性较空白对照组显著增
+加( P<0．001) ；与A胁础单独作用组比较，
+10．0／t mol ／L人参皂苷Rgl 处理组皮质神经元的
+caspase一3活性显著降低( P<o．001，图5B) 。
+A：空白对照组；B：apl
+2单独作用组；C：10．0 t - mot ／I 。人参皂什Rgl 处理组。
+图4
+10．0 pmol ／I ．人参皂苷Rgl 对寡聚态A岛，z诱导的皮质神经元凋亡具有神经保护作用( 倒置显微镜)
+Fi g．4
+10．0 t ml ol ／I 。gi nsenosi de Rgl
+has neuroprot ect i ve ef f ect
+on apopt osi s of
+cort i cal
+neur ons
+i nduced by ol i gomeri c apl _l ! ( observed by i nvert ed mi croscope)
+80
+冰
+蛩60
+碧
+嚣40
+心
+罂
+最20
+趟
+医
+0
+6 000
+蠢a ooo
+时
+善2 000
+0
+2
+组别
+2
+3
+组别
+B
+1：空白对照组；2：ApI _12单独作用组；3：10．0“ mol ／I 。人
+参皂苷Rgl 处理组。A：TUNEI 。染色阳性细胞与总细胞的比
+值；B：caspase- 3活性检测，指每毫克蛋白质q1含量。组问比
+较，☆☆☆☆：P<o．00l 。
+图5
+10．0 p．mol ／I 。人参皂苷Rgl 减少Ap。：诱导的
+皮质神经元凋亡
+Fi g．5
+1 0．0 pmol ／I 。gi nsenosi de Rgl
+has
+neuropro—
+t ect i ve ef f ect
+on apopt osi s
+of
+cort i cal
+neur ons
+i nduced by ol i gomeri e A舟|_l
+2
+3讨
+论
+AD是中老年人中最为常见的痴呆类型，但其
+病因至今尚不明确，其治疗方法也有待进一步研发。
+在AD的病理学进展中，A口的瀑布学说仍为大多数
+学者所接受。该学说认为，A口可通过氧化应激、线
+粒体功能障碍等途径引起神经元损伤和死亡、突触
+缺失、神经炎症和t au蛋白过度磷酸化，是触发AD
+病理改变的一个中心环节。这些病理过程同时也促
+进了A口沉积[ 7‘
+8] ，从而进一步加速AD的病理损害
+和疾病的发展。在Ap的毒性片段中，寡聚态A口H。
+是细胞毒性最强的物质，也是研究AD病理生理的
+重要物质。本研究及课题组的前期研究[ 6。3都通过
+神经元形态观察、TUNEL染色技术和caspase一3活
+性检测验证了寡聚态A岛砌毒性对神经元的损害作
+用。因此，本研究选择寡聚态A岛砌作为模拟AD病
+理生化的物质，并在前期以5．0肛mol ／L A岛越寡聚
+体诱导原代皮质神经元细胞损伤，成功制备了体外
+AD模型。
+MAPK家族受广泛的细胞外刺激影响，参与细
+胞增殖、分化和凋亡等一系列生理病理过程，其中
+c- J un氨基末端激酶／应激活化蛋白激酶( J NK／sAPK)
+与p38 MAPK均是MAPK家族的主要成员[ 1⋯ 。
+本课题组前期研究发现，具有神经毒性的寡聚态
+A岛础( 5／- mol ／L) 可诱导皮质神经元内的J NK磷酸
+化，活化的J NK／SAPK可参与介导线粒体损
+伤口’
+6] ，与文献[ 11] 的报道一致。而另一重要通路
+p38 MAPK激活后，可通过调控下游多种酶及转录
+因子的表达活性，从而对细胞功能进行调节。在
+AD模型中，p38 MAPK可同时作为氧化应激的下
+游因子被磷酸化激活，改变caspase一9的构象，并启
+动caspase级联反应，激活下游的caspase一3，通过蛋
+白水解作用，诱发过度的氧化应激，促进神经元的凋
+亡，加快AD的发病进程，其磷酸化程度与AD发病
+时间正相关[ 12I 。同时，有研究认为，在与学习记忆
+相关的脑区中，高表达的p38 MAPK是海马中代谢
+性谷氨酸受体( met abot ropi c gl ut amat e
+recept or，
+万方数据
+第2期
+何饶丽，等：人参皂苷Rgl 对寡聚态A岛m增加p38丝裂原活化蛋白激酶活性诱导神经元损伤的可能影响
+101
+mGl uR) 和N一甲基一D一天冬氨酸受体依赖性长时程
+抑制( 10ng—t ermdepressi on，LTD) 形成的信号转导
+途径，参与了突触可塑性调节口” 15] 。在AD模型中，
+A口增多可通过p38 MAPK依赖性方式诱导
+mGl uR—LTD，造成树突棘损失，与记忆减退密切相
+关[ 16|。因此，p38 MAPK在AD的病理学进展中具
+有重要作用。本研究对不同作用时间( 5、15、30、
+60 mi n) 下A向越诱导皮质神经元p38蛋白磷酸化的
+情况进行探索，发现5．0 t t mol ／L寡聚态A口H。作用
+5和15 mi n后，p38 MAPK在Thrl 80和Thrl 82位
+点的磷酸化水平明显增高，且p38磷酸化水平在作
+用5 mi n后升高最为明显，提示A胁瑚介导的p38蛋
+白磷酸化是AD的早期病理生理过程中的关键环
+节，p38可能是研究AD治疗的重要靶点之一。
+人参皂苷Rgl 在抗炎、抗氧化、延缓衰老等方
+面具有重要作用口7I 。因此，本研究在AD的细胞模
+型中，以人参皂苷Rgl 为干预手段，通过p38
+MAPK探讨其在AD早期氧化应激中的保护作用，
+观察人参皂苷Rgl 对寡聚态A胁砌诱导的神经元细
+胞P—p38和p38蛋白水平的影响，结果发现，人参皂
+苷Rgl 可下调p38磷酸化水平。相对于未经A胁也
+干预的空白对照组及10．0 t Lmol ／L人参皂苷R91
+处理组，10．0>mol ／L人参皂苷Rgl 单独作用组的
+p- p38／p38水平明显减低。一方面说明空白对照组
+( 体外培养的皮质神经元) 中也可能存在一定的应激
+反应和p38 MAPK信号通路，这与既往文献
+E18—19] 的相关研究结果一致，当然其具体机制仍需
+进一步研究，笔者也将在未来的研究中关注这一变
+化，探索其中的机制。另一方面论证了寡聚态
+A口H。可增加p38磷酸化水平，组间差别也进一步说
+明了人参皂苷Rgl 对p38 MAPK信号通路具有抑
+制作用。本研究发现，p38磷酸化水平随人参皂苷
+Rgl 浓度的增加而降低，其中10．0／l mol ／L处理组
+中的P—p38水平及p- p38／p38比值最低，推测人参皂
+苷Rgl 可能通过剂量依赖性方式抑制p38 MAPK，
+减少舶也诱导的神经元毒性。本研究还从形态学
+和凋亡两方面探索了人参皂苷Rgl 对皮质神经元
+的影响，结果发现，与模型组比较，10．0 gmol ／L人
+参皂苷Rgl 可有效保护神经元、维护突触结构，检
+测caspase一3的活性也得到相同的结果，进一步论证
+了人参皂苷Rgl 在AD早期的应激反应中对神经
+元起保护作用。
+本研究也存在一定局限性，虽然p38的异常磷
+酸化是AD早期病理生理过程中的重要环节，但
+AD的发病机制复杂，仅通过抑制p38活性并不能
+完全实现AD的治疗目标。此外，本课题组进行的
+系列研究也发现，人参皂苷Rgl 可能具有多靶点作
+用，后期将继续探讨人参皂苷Rgl 的作用机制。
+综上所述，本研究发现寡聚态A口。啦可诱导p38
+磷酸化，激活p38活性；而人参皂苷Rgl 可减轻p38
+磷酸化，具有保护神经细胞作用。因此，p38 MAPK
+信号通路可能参与人参皂苷Rgl 保护神经元，减轻
+寡聚肽A岛也诱导的神经元损伤。
+参考文献：
+[ 1]
+RAJ ANKB，wEuVE J ，BARNES L L，et a1．Popul at i on es—
+t i mat e of
+peopl e wi t h cl i ni cal Al zhei mer’
+s di sease andmi l d cog—
+ni t i ve i mpai rment
+i n t he Uni t ed St at es( 2020—2060) [ J ] ．
+Al zhei mer’
+S Dement ，202l ，17( 12) ：1966- 1975．
+[ 23
+LEE J K，KI MNJ ．Recent
+advances
+i n t he i nhi bi t i on of p38
+MAPK as a pot ent i al st rat egy f or t he t reat ment
+of
+Al zhei mer’
+S
+di sease[ J ] ．Mol ecul es，2017，22( 8) ：1287．
+I - 3] 黄天文，何饶丽，周梦，等．人参皂苷Rgl 对寡聚肽A伪42增
+加J NK活性及诱导凋亡的影响[ J ] ．中国药理学通报，2015，
+31( 1) ：60—63．
+E4] 黄天文，何饶丽，周梦，等．人参皂苷Rgl 对寡聚肽淀粉样
+口蛋白抑制蛋白激酶A通路的影响EJ ] ．中华老年医学杂志，
+2015，34( 3) ：316- 318．
+[ 5] TAKUMAK，YAOJ ，HUANG J M，et
+a1．ABAD enhances
+A口cel l
+st ress
+vi a mi t ochondri al dysf unct i on[ J ] ．FASEB J ，
+2005，19( 6) ：597- 598．
+r6] HUANG T W，FANG F，CHEN L M，et
+a1．Gi nsenosi de
+Rgl
+at t enuat es
+ol i gomeri c
+A口( 1- 42) 一i nduced
+mi t ochondri al
+dysf unct i on[ J ] ．Curt
+Al zhei mer Res，2012，9( 3) ：388—395．
+[ 7]
+cAsTELLANl
+R J ，PLASCENCI A—VI LLA G，PERRY
+G．
+The amyl oi d cascade
+and Al zhei mer’
+S
+di sease
+t herapeut i cs：
+Theory
+ver sus
+observat i on[ J ] ．Lab I nvest ，2019，99( 7)
+958—970．
+r8] HENEKA MT，O’
+BANI ON MK，TERWEL D，et a1．Neu—
+roi nf l ammat ory processes
+i n Al zhei mer’
+S di sease[ J ] ．J
+Neural
+Transm( Vi enna) ，2010，117( 8) ：919- 947．
+[ 9]
+黄天文．人参皂苷Rgl 通过抑制应激反应损害减轻寡聚态A口
+介导的神经毒性作用[ D] ．福州：福建医科大学，2007．
+[ 10]
+KONG A N，YUR，CHENC，et
+a1．Si gnal
+t ransduct i on
+event s
+el i ci t ed by nat ural
+product s：Rol e of MAPK and caspase
+pat hways
+i n homeost at i c response and i nduct i on of apoptosi sFJ ] ．
+Arch PharmRes，2000，23( 1) ：1—16．
+[ 11] ZHUx，RAI NA AK，ROTTKAMP C A，et a1．Act i vat i on
+and redi st ri but i on of
+c- j un N- t ermi nal ki nase／st ress act i vat ed pro—
+t ei n ki nase
+i n degenerat i ng
+neur ons i n
+Al zhei mer’
+S di sease F-J ]．
+J Neurochem，2001，76( 2) ：435- 441．
+[ 12]
+CHEN X，LI N R，CHANG L，et a1．Enhancement
+of
+l ong—
+t erm depressi on by sol ubl e amyl oi d．8 prot ei ni n rat hi ppocam—
+pus i s
+medi at ed by
+met abot ropi c
+gl ut amat e recept or and i n—
+vol ves act i vat i on
+of
+p38 MAPK，STEP and caspase- 3[ J ] ．
+万方数据
+102
+福建医科大学学报
+2022正
+Neurosci ence，2013，253：435- 443．
+E13] WANG S，ZHANG C，SHENG X N，et a1．Peri pheral
+ex—
+pressi on of MAPK pat hways
+i n Al zhei mer’
+s
+and Parki nson’
+s
+di seases[ J ] ．J
+Cl i n Neurosci ，2014，21( 5) ：810—814．
+[ 14] WANGQW，ROWANMJ ，ANWYL R．I nhi bi t i on of LTP
+by bet a- amyl oi d i s prevent ed by act i vat i on of bet a 2 adrenocept ors
+and st i mul at i on of
+t he cAMP／PKA si gnal l i ng pat hway[ J ] ．
+Neurobi 01 Agi ng，2009，30( 10) ：1608—1613．
+E15]
+I ZUMI Y，TOKUDA K，ZORUMSKI C F．Long- t erm pc—
+t ent i at i on
+i nhi bi t i on by
+10w- l evel
+N- met hyl —D—aspart at e
+re—
+cept or
+act i vat i on i nvol ves cal ci neuri n，ni t ri c oxi de，and p38
+mi t ogen—act i vat ed prot ei n ki nase[ J ] ．Hi ppocampus，2008，
+18( 3) ：258- 265．
+[ 16] HSI EH H，BOEHMJ ，SATO C，et a1．AMPAR removal
+[ 17]
+[ 18]
+[ 19]
+underl i es Af t —i nduced synapt i c depressi on and dendri t i c spi ne
+l oss[ J ] ．Neuron。2006，52( 5) ：831- 843．
+CHEN L M，ZHOU X M，CAOY L，et a1．Neuroprot ect i on
+of
+gi nsenosi de Re
+i n
+cerebral
+i schemi a- reperf usi on i nj ury
+i n
+rat sD] ．J
+Asi an Nat Prod Res，2008，10( 5／6) ：439—445．
+LI U X W，J I E F，HE P，et a1．Prot ect i ve ef f ect s of t he p38
+MAPK i nhi bi t or SB203580 on NMDA i nduced i nj ury
+i n pri —
+mary cerebral
+cort i cal
+neurons[ J ] ．Mol
+Med Rep，2014，
+10( 4) ：1942—1948．
+XI AO L。HU C，FENG C Z，et a1．Swi t chi ng of
+N- met hyl —
+D—aspart at e( NMDA)
+recept or- f avori t e
+i nt racel l ul ar
+si gnal
+pat hways
+f rom ERKl ／2
+prot ei n t o
+p38
+mi t ogen- act i vat ed
+prot ei n ki nase l eads t o devel opment al changes i n NMDA neu—
+rot oxi ci t yEJ ] ．J
+Bi ol
+Chem，2011，286( 23) ：20175—20193．
+The Possi bl e Ef f ect
+of Gi nsenosi de Rgl
+on Ol i gomeri c A／31—42 I ncreasi ng
+p38 MAPK Act i vi t y and I nduci ng Neuronal
+I nj ury
+HE Raol i l ，LI N Nan2，FANG Li j un3，HUANG Ti anwenl
+2
+1．Depart ment
+of Neurol ogy，Fuj i an Medi cal
+Uni versi t y Uni on Hospi t al ，Fuzhou 350001，Chi na；
+2．Fuj i an Key Laborat ory of
+Vascul ar Agi ng，Fuj i an Medi cal
+Uni ve rsi t y，Fuzhou 350001，Chi na；
+3．Depart ment of Opht hal mol ogy，Fuj i an Medi cal
+Uni versi t y Uni on Hospi t al ，Fuzhou 350001，Chi na
+ABSTRACT：
+Obj ect i ve
+To i nvest i gat e t he ef f ect
+of gi nsenosi de Rgl
+on t he i ncrease of p38 mi t ogen
+act i vat ed prot ei n ki nase( p38 MAPK) act i vi t y
+and neuronal
+i nj ury
+i nduced by amyl oi d p- prot ei n
+1- 42
+( Af t l _42) i n cort i cal
+neurons．
+Met hods
+The cort i cal
+neur ons of C5 7BL／6 f et al
+rat s were det ect ed by neu—
+r OD speci f i c ant i body as t he obj ect of st udy．
+We used ol i gomeri c A向- 42 t o i nduce neuronal
+damage，and di —
+vi ded neurons i nt o bl ank cont rol group，ol i gomeri c A肪_42 group，SB203580 t reat ment group，gi nsenosi de
+Rgl
+t reat ment group and onl y gi nsenosi de Rgl group．The prot ei n l evel s of p38 and P—p38 were det ect ed
+by West ern—bl ot ，and t he morphol ogy
+of
+neur ons was observed by l i ght mi croscope．TUNEL st ai ni ng
+and caspase一3
+act i vi t y were used t o det ect t he rel at ed i ndexes of neuronal
+apopt osi s．
+Resul t s
+( 1) Corn—
+pared wi t h t he bl ank cont rol group，t he l evel
+of p- p38 prot ei n i n cort i cal
+neur ons i ncreased si gni f i cant l y i n
+t he presence of ol i gomeri c A岛- 42 on 5 mi n and 15 mi n( P<0．05) ；( 2) Compared wi t h t he model
+group( ol —
+i gomeri c A角- 42 group) ，gi nsenosi de Rgl
+at
+di f f erent concent rat i ons( 2．5，5．0 and 10．0 l zmol ／L) si gni f i —
+cant l y reduced t he l evel
+of p- p38／p38 i n t he gi nsenosi de Rgl
+t reat ment group( P<0．001) ．
+Compared
+wi t h t he bl ank cont rol group，onl y gi nsenosi de Rgl
+group al so coul d reduce t he l evel
+of p- p38／p38 i n cort i —
+cal neurons( P<0．005) ；( 3) I n t he morphogenet i c observat i on oI cort i cal
+neurons，compared t o t he model
+group( ol i gomeri c舶_42 group) ，synapt i c i nt egri t y and f l uency si gni f i cant l y i mproved i n t he 10．0／_￡mol ／L
+gi nsenosi de Rgl
+t reat ment
+group．
+And compared t o t he model
+group，t he 10．0／Mmol ／L gi nsenosi de Rgl
+t reat ment group showed a decrease
+i n t he rat i o of TUNEL posi t i ve
+apopt ot i c neurons
+t o t ot al
+cel l s and
+caspase一3 act i vi t y( P<0．001) ．
+Concl usi on
+p38 MAPK si gnal i ng pat hway part i ci pat es
+i n gi nsenosi de
+Rgl
+t o al l evi at e ol i gomeri c A陆_42 i nduced cort i cal
+nerve damage process．
+KEY WORDS：
+Al zhei mer’
+s di sease；gi nsenosi de Rgl ；p38 mi t ogen act i vat ed prot ei n ki nase
+( 编辑：何佳凤)
+万方数据

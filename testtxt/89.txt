@@ -1,0 +1,609 @@
+世界科学技术一中医药现代化★人参总皂苷神经活性及药效物质基础研究
+人参总皂苷抗皮质酮诱导的海马星形胶质细胞
+可塑性损伤的作用研究六
+王
+昕，朱珂璇，陈
+琳，黄玉芳，赵玉男★★
+( 南京中医药大学基础医学院实验研究中心南京210046)
+摘
+要：目的：观察人参总皂苷( GTS) 对皮质酮( CORT) 诱导的小鼠抑郁样行为以及海马星型胶质细
+胞( AS) 可塑性损伤的影响，探讨GTS抗抑郁的作用机理。方法：60只C57BL／6N小鼠随机分成6组，即
+Cont rol 、CORT、阳性药、低剂量GTS、中剂量GTS以及高剂量GTS。CORT组连续5周皮下注射CORT制
+备小鼠抑郁模型，各给药组在模型复制的后3周灌胃给予低剂量GTs( GTsL，每日12．5 mg· kg。1) 、中剂量
+GTS( GTSM，每日25 mg· kg。1) 、高剂量GTS( GTsH，每日50 mg· kg．1) 和氟西汀( Fl u，每日10 mg· kg。1) 。
+在用药处理3周之后，进行行为学试验和血清CORT测定，并采用West ern_bl ot 法检测海马胶质细胞源性
+神经营养因子( GDNF) 、胶质纤维酸性蛋白( GFAP) 蛋白的表达水平，采用免疫组化染色和体视学方法定量
+海马( GFAP) 阳性细胞的数目。结果：与对照组相比，CORT组在行为学检测中，静止不动时间明显增加，
+GDNF、GFAP蛋白表达水平及海马GFAP阳性细胞数目显著下调。GTS各组均能改善模型小鼠的抑郁样
+行为，上调GDNF、GFAP蛋白水平，增加海马GFAP阳性细胞的数目。结论：GTS对CORT诱导的小鼠抑
+郁样行为及海马AS可塑性损伤均有改善作用。
+关键词：星形胶质细胞
+可塑性人参总皂苷胶质纤维酸性蛋白
+胶质细胞源性神经营养因子
+doi ：10．11842，wst ．2016．09．023
+中图分类号：R965
+文献标识码：A
+慢性应激可以诱导下丘脑一腺垂体一肾上腺
+皮质轴( Hypot hal amus Pi t ui t ary Adrenal cort ex Axi s，
+HPAA) 亢奋，促使糖皮质激素水平持续增高，导致
+中枢神经损伤从而诱发情感、行为异常，表现出抑郁
+样行为Ⅲ。研究表明，星形胶质细胞( Ast rocvt e，AS)
+是应激的主要靶点，慢性应激或长期皮质酮注射可
+以导致大脑前额皮质、海马以及杏仁体的AS形态学
+及其特定的胶质纤维酸性蛋白( GFAP) 表达发生改
+变，这些改变与应激导致的抑郁样行为密切相关口】。
+此外，通过药物改善AS的可塑性可有效避免因应激
+引起的抑郁样行为【3．41。
+收稿日期：2016一09—19
+修回日期：2016一09—19
+人参总皂苷( Gi nseng Tot al Saponi ns，GTS) 是人
+参的主要活性成分，有广泛的神经活性，并在抗抑郁
+方面具有一定疗效。Kang A等【51采用强迫游泳、强
+迫悬尾以及蔗糖水偏好评估GTS干预脂多糖诱导的
+抑郁样行为，实验结果表明，CTS具有抗抑郁效果。
+在慢性应激导致的抑郁模型中，GTS也具有抗抑郁
+的效果【6】。本研究基于长期皮质酮注射诱导的抑郁
+模型，进一步评价其抗抑郁的效果，并从海马As可
+塑性角度探讨其抗抑郁的可能机制。
+1材料
+1．1
+实验动物
+健康雄性c57BL，6N小鼠60只，体重18—21
+g，
+★
+国家自然科学基金委青年基金项目( 81303246) ：脑局部糖原代谢在人参总皂苷抗应激致海马结构可塑性损伤中的作用研究，负责人：赵
+玉男；江苏省高校优势学科建设工程资助项目( 中西医结合) ，负责人：黄熙。
+★★
+通讯作者：赵玉男，副教授，主要研究方向：中药药理学。
+[ I ％以d sci ence血凡d nc^noz(’ g)。啊40dem如Ⅱ￡i o凡妒z倒i ￡i on口Z C矗i ，地5e^重edi ci ne o几d^4n把^Ⅱ胁di cn]
+J 575
+万方数据
+2016第十八卷第九期
+★v01．18 No．9
+购于江苏大学，许可证号sCxK( 苏) 2013—0011，饲
+养于南京中医药大学动物实验中心动物房。
+1．2药物与试剂
+人参尸血noz gi nseng C．A．Meyer的生药购自
+南京市先声再康药店。皮质酮( cort i cost erone，
+CORT) ( 美国Si gma公司，批号：C2505) 。CORT
+ELI SA测定试剂盒( Bi oval ue，批号：15063001) 。氟
+西汀( Fl uoxet i ne，FLu) ( 苏州制药有限公司，批
+号：8146B) 。胶质纤维酸性蛋白( Col l agen Fi bre
+Aci di c Prot ei n，GFAP) 、胶质源性神经营养因子
+( Gl i al
+Deri ved Neurot rophi c Fact or，GDNF) 单克隆
+抗体( 美国Sant a cruz公司，批号分别是Sc65343、
+SCl 3147) 。
+辣根过氧化物酶( Horse Radi sh
+Peroxi dase，HRP) 标记的山羊抗小鼠I gG及山羊
+抗兔I gG( 北京博奥森生物技术有限公司，批号：
+C一0029) 。二步法免疫组化检测试剂盒PV一9000( 北
+京中杉金桥生物技术有限公司，批号：K166722D) 。
+其他试剂均为分析纯，购自南京化学试剂公司。
+1．3仪器设备
+Spect ramax M5多功能酶标仪( 美国M01ecul ar
+Devi ces公司) ，U3000超高效液相色谱仪( 美国戴
+安公司) ，west ern_bl ot 套装，包括DYY一5D电泳
+仪电源，DYCz一25D垂直电泳仪，DYCz一40G转印
+电泳仪( 北京市六一仪器厂) ，Tanon 4200全自动
+化学发光图像分析系统( 上海天能科技有限公司) ，
+Mi l l i —Q Advant age A10超纯水仪( 美国Mi l l i pore公
+司) ，CMl 950冰冻切片机( 德国莱卡仪器有限公司) ，
+MBF—NL／SI 体视学分析系统( St ereo I nvest i gat or，
+4．04，澳大利亚MBF公司) 。
+2方法
+2．1
+动物模型的制备
+CORT致动物抑郁模型参考Zhao Y等的研究
+【71。首先将CORT 500 mg溶解于5 mL二甲基亚枫
+DMSO中，配置成100 mg· mL。1的CORT母液。使
+用前用生理盐水稀释50倍制成2 mg·
+mL。1的CORT
+工作液。造模组随机时间点给予皮下注射CORT，注
+射剂量为20 mg· kg～· d～。
+2．2
+GTS的制备及给药剂量
+GTS的制备方法参照zhao Y N等的研究‘ 81，人
+参水煎液经大孔吸附树脂D101，再联用阴阳离子交
+换树脂得到高纯度的GTS，香草醛一浓硫酸比色法
+测得总皂苷含量为101．8± 2．5％。高效液相色谱法
+测定GTS中R91、Re、Rd的含量分别为9．20± 0．69％、
+7．52± 0．36％、2．89± 0．23％。给药剂量由人临床常
+规用量换算成小鼠用量，设置3个剂量组：低剂量
+GTSL( 每日12．5 mg· kg。1) 、中齐0量GTSM( 每日25
+mg· kg’
+1) 、高剂量GTSH( 每日50 mg· kg。1) 。阳性药
+物氟西汀剂量组( 每日10 mg· kg。1) 。
+2．3
+动物分组
+60只C57BL／6N小鼠随机分成6组：Cont rol 、
+CORT、CORT+FLU、CORT+GTSL、CORT+GTSM以
+及CORT+GTSH，每组10只。除Cont rol 组给予相
+同剂量的生理盐水外，其他各组小鼠均连续给予5
+周的CORT皮下注射，后3周开始灌胃给药( FLU
+或GTS) ，Cont rol 和CORT组给予相同剂量的蒸馏
+水。给药第20天和21天分别进行强迫游泳实验
+( Forced Swi mmi ng Test ，FST) 和强迫悬尾实验( Tai l
+suspensi on Test ，TsT) ，第22天对每只小鼠进行
+眼眶取血，4℃离心( 3 000 rpm，10 mi n) ，取上清液
+于一20℃保存，待测血清CORT水平。第23天将每
+组动物随机分成两小组，每组5只，一小组心脏灌注
+后取脑，用于GFAP免疫组化染色。另一小组处死
+小鼠，取海马组织装入EP管中，放入液氮缸中，用于
+检测GFAP和GDNF蛋白的表达水平。
+2．4行为学实验
+2．4．1
+小鼠强迫游泳
+采用Porsol t 等人报道的方法【91进行FST实验：
+将小鼠分别放入加有20 cm水深的5 L烧杯中，水
+温为20℃。小鼠游泳6 mi n，记录小鼠在实验最后4
+mi n内累计不动时间。不动的判定标准为无主动逃
+避行为，如跳跃、探查、游泳、躬起身体等。每只动物
+实验后更换器皿内的水，保持水的清洁，消除动物粪
+便及气味的干扰。
+2．4．2小鼠强迫悬尾
+TsT采用St eru L等【101报道的方法。在结束
+FsT后小鼠休息24 h，小鼠头部离台面25 cm，用胶
+带和小钩对折小鼠尾尖部约1 cm处，使动物呈现悬
+空倒挂状，每只小鼠悬挂5 mi n，记录实验后4 mi n小
+鼠累计不动时间，不动的判定标准是小鼠在空中仅
+有细小的肢体动作或停止挣扎。
+2．5
+血清CORT的检测
+采用CORT ELI SA检测试剂盒，严格按照说明
+书操作检测。
+J 576
+[ V％rf d Sci e凡ce凸nd zl ec^nofog，∥ mdern拓o￡i o凡Q厂zkdi ￡i onof C^i ，w5e地di ci ne o，以慨￡eri o胁di c口]
+万方数据
+世界科学技术—中医药现代化★人参总皂苷神经活性及药效物质基础研究
+2．6
+West ern—bl ot 买验
+取海马组织，加入预冷的l mL的RI PA组织裂
+解缓冲液，用匀浆机冰浴匀浆2 mi n至组织完全裂
+解，放人4℃离心( 12 000 rpm，10 mi n) ，吸取上清液，
+转移至新预冷的EP管中置于冰上，即为蛋白样品。
+样品加入4倍量的上样缓冲液，按1：3比例混匀，置
+100℃金属浴中变性15 mi n，4℃冷却样品。变性样
+品经10％SDS—PAGE凝胶电泳后，湿法将胶上的蛋
+白转移到PVDF膜上。转膜成功后切断电源，取出
+杂交膜。将膜用4mL TBST漂洗干净后，浸于封闭液
+( 1％BSA TBsT液) 中，37℃轻摇l h。封闭结束后，
+一抗4℃摇床过夜。次日，用TBST漂洗3次后，加
+入HRP标记的TBST稀释的二抗( 1：2 000) ，室温
+孵育膜1 h。TBST再次漂洗3次，采用化学发光法，
+将膜平铺放入化学发光底物孵育，进行曝光( 时间约
+3一15 mi n不等) 显影。最后，将膜上目的条带扫描进
+电脑，用Bandscan软件进行灰度分析，以各样本灰
+度值与内参口一act i n灰度值的比值作为所测样品中
+目的蛋白相对含量。
+2．7小鼠脑组织灌注固定
+5％水合氯醛深度麻醉小鼠后，打开胸腔，迅速
+暴露心脏，由左心室心尖处进针，右心耳剪一缺口，
+先灌注0．1 m01．L‘
+1 PBS 20 mL做心脏灌流，随后灌
+注由0．01MPBS( pH=7．4) 配制的4％多聚甲醛20
+mL，先快后慢，至动物全身僵硬、肝脏变白，用时10—
+15 mi n。灌注结束后，迅速取脑，放入4％多聚甲醛
+溶液中进行外固定24 h。利用小鼠脑模具，取前囟
+后方1．5—5．0 mm脑组织，将其浸入30％蔗糖溶液于
+4℃冰箱中直至沉底。应用一20℃恒冷冰冻切片机制
+作连续切片，每张切片厚度为60“ m，收集小鼠完整
+海马连续切片约为24张，用于GFAP免疫组化染色。
+2．8
+GFAP免疫组化染色
+取出切片用0．0l M PBS( pH=7．4) 清冼3次，每
+次2 mi n；用3％H202处理切片10 mi n，以阻断内源
+性过氧化物酶；用PBS冲洗切片3次，按照比例加入
+一抗GFAP( 1：400) 孵育液，于4℃冰箱中置摇床
+上孵育过夜；次日取出切片，用PBS漂洗3次后，用
+0．3％Tri t on x一100处理切片20 mi n，以增加细胞和
+组织的通透性，有利于抗原抗体结合；按比例滴加二
+抗过氧化物酶标记羊抗小鼠／兔I g G( 1：100) 聚合
+物，室温置摇床上孵育20 mi n；DAB显色5—10 mi n
+( DAB 1：100) ，在显微镜下观察染色程度。用自来
+水终止染色后，常规脱水、透明、中性树胶封片、镜
+检。GFAP染色后AS呈棕黄色，清晰可见细胞体及
+突起的形态( 图1) 。
+2．9
+海马AS数量的体视学测量
+GFAP染色的24张海马连续切片，每隔4张取
+l 张，共6张纳入AS体视学计数。采用Cz6h B等【11】
+报道的方法，应用光学体视框( 50肛m× 50肚m) 测定
+AS总数。采用半自动的系统建立设置，在4倍镜下
+选定海马区域( 图2) ，在40倍的镜下获取GFAP阳
+性AS的图像，通过显微镜输出到电脑显示屏上，形
+成一个三维光学解剖计数x Y z轴的立体图像。在
+40倍的镜下聚焦，从光学体视框的最顶部到最底部
+由St ereo I nvest i gat or 4．04软件测量6张切片的实际
+厚度，计算平均厚度。根据测量的平均厚度，设置保
+护区域为15¨ m。
+无偏计数框的计数原则：能观察到细胞核仁地
+聚焦，且完全落在计数框内或只与绿线相交而不与
+红线相交( 图3) 。海马AS总细胞数的计算公式：
+- 、1、- _
+‘ ‘ 、．' 一
+一
+：≮厶。
+} ●
+、一■ ■ 略
+图1
+星形胶质细胞( ；FAP免疫组化染色
+图2星形胶质细胞计数的海马区域
+[ ％r2d Sc诂Me口以死c^∞Z09彤‰dem眈≠ i on妒z’ rodi ￡i o舳f
+C^i ，琊e Med如i 船Ⅱ以』l Ir0￡er缸胁di cⅡ]
+J 577
+l_游鹰
+蔫爹：{ji
+嚆黟～
+》娥羚
+．
+，《蒲
+，
+_
+万方数据
+2016第十八卷第九期
+★v01．18 No．9
+Nt ot al =∑Q一× 1／ssf × A( x，y st ep) ／a( f hme) × t ／h
+其中，∑Q一是计数AS数量；ssf 是截面取样率
+( 1／4) ；A( x，y st ep) 与每个500 pm× 500¨ m区
+域相关联的X，Y运动( 取样区) ；a( f rame) 是50
+“ m× 50肛m的计算框架的区域；t 是切片的实测厚度；
+而h的密度计的高度( 20“ m) ) 。数量估计的精度用
+祥淞娃≥饺≮．
+≮o鬻燎．谈繁矗
+p狳建搬、：心鲻
+100
+图3星形胶质细胞体视学测量
+误差系数来表示( Error Coemci ent ，EC) 。
+2．10数据处理
+用sPSS 16．0统计软件对实验数据进行统计学
+分析，计量资料用( 互± s) 表示，多组比较采用单因
+素方差分析，组间两两比较采用LSD检验，P<0．05、
+P<0．叭具有统计学意义。
+3结果
+3．1行为学实验
+单因素方差分析表明：FST( F( 5_54) =5．707，
+P<O．01) 和TST( F( 5' 54) =9．059，P<0．01) 组间存在
+显著性差异( 图4a和b) ；进一步两两比较发现：在
+FST中，CORT组小鼠静止不动时间比Cont rol 组显
+著增加( P<0．01) ，FLU、GTS 3个剂量组均能明显拮
+抗CORT组小鼠静止不动时间的延长( P<0．01) 。在
+TST中，统计结果与FST类似。
+3．2
+血清CORT水平
+单因素方差分析表明，组间血清CORT的水平
+图4
+GTS对抑郁模型小鼠在强迫游泳实强A) ；I 口悬尾实验B) 中不动时间的影嘣胆10)
+注：与Cont rol 组相比，” P<0．01；与CORT组相比，“ P<0．01．
+存在明显差异( F( 5_54) =112．747，
+P<0．01) 。进一步两两比较发
+现，与Cont rol 组相比，模型组小
+鼠血清CORT的浓度显著升高
+( P．<0．01) ，给药对模型小鼠CORT
+的浓度无显著性影响( 图5) 。
+3．3
+海马GFAP、GDNF蛋白
+含量
+3．3．1
+GFAP蛋白
+单因素方差分析表明海
+马GFAP蛋白的表达组间存在
+显著性差异( F( 5．24) =10．348，
+P<0．叭) ；进一步两两比较发
+现，与Cont rol 组相比，CORT
+组小鼠海马组织内的GFAP蛋
+白表达明显下调( P<0．01) ，
+FLU、GTS中剂量和高剂量均
+能显著上调CORT组小鼠海
+马组织内GFAP蛋白的表达
+( P<0．01) ( 图6b) 。
+3．3．2
+GDNF蛋白
+单因素方差分析表明海
+马GDNF蛋白的表达组间存在
+显著性差异( F( 5．24) =8．781，
+J 578
+[ ％rf d．sci e加eⅡ蒯死c^nof o肜仍D如m妇口￡i o，l 矿7k出面加f 吼i 聊se胁di c妇Ⅱ以』I弛抛^n讹d据n]
+一念一量蓄书悻莹建科慧《÷
+一衾一呈营督幡埘啪科黑《÷
+万方数据
+世界科学技术一中医药现代化★人参总皂苷神经活性及药效物质基础研究
+P<0．01) ；进一步两两比较发
+现，与Cont rol 组相比，CORT
+组小鼠海马组织内该蛋白表
+达明显下降( P<0．01) ，FLU
+( P<0．01) 和GTS 3个剂量
+( P<0．05) 均能显著拮抗CORT
+组小鼠海马组织内GDNF蛋白
+的表达下调( 图6c) 。
+3．4
+海马GFAP阳性AS的体
+视学计数
+每组每只小鼠海马AS数
+目的体视学测定结果详见表
+1。单因素方差分析表明：海马
+GFAP阳性AS的数目组间存
+在显著性差异( F( 5．24) =9．142，
+P<0．01) 。进一步两两比较发
+现：与Cont rol 组比，CORT组
+小鼠海马GFAP阳性细胞数明
+显下降( P<0．01) ；与CORT组
+比，CORT+FLU、CORT+GTSM、
+CORT+GTSH组的GFAP阳性
+细胞数目明显上调( P<0．01) 。
+4讨论
+4．1
+GTS抗抑郁的作用
+本实验采用长期皮质酮注
+射致抑郁动物模型，观察GTS
+抗抑郁的作用。早前I mma M
+等【121对该模型进行了药理学
+特性评价，已被国内外多个研
+究团队用于抗抑郁药物或机理
+的研究。本实验的行为学检测
+结果显示：与Cont rol 组相比，
+CORT组小鼠静止不动的时间
+明显延长，与zhao Y等的研究
+结果一致，说明CORT组小鼠
+出现抑郁样行为，造模成功。
+与CORT组相比，GTS各组长
+期给药均能使模型动物静止不
+动的时间缩短，表现出抗抑郁
+活性，与其它研究人员得到的
+结果类似。如GTS能显著改善
+3
+鼍S
+侧
+矮
+譬
+氍
+喀
+划
+丧
+趟
+翮 鬻
+羹
+嬲
+■ o■ nⅥ
+ⅪooⅪ
+^- ^_Ⅳ～
+蕊
+0_3
+0．2
+O1
+O．0
+1．5
+1．0
+O．5
+O．O
+ConⅡol
+CORT
+CORT+FLU
+CORT+G佟L
+CORT+( 邢M CORT+G两H
+( C)
+图6
+G鹏对抑郁模型小鼠海马GFAP( b) 和GDNF( c) 蛋白含量的影响( n=5)
+注：与Cont r01组比较，” P<0．0l ；与CORT组比较，“ P<0．01，4P<0．05
+b
+3
+Ⅱ
+蒜
+2
+：曲
+面
+景
+1
+瞧
+· Y叫
+蔷
+。
+注：与Co
+[ ％r2d Sc拓Me口蒯死c^∞fog删。如m讹渤n∥ zk如i DMz饥i 硼e胁d记i 船。以^忆￡er沉胁d拓o]
+J 579
+万方数据
+2016第十八卷第九期
+★V01．18 No．9
+表l
+GTs对抑郁模型小鼠海马As数目的影响
+模型小鼠抑郁行为及生化指标【l 31。GTS可明显改善
+小鼠在“ 行为绝望” 模型中的运动能力，具有一定抗
+抑郁作用畔】。血清CORT结果分析发现GTS对改
+善外源性CORT所致的抑郁样行为并非通过降低血
+清CORT水平，可能是通过中枢机制保护神经元不
+受损伤。为此，本文进一步从海马AS可塑性角度，
+探讨GTS改善抑郁样行为的作用机制。
+4．2
+GTS拮抗皮质酮诱导的海马AS可塑性损伤
+海马AS可塑性是在内外环境变化的刺激下，在
+整个生命过程中，能改变其自身特性，其表型上呈现
+出很大程度的可变性或通过改变自身特性适应损伤
+刺激的能力，包括结构可塑性和功能可塑性。AS结
+构可塑性表现在As数目、As胞体体积以及突起的
+变化㈣；AS通过其形态学上的变化，改变其与神经
+元之间的空间体积、排布及覆盖情况，从而不同程度
+地抑制或加强突触的形成。AS功能可塑性主要表
+现为As活性的改变，尤其是GFAP mRNA转录和相
+关蛋白表达量的高低改变等。GFAP蛋白表达升高，
+其AS活化；反之表现为AS功能下降。GFAP在维
+持AS的结构和运动能力、AS和神经元之间信号转
+导、神经元可塑性及血脑屏障等方面都发挥着重要
+作用。GDNF是由As释放的一种特异性保护神经
+元损伤的神经营养因子，在中枢神经系统发育中存
+在多种相互关联的信号传导通路，能够促进发育中
+神经元的存活、分化及正确迁移，与应激导致的神经
+元损伤的关系较为密切【l
+91。
+体视学分析结果显示：与Cont rol 组比，CORT组
+小鼠As数目明显下降，表明长期注射cORT可使海
+马GFAP阳性的AS数目减少，该实验结果与Cz6h
+B等【11】、Tynan R J 等㈣、Li u Q等㈣以及zhang H
+等【181的发现一致。与CORT组相比，GTSM、GTSH
+组均能提高模型小鼠海马AS数目，提示GTS可拮
+抗CORT诱导的海马结构可塑性损伤。west ern—
+bl ot 结果显示：与Cont rol 组相比，CORT组小鼠
+GFAP、GDNF蛋白表达均显著下降；与CORT组相
+比，GTSM、GTSH组均能上调模型小鼠海马组织内
+GFAP、GDNF蛋白的表达，提示GTS可拮抗CORT
+诱导的海马功能可塑性损伤。大量研究表明：海
+马AS的可塑性在动物抑郁样行为中扮演重要角色
+【2' 11' 17' 20。221，因此GTS抗长期皮质酮注射导致的抑郁
+样行为的作用机制可能是通过调节海马AS的结构
+和功能可塑性而实现的。
+综上所述，GTS有如下特点：①具有抗抑郁样行
+为作用；②提高小鼠海马GFAP阳性细胞数目，改善
+海马AS可塑性；③上调GDNF、GFAP蛋白表达，保
+护海马神经元。本研究认为，GTS抗抑郁的作用可
+能与改善AS的可塑性有关。
+J 58D
+[ ％rf d Sc诂船eⅡ以‰h加f Dg加如如m讹勘n矿乃谢胁∞f 蕊i 麟e胁妣i 船口，l d舰抛^口拖d拓o]
+万方数据
+世界科学技术—中医药现代化★人参总皂苷神经活性及药效物质基础研究
+1
+Zhao Y，Xi e W，Dai J ，“ oZ．The varyi ng dkct s of short—te珊and l ong—
+t erm cort i cost erone i nj ec“ ons
+on depressi on—l i ke behavj or i n mi ce．
+口m汛Res。2009．1261：82—90．
+2
+Bender C L，Cal f a GD，Mol i na V A．Ast rocyt e pI ast i ci t y i nduced by
+emot i onal
+st ress：A new part ner i n psychi at ri c physi opat hol ogy?P，og
+舭"唧s弘^叩^口r，删oZ B制n弘^i 口打y，2016，65：68—77．
+3王敏建，况利，李大奇．抗抑郁药物对抑郁模型大鼠海马星形胶质
+细胞的作用．重庆医科大学学报，2006，31( 4) ：509—512．
+4黄倩，楚世峰，连晓媛，等．人参皂苷RgI 的抗抑郁作用及其作用
+机制神经药理学报，2013，3( 1) ：1—11．
+5
+Kang A，Hao H，Zheng X，ez口Z．Peri pheral an“ 一i nnammat ory eH毫ct s
+expl ai n t he gi nsenosi des paradox bet ween poor
+brai n di st ri but i on and
+ant i —depressi on emcacy，．，．f Ve“ rDi 他厅o，nmnt i Dn，2011，8：100一113．
+6
+Dang H，Chen Y，Li u X，et 口2．Ant i d。pressant
+ef f ect
+of gi nseng t ot al
+saponi ns
+i n t he f orced swi mmi ng t est and chroni c mi l d
+st ress model s
+of depressi on．P，og胁珏f 叩s弘幻P是8，m8∞Z曰捌风弘愚i 8l m 2009，
+33( 8) ：1417—1424．
+7
+Zhao Y，Ma R，Shen J ，Su H，Xi ng D，e￡of ．A mouse model of depressi on
+i nduced by r。peat ed cort i cost erone i nj ecti ons．Eur．，P^or，nⅡc02，2008，
+581( 1—2) ：113—120．
+8
+Zhao Y N，习Fang Z L，Dai J G，“ 8Z．Preparat i on and qual i t y assessment
+of hi gh—puri t y gi nseng t ot al saponi ns by i on exchange resi n combi ned
+wi t h macropomus adsorp“ on resi n separati on．吼i n．，^k￡^正ed，2014，
+12( 5) ：382—392．
+9
+Porsol t R D，Ant on G，Bl avet N，e￡Ⅱf ．Behavi oml
+despai r i nrat s：a new
+modeI
+sensi t i ve
+t o ant i depressant
+t reat ment s，E¨ r I，f 境口丌礼吐coZ，1978，
+47( 4) ：379—391．
+10 Sl eru L，Chermat
+R，Thi erry B，e￡口Z．The I ai l
+suspensi on t est ：a new
+met hod f br screeni ng ant i d8Pressant s i n mi ce．Ps) ，c^印^or，nncof o盯
+佃emnJ ，1985，85( 3) ：367—370．
+1 l
+Cz6h B，Si mon M，Schmel t i ng B，et 凸f ．Ast rogl i aI
+pI ast i ci t y i n t he
+hi ppocampus i s aⅡ毛ct ed by chmni o p8ychosoci al st ress and concomi t ant
+nuoxet i ne t reat ment ．^reu7DPs弘^叩^口r，nⅡcoZD苫y，2006，31( 8) ：1616一
+1626．
+12 I i j i ma M，I t o A，KuI Dsu S，et Df ．Pharmacol ogi cal charact eri zat i on of
+r。peat ed cor“ cost erone i nj ect i on—i nduced depressi on model
+i n
+rat s．
+Broi n．f k5，2010，1359：75—80．
+13刘丽琴，罗艳，张瑞睿，等．人参皂苷对慢性应激抑郁模型大鼠行
+为学及HPA轴、BDNF的影响．中国中药杂志，2011，36( 1 o) ：1342—
+1347．
+14陶震，鲁毅，司梁宏，等．人参总皂苷对小鼠的抗抑郁作用．药学
+与临床研究，2010，18( 4) ：360一362．
+15姚君茹，潘三强，吕来清．星形胶质细胞的可塑性．解剖学研
+究，2002，24( 1) ：49—51．
+16 Tynan RJ ，Beynon S B，Hi nwood M，e￡Ⅱf ．Wal ker FR chroni c st ress—
+i nduced di snl pt i on of t he ast rocyt e net work i s dri ven by st ruct ural at rophy
+皿d not l oss of astroc) rtes．』4cf ⅡⅣe“ rop口‘ bf ，2013，126( 1) ：75—91．
+17 Li u Q，Li
+B，zhu HY，el 越．Gl i a at rophy i n t he hi ppocampus of chroni c
+unpredi ct abl e st ress—i nduced depressi on model
+rat s
+i s reversed by
+el ect roacupunct ure treatment．．，4脾c￡Di sord，2011，128( 3) ：309—313．
+18 Zhang H，Zhao Y，Wang Z．Chroni c cort i cost erone exposure reduces
+hi ppocampal
+ast moyt e st n】ct ural
+pl as“ ci t y and i nduces hi Ppocampal
+at rophy i n mi ce．腑珏，。。sci 如“ ，2015，592：76—81．
+19陈琳，戴建国，王中立，等．脑内胶质细胞源性神经营养因子及其
+受体复合物研究进展．中国药理学通报，2013，29( 3) ：315—318．
+20 Banasr M，Duman R S．Gl i al l oss
+i n t he pref bont al cort ex
+i s sumci ent
+t o
+i nduce d。pressi ve—l i ke behavi ors．口i of 尸5” ^i 口#可，2008，64( 10) ：863—
+870．
+2l
+Domi n H，Szewczyk B，Wo圭ni ak M，et Ⅱf ．AnI i depressant —l i ke ef f ect
+of t he mGl uR5 ant agoni st MTEP i n an ast mgl i al
+degenerat i on model
+of
+depI ℃ssi on．口e^cW曰r口i n月∞，2014，273：22—33．
+22 Sun J
+D，Li u Y，Yuan Y H，e￡Ⅱf ．Gap j unct i on dysf unct i on i n
+t h8 pref ront aI
+cort ex j nduces depressi ve—i i ke behavi ors j n
+rat s．
+ⅣeHro脚ych9P^nrrnⅡco￡Dgy，2012，37( 5) ：1305—1320．
+Ef f ect s of Gi nseng 7I’ 0tal Saponi ns oⅡHi ppocampal
+Ast rocyt es Pl ast i ci t y I mpai rment I nduced by
+Repeat ed Cort i cost erone I nj ect i on
+耽凡g xi n，Z^u‰石uon，C允en Li n，日u口ng yE∥ ang，Z九oo l ，“ no凡
+俾黜eorc危cen≠ er，B邮i c讹di coZ cof2ege，№柳愕‰如e耶蚵矿吼i 凡∞e讹di ci 加，№巧i 昭2J 『D舛6，吼i n砂
+Abst ract ：Thi s st udy ai med t o probe t he eⅡbct s of gi nseng t ot al saponi ns( GTS) on t he pl ast i ci t y i mpai rment of
+hi ppocampal ast rocyt e( AS) st i muI at ed by cort i cost erone( CORT) and t o eI uci dat e t he ant i depressant mechani sms
+of GTS．Si xt y mal e mi ce were di Vi ded i nt o si x mat ched groups：t he cont rol
+group，t he CORT group，t he 10w—
+dose GTS( 12．5 mg· kg一) pl us CORT( GTSL) group，t he moderat e—dose GTS( 25 mg· kg一1) pl us CORT( GTSM)
+group，t he hi gh—dose GTS( 50 mg。kg一1) pl us CORT( GTSH) group，and t he nuoxet i ne pl us CORT( FLu) group．
+[矸白以d＆ieMeⅡ蒯死c^加20渺dem如口￡io凡妒7忆di￡io凡口f C托聊se胁d如i 船n以讹￡e^Ⅱ^扎d如口]
+』58』
+万方数据
+2016第十八卷第九期
+★v01．18 No．9
+CORT had been subcut aneousl y admi ni st ered once
+a day f or 5 weeks．2 weeks af t er CORT i ni ect i on，GTS and
+FLU had been i nt ragast ri cal l y admi ni st ered dai l y f br 3 weeks．Af t er t he 3 weeks’
+t reat ment ，t he depressi on—l i ke
+behavi or of t he mi ce was not ed and serumCORT concent rat i on was det ect ed．West ern bl ot was adopt ed t o anal yze
+t he prot ei n expressi on of hi ppocampal
+gl i al deri Ved neurot rophi c f act or( GDNF) and gl i al f i bers
+aci di c prot ei n
+( GFAP) ．The st ere0109y i n combi nat i on wi t h i mmunohi st ochemi cal
+st ai ni ng was used
+t o quant i f y GFAP—posi t i ve
+cel l s i n t he hi ppocampus．As
+a resul t ，compared wi t h t he cont rol
+group，t he i mmobi l i t y t i me of t he CORT group
+si gni f i cant l y i ncreased，and t he prot ei n l evel
+of GDNF and GFAP and t he GFAP—posi t i ve cel l
+count si gni f i cant l v
+decreased．GTS reversed t he changes of depressi on—l i ke behavi or，GDNF and GFAP prot ei n expressi ons，and t he
+number of GFAP—posi t i ve cel l s st i mul at ed by CORT．I n concl usi on，i t was demonst rat ed t hat GTS suppressed t he
+depressi on一1i ke behavi or of t he mi ce and t he pl ast i ci t y i mpai rment of AS i n t he hi ppocampus i nduced by CORT．
+Keywords：Ast rocyt e，pl ast i ci t y，gi nseng t ot al
+saponi ns，gl i al
+f i bri l l ary aci di c prot ei n，gl i al
+cel l
+1i ne—deri ved
+neurot rophi c f act or
+( 责任编辑：马雅静，责任译审：朱黎婷)
+J 嬲2
+[ ％删&拓we o以死c^加ZD∥ 胁如rn讹￡i on旷‰击砌MZ醌f 嬲e讹d据i 聊口以讹￡e一口胁d记o]
+万方数据

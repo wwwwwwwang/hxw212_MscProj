@@ -1,0 +1,672 @@
+人参皂苷Rb1通过调节TGF．p。／Smad3信号通路抑制肾小管上皮
+细胞．间质转化△
+刘志文
+科学院
+450052
++，徐江雁1，张振强1，张效威1，高
+改1，王萌萌1，王
+辉2，李真珍3，谢治深H( 1．河南中医药大学中医药
+郑州
+450046；2．河南中医药大学药学院，郑州
+450046；3．郑州大学第一附属医院医学研究中心，郑州
+中图分类号R965
+文献标志码A
+文章编号
+1001一0408( 2022) 05一0535—07
+DoI
+10．6039／j ．i ssn．1001- 0408．2022．05．05
+蕊
+黼
+摘要
+目的研究人参皂苷Rbl ( G—Rbl ) 对肾小管上皮细胞一间质转化( EMT) 的影响及可能机制。方法采用10 ng／mL生长因子p。
+( TGF．B，) 诱导人肾小管上皮细胞HK．2发生EMT。观察10、20、30¨ mol ／LG．Rbl 作用48 h后HK．2细胞的形态学变化；测定1．0、
+2．5、5．0、10、20、30叫101／LG—Rbl 作用24h后人胚胎肾细胞HEK293中报告基因载体sBE转录活性，并测定上述浓度G—Rbl 作用
+24h后对HK．2细胞相对活力的影响。检测10、20、30 umol ／LG．Rbl 作用24h后HK．2细胞中a．平滑肌肌动蛋白( Ⅱ．sMA) 、I 型胶
+原蛋白( cOL．I ) 、纤连蛋白( FN) mRNA的表达；检测10、20、30 umol ／L G．Rbl 作用24 h后HK．2细胞中n—sMA、smad家族成员3
+( smad3) 、磷酸化smad3( p—smad3) 、c0L—I 、FN和E一钙黏蛋白( E—cadl l e曲) 的表达。结果10～30肛mol ／L G—I №1能够抑制TGF—B1
+诱导的HK．2细胞发生EMT，显著抑制因TGF．B。刺激导致的sBE转录活性升高( P<O．05) ，并且对HK．2细胞的相对活力无明显影
+响( P>O．05) 。在TGF．B，诱导下，细胞中6c．sMA、c0L—I 、FN蛋白及其mRNA和smad3、p—smad3蛋白的表达均显著上调( P<
+0．05) ，E．cadl l e血蛋白的表达显著下调( P<O．05) ；而G．Rbl 则可有效地逆转上述蛋白或mRNA的表达。结论G．Rbl 可在一定程
+度上保护肾小管上皮细胞免受TGF—B，诱导引起的EMT，这可能与其抑制了TGF—D。／smad3信号通路的激活有关。
+关键词人参皂苷Rbl ；TGF．B，／smad3信号通路；转化生长因子B。；肾小管上皮细胞；上皮细胞．间质转化
+I nhi bi t i on of gi nsenosi de Rbl
+on t he epi t heUal —mesenchymal
+t ransi t i on of renal
+t ubul ar
+epi t hel i al
+ceUs by
+regul at i ng TGF- B1／Smad3 si gnal i ng pat hway
+LI U Zhi wenl ，XU J i angyanl ，ZHANG Zhenqi an91，ZHANG Xi aowei l ，GAO Gai l ，WANG Mengmen91，WANG
+Hui 2。LI
+Zhel l zhen3。XI E Zhi shenl ( 1．Academ【v of
+Chi nese Medi cal
+Sci ence，
+Henan Uni versi t y
+of
+Chi nese
+Medi ci ne，
+Zhengzhou
+450046，
+Chi na；
+2．C011ege
+of
+Phaml acy，
+Henan Uni vers埘of
+Chi nese Medi ci ne，
+Zhengzhou 450046，Chi na；3．Medi cal
+I bsearch Cent er，t he Fi rst Aml i at ed Hospi t al of Zhengzhou Uni versi 锣，
+Zhengzhou 450052，Chi na)
+ABSTRACT
+oBJ ECTI VE Tb st udy t he ef f ect s of gi nsenosi de Rbl ( G—l №1) on epi thel i al —mesenchymal 衄l si ti on( EMT) of
+renal t I l bul ar印i t l l el i al
+cel l s and i t s pot ent i al mechml i sm．METHoDS The growt h f I act or B1( TGF—p1) 10 ng／mL was used t o i nduce
+EMT of buman renal
+t ubul ar
+epi t hel i al
+cel l s HK一2．The morphol ogi cal
+changes of HK一2 cel l s were observed af t er t reat ed wi m10，
+20。30 um01／L G．Rbl
+f or
+48 h．The仃anscri pt i onal
+act i vi t i es of bi ovect or SBE i n huI nan embryoni c ki 血ey
+cel l HEK293 were
+det ermi ned af t er 24 h仃eat ment wi t h 1．O，2．5，5．O，10，20，30 mnol ／L G．Rbl ．Ef 佗ct s of above concent rat i on of G—Rbl
+on t 11e
+vi abi l i 田of HK一2 cel l s were det emi ned af t er 24 h of 廿ea舡nent ．mRNA expressi ons of d—smoommuscl e act i n( 6c—SMA) ，c011agen I
+( COL．I ) and助ronect i n( FN) i n HK- 2 cel l s were det ect ed撕er仃eat ed wi m10，20，30 um01／L G- Rbl
+f or 24 h．The eXpressi ons
+of 6c．SMA，Smad3，p．Smad3。COL．I ，FN and E．cadheri n were det ect ed aRer仃eat ed wi m10，20，30儿m01／L G．Rbl
+f or 24
+h．
+RESUI J S G—Rbl
+of
+10—30 LLmol ／L si gni f i cant l y i nhi bi t ed TGF—B l —i nduced EMT i n HK一2 cel l s
+a11d
+me i 11crease of 仃anscri pt i onal
+act i vi t i es of bi ovect or SBE i nduced by TGF．B1( P<O．05) ，but
+had no e虢cts
+on rel at i ve act i vi t i es of HK．2 cel l s( P>0．05) ．The
+△ 基金项目：国家重点研发计划“ 战略性科技创新合作” 重点专项
+( No．2020YFE0201800) ；河南省高校科技创新团队支持计划项目
+( No．21I RTsTHN026) ；河南省高等学校青年骨干教师培养计划项目
+( No．2021GGJ S081)
+六硕士研究生。研究方向：中药药效物质基础与作用机制。电
+话：0371．65680206。E．mai l ：1649664828@qq．com
+撑通信作者：副教授，硕士生导师，博士。研究方向：中药药效物
+质基础与作用机制。电话：0371—65680206。E- mai l ：xi ezhi shen
+( 固hact cm．edu．cn
+中国药房2022年第33卷第5期
+prot ei n a11d mRNA eXpressi ons of 6c—SMA，COL—I
+and FN，
+t he
+prot ei n
+expressi ons
+of
+Smad3
+and
+p- Smad3
+were
+si gni f i cal l tl y up—regul at ed i nduced by TGF—p1( P<O．05) ，whi l e
+t he pmt ei n expressi on of
+E—cadheri l l
+was
+si gni f i cantl y down—
+regul at ed( P<0．05) ；G- Rbl
+coul d ef f ecti Vel y
+reVerse aboVe
+prot ei n
+or mI ⅢA eXpressi ons．CoNCLUSI oNS
+G- Rbl
+can
+prot ect
+renal
+t ubul ar
+epi mel i al
+cel l s丘om EMT
+i nduced by
+TGF- BI
+t o a cenai n eXt ent ，whi ch may be rel at ed t o i nhi bi t i ng
+t he act i vat i on of TGF—p1／Smd3 si gnal i ng p劬way．
+Chi naPh锄acy
+2022V01．33 No．5
+·
+535·
+万方数据
+KEYwoRDs
+gi nsenosi de Rbl ；TGF- p1／smad3 si gnal i ng pat hway；t ransf omi ng gro嘶h f act or pl ；renal 劬ul ar印曲el i al
+cel l s；
+epi t hel i al 一mesencbymal mmsi t i on
+糖尿病肾脏疾病( di abet i c ki dney di sease，DKD) 是
+糖尿病患者严重的并发症之一，且30％～47％的糖尿病
+患者都伴随有DKD，而DI ①是终末期肾病的主要原
+因卜“ 。上皮细胞．问质转化( epi t hel i al - mesenchymal
+仃ansi t i on，EMT) 是DKD发生的主要病理特征之一【” 。
+肾小管上皮细胞发生EMT后，会影响肾小管重吸收功
+能，并引发肾问质纤维化( renal i nt erst i t i al f i bmsi s，ⅪF) ，
+导致肾功能下降m，。因此，抑制肾小管上皮细胞发生EMT
+可延缓DI ①的进程” “ ] 。研究表明，转化生长因子B。／
+Smad家族成员3( t啪sf omi l l g掣owth f act or_p l ／momers
+agai nst decapent apl egi c homol og 3，TGF—p l ／Smad3) 通路
+的激活与DKD的发展及肾小管上皮细胞发生EMT密切
+相关9] 。TGF．B，能有效诱导肾小管上皮细胞发生EMT，
+促进细胞外基质( eX仃acel l ul ar mat ri x，EcM) 如胶原蛋
+白、纤连蛋白( 助ronect i n，FN) 的表达叫1” 。现代研究发
+现，人参能够抗糖尿病，调节EMT[ 12_1” 。人参皂苷Rbl
+( gi nsenosi de Rbl ，G．Rbl ) 是人参的主要活性成分之
+一[ 14] 。临床上已有报道，G．Rbl 能改善早期DI ①患者的
+肾功能“ ” 。此外，G．Rbl 可抑制FN、I 型胶原蛋白( c01．
+1agen I ，COL．I ) 和TGF．B，的表达，减轻小鼠肾组织损
+伤” 61。但G—Rbl 是否能够抑制TGF—B，诱导的肾小管上
+皮细胞发生EMT尚不明确。因此，本研究拟采用TGF—B。
+诱导肾小管上皮细胞发生EMT，探讨G．Rbl 对人肾小管
+上皮细胞发生EMT的影响及其是否对TGF．B，／Smad3信
+号通路有调节作用，为G．Rbl 治疗DKD提供参考。
+l 材料
+1．1主要仪器
+本研究所用的主要仪器有FORMASERj ESⅡwA—
+TERJ ACKET型C0：细胞培养箱、Mul t i skan GO型全波
+长酶标仪( 美国Themo Fi sher sci ent i f i c公司) ；Ecl i pset
+s100型倒置显微镜( 日本Ni kon公司) ；cKx4l 型荧光倒
+置显微镜( 北京元中锐科集成检测技术有限公司) ；7500
+Fast 型实时荧光定量聚合酶链式反应( RLT- qPCR) 仪( 美
+国ABI 公司) ；Mi ni - prot ean 3 Dodeca型电泳系统、
+chemi Doc MP型全能型凝胶成像系统( 美国Bi o—Rad
+公司) 。
+1．2主要药品与试剂
+本研究所用的主要药品与试剂包括：G—Rbl 对照品
+( 成都曼思特生物科技有限公司，批号41753—43—9，纯
+度≥98％) ，人源TGF．p。试剂( 美国P印roTech公司，批号
+100—21．10uG) ，特异性smad3抑制剂sI s3盐酸盐( 美国
+MCE公司，批号HY_13013／CS5768，纯度98．02％) ，
+DME／F一12( 1：1) 基础培养基( 美国HyCl one公司，批号
+SH30023．01) ，DMEM高糖培养基( 美国Comi ng公司，批
+·
+536·
+Chi naPhannacy 2022VbL 33 No．5
+号10013CVR) ，胎牛血清( 美国Gi bco公司) ，报告基因
+载体SBE( Smad bi ndi ng el ement ) 质粒( 武汉淼灵生物科
+技有限公司，批号P0756) ，Luci f erase Assay sysemFree—
+zeWPack荧光素酶报告基因检测试剂盒( 美国Promega
+公司，批号0000440829) ，BevoR■ ⅢcDNA第一链合成
+试剂盒( 上海碧云天生物技术有限公司，批号
+103118190503) ，Power Up“
+SYBRTMGreen PCR Mas—
+t er Mi X( 美国Themo Fi sher sci ent i f i c公司，批号
+00837276) ，MTT检测试剂盒、RJ PA试剂盒、Tri ．
+t onx—100、BCA蛋白浓度测定试剂盒( 北京索莱宝科技
+有限公司，批号分别为725C056、R0010、T8200、
+PC0020) ，辣根过氧化物酶( HRP) 标记的山羊抗兔免疫
+球蛋白G( I gG) 二抗( 武汉博士德生物工程有限公司，批
+号BsTl 4825C15K27) ，兔源仅．平滑肌肌动蛋白
+( 6c—smoot h muscl e act i n，n．SMA) 多克隆抗体( 武汉塞维
+尔生物科技有限公司，批号GBl l 1364) ，兔源FN多克隆
+抗体、兔源E一钙黏蛋白( E—cadheri n) 多克隆抗体、小鼠源
+COL．I 单克隆抗体、小鼠源Smad3单克隆抗体( 武汉三
+鹰生物技术有限公司，批号分别为15613．1．AP、
+20874．1．AP、66761．1．19、66516．1- l g) ，兔源磷酸化Smad3
+( p—Smad3) 单克隆抗体( 美国CST公司，批号9520) ，小
+鼠源伊肌动蛋白( 伊act i n) 单克隆抗体( 美国Sant a Cmz
+Bi ot ecl l l l ol ogy公司，批号sc．8432) ，HRP标记的山羊抗
+小鼠I gG二抗、HRP标记的山羊抗兔I gG二抗( 美国Pro．
+t ei nt ech Group公司，批号分别为SA00001．1、sA00001．2) ；
+其余试剂均为分析纯，水为超纯水。
+1．3细胞
+人肾小管上皮细胞HK．2、人胚胎肾细胞HEK293均
+购自中国科学院细胞库。
+2方法
+2．1细胞培养
+将HEK293细胞培养在含有10％胎牛血清、1％青．
+链霉素混合液的DMEM高糖培养基中，将HK一2细胞培
+养在含有10％胎牛血清、1％青．链霉素混合液的DME／F．
+12培养基中。待细胞融合至80％～90％时进行传代，取
+6～10代细胞进行后续实验。
+2．2
+HK_2细胞的形态学观察
+取对数生长期的HK一2细胞，按2× 105个／孑L接种于6
+孔板中，常规培养24 h。将细胞分为对照组( 含1％。二甲
+基亚砜的DME／F一12培养基) 、TGF．D。组( 10 n卧nL
+TGF—B。，质量浓度参考文献[ 17] 设置) 、sI s3组( 10 l l I l l 01／L
+sI S3+10n咖L TGF．D，，阳性对照药SI S3的浓度参考产
+品说明书设置) 以及10、20、30岫ol ／L G—Rbl 组( 分别为
+10、20、30 um01／L G—Rbl +10 ng／n1L TGF—pl ，G—Rbl 浓度
+中国药房2022年第33卷第5期
+万方数据
+参考前期预实验结果设置) ，每组设置3个复孔。加入相
+应培养液常规培养48 h后，于倒置显微镜下观察细胞形
+态并收集图像。
+2．3
+HEK293细胞中SBE的转录活性测定
+采用荧光素酶报告基因法进行测定。取对数生长
+期的HEK293细胞，按4× 104爪／孔接种于96孔板中，待
+细胞融合度超过80％时，将sBE质粒用P01yJ et TMDNA
+体外转染试剂瞬时转染到细胞中，6 h后更换DMEM高
+糖培养基正常培养。将细胞分为对照组( 含1％云甲基亚
+砜的DME／F一12培养基) 、TGF—p。组( 10 ng／mL TGF—p。) 、
+sI s3组( 10 mol ／L阳性对照药sIs3+10 n幽nL TGF—p，)
+和不同浓度G—Rbl 组( 1．O、2．5、5．0、10、20、30 umol ／L
+G．Rbl +10 n咖LTGF—p。) ，每组设置6个复孑L；并另设空
+白对照组( 该组无细胞只有DMEM高糖培养基) 。加入
+相应的培养液处理细胞24 h后，按照荧光素酶报告基因
+试剂盒方法进行操作，采用酶标仪测定各孔的荧光强度
+值，并计算相对荧光素酶活力：相对荧光素酶活力=( 实
+验组荧光强度值一空白对照组荧光强度值) ／( 对照组荧
+光强度值一空白对照组荧光强度值) 。相对荧光素酶活
+力越高，表示SBE的转录活性越强。实验重复3次。
+2．4
+HK_2细胞的相对活力测定
+采用MTT法进行测定。取对数生长期的HK- 2细
+胞，按1× 104个／孔接种于96孔板中，常规培养24 h后，按
+“ 2．3” 项下方法分组( 不设阳性对照药组；给药组扩大浓
+度范围，加设1个40“ m01／L G．Rbl 组) 及造模、给药、培
+养，每组设置6个复孑L。加入相应培养液培养24 h后，每
+孔避光加入终质量浓度为5 m卧11L的MTT试剂20此，
+继续培养4 h；弃去培养基，每孔加入二甲基亚砜150
+uL，振摇10 mi n。使用酶标仪于490 nm波长处测定各
+孔光密度( OD) 值，并计算细胞的相对活力：细胞相对活
+力( ％) =『( 实验组OD值一空白对照组OD值) ／( 对照组
+0D值一空白对照组OD值) ] × 100％。实验重复3次。
+2．5
+HK．2细胞中倪．SMA、CoL．I 、FN mRNA表达
+测定
+采用R1’
+_qPCR法进行测定。取对数生长期的HK- 2
+细胞，按2× 105个／孔接种于6孔板中，常规培养24 h后，
+按“ 2．2” 项下方法分组、造模、给药、培养，每组设置3个
+复孔。采用Tri z01法抽提细胞中总RNA，验证总RNA
+纯度后，按BevoR■ ⅢcDNA试剂盒方法将RNA逆转
+录成cDNA，再按照Power up“
+sYBRTMGreen PcR
+Mast er Mi x试剂盒方法进行R—qPCR分析。反应条件：
+50℃加热2 mi n，95℃预变性2 mi n；95℃变性15
+s，
+60℃退火1 mi n，72℃延伸30 s，共40个循环。以
+∥ ．acti n为内参基因，采用2“ “ ‘ 法分析各目标基因IIl IⅢA
+的相对表达量。实验重复3次。引物序列由武汉淼灵生
+中国药房2022年第33卷第5期
+物科技有限公司设计并合成，引物序列及扩增产物大小
+见表1。
+表1
+PCR引物序列及扩增产物大小
+2．6
+H102细胞中仅．SMA、E．cadheri n、p．Smad3、Smad3、
+CoL—I 、FN蛋白表达测定
+2．6．1
+west embl ot 法测定HK．2细胞中仅．sMA、E—cad．
+heri n、p—smad3、smad3、c0L．I 、FN蛋白表达
+取对数
+生长期的HK一2细胞，按2× 105个／孑L接种于6孑L板中，常
+规培养24 h后，按“ 2．2” 项下方法分组、造模、给药、培养，
+每组设置3个复孔。将处理后的HK一2细胞用PBS清
+洗3遍，收集细胞，根据Rj PA试剂盒说明书方法提取细
+胞中总蛋白，采用BCA法进行蛋白定量。将蛋白高温
+变性后，进行SDS凝胶电泳( 55 V，30 mm；120 V，60
+mi n) 分离，然后电转至PVDF膜( 电流350 mA) ，5％脱
+脂奶粉封闭2 h；加入一抗( 卢．acti n、反．SMA、FN、p—Smad3
+一抗的稀释比例均为1：1 000，Smad3一抗的稀释比例为
+l ：3 000，COL．I 一抗的稀释比例为l ：5 000，E．cadhe血
+一抗的稀释比例为1：10 000) ，4℃孵育过夜；TBST洗膜
+10 mi n× 3次，加入相应二抗( 稀释比例均为1：10 000) ，
+室温孵育2 h；TBsT洗膜10 mi n× 4次，在自动凝胶成像
+仪上显影。使用I mage J V1．8．0软件测定各条带的灰度
+值，以目标蛋白与内参蛋白( 伊act i n) 条带灰度值的比值
+表示目标蛋白的表达水平。实验重复3次。
+2．6．2免疫荧光法测定HK．2细胞中a．sMA、E—cad．
+heri n、FN蛋白表达取对数生长期的HK．2细胞，按2×
+105个／孑L接种于6孑L板中，常规培养24h后，按“ 2．2” 项下
+方法分组、造模、给药、培养，每组设置3个复孔。将处理
+后的HK- 2细胞用PBs清洗3遍，于冰上使用4％多聚甲
+醛固定l h，PBs洗去残留的多聚甲醛；在室温下使用
+0．3％碱t onx—100透化30 mi n，使用山羊血清封闭2 h，
+加入6c—SMA、FN、E．cadhe血一抗( 稀释比例均为1：250) ，
+4℃孵育过夜；除去一抗，PBS摇洗5 mi n× 3次，加入相应
+二抗( 稀释比例均为1：300) ，避光孵育1h；除去二抗，
+PBs摇洗5 mi n× 3次，避光加入DAPI 复染30 mi n；PBs
+摇洗后，加入荧光抗猝灭剂。在暗室中使用荧光倒置显
+微镜采集图像，并使用I mage Pro P1us 6．0软件测定蛋白
+的荧光强度值，该值越大，表示目标蛋白阳性表达越
+强。实验重复3次。
+Chi naPh黝acy 2022、b1．33 No．5
+·
+537·
+万方数据
+2．7统计学方法
+采用GraphPad Pri sm6．0软件对数据进行统计分
+析。结果以i ± s表示，多组问比较采用单因素方差分
+析，组间两两比较采用Dul l net t 法。检验水准。【=0．05。
+3结果
+3．1
+HK_2细胞形态学观察结果
+对照组HK- 2细胞具有典型的上皮细胞铺路石样形
+态特征，细胞生长状态良好，形成融合的单层细胞；
+TGF．B。组HK一2细胞形态发生明显改变，细胞拉长且呈
+梭形、问隙增大，形态上趋向于成纤维细胞样改变，具有
+EMT的典型特征；SI S3组和10、20、30 umol ／L G—Rbl 组
+大多数HK．2细胞均保有典型的上皮细胞铺路石样形态
+特征。结果表明，G—Rbl 能够在一定程度上抑制TGF一6。
+诱导的HK．2细胞发生EMT。各组HK一2细胞的显微图
+见．图1。
+·
+538·
+Chi naPhannacy 2022Vbl ．33 No．5
+3．2
+HEK293细胞中SBE的转录活性测定结果
+与对照组比较，TGF．B。组HEK293细胞的相对荧光
+素酶活力显著升高( P<0．05) ；与TGF．B。组比较，各给
+药组HEK293细胞的相对荧光素酶活力均显著降低
+( 尸<0．05) ，且G．Rbl 的作用具有一定的浓度依赖趋
+势。这说明G．Rbl 可抑制SBE的转录活性，也提示G．Rbl
+对TG限一B。／Smad3通路的激活可能具有抑制作用。结果
+见表2。
+3．3
+HK_2细胞的相对活力测定结果
+与对照组比较，TGF—B。组HK．2细胞的相对活力显
+著降低( P<0．05) ；与TGF．D。组比较，1．0～30 um01／L
+G—Rbl 组HK．2细胞的相对活力差异均无统计学意义
+( P>0．05) ，说明1．0～30 umol ／L G—Rbl 对TGF—p。／Smad3
+通路激活的抑制不是由于影响了细胞活力导致的。结
+果见表3。
+图1各组HKl 2细胞的显微观察图
+中国药房2022年第33卷第5期
+万方数据
+表2各组I I EK293细胞的相对荧光素酶活力测定结果
+( i ± s，刀=6)
+组别
+相对荧光素酶活力
+组别
+相对荧光素酶活力
+对照组
+1 00± 0 05
+2 5 umoⅣLG- Rbl 组
+4 88± 0 78b
+TGF- B1组
+5 16± 0 714
+5 0 um出LG- Rbl 组
+4 85± O，65b
+sIs3组
+1 60± 0 39b
+10¨ mol ／LG_Rbl 组
+4 23± 0．4旷
+1 0“ m01／LG- Rbl 组
+4 97± 0 64b
+20 l Lmol ／LG_Rbl 组
+342± O68“
+a：与对照组比较，P<0．05；b：与TGF—B。组比较，P<O．05
+表3各组HK_2细胞的相对活力测定结果( i ± s，栉=6)
+组别
+细胞相对活力，％
+组别
+细胞相对活力，％
+对照组
+100 00± 4 90
+5 0 um0ⅣLORbl 组
+94 49± l 83
+TGF- B1组
+92 23± 3 83。
+10¨ mol ／LG- Rbl 组
+90．82± 2 23
+1 0“ m01／LG- Rbl 组
+97 06± 5 7l
+20¨ mol ／LG_Rbl 组
+92 69i 4 03
+2．5“ m胡儿G- Rbl 组
+95．12± 4．62
+30 umol ／LG- Rbl 组
+93．1l ± 4，64
+a：与对照组比较，P<0．05
+3．4
+HK．2细胞中倪．SMA、CoL．I 、FNmRNA表达的
+测定结果
+与对照组比较，TGF—B。组HK一2细胞中a—SMA、
+COL—I 、FN 111】刚A的相对表达量均显著升高( J P<
+O．05) ；与TGF．p。组比较，SI S3组、30肛m01／L G—Rbl 组
+HK．2细胞中6c．SMA、COL—I 、FN训}斟A的相对表达量，
+20 umol ／LG．Rbl 组HK．2细胞中COL．I 、FNmRNA的
+相对表达量和10 um01／L G．Rbl 组HK．2细胞中FN
+mRNA的相对表达量均显著降低( P<0．05) 。结果见
+表4。
+表4各组HK．2细胞中伉．SMA、CoL．I 、FNmRNA的
+相对表达量测定结果( i ± s，咒=3)
+a：与对照组比较，尸<0．05．b：与TGF—B· 组比较，P<O．05
+3．5
+HK．2细胞中坟．SMA、E．cadheri n、p．Smad3、Smad3、
+coL．I 、FN蛋白表达的测定结果
+3．5．1
+west embl ot 实验结果与对照组比较，TGF—B，组
+HK．2细胞中“ 一sMA、p．smad3、smad3、cOL．I 、FN蛋白
+的表达水平均显著升高( P<0．05) ，E—cadl l eri n蛋白的表
+达水平显著降低( P<0．05) 。与TGF．B，组比较，SI S3组
+和20、30
+u m01／L G—Rbl 组HK一2细胞中d—SMA、
+p—Smad3、Smad3、COL—I 、FN蛋白的表达水平均显著降
+低( P<0．05) ，E—cadhe血蛋白的表达水平均显著升高
+( P<0．05) ；10¨ m01／L G—Rbl 组HK．2细胞中p—Smad3、
+FN蛋白的表达水平均显著降低( P<o．05) ，E．cadhe豳
+中国药房2022年第33卷第5期
+蛋白的表达水平显著升高( P<0．05) 。结果见图2和
+表5。
+FN
+COL．I
+E—cadhe rI “
+smaas[!ijiiiij[：：jiiiiiii!：：!ii；；；；；：：；；；；；；i；[：j；；；iiii!：：：：：!iiiiiiiii：】
+ss。。a
+杩mE三三三三三三三三三]
+加“ n匣三三三三亟三亘三三司
+52 kD8
+12 kD8
+43 kDa
+A
+B
+C
+D
+E
+F
+A：对照组；B：TGF—p- 组；C：SI S3组；D：10“ m01／LG—Rbl 组；
+E：20 umol ／LG—Rbl 组；F：30岬01／LG—Rbl 组
+图2
+各组HK．- 2细胞中倪- SMA、p- Smad3、Smad3、E-
+cadheri n、COL—I 、FN蛋白表达的电泳图
+表5
+各组HK- 2细胞中口- sMA、p- smad3、smad3、
+E．cadheri n、CoL．I 、FN蛋白表达水平测定结
+果( i ± s，以=3)
+a：与对照组比较。尸<0．05；b：与TGF．B- 组比较，尸<O．05
+3．5．2免疫荧光实验结果
+与对照组比较，TGF．B。组
+HK- 2细胞中d．SMA、FN蛋白的荧光强度值均显著升高
+( P<0．05) ，E．cadl l e血蛋白的荧光强度值显著降低( P<
+O．05) 。与TGF．D。组比较，sI s3组和10、20、30¨ mol ／L
+G—Rbl 组HK- 2细胞中oc．sMA、FN蛋白的荧光强度值均
+显著降低( P<0．05) ，E—cadheri n蛋白的荧光强度值均显
+著升高( P<0．05) 。结果见图3( 以E—cadl l e血蛋白的免
+疫荧光图为例进行展示，其余图略) 和表6。
+表6
+各组HK- 2细胞中倪．SMA、E．cadheri n、FN蛋白的
+荧光强度值测定结果( i ± s，刀=3)
+a：与对照组比较，P<O．05；b：与TGF—B。组比较，P<O．05
+Chi naPh锄acy 2022、b1．33 No．5
+·
+539·
+万方数据
+I ∞Lml
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ _
+1 00 LJ m
+■ ■ ■ ■ ■ ■ ■ ■ —■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ _
+1( 】( h¨ 11
+■ ■ ■ ■ ■ ■ ● ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ 一
+10( ) u111
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ I
+100 u111
+■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ● ● —■ ■ ■ ■ ■ ■ 一
+111幽
+L———兰
+————————]■ r—一
+●
+●
+图3各组HK．2细胞中E．cadheri n蛋白表达测定的免疫荧光图
+4讨论
+随着人们生活水平的提高，DKD的患病率也呈升高
+趋势，而目前临床上尚无特效药物治疗DKD。DKD又
+被称为肾小球硬化症，主要病理表现为Rj F，而肾小管上
+皮细胞发生EMT是Rj F发生发展的主要环节芦“ 】。
+Smad3是TGF—p。／Smad信号通路的关键因子，TGF—p，可
+通过下游的smad3通路调控相关基因的转录和表达，参
+与EMT的进程州。研究表明，TGF一6。／smad3通路是
+EMT的主要通路之一” 7_1” 。仅．sMA作为肌成纤维细胞
+·
+540·
+Chi naPhannacy 2022Vbl ．33 No．5
+的特异性标志蛋白，其在肾小管上皮细胞表达水平的高
+低可问接反映肾小管上皮细胞发生EMT的程度“ ” 。
+E—cadhem作为上皮细胞膜上的一种钙依赖性黏附蛋
+白，对维持细胞间紧密连接、保持上皮细胞极性具有十
+分重要的作用，所以其也作为肾小管上皮细胞发生EMT
+的一个重要指标” ” 。伴随着肾小管上皮细胞发生EMT，
+ECM成分( 如COL．I 、FN蛋白) 大量表达’
+' ” ] ，促进Rj F
+的发生发展。G—Rbl 作为人参的主要成分，能够有效改
+善DKD，但其对肾小管上皮细胞发生EMT的影响及机
+中国药房2022年第33卷第5期
+万方数据
+制尚未阐明。
+本研究先使用TGF．B。诱导HK_2细胞发生EMT，以
+此来研究G—Rb1能否通过调节TGF．B。／Smad3通路，从而
+抑制肾小管上皮细胞发生EMT。结果显示，TGF—B，作用
+于HK．2细胞48 h后，细胞形态发生了EMT样改变；细
+胞中o[ ．SMA、COL—I 、FN蛋白及其mRNA的表达上调，
+E—cadl l eri n蛋白的表达下调。而联合给予不同浓度
+G．Rbl 后，HK．2细胞中oc—sMA、c0L．I 、FN蛋白及其
+I I 武NA的表达不同程度下调，E．cadhe曲蛋白的表达不
+同程度上调。该结果提示，G．Rbl 能够在一定程度上抑
+制TGF—B。诱导的HK．2细胞发生EMT。
+为了探究G．Rbl 抑制TGF—B。诱导HK．2细胞发生
+EMT的机制，本研究使用HEK293细胞( 转染时的工具
+细胞) ，通过荧光素酶报告基因法探究G．Rbl 对TGF一6。／
+Smad3通路激活的影响( SBE是TGF．B。／Smad信号通路
+激活报告基因载体，可利用SBE荧光素酶报告基因系统
+评估G—Rbl 对TGF．B。／smad3信号通路的影响) 。此外，
+为了排除基因转录活性下降是由于影响了细胞活力导
+致的，本研究设计了MTT实验来检测HK．2细胞的相对
+活力。结果显示，与TGF．B。组比较，不同浓度G．Rbl 组
+HK．2细胞的相对荧光素酶活力均显著降低，且1．O～30
+umo儿G．Rbl 对细胞的相对活力无显著影响。该结果
+说明，G．Rbl 对TGF．B。／smad3信号通路的激活具有抑制
+作用，且该作用不是因为抑制了细胞活力引起的。并
+且，通过Wbst embl ot 实验和免疫荧光实验结果可知，给
+予不同浓度G．Rbl 后，HK．2细胞中Smad3、p．Smad3蛋
+白表达也不同程度下调，这也进一步证实了G．Rbl 对
+TGF—B。／smad3信号通路的激活具有抑制作用。
+综上所述，本研究证实G．Rbl 可在一定程度上保护
+肾小管上皮细胞免受TGF．B。诱导引起的EMT，这可能
+与其抑制了TGF．B。／smad3信号通路的激活有关。本研
+究初步解释了G．Rbl 在临床上防治DKD的可能作用机
+制，但因研究对象为细胞，并不能完全模拟G．Rbl 在人
+体内的作用机制，故本研究仍存在一定的局限性，需进
+一步验证。
+参考文献
+[ 1]
+BONNER R，ALBAJ RAMl 0，HUDSPETHJ ，et a1．Di a-
+bet i c ki dney di sease[ J ] ．Pri mCare C1i 11 0f f Pmct ，2020，47
+( 4) ：645—659．
+[ 2] YANGC，CHEN X C，LI Z H，et a1．SMAD3 promot es
+a删：ophagy dysregul at i on by仃i ggeri ng l ysosome d印l et i on
+i n t ubul ar
+epi t hel i al
+cel l s
+i n di abet i c
+nephropat hy[ J ] ．
+Aut ophagy，2021，17( 9) ：2325- 2344．
+[ 3]
+MAGEE C，GRI EVE D J ，WATSONC J ，et a1．Di abet i c
+nepl l ropat by：a t al l 91ed web t o uI l weave[ J ] ．Cardi ovasc
+Dmgs Ther，2017，31( 5／6) ：579- 592．
+[ 4]
+LI NY C，CHANG Y H，YANG S Y，et a1．Updat e of
+pat hophysi 0109y
+and
+management
+of
+di abet i c
+ki dney
+中国药房2022年第33卷第5期
+[ 5]
+[ 6]
+[ 7]
+[ 8]
+[ 9】
+[ 10]
+[ 11]
+[ 12】
+[ 13】
+[ 14】
+【15]
+[ 16]
+[ 17】
+[ 18]
+[ 19]
+di sease[ J 】．J Fomos MedAssoc，2018，117( 8) ：662- 675．
+孙兰，张帆，石明隽，等．吡格列酮对高糖诱导的大鼠肾小
+管上皮细胞．间充质细胞转分化的影响及机制研究[ J ] ．中
+国药房，2020，3l ( 16) ：1949．1954．
+WANG H J ，LI U H，LI NY H，et a1．mi R一32—5p knock—
+down i nhi bi t s epi t hel i al t o mesencbymal 仃ansi t i on a11d re—
+nal
+f i brosi s
+by t a曙et i ng SMAD7 i n di abet i c
+nephropa—
+thy[ J ] ．H眦EXp Toxi col ，2021，40( 4) ：587—595．
+LEE S Y，KI MS I ，CHOI ME．Therapeut i c t arget s f or
+仃eati ng助roti c ki dney di seases[ J ] ．Transl Res，2015，165
+( 4) ：512—530．
+郭维，徐虹．肾小管上皮细胞向间质细胞转化与肾小管间
+质纤维化的关系[ J ] 国外医学( 儿科学分册) ，2005，32
+( 6) ：360．362．
+钟涛，张国新，周迪夷，等．灵芝多糖对糖尿病肾病小鼠。肾
+小管上皮细胞间充质转化的抑制作用[ J ] ．中国医药导
+报，2020，17( 6) ：9．12．
+徐爱萍，林华，高丽辉，等．芒果苷元对TGF．6。诱导的
+HK_2细胞EMT的影响[ J 】．昆明医科大学学报，2021，42
+( 7) ：1．6．
+之ⅣOTI e M，TAMPE B，MOLLER G，et a1．Modul at i on
+of NCAM／FGFRl
+si gnal i ng suppresses EMT progr锄i n
+h啪an proxi mal
+t ubul ar
+epi t hel i al
+cel l s[ J ] ．PLoS
+0ne，
+2018，13( 11) ：e0206786．
+刘勇，肖伟，肖培根，等．适应原与中药补益药[ J ] ．中国现
+代中药，2015，17( 1) ：1．5．
+杨岩涛，肖佳妹，杨岩，等．基于上皮间质转化的人参活性
+成分抗肿瘤作用的研究进展[ J 】．中草药，2021，52( 16) ：
+5052．506 1．
+孙娜，徐钢，徐珊，等．人参炮制对其化学成分和药理作用
+的影响[ J ] ．中国药房，2016，27( 6) ：857．859．
+XUX F，LUQD，WUJ Y，et a1．I nl pact of ext ended gi n-
+scnosi de Rbl
+on e砌y
+cl ⅡDni c ki dncy di sease：a啪do-
+111i zed，pl acebo—con昀11ed st udy[ J ] ．I nnamm叩harrnac0109) r，
+2017，25( 1) ：33．40．
+L【U X H，CHEN J W，SUN N，et a1．Gi nsenosi de Rbl
+锄el i orates aut ophagy vi a t he AMPK／n1TOR pa也way i n
+嘣l al 缸bul ar印i mel i al
+cel l s觑vf 打．0 and觑vf 阳[ J ] ．I nt
+J
+Bi ol Macrom01，2020，163：996—1009．
+J I ANGY P，XI E F F，LV X，et a1．Me向ni done锄el i orates
+di abet i c ki 血ey di sease i n STz a11d db／db mi ce[ J 】．FASEB
+J ，2021，35( 1) ：e21198．
+RENHW，ZU0 S K，HOUY Y，et a1．I nl l i bi t i on of a1一
+adrenocept or reduces TGF—D1- i nduced epi t hel i al ．t o—mesen-
+c蛳al 仃ansi ti on al l d a仕e肌ates UU0- i nduced renal 矗bmsi s
+i n mi ce[ J ] ．FASEB J ，2020，34( 11) ：14892- 14904．
+张立，杨柏新，徐红岩，等．三七皂苷对晚期糖基化终产物
+诱导的HK．2细胞转分化的影响[ J ] ．武警后勤学院学报
+( 医学版) ，2021，30( 1) ：7．10．
+( 收稿日期：2021一l l 一18修回日期：2022—01—17)
+( 编辑：林静)
+Chi naPh黝acy 2022、b1．33 No．5
+·
+541·
+万方数据

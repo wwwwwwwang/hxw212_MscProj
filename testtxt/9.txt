@@ -1,0 +1,495 @@
+贵州医药2021年4月第45卷第4期
+·
+507
+·
+· 论
+著·
+基于抗炎及抗氧化研究人参皂苷对衰老模型大鼠
+七氟烷麻醉后认知功能障碍的改善作用
+樊荣
+( 西安市第一医院麻醉科．陕西西安710002)
+摘
+要
+目的研究人参皂苷对衰老模型大鼠七氟烷麻醉后认知功能障碍及炎症反应、氧化应激反应的改善
+作用及机制。方法成年雄性SD大鼠随机分为对照组、衰老组、衰老+七氟烷组、衰老+七氟烷+人参皂苷组，采
+用皮下注射D半乳糖的方式建立衰老模型，在麻醉箱内给予体积分数3．2％七氟醚，七氟醚麻醉后给予50 mg／kg
+人参皂苷Re灌胃、持续4周。采用Morri s水迷宫检测逃避潜伏期、穿越平台次数，采用试剂盒检测血清及海马中
+炎症因子I I ．1B、I I 。6、TNF d及氧化应激指标S01) 、GPX、MD人的含量，采用West ern bl ot 检测海马中P
+p38MAPK、P—ERKl ／2、p—J NK的表达水平。结果与对照组比较．衰老组的逃避潜伏期延长，穿越平台次数、SOD、
+GPX的含量、p- ERKl ／2的表达减少，I I ．一1B、I I ．一6、TNF—d、MDA的含量及p- p38MAPK、p- J NK的表达增加；与衰老
+组比较，衰老+七氟烷组的逃避潜伏期延长，穿越平台次数、St ) D、GPX的含量、P ERKl ／2的表达减少，I I 。1B、I I 。
+6、TNF d、MDA的含量及p p38MAPK、P J NK的表达增加；与衰老+七氟烷组比较，衰老+七氟烷+人参皂苷组
+的逃避潜伏期缩短，芽越平台次数、St ) D、GPX的含量、P ERKl ／2的表达增加，I I ．1B、I I 。6、TNFⅡ、MDA的含量及
+p J NK的表达减少，P p38MAPK的表达无明显变化。结论人参皂苷Re能够改善衰老模型大鼠七氟烷麻醉后的
+认知功能障碍并减轻炎症反应、氧化应激反应，调控ERKl ／2及J NK通路是可能的分子机制。
+关键词
+衰老；
+七氟烷；
+人参皂苷；
+炎症反应；
+氧化应激反应；
+信号通路
+I mprovement
+ef f ect
+of gi nsenosi de on cogni t i ve i mpai rment
+of agi ng rat s af t er
+sevof l urane anest hesi a based i n ant i
+i nf l ammat ory and ant i oxi dant ef f ect
+FanRong．Depart ment ( ' f
+A' l est hc si ( } I ( ) gy．TheFi rst Peopl e：s Hospi t al ( ' f
+xi ：un，xi ’
+u11 710002．Shanj ' i ，
+Chi na．
+Abst ract
+0bj ect i ve To st udy
+t he ef f ect
+and mechani sm of
+gi nsenosi de on cogni t i ve dysf unct i on，i nf l ammat ory
+response and oxi dat i ve st ress af t er
+sevof l urane anest hesi a i n agi ng rat s．Met hods Adul t mal e SD rat s were randoml y
+di vi ded i nt o cont rol
+group，agi ng group，agi ng+sevof l urane group，agi ng+sevof l urane+gi nsenosi de group．The
+agi ng model
+was est abl i shed by subcut aneous i nj ect i on of I ) gal act ose，t he vol ume f ract i on 3．2％of
+sevof l urane was
+gi ven i n t he anest hesi a box，50 mg／kg gi nsenosi de Re was gi ven by gavage f or 4 weeks af t er
+sevof l urane anest hesi a．
+Morri s"vvat er maze was used
+t o det ect
+t he escape l at ency and crossi ng pl at f orm t i mes．Serumand hi ppocampus
+i n—
+f l ammat ory f act ors I I 。1 8，I I ．6，TNFⅡand oxi dat i ve
+st ress
+i ndexes S( ) D，GPX and MDA were det ect ed by
+ki t ．
+West ern bl ot ( WB) was used t o det ect
+t he expressi on l evel s
+of
+P p38MAPK。P ERKl ／2 and P J NK i n hi ppocam
+pus．Resul t Comparcd wi t h t he cont rol
+group，t he escape l at ency prol onged，t he crossi ng pl at f orm t i mes，t he
+con
+t ent s of
+SOD，( 二PX，t he expressi on of p- ERKl ／2 decreased，and t he cont ent s of
+II．一1 B，I I ．一6，TNF—d，MDA and
+t he expressi on of
+P p38MAPK，P, I NK i ncreased i n 1he agi ng group．( ' ompared wi t h t he agi ng group，t he escape l a
+t ency prol onged，t he crossi ng pl at f ormt i mes，t he cont ent s of
+SOD，GPX．t he expressi on of
+P ERKl ／2 decreased，
+and t he
+cont ent s of
+I I 。l 8，l I 。6，TNF“ ，MDA and t he expressi on of
+P p38MAPK，P J NK i ncreased i n t he agi ng
++sevof l urane group．Compared wi t h t he agi ng+sevof l urane group，t he escape l at ency short ened，t he crossi ng pl at
+f ormt i mes，t he cont ent s of
+SOD，GPX，t he expressi on of
+p- ERKl ／2 i ncreased，and t he
+cont ent s of
+II。一l
+8，I I 。一6，
+TNF
+d，MDA and t he expressi on of
+P J NK
+decreased，t he expressi on of
+P p38MAPK
+t here were
+no si gni f i cant
+change
+i n agi ng+sevof l urane+gi nsenosi de group．Concl usi on Gi nsenosi de Re can i mprove t he cogni t i ve f unct i on of
+agi ng rat s af t er sevof l urane anest hesi a，reduce t he i nf l ammat ory response and oxi dat i ve st ress response，and regul at e
+ERKl ／2 and J NK pat hway W[ - l S t he possi bl e mol ecul ar mechani sm．
+Keywords
+Agi ng；
+Sevof l urane；
+Gi nsenosi de；
+I nf l ammat ory
+response；
+( ) xi dat i ve
+st ress
+re
+sponse；
+Si gnal pat hway
+中图分类号：R61 4；R 332
+文献标识码：人
+文章编号：1000 7．11X( 2021) 0, 1—0507 04
+万方数据
+·
+508
+·
+七氟烷是临床广泛使用的吸入型麻醉药物，麻
+醉和镇静效果确切且对呼吸和循环系统影响较小，
+但有研究1。t 发现，其会对老年患者的认知功能产生
+负面影响。另有研究口1显示，七氟烷会对衰老大鼠
+的认知功能及海马超微结构造成损害。人参皂苷
+是人参中主要的活性成分，人参皂苷Re为人参皂
+苷巾重要的一种单体成分，能够在多种组织巾发挥
+抗炎和抗氧化作用。研究州表明，人参皂苷Re能
+够减轻慢性酒精中毒引起认知功能损伤。基于此，
+本实验将人参皂苷Re用于衰老模型大鼠七氟烷麻
+醉后的干预，具体分析了人参皂苷Re对认知功能
+障碍及炎症反应、氧化应激反应的改善作用及机制。
+1材料与方法
+1．1
+材料
+成年雄性SD大鼠购自上海西普尔必
+凯实验动物有限公司，D半乳糖购白北京索莱宝公
+司，七氟烷购白山东鲁南贝特制药公司，白介素1 J 3
+( I I ．一1j 3) 、白介素一6( I I ．一6) 、肿瘤坏死因子一a( TNF一
+Ⅱ) 、超氧化物歧化酶( SOD) 、谷胱甘肽过氧化物酶
+( GPX) 、丙二醛( MDA) 的检测试剂盒购白北京全式
+金公司，RI PA裂解液、BCA蛋白检测试剂盒购自武
+汉艾来德公司，P p38MAPK、P ERKl ／2、p J NK的
+抗体购白CST公司。
+1．2方法
+实验动物随机分为对照组、衰老组、衰
+老+七氟烷组、衰老+七氟烷+人参皂苷组，每组各
+8只。衰老组、衰老+七氟烷组、衰老+七氟烷+人
+参皂苷组进行衰老模型制备，皮下注射0．125 g／kg
+10％D半乳糖溶液、1次／d、连续40 d；对照组皮下注
+射等剂量生理盐水。衰老+七氟烷组、衰老+七氟
+烷+人参皂苷组在衰老模型造模完成后放人麻醉
+箱内，通入3．2％七氟烷、持续6 h；对照组和衰老组
+放人麻醉箱内，通入空气。经上述处理后，衰老+
+七氟烷+人参皂苷组给予50 mg／kg人参皂苷Re
+灌胃、1次／d、连续4周。于直径1．6 m、高0．5 m
+的水迷宫内进行检测，水深0．22 m，水温22～26℃。
+第1～4天进行定位航行实验，在第3象限正巾放置
+直径12 cm、高度20 Cl ' 11的平台，每天训练4次，分
+别从4个象限将大鼠面向池壁放入水中，记录大鼠
+找到平台的时间，若90 S内未找到平台，则逃避潜
+伏期为90 S；第5天进行空间探索实验，将大鼠从第
+1象限面向池壁放入水中，记录大鼠90 S内穿越原
+平台所在位置的次数。完成Morri s水迷宫检测后
+处死大鼠，收集外周【11_L 3～5 mL后离心分离血清；
+收集海马组织，加入RI PA裂解液后匀浆，离心分离
+上清，采用试剂盒分别检测血清及上清中I I 。一l |3、
+I I ．一6、TNF—a、S( ) D、GPX、MDA的含量。取海马组
+织匀浆后的上清液，采用BCA试剂盒测定蛋白含
+量，根据测定结果取含有30肚g蛋白的上清样本进
+行West ern bl ot 实验。将样本加入聚丙烯酰胺凝胶
+后进行电泳，而后电转移至PVDF膜，5％脱脂牛奶
+在室温封闭PVDF膜l
+h后l ：1 000稀释的
+p- p38MAPK、p- ERKl ／2、p- J NK抗体或l ：5 000
+稀释的J 3 act i n抗体4℃孵育过夜；TBS T溶液洗膜
+3遍、每遍5 mi n，室温孵育1：2 000稀释的二抗1
+h，再次TBS T溶液洗膜3遍、每遍10 rai n，最后在
+凝胶成像系统中显影，得到P p38MAPK、P ERKl ／
+2、p J NK、B act i n条带，根据条带的灰度值计算蛋白
+表达量。
+1．3统计学方法采用SPSS20．0软件录人数据，
+四组间计量资料的比较采用方差分析，两两比较采
+用LSD f 法，P<0．05为差异有统计学意义。
+2
+结
+果
+2．1
+学习记忆功能的比较
+与对照组比较，衰老
+组大鼠的逃避潜伏期延长，穿越平台次数减少( P<
+0．05) ；与衰老组比较，衰老+七氟烷组大鼠的逃避
+潜伏期延长，穿越平台次数减少( P％0．05) ；与衰老
++七氟烷组比较，衰老+七氟烷+人参皂苷组大鼠
+的逃避潜伏期缩短，穿越平台次数增加( P％0．05) 。
+见．表1。
+表1
+各组大鼠学习记忆功能的比较( f ± N)
+2．2血清及海马中炎症因子含量的比较
+与对照
+组比较，衰老组大鼠血清及海马中I I 。113、I I ．6、
+TNF d的含量增加( P<0．05) ；与衰老组比较，衰老
++匕氟烷组大鼠血清及海马中I I 。113、I I 。6、TNF
+a
+的含量减少( Pd0．05) ；与衰老+七氟烷组比较，衰
+老+七氟烷+人参皂苷组大鼠血清及海马中I L
+113、
+I I 。一6、TNF—d的含量增加( P<0．05) 。见表2。
+表2各组大鼠血清及海马中炎症因子含量的比较( f ± 一)
+万方数据
+贵州医药2021年4月第45卷第4期
+2．3血清及海马中氧化应激指标的比较
+与对照组
+比较，衰老组大鼠血清及海马中SOD、GPX的含量减
+少，MDA的含量增加( P<o．05) ；与衰老组比较，衰老
++七氟烷组大鼠血清及海马中S( ) D、GPX的含量增
+加，MDA的含量减少( P<o．05) ；与衰老+匕氟烷组比
+较，衰老+七氟烷+人参皂苷组大鼠血清及海马中
+S( ) D、GPX的含量减少，MDA的含量增加( P<0．05) 。
+见表3。
+表3各组大鼠血清及海马中应激指标的比较( f ± 一)
+2．4
+p38MAPK、ERKl ／2、J NK表达的比较
+与对
+照组比较，衰老组大鼠海马巾p- p38MAPK、p- J NK
+的表达水平增加，P ERKl ／2的表达水平减少( P<
+0．05) ；与衰老组比较，衰老+七氟烷组大鼠海马中
+p p38MAPK、p J NK的表达水平增加，P ERKl ／2
+的表达水平减少( P<0．05) ；与衰老+七氟烷组比
+较，衰老+七氟烷+人参皂苷组大鼠海马中P
+p38MAPK的表达水平无明显变化( P>0．05) ，P—
+J NK的表达水平减少、p—ERKl ／2的表达水平增加
+( P<0．05) 。见图1，表4。
+p—ERKI ／2● —- · —- · —· ● —-
+阳“ t· ● ● I● ● ◆ ● -● ■ -
+对照组
+衰老组
+衰老r匕氟烷组衰老rL氟烷
++人参皂H‘
+纰
+图l 各组大鼠海马中p p38MAPK、P ERKl ／e、
+p J NK的蛋白条带
+·
+509
+·
+表4各组大鼠海马巾P p38MAPK、P ERKl ／2、P J NK
+表达量的比较( T± s)
+3
+讨
+论
+人参皂苷Re是人参皂苷中重要的一种单体成
+分，具有广泛的生物学作用。有学者。6分别将人参
+皂苷Re用于精神分裂症大鼠及阿尔茨海默小鼠的
+干预，结果显示动物的行为学表现及认知功能均明
+显改善。本研究结果显示，与衰老+七氟烷组比
+较，衰老+七氟烷+人参皂苷组的逃避潜伏期缩
+短、穿越平台次数增加，表明人参皂苷Re对衰老大
+鼠七氟烷麻醉后的认识功能具有改善作用。
+海马是大脑中与认知、学习、记忆等功能直接
+相关的脑区，海马结构的损害能够引起认知功能障
+碍、学习记忆能力减退。研究。7表明，在匕氟烷诱
+导认知功能障碍的过程中，海马中的炎症反应和氧
+化应激反应的激活与结构损害直接相关。本研究
+表明，衰老组及衰老+七氟烷组血清、海马中I I 。1口、
+I I ．一6、TNF—d、MDA的含量增加，SOD、GPX的含量
+减少且衰老+匕氟烷组的上述变化较衰老组更为
+显著，表明衰老及七氟烷麻醉均对海马中的炎症和
+氧化应激反应具有激活作用。人参皂苷Re具有抗
+炎和抗氧化作用，能够在神经元细胞、内皮细胞、心
+肌细胞中减轻多种病理因素引起的炎症反应和氧
+化应激反应_91⋯ 。本研究结果湿示，血清、海马中
+I I 。18、I I 。6、TNF d、MDA的含量减少，SOD、GPX
+的含量增加，表明人参皂苷Re能够在衰老大鼠七
+氟烷麻醉后发挥抗炎和抗氧化作用，这可能是其改
+善认知功能的机制之一。
+MAPK通路是细胞内感受能量变化并调控凋
+亡、炎症、氧化应激的重要通路，ERKl ／2、J NK、
+p38MAPK均属于MAPK家族。报道[ 111胡显示，七
+氟烷能够使海马中的J NK、p38MAPK发生激活，
+ERKl ／2受到抑制。本研究结果显示，衰老+七氟
+烷组海马中p- p38MAPK、P J NK的表达水平增加，
+P ERKl ／e的表达水平减少，表明上述信号通路的
+变化可能参与了七氟烷诱导的海马组织炎症及氧
+化应激激活，进而引起认知功能减退。在人参皂苷
+Re十预后，海马中p- p38MAPK的表达水平无明显
+变化、p J NK的表达水平减少、P ERKl ／e的表达水
+平增加，表明人参皂苷Re可能通过ERKl ／2和
+J NK通路发挥改善认知功能及抑制炎症反应、氧化
+应激反应的作用。
+( 下转第521页)
+万方数据
+贵州医药2021年4月第45卷第4期
+NTF、VEGF较治疗前及同期对照组有明显降低，
+且研究组治疗后的NI HSS与BI 评分下降／升高幅
+度明显大于对照组，差异有统计学意义( P<o．05) ，
+证实微创介入治疗在临床患者中的有效性与可行
+性。主要由于实施微创介入治疗可使闭塞血管获
+得冉通，实现动脉冉灌注，恢复或改善狭窄管腔，有
+效改善血管微循环，纠正病变血管，同时较好保护
+患者心功能与神经功能，因而更能从整体上显著改
+善患者生活质量_9。1 o。
+综上所述，采用微创介入治疗可有效改善急性
+脑梗死患者血清神经生长凶子、神经营养凶子、内
+皮生长因子细胞因子水平，最大限度降低神经功能
+缺损，促进患者病情康复。
+[ 1]
+[ 2]
+I s]
+参考文献
+杨梅，阮超，陈敬菊，等．分水岭脑梗死患者血管内治疗
+的长期疗效观察[ J ] ．中风与神经疾病杂志，20I 9，36
+( 3) ：229 232．
+陈荣华，曹洁，宣井岗，等．急性前循环大血管闭塞血管
+内治疗效果及影响因素分析[ J ] ．中华神经医学杂志，
+20I 8，I 7( 8) ：784 789．
+蔡瑞兴，夏范蕾．超早期介入治疗伴有远端血管栓塞的
+( 上接第509页)
+[ 1]
+22]
+[ 3]
+[ 4]
+[ 5]
+[ 6]
+[ 7]
+参考文献
+Guo I ．，I 。i n F．Dai
+H，et a1．I mpact
+of
+sevof l urane ver sus
+propof ol
+anest hesi a
+on
+post ——operat i ve
+cogni t i ve
+dys——
+f unct i on
+i n
+el derl y
+cancer
+pat i ent s：a doubl e bl i nded
+randomi zed cont rol l ed t ri al
+J ．Mcd Sci
+Moni t ，2020，
+l 5( 26) ：e91 9293．
+Bel rose J C，Noppens RR．Anest hesi 。l ogy and cogni t i ve
+i mpai rment ：a narrat i ve revi ew of
+current
+cl i ni cal
+l i t er
+at ure J ．BMC Anest hesi ol ，20l 9，19( 1) ：241．
+杨洋，吴振宇，林夏妃，等．七氟烷对衰老模型大鼠认知
+功能及海马超微结构的影响[ J ] ．四川大学学报( 医学
+版) ，2019，50( 5) ：689 694．
+陈荻，李阳，田梦，等．人参皂苷Re对慢性酒精中毒大
+鼠学习、记忆能力的影响及机制[ J ] ．巾华巾医药学刊，
+20I 6，34( 12) ：2974 2977．
+Tran TV，Shi n EJ ，Dang DK．et
+a1．Gi nsenosi de
+re pro
+t ect s
+agai nst
+phencycl i di ne i nduced behavi oral
+changes
+and mi t ochondri al
+dysf unct i on vi a i nt eract i ve modul a
+t i on
+of
+gl ut at hi one peroxi dase
+1 and NADPH oxi dase
+i n t he dorsol at eral
+cort ex of
+mi ceEJ ] ．Food ChemToxi —
+col ，2017，110：300 315．
+Li
+J ，I ．i u
+Y，I 。i
+W，et
+a1．Met abol i c
+prof i l i ng
+of
+t he
+ef f ect s
+of
+gi nsenosi de
+Re
+i n
+an
+al zhei mer
+S
+di sease
+mouse model [ J ] ．Behav
+Brai n Res，2018，30( 337) ：
+160 172．
+Yi n J ，Zhao X，Wang
+I 。，et
+a1．Sevof l urane i nduced i n
+f l ammat i on devel opment ：i nvol vement
+of
+chol i nergi c
+·
+521
+·
+急性大动脉闭塞型脑梗死的临床疗效[ J ] ．巾两医结合
+心脑血管病杂志，2019，17( 16) ：2546- 2549．
+[ 4] 张亦岐，张静，曲桂艳，等．介入治疗与药物治疗在对脑
+梗死患者凝血纤溶功能的影响及疗效比较[ J ] ．血栓
+与止m学，201 7，23( 1) ：1l
+5 11 7．
+[ 5] 邓鹏琶，李递通．脑血管介入治疗与血浆高同型半胱氨
+酸血症的相关性研究[ J ] ．中西医结合心脑血管病杂
+志，2017，l 5( 6) ：738 740．
+[ 6] 封灏，谭华桥，方淳，等．早期m管内介入治疗进展性脑
+卒中15例[ J ] ．介入放射学杂志，2018，27( 8) ：765—769．
+[ 7] 何晓斌，潘文，刘毅，等．急性缺血性脑卒中介入治疗体
+会[ J ] ．贵州医药，2014，38( 10) ：906
+907．
+[ 8] 刘乃瑞．急性心肌梗死介入治疗后急性脑梗死发生情
+况及危险凶素分析[ J ] ．中国实用神经疾病杂志，2019，
+22( 5) ：491- 497．
+[ 9] 李力，段同礼，赵瑞，等．颅内未破裂动脉瘤介入治疗术
+后神经系统并发症的危险冈素分析[ J ] ．第二军医大学
+学报，2018，39( 3) ：238- 244．
+[ 10]
+廖建宁，吴州f ■ ，叶汉根，等．经桡动脉导管反折技术
+完成颈部动脉血管造影及介入治疗的町行性分析
+[ J ] ．巾国循环杂志，2019，34( 5) ：472 476．
+[ 8]
+[ 9]
+ant i
+i nf l ammat ory
+pat hway
+2019，30( 8) ：730- 737．
+( 收稿日期：2020 04 29)
+Cut
+RS，Wang K，Wang ZI ．．Sevof l urane anest hesi a
+al
+t ers
+cogni t i ve f unct i on
+by act i vat i ng i nf l ammat i on and
+cel l
+deat h
+i n rat s[ J ] ．Exp Ther
+Med，20l 8，15( 5) ：
+41 27
+4130．
+Lee GH，I 。ee WJ ，Hur J ，et a1．Gi nsenosi de
+re mi t i gat es
+6——hydroxydopami ne——i nduced
+oxi dat i ve
+st ress
+t hrough
+upregul at i on
+of
+GPX, I [ J ] ．Mol ecul es，2020，25
+( ] ) ．E] 88
+[ 10]
+I 。i u
+M．Bal i
+X，Yu S，et
+a1．Gi nsenosi de
+re
+i nhi bi t s
+[ 11]
+[ 12]
+R( ) S／ASK～1
+dependent
+mi t ochondri al
+apopt osi s pat h
+way and act i vat i on of
+Nrf 2 Ant i oxi dant response i n be
+t a amyl oi d—chal l enged sH SYSY cei l s[ J ] ．Mol ecul es，
+201 9，24( 1 5) ：E2687．
+Bi
+C，( ：ai
+Q，Shan Y，et a1．Sevof l urane i nduces neuro
+t oxi ci t y i n t he devel opi ng
+rat
+hi ppocampus
+by
+upregu
+l at i ng connexi n, i 3 vi a t he J NK／e J un／AP l
+pat hway
+[ J ] ．Bi omed Pharmacot her，2018，108：1469
+1476．
+I ．i u J ，Yang J ，Xu Y，et a1．Roscovi t i ne．a CDK5 i nhi hi —
+t ot ，al l evi at es sevof l urane i nduced cogni t i ve dysf unct i on
+vi a
+regul at i on
+Tau／GSK3』3
+and ERK／PPAR7／CREB
+si gnal i ng[ J ] ．Cel l
+Physi ol
+Bi ochem，201 7，44( 2) ：
+423—435．
+( 收稿日期：2020 05 15)
+万方数据

@@ -1,0 +1,395 @@
+·
+89 8 · 
+2008 年 9 月 第 24 卷 第 9 期
+Clinical Med icine of China ，September 20 
+：
+ 
+，
+ 
+：
+ 
+人参 皂甙 Rgl 对 帕金森病小 鼠神经 
+保护作用初探 
+刘江
+李冉
+李磊 
+张宇新
+张作风 
+【摘要】 
+目的
+研究人参皂甙 Rgl 在对帕金森病( PD) 黑质多巴胺能神经元凋亡的可能机制及其神经 
+保 护作用。方法
+采 用神 经毒 素 1．甲基 4．苯基．1，2 ，3，6-四氢吡啶 ( MPTP) 制备 PD 小鼠模型 ，免疫组 织化 学 
+法与蛋 白印迹法观 察各组小鼠 黑质酪氨 酸羟 化酶 ( TH) 和促 凋 亡基 因 Caspase一3 表达 变化 ；原位 末端标记 法 
+( TUNEL ) 观 察黑质细胞凋 亡数 量变化。结果
+人 参皂甙 Rgl 干预 组黑质 TH 阳性神 经元 细胞丢 失明显减轻 
+( 31％ vs．55％ ) ( P < 0 01) ．Caspase．3 表达水 平明显下降 ，黑质神 经元 TUNE L 阳性细 胞数量 显著减 少。结 
+论
+人参皂甙 Rgl 对 MPTP 诱 导 的 帕金 森 病 小 鼠黑 质 多 巴胺 能神 经 元 凋亡 具 有一 定 的神 经保 护作 用； 
+Caspase．3 表达 降低 可能是人参皂甙 Rgl 抗凋亡 的重要机制 。 
+【关键词】 
+帕金森病 ； 人参皂甙 Rgl ； 
+细胞凋亡；
+ 
+多巴胺 
+【中图分类号】 
+R 741 
+【文献标识码】 
+A 
+【文章编号】 
+1008-6315(2008)09-0898-04 
+T he pr otecti v e eff ect of G insenosi de R g l on ner ves i n the mi ce mod el of  P ark inson。S disease．
+H U J ia ng lL I 
+Ran，LI Lei ，ZHANG Yu．xin ，ZHANG Z uo-r eng．Department of Anatomy ，Nort h China  Coal Medical College ( Tangs‘ 
+han 063000 ，China ) 
+【Abstract 】 
+Obj ective To investigate possible mechanism of Ginsenoside Rgl on dopaminergic nigral neu· 
+l'OnS apoptosis of Parkinson S disease ( PD ) an d its protective effect．Methods 
+C57BL／6N mice were administrated 
+with 1-Methy-4一phenyl一1 ，2 ，3 ，6-tetrahydropyfi —dine ( MPTP ) to produce chronic PD model ，PD mice were observed 
+in  beh avi or al c h anges ．T he express ion l evel s of  c asp ase．3 an d T H  i n ventral  m ld brain w ere stud ied w ith i mmu noh isto— 
+c h emistry an d W ester n b lotti ng ．A pop totic c ell nu mbers were d eter min ed b y T dT ．m ed iated dU T P ．bi oti n n ic k en d la． 
+beling( TUNEL ) ．R esults 
+In group treated with Ginsenoside Rgl ，the number of TH —positive neurons in SN was on— 
+ly decreased by 31％ as compared with the control gr oup(55％ ) ( P < 0．0 1) ，the expression of caspase·3 was appar- 
+ently decreased an d major expressed in the cytosol of nigral neurons and TUNEL positive cells in SN decreased( P < 
+0 ．0 1 ) ．C oncl usion 
+11he neuroprotective effect of G insenoside R gl on dopami nergic nigr al  neurons a poptosis of the 
+mi c e mod el of P ar kin son S di sease in du ced by M P T P  is s ignifi can t，D ec reased expres sion of C a spas e-3 may b e th e 
+major mechanism of Ginsenoside Rgl for an tiapoptosis．
+ 
+【K ey words】 Parkinson’ s disease； 
+Ginsenoside Rgl ；
+ 
+Apoptosis； Dopamine 
+帕金森病是一种常见的中老年人神经系统变性 
+疾病 ，在 60 岁以上人群 中患病率 高达 1000／10 万 。 
+临床上表现为静止性震颤、肌强直 、运 动迟缓和姿势 
+不稳等 ，目前 帕金森病 的发病 机制仍不清楚。有研 
+究认为 ，MPTP 可通过激活凋亡途径参与 MPT P 致帕 
+金森病小鼠黑质多 巴胺能神经元 丢失过程 ] ，而细 
+胞凋亡可能是帕金森病多巴胺神经元死亡的共 同通 
+路 
+。人参皂甙 Rgl 作为 中药人参 的有效成分 ，其 
+生物活性广泛 ，国内外学者曾对其进行 了多方 面、系 
+统的药理学研究 
+，发现其 具有抗衰老、抗 氧化 、抗 
+凋亡、抗肿瘤以及调节中枢神经系统等多种药理作 
+用 。本研 究采用 1．甲基 4一苯基．1 ，2 ，3 ，6．四氢 吡啶 
+( MPTP) 制备 帕金森病小 鼠模型 ，通过采用免疫组织 
+研室 
+作者单位 ：063000 河北 省唐 山市，华北煤炭 医学 院基 础部 解剖 教 
+·
+论 著
+· 
+化学法、蛋 白印迹法结合图像分析 ，研究 中脑黑质磷 
+酸化 Caspase一3 蛋白、TH 的表达 ，观察 多巴胺能神经 
+元数量及病理变化 ，结合 TUNEL 法检测 中脑黑质神 
+经细胞凋亡情况 ，并观察给予人 参皂甙 Rgl 后 对上 
+述指标的影响 ，以探讨人参皂甙 Rgl 在 MPTP 诱导 的 
+黑质神经元凋亡 中的可能作用 ，并试 图从 凋亡相关 
+基因的分子水平对其 机制进行 深入研究 ；初步探讨 
+人参皂甙 Rgl 能否阻断凋亡通路 的激活从 而发挥神 
+经保护作用 ，为今后 制定有效 的帕金森病 防治策略 
+提供线索。 
+1
+材料与方法 
+1．1
+材料 
+1．1．1
+主要试剂
+MPTP( Sigma ，USA ) ，小 鼠 TH 单 
+克隆抗体( Chemicon，USA ) ，兔 Caspase．3 多克隆抗体 
+( Santa Cruz ，USA ) ，人参皂甙 Rgl ( 吉林大学基础 医 
+学院化学教研 中心提供 ，纯度 > 98％ ) ，TUNEL 试剂 
+2008 年 9 月第 24 耨 第 9 期
+Clinical Medicine of China 
+盒( 美国 IBM 公 司) 。 
+1．1．2
+实验动物
+健康雄性 C57BL／6N 小鼠 45 只 
+( 购于北京维通利华实验动物技术有限公司 [ SCX X 
+( 京 )20024)003 ] ，6 ～8 周龄 ，体质量 l8 ～23 g，清洁 
+级 ( SPF ) ，自由进食饮 水 ，室 温 ( 25 ± 2 cC ) ，单 笼喂 
+养 ，自然光照 ，饲养 1 周后进行实验。 
+1．2
+方 法 
+1．2．1
+实验动物分组和 MPTP 小鼠帕金森病模型制 
+备
+取 C57BL／6N 小鼠 45 只随机分成模型组 、预 防 
+组和对 照组 ，每组 各 l5 只。① 模 型组 ( 帕金森 病 
+组 ) ：腹腔注射 MPTP( 30 mg／kg ，盐水溶 ) ，1 次／d，连 
+续 5 d 4 ；②预 防组( 人参皂甙 Rgl 组 ) ：MPTP 注射 
+前 3 d 腹腔注射人参皂甙 Rgl ，1 次／d，连续 3d，随后 
+在每 日注射 MPTP 前 2 ～3 h 注射 1 次 Rgl ，连 续 5 
+dl5 ；③ 对 照组 ：腹 腔注 射 与模 型组 等 体 积 盐 水 ， 
+1 次／d，连续 5 d。各组动物单笼饲养 ，正常饮食 。于 
+每次注射药物后观察小 鼠行 为变 化 ，以判断 帕金森 
+病鼠模型的建立情况。 
+1．2．2
+标本采集
+动物分别于末次注射后 24 h 和7 
+d 以 20％乌拉坦麻醉 ，经左心室生理盐水灌洗后 ，再 
+行 4％多聚甲醛磷酸盐缓冲液灌注固定 ，迅速开颅取 
+脑 ，4％多聚 甲醛 后 固定 48 h ( 4 oC ) ，石 蜡包 埋、切 
+片。MPTP 末次注射后 24 h 所取 的标本用于判定是 
+否人参皂 甙 Rgl 参 与调控 Caspase一3 表达 ；MPTP 最 
+后一次注射后 7 d 所取 的标本用 于判定 帕金森病模 
+型是否复制成功 J 。 
+1．2．3
+免疫组化检测 
+脑组织切 片常规脱 蜡至水 
+后 ，用 TBST ( pH 为 7．4 ± 0．2) 洗涤 ，每次 3 ra in；组织 
+抗原行水浴法热修复 ；3％过氧化氢阻断内源过氧化 
+物酶，TBST 洗涤 ；用正 常非免疫动 物血清室 温孵 育 
+10 min；同一组织相邻切片分别加入小 鼠 TH 单克隆 
+抗体 ( 1：400 ) 、兔 Caspase一3 抗体 ( 1：100 ) ，4 oC 过 
+夜 ；TBST 洗涤后 ，加人 生物素标记第 二抗体 室温孵 
+育 20 min；TBST 洗 涤，加入链霉素抗 生物素蛋 白一过 
+氧化酶室温孵 育 20 ra in，DAB 显 色，中性树胶 封固， 
+光镜下观察照相。用多 巴胺能神经元特异性标志酶 
+酪氨酸羟化酶 ( T H) 判 定模 型小 鼠黑质 区多 巴胺 能 
+神经元变化 ；用促凋亡基 因蛋 白 Caspase一3 观察人参 
+皂甙 Rgl 对模型小 鼠黑质区多 巴胺能神经元凋亡的 
+影 响。选定黑质所在 区域 ，采用 CMIAS 医学 图像 免 
+疫组化 自动分析系统进行该区域细胞计数 。 
+1．2．4 
+TUNE L 染色检测凋亡 细胞
+石蜡切 片人二 
+甲苯 脱 蜡 ，梯 度 酒精 水 化 ，蛋 白酶 K ( 20 mg／L in 
+l OmM Tfi s／HC1，pH 为 7．4 ～8．0 ) 37 cC 下孵 育 30 
+min，擦去多余 水分 ，每张切 片加 50 
+l 新 鲜配制 的 
+TUNEL 反应液 ( TDT 酶 和核 昔酸标记 液按 1：9 混 
+合) 和碱性磷 酸酶抗体 ，阴性对照只加等量核苷酸反 
+应液 ，不含酶 ，其余均相 同，37 cC 孵育 1 h，DAB 溶液 
+显色 l0 ～15 ra in，中性树胶封片 。阳性者细胞核 着 
+·
+89 9 · 
+棕褐色 。 
+1．2．5 
+Western blot 检测 Caspase一3 蛋 白表达水平 
+将小 鼠麻醉后取脑 ，分离 中脑 黑质加 入细胞裂解液 
+低温制成匀浆液 ，4 cC震荡 30 min 后 ，1 2000 r／ra in 4 
+cC 离心 15 min，上清液在 一80 cC保存 ，用 Bradford 法 
+测定裂解液 中总蛋 白质 的含 量；蛋 白定量后加 入 4 
+倍体积样本缓冲液 ，95 cC变性 5 ra in。取 20 
+g 样品 
+在 100 g／L 十二烷基硫 酸钠 聚丙烯酰胺凝胶上 电泳 
+完 ，电转至硝 酸纤 维素膜 ，依 分子质 量大小 切取 条 
+带 ，取相应条带分别加入 Caspase一3 多抗 ( 1：400 ) 和 
+TH 单抗 ( 1：1000) ，4 cC 过夜 ，TBST 冲洗后 ，分别 与 
+生物素标记 的羊抗 
+小 鼠 IgG 抗 血清( 1：200 ) 室 
+温震荡孵育 2 h，TBST 洗涤后 ，与卵 白素一辣根 过氧 
+化物酶复合物室温下孵育 0．5 h，DAB 显色。将特异 
+性蛋 白条带用扫描仪扫 描 ，在 同一条件应 用 CMIAS 
+真彩医学图像分析系统测定条带平均灰度值 。
+ 
+1．3
+统计学分析
+选定黑质所在 区域 ，采用 CMIAS 
+真彩色医学图像免疫组化 自动分析系统进行 阳性细 
+胞计数 。各组 每只动物的 3 张脑 片数值相加后取平 
+均值 ，实验结果以 
+± s 表示 ，使用 SPSS 11．0 统计软 
+件进行统计学处 理。采用单 因素方差分析 。P <0．
+ 
+05 为差异 有统计学 意义 。Western blot 数据统 计分 
+析方法 同上 。 
+2
+结 果 
+2．1 
+帕金森病模型小 鼠行为学 变化 
+对照组未 出 
+现任何行为学变化 ；模型组小 鼠于 MPTP 首次注射 
+20 min 后 ，均 出现不 同程 度 的震 颤 、竖毛 、弓背 、翘 
+尾 、活动减少 、动作变慢等症状 ，四肢肌 张力增高 ，协 
+调性 差 ，并伴有烦躁 、呼吸急促 等精神症状 ；预防组 
+与模型组比较上述行为学症状 明显减轻 。 
+2．2
+黑质 区多 巴胺能神经元数量 变化观察结果 
+对照组黑质致密部可见大量 TH 阳性细胞 ，胞浆着色 
+棕黄 ，可见轴突排列整齐 ，呈条带状 ；与对照组相 比，
+ 
+模型组 TH 阳性细胞 的数 目减少约 55％ ，见表 1 ；胞 
+浆着色较浅 。Rgl 预防组 ，TH 阳性 神经元 的缺失较 
+模型组 明显为轻 ，较对照组减少约 3l ％ ，经 图像分析 
+模型组与对照组 比较差异有统计学意义 ( P < 0．05 ) ，
+ 
+见 表 1。 
+2．3 
+Caspase一3 免疫组化染色检测结果
+对照组黑 
+质致密部偶见 Caspase一3 免疫反应 阳性细胞表 达，胞 
+浆着色浅淡 。模型组与对照组相 比，Caspase一3 表达 
+增强 ，镜下可见其黑质致密部散在分布大量 Caspase一 
+3 阳性 细胞 ，胞浆呈 棕黄 色。Rgl 预 防组 Caspase一3 
+表达较模型组减弱 ，镜下可见胞浆着 色浅 。经图像 
+分析模 型组 与对照组 比较差异有统计 学意义 ( P < 
+0．05 ) ，见表 1。 
+2．4
+细胞凋亡检测结果
+TUNEL 染色 阳性细胞胞 
+核呈棕褐色 ，单个散在分布 ，体积大 ，有 的呈 圆形、深 
+染 ，有的呈不规则形 ，染色不均匀。模型组 与对照组 
+中国综合临床 20o8 年 9 月第 24 卷第 9 期
+Cli ni cal Medicine of China，September 200 8 ，V 01．24 ，No．9 
+相 比黑质致密带 TUNEL 染 色阳性率显著升 高( P < 
+0．05) ；Rgl 预防组 TUNEL 染色阳性率则较模型组明 
+显降低 。经图像分析模 型组与对照组 比较差异有统 
+计学意义( P < 0．05 ) ，见表 1。 
+表 1 
+Caspase一3 TH 和 TNUE L 各组 阳性细胞数量分析 ( ；±s) 
+组别 
+对 照组 
+模型组 
+预防组 
+只数 
+Caspase一3 
+T H 
+T NUEL 
+15 
+9 ．4 5 ± 1．1 3 
+15 9 ．9 6 ± 1 4 ．6 0  
+2 ．0 5 ± 1．0 8 
+15 
+50 ．86 ± 5．86 
+72 ．73 ± l 3．36 
+20 ．63 ± 2．82 
+l 5 
+l 6 ．0 5 ± 2 ．6 0 
+▲
+l l 1
+． 14 ± l 2 ．9 6 
+▲ l 1
+． 34 ± 3．4 5 
+▲ 
+注：与对照组 比较 ，
+ P <0，05；与模 型组 比较 ，
+ 
+P <0．05 
+2．5 
+Caspase-3 蛋 白印迹法检测结果
+分别用 3 组 
+小鼠新鲜脑组织全细胞裂解液测定 目的蛋 白表达水 
+平 ，在 预 染 蛋 白标 准 约 Marker 32 000 处 ，可 见 
+Caspase一3 特异性蛋 白条 带。灰度分析发现 ，对照组 
+仅有 微 量 Caspase一3 表 达 ( 6．03 ± 0．68 ) ；模 型 组 
+Caspase一3 蛋 白条带灰度 ( 30．81 ± 2．06 ) 均为 3 组 中 
+最高 ，与对照组 比较差异有统计学意义 ( P < 0．05 ) ；
+ 
+Rgl 预防组 ( 1 1．54 ± 3．12 ) 与模 型组相 比，Caspase一3 
+的表达量显著下降，差异有统计学意义( P <0．05) 。 
+3
+讨 论 
+帕金森病是 一种 以静止性震颤 、运动 迟缓和姿 
+势步态异常等为 主要 临床表 现 ，以中脑黑质致密部 
+多巴胺能神经元变性丢失为主要神经病理学特征 的 
+神经系统退变性疾病 。本研究复制 的帕金森病模型 
+具有典型的行 为学表现 ：实验结果显 示中脑黑质致 
+密部 TH 免疫阳性细胞明显减少 ，中脑黑质 TH 蛋 白 
+表达下降 ，这提示本 实验 动物 中脑黑质存 在多 巴胺 
+能神经元大量丢 失。上述结果说 明 ，本实 验采用 的 
+动物模型符合实验要求 
+。 
+近几年来 ，对 帕金森病发病机 制的研究 飞速发 
+展 ，随着细胞凋亡研究 的深入 ，对帕金森病患者的实 
+验研究发现了黑质 神经元 的凋 亡_8] ，进一 步支 持细 
+胞凋亡与帕金森病发病机制的相关性。用嗜黑质多 
+巴胺能神经毒素 MPTP 制备 的帕金森病 鼠模型已广 
+泛用于帕金森病发病机制和治疗方法 的研究 ] 。本 
+研究应用 TH 免疫组化染色法及 TUNEL 法检测显示 
+30 mg／kg MPTP ，连续 5 d 可诱发 C57BL 小 鼠黑质神 
+经元凋亡。模 型 组黑 质致 密带 多 巴胺 能神经 元减 
+少 ，凋亡细胞增多 ，经人参皂 甙 Rgl 预处 理后 ，多 巴 
+胺能神经元脱 失现 象减 少 ，凋亡 细胞也 明显减 少。 
+以上的研究结果提示 ，人参皂甙 Rgl 在 阻断 MPT P 诱 
+导的黑质神经元凋亡的过程中发挥了其抗细胞凋亡 
+作用 的。 
+人参皂 甙 Rgl 属原人参 三醇类 物质，以往 的研 
+究发现人参皂甙 Rgl 可以明显保护大 鼠皮质神经细 
+胞使 DNA 免于 断裂 ，具有抗 凋亡作用 
+。本 实验 
+中，Caspase一3 免疫组化结果显示 ，Rgl 预防组小鼠黑 
+质致密部免疫反应阳性多 巴胺能神经元数 目较模型 
+组明显减少 ，并可显著改善帕金森病小鼠运动障碍 ，
+ 
+提示人参皂甙 Rgl 具有保护黑质 多巴胺神经元 的作 
+用。TUNEL 染色结果进一 步显示 ，经人参 皂甙 Rgl 
+预处理后 ，TUNEL 阳性细胞 比例较模 型组明显下降 ，
+ 
+同时 TH 阳性神 经元 脱失 现象减少 ，提示人 参皂甙 
+Rgl 在阻断 MPTP 诱导的黑质神经元 凋亡 的过程 中，
+ 
+可能是通过增加 Caspase一3 表 达发挥其抗 细胞凋亡 
+作用 ，使黑质多 巴胺神经元在很 大程度上免于凋亡 
+发 生 。 
+由于帕金森 的发病是 多种致病 因素 ，如遗传 因 
+素、环境 因素 、年龄因素等共 同作用 的结果 ，其病 因 
+和发病机制尚不完全清楚。 目前无一种理想的药物 
+和治疗方法 能有效地减缓 、阻止甚至逆转帕金森 患 
+者中脑黑质神经 元的退行变性过程 。因此 ，寻找一 
+种确实有效 的抗帕金森病的药物具有重要 的临床意 
+义。人参皂甙 Rgl 是人参单体成分 之一 ，有多种生 
+物活性 ，但其对神经细胞凋亡保护作用的研究较少。 
+本研究结果表明 ，MPTP 诱导黑质神经元 凋亡与增加 
+促凋亡蛋白 Caspase一3 表达有关 ，而人参皂甙 Rgl 的 
+保护作用则是通过逆转神经元 中凋亡调控蛋 白的异 
+常表达来实现 的。 
+参考文献 ：
+ 
+[ 1]
+师亮 ，张宇新 ，张作风 ，等．环 氧合酶_2 参 与 MPTP 致 帕金 森病 
+小 鼠黑质细 胞 的凋 亡 [ J ] ．中国 临 床康 复 ，2006，10 ( 2 ) ：108。 
+l l 0 ．
+ 
+[ 2] 
+Chen S ，Zhang X ，Yang D，et a1．D2／D3 receptor agonist ropinirole 
+protec ts dopa minerg ic ce ll line aga inst rotenone—induced a poptosi s 
+through inhibition of caspase—and J NK—dependent pathways[ J ] ．
+ 
+Febs Lett，2008 ，582 ( 5 ) ：603 -610 ．
+ 
+[ 3]
+L in W M，Zhang YM ，Moldzio R ，et a1．Ginsenoside rd attenuates 
+neuroinflammation of dopaminergic cells in culture [ J ] ．J Neural 
+T ransm Suppl ，2007 ，(72 ) ：105一l 12 ．
+ 
+[ 4] 
+Watanabe Y ，Kato H，Araki T ，et a1．Protective action of neuronal ni— 
+tfi c oxide  syn th ase inhibitor in the M PT P mouse  model of  Pa rkinson 
+S disease[ J ] ．Metab Brain Dis，2008 ，23( 1) ：51-6 9．
+ 
+[ 5]
+Chen X C ，Zhou YC ，Chen Y ，et a1．Ginsenoside Rgl reduces MPTP． 
+induc ed sub st anfi a nig ra ne uro n l oss by suppres sing ox idati ve stress 
+[ J ] ．Acta Pharmacol Sin，2005 ，26( 1) ：56-62．
+ 
+[ 6]
+Xia X G，Haring T ，Weller M，et a1．Gene transfer of the J NK interac— 
+t ing pro tein—l prote ct s dopa mine rg ic ne urons in the  M PT P model of 
+parkinson S disease[ J ] ．Proc Nat1 Acad Sci ，2001，98( 18) ：10433． 
+10 4 3 8 ．
+ 
+[ 7] 
+Smeyne RJ ，J ackson—Lewis V．The MPTP mod el of parkinson sdis— 
+ease[ J ] ．Brain R es Mol Brain R es，2005 ，134( 1) ：57-6 6．
+ 
+[ 8] 
+Singh S ，Dikshit M．A poptotic neuronal death in parkinson s dis— 
+ease：involvement of nitric oxide[ J ] ．Brain Res Rev，2007 ，54( 2) ：
+ 
+2 3 3 -2 50 ．
+ 
+[ 9] 
+Jankowski M．T he role of J NK pathway in familial Parkinson s dis． 
+ease[ J ] ．Postepy Biochem，2007 ，53( 3) ：297—303．
+ 
+[ 10] 陈晓春 ，周宜灿 ，陈 澄 ，等．人参皂 甙 Rgl 保护 多 巴胺 能神 经元 
+的实验研究[ J ] ．医学研究通讯 ，2005，34( 6) ：28．
+ 
+[ 收稿 ：2008-05-26] 
+( 本文 编辑
+张印朋) 

@@ -1,0 +1,424 @@
+综述与讲座
+人参皂苷抗结直肠癌作用机制的研究进展
+王领， 倪敏， 江滨
+基金项目: 南京市人社局“六大人才高峰”基金( WSN-201)
+作者单位: 210029
+江苏
+南京，南京中医药大学( 王领) ; 210022
+江苏
+南京，南京中医药大学附属南京中医院
+肛肠外科( 倪敏，江滨)
+第一作者: 王领，男，硕士研究生在读，研究方向: 中西医结合肛肠外科，Email: 876765294@ qq．com
+通信作者: 江滨，男，医学博士，教授，主任医师，博士生导师，研究方向: 结直肠肿瘤的微创外科治疗，Email: jbfirsth@
+aliyun．com
+【摘要】 人参皂苷作为人参的主要活性成分，具有诱导肿瘤细胞调亡、抑制肿瘤细胞增殖、诱导细
+胞周期停滞、抑制肿瘤血管生成、免疫调节、化疗增效、抗炎以及调节肠道菌群等作用。现如今，人参皂
+苷对结直肠癌的作用已成为研究的热点。文章就人参皂苷抗结直肠癌的作用机制进行综述。
+【关键词】 人参皂苷;
+结直肠癌;
+作用机制
+doi: 10．3969/j．issn．1674－4136．2019．05．016
+文章编号: 1674－4136( 2019) 05－0370－04
+Progress in the mechanism of ginsenoside on anti-colorectal cancer
+WANG Ling1，NI Min2，JIANG Bin2．
+( 1．Nanjing University of TCM，Nanjing 210029，China; 2．Nanjing Hospital of Traditional Chinese Medicine Af-
+filiated to Nanjing University of TCM，Nanjing 210022，China)
+Corresponding author: JIANG Bin，Email: jbfirsth@ aliyun．com
+【Abstract】 Ginsenoside，as the main active component of Panax ginseng，has the functions of inducing
+tumor cell apoptosis and cell cycle arrest，inhibiting tumor cell proliferationand angiogenesis as well as immune
+regulation aiming at improving the efficacy of chemotherapy drugs，anti-inflammation and regulating intestinal
+flora． Nowadays，the effect of ginsenoside on anti-colorectal cancer has become a research hotspot． The mecha-
+nism of ginsenoside on anti-colorectal cancer will be reviewed in this article．
+【Key words】
+Ginsenoside;
+Colorectal cancer;
+Mechanism
+结直肠癌是消化道常见恶性肿瘤之一，已成为
+癌症致 死 的 第 三 大 主 要 原 因，且 发 病 率 逐 年 升
+高
+［1］。目前对于结直肠癌的治疗主要是以外科手
+术及传统放化疗为主的综合治疗
+［2］，但其不良反应
+多，恢复时间长，有一定的局限性，因此需要寻求预
+防或治疗结直肠癌的新方法。
+中药在我国有得天独厚的优势，中药联合手术
+及化疗在临床治疗结直肠癌中显示出一定的疗
+效
+［3］。人参皂苷作为人参的主要活性成分，有着广
+泛的药理作用。研究显示人参皂苷主要可分为达
+玛烷型和齐墩果酸型
+［4］，而达玛烷型人参皂苷作为
+人参皂苷的主要抗癌活性成分，可分为原人参二醇
+型和原人参三醇型皂苷。原人参二醇型皂苷包括
+Ｒb1、Ｒb2、Ｒb3、Ｒc、Ｒd、Ｒg3、Ｒh2 等; 原人参三醇型
+皂苷有 Ｒg1、Ｒh1 等
+［5］。本文将对人参皂苷抗结直
+肠癌的作用机制做一综述。
+1
+诱导肿瘤细胞周期停滞及细胞凋亡
+细胞凋亡在生物体发育和组织稳态中起重要作
+用。然而，在病理条件下，尤其是在肿瘤中，细胞丧失
+了凋亡的能力
+［6］，因此诱导肿瘤细胞凋亡可有效地抑
+制结直肠癌的发展。Liu 等
+［7］研究了人参皂苷 Ｒh2
+对耐药结直肠癌细胞周期及凋亡相关分子表达的影
+响，发现一定浓度的人参皂苷 Ｒh2 可以降低细胞周期
+·370·
+中国肿瘤外科杂志 2019 年 10 月第 11 卷第 5 期
+Chin J Surg Oncol，October 2019，Vol．11，No．5
+蛋白 D1，CDK2，p-Ｒb 及 Bcl-2 的水平，同时还能提
+高耐药结直肠癌细胞系 HCT-8/5-FU 以及 LoVo/5-FU
+中 cleaved-caspase 3 的蛋白质水平，从而预示着人参
+皂苷 Ｒh2 通过调节细胞周期和凋亡相关蛋白而诱导
+细胞周期阻滞和细胞凋亡。Wang 等
+［8］为了探索人参
+皂苷 C-K 抑制肿瘤细胞生长的潜在机制，通过流式细
+胞术测定细胞周期谱并对细胞凋亡进行评估，在低至
+20 μmol/L 的浓度下观察到人参皂苷 C-K 对细胞周
+期分布产生影响，即人参皂苷 C-K 抑制结直肠癌细胞
+中的 G1 期到 S 期的转换。用 50 μmol/L 的人参皂苷
+C-K 处理48 h后，HCT-116 细胞的早期和晚期凋亡细
+胞百分比分别为 39. 9%±2. 5%和 32. 0%±4. 2%，对照
+组分别为 4. 0%±1. 3%和 1. 4%±0. 3%，差异均有统计
+学意义( P＜0. 05) 。人参皂苷 C-K 可诱导肿瘤细胞凋
+亡。此外，Wu 等
+［9］发现人参皂苷 Ｒh4 通过激活结直
+肠癌细胞中的 ＲOS/JNK/p53 途径诱导肿瘤细胞凋亡
+和自噬，提供了 Ｒh4 作为抗癌剂的巨大潜力的基本科
+学依据。
+2
+抑制肿瘤细胞增殖
+正常细胞的生长依赖于生长因子的调节，但肿
+瘤细胞可以在很少甚至完全没有生长因子的条件
+下，保持其持续增殖的能力，大量研究都表明人参
+皂苷可以通过抑制肿瘤细胞的增殖来发挥抗肿瘤
+作用。张龙江等
+［10］研究了人参皂苷 Ｒg1 对结肠癌
+的体外及体内的增殖抑制作用，体外研究通过将不
+同浓度的人参皂苷 Ｒg1 作用于人结肠癌细胞系
+SW480，结果显示浓度为 10 μg /ml 时抑制作用最显
+著，抑制体为 47. 6% ± 2. 2% ( P＜ 0. 05) 。体内以
+Lewis 结 肠 癌 小 鼠 为 模 型，发 现 当 给 药 浓 度 为
+300 mg /kg时，人参皂苷 Ｒg1 对肿瘤抑制率最大，为
+26. 4%±0. 2%( P＜0. 05) 。这提示 Ｒg1 可有效的抑
+制结直肠癌细胞的增殖。Kim 等
+［11］ 对人参皂苷
+Ｒp1( 一种衍生自人参皂苷 Ｒk1 的新型人参皂苷) 抗
+结直肠癌细胞增殖的作用机制进行研究，结果显示
+人参皂苷 Ｒp1 以剂量依赖性方式通过上调载脂蛋
+白 A-1( Apo-A1) 的水平抑制结直肠癌细胞的增殖。
+He 等
+［12］以人参皂苷 Ｒg3 对结肠癌细胞的抗癌活性
+为研究方向，观察到人参皂苷 Ｒg3 在体外以剂量依
+赖性的方式抑制人结肠癌 HCT116 细胞的增殖，抑
+制作用最明显的是在 100 ～ 150 μmol/L 之间。同时
+观察人参皂苷 Ｒg3 对 HCT 116 细胞集落形成的影
+响，发现浓度在 100 μmol/L 时，人参皂苷 Ｒg3 能有
+效地抑制 HCT 116 细胞集落形成。这些结果表明
+人参皂苷 Ｒg3 可有效地抑制人结肠癌细胞的增殖。
+3
+抑制肿瘤新生血管形成
+血管的营养供给与肿瘤的发生发展密不可分，
+它作为肿瘤生长的重要因素之一，参与并影响着肿
+瘤的侵袭和转移
+［13］。新血管的产生为肿瘤提供代
+谢需要，而血管内皮生长因子( VEGF) 是最关键的
+促血管生成生长因子之一，对肿瘤新生血管的形成
+有重要作用
+［14］。曾东香等
+［15］使用人参皂苷 Ｒg3 联
+合 FOLFOX4 方案治疗 35 例晚期结直肠癌患者，通
+过对治疗组( 人参皂苷 Ｒg3 联合 FOLFOX4 方案) 和
+对照组( 单纯 FOLFOX4 方案化疗) 的 VEGF 水平变
+化进行测定，结果显示治疗组的 VEGF 水平下降相
+对于对照组差异有统计学意义，而 VEGF 对新生血
+管形成及肿瘤生长起重要作用，提示人参皂苷 Ｒg3
+可有效地抑制肿瘤新生血管形成。Tang 等
+［16］为了
+研究人参皂苷 Ｒg3 是否也可以影响结直肠癌原位
+异种移植物的血管形成。使用抗 CD34 抗体对组织
+中的内皮细胞进行阳性染色，通过测定微血管密度
+水平，发现人参皂苷 Ｒg3 可以有效抑制肿瘤新生血
+管生成; 同时，通过实时 pCＲ 分析了 41 种血管生成
+相关基因的表达，结果发现 22 种促血管生成基因的
+mＲNA 水平下调，说明人参皂苷 Ｒg3 的抗肿瘤新生
+血管生成的作用可能是通过下调某些血管生成相
+关基因的表达来实现。
+4
+抑制肿瘤细胞侵袭和转移
+恶性肿瘤最重要的特点是其具有局部浸润和
+远处转移的能力，这也是其致死的主要原因
+［17］。
+LTH 等
+［18］通过使用小鼠转移模型，将 HT-29 细胞注
+射到免疫受损小鼠中，观察人参皂苷 Ｒb2 对肿瘤转
+移的影响，结果发现人参皂苷 Ｒb2 明显减少肝、肺
+以及肾中肿瘤转移结节的数量，表明人参皂苷 Ｒb2
+可以有效的抑制结直肠癌细胞的转移。Han 等
+［19］
+的研究表明人参皂苷 20( S) -Ｒh2 降低了癌细胞的
+侵袭活力; 同时，人参皂苷 20( S) -Ｒh2 有效抑制 IL-
+6 诱导的信号转导、转录激活因子 3( STAT3) 磷酸化
+以及基质金属蛋白酶( MMPs) 的表达，包括 MMP-1、
+MMP-2 和 MMP-9，这些影响因子与肿瘤细胞的侵袭
+与转移密切相关。这些研究结果提示人参皂苷 20
+( S) -Ｒh2 抑制结直肠癌细胞的侵袭和转移的作用机
+制与其抑制肿瘤细胞的侵袭活力、调节与结直肠癌
+·371·
+中国肿瘤外科杂志 2019 年 10 月第 11 卷第 5 期
+Chin J Surg Oncol，October 2019，Vol．11，No．5
+的侵袭与转移相关影响因子的表达相关。
+5
+增强机体免疫力
+免疫系统有免疫监督功能，这种功能的降低与
+结直肠癌的发生、发展、复发率以及生存期等都有
+密切联系。张才军等
+［20］研究人参皂苷 Ｒh1 对免疫
+功能降低的小鼠的免疫调节的作用机制，结果发现
+人参皂苷 Ｒh1 增加小鼠的脾及胸腺指数、增强巨噬
+细胞的吞噬功能，促进 T 淋巴细胞增殖等作用，使
+免疫功能低下模型小鼠的免疫功能上调。周英武
+等
+［21］以 BALB /c 小鼠为模型，通过测定 IgG 抗体反
+应、脾细胞增殖和相关细胞因子来观察人参皂苷
+Ｒg1 对小鼠免疫功能的影响，实验结果显示人参皂
+苷 Ｒg1 可提高小鼠的免疫力。
+6
+提高化疗药物的疗效
+肿瘤细胞多次与化疗药物接触之后，对药物的敏
+感性下降甚至消失，产生耐药性。耐药性一旦产生，
+药物的化疗作用就明显下降，导致药物的疗效降低或
+无效。5-氟尿嘧啶( 5-FU) 和奥沙利铂是临床治疗中
+两种广泛使用的一线化疗药物，Tang 等
+［16］首先研究
+5-FU 和奥沙利铂可以抑制结直肠癌异种移植物的生
+长，然而，人参皂苷 Ｒg3 和 5-FU 或 Ｒg3 和奥沙利铂的
+组合将肿瘤的体积降低到更显著的水平。表明 Ｒg3
+联合 5-FU 或奥沙利铂的化疗方案更为有效。吴迪
+等
+［22］研究人参皂苷 Ｒg3 联合 5-FU 化疗对抑制大肠
+癌生长和转移能否起到协同作用，通过对抑瘤率进行
+测定，结果显示 5-FU 及人参皂苷 Ｒg3 联合治疗组的
+抑瘤率为 34. 82%，相较于 5-FU 组 25. 00%的抑瘤率
+来说，人参皂苷 Ｒg3 与 5-FU 联合应用能够明显提高
+抑制效果，即两者的联合作用更加有效。
+7
+抗炎
+在结直肠癌的发展中，慢性炎症已被确定为关
+键的诱发因素
+［23］。结肠的炎症状态可以强烈影响
+结直肠癌的过程
+［24］。Yu 等
+［25］通过使用肠道特异
+性炎症和致癌作用的 Apc
+min/+小鼠模型，结果发现低
+剂量人参皂苷明显降低基因表达炎症细胞因子 IL-
+1α、IL-1β、IL-6、TNF-α、G-CSF 以及来自小肠和结肠
+组织中的 GM-CSF 的水平，说明人参皂苷减少了肠
+道炎症和肿瘤的发生与发展。Yao 等
+［26］使用酶联
+免疫吸附测定法( ELISA) 分析人参皂苷 C-K 对结直
+肠癌细胞系 HT-29 分泌的炎性细胞因子 IL-8 的作
+用，结果人参皂苷 C-K 显著降低了 HT-29 细胞中
+IL-8 的产生，这表明人参皂苷 C-K 可能在预防炎症
+相关结直肠癌中具有潜在的临床价值。
+8
+调节肠道微生物群
+人体肠道微生物至少有 1000 种，这些肠道微生
+物群对于消化食物，控制肠上皮稳态以及肠道发育
+至关重要。最近，已有研究表明肠道微生物群通过
+改变肠道细菌生物膜，微环境稳态和免疫反应促进
+结直肠癌的发展
+［27］。Huang 等
+［28］评估了人参皂苷
+Ｒb3 /Ｒd 对 Apc
+min/+小鼠肠道微生物群和肠道微环境
+的影响，发现人参皂苷 Ｒb3 /Ｒd 下调与结直肠癌发
+展相关的生物标志物( 磷酸化信号转导子和转录激
+活因子 3) 的表达、促进有益细菌的生长以及下调与
+恶病质相关细菌的丰度，这些结果表明人参皂苷
+Ｒb3 /Ｒd 可以通过调节肠道微生物群以及改善肠道
+微生态来发挥抗癌作用。刘艳艳等
+［29］通过研究
+PCＲ-DGGE 技术使饲喂人参总皂苷的小鼠粪便产
+生菌群结构的多样性以及相似性后发现，小鼠肠道
+菌群的结构发生改变，而菌群及其代谢模式与结直
+肠癌的发生与发展密切相关
+［30］，提示人参皂苷可能
+以肠道菌群为靶点发挥抗结直肠癌作用。
+9
+小结与展望
+综上所述，人参皂苷有着显著的抗肿瘤活性，现
+已证明人参皂苷可以通过抑制肿瘤细胞增殖，促进肿
+瘤细胞凋亡，诱导细胞周期停滞，抑制肿瘤血管生成
+以及与化疗药物联合增效等机制达到抗肿瘤的目的，
+而且人参皂苷可以调节机体的免疫力，其通过不同途
+径来激活机体的免疫力，从而增强机体对抗肿瘤的能
+力。但是现阶段人参皂苷通过肠道菌群介导作用于
+结直肠癌的机制尚未明确，是否可以通过肠道菌群在
+早期阶段检测结直肠癌或通过肠道微生物组寻找肿
+瘤生物标记物，甚至通过改善肠道微生态来增强机体
+的免疫力来发挥抗结直肠癌作用等有着广阔的前景，
+需要进一步的研究探索。
+此外，结直肠癌作为一种常见的恶性肿瘤，主
+要以手术及化疗治疗为主，而人参皂苷有着较好的
+抗肿瘤作用，且可以增强化疗的效果，但是人参皂
+苷的临床应用尚处在起步阶段，现只有人参皂苷
+Ｒg3( 参一胶囊) 运用于临床治疗，因此大规模的临
+床试验还有待于进一步的开展，尽管有多种人参皂
+苷复合物
+［31-32］的出现，其中包括人参皂苷药物纳米
+·372·
+中国肿瘤外科杂志 2019 年 10 月第 11 卷第 5 期
+Chin J Surg Oncol，October 2019，Vol．11，No．5
+复合物以及人参皂苷混合胶束等，但是将这些基础
+实验的研究成果转化为临床治疗结直肠癌方法的
+道路仍然很漫长，因此还需要大量的基础以及临床
+研究进一步深入了解人参皂苷的抑癌作用机制，并
+将研究成果转化为可以应用于临床的抗肿瘤药物。
+参考文献:
+［1］
+Siegel ＲL，Miller KD，Jemal A． Cancer Statistics，2017［J］． CA
+Cancer J Clin，2017，67( 1) : 7-30．
+［2］
+徐洪丽，胡俊杰，魏少忠． 结直肠癌精准医疗发展趋势［J］． 中
+国肿瘤外科杂志，2018，10( 5) : 273-277，282．
+［3］
+黄坚，胡可． 结直肠癌患者采用扶正消癌汤联合化疗治疗疗
+效及对其免疫功能、临床症状及生活质量的影响［J］．中华中
+医药学刊，2017，35( 6) : 1617-1620．
+［4］
+Nah SY． Ginseng ginsenoside pharmacology in the nervous system:
+involvement in the regulation of ion channels and receptors［J］．
+Front Physiol，2014，5: 98．
+［5］
+Wang CZ，Yuan CS． Potential role of ginseng in the treatment of
+colorectal cancer［J］． Am J Chin Med，2008，36( 6) : 1019-1028．
+［6］
+Mohammad ＲM，Muqbil I，Lowe L，et al． Broad targeting of re-
+sistance to apoptosis in cancer［J］． Semin Cancer Biol，2015，35
+Suppl: S78-5103．
+［7］
+Liu GW，Liu YH，Jiang GS，et al． The reversal effect of Ginsen-
+oside Ｒh2 on drug resistance in human colorectal carcinoma cells
+and its mechanism［J］． Hum Cell，2018，31( 3) : 189-198．
+［8］
+Wang CZ，Du GJ，Zhang Z，et al． Ginsenoside compound K，not
+Ｒb1，possesses potential chemopreventive activities in human colo-
+rectal cancer［J］． Int J Oncol，2012，40( 6) : 1970-1976．
+［9］
+Wu Q，Deng J，Fan D，et al． Ginsenoside Ｒh4 induces apoptosis
+and autophagic cell death through activation of the ＲOS /JNK/p53
+pathway in colorectal cancer cells［J］． Biochem Pharmacol，2018，
+148: 64-74．
+［10］
+张龙江，周二付． 人参皂苷 Ｒg1 对结肠癌肿瘤体外和体内的
+增殖抑制 作 用［J］． 世 界 华 人 消 化 杂 志，2014，22 ( 30) :
+4599-4603．
+［11］
+Kim MY，Yoo BC，Cho JY． Ginsenoside-Ｒp1-induced apoli-
+poprotein A-1 expression in the LoVo human colon cancer cell
+line［J］． J Ginseng Ｒes，2014，38( 4) : 251-255．
+［12］
+He BC， Gao JL， Luo X， et al． Ginsenoside Ｒg3 inhibits
+colorectal tumor growth through the down-regulation of Wnt/β-
+catenin signaling［J］． Int J Oncol，2011，38( 2) : 437-445．
+［13］
+施凉潘，潘运龙． 结直肠癌血管形成、侵袭和转移的研究进
+展［J］．世界华人消化杂志，2008，16( 1) : 62-67．
+［14］
+Liu T，Duo L，Duan P． Ginsenoside Ｒg3 Sensitizes Colorectal
+Cancer to Ｒadiotherapy through Downregulation of Proliferative
+and Angiogenic Biomarkers［J］． Evid Based Complement Alternat
+Med，2018，2018: 1580427．
+［15］
+曾冬香，凌扬，杨全良，等．中药血管抑制剂人参皂甙 Ｒg3 联
+合 FOLFOX4 方案治疗晚期大肠癌的临床研究［J］．实用临床
+医药杂志，2009，13( 9) : 57-58．
+［16］
+TangYC，Zhang Y，Zhou J，et al． Ginsenoside Ｒg3 targets
+cancer stem cells and tumor angiogenesis to inhibit colorectal
+cancer progression in vivo［J］． Int J Oncol，2018，52 ( 1 ) :
+127-138．
+［17］
+王青． 人参皂苷 Ｒg3 的抗肿瘤作用及其机制研究［J］．黑龙江
+医药，2014，27( 2) : 296-300．
+［18］
+LTH P，Wijaya YT，Sari IN，et al． The anti-metastatic effect of
+ginsenoside Ｒb2
+in
+colorectal
+cancer
+in
+an
+EGFＲ/SOX2-
+dependent manner［J］． Cancer Med，2018，7( 11) : 5621-5631．
+［19］
+Han S，Jeong AJ，Yang H，et al． Ginsenoside 20( S) -Ｒh2 exerts
+anti-cancer activity through targeting IL-6-induced JAK2 /STAT3
+pathway in human colorectal cancer cells［J］． J Ethnopharmacol，
+2016，194 : 83-90．
+［20］
+张才军，郭民，柳波，等． 人参皂苷 Ｒh1 对免疫功能降低小
+鼠的免疫调节作用研究［J］．昆明医学院学报，2009，30( 11) :
+51-54，58．
+［21］
+周英武，彭桂英，葛东宇，等． 人参皂苷 Ｒg1 对 BALB /c 小鼠
+免疫调节作用的实验研究［J］． 中华中医药杂志，2011，26
+( 5) : 1232-1234．
+［22］
+吴迪，邹青峰，马磊，等． 人参皂苷 Ｒg3 联合化疗抑制大肠
+癌生长的实验研究［J］．湖南中医杂志，2008，24( 5) : 96-98．
+［23］
+Lewis B，Lin J，Wu X，et al． Crohn's disease-like reaction pre-
+dicts favorable prognosis in colitis-associated colorectal cancer
+［J］． Inflamm Bowel Dis，2013，19( 10) : 2190-2198．
+［24］
+Brennan CA，Garrett WS． Gut Microbiota，inflammation，and
+colorectal cancer［J］． Annu Ｒev Microbiol，2016，70: 395-411．
+［25］
+Yu C，Wen XD，Zhang Z，et al． American ginseng significantly
+reduced the progression of high-fat-diet-enhanced colon carcino-
+genesis in Apc ( Min /+) mice［J］． J Ginseng Ｒes，2015，39
+( 3) : 230-237．
+［26］
+Yao H，Wan JY，Zeng J，et al． Effects of compound K，an en-
+teric microbiome metabolite of ginseng，in the treatment of in-
+flammation associated colon cancer［J］． Oncol Lett，2018，15
+( 6) : 8339-8348．
+［27］
+Ding C，Tang W，Fan X，et al． Intestinal microbiota: a novel
+perspective in colorectal cancer biotherapeutics［J］． Onco Targets
+Ther，2018，11 : 4797-4810．
+［28］
+Huang G，Khan I，Li X，et al． Ginsenosides Ｒb3 and Ｒd reduce
+polyps formation while reinstate the dysbiotic gut microbiota and
+the intestinal microenvironment in ApcMin/+mice［J］． Sci Ｒep，
+2017，7( 1) : 12552．
+［29］
+刘艳艳，张凯，关家伟，等． 人参皂苷对 BALB /c 小鼠肠道菌
+群的影响［J］．现代生物医学进展，2015，15( 6) : 1041-1045．
+［30］
+Wang T，Cai G，Qiu Y，et al． Structural segregation of gut mi-
+crobiota between colorectal cancer patients and healthy volunteers
+［J］． ISME J，2012，6( 2) : 320-329．
+［31］
+Tao
+C， Zhang
+J， Wang
+J， et
+al．
+Ginsenoside
+Drug
+Nanocomposites Prepared by the Aerosol Solvent Extraction
+System for Enhancing Drug Solubility and Stability［J］． Pharma-
+ceutics，2018，10( 3) ．DOI: 10. 3390/pharmaceutics10030095．
+［32］
+Jin X，Yang Q，Cai N． Preparation of ginsenoside compound-K
+mixed micelles with improved retention and antitumor efficacy
+［J］． Int J Nanomedicine，2018，13 : 3827-3838．
+［收稿日期: 2019-01-07］［本文编辑: 李庆］
+·373·
+中国肿瘤外科杂志 2019 年 10 月第 11 卷第 5 期
+Chin J Surg Oncol，October 2019，Vol．11，No．5

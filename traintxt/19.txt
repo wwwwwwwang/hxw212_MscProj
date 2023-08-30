@@ -1,0 +1,836 @@
+Chinese Journal of New Drugs 2023,32(5)
+531
+　
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+[基金项目]　 吉林省科技厅发展计划资助项目(20210204149YY)
+[作者简介]　 刘芮,女,硕士研究生,研究方向:天然产物活性研究。 联系电话:(0431)86763972,E-mail:1063904814@ qq. com。
+[通讯作者]　 王振洲,男,博士,讲师,研究方向:天然产物活性研究。 联系电话:(0431)86763972,E-mail:32726915@ qq. com。
+·实验研究·
+基于 UPLC-Q-TOF-MS 分析人参皂苷元新衍生物干预
+荷瘤小鼠的血清代谢组学特征
+刘　 芮,徐　 伟,王彩虹,赵　 莹,王振洲
+(长春中医药大学,长春 130117)
+　 　 [摘要]　 目的:采用糖基三氯乙酰亚胺酯法将 D-核糖与拟人参皂苷元 DQ 半合成得到新型人参皂苷,
+对其体内外抗肿瘤活性以及作用机制进行研究,通过血清代谢组学分析其代谢途径及产物。 方法:以 D-核
+糖和拟人参皂苷元 DQ 为原料,通过化学方法合成得到新型人参皂苷衍生物,并对其进行结构鉴定;采用
+MTT 比色法测定其对 S180 细胞、人肺腺癌 SPC-A-1 细胞、A549 细胞的抗肿瘤活性以及对小鼠 S180 肿瘤细
+胞的抑制作用,基于细胞代谢组学分析探究其抗肿瘤作用机制。 结果:首次通过化学方法半合成得到了新的
+奥克梯隆(Ocotillol)型人参皂苷,12-核糖基-拟人参皂苷 DQ(12-riboside-pseudoginsengenin DQ,RPDQ),鉴定
+为(20S, 24S)-12-O-α-D-呋喃核糖基-达玛-20, 24-环氧-3β, 12β, 25-三醇,产率为 38. 6% ,纯度为 99. 1% 。
+MTT 法检测 RPDQ 能够明显抑制 3 种肿瘤细胞的增殖;体内实验证明 RPDQ 对荷瘤小鼠的实体瘤有抑制作
+用,能够改善肿瘤细胞组织形态、降低荷瘤小鼠的脏脾和胸腺指数,延长小鼠的生存天数;代谢组学表明
+RPDQ 通过调控花生四烯酸代谢、甘油磷脂代谢、色氨酸代谢等 7 个代谢途径达到抗肿瘤的作用,通过主成
+分分析(PCA)和正交偏最小方差判别分析(OPLS-DA)筛选鉴定出 16 个生物标记物,并研究出 RPDQ 在小鼠
+体内发挥抗肿瘤作用相关信号途径网络。 结论:RPDQ 的合成为此类人参皂苷衍生物的合成与活性研究提供
+了参考,RPDQ 表现出较好的抗肿瘤活性,为拟人参皂苷的进一步研究与开发提供了理论和数据上的支撑。
+[关键词]　 超高效液相色谱-四级杆-飞行时间串联质谱联用;抗肿瘤;代谢组学;12-核糖基拟人参皂苷
+元 DQ
+[中图分类号] R914. 4　 　 [文献标志码] A　 　 [文章编号] 1003 - 3734(2023)05 - 0531 - 09
+Analysis of serum metabolomics characteristics of new ginsenoside derivatives
+in tumor-bearing mice based on UPLC-Q-TOF-MS technology
+LIU Rui,XU Wei,WANG Cai-hong,ZHAO Ying,WANG Zhen-zhou
+(Changchun University of Chinese Medicine,Changchun 130117,China)
+[Abstract]　 Objective: A new type of ginsenoside was semi-synthesized by D-ribose and ginsenoside DQ
+using glycosyl trichloroacetimide ester method. Its in vivo and in vitro anti-tumor activity and its mechanism of
+action were studied, and the metabolic pathways and products were analyzed by serum metabolomics. Methods:
+Using D-ribose and ginsenoside DQ as raw materials, new ginsenoside derivatives were synthesized by chemical
+methods, and their structures were identified. The effects on S180 cells, human lung adenocarcinoma SPC-A-1
+cells, anti-tumor activity in A549 cells and inhibition to mouse S180 tumor cells were determined by MTT method.
+Its anti-tumor mechanism was explored based on cell metabolomics analysis. Results: For the first time, a new oco-
+tillol-type ginsenoside, 12-riboside-pseudoginsengenin DQ (RPDQ), was semi-synthesized by chemical methods,
+Chinese Journal of New Drugs 2023,32(5)
+532
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+and was identified as ( 20S, 24S)-12-O-α-D-ribofuranosyl-Dama-20, 24-epoxy-3β, 12β, 25-triol, the yield is
+38． 6% , and the purity is 99. 1% . MTT detection of RPDQ can significantly inhibit the proliferation of three kinds
+of tumor cells. In vivo experiments demonstrated that RPDQ inhibited solid tumors in tumor-bearing mice, improved
+the histomorphology of tumor cells, reduced the spleen and thymus indices in tumor-bearing mice and prolonged the
+survival days of mice. Metabolomics results showed that RPDQ exerted its anti-tumor effects by regulating seven
+metabolic pathways, including arachidonic acid metabolism, glycerophospholipid metabolism and tryptophan metabolism.
+Sixteen biomarkers were identified through principal component analysis (PCA) and orthogonal partial least squares
+discriminant analysis (OPLS-DA) screening, and a network of signaling pathways related to the anti-tumor effects
+of RPDQ in mice was investigated. Conclusion: The synthesis of RPDQ provides a reference for the synthesis and
+activity research of such ginsenoside derivatives. RPDQ shows good anti-tumor activity, which provides a theoretical
+basis and data support for the further research and development of pseudoginsengenin.
+[Key words]　 UPLC-Q-TOF-MS; anti-tumor; metabolomics; 12-riboside-pseudoginsengenin DQ
+　 　 人参(Panax ginseng C. A. Mey. )是长白山及小
+兴安岭地区的道地药材,为五加科草本植物,是“百
+草之王”。 人参皂苷是人参的主要活性成分,具有
+抗肿瘤[1]、降血糖[2]、抗心律不齐[3]、培元固本的作
+用。 但是人参皂苷存在低极性、生物利用度低、水溶
+性差等缺点[4],因此对人参皂苷进行结构修饰非常
+必要。 周志文等[5] 阐述了对人参皂苷进行结构修
+饰,不仅能改变其理化性质,还可找出活性更高的化
+合物。 拟人参皂苷元 DQ(PDQ)是一种奥克梯隆型
+人参皂苷,具有抗肿瘤及治疗心肌缺血的作用。 李
+平亚等[6]报道了拟人参皂苷元 PDQ 具有抗失血性
+休克、抗肿瘤的作用。 Atopkina 等[7] 阐述了拟人参
+皂苷元 DQ 对人肺癌 GLC4 细胞有抑制作用。 D-核
+糖是核糖核酸的重要组成物质,药理活性广泛,是重
+要的药物中间体[8];D-核糖在合成抗肿瘤药物方面
+已取得多项临床成果,如吡唑呋喃菌素、间型霉素
+等[9];有研究表明经过修饰后的 D-核糖对降低药物
+不良反应、增加临床疗效具有较强效果[10]。
+目前的人参皂苷都是苷元与葡萄糖、半乳糖、阿
+拉伯糖和半乳糖醛酸等连接成苷,但未见五碳糖相
+连接的人参皂苷,本实验首次以五碳糖为原料成功
+半合成得到新型化合物具有重要意义。 将 D-核糖
+与拟人参皂苷元 DQ 半合成得到的新型人参皂苷,
+对其体内外抗肿瘤活性以及作用机制进行研究,并
+采用 UPLC-Q-TOF-MS 技术结合细胞代谢组学分
+析探究其抗肿瘤作用机制。 D-核糖与 12-核糖基-
+拟人参皂苷 DQ(12-riboside-pseudoginsengenin DQ,
+RPDQ)的结构见图 1。
+图 1　 D-核糖与 RPDQ 的结构式
+材料与方法
+1　 仪器与试剂
+超高效液相色谱仪、Q-TOF MS 质谱仪( 美国
+Waters 公司);涡旋混合器( 上海精科实业有限公
+司);飞鸽超速离心机(上海安亭科学仪器厂);S180
+肿瘤细胞株和 SPC-A-1 肿瘤细胞株(武汉普诺赛生
+命科技有限公司);A549 肿瘤细胞株[ 赛百慷( 上
+海)生物股份有限公司];青霉素和链霉素(美国 So-
+larbio 公司);胎牛血清(浙江天杭生物科技股份有
+限公司);合成实验所用试剂均为市售化学纯或分
+析纯。
+2　 实验方法
+2. 1　 合成
+通过查阅文献[11 - 14]初步确定了实验方法,以二
+氯甲烷为溶剂,首先对 D-核糖上的所有羟基进行保
+护,然后将端基碳上的羟基裸露出来,再利用糖基三
+氯乙酰亚胺脂法进行糖苷化反应,最后将苯甲酰基
+去除,即得到 RPDQ,具体合成技术路线见图 2。
+Chinese Journal of New Drugs 2023,32(5)
+533
+　
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+图 2　 RPDQ 的合成路线
+2. 1. 1　
+中间体 1,2,3,5-四-O-苯甲酰基-α-D-核糖
+的制备　 以 4-二甲氨基为催化剂,将 D-核糖溶于无
+水吡啶,冰水浴下滴加苯甲酰氯, 搅拌 5 h, 加入
+20 mL 甲醇淬灭,减压蒸干得黄色油状物,溶于乙酸
+乙酯,调 pH 至 7,洗涤,干燥,甲醇重结晶即得到产
+物 1。
+2. 1. 2　
+中间体 1-溴-2,3,5-三-O-苯甲酰基-α-D-核
+糖的制备　
+将产物 1 与二氯甲烷混合,加入 92 mL
+33% 的氢溴酸醋酸溶液,反应 8 h 后加入二氯甲烷
+进行稀释,然后将溶液洗涤至中性,有机层溶液显黄
+色,二氯甲烷萃取水溶液,合并有机相,干燥,过滤,
+减压蒸干后得到产物 2。
+2. 1. 3　
+中间体 2,3,5-三-O-苯甲酰基-α-D-核糖的
+制备　 将产物 2 溶于丙酮∶ 水 =24∶ 1的溶液中,加入
+碳酸银搅拌 1 h,过滤,干燥,减压蒸干溶剂,快速色
+谱法纯化得到产物 3。
+2. 1. 4　 中间体糖基三氯乙酰亚胺酯的制备　 在 1,
+8-二氮杂环十一碳-7-烯的催化下,将产物 3 溶于无
+水二氯甲烷,并加入三氯乙腈后搅拌 1 h,减压蒸干,
+柱色谱纯化即得产物 4。
+2. 1. 5　
+RPDQ 的制备　
+将产物 4 与拟人参皂苷元
+DQ 混合后加入二氯甲烷中,加入 4 Å 分子筛,氮气
+保护下搅拌 1 ~ 2 h,加入三氟甲磺酸三甲基硅酯,加
+20 mL 水进行淬灭反应。 减压蒸干后溶于甲醇∶ 四
+氢呋喃∶ 水 = 1∶ 2∶ 1的溶液中,然后加入氢氧化钠搅
+拌,静置过夜后调至 pH = 4。 减压回收溶剂纯化后
+即得。 利用液相外标一点法进行测定,经测定得出
+样品纯度为 99. 1% 。
+2. 2　 MTT 抑制肿瘤细胞实验
+通过查阅文献[15 - 17] 确定选用 S180 细胞、人肺
+腺癌 SPC-A-1 细胞、A549 细胞进行 MTT 抑制肿瘤
+细胞实验, 研究 RPDQ 对肿瘤 细 胞 的 抑 制 作 用。
+PDQ 具有抗肿瘤活性且是 RPDQ 的前体化合物;大
+量文献报道原人参二醇(PPD)可以很好地抑制肿瘤
+细胞生长且是人参皂苷中抗肿瘤活性较强的一种,
+因此选择 PPD 和 PDQ 作为参照对象。
+抗 S180 肿瘤细胞、 抗 SPC-A-1 肿瘤细胞、 抗
+A549 肿瘤细胞:细胞培养于含链霉素、青霉素和
+10% 胎牛血清中的培养基中,收集对数生长期的肿
+瘤细胞,调细胞密度为 1 × 105 个·mL - 1,在 U 型 96
+孔板上接种每孔 100 μL,24 h 后加入不同浓度的受
+试药,每个浓度设置 6 个细胞复孔,并设置对照组及
+无细胞凋零孔,于 37 ℃,5% CO2 细胞培养箱中培
+养。 药物与细胞共同培养 44 h 后弃去孔内药物,以
+MTT 法测定细胞生长。 吸弃旧液,每孔加入无血清
+培养基和 MTT 10 μL,空白组不加 MTT,培育 4 h 后
+弃上清,每孔加入 100 μL 二甲基亚砜(DMSO)振动
+溶解,待紫色结晶完全溶解后测定 490 nm 处的吸光
+度(A)值。
+2. 3　 体内抗肿瘤作用实验[18]
+皮下移植肿瘤模型:对小鼠进行皮下注射稀释
+好的 S180 小鼠肿瘤细胞,建立 S180 荷瘤模型,将接
+种的小鼠随机分为 5 组,每组 10 只,分别为模型对
+照组、阳性药组、给药组(9 mg·kg - 1 RPDQ 低剂量
+组、18 mg·kg - 1 RPDQ 中剂量组、36 mg·kg - 1 RPDQ
+高剂量组)。 自 d 3 起对小鼠口服受试药物,模型对
+Chinese Journal of New Drugs 2023,32(5)
+534
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+照组口服相同剂量的生理盐水,每日 1 次,环磷酰胺
+20 mg·kg - 1隔 1 日 1 次。 连续给药 10 d 后对小鼠进
+行处死。 解剖小鼠取瘤块,脾及胸腺,称瘤重。
+腹水肿瘤模型:将 ICR 小鼠腹腔内注入 S180
+肿瘤细胞,对小鼠进行传代处理。 将种鼠处死后
+用灭菌后的吸管吸取小鼠腹水。 用 PBS 以 1∶ 4的
+比例稀释后接种到新的老鼠腹腔,实验选取传代到
+第 3 代的小鼠。 在确保无菌条件下,吸取 ICR 小鼠
+接种 7 d 的肿瘤腹水,PBS 稀释至 1 × 107 个·mL - 1,
+抽取 0. 2 mL 注入腹腔。 建立模型后,将接种后的小
+鼠随机分为 5 组,分组同皮下移植肿瘤模型。 自 d 3
+起对小鼠口服给药,受试药每日 1 次,模型对照组
+口服等剂量的生理盐水,每日 1 次,环磷酰胺 20
+mg·kg - 1隔 1 日 1 次,连续给药 18 d,停药后连续观
+察 30 d。
+2. 4　 对肿瘤组织形态学的影响
+从体内取出的肿瘤细胞组织经 HE 染色后,在
+光镜下观察阳性药组、模型组及 RPDQ 给药组肿瘤
+组织结构和形态。
+2. 5　 抗肿瘤的代谢组学研究
+代谢组学研究可以帮助深入了解药物治疗不
+同疾病的作用机制,分析代谢物的含量[19 - 20] 。 代
+谢组学可以与多元统计学相结合,检测机体中的
+代谢物,筛选出具有差异显著的代谢标志物,从整
+体上掌握病理机制,为疾病的防治提供坚实可靠的
+依据[21 - 22]。
+首先对血样进行离心、涡旋、取上清等处理,并
+建立质量控制样本进行质量控制样本(quality con-
+trol samples,QC)校正。 然后进行色谱与质谱。
+2. 6　 统计学以及数据分析方法
+所有数据均采用统计软件 SPSS 20. 0(芝加哥
+SPSS 公司)进行处理,数据以均值 ± 标准误差表示,
+组间差异采用单因素方差分析(one-way-ANOVA),
+采用 t 检验进行组间两两比较,P < 0. 05 为差异具
+有统计学意义。
+代谢组学使用 MarkerLynx XS V4. 1 模块(美国
+Waters 公司)对质谱数据进行校准、色谱峰提取及
+归一化等一系列处理[23]。 所得数据应用 SIMCA 软
+件(上海百趣生物医学科技有限公司) 通过主成分
+分析 法 ( PCA) 和 正 交 偏 最 小 方 差 判 别 分 析 法
+(OPLS-DA)进一步分析各数据。 结合碎片离子信
+息,再根据 HMDB ( http:/ / www． hmdb． ca / ), KEGG
+(http:/ / www. kegg. com/ ), METLIN ( http:/ / metlin.
+scripps． edu/ )以及 Metabo-Analyst(http:/ / www. Meta-
+boanalyst. ca/ )等数据库对这些潜在的生物标记物进
+行进 一 步 筛 选 和 鉴 定, MetaboAnalyst 数 据 库 中
+Impact > 0. 10 的途径被认为是可能的代谢物相关信
+号途径[24]。
+结　 　 果
+1　 RPDQ 的结构鉴定
+RPDQ 结构鉴定:HR-ESI-MS 给出准分子离子
+峰 m/ z 609. 4346 [ M + H] + 1,1H NMR (600 MHz,
+pyridine-d5) 高场给出 8 个甲基信号:δ 0. 95 (3H,
+s),0. 82(3H, s),1. 32 (3H, s),1. 21(3H, s),1. 33
+(3H, s),1. 26 (3H, s),1. 03(3H, s),0. 97(3H, s),
+以及 12 位氢信号:δ4. 14 (1H, d, J = 6. 1 Hz),中场
+给出 1 组糖质子信号 δ5． 47 (1H,d, J = 7． 0 Hz),
+4． 03(1H,m), 4. 73(1H, m), 4. 26(1H, m), 4. 28
+(1H,d, J = 5． 8 Hz), 4. 17 (1H, d, J = 5． 8 Hz)。
+13C NMR(150 MHz, pyridine-d5 ) 中共给出 35 个碳
+信号,与 PDQ 13C NMR 数据相比多出 5 个碳信号 δ
+98. 49, 72. 52, 72. 23, 69. 5, 65. 48 为核糖基信号,
+HMBC 谱给出以下主要相关信号:δH 4. 13 (H-12) /
+δC 50. 97(C-9), 33. 20(C-11), 49. 5 (C-13), 51. 3
+(C-14), 28. 40(C-16), 49. 12(C-17), 98. 5(C-1’);
+δH 5. 47 (H-1’) / δC 76. 5(C-12)。
+综合分析,鉴定化合物为(20S,24S)-12-O-ɑ-D-
+呋 喃 核 糖 基-达 玛-20, 24-环 氧-3β, 12β, 25-三 醇
+[(20S,24S)-12-O-α-D-furanoribosyl-dama-20,24-ep-
+oxy-3β,12β,25-triol],简称 RPDQ。 目标产物的产
+率为 38. 6% ,纯度为 99. 1% 。
+2　 MTT 抑制肿瘤细胞实验结果
+由于肿瘤细胞的无限增殖特性,所以能否很好
+的抑制肿瘤细胞增殖是评价药物的指标之一。 实验
+采取 MTT 法检测 RPDQ 体外抑制 3 种细胞的增殖
+活性,结果表明,RPDQ 的抗肿瘤活性强于 PDQ 和
+PPD;RPDQ 对 3 种肿瘤细胞均有明显的抑制作用,
+且在一定范围内浓度越高 RPDQ 的抑制作用效果越
+好,结果见图 3。
+Chinese Journal of New Drugs 2023,32(5)
+535
+　
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+图 3　 PDQ,RPDQ,PPD 对 S180 细胞、SPC-A-1 细胞、A549 细胞活力的影响
+3　 体内抗肿瘤作用实验结果
+RPDQ 对小鼠皮下肿瘤细胞有明显的抑制作用
+高剂量组抑制效果最好,抑制率为 22. 51% 。 S180
+荷瘤小鼠皮下移植瘤模型的结果显示 RPDQ 可明显
+减轻荷瘤小鼠的实体瘤重量,结果见表 1;并且高、
+中剂量组对降低荷瘤小鼠的脏脾和胸腺指数具有明
+显的作用,结果见表 2,表明了其免疫抑制作用。 在
+小鼠注射 RPDQ 后其生存天数可显著延长(见图 4),
+说明其对小鼠体内的 S180 腹水瘤有明显作用。 2 个
+模型的成功实验均证明了 RPDQ 的抗肿瘤作用。
+表 1　 RPDQ 对 S180 荷瘤小鼠的瘤重及抑瘤率的影响
+组别　
+剂量/ mg·kg - 1
+动物体重/ g
+瘤重 / g
+抑瘤率 / %
+空白对照组
+—
+37. 72 ± 1. 15
+—
+—
+模型对照组
+—
+34. 87 ± 1. 42
+2. 31 ± 0. 29
+—
+环磷酰胺组
+20
+36. 47 ± 1. 66
+1. 53 ± 0. 25b
+34. 65
+RPDQ
+9
+34. 90 ± 0. 97
+2. 19 ± 0. 20
+5. 40
+18
+35. 20 ± 1. 42
+1. 99 ± 0. 37
+14. 25
+36
+35. 82 ± 1. 15
+1. 79 ± 0. 38a
+22. 51
+　 　 与模型组比较,a:P < 0. 05; b:P < 0. 01,下同
+表 2　 RPDQ 对 S180 荷瘤小鼠脾脏指数和胸腺指数的影响
+组别　
+剂量/ mg·kg - 1
+动物体重/ g
+脾脏指数
+胸腺指数
+空白对照组
+—
+37. 72 ± 1. 15
+—
+—
+模型组
+—
+34. 87 ± 1. 42
+4. 51 ± 0. 26
+1. 25 ± 0. 18
+环磷酰胺组
+20
+36. 47 ± 1. 66
+3. 72 ± 0. 12b
+0. 80 ± 0. 05b
+RPDQ
+9
+34. 90 ± 0. 97
+4. 49 ± 0. 22
+1. 20 ± 0. 10
+18
+35. 20 ± 1. 42
+4. 26 ± 0. 28a
+1. 11 ± 0. 10a
+36
+35. 82 ± 1. 15
+3. 84 ± 0. 14b
+1. 02 ± 0. 07a
+与模型组比较,a:P < 0. 05; b:P < 0. 01
+图 4　 RPDQ 对小鼠 S180 腹水瘤模型生存
+天数的影响
+4　 对 S180 荷瘤小鼠肿瘤组织形态学的影响
+小鼠肿瘤组织进行 HE 染色后,在光镜下观察
+肿瘤组织的形态学改变(见图 5)。 阳性药组肿瘤组
+织结构和形态处于正常状态。 模型组肿瘤细胞则可
+见明显的异型性,大小不一,间隙较大。 与模型组相
+比,RPDQ 组织结构均有不同程度的改善,RPDQ 高
+剂量组改善更为显著,趋近于阳性药组肿瘤组织结
+构。 组织形态学检查结果表明,RPDQ 能够抑制肿
+瘤细胞恶化,改善肿瘤细胞组织结构。
+Chinese Journal of New Drugs 2023,32(5)
+536
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+A:空白组;B:模型组;C:阳性药组;D:高剂量组;E:中剂量组;F:低剂量组
+图 5　 HE 染色肿瘤组织图像
+5　 代谢组学结果
+5. 1　 UPLC-Q-TOF-MS 的稳定性评估　 本实验采
+用 UPLC-Q-TOF-MS 技术,采用血清样本,由于目标
+代谢物中含有羧基等物质,故选择在负离子模式中
+进行代谢组学研究,结合代谢途径分析探讨其可能
+的抗肿瘤作用机制,从代谢组学的角度为 RPDQ 的
+抗肿瘤机制提供新的可能。 为了评估系统稳定性,
+分别在每个样本中选用 8 个离子对来监控进针的
+QC:将每个样本吸取 30 μL,混合后得到 QC 样本,进
+样中每 8 个样本进 1 针 QC,以对系统进行校正。 血
+清样本中选取的离子对及其保留时间和峰面积相对
+标准偏差(relative standard deviation, RSD) 见表 3。
+表 3　 血清样本系统稳定性评估
+编号
+血清 ESI -
+保留时间(Rt)_m/ z
+RSD/ %
+Rt/ min
+面积
+1
+18. 24_444. 090 8
+0. 064
+2. 114
+2
+26. 50_313. 076 2
+0. 217
+2. 624
+3
+25. 18_411. 200 7
+0. 116
+3. 237
+4
+22. 58_283. 238 7
+0. 077
+1. 143
+5
+17. 00_552. 308 8
+0. 123
+1. 359
+6
+18. 70_436. 282 8
+0. 143
+1. 434
+7
+15. 44_378. 237 5
+0. 099
+1. 360
+8
+18. 86_532. 332 0
+0. 060
+1. 002
+5. 2 　
+血清代谢组学轮廓的分析　
+从血清样本的
+PCA 图(见图 6)可见血清中给药组样本均与模型组
+样本清晰分开,经 RPDQ 预处理后的肿瘤小鼠的代
+谢谱与模型组小鼠的代谢谱差异明显。 相对于模型
+组,给药组更靠近正常组,表明肿瘤小鼠经过 RPDQ
+治疗后其肿瘤异常代谢轮廓具有显著的改变。
+左:给药组;右:模型组
+图 6　 模型组与给药组的血清代谢谱
+OPLS-DA 载荷图
+5. 3 　
+潜在生物标记物和相关信号途径的鉴定　
+OPLS-DA 载荷图可以清晰地描述两组间的总代谢
+变量。 OPLS-DA 模型的具体参数如下:血清负离子
+模式:R2Y = 0. 86,Q2 = 0. 70,表明该 OPLS-DA 模型
+具有良好的预测性和可靠性。 为了更加直观的比较
+给药组和模型组,找到 RPDQ 抗肿瘤的差异性代谢
+物,对血清样本进行了 OPLS-DA 分析。 从排列图
+中,右边的原始点高于左边的所有 Q2 值,表明原始
+模型的有效性(见图 7)。 S-plot 载荷图能够鉴定出
+导致组间差异的代谢物,图中的点距离原点越远,表
+明此化合物对分组的影响越大(见图 8)。 结合标准
+品比对及串联质谱碎片模式等,共筛选鉴定出 16 个
+生物标记物,见表 4。
+Chinese Journal of New Drugs 2023,32(5)
+537
+　
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+图 7　 血清的 OPLS-DA 模型的排列图
+图 8　 血样代谢谱 S-plots 图
+表 4　 血清中潜在生物标志物的鉴定结果
+编号
+Rt/ min
+实测值/ Da
+差异变量
+(VIP)
+分子式
+质量偏差
+/ ppm
+生物标记物
+名称
+途径
+含量水平
+加和分子
+1
+11. 92
+335. 223 0
+1. 22
+C20 H32 O4
+0. 24
+15(S)-HPETE
+HMDB04244
+AM
+M > D≈B
+M-H
+2
+11. 93
+335. 230 1
+1. 91
+C20 H32 O4
+2. 36
+5 ( S )-hydroperoxyeicosa-
+tetraenoic
+HMDB01193
+AM
+M > D≈B
+M-H
+3
+14. 37
+317. 212 9
+1. 00
+C20 H30 O3
+0. 38
+leukotriene A4
+HMDB01337
+AM
+M > D≈B
+M-H
+4
+15. 29
+335. 225 9
+1. 58
+C20 H32 O4
+1. 10
+15H-11,12-EETA
+HMDB05050
+AM
+M > D≈B
+M + FA-H
+5
+9. 57
+335. 231 8
+2. 10
+C20 H32 O4
+2. 86
+11H-14,15-EETA
+HMDB04693
+AM
+M > D≈B
+M + FA-H
+6
+24. 62
+732. 558 6
+1. 27
+C40 H80 NO8 P
+0. 59
+PC (16:0 / 16:0)
+HMDB00564
+AM,LM
+M > D≈B
+M-H
+7
+17. 97
+750. 542 1
+1. 18
+C43 H78 NO7 P
+- 0. 23
+phosphatidylethanolamine
+HMDB05779
+GM
+M > D≈B
+M + FA-H
+8
+18. 50
+520. 345 4
+11. 82
+C26 H52 NO7 P
+0. 98
+lysoPC (18:1(9Z))
+HMDB02815
+GM
+M > D≈B
+M-H
+9
+26. 64
+405. 110 8
+2. 32
+C15 H20 O10
+1. 85
+3-methoxy-4-hydroxyphe-
+nylglycol glucuronide
+HMDB00496
+PGI
+M > D≈B
+M + FA-H
+10
+18. 11
+347. 225 8
+2. 26
+C20 H30 O2
+1. 04
+retinyl ester
+HMDB03598
+RM
+M < D≈B
+M + FA-H
+11
+14. 98
+145. 066 9
+1. 98
+C5 H10 N2 O3
+3. 86
+L-glutamine
+HMDB00641
+AAGM
+M < D≈B
+M-H
+12
+0. 94
+134. 041 8
+2. 43
+C3 H7 NO2
+- 2. 61
+L-alainine
+HMDB00161
+AAGM
+M < D≈B
+M + FA-H
+13
+1. 46
+203. 085 4
+1. 33
+C11 H12 N2 O2
+1. 62
+L-tryptophan
+HMDB00929
+TM
+M < D≈B
+M-H
+14
+5. 16
+204. 069 9
+1. 45
+C10 H9 NO
+1. 86
+indoleacetaldehyde
+HMDB01190
+TM
+M < D≈B
+M + FA-H
+15
+23. 14
+279. 233 1
+4. 18
+C18 H32 O2
+0. 25
+linoleic acid
+HMDB00673
+LM
+M < D≈B
+M-H
+16
+17. 18
+295. 228 6
+1. 24
+C18 H32 O3
+0. 44
+12,13-EpOME
+HMDB04702
+LM
+M > D≈B
+M-H
+　 　 M:Model;D:Drug;B:Blank;AM:花生四烯酸代谢;GM:甘油磷脂代谢;PGI:戊糖和葡萄糖醛酸的相互转化;RM:视黄醇代谢;AAGM:丙氨酸,天冬氨酸和谷氨
+酸代谢;TM:色氨酸代谢;LM:亚油酸代谢
+　 　 本文发现的 16 种差异性代谢物主要参与了 7
+条代谢途径,分别是花生四烯酸代谢、甘油磷脂代
+谢、视黄醇代谢、丙氨酸,天冬氨酸和谷氨酸代谢、色
+氨酸代谢、亚油酸代谢、戊糖和葡萄糖醛酸的相互转
+化。 图 9 为差异性代谢物相关代谢途径,表 5 为差
+异性代谢物代谢路径分析结果。 结果显示 RPDQ 可
+上调花生四烯酸代谢物的含量来达到增强抗肿瘤作
+用[25];RPDQ 促进甘油磷脂代谢下调溶血磷脂酰胆
+碱 lysoPC(18:1(9Z)) 含量从而达到抑制肿瘤生长
+的目的[26];戊糖和葡萄糖醛酸的相互转化被 RPDQ
+促进从而增加 3-甲氧基-4-羟基苯乙二醇葡糖苷酸
+含量,导致了肿瘤细胞的加速凋亡[27];色氨酸代谢
+产物受 RPDQ 影响而增加,加速色氨酸的分解代谢
+来抑制肿瘤[28]。 确定了 RPDQ 可通过调控 7 种代
+谢达到抗肿瘤的作用。 图 10 是小鼠体内 RPDQ 抗
+肿瘤作用相关信号途径网络。
+Chinese Journal of New Drugs 2023,32(5)
+538
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+图 9　 差异性代谢物相关代谢途径
+表 5　 差异性代谢物代谢路径分析结果
+代谢途径名称
+匹配状态
+P
+-log(P)
+Holm P
+错误发现率(FDR)
+影响因子
+花生四烯酸代谢(arachidonic acid metabolism)
+5 / 36
+5. 55 × 10 - 11
+25. 214
+4. 50 × 10 - 9
+4. 50 × 10 - 9
+0. 346 16
+亚油酸代谢(linoleic acid metabolism)
+3 / 5
+9. 322 × 10 - 4
+6. 978
+0. 074 576
+0. 037 754
+1. 0
+甘油磷脂代谢(glycerophospholipid metabolism)
+3 / 30
+0. 148 66
+1. 906 1
+1
+1
+0. 275
+丙氨酸,天冬氨酸和谷氨酸代谢(alanine, aspartate
+and glutamate metabolism)
+1 / 24
+0. 293 79
+1. 224 9
+1
+1
+0. 149 79
+戊糖和葡萄糖醛酸的相互转化(pentose and glucur-
+onate interconversions)
+1 / 14
+0. 476 25
+0. 741 8
+1
+1
+0. 272 73
+视黄醇代谢(retinol metabolism)
+1 / 17
+0. 544 43
+0. 608 02
+1
+1
+0. 154 64
+色氨酸代谢(tryptophan metabolism)
+2 / 41
+0. 558 85
+0. 581 88
+1
+1
+0. 171 57
+图 10　 小鼠体内 RPDQ 抗肿瘤作用相关信号途径网络(加粗框为差异性代谢物)
+Chinese Journal of New Drugs 2023,32(5)
+539
+　
+　
+中国新药杂志 2023 年第 32 卷第 5 期
+讨　 　 论
+肿瘤作为人类第二大死因,严重危及人类身体
+健康,寻找能够治疗肿瘤的药物一直是研究人员最
+重要的课题之一。 对天然产物进行结构修饰,提高
+其活性和增强疗效,确保安全性,获得具有开发创新
+药物的先导化合物是十分重要的途径。 人参皂苷已
+被证实抗肿瘤效果显著[29],具有多层次多靶点的作
+用,我国中药类第一个抗肿瘤单体药物的主要成分
+就是人参皂苷。 目前的人参皂苷大多是苷元与葡萄
+糖、阿拉伯糖和半乳糖醛酸等连接成苷,但未见与五
+碳糖相连接的人参皂苷,尤其是与奥克梯隆型人参
+皂苷相连接的研究甚少。 本文针对自然界中未见的
+戊糖苷类奥克梯隆型人参皂苷,首次半合成了以 D-
+核糖为糖基侧链的新奥克梯隆型人参皂苷 RPDQ,
+提高了拟人参皂苷元 DQ 的生物活性,进一步丰富
+了人参皂苷的合成方法,证明奥克梯隆型人参皂苷
+的结构修饰及丰富和发展其药理活性的研究具有广
+阔的前景。 药理实验研究证明了 RPDQ 相比 PDQ
+和 PPD 的抗肿瘤活性得到增强,一方面可能是通过
+免疫抑制而发挥抗肿瘤作用,另一方面可能通过调
+控花生四烯酸代谢、甘油磷脂代谢、戊糖等 7 个内源
+性代谢途径而起到抗肿瘤作用,且克服了人参皂苷
+生物利用度低等问题。 本文应用现代科学技术合成
+RPDQ,证明其相比于原人参二醇和拟人参皂苷元
+DQ 提高了抗肿瘤活性并探讨了其作用机制,为拟
+人参皂苷的进一步研究与开发提供了理论基础和数
+据支持,对于人参皂苷元的新药开发具有一定科学
+意义。
+[　 参　 考　 文　 献　 ]
+[1]　 李佳威, 薄琳, 金丹, 等. 人参皂苷及其代谢产物抗肿瘤机
+制的研究进展[J]. 中华中医药学刊, 2021, 39(11): 121 -
+124.
+[2]　 曹瑀莹, 杜丙秀, 李劭恒, 等. 人参皂苷 Re 对异丙肾上腺素
+诱导离体灌流大鼠心脏心律失常的调节作用[J]. 中草药,
+2021, 52(20): 6234 - 6244.
+[3]　 李平亚, 化药一类抗心律不齐人参皂苷 DQ 及其制剂的开发
+[Z]. 吉林省: 吉林大学, 2019 - 05 - 11.
+[4]　 王瑞, 王宸, 宋璨. 稀有人参皂苷的转化制备研究进展[J].
+轻工科技, 2021, 37(10): 18 - 20, 24.
+[5]　 周志文, 周云云. 奥克梯隆型人参皂苷的结构改造及药理活
+性研究进展[J]. 西北药学杂志, 2020, 35(3): 449 - 454.
+[6]　 李平亚, 刘金平. 伪人参皂苷-Pdq 及其半合成方法和其药物
+用途: CN1706862A[P]. 2005 - 12 - 14.
+[7]　 ATOPKINA LN, MALINOVSKAYA GV, ELYAKOV GB, et al.
+Cytotoxicity of natural ginseng glycosides and semisynthetic ana-
+logues[J]. Planta Med, 1999, 65(1): 30 - 34.
+[8]　 张振刚, 王峰. 有氧运动联合补充 D-核糖对小鼠抗疲劳和抗
+氧化的作用[J]. 食品工业科技, 2022, 43(2): 368 - 375.
+[9]　 KISHIMOTO K, KINTAKA K, UCHIYAMA N. Production of D-
+ribose: US4904587[P]. 1990 - 02 - 27.
+[10]　 陈宗伦. 抗生素与糖同服可提升药效[ J]. 求医问药, 2011
+(11): 60.
+[11]　 尹建元, 刘平, 徐国兴, 等. 一种人参皂苷新衍生物的合成方
+法和生产的产品及其应用: CN105801661A[P]. 2016 - 07 -
+27.
+[12]　 WANG ZX, SHI XX, CHEN GR, et al. A new synthesis of α-
+arbutin via Lewis acid catalyzed selective glycosylation of Tetra-O-
+benzyl-α-d-glucopyranosyl trichloroacetimidate with hydroquinone
+[J]. Carbohydr Res, 2006, 341(11): 1945 - 1947.
+[13]　 GU N, LIU SM, QIU C, et al. Biosynthesis of 3’-O-methylisoori-
+entin from luteolin by selecting O-methylation / C-glycosylation
+motif[J]. Enzyme Microb Technol, 2021, 150: 109862.
+[14]　 蒋小飞, 刘九辉, 李虎, 等. 一类新型小檗碱衍生物的合成
+与生理活性 [ J]. 中国实验方剂学杂 志, 2019, 25 (23 ):
+156 - 164.
+[15]　 刘碧霞, 章红燕. 姜黄素对 H22 肝癌、S180 肉瘤小鼠的抑瘤
+作用及机制研究[J]. 中国现代医生, 2017, 55(9): 48 - 52.
+[16] 　
+江黎黎. 微 RNA hsa-miR-125a-5p 通过激活 p53 诱导肺癌
+SPC-A-1 细胞凋亡的研究[J]. 辽东学院学报(自然科学版),
+2019, 26(2): 89 - 96.
+[17]　 霍炳杰, 宋彦茹, 张洁, 等. 基于 TMT 蛋白质组学探讨华盖
+散对 H1688 和 A549 肺癌细胞增殖、凋亡影响的作用机制研
+究[J]. 中医杂志, 2021, 62(16): 1434 - 1440.
+[18]　 张静, 赵岩, 蔡恩博, 等. 人参倍半萜有效部位对 S180 荷瘤
+小鼠的抗肿瘤活性及其作用机制[ J]. 吉林大学学报( 医学
+版), 2019, 45(2): 280 - 285, 471.
+[19]　 PAGADALA NS, SYED K, TUSZYNSKI J. Software for molecu-
+lar docking: a review[J]. Biophys Rev, 2017, 9(2): 91 - 102.
+[20]　 LYU XR, YAN KM, CHEN WJ, et al. The characterization of
+metabolites alterations in white adipose tissue of diabetic GK Rats
+after ileal transposition surgery by an untargeted metabolomics ap-
+proach[J]. Adipocyte, 2021, 10(1): 275 - 284.
+[21]　 ZHANG X, LI YR, WEI XC, et al. Metabolomics analysis of the
+effects of quercetin on hepatotoxicity induced by acrylamide expo-
+sure in rats[J]. Free Radic Res, 2021, 55(7): 831 - 841.
+[22]　 DE OLIVEIRA GORGULHO SILVA C, RAISA BARBOSA CUNHA
+J, ALMEIDA CONCEIÇÃO A, et al. Outdoor versus indoor cul-
+tivation: effects on the metabolite profile of Agaricus subrufescens
+strains analyzed by untargeted metabolomics[ J]. Food Chem,
+2022, 374: 131740.
+[23]　 ZHAO YY, CHENG XL, WEI F, et al. Serum metabonomics
+study of adenine-induced chronic renal failure in rats by ultra per-
+formance liquid chromatography coupled with quadrupole time-of-
+flight mass spectrometry[J]. Biomarkers,2012,17(1): 48 - 55.
+[24]　 WENK MR. Lipidomics: new tools and applications[ J]. Cell,
+2010, 143(6): 888 - 895.
+[25]　 蔡亚玮, 刘建宏, 马宁. 花生四烯酸靶向代谢组学在炎症中
+的研究现状[J]. 中国临床药理学杂志,2021,37(19): 2721 -
+2723, 2728.
+[26]　 BAO JL, LIU F, ZHANG C, et al. Anti-melanoma activity of
+Forsythiae Fructus aqueous extract in mice involves regulation of
+glycerophospholipid metabolisms by
+UPLC / Q-TOF
+MS-based
+metabolomics study[J]. Sci Rep, 2016, 6: 39415.
+[27]　 OKADA A, TAKEHARA H, YOSHIDA K, et al. L-cycloserine
+amplifies anti-tumor activity of glutamine antagonist[ J]. J Clin
+Biochem Nutr, 1993, 14(1): 53 - 60.
+[28]　 BENOÎT VDE. Invited lecture: Blocking tryptophan catabolism
+to boost anti-tumor immune responses[S]. 2013.
+[29]　 王武斌, 张彬彬, 罗志强, 等. 低浓度人参水提液对肺 A549
+细胞癌性的影响及其机制研究[ J]. 世界中医药, 2022, 17
+(5): 692 - 698, 703.
+编辑:毕晓帆/ 接受日期:2022 - 05 - 18

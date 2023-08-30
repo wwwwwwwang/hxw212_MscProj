@@ -1,0 +1,305 @@
+人参皂苷 Rb1 对阿尔茨海默病模型小鼠术后
+认知功能、海马内突触后致密蛋白-95 及尼氏体
+表达的影响
+许方方,张 珊,李建玲,蒋 淼
+摘要:目的 观察人参皂苷 Rb1 对 APPswe/PS1dE9 双转基因阿尔茨海默病(AD)模型小鼠肝叶部分切除术后认知功能及海马内突
+触后致密蛋白-95(postsynaptic density protein-95,PSD-95)、神经元尼氏体表达的影响。方法 将 3 月龄 AD 模型小鼠 120 只随机
+分为 3 组,手术组(S 组)于麻醉后行肝叶部分切除术;人参皂苷 Rb1 组(Rb1 组)于手术前 5 d 腹腔注射人参皂苷 Rb1 60 mg/kg;对
+照组(N 组)于手术前 5 d 腹腔注射同体积的生理盐水。以上各组随机抽取 8 只小鼠采用水迷宫连续训练 5 d 并检测术后 1 d、3 d、7 d、
+14 d、21 d、28 d 的学习记忆能力,余小鼠术后 3 d、7 d、14 d、21 d、28 d 取标本,行尼氏染色并检测海马内 PSD-95 的表达。结果 与
+Rb1 组比较,S 组和 N 组术后 3 d、7 d、14 d、21 d、28 d 平均逃避潜伏期延长(P <0.05);Rb1 组术后目的象限时间百分比较 S 组和 N
+组升高(P <0.05)。与 Rb1 组比较,S 组和 N 组术后 3 d、7 d、14 d、21 d、28 d PSD-95 蛋白表达逐渐减少(P <0.05)。尼氏染色显
+示:Rb1 组术后海马 CA1 区神经细胞排列密集、整齐,胞浆中尼氏体丰富;与 Rb1 组比较,S 组和 N 组术后 21 d、28 d 神经元尼氏体
+减少(P <0.05)。结论 人参皂苷 Rb1 可以提高 AD 模型小鼠肝叶部分切除术后的学习记忆能力,其机制可能与其改善突触相关
+蛋白 PSD-95 及神经元尼氏体的表达相关。
+关键词:阿尔茨海默病;人参皂苷 Rb1;致密蛋白-95;认知功能;尼氏体;实验研究
+doi:
+10.
+12102/j.
+issn.
+1672-1349.
+2022.
+03.
+010 
+Effects of Ginsenoside Rb1 on Postoperative Cognitive Function,Expression of PSD-95 and Nissl Body in Hippocampus of Alzheimer's
+Disease Model Mice
+XU Fangfang,ZHANG Shan,LI Jianling,JIANG Miao
+Renhe Hospital,Shanghai 201900,China
+Corresponding Author:JIANG Miao
+Abstract:Objective To observe the effects of Ginsenoside Rb1 on cognitive function,expression of postsynaptic density protein-95
+(PSD-95) and nissl body in hippocampus of APPswe/PS1dE9 double transgenic Alzheimer's disease(AD) model mice after partial liver
+lobectomy.Methods One hundred and twenty 3-month-old APPswe/PS1dE9 double transgenic AD model mice were randomly divided
+into three groups:surgical group(S group):partial liver lobectomy after anesthesia; Ginsenoside Rb1 group(Rb1 group):intraperitoneal
+injection of ginsenoside Rb1 60 mg/kg in the morning 5 days before surgery;control group(N):intraperitoneal injection of the same
+volume of normal saline in the morning 5 days before surgery.Eight mice were randomly selected from the above groups for continuous
+training with morris water maze for 5 d and their learning and memory ability were detected at 1 d,3 d,7 d,14 d,21 d,and 28 d after surgery.
+Specimens were taken from the remaining mice at 3 d,7 d,14 d,21 d,and 28 d after surgery,and the expression of PSD-95 in
+hippocampus was detected by Nissl staining.Results Compared with Rb1 group,the average latency of escape was prolonged at
+postoperative 3 d,7 d,14 d,21 d,and 28 d in group S and group N(P <0.05). The percentage of postoperative objective quadrant time
+in group Rb1 was wore than that in group S and group N(P <0.05). Compared with Rb1 group,PSD-95 protein expression in group S
+and group N was decreased gradually at 3 d,7 d,14 d,21 d,and 28 d after surgery(P <0.05).Nissl's staining showed that nerve cells in
+the hippocampal CA1 region of Rb1 group were arranged densely and neatly,and there were abundant nissl bodies in the cytoplasm.
+Compared with Rb1 group,the number of neurons in group S and group N was decreased at 21 and 28 days after surgery(P <0.05).
+Conclusion Ginsenoside Rb1 can improve the learning and memory ability of AD model mice after partial liver lobectomy,and the
+specific mechanism may be related to the improvement of the expression of synapse related protein PSD-95 and nissl body.
+Keywords:Alzheimer's disease;Ginsenoside Rb1;postsynaptic density protein-95;cognitive function;Nissl body;experiment research
+作者单位 上海市宝山区仁和医院(上海 201900)
+通讯作者 蒋淼,E-mail:18116344330@163.com
+引用信息 许方方,张珊,李建玲,等.人参皂苷 Rb1 对阿尔茨海默病模型小鼠术后认知功能、海马内突触后致密蛋白-95 及尼氏体表达的影响[J].中
+西医结合心脑血管病杂志,2022,20(3):440-444.
+0·
+4
+·4
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE February 2022 Vol.
+20 No.
+3
+  认知功能障碍是阿尔茨海默病(Alzheimer's disease,
+AD)特征性的临床表现。人参皂苷 Rb1 是人参主要活
+性成分,通过抑制炎症反应、激活抗凋亡相关通路,从
+而保护脑细胞功能、改善学习记忆[1-2]。研究发现,临
+床常用的吸入性麻醉药物以及手术创伤刺激可以加重
+或诱 发 AD 临 床 前 期、临 床 期 病 人 的 认 知 功 能 障
+碍[3-5]。本研究 通 过 围 术 期 给 药,观 察 人 参 皂 苷 Rb1
+对 APPswe/PS1dE9 双转基因 AD 模型小鼠肝叶部分
+切除术 后 认 知 功 能 以 及 海 马 内 突 触 后 致 密 蛋 白-95
+(postsynaptic density proteinP-95,PSD-95)、神 经 元
+尼氏体表达的影响。
+1 材料与方法
+1.1 实验动物 3 月龄 APPswe/PS1dE9 双转基因雄
+性小鼠,体质量 30 g,由南京大学动物模式中心提供,
+许可证号:SCXK(苏)2015-0001。
+1.2 主要试剂和仪器 Morris 水迷宫装置(上海吉量
+软件科技有限公司);人参皂甙 Rb1(纯度 > 95% ,批
+号:17080421)购自上海同田生物技术有限公司,经生
+理盐水稀释后备用;小鼠单克隆 PSD 抗体(1∶1 000,
+Abcam);辣根过氧化物酶(HRP)标记的山羊 抗 小 鼠
+IgG(1∶1 000,Aggen)。
+1.3 分组 本实验已经通过上海市宝山区仁和医院
+伦理委员会的伦理论证(编号:201812),并在其监督下
+进行。将 3 月龄 APPswe/PS1dE9 双转基因小鼠 120
+只随机分为 3 组,每组 40 只,手术组(S 组):小鼠腹腔
+注射 0.1% 戊巴比妥 0.3 mg/kg,麻醉后行肝叶部分切
+除术;人参皂甙 Rb1 组(Rb1 组):术前 5 d 注射人参皂甙
+60 mg/kg;对照组(N 组):术前 5 d 注射同体积的生理
+盐水。从以上各组中随机抽取 8 只小鼠,采用 Morris
+水迷宫检测术后 1 d、3 d、7 d、14 d、21 d、28 d 学习记
+忆能力。剩余 APPswe/PS1dE9 双转基因小鼠同样在
+术后 3 d、7 d、14 d、21 d、28 d 时间点取标本行蛋白免
+疫印迹法(Western Blot)检测海马内 PSD-95 的表达
+及尼氏染色分析尼氏体累积光密度值(IOD)。
+1.4 Morris 水迷宫行为学测试 实验程序包括:①定
+位航行实验(place navigation)用于测量小鼠获取空间
+学习记忆的能力。将小鼠从 4 个入水点 随机放入水
+中,通过自动录像系统记录小鼠 90 s 内找到平台的时
+间(逃避 潜 伏 期,escape latency)。② 空 间 探 索 实 验
+(spatial probe test)用于测量小鼠对平台空间位置记
+忆的能力。拆除平台,将小鼠从离平台最远的象限放
+入 水 中 ,记 录 90s 内 小 鼠 在 原 目 标 象 限 的 时 间 百
+分比。
+1.5 手术处理 小鼠翻正反射消失后,消毒,在剑突
+下腹部正中线切开,进入腹腔游离肝脏左侧叶,在远端
+蒂部用一号丝线结扎切除肝左侧叶。
+1.6 尼氏染色 腹腔注射戊巴比妥深度麻醉小鼠,迅
+速开胸暴露心脏,经左心室向主动脉插管,剪开右 心
+房,甲醛 50 mL 经升主动脉快速冲洗,断头,液氮速冻
+组织切片(5 μm)4 ℃丙酮固定 15 min,纯蒸水冲洗 3
+次,每次 5 min,用 1% 甲苯胺蓝水溶液置 50 ℃温箱中
+染色 30 min,纯蒸水冲洗 3 次,每次 5 min,95% 乙醇迅
+速分化,无水乙醇脱水,二甲苯透明,中性树胶封固,显
+微镜下观察拍照分析,并用 Image-Pro Plus 6.0 软件
+分析尼氏体 IOD 值。
+1.7 Western Blot 检测 在各时间点将小鼠麻醉后断
+头,冰上取海 马 组 织,经 0.01 mol/L 磷 酸 缓 冲 盐 溶 液
+(PBS)清洗后,置于含有蛋白酶抑制剂的蛋白裂解液
+(RIPA 裂解液)中裂解,离心后取上清液,部分上清液
+用于蛋白 质 浓 度 的 测 定 (BCA 法 测 定),余 上 清 液 置
+100 ℃煮沸变性结束后,上样行聚丙烯酰胺凝胶电泳,
+转膜、加一抗孵育过夜,HRP 标记二抗处理。ECL 发
+光液孵育、胶片曝光、显影、定影。用 BIO-RAD Quantity
+One 4.5.0 软件检测目的蛋白 PSD-95 的条带及内参
+β-acting 条带的灰度值,将目的蛋白灰度值和内参灰
+度值的比值作为目的蛋白表达的相对水平。
+1.8 统计学处理 采用 SPSS 19.0 软件进行数据分
+析,Graphpad Prism 5 绘图。定量资料以均数±标准
+差(x ±s )表示,水迷宫实验数据采用多重测量的方差
+分析,尼氏小体 IOD 值及 Western Blot 结果比较采用
+两因素方差分析(two-ANOVA)比较。以P < 0.05 为
+差异有统计学意义。
+2 结 果
+2.1 水迷宫实验结果 与 Rb1 组比较,S 组和 N 组术
+后 3 d、7 d、14 d、21 d、28 d 平均逃避潜伏期延长(P <
+0.05);S 组和 N 组术后各时间点平 均 逃 避 潜 伏 期 比
+较,差异均无统计学意义(P >0.05),详见图 1A。与
+Rb1 组比较,S 组和 N 组术后 3 d、7 d、14 d、21 d、28 d
+目 标 象 限 时 间 百 分 比 及 游 泳 距 离 明 显 缩 短 (P <
+0.05),详见图 1B、图 1C。各组之间小鼠游泳速度比
+较,差异均无统计学意义(P >0.05),详见图 1D。
+1·
+4
+·4
+中西医结合心脑血管病杂志2022年2月第20卷第3期
+与 S 组同时间点比较,# P <0.05;与 N 组同时间点比较,* P <0.05。
+图 1 APPswe/PS1dE9 双转基因小鼠术后水迷宫实验结果
+(A 为 3 组逃避潜伏期比较;B 为 3 组目标象限时间百分比比较;
+C 为 3 组游泳距离比较;D 为 3 组游泳速度比较)
+2.2 尼氏染色结果 Rb1 组小鼠术后 7 d、14 d、21 d、
+28 d 海马 CA1 区神经细胞排列密集,胞浆中尼氏体丰
+富;与 Rb1 组比较,S 组和 N 组术后 21 d、28 d 神经元
+内尼氏小体部分溶解或消失,胞浆着色变淡神经元细
+胞排列紊乱,尼氏体表达明显减少,差异均有统计学意
+义(P <0.05)。详见图 2、图 3。
+图 2 APPswe/PS1dE9 双转基因小鼠术后海马 CA1 区尼氏染色结果(×400)
+(R7、R14、R21、R28 为人参皂苷 Rb1 组术后 7 d、14 d、21 d、28 d 海马 CA1 区神经元尼氏体的表达;
+N7、N14、N21、N28 为对照组术后 7 d、14 d、21 d、28 d 海马 CA1 区神经元尼氏体的表达;
+S7、S14、S21、S28 为手术组术后 7 d、14 d、21 d、28 d 海马 CA1 区神经元尼氏体的表达)
+2·
+4
+·4
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE February 2022 Vol.
+20 No.
+3
+与 Rb1 组同时间点比较,* P <0.05。
+图 3 3 组 CA1 区尼氏体
+累积光密度值比较
+2.3 Western Blot 检测 3 组 PSD-95 蛋白 表 达  与
+Rb1 组比较,S 组和 N 组术后 3 d、7 d、14 d 、21 d、28 d
+PSD-95蛋 白 表 达 逐 渐 降 低 ,差 异 均 有 统 计 学 意 义
+(P <0.05);S 组和 N 组比较,术后 3 d、7 d、14 d 、21 d、
+28 d PSD-95 蛋白表达,差异均无统计学意义(P >0.05)。
+详见图 4。
+与 Rb1 组同时间点比较,* P <0.05。
+图 4 APPswe/PS1dE9 双转基因小鼠术后海马内 PSD-95 蛋白的表达
+(A 为 3 组 PSD-95 蛋白表达柱状图;B 为 3 组 PSD-95 蛋白表达条带图)
+3 讨 论
+  β-淀粉样蛋白(amyloid-β protein,Aβ)的沉积,tau
+蛋白高磷酸化是 AD 特征性病理改变。研究发现,手
+术创伤刺激引起的中枢神经系统炎性因子高表达可以
+诱发和加剧 Aβ的异常聚集[5]。挥发性麻醉药物(异氟
+醚、地氟 烷)通 过 上 调 Aβ前 体 蛋 白 切 割 酶 β分 泌 酶
+(BACE)的活性,促进 Aβ寡聚化进而诱导神经细胞凋
+亡[6-7]。围术期低温使神经元骨架蛋白 tau 蛋白过度
+磷酸化,造成神经元丢失,进而提示手术麻醉有可能是
+诱发和加剧 AD 高风险人群发病的潜在因素[8]。在本
+实验中,手术组及对照组 AD 模型小鼠术后 3 d、7 d、
+14 d、21 d、28 d 逃避潜伏期逐渐延长、目的象限时间
+百分比缩短,提示术后认知功能异常。人参皂苷是人
+参的生物活性成分之一,已发现大约有 50 多种,其中
+Rb1 主要作用在中枢神经系统,对免疫细胞、细胞因
+子、一氧化氮、活性氧(ROS)等炎症介质 均有抑制作
+用,通过多种途径不同环节在增强免疫力、活血、抗氧
+化、延缓衰老等方面发挥着重要的药理作用[9-13]。研
+究发 现 ,人 参 皂 苷 Rb1通 过 改 变β-淀 粉 样 前 体 蛋 白
+(β-amyloid precursor protein,APP)裂解途径,减少 Aβ
+的生成,抑制 Aβ诱导的神经毒性反应[14];通过抑制细
+胞凋亡因子 Bax、Caspase-3 表达,激活抗细胞凋亡因
+子 Bcl-2,保护神经元细胞从而 改 善 痴 呆 鼠 的 认 知 功
+能[2]。因此,从理论上讲,人参皂甙 Rb1 有可能成 为
+治疗 AD 病人术后认知功能下降的潜在药物。既往研
+究显示,人参皂甙 Rb1 在 60 mg/kg 时可以有效改善老
+年鼠术后认知功能下降[15]。本研究结果显示,与手术
+组及对照组同时间点比较,人参皂甙 Rb1 组小鼠术后
+3 d、7 d、14 d、21 d、28 d 找到安全平台的逃避潜伏期
+明显缩短,提示通过围术期给药,人参皂甙 Rb1 可以
+改善 AD 模型小鼠术后的记忆功能。
+  学习记忆与海马内突触相关蛋白表达水平密切相
+关,PSD-95 位于突触后膜与 F-actin 骨架蛋白、神经递
+质受体和信号蛋白分子共同形成复合物参与突触后信
+3·
+4
+·4
+中西医结合心脑血管病杂志2022年2月第20卷第3期
+号的转导和整合[16]。因此,本实验采用 Western Blot
+检测海马内 PSD-95 的表达水平,结果显示,与 Rb1 组
+比较,手术组及对照组术后 3 d、7 d、14 d、21 d、28 d
+PSD-95 蛋白条带密度逐渐变小变浅,差异均有统计学
+意义(P <0.05),提示人参皂甙 Rb1 在保护突触功能
+及防止突触丢失中起重要作用。
+  神经元尼氏小体是反映神经元功能变化的重要指
+标,当神经元功能受损时,尼氏小体会溶解甚至消失。
+研究发现,人参皂甙 Rb1 可以通过上调神经元周期蛋
+白 D1(Cyclin D1)表 达、激 活 非 磷 脂 酰 肌 醇 3 激 酶
+(PI3K)依赖的蛋白激酶 B(Akt)信号转导通路,进而保
+护神经元细胞的活性[17-18]。在本实验中,尼氏染色结
+果显示,人参皂甙 Rb1 组小鼠术后 7 d、14 d、21 d、28 d 海
+马 CA1 区神经元细胞排列密集、整齐,胞浆中尼氏体
+丰富,提示神经元活性功能正常,而手术组与对照组术
+后 21 d、28 d 小鼠海马 CA1 区神经元细胞排列紊乱,
+尼氏体表达减少。据此推测,人参皂苷 Rb1 通过诱导
+尼氏体的表达,进而维持神经元细胞形态和功能的稳
+定性。
+  综上所述,人参皂甙 Rb1 可能通过诱导突触相关
+蛋白 PSD-95 及神经元尼氏体的表达,改善突触结构,
+保 护 神 经 元 活 性 ,提 高 AD模 型 小 鼠 术 后 学 习 记 忆
+能力。
+参考文献:
+[1] YE J,YAO J P,WANG X,et al. Neuroprotective effects of ginsenosides
+on neural progenitor cells against oxidative injury[J].Molecular
+Medicine Reports,2016,13(4):3083-3091.
+[2] WANG Y R,LI Y,YANG W,et al.Ginsenoside Rb1 inhibit apoptosis
+in rat model of Alzheimer's disease induced by Aβ1-40[J].American
+Journal of Translational Research,2018,10(3):796-805.
+[3] SCHENNING K J,MURCHISON C F,MATTEK N C,et al. Surgery
+is associated with ventricular enlargement as well as cognitive
+and functional decline[J].Alzheimer's & Dementia, 2016, 12(5):
+590-597.
+[4] INOUYE S K,MARCANTONIO E R,KOSAR C M,et al.The short-term
+and long-term relationship between delirium and cognitive trajectory
+in older surgical patients[J].Alzheimer's & Dementia,2016,12(7):
+766-775.
+[5] TANG J X, MARDINI F, JANIK L S,et al. Modulation of murine
+Alzheimer pathogenesis and behavior by surgery[J].Annals of
+Surgery,2013,257(3):439-448.
+[6] MIAO H H,DONG Y L,ZHANG Y Y,et al. Anesthetic isoflurane or
+desflurane plus surgery differently affects cognitive function in
+Alzheimer's disease transgenic mice[J].Molecular Neurobiology,
+2018,55(7):5623-5638.
+[7] JIANG J,JIANG H.Effect of the inhaled anesthetics isoflurane,
+sevoflurane and desflurane on the neuropathogenesis of Alzheimer's
+disease(review)[J].Molecular Medicine Reports,2015,12(1):3-12.
+[8] TOURNISSAC M,VANDAL M,FRANÇOIS A,et al. Old age potentiates
+cold-induced tau phosphorylation:linking thermoregulatory deficit
+with Alzheimer's disease[J].Neurobiology of Aging,2017,50(9):
+25-29.
+[9] 周彬,吴琳,凌叶盛,等.人参皂苷 Rb1 通过抑制 NF-κB p65 介导的
+炎症和氧化应激改善内皮细胞复制性衰老[J].中山大学学报(医
+学版),2018,39(6):835-843.
+[10] LU S,ZHANG Y B,LI H J,et al. Ginsenoside Rb1 can ameliorate
+the key inflammatory cytokines TNF-αand IL-6 in a cancer Cachexia
+mouse model[J].BMC Complementary Medicine and Therapies,
+2020,20(1):1-9.
+[11] ZU G,GUO J,CHE N W,et al. Protective effects of ginsenoside
+Rg1 on intestinal ischemia/reperfusion injury-induced oxidative
+stress and apoptosis via activation of the Wnt/β-catenin pathway
+[J].Scientific Reports,2016.DOI:10.1038/srep38480.
+[12] CHENG Z K,ZHANG M,LING C L,et al.Neuroprotective effects of
+ginsenosides against cerebral ischemia [J]. Molecules, 2019, 24
+(6):1102.
+[13] JANG M,LEE M J,CHOI J H,et al.Ginsenoside Rb1 attenuates acute
+inflammatory nociception by inhibition of neuronal ERK phosphorylation
+by regulation of the Nrf2 and NF-κB pathways[J].The Journal of
+Pain,2016,17(3):282-297.
+[14] LIN J W,GAO S Y,WANG T Q,et al. Ginsenoside Rb1 improves
+learning and memory ability through its anti-inflammatory effect
+in Aβ1-40 induced Alzheimer's disease of rats [J]. American
+Journal of Translational Research,2019,11(5):2955-2968.
+[15] MIAO H H,ZHANG Y,DING G N,et al. Ginsenoside Rb1 attenuates
+isoflurane/surgery-induced cognitive dysfunction via inhibiting
+neuroinflammation and oxidative stress[J].Biomedical and Environmental
+Sciences,2017,30(5):363-372.
+[16] HUNT C A,SCHENKER L J,KENNEDY M B.PSD-95 is associated
+with the postsynaptic density and not with the presynaptic membrane
+at forebrain synapses[J].The Journal of Neuroscience,1996,16
+(4):1380-1388.
+[17] 张璟璇,袁美春,李海霞,等.人参皂苷 Rb1 对氧-糖剥夺诱导的大
+鼠原代皮层神经元损伤的保护作用[J].中成药,2019,41(10):2339-
+2344.
+[18] 曹梦园,赵月鸣,张晶,等.人参皂苷 Rb1 对 Aβ25-35 诱导痴呆大鼠
+海马神经元凋亡的影响[J].中国现代医学杂志,2015,25(35):33-36.
+(收稿日期:2020-10-09)
+(本文编辑 邹丽)
+4·
+4
+·4
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE February 2022 Vol.
+20 No.
+3

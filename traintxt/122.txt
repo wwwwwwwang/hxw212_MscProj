@@ -1,0 +1,665 @@
+doi: 10． 3969 /j． issn． 1002 －7386． 2020． 09． 001
+·论著·
+人参皂苷 Ｒg3 联合沉默 MMP-9 抑制乳腺癌
+肿瘤细胞的生长和转移
+廖天志
+成宏
+作者单位: 445000
+湖北省恩施土家族苗族自治州中心医院中西
+医结合肿瘤科( 廖天志) ，乳腺外科( 成宏)
+通讯作者: 445000
+湖北省恩施土家族苗族自治州中心医院乳腺
+外科;
+E-mail: ld524593@ 163． com
+【摘要】 目的
+研究人参皂苷 Ｒg3 联合沉默 MMP-9 基因对乳腺癌肿瘤生长和转移的作用，为探讨新的乳腺癌
+治疗方式和潜在靶点提供理论基础。方法
+培养高转移性乳腺癌细胞系 MDA-MB-231，使用 Ｒg3 处理细胞，并且转染
+MMP-9 过表达载体或 MMP-9 siＲNA 沉默载体。细胞划痕实验检测细胞迁移能力变化、采用 Transwell 小室使用检测
+细胞侵袭能力、CCK-8 检测细胞增值活性、DNA 变化检测细胞周期。ＲT-qPCＲ 检测已处理并转染的 MDA-MB-231 中
+MMP-9 表达变化，Western blot 检测细胞中 Ki-67、CDK1、VEGF、Twist1、MMP-9 蛋白的表达变化。结果
+Ｒg3 抑制
+MDA-MB-231 细胞的侵袭和迁移能力，且下调 MMP-9 的 mＲNA 及蛋白表达( P ＜ 0． 05) ，且 MMP-9 过表达显著逆转
+Ｒg3 对细胞的侵袭和迁移能力的抑制作用( P ＜ 0． 05) 。Ｒg3 联合沉默 MMP-9 处理细胞显著抑制高转移性乳腺癌细
+胞的增殖活性和 G1 /S 周期进展以及 Ki-67 和 CDK1 蛋白的表达水平( P ＜ 0． 05) 。Ｒg3 联合沉默 MMP-9 处理细胞抑制
+该高转移性乳腺癌细胞的迁移和侵袭能力以及 VEGF 和 Twist1 蛋白的表达( P ＜ 0． 05) 。结论
+人参皂苷 Ｒg3 通过抑
+制 MMP-9 抑制高转移性乳腺癌细胞的侵袭和迁移，人参皂苷 Ｒg3 联合沉默 MMP-9 抑制乳腺癌肿瘤细胞的生长，迁移
+及侵袭。
+【关键词】 高转移性乳腺癌; 人参皂苷 Ｒg3; 基质金属蛋白酶 MMP-9; 生长; 迁移; 侵袭
+【中图分类号】 Ｒ 737． 9
+【文献标识码】 A
+【文章编号】 1002 － 7386( 2020) 09 － 1285 － 06
+Effects of ginsenoside Ｒg3 and MMP-9 combined with the silencing of MMP-9 on the growth and metastasis of breast
+cancer in vitro
+LIAO Tianzhi* ，CHENG Hong． * Department of Oncology，Central Hospital of Enshi Autonomous Prefecture，
+Hubei，Enshi 445000，China
+【Abstract】 Objective
+To investigate the effects of ginsenoside Ｒg3 and MMP-9 combined with the silencing of MMP-
+9 on the growth and metastasis of breast cancer in vitro，so as to provide theoretical basis for exploring new treatment methods
+and potential targets for breast cancer． Methods
+The high metastatic breast cancer cell line MDA-MB-231 was cultured in
+vitro，and the cells were treated with Ｒg3 and transfected with MMP-9 over-expression vectors or MMP-9 siＲNA silencing
+vectors． The changes of cell migration ability were detected by cell wound healing test，and cell invasion ability was detected by
+Transwell chamber，cell proliferation activity was detected by CCK-8，and cell cycle was analyzed according to DNA changes．
+The expression levels of MMP-9 mＲNA in the cells were detected by ＲT-qPCＲ． Moreover the expression levels of Ki-67，
+CDK1，VEGF，Twist1，and MMP-9 were detected by Western Blot． Ｒesults
+The Ｒg3 inhibited the invasion and migration of
+MDA-MB-231 cells and down-regulated the expression levels of MMP-9 mＲNA and protein significantly ( P ＜ 0． 05) ． In
+addition MMP-9 over-expression significantly reversed the inhibition of Ｒg3 on cell invasion and migration ( P ＜ 0． 05) ． The
+Ｒg3 combined with MMP-9 silencing significantly inhibited the proliferation activity and G1 /S cycle progression of the highly
+metastatic breast cancer cells，and inhibited the expression levels of Ki-67 and CDK1 ( P ＜ 0． 05) ． Furthermore，Ｒg3 combined
+with MMP-9 silencing cells inhibited the migration and invasion ability of the cells as well as the expression levels of VEGF
+and Twist1 proteins ( P ＜ 0． 05) ． Conclusion
+The ginsenoside Ｒg3 can inhibit the invasion and migration of high metastatic
+breast cancer cells by inhibiting MMP-9 expression． The ginsenoside Ｒg3 combined with silencing MMP-9 can inhibit the
+growth，migration and invasion of breast cancer cells．
+【Key words】 high metastatic breast cancer; ginsenoside Ｒg3; matrix metalloproteinase-9; growth; migration; invasion
+乳腺癌是女性高危型性肿瘤之一，其发生率在女
+性肿瘤中居于首位
+［1］。另外，乳腺癌已经成为危害发
+达城市女性生命安全的第二大疾病，仅次于肺癌
+［2，3］。
+临床手术、放化疗、内分泌治疗、分子靶向治疗等手段
+在治疗乳腺癌中均有较明显的缺陷
+［4］，因此，仍需积
+极探索乳腺癌发生发展机制，探寻更有效的抗癌药物
+和治疗方式。人参皂苷 Ｒg3 来源于名贵中药材人参，
+是一种已被多项研究确认具有明显抗肿瘤作用的人参
+活性单体成分，可抑制乳腺癌的增殖、迁移、耐药性，然
+而，越来越多研究发现 Ｒg3 可能和抗肿瘤西药结合使
+用具有良好的疗效
+［5 － 9］。另外，人参皂苷 Ｒg3 对于乳
+1285
+河北医药 2020 年 5 月 第 42 卷 第 9 期
+Hebei Medical Journal，2020，Vol 42 May No. 9
+腺癌侵袭能力的抑制作用和机制的研究笔者所见较
+少。基质金属蛋白酶( MMP) -9 可以调节包括乳腺癌
+在内 的 多 种 恶 性 肿 瘤 细 胞 的 转 移 和 组 织 血 管 生
+成
+［10 － 12］。而且，在甲状腺癌、结肠癌、肺癌、卵巢癌中
+人参皂苷 Ｒg3 均可通过抑制 MMP-9 等表达活性对此
+类肿瘤的转移和恶性发展发挥抑制作用
+［13 － 15］。有研
+究发现，在乳腺癌细胞中人参皂苷 Ｒg3 可抑制 MMP-9
+的分泌
+［16］。然而到目前为止，人参皂苷 Ｒg3 是否通过
+调节 MMP-9 在乳腺癌中介导恶性发展还不清楚。本
+研究使用 Ｒg3 刺激体外高转移性乳腺癌细胞系 MDA-
+MB-231，拟验明 Ｒg3 对高转移性乳腺癌细胞同样具有
+抗迁移和侵袭的作用，通过高表达 MMP-9 的研究 Ｒg3
+抑制乳腺癌侵袭作用的下游分子机制，探讨人参皂苷
+Ｒg3 联合沉默 MMP-9 基因对乳腺癌肿瘤生长和转移
+的作用，报告如下。
+1
+材料与方法
+1． 1
+材料
+高转移性乳腺癌细胞系 MDA-MB-231 购
+买于 ATCC 美国模式培养物保藏所。人参皂苷 Ｒg3 购
+买于 上 海 纯 优 生 物 科 技，MMP-9 沉 默 载 体 MMP-9
+siＲNA 的构建和 MMP-9 稳定低表达的 MDA-MB-231
+细胞均购于上海吉玛公司公司，10% 胎牛血清( fetal
+bovine Serum，FBS，10099-141) 购买于美国 Gibco BＲL
+公司; Ki-67、CDK1、VEGF、Twist1、MMP-9、GAPDH 蛋
+白抗体均购于美国 Abcam 公司，基质胶和 Transwell 小
+室购于美国 BD 公司。CCK-8 检测试剂盒购于美国
+MCE 公司，DNA 含量检测细胞周期试剂盒购于美国
+Solarbio 公 司，细 胞 凋 亡 检 测 试 剂 盒 Cell Death
+Detection ELISAPLUS 购于德国 Ｒoche 公司。
+1． 2
+细胞培养
+MDA-MB-231 的培养使用 L-15 培养
+基( 其中含 10% FBS) 进行常规含有 5% CO2 的 37℃
+培养箱培养。待形成细胞单层后使用 0． 25% 胰蛋白
+酶消化传代，传代比例 1∶ 3，并继续培养。供后续实验
+使用。
+1． 3
+细胞转染和药物处理分组
+细胞按照实验目的
+接种于合适的培养皿或者多孔板中进行处理，control
+组: 无 处 理 的 MDA-MB-231 细 胞; Ｒg3 组: 单 独
+0． 1 mmol/L 人参皂苷 Ｒg3 处理细胞; Ｒg3 + pcMMP-9:
+Ｒg3 和 MMP-9 过表达载体共处理组; Ｒg3 + pcMMP-9-
+NC: Ｒg3 和 过表 达 空 载 体 作 为 阴 性 对 照 组; Ｒg3 +
+siMMP-9: 人参皂苷 Ｒg3( Ｒg3，0． 1 mmol/L) 联合沉默
+MMP-9; Ｒg3 + siNC: 人参皂苷 Ｒg3( Ｒg3，0． 1 mmol/L)
+联合沉默 MMP-9 的阴性对照组。
+1． 4
+细胞划痕实验
+各处理组细胞收集至 48 孔板。
+培养细胞至融合率达到 80% ，换成无血清培养基培养
+24 h。使用无菌 200 μl 吸管尖端行培养板内侧底部划
+痕，然后移除培养基，换成新鲜无血清培养基。用配有
+数码相机的 Olympus IX70 显微镜进行拍照，拍照时间
+为划痕后 0 h 及 24 h。利用 Image J 1． 5 软件计算划痕
+两侧的距离，测量划痕宽度变化。
+1． 5
+Transwell 细胞侵袭实验
+Transwell 侵袭实验按
+照供应商提供的实验步骤进行。上室底部铺 Matrigel
+基质胶，使用前进行基底膜水化。上室接种不同处理
+组的细胞( 浓度为 1 × 10
+6 /ml) 0． 5 ml。下室 0． 6 ml 含
+10% FBS 的 DMEM 培养基，再将小室放进培养板。培
+养 24 h 后，在上层和下层的测试容器中分别加入
+0． 4% 的台盼蓝，并进行风干，使用结晶紫对膜进行染
+色，在显微镜( 200 × ) 视野下选取 5 个区域对细胞迁
+移数量直接进行计数统计。
+1． 6
+ＲT-qPCＲ
+对各组细胞入适量的 TＲIzol 试剂，严
+格按照说明书提取总 ＲNA，采用反转录试剂盒将 5 μg
+总 ＲNA 反转录为 cDNA。然后用 SYBＲ Green 进行实
+时定量 PCＲ，每组设置 3 个复孔，反应条件设置为:
+94℃ 5 min，57℃ 30 s，72℃ 30 s，共 35 个 循 环。
+GAPDH 作为内参，目的基因的相对表达量采用 2
+-ΔΔCt
+方法计算。
+1． 7
+Western blot
+用 PBS 清洗各组细胞 3 次，加入细
+胞裂解液于 4℃ 反应 15 min，4℃ 离心 12 000 r/min，
+15 min。收集上清并测定各组样品的蛋白浓度。每个
+样品按照 20 μg 的上样量，于 SDS-PAGE 凝胶上分离
+蛋白，转膜，采用 3% 的脱脂牛奶于室温封闭 2 h，4℃
+过夜孵育一抗，孵育辣根过氧化酶标记的二抗于室温
+反应 1． 5 h。最后，ECL 发光显色，X 线胶片曝光，采用
+ImageJ 统计各条带灰度值。
+1． 8
+CCK-8 实验
+各组细胞转入 24 孔板于 37℃ 培
+养箱培养 24 h; 每孔加入 10 μl CCK-8，37℃、5% CO2
+饱和湿度条件培养 4 h; 酶标仪测定各孔吸光值 OD
+450。细胞增殖活性率的计算: survival rate ( % ) =
+OD/OD0h × 100% 。
+1． 9
+细胞周期实验
+通过 DNA 含量的检测对细胞周
+期进行分析。对各处理组的细胞进行收集，随后对细
+胞进行碘化丙啶( Life Tecnologies) 染色，使用 FACS
+Calibur Flow Cytometer ( BD Biosciences) 流式细胞仪确
+定细胞周期并对 G0 /G1 和 S 期的细胞中 DNA 含量变
+化，确定细胞周期并计算不同组间的差异。
+1． 10
+统计学分析
+应用 GraphPad Prism 5 统计软
+件，计量资料以 珋
+x ± s 表示，2 组间采用 t 检验，组间比
+较采用单因素方差分析( ANOVA) ，随后进行 LSD 检
+验，P ＜ 0． 05 为差异有统计学意义。
+1286
+河北医药 2020 年 5 月 第 42 卷 第 9 期
+Hebei Medical Journal，2020，Vol 42 May No. 9
+2
+结果
+2． 1
+Ｒg3 抑制高转移性乳腺癌细胞 MDA-MB-231 的
+迁移和侵袭及 MMP-9 的表达
+与 control 组比较，Ｒg3
+组 MDA-MB-231 细胞的迁移率下调，差异有统计学意
+义( P ＜ 0． 05) ，且 Ｒg3 组细胞的侵袭率亦下调，差异有
+统计学意义( P ＜ 0． 05) 。与 control 组比较，MMP-9 的
+mＲNA 水平和蛋白水平均下调，差异均有统计学意义
+( P ＜ 0． 05) 。见表 1，图 1。
+表 1
+Ｒg3 抑制乳腺癌细胞的迁移和侵袭及 MMP-9 的表达
+n = 3，珋
+x ± s
+组别
+细胞迁移率( % )
+细胞侵袭率( % )
+MMP-9 mＲNA 水平相对表达量
+MMP-9 蛋白水平相对表达量
+Control 组
+72． 49 ± 3． 77
+28． 86 ± 1． 18
+0． 94 ± 0． 16
+0． 88 ± 0． 09
+Ｒg3 组
+48． 11 ± 2． 32*
+17． 68 ± 2． 51*
+0． 56 ± 0． 09*
+0． 38 ± 0． 13*
+注: 与 Control 组比较，* P ＜ 0． 05
+图 1
+Ｒg3 抑制乳腺癌细胞的迁移和侵袭及 MMP-9 的表达; A 细胞伤口愈合实验检测细胞迁移率的变化; B Transwell 实验检测细胞侵袭率; MMP-9
+相对 mＲNA( C) 和蛋白( D) 的表达变化
+2． 2
+Ｒg3 通过抑制 MMP-9 的表达负调控高转移性乳
+腺癌细胞的迁移和侵袭
+与单独 Ｒg3 处理相比，Ｒg3 +
+pc-MMP-9 组的 MDA-MB-231 细胞的迁移率部分上调，
+差异有统计学意义( P ＜ 0． 05) ，且 Ｒg3 组细胞的侵袭
+率同样 增 加，差 异 有 统 计 学 意 义 ( P ＜ 0． 05 ) 。与
+control 组相比，Ｒg3 处理后 VEGF 和 Twst1 的蛋白水平
+都下调( P ＜ 0． 05) ，与单独 Ｒg3 处理相比，VEGF 和
+Twst1 的蛋白水平部分恢复，差异有统计学意义( P ＜
+0． 05) 。Ｒg3 下调 MMP-9 是其抗乳腺癌细胞的迁移和
+侵袭的关键机制之一。见表 2，图 2。
+表 2
+Ｒg3 联合 MMP-9 过表达调节乳腺癌细胞的迁移和侵袭
+珋
+x ± s
+组别
+MMP-9 蛋白水平相对表达量
+细胞迁移率( % )
+细胞侵袭率( % )
+VEGF 蛋白水平相对表达量
+Twist1 蛋白水平相对表达量
+Control 组
+0． 25 ± 0． 09
+73． 08 ± 2． 61
+26． 75 ± 2． 64
+0． 85 ± 0． 06
+0． 83 ± 0． 08
+pc-NC 组
+0． 24 ± 0． 08
+pc-MMP-9 组
+0． 88 ± 0． 10
+Ｒg3 组
+49． 67 ± 3． 43
+19． 56 ± 1． 92
+0． 22 ± 0． 07
+0． 23 ± 0． 07
+pc-MMP-9 + Ｒg3 组
+59． 40 ± 2． 43
+23． 19 ± 3． 07
+0． 34 ± 0． 05
+0． 31 ± 0． 02
+pc-NC + Ｒg3 组
+49． 99 ± 6． 88
+20． 42 ± 2． 06
+0． 24 ± 0． 05
+0． 23 ± 0． 09
+* P vs． control 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+# P vs． Ｒg3 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+2． 3
+Ｒg3 联合沉默 MMP-9 抑制高转移性乳腺癌细胞
+的增殖活性和 G1 /S 周期进展
+CCK-8 结果发现，与
+单独 Ｒg3 处理组相比，Ｒg3 处理和 MMP-9 沉默联合处
+理抑制乳腺癌细胞的增殖活性，差异有统计学意义
+( P ＜ 0． 05) ，且 Ki-67 蛋白的表达在联合处理组中下
+调，差异有统计学意义( P ＜ 0． 05) 。其次，G1 /S 期进
+展研究结果发现，与单独 Ｒg3 处理组相比，Ｒg3 处理和
+MMP-9 沉默联合处理可抑制 G1 期细胞向 S 进展，差
+异有统计学意义( P ＜ 0． 05) 。且细胞周期依赖性蛋白
+CDK1 的表达水平被下调，差异有统计学意义( P ＜
+0． 05) 。Ｒg3 联合 MMP-9 沉默可明显抑制高转移性乳
+腺癌细胞的增殖活性和 G1 /S 周期进展。见表 3，图 3。
+1287
+河北医药 2020 年 5 月 第 42 卷 第 9 期
+Hebei Medical Journal，2020，Vol 42 May No. 9
+图 2
+Ｒg3 联合 MMP-9 过表达调节乳腺癌细胞的迁移和侵袭; A MMP-9 蛋白相对表达变化; * P ＜ 0． 05 vs． control 组，n = 3; B 细胞迁移率的变化; C
+Transwell 实验检测细胞侵袭率变化; VEGF( D) 和 Twist1( E) 蛋白表达变化，#P ＜ 0． 05 vs． control 组，△P ＜ 0． 05 vs． Ｒg3 组，Ｒg3: 人参皂苷 Ｒg3;
+pc-MMP-9: MMP-9 蛋白的真核表达载体 pcDNA3． 1( + ) -MMP-9; pc-NC: pcDNA3． 1( + ) 空载体作为阴性对照
+表 3
+Ｒg3 联合沉默 MMP-9 调节乳腺癌细胞的增殖和细胞周期进展
+珋
+x ± s
+组别
+6 h
+12 h
+24 h
+48 h
+G1 期
+S 期
+KI-67 蛋白水平相对表达量
+CDK1 蛋白水平相对表达量
+Control 组
+0． 84 ± 0． 05
+0． 82 ± 0． 07
+0． 73 ± 0． 10
+0． 75 ± 0． 10
+52． 69 ± 6． 17 51． 99 ± 5． 24
+0． 86 ± 0． 07
+0． 83 ± 0． 09
+si-NC 组
+0． 82 ± 0． 06
+0． 77 ± 0． 05
+0． 74 ± 0． 08
+0． 69 ± 0． 09
+52． 78 ± 3． 92 52． 21 ± 3． 64
+0． 85． ± 0． 06
+0． 83 ± 0． 06
+si-MMP-9 组
+0． 74 ± 0． 06
+0． 74 ± 0． 05
+0． 71 ± 0． 08
+0． 66 ± 0． 07
+62． 79 ± 4． 93 42． 83 ± 8． 49
+0． 42 ± 0． 09
+0． 46 ± 0． 06
+si-MMP-9 + Ｒg3 组
+0． 61 ± 0． 07
+0． 58 ± 0． 10
+0． 44 ± 0． 11
+0． 40 ± 0． 05
+79． 50 ± 7． 94 38． 77 ± 1． 58
+0． 27 ± 0． 06
+0． 32 ± 0． 07
+si-NC + Ｒg3 组
+0． 67 ± 0． 09
+0． 64 ± 0． 12
+0． 57 ± 0． 13
+0． 55 ± 0． 08
+71． 11 ± 7． 59 46． 21 ± 4． 56
+0． 35 ± 0． 06
+0． 41 ± 0． 10
+Ｒg3 组
+0． 76 ± 0． 03
+0． 68 ± 0． 09
+0． 66 ± 0． 11
+0． 63 ± 0． 05
+71． 11 ± 7． 68 46． 27 ± 6． 96
+0． 34 ± 0． 09
+0． 41 ± 0． 08
+* P vs． control 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+# P vs． si-MMP-9 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+△ P vs si-MMP-9 + Ｒg3 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+图 3
+Ｒg3 联合 MMP-9 沉默调节乳腺癌细胞的增殖和细胞周期进程; A CCK-8 检测细胞的增殖活性; #P ＜ 0． 05 vs． control 组，n = 3; B Ki-67 蛋白水平
+变化; C G1 期细胞和 S 期细胞相对数目变化; ( D) CDK1 蛋白水平变化，* P ＜ 0． 05 vs． control 组，# P ＜ 0． 05 vs． si-MMP-9 组，△P ＜ 0． 05 vs．
+si-MMP-9 + Ｒg3 组，Ｒg3: 人参皂苷 Ｒg3; si-MMP-9: MMP-9 siＲNA 沉默载体; si-NC: siＲNA 阴性对照
+1288
+河北医药 2020 年 5 月 第 42 卷 第 9 期
+Hebei Medical Journal，2020，Vol 42 May No. 9
+2． 4
+Ｒg3 联合沉默 MMP-9 抑制高转移性乳腺癌细胞
+的迁移和侵袭
+细胞划痕实验发现，与单独 Ｒg3 处理
+组相比，Ｒg3 处理和 MMP-9 沉默联合处理可抑制乳腺
+癌细胞的划痕愈合能力，差异有统计学意义( P ＜0． 05) ，
+Transwell 细胞侵袭实验发现，与单独 Ｒg3 处理相比，
+Ｒg3 处理和 MMP-9 沉默联合处理可以抑制细胞的侵
+袭率，差异有统计学意义 ( P ＜ 0． 05) 。且 VEGF 和
+Twist1 的蛋白的表达水平均被下调，差异有统计学意
+义( P ＜ 0． 05) 。因此，Ｒg3 联合 MMP-9 沉默可明显抑
+制高转移性乳腺癌细胞的迁移和侵袭。见表 4，图 4。
+表 4
+Ｒg3 联合 MMP-9 沉默调节乳腺癌细胞的迁移和侵袭
+珋
+x ± s
+组别
+细胞迁移率( % )
+细胞侵袭率( % )
+VEGF 蛋白水平相对表达量
+Twist1 蛋白水平相对表达量
+Control 组
+74． 27 ± 4． 29
+27． 36 ± 2． 17
+0． 90 ± 0． 05
+0． 94 ± 0． 08
+si-NC 组
+74． 73 ± 6． 61
+27． 33 ± 2． 95
+0． 89 ± 0． 12
+0． 93 ± 0． 14
+si-MMP-9 组
+55． 08 ± 7． 26
+19． 99 ± 2． 90
+0． 34 ± 0． 06
+0． 33 ± 0． 09
+si-MMP-9 + Ｒg3 组
+37． 72 ± 5． 11
+14． 69 ± 4． 39
+0． 27 ± 0． 12
+0． 25 ± 0． 09
+si-NC + Ｒg3 组
+51． 49 ± 4． 45
+22． 94 ± 4． 10
+0． 36 ± 0． 09
+0． 38 ± 0． 08
+Ｒg3 组
+51． 28 ± 3． 48
+22． 78 ± 5． 33
+0． 36 ± 0． 08
+0． 38 ± 0． 09
+* P vs． control 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+* P vs． si-MMP-9 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+△ P vs si-MMP-9 + Ｒg3 组
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+＜ 0． 05
+图 4
+Ｒg3 联合 MMP-9 沉默调节乳腺癌细胞的迁移和侵袭; A 伤口愈合实验检测细胞迁移率的变化; B Transwell 实验检测细胞侵袭率变化; VEGF
+( C) 和 Twist1( D) 蛋白表达变化; #P ＜ 0． 05 vs． control 组，* P ＜ 0． 05 vs． control 组，#P ＜ 0． 05 vs． si-MMP-9 组，△P ＜ 0． 05 vs． si-MMP-9 + Ｒg3 组，
+Ｒg3: 人参皂苷 Ｒg3; si-MMP-9: MMP-9 siＲNA 沉默载体; si-NC: siＲNA 阴性对照
+3
+讨论
+MDA-MB-231 细胞是一种恶性程度较高的人乳腺
+癌细胞，具有高转移性和高增殖活性
+［17］。人参皂苷
+Ｒg3 可抑制多种恶性肿瘤细胞的增殖活性并抑制凋
+亡，其中就包括乳腺癌细胞 MDA-MB-231
+［5，18］。而且
+最新研究发现人参皂苷 Ｒg3 可抑制 MDA-MB-231 细
+胞的迁移能力
+［18］。然而，到目前为止 Ｒg3 对于乳腺癌
+细胞的侵袭能力的影响并不明确。本研究结果发现，
+Ｒg3 不仅抑制 MDA-MB-231 细胞的划痕愈合能力，而
+且可抑制 MDA-MB-231 细胞的侵袭能力。因此，Ｒg3
+不仅明显抑制 MDA-MB-231 细胞的增殖和迁移，而且
+对 MDA-MB-231 的侵袭性同样具有明显的抑制作用。
+表明人参皂苷 Ｒg3 是一种潜在的抗恶性乳腺癌细胞
+侵袭的药物。
+MMPs 介导基膜和细胞外基质降解和细胞迁移等
+过程
+［19］。而且，MMP9 是最关键的肿瘤分泌 MMPs 之
+一，在基膜Ⅵ胶原和其他基质蛋白的降解过程中发挥
+重要作用
+［20］。有研究表明 Ｒg3 在抑制黑素瘤细胞的
+肺转移过程中，同样抑制了 MMP-9 的表达
+［21］，同样的
+结果在结肠癌细胞 HT-29 中被验证
+［22］。本研究发现
+Ｒg3 同 样 可 以 抑 制 乳 腺 癌 MDA-MB-231 细 胞 中 的
+MMP-9 的 mＲNA 和蛋白水平的表达。更重要的是，本
+研究发现过表达 MMP-9 明显逆转 Ｒg3 对该乳腺癌细
+胞侵袭作用的抑制效果。因此表明 Ｒg3 可通过下调
+MMP-9 的表达抑制高转移性乳腺癌细胞的侵袭能力。
+中药联合基因治疗是中西医结合的治疗方法之
+1289
+河北医药 2020 年 5 月 第 42 卷 第 9 期
+Hebei Medical Journal，2020，Vol 42 May No. 9
+一，已被运用于许多病症的基础与临床研究。在治疗
+肺癌恶性胸水的研究中，王维等使用攻癌利水散的外
+敷并联合重组的 p53 基因腺病毒胸腔灌注进行治
+疗
+［23］。对原发性肝癌的中西医治疗也得到良好的治
+疗效果
+［24］。更重要的是，研究发现沉默 MMP-9 可以
+抑制多种肿瘤细胞的生长，包括胃癌细胞
+［25］、白血病
+单核细胞
+［26］、黑色素瘤细胞等
+［27］。本研究同样发现
+单独沉默 MMP-9 对乳腺癌细胞的增殖和细胞周期进
+程具有明显的抑制作用，而且沉默 MMP-9 联合 Ｒg3 处
+理对高侵袭性乳腺癌细胞的增殖活性和细胞的周期进
+展的抑制效果均高于单独沉默 MMP-9。肿瘤的中西
+医联合治疗方式在多种报道中已经表明，其效果均优
+于单独治疗。重组人血管内皮抑制素联合 Ｒg3 处理
+乳腺癌细胞可以抑制乳腺癌肿瘤小鼠的瘤生长，这种
+抑制效果明显优于单独 Ｒg3 或单独使用重组人血管
+内皮抑制素处理
+［28］。另外，Ｒg3 和多种抗肿瘤西药联
+合使用对多种肿瘤细胞的生长和血管生成均具有较好
+的抑制效果
+［29，30］。而且，研究发现 MMP-9 沉默抑制
+多种癌细胞的侵袭和迁移
+［31］。而本研究结果同样发
+现，Ｒg3 联合 MMP-9 基因沉默对细胞侵袭和迁移具有
+更明显的抑制作用。另外，相 比 单 独 沉 默 MMP-9，
+siＲNA 联合沉默 MMP-9 和 FAK 基因可以明显抑制高
+转移性小鼠黑色素瘤细胞 B16F10 的侵袭和迁移
+［27］。
+综上所述，中药单体 Ｒg3 联合 MMP-9 敲减可能是
+西医结合治疗乳腺癌的有效方法之一。仍需进一步在
+体内实验进行反复验证，为乳腺癌等多种肿瘤治疗方
+法提供新的思路。
+参考文献
+1
+陈万青，郑荣寿． 中国女性乳腺癌发病死亡和生存状况． 中国肿瘤临
+床，2015，42: 668-674．
+2
+钱桂生，余时沧． 肺癌流行病学最新资料与启示． 中华结核和呼吸杂
+志，2012，31: 86-89．
+3
+汪登斌． 乳腺 MＲI 应用现状和我国乳腺 MＲI 应用中存在的问题． 中
+华放射学杂志，2014，35: 177-179．
+4
+姚月歌，姚桢． 乳腺癌的分子靶向治疗． 日本医学介绍，2007，28:
+177-179．
+5
+孙大鹏，顾立学，李晨光，等． 人参皂苷 Ｒg3 通过人乳腺珠蛋白 A 促
+进乳腺癌 MDA-MB-231 细胞凋亡及其可能的机制． 中国肿瘤生物治
+疗杂志，2017，24: 615-619．
+6
+潘晓华，王墨林，崔行． 人参皂苷 Ｒg3 对乳腺癌细胞增殖的影响及其
+机制探讨． 山东医药，2011，51: 20-22．
+7
+Zhang Q，Kang X，Yang B，et al． Antiangiogenic effect of capecitabine
+combined with ginsenoside Ｒg3 on breast cancer in mice． Cancer
+biotherapy ＆ radiopharmaceuticals，2008，23: 647-654．
+8
+Chen X，Qian L，Jiang H，et al． Ginsenoside Ｒg3 inhibits CXCＲ 4
+expression and
+related
+migrations
+in
+a
+breast
+cancer
+cell
+line．
+International journal of clinical oncology，2011，16: 519-523．
+9
+陈云，张竝，俞勇，等． 人参皂苷 Ｒg3 对乳腺癌 MCF-7 细胞增殖和侵
+袭的影响． 中国现代应用药学，2013，30: 722-725．
+10
+王丽辉，刘大渔，吕申． 乳腺癌细胞促血管生成能力及 MMP 一 9 表
+达与其淋巴道转移的关系． 肿瘤防治研究，2005，32: 1-5．
+11
+沈国满． 重组人血管内皮抑制素注射液对老年转移性乳腺癌患者
+疗效及对血清血管内皮细胞生长因子和基质金属蛋白酶-9 的影
+响． 中国老年学杂志，2012，19: 4274-4275．
+12
+Mink W，Kimd H，Dos I，et al． Expression patterns of stromal MMP-2
+and tumoural MMP-2 and-9 are significant prognostic factors in invasive
+ductal carcinoma of the breast． Apmis，2014，122: 1196-1206．
+13
+Junmin S，Hongxiang L，Zhen L，et al． Ginsenoside Ｒg3 inhibits colon
+cancer cell migration by suppressing nuclear factor kappa B activity．
+Journal of Traditional Chinese Medicine，2015，35: 440-444．
+14
+Wang L，Li X，Song YM，et al． Ginsenoside Ｒg3 sensitizes human non-
+small cell lung cancer cells to γ-radiation by targeting the nuclear factor-
+κB pathway． Molecular medicine reports，2015，12: 609-614．
+15
+Tian-min XU，Cui MH，Ying X，et al． Inhibitory effect of ginsenoside
+Ｒg3 on ovarian cancer metastasis． Chinese Medical Journal，2008，121:
+1394-1397．
+16
+李博，杨威，郑永晨，等． 人参皂甙 Ｒg3 对乳腺癌细胞表达 MMP-2
+和 MMP-9 的影响． 中国老年学，2005，25: 953-954．
+17
+Gallagher SM，Castorino JJ，Wang D，et al． Monocarboxylate transporter
+4 regulates maturation and trafficking of CD147 to the plasma membrane
+in the
+metastatic
+breast
+cancer
+cell
+line
+MDA-MB-231． Cancer
+Ｒesearch，2007，67: 4182-4189．
+18
+郭琪，袁明慧，郭宇飞． 人参皂苷 Ｒg3 对乳腺癌 MDA-MB-231 细胞
+增殖和侵袭的影响． 实用妇科内分泌杂志( 电子版) ，2018，5: 8-10．
+19
+Pepper MS． Ｒole of the matrix metalloproteinase and plasminogen
+activator-plasmin systems in angiogenesis． Arteriosclerosis，thrombosis，
+and vascular biology，2001，21: 1104-1117．
+20
+邢丽丽． MMP9 和 COX2 基因多态性与结直肠癌易感性的关联研
+究． 中国医科大学，2008．
+21
+姜新，辛颖，许天敏，等． 人参皂苷 Ｒg3 对小鼠 B16 黑素瘤细胞侵
+袭、转移及 MMP-9 表达的影响． 肿瘤，2011，31: 117-121．
+22
+杜卫东，屠巍巍，孙传． 人参皂苷 Ｒg3 对 HT-29 细胞株 MMP-9 和
+TIMP-1 表达的影响． 中国中西医结合外科杂志，2012，18: 154-157．
+23
+陈红，王维，李枋霏，等． 攻癌利水散外敷联合重组 p53 基因腺病毒
+治疗肺癌胸水 30 例． 西部中医药，2017，30: 106-108．
+24
+史守良，崔守章，胡万宁，等． P53 基因治疗药联合中药治疗原发性
+肝癌的疗效观察． 现代中西医结合杂志，2012，21: 693-694．
+25
+林洪坦． MMP-9 基因沉默抑制胃癌裸鼠移植瘤生长的实验研究． 福
+建医科大学，2011．
+26
+禹莉，凌云志，肖霄，等． ＲNA 干扰技术沉默 MMP-9 基因对 THP-1
+细胞影响的实验研究． 中国免疫学杂志，2014，37: 1069-1073．
+27
+汤禾静，唐照勇，刘隆兴，等． siＲNA 联合沉默 MMP-9 和 FAK 基因
+对小鼠黑色素瘤高转移细胞 B16F10 体外侵袭和迁移的影响． 中国
+生物工程杂志，2014，34: 40-47．
+28
+Zhang Y，Liu QZ，Xing SP，et al． Inhibiting effect of Endostar combined
+with ginsenoside Ｒg3 on breast cancer tumor growth in tumor-bearing
+mice． Asian Pacific Journal of Tropical Medicine，2016，9: 180-183．
+29
+Kim SM，Lee SY，Cho JS，et al． Combination of ginsenoside Ｒg3 with
+docetaxel enhances the susceptibility of prostate cancer cells via
+inhibition of NF-kappaB． European Journal of Pharmacology，2010，631:
+1-9．
+30
+Xu TM，Xin Y，Cui MH，et al． Inhibitory effect of ginsenoside Ｒg3
+combined with cyclophosphamide on growth and angiogenesis of ovarian
+cancer． Chin Med J，2007，120: 584-588．
+31
+刘丹，陈国福，刘永庆，等． ＲNA 干扰基质金属蛋白酶-9 对骨肉瘤
+MG-63 细 胞 侵 袭、迁 移 的 影 响． 中 国 老 年 学 杂 志，2018，38:
+4027-4030．
+( 收稿日期: 2019 － 10 － 12)
+1290
+河北医药 2020 年 5 月 第 42 卷 第 9 期
+Hebei Medical Journal，2020，Vol 42 May No. 9

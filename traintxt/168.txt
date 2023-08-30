@@ -1,0 +1,369 @@
+·综    述· 
+中国现代医生 2023 年 4 月第 61 卷第 10 期 
+CHINA MODERN DOCTOR  VoI. 61  No. 10  ApriI  2023   
+108 
+人参皂苷治疗哮喘的分子作用机制研究进展 
+ 
+张志勇 1，李少峰 2，裴秋兰 2，黄奇锋 1，胡聪 1 
+1.江西中医药大学临床医学院，江西南昌  330004；2.江西中医药大学附属医院呼吸与危重症医学科，江西南昌  330006 
+ 
+[摘要] 哮喘是由多种细胞和细胞内组分参与的气道炎症性疾病，以气道的慢性炎症、气道高反应性、可逆性气流受限及
+气道重构为主要特征。哮喘的可逆性气流受限可逐渐发展成不可逆的气流受限，演变为重症哮喘。重症哮喘常合并呼吸
+衰竭等，危害人类健康。人参皂苷包含 Rh1、Rh2、CK、Rb1、Rg1 和 Rg3 等有效成分，其中多个成分对哮喘的治疗具有
+有效性，通过抑制炎症因子、多条信号通路改善哮喘症状。本文对人参皂苷治疗哮喘的分子作用机制进行综述，为临床
+治疗哮喘提供理论依据。 
+[关键词] 人参皂苷；哮喘；分子作用机制；炎症反应；信号通路 
+[中图分类号] R562.25      [文献标识码] A      [DOI] 10.3969/j.issn.1673-9701.2023.10.026 
+ 
+支气管哮喘简称哮喘，是由多种细胞和细胞内
+组分参与的气道炎症性疾病，以气道的慢性炎症、
+气道高反应性、可逆性气流受限及气道重构为主要
+特征[1]。目前，哮喘的发病机制尚未完全清楚，亦无
+可治愈药物，其治疗以糖皮质激素抗炎、β2 受体激
+动剂扩张支气管为主。人参皂苷是人参、西洋参、
+三七等药材的主要药理成分，广泛用于心血管疾病
+的治疗。近年来研究发现，人参皂苷在治疗哮喘方
+面具有一定疗效。本文对人参皂苷治疗哮喘的分子
+作用机制作一综述。 
+ 
+1  人参皂苷概述 
+皂苷是中草药内含有的一种极为重要的活性成
+分，根据苷元结构的不同，分为三萜皂苷和甾体皂
+苷两种类型。人参皂苷又称三萜皂苷，主要存在于
+人参、西洋参、三七等一些人参属中药材中。人参
+皂苷按照糖苷基架构的不同，分为两大类，一类为
+达玛烷型四环三萜皂苷，一类为齐墩果烷型五环三
+萜皂苷[2]。达玛烷型四环三萜皂苷包括 20(S)-原人参
+二醇型人参皂苷和 20(S)-原人参三醇型人参皂苷，其
+中，20(S)-原人参二醇型人参皂苷的主要成分为 Rb1、
+Rb2、Rb3、Rh2、Rc、Rd、Rg3 和糖苷基 PD，20(S)-
+原人参三醇型人参皂苷的主要成分为 Re、Rf、Rg1、
+Rg2、Rh1 和糖苷基 PT。齐墩果烷型五环三萜皂苷的
+主要成分为 Ro、Rh3、Ri。 
+ 
+2  人参皂苷治疗哮喘的分子作用机制 
+2.1  人参皂苷抑制炎症因子的生成 
+气道免疫–炎症机制是哮喘的发病机制之一。辅
+助性 T 细胞（helper T cell，Th 细胞）是调节人体免
+疫的重要细胞。Th1 细胞主要分泌白细胞介素
+（interleukin，IL）-2、γ 干扰素（interferon-γ，IFN-γ）、
+肿瘤坏死因子-β（tumor necrosis factor-β，TNF-β）等；
+Th2 细胞主要分泌 IL-4、IL-5、IL-6、IL-10 和 IL-13
+等。Th1 和 Th2 细胞分别参与细胞免疫和体液免疫。
+在正常人体中，IFN-γ 和 IL-4 相互抑制，保持 Th1
+和 Th2 细胞功能平衡。当机体受到外来变应原侵入
+时，Th2 细胞增多，Th1/Th2 比例失衡，分泌大量 IL-4
+等细胞因子，抑制 IFN-γ 的分泌，诱导 B 细胞分泌
+免疫球蛋白 E，免疫球蛋白 E 与肥大细胞结合，引
+起大量炎症介质释放，进而使杯状细胞增生，杯状
+细胞分泌黏蛋白，导致气道黏液分泌增加、气管增
+厚、气道收缩等，引起气道狭窄，诱发哮喘[3]。张春
+晶等[4]研究发现，人参皂苷 Rh1 可抑制 IL-4、IL-5、
+IFN-γ 等细胞因子的产生，使失去平衡的 Th1/Th2 得
+以恢复；Rh1 减少哮喘小鼠嗜酸性粒细胞、转化生长
+因子-β1（transforming growth factor-β1，TGF-β1）、
+免疫球蛋白 E 的含量，减轻气道炎症和炎症因子对
+肺的损伤。Chen 等[5]研究发现，Rb1 可显著抑制 Th2
+细胞、增加 Th1 细胞，从而使哮喘中以 Th2 细胞占
+优势的 Th1/Th2 平衡得以纠正，改善患者的气道炎
+症症状。 
+与 Th1、Th2 细胞相比，Th17 细胞存在不同的
+分化途径。TGF-β、IL-6 通过信号转导及转录活化因
+子 3 信号通路，激活 Th17 细胞分化关键转录因子维
+甲酸相关孤儿核受体 γt，促进 Th17 细胞分化。成熟
+的 Th17 细胞分泌 IL-17、IL-23 等多种细胞因子，这
+些细胞因子诱导产生多种趋化因子，如 CC 亚族趋化
+因子受体 6 等；这些趋化因子促进炎症因子分泌，进
+一步加重机体炎症反应，诱发哮喘[6-7]。周亚兵等[8]
+研究发现，人参皂苷 Rg1 可抑制哮喘大鼠体内 IL-6
+ 
+基金项目：江西省教育厅科学技术研究项目（150851） 
+通信作者：李少峰，电子信箱：283541067@qq.com 
+中国现代医生 2023 年 4 月第 61 卷第 10 期 
+·综    述· 
+CHINA MODERN DOCTOR  VoI. 61  No. 10  ApriI  2023 
+109
+和 TGF-β1 含量，减少维甲酸相关孤儿核受体 mRNA
+的合成，抑制 Th17 细胞活化，减少 IL-17、IL-23 等
+炎症介质的释放，达到减轻哮喘气道炎症的目的。 
+嗜酸性粒细胞是中性粒细胞的一种，在气道炎
+症中发挥重要作用[9]。TNF-α 是一类由单核巨噬细
+胞产生的促炎细胞因子，在机体炎症反应中发挥巨
+大作用[10]。糖皮质激素受体在全身的细胞及组织内
+均有分布，在炎症反应中也发挥重要作用[11]。调节
+正常 T 细胞表达和分泌的活化因子（regulated upon 
+activation normal T cell expressed and secreted factor，
+RANTES）是一类由支气管上皮细胞分泌的、与嗜酸
+性粒细胞相关的细胞趋化因子，是嗜酸性粒细胞哮
+喘气道炎症的关键效应细胞；RANTES 不仅可释放
+嗜酸性粒细胞，还能促使其迁移至气道，与哮喘的
+发生密切相关[12-13]。活化蛋白-1 是一种二聚体转录
+因子，可促进下游靶基因 RANTES 的转录[14-15]。研
+究发现，人参皂苷代谢产物 CK 通过激活糖皮质激素
+受体，抑制活化蛋白-1 活性，减少由 TNF-α 诱导的
+支气管上皮细胞释放的 RANTES，从而减轻气道炎
+症反应，改善哮喘症状[15]。 
+2.2  人参皂苷通过Toll 样受体3/β 干扰素TIR 结构域
+衔接蛋白信号通路发挥作用 
+气道可逆性气流受限是哮喘的重要特征之一，
+主要机制是气道平滑肌功能异常（炎症和肥大）。
+研究表明，这与胞浆钙稳态失衡及平滑肌细胞分泌
+炎症因子密切相关[16-17]。当人肺动脉平滑肌细胞缺
+氧时，细胞胞质内 Ca2+浓度升高，平滑肌细胞过度
+增殖。Toll 样受体（toll-like receptor，TLR）是一类
+与人体先天免疫相关的蛋白质分子。TLR3 是 TLR
+家族成员之一，其以Ⅰ型 IFN、促炎细胞因子和趋化
+因子的转录诱导为媒介 [18]。平滑肌细胞可表达
+TLR2、TLR3、TRL4 的 mRNA，它们的激活介导平
+滑肌细胞中趋化因子的释放[19]。β 干扰素 TIR 结构
+域衔接蛋白（TIR-domain-containing adaptor inducing 
+interferon-β，TRIF）是 TLR3 下游的重要信号接头蛋
+白[20]。TLR3 激活 TRIF，诱导干扰素调节因子，产
+生Ⅰ型干扰素（IFN-α 和 IFN-β），促进炎症因子产
+生[21-22]。当 TRIF 被激活时，Ca2+流入细胞内，导致
+支气管收缩、黏液分泌增加；同时，细胞内 Ca2+的
+增多可能触发速激肽和降钙素基因相关肽在周围和
+中枢神经系统中释放，导致支气管收缩、气管黏膜
+水肿和炎症细胞趋化因子的生成[23]。吴倩等[23]研究
+发现，人参皂苷 Rb1 抑制细胞膜表面 Ca2+通道蛋白
+活性，防止 Ca2+过多流入细胞内，促使气管收缩、
+黏液分泌增加、气管黏膜水肿和炎症细胞趋化因子
+生成。Rb1 降低 TLR3、TRIF 的 mRNA 表达，抑制
+TLR3/TRIF 信号通路活性，减少炎症因子释放，细
+胞外信号调节激酶可介导炎症反应，Rb1 以剂量依赖
+方式抑制细胞外信号调节激酶 K 转导途径，缓解气
+道炎症反应。 
+2.3  人参皂苷通过血管内皮生长因子/基质金属蛋白酶
+9 信号通路发挥作用 
+气道重构是哮喘的病理特征之一。气道重构是
+持续性气道炎症、气道上皮细胞反复损伤和修复所
+致，表现为细胞外基质沉积、肥大细胞增生、基底
+膜增厚、上皮下纤维化、黏液化生及血管增生等[24]。
+血 管 内 皮 生 长 因 子 （ vascular endothelial growth 
+factor，VEGF）与 VEGF 受体结合，促进血管生成。
+VEGF 在肺部表达较活跃，可促进气道平滑肌细胞增
+殖；还可促进 IL-8 生成，加重气道炎症反应，导致
+哮喘反复发作[25]。TGF-β 是一类在机体所有细胞均
+可表达的细胞因子，对人体发育和体内平衡发挥重
+要作用。实验证明，TGF-β 可诱导 VEGF 的 mRNA
+表达，其亚型 TGF-β1 刺激平滑肌细胞产生 IL-8，间
+接参与气道重构 [24]。基质金属蛋白酶 9（matrix 
+metalloproteinase-9，MMP-9）是 MMP 家族成员之一，
+可分解细胞外基质，增加细胞移动，释放 TGF-β1 细
+胞因子；TGF-β1 也可激活 MMP-9，进一步加速促进
+细胞的增殖与分化[26-27]。VEGF 与内皮细胞表面特异
+性受体结合，促进 MMP-9 分泌；VEGF 受体阻滞剂
+SU5416 可抑制 MMP-9 的表达[28-29]。崔勇等[28]研究
+证实，人参皂苷 Rh2 可降低嗜酸性粒细胞与 IL-4、
+IL-5、IL-13 水平，抑制气道炎症；也可抑制 VEGF、
+MMP-9 的 mRNA 复制，阻断 VEGF/MMP-9 信号通
+路，抑制气道上皮增生和胶原合成，抑制哮喘气道
+重构，改善哮喘患者症状。 
+2.4  人参皂苷通过蛋白激酶 B、p38 丝裂原激活的蛋白
+激酶及核因子 κB 发挥作用 
+磷脂酰肌醇 3 激酶（phosphoinositide 3-kinase，
+PI3K）是一种重要的细胞内激酶，也是细胞外信号
+与细胞表面受体结合后启动信号转导的关键因子，
+影响着细胞的生长、增殖、迁移、分泌、分化、转
+录和翻译等[30]。蛋白激酶 B（protein kinase B，PKB，
+又称 AKT）促使下游凋亡因子失去活性，在生长因
+子对细胞的抗凋亡过程中发挥重要作用。磷酸肌醇
+依赖性蛋白激酶-1 属丝氨酸/苏氨酸蛋白激酶，是
+PI3K/AKT 信号通路的桥梁。磷酸肌醇依赖性蛋白激
+酶-1 激活 AKT 后，激活下游转录因子叉头框蛋白 O
+（forkhead box protein O，FOXO）。FOXO 亚家族
+包含 FOXO1、FOXO3、FOXO4 和 FOXO6[31]。FOXO1
+·综    述· 
+中国现代医生 2023 年 4 月第 61 卷第 10 期 
+CHINA MODERN DOCTOR  VoI. 61  No. 10  ApriI  2023   
+110 
+参与 T 细胞的发育和功能调节，促进炎症表达，在
+哮喘的支气管炎症中发挥重要促进作用[32]。哺乳动
+物雷帕霉素靶蛋白（mammalian target of rapamycin，
+mTOR）也是 AKT 下游因子，其激活可阻断自噬相
+关基因的表达，抑制细胞自噬的启动；研究发现，
+通过抑制 AKT、mTOR 磷酸化的表达，可抑制气道
+上皮细胞自噬的发生，减轻气道炎症[33-34]。糖原合
+成酶激酶 3β（glycogen synthase kinase-3β，GSK-3β）
+也是 AKT 的下游细胞因子，AKT/GSK-3β 信号通路
+在哺乳动物细胞中普遍存在，与细胞增殖、凋亡和
+自噬等密切相关[35]。PI3K/AKT 信号通路可促进炎症
+细胞的形成和释放，促进炎症介质的释放，引发哮
+喘之类的气道变应性疾病[36]。研究发现，PI3K/AKT
+信号通路处于激活状态时，与气道炎症呈正相关[37]。
+丝裂原激活的蛋白激酶（mitogen-activated protein 
+kinase，MAPK）是哺乳动物细胞中常见的丝氨酸/
+苏氨酸蛋白激酶，p38 MAPK 是其家族成员之一。p38 
+MAPK 可促进白细胞的激活与聚集，影响转录因子
+活性，调控多种细胞因子的表达，对调控炎症反应
+发挥关键作用[38]。核因子 κB（nuclear factor-κB，
+NF-κB）是一类核转录因子，广泛存在于细胞胞质内。
+当细胞受到刺激时，产生促炎细胞因子，如 TNF-α、
+IL-1、IL-6。TGF-β1 是 p38 MAPK 的上游调节因子，
+可激活 p38 MAPK，NF-κB 是其下游因子[38]。 
+崔勇等[39]研究发现，人参皂苷 Rh2 通过抑制肺
+组织磷酸化 AKT、p38 MAPK 和 NF-κB 的蛋白表达
+水平，减少炎症细胞数量，降低 IL-4、IL-5、IL-13
+等促炎细胞因子表达，改善哮喘患者的症状。研究
+发现，人参皂苷 Rg3 通过抑制 NF-κB 活性，抑制下
+游炎症因子 IL-4、TNF-α、环氧合酶-2 的释放，减轻
+哮喘患者的气道炎症反应[40]。 
+ 
+3  总结与展望 
+人参皂苷是一种多机制、多通路、多靶点的天
+然成分，能够有效减轻哮喘患者的气道炎症、缓解
+气道重构，其作用主要是通过抑制 IL-17、IL-23 等
+细胞因子和 TLR3/TRIF 信号通路等多条信号通路实
+现。人参皂苷作为哮喘的治疗药物，虽然被证实有
+效，但仍有很多问题亟待解决。首先，人参皂苷治
+疗哮喘的临床证据较少，需要更多的临床研究证实
+人参皂苷对哮喘患者确有疗效；其次，人们对人参
+皂苷治疗哮喘患者的不良反应知之甚少；第三，人
+参皂苷有效成分较多，Re、Rb1、Rb2、Rd、Rc、Rg1
+占 90%以上，但未见研究证实 Re、Rc、Rd 等与哮
+喘有关[41]。人参皂苷中未被研究的成分对哮喘治疗
+的有效性仍待证实。随着中药、新药研制水平的提
+高和现代科学手段的应用，人参皂苷治疗哮喘的作
+用机制将会更加清晰。 
+ 
+[参考文献] 
+[1] 《中成药治疗优势病种临床应用指南》标准化项目组. 
+中成药治疗成人支气管哮喘临床应用指南(2021
+年)[J]. 中国中西医结合杂志, 2022, 42(3): 276–286. 
+[2] 宋玮, 郑伟, 张洁, 等. 中药皂苷类成分的体内代谢
+研究进展[J]. 药学学报, 2018, 53(10): 1609–1619. 
+[3] 葛均波，徐永健. 内科学[M]. 8 版. 北京: 人民卫生出
+版社, 2013. 
+[4] 张春晶, 李淑艳, 赵容杰, 等. 人参皂苷 Rh1 对哮喘
+模型小鼠炎症因子表达的抑制作用[J]. 中国病理生理
+杂志, 2018, 34(1): 163–167. 
+[5] CHEN T, XIAO L, ZHU L, et al. Anti-asthmatic effects 
+of ginsenoside Rb1 in a mouse model of allergic asthma 
+through relegating Th1/Th2[J]. Inflammation, 2015, 
+38(5): 1814–1822. 
+[6] HUH J R, LITTMAN D R. Small molecule inhibitors of 
+RORγt: Targeting Th17 cells and other applications[J]. 
+Eur J Immunol, 2012, 42(9): 2232–2237. 
+[7] 陈冉, 孟玲, 宋争昌, 等. Th17 细胞及相关趋化因子
+水平检测在支气管哮喘患者中的临床意义[J]. 中国民
+康医学, 2021, 33(24): 4–5. 
+[8] 周亚兵, 蒋思韵, 王利维, 等. PM2.5 对哮喘大鼠
+IL-17/IL-23 炎症介质的影响及人参皂苷 Rg1 干预研
+究[J]. 世界中医药, 2021, 16(10): 1520–1525. 
+[9] 陈菲, 虞敏, 钟永红, 等. 中性粒细胞在哮喘中的地位
+和作用[J]. 浙江大学学报(医学版), 2021, 50(1): 123–130. 
+[10] 杨璐璐, 张君. TGF-β1、TNF-α 与儿童紫癜性肾炎的
+中西医结合研究[J]. 实用中医内科杂志, 2022, 36(4): 
+29–31. 
+[11] 王向东, 姜敏, 王鑫, 等. 糖皮质激素受体在缺血再
+灌注肾损伤中的作用[J]. 首都医科大学学报, 2022, 
+43(2): 260–268. 
+[12] 陈伟伟, 蔡栩栩, 田维敏, 等. RANTES 在哮喘大鼠肺
+组织中的表达及维生素 D 的干预作用[J]. 中国当代儿
+科杂志, 2012, 14(11): 863–868. 
+[13] 魏旭, 韩君萍, 虞跃跃, 等. 三穴五针对哮喘大鼠肺
+组织中 Eotaxin、RANTES 表达的影响[J]. 针灸临床杂
+志, 2018, 34(10): 47–50. 
+[14] 刘冬梅, 肖美先, 王海利, 等. PPAR-γ/AP-1 信号通路
+在相关疾病中作用的研究进展[J]. 宜春学院学报, 
+2021, 43(6): 12–16. 
+[15] 李群益, 陈莉, 张留弟, 等. 人参皂苷代谢产物 Compound 
+K 抑制 TNF-α 诱导的人支气管上皮细胞分泌 RANTES[J]. 
+中国现代医生 2023 年 4 月第 61 卷第 10 期 
+·综    述· 
+CHINA MODERN DOCTOR  VoI. 61  No. 10  ApriI  2023 
+111
+第二军医大学学报, 2015, 36(7): 722–726. 
+[16] PEREZ-ZOGHBI J F, KARNER C, ITO S, et al. Ion 
+channel regulation of intracellular calcium and airway 
+smooth muscle function[J]. Pulm Pharmacol Ther, 2009, 
+22(5): 388–397. 
+[17] ZHANG H, CHANG Z, MEHMOOD K, et al. Calcium- 
+sensing receptor arbitrates hypoxia-induced proliferation 
+of pulmonary artery smooth muscle cells via the g 
+protein-PLC-IP3 pathway[J]. Crit Rev Eukaryot Gene 
+Expr, 2019, 29(1): 69–76. 
+[18] GARCIAS-LÓPEZ A, BEKIARIS V, MÜLLER-LUDA 
+K, et al. Migration of murine intestinal dendritic cell 
+subsets upon intrinsic and extrinsic TLR3 stimulation[J]. 
+Eur J Immunol, 2020, 50(10): 1525–1536. 
+[19] SUKKAR M B, XIE S, KHORASANI N M, et al. Toll- 
+like receptor 2, 3, and 4 expression and function in human 
+airway smooth muscle[J]. J Allergy Clin Immunol, 2006, 
+118(3): 641–648. 
+[20] LIU X, TAYLOR A, POO Y S, et al. TIR-domain-containing 
+adapter-inducing interferon-β(TRIF)-dependent antiviral 
+responses protect mice against ross river virus disease[J]. 
+mBio, 2022, 13(1): e0336321. 
+[21] MIRANDA V D S, FRANÇA F B F, DA COSTA M S, 
+et al. Toll-like receptor 3-TRIF pathway activation by 
+Neospora caninum RNA enhances infection control in 
+mice[J]. Infect Immun, 2019, 87(4): e00739–18. 
+[22] YE W, HU M M, LEI C Q, et al. TRIM8 negatively 
+regulates TLR3/4-mediated innate immune response by 
+blocking TRIF-TBK1 interaction[J]. J Immunol, 2017, 
+199(5): 1856–1864. 
+[23] 吴倩, 郑秀花, 刘亚丽. 人参皂苷 Rb1 介导 TLR3/TRIF
+信号通路对哮喘大鼠的抗炎作用机制[J]. 中国老年学
+杂志, 2022, 42(2): 391–395. 
+[24] 任苓苓, 张丽娟, 王令敏, 等. 宣肺解痉方治疗支气
+管哮喘疗效及对血清 TGF-β1、MMP-9、VEGF 的影
+响[J]. 现代中西医结合杂志, 2022, 31(2): 192–197. 
+[25] 吴青兰, 成俊芬. VEGF、ICAM-1 和 NO 与支气管哮喘的
+相关性研究进展[J]. 现代医学, 2019, 47(9): 1169–1172. 
+[26] 叶新民, 钟南山. 基质金属蛋白酶与支气管哮喘气道
+重塑[J]. 国际呼吸杂志, 2009, 29(11): 672–676. 
+[27] CHENG J C, AUERSPERG N, LEUNG P C. TGF-beta 
+induces serous borderline ovarian tumor cell invasion by 
+activating EMT but triggers apoptosis in low-grade serous 
+ovarian carcinoma cells[J]. PLoS One, 2012, 7(8): e42436. 
+[28] 崔勇, 李世明, 金燕, 等. 人参皂苷Rh2通过VEGF/MMP-9
+信号通路抑制哮喘小鼠气道重塑的实验研究[J]. 中华
+中医药学刊, 2017, 35(8): 1932–1935, 后插 1–后插 3. 
+[29] 安钟健, 金燕, 延光海, 等. Pyrin 重组蛋白对肺纤维
+化大鼠 VEGF/VEGFR2/MMP-9 信号通路的影响[J]. 
+中国药理学通报, 2016, (2): 234–238. 
+[30] ZHAO Y, QIAN Y, SUN Z, et al. Role of PI3K in the 
+progression and regression of atherosclerosis[J]. Front 
+Pharmacol, 2021, 12: 632378. 
+[31] 姜春燕, 宋红, 孔丽娅, 等. 基于 FOXO 信号通路探
+讨益肾喘宁汤对肾气虚哮喘的作用机制[J]. 浙江中医
+杂志, 2020, 55(4): 235–237. 
+[32] SEILER F, HELLBERG J, LEPPER P M, et al. FOXO 
+transcription factors regulate innate immune mechanisms 
+in respiratory epithelial cells[J]. J Immunol, 2013, 190(4): 
+1603–1613. 
+[33] 庞亚蓉, 席建宏, 王志旺, 等. 磷脂酰肌醇 3 激酶/蛋白激
+酶 B(PI3K/Akt)信号通路参与哮喘气道炎症反应的研究
+现状[J]. 中国临床药理学杂志, 2021, 37(14): 1897–1901. 
+[34] ZOU H, WANG L X, WANG M, et al. MTOR-mediated 
+autophagy is involved in the protective effect of 
+ketamine on allergic airway inflammation[J]. J Immunol 
+Res, 2019, 2019: 5879714. 
+[35] YAO G, MAN Y H, LI A R, et al. NO up-regulates 
+migraine-related CGRP via activation of an Akt/GSK- 
+3β/NF-κB signaling cascade in trigeminal ganglion 
+neurons[J]. Aging (Albany NY), 2020, 12(7): 6370–6384. 
+[36] 傅相均, 庹芳旭, 唐寅, 等. PI3K/Akt 信号通路在环境
+内分泌干扰物影响哮喘发作中的作用[J]. 实用医学杂
+志, 2018, 34(6): 1030–1032. 
+[37] 刘红红, 邢宁宁, 师丽敏, 等. 支气管哮喘患者气道
+炎症与 EOS 的 PI3K/Akt 信号通路活化程度的关系研
+究[J]. 河北医科大学学报, 2021, 42(8): 881–885. 
+[38] 李欣, 陈再明, 葛维维, 等. 德国洋甘菊精油对脂多
+糖诱导的人角质形成细胞炎性反应的调控作用研究[J]. 
+中药新药与临床药理, 2022, 33(5): 624–632. 
+[39] 崔勇, 李世明, 金燕, 等. 人参皂苷 Rh2 抗小鼠哮喘
+模型气道炎性反应的作用研究[J]. 中华中医药杂志, 
+2016, 31(7): 2807–2811. 
+[49] LEE I S, UH I, KIM K S, et al. Anti-inflammatory 
+effects of ginsenoside Rg3 via NF-κB pathway in A549 
+cells and human asthmatic lung tissue[J]. J Immunol Res, 
+2016, 2016: 7521601. 
+[50] WANG Y, PAN J Y, XIAO X Y, et al. Simultaneous 
+determination of ginsenosides in Panax ginseng with 
+different growth ages using high-performance liquid 
+chromatography-mass spectrometry[J]. Phytochem Anal, 
+2006, 17(6): 424–430. 
+（收稿日期：2022–07–19） 
+（修回日期：2023–03–14） 

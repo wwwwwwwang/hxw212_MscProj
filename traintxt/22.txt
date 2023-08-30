@@ -1,0 +1,926 @@
+* 970 、 中 国 药 理 学 通 报 _CJhinese PRaracological Bulletin “_2023 May;39(5) :970 ~8
+
+网 络 出 版 时 间 :2023 -05 -10 10:24:21 “ 网 络 出 版 地 址 :https://hkns. cnki. nety kcms/detail/34. 1086. R. 20230508. 1431.050. html
+
+基 于 网 络 药 理 学 和 分 士 对 接 探 讨 人 参 - 红 景 天 治 疗
+心 肌 缺 血 / 再 灌 注 损 伤 的 作 用 机 制
+
+赵 倩 琳 , 赖 颖 蓝 「 , 姜 丽 红 -
+(1. 长 春 中 医 药 大 学 中 医 学 院 , 吉 林 长 春 130117;2. 长 春 中 医 药 大 学 附 属 医 院 , 吉 林 长 春 130021)
+
+doi:10. 12360/CPB202203035
+文 献 标 志 码 : A 文 章 编 号 :1001 -1978(2023)05 -0970 - 09
+中 国 图 书 分 类 号 : R282. 71;R319;R364. 5;R349. 1; R542. 2
+摘 要 : 目 的 “ 采 用 网 络 药 理 学 方 法 、 分 子 对 接 技 术 及 实 验 研
+究 , 探 究 人 参 - 红 景 天 治 疗 心 肌 缺 血 / 再 灌 注 损 伤 ( myocardi-
+al ischemia-reperfusion injury, MIRI) 的 作 用 靶 点 及 机 制 。 方
+法 通 过 TCMSP 数 据 库 及 文 献 补 充 筛 选 人 参 - 红 景 天 的 有
+效 活 性 成 分 及 靶 点 , 检 索 CPNECARDS DISGENET、DRUCG-
+BANK 数 据 库 得 到 MIRI 靶 点 , 使 用 STRING 数 据 库 构 造 功 能
+蛋 白 相 互 作 用 网 络 (PPI) , 筛 出 核 心 靶 点 ; 并 选 择 DAVID 数
+据 库 进 行 基 因 本 体 功 能 分 析 ( C0) 和 KECC 信 号 通 路 富 集 分
+析 ; 最 后 借 助 分 子 对 接 技 术 及 实 验 研 究 进 行 初 步 验 证 。 结 果
+获 得 人 参 - 红 景 天 有 效 活 性 成 分 43 种 , 潜 在 靶 点 348 个 ,
+并 发 现 IL-6 ,TNF-a、VECFA 等 靶 点 与 MIRI 密 切 相 关 , 主 要
+涉 及 TNF .PBK-Akt HIF-1 等 信 号 通 路 。 分 子 对 接 结 果 显
+示 , 豆 甾 醇 、 人 参 皂 苷 :h2 及 红 景 天 茂 与 IL-6 、TNF-a 、
+Caspase-3 等 靶 点 均 有 较 好 的 结 合 作 用 且 匹 配 度 高 , 其 中 结
+合 性 最 好 的 是 Caspase-3 与 人 参 皂 苷 th2 , 实 验 研 究 结 果 显
+示 , 人 参 - 红 景 天 可 改 善 MIRI 后 心 肌 组 织 坏 死 , 减 轻 心 肌 细
+胞 水 肿 及 血 管 充 血 情 况 , 并 降 低 MIRI 大 鼠 中 TNF-a 及 IL-6
+的 表 达 水 平 。 结 论 人 参 - 红 景 天 可 能 通 过 豆 留 醇 、 人 参 皂
+苷 rh2 及 红 景 天 苷 来 调 控 IL-6 、.TNF-a 、Caspase-3 等 多 个 靶
+点 , 抑 制 炎 症 及 氧 化 应 激 反 应 , 减 轻 心 肌 细 胞 损 伤 , 发 挥 对
+MIRI 的 治 疗 作 用 。
+
+关 键 词 : 人 参 - 红 景 天 ; 心 肌 缺 血 / 再 灌 注 损 伤 ; 网 络 药 理 学 ;
+分 子 对 接 ; 核 心 靴 点 ; 信 号 通 路
+
+2 孝 a
+开 放 科 学 ( 资 源 服 务 ) 标 识 码 ( OSID) : 河 2
+
+收 稿 日 期 :2022 -12 - 11, 修 回 日 期 :2023 -03 -26
+
+基 金 项 目 : 国 家 自 然 科 学 基 金 面 上 项 目 ( No 81673846 ) ; 吉 林 省 科 技
+厅 发 展 计 划 项 目 ( No 20200201320JC )
+
+作 者 简 介 : 赵 倩 琳 (1994 - ) , 女 , 硕 土 生 , 研 究 方 向 : 中 医 药 防 治 心 血
+管 疾 病 ,E-mail:573982499@ qq. com:;
+姜 丽 红 (1965 - ) , 女 , 教 授 , 博 士 生 导 师 , 主 任 医 师 , 研 究
+方 向 : 中 医 药 防 治 心 血 管 疾 病 , 通 信 作 者 , E-mail: jiangli-
+hong007@ 163. com
+
+急 性 心 肌 梗 死 是 导 致 心 脏 病 患 者 发 病 和 死 亡 的
+重 要 原 因 之 一 , 发 生 心 梗 时 可 通 过 经 皮 冠 状 动 脉 介
+人 术 治 疗 再 通 堵 塞 的 冠 状 动 脉 , 但 恢 复 冠 脉 血 流 过
+程 中 反 而 会 加 重 心 肌 损 伤 , 即 为 心 肌 缺 血 / 再 灌 注 损
+伤 ( myocardial ischemia-reperfusion injury , MIRI ) [1] ,
+现 代 医 学 对 其 发 病 机 制 暂 无 明 确 定 论 , 有 研 究 认 为
+与 细 胞 温 亡 , 细 胞 内 钙 离 子 超 载 及 氧 自 由 基 的 作 用
+等 有 关 。 当 心 肌 组 织 缺 氧 缺 血 时 , 线 粒 体 代 谢 功 能
+异 常 及 心 肌 细 胞 膜 受 损 , 使 内 膜 形 成 斑 块 , 导 致 心 肌
+梗 死 面 积 增 大 , 大 量 氧 自 由 基 及 炎 症 因 子 释 放 , 加 重
+心 肌 组 织 损 伤 。 目 前 减 轻 MIRI 的 用 药 包 括 他 汀 类
+药 物 . 降 压 药 , 促 红 细 胞 生 成 素 等 “, 这 些 药 物 虽 能
+缓 解 MIRI 患 者 的 部 分 症 状 , 但 特 异 性 差 一 副 作 用
+明 显 。 近 年 来 , 中 药 因 其 活 性 成 分 及 作 用 靶 点 丰 富 ,
+作 用 途 径 多 样 , 明 疗 效 明 显 和 副 作 用 少 等 特 点 在 心
+血 管 疾 病 的 防 治 中 受 到 关 注 。
+
+MIRI 的 中 医 病 机 为 心 气 虚 损 , 心 阳 渐 衰 , 并 受
+到 蹈 邪 、 七 情 内 伤 及 饮 食 不 节 等 因 素 影 响 , 导 致 气 虑
+血 疲 , 疾 浊 阻 于 心 脉 而 致 病 。 人 参 - 红 景 天 是 参 红
+通 络 方 的 君 药 药 对 , 参 红 通 络 方 是 长 春 中 医 药 大 学
+附 属 医 院 心 病 科 在 本 校 已 故 国 医 大 师 任 继 学 教 授 的
+“ 疾 容 伏 邪 学 说 指 导 下 创 制 的 中 药 复 方 , 对 冠 心 病
+和 急 性 心 梗 患 者 PCI 术 后 症 状 的 疗 效 显 著 “, 人 参
+大 补 元 气 , 益 气 养 阴 , 气 顺 则 血 通 , 红 景 天 益 气 活 血
+化 瘀 。 据 现 代 药 理 学 研 究 发 现 , 人 参 皂 茂 可 抑 制 心
+肌 肥 大 , 使 血 管 再 生 速 度 加 快 , 减 少 心 肌 细 胞 凋 亡 ,
+红 景 天 苷 促 使 钙 离 子 回 到 肌 浆 网 , 缓 解 因 钙 离 子 过
+载 引 起 的 心 肌 损 伤 , 减 轻 心 肌 缺 血 等 “““, 人 参 - 红
+景 天 是 参 红 通 络 方 产 生 显 著 疗 效 的 核 心 , 但 其 作 用
+机 制 和 涉 及 的 生 物 过 程 目 前 尚 不 明 确 。
+
+近 儿 年 , 网 络 药 理 学 的 应 用 为 中 药 的 作 用 机 制
+研 究 提 供 了 方 法 和 思 路 , 它 结 合 系 统 生 物 学 . 医 学 等
+多 学 科 理 论 , 使 用 计 算 机 科 学 对 生 物 系 统 进 行 网 络
+数 据 分 析 , 揭 示 了 药 物 - 活 性 成 分 - 靴 点 - 疾 病 之
+间 互 相 作 用 网 络 , 从 而 预 测 药 物 的 作 用 机 制 , 其 系 统
+性 综 合 性 及 整 体 性 与 中 药 的 特 点 类 似 “ 。 本 研 究
+拟 通 过 网 络 药 理 学 方 法 分 析 人 参 - 红 景 天 治 疗 ML-
+中 国 药 理 学 通 报 _CRinese PRarmdacological Bulletin “_2023 May;39(5) * 971 “
+
+RI 潜 在 的 作 用 靶 点 及 机 制 , 并 通 过 分 子 对 接 技 术 和
+实 验 研 究 进 行 初 步 验 证 , 为 后 续 研 究 及 临 床 应 用 提
+供 理 论 基 础 。
+
+1 “ 方 法
+
+1.1 人 参 - 红 景 天 有 效 活 性 成 分 与 靶 点 的 收 集 与
+筛 选 “ 人 参 : 在 TCMSP 数 据 库 ( http :/xytemspw.
+comytemsp. php) 中 以 “ 人 参 “ 为 关 键 词 搜 索 , 将 参 数
+中 的 口 服 生 物 利 用 度 ( oral bioavailability , 0B ) 阎 值
+及 类 药 性 闻 值 ( drug-likeness, DL) 设 定 为 尹 30% 和
+三 0. 18 , 得 到 人 参 的 有 效 活 性 成 分 及 蛋 白 靴 点 。
+
+红 景 天 : 查 阅 红 景 天 的 相 关 文 献 “““, 整 合 后 得
+到 红 景 天 有 效 活 性 成 分 , 在 PabChem 数 据 库 ( ht-
+tps:/Vpubehem. ncbi. nIlm. nih. govx ) 检 索 , 确 定 成 分
+的 Canonical SMILES 结 构 ( 注 : 因 部 分 成 分 PubChem
+数 据 库 尚 未 记 录 , 则 根 据 其 成 分 命 名 和 相 关 文 献 得
+出 可 能 性 最 大 的 SMILES 结 构 ) , 输 人 Swiss Target
+Prediction 数 据 库 ( http ://www. swisstargetprediction.
+chyindex. php ) , 挑 选 可 能 性 大 于 1095 的 作 用 靶 点 。
+使 用 Uniprot 数 据 库 (https:/Awww. uniprot. org/ ) , 将
+“organisms「“ 设 置 为 “ Human“, 对 人 参 和 红 景 天 的 蛋
+白 靶 点 进 行 Cene Symbol 转 换 。
+
+1.2 _MIRI 靶 点 的 筛 选 “ 在 CeneCards ( https:
+www. genecards. org/ ) 、Disgenet ( https:/Awww、 dis-
+genet. org/home/) 及 DRUGBANK ( https:/Vgo. drug-
+bank. com ) 数 据 库 中 以 “ Myocardial ischemia 一
+reperfusion injury“ 为 关 键 词 搜 索 MIRI 的 蛋 白 靶 点 ,
+合 并 以 上 3 个 疾 病 数 据 库 结 果 并 移 除 重 复 项 后 得 到
+最 终 靴 点 。
+
+1.3 药 物 与 疾 病 共 同 靶 点 筛 选 为 明 确 人 参 - 红
+景 天 的 活 性 成 分 及 其 靴 点 与 疾 病 之 间 的 相 互 作 用 ,
+使 用 Venny2. 1 软 件 (https:/Abioinfogp. cnb. csic. es/
+tools/venny/ ) 获 得 两 者 的 交 集 靶 点 。
+
+1.4 “ 药 物 - 活 性 成 分 - 靶 点 - 疾 病 “ 网 络 构 建
+
+将 人 参 - 红 景 天 的 有 效 活 性 成 分 及 对 应 的 靶 点 和
+MIRI 靶 点 输 人 CytoSeape3. 7. 2 软 件 , 构 造 药 物 - 成
+分 - 靶 点 - 疾 病 网 络 , 并 借 助 Network Analyzer 网 络
+分 析 插 件 , 关 注 节 点 的 连 接 度 值 ( Degree) , 度 值 大 表
+示 涉 及 的 生 物 功 能 多 , 重 要 性 比 较 高 。
+
+1.5 人 参 - 红 景 天 与 MIRI 靶 点 PPI 网 络 构 建
+
+把 交 集 靶 点 导 入 STRINC11. 0 数 据 库 ( https:/xstring
+- db. orgycgixinput. p1) , 将 物 种 选 为 “ Homo sapi-
+ens“ , 最 低 交 互 阎 值 为 “highest confidence 乏 0.9“, 得
+到 蛋 白 相 互 作 用 网 络 ( PPI) 结 果 , 用 CyloScape3. 7.2
+软 件 将 PPI 网 络 可 视 化 , 利 用 MCODE 插 件 进 一 步
+分 析 , 筛 选 出 核 心 网 络 模 块 。
+
+1.6 GO 基 因 功 能 与 KEGG 信 号 通 路 富 集 分 析
+
+在 DAVID 数 据 库 ( https://Ndavid. ncifcerf. gov/tools.
+jsp) 中 进 行 C0 基 因 功 能 和 KECC 信 号 通 路 富 集 分
+析 , 选 择 “ Functional Annotation“ 功 能 , 物 种 设 为 “ Ho-
+mo sapiens“, 获 取 人 参 - 红 景 天 治 疗 MIRI 的 生 物 学
+过 程 与 代 谢 通 路 数 据 , 将 所 得 数 据 导 人 “bioinformat-
+ics online tool“( http:/Awww. bioinformatics. com. cn )
+制 图 , 以 气 泡 图 形 式 呈 现 结 果 。
+
+1.7 “ 分 子 对 接 “ 在 PubChem 数 据 库 ( https:pub-
+chem. ncbi. nIm. nih. gov/) 中 下 载 人 参 - 红 景 天 活 性
+成 分 的 结 构 并 转 化 为 mol2 格 式 保 存 , 关 键 靶 点 蛋 白
+来 自 于 蛋 白 质 数 据 库 ( https://www. rcsb. org/ ) , 将
+所 得 靶 点 蛋 白 导 入 AutoDockTools-1. 5. 6 软 件 , 删 除
+水 分 子 、 添 加 氢 原 子 并 设 置 原 子 类 型 后 , 保 存 为 PD-
+BQT 格 式 文 件 , 通 过 AutoDock4.2.6 进 行 分 子 对 接 ,
+借 助 Pymol2. 1 软 件 对 分 子 对 接 结 果 进 行 可 视 化 。
+
+1.8 “ 动 物 实 验
+
+1.8.1 “ 试 验 动 物 及 药 物 选 择 28 只 健 康 的 SD 大
+鼠 , 体 质 量 为 (220 ~250) g, 购 自 北 京 维 通 利 华 实 验
+勐 物 公 司 , 动 物 许 可 证 号 : SCXK( 京 )2016-0006 , 动
+物 实 验 经 长 春 中 医 药 大 学 动 物 伦 理 委 员 会 批 准 ( 编
+导 :2021201) 。 人 参 及 红 景 天 颗 粒 剂 购 自 长 春 中 医
+药 大 学 附 属 医 院 制 剂 中 心 ,3-MA 抑 制 剂 购 自 上 海 阿
+拉 丁 试 剂 公 司 。
+
+1.8.2 “ 试 剂 “_TNF-a.( tumor necrosis factor-a , TNF-
+a) 试 剂 盒 (202103 ) ,IL-6 ( interleukin-6 , IL-6 ) 试 剂
+盒 (202103) 购 自 上 海 优 选 生 物 科 技 公 司 。
+
+1.8.3 分 组 及 给 药 “ 将 大 鼠 随 机 分 为 假 手 术 组 、
+MIRI 模 型 组 、 人 参 - 红 景 天 组 、3-MA 组 , 每 组 各 7
+只 。 参 红 通 络 方 中 剂 量 为 人 参 9 g, 红 景 天 10 g, 按
+人 与 大 鼠 体 表 面 积 折 算 的 等 效 剂 量 比 值 0. 018 及 草
+药 与 浓 缩 颗 粒 浓 度 比 换 算 后 , 给 药 剂 量 是 人 参 0. 35
+kg, d“, 红 景 天 0. 39 kg, d , 腹 腔 注 射 3-MA, 注
+射 浓 度 为 15 mg. kg“ “ d “, 连 续 灌 胃 给 药 28 d。
+
+1.8.4 “ 实 验 造 模 及 取 材 腹 腔 注 射 5% 水 合 氯 醛 ,
+麻 醉 固 定 大 鼠 , 连 接 心 电 图 , 气 管 插 管 , 连 接 小 动 物
+呼 吸 机 , 从 左 胸 4,5 肋 间 切 开 暴 露 心 脏 , 用 6-0 缝 合
+线 结 扎 冠 状 动 脉 左 前 降 支 30 min, 左 侧 心 肌 壁 紫 绀 ,
+心 尖 变 白 , 心 电 图 示 I 导 联 ST 段 抬 高 0. 2 mV , 再 灌
+注 120 min 后 ,ST 段 下 降 且 紫 绀 消 失 即 造 模 成 功 , 假
+手 术 组 仅 穿 线 不 结 扎 。 结 束 后 腹 主 动 脉 取 血 ,4
+离 心 10 min 后 取 血 清 保 存 , 固 定 心 脏 组 织 。
+
+1.8.5 “HE 染 色 法 观 察 大 鼠 心 肌 组 织 损 伤 情 况
+
+将 固 定 后 的 心 脏 组 织 , 脱 水 石 蜡 包 埋 切 片 , 将 切 片 依
+次 放 人 二 甲 莽 I 、 及 乙 醇 中 , 使 用 苏 木 精 、 伊 红 水
+“972、 中 国 药 理 学 通 报 _CRinese PRarmdacological Bulletin “2023 May;39(5 )
+
+溶 液 进 行 染 色 , 脱 水 封 片 , 在 光 学 显 微 镜 ( x 400 ) 下
+观 察 各 组 大 鼠 心 肌 组 织 的 病 理 学 情 况 。
+
+1.8.6 “ELISA 法 测 定 大 鼠 TNF-a 及 IL-6 的 表 达 水
+平 按 ELISA 试 剂 盒 说 明 书 步 骤 , 检 测 各 组 大 鼠
+TNF-a 及 IL-6 的 表 达 水 平 。
+
+1.8.7 “ 统 计 学 分 析 使 用 SPSS 22.0 软 件 分 析 所
+得 数 据 , 结 果 用 * +s 表 示 , 检 验 正 态 分 布 , 两 两 比 较
+用 1 检 验 , 多 组 比 较 用 单 因 素 方 差 分 析 ( analysis of
+variance ,ANOVA ) 真
+
+2 “ 结 果
+
+2.1 “ 人 参 - 红 景 天 有 效 活 性 成 分 及 靶 点 人 参 - 红
+景 天 有 效 活 性 成 分 共 43 种 , 见 Tab 1, 作 用 靴 点 944
+个 , 将 靶 点 经 Uniprot 数 据 库 转 换 去 重 后 得 到 人 参 作
+用 靶 点 90 个 , 红 景 天 作 用 靶 点 258 个 , 共 348 个 。
+2.2 MIRI 的 疾 病 靶 点 筛 选 将 Disgenet 数 据 库 中
+Score 设 为 0. 3 , 得 到 MIRI 靶 点 85 个 ; 将 Cenecards
+数 据 库 中 设 定 Relevance score >20 , 得 到 MIRI 靶 点
+173 个 , 结 合 DRUGBANK 数 据 库 补 充 MIRI 相 关 靶
+点 , 合 并 以 上 3 个 数 据 库 结 果 并 删 去 重 复 值 , 获 得
+258 个 MIRI 蛋 白 靶 点 。
+
+2.3 “ 人 参 - 红 景 天 与 MIRI 交 集 靶 点 筛 选 将 人
+参 - 红 景 天 的 348 个 靶 点 和 MIRI 的 258 个 靴 点 取
+交 集 并 作 图 , 见 Fig 1, 得 到 红 景 天 与 MIRI 的 靴 点 34
+个 , 人 参 与 MIRI 的 共 有 靶 点 28 个 , 人 参 - 红 景 天 与
+MIRI 的 交 集 靶 点 共 有 55 个 , 此 为 人 参 - 红 景 天 治
+疗 MIRI 的 关 键 性 蛋 白 靶 点 。
+
+2.4 “ 药 物 - 活 性 成 分 - 靶 点 - 疾 病 “ 网 络 “ 在
+“ 药 物 - 活 性 成 分 - 靶 点 - 疾 病 “ 网 络 中 , 度 值 排 名
+前 10 的 有 效 活 性 成 分 为 hexacosanoic acid ,p-
+
+叉 odioja rosea
+
+Cinmseng
+
+MIRI
+
+Fig 1 “Ginseng-Rfodiola rosed and MIRI intersection targets
+
+coumaric acid 、stigmasterol fumarine 、stearic acid 、caf-
+feic acid 、epicatechin gallate 、beta-Sitosterol 、ginsen-
+oside Th2 、salidroside , 以 上 活 性 成 分 可 能 在 人 参 一 红
+景 天 治 疗 MIRI 中 起 到 关 键 性 作 用 , 因 所 获 靶 点 较
+多 , 故 以 大 于 节 点 度 值 中 位 数 2 倍 作 为 筛 选 条 件 , 展
+示 部 分 候 选 靶 点 , 见 Tab 2。
+
+2.5 “ 人 参 - 红 景 天 与 MIRI 靼 点 的 PPI 网 络 图
+PPI 网 络 中 共 有 节 点 73 个 , 见 Fig 2 , 节 点 连 线 越 多
+表 示 其 在 蛋 白 调 控 中 越 重 要 , 可 视 为 PPI 网 络 中 的
+核 心 调 控 蛋 白 , 该 网 络 中 蛋 白 互 作 频 次 排 名 前 11 的
+为 TNF-a、IL-6 、VECFA、MAPK1I 、CASPASE-3 、
+PTGS2 .TP53 、JUN .TLR4 ,IL-10 、MAPK8 , 见 Fig 3 。
+
+Tab 1 “The active ingredients of Gimserg and 尼 fodiola roset
+
+Number Molecule name Number Molecule name Number Molecule name
+HJTII Callic acid HJT15 Quercetin-3-0-glucuronide RS2 Stigmasterol
+HJT2 Protocatechuic acid HJT16 Rhodionin RS3 Inermin
+HJT3 Salidroside HJT17 Quercitrin RS4 Aposiopolamine
+HJT4 Tyrosol HJT18 Eriodictyol RS5 Deoxyharringtonine
+HJT5 Caffeic acid HJT19 Crenuloside RS6C Dianthramine
+HJT6 Procyanidin B2 HJT20 Ouercetin RS7 arachidonate
+HJT p-coumaric acid HJT21 Kenposide 叶 RS8 Frutinone 口
+HJT8 Ferulic acid HJT22 Creoside V RS9 Cinsenoside rh2
+HJT9 Epicatechin gallate HJT23 Eicosy1 ferulate RS10 Cinsenoside-Rh4_qt
+HJT10 Catechin gallate HJT24 beta-Sitosterol RS11 Cirinimbin
+HJTI1 1,2 3 ,4,6-0-Pentagalloy1 glucopyranoside HJT25 FHlexacosanoie acid RS12 Panaxadiol
+HJT12 戈 fzelint HJT26 Stearie acid RS13 Suchilactone
+HJT13 Quercetin-3-glucoside HJT27 Nonadecane RS14 Alexandrin_qt
+HJT14 Rhodiosin RS1 Diop RS15 Fumarine
+
+中 国 药 理 学 通 报 Chinese Pharmacologicul Bullelir “2023 May;39(5) - 973 ,
+
+Tab 2 “Candidate target information
+
+Uniprot ID “Symbol
+P35354 PTGS2
+
+Target name
+Prostaglandin C/ H synthase 2
+
+P00918 CA2 Carbonic anhydrase 2
+
+15596 NCOA2 Nuclear Tecepltor coactivator 2
+P00915 CAl Carbonic anhydrase 1
+
+P06401 POCR Progesterone receptor
+
+P42574 CASP3 Caspase-3
+
+P19793 RXRA Retinoic acid receptor RXR-alpha
+P11229 CHRMI Muscarinic acetylcholine recepltor M1
+
+P14780 MM P9
+P03956 MMP1
+
+Matrix metalloproteinase-9
+L terstitial col lagenase
+
+P23975 SLC6A2 Sodium-dependent noradrenaline
+tramsporter
+
+P35368 ADRA1B Alpha-1B adrenergic receptor
+
+P08253 MMP2 72 KDa lype IV collagenase
+
+P14867 “GABRAI Gamma-aminobutyric acid receptor subunit
+alpha-1
+
+Q14524 SCN5A Sodium channel protein type 5 subunit alpha
+
+P07550 ADRB2 Beta-2 adrenergic receptor
+
+P23219 PTCS1 Prostaglandin Cx H synthase 1
+
+P20309 CFHRM3 “ Muscarinic acetylcholine receptor M3
+
+P10275 A 民 Androgen recepltor
+
+Q07812 BAX Apoptosis regulator BAX
+
+Fig 2 PPI network diagram of Gimsemg-Rfodiolt
+Rosea and MIRI targets
+
+2.6 GO 基 因 功 能 和 KEGG 信 号 通 路 富 集 分 析
+C0 功 能 分 析 结 果 显 示 , 生 物 学 过 程 ( biological
+process, BP ) 318 个 , 分 子 生 物 学 功 能 ( molecular
+function ,MF)55 个 、 细 胞 组 成 过 程 ( cellular compo-
+nents,CC)34 个 , KECC 信 号 通 路 89 条 , 将 Log10
+值 排 名 前 20 的 结 果 进 行 可 视 化 , 见 Fig 4。
+
+人 参 - 红 景 天 治 疗 MIRI 涉 及 的 生 物 过 程 包 括
+RNA 聚 合 酶 TI 转 录 因 子 的 正 调 控 、 对 脂 多 糖 的 应
+答 , 凋 仁 过 程 的 负 调 控 、 炎 症 应 答 血 管 再 生 等 , 涉 及
+的 通 路 则 包 括 TNF-a HIF-1 .PI3K-Akt 及 MAPK 信
+
+Fig 3 “Top 11 target proteins in PPI network graph in terms of
+
+frequency of interactions
+
+号 通 路 等 , 通 路 具 体 结 果 见 Tab 3 , 涉 及 的 细 胞 过 程
+主 要 集 中 在 转 录 因 子 结 合 蛋 白 质 结 合 . 酶 结 合 、 蛋
+白 激 酶 结 合 血 红 素 结 合 上 , 其 交 集 蛋 白 靶 点 主 要 富
+集 于 胞 质 . 浆 膜 , 细 胞 质 , 线 粒 体 、 细 胞 核 中 , 此 外 , 人
+参 - 红 景 天 还 具 有 抗 甲 型 流 感 , 抗 乙 肝 病 毒 , 调 治 非
+酒 精 性 脂 股 肝 及 调 治 类 风 涨 性 关 节 炎 的 作 用 。
+
+2.7 “ 分 子 对 接 “ 依 据 “2.4“ 及 “2.5「 项 的 结 果 , 将
+度 值 前 5 的 有 效 活 性 成 分 与 蛋 白 互 作 频 次 前 5 的 核
+心 蛋 白 靶 点 分 别 进 行 分 子 对 接 , 其 配 体 及 蛋 白 质 信
+息 见 Tab 4, 对 接 结 合 力 结 果 见 Tab 5。
+
+其 中 与 5 个 蛋 白 靶 点 对 接 打 分 及 结 合 模 式 均 有
+较 好 表 现 的 活 性 成 分 是 豆 畜 醇 , 人 参 皂 苷 th2 与
+CASP-3 蛋 白 有 相 互 作 用 的 活 性 氨 基 酸 残 基 包 括
+TYR-204 , PHE-256, CLU-248、PHE-247 , TRP-214 、
+ANS-208 等 , 人 参 皂 苷 th2 的 一 端 含 有 疏 水 链 , 一 端
+含 有 亥 水 糖 环 , 糖 环 及 疏 水 链 上 的 氧 均 能 与 氨 基 酸
+(TYR-204 .GLU-248 ) 的 质 子 形 成 很 强 的 氨 键 相 互 作
+用 , 氧 键 距 离 较 短 , 结 合 能 力 强 , 这 对 锦 定 配 体 分 子
+有 着 重 要 意 义 , 并 且 其 疏 水 链 和 疏 水 性 氨 基 酸
+(TYR-204 ,PHE-256 .PHE-247 .TRP-214 ) 形 成 了 很
+强 的 疑 水 作 用 , 可 稳 定 小 分 子 。 人 参 皂 苷 th2 与 蛋
+白 口 袋 匹 配 度 较 高 , 且 每 一 部 分 能 够 与 口 袋 的 凹 槽
+形 成 较 好 的 相 互 作 用 。 综 上 所 述 , 人 参 皂 茂 th2 与
+CASP-3 蛋 白 靴 点 的 结 合 力 及 对 接 打 分 表 现 最 好 , 其
+他 活 性 成 分 与 5 个 靶 点 均 能 够 与 位 点 氮 基 酸 形 成 氧
+锤 , 与 蛋 白 靶 点 匹 配 度 较 好 , 也 是 人 参 - 红 景 天 治 疗
+MIRI 过 程 中 发 挥 疗 效 的 关 键 成 分 。
+* 974 、
+
+中 国 药 理 学 通 报 _CRinese PRarmdcological Bullelin
+
+2023 May;39(5 )
+
+Tab 3 Pathway enrichment results for Ginseng-rhodiola and MIRI crossover targets
+
+GC0O Description Count - Log10 乙 Hits
+hsa05200 Pathways in cancer 22 2.41E-10 JUN ,NOS2 ,MMP1 ,MMP2 ,F2R ,STAT3 ,PTCS2 ,FCF2 ,HIF1A,MMP9 ,PIK3CC ,
+VECFA,CASP9 , IL-6 , MAPK8 , CASP8 , CASP3 , BCL2 , BAX, MAPKI , PPARC,
+TP53
+hsa05145 Toxoplasmosis 18 5.17E-16 IL-10, HSPA8 ,NOS2,STAT3 ,MAPKI4,TNF-a,CASP9 ,MAPK8 ,CASP8 ,
+CD40LC,IFNC ,CASP3 , ALOX5 ,BCL-2 ,MAPK1 ,JAK2 ,TLR4 ,HSPA1A
+hsa04668 TNF-a signaling 17 7.47E-15 JUN,EDN1 ,VCAMI , PTCS2 , MAPKI4 ,SELE ,TNF-a , MMP9 , PIK3CC ,ICAMI ,
+pathway CASP7 ,IL-6 ,MAPK8 ,CASP8 ,IL-1B ,CASP3 ,MAPKI
+hsa05164 Influenza A 17 1.69E-11 HSPA8 ,JUN,PLG,MAPK14 ,TNF-a ,PIK3CC,ICAM1 ,CASP9 , IL-6 , MAPK8 , IF-
+NC,IL-1B,CASP1 ,MAPKI ,JAK2 ,TLR4 ,HSPAIlA
+hsa05152 Tubereulosis 16 2.55E-10 “ IL-10, NOS2 , MAPK14 , TNF-a, CASP9 , IL-6, MAPK8 , CASP8 , IFNG, IL-1B,
+CASP3 ,BCL-2 ,BAX ,MAPKI ,JAK2 ,TLF4
+hsa05205 Proteoglycans in 16 1.43E-09 ITCB3 ,MMP2 ,STAT3 , MAPKI4 ,FCF2 ,HIF1 A , ESRI ,TNF-a, MMP9 , PIK3CC ,
+cancer VECFA ,CASP3 ,KDR ,MAPKI ,TP53 ,TLR4
+hsa05161 Hepatitis B 15 1.91E-10 JUN,STAT3 , TNF-a, MMP9 , PIK3CC, CASP9 , IL-6, MAPK8 , CASP8 , CASP3 ,
+BCL-2 ,BAX ,MAPKI1 ,TP53 ,TLF4
+hsa04066 HIF-1 signaling 14 1.20E-11 _EDN1 ,FLTI ,NOS2 ,STAT3 , SERPINE1 , HIF1A, PIK3CC, VECFA, IL-6 , IFNC ,
+pathway BCL-2 ,HMOXI ,MAPKI ,TLR4
+hsa05142 Chagas disease 14 3.40E-11 IL-10,JUN,NOS2 ,SERPINE1 ,MAPKI4 ,TNF-a,PIK3CC ,IL-6 ,MAPK8 , CASP8 ,
+( American bry- IFNC ,IL-1B ,MAPKI ,TLF4
+panosomiasis )
+hsa04151 PDBK-Akt signaling 14 4.87E-05 FLTI ,ITCB3 ,F2R,FCF2 ,PIK3CCG,VEGCFA,CASP9 ,IL-6,KDR,BCL-2 ,MAPKI ,
+pathway JAK2 ,TP53 ,TLH4
+hsa05133 Perlussis 13 1.04E-11 “ IL-10 , JUN,NOS2 , MAPK14 , TNF-a, CASP7 , IL6, MAPK8 , IL-1B,CASP3,
+CASP1 ,MAPKI ,TLF4
+hsa04010 MAPK signaling 12 5.53E-05 HSPA8 , JUN,MAPK8 , IL-1B, CASP3 , PLA2C4A, MAPKI , MAPKI4 , TNF-au ,
+pathway TP53 ,FCF2 ,HSPA1A
+hsa05134 Legionellosis 11 1.37E-10 _CASP9 ,HSPA8 ,IL-6,CASP7 ,CASP8 ,IL-1B ,CASP3 ,CASPI ,TNF-a,TLR4 , HS-
+PA1A
+hsa05140 Leishmaniasis 11 2.30E-09 IL-10 ,JUN,IFNG,NOS2 ,IL-1B,MAPKI ,JAK2 ,MAPK14 ,PTGS2 ,TNF-a ,TLF4
+hsa04932 Non-aleoholie fatty liver 一 11 3.22E-06 IL-6, CASP7 , JUN,MAPK8,CASP8 , IL-1B, CASP3, BAX,PPARA,TNF-a,
+disease (NAFLD) PIK3CC
+hsa04024 cAMP signaling 11 3.52E-05 JUN, MAPK8, F2R, PDE3A, ADORALl ,MAPKI ,ADRB1 ,ADRB2 ,ATP1AI ,
+pathway PPARA.PIK3CC
+hsa05144 Malaria 10 1.33E-09 “ IL-10,IL.6,VCAMI ,CD40LC,IFNC,IL-1B,SELE ,TNF-a,TLFR4 ,ICAMI
+hsa05132 Salmonella 10 1.60E-07 IL-6 ,JUN ,MAPK8 ,IFNC,NOS2 ,IL-1B,CASP1 ,MAPKI ,MAPKI4 ,TLR4
+infection
+hsa05323 Rheumatoid 10 2.67E-07 “1L-6,JUN,FLTI ,IFNC,MMP1,IL-1B,TNF-a,TLR4 ,ICAMI ,VECFA
+arthritis
+hsa04620 Toll-like receplor sig- 10 1.32E-06 “ IL-6,JUN ,MAPK8 ,CASP8 ,IL-1B ,MAPKI ,MAPKI4,TNF-au,TLR4 ,PIK3CC
+naling pathway
+Tab 4 Molecular docking protein information table 最 后 将 有 效 活 性 成 分 与 蛋 白 靶 点 对 接 后 形 成 的 复
+Cax P manme 50 “ 合 物 利 用 Pymol2. ! 软 件 迹 行 可 视 化 , 得 到 结 合 模 型 图 ,
+T F 一 5
+仪 ee o M 选 择 结 合 性 好 日 毕 配 度 高 的 进 行 展 示 , 见 Fig 5。
+ECF4 Vascular endothelial growth factor 戈 5DN2 2.8 动 物 实 验 结 果
+MI4PKL Mitogen-activated protein kinase 1 40P2 2 8 1 人 参 - 红 景 天 对 MIRI 大 鼠 心 肌 组 织 的 影 响
+C4SP-3 CASPASE-3 1NMS
+
+Tab 5 “Core targets of Gimseng-Rfodiola rosea for treatment of
+MILRI Virtual docking results of active ingredients( kcal , mol )
+
+假 手 术 组 大 鼠 的 心 肌 组 织 无 明 显 异 常 , MIRI 模 型
+组 血 管 充 血 严 重 , 心 肌 纤 维 坏 死 断 裂 , 伴 有 炎 性 细 胞
+点 状 浸 润 , 心 肌 细 胞 水 肿 且 排 列 紧 乱 ; 与 MIRI 模 型
+
+Name CASP-3 “IL-6 “MAPKI TNF VECFA - 、 , -
+组 相 比 , 人 参 - 红 景 天 组 对 大 鼠 心 肌 纤 维 坏 死 , 炎 .
+
+Beta-Sitosterol - 6.90 -6. 20 - 720 一 12.60 -6. 80 组 相 比 , 人 口 红 景 大 玲 对 大 鼠 心 肌 T 维 F 死 , 灵 性
+
+GCinsenoside-rh2 -8.00 “-6.40 “-7.50 “-11.60 “-6.80 细 胞 浸 润 , 心 肌 细 胞 水 肿 及 血 管 充 血 情 况 有 一 定 程
+
+p-coumaric-acid -5.10 “-5.50 “-5.70 “-7.80 -6.00 度 减 轻 , 说 明 人 参 - 红 景 天 可 以 减 轻 大 鼠 心 肌 缺 血 /
+
+Salidroside -6.00 “-6.00 “-6.40 “-9.00 -6.60 : 英 山 八 旭 招 余 厂 F
+
+Sligmasterol -7.50 6.70 -8.80 13.20 7.10 毋 灌 注 引 起 的 心 肌 损 伤 , 见 Fig 6。
+
+中 国 药 理 学 通 报 _CRinese PRarmdacological Bulletin “2023 May;39(5 )
+
+“975,
+
+hom NA poy
+
+response olpoposacchande
+Posllveregulaion finseption.DNh lempiated
+nesponseiodmug
+
+Postlvereguiston ofgene szpression
+
+negstie eguston ofapoplotc ptecass
+
+【
+申
+
+16
+
+20 24
+
+Biological process
+
+丨 方 巾 里 面 广 木 芸 口
+
+28
+
+20 40 60
+
+Molecular function
+Fig 4 GO gene function and KEGG signaling pathway enrichment results for Cimserzg-Rfodiole rosea and MTRI intersection targets
+
+奔 : Biological process;B :Cellular component;C: Molecular function;D: KECG signaling pathway
+
+80
+
+Count
+“ 10.0
+申 12.5
+霁 15.0
+霁 17.5
+霁 20.0
+
+-log10(Pvalue)
+15
+
+10
+5
+
+10.0
+
+*
+*
+E 加 吴江
+
+旦
+eyosol 刑
+plasma membeane E
+oyleplasm j
+exraceluarzpace 企 Count
+extecellarregon 余 鲁 10
+Imembaane 棣 霁 20
+iochondnon E 雷 25
+intsgnalcomponentofplasma membane 曰
+endoplesmic aculum 里 -log10(Pvalue)
+Golgiapparatus 雪 12
+sndoplasmic etculun memibane 一
+Caveola 申 2
+membrans a 一 6
+Iacelularmemrane-bounded ganels| 曰 3
+Pernocearmgionofemopasm| 心
+edemalsde ofplasma membrana| 一
+sanyendosome| 一
+bood misoperes| 。
+10 20 30 40
+Cellularcomponents
+玖 一 pairr 一 史
+Topannona] 量
+TMF onsirapmw 霁
+InloenraA 伟 Count
+oouou 李 “ 10.0
+poscgycne rareee 李 里 12.5
+sans 界 林 ]5.0
+PaK Aiasonaingpsmvuay 心 霁 17.5
+HF-1 woratngpaomy 心 霁 20.0
+河
+Penume -log10(Pvalue)
+M sgnirg stm 一 15.0
+Noec steoholctity erdsosse AUD 一 12.5
+E 里 诊
+p 国 10.0
+c natngpaimay| 一 阮
+T emeaporiinairgpamwy| 5.0
+Sainoneta tecn 1
+Rhesmsiod sfj
+Ma
+15 20 25 20
+KEGG
+
+onioizniniign
+口
+
+Fig 5 “Molecular docking of core active ingredients of Gizseg-Rliodiola rosea with key targets
+兮 : The binding mode of CASP-3 protein with ginsenoside rh2; B:The binding mode of IL-6 protein with stigmasterol; C:The binding mode of VECFA
+protein with salidroside; D:The binding mode of MAPK1 protein with stigmasterol ; 世 :The binding mode of TNF protein with stigmasterol
+
+2.8.2 ELISA 法 桶 测 TNF-a 与 IL-6 的 表 达 水 平
+
+与 假 手 术 组 相 比 , MIRI 模 型 组 的 TNF-a 及 IL-6 表
+达 量 均 明 显 升 高 (P <0. 05); 与 MIRI 模 型 组 对 比 ,
+
+表 达 量 降 低 ( <0.05 或 P <0.01); 与 3-MA 组 相
+
+人 参 - 红 景 天 组 及 3-MA 组 的 大 鼠 TNF-a 及 IL-6
+
+比 , 人 参 - 红 景 天 组 的 TNF-a 及 IL-6 表 达 量 明 显 降
+低 (P<0.01) , 见 Tab 6。
+976 、 中 国 药 理 学 通 报 _CRinese PRarmdacological Bulletin “2023 May;39(5 )
+
+Eig 6 Effect of GCizzseng-RRodiola rosed on myocardial
+tissues of MIRI rats ( HE staining, x400 )
+具 :Sham-operated group; : MIRI model group; C:Cinseng-Rhodio-
+la group; 口 :3-MA group
+
+Tab 6 “Effects of Gimsemg-Rfodioia On expression of
+IL-6 and TNF-a in MIRI rats( x s,n =6)
+Croup IL-6xhug L TNF-axhg,L-1
+Sham 32. 39 土 2.2 55.09 土 1.75
+MTRI 38. 09 士 3.08 108. 37 土 3.244
+Cinseng-Rhodiola 32.99 4.55 “ 64.29 土 8.73 “
+3-MA 34.23 + 1.68“ 84.04 土 8.20“
+
+* 尸 <0. 05 s sham,“ 尸 <0. 05 ,““ 尸 <0. 01 zs MIRL.
+
+3 讨 论
+
+中 医 根 据 MIRI 临 床 症 状 可 将 其 归 为 “ 胸 痴 “、
+“ 真 心 痛 “ 、“ 心 悸 “ 范 畴 , 病 机 包 括 瘀 瘀 及 气 虚 , 为 本
+虚 标 实 证 , 治 疗 以 益 气 化 疾 通 络 为 主 , 人 参 及 红 景 天
+均 有 益 气 活 血 化 瘀 之 效 。
+
+研 究 结 果 显 示 , 豆 留 醇 、B- 谷 甾 醇 , 人 参 皂 苷 th2
+及 红 景 天 苷 等 活 性 成 分 与 MIRI 蛋 白 靴 点 相 互 作 用
+最 多 , 提 示 其 可 能 在 治 疗 MIRI 过 程 中 起 到 关 键 作
+用 。 现 代 药 理 学 研 究 发 现 , 豆 畔 醇 可 借 助 AMPK-
+mTOR 和 JNK 途 径 减 轻 氧 化 应 激 反 应 ““ 。B- 谷 画
+醇 上 调 谷 胱 甘 肽 氯 化 还 原 循 环 保 护 受 损 心 肌 , 具 有
+抗 凝 血 活 性 “ 。 人 参 皂 苷 zh2 可 提 升 心 肌 细 胞 活
+力 , 缓 解 心 肌 纤 维 化 , 并 具 有 抗 氧 化 应 激 及 抗 炎 作
+用 “ 。 红 景 天 苜 能 提 升 MIRI 大 鼠 心 肌 组 织 中 Akt
+CSK -3B 蛋 白 表 达 , 减 少 心 肌 炎 性 浸 润 , 促 进 血 管
+内 皮 修 复 ““。
+
+PPI 网 络 显 示 , TNF-a 、IL-6、VEGFA、MAPKI 等
+可 能 是 治 疗 MIRI 的 核 心 靶 点 , 参 与 了 炎 症 反 应 、 免
+疫 代 谢 及 细 胞 增 殖 的 相 关 通 路 。TNF-a 及 IL-6 在
+心 肌 缺 血 缺 氧 后 , 表 达 水 平 升 高 , 促 进 炎 症 产 生 , 致
+使 心 肌 功 能 障 碍 ; VECFA 是 血 管 生 成 、 伤 口 愈 合 及
+癌 症 的 调 节 因 子 ;MAPKI 可 调 节 炎 症 反 应 并 参 与 细
+
+胞 增 殖 代 谢 “ 。
+
+分 子 对 接 验 证 后 显 示 , 豆 画 醇 与 IL-6 .MAPKI
+及 TNF-a 等 蛋 白 靶 点 的 配 体 结 合 度 均 较 好 , 其 结 合
+力 分 别 为 -6.70、 -8. 80 及 -13.20 kcal , mol 1。
+人 参 皂 茂 th2 与 CASP-3 蛋 白 靶 点 的 结 合 力 及 对 接
+打 分 表 现 最 好 , 说 明 人 参 皂 苷 th2 , 红 景 天 苷 及 豆 畔
+醇 等 活 性 成 分 在 治 疗 MIRI 中 起 到 关 键 作 用 。 动 物
+实 验 结 果 显 示 , 人 参 - 红 景 天 能 减 轻 MIRI 大 鼠 心
+肌 纤 维 坏 死 , 缓 解 心 肌 细 胞 水 肿 及 浸 润 情 况 , 降 低
+MIRI 大 鼠 TNF-a 及 IL-6 的 表 达 水 平 , 表 明 人 参 -
+红 景 天 可 能 通 过 调 控 TNF-a ,IL-6 等 核 心 蛋 白 靶 点 ,
+减 轻 炎 症 反 应 , 保 护 心 肌 细 胞 , 从 而 减 轻 缺 血 心 肌 损
+伤 。
+
+C0 生 物 功 能 及 KECC 通 路 富 集 分 析 结 果 显
+示 , 人 参 - 红 景 天 通 过 调 节 蛋 白 质 结 合 、 酶 结 合 、 转
+录 因 子 结 合 等 过 程 参 与 MIRI 的 炎 症 和 免 疫 反 应 ,
+主 要 涉 及 TNF-a 、HIF-1 ,PIBK-Akt .MAPK 等 信 号 通
+路 。TNF 信 号 通 路 上 的 TNF-a 与 TNF-R1I 结 合 后 募
+集 蛋 白 FADD , 富 集 caspase-8 前 体 , 激 活 并 活 化 下 游
+的 easpase-3 , 将 底 物 割 裂 促 使 心 肌 细 胞 凋 亡 ““1 。 在
+机 体 缺 氧 时 , HIF-1 信 号 通 路 上 调 与 血 管 相 关 的 虾
+白 表 达 水 平 , 增 加 血 流 , 重 构 细 胞 的 代 谢 途 径 , 保 护
+心 脏 功 能 , 是 机 体 氧 稳 态 的 主 要 调 节 者 ““ 。PI3K-
+Akt 信 号 通 路 激 活 P3K, 结 合 并 磷 酸 化 Akt, 启 动 靶
+基 因 转 录 , 作 用 于 GSK-3R 时 减 少 心 肌 细 胞 凋 亡 , 作
+用 于 mTOR 可 减 轻 炎 症 反 应 ““ 。MAPK 信 号 通 路
+在 细 胞 增 殖 凋 亡 和 炎 症 反 应 中 起 重 要 作 用 , 心 肌 缺
+氯 时 产 生 的 活 性 氧 激 活 p38MAPK , 使 细 胞 色 素 C 释
+放 , 加 重 细 胞 凋 亡 ““1 。
+
+综 上 所 述 , 本 研 究 采 用 了 网 络 药 理 学 方 法 探 究
+人 参 - 红 景 天 的 有 效 活 性 成 分 及 其 治 疗 MIRI 的 潜
+在 靶 点 和 信 号 通 路 , 并 利 用 分 子 对 接 技 术 验 证 核 心
+活 性 成 分 与 潜 在 蛋 白 靶 点 的 结 合 能 力 和 匹 配 度 , 实
+验 验 证 人 参 - 红 景 天 对 MIRI 的 部 分 治 疗 作 用 及 相
+关 蛋 白 的 表 达 水 平 , 发 现 在 人 参 - 红 景 天 治 疗 MIRI
+过 程 中 , 豆 畔 醇 、 人 参 皂 苷 :h2 及 红 景 天 苷 等 活 性 成
+分 可 能 作 用 于 TNF-a ,IL-6 、 MAPKI CASPASE-3 、
+VECFA 等 核 心 蛋 白 靶 点 , 通 过 TNF-a ,HIF-1 .PI3K-
+Akt 等 信 号 通 路 参 与 了 炎 症 及 免 疫 反 应 , 保 护 心 肌
+细 胞 , 减 轻 心 肌 损 伤 , 这 为 临 床 应 用 提 供 了 新 的 理 论
+支 撑 , 也 为 阐 明 人 参 - 红 景 天 治 疗 MIRI 的 潜 在 作
+用 机 制 提 供 了 新 的 方 向 和 思 路 , 后 期 将 继 续 通 过 实
+验 研 究 对 关 键 信 号 通 路 加 以 验 证 。
+中 国 药 理 学 通 报 _CRinese PRarmdcological Bullelin
+
+2023 May;39(5 ) * 977,、
+
+参 考 文 献 :
+
+[1]
+
+[4]
+
+[6]
+
+[8]
+
+Hausenloy D, Botker H , Engstrom T,et al Targelting reperfusion
+injury in patients with ST-segment elevation myocardial infarction :
+Trials and tribulations[ 刀 , Eur Heart ,2017,38:935 -41.
+
+刘 瑞 , 刘 璐 , 郭 “ 鹏 . 心 肌 缺 血 / 香 灌 注 损 伤 的 发 病 机 制 及
+其 防 治 策 略 [J, 世 界 最 新 医 学 信 息 文 摘 ,2019 ,19(6):73 -
+丨 .
+
+Liu R,Liu L,Cuo P,Pathogenesis of myocardial ischemia-reperfu-
+sion injury and its prevention and treatment strategies [ ] , orld
+Latest ed nybrmation ,2019 ,19(6) :73 一 牛 .
+
+常 立 萍 , 之 金 珠 , 王 义 强 , 等 . 参 红 通 络 颗 粒 治 疗 冠 心 病 稳 定 型
+心 绞 痛 [ 门 . 吉 林 中 医 药 ,2013 ,33(12 ) :1226 -8.
+
+Chang L ,Yin J 乙 , Wang Y 名 ,et al、Treatment of stable angina
+Pectoris in coronary artery disease with Ginseng FHong Tong Luo
+Granules[ 丁 . Jilin J Chin MMed ,2013 ,33(12 ) :1226 -8.
+
+叶 晓 莉 , 李 晓 峰 . 人 参 皂 苷 Rgl 对 1- 甲 基 4- 苯 基 吡 啶 离 子 诱
+导 的 PC12 细 胞 凋 亡 的 保 护 作 用 [ 川 海 军 军 医 大 学 学 报 ,
+2011,32(9 ) :965 -8.
+
+Ye X L,Li X 下 ,Protective effect of ginsenoside Rgl on 1-methyL-
+4-phenylpyridinium ion-induced apoptosis in PC12 cells[ 一 . 4ca-
+demic J Naual Med Unip,2011,32(9 ) :965 -8.
+
+姚 伟 锋 , 黑 子 清 . 红 景 天 及 其 有 效 成 分 防 治 器 官 缺 血 / 再 灌 注
+损 伤 的 研 究 进 展 [J 刀 . 实 用 医 学 杂 志 ,2015,31(3) :498 - 501.
+
+Yao 奶 ,Hei Z Q Research progress of Rhodiola rosea and ils ac-
+tive ingredients in _preventing organ ischemia-reperfusion injury
+[ 水 . J Practical Med ,2015 ,31(3 ) :498 ~501.
+
+段 贤 春 , 黄 _ 石 , 彰 代 银 , 等 - 网 络 药 理 学 在 中 药 复 方 研 究 中 的
+应 用 [J]. 中 国 药 理 学 通 报 ,2020,36(3 ) :303 -8.
+
+Duan X C,Huang S,Peng D Y,et al,Application of network phar-
+macology in the study of Chinese medicine compounding [ ].
+Chin Pharmacol Bull ,2020,36(3 ) :303 -8.
+
+吕 祉 彤 . 近 十 年 红 景 天 植 物 化 学 成 分 研 究 概 况 [ 刀 . 化 工 设 计
+通 讯 ,2018 ,44(3) :249,
+
+Lyu Y 工 _Overview of the research on phylochemical composition
+of Rhodiola rosea in the last decade [ 小 .
+Design Commiziications ,2018 ,44(3 ) :249.
+于 浩 楠 , 马 丽 娟 , 黄 “ 坚 , 等 . 基 于 HPLC-Q-TOF-MS 技 术 分 析
+红 景 天 颗 粒 的 化 学 成 分 及 大 鼠 口 服 后 的 入 血 成 分 [J]. 上 海
+中 医 药 大 学 学 报 ,2021,35(1):61 -73.
+
+Yu H N , Ma L JJ,Huang ],et al, Analysis of the chemical composi-
+tion of Rhodiola rosea granules based on HPLC-Q-TOF-MS tech-
+nique and the blood entry components of rats after oral administra-
+tion[ J 4cademic J Shanghai UInip Tradit Chin Med 2021, 35
+(1) :61 -73.
+
+Chemical Engineering
+
+[9]
+
+[9]
+
+[11]
+
+[12
+
+山
+
+[13]
+
+[14
+
+山
+
+[17]
+
+王 峥 , 王 亚 君 , 满 晓 静 , 等 . 红 景 天 治 疗 心 血 管 疾 病 研 究 进 展
+[ 才 . 创 伤 与 急 危 重 病 医 学 ,2019,7(4) :258 -62.
+
+Wang Z,Wang Y 丁 ,Man X ],et al,Research progress of Rhodiola
+rosea in the treatment of cardiovascular diseases [ 』 ].
+Crilical Care Hed ,2019 ,7(4 ) :258 - 62.
+
+Sun ] Li XX,Liu ],et al,Stigmasterol exerts nieuro-protective effect
+
+Trattmna
+
+against ischemicyreperfusion injury through reduction of oxidative
+stress and inactivation of autophagy[ J , Meuropsychiatr Dis Treat ,
+2019 ,15:2991 -3001.,
+
+Cogoi D, Pal A , Chattopadhyay P,el al.。 First report of plant-de-
+rived B-sitosterol with antithrombotic , ip ziro anticoagulant, and
+thrombus-preventing activities in a mouse model[ J. J Nat Prod ,
+2018 ,81(11) :2521 -30.
+
+LO S,3U C,NIU H,et al, Ginsenoside rh2 improves cardiac fibro-
+sis via PPAR5-STAT3 signaling in type 1-like diabetie rats [ 』 ] .
+Wnt J Ho Sci ,2017 ,18(7 ) :1364.
+
+戎 浩 , 马 “ 辉 , 朱 敏 侠 . 藏 药 红 景 天 苷 对 心 肌 缺 血 / 再 灌 注 捣
+伤 的 保 护 机 制 研 究 进 展 [J. 中 国 民 族 医 药 杂 志 ,2018 ,24
+(8) :59 -60.
+
+Rong , Ma F, Zhu M M Progress of research on the protective
+mechanism of tibetan medicine rhodiol glycosides against myocar-
+dial ischemia-reperfusion injury [ 了 , J Med Pharm , Chin Minori-
+Lies,2018 ,24(8 ) :59 一 60.
+
+Kumar 下 ,Singh 口 , Kini S,et al JNK pathway signaling: A novel
+and smarter therapeutic targets for various biological diseases[ 一 .
+Julure Med Chem ,2015 ,7( 15 ) :2065 -86.
+
+刘 媛 媛 , 田 学 峰 , 霍 红 , 等 . 心 肌 缺 山 / 再 灌 注 损 伤 患 者 血 清
+TNF-a 和 IL-10 水 平 变 化 及 意 义 [J]- 中 国 医 学 前 沿 杂 志 ( 电
+子 版 ) ,2018 ,10(1) :79 -82.
+
+Liu Y 川 ,Tian X 下 ,Huo 耳 ,et al,Changes and significance of ser-
+um TNF-at and IL-10 levels in patients with myocardial ischemia-
+reperfusion injury [ , Chin J Frontiers Mfed Sci ( Electrorice Fer-
+sion ) ,2018 ,10( 1 ) :79 - 82
+
+王 文 香 , 张 妞 妞 , 曾 先 燕 , 等 . HIF-la 抗 心 肌 缺 血 / 再 灌 注 炎 性
+损 伤 的 作 用 [ 刀 . 中 国 病 理 生 理 杂 志 ,2018,34(7) :1201 -5.
+Wang W X,Zhang N N ,Zeng X 工 ,et 山 Role of HIF-la against
+myocardial ischemia-reperfusion inflammatory injury [ Chin J
+Paihopyysiology,2018 ,34(7) :1201 -5.
+
+Sciarretta S, Forte M ,Frati G,et al。 New insights into the role of
+mTOR signaling in the cardiovascular system| J ] Circ Res ,2018 ,
+122(3) :489 - 505.
+
+] Yu D,Li M,Tian Y,et al。 Luteolin inhibits ROS-activated MAPK
+
+pathway in myocardial ischemia-reperfusion injury [ ] , Life Sci,
+2015,122:15 -25.
+
+MIechanism of Girzserzg-Rhodiola rosea in treatment of
+
+myocardial ischemia-reperfusion injury based on
+
+network pharmacology and molecular docking
+ZHAO Qian-lin「 ,LAI Ying-rongl「 ,JIANC Li-hong
+
+Abstract: Aim “To investigate the sites and mecha-
+
+( 1. College of Traditional Chinese Medicine , Changchunz Unizersity of Tradilional Chinese Medicize , CJangchium
+2。 4Rliated Hospital a Changchuz Unizersity of Tradilional CJRimnese Medicime , Changchuz
+
+130117 ,China ;
+130021,China )
+
+nisms of action of Cinseng-Rhodiola rosead in the treat-
+* 978 、 中 国 药 理 学 通 报 _CRinese Phuracologicaul BuIletin “_2023 May;39(5 ) :978 ~ 85
+
+网 络 出 版 时 间 :2023 -05 -09 16:29:17 “ 网 络 出 版 地 址 :https://Ahkns. cnki. nety kcms/detail/34. 1086. R. 20230508. 1432.052. html
+
+么 复 方 药 物 药 理 学
+
+朝 医 鹿 茸 大 补 汤 对 咳 嗽 变 异 性 哮 喘 豚 鼠
+TLR4/WNT-5A 信 号 通 路 的 影 咤
+李 慧 文 “, 金 丽 娜 “, 宋 艺 兰 “, 李 良 眉 “, 延 光 海 “, 孟 庆 玲 “, 李 “ 欢 “, 刘 凯 月 “, 郑 明 昱 “
+
+(1. 吉 林 省 过 敏 性 常 见 疾 病 免 痛 与 靶 向 研 究 重 点 实 验 室 ,2. 延 边 大 学 附 属 医 院 新 生 儿 科 ,3. 延 边 大 学 医 学 院 , 吉 林 延 吉
+
+doi:10. 12360/CPB202111109
+
+文 献 标 志 码 : A 文 章 编 号 :1001 -1978(2023)05 -0978 - 08
+中 国 图 书 分 类 号 : R-332; R282. 74; R322. 35; R441.5;
+R502. 25
+
+摘 要 : 目 的 _ 探 讨 鹿 茸 大 补 汤 对 咳 嗽 变 异 性 哮 喘 的 作 用 机
+制 。 方 法 将 豚 鼠 随 机 分 为 正 常 组 ( CON) 、 模 型 组 ( OVA) 、
+鹿 茸 大 补 汤 高 剂 量 组 ( HIGCH ) 、 鹿 茸 大 补 汤 低 剂 量 组
+(LOW ) , 地 塞 米 松 组 (DEX) 。 通 过 烟 熏 加 注 射 卵 清 蛋 白
+(0VA) , 氢 氧 化 铣 溶 液 及 雾 化 吸 人 激 发 咳 嗽 来 创 建 咳 嗽 变
+异 性 哮 喘 (cough variant asthma,CVA) 模 型 。 最 后 一 次 刺 激
+豚 鼠 后 24 h 内 解 剖 , 取 其 肺 泡 灌 洗 液 ( BALF) 和 肺 组 织 。 利
+
+收 稿 日 期 :2022 -~12 - 10, 修 回 日 期 :2023 -03 -15
+
+基 金 项 目 : 国 家 自 然 科 学 基 金 资 助 项 目 ( No 82060911)
+
+作 者 简 介 : 李 慧 文 (1988 - ) , 女 , 博 士 , 主 治 医 师 , 研 究 方 向 : 小 儿 哮
+喘 ,E-mail:1749522509@ qq. comij
+郑 明 昼 (1974 - ) , 男 , 硕 士 , 剧 教 授 , 研 究 方 向 : 过 敏 性 哮
+喔 , 朝 医 基 础 , 通 信 作 者 ,E-mail:myzheng@ ybu. edu. cn
+
+133002 )
+
+用 免 疫 吸 附 ( ELISA) 法 测 定 BALF 中 炎 症 细 胞 种 类 和 炎 性
+细 胞 因 子 的 含 量 ; 取 左 肺 中 叶 , 进 行 HE 染 色 和 Masson 架
+色 , 观 察 病 理 变 化 ; 用 免 疫 组 织 化 学 染 色 法 观 察 肺 部 组 织 中
+TLH4 和 WNT-54A 蛋 白 的 表 达 分 布 ; 从 左 肺 上 叶 提 取 蛋 白 做
+免 疫 蛋 白 印 迹 ( Westem blot) , 测 肺 组 织 中 TLR4 ,WNT-5A 蛋
+白 水 平 ; 用 免 疫 荧 光 法 检 测 肺 组 织 中 TLR4 ,WNT-5A 荧 光 强
+度 ; 采 用 流 式 细 胞 术 在 豚 鼠 肺 组 织 中 检 测 IL4 和 ITN-y。 结
+果 鹿 茸 大 补 汤 能 够 改 善 豚 鼠 气 道 炎 疳 反 应 , 抑 制 胶 原 纤 维
+沉 积 , 降 低 BALF 中 IL4、IL-5 ,IL-13 含 量 , 抑 制 肺 组 织 中
+TLR4 .WNMT-54A 的 蛋 白 表 达 , 升 高 肺 组 织 中 的 IFN-y 水 平 ,
+同 时 降 低 IL4 水 平 。 结 论 “ 鹿 茸 大 补 汤 可 能 通 过 TLR4/
+WNT-5A 信 号 通 路 抑 制 CVA 的 发 生 。
+
+关 键 词 : 朝 医 ; 鹿 茸 大 补 汤 ; 咳 嗽 变 异 性 哮 喘 ;TLR4; WNT-
+54A; 豚 鼠
+
+开 放 科 学 ( 资 源 服 务 ) 标 识 码 ( OSID) :
+
+ment of myocardial ischemia-reperfusion injury 《 ML-
+RI) via using network pharmacology approach ,molecu-
+lar docking techniques and experimental studies.
+Methods The active ingredients and targets of Cin-
+seng-Rhodiola rosed were screened through the TCMSP
+database and literature supplementation ,and the GEN-
+ECARDS ,DISCENET and DRUGBANK databases were
+searched to obtain the targets of MIRI,Functional pro-
+tein interaction networks ( PPIs) and the STRINC data-
+base were used to screen out core targetsThe DAVID
+database was also selected for gene ontology functional
+analysis( GO0) and KECGC signaling pathway enrich-
+ment analysis.。 Lastly , the preliminary validation was
+performed with the help _ of molecular docking tech-
+niques and experimental studies.Results Forty-three
+active ingredients and 348 potential targets of Cinseng-
+Rhodiola were obtained ,and targets such as IL-6 ,TNF-
+a and VEGFA were found to be closely related to ML-
+RI,mainly involving TNF , PI3K-Akt , HIF-1 and other
+
+signaling pathways. The molecular docking results
+
+showed that soysterol ,ginsenoside h2 and rhodioloside
+had good binding effects and high matching with IL-6 ,
+TNF-o ,Caspase-3 , VEGFA , MAPK1 and other targets ,
+among which the best binding was between Caspase-3
+and ginsenoside rh2.The results of the experimental
+study further showed that Cinseng-RRodiola rosed could
+improve myocardial tissue necrosis after myocardial is-
+chemia-reperfusion ,reduce myocardial cell edema and
+vascular congestion ,and decrease the expression levels
+of TNF-a and IL-6 in MIRLI rats.Conclusions Czn-
+seng-Rhodiolc may modulate multiple targets such as
+IL-6 ,TNF-a , Caspase-3 , VEGFA and MAPK1 through
+dousterol ,ginsenoside rh2 and rhodiol glycosides to in-
+hibit inflammatory response and oxidative stress ,reduce
+cardiomyocyte damage and exert t 比 erapeutic effects on
+MLIRL.
+
+Key words: Cimseng-Rhodiold rosed; myocardial ische-
+mia-reperfusion injury ( MIRI ) ; network pharmacolo-
+gy; molecular docking; core targets;signaling pathway

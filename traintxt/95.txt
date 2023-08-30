@@ -1,0 +1,535 @@
+·
+·
+·
+·基
+基
+基
+基础
+础
+础
+础医
+医
+医
+医学
+学
+学
+学论
+论
+论
+论著
+著
+著
+著////研
+研
+研
+研究
+究
+究
+究·
+·
+·
+·
+人参皂苷 Rg1 对高糖受损内皮祖细胞生物学功能
+和分泌血管生成相关生长因子的影响
+蔡 婷1,梁文菲2,李莹莹2,肖 慧1,杨千培2,胡爱琳2,柳 维2,熊 武1
+摘要 目的:探讨人参皂苷 Rg1 对高糖诱导损伤的内皮祖细胞(EPCs)生物学功能和分泌血管生成相关因子的影响。方法:体外分
+离和培养人脐带血 EPCs,通过观察细胞形态、双荧光染色法对培养的 EPCs 进行鉴定。将鉴定成功的 EPCs 用 30 mmol/L 的葡萄
+糖预处理 120 h 后,分别在不同浓度梯度人参皂苷 Rg1(0 mg/L、5 mg/L、10 mg/L、20 mg/L、40 mg/L、80 mg/L)条件下干预培养,确定
+人参皂苷 Rg1 促高糖受损 EPCs 增殖的最佳浓度。将高糖诱导损伤的 EPCs 随机分为实验组(最佳浓度人参皂苷 Rg1 干预)和模型
+组[磷酸缓冲盐溶液(PBS)干 预],同 时 设 置 正 常 EPCs 对 照 组 (PBS 干 预)。采 用 细 胞 计 数 试 剂 (CCK-8)、黏 附 能 力 测 定 试 验、
+Matrigel 体外成管试验、划痕实验及酶联免疫吸附试验(ELISA)法检测 EPCs 增殖、黏附、成管、迁移能力及 EPCs 分泌血管内皮生长
+因子(VEGF)、基质细胞衍生因子-1α(SDF-1α)、血管生成素-1(Ang-1)、基质金属蛋白酶-2(MMP-2)的水平。结果:人参皂苷 Rg1 促
+高糖受损 EPCs 增殖的最佳浓度为 40 mg/L;与正常组比较,高糖受损 EPCs 增殖、黏附及成管能力明显降低(P <0.01);采用人参皂
+苷 Rg1 干预后,高糖受损 EPCs 增殖、黏附、成管及迁移能力明显增强(P <0.01)。ELISA 检测发现,与正常组比较,模型组 EPCs 分
+泌 VEGF、SDF-1α、Ang-1 明显减少,而 MMP-2 分泌增加,差异均有统计学意义(P <0.05);实验组在 40 mg/L 人参皂苷 Rg1 干预后,
+EPCs 分泌 VEGF、SDF-1α、Ang-1 明显增加,而 MMP-2 分泌减少,差异有统计学意义(P <0.05)。结论:人参皂苷 Rg1 处理能改善高
+糖受损 EPCs 的生物学功能及促进 EPCs 分泌血管生成相关生长因子,具有促血管新生的潜能。
+关键词 人参皂苷 Rg1;内皮祖细胞;高糖环境;生物学功能;生长因子;实验研究
+doi:
+10.
+12102/j.
+issn.
+1672-1349.
+2023.
+09.
+007 
+Effect of Ginsenoside Rg1 on the Biological Function and Secretion of Angiogenesis-related Growth Factors in Endothelial Progenitor
+Cells Damaged by High Glucose
+CAI Ting, LIANG Wenfei, LI Yingying, XIAO Hui, YANG Qianpei, HU Ailin, LIU Wei, XIONG Wu
+The First Affiliated Hospital of Hunan University of Chinese Medicine, Changsha 410007, Hunan, China
+Corresponding Author XIONG Wu, E-mail: kkkytd3326@126.com
+Abstract Objective:To investigate the effect of ginsenoside Rg1 on the biological function and secretion of angiogenesis-related
+factors of endothelial progenitors cells(EPCs) with high glucose-induced injury.Methods:Human cord blood EPCs were isolated and
+cultured in vitro.The cultured EPCs were identified by cellular morphology and double fluorescence staining.After the successfully
+identified EPCs were pretreated with glucose of 30 mmol/L for 120 h,the EPCs were intervened and cultured with ginsenoside Rg1 of
+different concentrations(0 mg/L, 5 mg/L, 10 mg/L, 20 mg/L, 40 mg/L, 80 mg/L, respectively) to determine the optimal concentration of
+ginsenoside Rg1 to induce the proliferation of EPCs impaired by high glucose.Next,EPCs injured by high glucose were randomly
+divided into experimental group(intervened with the optimal concentration of ginsenoside Rg1) and model control group(intervened
+with phosphate buffer saline),while normal EPCs control group(intervened with phosphate buffer saline) was also set up.Cell Counting
+Kit-8(CCK-8),adhesion assay,matrigel in vitro tube formation assay,scratch assay,and enzyme linked immunosorbent assay(ELISA)
+were used to detect the effects of ginsenoside Rg1 on cell proliferation,adhesion,tube formation,migration ability, and secretion of
+vascular endothelial growth factor(VEGF), stromal-derived factor-1α(SDF-1α), angiopoietin-1(Ang-1), and matrix metalloproteinase-2
+(MMP-2) of EPCs.Results:The optimal concentration of ginsenoside Rg1 to induce the proliferation of EPCs damaged by high glucose
+was 40 mg/L.Compared with normal group,the proliferation,adhesion,and tube formation ability of EPCs damaged by high glucose were
+significantly reduced(P <0.01).When ginsenoside Rg1 was used to intervene,the proliferation,adhesion,tube formation,and migration
+ability of EPCs damaged by high glucose were significantly enhanced(P <0.01).ELISA revealed that compared with normal group,the
+ability of EPCs damaged by high glucose to secrete VEGF,SDF-1α,Ang-1 was significantly decreased,and the secretion of MMP-2
+was increased,with the statistical difference(P <0.05),while the expression levels of VEGF,SDF-1α,and Ang-1 were significantly up-regulated,the
+secretion of MMP-2 was significantly decreased after intervention with ginsenoside Rg1(P < 0. 05). Conclusion: Ginsenoside Rg1
+treatment can improve the biological function of EPCs damaged by high glucose and promote the secretion of angiogenesis-related
+growth factors,which shows potentiality for angiogenesis
+Keywords ginsenoside Rg1; endothelial progenitor cell; high glucose environment; biological function; growth factors; experiment
+research
+  糖尿病是一种由多种病因引起持续慢性高血糖的
+代谢性疾病,其血管病变与高糖导致的内皮细胞过早
+基金项目 国家自然科学基金青年科学基金项目(No.81904217);国家
+级大学生创新创业训练计划项目(No.S202010541015)
+作者单位 1.湖南中医药大学第一附属医院(长沙 410007);2.湖南中医
+药大学中西医结合学院
+通讯作者 熊武,E-mail:kkkytd3326@126.com
+引用信息 蔡婷,梁文菲,李莹莹,等.人参皂苷 Rg1 对高糖受损内皮祖
+细胞生物学功能和分泌血管生成相关生长因子的影响[J].中西医结合
+心脑血管病杂志,2023,21(9):1581-1586.
+衰老和/或内皮祖细胞(endothelial progenitors cells,
+EPCs)功能失调有关。EPCs 是一种骨髓来源的血管
+干细胞,能分化成内皮细胞,具有修复内皮和促进血管
+生成的作用[1]。持续高血糖会导致机体 EPCs 数量减
+少,同时造成血管生成功能受损,从而推动糖尿病血管
+并发症的发生发展[2]。据此,恢复体内 EPCs 的数量
+和功能,促进损伤内皮细胞的修复和血管新生,是防治
+糖尿病血管并发症的关键。人参皂苷 Rg1 是中药人
+参的主要生物活性成分,有研究表明,人参皂苷 Rg1
+1·
+8
+5
+·1
+中西医结合心脑血管病杂志2023年5月第21卷第9期
+能通过减轻胰岛素抵抗发挥降血糖的作用,可以用于
+缓解糖尿病及其血管并发症。目前研究证实人参皂苷
+Rg1 能通过 促 进 EPCs 增 殖 发 挥 促 进 血 管 再 生 的 作
+用[3]。血 管 内 皮 生 长 因 子 (vascular endothelial
+growth factor,VEGF)
+[4-5]、基 质 细 胞 衍 生 因 子-1α
+(stromal derived factor-1α,SDF-1α)
+[6]、血管生成素-1
+(angiopoietin-1,Ang-1)
+[7]、基质金属蛋白酶-2(matrix
+metalloproteinase-2,MMP-2)
+[8-9]是与血管生成相关的
+生长 因 子。然 而 人 参 皂 苷 Rg1 对 高 糖 诱 导 损 伤 的
+EPCs 生物学功能修复及对分泌 VEGF、SDF-1α、Ang-1、
+MMP-2 的 影 响 鲜 有 报 道。故 本 研 究 将 通 过 分 离 人
+EPCs,探 讨 人 参 皂 苷 Rg1 干 预 下 对 高 糖 诱 导 损 伤
+EPCs 生 物 学 功 能 及 分 泌 VEGF、SDF-1α、Ang-1、
+MMP-2 的影响。
+1 材料与方法
+1.1 药物与试剂 人参皂苷 Rg1(纯度≥98% ,上海
+源叶生物科技有限公司,货号:B21057);EGMTM-2MV
+培养基(美国 Lonza 公司,货号:CC-3162);青霉素-链
+霉素双抗 溶 液 (南 京 凯 基 生 物 科 技 有 限 公 司,货 号:
+KGY002);DMEM/F12 培养基、磷酸缓冲盐溶液(PBS)
+缓冲 液 (美 国 Hyclone 公 司,货 号:SH30023. 01B、
+SH30256.01B);胎 牛 血 清 (美 国 GIBCO 公 司,货 号:
+10270-106);胰 酶 (美 国 GIBCO 公 司,货 号:15050-
+057);乙酰化低密度脂蛋白(Dil-Ac-LDL)购自北京博
+蕾德生物科技有限公司(浓度:10 mg/L);荆豆凝集素
+(FITC-UEA-I)购 自 美 国 Sigma 公 司 (货 号:L-9006);
+Anti-CD31抗体、山羊抗兔 IgG(FITC)(英国 Abcam 公
+司,货 号:ab28364、ab6717);细 胞 计 数 试 剂 盒 (cell
+counting kit-8,CCK-8)购自上海碧云天生物技术有限
+公司(货号:C0037);Matrigel 基质凝 胶(美 国 Becton
+Dickson 公司);VEGF、SDF-1α、Ang-1、MMP-2 的酶联
+免疫吸附试验(ELISA)试剂盒购自上海江莱生物科技
+有限公司(货号:JL18341、JL13740、JL10166、JL13552)。
+1.2 仪器与器材 超净工作台(苏州净化设备有限公
+司,型号:SW-CJ-1FD);荧光显微镜[同舟同德(北京)
+仪器仪表有限公司,型号:Olympus-BX51];二氧化碳
+(CO2)细胞培养箱(日本 SANYO 公司,型号:XD-101);96
+孔板(美国 Corning 公司,型号:3590);酶联免疫检测
+仪(美国 Thermo Fisher 公司,型号:5111918);生物倒
+置显微镜(日本 OLYMPUS 公司,型号:BX51);台式低
+速离心 机、4 ℃ 离 心 机 (德 国 Eppendorf 公 司,型 号:
+5804、5415R);振 荡 器 (上 海 沪 西 分 析 仪 器 厂,型 号:
+WH-2)。
+1.3 实验方法
+1.3.1 EPCs 的分离培养与鉴定 取得足月健康新生
+儿的脐带血(在获得产妇及其家属同意并签署知情同
+意书的情况下进行标本采集,已获得本院伦理委员会
+批准,批准文号:HN-LL-KY-2020-013-01),经密度梯度
+离心后获得单个核细胞,在 EGMTM-2MV 培养基中 进
+行计数。调整细胞浓度后将细胞悬液接种于预先包被
+纤维连接蛋白的 6 孔板中,置于 37 ℃、5% CO2 培养箱
+中培养。待细胞融合率达到 90% 后,采用胰酶消化按
+1∶3 进行传代。
+参考胰酶消化法、免疫磁珠分选法[10]、FITC-UEA-I
+和 Dil-Ac-LDL 双荧光染色法[11-12],推测能够同时摄取
+Dil-Ac-LDL 与结合 FITC-UEA-I 的细胞则被认为是正
+在分化 的 EPCs,与 EPCs 的 生 长 形 态 相 符,并 具 备
+EPCs 的 表 面 标 志 和 功 能 特 征。 因 此,本 研 究 基 于
+EPCs 能 够 同 时 摄 取 Dil-Ac-LDL 并 结 合 FITC-UEA-I
+则被认为是正在分化的 EPCs 的原理,以及参考 CD31
+作为 EPCs 的主要表面标志物也在鉴定中作为参考指
+标。采用 CD31免疫磁珠分选法、FITC-UEA-1 联合 Dil-
+Ac-LDL 双荧光染色法共同鉴定 EPCs。
+1.3.2 EPCs 分组及处理 使用含 30 mmol/L 浓度葡
+萄糖的培养基培养 5 d 来制备高糖受损 EPCs 模型。
+将高糖受损 EPCs 随机分为实验组、模型组,实验组用
+最佳质量浓度的人参皂苷 Rg1 处理,模型组用等体积
+的 PBS 处理模型组。正常组 EPCs 用普通培养基培
+养 5 d 后再用等体积 PBS 处理。
+1.3.3 人参皂苷 Rg1 对高糖受损 EPCs 生物学功能
+的影响
+1.3.3.1 人参皂苷 Rg1 处理高糖受损 EPCs 最佳浓度
+的选择 于 96 孔板中接种增殖活跃的 EPCs,分别使
+用 0 mg/L、5 mg/L、10 mg/L、20 mg/L、40 mg/L、80 mg/L
+的人 参 皂 苷 Rg1 进 行 干 预。用 胰 蛋 白 酶 消 化 贴 壁
+EPCs,使其脱落,对细胞悬液进行计数后,将 EPCs 铺
+在 24 孔板上,置于 37 ℃,5% CO2 孵育箱中培养 9 h
+后,将 EPCs 接种在大鼠纤维连接蛋白包被的培养板
+中,37 ℃培养 30 min,用随机 200 倍视野对贴壁 EPCs
+进行计数,四甲基偶氮唑蓝(MTT)法检测 EPCs 存活
+率,以确定人参皂苷 Rg1 促进 EPCs 增殖的最佳浓度。
+1.3.3.2 增殖能力检测 取对数生长期 EPCs,胰酶消
+化,离心,计数,并调整细胞悬液浓度。将 EPCs 按照
+每孔 1×105 个细胞分于 96 孔板中,置于 37 ℃、5%
+CO2 培养箱中培养 24 h。待细胞贴壁生长后,收集指
+数生长期 EPCs,于 96 孔板中配制 100 μL 的细胞 悬
+液,并将培养板置于 37 ℃、5% CO2 的培养箱中预培
+养 24 h。实验组使用最佳浓度人参皂苷 Rg1 进行干
+2·
+8
+5
+·1
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE May 2023 Vol.
+21 No.
+9
+预,模型组和正常组加入等体积 PBS,并 向每孔中加
+入 CCK-8 溶液 10μL,孵育 4 h 后,使用酶标仪测定各
+组在 450 nm 处的吸光度(OD)。
+1.3.3.3 黏附能力检测  取贴壁细胞用 胰蛋白酶消
+化,将处理后的细胞离心重悬,将制成的悬液置于 500μL
+培养液中并计数。取 EPCs 平铺于 24 孔板中,置于 37 ℃、
+5% CO2的恒温箱中孵育 1 h,实验组用 40 mg/L 人参
+皂苷 Rg1 干预,模型组和正常组用等体积 PBS 干预,
+各培养 8 h 后,将接种了干预后 EPCs 的大鼠纤维连
+接蛋白培养板放在 37 ℃环境中培养 30 min,在显微镜
+下用 200 倍视野随机观察、计数。
+1.3.3.4 成血管能力检测 将 Matrigel 基质胶过夜溶
+解 ,次日用M200无血清及生长因子补充物的培养基
+1∶1 稀释 Matrigel 基质胶并加入 12 孔板中,在 37 ℃
+孵箱中放置 30 min。将增殖期的 EPCs 用胰酶处理
+后,重悬离心并调整重悬液密度,将重悬液转入 12 孔
+板中培养,取贴壁细 胞,实 验 组 用 40 mg/L 人 参 皂 苷
+Rg1 干预,模型组和正常组采用等体积 PBS 干预,然
+后置于 37 ℃培养箱中培育 24 h,在显微镜下随机选取
+4 个视野观察、拍照,计算小管形成长度并取平均值。
+1.3.3.5 迁移能力检测 用黑色马克笔在 6 孔板背后
+用横划线进行标记,横穿过每个孔,每孔间隔 1 cm 之
+间划一横、两竖线,保证每个孔上至少有 5 条线通过。
+在每个孔中分别加入约 5×105 个处于增殖生长期的
+EPCs,用无菌 200μL 枪头在预移植培养 1 d 后的培养
+细胞孔 底 部 孔 板 中 央 分 别 划 一 横、两 竖 线 痕 迹,用
+PBS 液体洗去底部脱落的 EPCs。在 37 ℃、5% CO2
+培养箱中预培养分别含有 40 mg/L 人参皂苷 Rg1 和
+PBS 液体处理过的两种无血清 M199 完全培养基。在
+倒置显微镜(×200)下摄像,记为 0 时,利用显微标尺
+选择两个不同视野,分别测量 0 h、48 h 的划痕创伤面
+积和边距,以迁移宽度表示细胞迁移能力。
+1.3.3.6 血管生成相关生长因子检测 实验组采用 40
+mg/L 的人参皂苷 Rg1 干预 48 h,模型组、正常组均采
+用 相 等 含 量 PBS上 清 液 进 行 干 预 48 h。将 抗 体 细 胞
+液和上清液先后进行二次收集,再先后加入标准稀释
+液、缓冲液,进行抗体稀释并综合检测各种抗体后进行
+振荡,室温培养 1.5 h,将磷酸辣根酶和过氧化物水解
+酶合成标记后的链霉亲和素抗体进行稀释,振荡后在
+室温培养条件下进行培养 30 min,最后加入细胞终止
+液和显色底物硼酸三甲酯(TMB),在 15 min 之内,使
+用酶标仪测定各组上 清 液 中 VEGF、SDF-1α、Ang-1、
+MMP-2 在 450 nm 处的 OD 值。根据标准物的浓度与
+OD 值计算出标准曲线的回归方程式,将样品的 OD 值
+代入方程式,计算出样品浓度,再乘以稀释倍数,即为
+样品的实际浓度(pg/mL)。
+1.4 统计学处理 应用 SPSS 24.0 软件进行统计分
+析。符合正态分布的定量资料以均数±标准差(x ±s )
+表示,多组间均值比较采用 ANOVA 法,组间两两比较
+采用 Dunnett-t 法或 LSD 法。以P <0.05 为差异有统
+计学意义。
+2 结 果
+2.1 EPCs 的分离和培养 EPCs 培养 7 d 后,细胞呈
+集落分布的鹅卵石样。详见图 1。
+图 1 EPCs 培养第 7 天形态图(×200)
+2.2 EPCs 的鉴定 EPCs 被 CD31免疫荧光抗体标记
+后细胞膜呈绿色,EPCs 摄取 DAPI 后细胞核呈蓝色改
+变,融合图像显示 EPCs 细胞膜呈绿色荧光改变,细胞
+核呈蓝色荧光改变(见图 2)。EPCs 结合 FITC-UEA-I 呈
+绿色荧光标记改变,EPCs 摄取 Dil-Ac-LDL 呈红色荧光标
+记改变,双荧光染色后呈橙黄色改变(见图 3)。
+图 2 CD31抗体联合 DAPI 核染鉴定结果(荧光镜,×400)
+(A 为 CD31免疫荧光标记后 EPCs 细胞膜呈绿色荧光标记;B 为摄取 DAPI 后 EPCs 细胞核
+呈蓝色荧光标记;C 为图 A 和图 B 的融合图像,EPCs 细胞膜呈绿色,细胞核呈蓝色)
+3·
+8
+5
+·1
+中西医结合心脑血管病杂志2023年5月第21卷第9期
+图 3 荧光染色鉴定结果(荧光镜,×400)
+(A 为 EPCs 与 FITC-UEA-I 结合呈绿色荧光标记;B 为 EPCs 摄取 Dil-Ac-LDL 呈红色
+荧光标记;C 为 EPCs 结合 FITC-UEA-I 并摄取 Dil-Ac-LDL 呈橙黄色荧光标记)
+2.3 人参皂苷 Rg1 对高糖诱导损伤 EPCs 增殖的影
+响 随着人参皂苷 Rg1 浓度的增加,EPCs 细胞增殖
+活力逐渐增高。当人参皂苷 Rg1 浓度为 40 mg/L 时,
+EPCs 细胞增殖活力最高,而在 80 mg/L 后,随着人参
+皂苷 Rg1 浓度的逐渐增高,EPCs 细胞增殖活力随之
+降低(见图 4),基于此,本实验选择促进 EPCs 增殖的
+最佳质量浓度 40 mg/L 人参皂苷 Rg1 进行后续实验。
+2.4 人参皂苷 Rg1 对高糖诱导损伤 EPCs 增殖、黏
+附、成管及迁移能力的影响 与正常组相比,模型组中
+高糖诱导损伤 EPCs 增殖能力、黏附能力、成管能力明
+显减弱,差异均有统计学意义(P <0.01);与模型组相
+比,实验组在 40 mg/L 人参皂苷 Rg1 干预后,其增殖、
+黏附、成管、迁移的功能明显增强,差异均有统计学意
+义(P <0.01)。详见图 5~图 7 和表 1。
+图 4 不同浓度人参皂苷 Rg1 对高糖诱导
+损伤 EPCs 增殖活力的影响
+图 5 人参皂苷 Rg1 对高糖受损的 EPCs 黏附生物学功能的影响(×200)
+图 6 人参皂苷 Rg1 对高糖受损的 EPCs 成管生物学功能的影响(×200)
+4·
+8
+5
+·1
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE May 2023 Vol.
+21 No.
+9
+图 7 人参皂苷 Rg1 对高糖受损的 EPCs 迁移的影响(×200)
+表 1 人参皂苷 Rg1 对高糖环境下 EPCs 生物学功能的影响(x ±s )
+组别
+样本量
+增殖能力(OD)
+黏附能力(个)
+成管能力(个)
+迁移距离(μm)
+正常组
+3
+0.50±0.03①
+31.32±2.90①
+271.64±31.02①
+34.69±4.56①
+模型组
+3
+0.36±0.02
+10.16±0.84
+99.98±8.23
+27.38±4.74
+实验组
+3
+0.78±0.08①
+39.97±3.15①
+193.61±20.99①
+54.45±1.64①
+F 值
+56.36
+111.36
+45.20
+38.45
+P
+<0.001
+<0.001
+<0.001
+<0.001
+  与模型组比较,① P <0.01。
+2.5 人参皂苷 Rg1 对高糖环境下 EPCs 分泌血管生
+成相 关 生 长 因 子 的 影 响  与 正 常 组 比 较,模 型 组
+EPCs 分泌 VEGF、SDF-1α、Ang-1 明显减少,而 MMP-2
+的分泌增加,差异均有统计学意义(P <0.05);与模型
+组相比,实 验 组 在 40 mg/L 人 参 皂 苷 Rg1 干 预 后,
+EPCs 分泌 VEGF、SDF-1α、Ang-1 明显增加,而 MMP-2
+的分泌减少,差异均有统计学意义(P <0.05)。详见
+表 2。
+表 2 人参皂苷 Rg1 对高糖环境下 EPCs 分泌血管生成相关生长因子的影响(x ±s )
+单位:pg/mL
+组别
+VEGF
+SDF-1α
+Ang-1
+MMP-2
+正常组
+1 055.00±220.00①
+1 224.00±259.00①
+61.68±8.72①
+1 092.00±178.00①
+模型组
+578.90±86.40
+579.80±74.20
+39.10±3.70
+1 756.00±0.00
+实验组
+2 160.20±144.80①
+2 339.00±383.00①
+123.51±6.95①
+1 059.90±154.00①
+F 值
+76.89
+32.55
+124.57
+25.11
+P
+<0.001
+0.001
+<0.001
+<0.001
+  与模型组比较,① P <0.05。
+3 讨 论
+糖尿病是一种具有长期持续血糖升高特征的多病
+因代谢紊乱性疾病,严重影响着人类的健康。糖尿病
+的高血糖状态将直接导致内皮细胞功能障碍并影响缺
+血组织血 管 新 生,出 现 各 种 与 血 管 新 生 相 关 的 并 发
+症[13]。而 EPCs 是一种能够分化为成熟 内皮细胞的
+专能干细胞,在缺血等造成血管损伤的环境中,EPCs
+从骨髓迁移到缺血部位,合并到新形成的毛细血管中,
+并刺激代偿性血管生成[14]。EPCs 移植已经成为治疗
+缺血性疾病的一种实验性疗法。目前研究表明,EPCs
+在血管生成和维持血管内稳态中起重要作用[14-15]。然
+而糖尿病所致的高糖环境将直接导致循环 EPCs 减少
+和功能受损[16]。糖尿病状态下的高血糖主要通过诱
+导细 胞 内 活 性 氧 积 累,从 而 减 少 EPCs 数 量,损 害
+EPCs 功能,而降低细胞内活性氧水平可能成为恢复
+糖尿病 EPCs 功能的有效途径。糖尿病病人即使血糖
+水平得到控制且平稳后,体内 EPCs 数量减少和功能
+受损仍然持续存在,这为临床上糖尿病血管并发症的
+防治带来了挑战。
+人参皂苷 Rg1 作为中药人参的主要活性成分之
+一,可通过抑制凋亡相关蛋白[17]、下调炎症介质[18]和
+抗氧化等多种机制发挥降血糖及减轻胰岛素抵抗作
+用,因此,人参皂苷 Rg1 可以用于缓解糖尿病及治疗
+糖尿病血管相关并发症。另有研究证实人参皂苷 Rg1
+可促进 EPCs 增殖和血管生成,从而促进糖尿病大鼠
+足溃疡愈合[19-20]。与本研究发现的人参皂苷 Rg1 能
+5·
+8
+5
+·1
+中西医结合心脑血管病杂志2023年5月第21卷第9期
+改善高糖受损 EPCs 的生物学功能相吻合。人参皂苷
+Rg1 可明显提高高糖诱导损伤 EPCs 的迁移、成管、增
+殖及黏附功能,提示人参皂苷 Rg1 可以明显改善高糖
+诱导损伤 EPCs 的生物学功能障碍。蒋文捷等[3]的研
+究发现,人参皂苷 Rg1 能保护过氧化氢诱导损伤的大
+鼠骨髓来源的 EPCs,其机制可能与蛋白激酶 B(Akt)
+介导的信号通路发挥抗氧化应激作用相关。由此,人
+参皂苷 Rg1 发挥保护内皮生物学功能的作用可能与
+抑制其氧化应激相关。
+VEGF 是一种促血管内皮细胞生长的细胞因子,
+具有高度特异性。王丽萍等[4]研究证实,高糖作用下
+人 EPCs 的活力明显下降及 VEGF 表达量明显减少。
+魏英等[5]研究发现,人参总皂苷有促进血管新生从而
+改善急性心肌梗死大鼠心功能的作用,其机制可能与
+上调心肌组织 VEGF 基因表达密切相关。SDF-1α是
+属于趋化因子蛋白家族的小分子的细胞因子,能够促
+进 EPCs 迁移从而促进体内 EPCs 介导血管生成[6]。
+Ang-1 作为一 种 具 有 强 大 血 管 生 成 活 性 的 碱 性 蛋 白
+质,主要存在于正常血浆及实体瘤组织。方涛等[7]研
+究证实负载 Ang-1 的纳米微粒心肌局部注射可使心肌
+梗死区域血管增生。MMP-2 是一种分泌到细胞外基
+质的明胶酶,在糖尿病视网膜病变早期,即新生血管发
+生之前,能促使视网膜毛细血管内皮细胞凋亡[8-9]。可
+见促进 EPCs 分泌 VEGF、SDF-1α、Ang-1,抑制 EPCs
+分泌 MMP-2,可成为促进血管新生、抑制高糖环境所
+致慢性难愈性创面愈合的有效治疗方式之一。本研究
+发现,高糖环境下 EPCs 中 VEGF、SDF-1α、Ang-1 的
+表达水平明显下降,MMP-2 的表达水平升高,而予以
+人参皂苷 Rg1 干预后能明显提高高糖受损 EPCs 关于
+VEGF、SDF-1α、Ang-1 的 表 达,降 低 MMP-2 的 表 达,
+提示人参皂苷 Rg1 可通过调节 VEGF、SDF-1α、Ang-1、
+MMP-2 的表达改善高糖受损 EPCs 生物学功能。然
+而本实验仅是离体细胞实验,未模拟体内具体环境,仍
+然存在一 定 的 局 限 性,人 参 皂 苷 Rg1 改 善 高 糖 受 损
+EPCs 生物学功能和调节 VEGF、SDF-1α、Ang-1、MMP-2
+分泌的具体机制有待在体内外水平进一步探索。
+参考文献:
+[1] WANG Z C, QI J, LIU L M, et al . Valsartan reduces AT1-AA-
+induced
+apoptosis
+through
+suppression
+oxidative
+stress
+mediated ER stress in endothelial progenitor cells[J].European
+Review for Medical and Pharmacological Sciences, 2017, 21(5):
+1159-1168.
+[2] DAI X Z,YAN X Q, ZENG J, et al . Elevating CXCR7 improves
+angiogenic function of EPCs via Akt/GSK-3β/Fyn-mediated Nrf2
+activation in diabetic limb ischemia [J]. Circulation Research,
+2017,120(5):e7-e23.
+[3] 蒋文捷,梁雪梅.人参皂苷 Rg1 对骨髓来源内皮祖细胞损伤的保
+护作用[J].中国组织工程研究,2018,22(33):5338-5343.
+[4] 王丽萍,李莉,姚计文,等.原花青素单一活性成分 B2 对高糖作用
+下人内皮祖细胞的保护作用[J].中国病理生理杂志,2016,32(7):
+1180-1188.
+[5] 魏英,余丽梅,王钰莹,等.人参总皂苷促进血管新生改善急性心肌
+梗死大鼠心功能[J].中国药理学通报,2016,32(4):559-564.
+[6] 王朗,江洪,陈思思,等.基质细胞衍生因子预处理的内皮祖细胞对
+大鼠急性心肌梗 死 的 治 疗 作 用[J].中 华 急 诊 医 学 杂 志,2009,18
+(2):161-164.
+[7] 方涛,杨婉浠,李昕,等.负载血管生成素 1 的聚乳酸羟基乙酸-聚乙
+二醇纳米微粒促进大鼠心肌梗死后心肌修复[J].基础医学与临
+床,2021,41(8):1114-1120.
+[8] SOLANKI A,BHATT L K,JOHNSTON T P,et al .Targeting matrix
+metalloproteinases for diabetic retinopathy:the way ahead? [J].
+Current Protein & Peptide Science,2019,20(4):324-333.
+[9] MOHAMMAD G, KOWLURU R A. Matrix metalloproteinase-2 in
+the development
+of
+diabetic
+retinopathy
+and
+mitochondrial
+dysfunction[J].Laboratory Investigation,2010,90(9):1365-1372.
+[10] 汤文燕,杨印祥,汪兆艳,等.CD31免疫磁珠分选人脂肪内皮祖细胞
+的培养及鉴定[J].中国组织工程研究,2017,21(29):4722-4727.
+[11] 李丽,王新玲,刘素新,等.镁对子痫前期患者内皮 祖 细 胞 增 殖、黏
+附和凋亡的影响[J].中国组织工程研究,2019,23(21):3371-3377.
+[12] 蔡昫,邹晓玲,王禹萌,等.黄芪甲苷改善人内皮祖细胞生物学功能
+的实验研究[J].湖南中医药大学学报,2020,40(1):34-37.
+[13] 孟珊珊,赵庆杰,刘洪文,等.血糖水平对糖尿病大鼠脑缺血后血管
+新生的影响机制[J].卒中与神经疾病,2015,22(5):263-267.
+[14] HU Q S, KE X, ZHANG T, et al . Hydrogen sulfide improves
+vascular repair by promoting endothelial nitric oxide synthase-
+dependent mobilization of endothelial progenitor cells[J].Journal
+of Hypertension,2019,37(5):972-984.
+[15] RAFII S, LYDEN
+D. Therapeutic
+stem
+and
+progenitor
+cell
+transplantation for organ vascularization and regeneration [J].
+Nature Medicine,2003,9(6):702-712.
+[16] ZAHRAN A M,MOHAMED I L,EL ASHEER O M,et al .Circulating
+endothelial cells, circulating
+endothelial
+progenitor
+cells, and
+circulating microparticles in type 1 diabetes mellitus[J].Clinical
+and Applied Thrombosis,2019,25:107602961882531.
+[17] ZU G,GUO J,CHE N W,et al .Protective effects of ginsenoside
+Rg1 on intestinal ischemia/reperfusion injury-induced oxidative
+stress and apoptosis via activation of the Wnt/β-catenin pathway
+[J].Scientific Reports,2016,6:38480.
+[18] MA X,XIE X,ZUO C.Effects of ginsenoside Rg1 on streptozocin-
+induced diabetic nephropathy in rats[J].J Journal of Biomedical
+Engineering,2010,27(2):342-334.
+[19] 李雪,朱永展,谭彩霞,等.人参皂苷 Rg1 对糖尿病大鼠足创面修复
+的影响及机制[J].解剖学研究,2018,40(4):263-267.
+[20] SHI A W, GU N, LIU X M, et al . Ginsenoside Rg1 enhances
+endothelial progenitor cell angiogenic potency and prevents
+senescence in vitro [J]. The Journal of International Medical
+Research,2011,39(4):1306-1318.
+(收稿日期:2022-03-03)
+(本文编辑 郭怀印)
+6·
+8
+5
+·1
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE May 2023 Vol.
+21 No.
+9

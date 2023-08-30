@@ -1,0 +1,896 @@
+Jan.2023 Vol.30 No.1
+Chinese Journal of Information on TCM
+GEO基因芯片结合网络药理学和分子对接技术探讨
+人参-茯苓-白术配伍治疗鼻咽癌作用机制及验证
+王斐 1，朱镇华 2
+1.湖南中医药大学，湖南 长沙 410208；2.湖南中医药大学第一附属医院，湖南 长沙 410007
+摘要：目的
+基于GEO基因芯片数据库、网络药理学及分子对接技术，从分子水平探讨人参-茯苓-白术
+配伍治疗鼻咽癌的作用机制。方法
+在GEO数据库检索、下载鼻咽癌差异表达基因。通过TCMSP数据库检
+索人参、白术、茯苓化学成分及作用靶点。利用STRING平台及R语言、Perl语言软件筛选出交集靶点并进
+行蛋白相互作用分析、GO和KEGG通路富集分析，利用Cytoscape3.8.2构建靶点-通路网络，将人参-茯苓-白
+术配伍有效成分与核心靶点基因进行分子对接验证。利用CCK-8法检测并验证有效化合物对鼻咽癌细胞增殖
+的影响，Western blot验证其对靶点蛋白表达水平的影响。结果
+从GPL6480数据集获得2 078个鼻咽癌的差
+异表达基因，共筛选出 44 种有效化学成分，21 个交集靶点。核心靶点为 JUN、IL1B、PLAU、STAT1、
+PTGS2，主要通过活性氧及一氧化氮生物合成过程、类固醇结合等生物过程，肿瘤、代谢、免疫、炎症等通
+路发挥作用；分子对接显示，花生四烯酸-PTGS2、苏齐内酯-PTGS2、豆甾醇-PLAU、β-谷甾醇-JUN对接效
+果好。CCK-8实验结果显示，不同浓度花生四烯酸、苏齐内酯、豆甾醇、β-谷甾醇均可抑制鼻咽癌5-8F细胞
+增殖；Western blot结果显示，以上有效成分均可使对应的靶点蛋白表达下降。结论
+人参-茯苓-白术配伍通
+过多成分、多靶点、多通路防治鼻咽癌，可为后续研究提供方向。
+关键词：鼻咽癌；人参-茯苓-白术配伍；参苓白术散；网络药理学
+中图分类号：R283.5；R273.96
+文献标识码：A
+文章编号：1005-5304(2023)01-0024-08
+DOI：10.19879/j.cnki.1005-5304.202205359
+开放科学（资源服务）标识码（OSID）：
+Discussion on Mechanism and Verification of Ginseng Radix et Rhizoma-Poria-Atractylodis
+Macrocephalae Rhizoma in the Treatment of Nasopharyngeal Carcinoma by GEO Gene
+Microarray Combined with Network Pharmacology and Molecular Docking Technology
+WANG Fei1, ZHU Zhenhua2
+1. Hunan University of Chinese Medicine, Changsha 410208, China;
+2. The First Hospital of Hunan University of Chinese Medicine, Changsha 410007, China
+Abstract: Objective To investigate the mechanism of action of Ginseng Radix et Rhizoma-Poria-Atractylodis
+Macrocephalae Rhizoma in the treatment of nasopharyngeal carcinoma at the molecular level based on GEO gene
+microarray database, network pharmacology and molecular docking technology. Methods Differentially expressed
+genes of nasopharyngeal carcinoma were retrieved and downloaded from the GEO database. The chemical
+composition and targets of Ginseng Radix et Rhizoma, Pori and Atractylodis Macrocephalae Rhizoma were retrieved
+from the TCMSP database. Bioinformatics tools such as STRING platform, R language and Perl language were
+applied to screen cross-targets and perform protein-protein interaction analysis, and GO and KEGG pathway
+基金项目：国家自然科学基金面上项目（81373699、81973914）；湖南省自然科学基金（2020JJ4486）；湖南省卫健委科研计划
+（20200979）；2020 年度创新型省份建设专项抗击新冠肺炎疫情专题第二批项目（2020SK3037）；湖南省研究生科研创新项目
+（CX20190582）；湖南省区域中医诊疗中心项目 （2018 年）；中医药防治眼耳鼻喉疾病湖南省重点实验室开放基金
+（2018YZD09）
+通讯作者：朱镇华，E-mail：zhenhua787@163.com
+中医药信息学
+·24·
+中国中医药信息杂志
+2023 年 1 月第 30 卷第 1 期
+enrichment analysis. The targeting-pathway network was constructed using Cytoscape 3.8.2 and molecular docking
+was performed to validate the active components and core target genes before and after dosing drug acquisition.
+The effect of active chemical components of Ginseng Radix et Rhizoma-Poria-Atractylodis Macrocephalae
+Rhizoma on the proliferation of nasopharyngeal carcinoma cells was examined by CCK-8 method, and the effect of
+the active components of the pairwise drug on the expression level of target proteins was verified by Western blot.
+Results There were 2 078 differentially expressed genes in nasopharyngeal carcinoma obtained from the GPL6480
+dataset, and a total of 44 active chemical components and 21 cross-targets were screened. The core targets were JUN,
+IL1B, PLAU, STAT1 and PTGS2, which mainly acted through reactive oxygen species biology and nitric oxide
+biological processes, steroid binding and other biological processes such as tumor, metabolic, immune and
+inflammatory pathways. The result of molecular docking showed that arachidonic acid-PTGS2, sucilactone-PTGS2,
+stigmasterol-PLAU and β-sitosterol-JUN docked well. CCK-8 revealed that different concentrations of arachidonic
+acid esters, sucilactone, stigmasterol and β-sitosterol inhibited the proliferation of nasopharyngeal carcinoma 5-8F
+cells. Western blot results showed that all of the above active ingredients reduced the expression of the corresponding
+target proteins. Conclusion The combination of Ginseng Radix et Rhizoma-Poria-Atractylodis Macrocephalae
+Rhizoma can prevent and treat nasopharyngeal carcinoma through multi-component, multi-target and multi-channel,
+which can provide direction for follow-up research.
+Keywords: nasopharyngeal carcinoma; Ginseng Radix et Rhizoma-Poria-Atractylodis Macrocephalae Rhizoma;
+Shenling Baizhu Powder; network pharmacology
+鼻咽癌是一种头颈部恶性肿瘤，具有病情隐匿的
+特点，70%的患者确诊时已为晚期[1-2]。目前针对鼻咽
+癌的治疗方案主要为放疗与化疗联合应用[3]，但多存在
+远处转移及复发问题[4-6]。放化疗常见唾液腺损伤、放
+射性皮肤损伤、耳鼻损伤等不良反应[7]。寻找优于现阶
+段治疗的方案，提高鼻咽癌治疗的安全性及有效性是
+临床亟待解决的问题。
+中医耳鼻咽喉科临床常见慢性疾病皆可追溯到脾
+虚的病机基础。其病机大体为肺脾气虚，无力托邪，
+外邪入里而为病。参苓白术散是中医耳鼻咽喉科常用
+方剂，为健脾祛湿的代表方之一，药理学研究表明其
+具有良好的免疫调节效应及抗炎作用[8-10]。近年来，课
+题组在临床中发现参苓白术散对鼻咽癌防治具有较好
+效果，但其具体分子机制尚不明确。目前，参苓白术
+散防治鼻咽癌的相关研究较少。本研究利用GEO基因
+芯片结合网络药理学及分子对接技术对参苓白术散君
+药人参-茯苓-白术配伍防治鼻咽癌的分子机制进行探
+讨，并通过CCK-8法及Western blot实验进行验证，以
+此推测参苓白术散在鼻咽癌防治过程中的作用，为后
+续研究奠定基础。
+1
+材料与方法
+材料与方法
+1.1
+鼻咽癌靶点获取
+以“Nasopharyngeal carcinoma”为关键词，检索
+GEO数据库（https://www.ncbi.nlm.nih.gov/geo/），获
+得正常人群与鼻咽癌患者的高通量测序数据集。通过R
+语言软件进行分析筛选，以|logFC|>1且Padj<0.05为条
+件筛选差异表达基因，绘制火山图和热图。
+1.2
+人参-茯苓-白术配伍化学成分筛选
+利用 TCMSP 数据库 （http://tcmspw. com/tcmsp.
+php）分别检索人参、茯苓、白术的化学成分，以毒药
+物动力学（ADME）[11]标准口服利用度（OB）≥30%
+和类药性（DL）≥0.18为条件，对3种中药的化学成分
+进行筛选，得到人参-茯苓-白术配伍有效成分。
+1.3
+有效成分靶点获取
+使用TCMSP检索人参-茯苓-白术有效成分相关靶
+点基因，并通过 UniProt 数据库（http://www.uniprot.
+org/）对靶点名称进行标准化处理。
+1.4
+化合物-交集靶点网络及蛋白相互作用网络构建
+利用Perl语言软件获得人参-茯苓-白术有效成分靶
+点基因与鼻咽癌差异表达基因的交集靶点，导入
+Cytoscape3.8.2软件构建化合物-交集靶点网络。并将其
+导入STRING11.0（https://string-db.org），得到蛋白相
+互作用网络，以大于中位值为标准筛选核心作用靶点。
+1.5
+GO及KEGG通路富集分析
+运 用 R 语 言 软 件 ggplot2、 clusterProfiler、
+enrichplot、org. Hs. eg. db 包对交集靶点进行 GO 和
+KEGG通路富集分析，得到人参-茯苓-白术配伍作用于
+鼻咽癌的主要通路，并对结果进行可视化处理。
+1.6
+交集靶点-KEGG关系网络构建
+将人参-茯苓-白术配伍作用于鼻咽癌的主要通路与
+·25·
+Jan.2023 Vol.30 No.1
+Chinese Journal of Information on TCM
+对应交集靶点文件导入Cytoscape3.8.2软件构建交集靶
+点-KEGG关系网络并进行分析。
+1.7
+分子对接验证
+通过 UniProt 数据库搜索鼻咽癌靶点蛋白，在
+RCSB PDB数据库下载蛋白质晶体结构，在PubChem
+资源库下载中药有效成分2D结构，利用Chem3D软件
+进行能量最小化处理，使用Sybyl软件进行分子对接。
+1.8
+体外实验验证
+1.8.1
+细胞株
+人鼻咽癌细胞5-8F（低分化，北纳创联生物技术
+研究院），经本实验室传代培养。
+1.8.2
+试剂与仪器
+PLAU，武汉三鹰公司，批号17968-1-AP；环加氧
+酶2（COX2），美国CST公司，批号12282T；c-JUN，
+CST公司，批号9165T；β-谷甾醇、苏齐内酯、豆甾
+醇、花生四烯酸，上海源叶生物科技有限公司，批号
+分别为 B21972-20mg、B51017-5mg、B20314-20mg、
+B20540-20mg。NU-5810E型CO2培养箱，美国Forma
+公司；JY-600HE电泳仪、JY-ZY5电泳槽、JY-SCZ2+
+转印槽，北京君意东方电泳设备有限公司；Microfuge
+20R 高速冷冻离心机，德国 Eppendorf 公司；MS105
+DU电子天平，瑞士Mettler-Toledo公司；BWS-27恒温
+水浴箱，美国Pharmacia公司；AE2000倒置显微镜，
+日本Olympus公司；ELX800酶标仪，美国Bio-Tek公
+司；DW-HL388超低温冰箱，美国Fisher公司；SJ-CJ-
+2FD单面净化工作台，苏州净化设备有限公司；select
+涡旋振荡器，美国SBP公司。
+1.8.3
+CCK-8法检测细胞增殖
+取对数生长期的5-8F人鼻咽癌细胞，种入96孔板
+（每100 μL培养液中5×103个细胞），待细胞贴壁，每孔
+分别加入不同浓度的200 μL含药培养液，实验组分别
+使用5、10、20、40、80 μmol/L花生四烯酸、苏齐内
+酯、豆甾醇及β-谷甾醇。设定空白孔（只加细胞培养
+液、不加5-8F细胞）用于吸光度（A值）校正。待药
+物作用24、36、48 h后，将现配的CCK-8溶液100 μL
+分别加入包括空白孔的所有孔内，继续培养2 h。实验
+重复3次。于酶标仪波长450 nm处检测A值，计算细
+胞相对增殖率[（实验组A值-空白组A值）÷（对照组
+A值-空白组A值）×100%]。
+1.8.4
+Western blot检测蛋白表达
+取对数生长期5-8F人鼻咽癌细胞，接种至培养皿，
+待细胞贴壁，设置溶剂对照组，并加入不同浓度含药
+培养基（20、40 μmol/L花生四烯酸、苏齐内酯、豆甾
+醇及β-谷甾醇）药物干预36 h后，提取总蛋白，参考
+胡晶等[12]方法进行蛋白定量、电泳、转膜、扫膜，并
+分析信号值，分别监测分子对接所对应的靶点蛋白
+（PTGS2、PLAU、JUN）。实验重复3次。
+1.8.5
+统计学方法
+采用SPSS22.0统计软件进行分析。计量资料数据
+均服从正态分布，以x±s表示，多组间比较和单因素设
+计采用单因素方差分析，多重比较采用LSD法。P<
+0.05表示差异有统计学意义。
+2
+结果
+结果
+2.1
+鼻咽癌差异表达基因
+通过检索GEO数据库，确定GPL6480数据集，该
+芯片数据集收集了18个正常人群鼻咽组织和18个原发
+鼻咽癌原发组织的基因表达谱。使用R语言软件下载并
+分析原始数据，以Padj<0.05且|logFC|>1为条件进行差
+异分析后获得2 078个鼻咽癌差异表达基因，其中包含
+1 214个下调基因和864个上调基因，利用R语言绘制
+火山图，见图1。选取20个上调基因及20个下调基因
+绘制热图，见图2。
+2.2
+人参-茯苓-白术有效成分
+利用TCMSP平台检索人参、茯苓、白术的主要化
+学成分，以OB≥30%和DL≥0.18为条件筛选出有效化
+学成分共44种，其中人参22种、白术7种、茯苓15
+种，见表1。
+图1
+鼻咽癌GPL6480数据集差异表达基因火山图
+图2
+鼻咽癌GPL6480数据集差异表达基因FC分析热图
+·26·
+中国中医药信息杂志
+2023 年 1 月第 30 卷第 1 期
+表1
+人参-茯苓-白术有效成分信息
+MOL ID
+MOL005314
+MOL005308
+MOL005321
+MOL003648
+MOL000022
+MOL000020
+MOL005356
+MOL000021
+MOL000787
+MOL005360
+MOL005384
+MOL000049
+MOL005320
+MOL000300
+MOL000449
+MOL002879
+MOL000282
+MOL000422
+MOL005318
+MOL000283
+MOL005401
+MOL000028
+MOL005317
+MOL004492
+MOL000275
+MOL000287
+MOL000285
+MOL000292
+MOL000279
+MOL000358
+MOL005399
+MOL000296
+MOL005344
+MOL000033
+MOL000072
+MOL000276
+MOL000289
+MOL005376
+MOL005357
+MOL005348
+MOL000280
+MOL000273
+MOL000290
+MOL000291
+化合物
+Celabenzine（塞拉苯嗪）
+Aposiopolamine（阿泊泊胺）
+Frutinone A（果他酮A）
+Inermin（山槐素）
+14-acetyl-12-senecioyl-2E,8Z,10E-atractylentriol
+12-senecioyl-2E,8E,10E-atractylentriol
+Girinimbin（肠溶菌）
+14-acetyl-12-senecioyl-2E,8E,10E-atractylentriol
+Fumarine（富马林）
+Malkangunin（马尔康古宁）
+Suchilactone（苏齐内酯）
+3β-acetoxyatractylone
+Arachidonate（花生四烯酸）
+Dehydroeburicoic acid（去氢齿孔酸）
+Stigmasterol（豆甾醇）
+Diop（二异辛酯）
+Ergosta-7,22E-dien-3beta-ol
+Kaempferol（莰非醇）
+Dianthramine（敌草胺）
+Ergosterol peroxide（过氧化麦角甾醇）
+Ginsenoside Rg5_qt（人参皂甙 Rg5_qt）
+α-Amyrin（α-香树脂醇）
+Deoxyharringtonine（去氧三尖杉脂碱）
+Chrysanthemaxanthin（菊黄素）
+Trametenolic acid（曲美烯酸）
+3beta-Hydroxy-24-methylene-8-lanostene-21-oic acid
+(2R)-2-[(5R,10S,13R,14R,16R,17R)-16-hydroxy-3-keto-4,4,10,13,14-pentamethyl-1,2,5,6,12,15,16,17-
+octahydrocyclopenta[a]phenanthren-17-yl]-5-isopropyl-hex-5-enoic acid
+Poricoic acid C（茯苓酸C）
+Cerevisterol（脑甾醇）
+beta-Sitosterol（β-谷甾醇）
+Alexandrin_qt
+Hederagenin（常春藤皂苷元）
+Ginsenoside rh2（人参皂苷rh2）
+(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R,5S)-5-propan-2-yloctan-2-yl]-
+2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol
+8β-Ethoxy atractylenolide Ⅲ
+7,9(11)-Dehydropachymic acid
+Pachymic acid（茯苓酸）
+Panaxadiol（人参二醇）
+Gomisin B（五味子酯乙）
+Ginsenoside-Rh4_qt（人参皂苷-Rh4_qt）
+(2R)-2-[(3S,5R,10S,13R,14R,16R,17R)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-
+octahydro-1H-cyclopenta[a]phenanthren-17-yl]-5-isopropyl-hex-5-enoic acid
+(2R)-2-[(3S,5R,10S,13R,14R,16R,17R)-3,16-dihydroxy-4,4,10,13,14-pentamethyl-2,3,5,6,12,15,16,17-
+octahydro-1H-cyclopenta[a]phenanthren-17-yl]-6-methylhept-5-enoic acid
+Poricoic acid A（莨菪酸A）
+Poricoic acid B（莨菪酸B）
+OB/%
+101.88
+66.65
+65.90
+65.83
+63.37
+62.40
+61.22
+60.31
+59.26
+57.71
+57.52
+54.07
+45.57
+44.17
+43.83
+43.59
+43.51
+41.88
+40.45
+40.36
+39.56
+39.51
+39.27
+38.72
+38.71
+38.70
+38.26
+38.15
+37.96
+36.91
+36.91
+36.91
+36.32
+36.23
+35.95
+35.11
+33.63
+33.09
+31.99
+31.11
+31.07
+30.93
+30.61
+30.52
+DL
+0.49
+0.22
+0.34
+0.54
+0.30
+0.22
+0.31
+0.31
+0.83
+0.63
+0.56
+0.22
+0.20
+0.83
+0.76
+0.39
+0.72
+0.24
+0.20
+0.81
+0.79
+0.76
+0.81
+0.58
+0.80
+0.81
+0.82
+0.75
+0.77
+0.75
+0.75
+0.75
+0.56
+0.78
+0.21
+0.81
+0.81
+0.79
+0.83
+0.78
+0.82
+0.81
+0.76
+0.75
+药物
+人参
+人参
+人参
+人参
+白术
+白术
+人参
+白术
+人参
+人参
+人参
+白术
+人参
+茯苓
+人参
+人参
+茯苓
+人参
+人参
+茯苓
+人参
+白术
+人参
+人参
+茯苓
+茯苓
+茯苓
+茯苓
+茯苓
+人参
+人参
+茯苓
+人参
+白术
+白术
+茯苓
+茯苓
+人参
+人参
+人参
+茯苓
+茯苓
+茯苓
+茯苓
+·27·
+Jan.2023 Vol.30 No.1
+Chinese Journal of Information on TCM
+2.3
+化合物-交集靶点网络
+应用Perl语言分析获得鼻咽癌差异表达基因与人
+参-茯苓-白术对应靶点基因的交集靶点共21个，与交集
+靶点相互作用的有效化合物共23个。以交集靶点与有
+效化合物数据构建化合物-交集靶点网络，见图3。该网
+络共有44个节点和50条边。人参、茯苓、白术中多个
+有效化合物可对应相同的靶点，而不同靶点也可对应
+同一有效化合物，表明人参-茯苓-白术配伍多成分、多
+靶点作用于鼻咽癌的特点。
+2.4
+交集靶点蛋白相互作用分析
+将21个交集靶点导入STRING平台，设置置信度>
+0.150，剔除没有相互关系的靶点，得到图4A。设置置
+信度>0.400，提取图 4A 中关联更紧密的网络，得到
+图4B。将数据导入Cytoscape3.8.2，利用cytoNCA插
+件及R语言，以大于中位值为条件筛选核心基因，得到
+图4C，提取核心基因，生成网络，见图4D。分析得到
+JUN、IL1B、PLAU、STAT1、PTGS2 共 5 个核心靶
+点，可认为这些靶点在网络中起重要作用。
+2.5
+GO及KEGG通路富集分析
+对交集靶点进行GO和KEGG通路富集分析。以
+Padj<0.05为标准分别确定前15个生物过程（BP）、分子
+功能（CC）、细胞成分（MF）的GO条目，见图5。可
+以看出，相关性最大的生物过程有活性氧生物合成过
+程、一氧化氮生物合成过程、一氧化氮代谢过程、活
+性氮类代谢过程等，分子功能有类固醇结合、丝氨酸
+型内肽酶活性、丝氨酸型肽酶活性、丝氨酸水解酶活
+性等，细胞成分有细胞器外膜等。交集靶点KEGG通
+路富集分析见图6，主要涉及肿瘤、代谢、免疫、炎症
+等方面信号转导。
+图4
+人参-茯苓-白术治疗鼻咽癌交集靶点蛋白相互作用网络分析
+注：三角形代表靶点，绿色、红色、橙色圆形分别代表
+茯苓、白术、人参相应化合物
+图3
+人参-茯苓-白术治疗鼻咽癌化合物-交集靶点网络
+A
+B
+C
+D
+·28·
+中国中医药信息杂志
+2023 年 1 月第 30 卷第 1 期
+2.6
+交集靶点-KEGG关系网络
+将人参-茯苓-白术配伍治疗鼻咽癌涉及的主要通路
+与对应交集靶点导入Cytoscape3.8.2软件构建交集靶
+点-KEGG关系网络（见图7）。该网络有41个节点（21
+个交集靶点节点和20个通路节点）和77条边。可以看
+出 ， IL1B、 JUN 基 因 及 Leishmaniasis 信 号 通 路
+（hsa05140） 、 Rheumatoid
+arthritis 信 号 通 路
+（hsa05323）、IL-17信号通路（hsa04657）、Fluid shear
+stress and atherosclerosis信号通路（hsa05418）在该网
+络中起到核心调控作用。
+2.7
+分子对接
+将鼻咽癌靶点蛋白导入Sybyl软件，加氢并修复侧
+链后基于 Ligand（配体）模式（未发现配体的使用
+automatic 模式）产生活性口袋，以 SFXC 格式保存，
+其他参数均设为默认值。将已进行能量优化的人参-茯
+苓-白术有效化合物导入软件，依次与相应的靶点蛋白
+进行对接，对接结果根据 Total-Score 进行评价，以
+Total-Score>5为阈值，该值越大，表明配合作用越好。
+对接结果见表2，对接模式见图8。
+图5
+人参-茯苓-白术治疗鼻咽癌交集靶点GO功能富集分析
+图6
+人参-茯苓-白术治疗鼻咽癌交集靶点KEGG通路富集分析
+注：方形代表集靶点，箭头代表通路，节点大小与其权重成正比
+图7
+人参-茯苓-白术治疗鼻咽癌交集靶点-KEGG关系网络
+表2
+人参-茯苓-白术有效成分与靶点蛋白分子对接结果
+MOL ID
+MOL005320
+MOL005384
+MOL000449
+MOL000358
+成分
+花生四烯酸
+苏齐内酯
+豆甾醇
+β-谷甾醇
+靶点蛋白
+PTGS2
+PTGS2
+PLAU
+JUN
+Total-Score
+7.51
+6.98
+6.70
+5.76
+注：A.花生四烯酸-PTGS2；B.苏齐内酯-PTGS2；
+C.豆甾醇-PLAU；D. β-谷甾醇-JUN
+图8
+人参-茯苓-白术有效成分与靶点蛋白分子对接模式
+·29·
+Jan.2023 Vol.30 No.1
+Chinese Journal of Information on TCM
+2.8
+体外实验结果
+2.8.1
+CCK-8法检测细胞增殖
+药物干预24、36、48 h，与对照组比较，不同浓
+度花生四烯酸、苏齐内酯、豆甾醇、β-谷甾醇均可抑制
+鼻咽癌5-8F细胞增殖（P<0.05，P<0.01），见图9。
+2.8.2
+Western blot检测蛋白表达
+根据分子对接结果，花生四烯酸与PTGS2、苏齐
+内酯与PTGS2、豆甾醇与PLAU、β-谷甾醇与JUN配
+合效果好。Western blot结果显示，与对照组比较，花
+生四烯酸组和苏齐内酯组PTGS2表达降低（P<0.05，
+P<0.01），豆甾醇组PLAU表达降低（P<0.01），β-谷甾
+醇组c-JUN表达降低（P<0.01）。见图10。
+3
+讨论
+讨论
+鼻咽癌属中医学“上石疽”“失荣”“真头痛”等
+范畴，现代亦称为“颃颡岩”，多为正气亏虚，气虚染
+毒所致。脾为气血生化之源，脾气健则气血生化有源，
+正气足则外毒无以入侵。参苓白术散以人参、茯苓、
+白术为君药，方中人参大补脾胃之气，并鼓动全身正
+气，白术、茯苓健脾渗湿，脾气健而气血生化有源。
+本研究利用GEO数据库得到2 078个鼻咽癌差异
+表达基因。利用TCMSP数据库获得人参-茯苓-白术44
+种有效化学成分，二者交集靶点21个，包括PTGS2等
+5 个核心靶点。对核心靶点进行蛋白相互作用分析、
+GO和KEGG通路富集分析，发现主要通过活性氧及一
+氧化氮生物合成过程、类固醇结合等生物过程，及代
+谢、炎症等通路发挥作用。
+研究发现，花生四烯酸可通过抑制代谢产物的生
+成途径抑制促炎症因子的表达，起到保护血管内皮和
+抗炎的作用[13]；另外，花生四烯酸及其代谢产物在肿
+瘤细胞增殖和转移、凋亡、血管新生和炎症反应及其
+治疗和预后方面具有重要作用[14]。体外实验表明，豆
+甾醇能抑制肝癌、胃癌、皮肤癌等多种肿瘤细胞生长，
+其机制主要涉及上调凋亡基因表达，诱导细胞周期阻
+滞、破坏肿瘤血管的生成等[15]。β-谷甾醇能通过多种
+细胞信号途径抑制多种癌症如乳腺癌、前列腺癌、结
+肠癌、肺癌、胃癌等的发生与发展[16]。
+PTGS2是合成前列腺素的关键酶，即COX-2，可
+将花生四烯酸转化为PGH2进而导致炎症[17]。COX-2
+高表达可见于许多肿瘤，能诱导致癌物的活化，促进
+肿瘤血管生成、肿瘤浸润和转移，影响细胞周期变化，
+促进细胞增殖，抑制凋亡，并可能降低肿瘤细胞对放
+疗及化疗的敏感性[18-23]。朱德为等[24]对79例鼻咽癌患
+者的鼻咽组织进行免疫组化检测，发现COX-2总阳性
+ 
+**
+**
+**
+**
+**
+**
+*
+**
+**
+*
+**
+**
+0
+20
+40
+60
+80
+100
+120
+24 h
+36 h
+48 h
+细胞相对增殖率/%
+对照组
+5 μmol/L
+10 μmol/L
+20 μmol/L
+40 μmol/L
+80 μmol/L
+花生四烯酸
+ 
+ 
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+0
+20
+40
+60
+80
+100
+120
+24 h
+36 h
+48 h
+细胞相对增殖率/%
+对照组
+5 μmol/L
+10 μmol/L
+20 μmol/L
+40 μmol/L
+80 μmol/L
+苏齐内酯
+ 
+ 
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+0
+20
+40
+60
+80
+100
+120
+24 h
+36 h
+48 h
+细胞相对增殖率/%
+对照组
+5 μmol/L
+10 μmol/L
+20 μmol/L
+40 μmol/L
+80 μmol/L
+豆甾醇
+ 
+ 
+**
+**
+**
+**
+**
+*
+**
+**
+**
+**
+**
+**
+**
+0
+20
+40
+60
+80
+100
+120
+24 h
+36 h
+48 h
+细胞相对增殖率/%
+对照组
+5 μmol/L
+10 μmol/L
+20 μmol/L
+40 μmol/L
+80 μmol/L
+β-谷甾醇
+ 
+注：与对照组同时点比较，*P<0.05，**P<0.01
+图9
+人参-茯苓-白术有效成分对5-8F细胞增殖的抑制作用
+注：与对照组比较，*P<0.05，**P<0.01
+图10
+人参-茯苓-白术治疗鼻咽癌有效化合物对靶点蛋白表达的影响
+·30·
+中国中医药信息杂志
+2023 年 1 月第 30 卷第 1 期
+率达63.3%。朱洪海等[25]研究104例鼻咽癌患者，发现
+COX-2在有淋巴结转移的患者比例更高，提示COX-2
+可能与鼻咽癌的复发及远处转移相关。
+综上所述，人参-茯苓-白术治疗鼻咽癌可从多成
+分、多靶点、多通路对疾病发展进行调控。本研究以
+参苓白术散的临床功效为基础，选取其君药进行分析。
+基于上述结果，后续可从以下几方面进行探索：围绕
+参苓白术散复方开展“病-证-方”关联网络研究，在临
+床实践基础上构建“鼻咽癌-脾虚湿盛证-参苓白术散”
+模型，开展更广泛的临床及基础研究，为鼻咽癌的临
+床治疗提供新思路；对参苓白术散的核心成分如花生
+四烯酸、豆甾醇和β-谷甾醇等展开更多基础研究，如
+拆方验证、血清药理学和动物细胞模型验证等；进一
+步探索PTGS2与鼻咽癌的相关性。本研究尚存在一定
+局限性：研究局限于参苓白术散君药，未纳入其他药
+物；中药复方成分复杂，活性成分之间的相互作用、
+各靶点的调控强度等因素未能纳入计算。
+参考文献：
+[1] 何文龙,吕炎,胡云扬,等.放射联合药物治疗鼻咽癌的现状[J].实用
+癌症杂志,2019,34(2):346-348.
+[2]
+Petersson
+F.
+Nasopharyngeal
+carcinoma:
+A
+review[J].
+Seminars in Diagnostic Pathology,2015,32(1):54-73.
+[3]
+Al-Sarraf
+M.
+Chemoradiotherapy
+versus
+radiotherapy
+in
+patients
+with
+advanced
+nasopharyngeal
+cancer:
+phase
+Ⅲ
+randomized
+Intergroup
+study
+0099[J].
+Journal
+of
+Clinical
+Oncology,1998,16(4):1310-1317.
+[4] 邱元正,刘超,李果.鼻咽癌放射治疗的现状与对策[J].中国耳鼻咽喉
+颅底外科杂志,2015,21(6):435-438.
+[5] Ou X, Xin Z, Shi Q, et al. Treatment outcomes and late
+toxicities
+of
+869
+patients
+with
+nasopharyngeal
+carcinoma
+treated with definitive intensity modulated radiation therapy:
+new insight into the value of total dose of cisplatin and
+radiation boost[J]. Oncotarget,2015,6(35):38381-38397.
+[6] Zhang L, Huang Y, Hong S, et al. Gemcitabine plus cisplatin
+versus fluorouracil plus cisplatin in recurrent or metastatic
+nasopharyngeal
+carcinoma:
+a
+multicentre
+randomised, open-
+label, phase 3 trial[J]. The Lancet,2016,388(10054):1883-1892.
+[7] 申文江,王绿化 . 放射治疗损伤[M]. 北京:中国医药科技出版社,
+2007:58.
+[8] Ma Q, Ouyang Y, Meng F, et al. A review of pharmacological
+and clinical studies on the application of Shenling Baizhu
+San in treatment of ulcerative colitis[J]. J Ethnopharmacol,
+2019,244:112105.
+[9] 高玲玲,单颖.参苓白术散对感染鼠伤寒沙门菌小鼠的免疫调节作用[J].
+现代预防医学,2019,46(8):1450-1455.
+[10] 周波,戴飞跃 . 参苓白术散对胃癌 IV 期患者外周血 CD4+CD25+Tregs
+的影响[J].湖南中医药大学学报,2015,35(5):50-52.
+[11] Xu X, Zhang W, Huang C, et al. A novel chemometric method
+for the prediction of human oral bioavailability[J]. Int J
+Mol Sci,2012,13(6):6964-6982.
+[12] 胡晶,戴娜,徐冰雁,等 . 益气解毒方通过 MAPK/ERK 信号通路抑制鼻
+咽癌细胞增殖[J].中国中药杂志,2018,43(6):1221-1227.
+[13] 肖彧君,母义明,詹晓蓉,等.花生四烯酸抑制饱和脂肪酸诱导的血管
+内皮细胞单核细胞趋化蛋白和细胞间黏附分子的表达[J]. 中华糖尿病
+杂志,2005,13(4):299-301.
+[14] 宋一萌,李明真,马潞林.花生四烯酸代谢产物与肿瘤发生和发展的
+研究进展[J].临床泌尿外科杂志,2017,32(3):236-240.
+[15] 汪帅,孙宇,李春梅,等.豆甾醇的研究进展概述[J].中国药业,2019,
+28(23):96-98.
+[16] Bin Sayeed M S, Ameen S S. Beta-sitosterol: a promising
+but
+orphan
+nutraceutical
+to
+fight
+against
+cancer[J].
+Nutr
+Cancer,2015,67(8):1214.
+[17] Kurumbail R G, Kiefer J R, Marnett L J. Cyclooxygenase
+enzymes: catalysis and inhibition[J]. Curr Opin Struct Biol,
+2001,11(6):752-760.
+[18]
+Karim
+A,
+McCarthy
+K,
+Jawahar
+A,
+et
+al.
+Differential
+cyclooxygenase-2 enzyme expression in radiosensitive versus
+radioresistant
+glioblastoma
+multiforme
+cell
+lines[J].
+Anticancer Res,2005,25(1B):675-679.
+[19] Nix P, Lind M, Greenman J, et al. Expression of Cox-2
+protein
+in
+radioresistant
+laryngeal
+cancer[J].
+Ann
+Oncol,
+2004,15(5):797-801.
+[20] 白颖,吴丹彤,周凡,等.环氧合酶-2在白血病中的表达及其与耐药的
+相关性[J].实用临床医药杂志,2013,17(17):23-26.
+[21] 胡晓丽,赵林胜,刘薇,等.环氧合酶2选择性抑制剂塞来昔布对肾母
+细胞瘤G401的生长抑制作用[J].中华病理学杂志,2012,41(5):340-341.
+[22] 刘阳云,赵素萍,刘庚勋,等.环氧合酶-2 在预测鼻咽癌放疗效应中
+的价值[J].临床耳鼻咽喉头颈外科杂志,2007,21(5):199-202.
+[23] Nakata E, Mason K A, Hunter N, et al. Potentiation of
+tumor response to radiation or chemo radiation by selective
+cyclooxygenase-2
+enzyme
+inhibitors[J].
+Int
+J
+Radiat
+Oncol
+Biol Phys,2004,58(2):369-375.
+[24] 朱德为,刘庚勋 . 环氧合酶-2 对晚期鼻咽癌同期放化疗影响[J]. 临
+床军医杂志,2016,44(2):133-135.
+[25] 朱洪海,朱晓远.环氧化酶2与鼻咽癌颈淋巴结转移的关系[J].中华
+医学杂志,2014,94(18):1409-1412.
+（收稿日期：2022-05-13）
+（修回日期：2022-05-30；编辑：陈静）
+·31·

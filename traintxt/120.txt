@@ -1,0 +1,453 @@
+第 44 卷
+4 期
+2022 年 4 月
+宁夏医科大学学报
+Journal of Ningxia Medical University
+近年来，癌症在我国发病率逐年上升，尤其肺
+癌的发病率和病死率均位居榜首[1]。以吉西他滨
+联合顺铂（GP）为主的联合化疗方案是治疗肺癌
+的主要手段之一[2]，但 GP 在杀伤肿瘤细胞的同
+时，会损伤免疫细胞，且会伴随一些严重的肝、肾
+和骨髓抑制毒性。因此，探究可防治肿瘤且减轻
+这些毒副反应的辅助治疗药物，对提高患者生存
+质量并延长生存期具有重要的临床意义。人参皂
+苷 Rg3 是一种人参二醇类四环三萜皂苷，具有较
+好的抗癌、抗转移作用[3]。研究[4-5]表明，人参皂苷
+Rg3 能显著提高小鼠的免疫功能；且人参皂苷 Rg3
+可抑制肿瘤细胞的增殖，并将肿瘤细胞阻滞于G2
+期，可有效抑制肿瘤细胞有丝分裂前期蛋白质
+和 ATP 的合成。目前，人参皂苷 Rg3 与 GP 联合
+应用对 Lewis 肺癌小鼠的抗肿瘤作用以及是否
+可发挥增效减毒作用的研究较少。基于此，本研
+究通过建立 Lewis 肺癌小鼠移植瘤模型，以评估
+人参皂苷 Rg3 联合 GP 的抗肿瘤作用及增效减
+毒作用。
+1
+材料与方法
+1.1
+细胞系
+小鼠 Lewis 肺癌细胞株（LLC）购于中国科学
+院典型培养物保藏委员会细胞库，并由宁夏特色
+中医药协同创新中心保存。
+1.2
+主要试剂
+人参皂苷 Rg3 购于上海源叶生物科技有限公
+司（纯度≥98%，批号：Z10J10X90072）；顺铂购于
+上 海 源叶生 物科 技有 限公司（批号 ：B12J10L
+79601）；吉西他滨购于上海源叶生物科技有限公
+司（批号：T21J8T40183）；MVD 抗体购于北京博
+奥森生物技术有限公司（批号：AH03095376）；
+CD62P 抗体购于北京博奥森生物技术有限公司
+（批号：AH11156358）；Nrf2（批号：00051701）、NQO1
+（批号：00056400）、GSTA1（批号：00056400）和
+HO-1（批号：00063937）抗体购于武汉三鹰生物
+技术有限公司；兔二步法检测试剂盒购于北京中
+杉金桥生物技术有限公司（批号：2004B1124）。
+1.3
+方法
+1.3.1
+造模与实验分组
+取 32 只 5~6 周龄雄性
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌小鼠抗肿瘤作用
+王
+柯 1，2，3， 陈
+函 1，2，3， 胡志强 4， 马
+康 1，2，3， 汪
+静 1，2，3
+（1. 宁夏医科大学药学院，银川
+750004； 2. 宁夏特色中医药协同创新中心，银川
+750004； 3. 宁夏少数民族医药现代
+化教育部重点实验室，银川
+750004； 4. 宁夏医科大学总医院肿瘤医院，银川
+750004）
+文章编号：1674-6309（2022）04-0343-06
+·论著·
+收稿日期：2021-03-24
+基金项目：宁夏回族自治区重点研发计划一般项目（2019BEG03040）
+作者简介：王柯，男，在读硕士研究生。E-mail：1043296556@qq.com
+通信作者：汪静，女，博士，副教授，硕士研究生导师。
+E-mail：jingwang2018@163.com
+摘要：目的
+观察人参皂苷 Rg3 联合 GP（吉西他滨联合顺铂）对 Lewis 肺癌小鼠抗肿瘤作用。方法
+建立
+Lewis 肺癌小鼠移植瘤模型，评估人参皂苷 Rg3 联合 GP 的抗肿瘤作用；组织学切片法检测荷瘤小鼠肝、肾、脾
+和肿瘤的病理变化；免疫组化法检测肿瘤内微血管密度（MVD）、瘤体血小板表面活化标记物（CD62P）和 Nrf2
+信号通路关键蛋白的表达。结果
+给药后，与对照组比较，GP 组和联合组小鼠肿瘤质量均减轻（P 均＜0.05）。
+联合组小鼠的抑瘤率达 84.4%，GP 组为 79.7%，人参皂苷 Rg3 组为 22.8%；组织病理学变化结果显示，人参皂
+苷 Rg3 可以促进肿瘤细胞凋亡，并且对 GP 所致的肝、肾、脾的损伤具有改善作用。GP 组小鼠给药后体质量持
+续下降；联合组小鼠体质量呈先下降后增加趋势。免疫组化结果显示，对照组小鼠肿瘤组织微血管大量增生，
+而人参皂苷 Rg3 组、GP 组和联合组小鼠肿瘤 MVD 均较对照组减少（P 均<0.05）；与对照组相比，各治疗组CD62P
+蛋白表达均出现不同程度降低（P 均<0.05）；并且人参皂苷 Rg3 联合 GP 化疗可下调 Nrf2 信号通路蛋白（Nrf2、
+NQO1、GSTA1 与 HO-1）的表达。结论
+人参皂苷 Rg3 与 GP 联用后可增强其对 Lewis 肺癌小鼠肿瘤生长及
+肿瘤新生血管生成的抑制作用，其抑瘤作用可能与干预 Nrf2 信号通路和 CD62P 的表达相关；且人参皂苷
+Rg3 与 GP 联用后可起到增效减毒作用。
+关键词：人参皂苷 Rg3；吉西他滨联合顺铂；Lewis 肺癌；Nrf2 信号通路；增效减毒
+中图分类号：R734.2
+文献标识码：A
+DOI:10.16050/j.cnki.issn1674-6309.2022.04.004
+第 44 卷
+4 期
+2022 年 4 月
+宁夏医科大学学报
+Journal of Ningxia Medical University
+343
+·
+·
+C57BL/6 小鼠适应性喂养 3 d 后，于小鼠皮下注射
+状态良好的 LLC 细胞（密度为 5×106 个/mL），每只
+接种 0.2 mL，建立小鼠 Lewis 肺癌模型。待肿瘤
+体积增长至约 50 mm3 时按照平均瘤体随机分为
+4 组（n=8）。对照组：每日给予等量生理盐水；
+GP 组：吉西他滨第 1、8 天腹腔注射，给药剂量
+（50 mg·kg-1、0.2 mL），顺铂第 1、6、8 天腹腔注射，
+给药剂量（5 mg·kg-1、0.2 mL）；人参皂苷 Rg3 组：每
+日灌胃 1 次，连续给药12 d，给药剂量（0.8 mg·kg-1、
+0.2 mL）；联合组（人参皂苷 Rg3 联合 GP）：人参
+皂苷 Rg3 每日灌胃，连续给药 12 d，给药剂量
+（0.8 mg·kg-1、0.2 mL），吉西他滨与顺铂给药方案
+与 GP 组相同。治疗期间，隔天监测小鼠体质量和
+肿瘤的长径 a 及短径 b，肿瘤体积（mm3）=a×b2/2；
+治疗结束后，断颈处死小鼠，剥瘤及肝、脾、肾。肿
+瘤生长抑制率=［（对照组肿瘤质量-实验各组肿
+瘤质量）/对照组肿瘤质量］×100%。
+1.3.2
+器官组织和肿瘤组织的 HE 染色
+各组
+小鼠器官（肝、脾与肾组织）和肿瘤组织用中性福
+尔马林固定 24 h，流水冲洗后，石蜡包埋切片，常
+规 HE 染色，在光镜下观察器官和肿瘤组织病理
+学改变。
+1.3.3
+免疫组化法检测肿瘤组织微血管密度
+（MVD）、CD62P 和 Nrf2 信号通路的表达
+瘤体
+剥离后，切取标本，组织块经 10%多聚甲醛固定
+后，石蜡包埋，5 μm 厚度连续切片。常规脱蜡、
+水化，高温修复抗原，免疫组化画圈笔圈住组织，
+滴加内源性过氧化物酶阻断剂，孵育后，分别滴
+加 MVD、CD62P、Nrf2、NQO1、GSTA1 和 HO-1 抗
+体（1∶200），4 ℃冰箱孵育过夜。PBS 冲洗，滴加反
+应增强液，PBS 冲洗，滴加增强酶标山羊抗兔 IgG
+聚合物，PBS 冲洗，DAB 显色，苏木精复染，脱水，
+二甲苯透明，中性树胶封片，光学显微镜下观察，
+拍照。
+1.4
+统计学方法
+采用 SPSS 24.0 统计学软件进行数据处理，
+计量资料以均数±标准差（x±s）表示，多组间比较
+采用方差分析，组间两两比较采用 LSD-t 检验。
+P≤0.05 为差异有统计学意义。
+2
+结果
+2.1
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌小鼠
+一般情况的影响
+接种LLC 细胞 3 d 后，各组小鼠皮下均可触
+及绿豆大小结节，表明 Lewis 肺癌荷瘤小鼠造
+模成功。给药后，随着实验时间的延长，GP 组小
+鼠体质量持续下降，进食量及饮水量相对减少，
+对外界刺激反应性下降，自由活动少，毛发稀疏。
+对照组、人参皂苷 Rg3 组及联合组上述症状相
+对较轻，并且小鼠体质量均出现不同程度增长，
+联合组 小 鼠体质量 呈先下降 后 增长趋 势 ，人
+参 皂苷 Rg3 组小鼠体质量增长幅度最为明显，
+见图 1。
+2.2
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌小鼠
+实体瘤的抑制作用
+随着实验时间的延长，对照组小鼠肿瘤体积
+持续快速增长。与对照组相比，人参皂苷 Rg3 组
+小鼠瘤体积增长缓慢，GP 组和联合组小鼠瘤体
+积增长接近停滞；与对照组相比，GP 组和联合组
+小鼠瘤质量均降低（P 均＜0.05）。联合组小鼠的肿
+瘤生长抑制率达 84.4%，GP 组为 79.7%，人参皂苷
+Rg3 组小鼠为 22.8%；与对照组相比，其余 3 组小
+鼠的肿瘤相对较小，见图 2。
+2.3
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌小鼠
+肝、肾、脾和肿瘤病理变化的影响
+由图 3 所示，肝组织中，对照组和人参皂苷
+Rg3 组小鼠肝细胞围绕中央静脉呈放射状排列，
+肝细胞形态正常，细胞核无改变；GP 组小鼠肝细
+胞排列不均匀，肝细胞出现大量空泡状脂滴，细
+胞核发生固缩；联合组小鼠肝细胞脂滴和核固缩
+减少，病变程度改善。肾组织中，对照组和人参皂
+苷 Rg3 组小鼠可见肾小管、肾小球结构清楚，形
+态和染色基本正常；GP 组小鼠肾小球管腔变窄
+并有少量坏死，肾小管间质毛细血管扩张充血；
+联合组小鼠肾小球结构正常，肾小管间质毛细血
+管扩张充血，相对于 GP 组病变程度改善。脾组
+织中，对照组和人参皂苷 Rg3 组的小鼠脾组织实
+质内结构分明，蓝色白髓、红色红髓结构清楚，脾
+细胞排列规则，染色均匀；而 GP 组小鼠脾组织学
+图 1
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌
+小鼠体质量的影响
+时间/d
+人参皂苷 Rg3 组
+对照组
+GP 组
+联合组
+44卷
+宁夏医科大学学报
+344
+·
+·
+第 44 卷
+4 期
+2022 年 4 月
+宁夏医科大学学报
+Journal of Ningxia Medical University
+GP 组各组织 HE 染色图片中蓝色圆圈分别为：异常肾小球、异常肝细胞及凋亡肿瘤细胞。
+时间/d
+人参皂苷 Rg3 组
+对照组
+GP 组
+联合组
+A
+B
+C
+人参皂苷 Rg3 组
+对照组
+GP 组
+联合组
+肾
+肝
+脾
+瘤
+4期
+王
+柯，等. 人参皂苷Rg3联合GP对Lewis肺癌小鼠抗肿瘤作用
+图 3
+各组小鼠肾、肝、脾（×20）和肿瘤（×40）的 HE 染色图
+A.各组小鼠肿瘤体积随时间的变化；B.各组小鼠肿瘤质量比较；C.各组小鼠肿瘤实体变化；与对照组相比 *P<0.05，
+**P<0.01。
+图 2
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌小鼠实体瘤的抑制作用
+345
+·
+·
+结构紊乱，红髓、白髓分布不清，细胞排列不规
+则；联合组小鼠脾组织实质结构得以修复，红髓
+和白髓重新形成，脾细胞分布较规则。肿瘤组织
+中，与对照组相比，其他 3 组小鼠肿瘤细胞均出
+现不同程度的凋亡，联合组小鼠细胞凋亡最为明
+显，GP 组次之，人参皂苷 Rg3 组较低。
+2.4
+人参皂苷 Rg3 联合 GP 对 CD62P 和 MVD
+的影响
+MVD 和 CD62P 主要表达于肿瘤细胞的胞
+质及胞膜中，阳性染色为棕黄色。对照组小鼠
+瘤组织微血管大量增生，与对照组相比，人参
+皂苷 Rg3 组、GP 组和联合组小鼠肿瘤 MVD 均
+减少（P均<0.05）。与对照组相比，各治疗组 CD62P
+蛋白表达均降低（P 均<0.05），见表 1、图 4。
+2.5
+人参皂苷 Rg3 联合 GP 对 Lewis 肺癌小鼠
+肿瘤组织中 Nrf2 信号通路的影响
+如图 5 所示，Nrf2、NQO1、GSTA1 和 HO-1 主
+要表达于肿瘤细胞的胞质及胞膜中，阳性染色为棕
+黄色。与对照组相比，GP 组上述各蛋白表达均上
+调，而联合组和人参皂苷 Rg3 组上述各蛋白表达
+均下调。与 GP 组相比，人参皂苷 Rg3 组和联合组
+Nrf2、NQO1、GSTA1 和 HO-1 蛋白表达均下调。
+组别
+视野数
+MVD/个
+CD62P/%
+对照组
+3
+21.0±1.15
+23.13±0.47
+GP 组
+3
+11.0±0.88**
+15.43±0.23**
+人参皂苷 Rg3 组
+3
+13.3±1.20**
+20.45±0.30*
+联合组
+3
+7.3±1.20**
+12.55±0.21**
+表 1
+人参皂苷 Rg3 联合 GP 对 CD62P 和 MVD 的影响
+与对照组比较 *P<0.05，
+**P<0.01。
+人参皂苷 Rg3 组
+对照组
+GP 组
+联合组
+人参皂苷 Rg3 组
+对照组
+GP 组
+联合组
+44卷
+宁夏医科大学学报
+：阳性表达。
+图 4
+CD62P 和 MVD 免疫组化结果（×40）
+：阳性表达。
+图 5
+各组小鼠瘤组织中 Nrf2 信号通路表达量比较（×40）
+346
+·
+·
+第 44 卷
+4 期
+2022 年 4 月
+宁夏医科大学学报
+Journal of Ningxia Medical University
+3
+讨论
+目前手术切除是治疗肺癌最快、最有效的方
+法，然而术后要接受放化疗进行巩固治疗，以 GP
+为主的化疗方案带来的毒副反应如肝、肾毒性和
+骨髓抑制等贯穿整个化疗过程。因此，中药复方
+及其单体成分联合 GP 改善肺癌患者术后生存质
+量目前已成为抗癌研究的热点。
+人参皂苷为人参主要活性成分，其单体按照
+苷元骨架类型分为三大类，人参皂苷 Rg3 为其中
+一类。已证实人参皂苷 Rg3 对肿瘤生长具有抑制
+作用，其机制是通过各种信号通路影响各种蛋白
+的表达去诱导肿瘤细胞凋亡、分化，抑制肿瘤细
+胞转移，增强宿主免疫功能等机制而发挥抗肿瘤
+作用[6-7]。本研究结果显示，GP、人参皂苷 Rg3 联
+合 GP 对 Lewis 肺癌小鼠实体瘤均有抑制作用，
+其中以人参皂苷 Rg3 与 GP 联合组抗肿瘤作用
+最明显，表明人参皂苷 Rg3 能提高 GP 对肿瘤细胞
+的杀伤能力；且通过各组小鼠体质量变化和各组
+织 HE 染色发现，人参皂苷 Rg3 对 GP 所致的肝、
+肾、脾的损伤具有改善作用。
+研究[8]显示，肿瘤的增殖和转移与血管新生
+密切相关，当肿瘤组织生长达到 1~3 mm 后，需
+要充足的血管供应，因此向肿瘤组织提供氧分与
+营养并运输代谢物保证其正常生长，新血管的生
+成是必要条件[7]。MVD 是目前用以衡量肿瘤新生
+血管程度的有效指标，肿瘤组织中 MVD 的增高
+预示瘤体增长速度加快、转移可能性增大。CD62P
+是位于血小板、血管内皮细胞膜上的糖蛋白，
+其主要配体是 PSGL-1 和 CD24，主要介导肿瘤
+细胞与血管内皮、血小板的黏附，并在肿瘤的发
+展、转移中起重要作用[9]。本研究中，各给药组
+MVD 均低于对照组，且各治疗组 CD62P 的表达
+均低于对照组，与有关研究[10-14]结果一致，表明人
+参皂苷 Rg3 联合 GP 可有效抑制肿瘤新生血管
+生成。
+Nrf2 作为调控抗氧化的主要因子，为肿瘤细
+胞中的稳定或异常表达创造了有利于肿瘤细胞
+生存的环境。当给予肿瘤细胞顺铂后，会触发细
+胞内的氧化应激，诱导肿瘤细胞凋亡。与此同时，
+胞内活性氧升高，Nrf2 会被激活进入细胞核并
+激 活相 关的Ⅱ相解毒酶，如奎宁氧化还 原 酶
+（NQO1）、谷胱甘肽转移酶（GSTA1）和血红素加
+氧酶（HO-1），从而削弱化疗药的“杀”细胞作用，
+保护细胞生存。在本研究中，GP 组 Nrf2、NQO1、
+GSTA1 和 HO-1 蛋白表达均较对照组上调，人参
+皂苷 Rg3 组与联合组上述各蛋白表达均下调，表
+明人参皂苷 Rg3 联合 GP 可干预 Nrf2 信号通路
+发挥抗肿瘤作用。
+综上所述，人参皂苷 Rg3 与 GP 联合后可增
+强其对 Lewis 肺癌小鼠肿瘤生长与肿瘤新生血
+管生成的抑制作用，且其抑瘤作用可能与干预
+Nrf2 信号通路和 CD62P 的表达相关，且人参皂苷
+Rg3 与 GP 联用后可起到增效减毒作用。
+参考文献：
+［1］ 孙可欣，郑荣寿，张思维，等. 2015 年中国分地区恶
+性肿瘤发病和死亡分析［J］. 中国肿瘤，2019，28（1）:
+1-11.
+［2］ 李向欣，穆新林，李璐. 吉西他滨注射剂联合顺铂注
+射剂治疗非小细胞肺癌患者的临床研究［J］. 中国临
+床药理学杂志，2020，36（11）:1446-1449.
+［3］ 于雪妮，冯小刚，张建民，等. 人参化学成分与药理
+作用研究新进展［J］. 人参研究，2019，31（1）:47-51.
+［4］ 郑厚胜，郑斯文，王英平，等. 人参皂苷 Rg3 对环磷
+酰胺致免疫功能低下小鼠的免疫调节作用［J］. 中成
+药，2021，43（11）:3202-3206.
+［5］ 张翔，叶宝东，陈丹，等. 人参皂苷 Rg3 抗肿瘤机制
+研究进展［J］. 中华中医药学刊，2013，31（2）:328-
+330.
+［6］ Shi ZY，Zeng JZ，Wong AST. Chemical structures and
+pharmacological profiles of ginseng saponins［J］. Mo-
+lecules，2019，24（13）:2443.
+［7］ 陈若冰，袁慎俊，刘丹，等. 人参皂苷 Rg3 抗肿瘤作
+用机制的研究新进展［J］. 生命的化学，2017，37（4）:
+561-565.
+［8］ 李明月，范恒，胡德胜. 促进大肠癌血管新生相关因
+素研究进展［J］. 世界华人消化杂志，2020，28（11）:
+435-442.
+［9］ 史纬. CD62P 及其配体在肿瘤转移中的作用［J］. 山
+西中医学院学报，2008，9（4）:51-53.
+［10］ 尹学哲，朴龙，金爱花，等. 草苁蓉提取物对小鼠
+H22 肝癌移植瘤血管生成的抑制作用［J］. 食品研
+究与开发，2016，37（14）:1-4.
+［11］ Mei XF，Shu J，Huang RZ，et al. Expression of VEGF，
+CD73 and their relationship with clinical pathology，
+microvessel density，and prognosis in renal cell car-
+cinoma［J］. Transl Androl Urol，2020，9（3）:1366 -
+1373.
+［12］ 徐宪伟，徐小艳，王娜，等. 乳腺浸润性导管癌中
+EZH2、VEGF 和 MVD 的表达及与临床病理学特征
+的关系［J］. 实用医药杂志，2019，36（10）:923-
+927，961.
+［13］ 刘丹，李杨，王雪林，等. 黄芪多糖（APS）及联合顺
+4期
+王
+柯，等. 人参皂苷Rg3联合GP对Lewis肺癌小鼠抗肿瘤作用
+347
+·
+·
+Anti-tumor Effect of Ginsenoside Rg3 Combined with GP on
+Lewis Lung Cancer in Mouse
+WANG Ke1，2，3， CHEN Han1，2，3， HU Zhiqiang4， MA Kang1，2，3， WANG Jing1，2，3
+（1. Department of Pharmacology，Ningxia Medical University，Yinchuan
+750004，China；
+2. Ningxia Collaborative Innovation Center of Regional Characteristic Traditional Chinese Medicine，
+Yinchuan
+750004，China； 3. Key Laboratory of Ningxia Ethnomedicine Modernization，Ministry of
+Education ，Yinchuan
+750004，China； 4. Oncology Hospital，General Hospital of Ningxia Medical
+University，Yinchuan
+750004，China）
+Abstract：Objective
+To observe the anti-tumor effect of Ginsenoside Rg3 combined with GP（gemcitabine
+and cisplatin）on Lewis lung cancer bearing mice. Methods
+Lewis lung cancer model in mice was established to
+evaluate the anti-tumor effect of Ginsenoside Rg3 combined with GP. The pathological changes of liver，
+kidney，spleen and tumor were detected by histological section technology. The expression of microvascular
+density（MVD），CD62P and key proteins of Nrf2 signaling pathway were detected by immunohistochemistry.
+Results
+After administration，compared with the control group，the tumor weight of GP group and combination
+group was significantly lower（P all<0.05）. In terms of tumor inhibition rate was 84.4%，79.7% and 22.8%
+in the combination group，the GP group and the Ginsenoside Rg3 group，respectively. Moreover，the results of
+histopathological changes showed that Ginsenoside Rg3 could promote tumor cells apoptosis and improve the
+damage of liver，kidney and spleen caused by GP. In terms of body weight，it continued to decrease after
+administration in the GP group and the body weight of the mice in combination group showed a trend of decreasing
+firstly and then increasing. The results of immunohistochemistry showed that microvessels were greatly
+proliferated in the tumor tissues of the control mice，while MVD was significantly reduced（P all<0.05）in
+Ginsenoside Rg3 group，GP group and combination group compared. The protein expression of CD62P in each
+treatment group appeared to be decreased to various degrees（P all<0.05）. And Ginsenoside Rg3 combined with
+GP could decrease the protein expression of Nrf2 signaling pathway（Nrf2，NQO1，GSTA1 and HO-1）.
+Conclusion
+Ginsenoside Rg3 combined with GP enhanced effect of inhibiting tumor growth and angiogenesis
+in Lewis lung cancer mice. And its tumor suppressive effect may be associated with intervening Nrf2 signaling
+pathway and CD62P expression. Moreover，Ginsenoside Rg3 combined with GP chemotherapy could exert a
+synergistic and attenuating effect in tumor treatment.
+Key words：Ginsenoside Rg3；gemcitabine and cisplatin；Lewis lung cancer；Nrf2 signal pathway；synergism and
+attenuation
+铂（DDP）抑制小鼠 Lewis 肺癌复发瘤生长的机制
+［J］. 细胞与分子免疫学杂志，2018，34（12）:1105-
+1110.
+［14］ 肖云，沈漪萍，王翠玉，等. 食管癌患者血小板活化
+状态的变化研究［J］. 临床医药文献电子杂志，2018，5
+（40）:183-184.
+（责任编辑：刘
+瑛）
+44卷
+宁夏医科大学学报
+348
+·
+·

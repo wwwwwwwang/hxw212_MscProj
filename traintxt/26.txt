@@ -1,0 +1,449 @@
+［收稿日期］２０２２ － ０４ － ０７
+［基金项目］陕西省自然科学基础研究计划项目（２０２０JM‐３７６） ；陕西省重点研发计划（一般项目）（２０１７SF‐２１７）
+［作者简介］崔  熙（１９９７ — ） ，女 ，在读硕士研究生 ，主要从事妇科疾病和生殖医学的研究 。
+［通讯作者］赵  静 ，主任医师 。
+基于网络药理学鉴定人参皂苷 Rg３ 抗卵巢癌的分子靶点研究
+崔  熙
+１ ，２ ，张小玲
+３ ，李  旭
+２ ，赵  静
+４ ，赵  乐
+２
+（１ ．陕西中医药大学 ，陕西 咸阳 ７１２０４６ ；２ ．西安交通大学第一附属医院转化医学中心 ，陕西 西安 ７１００６１ ；
+３ ．西安大兴医院妇产科 ，陕西 西安 ７１０００２ ；４ ．西安市人民医院／西安市第四医院生殖医学中心 ，陕西 西安 ７１０００４）
+  ［摘  要］目的  通过网络药理学寻找人参皂苷 Rg３ 抑制卵巢癌的可能靶点 ，探索人参皂苷 Rg３ 抑制卵巢癌的药理机制 。
+方法  利用比较毒理基因组学数据库（CTD）收集人参皂苷 Rg３ 的作用靶点 ，利用药物靶标数据库（TTD）和基因卡（GeneCards）
+数据库收集卵巢癌异常表达分子 ，通过交集分析获得人参皂苷 Rg３ 作用于卵巢癌的可能靶点 ；对所选靶点进行蛋白质 － 蛋白质
+相互作用（PPI）网络构建 、基因本体（GO）富集分析和京都基因与基因组百科全书（KEGG）信号通路富集分析 ，选取富集度最高的
+靶点进行实验 ，验证人参皂苷 Rg３ 对该靶点表达水平的影响 。 结果  在 CTD 数据库中获得人参皂苷 Rg３ 的潜在作用靶点 ６５
+个 ，在 GeneCards 数据库和 TTD 数据库中搜索到卵巢癌的潜在疾病作用靶点 ８ ４１２ 个 ，共获得 ４ 个人参皂苷 Rg３ 与卵巢癌的交
+集靶点 ，包括表皮生长因子受体（EGFR） 、多聚二磷酸腺苷核糖聚合酶 １（PARP１） 、含杆状病毒 IAP 重复序列蛋白 ５（BIRC５）和凸
+素 １（PROM１） 。 GO 富集分析得到 P＜ ０.０５ 的条目共计 ４３３ 个 ，包括生物过程（BP）条目 ３５７ 个 、细胞组成（CC）条目 ３３ 个 、分子
+功能（M F）条目 ４３ 个 。 KEGG 信号通路富集分析得到 P＜ ０.０５ 的通路共计 ２３ 条 ，均与肿瘤发生发展密切相关 。 蛋白免疫印迹检
+测结果显示人参皂苷 Rg３ 可显著降低卵巢癌细胞系（３AO 、A２７８０ 和 SKOV３）的 EGFR 蛋白水平 。 结论  人参皂苷 Rg３ 可能通
+过 EGFR 相关信号通路来抑制卵巢癌的进展 。
+［关键词］卵巢癌 ；人参皂苷 Rg３ ；网络药理学 ；表皮生长因子受体
+Doi ：１０.３９６９／j.issn.１６７３ － ５２９３.２０２２.０９.０１４
+［中图分类号］R７３７ ．３１     ［文献标识码］A     ［文章编号］１６７３ － ５２９３（２０２２）０９ － ００８３ － ０７
+Exploring the molecular targets of ginsenoside Rg３ for ovarian cancer treatment based on network pharmacology
+CUI Xi
+１ ，２ ，ZHANG Xiaoling
+３ ，LI Xu
+２ ，ZHAO Jing
+４ ，ZHAO Le
+２
+（１. Shaanxi University of Chinese Medicine ，Shaanxi Xianyang ７１２０４６ ，China ；
+２. Center for Translational Medicine ，the First A f filiated Hospital of Xi′an Jiaotong University ，Shaanxi Xi′an ７１００６１ ，China ；
+３. Department of Obstetrics and Gynecology ，Xi′an Daxing Hospital ，Shaanxi Xi′an ７１０００２ ，China ；
+４. Reproductive Medicine Center ，Xi′an People′s Hospital／Xi′an Fourth Hospital ，Shaanxi Xi′an ７１０００４ ，China）
+［Abstract］ Objective To explore the potential therapeutic targets and pharmacological mechanisms of ginsenoside Rg ３ to inhibit
+ovarian cancer based on network pharmacology ．Methods The targets of ginsenoside Rg３ action were collected using Comparative
+Toxicogenomics Database （CTD） database ，ovarian cancer targets were collected using Therapeutic Target Database （TTD） and
+Genecards databases ，and the possible targets of ginsenoside Rg３ action in ovarian cancer were obtained by intersection analysis
+using Venn diagram. These targets were subjected to protein‐protein interaction （PPI） network construction ，gene ontology （GO）
+enrichment and Kyoto Encyclopedia of Genes and Genomes （KEGG） pathway analysis to reveal the possible mechanism of action of
+Rg３ on ovarian cancer. The target gene with the highest enrichment was selected for experimental validation ．Results ６５ possible tar‐
+gets of ginsenoside Rg３ were obtained from CTD database.８ ４１２ potential ovarian cancer targets were obtained from GeneCards and
+TTD databases. A total of ４ ginsenoside Rg３ and ovarian cancer intersection targets were obtained ，including epidermal growth fac‐
+tor receptor （EGFR ） ，polyadenosine diphosphate ribose polymerase １ （PARP１ ） ，baculovirus IAP repeat‐containing protein ５
+（BIRC５） and prominin１ （PROM１） ，GO enrichment analysis showed a total of ４３３ items with P＜ ０.０５ ，including ３５７ items for bio‐
+logical process（BP） ，３３ items for cell composition（CC） ，and ４３ items for molecular function（MF）. KEEG signaling pathway enrich‐
+ment analysis showed that there were ２３ pathways with P＜ ０.０５ ，all of which were related to the occurrence and development of
+tumors.Western blotting results showed that Rg ３ significantly reduced EGFR protein level of ovarian cancer cell lines （３AO ，A２７８０
+and SKOV３） ．Conclusion Ginsenoside Rg３ may inhibit the progression of ovarian cancer through EGFR‐related signaling pathway.
+［Key words］ ovarian cancer ；ginsenoside Rg３ ；network pharmacology ；epidermal grow th factor receptor
+３
+８
+第 ３３ 卷第 ９ 期                    中国妇幼健康研究                       Vol. ３３ No. ９
+２０２２ 年 ９ 月               Chinese Journal of Woman and Child Health Research                Sep. ２０２２
+  卵巢癌的死亡率居妇科恶性肿瘤之首
+［１］ 。 卵巢
+癌的危险因素包括高脂饮食 、肥胖 、终生未育 、子宫
+内膜异位症 、遗传因素等
+［２‐４］ 。 卵巢癌的治疗方法主
+要为手术辅以化疗及维持治疗
+［５］ 。 随着医疗技术的
+不断发展 ，卵巢癌的治疗方案中也引入了靶向治疗
+药物 ，但患者的 ５ 年生存率未有显著改善
+［６‐７］ 。 开发
+新的卵巢癌治疗药物是改善卵巢癌患者预后的一个
+有效途径 。
+中草药是中华民族几千年智慧的结晶 ，越来越
+多的临床实例证实中草药在保健益寿方面发挥着重
+要作用 ，其中人参自古以来就被用作许多疾病的营
+养强化剂和治疗药物 。 人参皂苷 Rg３ 是提取自人参
+的活性单体 ，具有抗肿瘤 、抗氧化 、抗炎 、抑制皮肤瘢
+痕增生和血管生成等特性
+［８‐１３］ 。 体内外实验结果表
+明 ，人参皂苷 Rg３ 能抑制卵巢癌细胞的体内外增殖 、
+侵袭和转移能力
+［１４‐２０］ 。
+网络药理学借助于生物信息学 、分子生物学主
+要数据库信息 ，综合考虑机体内靶标分子 、生物效应
+分子的多种相互作用关系 ，通过与疾病相关的基因
+进行联合分析 ，构建“药物 － 疾病 － 靶点”网络 ，从而
+促进新靶向药物的研发 ，提高靶向药物筛选的成功
+率
+［２１‐２２］ 。 为探索人参皂苷 Rg３ 抑制卵巢癌的作用机
+理 ，本研究采用网络药理学研究方法鉴定人参皂苷
+Rg３ 的分子靶点 ，以便为卵巢癌的临床治疗提供实
+验依据 。
+１ 研究资料与方法
+１.１ 研究资料
+１.１.１ 确定人参皂苷 Rg３ 的作用靶点
+借助整合了化学物质 、基因 、功能表型和疾病之
+间相互作用的比较毒理基因组学数据库（Comparative
+Toxicogenomics
+Database ， CTD ） （ http ：／／ctd ．
+mdibl ．org） ，检索识别人参皂苷 Rg３ 的潜在靶点 。
+１.１.２ 筛选卵巢癌的靶点分子
+对卵巢癌的靶点通过药物靶标数据库（Thera‐
+peutic Target Database ，T TD）（http ：／／db ．idrblab ．
+org ／ttd／）和 基 因 卡 （GeneCards ） 网 站 （https ：／／
+www.genecards.org／）输入关键词“ovarian cancer”
+进行筛查 ，整合信息 、去除重复项 ，得到卵巢癌的
+靶点 。
+１.１.３ 构建人参皂苷 Rg３ 抗卵巢癌靶点的蛋白
+互作网络
+使用在线韦恩图（Venny ２.１.０）获取 １.１.１ 和
+１.１.２ 中 检 索 到 的 靶 点 交 集 ，将 共 有 靶 点 输 入
+STRING 蛋白质相互作用数据库 （https ：／／string‐
+db ．org） ，于 Organism 栏中选择 Homo sapiens 、限定
+物种为人源 ，构建靶点的相互关系网络图 ，用 Cytoscape
+３.７.１ 软件进一步构建蛋白质 － 蛋白质相互作用
+（protein‐protein interaction ，PPI ）网络 ，在 输 出 栏
+（Exports）中选择下载 TSV 格式文件 ，然后将文件
+中 的 node１ 、 node２ 、 combined score 信 息 导 入
+Cytoscape ３.７.１ 软件进行可视化处理 ，通过Cytoscape
+内置的“Network Analyzer”对 PPI 网络进行拓扑学
+分析 ，获得各靶点的节点连接度（Degree 值） 、节点紧
+密度（Closeness 值）和节点介度（Betweenness 值）等
+信息 。
+１.１.４ 人参皂苷 Rg３ 作用于卵巢癌靶点的富集
+分析和京都基因与基因组百科全书通路分析
+首先用 R 包（３.７.０）将 ４ 个共有交集靶点的基
+因 symbol 转换为 id ，然后通过 R 包 （３.７.０）中的
+Cluster profiler 模 块 对 其 进 行 基 因 本 体 （Gene
+Ontology ，GO ）富集分析和京都基因与基因组百科
+全书 （Kyoto Encyclopedia of Genes and Genomes ，
+KEGG）信号通路富集分析 。 GO 富集分析基于超几
+何分布检验 ，P＜ ０.０５ 达到显著水平 ，认为这群基因
+在该 GO 术语（term）富集 。 KEGG 信号通路富集分
+析 P ＜ ０.０５ 说明其富集显著性强 、富集程度高 。 将
+所得到的结果使用 R 包 （３.７.０）进行可视化处理 。
+图片中不同的颜色代表不同 P 值 ，从蓝色到红色表
+示 P 值从大到小 ，富集程度越来越显著 。
+１.２ 研究方法
+１.２.１ 细胞培养
+用含 １０％ 胎 牛 血 清 的 RPMI １６４０ 培 养 基
+（Gibco‐BRL ，美国）在二氧化碳培养箱中培养人卵巢
+癌细胞系 ３AO 、A２７８０ 和 SKOV３ ，培养箱条件设定
+为湿度 １００％ 、温度 ３７ ℃ 、二氧化碳含量 ５％ 。 取对
+数生长期细胞进行药物处理 。
+１.２.２ 药物和抗体
+２０（S）‐Rg３ 购自天士力制药集团股份有限公司
+（天津） 。 将 ２０（S）‐Rg３ 以 ４mg／mL 的浓度溶解于二
+４
+８
+       在线投稿网址 http ：／／mchchina. xjtu. edu. cn  
+甲亚砜 （DMSO ）中作为原液 ，并在 － ２０ ℃ 下保存 。
+使用的抗体有 ：小鼠抗人 β‐actin 单克隆抗体 ，兔抗人
+表皮生长因子受体（epidermal grow th factor recep‐
+tor ，EGFR）单克隆抗体（Cell Signaling Technology ，
+美国） ；HRP － 羊抗兔／鼠二抗（Pierce ，美国） 。
+１.２.３ 蛋白免疫印迹实验
+将对数生长期的 SKOV３ 细胞以（３ × １０
+５ ）个细
+胞／孔的密度种于 ６ 孔板 ，种板 ２４ 小时后 ，一孔加终
+浓度 ８０μg／mL 的 ２０（S）‐Rg３ 作为处理组 ，另一孔加
+等浓度 DMSO 作为阴性对照 ，处理 ７２ 小时后用含蛋
+白酶 抑 制 剂 的 放 射 免 疫 沉 淀 法 缓 冲 液 （radio‐
+immunoprecipitation assay buffer ，RIPA ）提取细胞
+总蛋白 ，二辛可宁酸含量测定法（bicinchoninic acid
+assay ，BCA）定量 ，加入蛋白体积 １／４ 的 ５ × 上样缓
+冲液 ，混匀后煮沸变性 ，按照每孔 ３０μg 蛋白进行
+１０％ 十二烷基硫酸钠‐聚丙烯酰胺凝胶（SDS‐PAGE）
+电泳 ，０.３２A 转印 ９０ 分钟至硝酸纤维素 （NC ）膜 ，
+１０％ 脱脂奶室温封闭 ３ 小时 ，抗人 EGFR 或 β‐actin
+抗体 ４ ℃ 过夜孵育 ，二抗室温孵育 ２ 小时 ，化学发光
+成像系统显影拍照 。
+２ 结果
+２.１ 人参皂苷 Rg３ 对卵巢癌作用靶点的筛选
+利用 CTD 数据库获得人参皂苷 Rg３ 的潜在作
+用靶点 ６５ 个 ；以“ovarian cancer”为关键词 ，在 Gene‐
+Cards 数据库和 T TD 数据库中搜寻相应靶点 ，共得
+到 ８ ４１２ 个卵巢癌潜在疾病作用靶点 ；将人参皂苷
+Rg３ 的所有靶点与卵巢癌的所有靶点进行比对 ，通
+过 Venny ２.１.０ 软件共获取 ４ 个交集靶点 ，包括
+EGFR 、多聚二磷酸腺苷核糖聚合酶 １ ［poly （ADP‐
+ribose） polymerase １ ，PARP１］ 、含杆状病毒 IAP 重
+复序列蛋白 ５（Baculoviral IAP repeat containing ５ ，
+BIRC５）和凸素 １（prominin １ ，PROM１） ，见图 １ 。
+２.２ 人参皂苷 Rg３ 和卵巢癌靶点的互作网络
+人参皂苷 Rg３ 与卵巢癌的共同靶点被认为可能
+是人参皂苷 Rg３ 治疗卵巢癌的作用靶点 。 将其交集
+分析获得的 ４ 个人参皂苷 Rg３ 抗卵巢癌靶点导入基
+因／蛋白相互作用检索搜查工具（search tool for the
+retrieval of interacting genes ／proteins ，STRING ）在
+线数据库 ，分析获得 PPI 网络图 ，见图 ２ 。
+图 １  人参皂苷 Rg３ 调控基因与卵巢癌异常表达基因的韦恩图
+Fig.１  Venn diagram of Rg３‐regulated genes and ovarian
+cancer‐related aberrantly expressed genes
+  注 ：XRCC１（X‐ray repair cross complementing １）为人
+类 X 射线交错互补修复基因 １ ；PLCG１ （phospholipase C
+gamma １）为磷酸脂酶 C‐γ１ ；CDH１（cadherin １）为钙粘蛋白
+１ ；EREG （epiregulin ） 为 表 皮 调 节 素 ；HBEGF （heparin
+binding EGF like growth factor）为肝素结合表皮生长因子
+样生长因子 。
+图 ２  人参皂苷 Rg３ 调控基因与卵巢癌异常
+  表达基因交集靶点的网络关系图
+Fig.２  Network plot of the intersection targets of ginsenoside
+Rg３ genes and abnormally expressed genes in ovarian cancer
+借助 Cytoscape ３.７.１ 软件获得 PPI 网络的拓
+扑学分 析 结 果 ，展 示 了 所 有 靶 点 的 节 点 连 接 度
+（Degree值） 、节点紧密度（Closeness 值）和节点介度
+（Betweenness 值） ，EGFR 的节点最大 ，见图 ３ 。 节点
+越大 、颜色越深 ，则度值越大 ，因此将 EGFR 确定为
+后续实验验证的靶点 。
+２.３ 人参皂苷 Rg３ 对基因功能及信号通路的
+影响
+为深入了解各交集靶点的生物学功能 ，对这些
+靶点进行了 GO 富集分析与 KEGG 信号通路富集
+分析 。
+５
+８
+第 ３３ 卷第 ９ 期                    中国妇幼健康研究                       Vol. ３３ No. ９
+２０２２ 年 ９ 月               Chinese Journal of Woman and Child Health Research                Sep. ２０２２
+ 
+ 注 ：RASA１ ［ RAS
+p２１ protein activator （ GTPase
+activating protein） １］为 RAS p２１ 蛋白激活因子（GTP 酶激
+活 蛋 白 ） １ ；STAT３ （ signal transducer and activator of
+transcription ３）为信号传导与转录激活因子 ３ ；TGFA （trans‐
+forming growth factor alpha）为转化生长因子 α ；EGF（epidermal
+growth factor ） 为 表 皮 生 长 因 子 ；CBL （casitas B‐lineage
+lymphoma proto‐oncogene）为 Casitas B 系淋巴瘤原癌基因 。
+图 ３  人参皂苷 Rg３ 抗卵巢癌的靶蛋白网络互作图
+Fig.３  Interaction map of Rg３‐targeted protein
+against ovarian cancer
+  GO 富集分析得到 P＜ ０.０５ 的条目共计 ４３３ 个 ，
+包括生物过程（biological process ，BP）条目 ３５７ 个 、
+细胞组成（cell composition ，CC）条目 ３３ 个 、分子功
+能（molecular function ，MF）条目 ４３ 个 ，各类别排名
+前 １０ 位的条目见图 ４ 。 这些靶点所涉及的生物过程
+主要为解剖结构稳态（anatomical structure homeo‐
+stasis） 、DNA 修复的正向调控（positive regulation of
+DNA repair ）及对 DNA 损伤刺激反应的正 调控
+（positive regulation of response to DNA damage
+stimulus） 。 这些靶点的细胞组成主要分布于染色体
+区域（chromosomal region） 、顶端质膜（apical plasma
+membrane） 、细胞顶端部分（apical part of cell） 、核膜
+（nuclear envelope）等 。 这些靶点所涉及的分子功能
+主要有钙粘蛋白的结合 （cadherin binding ） 、蛋白
+ADP － 核糖酶活性 （protein ADP‐ribosylase activi‐
+ty）及半胱氨酸型内肽酶抑制剂参与的细胞凋亡过程
+（ cysteine‐type
+endopeptidase
+inhibitor
+activity
+involved in apoptotic process）等 。
+KEGG 信号通路富集分析得到 P＜ ０.０５ 的通路
+共计 ２３ 条 ，均与肿瘤发生发展密切相关 ，见图 ５ 。 富
+集的主要通路包括结直肠癌（colorectal cancer ） 、细
+胞凋亡（apoptosis） 、膀胱癌（bladder cancer） 、子宫内
+膜癌（endometrial cancer）等 。
+图 ４  人参皂苷 Rg３ 抗卵巢癌靶分子的 GO 富集分析
+Fig.４  GO enrichment analysis of Rg３‐targeted molecules against ovarian cancer
+６
+８
+       在线投稿网址 http ：／／mchchina. xjtu. edu. cn  
+图 ５  人参皂苷 Rg３ 抗卵巢癌靶分子的 KEGG 信号通路富集分析
+Fig.５  Enrichment analysis of KEGG pathway analysis of Rg３‐targeted molecules against ovarian cancer
+  ２.４ ２０（S）‐Rg３ 下调卵巢癌细胞的 EGFR 表达
+情况
+为验证上述分析结果 ，采用人参皂苷 Rg３ 的主
+要成分 ２０（S）‐Rg３ 处理了卵巢癌细胞 ３AO 、A２７８０
+和 SKOV３ ，采用蛋白免疫印迹法检测 ２０（S）‐Rg３ 对
+EGFR 表达的影响 ，结果显示 ，经 ２０ （S ）‐Rg３ 处理
+后 ，３ 株细胞的 EGFR 蛋白表达水平显著下调 ，见
+图 ６ 。
+图 ６  ２０（S）‐Rg３ 下调卵巢癌细胞的 EGFR 表达
+Fig.６  ２０（S）‐Rg３ downregulates EGFR expression
+in ovarian cancer cells
+３ 讨论
+３.１ 人参皂苷 Rg３ 介导下卵巢癌细胞中 EGFR
+的表达意义
+关键信号转导通路的异常是促进肿瘤进展的重
+要因素 。 EGFR 的突变 、扩增是推动肿瘤进展的重
+要因素 ，癌细胞中 EGFR 信号通路的激活参与了细
+胞增殖 、血管生成 、侵袭转移等功能 。 EGFR 过表达
+或激活与肿瘤患者预后不良相关
+［２３］ 。 有 ７０％ 以上
+的卵巢癌患者 EGFR 通路被激活 。 EGFR 突变或扩
+增也与化疗耐药密切相关 。 因此 ，EGFR 被认为是
+晚期卵巢癌治疗的关键分子靶点 。 目前发现 EGFR
+下游的信号通路主要包括大鼠肉瘤癌基因／丝氨酸／
+苏氨酸 － 蛋白激酶／丝裂原活化蛋白激酶激酶／丝裂
+原活化蛋白激酶（Ras／Raf／MEK ／ERK）和大鼠肉瘤
+癌基因／磷脂酰肌醇 ３ 激酶／蛋白激酶 B／雷帕霉素靶
+蛋白（Ras／PI３K／AKT ／mTOR）通路 ，以 EGFR 、Raf
+和 AKT 为靶点的药物已获准用于临床 ，但多项研究
+报道 ，在单用或者联合使用的情况下 ，它们对卵巢癌
+的治疗有效率均较低
+［２４］ 。
+EGFR 是本次人参皂苷 Rg３ 网络药理学研究中
+富集度最高的靶基因 ，实验初步证实了人参皂苷
+Rg３ 的主要组分 ２０ （S ）‐Rg３ 处理 卵 巢癌 细胞的
+EGFR表达显著降低 ，这为人参皂苷 Rg３ 作用机制的
+研究提供了实验依据 。
+３.２ ２０（S）‐Rg３ 对卵巢癌临床治疗的潜在应用
+价值
+课题组在前期的研究中发现 ，人参皂苷 Rg３ 的
+主要组分 ２０（S）‐Rg３ 通过多种途径抑制了卵巢癌的
+细胞恶性表型 。 有研究揭示了 ２０（S）‐Rg３ 在卵巢癌
+细胞和裸鼠皮下荷瘤模型中均能促使缺氧诱导因
+子 － １α（hypoxia inducible factor １ subunit alpha ，
+HIF‐１α）降解 ，阻断缺氧驱动的癌细胞上皮 － 间质转
+化 ，有效地抑制了卵巢癌的迁移和腹腔内扩散
+［１４］ 。
+有研究从 DNA 甲基化调控机制入手 ，发现 ２０ （S ）‐
+Rg３ 通过降低 DNA 甲基转移酶 DNM T３A 的表达
+７
+８
+第 ３３ 卷第 ９ 期                    中国妇幼健康研究                       Vol. ３３ No. ９
+２０２２ 年 ９ 月               Chinese Journal of Woman and Child Health Research                Sep. ２０２２
+水平而抑制其介导的抑癌基因 VHL 的启动子甲基
+化 ，使得卵巢癌细胞中的 V HL 上调
+［２５］ 。 ２０（S）‐Rg３
+还可以通过下调 DNM T３A 介导的 microRNA 启动
+子甲基化 而促进 对有 氧糖 酵解 关键 酶 HK２ 和
+PKM２ 的直接抑制 ，进而拮抗有氧糖酵解 ，发挥抑制
+卵巢癌的作用
+［１７‐１８］ 。 这些研究结果证实了 ２０ （S ）‐
+Rg３ 的作用途径较为丰富 ，但其抗卵巢癌的直接靶
+点有待鉴定 。
+在实验证实 ２０（S）‐Rg３ 具有抗卵巢癌活性的基
+础上 ，本研究进行了网络药理学分析 ，以期发现潜在
+的药物作用直接靶点 。 通过对药物与疾病共同作用
+靶点的交集分析 ，借助 PPI 、GO 和 KEGG 等分析工
+具 ，筛选获得靶标 ，并进行实验验证 ，本研究证实
+２０（S）‐Rg３能够抑制 EGFR 。
+遗憾的是 ，由于人参皂苷 Rg３ 的生物利用度较
+低 ，水溶性和生物膜通透性较差 ，胃肠道作用不稳
+定 ，体内代谢率高 ，因此临床应用有限 。 未来可以通
+过开发有效的给药系统或给药途径来提高人参皂苷
+Rg３ 的生物利用度 ，使其快速高效地应用于临床治
+疗 ，这也为后续研究提出了更多的要求
+［２６］ 。
+综上 ，本研究利用网络药理学方法 ，快速构建出
+人参皂苷 Rg３ － 靶点 － 卵巢癌的网络模型 ，有利于
+预测和分析人参皂苷 Rg３ 对卵巢癌的作用途径和药
+理机制 ，为人参皂苷 Rg３ 成为卵巢癌临床治疗候选
+药物提供了理论依据 。
+［参考文献］
+［１］Siegel R L ，Miller K D ，Fuchs H E ，et al ．Cancer Statistics ，
+２０２１［J］ ．CA Cancer J Clin ，２０２１ ，７１（１） ：７‐３３ ．
+［２］Yang D ，Huang H ，Ruan T ，et al ．Global ，regional ，and
+national burden of ovarian cancer and the attributable
+risk factors in all １９４ countries and territories during
+２００７‐２０１７ ：a systematic analysis of the Global Burden of
+Disease Study ２０１７ ［J］ ．J Obstet Gynaecol Res ，２０２１ ，４７
+（１２） ：４３８９‐４４０２ ．
+［３］Zhou Z ，Wang X ，Ren X ，et al ．Disease burden and attributable
+risk factors of ovarian cancer from １９９０ to ２０１７ ：findings
+from the global burden of disease study ２０１７ ［J］ ．Front
+Public Health ，２０２１ ，９ ：６１９５８１ ．
+［４］Huang J ，Chan W C ，Ngai C H ，et al ．Worldwide burden ，
+risk factors ，and temporal trends of ovarian cancer ：a
+global study［J］ ．Cancers（Basel） ，２０２２ ，１４（９） ：２２３０ ．
+［５］Hinchcliff E ，Westin S N ，Herzog T J ．State of the science ：
+contemporary front‐line treatment of advanced ovarian
+cancer［J］ ．Gynecol Oncol ，２０２２ ，１６６（１） ：１８‐２４ ．
+［６］Ray‐Coquard I ，Pautier P ，Pignata S ，et al ．Olaparib plus
+bevacizumab as first‐line maintenance in ovarian cancer
+［J］ ．N Engl J Med ，２０１９ ，３８１（２５） ：２４１６‐２４２８ ．
+［７］Banerjee S ，Moore K N ，Colombo N ，et al ．Maintenance
+olaparib for patients with newly diagnosed advanced
+ovarian cancer and a BRCA mutation （SOLO１／GOG
+３００４） ：５‐year follow‐up of a randomised ，double‐blind ，
+placebo‐controlled ，phase ３ trial［J］ ．Lancet Oncol ，２０２１ ，
+２２（１２） ：１７２１‐１７３１ ．
+［８］Shi Y ，Wang H ，Zheng M ，et al ．Ginsenoside Rg３ suppresses
+the NLRP３ inflammasome activation through inhibition
+of its assembly［J］ ．FASEB J ，２０２０ ，３４（１） ：２０８‐２２１ ．
+［９］Ahn J W ，Jang S K ，Jo B R ，et al ．A therapeutic intervention
+for Alzheimer′s disease using ginsenoside Rg３ ：its role in
+M２ microglial activation and non‐amyloidogenesis ［J］ ．J
+Physiol Pharmacol ，２０２１ ，７２（２） ：１８５‐１９３ ．
+［１０］Fu Z ，Xu Y S ，Cai C Q ．Ginsenoside Rg３ inhibits pulmonary
+fibrosis by preventing HIF‐１alpha nuclear localisation
+［J］ ．BMC Pulm Med ，２０２１ ，２１（１） ：７０ ．
+［１１］Han Y ，Wang T ，Li C ，et al ．Ginsenoside Rg３ exerts a
+neuroprotective effect in rotenone‐induced Parkinson′s
+disease mice via its anti‐oxidative properties ［J］ ．Eur J
+Pharmacol ，２０２１ ，９０９ ：１７４４１３ ．
+［１２］Nakhjavani M ，Smith E ，Yeo K ，et al ．Anti‐angiogenic
+properties of ginsenoside Rg３ epimers ：in vitro assessment
+of single and combination treatments ［J］ ．Cancers （Basel） ，
+２０２１ ，１３（９） ：２２２３‐２２４２ ．
+［１３］Xia J ，Ma S ，Zhu X ，et al ．Versatile ginsenoside Rg３
+liposomes inhibit tumor metastasis by capturing circulating
+tumor cells and destroying metastatic niches ［J ］ ．Sci
+Adv ，２０２２ ，８（６） ：eabj１２６２ ．
+［１４］Liu T ，Zhao L ，Zhang Y ，et al ．Ginsenoside ２０（S）‐Rg３
+targets HIF‐１alpha to block hypoxia‐induced epithelial‐
+mesenchymal transition in ovarian cancer cells ［J］ ．PLoS
+One ，２０１４ ，９（９） ：e１０３８８７ ．
+［１５］Li J ，Liu T ，Zhao L ，et al ．Ginsenoside ２０（S）Rg３ inhibits
+the Warburg effect through STAT３ pathways in ovarian
+cancer cells［J］ ．Int J Oncol ，２０１５ ，４６（２） ：７７５‐７８１ ．
+［１６］Zheng X ，Chen W ，Hou H ，et al ．Ginsenoside ２０（S）‐Rg３
+induced autophagy to inhibit migration and invasion of
+ovarian cancer［J］ ．Biomed Pharmacother ，２０１７ ，８５ ：６２０‐
+６２６ ．
+８
+８
+       在线投稿网址 http ：／／mchchina. xjtu. edu. cn  
+［１７］Zheng X ，Zhou Y ，Chen W ，et al ．Ginsenoside ２０ （S）‐
+Rg３ Prevents PKM２‐Targeting miR‐３２４‐５p from H１９
+sponging to antagonize the warburg effect in ovarian
+cancer cells［J］ ．Cell Physiol Biochem ，２０１８ ，５１（３） ：１３４０‐
+１３５３ ．
+［１８］Zhou Y ，Zheng X ，Lu J ，et al ．Ginsenoside ２０ （S）‐Rg３
+Inhibits the Warburg Effect Via Modulating DNMT３A／
+MiR‐５３２‐３p／HK２ pathway in ovarian cancer cells ［J］ ．
+Cell Physiol Biochem ，２０１８ ，４５（６） ：２５４８‐２５５９ ．
+［１９］Lu J ，Zhou Y ，Zheng X ，et al ．２０ （S）‐Rg３ upregulates
+FDFT１ via reducing miR‐４４２５ to inhibit ovarian cancer
+progression［J］ ．Arch Biochem Biophys ，２０２０ ，６９３ ：１０８５６９ ．
+［２０］Zhao L ，Sun W ，Zheng A ，et al ．Ginsenoside Rg３ suppresses
+ovarian cancer cell proliferation and invasion by inhibi‐
+ting the expression of lncRNA H１９ ［J ］ ．Acta Biochim
+Pol ，２０２１ ，６８（４） ：５７５‐５８２ ．
+［２１］ Wu J ，Zhang F ，Li Z ，et al ．Integration strategy of network
+pharmacology in Traditional Chinese Medicine ：a narrative
+review［J］ ．J Tradit Chin Med ，２０２２ ，４２（３） ：４７９‐４８６ ．
+［２２］Noor F ，Tahir Ul Qamar M ，Ashfaq U A ，et al ．Network
+pharmacology approach for medicinal plants ：review and
+assessment［J ］ ．Pharmaceuticals （Basel ） ，２０２２ ，１５ （５ ） ：
+５７２‐６０４ ．
+［２３］Cîrstea A E ，Stepan A E ，Zǎvoi R E ，et al ．EGFR
+immunoexpression in malignant serous and mucinous
+ovarian tumors ［J ］ ．Curr Health Sci J ，２０１８ ，４４ （２ ） ：
+１２９‐１３４ ．
+［２４］Cortez A J ，Tudrej P ，Kujawa K A ，et al ．Advances in
+ovarian cancer therapy ［J］ ．Cancer Chemother Pharmacol ，
+２０１８ ，８１（１） ：１７‐３８ ．
+［２５］王莉洁 ，韩曦 ，郑霞 ，等 ．人参皂苷 ２０（S）‐Rg３ 通过抑制
+DNMT３A 介导的启动子甲基化促进卵巢癌细胞中抑癌
+基因 VHL 的表达［J］ ．南方医科大学学报 ，２０２１ ，４１（１） ：
+１００‐１０６ ．
+［２６］Yu S E ，Mwesige B ，Yi Y S ，et al ．Ginsenosides ：the need
+to move forward from bench to clinical trials ［J ］ ．J
+Ginseng Res ，２０１９ ，４３（３） ：３６１‐３６７ ．
+［专业责任编辑 ：杨  红  高艳娥］
+［中文编辑 ：王  懿 ；英文编辑 ：张博星］
+９
+８
+第 ３３ 卷第 ９ 期                    中国妇幼健康研究                       Vol. ３３ No. ９
+２０２２ 年 ９ 月               Chinese Journal of Woman and Child Health Research                Sep. ２０２２

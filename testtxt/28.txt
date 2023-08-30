@@ -1,0 +1,837 @@
+第 42 卷
+第 3 期 
+2016 年 5 月 
+吉
+林
+大
+学
+学
+报
+( 医
+学
+版 ) 
+J ournal of J i li n U niv ersit y (M edicine E di tion) 
+V o 1．42 
+N O．3 
+M ay  
+2 01 6 
+4 39 
+[ 文章编 号]
+1671—587X ( 2016) 03—0439—07 
+DOI ：10．13481／j．1671—587x．20160305 
+人参糖蛋 白对小 鼠学 习和记忆能力的影响 
+罗 浩铭 ， 陈 英 红 ，周 婷 婷 ，洪 
+铁 ，姜 瑞 芝。， 王 
+颖 ，杨 晓 虹。，马 
+莉 
+( 1．长春 中医药大学药学 院药物化学与 中药化学教研室 ，吉林 长春 130117；2．吉林省 中医药科 学院 
+中医药基础所 ，吉林 长春 130012；3．吉林 大学药学院药学系 ，吉林 长 春 130021；
+ 
+4．吉林大学第二医院急救医学科 ，吉林 长春 130041) 
+[ 摘
+要]  
+目的 ：确定 人 参糖 蛋 白的基 本 化学 组 成 ，探 讨其 对 东 莨菪 碱所 致 小 鼠学 习 和记 忆 障碍 的影 响 。 
+方法 ：采用 中空纤维超滤设备 ，对 已除去皂苷的人参水提取物进行分离 。采用苯酚硫酸法测定 总糖含量 ，Lowry 
+法测 定蛋 白含量 ，高效液相色谱法 ( H P LC)
+测定人参糖 蛋 白的纯 度和相 对分子 质量 ，将人 参制 备成 1一苯基一3一 
+甲基一5-~It 唑啉酮 ( P MP)
+衍生物后进行单糖组成分析 。注射东莨菪碱建立小 鼠记忆获得 障碍模型 ，6O只小 鼠随 
+机分为对 照组 ( 正常小鼠) ，模型组 ( 训练后腹腔注射氢溴酸东莨菪碱 2．5 mg · kg- 1) ，阳性药组 ( 训 练前灌 胃 
+给药吡拉西坦 9 mg · kg_ 。，30 d) ，低 、中、高 剂 量人 参 糖 蛋 白组
+( 训 练前 灌 胃 给药 ，剂量 为 7．5、75．0、 
+225．0 mg · kg 
+) ，每组 1O只。水 迷 宫 实 验 测 定 各 组 小 鼠逃 避 潜 伏 期 ；跳 台 实 验 测 定 小 鼠跨 平 台 次 数 。 
+结果 ：人参 糖蛋 白总糖质量分数为 58．41 
+，由 7 种 单糖组成 ，其蛋 白质量 分数 为 19．93 
+，由 17 种氨 基酸 组 
+成 。人参糖 蛋 白相对 分子质量分布在 2OO～50 000 。Morris 水迷 宫实验 ，从第 3 天 开始 ，与模型组 比较 ，高剂 量 
+人参糖 蛋白组小 鼠平 均逃避潜伏期明显缩短 ( P < O．05) ，跨平 台次数 明显 增加 ( P < O．O1) 。在对位训练 中，与 
+模 型组 比较 ，高剂量 人参糖蛋 白组小 鼠 60 S 内在平 台所 在象 限 S 的时 间明显延长 ( P < O．01) ，从第 2 天 起 ，与 
+模 型组 比较 ，低 、中和高剂量 人参 糖蛋 白组小 鼠平均逃避 潜伏期 明显缩短 ( P < O．05) 。在跳 台实验 中，与模 型 
+组 比较 ，低 、中和高 剂量 人参糖蛋 白组小 鼠 3 ra in 内 的错 误次数 明显减 少 ( P < O．05) ，中剂量人参糖 蛋 白组 小 
+鼠停 留在平 台上的潜伏期明显延长 ( P< o．05) 。结论 ：人参糖蛋 白具有提 高小 鼠记忆能力 的作用 。 
+[ 关键词] 
+人参 ；糖蛋 白；学习能力 ；记忆能力 ；东莨菪碱 
+[ 中图分类号] 
+R285 
+[ 文献标志码] 
+A 
+I n f l u en c e o f  g ly co p r o tein  f r o m  P an a x  g in sen g in  
+stu dy  an d m em o r y  ab i l it ies in  m i ce 
+L U O  H ao ming  ， C H E N  Y ing h on g ， Z H O U  T in gti ng ， H O N G  T ie ， J IA N G  R ui zh i。， 
+W an g Y i ng ，Y A N G  X i aoh on g。， M A  L i 
+( 1．T eac h in g a nd R es earc h S ec tio n o f M ed ic in a1 C h em is try a nd C hem i str y o f C h in es e M a ter ia M ed ic ine 。 S c hoo l 
+of P har m ac y ， C han g ch u n U niv ers it y of T rad itio nal C hi nes e M ed ic in e， C h ang c hu n 130 1 17 ， C hi na ； 
+2．J i li n A cademy of C hinese M edicine and M ater ial Medica1 S ciences ，T raditional Chi nese M edicine Insti tute ， 
+C hang chun 130 0 12 ，C hina ；3．D epar tment of Pharmacy ，School of P harmaceuti cal S ciences ，J i lin U niver si ty ， 
+Chang chun 1 30 02 1 ，C hina ；4 ．D epart ment of E m er g ency M edicine ，S econd H ospital ，J i lin U niver si ty ， 
+C h ang ch un 13 004 1 ， C h in a) 
+[ 收稿 日期] 
+2015—12—22 
+[ 基金项 目] 
+国家 自然科学基金资助课题 ( 81473326) ；吉林省科技厅科技发展计划项 目资助课题 ( 20140204057Y Y ) 
+[ 作 者简介] 
+罗浩铭 ( 1983一) ，男 ，吉林省长春市人 ，讲师 ，理学博士 ，主要从事药物化学和药物作用 机制方面 的研究 。 
+[ 通 信作者] 
+王 
+颖 ，助理研究员 ( T el ：0431—86058667 ，E- mail ：wangyingO2231@sina．com) 
+马
+莉 ( T el ：0431—85788471 ，E-mail：maryicu@ 126．com) 
+网络 出版 时 间 ：
+ 
+2016—05—17 14 ：08：02 
+网络 出版 地 址 ：
+http ：／／w ww ．cnk i．net／kcms／detail／22．1342．R ．20160517．1408．002．html 
+440 
+吉林大学学报 ( 医学版) 
+第 42 卷
+第 3 期 
+2016 年 5 月 
+A BST R A CT  
+Objective ：T o identify the basic chemical compositions of panax ginseng gly coprotein ，and to discuss 
+its in fl uen c e in th e s c op ol am in e- ind u c ed s tu dy an d m em o ry im p airm en t i n th e m ic e． Method s ： H o ll ow  fib er 
+ul trafi ltr atio n d evic e w as u s ed to s ep arat e th e g in s eng aq ueo us extr ac t w h ic h s apo ni n h ad been r em oved ． T he 
+co nt en t o f tot al s ug ar w as d eterm in ed b y p hen ol s u lfu ri c ac id m eth o d ； t he c on ten t of p ro tei n w as d eterm in ed b y 
+L o w r y m eth od ； the pu r ity an d rel ativ e m ol ecu lar w eigh t dis tr ib utio n w er e deter mi ned b y H P L C ； th e s ug ar 
+com po si tio ns w er e anal yz ed aft er th e p rep aratio n o f P M P  d eriv ativ es ． T h e m ou s e m o d el w ith ac qu ired m em or y 
+disorder w as established throug h injection of scopolamine． A  total of 60 mice w ere randomly divided into control 
+gro u p ( n or mol mice) ， mod el g ro up
+( in trap erito neal admin i str ation  of scop ol am in e h yd ro br omid e 2．5 mg 
+k g 。。
+ 
+after  trai ni ng ) ． p os i ti ve dr ug gro u p
+( in tr agas tri c ad m in is tratio n o f p ir acetam  9 m g · kg 
+fo r 30 d befo re train in g ) ，
+ 
+and lo w ， m i dd le an d h ig h do ses o f P ana x g in s eng g ly co pr otein gro u ps ( in tr ag as tri c adm i ni str ation  o f g l yc op rotein  
+7．5 。 75 ．0 。2 2 5．0 mg · kg _ 。resp ectiv ely fo r 30 d b efo re tr ai ni ng ) ， an d th ere wer e 1 0 rats in each g ro up ． T h e 
+es c ap e laten cy  an d th e nu m b er of c r os s ing th e p latfo rm  of th e m i ce w er e d eterm in ed b y M or ris w ater m az e an d s tep— 
+d ow n test． R e s ults ：T h e to tal s u gar m as s fra ctio n o f P an ax g in s en g gl yc op ro tein w as 58 ．4 1 
+w h ic h w as c on s is ted 
+of 7 k inds of sugars． T he mass fraction of protein was 19．93％ w hich was consisted of 17 k inds of amino acids．
+ 
+T h e rel at ive m o lec u lar w eig h ts of P an ax gin s en g gl yc o pr otein  w ere 20 0 — 50 00 0． T h e M or ri s w ater m aze test 
+res ul ts sh o w ed tha t f rom  th e 3r d day ， th e av er ag e esc ap e laten c y  of m ic e i n h igh do se of P an ax gi ns eng g l y c op ro tein 
+g ro u p w as si gn ifi can tl y s ho rten ed c om p ared w it h m od el gr ou p ( P <
+O．0 5 ) ， and th e n um b er of c ro ss in g th e pl atfor m 
+in hi gh do s e o f P an ax g in sen g g l yc op ro tein g ro up w as s ign if ic antl y m or e than  th at in m o del gro u p ( P <
+O．01 ) ． T h e 
+relati ve p ositio n test r esu l ts sh ow ed th at th e time of sp en tin g i n th e pl atfor m qu adr ant s of th e mi ce w ith in  60 s in 
+hig h d os e of P an ax g in s eng gl y co pr otein gr o up w as s ig n ific an tly p ro lo ng ed c om p ared w ith m od el g rou p ( P <
+O．0 5) ； 
+fr om  the 2 day ， the aver age esc ap e l atenc y i n d ifferen t d os es o f P anax gi ns eng gl yc op ro tein g ro up s w as s ig n ific ant ly 
+s h or tened co m p ared w ith  m od el gr ou p
+( P <
+0．05 ) ． T h e s tep—d ow n tes t res u lts sh o w ed th at th e m i ce in di ff er ent 
+dos es of P an ax gi ns eng  g l yco p rotei n g ro u ps m ade sig n ific an tly les s m is tak es w ith in  3 m in co m par ed w ith m od el 
+g ro u p
+( P <
+O．0 5) ； com par ed w ith m odel gr ou p ，th e l at en t p erio d o f lan din g on th e p l atfo rm  of t he m ic e i n m idd le 
+d os e of P an ax g in sen g g ly co pr otein  gr ou p w a s s ig nif ic an tl y in c reas ed
+( P <
+0 ．0 5 ) ． C onc lus io n ： P an ax g ins en g 
+gl y c op ro tein co ul d im p rov e t he m em or y  ab il ity  o f m ic e．
+ 
+K E Y W O R D S 
+P an ax gi ns eng ； gl yc o pro tein ； st ud y ab il ity ；m em or y ab il ity ； sc op ol am in e 
+人 参 为名 贵 中药 材 ，具有补 五脏 、安 精神 、定 
+魂 魄 、止惊 悸 、除邪气 、明 目开 心益智 的作 用 。现 
+代研 究 表 明人 参 含有 多种皂 苷类 、多糖 、糖 肽和 挥 
+发 油等 成分 。国 内外 研 究 1】
+ 
+显 示 ：人 参 中 的皂 苷 
+成 分是 发挥 人参 功效 的主要 成分 之一 ，具 有增强 学 
+习和记 忆能 力 的功能及 改善 认知 功能 的作用 。近 年 
+来研 究 显示 ：人参 水提 物也 具有 改善 记忆 的生物 活 
+性 。胡胜全等口 报道 ：人参水提取物对于 A J3 诱导 
+的 SH —SY SY
+细 胞 凋 亡 有 神 经 保 护 作 用 。 
+H iroaki 等 
+报道 ：通 过 口服 红 参 的 非 皂 苷部 分 可 
+以提高老龄大 鼠的学习和记忆能力等。王盛民等_g 
+报道 ：人参及 膨化 制 品人参 水提 物对记 忆 获得 、记 
+忆巩 固和记忆再现障碍均具有 明显的改善作用。但 
+至今对人参水提物增强学习记忆作用的活性物质研 
+究 尚未见 报道 。本 研究 对人参 水 提物 中改善 记忆 的 
+活性 物质 进行 筛选 ，经 分离 纯化 、灌 胃给药后 ，其 
+能明显改善小 鼠记忆获得 障碍 和小 鼠记忆巩 固障 
+碍 。理 化性 质 研究 结果表 明 ：具有 增强 学 习记 忆 的 
+人参 水提 物 中的活性 物质 为人参 糖蛋 白组 分 。本研 
+究 旨在为人 参 的有效 利用 和开发 提供 依据 。 
+1
+材料 与方法 
+1．1
+主 要 试 剂 和 仪 器 
+葡萄糖 、葡聚糖 标 准 品 购 自美 国 Sigma 公 司 ， 
+氢 溴酸东莨 菪碱 注射 液购 于天津 药业集 团新 郑股 份 
+有 限公 司 ，其他 试剂 为 国产分 析 纯 。754 紫外 分 光 
+光度计
+(上 海菁 华 科 技 仪器 有 限 公 司产 品) ，高效 
+液相 色 谱 系 统 、1OA T —V P 泵 和 示 差 折 光 检 测 器 
+( 日本 岛津 公 司 ) ，G PC 软件
+( 北 京 龙 智 达 软 件 有 
+限公 司) ，D T 一200 小 鼠跳 台测试 仪 (杭 州雷 琪实 验 
+器材 有 限公 司产 品) ，Morris 水 迷 宫 ( 成都 泰 盟科 
+技有 限公 司产 品) 。 
+1．2
+人参 非皂苷 部 分的制备 
+取 干燥 的人 参根 2 kg，粉 碎 ，加 6 L 80 
+乙醇 
+浸泡过夜 ，加热 回流 ，重复 2 次 ，每次 2 h。经 乙 
+醇 回流后 的人 参 渣 挥 去 乙醇 ，加 6 L 水 浸 泡 2 h ， 
+罗浩铭 ，等 ． 
+人参糖蛋 白对小 鼠学 习和记忆能力 的影响 
+441 
+煎煮 2 次 ，每 次 2 h 。煎 煮液 过 滤 ，合 并 滤 液 ，浓 
+缩至适当体积 ，超滤 ( 截留相对分子质量 10 000) ， 
+取分 离液 ，浓 缩 ，冻干 ，获 得人参 非 皂苷部 分 。 
+1．3
+化 学研 究 
+1．3．1 
+理 化 性 质 的 测 定 
+采 用 苯 酚一浓 硫 酸 法 ，
+ 
+以葡 萄糖 为 标 准 品测 定 总 糖 的质 量 分 数 _】叩；采 用 
+间一羟基 联苯 法 ，以半 乳 糖 醛 酸 为 标 准 品测 定 酸 性 
+糖 的质量 分 数[1 
+；采 用 Lowry 法 ，以牛 血 清 蛋 白 
+为标准品测定蛋 白的质量分数_1 。 
+1．3．2
+纯 度 和相对 分子 质量 的测 定 
+采 用 高效 液 
+相色谱 法 ( H P LC ) ， 以葡 萄糖 和相 对 分 子 质 量 为 
+1 000、3 000、5 000 、12 000 和 25 000 的 葡 聚 糖 
+标准 品绘 制标 准 曲线 ，根 据样 品在 相 同色谱 条件 下 
+的保 留时 间 ，采 用 G PC 软 件 计 算 样 品 的相 对 分 子 
+质 量
+[133。 色 谱 柱 ： Sepax 
+SR T  
+SEC 一100 
+( 中7．8 mm × 300 mm 5 肚) ；流 动相 ：磷 酸盐
+( pH 
+7．O) ；流 速 ：0．5 mL · ra in一 ；柱 温 ：35℃ ；检 测 
+器 ：示 差 折光 检测 器 。 
+1．3．3
+组 成糖 分析
+将人 参 非皂苷 制 备成 1一苯基一 
+3一甲基一5一吡唑 啉 酮 ( P MP ) 衍 生 物r1 
+，再 以 各 单 
+糖 的 P MP 衍 生物作 为 对照 品 ，通过 H P L C 法 分 析 
+其 组 成 糖 。 仪 器 ：高 效 液 相 色 谱 仪 ； 色 谱 柱 ： 
+D iamonsil-C 18 分 析 柱
+( 4．6 mm × 250 mm 5tt) ； 
+流动相 ：A ，磷 酸 盐 缓 冲 液
+( pH  6．8)
+：乙腈 一 
+85 ：15 (体积分数) ，B，磷酸盐缓冲液 ( pH 6．8)
+：
+ 
+乙 腈
+一
+6O
+： 40
+( 体 积 分 数 ) ； 流 速 ： 
+0．9 mL · min- 。； 柱 温 ： 40
+℃ ； 检 测 波 长 ： 
+250 r1．
+m ；进样 量 ：l 0 “ L 。 
+1．3．4 
+甲基 化分 析
+称取 20 mg 人参 非 皂 苷 ，加 
+入 0．5 mL 脱 水 D MSO ，密 封 搅 拌 过 夜 ，加 入 
+0．5 mL NaOH —D MSO 混悬 液 ，密 封搅 拌 30 ra in ， 
+再加 0．3 mL 碘 甲烷 ，加 入 2 mL 水 终止 反 应 ，最 
+后加入 3 mL 氯仿萃取 ，吹干氯仿层 ，制备成 甲基 
+化衍 生物 。上 述 甲基化 衍生 物经 水解 、还 原和 乙酰 
+化后 进行 G C —MS 分离 鉴定口 
+。 
+1．3．5 
+氨 基 酸 分 析 
+样 品 的处 理 方 法 参 照 文 献 
+E16]
+进 行 。 色 谱 柱 ：A gil ent9 E clipse X DB—C18 
+( 4．6× 150 ra m) ；流 动相 ，乙腈一水 ( 55 ：45，体 
+积分 数 ) ：K H 2P O 缓 冲 液
+( pH  7．2 )
+一 30 ：70 
+( 体积 分数 ) ；流速 ：1 mL · min～ ；检测 器 ：紫 外 
+检测 器 ；检测 波长 ：254 rim ；柱温 ：室 温 。 
+1．4
+增 强 记 忆 活 性 实验  
+1．4．1
+实验动 物 和分 组 
+健 康 成 年雄 性 昆 明小 鼠 
+50 只 ，体质 量 ( 20± 2) g ，动 物合 格证 号 ：SCX K  
+( 吉) 一2011—0004。随机分 为对 照组 ，模 型组 ，阳性 
+药 组和低 、中 、高剂量 人参 糖 蛋 白组 ，每组 10 只 。 
+阳性药 为 吡拉 西坦 ，灌 胃给药 剂 量 为 9 mg · kg一 。 
+人 参糖 蛋 白组 大 鼠灌 胃给 予 人 参 糖 蛋 白，剂 量 为 
+7．5、75．0 和 225．0 mg · kg_ 。，连 续给 药 30 d 。 
+1．4．2 
+记 忆 获 得 障碍 模 型 的建 立 
+于 给药 第 
+31 天 开始 进行 学 习记 忆训 练 ，实验 共进 行 3 d ，第 
+31 天 训 练前 10 min 除对 照组 外 ， 阳性 药组 ，模 型 
+组 ，低 、中和高剂 量人 参糖 蛋 白组 小 鼠腹 腔 注射氢 
+溴 酸东莨 菪碱 注射 液 2．5 mg · k g_ 。。 
+1．4．3 
+记 忆 巩 固 障 碍 模 型 建 立 
+给 药 30 d 后 ，
+ 
+于第 31 天 给药 1 h 后 进 行 跳 台 训 练 ，记 录训 练 成 
+绩 ，模型组 ，阳性药组 ，低 、中和高剂量人参糖蛋 
+白组 小 鼠 腹 腔 注 射 环 己 酰 亚 胺 120 mg · k g
+， 
+32 d时给予 受试 药 物 1 h 后 测试 记忆成 绩 。 
+1．4．4 
+Morris 水 迷 宫 实 验 
+实 验 方 法 参 照 
+文献 E17-18] ，并作 适 当修 改 。 实 验 共 进 行 7 d ，
+ 
+前 3 d 为 获得性 实验 ，连 续 3 d 观 察 和记 录 小 鼠寻 
+找并爬上平台所需 的时 间，检测 小 鼠学习获得能 
+力 。第4 天 进行 探查训 练 ，撤 去 平 台 ，记 录 小 鼠第 
+1 次经 过原 平 台位置 的时 间和 穿越 原平 台位 置 的时 
+间 ，检 测动 物空 间记忆 能力 。第 5 天和第 6 天进 行 
+对位 训练 ，将 平 台 放 在 原 平 台所 在 象 限 的对 侧 象 
+限 ，记 录小 鼠找到 平 台的时 间 。第 7 天进行 对位探 
+查训 练 ，记 录小 鼠 60 S 内在 目标 象限 ( 平 台第 2 次 
+所在 区 ) 所用 时 间 。 
+1．4．5
+跳台实验 
+分组和给药情况同 1．4．1。末 
+次给 药 1 h 后 ，首先将 小 鼠置于 跳 台仪上 ，适 应环 
+境 5 ra in 后 ，轻放 于平 台上 ，当小 鼠从 跳 台上 跳下 
+四肢 接触 铜栅 时 ，即给 予 32 V 电 流 电压 刺激 。记 
+录小 鼠逃避 至平 台上 的潜伏 期 ，并 记 录 5 ra in 内的 
+触 电次数 ( 错误 次 数 ) ，作 为 学 习成 绩 。24 h 后 进 
+行 记忆 成绩 测试 ，将小 鼠置 于平 台上 ，记录其 停 留 
+在安 全 平 台上 的潜 伏 期 及 其 3 min 内受 电击 次 数 
+(错 误次 数 ) ，若 小 鼠停 留在 平 台上 超 过 3 ra in ，其 
+潜伏期 以 180 S 计 。 
+1．5
+统计 学分析 
+采用 SPSS 10．0 统计软件进行统计学分析 。水 
+迷 宫实 验 中小 鼠的逃避 潜伏期 、跨 平 台次 数 和跳 台 
+实验中小 鼠停 留在平 台上的潜 伏期及错误次数 以 
+．32± S表 示 。方 差 齐 时 ，组 间 两 两 比 较 采 用 L SD 
+法 ；方 差不 齐时 ，组 间两 两 比较采 用 T amhane 法 。 
+以 a===0．05 为 检验 水准 。 
+442 
+吉林大学学报 ( 医学版) 
+第 42 卷
+第 3 期
+2016 年 5 月 
+2 
+结 
+果 
+2．1
+化 学研 究结 果 
+2．1．1
+理 化性 质测 定 
+制 得 人参 非 皂 苷 的 收率 为 
+相对 于人参 根 的 7 
+。人参 非 皂苷 理 化性 质 测定 结 
+果 ：其蛋 白质量分数为 19．93 
+，总糖质量分数为 
+58．41 
+，酸性 糖质量 分 数为 9．35 
+。 
+2．1．2 
+纯度 和 相对分 子质 量测定 
+采 用 G PC 软 件 
+测 得人 参 非 皂 苷 成 分 相 对 分 子 质 量 分 布 在 200 ～ 
+50 000。结 合理 化性 质研 究结 果 ，判定 人 参非 皂 苷 
+成分为人参糖蛋 白。见图 1。 
+三 
+弓 
+>  
+0 33  
+6 ．02 1 
+12 ．0 1 
+l 7．9 9 
+2 3 ．98  
+29 ．9 7 
+Ti me (tl mi n) 
+图 1 
+H PL C 测 定结 果图 
+F i g．1 
+D ia gram o f resu lts of H P L C 
+2．1。3
+组成糖分析
+人 参糖蛋 白部分 中的糖部分 
+由甘露 糖 ( Man) 、鼠李糖
+(R ha) 、半乳糖 ( G aD 、 
+葡 萄糖
+( G lc) 、N～乙酰 葡 萄 糖 胺
+( G lcNA c) 、N一 
+乙酰半 乳 糖胺
+( G laNA c)
+和岩 藻糖
+( F uc)
+组成 。 
+其 中 Glc 含 量 最 高 ( 51．32％) ，其 次 为 GlcN A c 
+( 15．90 
+)
+与 G a1NA c ( 15．50 
+) 。见 图 2。 
+2．1．4
+甲基 化 分 析 
+糖 部 分 主链 由 1— 4 连 接 的 
+Gal 和 1—6 连接的 M an 组成，其非还原末端是 由 
+Rha、Glc 和 Gal 组成，其 中以 Glc ( 59．54％) 居 
+多 ，而 Gl cNA c 与 G alNA c 的异 头碳 与 氨基 酸相 连 
+形 成糖 肽 键 ，4一位 羟基 与糖 相连 [】
+ 
+。见表 1。 
+2．1．5
+氨基 酸分析
+人参糖蛋 白由 17 种氨基酸组 
+成 ，其 含 量
+( 
+)
+分 别 为
+A sp
+( 7．98 ) 、Glu 
+( 10．58 ) 、 S er
+( 2．23 ) 、 H is
+(
+3．3 1 ) 、 G ly 
+( 12．4 8 ) 、 A rg
+( 39．45 ) 、 T h r
+(
+1．7 7 ) 、 P ro 
+( 9．38 ) 、A la
+( 5．32 ) 、 V al
+( 1．66 ) 、 C ys
+( 0．3 3) 、 
+M et
+( 0．13 ) 、 l ie
+( 0 ．75 ) 、 L eU
+( 1．24 ) 、 P h e 
+(O．78) 、L ys ( 1．47)
+和 T yr ( 0．71) ，其 中 Arg、 
+G ly 和 G lu 含 量最 高 。 
+1。。 
+毫50 
+1 0 
+ _
+? ．
+麟 
+、
+ 
+0 
+5 
+10 
+15 
+2 O 
+2 5 
+3O 
+3 5 
+T ime( t／min) 
+图 2
+人参糖蛋 白组成糖分析结果 图 
+F i g．2 
+D iag ram o f sug ar co mp o si tion  an aly si s of P an ax  
+gi ns en g g ly co pr otein  
+表 1
+人参糖蛋 白甲基化分析结果 
+T ab．1 
+M eth y latio n r esul ts o f P an ax gi n sen g g ly co pr otein  
+2．2
+增 强记 忆活性 研 究 
+2．2．1 
+Morris 水迷宫 实 验
+在 获 得性 训 练 中，随 
+着 训练次 数 的增加 ，小 鼠寻找 水下平 台 的平均逃 避 
+潜伏期越来越短，表 明小 鼠具有通过训练学习，对 
+水 下平 台的空 间定 位 获 得认 知 并 产生 记 忆 的 能力 。 
+从 第 2 天开始 ，与对 照组 比较 ，模型 组小 鼠的平 均 
+逃避 潜伏期 明显 延长
+(P < 0．05) 。从第 3 天 开 始 ， 
+与模 型组 比较 ，阳性 药组 和高剂 量人 参糖 蛋 白组 小 
+鼠平 均逃避 潜伏 期 明显缩短
+(P < 0．05) 。见表 2 。 
+在探查 训练 中，与对 照组 比较 ，模 型组 小 鼠的 
+跨 平 台次数 明显 减 少
+( P < 0．01) 、小 鼠 60 S 内在 
+平 台所 在 象 限 t 的时 间 明 显 延 长 ( P < 0．05) 、小 
+鼠 60 S 内在平 台所 在象 限 S 的时 间明显 缩 短 ( P <  
+0．05) 。与模 型组 比较 ，高剂 量 人参 糖 蛋 白组小 鼠 
+跨 平 台次数 明显增 加 ( P < 0．01) ；与模 型组 比较 ， 
+阳性 药组 和高 剂 量人 参 糖 蛋 白组小 鼠 6O S 内 在平 
+台所 在 象 限 S 的 时 间 明 显 延 长
+( P <
+0．05 ) 。 
+见 表 3。 
+在 对 位 训 练 中，随 着训 练 次数 的增 加 ，小 鼠 
+寻 找水下 平 台的平 均逃避 潜伏 期越来 越短 。与 对照 
+组 比较 ，模 型 组 小 鼠 的平 均 逃 避 潜 伏 期 明 显 延 长 
+(P < O．05) ；与模 型组 比较 ，阳性 药 组 ，低 、中和 
+高剂量人参糖蛋白组小鼠平均逃避潜伏期 明显缩短 
+(P < 0．05) 。见表 4。 
+∞ 
+驰 
+鹦 
+∞ 
+罗浩铭 ，等 ．
+ 
+人 参糖蛋 白对小 鼠学习和记忆能力 的影响 
+443 
+C on t rol 
+M ode1 
+P osit iv e dr ug 
+P a na x g in seng  g ly cop rote in 
+L OW  
+M iddle 
+H ig h 
+43 ．86 ± 4．65 
+5O．62 ± 2．48 
+47．28 士 3．16 
+56．68 ± 1．82 
+46．13 土 3．40 
+48．19 ± 3．73 
+38．04±
+3．32 
+54．46土 2．13 
+49．51士 3．01 
+52．01±
+1．49 
+51．52±
+3．16 
+49．90±
+3．84 
+36．11± 3．76 
+51．06 士 3．54 
+37．19 ± 2．59 
+46．33 ± 4．68 
+44 ．5Z 士 4．51 
+36．O6 ± 5．86 
+P <
+o．05 ，”
+P < O．Ol com pa re d wit h con trol g roup ； P < o ．05 c om pare d wit h mode l g roup 
+表 3
+各组小 鼠水迷宫试验探查训练结果 
+T ab ．3 
+R esu l ts of w ater maz e exp lo ratio n train in g o f mice in  var iou s gro u ps 
+( ： 10 ， ± 5) 
+P <
+0．05 ， 
+P < 0．0 1 compa re d w it h cont rol g roup ；
+ 
+P < 0．05 ， 
+P <
+o．Ol c om pare d wit h model g roup 
+表 4
+各组小 鼠水迷宫试验对位训 练平 均逃 避潜伏期 
+T ab ．4 
+A ver ag e escap e laten cy  o f mice i n w ater maze 
+alignment t raining in various g roups 
+( 一 10 ，
+ 
+± s ，t／s) 
+G rou p 
+A v er ag e e sca pe 1a t enc y 
+(t／d) 
+1 
+2 
+P <
+0．05 c om par ed w it h co ntrol g roup ；
+ 
+P <
+0．05 compa red 
+w it h mode 1 g roup．
+ 
+在 对位探 查训 练 中 ，与 对照组 比较 ，模 型组小 
+鼠的跨 平 台次 数 明 显减 少
+( P < 0．01) 、小 鼠 60 S 
+内在平 台所 在象 限 t 的时 间 明显 延长
+(P < 0．05) 、 
+小 鼠 60 S 内 在 平 台 所 在 象 限 S 的 时 间 明 显 缩 短 
+(P < 0．01) 。与模 型组 比较 ， 中剂 量 人参 糖 蛋 白组 
+小 鼠跨平台次数 ( P < 0．05) ，与模型组 比较，高 
+剂量人参糖蛋 白组小 鼠 60 s 内在平 台所在象 限 S 
+的时 间明显延 长 ( P < O．01) 。见 表 5。 
+表 5
+各组小 鼠水迷宫试验对位探查训练 的结果 
+T ab．5 
+R esults of water maze alignment exploration training  of mice in various groups
+( 一10 ，
+ 
+± s，t／s) 
+P <
+O．05 ，“
+P <
+O．01 c ompa red w it h c ontr ol g rou p ；
+ P <
+O．05 ，
+ 
+P <
+O．01 compa red w it h m ode l g roup 
+444 
+吉林大学学报 ( 医学版) 
+第 42 卷
+第 3 期
+2016 年 5 月 
+2．2．2
+跳 台实 验结果 
+在 跳 台试 验 中 ，与 对照 组 
+比较 ，模 型组 小 鼠停 留在平 台上 的潜伏 期 明显缩 短 
+( P < o．05) ，小 鼠 3 min 内 的 错 误 次 数 明 显 增 加 
+(P < 0．05) 。与模 型 组 比较 ，阳性 药组 ，低 、 中和 
+高剂 量人参 糖 蛋 白组 小 鼠 3 min 内的错 误 次数 明显 
+减少
+(P < o．05) 。与 模 型 组 比较 ，阳 性 药 组 、 中 
+剂量 人参 糖蛋 白组 小 鼠停 留在 平 台上 的潜 伏期 明显 
+延长
+(P < O．05) 。见表 6。 
+表 6
+各组小 鼠跳 台试验结果 
+T ab ．6 
+R es u lt s o f st ep -do w n  tes t of m i ce i n v ario us g rou p s 
+( 一 10 ， ± s) 
+G roup 
+E 。。 p
+( f
+e
+／
+l
+s
+a
+)
+t  “  y 
+N “ m
+r
+b
+e
+e
+s
+r
+p 。
+o
+n
+f
+s
+w
+e 
+。“ g  
+C ont rol 
+135 ．O0 ± 17．96 
+M odel 
+55．57 ± 26．39 
+P osit iv e 
+129．36 士 29．92 
+／
+] P anax  ginseng gl y coprot ein 
+L OW 
+111．89 士 25．07 
+M iddle 
+l 28．50 ± 21．89 
+H ig h 
+90．25 士 26．61 
+0 ．7 7 ±
+0 ．2 8 
+2 ．1 4 ± 0 ．4 5 
+0．69± 0 ．3 3 
+0．88 土 0．26 
+0 ．5 0 ± 0 ．2 2 
+0．88±
+0．29 
+P <
+0 ．0 5 co m par ed w it h con t rol g roup ；
+ 
+P <
+0 ．0 5 c om pare d 
+w it h m ode l g roup．
+ 
+3
+讨
+论 
+本 研究 结 果 表 明 ：人 参 水 提 物 中的糖 蛋 白组 
+分具 有增 强学 习记忆 的作 用 ，且显示 出 良好 的量效 
+关 系 。这 一结果 证 明 ：人 参所 具有增 强 学 习记 忆作 
+用 的活性 物质 非仅皂 苷类 成分 ，尽 管关 于人参 总皂 
+苷 或单 体皂 苷增 强学 习记忆 方 面 的研 究 已有大量 报 
+道 ，但通过对文 献[1 札 。 结果 系统分析得 出：人 
+参单体皂苷或总皂苷的有效剂量如折算到人参药材 
+的 日用 量 ，其服 用剂 量应达 到 50~ 400 g · d 
+方 可 
+显示 功效 ，赵莹 等[1 发 现 ：给 予大 鼠人 参单体 皂 苷 
+Re 12．5 mg · kg-1时具有提高学习和记忆能力的作用 ，
+ 
+换算为人用人参药材为每 日36．2 g · 60 kg～。陈新梅 
+等 [2 研 究 发 现 ：使 用 人 参 皂 苷
+R gl
+脂 质 体 
+20 mg · k g 
+时 ，对 东莨 菪碱 诱 导 的大 鼠学 习 和记 
+忆 障碍具有 改 善作用 ，换 算为 人用人 参药 材为 每 日 
+56．4 g · 60 kg_ 。。王 晓英 等[3] 发 现 ：使 用 人 参 皂 
+苷 R gl 10 nag · kg 
+时 ，对 8 淀 粉样 蛋 白造 模 的小 
+鼠学习和记忆损伤具有明显的治疗作用 ，换算为人 
+用 人参 药材 为 每 日 19．8 g · 60 kg_ 。。上 述 结 果 均 
+超 出国家药典和保健食品所规定 的法定用量。本研 
+究 结果 表 明 ：如 以人 参糖蛋 白作 为活 性物 质 ，其 增 
+强 学 习和记 忆能 力 的有效 剂量折 算到 人参 药材 的 日 
+用量 为 3～6 g · d 
+即可 显示 出明显 的作 用 ，表 明 
+人参 水提 物 中糖 及复 合物具 有很 多 的生 物活性 ，人 
+参糖 蛋 白组 分也 是增 强学 习和记忆 能力 的活性 成分 
+之一 。本研 究结 果为 人参作 用机 制方面 的深入 探讨 
+提供 了科学 依据 ，同时为拓 宽人参 用途 、促进 人参 
+产 业链 的健 康发展 奠定 了基础 。 
+[ 参考文献] 
+[ 1]
+赵
+莹 ，刘 金平 ，卢 
+丹 ，等．人 参皂苷 R e 促进 自然 衰老 
+大 鼠学习记忆作用及 其机理 的研究
+I- J] ．中药新药 与临床药 
+理 ，2007 ，18
+( 1) ：20—22． 
+E2]
+陈新梅 ，朱家壁．人参皂苷 Rgl 脂质体对东莨菪碱诱 导大 鼠 
+学习记忆 障碍 的改善及其作用 机制 EJ ] ．中 国临床 药理学与 
+治 疗 学 ，200 5， 10 (8) ：898—902．
+ 
+[ 33
+王晓英 ，陈
+霁 ，张均 田．人参皂苷 Rg l 对 B 淀粉样肽 (25 
+35) 侧 脑室注 射 所 致 小 鼠学 习记 忆 障 碍 的改 善 作 用 及 其 
+机制 EJ ] ．药学学报 ，2001，36 ( 1) ：1-4．
+ 
+[-43
+张 
+晶，王 世荣 ，陈全 成 ，等．人 参 皂 苷 Rg3 ( R ) ，Rg 3 
+(S ) ，Rg5／R kl 对乙醇致小 鼠记忆 阻碍 改善作用 的影 响 [ J ] ． 
+吉林农业大学学报 ，2006，2 8 (3 ) ：283—284．
+ 
+r-s3 
+S heng C ，Peng 
+W ， X ia 
+ZA ， et 
+a1． T he 
+impact 
+of 
+g ins enoside s 
+on 
+cog ni tiv e 
+def ici ts 
+in 
+e x peri m ent al 
+a nim a l 
+studies of A lzheimeCs di sease ：a systematic review 口] ．BMC 
+C ompl eme nt A lt e rna t M e d， 20 15 ， 15 ： 386．
+ 
+[ 6]
+L i u J ，Y an X ，L i L ，et a1．Ginsenoside Rd improves learni ng 
+and memory ability in A PP transgenic mice [ J ] ． J Mol 
+N e urosci ， 2 0 15 ， 5 7
+( 4 ) ： 5 22 —5 2 8 ．
+ 
+[ 73
+胡胜全 ，余惠曼 ，刘塔斯 ，等．人参水 提物对 B 淀 粉样蛋 白 
+诱导 SH—S Y 5Y 细胞 凋亡 的保 护作 用 [ J ] ． 时珍 国 医 国药 ，
+ 
+2009 ， 20
+( 2) ： 257- 259．
+ 
+r 8]
+H i roaki K ， H isao 
+N ， T er uko 
+U ， et 
+a1．
+ 
+E ffects 
+of 
+nonsa ponin fr act ion of red g ins eng  on le a rning def icit s in ag ed 
+rats [ J ]．Physiol Behavior ，2004，82 (2／3) ：345—355．
+ 
+[ 93
+王盛民，张
+瑛 ，孟建 国，等．膨化 加工对人参 改善小 鼠学 
+习记忆 能 力 的影 响
+[ J ] ． 陕西 中医 ，2006，27 ( 6) ：732— 
+7 3 4 ．
+ 
+[ 103 张伟杰 ，王 
+鹏 ，林 
+茜 ，等． 3 种 中 药 多 糖 的 提 取 
+工艺 EJ ] ．中国实验方剂学杂志 ，2011，17 (16) ：19—23．
+ 
+[ 1 1]
+Nelly BK ，Gustar 
+A H ．
+ 
+New 
+Method 
+for 
+quantitative 
+determination of uronc acid
+[ J ] ． A nal Biochem， 1973，
+ 
+54
+( 2) ： 484—487．
+ 
+[ x23 李建武 ，萧 能 赓 ，余 瑞 元 ， 等． 生 物 化 学 实 验 原 理 
+方法 [ M3．北京 ：北京大学 出版社 ，1994． 
+[ 13]
+王
+颖 ，高其品 ，李桂 荣，等．人参糖 肽 PG—g 的分离纯 化 
+与结 构 分 析
+[ J ] ．天 然 产 物 研 究 与 开发 ，2010 ，22 ( 6) ：
+ 
+1 O5 3—10 5 6 ．
+ 
+[ 143 杨兴斌 ，赵
+燕 ，周 四元 ，等．柱前衍 生化 高效液相色谱 法 
+分析当归多糖 的单糖 组成
+[J ] ．分析 化学 ，2005，33 ( 9) ：
+ 
+1 2 8 7—12 9 O．
+ 
+E153 Wang H ，w ei G， u u F ，et a1． Characterization of Two 
+H omogalact uronan P ectins with Immunomodulat ory  A ctivit y f rom 
+罗浩铭 ，等 ．
+ 
+人 参糖 蛋 白对小 鼠学习和记忆能力 的影响 
+445 
+Green Tea EJ} ．Int J Mol Sci，2014，15 (6) ：9963—9978．
+ 
+[ 16]
+訾
+艳 ，王常青 ，党彦飞 ，等． 白芸豆球蛋 白的提取及 其氨 
+基酸组成研究
+EJ ] ．天然 产 物研究 与 开发 ，2014 ，26 ( 8) ：
+ 
+1 2 6 7 —1 2 7 1． 
+[ 17]
+Sloley BD ，Pang PK ，Huang BH ，et a1． A merican ginseng 
+ex t ra ct  red uce s 
+scopola mine indu ced am nes ia in a spa t ial 
+lear ning task [ J 1．J Psy Chiatry Neurosci ，1999，24 ( 5) ：
+ 
+4 4 2 —4 5 2． 
+[ 18]
+Whishaw IQ．F ormation of a place learning set by the rat ：A 
+new paradigm for neurobehavi or al studies EJ] ．Physiol Behav ，
+ 
+1985 ， 35
+( 1) ： 139- 143．
+ 
+[ 19]
+罗晓清，杨化新 ，杨洪淼 ，等．尖吻蝮蛇 降纤酶寡糖 链的 甲 
+基化分析 EJ ] ．药物分 析杂志 ，2010，30 ( 3) ：357—360 
+C2o]
+赵雅 宁，刘文倩 ，牛 
+静 ，等．参 芎化瘀 胶囊 通过 V E GF ／ 
+Notch 1 信号通路 改善 大鼠缺血性 脑卒 中损伤 EJ] ． 西安交 
+通大学学报 ：医学版 ，2014，35 ( 6) ：843—847． 
+[ 21]
+王淑秀，常海敏 ，朱丰霞 ，等．人参皂苷 R gl 对帕金森病小 
+鼠黑质 多巴胺 能神 经元凋亡 及 E phB1 、T H 、P—c-J un 蛋 白表 
+达 的影 响 [ J ] ．郑 州 大 学 学 报 ：医 学 版 ，20 15 。50 ( 2 ) ：
+ 
+1 76 1 8 0 ．
+ 

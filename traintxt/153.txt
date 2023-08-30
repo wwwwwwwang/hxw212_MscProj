@@ -1,0 +1,395 @@
+人参皂苷减轻结肠癌化疗副反应机制的研究进展
+王启龙
+1，张春泽
+2* ，张伟华
+2
+( 1． 天津中医药大学，天津
+300049; 2． 天津市人民医院，天津
+300121)
+摘
+要: 人参被列为上品药物，具有保护心脑血管、神经系统及肝功能等广泛的药理作用，并有明显的抗
+肿瘤、协同化疗作用及减轻化疗副反应的作用。结肠癌是常见的消化系统恶性肿瘤之一，目前临床上对
+结肠癌的治疗常以手术、化疗以及中药辅助化疗的方法，部分患者常因不能耐受化疗副反应而终止药物
+化疗，导致患者生存质量普遍下降。最新研究表明，化疗药物可通过半胱氨酸天冬氨酸蛋白酶和
+gasdermin E介导正常细胞的焦亡产生相关毒副作用。查阅国内外人参皂苷药理作用的相关研究资料，
+并进行分析、综述，发现人参皂苷能抑制细胞焦亡、减轻结肠癌化疗副反应。
+关键词: 人参皂苷; 化疗副反应; 结肠癌; 细胞焦亡; 细胞凋亡; 半胱氨酸天冬氨酸蛋白酶
+中图分类号: Ｒ285． 6
+文献标识码: A
+文章编号: 1002 － 2406( 2019) 05 － 0128 － 04
+doi: 10． 19656 /j． cnki． 1002 － 2406． 190161
+基金项目: 国家重点实验室开放研究课题( No． 2018094) ; 天津市卫生计
+生委、天津市中医药管理局重点项目( No． 2017057) ; 天津市
+卫生健康委员会项目( No． 2014KZ053)
+作者简介: 王启龙( 1989 － ) ，男，住院医师，主要研究方向: 中西医结合
+临床。
+通讯作者: 张春泽* ( 1980 － ) ，男，副主任医师，主要研究方向: 中西医
+结合临床。
+收稿日期: 2019 － 04 － 10
+修回日期: 2019 － 04 － 25
+Ｒesearch Progress on the Mechanism of Ginsenoside in Alleviating Side
+Effects of Chemotherapy in Colon Cancer
+WANG Qilong
+1，ZHANG Chunze
+2* ，ZHANG Weihua
+2
+( 1． Tianjin University of Traditional Chinese Medicine，Tianjin 300049，China;
+2． Tianjin People＇s Hospital，Tianjin 300121，China)
+Abstract: Ginseng is listed as a top － grade herb in TCM． It has a wide range of pharmacological effects，such
+as protecting cardiovascular and cerebrovascular system，nervous system and liver function，it also has obvious
+anti － tumor and synergistic effects of chemotherapy and can alleviate side effects of chemotherapy． Colon
+cancer is one of the most common malignant tumors of digestive system． At present，the treatment of colon
+cancer is usually treated with surgery，chemotherapy and TCM adjuvant chemotherapy． Some patients often
+terminate the chemotherapy because of the intolerant side effects of chemotherapy，resulting in a general
+decline in the life quality． Ｒecent studies have shown that chemotherapeutic drugs can mediate the pyroptosis
+of normal cells by cysteine aspartate protease and gasdermin E to produce related toxic and side effects． The
+pharmacological effects of ginsenosides at home and abroad were reviewed and analyzed to provide a scientific
+reference for ginsenosides to inhibit pyroptosis and alleviate the side effects of chemotherapy in colon cancer．
+Key words: Ginsenoside; Side effects of chemotherapy; Colon cancer; Pyroptosis; Apoptosis; Cysteine aspar-
+tate protease
+结肠癌是常见的消化系统恶性肿瘤之一，发病率
+位于胃肠道肿瘤的第 3 位。我国结肠癌发病率呈逐年
+上升趋势，严重危害了人们的生命健康。目前临床上
+对结肠癌的治疗常以手术、化疗以及中药辅助化疗的
+方法。化疗是目前治疗癌症最有效的手段之一，但是许
+多化疗药物对正常组织具有严重细胞毒性和刺激性，最
+新研究表明，肿瘤患者化疗过程中的毒副作用主要是化
+疗药物通过半胱氨酸天冬氨酸蛋白酶( Caspase －3) 和
+gasdermin E( GSDME) 介导正常细胞的焦亡过程实现
+·128·
+中医药信息( Information on Traditional Chinese Medicine)
+http: / /zyyxx． hljucm． net/ch/index． aspx
+2019 年 9 月第 36 卷第 5 期
+Vol. 36，No. 5，Sep． 2019
+
+的
+［1］。但是大部分化疗的不良反应和毒副作用是可
+逆的，通过使用一些人参皂苷类药物可以控制或者减
+轻化疗的毒副作用。目前人参皂苷的药理活性备受关
+注，本文将对细胞焦亡机制和人参皂苷的药理作用机
+制进行综述。
+1
+细胞焦亡
+细胞焦亡是近年来新发现的一种有别于凋亡和坏
+死的具有促炎作用的细胞死亡方式，细胞凋亡涉及一
+系列基因的激活、表达以及调控等的作用，并不是病理
+条件下，自体损伤的一种现象，而是为更好地适应生存
+环境而主动争取的一种死亡过程; 而细胞焦亡是一种
+程序性细胞死亡
+［2］，可激活强烈的炎症反应，在炎性
+反应与免疫防御方面起到重要的作用。
+1． 1
+细胞焦亡特性
+发生焦亡的细胞会出现细胞核浓缩、染色质 DNA
+断裂、TUNEL 染色阳性、Annexin V 染色阳性。炎症性
+Caspase 是天然免疫防御的关键。Caspase 过度活化能
+导致许多自身炎症、自身免疫甚至代谢疾病
+［3］。
+1． 2
+GSDMD
+研究发 现 的 GSDMD，可 由 经 典 炎 性 通 路 激 活
+Caspase，诱 导 细 胞 焦 亡 的 进 行。 Gasdermin
+D
+( GSDMD) 作为 gasdermin 蛋白家族的一员，与之家族
+其他 蛋 白 之 间 有 大 约 45% 的 同 源 性，如 GSDMA，
+GSDMB，GSDMC，DFNA5 等。被炎性 Caspase 切割后，
+Gasdermin 蛋白家族可裂解出现 Gasdermin － N 与 Gas-
+dermin － C 两个具有活性的结构域。其 N 端结构可直
+接诱导细胞焦亡的产生。Sborgi 等证实了Gasdermin －
+N 在细胞焦亡过程中具有不可替代的作用
+［4］，同期研
+究观察到 GSDMD － N 端结构域能靶向结合人工生物
+膜，导致细胞膜穿孔诱发焦亡的产生
+［5 － 6］。
+1． 3
+GSDME
+实验研究中最早被命名为 DFNA5 的 GSDME 是
+属于 GSDMD 的 Gasdermin 家族一员，参与诱导细胞死
+亡，并被认为是肿瘤抑制因子
+［7 － 9］，在炎性 Caspase 的
+切割下可诱导细胞焦亡的产生。Caspase － 3 可以特异
+性的切割与 GSDME 相关的蛋白，产生的 DFNA5 － N
+片段以质膜为靶点，可以在质膜上形成众多平均直径
+为 21nm 的孔，使细胞膜失去完整性，导致细胞膜失去
+调控物质进出的能力，同时白细胞介素 － 1β( IL － 1β)
+可以顺利通过这些孔隙，诱发炎症反应、募集更多的炎
+症细胞，扩大炎症反应
+［10 － 11］。
+值得注意的是，GSMDE 在大多数癌症细胞中是极
+低表达的，而在正常组织细胞中可以正常表达
+［12 － 13］，
+所以化疗药物不仅仅可以灭杀癌细胞，也可以通过
+Caspase － 3 和 GSDME 介导正常细胞的焦亡产生，从
+而使患者出现化疗药物的毒副作用，导致患者生存质
+量普遍下降，甚至因不能耐受而被迫中止化疗药物
+治疗。
+史氏等使用细胞焦亡模型 iBMDMs 细胞敲出了
+GSDMD 后，发现阻断了 LFn － BsaK 诱导的细胞焦亡，
+而同时当恢复 GSDMD 表达时，LFn － BsaK 诱导的细
+胞焦亡形式出现，而且当敲除 GSDMD 后，用 LFn － Flic
+诱导细胞焦亡，没有发生焦亡的情况，尤其是使用
+NAIP5 – NLＲC4 经典炎性通路的情况下。同时实验
+发现，GSDMD 可以控制白细胞介素 － 1β( IL － 1β) 的
+释放，在敲除 Gsdmd 之后，在各种诱导凋亡的途径中，
+IL － 1β 的释放都是减少的
+［14］。因此减少肿瘤患者化
+疗过程中正常细胞焦亡的发生，从而减轻化疗过程中
+的毒副作用，对于肿瘤患者的治疗具有重要意义
+［15］。
+2
+人参皂苷的药理作用
+中国 4 000 年前就有记载: “人参，味甘微寒，主补
+五脏，安精神，定魂魄，止惊悸，除邪气，明目，开心益
+智。久服，轻 身 延 年。一 名 人 衔，一 名 鬼 盖。生 山
+谷。”人参和西洋参中提取出的人参皂苷类成分，具有
+广泛药理作用，如抗炎、抗瘤、抗氧化、抗细胞凋亡及免
+疫调节等，也是许多中药方剂及中成药中重要的起效
+成分。人参皂苷 Ｒg3 和 Ｒh2 是具有显著抗癌效果的
+人参提取物，并且人参皂苷 Ｒg3、Ｒh4、C － K、Ｒb1、Ｒb2
+及 TGCG 等也表现出一定的抗癌效应。
+2． 1
+保护心脑血管作用
+研究发现，人参皂苷 Ｒh3 预处理可下调缺血再灌
+注损伤大鼠心肌 Caspase － 3 的表达，抑制心肌细胞凋
+亡，保护心肌细胞，进而减轻缺血再灌注的损伤
+［16］。
+与此同时人参皂苷 Ｒd 能通过降低胆固醇的累积并抑
+制低密度脂蛋白的氧化活动来预防动脉粥样硬化的
+发生
+［17］。
+2． 2
+保护神经系统
+Ｒg1 可以能减少神经纤维缠结的形成，抑制凋亡
+效应蛋白 Caspase － 3 的表达，保护神经细胞，抵抗阿
+尔茨海默病进展
+［18］。β － 淀粉样蛋白( Aβ) 肽的升高
+是阿 尔 茨 海 默 病 的 一 种 病 理 体 现，经 Ｒg1 处 理 的
+N2a － APP695 细胞能明显减轻 Aβ 的产生
+［19］。另有
+相关研究实验报道，对神经挤压损伤的大鼠模型应用
+Ｒg1 可促进其神经末梢的修复
+［20］。
+2． 3
+保护肝功能
+预防性应用 Ｒg1 于四氯化碳( CCL4) 诱导的肝衰
+·129·
+2019 年 9 月第 36 卷第 5 期
+Vol. 36，No. 5，Sep． 2019
+中医药信息( Information on Traditional Chinese Medicine)
+http: / /zyyxx． hljucm． net/ch/index． aspx
+
+竭小鼠模型中，可抑制急性肝衰竭所致的炎性反应，并
+通过抑制 Caspase － 3 及 Caspase － 8 等多种靶点，减轻
+肝细胞凋亡通路激活所致的细胞坏死。同时，人参皂
+苷 CK 可减轻 CCL4 致大鼠慢性肝损伤的程度，保护肝
+细胞
+［21 － 22］。
+2． 4
+抗肿瘤作用
+2． 4． 1
+抑制结肠癌细胞增殖
+大多数结直肠癌是由 Wnt/β － catenin 信号通路
+的异常激活引起的，在结肠癌细胞系 HCT116 异种移
+植瘤模型中，He 等
+［23］通过实验验证了 Ｒg3 能有效抑
+制结肠癌细胞增殖，并提出 Ｒg3 阻断了 Wnt/β － cate-
+nin 信号通路机制，提供了新的治疗方案和方向。目前
+抗血管生已成功用于结直肠癌的治疗之中，人参皂苷
+Ｒg3 无论在体外还是在体内实验都能抑制结直肠癌细
+胞的生长，并下调血管生成相关基因的表达程度，抑制
+了结直肠癌血管化，此外 Ｒg3 还增强了 5 － 氟尿嘧啶
+和奥 沙 利 铂 对 于 肿 瘤 细 胞 的 毒 性
+［24］。同 时 Yang
+等
+［25］发现，Ｒg3 可通过抑制 C /EBPβ 和 NF － κB 信号
+传导，展现强烈的细胞增殖抑制作用; 腹腔注射 ＲG3
+3 周可 显 著 抑 制 裸 鼠移 植 肿 瘤 的 生 长。人 参 皂 苷
+ＲGh2 也能有效抑制结肠癌细胞的增殖，并通过与
+HCT116 结直肠癌高表达的 PDZ 结合激酶/T － LAK 细
+胞源性蛋白激酶( PBK/TOPK) 直接结合，抑制 PBK/
+TOPK 活性，诱导 HCT116 结直肠癌细胞的死亡
+［26］。
+2． 4． 2
+阻止结肠癌细胞周期
+人参总皂苷( TGCG) 对 HT － 29 细胞的增殖具有
+剂量依赖性抑制作用，TGCG 在 G0 /G1 和 G2 /M 阶段
+诱导细胞周期停滞，并通过 C － Myc 和 p53 介导的信
+号通路诱导 HT － 29 细胞凋亡
+［27］。人参皂苷 Ｒb1 的
+肠道微生物代谢产物———人参皂苷化合物 K( C － K) ，
+可以以剂量和时间依赖性的方式显著抑制人结直肠癌
+细胞株 HCT － 116、SW － 480 和 HT － 29 的增殖，同时
+观察到C － K在 G1 期抑制了细胞，并显著诱导了细胞
+凋亡
+［28 － 29］。
+2． 4． 3
+诱导结肠癌细胞凋亡
+Wu 等
+［30］在结直肠癌细胞异种移植瘤模型实验中
+发现，Ｒh4 对肿瘤生长有明显的抑制作用，将结肠癌细
+胞周期阻断于 G0 /G1 期、并诱导 Caspase 依赖性细胞
+凋亡和自噬，有效抑制了结直肠癌细胞的增殖，并且对
+正常结肠上皮细胞无明显的细胞毒性。Ｒh2 处理
+HCT116 和 SW480 结直肠癌细胞可激活 p53 通路，显
+著提高促凋亡调节因子 Bax 的水平，同时降低抗凋亡
+调节因子 Bcl － 2 的水平，诱导细胞的凋亡
+［31］。与此
+同时 Ｒg3 也能通过上调细胞凋亡相关蛋白 p53、Bax 和
+Caspase － 3 的表达，加速癌症细胞的死亡
+［32］。
+2． 4． 4
+诱导结肠癌细胞自噬
+研究报道，C － K 不仅能诱导结肠癌细胞的凋亡，
+还可以通过激活性氧物种 c － jun NH2 末端激酶途径
+介导癌症细胞的自噬
+［33］，随之产生的自噬体将逐步损
+毁细胞核。在新近的实验研究中，WU 等首次证实
+Ｒh4 可通过激活结直肠癌细胞中的 ＲOS /JNK/P53 途
+径引发细胞的自噬和凋亡。
+3
+展望
+我国科研人员对于人参皂苷的药理活性已有较深
+刻的理解，并可以从分子水平阐述人参皂苷药理的机
+制，尤其是人参皂苷通过抑制结肠癌细胞增殖、阻滞细
+胞周期、诱导细胞凋亡、诱导细胞自噬等方式体现抗肿
+瘤的作用，同时证实与化疗药物联合应用，能降低化疗
+药物的毒副作用并增强抗癌作用。
+随着细胞焦亡的理论被逐步认知，最近研究为我
+们揭示了化疗药物通过激活 Caspase － 3 通路诱导正
+常细胞焦亡的机制。相关实验研究表明，人参皂苷类
+药物能下调正常组织在异常及应激状态下 Caspase － 3
+的表达，从而保护各脏器组织; 相反的人参皂苷类药物
+能上调癌细胞中 Caspase － 3 的表达，进而介导细胞凋
+亡及焦亡的产生，加强药物抗癌作用。
+值得注意的是，GSDME 作为 Caspase 介导的细胞
+焦亡的关键底物蛋白，在其下游起着不可替代的作用，
+并广泛表达于正常组织中。但是目前国内现鲜有实验
+研究报道人参皂苷类药物抑制化疗药物所介导正常细
+胞焦亡的机制，因此探索抑制细胞焦亡的机制并寻找
+小分子化合物抑制 GSDME 介导正常细胞的焦亡过
+程，为减轻化疗药物的毒副作用提供理论基础，具有巨
+大的临床应用价值。
+参考文献:
+［1］
+ZHANG X X，ZHANG H B． Chemotherapy drugs induce pyroptosis
+through Caspase － 3 － dependent cleavage of GSDME［J］． Science
+China Life Sciences，2018，61( 6) : 739 － 740．
+［2］
+WALLACH D，KANG T B，DILLON C P，et al． Programmed necrosis
+in inflammation: toward identification of the effector molecules［J］．
+Science，2016，352( 6281) : aaf2154．
+［3］
+SHI J J，ZHAO Y，WANG Y P，et al． Inflammatory Caspases are innate
+immune receptors for intracellular LPS ［J］． Nature，2014，514
+( 7521) : 187 － 192．
+［4］
+SBOＲGI L，PIPEＲCEVIC J，MULVIHILL E，et al． GSDMD membrane
+pore formation constitutes the mechanism of pyroptotic cell death［J］．
+The EMBO journal，2016，35( 16) : 1766 － 1778．
+［5］
+DING J，WANG K，LIU W，et al． Pore － forming activity and struc －
+·130·
+中医药信息( Information on Traditional Chinese Medicine)
+http: / /zyyxx． hljucm． net/ch/index． aspx
+2019 年 9 月第 36 卷第 5 期
+Vol. 36，No. 5，Sep． 2019
+
+tural autoinhibition of the gasdermin family［J］． Nature，2016，535
+( 7610) : 111 － 116．
+［6］
+AGLIETTI Ｒ A，ESTEVEZ A，GUPTA A，et al． GsdmD p30 elicited
+by Caspase － 11 during pyroptosis forms pores in membranes［J］．
+Proceedings of the National Academy of Sciences of the United States
+of America，2016，113( 28) : 7858 － 7863．
+［7］
+TAMUＲA M，TANAKA S，FUJII T，et al． Members of a novel gene
+family，Gsdm，are expressed exclusively in the epithelium of the skin
+and gastrointestinal tract in a highly tissue － specific manner［J］．
+Genomics，2007，89( 5) : 618 － 629．
+［8］
+OP DE BEECK K，VAN CAMP G，THYS S，et al． The DFNA5 gene，
+responsible for hearing loss and involved in cancer，encodes a novel
+apoptosis － inducing protein［J］European journal of human genetics:
+E J H G，2011，19( 9) : 965 － 973．
+［9］
+VAN ＲOSSOM S，OP DE BEECK K，FＲANSSENS V，et al． The spli-
+cing mutant of the human tumor suppressor protein DFNA5 induces
+programmed cell death when expressed in the yeast Saccharomyces
+cerevisiae［J］． Frontiers in Oncology，2012，2: 77．
+［10］ SBOＲGI L，PIPEＲCEVIC J，MULVIHILL E，et al． GSDMD membrane
+pore formation constitutes the mechanism of pyroptotic cell death［J］．
+The EMBO journal，2016，35( 16) : 1766 － 1778．
+［11］ LIU X，ZHANG Z，ＲUAN J，et al． Inflammasome － activated gasdermin
+D causes pyroptosis by forming membrane pores［J］． Nature，2016
+( 7610) ，535: 153 － 158．
+［12］ VAN LAEＲ L，HUIZING E H，VEＲSTＲEKEN M，et al． Nonsyndromic
+hearing impairment is associated with a mutation in DFNA5［J］．
+Nature genetics，1998，20( 2) : 194 － 197．
+［13］ AKINO K，TOYOTA M，SUZUKI H，et al． Identification of DFNA5 as
+a target of epigenetic inactivation in gastric cancer ［J］． Cancer
+science，2007，98( 1) : 88 － 95．
+［14］ SHI J，ZHAO Y，SHAO F，et al． Cleavage of GSDMD by inflammatory
+Caspases determines pyroptotic cell death［J］． Nature，2015，526
+( 7575) : 660 － 665．
+［15］ SAＲOSIEK K． Chemotherapy － treated cells go up in flames［J］．
+Science translational medicine，2017，9( 390) : pii: eaan4289．
+［16］ 王俊东，崔勇，王建国，等． 人参皂苷 Ｒh3 预处理对大鼠心肌缺血
+再灌注损伤大鼠心肌组织中 Caspase － 3 的作用［J］． 长春中医药
+大学学报，2017，33( 1) : 13 － 15．
+［17］ LI J，XIE Z Z，TANG Y B，et al． Ginsenoside － Ｒd，a purified compo-
+nent from panax notoginseng saponins，prevents atherosclerosis in apoE
+knockout mice［J］． European journal of pharmacology，2011，652( 1 －
+3) : 104 － 110．
+［18］ 李玺，刘颖，袁海峰，等． 人参皂苷 Ｒg1 对冈田酸所致大鼠脑片 tau
+蛋白磷酸化的影响［J］． 中西医结合学报，2010，8( 10) : 955 － 960．
+［19］ CHEN L M，LIN Z Y，ZHU Y G，et al． Ginsenoside Ｒg1 attenuates
+β － amyloid generation via suppressing PPAＲγ － regulated BACE1
+activity in N2a － APP695 cells［J］． European journal of pharmacolo-
+gy，2012，675( 1 － 3) : 15 － 21．
+［20］ MA J X，LI W X，TIAN Ｒ F，et al． Ginsenoside Ｒg1 promotes periph-
+eral nerve regeneration in rat model of nerve crush injury［J］． Neuro-
+science letters，2010，478( 2) : 66 － 71．
+［21］ 罗欢． 人参皂苷 Ｒg1 对四氯化碳所致小鼠急性肝衰竭模型作用机
+制研究［D］． 重庆: 重庆医科大学，2017．
+［22］ 张雷明，傅风华，王天，等． 人参皂苷 CK 对四氯化碳致大鼠慢性
+肝损伤的影响［J］． 时珍国医国药，2006，17( 1) : 38 － 39．
+［23］ HE B C，GAO J L，LUO X，et al． Ginsenoside Ｒg3 inhibits colorectal
+tumor growth through the down － regulation of Wnt/β － catenin signa-
+ling［J］． International journal of oncology，2011，38( 2) : 437 － 445．
+［24］ TANG Y C，YANG Y，ZHUO J，et al． Ginsenoside Ｒg3 targets cancer
+stem cells and tumor angiogenesis to inhibit colorectal cancer progres-
+sion in vivo［J］． International journal of oncology，2018，52( 1) : 127 －
+138．
+［25］ YANG X，ZOU J，CAI H，et al． Ginsenoside Ｒg3 inhibits colorectal tumor
+growth via down － regulation of C/EBPβ/NF － κB signaling［J］．
+Biomedicine ＆ pharmacotherapy = Biome decine ＆ pharmacothe ra-
+pie，2017，96: 1240 － 1245．
+［26］ YANG J，YUAN D，XING T，et al． Ginsenoside Ｒh2 inhibiting HCT116
+colon cancer cell proliferation through blocking PDZ － binding kinase/
+T － LAK cell － originated protein kinase［J］． Journal of ginseng
+research，2016，40( 4) : 400 － 408．
+［27］ LI T，SUN W，DING X，et al． Total ginsenosides of Chinese ginseng
+induces cell cycle arrest and apoptosis in colorectal carcinoma HT － 29
+cells［J］． Oncology Letters，2018，16( 4) : 4640 － 4648．
+［28］ ZHANG Z，DU G J，WANG C Z，et al． Compound K，a Ginsenoside
+Metabolite，Inhibits Colon Cancer Growth via Multiple Pathways
+Including p53 － p21 Interactions［J］． International journal of molecu-
+lar sciences，2013，14( 2) : 2980 － 2995．
+［29］ WANG C Z，DU G J，ZHANG Z，et al． Ginsenoside compound K，not
+Ｒb1，possesses potential chemopreventive activities in human colorec-
+tal cancer［J］． International Journal of Oncology，2012，40 ( 6 ) :
+1970 － 1976．
+［30］ WU Q，DENG J，FAN D，et al． Ginsenoside Ｒh4 induces apoptosis and
+autophagic cell death through activation of the ＲOS/JNK/p53 pathway
+in colorectal cancer cells［J］． Biochemical pharmacology，2018，148:
+64 － 74．
+［31］ LI B H，ZHAO J，WANG C Z，et al． Ginsenoside Ｒh2 induces apopto-
+sis and paraptosis － like cell death in colorectal cancer cellsthrough
+activation of p53［J］． Cancer letters，2011，301( 2) : 185 － 192．
+［32］ LI J，QI Y． Ginsenoside Ｒg3 inhibits cell growth，migration and inva-
+sion in Caco － 2 cells by downregulation of lncＲNA CCAT1［J］．
+Experimental and Molecular Pathology，2019，106: 131 － 138．
+［33］ CHEN L，MENG Y，SUN Q，et al． Ginsenoside compound K sensitizes
+human colon cancer cells to TＲAIL － induced apoptosis via autophagy-
+dependent and － independent DＲ5 upregulation［J］． Cell death ＆
+disease，2016，7( 8) : e2334．

@@ -1,0 +1,914 @@
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+人参皂苷F2通过P l 3K／Akt 途径改善3T3- L1脂肪细
+胞胰岛素抵抗
+韩胜强1。2，谢元1。2，李甫3，胡烨烨2，周静1。2，胡卫成‘ 。2，张迹‘ 。2+
+( 1．新疆农业大学食品科学与药学学院，新疆乌鲁木齐830052) ( 2．淮阴师范学院江苏省高校区域现代农业与环
+境保护协同创新中心，江苏淮安223300) ( 3．中国科学院成都生物研究所，四川成都6i 0041)
+摘要：该研究探讨了人参皂苷F2对3T3一L1脂肪细胞胰岛素抵抗的影响及其机制。将3T3一L1前脂肪细胞诱导分化成熟后，用1
+pmoVL地塞米松处理48 h，建立胰岛素抵抗模型。用10 pmol ／L的罗格列酮( 阳性对照) 和25、50、100 wnol ／L人参皂苷F2处理胰
+岛素抵抗细胞12 h，检测细胞对2- NBDG的摄取。实验结束后用RT- qPCR检测各组细胞中葡萄糖转运蛋白4( GLUT- 4) 和胰岛素底
+物受体1( I RS一1) mRNA相对表达量，并利用West ern bl ot 检测P13K／Akt 信号通路中蛋白表达及其磷酸化水平。结果表明：与模型
+组相比，25、50、100 pmoFL人参皂苷F2均能促进胰岛素抵抗3T3一L1脂肪细胞对2- NBDG的摄取，分别增加了12．58％、29．07％和
+34．62％( p<0．05) ；人参皂苷F2作用12 h后，GLUT- 4和I RS一1 mRNA相对表达量以及P13K、Akt 的磷酸化水平显著提高( p<0．01) 。
+该研究表明人参皂苷F2可通过促进胰岛素抵抗3T3一L1脂肪细胞中GLUT- 4和I RS—l mRNA相对表达，增加P13K和Akt 蛋白磷酸化，
+从而激活P13K／Akt 信号通路，改善其糖代谢和胰岛素抵抗。
+关键词：人参皂苷F2；3T3一L1脂肪细胞；P13K／Akt 信号通路；胰岛素抵抗
+文章篇号：1673—9078( 2022) 05—8—15
+DOI：10．13982／j ．mf st．1673—9078．2022．5．0789
+Gi nsenosi de F2 I mproves I nsul i n Resi st ant i n 3T3- L1 Adi pocyt es vi a t he
+P13K／Akt Si gnal i ng Pat hway
+HANShengqi angL2，XI E Yuanl P，LI Fu3，HUYeye2，ZHOUJ i n91P，HUWei chen91P，ZHANG J i l ，2。
+( 1．Col l ege of Food Sci ence and Pharmacol ogy, Xi nj i ang Agri cul t ural Uni versi t y, Urumqi 830052，Chi na)
+f 2．J i angsu Col l aborat i ve I nnovat i on Cent er of Regi onal ModemAgri cul t ure&Envi ronment al Prot ect i on，Huai yi n Normal
+Uni versi t y, Huai an 223300，Chi na)
+( 3．Chengdu I nst i t ut e of Bi ol ogy, Chi neseAcademy of Sci ences，Chengdu 610041，Chi na)
+Abst ract ：I n t hi s st udy, t he ef f ect of gi nsenosi de F2( GF2) on i nsul i n resi st ance i n 3T3一L 1 adi pocyt es and t he underl yi ng mechani sms
+were i nvest i gat ed．Af t er 3T3一L1 preadi pocyt es were i nduced t o di f f erent i at e and mat ure，t hey were t reat ed wi t h l gmol ／L dexamet hasone f or 48
+h t o est abl i sh an i nsul i n resi st ance model ．The i nsul i n—resi st ant cel l s were t reat ed wi t h 1 0 gmol ／L rosi gl i t azone( posi t i ve cont r01) and 25，50 or
+100 pmol ／L GF2 f or 12 h，and t he upt ake of 2- NBDGby t he cel l s was det ermi ned．Af t er t he experi ment s，real —t i me quant i t at i ve PCR was used
+t o eval uat e t he rel at i ve mRNA expressi on l evel s of gl ucose t ransport er 4( GLUT- 4) and i nsul i n recept or subst rat e I ( I RS一1) i neach group of cel l s
+The prot ei n expressi on and phosphoryl at i on l evel of t he P13K／Akt si gnal i ng pat hway were al so eval uat ed by west ern bl ot ．The resul t s showed
+t hat compared wi t h t he model group，25，50，and 100 pmol ／L GF2 promot ed t he upt ake of 2一NBDG i n i nsul i n—resi st ant 3T3一L1 adi pocyt es i n a
+dose—dependent manner( i ncreased by 12．58％，29．07％and 34．62％respect i vel y；p<0．05) ．Af t er t he 12 h t reat ment wi t h gi nsenosi de F2，t he
+引文格式：
+韩胜强，谢元，李甫，等．人参皂苻F2通过P13K／Akt 途径改善3T3一L1脂肪细胞胰岛素抵抗[ J ] ．现代食品科技，2022，38( 5) ：8—15
+HAN Shengqi ang，XI E Yuan，LI
+Fu，et a1．Gi nsenosi de F2 i mproves i nsul i n resi st ant
+i n 3T3一L1 adi pocyt es vi a t he P13K／Akt si gnal i ng
+pat hway[ J ] ．ModemFood Sci ence and Technol ogy, 2022，38( 5) ：8- 15
+收稿日期
+基金项目
+作者简介
+通讯作者
+8
+2021——07——24
+江苏省自然科学基金项目( BK20201480)
+韩胜强( 1995一) ，男，硕士，研究方向：食品营养与功能性，E- mai
+I ：276120635@qq oom
+张迹( 1982一) ，男，博士，副教授，研究方向：食品营养学，E_mai I ：zhangj i hnu@163
+COm
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+rel at i ve mRNA expressi on l evel s of GLUT- 4 and I RS一1 as wel l
+as t he phosphoryl at i on l evel s of Pl 3K and Akt
+i ncreased remarkabl y p<0．01．
+Thi s research shows t hat GF2 coul d act i vat e t he P13K／Akt pat hway, and i mprove gl ucose met abol i smand i nsul i n resi st ance，t hrough promot i ng
+t he rel at i ve mRNAexpressi ons of GLUT- 4 and I RS一1 i n i nsul i n—resi st ant 3T3一L1 adi pocyt es，and i ncreasi ng t he phosphoryl at i on l evel s of Pl 3K
+and Akt prot ei ns．
+Key words：gi nsenosi de F2；3T3一L1 adi pocyt es；P13K／Akt pat hway；i nsul i n resi st ance
+I I 型糖尿病( Type 2 di abet es mel l i t us，T2DM) 是
+世界上最常见的慢性疾病之一，主要表现为外周组织
+的高血糖和胰岛素抵抗( I nsul i n resi st ance，I R) ，在世
+界范围内引起很高的患病率和死亡率¨ #J 。当胰岛素敏
+感性组织( 例如肝脏、脂肪和骨骼肌) 由于胰岛素信
+号传导途径受损而对胰岛素的敏感性降低时，就会发
+生I R。最终会导致∥ 细胞的损伤和凋亡，血糖水平持
+续升高[ 3，4] 。肥胖是与胰岛素抵抗相关的糖尿病的触发
+因素，通过刺激I R加剧T2DM的发展bJ 。肥胖是脂肪
+组织中脂肪细胞分化积聚大量脂肪的状态旧J ，会加速
+脂肪组织的老化，而脂肪细胞在维持全身葡萄糖稳态
+中占据重要地位，同时在瓜和T2DM中也起重要作
+用[ 7．、1。葡萄糖转运蛋白将血液中葡萄糖转运到脂肪细
+胞中，促进脂肪的合成，同时抑制脂肪分解，使游离
+脂肪酸进入血液，通过血液循环供其他器官直接利用。
+当脂肪组织发生I R时，游离脂肪酸被大量释放到血液
+中，引起血脂异常，加剧瓜和T2DM。其中，胰岛素
+信号通路受损是脂肪细胞产生I R的主要原因之一
+M⋯ 。因此，建立体外胰岛素抵抗模型有助于筛选改
+善胰岛素抵抗的药物或天然产物。
+人参( Panax gi nseng C．A．Meyer) 是一种多年生
+的草本植物，具有抗疲劳、延缓衰老以及保护心血管
+等功效[ 111。在现代临床试验中证实了人参及提取物能
+够降低糖尿病患者的血糖，并改善葡萄糖耐受量¨ 2|。
+人参的主要活性成分为人参皂苷，研究表明原人参二
+醇类的Rbl 、R93、Rc、Rb2和原人参三醇类的Re、
+R91具有增加胰岛素敏感性和降糖作用¨ 引，而且Rbl 、
+R93、Rhl 对脂肪细胞的影响均有相关研究¨ 4- l 川。
+图1人参皂苷F2结构图
+Fi g．1 St ruct ure di agramof gi nsenosi de F2
+人参皂苷F2( Gi nsenosi de F2，GF2) 在人参中含
+量较少，主要是通过Rbl 、R93、Rc、Rb2等原人参
+二醇类皂苷经过生物转化‘
+161后得到的产物‘
+1 71，被证明
+具有抗氧化㈣、抗炎㈣、抗癌【20] 、降脂叫等生物活性，
+但其对脂肪细胞葡萄糖摄取和降血糖的作用机制尚不
+明确。本研究通过3T3一L1脂肪细胞建立胰岛素抵抗
+模型，研究了GF2对糖吸收的影响，并进一步探讨
+GF2通过P13K／Akt 通路改善胰岛素抵抗的机制。
+1材料与方法
+1．1．1
+试剂
+小鼠3T3一L1前脂肪细胞，武汉大学中国典型培
+养物保藏中心；GF2( 纯度>98％) ，四川I 成都至纯本
+草生物科技有限公司。
+磷酸盐缓冲液片剂( PBS，pH=7．4) ，美国Amersco
+公司；DMEM培养基、胎牛血清( FBS) 、青一链霉素
+双抗混合液，加拿大Gi bco公司；罗格列酮( RGz) 、
+二甲亚砜( DMSO) 、Tri zol Reagent ，美国Si gma—Al dri ch
+公司；3一( 4，5一二甲基一2一噻唑) 一2，5一二苯基一2一四氮唑溴盐
+( MTT) ，德国Bi of f oxx公司；BCA蛋白定量试剂盒，
+中国上海爱必信生物科技有限公司；2一( N一( 7一硝基苯
+一2一氧一1，3一二唑一4一基) 氨基) 一2一脱氧葡萄糖( 2- NBDG) 、
+Revert Ai d
+Fi rst
+St rand cDNA Synt hesi s Ki t ，美国
+Thermo
+Fi sher
+Sci ent i f i c公司；Phospho—Akt 抗体
+( #4060S) 、Akt 抗体( #9272S) 、Phospho—P13K抗体
+( #4228S) ，美国Cel l
+Si gnal i ng Technol ogy公司；
+ant i —rabbi t I gG抗体( #ab672 1) 、ant i —mouse I gG抗体
+( #ab6789) ，美国abcam公司。
+1．1．2主要仪器设备
+5414R低温高速离心机，德国Eppendorf 公司；
+HERACELL
+1 50i CO，培养箱，美国Thermo Fi sher公
+司；I X71倒置显微镜，日本Ol ympus公司；DM6B
+荧光显微镜，瑞士Lei ca公司；HH一8数显恒温水浴锅，
+江苏金坛市亿通电子有限公司；I nf i ni t e M200 Pro酶标
+仪，瑞士Tecan公司；T100 Thermal
+Cycl e PCR仪，
+美国Bi o—Rad公司；CPX connect 实时荧光定量PCR
+仪，美国Bi o—Rad公司。
+1．2
+方法
+1．2．1细胞培养与分化
+9
+势
+H
+0
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+3T3一L1前脂肪细胞在37。C、5％C02条件下用
+DMEM培养基( 含有10％FBS和1％青一链霉素) 培养，
+细胞融合90％后，用含0．5}_t l nol ／L 3一异丁基一1一甲基黄
+嘌呤( I BMX) 、1 Lt mol ／L地塞米松( DEX) 和10 I，tg／rr, L
+胰岛素的DMEM培养基诱导分化。2 d后，将分化培
+养基更换为含有10 Lt g／mL胰岛素的DMEM培养基继
+续维持培养，每2d更换一次培养基，持续4～6 d。
+1．2．2油红O染色
+3T3一L1前脂肪细胞以2× 104 cel l s／mL的密度接种
+于24孔板( 500 uU孔) ，按照1．2．1方法诱导分化后，
+3T3一L1细胞用PBS洗涤，并用4％多聚甲醛室温固定
+30 mi n。去除固定液后，加入油红0染液，置于60℃
+烘箱避光染色15 mi n，最后水洗2次晾干，于I X71
+倒置显微镜下观察拍照。
+1．2．3细胞活力的测定
+3T3一L1前脂肪细胞以1× 104 cel l s／mL的密度接种
+在96孔板中，过夜培养后吸弃培养基。以添加12．5、
+25、50、100 I |t mol ／L GF2的DMEM培养基处理细胞，
+同时设不含GF2为正常组；在37。C，5％C02条件下
+处理24 h，弃去上清液，每孔加入100儿用无血清
+DMEM配制的0．5 mg／mL MTT溶液，孵育4 h后，结
+束后每孔加入100儿MTT终止液，继续培养16～20 h，
+酶标仪在550 nm处测定各孔的吸光值。
+1．2．4胰岛素抵抗模型的建立
+参照Meng[ 221和PARK掣231的方法，略有改进：
+将分化成熟的3T3一L1脂肪细胞以1× 104 cel l s／mL的密
+度接种于96孔透明底黑板中( 100儿／孔) ，在37℃，
+5％C02条件下孵育，待细胞融合80％左右，将细胞
+分为对照组和模型组，对照组用DMEM处理，模型
+组用含有1 Lt mol ／LDEX的DMEM处理，48 h后然后
+将培养基换成含有100
+I J t mol ／L 2一m—f7一硝基苯一2一氧
+一1，3一二唑一4一基) 氨基) 一2一脱氧葡萄糖( 2- NBDG) 的PBS
+在37℃下处理30 mi n，结束后弃上清液，用预冷的
+PBS漂洗2次，酶标仪在485／535 nm下测定各组细胞
+的荧光强度。
+1．2．5胰岛素抵抗3T3一L1脂肪细胞的糖摄取
+按照1．2．4方法处建立胰岛素抵抗模型后，实验分
+组及给药：正常组和模型组：DMEM培养基；阳性药
+物组：含10 gmol ／L罗格列酮( RGZ) 的DMEM培养
+10
+基；药物组：含25 Lt mol ／LGF2的DMEM培养基、含
+50 I maol ／L GF2的DMEM培养基、含100 I J t mol ／L GF2
+的DMEM培养基；置于37℃细胞培养箱共同孵育
+12 h后，弃掉培养基，加入含有100 gmol ／L 2- NBDG
+的PBS在37。C下处理30 rai n，结束后弃上清液，用
+预冷的PBS漂洗2次，用酶标仪在485／535 nl Tl 下测
+定各组细胞的荧光强度。
+1．2．6
+RT- qPCR检测I RS一1和GLUT_4 mRNA
+相对表达量
+3T3一L1脂肪细胞以5× 104 cel l s／mL的密度接种于
+6孔板中，按照1．2．5方法分组处理后，去除培养液，
+用预冷的PBS轻轻漂洗一遍后，每孔加入1 mL Tri zol
+裂解液吹打细胞至溶液清亮，收集于1．5 mL离心管
+中。利用Tri zol 法提取细胞总RNA，然后反转录合成
+cDNA。根据NCBI 数据库上的基因序列设计I RS一1
+和GLUT- 4基因上下游引物序列，GAPDH作为内参，
+引物序列见表1。按照Fast St art Uni versal SYBR Green
+Mast er( Rox) 试剂盒说明进行RT- qPCR，每组实验
+重复3次，最后采用2。△ 能‘
+法计算基因相对表达量。
+1．2．7
+West ern bl ot 检测P13K／Akt 信号通路相
+关蛋白
+在不同组的脂肪细胞中加入含磷酸酶抑制剂和蛋
+白酶抑制剂的RI PA裂解液，之后将样品离心( 4。C，
+12000 r／mi n，15 rni n) 并收集上清液。用BCA试剂盒
+检测蛋白浓度。取30¨ g蛋白样品进行SDS—PAGE凝
+胶电泳，转移到PVDF膜上后用5％BSA或5％脱脂
+奶粉室温封闭2 h，然后与各种一抗在4℃孵育过夜。
+TTBS洗涤3次后加入二抗，室温摇床2 h后，加入
+eECL发光液反应，曝光后拍照分析。
+1．3
+统计分析
+各组数据以平均值土标准差表示，用SPSS 23．0统
+计软件进行分析，采用单因素方差分析比较组问差异，
+以p<O．05以为差异具有统计学意义。使用Si gma Pl ot
+10．0软件作图。
+2结果与讨论
+2．1
+细胞分化和油红O染色
+表1 RT—qPOR所用引物序列
+Tabl e 1 Pri mers used i n RT- qPCR
+万方数据
+型塑堂坠
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+a
+t‘ 蘸j ：辫
+一
+5珏0}_蒸oa。4磷≥
+J “
+w
+”
+$”
+以及相应的糖脂代谢作用‘
+241。3T3．L1前脂肪细胞在形
+2．2
+GF2对3T3一L1前脂肪细胞活力的影响
+采用MTT法检测了GF2对3T3一L1前脂肪细胞活
+力的影响。由图3可知，GF2浓度从12．5到100肚mol ／L
+时，对3T3一L1前脂肪细胞的活力无影响。结果表明
+在此浓度范围内GF2对3T3一L1脂肪细胞无显著毒性。
+F2浓度／f gmol ／L1
+图3 GF2对3T3一L1前脂肪细胞活力的影响
+Fi g．3 Ef f ect of GF2 on vi abi l i t y of 3T3一L1 preadi pocyt es
+2．3胰岛素抵抗模型的建立
+胰岛素抵抗是T2DM的主要因素，其主要特征是
+对胰岛素信号的响应减弱，使目标组织中葡萄糖的摄
+取或利用降低皿川。多项研究表明，DEX是一种糖皮质
+激素类似物[ 2川，能抑制I RS一1和GLUT- 4的表达[ 271，
+从而抑制脂肪组织、肌肉组织和肝组织对葡萄糖的摄
+取，进一步导致糖尿病症状加重。用DEX诱导48 h
+建立胰岛素抵抗模型，并利用2- NBDG荧光探针检测
+细胞的糖摄取，平均荧光强度反映了细胞对葡萄糖的
+摄取量。由图4可知，1
+gmol ／L DEX处理48 h后，
+DEX诱导的模型组2- NBDG平均荧光强度显著低于
+正常组( p<0．05) ，降低了34．17％，表明细胞对葡萄
+糖的摄取能力受到抑制，胰岛素抵抗模型建立成功。
+谢洁等瞄驯的研究发现，1}maol ／L DEX作用24 h和48 h
+均能诱导3T3一L1脂肪细胞胰岛素抵抗，同时指出该
+模型在48 h内稳定。王丽静等[ 29] 的研究表明，100
+nmol ／L和1
+l amol ／L DEX诱导48 h后不但降低了
+3T3一L1脂肪细胞基础状态下的糖吸收，还抑制了胰岛
+素刺激下葡萄糖的吸收，产生胰岛素抵抗症状。
+划
+黑
+巢
+杈
+露
+*
+oo
+∞Z
+式
+图4胰岛素抵抗3T3- L1脂肪细胞模型的建立
+Fi g．4 The est abl i shment of t he i nsul i nresi st ance model of
+3T3一L1 adi pocyt es
+注：+：添加；一：无添加。与正常组比较，印<o．05。
+2．4
+GF2对胰岛素抵抗3T3一L1脂肪细胞糖摄
+取的影响
+蜊
+骥
+米
+拣
+露
+*
+o
+凸
+∞Z
+DEX
+GF2
+RGZ
+图5( 3F2对胰岛素抵抗3T3一L1脂肪细胞2- NBDG摄取的影响
+Fi g．5 Ef f ect of GF2 on 2- NBDGupt ake i n 3T3．L1 adi pocyt es
+wi t h i nsul i n resi st ance
+注：+：添加；一：无添加。与正常组比较：切<o．05，#枷<o．01；
+与模型组比：4萨o．05，4肇<o．01；下同。
+不同浓度GF2( 25、50、100 pmol ／L) 对胰岛素
+抵抗3T3一L1脂肪细胞糖摄取的影响如图5所示，GF2
+和罗格列酮( 10 gmol ／L) 处理12 h后，均显著增加细
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+胞对2- NBDG摄取( p<0．05) ；与模型组相比，阳性对
+照组的平均荧光强度增加了43．82％( p<0．01) ；25、
+50和100 gmol ／L GF2荧光强度分别增加了12．58％、
+29．07％并U 34．62％( p<0．05) ，且GF2浓度越高，2- NBDG
+荧光强度越强，GF2呈现出剂量依赖性促进细胞对
+2_NBDG的摄取。
+2．5
+GF2对葡萄糖转运蛋白表达的影响
+不同组织细胞对葡萄糖的吸收主要依赖于
+GLUTs。在脂肪细胞中，葡萄糖摄取可以由GLUT- 4
+介导p川。由图6可知，模型组中GLUT- 4 mRNA相对
+表达量极显著降低( p<0．01) ；50和100 pmol ／L GF2可
+显著增加GLUT- 4 mRNA相对表达( 而0．01) ，分别高
+于模型组1．58倍和2．94倍；而25 pmol ／LGF2处理12 h
+对GUu二4 mRNA表达无显著差异。Meng等[ 22] 从体内
+和体外说明了来自桑叶中的黄酮类化合物可以显著增
+加3T3一L1脂肪细胞胰岛素抵抗模型中的GLUT- 4表
+达，并降低游离脂肪酸的表达，从而改善胰岛素抵抗
+模型中的代谢异常。Dwi yat i 等[ 31] 研究发现姜黄通过增
+加GLUT- 4表达和下调PPAR- 7／表达改善3T3一L 1脂肪
+细胞葡萄糖摄取，从而表现出降糖活性。
+ⅢⅢ【】
+趔
+懈
+《Z
+比
+o
+DEX
+GF2 f
+图6 GF2对胰岛素抵抗3T3一L1脂肪细胞GLUT一4基因表达的影
+响
+Fi g．6 Ef f ect of GF2 on GLUT- 4 mRNAi n 3T3一L1 adi pocyt es
+wi t h i nsul i nresi st ance
+2．6
+GF2对I RS一1／P13K／Akt 信号通路的影响
+GF2促进了GLUT- 4 mRNA相对表达量，增加了
+胰岛素抵抗3T3一L1脂肪细胞对葡萄糖的吸收。
+GLUT- 4对葡萄糖的摄取可以通过P13K和AMPK两
+种途径激活p五33J ，同时两种途径也可以激活P13K／Akt
+信号通路和非典型蛋白激酶途径。这两种途径均可促
+进细胞对葡萄糖吸收[ 341。研究表明人参皂苷R91可激
+活AMPK和P13K／Akt 途径，并诱导Akt 在丝氨酸473
+位点磷酸化，促进GLUT- 4表达，增加3T3一L1脂肪细
+胞对葡萄糖的摄取[ 3川；Rbl 激活胰岛素信号通路中的
+12
+Akt 蛋白，上调脂肪组织中GLUT- 1和GLUT- 4促进
+葡萄糖的摄取和消耗，改善I R和糖代谢异常[ 13] ；R93
+和Re通过I RS．1／P13K途径上调脂肪细胞中GLUT- 4
+促进细胞对葡萄糖的摄取[ 14] 。R91、Rbl 、R93、Re
+等作为GF2的前体皂苷[ 16|，通过不同的作用机制促进
+脂肪细胞对葡萄糖的摄取，从而改善I R，因此我们推
+测GF2也具有降糖作用。另外有报道称在糖尿病患者
+中I RS一1表达降低p0|，因此，为了进一步研究GF2对
+葡萄糖摄取的作用机制，检测了P13K／Akt 信号通路的
+激活。
+a
+皿田l】
+水J
+惴
+《Z
+出
+芷
+DEX
+GF2 f
+C
+量
+芑
+c产q
+＼
+趔
+州
+皿
+蝴
+职
+托
+RI
+l 42
+0 93
+0．85
+l 23
+1 47
+● 。。’ 1。。。。。。。1。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。’ ——
+p- Ser473．Akt l _- · · _● - ■ 60ku
+【．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．、．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．一
+RI
+1 20
+0 49
+1．17
+1 31
+1 40
+r。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。-。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。～
+A“ ‘ J · -一· · _-· -{60
+ku
+L----------------------------------、．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．J
+r。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。’ 。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。～
+f l - acti n l ·
+- - - - __- ·
+_43 ku
+I．．．．．．．。．．。．．．．．。．．．。．．．。．．．．．．．．．．．．．．．J
+DEX rpmol ／L、
+一
++
++
++
++
+GF2( pmol ／L、
+一
+一
+25
+50
+100
+P—P13K
+P13K
+p- Akt
+Akt
+图7 GF2对胰岛素抵抗3T3一L1脂肪细胞l RS- 1／P 3K／Akt 信号
+通路的影响
+Fi g．7 Ef f ect of GF2 on I RS一1／P13K／Akt si gnal i ng pat hway i n
+3T3一L1 adi pocyt es wi t h i nsul i n resi st ance
+注：a：I RS一1 mRNA相对表达量；b：P13K／Akt 信号通路
+蛋白表达水平，其中RI 表示各组蛋白灰度与∥ ．act i n的比值。
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No· 5
+图7a显示的是GF2对胰岛素抵抗3T3一L1脂肪细
+and∥ 一cel l
+dysf unct i on[ J ] Oxi dat i ve Medi ci ne and Cel l ul ar
+胞I RS一1表达的影响。经DEX诱导后，模型组中I RS一1
+Longevi t y, 2015：181643
+基因表达水平极显著低于正常组( p<0．01) ，GF2处理
+[ 51
+Tsegyi e Y Obesi t y, I nsul i n resi st ance，and t ype 2 di abet es：
+12 h后，增加了I RS一1基因的表达( p<0．05) ，随着
+associ at i ons
+and
+t herapeut i c
+i mpl i cat i ons[ J ] Di abet es，
+GF2剂量的增加，I RS一1基因表达分别高于模型0．33
+Met abol i c Syndrome and Obesi t y：Target s and Therapy, 2020，
+倍、1．66倍和2．10倍。I RS一1包含酪氨酸磷酸化位点
+13：361 1- 3616
+和丝氨酸／苏氨酸磷酸化位点，在未被激活的情况下，
+[ 6]
+J ou P C，Ho B Y，Hsu Y W，et
+a1．The ef f ect of monascus
+I RS一1上的丝氨酸处于磷酸化状态，而在被胰岛素激
+secondary pol yket i de met abol i t es，monasci n and ankaf l avi n，
+活后，酪氨酸磷酸化增强[ 37】。当I RS一1酪氨酸磷酸化
+on adi pogenesi s and l i pol ysi s acti vi ty
+i n 3T3一L I [ J ] J ournal
+后，P13K和Akt 被活化，胰岛素信号通路被激活，活
+of
+Agri cul t ural
+and
+Food
+Chemi st ry，2010，58( 24) ：
+化的Akt 可促进葡萄糖转运蛋白向膜易位，从而增加
+12703—12709
+对葡萄糖代谢p引。
+[ 7]
+Gui l herme
+A，Vi rbasi us
+J V
+Puf f
+V
+et
+a1．Adi pocyt e
+图7b为各组P—P13K、P13K、P—Akt 和Akt 蛋白表dysf unct i ons l i nki ng obesi t y t o i nsul i n resi st ance and t ype 2
+达水平，其中Ⅺ为各组蛋白灰度与对应f l - act i n的比di abet es[ J ] Nat ure Revi ews Mol ecul ar Cel l
+Bi ol ogy, 2008，
+值。模型组中，DEX抑制了p- P13K、p- Akt 和Akt 的
+9( 5) ：367—77
+表达( p<0．05) ；GF2处理12 h后，增加了胰岛素抵
+[ 8]
+Soares A F，Gui chardant
+M，Cozzone D，et
+a1．Ef f ect s
+of
+抗细胞中P13K和Akt 的磷酸化，同时也促进了Akt
+oxi dat i ve
+st ress
+on
+adi ponect i n
+secret i on
+and
+l act at e
+的表达( p<0．05) 。Akt 磷酸化后可进一步诱导GLUT- 4
+product i on i n
+3T3一L1 adi pocyt es[ J ] Free Radi cal
+Bi ol ogy
+易位至质膜并促进葡萄糖吸收进入细胞p圳，从而降低
+&Amp Medi ci ne，2005，38( 7) ：882—889
+高血糖[ 40] 。结果表明，GF2可增加胰岛素抵抗3T3一L1
+[ 9] Xi a J Y，Morl ey T S，Scherer
+P E．The adi poki ne／cerami de
+脂肪细胞中的I RS—l mRNA的表达以及增强P13K／Akt
+axi s：key aspect s of i nsul i n sensi t i zat i on[ J ] ．Bi ochi mi e，2014，
+磷酸化，激活P13K／Akt 信号通路。J ang等L4l J 研究表
+96：130—139
+明东莨菪碱通过激活P13K／Akt 和AMPK信号通路增
+[ 10] 伍明江，张德芹，李盼，等．柽柳黄素对3T3一LI 脂肪细胞胰岛
+加胰岛素抵抗3T3一L1脂肪细胞的葡萄糖摄取。
+素抵抗的影响及AMPK信号通路的作用机制[ J ] 天然产物
+3结论
+嚣三篓0矾, 32(6N)：9G5嚣，㈣⋯矧．嘶Ⅲ
+人参皂苷F2通过增加胰岛素抵抗3T3一L1脂肪细t amari xet i n on i nsul i n resi st ance of 3T3一LI
+f at cel l s and t he
+胞GLUT- 4 mRNA的表达水平，促进细胞对葡萄糖的
+mechani smof AMPK si gnal i ng pat hway[ J ] Nat ural
+Product
+摄取；同时提高I RS一1 mRNA和Akt 的表达水平，并
+Research and Devel opment ，2020，32( 6) ：953—960
+增加P13K和Akt 的磷酸化，激活P13K／Akt 信号通路，
+[ 11] 孙立伟，李香艳，赵大庆．人参“ 大补元气” 中医及生物学内
+改善胰岛素抵抗。本研究结果初步表明人参皂苷F2
+涵研究[ J ] 世界科学技术一中医药现代化，2016，18( 11) ：1969一
+具有调节糖脂代谢作用，为开发预防糖尿病相关保健
+1974
+产品提供理论支撑。
+SUN Li wei ，LI Xi angyan，ZHAO Daqi ng．A research on t he
+，
+．。，
+ef f ect s of rei nf orci ng vi t al energy of Panax Gi nseng based on
+参考灭献
+订adi t i 。nal
+and m。dem st Ll di es[ J ] Worl d
+sci ence
+and
+[ 11
+Li n Y Sun Z J ．Current vi ews on t ype 2 di abet es[ J ] ．J ournal
+Technol ogy—Modemi zat i on of Tradi t i onal
+Chi nese Medi ci ne，
+of Endocri nol ogy, 2010，204( 1) ：1- 11
+2016，18( 11) ：1969—1974
+『2]
+Vi ral l y M，Bl i ckl e J F，Gi rard J ，et a1．Type 2 di abet es mel l i t us：
+[ 12] Bang H，Kwak
+J H，Ahn H Y et
+a1．Korean red gi nseng
+epi demi ol ogy, pat hophysi ol ogy,
+unmet
+needs
+and
+i mproves
+gl ucose cont rol
+i n subj ects wi t h i mpai red t ast i ng
+t herapeut i cal
+perspect i ves[ J ] ．Di abet es
+and
+Met abol i sm，
+gl ucose，i mpai red gl ucose t ol erance，or newl y di agnosed t ype
+2007，33( 4) ：231—244
+2
+di abet es mel l i t us【J ] J ournal
+of Medi ci nal
+Food，2014，
+[ 3] Ye J ．Mechani sms
+of
+i nsul i n
+resi st ance
+i n
+obesi t y[ J ]
+17( 1) ：128—134
+Front i ers of Medi ci ne，2013，7( 1) ：1- 1 l
+[ 13] 尚文斌，郭超，赵娟，等．人参皂苷Rbl 通过上调脂肪组织葡
+[ 41
+Keane K N，Cmzat V F Carl essi
+R，et a1．Mol ecul ar event s
+萄糖转运体促进葡萄糖消耗[ J ] ．中国中药杂志，2014，39( 22) ：
+l i nki ng oxi dat i ve st ress and i nf l ammat i on t o i nsul i n resi st ance
+4448—4452
+13
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+SHANG Wenbi n，
+GUO
+Chao，
+ZHA0
+J uan，
+et
+a1．
+Gi nsenosi de
+Rbl
+upregul at es
+expressi ons
+of
+GLUTs
+t o
+promot e
+gl ucose
+consumpt i on
+i n
+adi opcyt es[ J ] ．Chi na
+J ournal
+of Chi nese Mat eri a Medi ca，20 14，39( 22) ：4448—4452
+[ 14] Lee 0 H，Lee H H，KI mJ H，et
+a1．Ef f ect of gi nsenosi des
+R93
+and
+Re
+on
+gl ucose
+t ransport
+i n
+mat ure
+3T3一L1
+adi pocyt es[ J ] ．Phyt ot herapy Research，201 l ，25( 5) ：768—773
+[ 15] Gu W，Ki mK A，Ki mD|L Gi nsenosi de Rhl
+amel i orat es
+hi 曲f at
+di et —i nduced obesi t y i n mi ce by i nhi bi t i ng adi pocyt e
+di f f erent i at i on[ J ] ．Bi ol ogi cal &Pharmaceut i cal
+Bul l et i n，
+2013，36( 1) ：102
+[ 16] 彭婕，刘春莹，陈双，等．原人参二醇类皂菅( PPD) 在酶反应中
+转化动态及其产物稀有皂苷的制备[ J ] 中草药，2017，1：93—
+102
+PENG
+J i e，LI U
+Chunyi ng，CHEN
+Shuang，et
+a1．
+Prot opanaxadi ol
+gi nsenosi des
+dynami cs
+i n
+enzymat i c
+react i on and preparat i on of
+rare gi nsenosi des[ J ] ．Chi nese
+Tradi t i onal
+and Herbal Drugs．2017．1：93—102
+[ 17] Zheng MM，Xu F X，Li Y J ，et a1．St udy on t ransf ormat i on of
+gi nsenosi des
+i n
+di f f erent
+met hods[ J ] Bi oMed Research
+I nt ernat i onal ，2017，2017：1—10
+[ 1 8] Mao e，Zhang P H，Wang e，et a1．Gi nsenosi de F2 i nduces
+apopt osi s
+i n humor gast ri c carci noma cel l s t hrough react i ve
+oxygen
+speci es—mi t ochondri a
+pat hway and modul at i on
+of
+ASK—I ／J NK
+si gnal i ng
+cascade
+i n
+vi t ro and
+i n
+vi vo[ J ] ．
+Phyt omedi ci ne：I nt ernat i onal
+J ournal
+of
+Phyt ot herapy
+and
+Phyt opharmacol ogy, 20 1 4，2 1( 4) ：5 1 5- 522
+[ 19] Si raj
+F M，Sat hi shkumar N，Ki mY J ，et a1．Gi nsenosi de F2
+possesses anti —obesi ty act i vi t y vi a bi ndi ng wi t h PPAR7 and
+i nhi bi t i ng adi pocyt e di f f erent i at i on i n t he 3T3一L I
+cel l l i ne[ J ] ．
+J ournal
+of Enzyme I nhi bi t i on and Medi ci nal
+Chemi st ry, 20 1 5，
+30( 1) ：9
+[ 20] Park
+S，Seo w，Eun H S，et
+a1．Prot ect i ve
+ef f ect s
+of
+gi nsenosi de
+F2
+on
+1 2一O—t et radecanoyl phorbol 一1 3- acet at e
+—i nduced
+ski n i nf l ammat i on
+i n mi ce[ J ] ．Bi ochemi cal
+and
+Bi ophysi cal
+Research
+Communi cat i ons，20 1 6，478( 4) ：
+1713—1719
+[ 21] Ki mDE，Chang B Y，J eon B M，et a1．SGL 121 at t enuat es
+nonal cohol i c
+f at t y
+l i ver
+di sease
+t hrough
+adj usti ng
+l i pi d
+met abol i sm
+t hrough
+AMPK
+si gnal i ng
+pat hway[ J ] ．
+I nt ernat i onal
+J ournal
+of
+Mol ecul ar
+Sci ences，2020，2 1( 1 2) ：
+4534
+[ 22] Meng Q，ei
+x，Chao Y，et
+a1．I RSl ／P13K／AKT pat hway
+si gnal
+i nvol ved
+i n
+t he regul at i on
+of
+gl ycol i pi d met abol i c
+abnormal i ti es by mul berry( Morus al ba L．) l eaf
+ext ract s
+i n
+14
+3T3一L1 adi pocyt es[ J ] ．Chi nese Medi ci ne，2020，15( 12) ：
+426—430
+[ 23] Park
+J
+E，Park
+J Y，Seo Y，et a1．A newchromanone i sol at ed
+f rom Port ul aca
+ol eracea
+L．i ncreases
+gl ucose
+upt ake
+by
+st i mul at i ng GLUT4 t ransl ocat i on t o t he pl asma membrane i n
+3T3一L1
+adi pocyt es[ J ] I nt emat i onal
+J ournal
+of
+Bi ol ogi cal
+Macromol ecul es，2019，123：26—34
+[ 24] 聂绪强，杨建文，史海霞，等．I R- 3T3一L1脂肪胰岛素抵抗细胞
+的建立[ J ] ．南方医科大学学报，2015，35( 1) ：103—108
+NI E
+Xuqi ang，YANG
+J i anwe，SHI
+Hai xi a，et
+a1．
+Est abl i shment
+of
+a
+cel l
+model
+of
+i nsul i n—resi st ant
+3T3一Ll
+adi pocyt es[ J ] ．J ournal of Sout hern Medi cal Uni versi t y, 2015，
+35f 11：103—108
+[ 25] Saad MF，Rewers M，Sel by J ，et a1．I nsul i n resi st ance and
+hypert ensi on：t he i nsul i n resi st ance at heroscl erosi s st udy[ J ] ．
+Hypert ensi on：J ournal
+of
+t he Ameri can Heart
+Associ at i on，
+2004，43( 6) ：1324—1331
+[ 26] Sangeet ha K N，Shi l pa K，Kumari
+P J ，et a1．Reversal
+of
+dexamet hasone
+i nduced
+i nsul i n
+resi st ance
+i n
+3T3L1
+adi pocyt es
+by
+3f l - taraxerol
+of
+Mangi J era
+i ndi ca[ J ] ．
+Phyt omedi ci ne，2013，20( 3—4) ：213—220
+[ 27] Haber R S，Wei nst ei n
+S P．Rol e of gl ucose
+t ransport ers i n
+gl ucocort i coi d—i nduced i nsul i n resi st ance．GLUT4 i sof ormi n
+rat skel et al
+muscl e
+i s not decreased by dexamet hasone[ J ]
+Di abet es，1 992，41( 6) ：728—735
+[ 28] 谢沽，杨瑞仪．地塞米松体外诱导胰岛素抵抗细胞模型的建
+立[ J ] ．科技通报，2015，31( 10) ：31—33
+XI E J i e，YANG Rui yi ．I nsul i n
+resi st ance
+model
+i nduced
+dexamet hasone
+i n
+vi t ro cel l [ J ] ．Bul l et i n of
+Sci ence
+and
+Technol ogy, 2015，31( 10) ：31—33
+[ 29] 王丽静，张尉，文zJ d, 莺，等．地塞米松诱导3T3一L1脂肪细胞胰
+岛素抵抗模型的建立[ J ] 福建医科大学学报，2007，3：282—
+284
+WANG Li j i ng，ZHANG Wei ，LI U Xi aoyi ng，et
+a1．The
+devel opment of dexamet hasone i nduced i nsul i n resi st ance i n
+3T3一L1 adi pocyt e[ J ] J ournal
+of Fuj i an Medi cal
+Uni versi t y,
+2007．3：282—284
+[ 30] Bryant NJ ，Govers R，J ames DE．Regul at ed t ransport of t he
+gl ucose
+t ransport er GLUT4[ J ] Nat ure Revi ews
+Mol ecul ar
+Cel l Bi ol ogy, 2002，3( 4) ：267—277
+[ 3 1] Puj i mul yani
+D，Yul i ant o W A，Set yowat i
+A，et
+a1．
+Hypogl ycemi c acti vi ty of Curcuma mangga Val ．ext ract vi a
+modul at i on of GLUT4 and PPAR—v mRNA expressi on
+i n
+3T3一L1
+adi pocyt es
+[J ]．
+J ournal
+of
+Experi ment al
+Pharmacol ogy, 2020．1 2：363—369
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2022，V01．38，No．5
+( 上接第117页)
+[ 23] 刘影，李晓宇，杜小龙，等．不同涂膜处理对水蜜桃常温贮藏
+品质的影响[ J ] ．食品研究与开发，2019，40( 12) ：1—5
+LI UYi ng，LI Xi aoyu，DU Xi aol ong，et a1．Ef f ect of di f f erent
+comi ng
+t reat ment s
+on
+qual i t y
+of
+peach
+st ored
+at
+room
+t emperat ure[ J ] ．Food Research and
+Devel opment ，2019，
+40( 12) ：1- 5
+[ 24] Pet ri cci one M，De Sanct i s F，Pasquari el l o MS，et
+a1．The
+ef f ect
+of
+chi t osan coat i ng
+on t he qual i t y and nut raceut i cal
+t rai t s
+of sweet
+cherry duri ng post harvest
+l i f e[ J ] ．Food and
+Bi oprocess Technol ogy, 2015，8( 2) ：394—408
+[ 25] 李逸，王子鑫，韩延超，等．可降解包装膜的制备及在水蜜桃
+保鲜中的应用[ J ] 包装工程，2019，40( 23) ：23—31，10
+LI Yi ，WANG Zi xi n，HAN Yanchao，et
+a1．Preparat i on and
+appl i cat i on
+of
+degradabl e
+f i l mi n
+peach preservat i on[ J ] ．
+Packagi ng Engi neeri ng，2019，40( 23) ：23—31，10
+[ 26] 马之胜，王越辉，贾云云，等．桃果实果胶、可溶性糖、可滴定
+酸含量和果实大小与果实硬度关系的研究[ J ] 江西农业学
+报，2008，1 0：45—46
+MA Shengzhi ，WANG Yuehui ，J I A Yunyun，et a1．St udy on
+t he rel at i onshi p bet ween pect i n，sol ubl e sugar, t i t rat abl e aci d
+cont ent ，f rui t
+si ze and f rui t f i rmness i n peach f rui t [ J ] Act a
+A鲥cul t urae J i angxi ，2008，10：45—46
+[ 27] Mi l l er WB，Langhans
+R w Low t emperat ure
+al t ers
+carbohydrat e mat abol i smi n east er l i l y bul bs[ J ] Hort sci ence，
+1 990，25( 4) ：463—465
+[ 28] 周洲．}甘桔成熟果实脱落期间生长素、乙烯和I DA肽的关
+系[ J ] ．中国果业信息，202l ，38( 2) ：60—61
+ZHOU Zhou．Rel at i onshi p bet ween auxi n et hyl ene and I DA
+pept i de duri ng absci ssi on of ci t rus ri pe f rui t [ J ] Chi na Frui t
+I ndust ry I nf ormat i on，202 1，38( 2) ：60—6 1
+[ 29] 李金丽，黄少云，田学军，等．保鲜纸箱对油桃常温贮藏品质
+的影响[ J ] 保鲜与加工，2018，18( 1) ：21—25
+LI
+J i nl i ，HUANG Shaoyun，TI AN Xuej un，et
+a1．Ef f ect of
+preservat i on cart on on post harvest qual i t y of
+nect ari nes
+at
+room t emperat ure[ J ] ．St orage and Process，2018，18( 1) ：
+21—25
+15
+万方数据

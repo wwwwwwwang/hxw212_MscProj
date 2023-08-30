@@ -1,0 +1,1376 @@
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+9 
+ 
+人参叶多酚 GLP-8 调控 AhR/NLRP3 信号通路抑制 BaP
+诱导的气道上皮细胞炎症因子过表达 
+ 
+罗丹
+1,2，黄云
+2，罗敏
+1,2，罗强
+2，刘杰
+2，李玉英
+1* 
+（1.西南医科大学附属医院呼吸科，四川泸州 646000） 
+（2.深圳大学医学部过敏反应与免疫学研究所，广东深圳 518000） 
+摘要：基于活性追踪方法分离人参叶多酚化合物（Ginseng leaf polyphenols，GLPs)并研究其抗环境污染物苯并芘
+（Benzo(a)pyrene，BaP）诱发气道上皮细胞（16HBE）氧化、炎症损伤的作用机制。最终分离、鉴定 11 个人参叶多酚化合物 GLP-1~ 
+GLP-11，其中 GLP-8（Albaspidin AA，Ginseng leaf polyphenol-8）能够显著抑制 BaP 诱导的 16HBE 细胞损伤；相比于 BaP 组，GLP-8
+使 16HBE 细胞活力提升 13.90%；GLP-8 使 BaP 诱导的活性氧（Reactive oxygen species，ROS）过量分泌分别降低了 19.30%（5 μg/mL）
+和 41.30%（25 μg/mL）；GLP-8 使 Bap 诱导的 16HBE 细胞凋亡率分别降低 5.80%（5 μg/mL）和 9.30%（25 μg/mL）；25 μg/mL GLP-8
+作用后，BaP 诱导的炎症因子 IL-33、IL-25、IL-1β 及 IL-6 的表达分别减少 60.10%、28.90%、33.50%及 41.90%；GLP-8 抑制芳香烃
+受体（AhR）及核苷酸结合寡聚化结构域样受体蛋白 3（NLRP3）信号通路激活。因此得出，GLP-8 具有通过调控 AhR/NLRP3 信号
+通路抑制 BaP 诱导的 ROS 过量分泌及炎症因子过表达来发挥保护气道上皮细胞活性的功能。 
+关键词：人参叶；多酚化合物；苯并芘；AhR；NLRP3 
+文章篇号：1673-9078(2022)06-9-19                                           DOI: 10.13982/j.mfst.1673-9078.2022.6.0891 
+Ginseng Leaf Polyphenol-8 (GLP-8) Inhibits BaP-induced 
+Over-expression of Inflammatory Factors in the Airway Epithelial Cells 
+through Regulating the AhR/NLRP3 Signaling Pathway 
+LUO Dan1,2, HUANG Yun2, LUO Min1,2, LUO Qiang2, LIU Jie2, LI Yuying1* 
+(1.Department of Respiratory Medicine, Affiliated Hospital of Southwest Medical University, Luzhou 646000, China) 
+(2.Institute of Allergy and Immunology, School of Medicine, Shenzhen University, Shenzhen 518000, China) 
+Abstract: Here, a model of under benzopyrene (BaP) exposure was established. The isolation of ginseng leaf polyphenols (GLPs) were 
+performed based on an activity tracking method, and the mechanisms underlying their anti-oxidative and inflammatory effects against 
+environmental pollutant benzo(a)pyrene (BaP)-induced oxidation and inflammatory injury in airway epithelial cells (16HBEs) were studied. 
+Finally, 11 ginseng leaf polyphenol compounds GLP-1~GLP-11 were isolated and identified, of which GLP-8 (Albaspidin AA, Ginseng leaf 
+polyphenol-8) could significantly inhibit BaP-induced 16HBE cell damage; Compared with the BaP group, GLP-8 increased the viability of  
+引文格式： 
+罗丹,黄云,罗敏,等.人参叶多酚GLP-8调控AhR/NLRP3信号通路抑制BaP诱导的气道上皮细胞炎症因子过表达[J].现代食品科技, 
+2022,38(6):9-19,+73 
+LUO Dan, HUANG Yun, LUO Min, et al. Ginseng leaf polyphenol-8 (GLP-8) inhibits BaP-induced over-expression of inflammatory 
+factors in the airway epithelial cells through regulating the AhR/NLRP3 signaling pathway [J]. Modern Food Science and Technology, 2022, 
+38(6): 9-19, +73 
+ 
+收稿日期：2021-08-13 
+基金项目：国家自然科学基金项目（31770984；81803202；81929001；81901634）；广东省自然科学基金项目（2020A1515010029；2019A1515110010）；深圳市科
+技计划项目（KQTD20170331145453160；LHTD20180007）；呼吸疾病国家重点实验室开放项目（SKLRD-OP-201910）；西南医科大学创新课题（20091） 
+作者简介：罗丹（1991-），女，硕士研究生，研究方向：炎症相关疾病肺损伤的发病机制，E-mail：luodanynl@163.com 
+通讯作者：李玉英（1972-），女，博士，教授，主任医师，研究方向：ARDS 的发病机制及其治疗，干细胞定向诱导分化及其机制，E-mail：lzhlyyhy@126.com 
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+10 
+16HBE cells by 13.90%; GLP-8 reduced the excessive secretion of reactive oxygen species (ROS) induced by BaP by 19.30% (GLP-8, 5 μg/mL) 
+and 41.30% (GLP-8, 25 μg/mL), respectively. GLP-8 reduced the apoptosis rate of Bap-treated 16HBE cells by 5.80% (GLP-8, 5 μg/mL) and 
+9.30% (GLP-8, 25 μg/mL), respectively. After the GLP-8 treatment (25 μg/mL), the expressions of BaP-induced inflammatory factors, IL-33, 
+IL-25, IL-1β and IL-6 decreased by 60.10%, 28.90%, 33.50% and 41.90%, respectively; when compared to the BaP group. GLP-8 inhibited the 
+activation of aryl hydrocarbon receptor (AhR) and nucleotide-binding oligomerization domain-like receptor protein 3 (NLRP3) signaling 
+pathways. Therefore, it is concluded that GLP-8 could protect the activities of the airway epithelial cells through regulating the AhR/NLRP3 
+signaling pathway and inhibiting BaP-induced excessive secretion of ROS and over-expressions of inflammatory factors. 
+Key words: ginseng leaf; polyphenols; benzopyrene; AhR; NLRP3 
+ 
+研究显示，哮喘发病率及死亡率在全球范围内呈
+明显升高趋势，预计未来 10 年，因哮喘导致的死亡率
+会增加 20%，而哮喘患者病情不能得到有效控制是重
+要的诱因之一[1]。在诱发哮喘的诸因素中，大气污染
+物不仅能诱发、加重哮喘、过敏性鼻炎和急性支气管
+炎，对肺功能也会造成严重的损伤[2,3]。苯并芘（Benzo 
+(a) pyrene，BaP）是多环芳烃化合物，是一种典型的
+环境污染物。BaP 来源广泛，包括香烟烟雾、熏烤油
+炸食品、工业废水以及受污染的大气等[4]。随着工业
+化进程的推进，城市大气污染状况的加重与呼吸道疾
+病，尤其是哮喘的发病率有着直接的关系[5]。 
+中药应用于哮喘的临床治疗，具有改善哮喘症状、
+提高哮喘患者肺功能以及减轻呼吸道炎症的作用。人
+参（Panax ginseng C.A.Mey）是五加科、多年生草本
+植物，具有改善心功能及提高免疫力的功效[6,7]。目前，
+关于人参的研究多集中于生物活性较佳的人参皂苷及
+人参多糖[8]。其中，人参皂苷的主要药理作用为改善
+微循环[9]、提高组织抗缺氧能力、抑制血小板聚集[10]、
+Ca2+拮抗作用、影响前列腺素（PGs）代谢[11]、抗肿
+瘤[12]、抗衰老等[13]。在实际应用过程中人参叶多是被
+丢弃部分，但作为人参植物的一部分，研究发现人参
+叶中也含有多种生物活性成分，并具有抗疲劳、抗高
+血糖、抗肥胖、抗衰老等作用[14]。但人参叶中的酚类
+成分的抗炎作用却鲜有报道。因此，本文将对人参叶
+中的多酚类活性成分进行分离、鉴定，并对其抗 BaP
+诱导的气道上皮细胞损伤活性进行研究。本研究对人
+参叶有效利用及其中含有的生物活性成分应用于哮喘
+的临床治疗具有重要的指导意义。 
+1  材料和方法 
+1.1  材料与仪器 
+新鲜人参叶购于广州市石牌区二天堂大药房，由
+暨南大学药学院陈河如教授鉴定；文中使用的检测试
+剂盒、RIPA 缓冲液和 RNase 购于碧云天生物科技有
+限公司（上海）；16HBE 细胞购于中国科学院细胞库
+（上海）；抗体购于 Cell Signaling（CST，USA）；其
+它化学品均购于 Sigma 或 Adamas。 
+KQ-250B 超声波提取器，昆山市超声波仪器有限
+公司；Hei-VAP Core ML G3 XL 旋转蒸发仪，购于德
+国海道夫公司；Agilent 1100 半制备型高效液相色谱仪
+购于美国安捷伦公司。 
+1.2  人参叶有效成分提取和分析 
+人参叶酚类成分的提取按照前述方法[15]进行，即
+通过超声提取法对新鲜人参叶（1.92 kg）酚类活性成
+分进行提取，以水/二氯甲烷（1:1）为提取剂，料液
+比 1:20（m/V，g/mL）萃取，并通过旋转蒸发仪对提
+取药液浓缩，得人参叶提取物浸膏（87 g）。将二氯甲
+烷组分（8.25 g）硅胶柱层析，用乙酸乙酯-甲醇梯度
+体系（100:1、10:1、1:1、0:1）洗脱，得到 4 个组分。
+基于 BaP 暴露诱导的 16HBE 细胞损伤模型，评价以
+上 4 个组分的保护活性，活性最佳部分用于后续分离。
+将组分 1（1.24 g）置于硅胶柱上，用二氯甲烷/甲醇溶
+剂体系（100:5、20:1、1:1、0:1）梯度洗脱，得 5 个
+亚组分。基于 BaP 暴露诱导的 16HBE 细胞损伤模型，
+评价以上 5 个组分的保护活性，活性最佳部分用于后
+续分离。组分 2（0.71 g）采用半制备型高效液相色谱
+法（甲醇-水，40:60；流速：3 mL/min），得到 GLP-1
+（tR 5.2 min）、GLP-4（tR 7.8 min）和 GLP-11（tR 11.3 
+min）；组分 4（0.88 g）采用半制备型高效液相色谱法
+（甲醇-水，30:70；流速：3 mL/min），得到 GLP-2（tR 
+12.2 min）、GLP-5（tR 15.5 min）和 GLP-9（tR 19.4 
+min）；组分 5（0.95 g）采用半制备型高效液相色谱法
+（甲醇-水，50:50；流速：3 mL/min），得到 GLP-3（tR 
+7.8 min）、GLP-6（tR 11.3 min）、GLP-7（tR 17.3 min）、
+GLP-8（tR 22.5 min）和 GLP-10（tR 29.0 min）；进一
+步的 GLP-1~11 的结构通过 1H-NMR、13C-NMR 和
+ESI-MS 进行分析鉴定。 
+本项目分析仪器使用 ACQUITY UPLC 系统联合
+和 Q Exactive HF 混合四极杆 Orbitrap，并带有 ESI 离
+子源和 Orbitrap 质量分析仪。质谱仪以 35000 质量分
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+11 
+辨率（200 m/z）运行，配备 C18 色谱柱（UPLC BEH 
+C18，2.1×100 mm，1.7 mm；Waters）结合使用。梯
+度洗脱所用的流动溶液为水和甲醇，其中含有 0.05%
+的全氟戊酸（PFPA）和 0.1%的 FA。柱温为 40 ℃，
+进样量 5 µL，检测波长 254 nm，流速 0.4 mL/min。质
+谱扫描范围设置为 70~1000 m/z。在正离子和负离子模
+式下，MS 毛细管温度均为 350 ℃。 
+1.3  细胞培养及细胞活性检测 
+按参考文献[16]所述方法进行细胞培养，即将人支
+气管上皮（16HBE）细胞培养于 10%胎牛血清（FBS）、
+100 U/mL 青霉素、100 μg/mL 链霉素、2 mmol/L 谷氨
+酰胺等配置的 Dulbecco's Modified Eagle Medium
+（DMEM）培养基中（37 °C，5% CO2）。 
+GLPs 对 16HBE 细胞的保护活性采用 CCK8 试剂
+盒测定：16HBE 细胞（1×104 cells/孔）接种到含有 200 
+μL 培养基的 96 孔培养板中，过夜。细胞经 BaP（1.00 
+μmol/L）暴露 2.0 h 后，冷磷酸盐缓冲液（PBS）清洗
+2 遍，再加入含有 5 μg/mL GLPs 的培养基培养 12 h，
+CCK8 试剂盒检测细胞活力。 
+1.4  细胞内活性氧（ROS）和炎症细胞因子检测 
+ROS和炎症细胞因子（IL-33、IL-25、IL-1β及IL-6）
+检测分别按照相应检测试剂盒说明书进行：16HBE 细
+胞（5×105 cells/孔）接种于 6 孔板，过夜；BaP（1 μm）
+暴露 2 h，冷 PBS 清洗 2 遍，再加入含有 GLP-8（5 
+μg/mL、25 μg/mL）的培养基培养 12 h。据检测试剂
+盒要求，测量细胞内 ROS 和炎症细胞因子含量。 
+1.5  线粒体跨膜电位（ΔΨm）及细胞凋亡检测 
+按照参考文献进行线粒体跨膜电位检测，即
+16HBE 细胞（5×105 cells/孔）接种于 6 孔板，过夜；
+然后 BaP（1 μmol/L）暴露 2 h，冷 PBS 清洗 2 遍，加
+入含有 GLP-8（5 μg/mL、25 μg/mL）的培养基培养
+12 h，收集细胞，冷 PBS 洗涤。室温，加入含有 1 μg/mL 
+JC-1 染液孵育 30 min。弃上清液，使用流式细胞仪检
+测[18]。 
+按照参考文献进行细胞凋亡检测，即 16HBE 细
+胞（5×105 cells/孔）接种于 6 孔板，过夜；然后 BaP
+（1 μmol/L）暴露 2 h，冷 PBS 清洗 2 遍，加入含有
+GLP-8（5 μg/mL、25 μg/mL）的培养基培养 12 h，收
+集细胞 Annexin V-FITC/PI 孵育，流式细胞仪检测细胞
+状态[17]。 
+1.6  Western blotting 实验 
+16HBE 细胞（3×106 cells/皿）接种于 10 cm 培养
+皿中培养过夜；BaP（1 μmol/L）暴露 2 h，冷 PBS 清
+洗 2 遍，加入含有 GLP-8（5 μg/mL、25 μg/mL）的培
+养基培养 12 h，收集细胞，采集总蛋白，用 Bradford
+蛋白测定法测定蛋白质含量。参考文献进行 Western 
+blotting 蛋白分析[18]。利用 Image J 软件对蛋白密度进
+行分析。 
+1.7  统计分析 
+用 Graphpad Prism 5（San Diego，USA）进行数
+据分析；通过 Student's t-检验进行对照和治疗之间的
+统计学比较。所有实验至少进行 3 次；数据表示为平
+均值（mean）±平均值的标准误差（SD）；p<0.05 被
+认为具有统计学意义。 
+2  结果与讨论 
+2.1  人参叶酚类化合物的分离及鉴定 
+经活性追踪及多种色谱分离方法共分离鉴定出
+11 个人参叶酚类化合物（图 1）分别为 GLP-1
+（Oligophculatin A）、GLP-2（Oligophculatin B）、GLP-3
+（Oligophculatin C）、GLP-4（Oligophculatin D）、GLP-5
+（Oligophculatin E）、GLP-6（Oligophculatin F）、GLP-7
+（Albaspidin AP）、GLP-8（Albaspidin AA）、GLP-9
+（
+Albaspidin 
+AB
+）
+、
+GLP-10 
+（ Methylene-bis-phlorobutyrophenone ）、 GLP-11
+（ 1-[3-[(3-acetyl-2,4,6-trihydroxyphenyl)methyl]-2,4,6-t
+rihydroxyphenyl] butanone）。其中，GLP-1~11 均为首
+次从人参叶中分离获得。 
+参考相关文献[19]，通过高效液相色谱仪测得
+GLP-1~11 的纯度>98.0%。 
+ 
+ 
+ 
+ 
+ 
+ 
+图 1 GLP-1~GLP-11 结构式 
+Fig.1 GLP-1~GLP-11 structure formula 
+注：GLP-1：黄色油状物，HR-ESI-MS 显示准分子离子峰 m/z 341.1729 [M+Na]+（C19H26O4Na，理论计算值：341.1723），确定分子式为 C19H26O4，1H NMR 及 13C NMR 数据总结于表 1；GLP-2：
+黄色油状物，HR-ESI-MS 显示准分子离子峰 m/z 319.1904 [M+H]+（C19H27O4，理论计算值：319.1904），确定分子式为 C19H26O4，1H NMR 及 13C NMR 数据总结于表 1；GLP-3：淡黄色油状物，HR-ESI-MS
+显示准分子离子峰 m/z 357.1676 [M+Na]+（C19H26O5Na，理论计算值：357.1672），确定分子式为 C19H26O5，1H NMR 及 13C NMR 数据总结于表 1；GLP-4：淡黄色油状物，HR-ESI-MS 显示准分子
+离子峰 m/z 357.1678 [M+Na]+（C19H26O5Na，理论计算值：357.1672），确定分子式为 C19H26O5，1H NMR 及 13C NMR 数据总结于表 1；GLP-5：黄色油状物，HR-ESI-MS 显示准分子离子峰 m/z 335.1855 
+[M+H]+（C19H27O5，理论计算值：335.1853），确定分子式为 C19H26O5，1H NMR 及 13C NMR 数据总结于表 1；GLP-6：黄色油状物，HR-ESI-MS 显示准分子离子峰 m/z 373.1985 [M+Na]+（C20H30O5Na，
+理论计算值：373.1985），确定分子式为 C20H30O5，1H NMR 及 13C NMR 数据总结于表 1；GLP-7：黄色粉末，HR-ESI-MS m/z: 419.1692 [M+H]+（calcd for C22H27O8，419.1700），确定分子式为 C22H27O8，
+1H NMR 及 13C NMR 数据总结于表 2；GLP-8：黄色粉末，HR-ESI-MS m/z: 405.1548 [M+H]+（calcd for C21H25O8，405.1544），确定分子式为 C21H25O8，1H NMR 及 13C NMR 数据总结于表 2；GLP-9：
+黄色粉末，HR-ESI-MS m/z: 433.1856 [M+H]+（calcd for C23H29O8，433.1857），确定分子式为 C23H29O8，1H NMR 及 13C NMR 数据总结于表 2；GLP-10：淡紫色粉末，HR-ESI-MS m/z: 427.1365 [M+H]+
+（calcd for C21H24NaO8，427.1363），确定分子式为 C21H24O8，1H NMR 及 13C NMR 数据总结于表 2；GLP-11：淡紫色粉末，HR-ESI-MS m/z: 377.1232 [M+H]+（calcd for C19H21NaO8，377.1232），确
+定分子式为 C19H21O8，1H NMR 及 13C NMR 数据总结于表 2。 
+ 
+ 
+12 
+ 
+ 
+表 1 化合物 GLP-1~6 
+1H 及
+13C NMR 数据 (CDCl3, δ in ppm) 
+Table 1 NMR data of GLP-1~6 (CDCl3, δ in ppm) 
+GLPs 
+1 
+ 
+2 
+3 
+4 
+5 
+6 
+position 
+δC 
+δH (J in Hz) 
+ 
+δC 
+δH (J in Hz) 
+δC 
+δH (J in Hz)
+δC 
+δH (J in Hz) 
+δC 
+δH (J in Hz)
+δC 
+δH (J in Hz) 
+1 
+204.9 
+ 
+ 205.70 
+- 
+203.60
+- 
+203.60 
+- 
+203.30
+- 
+203.70
+- 
+2 
+31.2 
+2.66 (s) 
+ 
+31.30 
+2.69 (s) 
+31.10
+2.67 (s) 
+31.50 
+2.68 (s) 
+31.40
+2.68 (s) 
+31.10
+2.68 (s) 
+1′ 
+115.5 
+- 
+ 115.70 
+- 
+115.00
+- 
+115.70 
+6.52 (overlapped)
+113.30
+- 
+114.90
+- 
+2′ 
+161.3 
+- 
+ 161.30 
+- 
+161.10
+- 
+163.90 
+- 
+163.60
+- 
+161.30
+- 
+3′ 
+109.3 
+- 
+ 109.60 
+- 
+106.10
+- 
+107.10 
+- 
+107.00
+- 
+108.50
+- 
+4′ 
+161.7 
+- 
+ 162.80 
+- 
+158.70
+- 
+157.30 
+- 
+158.10
+- 
+162.20
+- 
+5′ 
+109.9 
+- 
+ 111.10 
+- 
+109.10
+ 
+108.60 
+- 
+108.8
+- 
+108.90
+- 
+6′ 
+162.1 
+- 
+ 161.10 
+- 
+159.10
+- 
+157.90 
+- 
+157.00
+- 
+160.80
+- 
+1′′ 
+23.7 
+3.30 (d, 6.6) 
+ 
+23.60 
+3.34 (d, 6.7) (overlapped)
+22.50
+3.24 (d, 6.8)
+22.90 
+1.09 (d, 6.5) 
+21.60
+3.28 (d, 7.3)
+22.50
+3.28 (d, 8.0) 
+2′′ 
+124.6 
+5.19 (t, 6.6) 
+ 124.40 
+5.21 (t, 6.7) (overlapped)
+123.30
+5.15 (t, 6.8)
+128.00 
+5.62 (d, 10.0) 
+122.3
+5.22 (m) 
+123.40
+5.21 (t, 8.0) 
+3′′ 
+132.0 
+- 
+ 132.50 
+- 
+131.30
+- 
+142.60 
+6.64 (dd, 16.2, 7.0)
+131.5
+- 
+131.60
+- 
+4′′ 
+18.0 
+1.76 (s) 
+ 
+18.00 
+1.80 (s) 
+18.10
+1.78 (s) 
+33.20 
+2.46 (m) 
+18.00
+1.79 (s) 
+21.90
+0.95 (d, 5.4) 
+5′′ 
+25.9 
+1.66 (s) 
+ 
+25.90 
+1.71 (s) 
+25.90
+1.69 (s) 
+22.90 
+1.09 (d, 6.5) 
+28.30
+1.44 (s) 
+23.50
+0.96 (d, 5.4) 
+1′′′ 
+117.1 
+5.87 (d, 10.8) 
+ 117.80 
+6.36 
+126.80
+5.50 (d, 10.0)
+110.7 
+- 
+128.1
+5.60 (d, 10.0)
+24.90
+1.83 (m) 
+2′′′ 
+146.2 
+5.69 (dd, 10.8, 9.9) 
+ 143.80 
+6.35 
+116.30
+6.67 (d, 10.0)
+116.90 
+6.51 (overlapped)
+116.9
+6.50 (d, 10.0)
+57.80
+3.39 (s) 
+3′′′ 
+30.0 
+2.21 (m) 
+ 
+33.90 
+2.47 (m) 
+78.00
+- 
+77.70 
+- 
+77.400
+- 
+78.20
+4.92 (dd, 12.0, 4.0) 
+4′′′ 
+22.7 
+0.92 (d, 6.6) 
+ 
+23.00 
+1.12 (d, 6.7) 
+28.50
+1.43 (s) 
+28.40 
+1.48 (s) 
+28.30
+1.44 (s) 
+25.80
+1.70 (s) 
+5′′′ 
+22.7 
+0.92 (d, 6.6) 
+ 
+23.00 
+1.12 (d, 6.7) 
+28.50
+1.43 (s) 
+28.40 
+1.48 (s) 
+26.00
+1.67 (s) 
+18.00
+1.77 (s) 
+1′′-OMe 
+- 
+- 
+ 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+44.30
+1.81 (m); 1.43 (m) 
+6′-OMe 
+63.40 
+3.72 (s) 
+ 
+63.40 
+3.73 (s) 
+62.90
+3.72 (s) 
+63.20 
+3.77 (s) 
+63.20
+3.76 (s) 
+62.80
+3.73 (s) 
+2′-OH 
+- 
+- 
+ 
+- 
+- 
+- 
+13.51 (s) 
+- 
+14.19 (s) 
+- 
+13.74 (s) 
+- 
+13.59 (s) 
+4′-OH 
+- 
+- 
+ 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+9.54 (s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+表 2 化合物 GLP-7~11 
+1H 及
+13C NMR 数据（CDCl3，δ in ppm） 
+Table 2 NMR data of GLP-7~11 (CDCl3, δ in ppm) 
+GLPs 
+7 
+ 
+8 
+GLPs 
+9 
+GLPs 
+10 
+11 
+Position 
+δC 
+δH (J in Hz) 
+δC 
+δH (J in Hz) 
+Position 
+δC 
+δH (J in Hz) 
+Position 
+δC 
+δH (J in Hz) 
+δC 
+δH (J in Hz) 
+1 
+198.8 
+- 
+ 
+199.5 
+- 
+1 
+199.4 
+- 
+1 
+162.6 
+- 
+163.5 
+- 
+2 
+110.9 
+- 
+ 
+110.8 
+- 
+2 
+110.9 
+- 
+2 
+106.5 
+- 
+105.5 
+- 
+3 
+187.7 
+- 
+ 
+187.7 
+- 
+3 
+187.7 
+- 
+3 
+163.3 
+- 
+162.5 
+- 
+4 
+44.6 
+- 
+ 
+44.6 
+- 
+4 
+44.6 
+- 
+4 
+96.6 
+5.94 s 
+96.6 
+5.95 s 
+5 
+173.6 
+- 
+ 
+173.6 
+- 
+5 
+173.7 
+- 
+5 
+163.3 
+- 
+163.7 
+- 
+6 
+108.6 
+- 
+ 
+108.6 
+- 
+6 
+108.6 
+- 
+6 
+105.6 
+- 
+105.5 
+- 
+1´ 
+110.8 
+- 
+ 
+110.8 
+- 
+1´ 
+110.9 
+- 
+1´ 
+106.5 
+- 
+106.5 
+- 
+2´ 
+199.5 
+- 
+ 
+199.5 
+- 
+2´ 
+199.5 
+- 
+2´ 
+162.6 
+- 
+163.2 
+- 
+3´ 
+108.1 
+- 
+ 
+108.1 
+- 
+3´ 
+108.2 
+- 
+3´ 
+105.6 
+- 
+106.6 
+- 
+4´ 
+173.4 
+- 
+ 
+173.4 
+- 
+4´ 
+173.4 
+- 
+4´ 
+163.3 
+- 
+162.7 
+- 
+5´ 
+44.4 
+- 
+ 
+44.4 
+- 
+5´ 
+44.6 
+- 
+5´ 
+96.6 
+- 
+96.5 
+5.95 s 
+6´ 
+187.7 
+- 
+ 
+187.7 
+- 
+6´ 
+187.7 
+- 
+6´ 
+163.3 
+- 
+163.7 
+- 
+1'' 
+203.3 
+- 
+ 
+203.3 
+- 
+1'' 
+203.3 
+- 
+1'' 
+208 
+- 
+208 
+- 
+2'' 
+34.9 
+3.21 q (7.2) 
+ 
+34.9 
+3.21 q (7.2) 
+2'' 
+43 
+3.15 m 
+2'' 
+46.8 
+3.05 t (7.4) 
+46.8 
+3.06 t (7.4) 
+3'' 
+29.3 
+2.72 s 
+ 
+3'' 
+18.3 
+1.70 m 
+3'' 
+19.3 
+1.69 m 
+19.3 
+1.69 m 
+1''' 
+8.6 
+1.17 t (7.2) 
+ 
+8.6 
+1.17 t (7.2) 
+4'' 
+29.3 
+2.72 s 
+4'' 
+16.2 
+3.65 s 
+16.2 
+3.68 s 
+1'''' 
+207.3 
+ 
+207.3 
+- 
+1''' 
+14.1 
+1.01 t (7.4) 
+1''' 
+14.3 
+0.97 t (7.4) 
+14.3 
+0.98 t (7.4) 
+2'''' 
+18.1 
+3.31 s 
+ 
+18.1 
+3.31 s 
+1'''' 
+206.4 
+- 
+1'''' 
+208 
+- 
+205.3 
+- 
+4-Me-1 
+24.3 
+1.54 s 
+ 
+24.3 
+1.54s 
+2'''' 
+18.1 
+3.31 s 
+2'''' 
+46.8 
+- 
+46.8 
+- 
+4-Me-2 
+25.4 
+1.47 s 
+ 
+25.4 
+1.46 s 
+3'''' 
+19.3 
+- 
+5''-Me-1 
+24.3 
+1.54s 
+ 
+24.3 
+1.53 s 
+4'''' 
+16.2 
+- 
+5''-Me-2 
+25.4 
+1.47s 
+ 
+25.4 
+1.46 s 
+Note: Measured at 500 (1H) and 125 (13C) MHz in CDCl3, Overlapped signals were reported without designating multiplicity. 
+14 
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+15 
+2.2  人参叶酚类化合物保护活性评价 
+用 不 同 浓 度 的 GLPs 最 终 化 合 物 的 纯 品
+（0.01~5.00 mg/mL）处理 16HBE 细胞 24 h，并通过
+CCK8 测定细胞活力以测定 GLPs 自身细胞毒性。实
+验结果表明，与空白对照组相比，GLPs 在低于 3.60 
+mg/mL 时，16HBE 细胞活力均无显著性差异。 
+与空白对照组（细胞存活率设为 100%）相比，
+BaP 暴露使 16HBE 细胞活力降低 19.70%，由此说明
+BaP 暴露对细胞造成了一定的损伤，进而使其细胞活
+力降低。而与 BaP 组相比，经 GLPs 处理后 16HBE
+细胞活力升高。其中，GLP-8 组 16HBE 细胞活力提升
+最为显著；与 BaP 组相比，16HBE 细胞活力提升
+13.90%（表 3）。由此得出，GLPs 可减轻 BaP 暴露导
+致的 16HBE 细胞损伤，进而发挥保护活性。基于
+GLP-8 具有最佳抗 BaP 暴露诱导的损伤活性，进而以
+GLP-8 为代表，研究其潜在的分子作用机制。 
+表 3 GLP-1~11 增强人气道上皮细胞（16HBE）抗 Bap 暴露导致
+的损伤活性 
+Table 3 GLP-1~11 enhance protective activity of 16HBE cells 
+against Bap-exposure induced cell viability decline 
+分组 
+细胞存活率/% 
+ 
+分组 
+细胞存活率/%
+Control 
+100±4.11 
+ 
+GLP-6 
+88.3±2.97 
+BaP 
+80.3±3.16# 
+ 
+GLP-7 
+90.5±3.03 
+GLP-1 
+87.5±2.82 
+ 
+GLP-8 
+94.2±2.99* 
+GLP-2 
+87.7±2.76 
+ 
+GLP-9 
+91.2±3.04* 
+GLP-3 
+89.8±2.91 
+ 
+GLP-10 
+90.2±3.10 
+GLP-4 
+89.3±3.03 
+ 
+GLP-11 
+91.3±3.26* 
+GLP-5 
+89.2±2.92 
+ 
+Resveratrol 
+91.8±3.13* 
+注：Mean±SD（n=3），#表示与 Control 组比较 p<0.05，*
+表示与 Bap 组比较 p<0.05。白藜芦醇（Resveratrol）阳性对照物。 
+2.3  GLP-8 抑制 BaP 暴露导致的 16HBE 细胞
+氧化应激 
+自由基活性氧（Reactive oxygen species，ROS）
+产生过剩或抗氧化能力下降会诱发 DNA 损伤和 DNA
+损伤修复反应及细胞凋亡[20]。研究报道，BaP 能够作
+用于人支气管上皮细胞、肺泡组织使谷胱甘肽过氧化
+物酶（Glutathione peroxidase，GSH-PX）、超氧化物歧
+化酶（Superoxide dismutase，SOD）活性降低，诱发
+ROS 及 MDA 含量升高，进而导致氧化应激，损伤人
+支气管上皮细胞及肺泡组织[21]。因此，减少 ROS 的
+生成是减轻氧化损伤的一种重要策略。如图 2a 所示，
+BaP 暴露显著诱导了 16HBE 细胞 ROS 的生成，与空
+白对照组相比，BaP 组 ROS 含量升高 247%。GLP-8
+处理后，BaP 诱导的 ROS 含量升高被显著抑制，ROS
+含量分别降低 19.30%（5 μg/mL）和 41.30%（25 
+μg/mL）。基于此可推测人参叶多酚类化合物可能是通
+过抑制 BaP 暴露导致的细胞内 ROS 过量产生，抑制
+氧化应激发挥保护活性的。 
+ 
+ 
+ 
+ 
+图 2 GLP-8 抑制 BaP 诱导的氧化应激 
+Fig.2 GLP-8 inhibits BaP-induced oxidative stress 
+注：16HBE 细胞（5×105 cells/孔）接种于 6 孔板，过夜；
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+16 
+然后 BaP（1.00 μmol/L）暴露 2 h，冷 PBS 清洗 2 遍，再加入
+含有 GLP-8（5 μg/mL、25 μg/mL）的培养基培养 12 h。收集细
+胞，（a）16HBE 细胞内的 ROS 含量变化检测；（b）16HBE 细
+胞 ΔΨm 变化检测；（c）Western blot 检测 GLP-8 对 BaP 暴露导
+致的 Bcl-2、Bax 及 Cyt c 表达的影响。数据以平均值±标准差
+（n=3）表示，#p<0.05，##p<0.01，空白对照组；*p<0.05，**p<0.01，
+BaP 组。 
+细胞凋亡线粒体途径在细胞氧化应激过程中起着
+重要作用[22]。为研究 GLP-8 减轻 BaP 诱导的细胞氧化
+损伤的潜在机制，进一步检测了 16HBE 细胞 ΔΨm 的
+变化情况。如图 2b 所示，与空白对照组相比（4.46%），
+BaP 暴露使 16HBE 细胞 ΔΨm 显著下降 13.33%。而经
+GLP-8 共培养后，ΔΨm 下降被显著抑制，BaP 暴露诱
+导的 ΔΨm 分别下降 7.87%（5 µg/mL）和 4.46%（5 
+µg/mL）。GLP-8 能够减少 BaP 暴露导致的 16HBE 细
+胞内 ROS 积累并抑制 BaP 暴露导致的 16HBE 细胞
+ΔΨm 下降。实验结果进一步证实，GLP-8 可能通过抑
+制 BaP 暴露导致的氧化应激发挥保护 16HBE 细胞作
+用。 
+线粒体通透性转变孔（Mitochondrial Permeability 
+Transition Pore，MPTP）是位于线粒体内外膜之间由
+多个蛋白质组成的复合通道。其中，Bcl-2 家族相关蛋
+白能够调控 MPTP。其次细胞内 Ca2+，ROS 等也可能
+直接或间接参与 MPTP 的调控[23]。MPTP 开放导致线
+粒体基质内的高渗透压可能使基质肿胀导致外膜破
+裂，释放出细胞色素 C（Cytochrome C，Cyt c）。而
+Cyt c 从线粒体释放到细胞浆会降低细胞抗氧化能力，
+进而诱发细胞凋亡[24]。本实验中，BaP 暴露显著诱导
+了 Cyt c 从线粒体释放到胞质中（图 2c）。而 GLP-8
+显著抑制了 BaP 暴露导致的 Cyt c 从线粒体到胞质的
+释放。Bcl-2 家族蛋白对细胞凋亡的调控至关重要，其
+中抗凋亡蛋白（Bcl-2）和促凋亡蛋白（Bax）的比例
+是调控 MPTP，决定细胞凋亡进程的关键调控因素[23]。
+因此，本文检测了 GLP-8 对 BaP 暴露导致的 Bcl-2 家
+族蛋白（Bcl-2 和 Bax）表达变化的影响。如图 2c 所
+示，BaP 暴露导致的 Bcl-2 下调及 Bax 表达上调，
+Bcl-2/Bax 比例降低。而 GLP-8 处理后，BaP 暴露导致
+的 Bcl-2/Bax 比例降低被显著扭转，这些结果表明
+GLP-8 可通过线粒体信号途径减轻 BaP 暴露导致的
+16HBE 细胞氧化应激。 
+2.4  GLP-8 抑制 BaP 暴露诱导的 16HBE 细胞
+炎症因子分泌 
+ 
+ 
+图 3 GLP-8 抑制 BaP 暴露诱导的炎症因子过表达 
+Fig.3 GLP-8 inhibits the over expression of inflammatory 
+factors induced by BaP exposure 
+注：16HBE 细胞（5×105 cells/孔）接种于 6 孔板，过夜；
+然后 BaP（1.00 μmol/L）暴露 2 h，冷 PBS 清洗 2 遍，再加入含
+有 GLP-8（5 μg/mL、25 μg/mL）的培养基培养 12 h，ELISA 检
+测相关细胞炎症因子含量变化。数据以平均值±标准差（n=3）表
+示，#p<0.05，##p<0.01，空白对照组；*p<0.05，**p<0.01，BaP 组。 
+ 
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+17 
+研究报道，BaP 暴露能够促进 Der f 1 诱导的上皮
+细胞因子释放，进而加重对气道上皮细胞的损伤[16]。
+接下来，本文研究了 BaP 暴露是否能诱导上皮细胞因
+子的产生，以及 GLP-8 是否能抑制这种反应。16HBE
+细胞 BaP 暴露后，ELISA 检测发现，IL-33、IL-25、
+IL-1β 及 IL-6 含量显著升高（图 3）；与空白对照组相
+比，BaP 暴露使 IL-33、IL-25、IL-1β 及 IL-6 含量分别
+升高 247%、67.90%、62.70%及 103.20%。相反的，
+GLP-8 抑制了 BaP 暴露诱导的 16HBE 细胞上皮细胞
+因子 IL-33、IL-25、IL-1β 及 IL-6 的过表达。与 BaP
+暴露组相比，GLP-8（25 μg/mL）使 IL-33、IL-25、IL-1β
+及 IL-6 的分泌减少 60.10%、28.90%、33.50%及
+41.90%。以上实验结果说明，GLP-8 可能是通过抑制
+BaP 暴露导致的炎症细胞因子发挥保护功能的。 
+2.5  GLP-8 抑制 BaP 暴露诱导的 16HBE 细胞
+凋亡 
+细胞凋亡是一种程序性细胞死亡形式，在细胞凋
+亡过程中细胞形态会发生显著的变化，如细胞收缩、
+核碎裂和染色质凝聚等[25]。本实验中，与空白对照组
+（细胞总凋亡率为 7.80%）相比，BaP 暴露使细胞凋
+亡显著增加（BaP 组，细胞总凋亡率为 24.50%）。而
+与 BaP 暴露组相比，GLP-8 治疗组细胞凋亡率分别降
+低 5.80%和 9.30%（图 4）。细胞凋亡实验为 GLP-8 抑
+制 BaP 暴露诱导的 16HBE 细胞损伤提供了进一步的
+证据。 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+图 4 GLP-8 减少 BaP 诱导的 16HBE 细胞凋亡 
+Fig.4 GLP-8 reduces BaP-induced apoptosis of 16HBE cells 
+注：16HBE 细胞（5×105细胞/孔）接种于 6 孔板，过夜；
+然后 BaP（1.0 μmol/L）暴露 2 h，冷 PBS 清洗 2 遍，再加入含
+有 GLP-8（5 μg/mL、25 μg/mL）的培养基培养 12 h，收集细胞
+Annexin-V-FITC/PI 染色，流式分析细胞凋亡。数据以平均值±
+标准差（n=3）表示，#p<0.05，##p<0.01，空白对照组；*p<0.05，
+**p<0.01，BaP 组。 
+2.6  GLP-8抑制BaP诱导的芳基烃受体（AhR）
+活化及核苷酸结合寡聚化结构域样受体蛋白 3
+（NLRP3）炎症小体激活 
+研究报道，芳基烃受体（AhR）活化在 BaP 加重
+尘螨诱发的过敏性哮喘患者炎症细胞因子 IL-33、
+IL-25 和胸腺基质淋巴细胞生成素（Thymic Stromal 
+Lymphopoietin，TSLP）的过表达中具有十分重要的作
+用[17]。为了检测 GLP-8 能否抑制 BaP 暴露诱导的 AhR
+活化，本文检测了 AhR 及其下游主要蛋白细胞色素
+P450 亚酶 1A1（CYP1A1）的表达情况。结果如图 5a、
+5b 显示，BaP 暴露使 AhR 及 CYP1A1 的表达显著增
+加，而 GLP-8 抑制了 BaP 暴露诱发的 AhR 信号激活。
+研究报道，BaP 暴露会诱导呼吸道上皮细胞 ROS 产
+生，激活 AhR 信号通路并进一步诱发上皮细胞因子过
+表达。本文的实验结果显示，GLP-8 能够抑制 BaP 暴
+露诱导的 16HBE 细胞 ROS 过量产生，GLP-8 处理后，
+ROS 含量分别降低 19.30%（5 μg/mL）和 41.30%（25 
+μg/mL）；GLP-8 也能够抑制 BaP 暴露诱导的 16HBE
+细胞 AhR 信号通路激活，与空白对照组（AhR 表达
+设为 100%）相比，BaP 暴露使 AhR 的表达增加
+89.10%，CYP1A1 的表达增加 49.32%，经 GLP-8 处
+理后，BaP暴露使AhR的表达降低了40.00%，CYP1A1
+的表达降低了 65.50%。 
+ 
+ 
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+18 
+ 
+ 
+图 5 GLP-8 抑制 BaP 暴露诱导的 AhR 信号通路及 NLRP3 炎
+症小体相关蛋白表达 
+Fig.5 GLP-8 inhibits the AhR signaling pathway and 
+NLRP3 inflammasome-related protein expression induced by 
+BaP exposure 
+注：16HBE 细胞（3×106 cells/皿）接种于 10 cm 培养皿中
+培养过夜；然后 BaP（1.00 μmol/L）暴露 2 h，冷 PBS 清洗 2
+遍，再加入含有 GLP-8（5 μg/mL、25 μg/mL）的培养基培养
+12 h，收集细胞，采集总蛋白，Western blotting 检测蛋白 AhR、
+CYP1A1、ASC、NLRP3 及 Caspase-1 的表达变化。数据以平
+均值±标准差（n=3）表示，#p<0.05，##p<0.01，空白对照组；
+*p<0.05，**p<0.01，BaP 组。 
+NLRP3 炎症小体是由 NOD 样受体（NOD-like 
+receptor，NLR）家族成员 NLRP3 蛋白与 ASC 接头蛋
+白及胱冬肽酶-1（Caspase-1）胱冬肽酶形成的一个多
+蛋白复合物，其活化后能促进 IL-1β、IL-18 和 IL-33
+等多种炎症细胞因子的剪切，成熟与分泌，因而在炎
+症发生过程中起关键作用。NLRP3 炎症小体作为固有
+免疫的重要组分在机体免疫反应和疾病发生过程中具
+有重要作用[26]。因此，本实验中进一步检测了 BaP 暴
+露及 GLP-8 对 NLRP3 炎症小体 NLRP3、ASC 及
+Caspase-1 蛋白表达的影响。结果如图 5c、5d 所示，
+BaP 暴露显著诱导了 NLRP3 炎症小体 NLRP3、ASC
+及 Caspase-1 蛋白的表达，分别增加 69.80%、92.60%、
+151.20%；而 GLP-8 抑制了 BaP 暴露诱发的 NLRP3
+炎症小体激活，GLP-8 处理后的 NLRP3、ASC 及
+Caspase-1 蛋白表达量增加显著降低，分别为 19.40%
+（5 µg/mL）、18.58%（5 µg/mL）、67.40%（5 µg/mL）。 
+3  结论 
+本研究发现环境污染物BaP暴露会诱发气道上皮
+细胞 ROS 过量产生并诱发氧化应激，激活 AhR 信号
+通路；进一步的，BaP 暴露会诱发气道上皮细胞炎症
+因子分泌并激活 NLRP3 炎症小体，最终导致细胞凋
+亡。本文分离的人参叶多酚类化合物具有抗 BaP 诱导
+的氧化损伤及炎症损伤的活性。其中，GLP-8 能够抑
+制 BaP 暴露诱导的 ROS 过量产生及炎症细胞因子
+（IL-33、IL-25、IL-1β 及 IL-6）等过表达。进一步研
+究发现，GLP-8 可能是基于抑制 NLRP3 炎症小体及
+AhR 信号通路相关蛋白的表达进而发挥抗炎及抗氧
+化活性的。同时，本研究为人参叶有效活性成分的提
+取及其应用于哮喘的临床治疗方面提供了一定的理论
+借鉴依据。 
+参考文献 
+[1] 
+汪枫林,刘德行.TRPV1 在哮喘发病机制中作用的研究进
+展[J].中国病理生理杂志,2020,36(8):1502-1508 
+WANG Fenglin, LIU Dexing. Progress in effect of TRPV1 
+on pathogenesis of asthma [J]. Chinese Journal of 
+Pathophysiology, 2020, 36(8): 1502-1508 
+[2] 
+郑鑫,张志红.空气污染物对哮喘相关基因 DNA 甲基化影
+响的研究进展[J].环境与职业医学,2016,33(8):795-800 
+ZHENG Xin, ZHANG Zhihong. Research progress on DNA 
+methylation of asthma related genes induced by air pollutants 
+[J]. J Environ Occup Med, 2016, 33(8): 795-800 
+[3] 
+邸沂遥,关继涛,阎锡新.生活环境中主要空气污染物浓度
+与哮喘患者肺功能、呼出气一氧化氮和血清 IgE 水平的关
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+19 
+系[J].山东医药,2017,57(11):84-87 
+DI Yiyao, GUAN Jitao, YAN Xixin. Relationship between 
+the concentration of main air pollutants in living environment 
+and lung function, exhaled nitric oxide and serum IgE levels 
+in patients with asthma [J]. Shandong Medical Journal, 2017, 
+57(11): 84-87 
+[4] 
+Carrard J, Marquillies P, Pichavant M, et al. Chronic 
+exposure to benzo(a)pyrene-coupled nanoparticles worsens 
+inflammation in a mite-induced asthma mouse model [J]. 
+Allergy, 2021, 76(5): 1562-1565 
+[5] 
+Ibon Eguiluz-Gracia, Alexander G Mathioudakis, Sabine 
+Bartel, et al. The need for clean air: the way air pollution and 
+climate change affect allergic rhinitis and asthma [J]. Allergy, 
+2020, 75(9): 2170-2184 
+[6] 
+Hee-Sook Jee, Kyung-Hoon Chang, Sun-Hee Moon, et al. 
+Anti-Helicobacter pylori, Cytotoxic, and anti-inflammatory 
+activities of white ginseng extract [J]. Food Science and 
+Biotechnology, 2008, 17(5): 1106-1109 
+[7] 
+Tien-Lam Tran, Young-Ran Kim, Jun-Li Yang, et al. 
+Dammarane triterpenes from the leaves of Panax ginseng 
+enhance cellular immunity [J]. Bioorganic & Medicinal 
+Chemistry, 2014, 22(1): 499-504 
+[8] 
+Yun Miyong, Yi Youngsu. Regulatory roles of ginseng on 
+inflammatory caspases, executioners of inflammasome 
+activation [J]. Journal of Ginseng Research, 2020, 44(3): 
+373-385 
+[9] 
+Chen W X, Wang F, Liu Y Y, et al. Effect of notoginsenoside 
+R1 on hepatic microcirculation disturbance induced by gut 
+ischemia 
+and 
+reperfusion 
+[J]. 
+World 
+Journal 
+of 
+Gastroenterology, 2008, 1: 29-37 
+[10] Whi Min Lee, Sung Dae Kim, Myung Hwan Park, et al. 
+Inhibitory mechanisms of dihydroginsenoside Rg3 in platelet 
+aggregation: critical roles of ERK2 and cAMP [J]. Journal of 
+Pharmacy and Pharmacology, 2008, 60(11): 1531-1536 
+[11] 王英婷,黄燮南,王风安.人参皂苷 Rg1 抑制 PGF_(2α)诱导
+心肌细胞肥大[J].中国药理学通报,2008,5: 611-615 
+WAGN Yingting, HUANG Xienan, WANG Feng’an. 
+Ginsenoside Rg1 inhabits cardiomyocyte hypertrophy 
+induced by prostaglandin F2α [J]. Chinese Pharmacological 
+Bulletin, 2008, 5: 611-615 
+[12] Bi Xiuli, Xia Xichun, Mou Teng, et al. Anti-tumor activity of 
+three ginsenoside derivatives in lung cancer is associated with 
+Wnt/β-catenin signaling inhibition [J]. European Journal of 
+Pharmacology, 2014, 742: 145-152 
+[13] Cheng Y, Shen L H, Zhang J T. Anti-amnestic and anti-aging 
+effects of ginsenoside Rg1 and Rb1 and its mechanism of 
+action [J]. Acta Pharmacologica Sinica, 2005, 26(2): 143-149 
+[14] Hongwei Wang, Dacheng Peng, Jingtian Xie. Ginseng 
+leaf-stem: bioactive constituents and pharmacological 
+functions [J]. Chinese Medicine, 2009, 4(1): 1-8 
+[15] 金学俊,栗铭鸿,崔福顺.人参茎叶成分分析及提取物抗氧
+化活性研究[J].食品科技,2018,43(9):279-284 
+JIN Xuejun, LI Minghong, CUI Fushun. Research on content 
+of components and biological activity of extracts from stems 
+and leaves of Panax ginseng [J]. Food Science and 
+Technology, 2018, 43(9): 279-284 
+[16] Wang E, Tu W, Do D C, et al. Benzo(a)pyrene enhanced 
+dermatophagoides group 1 (Der f 1)-induced TGFβ1 
+signaling 
+activation 
+through 
+the 
+aryl 
+hydrocarbon 
+receptor-RhoA axis in asthma [J]. Front Immunol, 2021, 15: 
+643260 
+[17] 伍龙果,蔡劲薇,潘吉铭,等.地塞米松通过线粒体途径诱导
+成骨细胞凋亡的研究[J].中国骨质疏松杂志,2019,25(3): 
+380-384,403 
+WU Longguo, CAI Jinwei, PAN Jiming, et al. Apoptosis of 
+osteoblasts induced-dexamethasone via the mitochondria 
+pathway [J]. Chin J Osteoporos, 2019, 25(3): 380-384, 403 
+[18] Härtlova A, Peltier J, Bilkei-Gorzo O, et al. Isolation and 
+western blotting of latex-bead phagosomes to track phagosome 
+maturation [J]. Methods Mol Biol, 2017, 1519: 241-248 
+[19] 谭丽娟,金学俊,李官浩,等.盐酸水解处理对人参茎叶抗氧
+化活性的影响[J].食品工业,2016,6:173-176 
+TAN Lijuan, JIN Xuejun, LI Guanhao, et al. Effect of 
+hydrochloric acid hydrolysis on antioxidant activity of Panax 
+ginseng stems and leaves [J]. The Food Industry, 2016, 6: 
+173-176 
+[20] Zhou Yijing, Zhang Shiping, Liu Changwei, et al. The 
+protection of selenium on ROS mediated-apoptosis by 
+mitochondria dysfunction in cadmium-induced LLC-PK(1) 
+cells [J]. Toxicology in Vitro: an International Journal 
+Published in Association with BIBRA, 2009, 23(2): 288-294 
+[21] 杨瑾,刘晓勇,邹云锋,等.苯并芘作用下人支气管上皮细胞
+切除修复交叉互补蛋白Ⅰ表达的变化[J].毒理学杂志,2009, 
+23(3):177-180 
+YANG Jin, LIU Xiaoyong, ZOU Yunfeng, et al. Dynamic 
+changes of nucleotide excision repair proteins expression and 
+their correlations with levels of DNA damage in human 
+bronchial epithelia cells exposed to benzo(a) pyrene [J]. 
+Journal of Toxicology, 2009, 23(3): 177-180 
+（下转第 73 页） 
+现代食品科技 
+Modern Food Science and Technology 
+2022, Vol.38, No.6 
+73 
+[23] Mohammed S Chaudhry, Enrico Velardi, Jarrod A Dudakov, 
+et al. Thymus: the next (re)generation [J]. Immunological 
+Reviews, 2016, 271(1): 56-71 
+[24] Steven M Lewis, Adam Williams, Stephanie C Eisenbarth. 
+Structure and function of the immune system in the spleen [J]. 
+Science Immunology, 2019, 4(33): eaau6085 
+[25] Harry W Schroeder Jr, Lisa Cavacini. Structure and function 
+of immunoglobulins [J]. The Journal of Allergy and Clinical 
+Immunology, 2010, 125(S2): S41-S52 
+[26] Rachel L Clement, Joe Daccache, Mostafa T Mohammed, et 
+al. Follicular regulatory t cells control humoral and allergic 
+immunity by restraining early b cell responses [J]. Nature 
+Immunology, 2019, 20(10): 1360-1371 
+[27] CHEN Kang, Giuliana Magri, Emilie K Grasset, et al. 
+Rethinking mucosal antibody responses: IgM, IgG and IgD 
+join IgA [J]. Nature Reviews Immunology, 2020, 20(7): 
+427-441 
+[28] 李丹,王文千,李明亮,等.蜂王浆对免疫功能低下小鼠免疫
+功能的影响[J].食品与发酵工业,2022,48(1):139-145 
+LI Dan, WANG Wenqian, LI Mingliang, et al. Effect of royal 
+jelly on immune function of mice with immunodeficiency [J]. 
+Food and Fermentation Industries, 2022, 48(1): 139-145 
+[29] QI Qiuchen, DONG Zhonghua, SUN Yueyue, et al. 
+Protective 
+effect 
+of 
+bergenin 
+against 
+cyclophosphamide-induced 
+immunosuppression 
+by 
+immunomodulatory effect and antioxidation in Balb/c mice 
+[J]. Molecules, 2018, 23(10): 2668-2682 
+[30] LIAO Wei, LIN Jianxin, Warren J Leonard. Interleukin-2 at 
+the crossroads of effector responses, tolerance, and 
+immunotherapy [J]. Immunity, 2013, 38(1): 13-25 
+[31] HE Jing, ZHANG Xia, WEI Yunbo, et al. Low-dose 
+interleukin-2 treatment selectively modulates CD4(+) T cell 
+subsets in patients with systemic lupus erythematosus [J]. 
+Nature medicine, 2016, 22(9): 991-993 
+[32] Chi Chiu Mok, Kwok Hungchan, Ling Yinho, et al. Safety 
+and immune response of a live-attenuated herpes zoster 
+vaccine in patients with systemic lupus erythematosus: a 
+randomised placebo-controlled trial [J]. Annals of the 
+Rheumatic Diseases, 2019, 78(12): 1663-1668 
+[33] WEN Zhengshun, TANG Zhen, GU Lixia, et al. 
+Immunomodulatory 
+effect 
+of 
+low 
+molecular-weight 
+seleno-aminopolysaccharide on immunosuppressive mice [J]. 
+International Journal of Biological Macromolecules, 2019, 
+123(1): 1278-1288 
+[34] Eugene 
+Varfolomeev, 
+Domagoj 
+Vucic. 
+Intracellular 
+regulation of TNF activity in health and disease [J]. Cytokine, 
+2018, 101(1): 26-32 
+[35] Pankaj Seth, Eva Csizmadia, Andreas Hedblom, et al. 
+Deletion of lactate dehydrogenase-A in myeloid cells triggers 
+antitumor immunity [J]. Cancer Research, 2017, 77(13): 
+3632-3643 
+[36] Deepak Kumar Kaushik, Anindita Bhattacharya, Reza 
+Mirzaei, et al. Enhanced glycolytic metabolism supports 
+transmigration of brain-infiltrating macrophages in multiple 
+sclerosis [J]. The Journal of Clinical Investigation, 2019, 
+129(8): 3277-3292 
+                                                                                                                                                                                                   
+（上接第 19 页） 
+[22] Mithu Guha, Sanjay Kumar, Vinay Choubey, et al. Apoptosis 
+in liver during malaria: role of oxidative stress and 
+implication of mitochondrial pathway [J]. The FASEB 
+Journal, 2006, 20(8): 1224-1226 
+[23] Chen Qun, Xu Haishan, Xu Aijun, et al. Inhibition of Bcl-2 
+sensitizes mitochondrial permeability transition pore (MPTP) 
+opening in ischemia-damaged mitochondria [J]. PloS One, 
+2015, 10(3): e0118834 
+[24] 周波,刘启辰,张羿,等.瞬时受体电位香草酸亚型 1 激活通
+过抑制线粒体通透性转换孔开放保护急性心肌梗死小鼠
+的心肌细胞抗凋亡[J].中国生物化学与分子生物学报,2017, 
+33(5):514-520 
+ZHOU Bo, LIU Qichen, ZHANG Yi, et al. Activation of 
+transient receptor potential vanilloid 1/TRPV1 protects 
+cardiomyocytes against apoptosis in acute myocardial infarct 
+mice by closing mitochondrial permeability transition pore 
+[J]. Chinese Journal of Biochemistry and Molecular Biology, 
+2017, 33(5): 514-520 
+[25] 冯建芳,章静波.程序性细胞死亡及细胞凋亡[J].生理科学
+进展,1995,4:373-378 
+FENG Jianfang, ZHANG Jingbo. Programmed cell death and 
+apoptosis [J]. Progress in Physiological Sciences, 1995, 4: 
+373-378 
+[26] Xie Q, Shen W W, Zhong J, et al. Lipopolysaccharide/ 
+adenosine triphosphate induces IL-1β and IL-18 secretion 
+through the NLRP3 inflammasome in RAW264.7 murine 
+macrophage cells [J]. Int J Mol Med, 2014, 34(1): 341-349 

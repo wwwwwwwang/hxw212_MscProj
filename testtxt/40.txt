@@ -1,0 +1,354 @@
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.31
+NOV.2013
+引言
+吸烟是威胁人类健康的重要公共卫生问题[1，2]。香烟烟雾成
+分复杂，包含超过 4000 种化合物，如酚类、醌类、醛类等，可通
+过炎性反应、氧化应激、细胞凋亡、细胞脂质代谢等多种途径导
+致全身多种器官疾病的发生[3-5]。中药人参经多年实验研究和临
+床应用证实，具有改善组织缺血、防治再灌注损伤等多种功能。
+有研究表明，人参所含有的重要生物活性物质人参皂甙 Rb1
+（GRb1）所具有的钙通道阻滞功能可能在此过程中发挥重要作
+用[6]。本研究中，我们建立了烟灌注大鼠模型，并对吸烟大鼠脑
+细胞凋亡和细胞内 Ca2+ 浓度的变化进行检测，探讨 GRb1 对香
+烟烟雾致脑损伤的保护作用。
+1 材料与方法
+人参皂甙 Rb1 对香烟烟雾诱导的大鼠神经细胞凋亡和细胞内
+Ca2+ 浓度的影响
+庄
+严 1
+时
+京 2
+吕燕华 1
+曹亦宾 1
+王海英 1
+柳忠兰 3
+（1 河北医科大学附属唐山市工人医院神经内科 河北 唐山 063000；2 河北医科大学附属唐山市工人医院泌尿外科 河北 唐山
+063000；3 中国医科大学附属第一医院神经内科 辽宁 沈阳 110001）
+摘要 目的：探讨人参皂甙 Rb1(GRb1)对香烟烟雾诱导的大鼠神经细胞凋亡和细胞内 Ca2+ 浓度的影响。方法：雄性 Wistar 大鼠 48
+只，随机分为对照组、吸烟组和 GRb1 组，每组 16 只。吸烟组和 GRb1 组连续吸烟 12 周制作吸烟大鼠模型，期间每周给予 GRb1
+组和吸烟组大鼠分别腹腔注射 40mg/kg 的 GRb1 和等量生理盐水，对照组不做任何处理。提取大鼠大脑皮层组织，TUNEL 法检测
+各组细胞凋亡情况，荧光分光光度法检测细胞内 Ca2+ 浓度变化情况。结果：TUNEL 法检测表明，未经香烟烟雾处理的对照组大鼠
+大脑皮层细胞自然凋亡率为 2.54±0.92 个 / 视窗。连续吸烟 12 周，吸烟组大鼠大脑皮层细胞凋亡率较对照组显著升高，达
+20.62±2.13 个 / 视窗（q=35.72, P<0.01）。GRb1 组细胞凋亡率虽也有增加，为 11.48±2.37 个 / 视窗，明显低于吸烟组（q=15.39，
+P<0.01）。对照组、吸烟组和 GRb1 组大鼠大脑皮层细胞内 Ca2+ 浓度分别为 236.62±12.52ng/L、636.37±18.63 ng/L 和 353. 61±
+13.72 ng/L，GRb1 组 Ca2+ 浓度显著低于吸烟组（q=54.73，P<0.01）。结论：GRb1 对吸烟大鼠脑损伤的保护作用可能与抑制细胞内的
+Ca2+ 超载、降低香烟烟雾诱导的神经细胞凋亡有关。
+关键词：人参皂甙；香烟烟雾；凋亡；钙离子
+中图分类号：Q95-3，R285.5，R595
+文献标识码：A
+文章编号：1673-6273（2013）31-6019-04
+Effect of Ginsenoside Rb1 to Neuron Apoptosis and Intra-neuronal Ca2+
+Concentration of Rats Given Cigretting Smoke
+ZHUANG Yan 1, SHI Jing 2, LV Yan-hua 1, CAO Yi-bin 1, WANG Hai-ying 1, LIU Zhong-lan 3
+(1 Department of Neurology, Tang shan gongren Hospital affiliated to Hebei Medical University, Tangshan, Hebei, 063000, China;
+2 Department of Urology, Tangshan gongren Hospital affiliated to Hebei Medical University, Tangshan, Hebei, 063000, China;
+3 Department of Neurology, First Affiliated Hospital of China Medical University, Shenyang, Liaoning, 110001, China)
+ABSTRACT Objective: To explore the Effect of Ginsenoside Rb1 to neuron apoptosis and Intra-neuronal Ca2+ concentration of rats
+given smoke. Methods: 48 Wistar rats were randomly divided into 3 groups: control group, smoking group and GRb1 group. The rats of
+smoking group and GRb1 group were smoked 20rami a day for 12 weeks. During this period, 40mg/kg of GRb1 and the same amount of
+physiological saline were injected into abdominal cavity to the rats of GRb1 group and smoking group once a week, individually. The rats
+of control group were not given any treatments. After 12 weeks, the tissue of cerebral cortex was extracted. TUNEL was used to detect
+cell apoptosis and fluorescence spectrophotometry was used to detect the intra-neuronal Ca2+ concentration. Results: The result of
+TUNEL revealed that the natural apoptosis rate of control group was 2.54±0.92/field of vision. The apoptosis rates of smoking group
+and GRb1 group were 20.62±2.13 and 11.48±2.37/field of vision. The apoptosis rates of GRb1 group was inferior to smoking group
+obviously （q=15.39, P<0.01）. The intra-neuronal Ca2+ concentration of control group, smoking group and GRb1 group were 236.62±
+12.52ng/L, 636.37±18.63 ng/L and 353. 61±13.72 ng/L. The intra-neuronal Ca2+ concentration of GRb1 group was inferior to smoking
+group obviously （q=54.73, P<0.01）. Conclusions: GRb1 may protect neuron of rats given cigretting smoke by means of prohibiting the
+overloading of Intra-neuronal Ca2+ concentration and apoptosis of neuron.
+Key words: Ginseng saponins; Cigaretted Smoke; Apoptosis; Ca2+
+Chinese Library Classification(CLC): Q95-3，R285.5，R595
+Document code: A
+Article ID: 1673-6273(2013)31-6019-04
+作者简介：庄严(1976-)，女，硕士，副主任医师，从事脑血管病方向
+的研究，E-mail：Zysj1211@sina.com
+(收稿日期：2013-08-30 接受日期：2013-09-24）
+·6019
+·
+DOI:10.13241/j.cnki.pmb.2013.31.007
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.31
+NOV.2013
+1.1 材料
+8 周龄雄性 Wistar 大鼠由中国医科大学实验动物部提
+供。 TUNEL 试剂盒 （武汉博士德公司）；Fura-1/AM，DMSO，
+Ethyl-ene glycol-bis （2-aminoethyl ether）-N，N，N，N-tetraacetic
+acid（EGTA），TritonX-100（Sigma 公司）；胰蛋白酶，牛血清清蛋
+白，DMBM 高糖培养基，小牛血清（Gibco 公司）；试验用香烟为
+市售某品牌香烟，尼古丁含量 1.2 mg/ 支，焦油含量 16 mg/ 支；
+人参皂甙 Rb1 由中国药品生物检定所提供。
+1.2 动物分组
+Wistar 大鼠共 48 只，随机分为 3 组，每组 16 只：对照组、
+吸烟组、GRb1 组。吸烟组和 GRb1 组大鼠连续吸烟 12 周，吸烟
+量为 20 支 /d。每周给予 GRb1 组大鼠一次性腹腔注射 40
+mg/kg 的 GRb1，吸烟组给予腹腔注射等量生理盐水，对照组不
+做任何处理。
+1.3 吸烟动物模型的制备
+参照 Chow 等[7]烟灌注模型的建立方法。以角钢、有机玻璃
+及钢丝制成 600 mm×400 mm×300 mm 吸烟鼠箱，于鼠箱侧
+面斜对两侧各打双孔（直径 =10 mm，间距 =10 mm），一侧双孔
+接双腔空气泵，分别输入烟雾及空气，一侧双孔通外界，确保箱
+内空气中氧浓度与外界相同。
+1.4 细胞凋亡率检测
+每组随机选取 8 只大鼠，在麻醉下开胸，经升主动脉快速
+灌注肝素化生理盐水 250 mL，4%多聚甲醛磷酸盐缓冲液灌注
+固定 30 min，快速断头取脑，用同浓度多聚甲醛磷酸缓冲液固
+定脑组织 48h，常规石蜡包埋。距离嗅球尖端 7~11 mm 处取材，
+制成 4 μm 层厚的脑组织石蜡切片。然后按试剂盒说明书进行
+TUNEL 染色。应用 Quantiment 570C 图像分析系统，每张切片
+在 400 倍镜下随机测定 10 处视窗（视窗由计算机系统随机提
+供）内阳性细胞总数，除以 10 所得平均数记为该标本的凋亡细
+胞率。
+1.5 大鼠皮层神经细胞内 Ca2+ 浓度的测定
+每组随机选取 8 只大鼠断头取脑，去除软脑膜及表面血
+管，取出大脑皮层并剪碎，2.5 g/L 胰蛋白酶消化，30 min 后用含
+体积分数为 15% 小牛血清的冷 DMEM 高糖培养基中止消化，
+200 目尼龙筛网过滤，滤液以 1000 r/min 离心 5 min，沉淀用含
+体积分数为 15% 小牛血清的 DMEM 高糖培养基悬浮计数后
+制成浓度为每毫升 2×106 个细胞的细胞悬液，台盼蓝排斥实
+验检查，保证细胞活力在 95%以上。取 2 mL 脑细胞悬液，置于
+37℃ 水 浴 中 预 温 5 min 后 加 入 终 浓 度 为 5 μmol/L 的 Fu-
+ra-2/AM，37℃水浴中恒温振荡 45 min 负载，然后细胞用含
+0.2%牛血清清蛋白的 Hanks 液冲洗 2 次，将细胞浓度调整到
+2×106个 /mL。采用日立 MPE-4 型荧光分光光度计，激发光波
+长为 340 mm 和 280 mm，发射光波长为 500 mm，测静息荧光
+值 F，加 TritonX-100 破膜，测最大荧光值（Fmax），再加 EGTA
+络合，测最小荧光值（Fmin）。利用公式计算：细胞内游离 Ca2+
+浓度 =kd×(F-Fmin)/(Fmax-F)，其中 kd=224 nmol/L。
+1.6 统计学方法
+所有数据以 x±s 表示，采用 SPSS11.0 统计学分析软件对
+数据进行单因素方差分析 q 检验，组间比较用 SNK-q 检验。
+2 结果
+2.1 神经细胞细胞凋亡情况
+TUNEL 染色阳性细胞胞核呈棕黄色或棕褐色（图 1）。在
+对照组中，仅见少量 TUNEL 阳性细胞，其自然凋亡率为
+2.54±0.92 个 / 视窗。吸烟组、GRb1 组细胞凋亡率分别为
+20.62±2.13 和 11.48±2.37 个 / 视窗。吸烟组和 GRb1 组细胞
+凋亡率均高于对照组（q 值分别是 35.72 和 19.60，P 均 <0.01），
+但 GRb1 组细胞凋亡率明显低于吸烟组（q=15.39，P<0.01）（表
+1）。
+2.2 神经细胞内 Ca2+ 浓度变化
+对照组、吸烟组和 GRb1 组细胞内 Ca2+ 浓度分别为
+236.62 ±12.52ng/L、636.37 ±18.63 ng/L 和 353. 61 ±13.72
+ng/L。吸烟组和 GRb1 组细胞内 Ca2+ 浓度显著高于对照组（q 值
+分别是 74.51 和 39.22，P<0.01），而 GRb1 组细胞内 Ca2+ 浓度显
+著低于吸烟组（q=54.73，P<0.01）（表 1）。
+3 讨论
+香烟中含有包括尼古丁、镉、苯并芘、氧化剂和自由基等大
+量有害的化学成分，这些有害成分进入人体后会严重干扰人的
+正常生理功能，引起、促进或扩大细胞损害[8-10]。香烟烟雾产生
+的副作用是脑卒中发生发展的内在机制，但学界对香烟烟雾引
+图 1 各组大鼠神经细胞凋亡的情况
+Fig.1 Neuronal apoptosis in each group
+·6020
+·
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.31
+NOV.2013
+起的细胞死亡的具体方式还存在很大争议。Baglole 等[11]研究发
+现香烟烟雾可导致肺纤维原细胞氧化损伤、线粒体形态及膜电
+位改变。香烟烟雾亦可通过损伤线粒体结构和功能引发人脐静
+脉内皮细胞及人胃上皮细胞凋亡[12]。Liu X 等[13]研究发现香烟
+烟雾可引起神经细胞的快速死亡。本实验结果显示：在应用香
+烟烟雾连续作用 12 周后，吸烟组和 GRb1 组细胞内 Ca2+ 浓度
+显著高于对照组，随着烟雾浓度的增加，大鼠脑神经细胞凋亡
+数量显著增加，这表明香烟烟雾可通过诱导细胞凋亡，导致大
+鼠脑组织受损。这一结果佐证了 Sdralia 等[14]人的研究结论：导
+致细胞死亡的主要方式是香烟烟雾的浓度，作用时间以及作用
+的细胞类型。
+GRb1 是从人参中提取的一种生物活性物质[15，16]。Radad 等
+[17]发现 GRb1 可以通过对抗某些药物引起的细胞毒性作用，增
+加体外培养的神经元轴突数量，促进细胞存活。Jiang QS 等[18]
+人的研究结果表明人参皂甙 Rb1 可降低肥厚型心肌病大鼠细
+胞内游离钙浓度。本研究中我们发现 GRb1 组细胞凋亡率明显
+低于吸烟组，这表明给予大鼠腹腔注射 GRb1，可以减少因吸烟
+导致的脑神经细胞凋亡，GRb1 可以减轻香烟烟雾导致的脑细
+胞损伤，对神经细胞具有保护作用。
+GRb1 对细胞的保护作用，可能通过多种机制来完成。目前
+认为，对 Ca2+ 通道的阻滞作用可能是其发挥作用的关键。Ca2+
+是重要的第二信使，参与真核细胞跨膜信号转导途径。细胞质
+内的 Ca2+ 与细胞凋亡信号传导通路密切相关，它的升高参与了
+凋亡早期信号传导和凋亡的执行阶段，最终促进细胞凋亡的发
+生[19，20]。我们的研究发现，在香烟烟雾作用下，伴随大量细胞凋
+亡，大鼠脑神经细胞内 Ca2+ 浓度显著升高。而在应用 GRb1 处
+理后，这一过程被明显的抑制。这提示，GRb1 对脑神经细胞的
+保护作用可能与其抑制细胞内游离 Ca2+ 浓度升高有关。有研究
+表明，在凋亡刺激因素作用下，由于大量 Ca2+ 进入线粒体，消除
+质子梯度，使氧化磷酸化中断，细胞缺氧肿胀，并产生一系列凋
+亡刺激因子导致细胞凋亡。GRb1 对细胞凋亡的抑制作用，可能
+与其对抗细胞内 Ca2+ 浓度升高，有效保护了线粒体有关，对此
+还需要深入研究。
+总之，我们的研究表明，香烟烟雾可导致大鼠神经细胞凋
+亡，而 GRb1 可以通过降低细胞内 Ca2+ 超载、减少神经细胞凋
+亡而对香烟烟雾导致的脑损伤起保护作用。这一结果初步达到
+了本次研究的目的，为临床应用 GRb1 防治香烟烟雾所致神经
+毒性提供了有益的思路。但是香烟烟雾的成分非常复杂，GRb1
+是否还会通过其他途径影响神经细胞的凋亡和细胞内 Ca2+ 的
+浓度，以达到对神经细胞的保护作用，还有待于进一步深入的
+研究。
+参 考 文 献（References）
+[1]
+Bruckman D, Allan T, Stefanak M, et al. Enforcement of Ohio's
+Smoke Free Workplace Law through the lens of public health practice
+[J]. Public Health Rep, 2013, 128(1): 54-63
+[2] Hehir AM, Indig D, Prosser S, et al. Evaluation of a smoke-free foren-
+sic hospital: patients' perspectives on issues and benefits[J]. Drug Alc-
+ohol Rev, 2012, 31(5): 672-677
+[3] 张蕊, 王广增, 刘斌, 等. 香烟烟雾吸入对大鼠局灶性脑缺血细胞凋
+亡及脑梗死体积的影响 [J]. 中国煤炭工业医学杂志, 2008, 11(6):
+908-910
+Zhang Rui, Wang Guang-zeng, Liu Bin, et al. Effect of Cigarette
+Smoking on Expression of Apoptosis of Neurocyte and Infarction
+Volume in Rats[J]. Chinese Journal of Coal Industry Medicine, 2008,
+11(6): 908-910
+[4] 刘慧琳, 刘涛, 徐孝娜, 等. 人参皂甙 Rb1 对大鼠慢性缺氧性认知
+功能障碍的治疗作用 [J]. 现代生物医学进展, 2013, 13(22):
+4242-4245
+Liu Hui-lin, Liu Tao, Xu Xiao-na, et al. Ginsenoside Rb1 Attenuates
+Chronic Hypobaric Hypoxia-Induced Cognitive Deficits [J]. Progress
+in Modern Biomedicine, 2013, 13(22): 4242-4245
+[5] Lee IN, Lin MH, Chung CY, et al. Chronic cigarette smoke exposure
+enhances brain-derived neurotrophic factor expression in rats with
+traumatic brain injury[J]. Metab Brain Dis, 2012, 27(2): 197-204
+[6] Lin ZY, Chen LM, Zhang J, et al. Ginsenoside Rb1 selectively inhibits
+the activity of L-type voltage-gated calcium channels in cultured rat
+hippocampal neurons[J]. Acta Pharmacol Sin, 2012, 33(4): 438-444
+[7] Chow JY, Ma L, Cho CH. An experimental model for studying passive
+cigarette smoking effects on gastric ulceration [J]. Life Sci, 1996, 58
+(26): 2415-2422
+[8]
+Yagi S, Tsukatani T, Yata T, et al. Lipopolysaccharide-induced apop-
+tosis of olfactory receptor neurons in rats [J]. Acta Otolaryngol,
+2007,127(7): 748-753
+[9] 廖纪萍, 迟春花, 李海潮, 等. 连花清瘟胶囊对吸烟大鼠 Clara 细胞
+和氧化应激的影响[J]. 国际呼吸杂志, 2010, 30(4): 204-207
+Liao Ji-ping, Chi Chun-hua, Li Hai-chao, et al. Effects of Lianhuaqi-
+ngwen capsule on Clara cell and oxidative stress in smoking rats[J].
+International Journal of Respiration, 2010, 30(4): 204-207
+[10] Tizabi Y, Manaye KF, Taylor RE. Nicotine blocks ethanol-induced
+apoptosis in primary cultures of rat cerebral cortical and cerebellar
+组别 Groups
+对照组 Control group
+吸烟组 Smoking group
+GRb1 组 GRb1 group
+2.54±0.92
+20.62±2.13▲
+11.48±2.37
+236.62±12.52
+636.37±18.63 △
+353. 61±13.72
+凋亡细胞（个 / 视窗）Apoptotic cells(Pcs/Windows)
+Ca2+ 浓度（ng/L）Ca2+ concentration（ng/L）
+注：
+▲与对照组相比，q=35.72，P<0.01，与 GRb1 组相比，q=19.60，P<0.01。△与对照组相比，q=74.51，P<0.01，与 GRb1 组相比，q=54.73，P<0.01。
+Note: ▲Compared with the control group,q=35.72,P<0.01,compared with GRb1 group,q=19.60，P<0.01.△Compared with the control group,q=74.51,P<0.
+01,compared with GRb1 group,q=54.73，P<0.01.
+表 1 大鼠脑组织中细胞凋亡和细胞内游离 Ca2+ 的变化（x±s）
+Table 1 Changes of apoptosis and intracellular free Ca2+ in rat brain tissue
+·6021
+·
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.31
+NOV.2013
+[13] Haggqvist B, Naslund J, Sletten K, et al. Medin: an integral fragment
+of aortic smmoth muscle cell-produced lactadherin forms the most
+commom human amyloid [J]. Proc Natl Acad Sci USA, 1999, 96:
+8669-8674
+[14] Stubbs J, Lekutis C, Singer K. cDNA cloning of a mouse mammary
+epithelial cell surface protein reveals the existence of epidermal
+growth factor-like domains linked to factorⅧ-like sepuences[J]. Proc
+Natl Aca Sci USA, 1900, 87: 8417-8421
+[15] Andersen MH, Graversen H, Fedosov SN, et al. Functional analyses
+of
+two
+cellular
+binding
+domains
+of
+bovine
+lactadherin [J].
+Biochemistry, 2000, 39: 6200-6206
+[16] Alnemri ES. Mammalian cell death proteases:a family of highly
+conserved aspartate specific specific csteine proteases [J]. J Cell
+Biochem, 1997, 64: 33-42
+[17] Porter AG, Janicke RU. Emerging roles of caspase-3 in apoptosis[J].
+Cell Death Differ, 1999, 6: 99-104
+[18] Bratton SB, Macfarlane M, Cain K, et al. Protain complexes activate
+distinct caspase cascades in death receptor and stress-induced
+apoptosis[J]. Exp Cell Res, 2000, 256(1): 27
+[19] 冯永东, 陶德定, 谢大兴, 等. 流式细胞技术检测胱氡肽酶 3 原位
+激活与两种检测细胞凋亡方法的比较性研究[J].中华检验医学杂,
+2004, 27（9）: 582-585
+Fen Yong-dong, Tao De-ding, Xie Da-xing, et al. Comparison of
+Caspase3 activity, subG1and AnnexinV/PI in detecting apoptosis by
+flow cytometry[J]. Chin J Lab Med, 2004, 27 (9): 582-585
+[20] T. T Hu, J Shi, X Jiao, et al. Measurement of annexin V uptake and
+lactadherin labeling for the quantification of apoptosis in adherent
+Tca8113 and ACC-2 cells [J]. Brazilian Journal of Medical and
+Biological, 2008, 41: 750-757
+[21] Aubry J-P, Blaecke A, Lecoanet-Henchoz S, et al. Annexin-V used
+for measuring apoptosis in the early events of cellular cytotoxicity[J].
+Cytometry, 1999, 37: 197-204
+[22] Shu Bin, Duan Wei-gang, Yao Jin-chen, et al. Caspase3 is involved in
+the apoptosis induced by triptolide in HK-2 cells [J]. Toxicology in
+vitro, 2009, 23: 598-602
+[23] Brian S, Cummings, Rick G, et al. Cisplatin-Induced Renal Cell
+Apoptosis: Caspase3-Dependent and-Independent Pathways[J]. JPET,
+2002, 302: 8-17
+（上接第 6007 页）
+granule cells[J]. Neurotox Res, 2005, 7(4): 319-322
+[11] Baglole G, Bushinsky SM, Garia TM, et al. Differential induction of
+apoptosis by cigarette smoke extract in primary human lung fibroblast
+strains: implications for emphysema [J]. Am J Physiol Lung Cell Mol
+Physiol, 2006, 291(1): 19-29
+[12] 黄旭, 代远斌, 吴田方, 等. 香烟提取物损伤人脐静脉血管内皮细
+胞及阿托伐他汀的干预 [J]. 中国组织工程研究与临床康复, 2011,
+15(50): 9339-9343
+Huang Xu, Dai Yuan-bin, Wu Tian-fang, et al. Human umbilical vein
+endothelial cells damaged by cigarette smoke extract and intervention
+of atorvastatin[J]. Journal of Clinical Rehabilitative Tissue Engineer-
+ing Research, 2011, 15(50): 9339-9343
+[13] Liu X, Conner H, Kobayashi T, et al. Cigarettesmokeextractinduces
+DNA damage but not apoptosis in human bronchial epithelial cells[J].
+Am J Respir Cell Mol Biol, 2005, 33(2): 121-129
+[14] Sdralia ND, Patmanidi AL, Velentzas AD, et al. The mode of lymph-
+oblastoidcell death in response to gas phase cigarette smoke is
+dose-dependent[J]. Respir Res, 2009, 10: 82
+[15] Zhu J, Jiang Y, Wu L, et al. Suppression of localinflammationcontri-
+butes to the neuroprotective effect of ginsenoside Rb1 in rats with
+cerebral ischemia[J]. Neuroscience, 2012, 202: 342-351
+[16] 王琼, 孙湛, 买买提祖农·买苏尔, 等. 三七总皂苷对大鼠脑缺血再
+灌注损伤后脑组织的凋亡抑制作用 [J]. 现代生物医学进展, 2013,
+13(15): 2804-2808+2861
+Wang Qiong, Maimaitizunong·Maisuer, Chen Yong-xiang, et al. The
+Influence on the Inhibition of Apoptosis of Total Saponins of Panax
+Notoginseny on Cerebral Ischemia Reperfusion Injury in Rats [J].
+Progress in Modern Biomedicine, 2013, 13(15): 2804-2808+2861
+[17] Radad K, Gille G, Moldzio R, et al. Ginsenosides Rb1 and Rg1 effec-
+ts on mesencephalic dopaminergic cells stressed with glutamate [J].
+Brain Res, 2004, 1021(4): 41-53
+[18] Jiang QS, Huang XN, Yang GZ, et al. Inhibitoryeffect of ginsenoside
+Rb1 on calcineurinsignal pathway in cardiomyocyte hypertrophy inu-
+ced by prostaglandin F2alpha [J]. Acta Pharmacol Sin, 2007, 28(8):
+1149-1154
+[19] Ciarcia R, Damiano S, Montagnaro S, et al. Combined effects of
+PI3K and SRC kinase inhibitors with imatinib on intracellular calciu-
+m levels, autophagy, and apoptosis in CML-PBL cells [J]. Cell Cycle,
+2013, 12(17): 2839-2848
+[20] 袁琼兰, 孙珠蕾, 杨朝鲜, 等. 人参皂甙 Rb1 阻止大鼠局灶性脑缺
+血细胞凋亡和诱导 NAIP 表达 [J]. 神经解剖学杂志, 2007, 23(4):
+355-361
+Yuan Qiong-lan, Sun Zhu-lei, Yang Chao-xian, et al. Ginsenoside
+Rb1 Prevents Apoptosis and Induces Naip Expression in Rats Subjec-
+ted to Focal Cerebral Ischemia[J]. Chinese Journal of Neuroanatomy,
+2007, 23(4): 355-361
+·6022
+·

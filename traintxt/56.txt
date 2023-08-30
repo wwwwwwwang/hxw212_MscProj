@@ -1,0 +1,524 @@
+人参皂甙 Rg3 对人喉鳞癌细胞中 SIX1 和 TGF － β
+诱导上皮 － 间质转化的作用研究
+张继华，张皓蕾，刘玲玲，王
+燕，王
+来
+( 河北医科大学第一医院，河北 石家庄 050031)
+［摘要］ 目的
+探讨中药单体人参皂甙 Rg3 对原代培养人喉鳞癌细胞
+上皮 － 间质转化的影响及 SIX1 和 TGF － β 在上皮 － 间质转化中的作用。方
+法
+术中留存人喉鳞状细胞癌组织，常规处理后，体外进行人喉鳞癌原代细胞
+培养，待细胞传代稳定后分为对照组、顺铂组、Rg3 组。顺铂组加入顺铂，使其
+终浓度为 3 μg /mL; Rg3 组加入 Rg3，使其终浓度为 300 μg /mL。处理后继续
+培养细胞 24 h，免疫组化及 Western blot 检测 3 组细胞中 SIX1、TGF － β 及上
+皮标志物 E － cadherin 蛋白表达情况，RT － PCR 法检测各组原代细胞中 SIX1
+mRNA、TGF － β mRNA 及 E － cadherin mRNA 表达情况。结果
+免疫组化染色显示对照组 SIX1、
+TGF － β 蛋白强阳性表达，E － cadherin 蛋白弱阳性表达; 顺铂组 SIX1 和 E － cadherin 蛋白阳性表
+达，TGF － β 蛋白强阳性表达; Rg3 组 SIX1 蛋白弱阳性表达，E － cadherin 和 TGF － β 蛋白强阳性表
+达。顺铂组及 Rg3 组 SIX1 蛋白及 mRNA 表达水平均明显低于对照组( P 均 ＜ 0． 05) ，且 Rg3 组均
+明显低于顺铂组( P 均 ＜ 0． 05) ; 顺铂组及 Rg3 组 E － cadherin 蛋白及 mRNA 表达水平均明显高于
+对照组( P 均 ＜ 0． 05) ，且 Rg3 组明显高于顺铂组( P 均 ＜ 0． 05) ; 3 组间 TGF － β 蛋白及 mRNA 表
+达水平比较差异均无统计学意义( P 均 ＞ 0． 05) 。结论
+Rg3 能够通过下调 SIX1 表达起到抑制人
+喉鳞癌细胞上皮 － 间质转化的作用，且其作用强于顺铂。
+［关键词］ 人参皂甙 Rg3; 上皮 － 间质转化; SIX1; TGF － β; 人喉鳞癌细胞
+doi: 10． 3969 /j． issn． 1008 － 8849． 2021． 06． 005
+［中图分类号］ R739． 6
+［文献标识码］ A
+［文章编号］ 1008 －8849( 2021) 06 －0593 －06
+［作者简介］ 张继华，男，副主任医师，主要从事头颈肿瘤及鼾症的研究工作。
+［通信作者］ 王来，E － mail: wanglai21@ 126． com
+［基金项目］ 河北省科技计划项目( 162777262)
+Study on the effect of ginsenoside Rg3 on SIX1 and TGF-β-induced epithelial-mesenchymal
+transition in human laryngeal squamous cell carcinoma cells
+ZHANG Jihua，ZHANG Haolei，LIU Lingling，WANG Yan，WANG Lai
+( The First Hospital of Hebei Medical University，Shijiazhuang 050031，Hebei，China)
+Abstract: Objective It is to investigate the effect of traditional Chinese medicine monomer ginsenoside Rg3 on the ep-
+ithelial-mesenchymal transition of primary cultured human laryngeal squamous cell carcinoma cells and the role of SIX1 and
+TGF-β in epithelial-mesenchymal transition． Methods The human laryngeal squamous cell carcinoma tissue was preserved
+during the operation． After conventional treatment，the primary human laryngeal squamous cell carcinoma cells were cul-
+tured in vitro． After the cells were stable，they were divided into control group，cisplatin group，and Rg3 group． Cisplatin
+was added to the cisplatin group to make the final concentration 3 μg/mL; the Rg3 group was added to Rg3 to make the fi-
+nal concentration 300 μg/mL． After treatment，the cells were cultured for 24 hours． The expression of SIX1，TGF-β and
+epithelial marker E-cadherin protein in the cells in the three groups were detected by immunohistochemistry and Western
+blot，and the expression of SIX1mRNA and TGF-β mRNA and E-cadherin mRNA in the primary cells of each group were
+detected by RT-PCR． Results Immunohistochemical staining showed strong positive expression of SIX1 and TGF-β protein，
+weak positive expression of E-cadherin protein in control group; positive expression of SIX1 and E-cadherin protein，strong
+·593·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2021 Feb，30( 6)
+positive expression of TGF-β protein in cisplatin group; weak positive expression of SIX1 protein，strong positive expression
+of E-cadherin and TGF-β protein in Rg3 group． The expression levels of SIX1 protein and mRNA in the cisplatin group and
+Rg3 group were significantly lower than those in the control group ( P both ＜ 0． 05) ，and the Rg3 group were significantly
+lower than the cisplatin group ( P both ＜ 0． 05) ; the expression levels of E-cadherin protein and mRNA in the cisplatin
+group and Rg3 group were significantly higher than those in the control group ( all P ＜ 0． 05) ，and the Rg3 group was sig-
+nificantly higher than the cisplatin group ( all P ＜ 0． 05) ; there was no significant difference in the expression levels of
+TGF-β protein and mRNA among the three groups ( P all ＞ 0． 05) ． Conclusion Rg3 can inhibit the epithelial-mesenchymal
+transition of human laryngeal squamous cell carcinoma cells by down-regulating the expression of SIX1，and its effect is
+stronger than that of cisplatin．
+Keywords: ginsenoside Rg3; epithelial-mesenchymal transition; SIX1; TGF-β; human laryngeal squamous cell car-
+cinoma
+人参皂甙 Rg3 是一种新近研究发现的抗肿瘤
+中药单体，其有抑制肿瘤细胞增殖、分裂、局部浸润
+及远处转移等作用
+［1］，但其具体作用机制尚不明确。
+在恶性肿瘤局部浸润和远处转移过程中，上皮 － 间质
+转化起着重要作用，上皮 － 间质转化过程是由多个
+信号传导途径触发和调控的，这些信号途径能够对
+细胞外的刺激产生应答而被激活，其中 TGF － β 途
+径被认为是最重要的途径之一
+［2 － 3］。以往研究表
+明，SIX1 同 TGF － β 相互作用能促进多种恶性肿瘤
+细胞淋巴结的转移
+［4］，但具体作用机制以及对恶性
+肿瘤细胞上皮 － 间质转化的影响尚不明确，三者在
+人喉鳞癌中的相互作用仍少见报道。本研究通过培
+养原代人喉鳞癌细胞，观察了人参皂甙 Rg3 在抑制
+人喉鳞状细胞癌上皮 － 间质转化中的作用，并以
+SIX1、TGF － β 为切入点，探讨其具体的作用机制，
+为人喉鳞状细胞癌的临床治疗提供理论参考。
+1
+实验材料与方法
+1. 1
+实验细胞
+取术中留存的人喉鳞状细胞癌组
+织，河北医科大学第一医院耳鼻咽喉实验室自行原
+代细胞培养。
+1. 2
+药物
+Rg3( 20R，标准品，中国药品生物制品
+检定 所，样 品 批 号: 110804 － 200301，样 品 纯 度
+98% ) ，使用前应用二甲基亚砜( DMSO) 助溶，抽虑
+方法除菌后 － 20 ℃ 冰箱保存。顺铂( 注射用，冻干
+型，齐鲁制药有限公司出品，产品批号: 04090251) ，试
+验前用 0．9% 氯化钠注射液配成相应浓度，－ 20 ℃冰
+箱保存。
+1. 3
+试剂
+SIX1 免疫组化用多克隆抗体，武汉博
+士德公司，工作浓度为 1∶ 75。TGF － β 免疫组化用
+多克隆抗体，武汉博士德公司，工作浓度均为 1∶ 55。
+E － cadherin 免疫组化用多克隆抗体，北京奥维亚生
+物技术有限公司，工作浓度为 1∶ 50。免疫组化用 SP
+染色试剂盒、DAB 显色用试剂，北京中杉金桥公司。
+转染用 SIX1 和 TGF － β 试剂盒，美国 Invitrogen 公司。
+1. 4
+主要仪器
+GeneAmp PCR system9600 仪( 美
+国 Perkin Elmer 公司) ，二氧化碳 MCO175 型培养箱
+( 日本三洋公司) ，洁净工作台 JJT － 2 型( 北京半导
+体设备厂) ，倒置相差显微镜 CX － PC － 2 型( 日本
+OLYMPUS 公司) ，GDS － 8000 凝胶成像分析系统
+( 美国 UVP) 。
+1. 5
+实验方法
+1. 5. 1
+原代人喉鳞癌细胞培养
+手术留取人喉鳞
+癌组织，置 4 ℃ 的 0． 9% 氯化钠注射液中无菌保存，
+留取的组织块尽快转移至实验室超净台，进行如下
+处理并原代细胞培养: 修剪留取新鲜、正常肿瘤组
+织，庆大霉素杀菌处理 15 min，0． 9% 氯化钠注射液
+冲洗 2 次，将组织块剪碎( 初步使组织块分离成单
+细胞) ，庆大霉素液冲洗 2 次，0． 9% 氯化钠注射液
+冲洗 2 次，加入 I 型胶原酶消化 1 h，每间隔 10 min
+进行 1 次吹打混合，促进喉癌组织块分解成单个肿
+瘤细胞。消化结束后，0． 9% 氯化钠注射液冲洗细胞
+混合液 2 次，加入细胞培养液，内含 20% 胎牛血清，
+将细胞悬浊液接种于 6 孔灭菌细胞培养板，上述接
+种的细胞转移至培养箱，常规培养 48 h。取出培养
+板，培养孔内加入消化用胰蛋白酶，利用杂质细胞
+( 成纤维细胞为主) 与喉鳞癌肿瘤细胞对胰蛋白酶
+消化作用不同而出现不同细胞脱离培养板底壁时间
+差异，去除杂质细胞。反复进行上述纯化，直至得到
+纯化的肿瘤细胞。待其稳定传代后，对培养细胞进
+行鉴定( 2 名副高以上职称病理科医生共同鉴定) 并
+确认为鳞癌细胞后，扩增细胞，进行试验。
+1. 5. 2
+试验细胞分组
+原代人喉鳞癌细胞分为对
+照组、顺铂组、Rg3 组。顺铂组人喉鳞癌细胞内加入
+顺铂，使其终浓度为 3 μg /mL; Rg3 组人喉鳞癌细胞
+·594·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2021 Feb，30( 6)
+内加入 Rg3，使其终浓度为 300 μg /mL( 参考文献
+［5］，顺铂 3 μg /mL 与 Rg3 300 μg /mL 对人喉鳞癌
+细胞的抑制率无差异) 。处理后继续培养细胞 24 h，
+收集、处理、备用。
+1. 5. 3
+SIX1、TGF － β 及 E － cadherin 蛋白表达免
+疫组织化学法检测
+消化原代人喉鳞癌细胞，用细
+胞培养液配制细胞悬液，使其浓度为 1 × 10
+5 个/
+mL，取 24 孔细胞培养板，板内置已灭菌玻璃片，每
+组设 6 孔，向孔内的灭菌玻璃片上接种肿瘤细胞，每
+孔接种上述细胞悬液 1 滴。培养板转移入细胞培养
+箱，常规培养 4 h，倒置显微镜下观察细胞生长情况，
+待玻璃片上细胞达 80% 以上已经贴壁，向培养板每
+孔内加约 1 mL DMEM 培养液。培养箱中培养 48 h，
+培养板内肿瘤细胞已达 80% ～ 90% % 汇合，取出培
+养板，PBS 溶液冲洗 1 次，甲醛溶液固定 10 min，PBS
+溶液冲洗 2 次，每次 5 min。留取玻璃片上爬片细
+胞，参照免疫组化试剂盒说明，进行爬片细胞免疫荧
+光染色，盖玻片封存，镜检。结果判断采用半定量双
+评分法，倒置荧光显微镜高倍镜视野下根据阳性细
+胞所占比例以及细胞绿色荧光强度进行综合判定。
+表达强度评分标准: 未见荧光或者仅见极弱荧光，
+记 0 分; 荧光微弱但明显可见，记 1 分; 荧光可见且
+光色明亮，记 2 分; 荧光可见且光色闪亮，记 3 分。
+高倍镜下视野内阳性细胞比例: 阳性细胞比例 ＜25% ，
+记 0 分; 阳性细胞比例 25% ～ 50% ，记 1 分; 阳性细
+胞比例 51% ～75%，记2 分; 阳性细胞比例 ＞75%，记3
+分。两种方法所得评分和 0 ～ 1 分为目的蛋白阴性
+( － ) ，2 分为目的蛋白弱阳性( + ) ，3 ～ 4 分为目的蛋
+白阳性( ) ，5 ～ 6 分为目的蛋白强阳性( ) 。
+1. 5. 4
+SIX1、TGF － β 和 E － cadherin 蛋 白表达
+Western blot 检测
+参照试剂盒说明书，提取样本蛋
+白，制备 Western blot 检测样品，检测各组样品蛋白
+浓度，常规上样，配制选用 12% 分离胶以及 4% 浓缩
+胶，每组样品上样量 65 μg，同时设置 Marker 预染蛋
+白，100 V 电泳约 1 h 25 min，转膜 30 V，0． 9 mA 过
+夜。洗膜，定影后进行图像分析。
+1. 5. 5
+SIX1、TGF －β 及 E －cadherin mRNA 表达 RT －
+PCR 检测
+Trizol 法提取样本肿瘤细胞总的 RNA，
+检测各组样本细胞浓度，确定样本细胞 RNA 完整，
+cDNA 反转录合成，取转录产物 2 μL 进行 PCR 反
+应。GAPDH: 上游 5’－ GAC AGT CAG CCG CAT
+CTTCT － 3’，下游 5’－ TTA AAA GC AGC CCT GGT
+GAC －3’; SIX1: 上游 5’－ CCACTAGAAGAGGAATT －
+3’，下游 5’－ CACGCCGGAGCCAAACT － 3’，产物
+大小 254 bp，退火温度 56． 3 ℃; TGF － β: 上游 5’－
+CTGTAATTCTGCTGTAATA － 3’，下游 5’－ GGCT-
+TAGTATTCTGGGAAA － 3’，产物大小 287 bp，退火
+温度 54． 2 ℃; E － cadherin: 上游 5’－ AGGCCAAG-
+CAGCAGTACATT － 3’，下游 5’－ ATTCACATCCAG-
+CACATCCA － 3’，产物大小为 288 bp，退火温度为
+56．6 ℃。反应条件:94 ℃变性 1 min，57 ℃复性 1 min，
+75 ℃延伸 1 min，共设计 32 个循环，最后设计 75 ℃
+延伸 10 min。以 GAPDH 的荧光表达量作为检测基
+因表达参照量。
+1. 6
+统计学方法
+实验数据采用 SPSS 13． 0 统计
+软件处理分析，以均数 ± 标准差( 珋
+x ± s) 表示，多组间
+比较采用方差分析，两两比较采用 t 检验，P ＜ 0． 05
+为差异有统计学意义。
+2
+结
+果
+2. 1
+3 组人喉鳞癌细胞中 SIX1、TGF － β 及 E －
+cadherin 蛋白 表 达 免 疫 组 化 染 色 表 现
+对 照 组
+SIX1、TGF － β 蛋白强阳性表达，E － cadherin 蛋白弱
+阳性表达; 顺铂组 SIX1 和 E － cadherin 蛋白阳性表
+达，TGF － β 蛋白强阳性表达; Rg3 组 SIX1 蛋白弱
+阳性表达，E － cadherin 和 TGF － β 蛋白强阳性表
+达。见图 1。
+2. 2
+3 组人喉鳞癌细胞中 SIX1、TGF － β 及 E －
+cadherin 蛋白表达水平
+顺铂组及 Rg3 组 SIX1 蛋
+白表达水平均明显低于对照组( P 均 ＜ 0． 05) ，且
+Rg3 组明显低于顺铂组( P ＜ 0． 05) ; 顺铂组及 Rg3
+组 E － cadherin 蛋白表达水平均明显高于对照组( P
+均 ＜ 0． 05) ，且 Rg3 组明显高于顺铂组( P ＜ 0． 05) ;
+3 组间 TGF － β 蛋白表达水平比较差异均无统计学
+意义( P 均 ＞ 0． 05) 。见表 1。
+2. 3
+3 组人喉鳞癌细胞中 SIX1、TGF － β 及 E －
+cadherin mRNA 表达情况
+顺铂组及 Rg3 组 SIX1
+mRNA 表达水平均明显低于对照组( P 均 ＜ 0． 05) ，
+且 Rg3 组明显低于顺铂组( P ＜ 0． 05) ; 顺铂组及
+Rg3 组 E － cadherin mRNA 表达水平均明显高于对
+照组( P 均 ＜ 0． 05) ，且 Rg3 组明显高于顺铂组( P ＜
+0. 05) ; 3 组间 TGF － β mRNA 表达水平比较差异均
+无统计学意义( P 均 ＞ 0． 05) 。见表 2 及图 2。
+3
+讨
+论
+上皮 － 间质转化是指肿瘤上皮细胞在一定的环
+境及相应转化因子等共同因素的相互影响下逐步转
+变成间质细胞的现象，是恶性肿瘤细胞生长、转变的
+·595·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2021 Feb，30( 6)
+图 1
+3 组人喉鳞癌细胞中 SIX1、TGF － β 及 E － cadherin 蛋白表达免疫组化染色表现( × 200)
+表 1
+各组人喉鳞癌细胞中 SIX1、TGF － β 及 E － cadherin
+蛋白表达水平比较( 珋
+x ± s)
+组别
+SIX1
+TGF － β
+E － cadherin
+对照组
+1 782． 549 ± 103． 538
+1 745． 735 ± 77． 903
+983． 428 ± 99． 937
+顺铂组
+1 150． 632 ± 122． 087①
+1 563． 332 ± 82． 572
+1 079． 379 ± 79． 570①
+Rg3 组
+603． 333 ± 126． 225①②
+1 683． 754 ± 34． 603
+1 634． 630 ± 97． 631①②
+注: ①与对照组比较，P ＜ 0． 05; ②与顺铂组比较，P ＜ 0． 05。
+表 2
+各组人喉鳞癌细胞中 SIX1、TGF － β 及
+E － cadherin mRNA 表达水平比较( 珋
+x ± s)
+组别
+SIX1
+TGF － β
+E － cadherin
+对照组
+1 126． 653 ±89． 643
+1 037． 307 ±83． 106
+420． 206 ±37． 102
+顺铂组
+762． 215 ±107． 136①
+913． 009 ±58． 271
+719． 438 ±83． 113①
+Rg3 组
+303． 040 ±98． 307①②
+1 037． 652 ±56． 031 1 165． 317 ±63． 918①②
+注: ①与对照组比较，P ＜ 0． 05; ②与顺铂组比较，P ＜ 0． 05。
+图 2
+3 组人喉鳞癌细胞中 SIX1、TGF － β 及 E － cadherin mRNA
+表达情况
+过程之一，同恶性肿瘤细胞的局部浸润及远处淋巴
+结转移紧密相关。上皮 － 间质转化的过程主要表现
+为原肿瘤上皮细胞极性逐渐消失，上皮细胞与其周
+围其他细胞的接触相应减少，细胞间的连接包括黏
+附连接及紧密连接减少，使得细胞脱离的机会增加，
+易于发生局部浸润及发生远处迁移，上皮 － 间质转
+化的发生会出现原有上皮细胞表型的转变，其上皮
+表型如 E － eadherin、角蛋白丝等消失，间质表型、纤
+维连接蛋白、N － 钙黏素等逐渐形成。其中代表细
+胞间黏附力的 E － cadherin 表达下降是上皮 － 间质
+转化的主要表现，也被视为上皮 － 间质转化的标
+志
+［6］。相关实验研究表明，上皮 － 间质转化可诱导
+多种恶性肿瘤细胞如卵巢癌、肝癌、结肠癌及恶性黑
+色素瘤等局部浸润和淋巴转移
+［7 － 10］。因此，上皮 －
+间质转化被认为是多种恶性肿瘤转移潜能的标志。
+上皮 － 间质转化的过程是由多个信号传导通路
+触发 和 调 控 的，TGF － β 能 够 通 过 MAPK 通 路、
+SMAD 通路及 Wnt 通路等途径对肿瘤的浸润及转移
+进行调节，在多种肿瘤组织如肺癌、乳腺癌、大肠癌
+等中均存在 TGF － β 的高表达，其表达强度与肿瘤的
+病理分化、淋巴转移及预后密切相关
+［11 －12］。TGF － β
+能够被细胞中的多种活性因子激活，并与这些因子
+共同作用，激活及影响细胞内多种传导通路，但肿瘤
+细胞中转录因子的高表达能否增强 TGF － β 途径在诱
+导人喉鳞癌上皮 － 间质转化过程中的作用尚不清楚。
+·596·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2021 Feb，30( 6)
+SIX1 是一种成熟相关的细胞因子，在发育成熟
+的细胞内很少表达，但其在多种恶性肿瘤如卵巢癌、
+乳腺癌、肝细胞癌等组织中呈现出高表达，能够影响
+Cyclin A1、Cyclin D1 及 Ezrin 等多种下游编码基因
+的表达，与肿瘤的预后密切相关
+［13 － 15］。最近研究证
+明，SIX1 能够与 TGF － β 共同作用，并通过 SMAD2 /
+3 途径调节血管内皮生长因子( VEGF) 等多种基因
+的表达，进而发挥其促进肿瘤细胞淋巴结转移的功
+能。基于以上研究结果，本研究探讨了 SIX1 与 TGF －
+β 是否在人喉鳞癌细胞上皮 － 间质转化的过程中起
+着促进作用。
+本实验结果显示，顺铂组及 Rg3 组人喉鳞癌细
+胞中 SIX1 蛋白及其 mRNA 表达较对照组明显下
+调，E － cadherin 蛋白及其 mRNA 表达较对照组明显
+上调，TGF － β 蛋白及其 mRNA 表达无明显变化，说
+明顺铂及 Rg3 能够通过抑制人喉鳞癌细胞中 SIX1
+的表达，进一步抑制喉鳞癌细胞的上皮 － 间质转化。
+Sun 等
+［16］ 的 研 究 结 果 显 示，TGF － β 能 够 通 过
+SMAD2 /3 途径促进卵巢癌细胞上皮 － 间质转化，而
+此过程是 SIX1 依赖性的，SIX1 表达降低能够抑制
+TGF － β 促卵巢癌上皮 － 间质转化的发生，SIX1 蛋
+白的表达同 E － cadherin 表达呈负相关。本研究结
+果与之相似，推测 TGF － β 能够通过 SMAD2 /3 途径
+促进喉鳞癌细胞上皮 － 间质转化发生，这一过程亦
+是 SIX1 依赖性的。本研究还发现，Rg3 组人喉鳞癌
+细胞中 SIX1 蛋白及其 mRNA 表达水平明显低于顺
+铂组，E － cadherin 蛋白及其 mRNA 表达水平明显
+高于顺铂组，提示 Rg3 抑制人喉鳞细胞上皮 － 间质
+转化的作用强于顺铂，其原因可能同 Rg3 有更强的
+抑制喉鳞癌细胞内 SIX1 表达作用有关。
+综上所述，人参皂甙 Rg3 能够通过下调 SIX1 表
+达起到抑制人喉鳞癌细胞上皮 － 间质转化的作用，
+且作用强于顺铂，其可以作为抑制喉癌淋巴转移的
+一个新型用药，但 Rg3 抑制肿瘤细胞内 SIX1 表达及
+SIX1、TGF － β 与 E － cadherin 之间的具体作用机制
+尚待进一步研究。
+利益冲突: 所有作者均声明不存在利益冲突。
+［ 参
+考
+文
+献
+］
+［1］ 张继华，陈春菊，宋冬梅，等． Rg3 对人喉鳞癌裸鼠移
+植瘤中 SIX1、TGF － β、VEGF － C 表达的影响［J］． 中
+药药理与临床，2016，32( 2) : 104 － 109．
+［2］ Lamouille S，Xu J，Derynck R． Molecular mechanisms of
+epithelial-mesenchymal transition［J］． Nat Rev Mol Cell
+Biol，2014，15( 3) : 178 － 196．
+［3］ Katsuno Y，Lamouille S，Derynck R． TGF-β signaling and
+epithelial-mesenchymal transition in cancer progression
+［J］． Curr Opin Oncol，2013 ，25( 1) : 76 － 84．
+［4］ 张继华，陈春菊，韩彩莉，等． 原代培养人喉鳞癌细胞
+中 SIX1、TGF － β、VEGF － C 表达相关性分析［J］． 肿
+瘤防治研究，2016，43( 6) : 453 － 458．
+［5］ Ma Y，Zhang H，Xiong C，et al． CD146 mediates an E-
+cadherin-to-N-cadherin Switch during TGF-β signaling-in-
+duced epithelial-mesenchymal transition ［J］．
+Cancer
+Lett，2018，430: 201 － 214．
+［6］ Weingarten C，Jenudi Y，Tshuva R Y，et al． The interplay
+between Epithelial-Mesenchymal transition ( EMT)
+and
+the thyroid hormones-αvβ3 axis in ovarian cancer［J］．
+Horm Cancer，2018，9( 1) : 22 － 32．
+［7］ Oh S H，Swiderska-Syn M，Jewell M L，et al． Liver regen-
+eration requires Yap1-TGFβ-dependent epithelial-mesen-
+chymal transition in hepatocytes［J］． J Hepatol，2018，69
+( 2) : 359 － 367．
+［8］ Zacharopoulou N，Tsapara A，Kallergi G，et al． The epige-
+netic factor KDM2B regulates EMT and small GTPases in
+colon tumor cells［J］． Cell Physiol Biochem，2018，47
+( 1) : 368 － 377．
+［9］ Kosnopfel C，Sinnberg T，Sauer B，et al． YB-1 expression
+and phosphorylation regulate tumorigenicity and invasive-
+ness in melanoma by influencing EMT［J］． Mol Cancer
+Res，2018，16( 7) : 1149 － 1160．
+［10］马建波，戴金华，余秋云，等． 非小细胞肺癌患者血清
+TGF － β1 检测水平的临床研究［J］． 中国卫生检验杂
+志，2010，20( 6) : 1456 － 1457．
+［11］张梁，黄涵，黄永秩，等． TGF － β1 和 Smad4 在大肠癌
+中的表达及其临床意义［J］． 右江医学，2010，38( 1) :
+10 － 11．
+［12］Dhasarathy A，Phadke D，Mav D，et al． The transcription
+factors Snail and Slug activate the transforming growth fac-
+tor-beta signaling pathway in breast cancer［J］．
+PLoS
+One，2011，6( 10) : e26514．
+［13］Jin H，Cui M，Kong J，et al． Sineoculis homeobox homolog
+1 protein is associated with breast cancer progression and
+survival outcome［J］． Exp Mol Pathol，2014，97( 2) : 247 －
+252．
+［14］Qamar L，Deitsch E，Patrick A N，et al． Specificity and
+prognostic validation of a polyclonal antibody to detect
+Six1 homeoprotein in ovarian cancer［J］． Gynecol Oncol，
+2012，125( 2) : 451 － 457．
+( 下转第 602 页)
+·597·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2021 Feb，30( 6)
+呼吸道具有明显的保护作用。相关实验研究发现，
+小青龙汤可明显舒张哮喘大鼠的支气管平滑肌，能
+够抑制大鼠肺组织纤维化，降低肺源性心脏病大鼠
+的肺动脉高压
+［15 － 16］。
+本实验研究了小青龙汤对肺癌大鼠的作用及机
+制，结果显示小青龙汤组、贝伐珠单抗组及小青龙汤
+联合贝伐珠单抗组大鼠肺组织中 p16、p21、p53 mR-
+NA 表达量及 VEGF、VEGFR 表达水平显著降低，细
+胞凋亡率显著升高，肺组织病理学得到显著改善。
+提示小青龙汤能够抑制大鼠肺癌组织抗凋亡基因的
+过度表达，显著促进癌细胞的凋亡，抑制大鼠肺组织
+进一步恶化，其可能通过抑制 VEGF/VEGFR 信号
+通路的过度激活而发挥抗肿瘤作用。
+利益冲突: 所有作者均声明不存在利益冲突。
+［ 参
+考
+文
+献
+］
+［1］ Jahanban-Esfahlan R，Seidi K，Monfaredan A，et al． The
+herbal medicine Melissa officinalis extract effects on gene
+expression of p53，Bcl-2，Her2，VEGF-A and hTERT in
+human lung，breast and prostate cancer cell lines［J］．
+Gene，2017，613: 14 － 19．
+［2］ Espana-Serrano L，Chougule M B． Enhanced Anticancer Ac-
+tivity of PF-04691502，a Dual PI3K/mTOR Inhibitor，in
+Combination With VEGF siRNA Against Non-small-cell
+Lung Cancer［J］． Mol Ther Nucleic Acids，2016，5( 11) :
+e384．
+［3］ Deng Y，Yang Y，Yao B，et al． Paracrine signaling by VEGF-C
+promotes non-small cell lung cancer cell metastasis via re-
+cruitment of tumor-associated macrophages［J］． Exp Cell
+Res，2018，364( 2) : 208 － 216．
+［4］ 刘宇，邓宏． 浅谈变通小青龙汤加减在肺癌中的临床
+运用及体会［J］． 环球中医药，2018，11( 11) : 1716 －
+1718．
+［5］ 张培旭． 基于 NF － κB 信号通路研究小青龙汤对肺癌
+H292 细胞分泌 MUC5AC 的调控机制［D］． 郑州: 河南
+中医药大学，2018．
+［6］ 郑化军，王贤和，柯昌斌，等． 青藤碱对肺癌模型大鼠
+抑癌基因 P16 和 P53 的影响［J］． 世界科学技术 － 中
+医药现代化，2017，19( 10) : 1702 － 1706．
+［7］ 张立广，王军，胡潺潺，等． 赤芍总苷对肺癌模型大鼠
+抑癌相关基因表达的影响［J］． 中国药房，2016，27
+( 16) : 2218 － 2221．
+［8］ Wang Y，Shi L，Li J，et al． Involvement of twist in NNK
+exposure-promoted lung cancer cell migration and inva-
+sion［J］． Toxicol In Vitro，2020，63: 104740．
+［9］
+Pham D，Bhandari S，Pinkston C，et al． Lung cancer scree-
+ning registry reveals low-dose CT screening remains heav-
+ily underutilized［J］． Clin Lung Cancer，2020，21 ( 3) :
+e206 － e211．
+［10］ Levy A，Hendriks L E L，Berghmans T，et al． EORTC
+Lung Cancer Group survey on the definition of NSCLC
+synchronous oligometastatic disease［J］． Eur J Cancer，
+2019，122: 109 － 114．
+［11］Tang J H，Zhang H M，Zhang Z H，et al． Effect of tetram-
+ethylpyrazine combined with cisplatin on VEGF，KLF4
+and ADAMTS1 in Lewis lung cancer mice［J］． Asian Pa-
+ci J Trop Med，2017，10( 8) : 813 － 818．
+［12］Talib W H，Al Kury L T． Parthenolide inhibits tumor-pro-
+moting effects of nicotine in lung cancer by inducing P53-
+dependent apoptosis and inhibiting VEGF expression［J］．
+Biomed Pharmacother，2018，107: 1488 － 1495．
+［13］Nguyen C N，Nguyen K V A，Eom S，et al． Regulation of
+p21 expression for anti-apoptotic activity of DDX3 against
+sanguinarine-induced cell death on intrinsic pathway［J］．
+Phytomedicine，2019，65: 153096．
+［14］Sand F L，Nielsen D M B，Frederiksen M H，et al． The
+prognostic value of p16 and p53 expression for survival af-
+ter vulvar cancer: A systematic review and meta-analysis
+［J］． Gynecol Oncol，2019，152( 1) : 208 － 217．
+［15］卞玉凡，李京，赵春江，等． 小青龙汤对肺纤维化大鼠
+肺组织的改善作用及机制研究［J］． 云南中医学院学
+报，2018，41( 4) : 17 － 20．
+［16］童佳兵，王浩，李泽庚，等． 小青龙汤对肺源性心脏病
+大鼠血浆 AngⅡ、ALD、Na + － K + － ATP 酶含量和血浆
+中 AT1 和 AT_2mRNA 的表达影响［J］． 世界科学技术 －
+中医药现代化，2015，17( 10) : 2104 － 2108．
+［收稿日期］
+櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵櫵
+2020 － 01 － 31
+( 上接第 597 页)
+［15］Kong J，Zhou X，Liu S，et al． Overexpression of sineoculis
+homeobox homolog 1 predicts poor prognosis of hepatocel-
+lular carcinoma［J］． Int J Clin Exp Pathol，2014，7( 6) :
+3018 － 3027．
+［16］Sun S H，Chen J，Wang P F，et al． SIX1 coordinates with
+TGFβ signals to induce epithelial-mesenchymal transition
+in cervical cancer［J］． Oncol Lett，2016，12( 2) : 1271 －
+1278．
+［收稿日期］ 2020 － 04 － 25
+·602·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2021 Feb，30( 6)

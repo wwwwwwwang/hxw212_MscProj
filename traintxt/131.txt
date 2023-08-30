@@ -1,0 +1,779 @@
+第 47 卷
+第 4 期
+2021 年 7 月
+吉
+林
+大
+学
+学
+报 （ 医
+学
+版 ）
+Journal of Jilin University （Medicine Edition）
+Vol. 47
+No. 4
+Jul.
+2021
+DOI：10. 13481/j. 1671‑587X. 20210411
+人参皂苷 Rh1 对 MC3T3-E1 细胞增殖和分化的促进作用
+及其机制
+毛天娇 1, 孙
+铎 1, 高
+幸 1, 魏
+溦 1, 李熙恒 1, 姜可新 1, 姜
+秋 2，李
+江 1,3
+（1. 吉林大学口腔医院口腔修复科，吉林 长春 130021；2. 吉林大学口腔医院儿童口腔科，吉林 长春
+130021；3. 广州医科大学附属口腔医院口腔修复科，广东 广州 510150）
+［摘
+要］
+目 的
+目 的 ： 筛 选 靶 向 上 调 雌 激 素 受 体 β （ERβ） 转 录 和 表 达 的 人 参 皂 苷 单 体 ， 研 究 其 对
+MC3T3-E1 细 胞 增 殖 和 分 化 的 影 响 及 其 机 制 。 方 法
+方 法 ： 采 用 PGL2-ERβ 和 内 参 Renilla 荧 光 素 酶 质 粒
+Prep7-Rluc 共同转染 HEK293T 细胞，细胞分为对照组，雌二醇组 （1×10－6 mmol·L－1），人参皂苷
+Rb1 组、Rb2 组、Rd 组、Rg1 组、Rg2 组和 Rh1 组 （1×10－5 mmol·L－1），通过双荧光素酶报告基因实
+验检测各组细胞双荧光素酶活性。进一步将 MC3T3-E1 细胞分为对照组、雌二醇组和不同浓度 （1×
+10－6、1×10－5 及 1×10－4 mmol·L－1） 人参皂苷 Rh1 组，采用 Western blotting 法检测各组 MC3T3-E1
+细胞中 ERβ 蛋白表达水平。通过 Auto Dock 分子对接实验，模拟人参皂苷 Rh1 与 ERβ 蛋白分子的结合
+情况。MC3T3-E1 细胞分为对照组、雌二醇组和不同浓度 （5×10－6、1×10－5、5×10－5、1×10－4、
+1×10－3及 5×10－3 mmol·L－1） 人参皂苷 Rh1 组，分别作用 24、48 和 72 h 后，采用 CCK-8 法检测各组
+细胞增殖率。MC3T3-E1 细胞分为对照组、雌二醇组 （1×10－6 mmol·L－1） 和不同浓度 （1×10－5 及
+1×10－4 mmol·L－1） 人参皂苷 Rh1 组，配制成骨诱导液，分别诱导 MC3T3-E1 细胞 7、14 和 21 d，采
+用碱性磷酸酶 （ALP） 染色和茜素红染色检测细胞中 ALP 和钙化结节染色面积，观察人参皂苷 Rh1
+对 MC3T3-E1 细胞成骨分化的影响。结果
+结果：双荧光素酶报告基因实验，各组 HEK293T 细胞中转染
+ERβ-PGL2 质粒后，与对照组比较，1×10－5 mmol·L－1 人参皂苷 Rh1 组细胞荧光素酶活性明显升高
+（P<0. 05）。 Western blotting 法检测，与对照组比较，不同浓度人参皂苷 Rh1 组细胞中 ERβ 蛋白表达
+水 平 明 显 升 高 （P<0. 05）， 且 1×10－4 mmol·L－1 人 参 皂 苷 Rh1 组 细 胞 中 ERβ 蛋 白 表 达 水 平 最 高 。
+Auto Dock 分析，人参皂苷 Rh1 可以结合在 ERβ 蛋白的配体结合口袋内。CCK-8 实验，培养 24、48 和
+72 h 后，与对照组比较，1×10－5、5×10－5、1×10－4和1×10－3 mmol·L－1人参皂苷Rh1组MC3T3-E1 细胞
+增殖率均明显升高 （P<0. 01），其中 72 h 时 1×10－4 mmol·L－1 人参皂苷 Rh1 组细胞增殖率最高。成
+骨诱导分化后，与对照组比较，不同浓 度 人 参 皂 苷 Rh1 组 细 胞 中 ALP 染 色 面 积 明 显 增 加 ，
+1×10－4 mmol·L－1人参皂苷 Rh1 组细胞中 ALP 染色面积最大，而且 14 d 时 ALP 染色面积较 7 d 时明显
+增加，具有时间和浓度依赖性；与对照组比较，不同浓度人参皂苷 Rh1 组细胞矿化结节茜素红染色面
+积明显增加。结论
+结论：人参皂苷 Rh1 能够明显促进成骨细胞的增殖和分化，其机制可能与其靶向上调细
+胞中 ERβ 的转录和表达有关。
+［关键词］
+人参皂苷 Rh1；骨质疏松症；MC3T3-E1 细胞；雌激素受体 β
+［中图分类号］
+R285. 5
+［文献标志码］
+A
+[文章编号]
+1671‑587X(2021)04‑0896‑08
+[收稿日期]
+2020‑12‑02
+[基金项目]
+科技部国家重点研发计划项目 （2020YFE010636）； 吉林省科技厅科研项目 （20200201025JC）；吉林省科技
+厅科技发展计划项目 （20190201082JC）；吉林省财政厅科研项目 （jsz2018170-3）；吉林省长春市科技局科技
+计划项目 （17YJ001）
+[作者简介]
+毛天娇 （1992－），女，河南省许昌市人，住院医师，医学硕士，主要从事口腔修复学方面的研究。
+[通信作者]
+李
+江，教授，博士研究生导师 （E-mail：ljiang@gzhmu.edu.cn）；
+姜
+秋，教授，硕士研究生导师 （E-mail：jiangqiu@163.com）
+896
+万方数据
+毛天娇，等 .
+人参皂苷 Rh1 对 MC3T3‑E1 细胞增殖和分化的促进作用及其机制
+Promotion effect of ginsenoside Rh1 on proliferation and
+differentiation of MC3T3-E1 cells and its mechanism
+MAO Tianjiao1, SUN Duo1, GAO Xing1, WEI Wei1, LI Xiheng1, JIANG Kexin1,
+JIANG Qiu2, LI Jiang1,3
+（1. Department of Prosthodontics，Stomatology Hospital，Jilin University，Changchun 130021，China；
+2. Department of Pediatric Dentistry，Stomatology Hospital，Jilin University，Changchun 130021，China；
+3. Department of Prosthodontics，Affiliated Stomatology Hospital，Guangzhou Medical University，
+Guangzhou 510150，China）
+ABSTRACT
+Objective：To screen the ginsenoside monomer targetedly up-regulating the transcription and
+expression of estrogen receptor β（estrogen receptor β，ERβ），and to explore its effect on the proliferation
+and differentiation of MC3T3-E1 cells and its possible mechanism.
+Methods：PGL2-ERβ was co-
+transfected into the HEK293T cells with Renilla luciferase plasmid Prep7-Rluc，then the HEK293T cells
+were divided into control group，estradiol group（1×10－6 mmol·L－1），ginsenoside Rb1，Rb2，Rd，Rg1，
+Rg2 and Rh1 groups（1×10－5 mmol·L－1）. The dual luciferase activities in various groups were detected
+by dual luciferase reporter gene assay. The MC3T3-E1 cells were further divided into control group，
+estradiol group（1×10－6 mmol·L－1），ginsenoside Rh1 group（1×10－6 mmol·L－1，1×10－5 mmol·L－1
+and 1×10－4 mmol·L－1）. The expression levels of ERβ protein in the MC3T3-E1 cells in various groups
+were detected by Western blotting method. The binding of ginsenoside Rh1 to ERβ protein was simulated
+by Auto Dock expreriment. The MC3T3-E1 cells were divided into control group，estradiol group（1×
+10－6 mmol·L－1），ginsenoside Rh1 group（5×10－6mmol·L－1，1×10－5 mmol·L－1，5×10－5 mmol·L－1，
+1×10－4 mmol·L－1，1×10－3 mmol·L－1 and 5×10－3 mmol·L－1），after treated for 24，48 and 72 h，the
+cell proliferation rates in various groups were detected by CCK-8 method. The MC3T3-E1 cells were
+divided into control group，estradiol group （1×10－6 mmol·L－1），and ginsenoside Rh1 groups （1×
+10－5 mmol·L－1 and 1×10－4 mmol·L－1）. The MC3T3-E1 cells were induced with osteogenic induction
+solution for 7，14 and 21 d，respectively；alkaline phosphatase（ALP）staining and alizarin red staining
+were used to detect the staining areas of ALP and calcified nodules in the MC3T3-E1 cells and observe the
+effect of ginsenoside Rh1 on the osteogenic differentiation of the MC3T3-E1 cells.
+Results：In double
+luciferase reporter gene experiment，compared with control group，the luciferase activity of cells in
+ginsenoside Rh1 group （1×10－5 mmol·L－1） was significantly increased after ERβ -PGL2 plasmid was
+transfected into the 293T cells（P<0. 05）. The results of Western blotting method showed that compared
+with blank control group，the expression levels of ERβ protein in the MC3T3-E1 cells in different
+concentrations of ginsenoside Rh1 groups were significantly increased（P<0. 05），and the expression level
+of ERβ protein reached the highest at the concentration of 1×10－4 mmol·L－1. In Auto Dock analysis，
+ginsenoside Rh1 could bind in the ligand binding pocket of ERβ protein. In CCK-8 experiment，compared
+with blank control group，the proliferation activities of MC3T3-E1 cells in 1×10－5，5×10－5，1×10－4 and
+1×10－3 mmol·L－1 ginsenoside Rh1 groups after cultured for 24 ，48 and 72 h were significantly increased
+（P<0. 01），and the proliferation rate of cells in 1×10－4 mmol·L－1 ginsenoside group reached the highest
+at 72 h. After osteogenic in differentiation，compared with control group，the ALP staining areas in
+different concentrations of
+ginsenoside Rh1 groups were significantly increased；when the ginsenoside
+concentration was 1×10－4 mmol·L－1，the staining area of ALP was the largest，and the staining area of
+ALP at 14 d was significantly increased compared with that at 7 d，in a time-and concentration-dependent
+897
+万方数据
+第 47 卷
+第 4 期
+2021 年 7 月
+吉林大学学报 （医学版）
+manner；compared with control group，the alizarin red staining areas of mineralized nodules in different
+concentrations of ginsenoside Rh1 groups were significantly increased.
+Conclusion：Ginsenoside Rh1 can
+significantly promote the proliferation and differentiation of osteoblasts，and its mechanism may be related
+to the up-regulation of ERβ transcription and expression.
+KEYWORDS
+ginsenoside Rh1；osteoporosis；MC3T3-E1 cell；estrogen receptor β
+骨质疏松症是一种常见的与衰老相关的疾病，
+尤其高发于绝经后妇女，严重影响患者的健康和生
+活质量
+［1］，除导致股骨和髋骨等长骨的脆性骨折
+外，也会导致颌骨密度和牙槽骨高度降低，从而加
+速牙齿的脱落，并影响义齿修复、种植体植入和颌
+面部整形手术等口腔治疗
+［2］。随着全球人口老龄化
+进程的加剧，骨质疏松症的发病率呈逐年升高的态
+势
+［3］，治疗骨质疏松症的高成本给社会和个人都带
+来了巨大的压力，是目前全球最严重的公共卫生医
+疗挑战
+［4］。长期以来中药一直用于预防和治疗骨质
+疏松症，与化学合成药物比较，中药不良反应少，
+更适合长期使用，因此在国内外受到广泛关注和研
+究。人参广泛用于预防和治疗各种疾病
+［5］，人参皂
+苷是人参的主要活性成分，已有研究
+［6-7］ 表明：人
+参皂苷 Rb1 和 Rg3 具有治疗骨质疏松的作用，但其
+作 用 机 制 尚 不 清 楚 。 雌 激 素 受 体 （estrogen
+receptor， ER） 广泛存在于骨组织中，雌激素受体 β
+（estrogen receptor β，ERβ） 是其主要表达形式
+［8］。
+本研究以 ERβ 为靶点，筛选出可以靶向上调细胞
+内 ERβ 转录和表达的人参皂苷单体，并进一步探
+讨其对 MC3T3-E1 细胞增殖和分化的影响，为人
+参皂苷治疗骨质疏松症提供理论依据。
+1
+材料与方法
+1. 1
+细胞
+细胞 、主要试剂和仪器
+主要试剂和仪器
+人胚肾上皮细胞系
+HEK293T 和小鼠前成骨细胞系 MC3T3-E1 购自美
+国组织培养库 （American Tissue Culture Colection，
+ATCC 细胞库。PGL2-ERβ 质粒由东北师范大学生
+命科学院实验室自制。DMEM、胎牛血清、胰蛋
+白酶和青-链霉素等试剂 （美国 Gibco 公司），人参
+皂苷单体 （Rb1、Rb2、Rd、Rg1、Rg2 和 Rh1） 和
+雌 二 醇 （estradiol， E2）（宝 鸡 辰 光 科 技 有 限 公
+司），内参 β-actin、兔抗 ERβ 和 HRP 标记二抗 （英
+国 Abcam 公司），β-甘油磷酸钠和抗坏血酸 （美国
+Sigma 公司），RIPA 裂解液、BCA 蛋白浓度测定试
+剂盒、ECL 发光试剂盒、CCK-8 试剂盒、4% 多聚
+甲 醛 、 BCIP/NBT
+碱 性 磷 酸 酶
+（alkaline
+phosphatase， ALP） 显色试剂盒和茜素红 S （上海
+碧云天生物技术有限公司）。CO2 恒温细胞培养箱
+（日 本 SANYO 公 司）， Vanox 倒 置 显 微 镜 （日 本
+Olympus 公司），酶标仪 （美国 Bio-TEK 公司），电
+泳仪 （美国赛默飞世尔公司）。
+1. 2
+细胞培养
+细胞培养
+自液氮中取出冻存的 293T 细胞和
+MC3T3-E1 细胞复苏，采用含 10% 胎牛血清和 1%
+青霉素及链霉素的 DMEM 完全培养基，于 37 ℃、
+5%CO2培养箱中培养，每 3~5 d 传代 1 次，传 3 代
+后，待细胞活力恢复用于后续实验。
+1. 3
+双荧光素酶报告基因实验检测
+双荧光素酶报告基因实验检测 HEK293T 细
+胞相对荧
+胞相对荧光 素 酶 活 性
+光 素 酶 活 性
+为 筛 选 能 够 激 活 ER β 启
+动 子的人参皂苷单体，取对数生长期的 HEK293T
+细胞，按每孔 8×10
+3 个细胞的密度接种于 48 孔板
+中，置于 37 ℃、5%CO2孵箱中培养，待细胞贴壁
+生 长 至 80% 融 合 后 ， 转 染 PGL2-ER β 和 内 参
+Renilla 荧光素酶质粒 Prep7-Rluc 至 HEK293T 细胞
+中。转染 16 h 后，细胞分为对照组、雌二醇组和人
+参 皂 苷 组 ， 分 别 用 PBS 缓 冲 液 ， 雌 二 醇 （1×
+10
+－ 6 mmol·L
+－1） 和 人 参 皂 苷 Rb1、 Rb2、 Rd、
+Rg1、Rg2、Rh1 （1×10
+－5 mmol·L
+－1） 分别处理细
+胞，每组设 6 个复孔，给药 24 h 后，检测并计算双
+荧光素酶报告基因活性，代表 ERβ 启动子转录活
+性。相对荧光素酶活性=萤火虫荧光强度/内参海
+肾荧光强度。实验重复 3 次。
+1. 4
+Western blotting 法检测各组
+法检测各组 MC3T3-E1 细胞
+细胞
+中 ERβ 蛋 白 表 达 水 平
+蛋 白 表 达 水 平
+MC3T3-E1 细 胞 分 为 对 照
+组 、 雌 二 醇 组 和 不 同 浓 度 （1×10
+－6、 1×10
+－5 和
+1×10
+－4 mmol·L
+－1） 人参皂苷 Rh1 组，分别用 PBS
+缓冲液、雌二醇 （1×10
+－6 mmol·L
+－1） 和不同浓度
+人参皂苷 Rh1 处理各组细胞 24 h 后，收集细胞，使
+用预冷过的 PBS 缓冲液洗涤后，加入适量 RIPA 裂
+解液，置于冰上裂解 30 min，4 ℃、12 000 r·min
+－1
+离心 15 min，收集上清，用 BCA 法检测并定量总
+蛋白浓度。取 20 μg 各组蛋白进行上样，行 SDS-
+PAGE 凝胶电泳分离蛋白，转膜，5% 脱脂牛奶室
+温下封闭 1 h，加入 ERβ 抗体 （1∶400） 和 β-actin
+抗 体 （1∶ 1 000）， 4℃ 条 件 下 孵 育 过 夜 。 次 日 ，
+1×TBST 洗涤 3 次，每次 5 min，随后加入辣根过
+898
+万方数据
+毛天娇，等 .
+人参皂苷 Rh1 对 MC3T3‑E1 细胞增殖和分化的促进作用及其机制
+氧 化 物 酶 标 记 的 二 抗 ， 于 室 温 下 孵 育 1 h， 1×
+TBST 洗涤 3 次，每次 10 min，加入增强型化学发
+光剂 ECL 进行显影。ERβ 蛋白表达水平=ERβ 蛋
+白条带灰度值/内参 β-actin 蛋白条带灰度值。实验
+重复 3 次。
+1. 5
+Auto Dock 分 子 结 构 对 接
+分 子 结 构 对 接
+准 备 配 体 文 件 ，
+从美国国家生物技术信息中心 （National Center for
+Biotechnology Information，NCBI） 上下载的 Rh1小
+分 子 配 体 文 件 进 行 保 存 ， 采 用 SDF 格 式 。 通 过
+PyMOL 3D 分子视图软件和 PMV-1. 5. 6 软件，对
+该分子进行初始化并将处理后的配体文件输出，其
+格式为 pdbqt。 然后准备大分子受体蛋白质文件，
+ERβ 大分子受体蛋白文件需要从蛋白质数据库中下
+载，保存为pdb格式，把大分子受体蛋白去掉H2O分子
+并添加 H原子，保存后将其输出至 pdbqt 格式文件。
+运行 Auto Grid4和 Auto Dock4，在 PMV-1. 5. 6软件
+中 将 处 理 后 的 大 小 分 子 完 整 放 置 于 Grid 格 子 中 ，
+设 置 合 理 的 格 子 把 Auto Grid 参 数 保 存 成 GPF 文
+件。选择上述得到的小分子配体文件、大分子配体
+文件和 Auto Grid 参数；在 PMV-1. 5. 6 软件中载入
+之前准备好的小分子和大分子 pdbqt 文件，并进行
+相关文件的设置，在对接运行参数后，采用马克遗
+传 算 法 运 行 程 序 并 生 成 dlg 格 式 文 件 。 最 后 ， 在
+PMV-1. 5. 6 软件中打开文件，日志中的对接结果分子
+构象为 10个，并将相关数据显示出来，载入大分子，
+分析对接情况。
+1. 6
+CCK-8 法检测
+法检测 MC3T3-E1 细胞增殖率
+细胞增殖率
+实验
+分为对照组、雌二醇组 （1×10
+－6 mmol·L
+－1） 和不
+同 浓 度 （5×10
+－6、 1×10
+－5、 5×10
+－5、 1×10
+－4、
+1×10
+－3 和 5×10
+－3 mmol·L
+－1） 人 参 皂 苷 Rh1 组 。
+取对数生长期 MC3T3-E1 细胞，按每孔 8×10
+3个细
+胞的密度接种于 96 孔板中，置于 37 ℃、5%CO2孵
+箱中培养，待细胞贴壁后，按照实验分组给予药
+物，每组设 5 个复孔，继续培养 24、48 和 72 h 后，
+弃培养液，每孔加入 100 μL 不含血清的 DMEM 培
+养基和 10 μL CCK-8，继续孵育 3 h，采用酶标仪
+测定波长 450 nm 处吸光度 （A） 值，计算细胞增殖
+率 。 细 胞 增 殖 率 ＝ 实 验 组 A 值/对 照 组 A 值 ×
+100%。实验重复 3 次。
+1. 7
+成骨诱导实验
+成骨诱导实验
+MC3T3-E1 细胞分为对照组、
+雌 二 醇 组 （1×10
+－ 6 mmol·L － 1） 和 不 同 浓 度
+（1×10
+－5 及 1×10－4 mmol·L
+－1） 人 参 皂 苷 Rh1 组 。
+将状态良好的 MC3T3-E1 细胞接种于 6 孔板，用含
+10% 胎牛血清和 1% 青霉素及链霉素的 DMEM 完
+全培养基培养 ， 24 h 后 更 换 为 成 骨 诱 导 培 养
+基 （10 mmol·L
+－1 β-甘油磷酸钠，50 mg·L
+－1抗坏
+血酸，含 10% 胎牛血 清 的 DMEM）， 每 隔 1 d 更
+换 1 次成骨诱导培养基，根据实验需求分别诱导 7、
+14 和 21 d。
+1. 8
+偶氮偶联法
+偶氮偶联法 ALP 染色
+染色
+细胞分组同“1. 7”，
+取对数生长期 MC3T3-E1 细胞按每孔 3×10
+5的密度
+接种于 6 孔板中，置于 37 ℃、5%CO2孵箱中培养，
+待细胞贴壁后，更换为含有不同浓度药物的成骨诱
+导培养基，每 3 d 更换 1 次成骨诱导培养基，分别
+诱 导 7 和 14 d。 诱 导 完 成 后 ， 使 用 PBS 缓 冲 液 清
+洗，4% 多聚甲醛固定后，在室温避光条件下，按
+照 说 明 书 的 步 骤 ， 配 制 BCIP/NBT 工 作 液 进 行
+ALP 染色，反应中止后在显微镜下观察 ALP 染色
+面积，ALP 染色阳性可见细胞质呈蓝紫色，并且
+有蓝紫色颗粒物。
+1. 9
+茜素红染色观察细胞中钙化结节面积
+茜素红染色观察细胞中钙化结节面积
+细胞
+分 组 同 “1. 7”， 取 对 数 生 长 期 MC3T3-E1 细 胞 按
+每 孔 3×10
+5 的 密 度 接 种 于 6 孔 板 后 置 于 37℃ 、
+5%CO2 孵箱中培养，待细胞贴壁后，更换为含有
+不同浓度药物的成骨诱导培养基，每 3 d 更换 1 次
+成骨诱导培养基，诱导 21 d 后，使用 PBS 缓冲液
+清洗，4% 多聚甲醛固定后，在室温避光条件下，
+按照说明书的步骤，用 1% 浓度的茜素红染液进行
+染色，反应终止后观察钙结节染色结果及面积，矿
+化结节呈红色斑点状。
+1. 10
+统计学分析
+统计学分析
+采用 SPSS 23. 0 统计软件进行
+统计学分析。各组 293T 细胞相对荧光素酶活性、
+MC3T3-E1 细 胞 中 ERβ 蛋 白 表 达 水 平 和 细 胞 增 殖
+率均以 x±s 表示，多组间样本平均数比较采用单因
+素方差分析，组间样本均数两两比较采用 SNK-q
+检验。以 P<0. 05 为差异有统计学意义。
+2
+结
+果
+2. 1
+各组
+各组 HEK293T 细胞相对荧光素酶活性
+细胞相对荧光素酶活性
+双
+荧光素酶报告基因实验结果显示：与对照组比较，
+人参皂苷 Rb1 和人参皂苷 Rh1 组 HEK293T 细胞相
+对荧光素酶活性明显升高 （P<0. 05 或 P<0. 01），
+），
+且人参皂苷 Rh1 组 HEK293T 细胞相对荧光酶活性
+最高，表明人参皂苷 Rh1 组 HEK293T 细胞中 ERβ
+启动子的转录活性明显上调。见图 1。
+2. 2
+各 组
+各 组 MC3T3-E1 细 胞 中
+细 胞 中 ERβ 蛋 白 表 达 水 平
+蛋 白 表 达 水 平
+与 对 照 组 比 较 ， 人 参 皂 苷 Rh1 组 和 雌 二 醇 组
+899
+万方数据
+第 47 卷
+第 4 期
+2021 年 7 月
+吉林大学学报 （医学版）
+MC3T3-E1 细 胞 中 ER β 蛋 白 表 达 水 平 明 显 升 高
+（P<0. 01），且人参皂苷 Rh1 具有浓度依赖性，浓
+度 为 1×10
+－ 4 mmol·L
+－1时，细胞中 ERβ 蛋白表达
+水平最高。见图 2。
+2. 3
+人 参 皂 苷
+人 参 皂 苷 Rh1 与 ERβ 分 子 对 接 实 验
+分 子 对 接 实 验
+通 过
+Auto Dock 计算模拟人参皂苷 Rh1 与 ERβ 的分子对
+接，结果显示：人参皂苷 Rh1 可结合在 ERβ 的配体
+结合口袋内。有 7 个氨基酸对接位点：GLU-291、
+GLY-367、
+LYS-368、
+VAL-370、
+GLU-371、
+GLY-372 和 LEU-374。见图 3。
+2. 4
+各组
+各组 MC3T3-E1 细胞增殖率
+细胞增殖率
+不同浓度人参
+皂 苷 Rh1 和 雌 二 醇 与 MC3T3-E1 细 胞 共 培 养 24、
+48 和 72 h 后，与对照组比较，1×10
+－5、5×10
+－5、
+1×10
+－4 和 1×10
+－3 mmol·L
+－1 人 参 皂 苷 Rh1 组 及 雌
+二 醇 组 MC3T3-E1 细 胞 增 殖 率 明 显 升 高 （P<
+0. 01），且随着时间延长，细胞增殖率明显升高，
+72 h 时 1×10
+－4 mmol·L
+－1人参皂苷 Rh1 组细胞增殖
+率最高。见表 1。
+2. 5
+各 组
+各 组 MC3T3-E1 细 胞
+细 胞 ALP 染 色 结 果
+染 色 结 果
+MC3T3-E1 细胞成骨诱导分化 7 和 14 d 后，与对照
+组比较，不同浓度人参皂苷 Rh1 组 MC3T3-E1 细胞
+中可见大量散在胞质内的蓝紫色颗粒，细胞 ALP
+染色呈阳性，1×10
+－4 mmol·L
+－1人参皂苷 Rh1 组细
+胞 ALP 染色面积最大，且 14 d 时 ALP 染色面积较
+7 d 时明显增加。见图 4。
+2. 6
+各组
+各组 MC3T3-E1 细胞钙化结节茜素红染色结
+细胞钙化结节茜素红染色结
+果
+成 骨 诱 导 分 化 21 d 后 ， 各 组 MC3T3-E1 细 胞
+中均有红染钙化结节，与对照组比较，不同浓度人
+参皂苷 Rh1 组 MC3T3-E1 细胞中红色钙化结节面积
+明显增加，1×10
+－4 mmol·L
+－1人参皂苷 Rh1 组钙化
+结节面积最大，与雌二醇组接近。见图 5。
+*P<0.05，**P<0.01 compared with control group.
+图 1
+各组
+各组 HEK293T 细胞相对荧光素酶活性
+细胞相对荧光素酶活性
+Fig. 1
+Activities of luciferase in HEK293T cells in
+various groups
+Lane 1：Control group；Lane 2：1×10－6 mmol·L－1 ginsenoside
+Rh1
+group； Lane
+3： 1×10－5
+mmol·L－1 ginsenoside Rh1
+group； Lane 4： 1×10－4 mmol·L－1 ginsenoside Rh1 group；
+Lane5：Estrodiolgroup.1：Control group；2：1×10－6 mmol·L－1
+ginsenoside Rh1 group；3：1×10－5 mmol·L－1 ginsenoside Rh1
+group；4：1×10－4 mmol·L－1 ginsenoside Rh1 group；5：Estrodiol
+group.*P<0.01 compared with control group.
+图 2
+各组
+各组 MC3T3-E1 细胞中
+细胞中 ERβ 蛋白表达电泳图
+蛋白表达电泳图(A)
+和直条图
+和直条图(B)
+Fig. 2
+Electrophoregram(A)
+and
+histogram(B)
+of
+expressions of ER β protein in MC3T3-E1 cells in
+various groups
+图 3
+人参皂苷
+人参皂苷 Rh1 与 ERβ 对接位点
+对接位点
+Fig. 3
+Docking sites of ginsenoside Rh1 and ERβ
+900
+万方数据
+毛天娇，等 .
+人参皂苷 Rh1 对 MC3T3‑E1 细胞增殖和分化的促进作用及其机制
+3
+讨
+论
+随着年龄的增长，骨量的减少和成骨能力的降
+低会影响颌面外科手术和种植牙的效果
+［9］。有研
+究
+［10］ 表明：治疗骨质疏松症的药物可以有效改善
+牙槽骨的丢失，并促进种植体周围的骨整合。目
+前，临床上常用的双膦酸盐、雌激素替代疗法和选
+择性雌激素受体调节剂等虽然可以在一定程度上改
+善 骨 质 疏 松 症 ， 但 长 期 使 用 都 会 产 生 不 良 反
+应
+［11-12］。如何阻止骨质疏松症的发生发展一直是研
+究的热点。
+来自中药的天然产物是开发新药的优秀且可靠
+的来源。人参皂苷是人参、西洋参和三七中的主要
+有效成分，可溶于无水乙醇和 DMSO，不溶于水，
+具有抗炎、抗氧化、抗肿瘤、免疫调节和抗骨质疏
+松等多种药理活性
+［13-14］；人参皂苷与内源性雌激素
+结构相似，可以作为 ER 的选择性配体
+［14］。ER 在
+协调成骨细胞和破骨细胞在骨稳态中的活性以及预
+防绝经后骨质流失中起重要作用。是潜在的治疗骨
+质疏松的靶标
+［15］。研究
+［16-17］ 显示：ERβ 参与了骨
+代谢，在成骨细胞分化过程中处于高表达水平。因
+此本研究以 ERβ 作为靶点，筛选出可以靶向上调
+ERβ 转 录 和 表 达 的 人 参 皂 苷 Rh1， 并 利 用 Auto
+Dock 分子作用力分析软件 3D 模拟人参皂苷 Rh1 与
+ERβ 的 结 合 ， 进 一 步 证 实 了 人 参 皂 苷 Rh1 可 以 与
+ERβ 蛋白发生分子结构对接，表明人参皂苷 Rh1 可
+以与成骨细胞内的 ERβ 基因序列启动子上的结合
+位点相结合，从而上调其转录和表达，起到了与内
+源性雌激素类似的作用。
+本研究进一步探讨人参皂苷 Rh1 对 MC3T3-E1
+细胞增殖和分化的作用，结果表明：在一定浓度范
+围 内 ， 人 参 皂 苷 Rh1 可 以 呈 浓 度 依 赖 性 促 进
+MC3T3-E1 细胞增殖。成骨细胞的分化和基质钙化
+是骨形成的基础，ALP 是骨形成时期活跃分泌的
+蛋白，可以启动成骨细胞的钙化，是常用的评估成
+表 1
+各组
+各组 MC3T3-E1 细胞增殖率
+细胞增殖率
+Tab
+Tab. 1
+Proliferation rates of MC
+Proliferation rates of MC3T3-E1 cells in various
+cells in various
+groups
+groups
+(n=5,x±s，η/%)
+Group
+Control
+Ginsenoside Rh1(mmol·L－1)
+5×10－6
+1×10－5
+5×10－5
+1×10－4
+1×10－3
+5×10－3
+Estrodiol
+Proliferation rate
+(t/h)
+24
+100.000±0.116
+103.579±0.072
+108.301±0.071*
+110.159±0.078*
+117.323±0.067*
+107.158±0.068*
+103.107±0.103
+109.663±0.071*
+48
+100.000±0.011
+103.954±0.013
+108.302±0.012*
+112.582±0.009*
+120.016±0.011*
+109.711±0.013*
+103.292±0.015
+110.770±0.009*
+72
+100.000±0.013
+104.952±0.021
+109.731±0.023*
+113.025±0.023*
+122.282±0.021*
+107.632±0.019*
+102.107±0.014
+111.819±0.009*
+*P<0.01 compared with control group.
+A-D：7 d，E-H：14 d；A，E：Control group；B，F：1×10－5 mmol·L－1 ginsenoside Rh1 group；C，G：1×10－4 mmol·L－1 Rh1 group；
+D，H：Estrodiol group.
+图 4
+各组
+各组 MC3T3-E1 细胞成骨分化过程中
+细胞成骨分化过程中 ALP 染色
+染色(Bar=500 μm)
+Fig. 4
+Results of ALP staining of MC3T3-E1 cells during osteogenic differentiation in various groups (Bar=500 μm)
+901
+万方数据
+第 47 卷
+第 4 期
+2021 年 7 月
+吉林大学学报 （医学版）
+骨细胞早期分化的指标
+［18-20］。本研究结果显示：人
+参皂苷 Rh1 可以明显增强 MC3T3-E1 细胞中 ALP
+活性，促进成骨细胞的早期分化。茜素红染色是测
+定成骨细胞基质钙化的特异性指标，本研究结果表
+明：人参皂苷 Rh1 可以明显促进 MC3T3-E1 细胞基
+质中钙化结节的形成。
+综上所述，人参皂苷 Rh1 可以与 MC3T3-E1 细
+胞中的 ERβ 靶向结合，从而上调细胞中 ERβ 的转
+录和表达水平，促进成骨细胞的增殖和分化。本研
+究结果为人参皂苷 Rh1 用于骨质疏松症的防治提供
+了依据。
+[参考文献]
+［1］ YANG D，LIU T，JIANG G，et al. Senkyunolide H
+attenuates
+osteoclastogenesis
+and
+postmenopausal
+osteoporosis by regulating the NF- κB，JNK and ERK
+signaling pathways［J］. Biochem Biophys Res Commun，
+2020，533（3）：510-518.
+［2］ CHEN C H，WANG L，SERDAR TULU U，et al. An
+osteopenic/osteoporotic phenotype delays alveolar bone
+repair［J］. Bone，2018，112：212-219.
+［3］ IGUACEL I， MIGUEL-BERGES M
+L， GÓMEZ-
+BRUTON A，et al. Veganism，vegetarianism，bone
+mineral density，and fracture risk：a systematic review
+and meta-analysis［J］. Nutr Rev，2019，77（1）：1-18.
+［4］ KANIS J A，COOPER C，RIZZOLI R，et al. Scientific
+Advisory Board of the European Society for Clinical and
+Economic Aspects of Osteoporosis （ESCEO） and the
+Committees of Scientific Advisors and National Societies
+of the International Osteoporosis Foundation （IOF）.
+European guidance for the diagnosis and management of
+osteoporosis in postmenopausal women［J］. Osteoporos
+Int，2019，30（1）：3-44.
+［5］ ZHU H，HE Y S，MA J，et al. The dual roles of
+ginsenosides in improving the anti-tumor efficiency of
+cyclophosphamide in mammary carcinoma mice［J］.
+J Ethnopharmacol，2021，265：113271.
+［6］ ZHANG X N，HUANG F L，CHEN X Y，et al.
+Ginsenoside
+Rg3
+attenuates
+ovariectomy-induced
+osteoporosis via AMPK/mTOR signaling pathway［J］.
+Drug Dev Res，2020，81（7）：875-884.
+［7］ YANG
+B， ZHAO
+S
+C， YAN
+L.
+The
+role
+of
+ginsenoside Rb1 in bone homeostasis［J］. Curr Stem Cell
+Res Ther，2020. DOI：10.2174/1574888x156662006281
+41743.
+［8］ LIU Y， XU Z J， WANG Q Q， et al. Selective
+regulation
+of
+RANKL/RANK/OPG
+pathway
+by
+heparan
+sulfate
+through
+the
+binding
+with
+estrogen
+receptor β in MC3T3-E1 cells［J］. Int J Biol Macromol，
+2020，161：1526-1534.
+［9］ JIANG L T，ZHANG W J，WEI L，et al. Early effects
+of
+parathyroid
+hormone
+on
+vascularized
+bone
+regeneration
+and
+implant
+osseointegration
+in
+aged
+rats［J］. Biomaterials，2018，179：15-28.
+［10］KHAJURIA D K，PATIL O N，KARASIK D，et al.
+Development
+and
+evaluation
+of
+novel
+biodegradable
+chitosan based metformin intrapocket dental film for the
+management of periodontitis and alveolar bone loss in a
+rat model［J］. Arch Oral Biol，2018，85：120-129.
+［11］PATERNI
+I，
+GRANCHI
+C，
+KATZENELLENBOGEN J A，et al.Estrogen receptors
+alpha （ERα） and beta （ERβ）：subtype-selective ligands
+and clinical potential［J］. Steroids，2014，90：13-29.
+［12］COMPSTON J E，MCCLUNG M R，LESLIIE W D.
+Osteoporosis［J］. Lancet，2019，393（10169）：364-376.
+［13］KIM
+J H， YI Y
+S， KIM
+M
+Y， et al. Role of
+ginsenosides， the main active components of Panax
+ginseng，in inflammatory responses
+and
+diseases［J］.
+J Ginseng Res，2017，41（4）：435-443.
+［14］ZHANG T， ZHONG S， LI T， et al. Saponins as
+A：Control group；B：1×10－5 mmol·L－1 ginsenoside Rh1 group；C：1×10－4 mmol·L－1 ginsenoside Rh1 group；D：Estrodiol group.
+图 5
+各组
+各组 MC3T3-E1 细胞成骨分化过程中骨基质的钙化
+细胞成骨分化过程中骨基质的钙化（茜素红
+茜素红）
+Fig. 5
+Calcification of bone matrix during osteogenic differentiation of MC3T3-E1 cells in various groups (Alizarin red)
+902
+万方数据
+毛天娇，等 .
+人参皂苷 Rh1 对 MC3T3‑E1 细胞增殖和分化的促进作用及其机制
+modulators of nuclear receptors［J］. Crit Rev Food Sci
+Nutr，2020，60（1）：94-107.
+［15］THOMAS
+T， MARTIN
+A.
+Formation
+osseuse，
+facteurs de régulation［J］. J Soc Biol，2008，202（4）：
+257-264.
+［16］SCHMOLDT A，BENTHE H F，HABERLAND G.
+Digitoxin
+metabolism
+by
+rat
+liver
+microsomes ［J］.
+Biochem Pharmacol，1975，24（17）：1639-1641.
+［17］WIREN K M ， CHAPMAN EVANS A ， ZHANG
+X W. Osteoblast differentiation influences androgen and
+estrogen
+receptor-alpha
+and-beta
+expression ［J］.
+J Endocrinol，2002，175（3）：683-694.
+［18］LIN Y T，PENG S W，IMTIYAZ Z，et al. In vivo and
+in vitro evaluation of the osteogenic potential of Davallia
+mariesii T. Moore ex Baker［J］. J Ethnopharmacol，
+2021，264：113126.
+［19］顾艺婧，傅稼耀，武文婧，等.抗骨相关细胞衰老作用治
+疗雌激素缺乏骨质疏松症的初步研究［J］.同济大学学
+报（医学版），2019，40（3）：274-280.
+［20］KUO T R，CHEN C H. Bone biomarker for the clinical
+assessment of osteoporosis： recent developments and
+future perspectives［J］. Biomark Res，2017，5：18.
+903
+万方数据

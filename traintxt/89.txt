@@ -1,0 +1,405 @@
+网络出版时间:2022 - 08 - 30 11:38 网络出版地址:https:/ / kns. cnki. net/ kcms/ detail/ 34. 1065. R. 20220829. 1638. 009. html
+人参皂苷 RG1 调控丙酮酸激酶 M2 影响视网膜
+毛细血管内皮细胞糖酵解和血管形成
+薛黎萍1,胡 敏1,李亚娣1,张晓帆1,张洁莹1,周 园1,梁佳芮1,张传宏1,丁 鹏2
+2022 - 07 - 10 接收
+基金项目:云南省中青年学术和技术带头人后备人才项目( 编号:
+202005AC160021);云南省科技厅科技计划项目[ 编号:
+2019FE001( - 169)]
+作者单位:1 云南大学附属医院儿童眼科,昆明 650000
+2 昆明医科大学第一附属医院神经外科,昆明 650000
+作者简介:薛黎萍,女,主任医师;
+丁 鹏,男,教授,责任作者,E-mail:pengdwfmc@ 163. com
+摘要 目的 探讨人参皂苷 Rg1(GRg1)通过调控丙酮酸激
+酶 M2 ( PKM2 ) 的 表 达 对 人 视 网 膜 微 血 管 内 皮 细 胞
+(HRMECs)糖酵解的影响。 方法 在体外培养 HRMECs,将
+其分为对照组(NC) 组、高葡萄糖(HG) 组、HG + 人参皂苷
+Rg1(HG + GRg1) 组、HG + 人参皂苷 Rg1 + 低表达 PKM2
+(HG + GRg1 + si-PKM2) 组、HG + 人参皂苷 Rg1 + 过表达
+PKM2(HG + GRg1 + OE-PKM2) 组,si-PKM2、OE-PKM2 通过
+细胞转染方式转染至 HRMECs 中。 采用 qRT-PCR 法检测
+HRMECs 中 PKM2 mRNA 的表达情况;通过 Western blot 检
+测 HRMECs 中相关蛋白表达量;在倒置显微镜下观察细胞
+体外管腔生成数量,以量化血管形成能力;收集各组细胞培
+养液,分别用葡萄糖检测试剂盒、乳酸检测试剂盒和腺嘌呤
+核苷三磷酸(ATP)检测试剂盒检测葡萄糖摄取量、乳酸产量
+以及 ATP 含量。 结果 
+HG 诱导会显著增加 HRMECs 的血
+管形成数量、糖酵解及 PKM2 的表达,而在加入 GRg1 处理
+后,HG 所致的血管数量、糖酵解及 PKM2 的表达均明显减
+少;转染 si-PKM2 可协助 GRg1 对糖酵解和血管形成的抑制
+作用,而转染 OE-PKM2 会干扰 GRg1 的功能。 结论 
+GRg1
+通过抑制 PKM2 减少 HRMECs 糖酵解抑制血管形成。
+关键词 糖尿病视网膜病变;人参皂苷 RG1;人视网膜微血
+管内皮细胞;丙酮酸激酶 M2;糖酵解;血管形成
+中图分类号 R 774. 1
+文献标志码 A 文章编号 1000 - 1492(2022)10 - 1559 - 06
+doi:10. 19405 / j. cnki. issn1000 - 1492. 2022. 10. 009
+  糖尿病视网膜病变(diabetic retinopathy,DR)是
+最常见、最严重的糖尿病微毛细血管并发症之一,
+DR 的基本病理特征是新生血管的生成[1]。 有研
+究[2]表明内皮细胞(endothelial cells,ECs)代谢在血
+管生成中的关键作用,ECs 的增殖和迁移依赖于糖
+酵解产生的能量,因此,抑制 ECs 中的糖酵解可能
+会抑制 DR 中新血管形成。 丙酮酸激酶 M2( pyru-
+vate kinase M2, PKM2) 是糖酵解末端步骤的限速
+酶,它促进磷酸烯醇式丙酮酸释放能量,为细胞生长
+提供有利条件[3]。 Liu et al[4] 报道,高葡萄糖(high
+glucose,HG)可诱导人视网膜微血管内皮细胞(hu-
+man retinal microvascular endothelial cells,HRMECs)
+中 PKM2 表达增加,而抑制 PKM2 后可逆转 HG 诱
+导的 HRMECs 损伤和凋亡。 人参皂苷 Rg1(ginsen-
+oside Rg1,GRg1)是人参中的一种主要皂苷,在糖尿
+病中具有抗血管生成和抗凋亡活性[5],但在 DR 中,
+鲜有关于 GRg1 是否通过调控糖酵解过程影响血管
+形成的报道。 因此,该研究旨在探讨 GRg1 通过调
+控 PKM2 的表达对 HRMECs 糖酵解的影响。
+1 材料与方法
+1. 1 细胞株及主要试剂 
+人视网膜微血管内皮细
+胞 HRMECs( 上海泽叶生物科技有限公司);Lipo-
+fectamineTM2000 转染试剂盒、 TRIzol 试剂、 Western
+blot 试 剂 盒 ( 美 国 Thermo Fisher 公 司 ); Qiagen
+RNeasy mini 试剂盒(广州健仑生物科技有限公司);
+PrimeScript RT 试剂盒( 北京智杰方远科技有限公
+司);葡萄糖检测试剂盒和 ATP 检测试剂盒(生工生
+物工程股份有限公司);乳酸含量检测试剂盒(北京
+索莱宝科技有限公司);血管内皮生长因子(vascular
+endothelial growth factor,VEGF)、血管生成素-1(an-
+giopoietin-1,Ang-1)、血管生成素-2 ( angiopoietin-2,
+Ang-2)、 成纤维细胞生长因子 2 ( fibroblast growth
+factor2,FGF2) 和 GAPDH( 英国 Abcam 公司);ECs
+专用培养基(武汉普诺赛生命科技有限公司)
+1. 2 
+细胞培养及转染 
+HRMECs 在含有 5% 胎牛
+血清(fetal bovine serum,FBS)、1% 青霉素/ 链霉素
+和 1% ECs 生长因子的 HRMECs 特异性 ECs 培养
+基中培养。 所有细胞均在 37 ℃、5% CO2 培养箱中
+培养。 每 2 d 更换一次培养基。 正常葡萄糖条件下
+的葡萄糖浓度为 5 mmol/ L,HG 条件下的葡萄糖浓
+度为 25 mmol/ L,细胞在 HG 条件下培养 48 h 后加
+入 10 μmol/ L GRg1,继续培养 48 h 进行后续实验。
+·1559·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Oct;57(10)
+根据 Lipofectamine 2000 转染试剂盒说明将阴性对
+照物(NC)、靶向 PKM2 的小干扰 RNA(si-PKM2)和
+过表达 PKM2(OE-PKM2)的质粒转染至 HRMECs。
+1. 3  
+qRT-PCR 检测 HRMECs 中 PKM2 mRNA
+的表达情况 收集各组细胞,使用 TRIzol 试剂提取
+细胞总 RNA,根据 PrimeScript RT 试剂盒说明将 1
+μg 总 RNA 逆转录合成 cDNA,以 GAPDH 为内参,
+进行定量 PCR 反应,反应体系为:ddH2O 7 μl,SYBR
+Green PCR Master Mix 10 μl,cDNA 2 μl,上游引物
+0. 5 μl,下游引物 0. 5 μl,总体系共 20 μl。 PCR 反
+应条件为:95 ℃预变性 10 min,然后 3 步反应,95 ℃
+变性 15 s,60 ℃ 退火 30 s,共 45 个循环。 引物序列
+见表 1。
+表 1 引物序列
+基因名
+序列 (5′-3′)
+PKM2
+F: 5′-GGAAGATCTGTAGTCCTGTCTGTTGGTCAG-3′
+R: 5′-CCCAAGCTTCCTGAAGAACTGCTTCCGCC-3′
+PKM2-siRNA
+sense: 5′-UGCCAUCUACCACUUGCAATT-3′
+anti-sense: 5′-UUGCAAGUGGUAGAUGGCATT-3′
+GAPDH
+F: 5′-GCTTCGGCAGCACATATACTAAAAT-3′
+R: 5′-CGCTTCACGAATTTGCGTGTCAT-3′
+1. 4 Western blot 检测 HRMECs 中相关蛋白表达
+量 使用 RIPA 缓冲液裂解细胞,BCA 蛋白检测试
+剂盒分析蛋白质浓度,然后加载到十二烷基硫酸钠
+- 聚丙烯酰胺凝胶电泳微型凝胶上并转移到聚偏二
+氟乙烯膜上。 将膜在含有 5% 脱脂奶粉的封闭缓冲
+液中封 闭, 并 在 4 ℃ 下 加 入 提 前 稀 释 好 的 一 抗
+(VEGF,1 ∶ 10 000;Ang-1,1 ∶ 10 000;Ang-2,1 ∶
+5 000;FGF2,1 ∶ 1 000;GAPDH,1 ∶ 2 500),室温孵
+育 2 h。 然后在室温下将膜与 HRP 标记的二抗孵育
+1 h,ECL 显色,凝胶成像系统成像分析,使用 ImageJ
+软件进行蛋白质印迹结果的定量。
+1. 5 血管形成实验检测 HRMECs 血管形成能力
+ 将 Matrigel(90 μl)涂到 24 孔板中,在 37 ℃ 下硬
+化 30 min,将 HRMECs 以每孔 1. 2 × 105 个细胞的密
+度接种到 Matrigel 包被的孔顶部,于 100% 湿度、37
+℃、5% CO2 的无菌培养箱中培养 6 h,然后在倒置显
+微镜下观察体外管腔生成结果并拍照,使用 Image
+Pro Plus 软件分析计算视野内 Matrigel 小管形成的
+数量,以此量化血管形成能力。
+1. 6 HRMECs 中葡萄糖摄取量和乳酸产量 收集
+细胞到离心管内,离心后弃上清液,每组收集 5 ×
+105 个细胞,加入 100 μl 蒸馏水,超声波破碎细胞
+(冰浴,功率 200 W,超声 3 s,间隔 10 s,重复 30
+次),95 ℃水浴 10 min,冷却后,25 ℃、10 600 r/ min
+离心 10 min,取上清液备用;酶标仪预热 30 min 以
+上,按照试剂盒说明书加入各试剂,根据公式计算葡
+萄糖摄取量。 同样,按照乳酸含量检测试剂盒说明
+书检测乳酸产量。
+1. 7 HRMECs 中 ATP 含量 收集各组细胞,每组
+收集 5 × 105 个细胞,加入 100 μl 提取液,冰浴下超
+声波破碎 1 min,4 ℃、11 818 r/ min 离心 10 min,取
+上清液至另一离心管,加入 500 μl 的氯仿充分震荡
+混匀,4 ℃、11 818 r/ min 离心 3 min,取上清液,置冰
+上待测。 根据试剂盒说明加入反应液,检测酶标仪
+340 nm 波长处的光密度(optical density,OD) 值,根
+据公式计算腺嘌呤核苷三磷酸( adenosine triphos-
+phate,ATP)含量。
+1. 8 统计学处理 本研究至少进行 3 个独立实验,
+所有数据采用平均值 ± 标准偏差(  
+x ± s) 表示,使用
+GraphPad Prism 7. 0 软件进行数据分析和绘图,两组
+间比较采用 t 检验,多组间比较采用单因素方差分
+析,P < 0. 05 表示差异有统计学意义。
+2 结果
+2. 1 GRg1 抑制 HRMECs 血管形成 Western blot
+检测结果显示,与 NC 组相比,HG 组细胞的 VEGF、
+Ang-1、Ang-2、FGF2 的表达水平增强,经 GRg1 处理
+后,VEGF、 Ang-1、 Ang-2、 FGF2 的 表 达 下 降 ( P <
+0. 05),见图 1A;同时分析视野内 Matrigel 小管形成
+的数量,结果显示,与 NC 组细胞相比,HG 组细胞血
+管形成数量增多(P < 0. 01),而 GRg1 处理 HG 诱导
+的 HRMECs 后,其血管形成数量减少(P < 0. 05),见
+图 1B。
+2. 2 GRg1 抑制 HG 诱导的 HRMECs 糖酵解 在
+HG 的处理下,HRMECs 对葡萄糖的摄取量高于 NC
+组(P < 0. 001),其乳酸和 ATP 产量也高于 NC 组(P
+< 0. 001);用 GRg1 处理 HG 组细胞后,与 HG 组相
+比,细胞对葡萄糖的摄取减少( P < 0. 01),乳酸及
+ATP 产量与 HG 组相比也降低(P < 0. 01),见图 2。
+2. 3 
+GRg1 调控 HRMECs 中 PKM2 表达 
+qRT-
+PCR 检测结果显示,HG 组细胞 PKM2 mRNA 的表
+达增加(P < 0. 001),在 GRg1 处理后,PKM2 mRNA
+的表达有所下调(P < 0. 01),见图 3A;Western blot
+检测 HRMECs 中表达量发现,PKM2 在 HG 组中的
+表达高于 NC 组(P < 0. 01),而经 GRg1 处理后,其
+在 HRMECs 中的表达降低(P < 0. 05),见图 3B。
+2. 4 GRg1 通过调控 PKM2 的表达减少 HRMECs
+·1560·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Oct;57(10)
+图 1 GRg1 抑制 HRMECs 血管形成
+A:GRg1 处理后 HRMECs 的相关蛋白表达情况;B:GRg1 处理后 HRMECs 的血管生成情况 × 200;与 NC 组比较:∗P < 0. 05,∗∗P < 0. 01;与
+HG 组比较:△P < 0. 05
+图 2 GRg1 抑制 HG 诱导的 HRMECs 糖酵解
+A:GRg1 处理后 HRMECs 的葡萄糖摄取量;B:GRg1 处理后 HRMECs 的乳酸产量;C:GRg1 处理后 HRMECs 的乳酸产量;与 NC 组比
+较:∗∗∗P < 0. 001;与 HG 组比较:△△P < 0. 01
+图 3 GRg1 调控 HRMECs 中表达
+A:GRg1 处理对 HRMECs 中 PKM2 mRNA 表达的影响;B:Western blot 检测 HRMECs 中 PKM2 的表达;与 NC 组比较:∗∗P < 0. 01,∗∗∗P <
+0. 001;与 HG 组比较:△P < 0. 05,△△P < 0. 01
+糖酵解抑制血管形成 
+qRT-PCR 检测 si-PKM2 和
+OE-PKM2 的转染效率,结果显示,转染 si-PKM2 后,
+其表达量降低 ( P < 0. 001), 见图 4A。 转 染 OE-
+PKM2 后,其表达量升高(P < 0. 001),见图 4B。 表
+明细胞转染效率佳。 对每组细胞的糖酵解过程检测
+发现,与 HG + GRg1 组相比,HG + GRg1 + OE-PKM2
+·1561·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Oct;57(10)
+组细胞的葡萄糖摄取量、乳酸和 ATP 产量均升高(P
+< 0. 05 或 P < 0. 01),而 HG + GRg1 + si-PKM2 组细
+胞的葡萄糖摄取量、乳酸和 ATP 产量均降低( P <
+0. 01),见图 4C-4E。 检测 HRMECs 中相关蛋白表达
+量,结果如图 4F,在 HG + GRg1 + OE-PKM2 组细胞
+中,VEGF、Ang-1、Ang-2、FGF2 的表达量高于 HG +
+GRg1 组(P < 0. 05),HG + GRg1 + si-PKM2 组的蛋
+白表达量则降低(P < 0. 05 或 P < 0. 01)。 最后,通
+过血 管 形 成 实 验 进 一 步 验 证, HG + GRg1 + OE-
+PKM2 组细胞的血管生成数量多于 HG + GRg1 组
+(P < 0. 01),而 HG + GRg1 + si-PKM2 组的血管形成
+数量比 HG + GRg1 组减少(P < 0. 05),见图 4G。
+3 讨论
+  
+DR 的发展与高血糖相关,长期的高血糖环境
+可损伤视网膜血管内皮,引起一系列眼底病变,如微
+血管瘤、新生血管、玻璃体增生甚至视网膜脱离[6],
+视网膜新生血管被认为是 DR 中不可逆失明的主要
+原因。 通过对高糖诱导下的 HRMECs 进行研究,可
+以发现 HG 环境可以诱导 HRMECs 的血管生成。
+GRg1 是人参中的主要活性成分之一,具有抗
+炎、抗氧化、神经保护等多种药理活性[7]。 Zhu et
+al[8]报道 GRg1 可以减轻 HG 诱导的人脐静脉 ECs
+屏障功能障碍; Ying et al[9] 报道 GRg1 通过激活
+IRS-1 / Akt/ GSK3β 信号传导,保护过度磷酸化 Tau
+诱导的糖尿病视网膜神经变性,阻止 DR 的进展。
+由此可知,GRg1 可能在 DR 的血管病变中发挥作
+用。 PKM2 在所有核酸合成率高的细胞中均有表
+达,如胚 胎 细 胞、 正 常 增 殖 细 胞 和 肿 瘤 细 胞[10]。
+PKM2 的四聚体通常与正常细胞中 ATP 的产生和糖
+酵解中间体的分解代谢增加有关[11]。 目前已有研
+究[12]表明 PKM2 在肿瘤发生和伤口愈合过程中具
+有调节血管生成的作用。 此外,PKM2 也已经被证
+实参与调控 DR 中 HRMECs 的炎症、凋亡和功能障
+碍[4]。 本研究结果显示,HG 处理 HRMECs 后可上
+调 PKM2 表达,PKM2 表达被抑制后可减少 HG 诱导
+的糖酵解和血管形成。 GRg1 可抑制 HG 诱导的
+PKM2 表达升高,抑制 PKM2 诱导的糖酵解过程,进
+而抑制 HG 诱导的血管形成。
+DR 的发病机制不仅受多种因素通过整合的分
+子信号通路和细胞过程的调节,ECs 的葡萄糖代谢
+通过控制 ECs 增殖、迁移和新血管形成在 DR 的眼
+部新生血管疾病中也发挥重要作用[13]。 Feng et
+al[14]的研究表明,通过在视网膜病变小鼠玻璃体内
+注射 PFKFB3 的小干扰 RNA 可以减少糖酵解,并且
+抑 制了脉络膜和视网膜ECs新生血管形成。Pedro
+图 4 GRg1 通过调控 PKM2 的表达减少 HRMECs 糖酵解抑制血管形成
+A:qRT-PCR 检测 si-PKM2 的转染效率;B:qRT-PCR 检测 OE-PKM2 的转染效率;C:各组 HRMECs 的葡萄糖摄取量;D:各组 HRMEC-
+sHRMECs 的乳酸生成量;E:各组 HRMECs 的 ATP 产量;F:各组 HRMECs 的蛋白表达;G:各组 HRMECs 的血管生成情况 × 200;a:NC 组;b:HG
+组;c:HG + RGg1 组;d:HG + RGg1 + OE-PKM2 组;e:HG + RGg1 + si-PKM2 组;与 si-NC 组比较:▲▲▲ P < 0. 001;与 OE-NC 组比较:▼▼▼ P <
+0. 001;与 NC 组比较:∗∗P < 0. 01,∗∗∗P < 0. 001;与 HG 组比较:△P < 0. 05,△△P < 0. 01;与 HG + RGg1 组比较:#P < 0. 05,##P < 0. 01
+·1562·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Oct;57(10)
+et al[15] 发现糖原合成、戊糖循环和糖酵解途径对
+VEGF 和 FGF 刺激下的 ECs 增殖至关重要。 由此可
+知,ECs 糖酵解在 DR 新血管形成中发挥重要作用,
+调节视网膜 ECs 糖酵解途径的分子或药物对 DR 的
+治疗有重要意义。 对 HRMECs 的葡萄糖、乳酸和
+ATP 生成量进行研究发现,在 HG 的影响下,三者的
+生成量均显著升高,而在加入 GRg1 后,降低了葡萄
+糖、乳酸和 ATP 生成量;但如图 4 内容所示,HG +
+GRg1 组导致的效应改变应该可以通过 HG + GRg1
++ OE-PKM2 组来逆转,但本研究结果并未完全逆
+转,因此 GRg1 对视网膜血管生成的影响是否仍有
+其他机制和分子参与还有待进一步研究。
+参考文献
+[1] 高 翔, 刘 扣, 桂衍超, 等. 卡托普利抑制糖尿病视网膜病
+变大鼠脂代谢紊乱的作用及机制 [ J]. 安徽医科大学学报,
+2021, 56(4):5.
+[2] Huang H. Pericyte-endothelial interactions in the retinal microvas-
+culature [J]. Int J Mol Sci, 2020, 21(19):7413.
+[3] Park J H, Kundu A, Lee S H, et al. Specific pyruvate kinase M2
+inhibitor, compound 3K, induces autophagic cell death through
+disruption of the glycolysis pathway in ovarian cancer cells [ J].
+Int J Biol Sci, 2021, 17(8): 1895 - 908.
+[4] Liu L, Xu H, Zhao H, et al. STEAP4 inhibits HIF-1α / PKM2
+signaling and reduces high glucose-induced apoptosis of retinal
+vascular endothelial cells [ J ].
+Diabetes Metab Syndr Obes,
+2020, 13(8):2573 - 82.
+[5] Gao Y, Ji Y, Luo Y, et al. Ginsenoside Rg1 prevents early dia-
+betic retinopathy via reducing retinal ganglion cell layer and inner
+nuclear layer cell apoptosis in db / db mice [J]. Ann Transl Med,
+2020, 8(5): 232.
+[6] Qian C, Liang S, Wan G, et al. Salidroside alleviates high-glu-
+cose-induced injury in retinal pigment epithelial cell line ARPE-19
+by down-regulation of miR-138 [J]. RNA Biol, 2019, 16(10):
+1461 - 70.
+[7] Zhang Z, Song Z, Shen F, et al. Ginsenoside Rg1 prevents PTSD-
+Like behaviors in mice through promoting synaptic proteins, reduc-
+ing Kir4. 1 and TNF-α in the hippocampus [ J]. Mol Neurobiol,
+2021, 58(4): 1550 - 63.
+[8] Zhu T, Wang H, Wang L, et al. Ginsenoside Rg1 attenuates high
+glucose-induced endothelial barrier dysfunction in human umbilical
+vein endothelial cells by protecting the endothelial glycocalyx [J].
+Exp Ther Med, 2019, 17(5): 3727 - 33.
+[9] Ying Y, Zhang Y L, Ma C J, et al. Neuroprotective effects of gin-
+senoside Rg1 against hyperphosphorylated Tau-induced diabetic
+retinal neurodegeneration via activation of IRS-1 / Akt/ GSK3β sig-
+naling [J]. J Agri Food Chem, 2019, 67(30): 8348 - 60.
+[10] Ren R, Guo J, Shi J, et al. PKM2 regulates angiogenesis of VR-
+EPCs through modulating glycolysis, mitochondrial fission, and fu-
+sion [J]. J Cell Physiol, 2020, 235(9): 6204 - 17.
+[11] Zhang W, Zhang X, Huang S, et al. FOXM1D potentiates PKM2-
+mediated tumor glycolysis and angiogenesis [ J ].
+Mol Oncol,
+2021, 15(5): 1466 - 85.
+[12] Azoitei N, Becher A, Steinestel K, et al. PKM2 promotes tumor
+angiogenesis by regulating HIF-1α through NF-κB activation [J].
+Mol Cancer, 2016, 15:3.
+[13] Liu Z, Yan S, Wang J, et al. Endothelial adenosine A2a receptor
+- mediated glycolysis is essential for pathological retinal angiogen-
+esis [J]. Nat Commun, 2017, 8(1): 584.
+[14] Feng Y, Zou R, Zhang X, et al. YAP promotes ocular neovascu-
+larization by modifying PFKFB3-driven endothelial glycolysis [J].
+Angiogenesis, 2021,24(3):489 - 504.
+[15] Pedro V, Susana S T, Gema A V, et al. Characterization of the
+metabolic changes underlying growth factor angiogenic activation:
+identification of new potential therapeutic targets [J]. Carcinogen-
+esis, 2009, 30(6): 946 - 52.
+Ginsenoside RG1 regulates pyruvate kinase M2 on glycolysis and
+angiogenesis of retinal capillary endothelial cells
+Xue Liping1, Hu Min 1, Li Yadi1, Zhang Xiaofan1, Zhang Jieying1, Zhou Yuan1,
+Liang Jiarui1, Zhang Chuanhong1, Ding Peng2
+( 1Dept of Pediatric Ophthalmology, Affiliated Hospital of Yunnan University, Kunming 650000;
+2Dept of Neurosurgery, The First Affiliated Hospital of Kunming Medical University, Kunming 650000)
+Abstract Objective To investigate the effect of ginsenoside Rg1 (GRg1) on human retinal microvascular endo-
+thelial cells (HRMECs) glycolysis by regulating pyruvate kinase M2 ( PKM2) expression. Methods 
+HRMECs
+were cultured in vitro and divided into normal control (NC) group, high glucose (HG) group, high glucose + gin-
+senoside Rg1 (HG + GRg1) group, high glucose + ginsenoside Rg1 + low expression PKM2 ( HG + GRg1 + si-
+PKM2) group, and high glucose + ginsenoside Rg1 + overexpression PKM2 (HG + GRg1 + OE-PKM2) group. si-
+PKM2 and OE-PKM2 were transfected into HRMECs cells by cell transfection. The expression of PKM2 mRNA in
+·1563·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Oct;57(10)
+HRMECs was detected by qRT-PCR. The expression levels of related proteins in HRMECs were detected by West-
+ern blot. The number of lumen formation in vitro was observed under an inverted microscope to quantify the angio-
+genesis ability. Cell culture medium of each group was collected, and glucose intake, lactate production and adeno-
+sine triphosphate(ATP)content were detected by glucose detection kit, lactate detection kit and ATP detection kit,
+respectively. Results HG induced HRMECs significantly increased the number of blood vessel formation, glycoly-
+sis and PKM2 expression, while GRg1 treatment significantly reduced the number of blood vessel formation, glycol-
+ysis and PKM2 expression; transfection of si-PKM2 assisted the inhibitory effect of GRg1 on glycolysis and angio-
+genesis while transfection of OE-PKM2 interfered with the function of GRg1. Conclusion GRg1 inhibits angiogen-
+esis by inhibiting PKM2 to reduce glycolysis of HRMECs.
+Key words diabetic retinopathy; GRg1; HRMECs; PKM2; glycolysis;angiogenesis
+网络出版时间:2022 - 08 - 30 11:30 网络出版地址:https:/ / kns. cnki. net/ kcms/ detail/ 34. 1065. R. 20220829. 1638. 010. html
+弓形虫 Chinese 1 基因型虫株感染
+对小鼠海马体细胞超微结构的影响
+王 崇1,2,3,蔡亦红1,2,3
+摘要 目的 观察弓形虫 Chinese 1 优势基因型 TgCtwh3 和
+TgCtwh6 虫株对小鼠海马体细胞超微结构的影响。 方法 6
+周龄的雌性 C57BL/ 6 小鼠随机分为 3 组:对照组、TgCtwh3
+感染组、TgCtwh6 感染组,每组 6 只。 对照组腹腔注射无菌
+PBS;TgCtwh3 感染组腹腔注射 4 000 个 TgCtwh3 速殖子,饲
+养 6 d;TgCtwh6 感染组灌胃 20 个 TgCtwh6 包囊,饲养 6 周。
+所有动物经取材、制片,并用透射电子显微镜观察。 结果 
+与对照组相比,TgCtwh3 感染组海马体细胞出现核皱缩坏
+死,胞质、轴突肿胀,细胞器消失,轴索断裂等病理变化。 与
+对照组相比,TgCtwh6 感染组海马体细胞出现线粒体肿胀、
+空泡化、嵴断裂消失、膜破裂,脂褐素沉积,高尔基体扩张等
+病理变化。 结论 TgCtwh3 和 TgCtwh6 感染小鼠均出现海马
+体细胞超微结构的改变,TgCtwh3 感染组多表现为不可逆的
+细胞坏死,而 TgCtwh6 感染组表现出线粒体结构破坏为主的
+慢性细胞损伤,这为探讨弓形虫脑病的致病机制奠定基础。
+关键词 弓形虫;海马;超微结构;小鼠
+2022 - 05 - 13 接收
+基金项目:国家自然科学基金(编号:81572801);安徽医科大学博士
+科研资助基金(编号:XJ202005)
+作者单位:1 安徽医科大学公共卫生学院卫生检验与检疫,合肥 
+230032
+2 安徽医科大学病原生物学安徽省重点实验室,合肥 
+230032
+3 安徽医科大学人畜共患病安徽高校省级重点实验室,合
+肥 230032
+作者简介:王 崇,女,硕士研究生;
+蔡亦红,女,博士,副教授,硕士生导师,责任作者,E-mail:
+yihongcai2022@ 163. com
+中图分类号 R 382. 5
+文献标志码 A 文章编号 1000 - 1492(2022)10 - 1564 - 05
+doi:10. 19405 / j. cnki. issn1000 - 1492. 2022. 10. 010
+  刚地弓形虫是一种顶复门胞内寄生原虫,具有
+广泛的中间宿主( 包括人类),其终宿主为猫科动
+物,在世界各地约有三分之一的人口感染[1],弓形
+虫感染可对宿主脑部功能产生严重的不良影响,如
+神经退行性疾病、弓形虫脑炎和先天性弓形虫脑病
+等[1 - 3]。 海马体对生命机体至关重要,其功能异常
+与癫痫发作[4]、精神分裂症、阿尔茨海默病(Alzhei-
+mer′s disease,AD) [5]、帕金森病[6]、抑郁症[5]等多种
+疾病相关。 小鼠慢性感染 ME49 虫株模型初步形态
+学研究[7]显示,海马体中存在弓形虫包囊,并伴有
+神经胶质细胞增生和坏死。 因此,课题组选择海马
+体作为 Chinese 1 优势基因型虫株导致的弓形虫脑
+病伴精神障碍致病机制的研究靶点。 该研究利用透
+射电镜技术观察弓形虫 Chinese 1 优势基因型中
+TgCtwh3 和 TgCtwh6 这两种不同毒力虫株对小鼠海
+马体细胞超微结构的影响,有助于分析其致病机制,
+并为弓形虫急性和慢性阶段的脑损伤机制研究提供
+线索。
+1 材料与方法
+1. 1 材料 
+1. 1. 1  
+虫株 
+Chinese 1 优势基因型虫株( TgCt-
+·1564·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2022 Oct;57(10)

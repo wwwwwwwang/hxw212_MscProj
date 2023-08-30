@@ -1,0 +1,900 @@
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.28｜October 2023｜4487
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+人参皂苷 Rg1 对 D- 半乳糖诱导脑老化小鼠学习记忆功能的影响
+文题释义：
+突触后密度蛋白95：是突触后致密区接受和整合突触信号并将其传导给突触后细胞的主要蛋白之一，也是一种重要的细胞脚手架蛋白，对
+突触的生物学功能及其可塑性发挥重要作用，与认知、学习和记忆功能密切相关，成为近年来脑老化领域的研究热点。
+人参皂苷Rg1：是人参重要的抗衰老成分之一，具有抗氧化、抗炎、保护神经功能等作用。已有研究证明其能有效延缓脑衰老，但其具体
+机制尚不清楚。人参皂苷Rg1是目前脑老化领域研究比较多、也比较具代表性的成分之一，但目前关于Rg1改善脑老化的分子机制仍尚未
+统一，亟待深入研究。
+脑源性神经营养因子：是一种小型的、碱性的分泌蛋白，是神经营养因子家族的成员之一，也是哺乳动物脑内最丰富的神经营养因子，主
+要作用是调节活性依赖的神经元的功能及突触可塑性，它及其相关蛋白的信号通路(如脑源性神经营养因子/TrkB信号通路)与学习和记忆力
+密切相关，在树突和轴突结构发育、细胞增殖和生存等方面发挥重要作用。
+摘要
+背景：脑老化可导致学习记忆功能减退，其机制并不明确。近年研究发现，人参皂苷Rg1可提高阿尔茨海默病模型小鼠的学习记忆能力，
+其机制可能与其改善突触后密度蛋白95的表达相关。
+目的：探讨人参皂苷Rg1能否通过脑源性神经营养因子/TrkB 信号通路改善D-半乳糖诱导衰老小鼠的学习记忆功能与海马区突触后密度蛋白
+95的表达。
+方法：取50只雄性昆仑种小鼠，采用随机数字表法分为5组，每组10只：A组不进行任何处理；B组皮下注射D-半乳糖溶液300 mg/(kg·d)建
+立脑老化模型；C组造模1 h后每天灌胃给予盐酸多奈哌齐；D组造模1 h后每天灌胃给予人参皂苷Rg1 ；E组造模1 h后每天灌胃给予人参皂
+苷Rg1，并且腹腔注射选择性TrkB阻断剂ANA-12(每2 d一次)。持续给药6周后，进行学习记忆能力(旷场实验、新物体识别实验、Morris水迷
+宫实验)测试、脑组织形态学观察及小鼠海马区突触后密度蛋白95、脑源性神经营养因子的蛋白表达检测。
+结果与结论：①行为学结果显示：B组小鼠学习记忆能力低于A组(P < 0.05)；C、D组小鼠学习记忆能力高于B组(P < 0.05)；D组小鼠学习记
+忆能力低于C组(P < 0.05)；E组小鼠学习记忆能力低于D组(P < 0.05)；②苏木精-伊红、Nissl染色显示，与A组相比，B组小鼠海马CA1区正常
+神经元数量减少，尼氏体表达明显减少；与B组相比，C、D组正常神经元数量增多，尼氏小体颗粒明显增加；与D组相比，E组正常神经元
+数量减少，尼氏小体颗粒明显减少；③Western blot检测显示，与A组相比，B组脑源性神经营养因子、突触后密度蛋白95的蛋白表达降低
+(P < 0.05)；与B组相比，C、D组脑源性神经营养因子、突触后密度蛋白95的蛋白表达升高(P < 0.05)；D组小鼠海马脑源性神经营养因子、突
+触后密度蛋白95的蛋白表达低于C组(P < 0.05)；与D组相比，E组突触后密度蛋白95的蛋白表达降低(P < 0.05)，脑源性神经营养因子蛋白表
+达无明显变化(P > 0.05)；④结果表明，人参皂苷Rg1可改善D-半乳糖诱导的脑老化小鼠神经元损伤与学习记忆能力，并促进海马中突触后
+密度蛋白95的表达，而脑源性神经营养因/TrkB信号通路可能为其调控机制之一。
+关键词：脑老化；D-半乳糖；人参皂苷Rg1；脑源性神经营养因子；TrkB信号通路；突触后密度蛋白95
+Effect of ginsenoside Rg1 on learning and memory ability of brain aging mice induced by D-galactose 
+Yang Yazhu1, 2, Du Juan3, Qu Haifeng1, Li Jianmin1, 2, Zhang Yuxin3, Liu Junjie1, 2
+1Department of Clinical Medicine, 3Department of Basic Medicine, North China University of Science and Technology, Tangshan 063000, Hebei Province, China; 
+2Department of Neurosurgery, Affiliated Hospital of North China University of Science and Technology, Tangshan 063000, Hebei Province, China
+华北理工大学，
+1 临床医学院，
+3 基础医学院，河北省唐山市  063000；
+2 华北理工大学附属医院神经外科，河北省唐山市  063000
+第一作者：杨雅竹，女，2000 年生，四川省德阳市人，汉族，主要从事脑老化损伤机制及保护策略研究。
+通讯作者：刘俊杰，讲师，硕士，主治医师，华北理工大学临床医学院，河北省唐山市  063000；华北理工大学附属医院神经外科，河北省唐山
+市  063000
+https://orcid.org/0000-0002-3196-1731( 杨雅竹 )
+基金资助：脑老化及综合干预研究人才培养项目 (381094)，项目负责人：李建民
+引用本文：杨雅竹，杜鹃，屈海峰，李建民，张宇新，刘俊杰 . 人参皂苷 Rg1 对 D- 半乳糖诱导脑老化小鼠学习记忆功能的影响 [J].
+中国组织工程研究，2023，27(28):4487-4493. 
+杨雅竹
+1，2，杜  鹃
+3，屈海峰
+1，李建民
+1，2，张宇新
+3，刘俊杰
+1，2
+文章快速阅读：人参皂苷 Rg1 干预 D- 半乳糖诱导脑老化小鼠的学习记忆功能变化
+https://doi.org/10.12307/2023.556  
+投稿日期：2022-06-23
+采用日期：2022-08-08
+修回日期：2022-09-27
+在线日期：2022-11-05
+中图分类号： 
+R459.9；R319；R741.02 
+文章编号： 
+2095-4344(2023)28-04487-07
+文献标识码：B 
+昆仑种小鼠
+A 组：空白对照
+B 组：D- 半乳糖诱导脑老化
+C 组：D- 半乳糖 + 盐酸多奈哌齐
+D 组：D- 半乳糖 + 人参皂苷 Rg1
+E 组：D- 半乳糖 + 人参皂苷
+Rg1+ 选择性 TrkB 阻断剂 ANA-12
+观察指标：
+▲小鼠旷场实验总路程与平均速度、
+新 物 体 识 别 实 验 相 对 辨 别 指 数、
+Morris 水迷宫实验逃避潜伏期、目标
+区域停留时间及穿越原平台次数结果
+▲小鼠海马 CA1 区苏木精 - 伊红、
+Nissl 染色结果
+▲ Western blot 检测小鼠海马区脑源
+性神经营养因子、突触后密度蛋白 95
+蛋白相对表达量
+4488｜中国组织工程研究｜第27卷｜第28期｜2023年10月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+0   引言   Introduction
+脑老化是生物老化过程的显著特点之一，出现正常神经
+组织的退化、减少以及病变，主要表现为学习、认知和记忆
+功能的下降。如今世界人口老龄化趋势不可避免，且脑老化
+相关疾病包括阿尔茨海默症、帕金森病、唐氏综合征、血管
+性痴呆等严重影响患者正常生理活动和社会行为的疾病，因
+此积极探索延缓脑老化的手段及作用机制具有重要意义。
+突触后密度蛋白 95 可影响突触的成熟、调控其连接，
+在影响突触结构以及影响突触信号传递及可塑性中发挥重要
+作用
+[1-2]。付燕等
+[3] 发现利用 D- 半乳糖诱导的脑衰老大鼠在
+出现学习记忆能力下降的同时，海马组织突触后密度蛋白 95 
+mRNA 和蛋白的表达均出现了明显下降，说明衰老时由于海
+马神经细胞突触后密度蛋白95基因转录和翻译水平的降低，
+使突触后密度蛋白 95 表达降低。突触后密度蛋白 95 与学习、
+认知和记忆功能相关，其发生改变与脑老化密切相关，因此
+促进突触后密度蛋白 95 相关转录、表达以及修饰是改善脑
+老化中学习记忆能力的一种思路。
+脑源性神经营养因子作用于高亲和力受体 TrkB，在细胞
+分化、细胞存活、突触可塑性以及中枢神经系统的胚胎和成
+人神经发生中具有关键作用
+[4]。王子礼等
+[5] 发现头顶一颗珠
+提取物可能通过提高海马组织内脑源性神经营养因子和 TrkB
+表达、增强抗氧化能力来改善衰老大鼠认知功能障碍。此外，
+有研究发现，脑源性神经营养因子可通过抑制寡聚体 Aβ25-35
+Yang Yazhu, Department of Clinical Medicine, North China University of Science and Technology, Tangshan 063000, Hebei Province, China; Department of 
+Neurosurgery, Affiliated Hospital of North China University of Science and Technology, Tangshan 063000, Hebei Province, China
+Corresponding author: Liu Junjie, Master, Lecturer, Attending physician, Department of Clinical Medicine, North China University of Science and Technology, 
+Tangshan 063000, Hebei Province, China; Department of Neurosurgery, Affiliated Hospital of North China University of Science and Technology, Tangshan 
+063000, Hebei Province, China
+Abstract
+BACKGROUND: Brain aging can decline learning and memory functions, and the mechanism is not clear. Recent studies have found that ginsenoside Rb1 can 
+improve the learning and memory ability of Alzheimer’s disease model mice, and its mechanism may be related to the improvement of postsynaptic density 
+protein 95 expression.
+OBJECTIVE: To investigate whether ginsenoside Rg1 can improve the learning and memory function and postsynaptic density protein 95 expression in the 
+hippocampus of D-galactose-induced aging mice through brain-derived neurotrophic factor/TrkB signaling pathway. 
+METHODS: Fifty male SPF Kunlun mice were randomly divided into five groups, A, B, C, D, and E, with 10 mice in each group. Group A: normal blank control 
+group with no treatment; group B: brain aging model was established through subcutaneous injection of D-galactose solution 300 mg/kg per day; group C: at 
+1 hour after modeling, donepezil hydrochloride was intragastrically administered daily; group D: at 1 hour after modeling, ginsenoside Rg1 was intragastrically 
+given; group E: at 1 hour after modeling, ginsenoside Rg1 (30 mg/kg per day) was intragastrically given and selective TrkB blocker ANA-12 was intraperitoneally 
+injected every 2 days. Mice in each group were administered according to the corresponding dose and frequency for 6 weeks. The following contents were 
+observed: learning and memory ability (open field test, novel object recognition test, and Morris water maze test); morphological observation of brain tissue 
+using hematoxylin-eosin staining and Nissl staining; and western blot detection of postsynaptic density protein 95 and brain-derived neurotrophic factor protein 
+expression in mouse hippocampus. 
+RESULTS AND CONCLUSION: Compared with group A, the learning and memory abilities of mice in group B were significantly decreased (P < 0.05); compared 
+with group B, the learning and memory abilities of mice were significantly improved in groups C and D (P < 0.05); compared with group D, the learning and 
+memory abilities of mice were significantly decreased in group E (P < 0.05). Results of hematoxylin-eosin staining and Nissl staining showed that: compared 
+with group A, the number of normal neurons in the hippocampal CA1 region was reduced and the expression of Nissl bodies was significantly reduced in group 
+B; compared with group B, the number of normal neurons increased and the number of Nissl corpuscle granules increased significantly in groups C and D; 
+compared with group D, the number of normal neurons was reduced and the expression of Nissl bodies were significantly reduced in group E. Western blot 
+results indicated that compared with group A, the expressions of postsynaptic density protein 95 and brain-derived neurotrophic factor in the hippocampus 
+of mice were significantly decreased in group B (P < 0.05); compared with group B, the expressions of postsynaptic density protein 95 and brain-derived 
+neurotrophic factor were significantly increased in groups C and D (P < 0.05); compared with group D, the expression of postsynaptic density protein 95 was 
+significantly decreased in group E (P < 0.05), while the expression of brain-derived neurotrophic factor had no statistical difference (P > 0.05). To conclude, 
+ginsenoside Rg1 can improve D-galactose-induced neuronal damage and learning and memory abilities in brain aging mice and promote the expression of 
+postsynaptic density protein 95 in the hippocampus. The brain-derived neurotrophic factor/TrKB signaling pathway may be one of its mechanisms.
+Key words: brain aging; D-galactose; ginsenoside Rg1; brain-derived neurotrophic factor; TrkB signaling pathway; postsynaptic density protein 95
+Funding: Brain Aging and Comprehensive Intervention Research Talent Training Project, No. 381094 (to LJM)
+How to cite this article: YANG YZ, DU J, QU HF, LI JM, ZHANG YX, LIU JJ. Effect of ginsenoside Rg1 on learning and memory ability of brain aging mice induced 
+by D-galactose. Zhongguo Zuzhi Gongcheng Yanjiu. 2023;27(28):4487-4493. 
+所致突触后密度蛋白 95 的蛋白水平降低来发挥其突触修复
+及神经保护作用
+[6]。
+有研究表明，人参皂苷是人参具有生物活性的成分之一
+[7]， 
+已发现大约有 40 多种，其中以 Rg1 和 Rb1 最具有代表性。
+最新研究报道，人参皂苷对中枢神经退行性疾病如阿尔茨
+海默病等认知功能障碍疾病均有一定治疗作用
+[8-11]。人参
+皂苷 Rg1 的来源是五加科植物人参 (Panax ginseng C.A.Mey.)
+的根，被用作滋补药品或用于抗炎
+[12]、神经保护等
+[13]。
+有研究发现，人参皂苷 Rg1 可通过 NOX2-NLRP1[14]、NOX4- 
+NLRP3[15]、mTOR[16]、Wnt/β-catenin 等信号通路对延缓脑老化
+发挥重要作用
+[17]。许方方等
+[18] 发现人参皂苷 Rb1 可以提高
+阿尔茨海默症模型小鼠肝叶部分切除术后的学习记忆能力，
+其机制可能与其改善突触后密度蛋白 95 及神经元尼氏体的
+表达相关。于是，作者提出人参皂苷 Rg1 可能通过调控突触
+后密度蛋白 95 表达、脑源性神经营养因子 /TrkB 信号通路，
+从而防治和改善脑老化的猜想。
+此次实验拟建立 D- 半乳糖诱导的脑老化小鼠模型，给
+予人参皂苷 Rg1 和选择性 TrkB 阻断剂 ANA-12 干预，并通过
+检测小鼠海马区脑源性神经营养因子、突触后密度蛋白 95
+表达情况，探讨人参皂苷 Rg1 对 D- 半乳糖诱导脑老化小鼠
+学习记忆能力与海马区突触后密度蛋白 95 表达的作用，以
+及其与脑源性神经营养因子 /TrkB 信号通路的关系，为临床
+治疗脑老化及其相关疾病提供一定的理论依据。
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.28｜October 2023｜4489
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+1   材料和方法   Materials and methods
+1.1   设计   随机对照动物实验，多组间比较采用方差分析，
+两组间比较采用 t 检验。
+1.2   时间及地点   实验于 2021 年 4-12 月在华北理工大学实
+验动物中心完成。
+1.3   材料
+1.3.1   实验动物与分组   选取 50 只雄性昆明种小鼠，3 月龄，
+SPF 级，体质量 (23±2) g，购买于北京维通利华生物科技有限
+公司。饲养于通风、干燥的 SPF 级环境中，室温为 (23±2) ℃，
+相对湿度为50%-60%，12 h/12 h明暗交替。适应性饲养7 d 后，
+参考王冬慧等
+[19] 研究中的方法，利用随机数字表法将小鼠
+分为 5 组：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶
+液建立脑老化模型；C 组造模 1 h 后灌胃给予盐酸多奈哌齐；
+D 组造模 1 h 后灌胃给予人参皂苷 Rg1 30 mg/(kg·d)；E 组造
+模 1 h 后灌胃给予人参皂苷 Rg1 30 mg/(kg·d)，并且腹腔注射
+选择性 TrkB 阻断剂 ANA-12 0.2 mg/kg( 每 2 d 一次 )。实验方案、
+操作已经过华北理工大学动物委员会批准。
+1.3.2   主要试剂与仪器   人参皂苷 Rg1( 四川省维克奇生物科
+技有限公司，批号：wkq19040208)；盐酸多奈哌齐片 ( 中国
+卫材药业有限公司，5 mg/ 片，批号：1905030)；D- 半乳糖
+溶液 ( 美国，Sigma 公司 )；选择性 TrkB 阻断剂 ANA-12( 美国，
+Selleck 公司 )；戊巴比妥钠 ( 北京索莱宝科技有限公司，批号：
+922L035)；兔抗脑源性神经营养因子抗体 ( 美国，ABclonal
+公司，货号：A11028)；HRP 标记山羊抗兔 IgG (H+L)( 中国，
+沈阳万类生物科技有限公司，货号：WLA023a)；兔单抗突触
+后密度蛋白 95( 英国，Abcam 公司，批号：238135)；全自动
+石蜡包埋机 Leica EG1150H 型 ( 德国，LEICA 公司 )；实时荧
+光定量 PCR 仪 AG6325 型 ( 德国，Eppendorf 公司 )。
+1.4   实验方法   
+1.4.1   脑老化模型建立   参考田勇等
+[20] 的文献所述，除 A
+组外，其余各组小鼠颈背部皮下注射灭菌 D- 半乳糖溶液 
+300 mg/(kg·d) 构建衰老模型，A 组注射等体积的灭菌生理盐
+水，持续 6 周。该操作于每日 8：00-9：00 进行。
+   根据翟春梅等
+[21] 的研究对小鼠进行一般状态观察，与 A
+组小鼠比较，B 组小鼠饮水、摄食减少，毛皮晦暗无光泽、
+不顺滑，精神状态不佳、活动不活跃，并出现掉毛等现象，
+提示经 D- 半乳糖诱导的小鼠出现一系列衰老现象，即为造
+模成功。 
+1.4.2   给药方案   注射 D- 半乳糖 1 h 后，C 组灌胃给予盐酸
+多奈哌齐 2 mg/(kg·d)[22]，D、E 组参考吕静薇
+[23] 的文献所述
+灌胃给予人参皂苷 Rg1 30 mg/(kg·d)，其剂量依据动物和人按
+体表面积折算的等效剂量比率表，A、B 组小鼠灌胃给予无菌
+生理盐水，以 10 mL/kg 作为各组灌胃量，1 次 /d；此外，E
+组参考赵佳佳等
+[24] 的文献所述腹腔注射 ANA-12 0.2 mg/kg， 
+其余各组小鼠腹腔注射相同体积的生理盐水，以 10 mL/kg 作
+为各组注射量，每 2 d 一次，时间为 14：00-15：00；与造
+模同步，持续 6 周。
+1.4.3   小鼠一般状态观察   观察各组小鼠日常的状态，如摄
+食、饮水、活动度、毛皮光泽、粪便度变化等方面。
+1.4.4   学习记忆能力测试
+旷场实验：干预结束后，参考陈晓禾
+[25] 文献所述方法，
+将底端由 9 cm×9 cm 的 25 个小方格组成的 45 cm×45 cm× 
+45 cm 的正方形旷场分为角地区，即 4 个角落方格；中心地
+区，即 9 个中间方格；其他地区，即除上述两种以外的剩余
+12 个方格。于 14：00-17：00 将小鼠置于旷场中央，系统
+自动统计小鼠 5 min 内的总路程和平均速度。实验结束后用
+乙醇清除每只小鼠残留的气体。
+新物体识别实验：旷场实验结束后，参考吕静薇
+[23] 的
+文献所述方法，在 60 cm( 长 )×40 cm( 宽 )×80 cm( 高 ) 的封闭
+箱体内，两边安置照明灯，顶端安装摄像头，物体放于四角
+距侧壁 10 cm 处。①适应期：连续 3 d，适应 10 min，自由活动。
+②熟悉期：第 4 天，在对称位置放入相同圆柱状红色物体，
+记录小鼠 5 min 内自由活动和探索。③测试期：30 min 后进入
+测试阶段，将其中之一的圆柱状红色物体替换为正方形蓝色
+物体，记录小鼠 5 min 内对旧物体和新物体的探索时间。于
+14：00-17：00 进行。相对辨别指数为 ( 新物体探索时间 -
+旧物体探索时间 ) 与 ( 新物体探索时间 + 旧物体探索时间 )
+之比。
+Morris水迷宫实验：新物体识别实验结束后，参考LI等
+[26]
+的文献所述方法，进行 Morris 水迷宫实验。装置为一直径
+组织工程实验动物造模过程中的相关问题：
+造模目的
+探讨人参皂苷 Rg1 对脑老化小鼠学习记忆功能的影响
+选择动物的条件 选择健康状况良好、无其他疾病、体质量为 (23±2) g 的小鼠
+模型与所研究
+疾病的关系
+D- 半乳糖诱导的脑老化模型被广泛用于脑衰老机制以及延缓脑
+衰老策略的相关研究
+动物来源及品系 SPF 级雄性昆明种，购自北京维通利华生物科技有限公司
+造模技术描述
+小鼠颈背部皮下注射灭菌 D- 半乳糖溶液 300 mg/(kg·d) 构建衰
+老模型，持续 6 周
+动物数量及
+分组方法
+利用随机数字表法将小鼠分为 5 组，每组 10 只：A 组不进行任
+何处理；B 组皮下注射 D- 半乳糖溶液 300 mg/(kg·d) 建立脑老化
+模型；C 组造模 1 h 后灌胃给予盐酸多奈哌齐；D 组造模 1 h 后
+灌胃给予人参皂苷 Rg1 30 mg/(kg·d)；E 组造模 1 h 后灌胃给予
+人参皂苷 Rg1 30 mg/(kg·d)，并且腹腔注射选择性 TrkB 阻断剂
+ANA-12 0.2 mg/kg( 每 2 d 一次 )。持续给药 6 周
+造模成功
+评价指标
+对小鼠进行一般状态观察，模型组小鼠饮水、摄食减少，毛皮
+晦暗无光泽、不顺滑，精神状态差、活动不活跃，并出现掉毛
+等现象，提示经 D- 半乳糖诱导的小鼠出现一系列衰老现象，即
+为造模成功
+造模后观察指标 学习记忆能力：旷场实验、新物体识别实验、Morris 水迷宫实验。
+脑组织形态学：苏木精 - 伊红、Nissl 染色。Western blot 检测小
+鼠海马区突触后密度蛋白 95、脑源性神经营养因子的蛋白表达
+造模后动物处理 造模 6 周后，学习记忆能力检测后麻醉状态下处死小鼠
+伦理委员会批准 所有实验操作与方案已获华北理工大学动物委员会批准
+4490｜中国组织工程研究｜第27卷｜第28期｜2023年10月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+120 cm 的圆柱，通过 2 条经过圆心的相互垂直线将其均匀
+分为 4 个象限 ( Ⅰ、Ⅱ、Ⅲ、Ⅳ )，在Ⅱ象限中固定一直径 
+10 cm 的圆形平台，水平面高于平台 1 cm，水温 (23±2) ℃。
+前 5 d 进行定位航行训练，训练小鼠 1 min 内找到平台，如
+没有则引导至平台并允许停留 20 s，每只每天训练 5 次，每
+次起始位置随机抽签决定；第 6 天进行空间探索实验，与平
+台所在象限相对的象限放入小鼠，自由探索 1 min。以摄像
+机记录运动轨迹。记录各指标，逃避潜伏期为入水至找到平
+台的时间；目标象限停留时间为 1 min 内在第Ⅱ象限停留时
+间；穿越平台次数为 1 min 穿越圆形平台的次数。各项指标
+均取平均值。
+1.4.5   脑组织形态学观察
+脑组织采集、固定和切片：学习记忆能力测试实验结束
+后，腹腔注射戊巴比妥钠 150-200 mg/kg 麻醉各组小鼠，在
+心尖处灌注无菌生理盐水，待小鼠肝脏完全变白，同时右心
+耳流出的液体澄清后，断头处死；每组随机选取 5 只小鼠，
+取全脑后置于 40 g/L 多聚甲醛中固定；每组剩下 5 只处死后
+冰上分离海马，经液氮速冻后置于 -80 ℃冰箱保存。脑组织
+固定后常规脱水、透明、浸蜡、石蜡包埋，5 μm 厚切片，
+于 60 ℃下烘干备用。
+苏木精 - 伊红染色：切片常规脱蜡至水，按苏木精 - 伊
+红染色试剂盒说明书进行操作，苏木精染液 10 min，1% 盐
+酸乙醇 15 s，水洗反蓝 10 min，伊红染液 3 min，洁净蒸馏
+水冲洗 15 s，按浓度梯度乙醇脱水，用二甲苯透明，中性树
+胶封固后观察。
+Nissl 染色：切片常规脱蜡至水，按 Nissl 染色试剂盒说
+明书操作，Nissl 染液染 5 min，洁净蒸馏水洗涤 3 次，每次 5 s，
+按浓度梯度乙醇脱水，用二甲苯透明，中性树胶封固后观察。
+1.4.6   Western Blot 检测各组小鼠海马区相关蛋白表达   取各
+组小鼠新鲜海马组织，称质量后按比例加入裂解缓冲液，
+冰上匀浆，冰上静置 30 min，离心 (4 ℃，12 000 r/min 离心 
+20 min)，取上清液，全部冰上操作。蛋白浓度测定按 BCA 检
+测试剂盒说明书操作。SDS-PAGE 聚丙酰胺凝胶电泳，转膜
+于 PVDF 膜上，用 5% 脱脂奶粉封闭，然后加入一抗突触后
+密度蛋白 95(1 ∶ 1 000)、脑源性神经营养因子 (1 ∶ 1 000)、
+β-actin(1 ∶ 1 000) 室温下孵育，4 ℃过夜，3 次 TBST 洗膜，
+加入二抗 (1 ∶ 1 000) 室温下孵育 1 h，3 次 TBST 洗膜，加入
+ECL 发光液，用 Quantity one 软件进行检测，结果用 A 目标蛋白值/
+A 内参值表示。
+1.5   主要观察指标   各组小鼠学习记忆能力、海马 CA1 区苏
+木精 - 伊红与 Nissl 染色结果、海马区脑源性神经营养因子、
+突触后密度蛋白 95 的蛋白相对表达量。
+1.6   统计学分析   采用 SPSS 26.0 软件分析与处理实验数据，
+用 Graphpad Prism 8.0 绘制统计图，符合正态分布的计量资
+料表示为 x-±s，组间比较采用 LSD-t 检验，多组间比较使用单
+因素方差分析，当 P < 0.05 时为差异有显著性意义。该文统
+计学方法已经华北理工大学生物统计学专家审核。
+2   结果   Results 
+2.1   实验动物数量分析   50只昆明种小鼠全部进入结果分析，
+无脱落。
+2.2   造模小鼠一般状态   A 组小鼠好动，反应敏捷，精神状
+态良好，体毛光滑有光泽；B 组小鼠在注射 D- 半乳糖期间
+逐渐出现精神萎靡、体毛干枯易落、反应迟钝、自发活动减
+少等现象。
+2.3   各组小鼠旷场实验测试结果    与 A 组相比，B 组小
+鼠旷场总路程、平均速度减少 (P < 0.05)，说明其认知能
+力严重受损；与 B 组相比，C、D 组小鼠旷场总路程、平
+均速度增加 (P < 0.05)，说明给予盐酸多奈哌齐和人参皂
+苷 Rg1 治疗后，小鼠认知能力得到明显改善；D 组小鼠旷
+场总路程、平均速度少于 C 组 (P < 0.05)；与 D 组相比，
+E 组旷场总路程、平均速度减少 (P < 0.05)，表明 ANA-12 
+明显抑制了人参皂苷 Rg1 改善认知能力的作用，见图 1。
+图注：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶液建立脑老化
+模型；C 组造模 1 h 后每天灌胃给予盐酸多奈哌齐；D 组造模 1 h 后每
+天灌胃给予人参皂苷 Rg1；E 组造模 1 h 后每天灌胃给予人参皂苷 Rg1，
+并且腹腔注射选择性 TrkB 阻断剂 ANA-12。与 A 组比较，
+aP < 0.05；与 B
+组比较，
+bP < 0.05；与 C 组比较，
+cP < 0.05；与 D 组比较，
+dP < 0.05
+图 1 ｜各组小鼠旷场实验测试结果
+Figure 1 ｜ Results of the open field test in mice
+图注：A 组不进行任何处理；B 组皮下注射
+D- 半乳糖溶液建立脑老化模型；C 组造模
+1 h 后每天灌胃给予盐酸多奈哌齐；D 组造
+模 1 h 后每天灌胃给予人参皂苷 Rg1；E 组
+造模 1 h 后每天灌胃给予人参皂苷 Rg1，并
+且腹腔注射选择性 TrkB 阻断剂 ANA-12。
+与A 组比较，
+aP < 0.05；与 B 组比较，
+bP < 0.05；
+与 C 组比较，
+cP < 0.05；与 D 组比较，
+dP < 0.05
+图 2 ｜各组小鼠新物体识别实验测试结果
+Figure 2 ｜ Results of the novel object 
+recognition test in mice
+总路程 (mm/5 min)
+平均速度 (mm/s)
+A 组
+A 组
+B 组
+B 组
+C 组
+C 组
+D 组
+D 组
+E 组
+E 组
+b
+bc
+d
+b
+bc
+d
+a
+a
+相对辨别指数
+A 组
+B 组
+C 组
+D 组
+E 组
+b
+bc
+d
+a
+2.4   各组小鼠新物体识别实验测试结果   B 组小鼠新物体相
+对辨别指数明显低于 A 组 (P < 0.05)，表明其认知能力明显受
+损；而给予人参皂苷 Rg1 和盐酸多奈哌齐治疗后，C、D 组
+小鼠新物体识别指数与 B 组相比显著增加 (P < 0.05)，表明认
+知能力得到明显改善；D 组小鼠新物体识别指数显著低于 C
+组 (P < 0.05)；给予 ANA-12 后，E 组小鼠新物体识别指数与
+D 组相比显著下降 (P < 0.05)，表明 ANA-12 明显抑制了人参
+皂苷 Rg1 改善认知能力的作用，见图 2。
+2.5   各组小鼠 Morris 水迷宫实验测试结果   与 A 组相比，B
+组小鼠逃避潜伏期延长 (P < 0.05)，穿越原平台次数和目标区
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.28｜October 2023｜4491
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+图注：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶液建立脑老化
+模型；C 组造模 1 h 后每天灌胃给予盐酸多奈哌齐；D 组造模 1 h 后每
+天灌胃给予人参皂苷 Rg1；E 组造模 1 h 后每天灌胃给予人参皂苷 Rg1，
+并且腹腔注射选择性 TrkB 阻断剂 ANA-12。与 A 组比较，
+aP < 0.05；与 B
+组比较，
+bP < 0.05；与 C 组比较，
+cP < 0.05；与 D 组比较，
+dP < 0.05
+图 5 ｜各组小鼠海马区脑源性神经营养因子 (BDNF)、突触后密度蛋白
+95(PSD-95) 的蛋白表达
+Figure 5 ｜ Protein expression of postsynaptic density protein 95 and 
+brain-derived neurotrophic factor in mouse hippocampus
+表 1 ｜各组小鼠 Morris 水迷宫实验测试结果              (x-±s，n=10)
+Table 1 ｜ Mouse Morris water maze test results in mice
+组别
+逃避潜伏期 (s)
+目标区域停留时间 (s)
+穿越原平台次数 ( 次 /min)
+A 组
+60.37±6.78
+38.94±6.78
+7.87±3.92
+B 组
+90.67±11.74a
+21.67±6.74a
+2.19±2.24a
+C 组
+65.57±8.47b
+35.48±4.74b
+6.28±2.14b
+D 组
+73.67±9.74bc
+32.67±6.18bc
+4.74±3.14bc
+E 组
+79.42±11.93d
+27.67±7.74d
+3.38±3.15d
+表注：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶液建立脑老化模型；C 组
+造模 1 h 后每天灌胃给予盐酸多奈哌齐；D 组造模 1 h 后每天灌胃给予人参皂苷
+Rg1；E 组造模 1 h 后每天灌胃给予人参皂苷 Rg1，并且腹腔注射选择性 TrkB 阻断
+剂 ANA-12。与 A 组比较，
+aP < 0.05；与 B 组比较，
+bP < 0.05；与 C 组比较，
+cP < 0.05；
+与 D 组比较，
+dP < 0.05
+图注：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶液建立脑老化
+模型；C 组造模 1 h 后每天灌胃给予盐酸多奈哌齐；D 组造模 1 h 后每天
+灌胃给予人参皂苷 Rg1；E 组造模 1 h 后每天灌胃给予人参皂苷 Rg1，并
+且腹腔注射选择性 TrkB 阻断剂 ANA-12。B 组形态结构不完整，神经细
+胞数量明显减少，C、D、E 组小鼠海马 CA1 区病变程度明显减轻，尤以
+C 组明显，其次是 D 组
+图 3 ｜各组小鼠海马 CA1 区苏木精 - 伊红染色结果
+Figure 3 ｜ Hematoxylin-eosin staining results of mouse hippocampal CA1 region
+E 组
+D 组
+A 组
+B 组
+C 组
+图注：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶液建立脑老化
+模型；C 组造模 1 h 后每天灌胃给予盐酸多奈哌齐；D 组造模 1 h 后每天
+灌胃给予人参皂苷 Rg1；E 组造模 1 h 后每天灌胃给予人参皂苷 Rg1，并
+且腹腔注射选择性 TrkB 阻断剂 ANA-12。B 组神经元内尼氏小体消失或
+部分溶解，C、D、E 组小鼠脑组织神经元内尼氏小体增多，尤其以 C 组
+最明显，其次是 D 组
+图 4 ｜各组小鼠海马 CA1 区 Nissl 染色结果
+Figure 4 ｜ Nissl staining results of mouse hippocampal CA1 region
+E 组
+D 组
+A 组
+B 组
+C 组
+BDNF 相对表达量
+PSD-95 相对表达量
+A 组
+A 组
+A 组
+B 组
+B 组
+B 组
+C 组
+C 组
+C 组
+D 组
+D 组
+D 组
+E 组
+E 组
+E 组
+b
+b
+bc
+bc
+d
+a
+a
+PSD-95
+BDNF
+β-actin
+表 2 ｜各组小鼠海马 CA1 区神经细胞数量与神经细胞尼氏染色阳性细胞
+数量                                       (x-±s，n=5，个 / 视野 )
+Table 2 ｜ Numbers of neurons and Nissl positive cells in nerve cells in the 
+hippocampal CA1 area in mice
+组别
+神经细胞数量
+尼氏染色阳性细胞数量
+A 组
+94.67±5.18
+85.34±4.25
+B 组
+48.25±4.52a
+42.68±3.54a
+C 组
+76.57±4.63b
+65.36±3.48b
+D 组
+65.67±4.95bc
+53.57±5.24bc
+E 组
+58.36±5.19d
+49.42±4.62d
+表注：A 组不进行任何处理；B 组皮下注射 D- 半乳糖溶液建立脑老化模型；C 组
+造模 1 h 后每天灌胃给予盐酸多奈哌齐；D 组造模 1 h 后每天灌胃给予人参皂苷
+Rg1；E 组造模 1 h 后每天灌胃给予人参皂苷 Rg1，并且腹腔注射选择性 TrkB 阻断
+剂 ANA-12。与 A 组比较，
+aP < 0.05；与 B 组比较，
+bP < 0.05；与 C 组比较，
+cP < 0.05；
+与 D 组比较，
+dP < 0.05
+域停留时间减少 (P < 0.05)；与 B 组相比，C、D 组逃避潜伏
+期明显缩短 (P < 0.05)，穿越原平台次数和目标区域停留时间
+增加 (P < 0.05)；与 C 组比较，D 组小鼠逃避潜伏期明显延长、
+目标区域停留时间和穿越原平台次数减少 (P < 0.05)；与 D 组
+相比，E 组逃避潜伏期明显延长 (P < 0.05)，穿越原平台次数
+和目标区域停留时间显著减少 (P < 0.05)，见表 1。
+2.6   各组小鼠海马 CA1 区形态学观察  
+苏木精 - 伊红染色：A 组小鼠海马 CA1 区神经细胞形态
+完整，整齐排列，数量多，细胞质染色均匀，细胞核完整；
+B 组小鼠海马 CA1 区形态结构不完整，神经细胞数量明显减
+少，可见染色质深染和核固缩；给予盐酸多奈哌齐和人参皂
+苷 Rg1 治疗后，C、D 组小鼠海马 CA1 区病变程度明显减轻，
+尤以 C 组明显；E 组小鼠海马 CA1 区病变程度与 D 组相比明
+显加重，见图 3、表 2。
+Nissl 染色：A 组小鼠海马 CA1 区神经元排列整齐、密集，
+胞浆中尼氏体丰富；与 A 组相比，B 组神经元内尼氏小体消
+失或部分溶解，胞浆着色变浅且层次不清、神经元排列稀疏，
+尼氏体表达明显减少；而经过盐酸多奈哌齐和人参皂苷 Rg1
+治疗后，C、D 组小鼠脑组织 Nissl 染色阳性神经元数量明显
+增多，且神经元固缩程度减少，尤其是 C 组神经元清晰可见、
+排列较为整齐；经过 TrkB 阻断剂 ANA-12 干预后，E 组病变
+严重程度明显较 D 组加重，见图 4、表 2。
+2.7   各组小鼠海马区脑源性神经营养因子、突触后密度蛋白
+95 的蛋白表达   与 A 组相比，B 组小鼠海马区脑源性神经营
+养因子、突触后密度蛋白 95 的蛋白表达降低 (P < 0.05)；与
+B 组相比，C。D 组小鼠海马区脑源性神经营养因子、突触后
+密度蛋白 95 的蛋白表达增加 (P < 0.05)；D 组小鼠海马区上
+述两种蛋白表达均低于 C 组 (P < 0.05)；与 D 组相比，E 组突
+触后密度蛋白 95 的蛋白表达降低 (P < 0.05)，脑源性神经营
+养因子的蛋白表达无明显变化 (P > 0.05)，见图 5。
+4492｜中国组织工程研究｜第27卷｜第28期｜2023年10月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+3   讨论   Discussion
+脑老化过程中突出且严重影响患者生活质量的表现就是
+认知、学习记忆能力下降，其病理生理机制复杂，涉及众多
+信号通路，与炎症反应、氧化应激、能量代谢障碍、自噬失控、
+线粒体功能障碍等均有密切关系
+[27-28]。作者前期研究发现，脑
+老化是众多与年龄相关联疾病的发病基础，如果朝着恶性的
+方向进展有可能会演变成如阿尔茨海默症和帕金森等神经退
+行性疾病
+[29]，因此如何延缓脑老化成为相关领域的关注重点。
+研究表明，家兔、小鼠、大鼠等啮齿类动物如果长期系
+统性接触剂量较高的 D- 半乳糖，会导致机体氧化应激水平
+增高而抗氧化防御系统功能下降，进而加速其脏器尤其是脑
+的退行性变化，出现类似于自然脑老化的表现
+[30]。因此，D-
+半乳糖诱导的脑老化模型被广泛用于脑衰老机制以及延缓脑
+衰老策略的相关研究中
+[31]。此次实验采用持续 6 周皮下注射
+D- 半乳糖方法以此诱导脑老化小鼠模型。实验中，B 组小鼠
+被持续给予 D- 半乳糖过程中逐渐出现反应迟钝、精神萎靡、
+自发性活动减少等相似于衰老的体征，结合 6 周后的 Morris
+水迷宫、新物体识别测试等结果发现，不管是记忆功能力还
+是空间学习能，A 组小鼠比 B 组小鼠表现出明显升高，因此
+说明实验脑老化小鼠模型已成功建立。
+突触后密度蛋白 95 是一种主要存在与突触后致密区的
+支架蛋白，大量存在于树突棘中，可通过影响其成熟与稳定
+性进而影响信号传递和可塑性。海马内突触相关蛋白表达水
+平与学习记忆紧密相关，突触后密度蛋白 95 位于突触后膜，
+与 F-actin 骨架蛋白、信号蛋白分子和神经递质受体共同形成
+复合物参与突触后信号的整合和转导
+[32-33]。VANGUILDER 等
+[34]
+通过对不同月龄 (12 月龄和 24 月龄 ) 的大鼠研究后发现，海
+马突触后密度蛋白 95 蛋白等表达水平下降与年龄相关的学
+习记忆功能降低与有关。付燕等
+[3] 发现有氧运动可通过提高
+突触后密度蛋白 95 的含量，可改善 D- 半乳糖诱导脑老化大
+鼠学习记忆功能。此次实验结果显示，D- 半乳糖诱导后小
+鼠学习记忆功能明显下降，而海马区突触后密度蛋白 95 蛋
+白表达显著降低，表明突触后密度蛋白 95 蛋白与 D- 半乳糖
+所致学习记忆功能下降存在密切关系，与前人研究一致。
+人参皂苷 Rg1 具有保护神经细胞的作用，且与突触后密
+度蛋白 95 关系密切。杨璐萌
+[16] 研究发现，人参皂苷 Rg1 可
+通过作用于海马区 mTOR/p70-S6K/4E-BP 信号通路促进突触
+相关蛋白突触后密度蛋白 95、SYN-38、CaMKIIα 等的翻译合
+成，从而能改善 C57BL/6J 小鼠的认知功能。有研究发现，人
+参皂苷 Rg1 可减轻缺氧缺糖再复氧模型中神经突触结构性损
+伤，表现为促进突触后密度蛋白 95 和降低 p-Tau 的表达
+[35-37]。
+王娟等
+[36-40] 研究发现，人参皂苷 Rg1 可通过促进突触相关蛋
+白 —— 突触后密度蛋白 95 的表达等机制达到保护慢性温和
+不可预期应激模型小鼠的抑郁样行为。此次实验结果提示，
+人参皂苷 Rg1 可在一定程度上改善 D- 半乳糖诱导的衰老模
+型小鼠的学习记忆功能以及脑组织神经元变性和坏死，同时
+突触后密度蛋白 95 蛋白表达上升，这提示人参皂苷 Rg1 可
+能通过上调突触后密度蛋白 95 的表达来改善脑老化。而对
+比 TrkB 阻断剂组 (E 组 ) 和 Rg1 治疗组 (D 组 ) 可发现，E 组
+突触后密度蛋白 95 蛋白含量显著下降，这提示人参皂苷 Rg1
+提高突触后密度蛋白 95 蛋白表达的机制可能与脑源性神经
+营养因子 /TrkB 通路相关，但具体机制仍需进一步探索。
+脑源性神经营养因子 /TrkB 信号通路具有重要作用，脑
+源性神经营养因子可与 TrkB 结合引起 TrkB 自身磷酸化增加，
+进而调控神经元的生长、分化及突触的形成等过程
+[41-43]。脑
+源性神经营养因子 /TrkB 信号通路与认知功能密切相关。近
+年来多项研究表明，激活脑源性神经营养因子 /TrkB 信号通
+路将有助于改善认知功能障碍
+[44-45]，该通道可能是引起导致
+认知功能异常的原因之一
+[46]。并且，脑源性神经营养因子 /
+TrkB 信号通路与突触后密度蛋白 95 之间存在密切联系，如
+在对脑源性神经营养因子 /TrkB/CREB 信号通路的研究中，何
+丽玲等
+[47] 发现大补元煎可通过上调该信号通路改善 APP/PS1
+双转基因痴呆小鼠的海马突触可塑性，表现为突触后密度蛋
+白 95 和突触素表达增加。此外，ZHONG 等
+[48] 研究认为，人
+参皂苷 Rg1 可通过恢复脑源性神经营养因子 /TrkB 等信号通
+路抑制细胞凋亡，改善 D- 半乳糖和 AlCl3 诱导衰老小鼠的认
+知功能障碍。此次实验结果提示，人参皂苷 Rg1 可上调脑老
+化小鼠海马区脑源性神经营养因子蛋白表达；进一步通过选
+择性 TrkB 阻断剂 ANA-12 对脑源性神经营养因子 /TrkB 信号
+通路进行干预后，值得注意的是，脑源性神经营养因子作为
+TrkB 的上游分子，与人参皂苷 Rg1 治疗组相比其含量并未出
+现显著变化，这同预期结果一致；但观察到小鼠海马区突触
+后密度蛋白 95 蛋白表达显著降低，结合小鼠行为学实验以
+及形态学染色结果，发现 ANA-12 在一定程度上可抑制人参
+皂苷 Rg1 对 D- 半乳糖诱导衰老模型小鼠的保护作用，表现
+为学习记忆能力下降、脑老化程度加重和抑制海马中突触后
+密度蛋白 95 的表达，这提示脑源性神经营养因子 /TrkB 信号
+通路可能作为人参皂苷Rg1改善脑老化损伤的重要机制之一。
+综上所述，人参皂苷 Rg1 可能通过调控脑源性神经营
+养因子 /TrkB 信号通路提高突触后密度蛋白 95 蛋的白表达，
+从而改善 D- 半乳糖诱导的脑老化小鼠神经元损伤与学习记
+忆能力，延缓脑老化。但其具体调控机制较为复杂，人参皂
+苷 Rg1 能否通过其他机制延缓脑老化？选择性 TrkB 阻断剂
+ANA-12 对脑源性神经营养因子 /TrkB 信号通路进行干预后，
+TrkB 蛋白表达变化如何？这些问题有待后续进一步研究。
+作者贡献：刘俊杰参与实验设计，实验实施为杨雅竹、屈海峰、杜
+鹃，实验评估为张宇新，资料收集为杨雅竹、杜鹃、屈海峰，杜鹃、杨
+雅竹成文，李建民审校。
+利益冲突：文章的全部作者声明，在课题研究和文章撰写过程中不
+存在利益冲突。
+开放获取声明：这是一篇开放获取文章，根据《知识共享许可协议》
+“署名 - 非商业性使用 - 相同方式共享 4.0”条款，在合理引用的情况下，
+允许他人以非商业性目的基于原文内容编辑、调整和扩展，同时允许任
+何用户阅读、下载、拷贝、传递、打印、检索、超级链接该文献，并为
+之建立索引，用作软件的输入数据或其它任何合法用途。
+版权转让：文章出版前全体作者与编辑部签署了文章版权转让协议。
+出版规范：该研究遵守国际医学期刊编辑委员会《学术研究实验与
+报告和医学期刊编辑与发表的推荐规范》。文章出版前已经过专业反剽
+窃文献检测系统进行 3 次查重。文章经小同行外审专家双盲外审，同行
+评议认为文章符合期刊发稿宗旨。 
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.28｜October 2023｜4493
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+4   参考文献   References
+[1] 
+林江涛 , 丁悦敏 , 张雄 .PSD-95 与老化相关学习记忆能力下降关系
+研究进展 [J]. 生物学杂志 ,2019,36(2):83-85+89.
+[2] 
+MEDINA JH. Neural, Cellular and Molecular Mechanisms of Active 
+Forgetting. Front Syst Neurosci. 2018;12:3.
+[3] 
+付燕 , 王璐 , 李雪 , 杨澎湃 , 等 . 有氧运动对 D-gal 致脑衰老过程中
+大鼠学习记忆能力及 PSD-95 的影响 [J]. 武汉体育学院学报 ,2016, 
+50(8):87-93.
+[4] 
+NUMAKAWA T, ODAKA H. Brain-Derived Neurotrophic Factor Signaling 
+in the Pathophysiology of Alzheimer’s Disease: Beneficial Effects of 
+Flavonoids for Neuroprotection. Int J Mol Sci. 2021;22(11):5719.
+[5] 
+王子礼 , 陈显兵 , 王凤杰 , 等 . 头顶一颗珠对衰老大鼠认知及海马
+BDNF、TrkB 的影响 [J]. 中国中西医结合杂志 ,2020,40(11):1373-1377.
+[6] 
+张爽 . BDNF 基因修饰神经干细胞对 Aβ 致伤 PC12 神经元 ERK1/2
+和 PSD-95 表达的影响 [D]. 佳木斯 : 佳木斯大学 ,2016.
+[7] 
+杨雄 , 楚世峰 . 人参皂苷 Rg1 和 Rb1 在神经退行性疾病治疗中的作
+用 [J]. 神经药理学报 ,2018,8(6):56-57.
+[8] 
+GUO Y, WANG L, LU J, et al. Ginsenoside Rg1 improves cognitive 
+capability and affects the microbiota of large intestine of tree shrew 
+model for Alzheimer’s disease. Mol Med Rep. 2021;23(4):291.
+[9] 
+LOU YX, WANG ZZ, XIA CY, et al. The protective effect of ginsenoside 
+Rg1 on depression may benefit from the gap junction function in 
+hippocampal astrocytes. Eur J Pharmacol. 2020;882:173309.
+[10] 
+杜姝 , 姜岩 , 刘晶 , 等 . 人参皂苷 Rg1 对癫痫大鼠海马神经元损伤
+和小胶质细胞活化的影响 [J]. 免疫学杂志 ,2021,37(3):202-209.
+[11] 
+YANG C, HE X, ZHAO J, et al. Hepatoprotection by Ginsenoside Rg1 in 
+alcoholic liver disease. Int Immunopharmacol. 2021;92:107327.
+[12] 
+KIM JH, YI YS, KIM MY, et al. Role of ginsenosides, the main active 
+components of Panax ginseng, in inflammatory responses and diseases. 
+J Ginseng Res. 2017;41(4):435-443.
+[13] 
+SHAO J, ZHENG X, QU L, et al. Ginsenoside Rg5/Rk1 ameliorated sleep 
+via regulating the GABAergic/serotoninergic signaling pathway in a 
+rodent model. Food Funct. 2020;11(2):1245-1257.
+[14] 
+徐谈震 . NOX2-NLRP1 信号通路在小鼠脑老化损伤中的作用及人参
+皂苷 Rg1 的调节作用 [D]. 合肥 : 安徽医科大学 ,2019.
+[15] 
+沈晓燕 .NOX4-NLRP3 信号通路在小鼠肾脏老化损伤中的作用及人
+参皂苷 Rg1 的调节作用 [D]. 合肥 : 安徽医科大学 ,2020.
+[16] 
+杨璐萌 . 人参皂苷 Rg1 延长 C57BL/6J 小鼠寿命及延缓脑老化的机
+制研究 [D]. 福州 : 福建医科大学 ,2013.
+[17] 
+XIANG Y, WANG SH, WANG L, et al. Effects of Ginsenoside Rg1 
+Regulating Wnt/β-Catenin Signaling on Neural Stem Cells to Delay Brain 
+Senescence. Stem Cells Int. 2019;2019:5010184.
+[18] 
+许方方 , 张珊 , 李建玲 , 等 . 人参皂苷 Rb1 对阿尔茨海默病模型小
+鼠术后认知功能、海马内突触后致密蛋白 -95 及尼氏体表达的影
+响 [J]. 中西医结合心脑血管病杂志 ,2022,20(3):440-444.
+[19] 
+王冬慧 , 武鑫 , 孙宁宁 , 等 . 电针干预放射性脑损伤小鼠海马区
+突触可塑性相关蛋白的表达 [J]. 中国组织工程研究 ,2021,25(14): 
+2205-2210.
+[20] 
+田勇 , 周督 , 邹双忆 , 等 . 昆仑雪菊水溶性黄酮提取物对 D- 半乳糖致
+衰老小鼠学习记忆障碍的改善作用 [J]. 食品科学 ,2019,40(1):162-168.
+[21] 
+翟春梅 , 薛迎凤 , 郭鹏飞 , 等 . 白术对 D- 半乳糖致衰老小鼠学习记
+忆和抗氧化能力的影响 [J]. 中医药学报 ,2021,49(7):26-31.
+[22] 
+李斌 , 李佳欣 , 郝彦伟 , 等 . 远志散对阿尔茨海默病模型小鼠学习
+记忆能力及海马紧密连接蛋白表达的影响 [J]. 中医杂志 ,2022,63(6): 
+557-563.
+[23] 
+吕静薇 . 人参皂苷 Rg1 和 Rb1 改善航天失重效应与睡眠干扰所致
+认知功能减退作用及机制研究 [D]. 北京 : 北京协和医学院 ,2021.
+[24] 
+赵佳佳 , 杨荷雨 , 王招娣 , 等 .ANA-12 通过靶向阻断 BDNF/TrkB 信
+号通路降低大鼠的脊髓炎症和缓解病理性疼痛 [J]. 南方医科大学
+学报 ,2022,42(2):232-237.
+[25] 
+陈晓禾 . 海马组织 MAD2B 过表达对小鼠学习记忆能力影响及机制
+研究 [D]. 武汉 : 华中科技大学 ,2019.
+[26] 
+LI M, ZHAO J, TANG Q, et al. Lamivudine improves cognitive decline 
+in SAMP8 mice: Integrating in vivo pharmacological evaluation and 
+network pharmacology. J Cell Mol Med. 2021;25(17):8490-8503.
+[27] 
+ZIA A, POURBAGHER-SHAHRI AM, FARKHONDEH T, et al. Molecular 
+and cellular pathways contributing to brain aging. Behav Brain Funct. 
+2021;17(1):6.
+[28] 
+LIU N, ZENG L, ZHANG YM, et al. Astaxanthin alleviates pathological 
+brain aging through the upregulation of hippocampal synaptic proteins. 
+Neural Regen Res. 2021;16(6):1062-1067.
+[29]     赵思琦 , 杜鹃 , 屈海峰 , 等 . 丰富环境联合褪黑素对 SAMP8 小鼠
+学习记忆功能及脑神经细胞凋亡的影响 [J]. 中国组织工程研究 , 
+2023,27(5):701-706.
+[30] 
+HAIDER S, LIAQUAT L, SHAHZAD S, et al. A high dose of short term 
+exogenous D-galactose administration in young male rats produces 
+symptoms simulating the natural aging process. Life Sci. 2015;124:     
+110-119.
+[31] 
+王钊 . 生物衰老 : 研究方法与实验方案 [J]. 遗传 ,2012,34(11):1364.
+[32] 
+LU S, ZHANG Y, LI H, et al. Ginsenoside Rb1 can ameliorate the key 
+inflammatory cytokines TNF-α and IL-6 in a cancer cachexia mouse 
+model. BMC Complement Med Ther. 2020;20(1):11.
+[33] 
+LI X, GUAN J, SUN T, et al. Circadian learning and memory changes 
+in Aβ1-42 induced Alzheimer’s mice. Metab Brain Dis. 2020;35(3):             
+463-471.
+[34] 
+VANGUILDER HD, FARLEY JA, YAN H, et al. Hippocampal dysregulation 
+of synaptic plasticity-associated proteins with age-related cognitive 
+decline. Neurobiol Dis. 2011;43(1):201-212.
+[35] 
+WANG M, LIU JX, YAO MJ, et al. [Advances in research on 
+pharmacological and neuroprotective effects of traditional Chinese 
+medicine after cerebral ischemia]. Zhongguo Zhong Yao Za Zhi. 2020; 
+45(3):513-517. 
+[36] 
+LIAO S, APAIJAI N, CHATTIPAKORN N, et al. The possible roles of 
+necroptosis during cerebral ischemia and ischemia / reperfusion injury. 
+Arch Biochem Biophys. 2020;695:108629.
+[37] 
+GUO X, YUAN J, LI M, et al. Neuroprotection of Intermedin 
+Against Cerebral Ischemia/Reperfusion Injury Through Cerebral 
+Microcirculation Improvement and Apoptosis Inhibition. J Mol 
+Neurosci. 2021;71(4):767-777.
+[38] 
+王娟 , 申丰铭 , 张峥嵘 , 等 . 人参皂苷 Rg1 对慢性应激小鼠抑郁
+样行为、海马突触蛋白及胶质细胞的作用 [J]. 生物学杂志 ,2021, 
+38(3):26-30.
+[39] 
+ALEKSANDROVA LR, WANG YT, PHILLIPS AG. Evaluation of the Wistar-
+Kyoto rat model of depression and the role of synaptic plasticity in 
+depression and antidepressant response. Neurosci Biobehav Rev. 
+2019;105:1-23.
+[40] 
+CIPRIANI A, FURUKAWA TA, SALANTI G, et al. Comparative efficacy 
+and acceptability of 21 antidepressant drugs for the acute treatment 
+of adults with major depressive disorder: a systematic review and 
+network meta-analysis. Lancet. 2018;391(10128):1357-1366.
+[41] 
+DU Q, ZHU X, SI J. Angelica polysaccharide ameliorates memory 
+impairment in Alzheimer’s disease rat through activating BDNF/TrkB/
+CREB pathway. Exp Biol Med (Maywood). 2020;245(1):1-10.
+[42] 
+SUN J, LI H, JIN Y, et al. Probiotic Clostridium butyricum ameliorated 
+motor deficits in a mouse model of Parkinson’s disease via gut 
+microbiota-GLP-1 pathway. Brain Behav Immun. 2021;91:703-715.
+[43] 
+TIWARI S, ATLURI V, KAUSHIK A, et al. Alzheimer’s disease: 
+pathogenesis, diagnostics, and therapeutics. Int J Nanomedicine. 
+2019;14:5541-5554.
+[44] 
+王登坤 , 第五永长 , 苟于瑞 , 等 . 洗心汤对阿尔茨海默病模型大鼠
+海马 BDNF、TrkB 蛋白表达及肠道菌群多样性的影响 [J]. 中医杂志 , 
+2021,62(15):1362-1369.
+[45] 
+LU Q, ZHU H, LIU X, et al. Icariin sustains the proliferation and 
+differentiation of Aβ25-35-treated hippocampal neural stem cells via 
+the BDNF-TrkB-ERK/Akt signaling pathway. Neurol Res. 2020;42(11):    
+936-945.
+[46] 
+WANG ZH, XIANG J, LIU X, et al. Deficiency in BDNF/TrkB Neurotrophic 
+Activity Stimulates δ-Secretase by Upregulating C/EBPβ in Alzheimer’s 
+Disease. Cell Rep. 2019;28(3):655-669.e5.
+[47] 
+何丽玲 , 龙清华 , 胡慧 , 等 . 大补元煎通过上调 BDNF/TrkB/CREB 信
+号通路改善 APP/PS1 双转基因痴呆小鼠海马突触可塑性 [J]. 中国实
+验方剂学杂志 ,2020,26(21):1-7.
+[48] 
+ZHONG SJ, WANG L, GU RZ, et al. Ginsenoside Rg1 ameliorates the 
+cognitive deficits in D-galactose and AlCl3-induced aging mice by 
+restoring FGF2-Akt and BDNF-TrkB signaling axis to inhibit apoptosis. 
+Int J Med Sci. 2020;17(8):1048-1055.
+( 责任编辑：GW，ZN，ZJP)

@@ -1,0 +1,1029 @@
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中药成分分析
+人参及其近缘种粗多糖含量测定和单糖组成
+分析
+＊
+李士伟
+1，2，魏文龙
+2，吴依松
+1，2，吴士飞
+2，吴梦蕾
+2，果德安
+1，2＊＊
+（1. 长春中医药大学药学院 长春 130117；2. 中国科学院上海药物研究所上海中药现代化研究中心 中药标准化技
+术国家工程研究中心 上海 201203）
+摘
+要：目的 优化人参多糖提取、水解和衍生化工艺，探讨人参及近缘种多糖的单糖组成及抗氧化应
+激活性。方法 通过正交实验优化多糖提取工艺；采用苯酚-硫酸法测定总多糖含量；通过单因素实验考察
+水解及衍生化条件，并进行单糖组成分析；构建氧化应激损伤模型评价人参属多糖抗氧化应激活性。
+结 果 提 取 工 艺 优 选 为 100℃ ，4 h，料 液 比 1∶15，乙 醇 浓 度 85%；6 种 人 参 属 药 材 中 总 多 糖 含 量 为
+14.59%-35.58%。水解：TFA浓度 2 mol·L
+-1，110℃水解 5 h；衍生化：PMP浓度 0.3 mol·L
+-1，70℃反应 30 min；主
+要单糖组成：鼠李糖、半乳糖醛酸、葡萄糖、半乳糖、阿拉伯糖。经红参和珠子参多糖处理后的细胞活性及
+GSH-Px、SOD 相对含量回升，丙二醛相对含量减少。结论 人参及其近缘种的单糖类型基本一致，但其含
+量具有一定差异。红参和珠子参多糖具有减缓 H9c2细胞中由 H2O2诱导的氧化应激损伤的潜力。研究结果
+为人参属药材多糖的开发利用提供参考依据。
+关键词：工艺优化 人参属多糖 单糖组成 抗氧化应激
+doi: 10.11842/wst.20220130006  中图分类号: R284.1  文献标识码: A
+人参（Panax ginseng C. A. Mey.）为五加科人参属
+多年生植物，主要用于帮助缓解病理症状、促进健康、
+预防疾病等
+[1]。多糖作为人参中主要活性物质，具有
+多种生物活性，例如免疫调节、抗氧化、抗炎等。根据
+文献报道，目前从人参中分离鉴定了约 80 种均一多
+糖，其中葡聚糖和果胶含量较为丰富
+[2]。高度多样化
+的多糖是由不同立体构型的单糖组成，通过几个不同
+的羟基位点相连接，多糖同时也存在较多的支链
+[3-4]。
+由于多糖结构的复杂性，较难获取多糖的结构信息和
+实现多糖的质量控制
+[5-6]。
+现代研究表明，人参多糖在神经保护、免疫调节
+和抗肿瘤等方面具有较好的治疗潜力。多糖的结构
+解析对多糖的活性研究至关重要。复杂体系下的人
+参粗多糖，较难能够解释和剖析其多糖结构特征。人
+参粗多糖解聚成单糖，可以明确其多糖组成的单糖种
+类及比例，为粗多糖中的寡糖和多糖解析提供重要的
+基础数据。单糖成分分析很大程度上有利于多糖和
+寡糖的结构解析，要精确定量多糖的单糖成分，需要
+对多糖进行充分的解聚。色谱法能够有效分离单糖
+中的同分异构体，且可以通过衍生化的方法提高单糖
+在紫外和质谱检测器下的响应。多糖的酸水解方面，
+已有文献报道了三氟乙酸、盐酸和硫酸应用于多糖酸
+水解
+[7-9]。三氟乙酸被广泛应用于中药多糖水解和多
+糖结构分析，其优势为氧化性温和、对多糖破坏性较
+小，带有强电负性的三氟甲基基团可以吸引更多的氢
+离子从而促进多糖水解。同时，与无机酸相比，三氟
+乙酸具有较好的挥发性，水解后可采用氮吹或真空干
+燥等简易方法去除
+[10-12]。三氟乙酸主要用于植物多
+   收稿日期：2022-01-30
+   修回日期：2022-10-15
+＊  国家自然科学基金委员会重点项目（82130111）：以通心络胶囊和半夏泻心汤为载体的中药复方质量评价方法及关键技术研究，负责人：
+果德安。
+＊＊ 通讯作者：果德安，本刊编委，研究员，博士生导师，主要研究方向：中药化学与现代质量标准研究。
+509
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2023 第二十五卷 第二期 ★Vol. 25 No.2 
+糖、糖胺聚糖和糖蛋白水解，在多糖、寡糖和单糖分析
+中均有应用
+[13-15]。然而糖类物质极性较大，缺乏光学
+吸收基团和质谱上离子化效率低，较难满足高灵敏度
+分析手段的检测要求。衍生化技术可使糖类物质的
+羟基位置带上紫外吸收或荧光吸收基团，在满足高灵
+敏度光学检测的同时提高了离子化效率，为糖类物质
+的分析提供了方便
+[16-17]。在众多的衍生试剂中，1-苯
+基 -3- 甲 基 -5- 吡 唑 啉 酮（1-phenyl-3-methyl-5-
+pyrazolone，PMP）展现出较好的效果，PMP 和糖链还原
+性末端的反应在弱碱性介质中进行，与其它在酸性介
+质中反应的衍生试剂相比，PMP 衍生条件温和、衍生
+产物稳定、无立体异构体、衍生物紫外吸收强、易于离
+子化，适于多种类型单糖分析，被广泛应用于糖类化
+合物的分析
+[18-20]。
+单糖水解方法稳定、重现性较好，且可以实现精
+准的定量，单糖的含量与组成比例对人参及其近缘种
+的近似性和差异性分析可以提供重要的参考价值。
+从多糖的基础组成部分进行近缘种的区分和评价，能
+够从侧面对多糖的差异性评价提供可靠的参考依据。
+目前在人参多糖的研究中，缺少系统的人参多糖提
+取、水解和衍生化工艺优化的相关研究，报道人参
+（Panax ginseng，PG）、红参（Red ginseng，RG）、西洋参
+（Panax quinquefolius，PQ）、三 七（Panax notoginseng，
+PN）、珠子参（Panax japonicus var. major，ZZS）、竹节参
+（Panax japonicus，ZJS）的单糖组成比较分析的文献较
+少。本研究采用单因素实验和正交实验设计法优化
+人参提取、水解和衍生化工艺，采用高分辨质谱进行
+单糖定性分析，并通过超高效液相色谱定量比较人参
+及其近缘种的单糖组成比例差异。此外，本研究也开
+展了人参属多糖在氧化应激损伤方面的活性作用。
+1 材料 
+1.1 试剂和药材 
+试剂：无水乙醇、氨水、甲酸（色谱纯，阿拉丁）、三
+氟 乙 酸（Trifluoroacetic Acid，TFA）、1-苯 基 -3-甲 基
+-5-吡唑啉酮（PMP）、三氯甲烷、氢氧化钠、盐酸、硫
+酸、苯酚，均采购自国药集团上海化学试剂有限公司。
+甲醇（色谱纯，Fisher Scientific）、乙腈（色谱纯，Fisher 
+Scientific）、乙酸铵（Sigma）。
+对照品：葡萄糖（批号 3696，纯度 98.0%）、半乳糖
+（批号 5460，纯度 99.5%）、甘露糖（批号 5072，纯度
+98.0%）、果糖（批号 8519，纯度 99.7%）、葡萄糖醛酸
+（批 号 3868，纯 度 98.0%）、木 糖（批 号 5461，纯 度
+99.5%）、来苏糖（批号 3873，纯度 98.0%）购自上海诗
+丹德标准技术服务有限公司；鼠李糖（批号 WXBB695
+0V，纯度 99.0%）、半乳糖醛酸（批号 BCBH7675V，纯度
+97.0%）购自 Sigma公司；核糖（批号 WF20061128，纯度
+99.0%）、阿拉伯糖（批号 20170830，纯度 98.0%）购自
+国药集团化学试剂有限公司；岩藻糖（批号 112014-
+201902，纯度 95.9%）购自中国食品药品鉴定研究院；
+古洛糖（批号 TJ0725CA13，纯度 98.0%）购自上海源叶
+生物科技有限公司。标准胎牛血清（FBS），青霉素-链
+酶素溶液（Penicillin-Streptomycin），0.05% 胰酶溶液购
+于Invitrogen，Thermo Fisher Scientific。
+药材样品信息：人参（PG1、PG2、PG3），产地：吉
+林；红参（RG1、RG2、RG3，产地：吉林）；西洋参（PQ1、
+PQ2、PQ3，产地：加拿大）；三七（PN1、PN2、PN3，产地：
+云南）；珠子参（ZZS1、ZZS2、ZZS3，产地：西藏）；竹节参
+（ZJS1、ZJS2、ZJS3，产地：云南）；每种药材各 3 批次，所
+有样品经上海药物研究所中药现代化中心姚帅高级
+实验师鉴定。
+1.2 仪器与耗材 
+Agilent 1290 超高效液相色谱仪（安捷伦科技公
+司）；Waters ACQUITY UPLC I-Class/Xevo G2-S QTOF
+超高效液相色谱仪串联质谱仪（沃特世科技公司）；
+UV-2450 紫外可见分光光度计（岛津公司）；水浴锅
+（SB-2000，上 海 爱 郎 仪 器 有 限 公 司）；超 声 波 水 浴
+（P180，德国埃尔玛公司）；冷冻干燥机（Alpha 1-4 LD-2，
+CHRIST 德国）；电子天平（Quintix 224-1 CN-1，赛多
+利 斯 北 京 有 限 公 司）；冷 冻 柜（UX70086V, Thermo 
+Fisher Scientific（Asheville）LLC）；L530 离心机（湖南长
+沙湘仪检测设备有限公司）；Milli-Q Integral 超纯水系
+统（Millipore，Bedford，美国）；Waters ACQUITY UPLC 
+HSS T3 色谱柱（2.1×100mm, 1.7µm）；Waters CORTECS 
+C18
++色谱柱（2.1 × 150 mm，2.7µm）。噻唑蓝（3-(4,5)-
+dimethylthi-ahiazo(-z-y1) -3, 5-Di-phenytetrazoliumromide, 
+MTT）试剂盒购于武汉博士德生物工程有限公司；总超
+氧化物歧化酶（superoxide dismutase，SOD）测定试剂
+盒，谷胱甘肽过氧化物酶（glutathione，GSH-px）测定试
+剂盒，细胞丙二醛（malondialdehyde，MDA）测定试剂盒
+购于南京建成生物工程研究所。
+510
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中药成分分析
+2 方法与结果 
+2.1 人参多糖的提取工艺优化 
+精密称取人参药材粉末（3 号筛）5.0 g，置 150 mL
+圆底烧瓶中，加水 75 mL，100℃加热回流 4 h，离心
+15 min（4000 r·min
+-1），药渣再次回流 4 h，离心，合并上
+清液。加入无水乙醇（使乙醇浓度为 85%，v/v），4℃静
+置 12 h，抽滤，沉淀加水复溶（80℃超声 1 h），取出，冷
+却，离心 20 min（4000 r·min
+-1），上清冷冻干燥，得多糖
+冻干粉。
+采用正交实验设计 L9(3
+4)优化人参多糖提取工
+艺，如表 1所示，分别考察提取温度、提取时间、料液比
+及乙醇浓度对多糖得率的影响，多糖提取率=多糖冻
+干粉重量/药材粉末重量×100%，实验设计和结果如表
+2和表3所示。
+如表 2所示，正交实验的极差分析结果表明，不同
+因素对人参多糖的提取效率影响大小为：A>B>C>D，
+即提取温度>提取时间>料液比>乙醇浓度。如表 3 所
+示，方差分析中以离差平方和最小的因素 D 代替误差
+离差平方和，A、B、C 因素均无显著性差异（P>0.05），
+无统计学意义。综合极差和方差分析结果，确定最优
+提取工艺为：A3B3C2D2，即提取温度为 100℃，提取时间
+为 4 h，料液比为 1∶15，乙醇浓度为 85% 的条件下，人
+参总多糖提取量较多，其他人参属药材均采用优化方
+法提取。
+2.2 粗多糖含量测定 
+2.2.1 对照品溶液制备 
+取 葡 萄 糖 对 照 品 适 量 ，精 密 称 定 ，加 水 制 成
+90 µg·mL
+-1的溶液，即得。
+2.2.2 总糖标准曲线绘制 
+精 密 移 取 对 照 品 溶 液 0.2 mL、0.4 mL、0.6 mL、
+0.8 mL、1.0 mL，分别定容至 1.0 mL，精密加入 5% 苯酚
+水溶液 1 mL，摇匀，再精密加入硫酸 5 mL，摇匀，置沸
+水浴中加热 20 min，取出，置冰浴冷却，以相应试剂为
+空白对照。在 488 nm 下测定吸光度，以吸光度为纵坐
+标，葡萄糖浓度为横坐标，绘制标准曲线，如图 1所示，
+标准曲线为 y=9.708x+0.0087（R
+2=0.9988），在 0.018-
+0.092 mg·mL
+-1范围内线性良好。
+2.2.3 供试品溶液制备和测定 
+精密称取供试品粉末 10 mg，加水定容至 100 mL，
+超声溶解，取 1 mL 按照 2.2.2 项下标准曲线制备项下
+方法制备样品并测定，测定结果见图 2。6种人参属药
+材中总多糖含量为 14.59%-35.58%，其中总多糖含量
+表1 正交实验因素与水平
+水平
+1
+2
+3
+因素
+A提取温度（℃）
+80
+90
+100
+B提取时间（h）
+2
+3
+4
+C料液比（v/v）
+1∶10
+1∶15
+1∶20
+D乙醇浓度%
+80
+85
+90
+表2 正交实验设计和结果
+实验号
+1
+2
+3
+4
+5
+6
+7
+8
+9
+K1
+K2
+K3
+k1
+k2
+k3
+R
+因素
+A提取温度（℃）
+1
+1
+1
+2
+2
+2
+3
+3
+3
+46.60
+81.60
+102.60
+15.53
+27.20
+34.20
+18.67
+B提取时间（h）
+1
+2
+3
+1
+2
+3
+1
+2
+3
+77.00
+67.40
+86.40
+25.67
+22.47
+28.80
+6.33
+C料液比（v/v）
+1
+2
+3
+2
+3
+1
+3
+1
+2
+80.00
+83.60
+67.20
+26.67
+27.87
+22.40
+5.47
+D乙醇浓度%
+1
+2
+3
+3
+1
+2
+2
+3
+1
+67.40
+83.60
+79.80
+22.47
+27.87
+26.60
+5.40
+提取率（%）
+13.40
+16.80
+16.40
+30.40
+17.60
+33.60
+33.20
+33.00
+36.40
+511
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2023 第二十五卷 第二期 ★Vol. 25 No.2 
+较高的药材为人参和三七，其他药材中总多糖含量相
+对较低。6 种人参属药材总多糖含量从高到低的顺序
+为：人参>三七>红参>珠子参>西洋参>竹节参。
+2.3 多糖水解工艺优化 
+精密称取多糖提取物 1.0 mg，置安瓿瓶中，分别加
+TFA（1 mol·L
+-1、2 mol·L
+-1、4 mol·L
+-1）1 mL，密封，于烘
+箱温度（100℃、110℃、120℃）加入，水解（3 h、5 h、7 h），
+取出，冷却，吹干，残渣加甲醇 1 mL使溶解，吹干，加水
+1 mL复溶。4℃保存。
+采用单因素优化，以六碳糖（葡萄糖）、五碳糖（阿
+拉伯糖）、脱氧糖（鼠李糖）和糖醛酸（半乳糖醛酸）为
+考察指标，分别考察 TFA 浓度（1 mol·L
+-1、2 mol·L
+-1、
+4 mol·L
+-1），水解温度（100℃、110℃、120℃）,水解时间
+（3 h、5 h、7 h）。仪器、分析方法同 2.5.1 项。结果表
+明，TFA 浓度 2 mol·L
+-1，水解温度 110℃，水解时间 5 h
+条件下，多糖水解较为完全（图3）。
+2.4 单糖衍生化工艺优化 
+标准品溶液配制：精密称取 13 个单糖对照品各
+1.0 mg，加 水 制 成 1 mg·mL
+-1，各 吸 取 100 µL 混 匀 ，
+待用。
+取经酸水解后的多糖溶液或标准品混合溶液各
+100 µL，加 氨 水 500 µL、（0.1 mol·L
+-1、0.3 mol·L
+-1、
+0.5 mol·L
+-1）PMP 甲醇溶液 500 µL，密封，混匀，置（50、
+70、90℃）加热（15、30、45、60 min），取出，吹干，加 1 mL
+水复溶，再加 1 mL 氯仿萃取，取水层，重复 3 次，离心
+10 min（14 000 r·min
+-1），取上清液进样分析。仪器、分
+析方法同 2.5.1 项。结果表明，PMP 浓度 0.3 mol·L
+-1，
+水浴温度 70℃，反应时间 30 min 条件下，多糖水解后
+的单糖衍生化效率较高（图4）。
+2.5 人参及其近缘种的单糖组成分析 
+2.5.1 人参及其近缘种的单糖定性分析 
+精密称取多糖提取物 1 mg，置安瓿瓶中，加入
+TFA（2 mol·L
+-1）1 mL，密封，于 110℃烘箱加入 5 h，取
+出，冷却，吹干，残渣加甲醇 1 mL 使溶解，吹干，重复
+3次。残渣加1 mL水复溶。4℃保存。
+取经酸水解后的多糖溶液或单糖标准品溶液各
+图2 六种人参属药材总多糖含量
+图3 多糖水解工艺优化
+图1 葡萄糖标准曲线
+表3 方差分析结果
+方差来源
+A
+B
+C
+D（误差）
+离差平方和
+533.556
+60.169
+49.529
+47.849
+自由度
+2
+2
+2
+2
+F值
+11.151
+1.257
+1.035
+1.000
+显著性
+P>0.05
+P>0.05
+P>0.05
+512
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中药成分分析
+100 µL，加 氨 水 500 µL、0.3 mol·L
+-1 PMP 甲 醇 溶 液
+500 µL，密封，混匀（涡旋振荡 30 s），置 70℃水浴加热
+30 min，取出，55℃下氮吹干燥，残渣加 1 mL 水复溶，
+复溶溶液加 1 mL 氯仿萃取，重复 3 次，取水层，离心
+10 min（14 000 r·min
+-1），取上清液进样分析。
+液相条件：色谱柱：Waters HSS T3（100×2.1 mm，
+1.8 µm）；流动相：0.1% 甲酸-5 mmol·L
+-1乙酸铵水溶液
+（A）-乙腈（B）；柱温：40 ℃；流速：0.4 mL·min
+-1；检测波
+长 ：250 nm；洗 脱 梯 度 ：0-25 min，17-23（B%）；25-
+26 min，23-95（B%）；26-29 min，95（B%）；29-30 min，
+95-17（B%）；30-35 min，17（B%）。
+质谱条件：质谱分析采用 Waters Xevo G2-S Q-
+TOF 质谱，正离子模式，电喷雾离子源，参数设置如
+下：毛细管电压 3.0 kV；锥孔电压：30 V，碰撞能 CE 值
+为 LM RAMP CE 10-20 V，HM RAMP CE 30-40 V；源
+温度 100℃；去溶剂气为氮气，去溶剂气温度 450℃；去
+溶剂气流速 800 L·h
+-1；锥孔气为氮气，锥孔气流速
+50 L·h
+-1。数据采集模式为 Fast DDA，Continuum 格式，
+MS 扫描范围为 200-1200 Da，扫描时间为 0.15 s，采用
+MassLynx 4.1 进行数据采集和数据处理。PMP 衍生化
+的13种单糖质谱轮廓图见图5。
+如表 4 所示，结果表明，在人参及其近缘品种中，
+均存在鼠李糖、葡萄糖醛酸、葡萄糖、半乳糖醛酸、半
+乳糖、阿拉伯糖、岩藻糖，而木糖仅存在于珠子参中。
+但每种单糖的含量和各药材中单糖比例存在一定差
+异，随后构建单糖绝对定量方法，进行人参及其近缘
+种单糖的含量测定。
+2.5.2 人参及其近缘种单糖定量分析 
+精 密 称 取 多 糖 粉 末 5.0 mg，加 水 2.5 mL，超 声
+30 min（功 率 1130 W，频 率 37 kHz），离 心 10 min
+（14 000 r·min
+-1）。取 200 µL 多糖溶液加 200 µL TFA
+（4 mol·L
+-1）,在110℃水解4 h，取300 µL吹干除去TFA。
+残 渣 用 200 µL 水 复 溶 ，加 入 100 µL NaOH
+（0.3 mol·L
+-1）和 100 µL PMP 甲醇溶液（0.5 mol·L
+-1），
+混匀，70℃加热 30 min，取出放冷，加入 100 µL HCl
+（0.3 mol·L
+-1）调 pH，再加入 500 µL 氯仿萃取，涡旋振
+荡，取上层，加 500 µL 入氯仿，重复 2 次，取上层溶液，
+即得
+[21]。
+图4 单糖衍生化工艺优化
+图5 PMP衍生化的13种单糖质谱轮廓图
+注：1：果糖；2：甘露糖；3：古洛糖；4：来苏糖；5：核糖；6：鼠李糖；7：葡萄糖醛酸；8：葡萄糖；9：半乳糖醛酸；10：半乳糖；11：阿拉伯糖；12：木糖；13：岩藻糖。
+513
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2023 第二十五卷 第二期 ★Vol. 25 No.2 
+仪 器 ：Agilent UHPLC 1290，色 谱 柱 ：Waters 
+CORTECS
+TM C18+ (4.6 × 150 mm, 2.7 µm)，流 动 相 ：
+20 mmol·L
+-1乙酸铵（A）-乙腈（B）；柱温：25℃；流速：
+0.65 mL·min
+-1；检测波长：250 nm；进样量：3 µL；洗脱
+梯度：0-10 min，15%-17%（B）；10-30 min，17%（B）；
+30-31 min，17%-95%（B）；31-34 min，95%（B）；34-
+35 min，95%-15%（B）；35-40 min，15%（B）；对人参属
+多糖中主要的单糖成分进行定量分析，结果如表 5、
+图6所示。
+结果表明：人参及近缘种中主要单糖为鼠李糖、
+半乳糖醛酸、葡萄糖、半乳糖、阿拉伯糖，含量为：
+0.979-7.944 mg·g
+-1（鼠李糖）、5.354-75.315 mg·g
+-1（半
+乳糖醛酸）、97.417-688.724 mg·g
+-1（葡萄糖）、6.651-
+44.331 mg·g
+-1（半乳糖）、3.325-30.173 mg·g
+-1（半乳糖
+醛酸）。葡萄糖为人参属最主要的单糖，其含量远高
+于其他单糖，鼠李糖在红参中含量相对较高。
+2.6 人参及其近缘种多糖抗氧化应激活性 
+H9c2（大鼠）心肌细胞系，购自中国科学院典型培
+养物保藏委员会细胞库。选取对数生长期 H9c2 细
+胞，以 5 × 10
+3 细胞·孔密度
+-1 接种于 96 孔板内，置于
+37℃、5% CO2培养箱培养，24 h 后进行后续实验。设
+置空白对照组（对照组）、H2O2处理组与 H2O2多糖组
+（多糖处理组）。每组设 4 个对照孔。以 100 µmol·L
+-1 
+H2O2诱导H9c2心肌细胞建立氧化应激损伤模型，待测
+成分按照 100 µg·mL
+-1在建模前 6 h提前加入。H2O2处
+理细胞 2 h 后弃掉上清后使用室温无菌 PBS 清洗细胞
+两遍，继续加入待测成分共培养细胞 24 h（10% FBS-
+DMEM，100 IU·mL
+-1 Penicillin，100 µg·mL
+-1 Streptomycin，
+37℃、5% CO2培养箱）。
+96 孔细胞加入 0.5 mg·mL
+-1 MTT，继续置于 37℃、
+5% CO2培养箱反应 4 h。然后终止培养，弃孔内上清
+液，每孔加 150 µL DMSO，微量振荡仪振荡 10 min。在
+图6 人参属人参及其近缘种单糖谱图
+表4 人参及其近缘种单糖定性分析
+单糖组成
+鼠李糖
+葡萄糖醛酸
+葡萄糖
+半乳糖醛酸
+半乳糖
+阿拉伯糖
+岩藻糖
+木糖
+分子式
+C26H31O6N4
+C26H29O8N4
+C26H31O7N4
+C26H29O8N4
+C26H31O7N4
+C25H29O6N4
+C26H31O6N4
+C25H29O6N4
+人参
++
++
++
++
++
++
++
+/
+红参
++
++
++
++
++
++
++
+/
+西洋参
++
++
++
++
++
++
++
+/
+三七
++
++
++
++
++
++
++
+/
+竹节参
++
++
++
++
++
++
++
+/
+珠子参
++
++
++
++
++
++
++
++
+注：+表示存在，/表示不存在。
+514
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中药成分分析
+570 nm 波长下测定各孔光吸收值，计算细胞的存活
+率。细胞存活率=（测试组-空白组 A）/（对照组-空白
+组）×100%。取H9c2细胞按5×10
+3细胞孔密度
+-1接种于
+96 孔板，按照方法所述使用 200 µg·mL
+-1多糖浓度对
+细胞进行干预，24 h 后收集细胞上清液或制备细胞悬
+液，对待测细胞中的 SOD 活性、MDA 含量、GSH-Px 活
+性（南京建成生物工程研究所）分别进行检测，所有操
+作均按试剂使用说明书进行。采用 SPSS 17.0 软件包
+进行统计学分析，采用单因素方差分析（Ordinary one-
+way ANOVA）进行比较分析，计量数据以均值±标准差
+（x■±s）表示，以P<0.05为差异有统计学意义。
+MTT 结果表明，与空白对照组相比，人参属药材
+多糖提取物（200 µg·mL
+-1）的细胞毒性较低。使用
+H2O2诱导H9c2细胞氧化应激损伤模型后发现，与对照
+组细胞相比，H2O2处理组 H9c2 的细胞活力降低（相对
+细胞活力为 59.87%±4.81%；对照组细胞为 100%）。同
+表5 人参及其近缘种单糖定量分析结果
+名称（编号）
+PG1
+RSD%
+PG2
+RSD%
+PG3
+RSD%
+RG1
+RSD%
+RG2
+RSD%
+RG3
+RSD%
+PQ1
+RSD%
+PQ2
+RSD%
+PQ3
+RSD%
+PN1
+RSD%
+PN2
+RSD%
+PN3
+RSD%
+ZZS1
+RSD%
+ZZS2
+RSD%
+ZZS3
+RSD%
+ZJS1
+RSD%
+ZJS2
+RSD%
+ZJS3
+RSD%
+鼠李糖（mg·g-1）
+/
+/
+/
+/
+/
+/
+2.26
+1.04
+2.53
+2.94
+2.21
+0.02
+/
+/
+/
+/
+1.88
+2.79
+/
+/
+/
+/
+/
+/
+/
+/
+7.94
+0.33
+1.47
+1.09
+2.32
+2.70
+/
+/
+2.81
+0.28
+半乳糖醛酸（mg·g-1）
+7.39
+1.05
+8.60
+4.09
+7.49
+0.40
+22.05
+0.41
+25.97
+0.90
+20.91
+0.74
+23.96
+1.58
+23.22
+0.01
+22.71
+1.04
+5.99
+2.80
+5.35
+0.08
+6.41
+2.30
+9.88
+1.71
+75.32
+0.19
+16.27
+0.04
+31.99
+0.92
+14.77
+1.46
+24.51
+0.74
+葡萄糖（mg·g-1）
+568.71
+0.25
+688.72
+3.84
+531.38
+0.40
+487.97
+2.08
+453.10
+2.27
+495.81
+0.43
+453.35
+1.53
+265.12
+0.73
+414.10
+3.15
+414.38
+2.07
+501.39
+2.41
+525.48
+3.45
+590.72
+0.12
+97.42
+0.42
+473.89
+0.19
+263.58
+1.90
+367.20
+0.86
+316.44
+0.15
+半乳糖（mg·g-1）
+8.05
+0.24
+7.44
+2.18
+6.65
+0.08
+16.74
+0.19
+19.82
+2.10
+18.86
+0.33
+15.31
+0.12
+14.33
+0.38
+13.92
+1.94
+15.78
+2.94
+12.33
+3.52
+14.65
+3.47
+10.57
+0.22
+44.33
+0.06
+15.66
+0.16
+37.85
+2.11
+16.58
+1.02
+22.67
+0.11
+阿拉伯糖（mg·g-1）
+6.69
+0.31
+5.68
+0.48
+5.63
+0.44
+14.43
+0.27
+15.73
+1.51
+15.13
+0.03
+11.45
+0.01
+11.54
+0.54
+11.05
+2.64
+3.50
+3.61
+3.33
+4.29
+3.55
+0.19
+3.77
+0.58
+30.17
+0.08
+8.34
+0.46
+15.58
+2.39
+6.10
+1.37
+11.48
+0.10
+515
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2023 第二十五卷 第二期 ★Vol. 25 No.2 
+时，细胞上清液中 GSH-Px、SOD 活性降低，MDA 含量
+增加（P<0.05）；人参属药材多糖干预后发现，相比于
+其他样品组，红参多糖处理组和珠子参多糖处理组细
+胞活力有所回升。同时 GSH-Px、SOD 相对含量较
+H2O2处理组回升（P<0.05），同时丙二醛（MDA）含量减
+少（P<0.05）（图 7），表明红参多糖和珠子参多糖具有
+缓解 H9c2 细胞中由 H2O2 诱导的氧化应激损伤的潜
+力。相比于人参（PG）、西洋参（PQ）、三七（PN）、珠子
+参（ZZS）和竹节参（ZJS），红参多糖（RG）展示了最好的
+抗氧化应激活性作用。
+3 讨论 
+水提醇沉的方法操作简单，不易破坏多糖结构，
+常用于植物多糖的提取。故对水提醇沉参数进行优
+化，为后续人参及其近缘种药材的多糖研究提供基
+础。结果表明在提取温度为100℃，提取时间为4 h，料
+液比为 1∶15，乙醇浓度为 85% 的条件下，人参总多糖
+提取量较多。酸水解是多糖研究最常用的一种多糖
+解聚方法，操作简便、普适性较强。与无机酸相比，
+TFA 挥发性好，水解后易去除，操作简便。故分别考
+察 TFA 浓度、水解温度和水解时间，优化的水解条件
+为 TFA 浓度 2 mol·L
+-1，水解温度 110℃，水解时间 5 h。
+衍生化方法是提高糖类化合物灵敏度的有效方法。
+PMP 衍生化方法条件温和、灵敏度高、选择性好。因
+此选择 PMP 衍生化试剂用于单糖衍生化提高检测灵
+敏度。分别针对 PMP 浓度、水浴加热温度和反应时间
+进 行 系 统 优 化 ，在 PMP 浓 度 0.3 mol·L
+-1，水 浴 温 度
+70℃，反应时间30 min条件下，多糖水解后的单糖衍生
+化效率较高。在人参及其近缘品种单糖类型分析中，
+发现 6种人参属药材多糖均存在鼠李糖、葡萄糖醛酸、
+葡萄糖、半乳糖醛酸、半乳糖、阿拉伯糖、岩藻糖，而木
+糖仅存在于珠子参多糖中。单糖含量测定的结果表
+明，6 种人参属药材多糖水解后含量最高的单糖为葡
+萄糖，其次为半乳糖醛酸、半乳糖和阿拉伯糖，鼠李糖
+仅在部分批次中可检测到，葡萄糖醛酸和岩藻糖由于
+含量极低，并未进行定量。此外，以 H2O2诱导 H9c2 心
+肌细胞建立氧化应激损伤模型，评价人参及其近缘品
+种多糖抗氧化应激活性。使用 H2O2诱导 H9c2 细胞氧
+化应激损伤模型后发现，H2O2处理组H9c2的细胞活力
+降低，细胞上清液中 GSH-Px 和 SOD 活性降低，MDA
+含量增加，人参属药材多糖干预后发现，红参多糖和
+珠子参多糖处理组的细胞活性有所回升，同时 GSH-
+Px、SOD 水平回升，MDA 水平减少，表明红参多糖和珠
+子参多糖具有减缓 H9c2 细胞中由 H2O2诱导的氧化应
+图7 人参属药材多糖减缓H9c2细胞中由H2O2诱导的氧化应激损伤
+注：A：MTT法检测细胞活力（空白对照组为100%），B-D：不同处理组细胞GSH、MDA和SOD水平；与处理组相比，
+*P<0.05，
+***P<0.01。
+516
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中药成分分析
+激损伤的潜力。本研究首次系统性地考察了人参多
+糖提取、水解和衍生化工艺优化，并评价和比较了人
+参及其近缘品种的总多糖含量、单糖组成、单糖含量
+测定和多糖抗氧化应激活性，具有一定的创新性与参
+考价值。
+综上所述，本研究从总多糖含量测定、单糖组成、
+单糖含量测定和多糖抗氧化应激活性方面进行 6种人
+参属药材多糖的比较分析，从而研究人参属的 6 种药
+材多糖间的差异性，为人参属药材多糖的质量评价提
+供研究基础。基于人参及其近缘种多糖抗氧化应激
+活性研究，及发现红参多糖和珠子参多糖具有减缓
+H9c2细胞中由H2O2诱导的氧化应激损伤的潜力，为今
+后红参多糖和珠子参多糖的进一步综合开发利用提
+供一定的科学依据和参考价值。
+参考文献  2
+1
+Wang N, Wang X L, He M J, et al. Ginseng polysaccharides: A 
+potential neuroprotective agent. J Ginseng Res, 2021, 45(2):211-217.
+2
+Zhao B, Lv C N, Lu J C. Natural occurring polysaccharides from Panax 
+ginseng C. A. Meyer: A review of isolation, structures, and 
+bioactivities. Int Biol Macromol, 2019, 133:324-336.
+3
+Yoo S H, Jane J L. Molecular weights and gyration radii of 
+amylopectins 
+determined 
+by 
+high-performance 
+size-exclusion 
+chromatography equipped with multi-angle laser-light scattering and 
+refractive index detectors. Carbohydr Polym, 2002, 49(3):307-314.
+4
+Arnous A, Meyer A S. Quantitative prediction of cell wall 
+polysaccharide composition in grape (Vitis vinifera L.) and apple 
+(Malus domestica) skins from acid hydrolysis monosaccharide profiles. 
+J Agric Food Chem, 2009, 57(9):3611-3619.
+5
+Sun L W, Feng K, Jiang R, et al. Water-soluble polysaccharide from 
+Bupleurum chinense DC: Isolation, structural features and antioxidant 
+activity. Carbohydr Polym, 2010, 79(1):180-183.
+6
+Pugh N, Ross S A, ElSohly H N, et al. Isolation of three high molecular 
+weight polysaccharide preparations with potent immunostimulatory 
+activity from Spirulina platensis, aphanizomenon flos-aquae and 
+Chlorella pyrenoidosa. Planta Med, 2001, 67(8):737-742.
+7
+Ruiter G A D, Schols H A, Voragen A G, et al. Carbohydrate analysis 
+of water-soluble uronic acid-containing polysaccharides with high-
+performance anion-exchange chromatography using methanolysis 
+combined with TFA hydrolysis is superior to four other methods. Anal 
+Biochem, 1992, 207(1):176-185.
+8
+Meseguer I, Boix M, Para M C, et al. Optimization of hydrolysis 
+conditions for the identification of uronic acids in fruit using high-
+performance liquid chromatography. J Anal Chem, 1999, 54(5):428-433.
+9
+张建, 卢凯, 石晶, 等 . 多糖部分降解产物在板蓝根颗粒多糖成分分
+析中的应用. 河北大学学报(自然科学版), 2021, 41(1):40-46.
+10 孙晓玲 . 人参茎叶多糖提取工艺的研究 . 食品研究与开发, 2020, 
+41(6):95-98.
+11 Li L F, Wong T L, Zhang J X, et al. An oligosaccharide-marker 
+approach to quantify specific polysaccharides in herbal formula by LC-
+qTOF-MS: Danggui Buxue Tang, a case study. J Pharm Biomed Anal, 
+2020, 185:113235.
+12 Deng Y, Chen L X, Han B X, et al. Qualitative and quantitative 
+analysis of specific polysaccharides in Dendrobium huoshanense by 
+using saccharide mapping and chromatographic methods. J Pharm 
+Biomed Anal, 2016, 129:163-171.
+13 席璟睿, 张懿琳, 吴梦琪, 等. 基于化学计量学的枸杞多糖部分酸水解
+产物PMP-HPLC指纹图谱. 食品工业科技, 2021, 42(18):268-275.
+14 Wong T L, Li L F, Zhang J X, et al. Oligosaccharide-marker approach 
+for qualitative and quantitative analysis of specific polysaccharide in 
+herb formula by ultra-high-performance liquid chromatography-
+quadrupole-time-of-flight mass spectrometry: Dendrobium officinale, 
+a case study. J Chromatogr A, 2019, 1607:460388.
+15 Han X Q, Chan B C L, Yu H, et al. Structural characterization and 
+immuno-modulating activities of a polysaccharide from Ganoderma 
+sinense. Int J Biol Macromol, 2012, 51(4):597-603.
+16 Da J, Wu W Y, Hou J J, et al. Comparison of two officinal Chinese 
+pharmacopoeia species of Ganoderma based on chemical research with 
+multiple technologies and chemometrics analysis. J Chromatogr A, 
+2012, 1222:59-70.
+17 Zhong W F, Tong W S, Zhou S S, et al. Qualitative and quantitative 
+characterization of secondary metabolites and carbohydrates in Bai-
+Hu-Tang using ultraperformance liquid chromatography coupled with 
+quadrupole time-of-flight mass spectrometry and ultraperformance 
+liquid chromatography coupled with photodiode array detector. J Food 
+Drug Anal, 2017, 25(4):946-959.
+18 Amicucci M, Galermo A, Nandita E, et al. A rapid-throughput 
+adaptable method for determining the monosaccharide composition of 
+polysaccharides. Int J Mass Spectrom, 2018, 438:22.
+19 Wang W Z, Chen F, Zheng F P, et al. Optimization of synthesis of 
+carbohydrates 
+and 
+1-phenyl-3-methyl-5-pyrazolone 
+(PMP) 
+by 
+response surface methodology (RSM) for improved carbohydrate 
+detection. Food Chem, 2020, 309:125686.
+20 梁宇庭, 周骏辉, 南铁贵, 等 . 柱前衍生化 UPLC-MS/MS 测定 12 种
+单糖含量的方法学研究及其应用 . 中国中药杂志, 2018, 43(22):
+4469-4473.
+21 Liu J, Wang H D, Yang F F, et al. Multi-level fingerprinting and 
+cardiomyocyte protection evaluation for comparing polysaccharides 
+from six Panax herbal medicines. Carbohydr Polym, 2022, 277:
+118867.
+517
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2023 第二十五卷 第二期 ★Vol. 25 No.2 
+Optimization of Extraction, Hydrolysis and Derivatization of Ginseng Polysaccharide and Comparative 
+Analysis of Monosaccharides of Its Related Species
+Li Shiwei
+1,2， Wei Wenlong
+2， Wu Yisong
+1,2， Wu Shifei
+2， Wu Menglei
+2， Guo Dean
+1,2
+(1. College of Pharmacy, Changchun University of Chinese Medicine, Changchun 130117, China；2. Shanghai 
+Research Center for Modernization of Traditional Chinese Medicine, National Engineering Research Center for 
+TCM Standardization Technology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 
+Shanghai, 201203, China)
+Abstract: Objective To optimize the extraction, hydrolysis and derivatization processes of Ginseng polysaccharides, 
+and to investigate the monosaccharide composition and antioxidant stress activity of ginseng and related species 
+polysaccharides. Methods The extraction process of polysaccharide was optimized by orthogonal test. The content of 
+total polysaccharide was determined by phenol-sulfuric acid method. Hydrolysis and derivatization conditions were 
+investigated by single factor experiment, and monosaccharide composition was analyzed. Oxidative stress injury model 
+was established to evaluate the antioxidant stress activity of Panax ginseng polysaccharides. Results The optimal 
+extraction conditions were 100℃, 4 h, solid-liquid ratio 1∶15, ethanol concentration 85%. The total polysaccharide 
+content ranged from 14.59% to 35.58%. Hydrolysis: the concentration of trifluoroacetic acid was 2 mol·L
+-1, 110℃ for 
+5 h; Derivatization: PMP concentration 0.3 mol·L
+-1 reaction at 70℃ for 30 min; Main monosaccharide composition: 
+rhamnose, galacturonic acid, glucose, galactose, arabinose. The cell activity and the relative contents of GSH-Px and 
+SOD increased, while the relative contents of malondialdehyde decreased. Conclusion The types of monosaccharides in 
+Panax species were similar, but the content of monosaccharides have differences. Among those polysaccharides, and Red 
+ginseng and Panax japonicus exhibited the potential of mitigating H2O2-induced oxidative stress injury in H9c2 cells. 
+The results provide a reference for the development and utilization of polysaccharide from Panax species. 
+Keywords: Process optimization, Panax Polysaccharide, Monosaccharide composition, Antioxidant stress
+（责任编辑：刘玥辰）
+                    
+518

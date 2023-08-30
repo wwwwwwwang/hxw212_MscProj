@@ -1,0 +1,370 @@
+微循环学 杂志 ，2017 ，27（3） ：5 － 10
+○C 　 ２０１７ 　 CHINESE JOURNAL OF MICROCIRCULATION
+　
+doi ：１０ ．３９６９／j ．issn ．１００５ － １７４０ ．２０１７ ．０３ ．００２
+微循环学 杂志
+２０１７ 年第 ２７ 卷第 ３ 期
+基础与实验 　 磾
+人参 皂 苷 Rb1 后 处 理 对 大 鼠 缺 血 海 马 磷 酸 化 蛋 白 激
+酶 C 信 号通 路的 干预 作用 倡
+　 　 陆学海
+１ ，３ 　 杨建宇
+１ 　 李 　 娜
+１ 　 郭 　 英
+１ 　 杨春艳
+１ 　 赵丽琴
+１ 　 蒲里津
+２ 　 罗海芸
+１ ，＃
+　 　 ［中图分类号］ 　 R２８５ ．５ 　 　 ［文献标识码］ 　 A 　 　 ［文章编号］ 　 １００５ － １７４０（２０１７）０３ － ０００５ － ０６
+　 　 【摘要】 　 目的 ：探讨人参皂苷 Rb１（GS‐Rb１）后处理对缺血海马磷酸化蛋白激酶 C（P‐PKC ）的干预作用 。 方
+法 ：７２ 只健康雄性 SD 大鼠按随机数字法分为 ６ 组 ，每组 １２ 只 ，即假手术组（Sham 组） ，局灶脑缺血模组 （MCAO
+组） ，GS‐Rb１ 后处理（低剂量 ２５mg ／kg 、中剂量 ５０mg／kg 、高剂量 １００mg／kg）组和尼莫地平（１mg／kg）对照组（Nim
+组） 。 各药物干预组于成模后 ４h 一次性腹腔给药 ，Sham 组 、MCAO 组给予等量生理盐水 。 ２０h 后取各组大鼠海马
+组织 ，采用免疫组织化学及 Western Blotting 分别检测其 CA１ 区神经元细胞的 PKC 、P‐PKC 蛋白表达量 。 结果 ：
+PKC 蛋白无论采用免疫组织化学或 Western Blotting 检测 ，其结果在各组间差异均无统计学意义（P ＞ ０ ．０５） 。 P‐
+PKC 无论采用免疫组织化学或 Western Blotting 检测 ，其结果在各组间均有显著差异 （P ＜ ０ ．０１） ；MCAO 组 P‐
+PKC 蛋白表达显著少于 Sham 组（P＜ ０ ．０１） ，不同 GS‐Rb１ 各剂量组 P‐PKC 蛋白表达均较 MCAO 组增加（P＜ ０ ．
+０５） ，尤以高剂量 GS‐Rb１ 组更加明显 ，其水平接近 Nim 组（P＞ ０ ．０５） 。 结论 ：GS‐Rb１ 后处理可上调缺血海马 P‐
+PKC 蛋白表达 ，发挥脑保护作用 。
+【关键词】 　 人参皂苷‐Rb１ ；脑缺血 ；海马 ；蛋白激酸 C 　 　 　 　 　
+Effects of Ginsenoside Rb1 on Phosphorylation PKC Signaling Pathways after Ischemic Hippocampus
+in Rats
+LU Xue‐hai
+１ ，３ ，YANG Jian‐yu
+１ ，LI Na
+１ ，GUO Ying
+１ ，YANG Chun‐yan
+１ ，ZHAO Li‐qin
+１ ，PU Li‐
+jin
+２ ，LUO Hai‐yun
+１ ，＃
+１ Department of Pharmacology ，School of Basic Medicine ，Kunming ６５０５００ ，China ；
+２ Department
+of Cardiology ，First Affiliated Hospital of Kunming Medical University ，Kunming ６５０５００ ，Chi‐
+na ；
+３ Second People＇s Hospital of Qujing ６５５０００ ，China ；
+＃ Corresponding author
+【Abstract】 　 Objective ：To explore effects of ginsenoside rb１ on phosphorylation PKC signaling pathways after
+Ischemic Hippocampus in Rats ．Method ：７２ healthy and male Sprague‐Dawley rats were randomly divided into ６
+groups ：sham group ，MCAO group ，GS‐Rb１ at low‐dose group （ ２５mg ／kg ） ，GS‐Rb１ at medium‐dose group （
+５０mg／kg ） ，GS‐Rb１ at high‐dose group （１００mg／kg ） ，nimodipine group （ １mg／kg ） ．Different drugs were admin‐
+istrated by intraperitoneal at ４h after ischemia ．Sham group and model group were given equal volume of saline ．The
+hippocampi were taken at ２０h after operation The expression of PKC and P‐PKC in hippocampal CA１ were detected
+respectively by immunohistochemistry and Western Blotting ．Results ：Immunohistochemistry and Western Blotting
+showed that the expression of PKC were no statistical difference among all groups （P＞ ０ ．０５） ．Immunohistochemistry
+and Western Blotting showed that the expression of P‐PKC in MCAO group was less than that of sham group （P＜
+０ ．０１） ．GS‐Rb１ dose‐dependently increased the expression of P‐PKC （P＜ ０ ．０５） ，especially at high‐dose PNS‐Rb１
+倡 ［基金项目］　 ２０１６ 年云南省科技厅‐昆明医科大学联合专项基金 （２０１６LZ０３５）
+［作者单位］　 昆明医科大学 ，昆明 ６５０５００ ，１ 基础医学院药理学系 ；２ 昆明医科大学第一附属医院心内科 ，昆明 ，６５０５００ ；３ 云南省
+曲靖市第二人民医院 ，曲靖市 ６５５０００ ；＃ 通讯作者 ，E‐mail ：luohaiyun１２＠ １６３ ．com
+本文 ２０１７‐０４‐２６ 收到 ，２０１７‐０６‐２３ 修回
+万方数据
+group ，which were similar to that of nimodipine ．Conclusion ：Our data suggest that ginsenoside Rb１ may be an effec‐
+tive drug for neuroprotection by the up‐regulation of P‐PKC ．
+【Key words】 　 GS‐Rb１ ；Cerebral ischemia ；Hippocampus ；PKC
+微循环学 杂志
+２０１７ 年第 ２７ 卷第 ３ 期
+基础与实验 　 磾
+　 　 脑缺血所致脑异常微环境在脑损伤后发挥的巨
+大作用逐渐为人们所认识
+［１ ，２］ ，海马是脑缺血时较
+易受损的神经组织之一
+［３］ 。 而细胞信号转导在脑缺
+血中的作用日益受到重视 ，蛋白激酶 C （PKC）作为
+细胞信号转导途径中的重要物质 ，其 PKCγ 、PKCδ
+的异常表达在脑缺血再灌注病理机制中扮演重要角
+色
+［６ ，７］ 。 如何在应激过程中触发蛋白激酶级联反
+应 ，包括 PKC 和钙离子／钙调蛋白依赖性蛋白激酶
+Ⅱ （Ca
+２ ＋ ／Calmodulin‐dependent Kinase Ⅱ ，CaMK
+Ⅱ ） ，使其磷酸化后发挥生理调节作用 ，改善神经突
+触可塑性和行为 ，对脑保护作用非常重要 。
+已有研究表明 ，人参总皂苷（Ginsenoside ，GS ）
+能从多个环节对脑血管发挥保护性作用 ，人参皂苷
+Rb１ （GS‐Rb１） 是其抗脑缺血的活性成分
+［４ ，５］ 。 但
+目前未见 GS‐Rb１ 对异常微环境内 PKC 磷酸化发
+挥脑保护作用的相关报道 。 本文采用大脑局灶性脑
+缺血（MCAO）模型 ，研究不同剂量 GS‐Rb１ 后处理缺血
+海马神经元细胞 PKC 、磷酸化 PKC（P‐PKC）蛋白表达
+的干预作用 ，为其临床应用提供新的理论依据 。
+1 　 材料与方法
+1 ．1 　 实验动物
+７２ 只健康成年 SD 大鼠 ，雄性 ，体重 ２５０ － ３００
+g ，SPF 级 ，购自湖南斯莱克景达实验动物有限公
+司 ，动物许可证号 ：SCXK （湘）２０１３ － ０００４ 。 在室温
+２５ ℃ ，湿度 ４５％ 环境喂养 ，每日 １２h 光照 ，术前禁
+食 １２h ，术后自由进食和饮水 。
+1 ．2 　 主要药品和试剂
+GS‐Rb１ 购自昆明制药集团 ，为白色粉末（纯度
+＞ ９８ ．５７％ ，批号 １１０７０４‐２００３１８） ，实验时取 １g 加
+７５％ 乙醇 ２ ．５ml ，混匀后用蒸馏水使其充分溶解 ，并
+定容至 １００ml 备用 。 尼莫地平（Nimodipine ，Nim ，
+批号 ：BXH５SZ１）注射液由德国拜耳先灵医药保健
+股份公司提供 ，每瓶 ５０ml ，含药 １０mg 。 兔单克隆一抗
+PKC 和 P‐PKC（１ ∶ ５ ０００）购自 Abcam 公司 ，山羊抗兔
+IgG 购自中杉金桥生物技术有限公司 。
+1 ．3 　 大鼠局灶性脑缺血（MCAO）模型的复制
+所有实验大鼠腹腔注射 ３％
+戊巴比妥钠 （３０
+ml／kg）麻醉 ，头顶部剪毛 ，消毒 。 左侧仰卧固定 ，于
+右侧外眦后方约 ０ ．４cm 处 ，垂直于右眼裂 ，用手术
+刀切开皮肤约 ０ ．４ － ０ ．５cm ，暴露颞肌并用组织剪剪
+开其腱膜 ；用止血钳和手术镊钝性分离肌肉至颞骨 ，
+而后用牙科钻轻轻磨穿颅骨 ，再用咬骨钳小心扩大
+颅窗 ，充分暴露大脑中动脉 。 其中 ６０ 只用高频电刀
+凝闭大脑中动脉 ，制备右侧大脑局灶性缺血模型
+（MCAO）
+［８］ 。 另 １２ 只不予凝闭中动脉 。 术后缝合
+皮肤 ，单笼饲养（注意保暖） 。 术后 ４h 对手术造模
+的 ６０ 只大鼠根据 Bederson 评分标准
+［９］进行评分（０
+分 ：无神经功能缺损症状 ；１ 分 ：对侧前肢屈曲 ；２
+分 ：拉尾时其对侧前肢抓力减弱 ；３ 分 ：无定向运动 ，
+提尾时向其对侧转圈 ；４ 分 ：自发转向其对侧且伴随
+意识障碍） ，其分值 ＞ ２ 分 ，确认成模 ，进入后续实
+验 。 本实验中 ６０ 只造模大鼠全部造模成功 。
+1 ．4 　 动物分组与给药
+６０ 只 MCAO 模型大鼠按随机数字表法分为 ５
+组（每组 １２ 只） ：即 MCAO 组 ，GS‐Rb１ 低剂量组
+（２５mg／kg ） 、中 剂 量 组 （５０mg／kg ） 、高 剂 量 组
+（１００mg ／kg） ，Nim 组 （１mg／kg ） ；１２ 只非模大鼠作
+为假手术组（Sham 组） 。 ４h 后药物组大鼠均一次性
+腹腔注射给药 ，Sham 组和 MCAO 组给予等量生理
+盐水 。 给药后喂养 ２０h ，断头取脑 ，迅速分离右侧大
+脑海马组织 ，液氮保存 。
+1 ．5 　 免疫组化染色法和 Western Blotting 检测
+PKC 和 P‐PCK 蛋白表达
+从液氮中取出各组海马组织 ，常规复苏后进行
+以下检测 。
+1 ．5 ．1 　 免疫组化染色 ：取各组海马组织 ，于 ４％ 多
+聚甲醛 ４ ℃ 固定 ２４h 后转入由 ０ ．１M PBS 配制的
+３０％ 蔗糖溶液中 ，行冰冻切片（约 １０μm） 。 将切片
+放入盛有 ０ ．１M PB 的 ２４ 孔板中 。 ０ ．０１M 柠檬酸
+缓冲液微波修复 ，然后加相应的一抗 （PKC 和 P‐
+PKC）和二抗 。 DAB 显色 ，光镜观察每组切片中海
+马 CA１ 区 ５ 个视野 ，用 HPIAS‐１０００ 病理图像分析
+系统 ，半定量分析 PKC 和 P‐PKC 蛋白表达 。 海马
+神经元细胞 PKC 和 P‐PKC 蛋白阳性表达者呈棕色 ，
+分布于胞浆及胞膜 ，其表达强度用阳性细胞的平均灰
+度值表示 ，该灰度值越低 ，则阳性蛋白表达越强 。
+1 ．5 ．2 　 Western Blotting ：取各组海马组织 ，加入蛋
+白裂解液 ，采用循环流动式超声波仪制备组织匀浆 ，
+用蛋白质定量试剂盒（BCA 法）测定蛋白浓度 ，制备
+6
+　 陆学海 ，杨建宇 ，李 　 娜 ，等 　
+万方数据
+１０％ 的 SDS‐PAGE 下层分离胶和 ５％ 的上层压缩
+胶 ，上样量 ４０μg ，转膜 ３５min ，５％
+脱脂奶粉封闭
+２h 。 加兔单克隆一抗 PKC 和 P‐PKC（１ ∶ ５ ０００） ，
+４ ℃ 孵育过夜 ，加入二抗抗兔室温下孵育 １ ．５h ，曝
+光洗片 ，扫描图像后用 Image J １ ．４ ．３ ．６７ 软件计算
+各条带的平均灰度值 ，灰度值越大 ，阳性蛋白表达越
+多 。 以 β‐actin 为内参 ，以待检样本与 β‐actin 条带
+灰度值的比值表示该样本目标蛋白的相对表达量 。
+1 ．6 　 统计学处理
+采用 SPSS １７ ．０ 统计学软件 。 计量资料均呈
+正态分布 ，且方差齐 ，用均值 ± 标准差（珚x ± s）表示 ，
+多组间比较行单因素方差分析 ，两两比较用 t 检验 。
+P＜ ０ ．０５ 为差异有统计学意义 。
+2 　 结果
+2 ．1 　 各组大鼠海马 CA１ 区 PKC 蛋白表达
+2 ．1 ．1 　 免疫组织化学结果 ：如图 １ 、２ 所示 ，各组海
+马神经元细胞 PKC 蛋白表达阳性细胞（棕色）数量
+和形态比较接近 ，各组阳性细胞平均灰度值差异亦
+无统计学意义（F＝ ０ ．３７０４ ，P＞ ０ ．０５） 。
+注 ：海马神经元 PKC 蛋白阳性细胞呈棕色 ，位于细胞膜和细胞浆中 ，各组阳性细胞数目和形态相近
+图 1 　 各组大鼠右脑海马 CA1 区 PKC 蛋白表达（免疫组化 ，× 100）
+2 ．1 ．2 　 Western Blotting 检测结果 ：如图 ３ 所示 ，
+各组海马神经元细胞 PKC 蛋白表达（相对表达量）
+差异无统计学意义（F＝ ０ ．０３９７ ，P＞ ０ ．０５） 。
+图 2 　 各组 PKC 表达阳性细胞平均灰度值
+图 3 　 各组大鼠右脑海马 CA1 区 PKC
+蛋白表达（Western Blotting）
+微循环学 杂志
+２０１７ 年第 ２７ 卷第 ３ 期
+基础与实验 　 磾
+7
+　 人参皂苷 Rb1 后处理对大鼠缺血海马磷酸化蛋白激酶 C信号通路的干预作用 　
+万方数据
+微循环学 杂志
+２０１７ 年第 ２７ 卷第 ３ 期
+基础与实验 　 磾
+2 ．2 　 各组大鼠海马 CA１ 区 P‐PKC 蛋白表达
+2 ．2 ．1 　 免疫组织化学结果 ：各组海马神经元细胞的
+P‐PKC 蛋白表达阳性细胞（棕色）数量和形态则有
+明显变化 ，MCAO 组海马神经元细胞中 P‐PKC 阳
+性细胞数量较 Sham 组少 ，海马细胞排列稀疏 ，细胞
+间隙增宽 ，大部分细胞水肿变形 ，核固缩 ；GS‐Rb１
+低剂量组海马细胞形态比模型组有所改善 ，但细胞
+仍排列稀疏 ，间隙增宽 ；GS‐Rb１ 中剂量组细胞形态
+改善但间隙还是较宽 ；GS‐Rb１ 高剂量组阳性细胞
+数较中剂量组增多 ，细胞形态改善明显 ，与 Nim 组
+相似 ，见图 ４ 。 定量分析显示各组阳性细胞平均灰
+度值差异有统计学意义 （ F ＝ ３３ ．４１ ，P ＜ ０ ．０１） ；
+MCAO 组阳性细胞平均灰度值显著高于 Sham 组
+（t ＝ ６ ．７２５ ，P ＜ ０ ．０１） ，GS‐Rb１ 低剂量 － 高剂量组
+平均灰度值均低于 MCAO 组（t ＝ ２ ．１９１ 、４ ．６９８ 、７ ．
+６４１ ，P 均 ＜ ０ ．０５） ，GS‐Rb１ 高剂量组平均灰度值与
+Nim 组差异无统计学意义（t ＝ ０ ．８１４７ ，P ＞ ０ ．０５） 。
+见图 ５ 。
+注 ：海马神经元 P‐PKC 蛋白阳性细胞呈棕色 ，位于细胞膜和细胞浆中
+图 4 　 各组大鼠右脑海马 CA1 区 P‐PKC 蛋白表达（免疫组化 ，× 100）
+注 ：与 Sham 组比较 ，倡 P ＜ ０ ．０１ ；与 MCAO 组比较 ，＃ P＜ ０ ．０５ ，
+Δ P ＜ ０ ．０１
+图 5 　 各组 P‐PKC 表达阳性细胞平均灰度值
+2 ．2 ．2 　 Westeon Blotling 检测结果 ：如图 ６ 所示 ，
+各组海马神经元细胞 P‐PKC 蛋白表达（相对表达
+量）差异有统计学意义 （ F ＝ ４３ ．３３ ，P ＜ ０ ．０１ ） ；
+MCAO 组明显低于 Sham 组（t ＝ ３３ ．５１ ，P ＜ ０ ．０１） ，
+GS‐Rb１ 各剂量组均较 MCAO 组增加 （t ＝ ３ ．９５５ 、
+８ ．９２８ 、１１ ．５３ ，P＜ ０ ．０５ ，P＜ ０ ．０１） ，GS‐Rb１ 高剂量
+组的增加与 Nim 组相似（t ＝ ０ ．６５４５ ，P＞ ０ ．０５） 。
+3 　 讨论
+Rg１ 和 Rb１ 是 GS 的主要活性组分 ，以 GS‐
+Rb１ 生物利用度高
+［１０］ 。 研究表明 GS‐Rb１ 具有钙
+通道阻滞剂样和抗氧化自由基作用 ，能显著促纤溶 ，
+降低纤维蛋白原水平 ，抗血小板聚集 ，减少血栓形成
+和动脉硬化作用等 ，对防治心脑血管疾病具有积极
+意义
+［１１ － １３］ 。
+8
+　 陆学海 ，杨建宇 ，李 　 娜 ，等 　
+万方数据
+注 ：与 Sham 组比较 ，倡 P ＜ ０ ．０１ ；与 MCAO 组比较 ，＃ P＜ ０ ．０５ ，
+Δ P ＜ ０ ．０１
+图 6 　 各组大鼠右脑海马 CA1 区 P‐PKC 蛋白表达（Western Blotting）
+　 　 PKC 属于多功能丝氨酸和苏氨酸激酶 ，在中枢
+神经系统广泛分布 ，是许多信号传导通路的汇聚点 ，
+可启动和调节信号转导 。 研究认为 ，PKC 磷酸化能
+促进新合成的 PKC 稳定性 ，P‐PKC 活性调节主要
+通过 DAG 和钙离子等诱导变构而暴露其 kinase 区
+来实现 ，可保护神经细胞免受氧化应激损伤
+［１４］ 。 在
+缺血性脑损害过程中可能有多种 PKC 同工酶参
+与 ，PKC 的活性和表达变化与脑组织缺血紧密相
+关 ，尤其中枢神经系统的缺血损伤
+［１５ － １７］ 。 本实验在
+大鼠右脑缺血后 ４ h 实施 GS‐Rb１ 干预 ，观察其不
+同剂量干预 ２０ h 后 ，大鼠海马 CA１ 区 PKC 及 P‐
+PKC 蛋白表达水平变化 。 结果显示 ，P‐PKC 蛋白
+表达在 MCAO 组明显低于 Sham 组 ，而随着 GS‐
+Rb１ 干预剂量增加 ，P‐PKC 蛋白表达逐渐增加 ，其
+作用与 Nim 相似 。 提示 GS‐Rb１ 可通过 PKC 磷酸
+化使脑损伤减轻 ，从而对脑缺血神经元起到保护作
+用 。 本文结果表明 GS‐Rb１ 可作为 P‐PKC 的非特
+异性激活剂 ，通过提高 PKC 磷酸化水平 ，减少神经
+元凋亡或坏死 ，改善缺血性脑损害 ，发挥脑保护作
+用 。 但 GS‐Rb１ 上述作用的确切机制尚需进一步研
+究 。
+磼
+本文第一作者简介 ：
+陆学海（1991 － ） ，男 ，汉族 ，硕士研究生 ，从事心脑血管疾病的防治
+研究
+注 ：杨建宇与第一作者具有同等贡献
+微循环学 杂志
+２０１７ 年第 ２７ 卷第 ３ 期
+基础与实验 　 磾
+参
+考
+文
+献
+１ 　 Kong LL ，Wang ZY ，Hu JF ，et al ．Inhibition of chemokine‐like
+factor １ protects against focal cerebral ischemia through the pro‐
+motion of energy metabolism and anti‐apoptotic effect ［J］ ．Neu‐
+rochemistry International ，２０１４ ，７６（１０） ：９１ － ９８ ．
+２ 　 王时云 ，罗海芸 ，吴兰鸥 ．三七皂苷改善实验性脑异常微环境及
+机制研究进展［J］ ．中国实验方剂学杂志 ，２０１３ ，１９ （１ ） ：３２８ －
+３３２ ．
+３ 　 詹合琴 ，杨锦南 ，吴蓝鸥 ，等 ．三七皂苷 Rg１ 对脑缺血后海马
+CA１ 和 CA３ 区 BDNF 蛋白的干预 ［J］ ．中成药 ，２００６ ，２８ （５ ） ：
+７３９ － ７４１ ．
+４ 　 Zhang HS ，Wang SQ ．Notoginsenoside R１ from Panax notogin‐
+seng ，inhibits T NF‐α‐induced PAI‐１ production in human aortic
+smooth muscle cells［J］ ．Vascular Pharmacology ，２００６ ，４４ （４ ） ：
+２２４ － ２３０ ．
+５ 　 Zhang W ，Chen G ，Deng CQ ．Effects and mechanisms of total
+Panax notoginseng saponins on proliferation of vascular smooth
+muscle cells with plasma pharmacology method ［J ］ ．Journal of
+Pharmacy and Pharmacology ，２０１２ ，６４（１） ：１３９ － １４５ ．
+６ 　 Aronowski J ，Labiche LA ．Perspectives on reperfusion‐induced
+damage in rodent models of experimental focal ischemia and role
+of gamma‐protein kinase C［J］ ．Ilar Journal ，２００３ ，４４（２） ：１０５ －
+１０９ ．
+７ 　 Miettinen S ，Roivainen R ，Keinnen R ，et al ．Specific induction
+of protein kinase C delta subspecies after transient middle cere‐
+bral artery occlusion in the rat brain ：inhibition by M K‐８０１［J］ ．
+Journal of Neuroscience the Official Journal of the Society for
+Neuroscience ，１９９６ ，１６（１９） ：６ ２３６ － ６ ２４５ ．
+８ 　 罗 　 燕 ，许能贵 ，易 　 玮 ，等 ．电针对局灶性脑缺血大鼠缺血灶
+周围区星形胶质细胞谷氨酸转运体的影响［J］ ．安徽中医药大学
+学报 ，２００９ ，２８（１） ：３０ － ３３ ．
+９ 　 Peng B ，Guo QL ，He ZJ ，et al ．Remote ischemic postcondition‐
+ing protects the brain from global cerebral ischemia ／reperfusion
+injury by up‐regulating endothelial nitric oxide synthase through
+the PI３K ／Akt pathway ［J］ ．Brain Research ，２０１２ ，１ ４４５（２） ：９２
+－ １０２ ．
+１０ 　 胡锦芳 ，温金华 ，蒋丽华 ．复方血栓通片中人参皂苷 Rb１ 与
+9
+　 人参皂苷 Rb1 后处理对大鼠缺血海马磷酸化蛋白激酶 C信号通路的干预作用 　
+万方数据
+Rg１ 在大鼠体内的药代动力学研究 ［J］ ．南昌大学学报 （医学
+版） ，２０１１ ，５１（１１） ：６ － ９ ．
+１１ 　 Zhong GG ，Sun CW ，Li YY ，et al ．Calcium channel blockade and
+anti‐free‐radical actions of panaxadiol saponins Rb １ ，Rb２ ，Rb３ ，
+Rc ，and Rd［J］ ．Acta Pharmacologica Sinica ，１９９５ ，１６（３） ：２５５ －
+２６０ ．
+１２ 　 周家明 ，叶祖光 ，崔秀明 ，等 ．三七皂苷 R１ 、R２ 和人参皂苷
+Rb１ 药效学研究［J］ ．中成药 ，２０１０ ，３２（９） ：１４９４ － １４９７ ．
+１３ 　 Sunwoo YY ，Park SI ，Chung YA ，et al ．A pilot study for the
+neuroprotective effect of gongjin‐dan on transient middle cere‐
+bral artery occlusion‐induced ischemic rat brain ［J ］ ． Evidence‐
+Based Complementray and Alternative Medicine ，２０１２ ，２０１２ ：
+６８２７２０ ．
+１４ 　 姜恩平 ．蒺藜皂苷对脑缺血再灌注损伤的保护作用及其机制的
+研究［D］ ．吉林大学 ，２０１０ ：１５ － ２６ ．
+１５ 　 Ni S ，Chen L ，Mei L ，et al ．PKC iota promotes cellular prolif‐
+eration by accelerated G１／S transition via interaction with CDK ７
+in esophageal squamous cell carcinoma ［J ］ ． Tumor Biology ，
+２０１６ ，３７（１０） ：１ － １１ ．
+１６ 　 Wu D ，Wang J ，Li H ，et al ．Role of hydrogen sulfide in ische‐
+mia‐reperfusion injury ［J］ ．Oxidative Medicine & Cellular Lon‐
+gevity ，２０１５ ，２０１５（１６） ：１８６９０８ ．
+１７ 　 Krupska O ，Sarnowska A ，Fedorczyk B ，et al ．Ischemia／reper‐
+fusion‐induced translocation of PKCβII to mitochondria as an
+important mediator of a protective signaling mechanism in an is‐
+chemia‐resistant region of the hippocampus ［J］ ．Neurochemical
+Research ，２０１７ ，４２（８） ：２ ３９２ － ２ ４０３ ．
+地理因子对健康汉族人群左心室结构的影响研究
+本刊编委 ，陕西师范大学健康地理研究所葛淼教授（通讯作者）指导硕士研究生岑敏仪（第一作者）在枟International Jour‐
+nal of Biometeorology枠（２０１７ ，６１（２） ：３０３ － ３１１ ，IF ：３ ．２４６）发表了题为＂The effect of geographical indices on left ventricular
+structure in healthy Han Chinese population＂的研究论文 ，主要内容如下 ：
+1 　 研究背景和目的 ：左心室后壁厚度（LVPWT ）和室间隔厚度（iIVST ）是评价左心室肥厚程度的重要参数 ，且在慢性适
+应压力和容量超负荷的系统性循环中起着核心作用 ，是心血管疾病的独立危险因子 。 左心室肥大可以是心肌对有氧运动和
+力量训练的自然反应 ，也可以是对心血管疾病和高血压的病理反应 。 目前针对地理环境对健康成年人左心室结构的影响研
+究仍然不足 ，本文旨在通过评估地理因子对健康成年人的左心室结构的影响 ，从而为中国健康成年人的左心室结构指标提供
+统一的参考值范围 。
+2 　 方法 ：选取地形 、气候 、土壤三大类地理因子 １５ 项地理指标作为地理解释因子 。 运用空间自相关方法探索 LVPWT
+和 iIVST 两项医学指标在地理空间上的观测数据之间潜在的相互依赖性 ，运用相关分析方法定量分析左心室结构指标与地
+理因子之间的依赖关系 。 提取与左心结构指标相关关系显著的地理因子作为自变量 ，LVPWT 和 iIVST 参考值作为因变量 ，
+构建关于左心室结构指标参考值的预测模型 。 根据最佳预测模型 ，以全国 ２ ３２２ 个市县 、作为观测点 ，构建全国左心结构指标
+参考值数据库 ，并运用插值法绘制相关地理分布图 。
+3 　 结果 ：空间自相关的结果显示我国健康成年人的左心室结构参考值在地理空间上存在显著的自相关关系 ，即相邻地
+区的健康成年人左心室结构参考值较为相近 。 相关分析结果显示左心室结构指标与经度 、纬度 、海拔高度 、年平均气温 、平均
+风速 ，表土砂质百分率 、表土粉质百分率 、表土有机质含量和土壤碱度具有显著的相关关系 。 气候因素方面 ，左心室结构指标
+参考值的增加与海拔高度的增加 ，气温的升高 ，以及经度 、纬度和年平均风速的下降有显著的相关关系 。 土壤因素方面 ，左心
+室结构 LVPWT 和 iIVST 参考值的增加与表土粉质百分率 、表土有机质含量的增加以及表土砂质含量和表土碱度的下降有
+显著的相关关系 。 地理分布图显示 ，中国健康成年人的左心室结构两项指标参考值均呈现东低西高的变化趋势 。
+4 　 结论 ：中国健康成年人的左心室结构参考值与地理环境具有密切的相关关系 ，与中国的地理环境变化规律呈现较好
+的一致性 ，尤其是气候因子对人体左心室结构的影响尤为显著 ，土壤环境对其造成的影响也不容忽视 。
+微循环学 杂志
+２０１７ 年第 ２７ 卷第 ３ 期
+基础与实验 　 磾
+10
+　 陆学海 ，杨建宇 ，李 　 娜 ，等 　
+万方数据

@@ -1,0 +1,844 @@
+·
+·
+·
+·综
+综
+综
+综述
+述
+述
+述与
+与
+与
+与进
+进
+进
+进展
+展
+展
+展·
+·
+·
+·
+人参皂苷 Rg3 现代药理作用及作用机制的
+研究进展
+刘倩倩1,樊官伟1,2
+摘要:综述人参皂苷 Rg3 在癌症、心血管疾病和神经保护中的治疗作用及分子机制。人参皂苷 Rg3 主要存在于人参的根中,属于天
+然产物中的植物甾醇。人参皂苷 Rg3 主要具有抗肿瘤、抗心血管疾病、抗炎、抗病毒、神经保护等多种药理作用,可调节多种与疾病
+相关的信号转导途径和分子靶点,为包括癌症在内的多种疾病提供了一种安全有效的治疗药物。
+关键词:人参皂苷 Rg3;作用机制;癌症;心血管疾病;神经保护;综述
+doi:
+10.
+12102/j.
+issn.
+1672-1349.
+2022.
+13.
+012 
+  天然产物在治疗各种疾病方面具有独特的治疗效
+果。人参作为一种传统的中草药,对多种疾病都有防
+治作用。人参皂苷是人参的天然产物,具有良好的药
+理作用[1]。由于人参皂苷的化学结构和物理化学性质
+的多样性,不同皂苷具有不同的药理作用。最常被研
+究的是 Rb1、Rg1、Rg3、Re、Rd 和 Rh1。在这些人参皂
+苷中,Rg3 已被证明具有广泛的药理活性,包括抗肿
+瘤[2]、抗心血管疾病、抗炎、抗病毒、抗疲劳、抗抑郁和
+神经保护作用[3-7]。因此,本研究综述近年来关于 Rg3
+的临床和实验研究,并总结 Rg3 现代药理作用及其作
+用机制。
+1 人参皂苷 Rg3 的化学结构
+人参皂苷 Rg3 是 一 种 人 参 二 醇 四 环 三 萜 皂 苷。
+根据氢在碳 20(C20)上的定位,人参皂苷有两个立体
+异构体:20(S)和 20(R)。由于构型不同,两种结构的
+抗肿瘤活性也不同。
+1.1 抗肿瘤  癌 症 的 特 点 是 增 殖 不 受 控 制、抵 抗 凋
+亡、组织浸润和转移,以 及 持 续 的 血 管 生 成[8]。近 年
+来,人参皂苷 Rg3 已被证实可以抑制肿瘤血管生成,
+诱导肿瘤细胞凋亡,选择性抑制肿瘤细胞转移,提高机
+体免疫功能。总结通过体内和体外实验获得的人参皂
+苷Rg3的 抗 癌 活 性 ,根 据 现 有 研 究 ,概 述 Rg3对 肿 瘤
+基金项目 国家自然科学基金项目(No.81774050);天津杰出青年科学
+基金项目(No.17JCJQJC46200)
+作者单位 1.天津中医药大学组分中药国家重点实验室(天津 301617);
+2.天津中医药大 学 第 一 附 属 医 院,国 家 中 医 针 灸 临 床 研 究 中 心 (天 津
+300193)
+通讯作者 樊官伟,E-mail:guanwei.fan@tjutcm.edu.cn
+引用信息 刘倩倩,樊官伟.人参皂苷 Rg3 现代药理作用及作用机制的
+研究进展[J].中西医结合心脑血管病杂志,2022,20(13):2375-2381.
+的具体作用机制如下。
+1.1.1 抑制肿瘤增殖 正常体细胞的增殖能力有限,
+但最终细胞老化为非增殖状态。另一方面,肿瘤细胞
+可以避免衰老,并具有无限增殖的潜力。大量研究表
+明,Rg3 可以抑制肿瘤细胞的生长。通过上调活性氧
+(ROS)水平来抑制前列腺癌细胞系前列腺癌 PC3 细
+胞的生长来诱导细胞周期阻滞[9]。此外,Rg3 能够降
+低组蛋白去乙酰化酶 3(HDAC3),增加 p53 的乙酰化
+作用,从而阻止 A375 黑色素瘤的增殖[10]。Rg3 通过
+抑制 CCAAT 增 强 子 结 合 蛋 白 β(C/EBPβ)/核 转 录 因
+子-κB(NF-κB)信 号 通 路,对 3 种 人 结 直 肠 癌 细 胞 系
+(HCT116、HT29、SW480)的癌细胞增殖和裸鼠移植瘤
+生长均有抑制作用[11]。Rg3 在体内异种移植模型 中
+抑制肿瘤生长,并在体外中对结肠癌细胞系 HCT116
+细胞的增殖有明显的抑制作用[12]。并通过改变凋亡
+相关基 因 (Bcl-2、Caspase-3)和 磷 脂 酰 肌 醇 3-激 酶
+(PI3K)/蛋 白 激 酶 B(Akt)/哺 乳 动 物 雷 帕 霉 素 靶 蛋 白
+(mTOR)信号通路,诱导骨肉瘤细胞系(MG-63、U-2OS
+和 SaOS-2)的增殖[13]。另一项实验证实,Rg3 通过减
+少胰岛素样生长因子-1(IGF-1)的分泌和调节 Akt/mTOR
+通路 来 抑 制 多 发 性 骨 髓 瘤 细 胞 (U266、RPMI8226 和
+SKO-007)的增殖并诱导细胞凋亡(Bcl-2 相关蛋白失
+衡和 Caspase 激 活)
+[14]。 说 明 Rg3 可 能 通 过 靶 向
+PI3K/AKT/mTOR 信号通路和蛋白修饰来抑制肿瘤增殖。
+1.1.2 抑制肿瘤的转移和侵袭 肿瘤转移是指肿瘤从
+原发部位扩散到远端,是导致肿瘤治疗失败和病人死
+亡的主要原因。Rg3 对多种癌症具有抑制侵袭和转移
+的作用[15]。研究表明,Rg3 可以通过抑制 LncRNA 结
+肠癌相关转录本 1(CCAT1)的表达来抑制结肠癌的迁
+移和 侵 袭,影 响 凋 亡 相 关 蛋 白 (上 调 p53、Bax、
+Caspase-3,下调 Bcl-2 的表达),促进 Caco-2 细胞凋
+5·
+7
+3
+·2
+中西医结合心脑血管病杂志2022年7月第20卷第13期
+亡[16]。另有研究证实,20(S)
+-Rg3 可以通过上调脯氨
+酸羟化酶 结 构 域 蛋 白 1,从 而 降 低 缺 氧 诱 导 因 子 1α
+(HIF-1α)的表达,也可能降低 NF-κB 的表达,从而抑制
+人卵巢癌细胞系(SKOV3 和 3AO)的迁移[17]。此外,
+Liu 等[18]研究证实,20(S)
+-Rg3 激活泛素-蛋白酶体途
+径促进 HIF-1α降解,进而导致上皮细胞特异性标记钙
+黏蛋白 E(E-cadherin)上调,有效抑制卵巢癌细胞和卵
+巢癌异种移植模型的上皮-间充质转化(EMT)。类似
+结果表明,20(R)
+-Rg3 明显增加上皮标记的钙黏蛋白
+E 的表达,抑制 Snail 和间充质标记波形蛋白上调,抑
+制转化生长因子-β1(TGF-β1)诱导的 A549 肺癌细胞上
+皮-间充质转化,从而抑制肺癌迁移、侵袭和抗性。以
+上结果表明,Rg3 抑制肿瘤侵袭和迁移的作用可能与
+上皮-间充质转化的调控高度相关[19]。
+1.1.3 诱导肿瘤细胞凋亡 细胞的死亡和更新是多细
+胞生物整个生命过程中不可或缺的一重要环节。它能
+及时清除体内多余的受损细胞。研究表明,Rg3 对癌
+症模型 的 疗 效 常 与 凋 亡 标 志 物 的 增 加 有 关[20]。Sin
+等[21]报道 20(S)-Rg3 通过 Akt 和 p53/p21 依赖的信号
+通路上调胶质瘤细胞中衰老相关 β-半乳 糖苷酶的表
+达,诱导人胶质瘤癌衰老样生长阻滞。Rg3 诱导的肿
+瘤细胞凋亡与抑制 NF-κB 信号通路,可能是通过抑制
+NF-κB 与 FUT4 启动子的结合,降低 NF-κB 的易位和
+转录活性,下调 NF-κB 下游分子的表达[22]。热处理西
+洋参(HAG)产生的活性成分-20(S)-Rg3 促进人胃癌
+细胞凋亡通过调节 Bcl-2 和 Bax 的表达和激活。Rg3
+增加 Bax/Bcl-2,线粒体膜电位的去极化和细胞色素 C
+增加[23]。同样,介导的影响是通过降低细胞活力和线
+粒体膜电位,线粒体细胞色素 C 的释放,Caspase-3 和
+Bax 蛋白的表达增加,Bcl-2 蛋白的表达降低。以上研
+究证明 Rg3 诱导细胞凋亡的作用主要是针对 Bax/Bcl-2、
+Caspase 家 族、PI3K/Akt、p53/p21、NF-κB/FUT4 和 表
+皮生长因子受体(EGFR)信号通路的比例。
+1.1.4 抑制肿瘤血管生成 当肿瘤血管不受控制和不
+规则的形成时,肿瘤生长迅速。因此,抑制血管生成被
+认为是抑制肿瘤增殖和迁移的有效手段。胶质母细胞
+瘤是一种相对常见和致命的成人原发性脑肿瘤。低剂
+量节律学和替莫唑胺通过靶向血管生成治疗胶质母细
+胞瘤。低剂量节律学和替莫唑胺联合 Rg3 在大鼠 C6
+胶质瘤细胞中的应用对血管生成具有加性抑制作用,
+可增强低剂量节律学和替莫唑胺对胶质母细胞瘤的疗
+效[24]。Rg3 与导管动脉栓塞术(TAE)联合治疗可缩小
+肿瘤体积、微血管密度,减少肿瘤转移,抑制 CD31 和血
+管内皮生长因子受体 2(VEGF-R2)磷 酸 化 的 蛋 白 表
+达[25]。Rg3 联合吉西他滨治疗小鼠 Lewis 肺癌,不仅
+可增强对肿瘤生长的抑制作用,也可增加肿瘤坏死的
+速度,并明显减少血管内皮生长因子(VEGF)的表达,
+缩小微血管密度以及血流和收缩速度峰值(PSV)
+[26]。
+此外,Guo 等[27]认为 Rg3 通过下调血管内皮钙黏蛋白
+(VE-cadherin)、Ephrina 型受体 2(EphA-2)的表达,明
+显抑制胰腺癌中血管生成拟态的形成,基质金属蛋白
+酶-2(MMP-2)和 基 质 金 属 蛋 白 酶-9(MMP-9)蛋 白 及
+mRNA 水平。Chen 等[28]研究表明,Rg3 在缺氧条 件
+下作用于人食管癌细胞系 Eca-109 和 786-0 细胞,抑
+制缺氧诱导的 HIF-1α、环氧化酶-2(COX-2)和 NF-κB
+表达,降低 缺 氧 诱 导 的 信 号 转 导 和 转 录 激 活 因 子 3
+(STAT3)、细胞外调节蛋白激酶 1/2(ERK1/2)和 JNK
+磷酸化,下调 VEGF 表达,抑制肿瘤血管生成。Rg3 被
+认为可以 抑制内皮祖细胞(EPC)的增 殖、细 胞 迁 移、
+EPC 管形成,并在体外减弱 VEGF 依赖的 p38/细胞外
+调节蛋白激酶(ERK)信号的磷酸化级联,同时抑制肿
+瘤生长和调节 VEGF 依赖的肿瘤血管生成[29]。总之,
+Rg3 抑制血管生成的机制主要以 VEGF、p38/ERK 信
+号通路和 ephrin 受体为靶点。
+1.1.5 改善免疫功能 现代免疫学的发展表明,免疫
+功能的稳定性在肿瘤发生发展、转移、逆转和回归中起
+着重要作用。Rg3 缓解环磷酰胺(CTX)诱导免疫抑制
+通过增强巨噬细胞的吞噬,增加相关免疫因子的释放
+[免疫球蛋白 G(IgG)、白细胞介素-2(IL-2)、粒细胞集
+落刺激因子(G-CSF)]和 T 细胞活动,并调节 Th1/Th2
+CTX 诱导免疫抑制小鼠[30]。研究证实,肝细胞癌 H22
+移植肿瘤 20(S)-Rg3 和 20(R)-Rg3 治疗后的生长明
+显抑制,含 H22 的小鼠免疫更强,这可能是归因于刺
+激 Cona 诱导淋巴细胞增殖和增加 Th1 型细胞因子、IL-2
+和干扰素-γ(IFN-γ)
+[31]。Rg3 增强红参制剂(Rg3-RGP)对
+人非小细胞肺癌(H460)具有细胞毒性,促进体内淋巴
+细胞增殖,增强血液巨噬细胞的碳颗粒吞噬指 数,说
+明 Rg3-RGP通过间接增强免疫力发挥重要的抗肿瘤
+作用[32]。
+2 人参皂苷 Rg3 治疗心血管疾病
+研究证明,人参皂苷 Rg3 对心血管疾病存在重要
+影响(见图 1)。Guo 等[33]研究表明,20(S)
+-Rg3 可抑
+制晚期糖基化终末产物(AGEs)诱导的平滑肌细胞的增
+殖和迁移。在动脉粥样硬化小鼠模型中,20(S)
+-Rg3 治疗
+后,斑块缩小,血管平滑肌细胞(VSMCs)增殖受到抑
+制。Rg3 还可以通过降低 三 酰 甘 油、低 密 度 脂 蛋 白。
+在低密度脂蛋白基因敲除(LDLR-/-)小鼠中,逆转 M1
+型极化为 M2 表型,促进动脉粥样硬化损伤稳定性,并
+6·
+7
+3
+·2
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE July 2022 Vol.
+20 No.
+13
+通过过氧化物酶体增殖物激活受体 γ(PPARγ)依赖机
+制减轻斑块负荷[34]。在晚期糖基化终末产物处理的
+巨噬细胞和糖尿病小鼠模型中,富含 Rg3 的红参提取
+物(Rg3-RGE)不仅具有有效的降压作用,降低自发性
+高血压大鼠(SHR)病人的收缩压和舒张压,提高主动
+脉内皮型一氧化氮合酶(eNOS)磷酸化水平[35]。并且
+Rb1 和 Rg3 共同给予 SHR 大鼠,可改善心室重构,减
+弱 SHR 心肌肾素-血管紧张素系统(RAS)活性,降低
+TGF-β1、肿瘤坏死因子-α(TNF-α)、白细胞介素-6(IL-6)、
+白细胞介素-1(IL-1)和内皮素-1(ET-1)水平[36]。Rg3
+可明显降低收缩压、舒张压和肾素活性(RA),增强对
+血管紧张素Ⅰ转换酶的抑制作用,增加一氧化氮(NO)
+的含量,发挥降压作用[37]。Rg3 通过增加左室缩短和
+射血分数,降低左室舒张末期内径、收缩压和左室内压
+变化速率(±dp/dt),抑制凋亡细胞 Caspase-3 活化,
+降低 TNF-α和 IL-1 水平,诱导心肌缺血再灌注 SD 大
+鼠心功能障碍[7]。另一项实验利用心肌缺血再灌注损
+伤大鼠模型和新生大鼠心肌细胞(NRC)来研究 Rg3
+的药理 作 用,结 果 表 明,Rg3 通 过 Akt/eNOS 信 号 和
+Bcl-2/Bax 通路发挥心肌缺血再灌注诱导的细胞凋亡
+的心脏保护作用。Rg3 可降低左心室射血分数和左心
+室短轴缩短率,促进细胞活力,减少氧化损伤和细胞凋
+亡,从而改善阿霉素诱导的心脏毒性[38],并且 F127 胶
+束联合使用阿霉素可降低阿霉素的心脏毒性,改善线
+粒体和代谢功能,减少 ROS 的产生,从而对心脏发挥
+保护作用[39]。
+图 1 人参皂苷 Rg3 治疗心血管疾病
+3 人参皂苷 Rg3 对其他疾病的药理活性
+人参皂苷 Rg3 除了对肿瘤、心血管疾病有明显的
+药理作用,另外有部分文献表明,Rg3 还具有抗炎、抗
+病毒、抗抑郁、抗疲劳、抗衰老、减轻肺损伤的药理特性。
+3.1 神经保护作用 Rg3 是一种具有神经保护作用
+的原人参二醇。Kim 等[40]研究了 Rg3 对大鼠脊髓损
+伤(SCI)的神经保护作用,实验数据表明,Rg3 可抑制
+脊髓损伤后的神经元凋亡和炎症反应,可明显恢复运
+动功能,减少脊髓组织损伤。Rg3 可以保护神经元免
+受朊病毒蛋白(PrP)诱导的细胞毒性和由自噬通量引
+起的线粒体损伤。Rg3 降低 cocl2 诱导的 PC12 细胞
+损伤模型的 ROS,抑制缺血/再灌注损伤大鼠细胞凋
+亡,增加线粒体膜电位,缩小脑梗死体积,改善颅神经
+功能障碍[41]。糖皮质激素地塞米松降低神经 SHSY-5Y
+细胞活力,增 加 大 鼠 脑 器 官 类 型 海 马 切 片 培 养 细 胞
+mRNA 表达,导致神经元死亡,而 Rg3 和 Rb1 可以逆
+转地塞米松的损伤作用[42]。因此,Rg3 主要通过抑制
+神经元凋亡和神经毒性对神经发挥保护作用。
+3.2 抗炎作用 炎症是一种重要的生理反应,由于炎
+症介质的持续释放,炎症与大多数疾病有关。Rg3 通
+过抑制 NF-κB 介导的细胞因子/趋化因子[如白细胞介
+素-4(IL-4)、TNF-α、嗜酸性粒细胞趋化因子],调节 NF-κB
+的活性,对 A549 细胞和人哮喘气道上皮组织中 IL-1
+诱导的炎症产生抗炎作用[43]。Rg3 在人类肥大细胞-1
+(HMC-1)和大鼠嗜碱性细胞白血病细胞 RBL-2H3 中,
+通过抑 制 促 炎 细 胞 因 子 的 产 生,提 高 环 磷 酸 腺 苷
+(cAMP)水平和钙流入减少组胺释放激活肥大细胞,调
+节丝裂原活化蛋白激酶(MAPK)/NF-κB 和受体相互作
+用蛋白激酶 2(RIP2)/Caspase-1 信号通路发挥抗过敏
+作用[44]。Rg3 通过诱导 M2 标记基因的表达,抑制 M1
+7·
+7
+3
+·2
+中西医结合心脑血管病杂志2022年7月第20卷第13期
+标记基因的表达,促进巨噬细胞 M2 极化,加速炎症反
+应的消退[45]。20(R)
+-Rg3 通过抑制氧化应激和炎症
+反应,激活 PI3K/Akt 信号通路,减轻肝细 胞坏死和凋
+亡。Hou 等[3]用 Rg3 和 Rh2 治疗三甲基素中毒诱导
+的小鼠模型的神经 退 行 性 变,结 果 表 明,Rg3 和 Rh2
+可明显降低三甲基素诱导的癫痫发作和行为改变,减
+轻氧化应激反应和神经炎症反应,选择性上调 PI3K/Akt,
+抑制 ERK 激活。Rg3 能够通过调节诱导型一氧化氮
+合酶(iNOS)的表达来抑制 NO 的产生,从而抑制 NOD
+样受体热蛋白结构域相关蛋白 3(NLRP3)的致死性内
+毒素休克和炎症小体的 s-亚硝基化和白细胞介素-1β
+(IL-1β)的产生。Rg3 还能抑制脂多糖或紫外线照射诱
+导的巨 噬 细 胞 和 人 永 生 化 表 皮 细 胞 (HaCaT)中 的
+ROS 水平,从而防止脾细胞凋亡。因此,Rg3 可能作
+为治疗 炎 症 和 氧 化 应 激 相 关 疾 病 的 双 重 治 疗 调 节
+剂[46],并主要靶向 PI3K/AKT、MAPK/NF-κB 信号通路
+和炎性因子。
+3.3 抗病毒 据报道,口服 Rb2 及其水解液 20(S)
+-Rg3
+可以预防轮状病毒(RV)感染。研究人员使用 1.5×10
+斑块 形 成 单 位/RV 菌 株 SA11 治 疗 新 生 小 鼠 (10 d
+龄),评价 人 参 皂 苷 对 RV 感 染 的 保 护 作 用。结 果 表
+明,持续给药 20(S)
+-Rg3 可降低 RV 感染小鼠肠道内
+的病毒滴度,并预防了 RV 感染[47]。此外,Rg3 治疗丙
+型肝炎病毒(HCV)感染的细胞,使 HCV 核心蛋白介导
+的细胞质 p21 表达水平的降低,这是增加周期蛋白依
+赖性激酶 1 活性所必需的。在 HCV 诱导的线粒体裂
+变后,Rg3 也能恢复 HCV 诱导的线粒体裂变后的线粒
+体自噬[4]。另一项实验证实,Rg3 通过降解肿瘤坏死
+因子受体相关因子 6/转化生长因子活化激酶-1 和抑制
+c-Junn 端激酶/AP-1 信号通路,减少了乙肝表面抗原、
+e 抗原和乙肝病毒颗粒的分泌[48]。
+3.4 抗抑郁 抑郁症是一种心理健康问题,定义为无
+休止的抑郁情绪。疲劳、疼痛、对预期活动失去兴趣和
+睡眠障碍是抑郁情绪中出现的一些身体特征。Rg3 可
+以通过调节免疫发挥抗抑郁作用。Kang 等[49]在尾悬
+挂试验和强迫游泳试验抑郁动物模型中通过脂多糖诱
+导小 鼠 抑 郁 样 行 为。Rg3 治 疗 后,小 鼠 血 浆 IL-6 和
+TNF-α水平升高,吲哚-2,3-双加氧酶(IDO)mRNA 表
+达降低,色氨酸-犬尿氨酸代谢恢 复。此外,Rg3 通过
+改变 N-甲基-D-天门冬氨酸(NMDA)处理的 HT22 小
+鼠海马神经元的细胞周期来恢复细胞增殖并抑制细胞
+凋亡。Rg3 通 过 磷 酸 化 cAMP 反 应 元 件 结 合 蛋 白
+(CREB)和激活脑源性神经营养因子(BDNF)信号通
+路来介导抗抑郁作用,从而介导慢性轻度应激模型中
+明显的生 理 和 行 为 变 化[50]。 在 慢 性 社 会 挫 败 应 激
+(CSDS)抑郁模型中,Rg3 恢复了 CSDS 诱导的海 马
+BDNF 信号通路的衰减,并预防了 CSDS 引起的抑郁
+症状[6]。
+3.5 抗疲劳 Rg3 被证明可以缓解疲劳,疲劳这是一
+种伴随各种情况的非特异性症状。有研究建立大鼠术
+后疲劳综合征(POFS)模型,结果表明,Rg3 明显增加
+了进食频率,减缓了休息时间,激活沉默信息调节因子 1
+(SIRT1),抑制了 p53 的转录活性,因此,Rg3 可能 通
+过提高运动表现和增加沉默信息调节因子 1 去乙酰化
+酶活性来预防疲劳[5]。采用多步乳化法 制 备 了 装 载
+Rg3 的壳聚糖微球,发现装载 Rg3 的壳聚糖微球可延
+长小鼠负重游泳时间,上调肝糖原、乳酸脱氢酶水平,
+降低乳 酸 和 血 清 尿 素 氮 水 平,从 而 发 挥 抗 疲 劳 作
+用[51]。在疲劳动物模型中建立负重强迫游泳,发现疲
+劳导致多巴胺的减少,这可能部分是由于酪氨酸羟化
+酶表达和磷酸化的变化,而 Rg3 逆转了这些疲劳诱导
+的病理变化。可能的机制包括调控蛋白激酶 Aα(PKAα)、
+ERK1/2、Akt 和α-突触核蛋白活性(α-synuclein)
+[52]。
+3.6 抗衰老 近年来,从面霜到面膜,抗衰老补充剂
+都被用于延缓或中止衰老。这些补充剂大多含有来自
+天然来源的成分或天然产品。20(S)-Rg3 通 过 下 调
+PI3K/Akt、mTOR 和激活 sirtuin3/过氧化物酶体增殖物
+激活受体γ辅激活因子 1α(PGC1α)来促进线粒体生
+物发生,从而逆转人真皮成纤维细胞(HDFs)的复制衰
+老[53]。蛋白质组学方法表明,20(S)-Rg3 通过诱导线
+粒体过氧化物还原蛋白(PRDX3)的转录和翻译增加,
+至少部分逆转了 HDFs 的衰老[54]。Lee 等[55]发现 Rg3
+可以恢复三磷酸腺苷(ATP)和膜电位,增加紫外线辐
+射诱导的损伤皮肤细胞的细胞增殖基因和细胞外基质
+蛋白的表达。这说明 Rg3 通过靶向 PI3K/Akt/mTOR
+信号通路调节线粒体功能,发挥抗衰老作用。
+3.7 减轻肺损伤 急性肺损伤是一种常见的临床疾
+病。Yang 等[56]研究了 Rg3 对脂多糖诱导的小鼠急性
+肺损伤的影响,发现 Rg3 降低了促炎介质(包括 TNF-α、
+IL-1β和 IL-6)水平,并增加了抗炎细胞因子[白细胞介
+素-10(IL-10)和肿瘤坏死因子-β(TGF-β)]的产生,以减
+轻脂多糖诱导的小鼠急性肺损伤。其潜在的机制是通
+过 MERTK 依赖的激活和下游的 PI3K/Akt/mTOR 信号
+通路来介导的。此外,脂多糖诱导的急性肺损伤导致
+病理改变,包括上调 NF-κB/p65 磷酸化和下游 COX-2
+表达,触发肺组织中 NF-κB 信号,增加肺干重比(W/D)
+和促炎细胞因子水平。与预期的一样,Rg3 干预逆转
+了脂多糖 诱 导 的 急 性 肺 损 伤 的 病 理 改 变[57]。 虽 然
+8·
+7
+3
+·2
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE July 2022 Vol.
+20 No.
+13
+Rg3 对 BEAS-2B 细胞的增殖和凋亡没有明显影响,但
+Rg3 通过抑制炎症反应和激活 PI3K 和 MAPK 信号通
+路来预防高血糖诱导的肺损伤[58]。因此,Rg3 减少肺
+损伤的靶点始终围绕着 PI3K/Akt/mTOR/NF-κB/MAPK
+信号通路抑制炎症。
+4 小结与展望
+人参皂苷 Rg3 作为一种活血产品,预防肿瘤术后
+复发转移,具有广阔的发展前景。Rg3 还能抵抗心血
+管疾病,发挥神经保护功能,以及抗炎、抗病毒、抗抑
+郁、抗疲劳、抗衰老,减轻肝、肺损伤。实验已经证实,
+当 Rg3 作用于心脏、肝、肺、肾、骨髓和神经系统时,它
+是相对安全的。然而,Rg3 有其局限性。首先,Rg3 在
+全球范围内的应用范围较窄,而 Rg3 在我国主要用于
+癌症治疗,在心血管疾病,神经保护等方面的药理作用
+并未得到有效的开发,Rg3 的口服生物利用度较低也
+限制了 Rg3 的应用。仍有必要评估这些优化疗法的
+体内疗效,开发新的 Rg3 类似物提高生物利用度特性。
+而且,基于这些研究,还没有进行实际的临床治疗。目
+前迫切需 要 对 Rg3 的 详 细、合 理 的 分 子 机 制 进 行 研
+究,以证实其有效性和更好的临床应用。
+参考文献:
+[1] DZUBAK P, HAJDUCH
+M, VYDRA
+D, et
+al . Pharmacological
+activities
+of
+natural
+triterpenoids
+and
+their
+therapeutic
+implications[J].Natural Product Reports,2006,23(3):394-411.
+[2] LYU J M,YAO Q Z,CHEN C Y.Ginseng compounds:an update on
+their molecular mechanisms and medical applications[J].Current
+Vascular Pharmacology,2009,7(3):293-302.
+[3] HOU J G,XUE J J, WANG Z,et al . Ginsenoside Rg3 and Rh2
+protect
+trimethyltin-induced
+neurotoxicity
+via
+prevention
+on
+neuronal apoptosis and neuroinflammation [J ]. Phytotherapy
+Research,2018,32(12):2531-2540.
+[4] KIM S J,JANG J Y, KIM E J, et al . Ginsenoside Rg3 restores
+hepatitis C virus-induced aberrant mitochondrial dynamics and
+inhibits virus propagation[J].Hepatology,2017,66(3):758-771.
+[5] YANG Q Y,LAI X D,JING O Y,et al .Effects of Ginsenoside Rg3
+on fatigue resistance and SIRT1 in aged rats [J]. Toxicology,
+2018,409:144-151.
+[6] YOU Z C,YAO Q,SHEN J H,et al .Antidepressant-like effects of
+ginsenoside Rg3 in mice via activation of the hippocampal BDNF
+signaling cascade[J].Journal of Natural Medicines,2017,71(2):
+367-379.
+[7] ZHANG L P,JIANG Y C,YU X F,et al .Ginsenoside Rg3 improves
+cardiac
+function
+after
+myocardial
+ischemia/reperfusion
+via
+attenuating apoptosis and inflammation [J ]. Evidence-Based
+Complementary and Alternative Medicine,2016,2016:6967853.
+[8] PREVARSKAYA N, SKRYMA
+R, SHUBA
+Y. Ion
+channels
+in
+cancer: are
+cancer
+hallmarks
+oncochannelopathies?
+[J ].
+Physiological Reviews,2018,98(2):559-621.
+[9] PENG Y F, ZHANG
+R, YANG
+X, et
+al . Ginsenoside
+Rg3
+suppresses the proliferation of prostate cancer cell line PC3
+through ROS-induced cell cycle arrest[J].Oncology Letters,2019,
+17(1):1139-1145.
+[10] SHAN X, FU
+Y
+S, AZIZ
+F, et
+al . Ginsenoside
+Rg3
+inhibits
+melanoma cell proliferation through down-regulation of histone
+deacetylase 3 (HDAC3) and increase of p53 acetylation[J].PLoS
+One,2014,9(12):e115401.
+[11] YANG X L, ZOU J, CAI H Y, et al . Ginsenoside Rg3 inhibits
+colorectal tumor growth via down-regulation of C/EBPβ/NF-κB
+signaling[J ]. Biomedicine & Pharmacotherapy, 2017, 96: 1240-
+1245.
+[12] GAO J L,LV G Y,HE B C,et al .Ginseng saponin metabolite 20
+(S)-protopanaxadiol inhibits tumor growth by targeting multiple
+cancer signaling pathways[J].Oncology Reports,2013,30(1):292-
+298.
+[13] LI Y, LU J Y, BAI F R, et al . Ginsenoside Rg3 suppresses
+proliferation and induces apoptosis in human osteosarcoma[J].
+BioMed Research International,2018,2018:4306579.
+[14] LI Y, YANG T, LI J, et al . Inhibition of multiple myeloma cell
+proliferation by ginsenoside Rg3 via reduction in the secretion of
+IGF-1[J].Molecular Medicine Reports,2016,14(3):2222-2230.
+[15] WANG D K, WU C, LIU D B, et al . Ginsenoside Rg3 inhibits
+migration and invasion of nasopharyngeal carcinoma cells and
+suppresses epithelial
+mesenchymal
+transition [J ]. Bio
+Med
+Research International,2019,2019:8407683.
+[16] LI J L,QI Y X.Ginsenoside Rg3 inhibits cell growth,migration and
+invasion in Caco-2 cells by downregulation of lncRNA CCAT1
+[J].Experimental and Molecular Pathology,2019,106:131-138.
+[17] LIU T,ZHAO L, HOU H L,et al .Ginsenoside 20(S)-Rg3 suppresses
+ovarian cancer migration via hypoxia-inducible factor 1 alpha and
+nuclear factor-kappa B signals[J].Tumour Biology,2017, 39(5):
+1010428317692225.
+[18] LIU T,ZHAO L, ZHANG Y,et al .Ginsenoside 20(S)-Rg3 targets
+HIF-1α
+to
+block
+hypoxia-induced
+epithelial-mesenchymal
+transition in ovarian cancer cells [J]. PLoS One, 2014, 9 ( 9):
+e103887.
+[19] KIM Y J,CHOI W I, JEON B N, et al . Stereospecific effects of
+ginsenoside
+20-Rg3
+inhibits
+TGF-β1-induced
+epithelial-
+mesenchymal transition and suppresses lung cancer migration,
+invasion and anoikis resistance[J].Toxicology,2014,322:23-33.
+[20] CHOI Y J,LEE H J,KANG D W,et al .Ginsenoside Rg3 induces
+apoptosis in the U87MG human glioblastoma cell line through the
+MEK signaling
+pathway
+and
+reactive
+oxygen
+species [J ].
+Oncology Reports,2013,30(3):1362-1370.
+[21] SIN S,KIM S Y,KIM S S.Chronic treatment with ginsenoside Rg3
+induces Akt-dependent senescence in human glioma cells[J].
+International Journal of Oncology,2012,41(5):1669-1674.
+[22] SHAN X, TIAN
+L
+L, ZHANG
+Y
+M, et
+al . Ginsenoside
+Rg3
+suppresses
+FUT4
+expression
+through
+inhibiting
+NF-κB/p65
+signaling
+pathway
+to
+promote
+melanoma
+cell
+death [J ].
+International Journal of Oncology,2015,47(2):701-709.
+9·
+7
+3
+·2
+中西医结合心脑血管病杂志2022年7月第20卷第13期
+[23] PARK H M,KIM S J, KIM J S, et al . Reactive oxygen species
+mediated
+ginsenoside
+Rg3- and
+Rh2-induced
+apoptosis
+in
+hepatoma cells through mitochondrial signaling pathways [J].
+Food and Chemical Toxicology,2012,50(8):2736-2741.
+[24] SUN C X,YU Y,WANG L Z,et al .Additive antiangiogenesis effect
+of ginsenoside Rg3 with low-dose metronomic temozolomide on
+rat glioma
+cells
+both
+in
+vivo
+and
+in
+vitro [J ]. Journal
+of
+Experimental & Clinical Cancer Research:CR,2016,35:32.
+[25] ZHOU B, WANG J H, YAN Z P. Ginsenoside Rg3 attenuates
+hepatoma
+VEGF
+overexpression
+after
+hepatic
+artery
+embolization
+in
+an
+orthotopic
+transplantation
+hepatocellular
+carcinoma rat model[J].OncoTargets and Therapy,2014,7:1945-
+1954.
+[26] LIU T G,HUANG Y,CUI D D,et al .Inhibitory effect of ginsenoside
+Rg3 combined with gemcitabine on angiogenesis and growth of
+lung cancer in mice[J].BMC Cancer,2009,9:250.
+[27] GUO J Q,ZHENG Q H,CHEN H,et al .Ginsenoside Rg3 inhibition
+of
+vasculogenic
+mimicry
+in
+pancreatic
+cancer
+through
+downregulation of VE-cadherin/EphA2/MMP9/MMP2 expression
+[J].International Journal of Oncology,2014,45(3):1065-1072.
+[28] CHEN Q J, ZHANG M Z, WANG L X.Gensenoside Rg3 inhibits
+hypoxia-induced VEGF expression in human cancer cells [J].
+Cellular Physiology and Biochemistry,2010,26(6):849-858.
+[29] KIM J W, JUNG
+S
+Y, KWON
+Y
+H, et
+al . Ginsenoside
+Rg3
+attenuates tumor
+angiogenesis
+via
+inhibiting
+bioactivities
+of
+endothelial progenitor cells[J].Cancer Biology & Therapy,2012,
+13(7):504-515.
+[30] LIU X,ZHANG Z J, LIU J H, et al . Ginsenoside Rg3 improves
+cyclophosphamide-induced immunocompetence in Balb/c mice
+[J].International Immunopharmacology,2019,72:98-111.
+[31] WU R H,RU Q, CHEN L,et al . Stereospecificity of ginsenoside
+Rg3 in the promotion of cellular immunity in hepatoma H22-
+bearing mice [J]. Journal of Food Science, 2014, 79(7): H1430-
+H1435.
+[32] PARK D, BAE D K, JEON J H, et al . Immunopotentiation and
+antitumor effects of a ginsenoside Rg3-fortified red ginseng
+preparation
+in
+mice
+bearing
+H460
+lung
+cancer
+cells [J ].
+Environmental Toxicology and Pharmacology, 2011, 31 ( 3): 397-
+405.
+[33] GUO M Q, GUO
+G
+L, XIAO
+J, et
+al . Ginsenoside
+Rg3
+stereoisomers differentially inhibit vascular smooth muscle cell
+proliferation and migration in diabetic atherosclerosis[J].Journal
+of Cellular and Molecular Medicine,2018,22(6):3202-3214.
+[34] GUO M Q,XIAO J, SHENG X,et al . Ginsenoside Rg3 mitigates
+atherosclerosis progression in diabetic ApoE-/- mice by skewing
+macrophages
+to
+the
+M2
+phenotype
+[J ].
+Frontiers
+in
+Pharmacology,2018,9:464.
+[35] NAGAR H,CHOI S, JUNG S B,et al .Rg3-enriched Korean Red
+Ginseng enhances blood pressure stability in spontaneously
+hypertensive rats[J].Integrative Medicine Research,2016,5(3):
+223-229.
+[36] JIANG Y C, LI M, LU Z Y, et
+al . Ginsenoside
+Rg3 induces
+ginsenoside
+Rb1-comparable
+cardioprotective
+effects
+independent
+of
+reducing
+blood
+pressure
+in
+spontaneously
+hypertensive rats [J]. Experimental and Therapeutic Medicine,
+2017,14(5):4977-4985.
+[37] LEE K H,BAE I Y, PARK S I, et al . Antihypertensive effect of
+Korean red ginseng by enrichment of ginsenoside Rg3 and
+arginine-fructose[J].Journal of Ginseng Research, 2016, 40(3):
+237-244.
+[38] WANG Y P,HU Z H,SUN B,et al .Ginsenoside Rg3 attenuates myocardial
+ischemia/reperfusion injury via Akt/endothelial nitric oxide synthase
+signaling and the B
+cell lymphoma/B
+cell lymphoma
+associated
+X protein pathway[J].Molecular Medicine Reports, 2015, 11(6):
+4518-4524.
+[39] LI L, NI J Y, LI M, et al . Ginsenoside Rg3 micelles mitigate
+doxorubicin-induced cardiotoxicity and enhance its anticancer
+efficacy[J].Drug Delivery,2017,24(1):1617-1630.
+[40] KIM D K,KWEON K J, KIM P,et al .Ginsenoside Rg3 improves
+recovery from spinal cord injury in rats via suppression of
+neuronal apoptosis, pro-inflammatory mediators, and microglial
+activation[J].Molecules (Basel,Switzerland),2017,22(1):122.
+[41] HE B,CHEN P,YANG J Y,et al .Neuroprotective effect of 20(R)-
+ginsenoside Rg3 against transient focal cerebral ischemia in rats
+[J].Neuroscience Letters,2012,526(2):106-111.
+[42] KIM S O,YOU J M, YUN S J,et al . Ginsenoside Rb1 and Rg3
+attenuate glucocorticoid-induced neurotoxicity [J]. Cellular and
+Molecular Neurobiology,2010,30(6):857-862.
+[43] LEE I S, UH I, KIM K S, et
+al . Anti-inflammatory
+effects
+of
+ginsenoside Rg3 via NF-κB pathway in A549 cells and human
+asthmatic lung tissue[J].Journal of Immunology Research,2016,
+2016:7521601.
+[44] KEE J Y,HONG S H. Ginsenoside Rg3 suppresses mast cell-
+mediated allergic inflammation via
+mitogen-activated
+protein
+kinase signaling pathway[J].Journal of Ginseng Research,2019,
+43(2):282-290.
+[45] KANG S,PARK S J,LEE A Y,et al .Ginsenoside Rg3 promotes
+inflammation resolution through M2 macrophage polarization[J].
+Journal of Ginseng Research,2018,42(1):68-74.
+[46] YOON S J,PARK J Y,CHOI S,et al .Ginsenoside Rg3 regulates
+S-nitrosylation of the NLRP3 inflammasome via suppression of
+iNOS[J].Biochemical and Biophysical Research Communications,2015,
+463(4):1184-1189.
+[47] YANG H,OH K H, KIM H J,et al .Ginsenoside-Rb2 and 20(S)-
+ginsenoside-Rg3 from Korean red ginseng prevent Rotavirus
+infection in newborn mice [J ]. Journal of Microbiology and
+Biotechnology,2018,28(3):391-396.
+[48] KANG L J, CHOI Y J, LEE S G. Stimulation of TRAF6/TAK1
+degradation and inhibition of JNK/AP-1 signalling by ginsenoside
+Rg3 attenuates hepatitis B virus replication[J].The International
+Journal of Biochemistry & Cell Biology,2013,45(11):2612-2621.
+0·
+8
+3
+·2
+CHINESEJOURNALOFINTEGRATIVE MEDICINEONCARDIO-CEREBROVASCULARDISEASE July 2022 Vol.
+20 No.
+13
+中医药防治血脂异常的实验研究进展
+耿秀超1,王 梓2,蔡紫赟2,尹艳紫2,张晓蕾2,孙坤举2,张雨豪3,李 强1,2
+摘要:血脂异常是脂质代谢紊乱性疾病,与多种心脑血管疾病密切相关。中医药防治血脂异常具有多靶点、多途径和副作用少的优
+点,但目前相关研究大多停留在处方总结、疗效观察层面,如何选择合适的实验模型,积极探索中医药在细胞、基因和分子水平的研
+究,最大限度地发挥中医药特色优势显得尤为重要。从实验研究的角度出发,对中药有效成分、中药复方治疗血脂异常实验研究及
+常见实验模型进行分析比较,以期为进一步探究中医药在防治该病的临床应用方面提供新思路。
+关键词:血脂异常;中药;实验模型;实验研究;综述
+doi:
+10.
+12102/j.
+issn.
+1672-1349.
+2022.
+13.
+013 
+  血脂异常与脂肪肝、高血压、糖尿病及多种心脑血
+管疾病发生都密切相关,我国成人血脂异常患病率超
+过40% ,且发病呈低龄化趋势[1]。中医学通常不采用
+基金项 目  河 北 省 高 等 学 校 科 学 技 术 研 究 青 年 基 金 项 目 (No.
+QN2018088);河北省中医药管理局科研计划项目(No.2020132);国家级
+大学生创新创业训练计划项目(No.201914432020)
+作者单位  1.台 州 学 院 (浙 江 台 州 318000);2.河 北 中 医 学 院 (石 家 庄
+050200);3.浙江省人民医院(杭州 310000)
+通讯作者  李强,E-mail:qiangli2020@163.com;张雨豪,E-mail:zyhazzy@
+163.com
+引用信息 耿秀超,王梓,蔡紫赟,等.中医药防治血脂异常的实验研究
+进展[J].中西医结合心脑血管病杂志,2022,20(13):2381-2384.
+“血脂”或“血脂异常”表述,而常将其引起的诸多症状
+归于各种内伤杂病。他汀类药物是临床调节血脂异常
+的一线用药,但不良反应限制了临床治疗效果[2-3]。中
+医药具有多靶点的作用优势,为其在安全性和有效性
+方面奠定了基础。但中药成分复杂,配伍方式多样,研
+究多停留在处方总结、疗效观察的层面。因此,如何选
+择和制备合适的实验模型,积极探索中医药在细胞、分
+子水平的研究,发挥中医药特色优势就显得尤为重要。
+本研究检索和整理了国内外相关文献,从实验研究的
+角度出发,对中药有效成分、中药复方治疗血脂异常实
+验研究及常见实验模型进行比较分析,以期为中医药
+防治血脂异常提供新思路。
+������������������������������������������������������������������������������������������������������������������������������������������������������������
+[49] KANG A,XIE T,ZHU D,et al .Suppressive effect of ginsenoside
+Rg3 against lipopolysaccharide-induced depression-like behavior
+and neuroinflammation in mice [J]. Journal of Agricultural and
+Food Chemistry,2017,65(32):6861-6869.
+[50] ZHANG H L,ZHOU Z L,CHEN Z M,et al .Ginsenoside Rg3 exerts
+anti-depressive effect on an NMDA-treated cell model and a
+chronic mild stress animal model[J].Journal of Pharmacological
+Sciences,2017,134(1):45-54.
+[51] ZHANG W,WANG X Y, ZHANG M,et al . Intranasal delivery of
+microspheres loaded with 20(R)-ginsenoside Rg3 enhances anti-
+fatigue effect in mice[J].Current Drug Delivery,2017,14(6):867-
+874.
+[52] CHENG L Y, SUN X M, HU C M, et al . In vivo inhibition of
+hypertrophic
+scars
+by
+implantable
+ginsenoside-Rg3-loaded
+electrospun fibrous membranes [J]. Acta Biomaterialia, 2013, 9
+(12):9461-9473.
+[53] YANG K E, JANG H J, HWANG I H,et al .Stereoisomer-specific
+ginsenoside 20 ( S )-Rg3 reverses
+replicative
+senescence
+of
+human diploid fibroblasts via Akt-mTOR-sirtuin signaling [J ].
+Journal of Ginseng Research,2020,44(2):341-349.
+[54] JANG I S,JO E,PARK S J,et al .Proteomic analyses reveal that
+ginsenoside Rg3 ( S) partially reverses cellular senescence in
+human dermal fibroblasts by inducing peroxiredoxin[J].Journal
+of Ginseng Research,2020,44(1):50-57.
+[55] LEE H,HONG Y,TRAN Q,et al .A new role for the ginsenoside
+RG3
+in
+antiaging
+via
+mitochondria
+function
+in
+ultraviolet-
+irradiated human dermal fibroblasts [J ]. Journal of Ginseng
+Research,2019,43(3):431-441.
+[56] YANG J,LI S Y, WANG L Y,et al .Ginsenoside Rg3 attenuates
+lipopolysaccharide-induced
+acute
+lung
+injury
+via
+MerTK-
+dependent activation
+of
+the
+PI3K/AKT/mTOR
+pathway [J ].
+Frontiers in Pharmacology,2018,9:850.
+[57] CHENG Z Q, LI L. Ginsenoside Rg3 ameliorates lipopolysaccharide-
+induced acute lung injury in mice through inactivating the nuclear
+factor-κB ( NF-κB )
+signaling
+pathway
+[J ].
+International
+Immunopharmacology,2016,34:53-59.
+[58] WANG H Y, WU W, WANG G X, et
+al . Protective
+effect
+of
+ginsenoside Rg3 on lung injury in diabetic rats [J].Journal of
+Cellular Biochemistry,2019,120(3):3323-3330.
+(收稿日期:2021-12-16)
+(本文编辑 郭怀印)
+1·
+8
+3
+·2
+中西医结合心脑血管病杂志2022年7月第20卷第13期

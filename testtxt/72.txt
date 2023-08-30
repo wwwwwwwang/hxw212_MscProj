@@ -1,0 +1,433 @@
+47
+第 1 8 卷   第 7 期
+     2016 年 7 月
+辽 宁 中 医 药 大 学 学 报
+JOURNAL OF LIAONING UNIVERSITY OF TCM
+Vol. 18  No. 7 
+Jul .，2016
+微信公众号：lnzyydxxb（或扫左侧二维码关注）
+投稿平台：http://lzxb.cbpt.cnki.net
+independent，X-linked inhibitor of apoptosis protein（XIAP）-
+mediated Bax protein oligomerization on mitochondria to initiate 
+cytochrome c release and caspase activation[ J ] .J Biol Chem，
+2011，286 (   33   )：28749-28760.
+[ 9 ] 
+ Pucci B，Bertani F，Karpinich NO，et al. Detailing the role of Bax 
+translocation，cytochrome c release，and perinuclear clustering 
+of the mitochondria in the killing of HeLa cells by TNF[ J ] .J Cell 
+Physiol，2008，217 (   2   )：442-449.
+[ 10 ] 
+Sudjit Luanpitponga，Pithi Chanvorachoteb，Christian Stehlikc，
+et al. Regulation of apoptosis by Bcl-2 cysteine oxidation in 
+human lung epithelial cells[ J ] . Mol Biol Cel，2013，24 (   6   )：
+858-869.
+[ 11 ] 
+Makinen K，Loimus S，Haklaa T，et al. Tumour suppressor 
+protein（p53），apoptosis inhibiting protein（bcl-2）and 
+proliferating cell nuclear antigen expressions in a rat pancreatic 
+tumour model[ J ] .Anticancer Res，2007，27 (   1A   )：23-26.
+[ 12 ] 
+Kim KY，Seol JY，Jeon GA，et al. The combined treatment of 
+aspirin and radiation induces apoptosis by the regulation of bcl-2 
+and caspase-3 in human cervical cancer cells[ J ] .Caner Lett，
+2003，189 (   2   )：157-166.
+[ 13 ] 
+WANG Z，YANG J，Fisher T，et al. Akt activation is responsible 
+for enhanced migratory and invasive behavior of arsenic-
+transformed human bronchial epithelial cells[ J ] .Environ Health 
+Perspect，2012，120 (   1   )：92-97.
+[ 14 ] 
+SONG L，XIONG H，LI J，et al. Sphingosine kinase-1 enhances 
+resistance to apoptosis through activation of PI3K/Akt/NF-κB 
+pathway in human non-small cell lung cancer[ J ] .Clin Cancer 
+Res，2011，17 (   1   )：1839-1849.
+随着生活压力增加和应激事件的不断增多，应
+激所导致的精神性疾病（如抑郁症）的发病率呈现
+增高趋势，已经成为目前研究的一个热点，但其详细
+发病机制尚未阐明。可以肯定的是，反复应激是导
+致抑郁症发生的根本原因。慢性不可预见性温和应
+激（Chronic unpredicted mild stress，CUMS）是 模 仿
+人类生活中遭受的各种应激，可用于抑郁症的基础
+研究。临床资料表明，抑郁症患者海马、杏仁核等部
+人参皂苷Rb1对CUMS应激大鼠海马-杏仁核MAP-2磷酸化影响
+刘继刚
+1，臧蔚
+2，袁杨
+2，刘昊
+2
+（1.遵化市人民医院，河北 遵化 064200；2.华北理工大学附属医院，河北 唐山 063000）
+摘 要：目的：研究人参皂苷Rb1对不可预见性温和应激（CUMS）大鼠海马-杏仁核组织微管相关蛋白-2
+（MAP-2）磷酸化的影响，探讨人参皂苷Rb1抗抑郁作用的可能机制。方法：选用30只成年Wistar大鼠，随机分为
+对照组、应激组和干预组。给予应激组大鼠CUMS应激22 d，干预组大鼠同时给予人参皂苷Rb1。采用糖水实验和
+旷场实验进行行为学检测，采用Western blot方法检测海马、杏仁核组织MAP-2及pMAP-2表达，Real-time PCR
+检测mRNA表达。结果：（1）对照组、应激组和干预组大鼠糖水偏好百分比、旷场实验得分比较，应激组大鼠明显
+低于对照组，干预组低于对照组，高于应激组，差异均有统计学意义（P<0.05）。（2）应激组大鼠海马和杏仁核组织
+pMAP-2蛋白和mRNA表达水平明显低于对照组（P<0.05），干预组表达明显升高，但仍低于对照组（P<0.05）。结
+论：人参皂苷Rb1抗抑郁作用可能与影响海马、杏仁核MAP-2磷酸化有关。
+关键词：人参皂苷Rb1；应激；海马；杏仁核；微管相关蛋白
+中图分类号：R285.5     文献标志码：A     文章编号：1673-842X  (2016) 07- 0047-  03
+收稿日期：2015-12-22
+基金项目：国家自然科学基金项目（81201048）
+作者简介：刘继刚（1962-），男，河北遵化人，主治医师，学士，研究方向：应激性疾病发病机制。
+通讯作者：刘昊（1974-），女，河北唐山人，主任医师，硕士，研究方向：应激性疾病。E-mail：liuhao938@163.com。
+Influence of Ginsenoside Rb1 on Expression of Phosphorylated 
+MAP-2 in Hippocampus and Amygdala of CUMS Rat
+LIU Jigang1，ZANG Yu2，YUAN Yang2，LIU Hao2 
+（1.Zunhua People's Hospital，Zunhua 064200，Hebei，China；2. Affiliated Hospital of North 
+China University of Science and Technology，Tangshan 063000，Hebei，China）
+Abstract：Objective：To observe the effcet of ginsenoside Rb1 on phosphorylation of microtubule-
+associated protein 2（pMAP-2）in hippocampus and amygdala of depressive rats. Methods：Thirty male 
+Wistar rats were randomly divided into control group，stress group and treatment group. The stress group 
+rats were gave the chronic unpredicted mild stress and the treatment grous rats were gave ginsenoside Rb1. 
+The behavior changes were examined using sucrose preference test and open-field test. The expression of 
+pMAP-2 protein and mRNA were detected by Western blot and real-time PCR respectively. Results：
+（1）
+Compared to control rats，preferce of sucrose and score of open-field test of stress group rats were significantly 
+lower，while the escape latency were higher（P<0.05）. These index were reversed in treatment group.（2）
+The expression of pMAP-2 protein and mRNA of stess group were lower than that of control group，while the 
+index was higher after treatment with ginsenoside Rb1（P<0.05）. Conclusion：Effect of ginsenoside Rb1 
+antidepressant may induced by affect the phosphorylation of MAP-2 in hippocampus and amygdala. 
+Keywords：ginsenoside Rb1；stress；hippocampus；amygdala；microtubule-associated protein
+DOI：10.13194/j.issn.1673-842x.2016.07.015
+48
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+辽
+宁
+中
+医
+药
+大
+学
+学
+报
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 8 卷
+位存在容积缩小的现象 [1-2]。这可能与这些部位细
+胞骨架相关蛋白磷酸化有关 [3]。研究结果表明，人
+参皂苷（Ginsenoside）活性成分Rb1具有明显的抗
+抑郁作用 [4-5]。为深入研究人参皂苷详细药效机制，
+本研究给予大鼠CUMS应激和人参皂苷Rb1，观察
+人参皂苷Rb1对应激大鼠海马、杏仁核微管相关蛋
+白-2变化的影响，为人参皂苷Rb1抗抑郁机制研究
+提供实验依据。
+1 
+材料与方法
+1.1 动物与试剂
+健康SPF级成年雄性Wistar大鼠30只，体质量
+180~210 g，实验动物合格证号：SCXK京2009-0004，
+由华北理工大学实验动物中心提供。适应性饲养1
+周后用于实验。兔MAP-2多克隆抗体和兔pMAP-2
+多克隆抗体购自Santz Cruz公司，Western blot相关
+试剂购自武汉博士德生物工程有限公司，Real-time 
+PCR试剂盒购自Takara公司。人参皂苷Rb1购自中
+国药品生物制品检定所。其它试剂为国产分析纯。
+1.2 实验分组和CUMS应激
+适应性饲养结束后，随机将大鼠分为对照组、
+应激组和干预组，每组10只。应激组给予CUMS
+应激，在每天9：00进行。应激共11种，包括夹
+尾1 min，黑白颠倒、天敌声音3 min，冰水强迫游
+泳15 min，热水强迫游泳15 min，潮湿垫料，鼠笼倾
+斜等。每天随机给予1种应激，同种应激不连续出
+现，共持续22 d，具体方法参见 [3]。干预组在给予应
+激的同时，通过灌胃给予大鼠人参皂苷Rb1，每日1
+次（每毫升药液含原生药1 g，剂量：1 mL/ 100 g体质
+量）。对照组大鼠除每天抓取1次外，不作其他处理。
+1.3 行为学实验
+1.3.1 
+糖水实验
+对大鼠禁止饮水2.5 h后，每笼同时给予10%蔗
+糖水和自来水，让其自由饮用。分别记录每只大鼠
+1 h内的蔗糖水和自来水的消耗量，计算糖水偏好百
+分比（糖水消耗量/总液体消耗×100%）。
+1.3.2 
+旷场实验
+采用鼠博士行为学分析系统对3组大鼠进行旷
+场实验。旷场箱长宽各100 cm、高60 cm，底部划有
+25个边长为20 cm的方格，在距离旷场箱底部1.5 m
+高度安置摄像头。将大鼠放入旷场中间，通过动物
+行为视频分析系统记录分析5 min内大鼠的活动情
+况。记录大鼠行动过程中穿过的方格数（四爪进入
+方格内可计数），为水平运动得分。前两爪离开地面
+或攀附箱壁为垂直运动得分。取水平运动得分和垂
+直运动得分之和为旷场实验得分。箱底消毒后进行
+另一只大鼠测试。
+1.4 Western blot检测海马、杏仁核组织MAP-2和
+pMAP-2表达
+3组各取5只大鼠，麻醉后断头取脑，冰上快速
+分离海马和杏仁核，加适量RIPA裂解液完全裂解
+后，4 ℃ 12000 r/min离心10 min，收集上清液。考
+马斯亮蓝法测定蛋白浓度，按照40 μg蛋白量上
+样，进行10% SDS-PAGE电泳，2 h后PVDF膜电转
+印（180 mA，1.5 h），5%牛血清白蛋白室温封闭1 h，
+PBST漂洗后，加MAP-2一抗（1∶500）4 ℃孵育过
+夜，加入辣根过氧化物酶标记的二抗IgG（1∶2000）
+37 ℃孵育1 h，ECL显色。同上方法进行海马、杏仁
+核pMAP-2和 内 参 照β-actin的Westen blot分 析。
+使用Quantity One软件对蛋白显色条带进行分析，以
+目的条带与内参照的光密度比值表示蛋白相对表
+达。
+1.5 Real-time PCR检测海马、杏仁核组织pMAP-2 
+mRAN表达
+3组各取5只大鼠，麻醉后断头取脑，在冰上快
+速分离海马和杏仁核组织，分别提取组织总RNA。
+定量后取1 μg RNA，按照试剂盒说明书进行反转
+录和PCR 扩增。引物序列：sense 5'-TGG CTT TCT 
+CAT CTC CAT CC-3'，antisense 5'-CTC ACT GCC 
+CCA TTA GTG C-3'，产物大小357 bp。PCR扩增条
+件：94 ℃ 4 min；94 ℃ 30 s；55 ℃ 30 s；72 ℃ 25 s；
+35个循环。按照公式△Ct=Ct（目的基因）-Ct（管
+家基因）、△△Ct=△Ct（实验组）-△Ct（对照组）
+计算2-△△Ct（pMAP-2 mRNA水平）。
+1.6 统计分析    
+分析结果以 x
+—±s 表示，应用SPSS 17.0统计分析
+软件对数据进行单因素方差分析和LSD检验，检验
+水准α= 0.05。
+2 
+结果
+2.1 3组大鼠行为学实验结果
+糖水实验结果表明，对照组、应激组和干预组
+大 鼠 糖 水 偏 好 百 分 比 分 别 为（81.33%±9.28%）、
+（43.38%±4.11%）和（64.88%±8.67%）。与对照组
+比较，应激组和干预组大鼠糖水偏好百分比明显低
+于对照组，差异有统计学意义（P<0.05）。与应激组
+比较，干预组糖水偏好百分比明显高于应激组，差异
+有统计学意义（P<0.05）。旷场实验结果显示，3组
+大鼠旷场实验得分分别为（59.33±7.14）、
+（26.53±
+2.89）和（46.81±5.09）分，应激组大鼠得分明显低
+于对照组，差异具有统计学意义（P<0.05）；干预组
+得分低于对照组，高于应激组，差异有统计学意义
+（P<0.05）。结果见表1。
+表1 3组大鼠行为学实验结果（n=5，x
+—±s）
+组别
+糖水偏好百分比（%）
+旷场实验得分（分）
+对照组
+81.33±9.28
+59.33±7.14
+应激组
+ 43.38±4.11*
+ 26.53±2.89*
+干预组
+    64.88±8.67*△
+    46.81±5.09*△
+注：与对照组比较，*P<0.05；与应激组比较，△P<0.05。
+2.2 海马、杏仁核组织中MAP-2和pMAP-2蛋白表达
+结果
+分析结果表明，对照组、应激组和干预组大鼠
+海 马 组 织MAP-2相 对 表 达 量 分 别 为1.05±0.12、
+1.18±0.20和0.71±0.08，pMAP-2相对表达量分别
+为0.94±0.11、0.18±0.02和0.43±0.05。pMAP-2与
+MAP-2比 值 分 别 为0.90±0.11、0.15±0.03、0.61±
+0.04。3组大鼠杏仁核组织MAP-2相对表达量分
+别 为1.12±0.15、1.02±0.12和1.03±0.08，pMAP-2
+相对表达量分别为1.17±0.09、0.62±0.07和1.01±
+0.06。pMAP-2与MAP-2比 值 分 别 为1.04±0.10、
+0.61±0.04、0.98±0.09。与对照组比较，应激组海
+马 和 杏 仁 核 组 织pMAP-2和pMAP-2/MAP-2比 值
+均出现显著降低，差异有统计学意义（P<0.05）。干
+预组低于对照组，高于应激组，差异有统计学意义
+（P<0.05）。结果见表2，图1。
+49
+   1 8 卷                                   辽
+宁
+中
+医
+药
+大
+学
+学
+报
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+表2 3组大鼠海马、杏仁核组织MAP-2和
+pMAP-2蛋白表达结果（n=5，x
+—±s）
+组别
+pMAP-2
+MAP-2
+pMAP-2/MAP-2
+海马
+杏仁核
+海马
+杏仁核
+海马
+杏仁核
+对照组 0.94±0.11
+1.17±0.09
+1.05±0.12
+1.12±0.15
+0.90±0.11
+1.04±0.10
+应激组 0.18±0.02*
+0.62±0.07*
+1.18±0.20
+1.02±0.12*
+0.15±0.03*
+0.61±0.04*
+干预组 0.43±0.05*△ 1.01±0.06*△ 0.71±0.08*△ 1.03±0.08*
+0.61±0.04*△
+0.98±0.09*
+注：与对照组比较，*P<0.05；与应激组比较，△P<0.05。
+图1 Western-blot检测海马和杏仁核MAP-2、pMAP-2表达
+2.3 海马、杏仁核组织中pMAP-2 mRNA表达结果 
+对 照 组、应 激 组 和 干 预 组 海 马pMAP-2 
+mRNA相 对 表 达 量 分 别 为1.00、0.38±0.04和
+0.75±0.11。 杏 仁 核 组 织 表 达 量 分 别 为1.00、
+0.27±0.05和0.50±0.04。应激组大鼠海马和杏
+仁核pMAP-2 mRNA相对表达量明显低于对照
+组，差异有统计学意义（P<0.05），干预组低于对
+照组，高于应激组，差异有统计学意义（P<0.05）。
+见表2。
+表2 3组大鼠海马、杏仁核组织
+pMAP-2 mRNA表达（n=5，x
+—±s）
+组别
+pMAP-2 mRNA
+海马
+杏仁核
+对照组
+1.00
+1.00
+应激组
+0.38±0.04*
+0.27±0.05*
+干预组
+   0.75±0.11*△
+   0.50±0.04*△
+注：与对照组比较，*P<0.05；与应激组比较，△P<0.05。
+3 
+讨论
+当今社会，各种应激事件对人的身心影响愈
+发受到人们的关注。随着生活压力的增加，应激
+导致的抑郁症发病率有增高趋势 [6]，其发病机制
+及治疗研究成为医学领域的热点内容。由于受
+到伦理学限制，对抑郁症的基础研究往往通过建
+立抑郁症动物模型而进行。CUMS即模仿人类生
+活中遭遇的各种应激，给予大鼠CUMS能较好地
+表现出抑郁症的核心临床症状，是被普遍接受的
+抑郁症大鼠模型 [7]。本研究行为学实验结果表
+明，给予大鼠CUMS后，大鼠糖水偏好百分比和旷
+场实验得分明显减低，提示经过CUMS刺激后，大
+鼠表现出明显的快感缺失、焦虑等行为改变。随
+着影像技术的发展，对抑郁症患者脑结构改变的
+研究取得显著成果，发现抑郁症患者存在海马、
+杏仁核部位结构异常 [1-2]。对其原因进行探讨，结
+果表明可能与这些部位神经细胞凋亡增强以及
+神经细胞骨架蛋白改变有关 [3，8-9]。微管相关蛋白
+（Microtubule-associated protein，MAPS），特别是微
+管相关蛋白-2（MAP-2）能调节微管的聚合状
+态，在维持神经元形态和突触可塑性方面起到主
+要作用 [10]。本研究结果表明，CUMS应激大鼠海
+马组织和杏仁核组织pMAP-2蛋白和mRNA以及
+pMAP-2与MAP-2比值明显降低。此结果提示，
+海马、杏仁核部位MAP-2磷酸化可能是抑郁症发
+病过程中一个重要因素。
+祖国传统医学对抑郁症有独到认识。中医认
+为，抑郁症是情志不舒，肝气郁结，渐致五脏不和，化
+火、生痰、瘀阻、耗气、伤阴等而致，多采用疏肝理气
+法对其进行治疗 [11]。人参具有补气、安神、生津、益
+智等作用，活性成分人参皂苷Rb1具有明显的抗抑
+郁作用 [4，12]。本研究行为学实验结果表明，使用人参
+皂苷Rb1对大鼠进行干预后，能明显减轻CUMS大
+鼠糖水偏好百分比和旷场实验得分的降低，说明人
+参皂苷Rb1具有明显的抗抑郁作用。为探讨其机制，
+本研究观察了人参皂苷Rb1对大鼠海马、杏仁核组
+织MAP-2及其磷酸化改变的影响，结果表明，CUMS
+应激大鼠经人参皂苷Rb1治疗后，MAP-2蛋白磷酸
+化降低现象得到显著逆转，pMAP-2与MAP-2比值
+明显增高（P<0.05），提示人参皂苷Rb1能影响海马、
+杏仁核组织MAP-2磷酸化，这可能是其抗抑郁作用
+的机理之一。
+综上所述，人参皂苷Rb1能影响CUMS大鼠海
+马、杏仁核组织MAP-2磷酸化，这可能是其抗抑郁
+作用的机理之一。但使用人参皂苷Rb1治疗后，海
+马和杏仁核组织MAP-2蛋白磷酸化程度仍然低于
+对照组，提示影响MAP-2磷酸化的还有其他因素，
+值得我们进一步探讨。◆
+参考文献
+[ 1 ] 
+Colle R，Chupin M，Cury C，et al. Depressed suicide attempters 
+have smaller hippocampus than depressed patients without suicide 
+attempts[ J ] .J Psychiatr Res，2015，61：13-18.
+[ 2 ] 
+Wijeratne C，Sachdev S，Wen W，et al. Hippocampal and 
+amygdala volume in an older bipolar disorder sample[ J ] .Int 
+Psychogeriatr，2013，25 (   1   )：54-60.
+[ 3 ] 
+隋竹欣. 抑郁大鼠海马神经元结构改变及机制研究[ D ] .唐
+山：华北理工大学，2015.
+[ 4 ] 
+黄倩，楚世峰，张均田，等. 人参皂苷Rg1的抗抑郁作用及对
+突触超微结构的影响[ J ] .中国药理学通报，2013，29 (   8   )：
+1124-1127.
+[ 5 ] 
+刘昊，徐爱军，秦丽娟，等. 人参皂苷Rb1对抑郁症大鼠海马
+5-HT及5-HT1A受体表达的影响[ J ] .时珍国医国药，2014，
+25 (   11   )：2565-2567.
+[ 6 ] 
+Duman RS，Kehne JH. Depression[ J ] .CNS Neurol Disord Drug 
+Targets，2007，6 (   2   )：85-86.
+[ 7 ] 
+LI Q，YANG D，WANG J，et al. Reduced amount of olfactory 
+receptor neurons in the rat model of depression[ J ] .Neurosci Lett，
+2015，603：48-54.
+[ 8 ] 
+隋竹欣，李珍，刘昊，等. 抑郁大鼠海马微管蛋白pMAP-2
+和p-Tau表达的研究[ J ] .神经解剖学杂志，2015，31 (   2   )：
+175-180. 
+[ 9 ] 
+田艳霞，王海涛，李冉，等. 抑郁模型大鼠杏仁核神经元凋亡
+增加[ J ] .基础医学与临床，2011，31 (   8   )：779-883. 
+[ 10 ] 
+Pereno GL，Beltramino CA. Timed changes of synaptic zinc，
+synaptophysin and MAP2 in medial extended amygdala of 
+epileptic animals are suggestive of reactive neuroplasticity[ J ] . 
+Brain Res，2010，1328 (   1   )：130-138.
+[ 11 ] 
+周庆莹，刘宏岩. 中医治疗抑郁症研究[ J ] .长春中医药大学
+学报，2013，29 (   1   )：88-89.
+[ 12 ] 
+刘昊，徐爱军，秦丽娟，等. 人参皂苷Rb1对抑郁症大鼠海马
+5-HT及5-HT1A受体表达的影响[ J ] .时珍国医国药，2014，
+25 (   11   )：2565-2567.

@@ -1,0 +1,371 @@
+中国医药导报 2022 年 2 月第 19 卷第 4 期
+·综
+述·
+CHINA MEDICAL HERALD VoI. 19 No. 4 February 2022
+[基金项目] 上海市卫生和计划生育委员会中医药科研课题
+（2018LP037）。
+[作者简介] 赵廷尧（1994.11-），男，上海中医药大学附属曙
+光医院 2019 级中医内科学专业在读硕士研究生‘研究方向：
+中医药防治心血管疾病。
+[通讯作者] 徐燕（1963.9-），女，主任医师‘研究方向：中医
+药防治心血管疾病。
+心肌梗死（myocardial infarction，MI）发病率高，是
+世界范围内患者致死、致残的主要原因之一，其特征
+是冠状动脉远端短暂或持续闭塞引起的心肌缺血性
+坏死，常见症状表现为剧烈而持久的胸骨后疼痛，并
+伴随心肌细胞凋亡、炎症反应、心肌纤维化、心脏重构
+等复杂病理过程，可并发心律失常、休克或心力衰竭，
+常危及生命[1]。 中国 MI 患者高达 250 万例[2]，且发病
+率和死亡率呈逐渐上升趋势[3]。 中医药防治 MI 的历
+史悠久，疗效显著[4]，人参作为我国传统中草药，最早
+记载于《神农本草经》，具有大补元气、复脉固脱、补脾
+益肺、安神益智的功效，是我国中医药历史宝库中最
+有价值的天然药物之一。人参皂苷是人参中的主要有
+效成分，是糖苷类化合物，属三萜类皂苷，包含 Ra1、
+Ra2、Rb1、Rb2、Rb3、Rg1、Rd 等多种单体形式[5]。 现代药
+理学研究表明，人参皂苷对心血管系统具有良好的保
+护作用，能抑制心肌细胞肥大和心室肥厚，控制心律
+失常，抑制心肌细胞凋亡，保护 MI[6]。 本综述将从心肌
+细胞凋亡、炎症反应、心肌纤维化、心脏血管再新生、
+心脏重构、氧/葡萄糖供应等方面阐述人参皂苷防治 MI
+的相关作用机制。
+1 人参皂苷防治 MI 的相关作用机制
+1.1 人参皂苷抑制 MI 后心肌细胞损伤和凋亡
+细胞凋亡在 MI 后心功能不全和结构改变中起重
+要作用，并参与左室重构和心功能障碍的发展过程，抗
+凋亡一直是干预 MI 的有效方法之一。 Chen 等[7]用人
+参皂苷 Rb3 干预 MI 小鼠模型和 H9C2 细胞损伤模
+型，研究结果表明人参皂苷 Rb3 可上调 cpt-1α、AcDL
+和 SIRT3、PPARα，对 MI 后心脏功能具有保护作用‘此
+外，PPARα 抑制剂处理 H9C2 细胞后，人参皂苷 Rb3
+的干预能保护线粒体膜完整性并增强其抗凋亡的作
+用。 Yan 等[8]在缺氧/缺血条件下体外培养原代新生大
+人参皂苷防治心肌梗死相关作用机制的研究进展
+赵廷尧
+徐
+燕
+上海中医药大学附属曙光医院心血管内科，上海
+200021
+[摘要] 心肌梗死（MI）是全球致死、致残的主要原因之一，涉及复杂的病理过程。 人参的有效成分——
+—人参皂苷已
+被广泛研究，其可通过多途径、多靶点防治 MI，对心血管系统具有良好的保护作用。 本综述将从心肌细胞凋亡、
+炎症反应、心肌纤维化、心脏血管再新生、心脏重构、氧/葡萄糖供应等方面阐述人参皂苷防治 MI 的相关作用机
+制，以期为人参皂苷防治 MI 的新药研发提供参考。
+[关键词] 人参；人参皂苷；心肌梗死；作用机制
+[中图分类号] R542.22
+[文献标识码] A
+[文章编号] 1673-7210（2022）02（a）-0049-04
+Research progress on the mechanism of ginsenoside action in the preven-
+tion and treatment of myocardial infarction
+ZHAO Tingyao
+XU Yan
+Department of Cardiology, Shuguang Hospital Affiliated to Shanghai University of Traditional Chinese Medicine, Shang-
+hai
+200021, China
+[Abstract] Myocardial infarction (MI) is one of the major causes of death and disability in the world and involves com-
+plex pathological processes. Ginsenosides, the active ingredient of ginseng, have been extensively studied, which can
+prevent MI through multiple approaches and multiple targets, and have a good protective effect on the cardiovascular
+system. In this review, the relevant mechanisms of ginsenosides action in the prevention and treatment of MI are elabo-
+rated from aspects of myocardial cell apoptosis, inflammatory response, myocardial fibrosis, cardiac angiogenesis, car-
+diac remodeling, oxygen / glucose supply, etc., in order to provide a reference for the development of new drugs for the
+prevention and treatment of MI by ginsenosides.
+[Key words] Ginseng; Ginsenosides; Myocardial infarction; Mechanism of action
+49
+·综
+述·
+中国医药导报 2022 年 2 月第 19 卷第 4 期
+CHINA MEDICAL HERALD VoI. 19 No. 4 February 2022
+鼠心肌细胞，急性心肌梗死（acute myocardial infarc-
+tion，AMI）的生物标志物 miR-208 的表达上调，并伴
+有细胞凋亡， 而人参皂苷 Rb1 的干预可以改善细胞凋
+亡的现象，保护缺氧/缺血损伤的新生大鼠心肌细胞。
+再灌注治疗被广泛应用于 AMI，但在临床实践中经常
+会遇到心脏快速启动再灌注造成的进一步损伤。 Cao
+等[9]研究显示人参皂苷 Rh3 通过调控 p38MAPK 通路，
+从而抑制 caspase-3 参与细胞凋亡，进而显著改善心
+肌缺血再灌注模型大鼠的心肌坏死，并下调心肌组织
+中 caspase-3 的表达水平。 Sun 等[10]研究人参皂苷 RK3
+对缺氧-复氧诱导的 H9C2 心肌细胞损伤的保护作用
+及其机制，发现人参皂苷 RK3 预处理可提高细胞存活
+率，降低乳酸脱氢酶（lactate dehydrogenase，LDH）漏
+出量，抑制细胞凋亡‘人参皂苷 RK3 通过调节 AKT/
+NRF-2/HO-1/MAPK 信号通路对缺氧-复氧诱导的
+H9C2 心肌细胞损伤和凋亡具有保护作用。因此，人参
+皂苷 RK3 对 AMI 的临床诊疗也具有重要意义。
+1.2 人参皂苷抑制 MI 后炎症反应
+MI 后，心肌细胞缺血坏死，释放炎症因子，产生
+炎症反应。炎症反应与 MI 的发生发展密切相关。一方
+面，炎症介质的释放启动了受损组织的修复[11]‘另一
+方面，炎症反应持续诱导心肌细胞基质降解和凋亡[12]。
+MI 后，炎症调节系统被缺血缺氧、诱导心肌细胞凋亡
+和心肌纤维化等因素激活。 为了清除坏死细胞，人体
+进一步激活炎症反应，导致心脏功能恶化，如心肌重
+构[12]。 因此，抑制 MI 后体内的炎症反应是治疗 MI 的
+方法之一。 Sun 等[13]研究表明人参皂苷 Rg3 降低血清
+脑钠肽（brain natriuretic peptide，BNP）和 LDH 水平，
+通过激活 AMP 活化蛋白激酶（AMP-activated protein
+kinase，AMPK）介导的自噬作用保护心脏免受异丙肾
+上腺素诱导的 MI 影响，进而减轻心肌损伤，保护心
+脏功能。 Tu 等[14]研究表明人参皂苷 Rg3 作为 SIRT1 的
+激活剂，通过激活 SIRT1 的表达抑制核因子-κB 通路
+的激活，从而抑制 MI 大鼠的炎症反应。 杨伟等[15]研究
+显示，通过人参皂苷 CK 干预，能显著降低 AMI 小
+鼠心肌坏死、梗死纤维瘢痕水平，降低血清中炎症因
+子肿瘤坏死因子-α（tumor necrosis factor-α，TNF-α）、
+白细胞介素（interleukin，IL）-6 的分泌，增加抗炎因子
+IL-10 的分泌， 此机制通过增加调节性 T 细胞比例，
+减轻炎症反应，从而降低 MI 后心脏重构引发的损伤。
+贺欣等[16]研究显示人参皂苷 Rg1 能减轻大鼠心肌缺血
+再灌注损伤，下调 TNF-α、IL-1β 水平，下调 p65 的表
+达，提示人参皂苷 Rg1 通过抑制炎症反应和炎症信号
+通路对大鼠心肌缺血再灌注损伤起到保护作用。
+1.3 人参皂苷抑制 MI 后心肌纤维化
+MI 发生时，心脏成纤维细胞在各种因素刺激作
+用下转化为成纤维细胞，使心肌纤维化，并生成永久
+性疤痕组织，心肌间质纤维化是由于细胞外基质过度
+沉积而增加心肌壁硬度，导致收缩和舒张功能受损，
+心室顺应性降低，心律失常易感性增加。 Li 等[17]研究
+发现，人参皂苷 Rg2 能改善 MI 后小鼠心功能，抑制胶
+原纤维沉积。 人参皂苷 Rg2 通过激活血管紧张素Ⅱ诱
+导的心肌成纤维细胞磷酸化 AKT，降低纤维化相关基
+因Ⅰ、Ⅲ型胶原和 α-SMA 的水平，减轻心肌纤维化，
+进而改善心功能，预防 MI 后心室重构。 韩凌等[18]研究
+发现，人参皂苷 Rb3 通过调控 Neuregulin-1/ErbB 信号
+通路降低心肌纤维化的程度，减少 MI 的面积，减轻心
+肌损伤和保护心肌细胞。彭程飞等[19]建立大鼠 AMI 模
+型，进行人参皂苷 Rg1 干预，结果显示人参皂苷 Rg1 能
+够有效抑制大鼠 AMI 后心肌纤维化的发生，其机制是
+通过促进具有氧感受器作用的缺氧诱导因子-1 的大
+量表达，从而改善 AMI 后缺血梗死区的缺氧微环境。
+1.4 人参皂苷促进 MI 后心脏血管再新生
+心肌缺血后的心肌修复过程与血管再生功能密
+切相关，缺血区内的血管迅速再生对其预后十分重要。
+MI 的范围可反映血管再生情况，MI 面积与血管再生
+程度呈负相关。 彭程飞等[20]研究显示，人参皂苷 Rg1
+的干预可显著提高 AMI 模型大鼠心脏新生毛细血管
+内皮细胞的主要标志物 CD31 表达，进而促进 AMI 后
+心脏血管再生。 陈协辉等[21]对大鼠 AMI 模型研究显
+示，人参皂苷 Rg1 治疗能够有效促进大鼠缺血心肌冠
+状动脉侧支血管生成，可动员骨髓干细胞归巢于缺血心
+肌，并上调血管内皮生长因子（vascular endothelial growth
+factor，VEGF）和其受体 Flk-1 的表达，促进微血管生
+成，缩小 MI 面积。 Yin 等[22]研究人参皂苷 Rg1 干预 MI
+模型大鼠发现，人参皂苷 Rg1 可通过激活 PI3K/Akt，
+抑制 p38MAPK 表达，进而促使 VEGF 表达增加，毛细
+血管密度增加，促进血管再生、减轻心肌纤维化、改善
+左心室功能。
+1.5 人参皂苷抑制 MI 后心脏重构
+MI 伴随心脏重构，Yu 等[23]研究发现人参皂苷 Re
+能显著抑制 MI 大鼠的心肌损伤，减轻氧化应激，改善
+心功能，防止 MI 导致的左心室扩大。 具体机制为人
+参皂苷 Re 通过促进 AMPKa 磷酸化，抑制 TGF-β1/
+Smad2/3 信号通路的激活，进而减轻 MI 大鼠左心室间
+质纤维化程度，提示人参皂苷 Re 可能通过调节 AMPK/
+TGF-β1/Smad2/3 信号通路，改善 MI 所致的心功能障
+碍，抑制心室重构。 此外，人参皂苷 Re 还能减轻心功
+能不全动物模型的心肌损伤，抑制心肌肥厚和心室重
+构，促进梗死后愈合的过程‘人参皂苷 Re 通过改善异
+丙肾上腺素或缺血/再灌注诱导的大鼠心脏的抗氧化
+功能和抑制炎症细胞浸润来保护缺血心肌[24-25]。
+50
+中国医药导报 2022 年 2 月第 19 卷第 4 期
+·综
+述·
+CHINA MEDICAL HERALD VoI. 19 No. 4 February 2022
+1.6 人参皂苷促进 MI 后氧/葡萄糖的供应
+心肌缺血阻断了心脏的氧/葡萄糖供应，造成细
+胞膜损伤，并产生早期应激反应，导致能量供应从有
+氧代谢转变为无氧代谢。胆碱是细胞膜的必需元素，其
+水平的变化与细胞膜的损伤有关，胆碱水平已被认为
+是与 AMI 长期风险相关的新兴生物标志物。 Jiang 等[26]
+建立大鼠 AMI 模型，进行人参皂苷 Rg1 和 Rb1 干预，
+研究显示人参皂苷 Rg1 和 Rb1 能上调胆碱和葡萄糖
+水平。 提示人参皂苷 Rg1 和 Rb1 可能调节细胞膜损
+伤的早期应激反应，促进糖原分解和糖酵解产生更多
+的 ATP。
+2 讨论
+MI 在中医学方面隶属于“厥心痛”“真心痛”等范
+畴[27]，《素问•脏气法时论》记载“心病者，胸中痛，胁支
+满，膺背肩甲内痛，两臂内痛”，与现代医学 MI 的临床
+症状相符[28]。 在我国，人参作为中医药被用于防治 MI
+的历史悠久，著名经方麝香保心丸、生脉散、保元汤等
+在防治 MI 的临床应用中已十分广泛。 且有进一步的
+研究表明人参中的有效成分——
+—人参皂苷在麝香保
+心丸[29]、生脉散[30]、保元汤[31]的药物组成中发挥了主要
+的药理作用，并在大量动物实验中有效改善了 AMI
+心脏心肌细胞凋亡以及心肌组织的氧化损伤情况。人
+参皂苷通过多途径、多靶点防治 MI，涉及细胞凋亡、炎
+症反应、心肌纤维化、血管再生、心脏重构、氧/葡萄糖
+供应等多种作用机制。 目前，人参皂苷的药理作用具
+有良好的医学应用前景。 然而，如何将其更好地应用
+于 MI 的临床治疗，还需要规范的指南标准及更深层面
+的探索挖掘，进而为新药的研发奠定扎实的基础。
+[参考文献]
+[1] 中华医学会心血管病学分会，中华心血管病杂志编辑委
+员会.急性 ST 段抬高型心肌梗死诊断和治疗指南（2019）[J].
+中华心血管病杂志，2019，47（10）：766-783.
+[2] 中华医学会心血管病学分会.血管紧张素转换酶抑制剂
+在冠心病患者中应用中国专家共识[J].中国循环杂志，
+2016，31（5）：420-425.
+[3] 何奔，韩雅玲.中国 ST 段抬高型心肌梗死救治现状及应
+有对策[J].中华心血管病杂志，2019，47（2）：82-84.
+[4] 赵英利，邓兵.心肌梗死后心室重构的机制及中医药防
+治进展[J].中西医结合心脑血管病杂志，2019，17（2）：211-
+215.
+[5] 宋齐.人参主要化学成分及皂苷提取方法研究进展[J].人
+参研究，2019，31（4）：43-46.
+[6] 蔡晓月，赵英强.人参治疗心血管疾病的药理学研究[J].
+长春中医药大学学报，2012，28（1）：158-159.
+[7] Chen X，Wang Q，Shao M，et al. Ginsenoside Rb3 regulates
+energy metabolism and apoptosis in cardiomyocytes via
+activating PPARalpha pathway [J]. Biomed Pharmacother，
+2019，120：109487.
+[8] Yan X，Liu J，Wu H，et al. Impact of miR-208 and its Tar
+get Gene Nemo-Like Kinase on the Protective Effect of
+Ginsenoside Rb1 in Hypoxia/Ischemia Injuried Cardiomy-
+ocytes [J]. Cell Physiol Biochem，2016，39（3）：1187-1195.
+[9] Cao L，Gao Y，Zhu J，et al. Protective action of the gin-
+senoside Rh3 in a rat myocardial ischemia -reperfusion
+injury model by inhibition of apoptosis induced via p38
+mitogen-activated protein kinase/caspase-3 signaling [J].
+J Int Med Res，2020，48（12）：1220768642.
+[10] Sun J，Sun G，Meng X，et al. Ginsenoside RK3 Prevents
+Hypoxia-Reoxygenation Induced Apoptosis in H9c2 Car-
+diomyocytes via AKT and MAPK Pathway
+[J]. Evid
+Based Complement Alternat Med，2013，2013：690190.
+[11] Ruparelia N，Godec J，Lee R，et al. Acute myocardial in-
+farction activates distinct inflammation and proliferation
+pathways in circulating monocytes，prior to recruitment，
+and identified through conserved transcriptional respons-
+es in mice and humans
+[J]. Eur Heart J，2015，36（29）：
+1923-1934.
+[12] Prabhu SD，Frangogiannis NG. The Biological Basis for
+Cardiac Repair After Myocardial Infarction：From Inflam-
+mation to Fibrosis [J]. Circ Res，2016，119（1）：91-112.
+[13] Sun GZ，Meng FJ，Cai HQ，et al. Ginsenoside Rg3 pro-
+tects heart against isoproterenol-induced myocardial in-
+farction by activating AMPK mediated autophagy [J].
+Cardiovasc Diagn Ther，2020，10（2）：153-160.
+[14] Tu C，Wan B，Zeng Y. Ginsenoside Rg3 alleviates inflam-
+mation in a rat model of myocardial infarction via the
+SIRT1/NF-kappaB pathway [J]. Exp Ther Med，2020，20
+（6）：238.
+[15] 杨伟，滕林，丁家望，等.人参皂苷 compound K 对小鼠
+心肌梗死后心室重构的保护及免疫机制研究[J].心肺
+血管病杂志，2016，35（6）：478-481.
+[16] 贺欣，张英杰.人参皂苷 Rg1 通过 NF-κB 通路减轻大
+鼠心肌缺血再灌注损伤[J].中药药理与临床，2015，31
+（4）：16-19.
+[17] Li X，Xiang N，Wang Z. Ginsenoside Rg2 attenuates my-
+ocardial fibrosis and improves cardiac function after my-
+ocardial infarction via AKT signaling pathway [J]. Biosci
+Biotechnol Biochem，2020，84（11）：2199-2206.
+[18] 韩凌，张晶晶，秦立.人参皂苷 Rb3 通过 Neuregulin-1/
+ErbB 信号通路对心肌梗死大鼠 VE-cadherin，NRG-1，
+ErbB2，ErbB4 表达的影响[J].中国循证心血管医学杂
+志，2019，11（2）：195-199.
+[19] 彭程飞，李佳，田孝祥，等.人参皂苷 Rg1 抑制大鼠急性
+心肌梗死后心肌纤维化[J].现代生物医学进展，2017，
+17（16）：3005-3007.
+（下转第 61 页）
+51
+中国医药导报 2022 年 2 月第 19 卷第 4 期
+·综
+述·
+CHINA MEDICAL HERALD VoI. 19 No. 4 February 2022
+[20] 彭程飞，田孝祥，刘丹，等.人参皂苷 Rg1 促进大鼠急性
+心肌梗死后血管新生[J].现代生物医学进展，2019，19
+（14）：2638-2641.
+[21] 陈协辉，梁进杰，刘新荪，等.人参皂苷 Rg1 对大鼠心肌
+梗死后心肌血管再生的影响[J].心血管康复医学杂志，
+2017，26（3）：245-250.
+[22] Yin H，Liu Z，Li F，et al. Ginsenoside-Rg1 enhances an-
+giogenesis and ameliorates ventricular remodeling in a
+rat model of myocardial infarction [J]. J Mol Med（Berl），
+2011，89（4）：363-375.
+[23] Yu Y，Sun J，Liu J，et al. Ginsenoside Re Preserves Car-
+diac Function and Ameliorates Left Ventricular Remodel-
+ing in a Rat Model of Myocardial Infarction
+[J]. J Car-
+diovasc Pharmacol，2020，75（1）：91-97.
+[24] Wang QW，Yu XF，Xu HL，et al. Ginsenoside Re Attenuates
+Isoproterenol-Induced Myocardial Injury in Rats [J]. Evid
+Based Complement Alternat Med，2018，2018：8637134.
+[25] Lim KH，Lim DJ，Kim JH. Ginsenoside-Re ameliorates
+ischemia and reperfusion injury in the heart：a hemody-
+namics approach [J]. J Ginseng Res，2013，37（3）：283-292.
+[26] Jiang M，Kang L，Wang Y，et al. A metabonomic study of
+cardioprotection of ginsenosides，schizandrin，and ophio-
+pogonin D against acute myocardial infarction in rats [J].
+BMC Complement Altern Med，2014，14：350.
+[27] 《中成药治疗优势病种临床应用指南》标准化项目组.
+中成药治疗冠心病临床应用指南（2020 年）[J].中西医
+结合心脑血管病杂志，2021，19（9）：1409-1435.
+[28] 心血管网.心肌梗死中西医结合诊疗指南[J].中国中西
+医结合杂志，2018，38（3）：272-284.
+[29] 刘群，吴然，吕超，等.麝香保心丸中 5 种人参皂苷类化
+合物在心肌梗死大鼠血浆中的药代动力学研究[J].中国
+中药杂志，2017，42（1）：162-169.
+[30] Wang YQ，Zhang JQ，Liu CH，et al. Screening and identi-
+fying the myocardial -injury protective ingredients from
+Sheng-Mai-San [J]. Pharm Biol，2013，51（10）：1219-1227.
+[31] Wang X，Meng H，Wang Q，et al. Baoyuan decoction ame-
+liorates apoptosis via AT1-CARP signaling pathway in
+H9C2 cells and heart failure post -acute myocardial in-
+farction rats [J]. J Ethnopharmacol，2020，252：112536.
+（收稿日期：2021-08-17）
+石术治疗小儿肾结石的临床对比研究[J].中华小儿外
+科杂志，2020，41（3）：248-251.
+[22] 石博文，徐科.经皮肾镜取石术在儿童肾结石中的应用
+及进展[J].临床小儿外科杂志，2017，16（6）：617-621.
+[23] Pelit ES，Atis G，Kati B，et al. Comparison of Mini-per-
+cutaneous Nephrolithotomy and Retrograde Intrarenal
+Surgery in Preschool-aged Children
+[J]. Urology，2017，
+101：21-25.
+[24] El-Nahas AR，Shokeir AA，El-Assmy AM，et al. Post-
+percutaneous nephrolithotomy extensive hemorrhage：a
+study of risk factors [J]. J Urol，2007，177（2）：576-579.
+[25] Huang Z，Fu F，Zhong Z，et al. Chinese minimally inva-
+sive percutaneous nephrolithotomy for intrarenal stones
+in patients with solitary kidney：a single -center experi-
+ence [J]. PLoS One，2012，7（7）：e40577.
+[26] Imam TH，Patail H，Patail H. Medullary Sponge Kidney：
+Current Perspectives
+[J]. Int J Nephrol Renovasc Dis，
+2019，12：213-218.
+[27]
+Sun H，Zhang Z，Yuan J，et al. Safety and efficacy of
+minimally invasive percutaneous nephrolithotomy in the
+treatment of patients with medullary sponge kidney [J].
+Urolithiasis，2016，44（5）：421-426.
+[28] Chen H，Chen G，Pan Y，et al. No Wound for Stones <2
+cm in Horseshoe Kidney：A Systematic Review of Com-
+parative Studies [J]. Urol Int，2019，103（3）：249-255.
+[29] Kartal I，Çakici M，Selmi V，et al. Retrograde intrarenal
+surgery and percutaneous nephrolithotomy for the treat-
+ment of stones in horseshoe kidney‘what are the advan-
+tages and disadvantages compared to each other? [J].
+Cent European J Urol，2019，72（2）：156-162.
+[30] 黄伟，周凤其，庄建，等.后腹腔镜肾盂切开取石术和经
+皮肾镜碎石取石术治疗老年患者肾盂结石的临床效
+果比较[J].中国医药，2021，16（8）：1227-1230.
+[31] 黄水通.经皮肾镜取石术治疗肾结石疗效分析[J].中国
+医药科学，2020，10（7）：239-242.
+[32] 刘江，郭丽辉，缪晓红，等.微创经皮肾镜取石术联合输
+尿管软镜治疗复杂肾结石的临床研究[J].中国当代医
+药，2021，28（10）：120-122，126.
+[33] Wu W，Zhao Z，Zhu H，et al. Safety and efficacy of mini-
+mally invasive percutaneous nephrolithotomy in treatment
+of calculi in horseshoe kidneys
+[J]. J Endourol，2014，28
+（8）：926-929.
+[34] 高学林，郑万祥，郭凡，等.微通道经皮肾镜联合输尿管
+软镜治疗马蹄肾下盏结石的临床疗效[J].现代泌尿外
+科杂志，2020，25（11）：1011-1014.
+（收稿日期：2021-06-16）
+（上接第 51 页）
+61

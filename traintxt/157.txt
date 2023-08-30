@@ -1,0 +1,667 @@
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参皂苷神经药理作用研究进展
+宋 佳 1，何俊桓 1，王仙婷 1，朱诗敏 1，唐根云 1，2，3,4*
+(1.湖南医药学院基础医学院，怀化 418000：2.脑与神经内分泌疾病湖南省高等学校重点实验室，怀化 418000;3.中药合
+成生物学研究湖南省重点实验室，怀化 418000, 4.侗医药研究湖南省重点实验室，怀化 418000)
+摘
+要：人参皂苷是人参中主要的活性成分，具有多种功能，被认为具有治疗人类疾病的潜在价值，包括抗
+炎、抗癌、创伤愈合、心血管保护和神经保护。 本文分析了人参皂苷对阿尔茨海默病、认知障碍、缺
+血性脑卒中、帕金森病和抑郁症等疾病的神经药理作用及其作用机制，以期为上述疾病的临床治
+疗提供参考。
+关键词： 人参皂苷；阿尔茨海默病；帕金森病；神经保护；药理作用
+人参属于五加科(Araliaceae)人参属(Panax L)植
+物，作为一种补益中药具有抗肿瘤、免疫调节、抗哮
+喘、抗抑郁、抗疲劳、抗病毒、抗氧化、抗溃疡等多种药
+理作用[1]。人参皂苷是主要活性成分，已被证明可以影
+响中枢神经系统、心血管系统、内分泌系统、免疫和代
+谢系统，并具有抗应激和抗衰老的药理活性。 人参皂
+苷主要分为三种，即原人参三醇(PPTs;人参皂苷 Rg1、
+Re、Rg2、Rh1、Rf)、 原人参二醇 (PPD; 人参皂苷 Rb1,
+Rb2, Rd, Rg3 和 Rh2) 和齐墩果酸衍生物 (人参皂苷
+Ro)[2]。 目前，我国人口老龄化的程度不断加剧，神经系
+统疾病和神经退行性疾病的发生率逐年升高,本文就
+近 7 年国内外文献中人参皂苷的神经药理活性以及
+治疗神经退行性疾病和神经系统疾病做如下综述。
+1 人参皂苷对阿尔茨海默病和认知障碍的治疗作用
+1.1 人参皂苷抑制 β 淀粉样蛋白的沉积
+阿尔茨海默病症(Alzheimer disease,AD)是一种进
+行性中枢神经系统退行性疾病[3]，主要特点是胆碱能
+异常、β 淀粉样蛋白（beta-amyloid protein, Aβ）、神经
+原纤维缠结、广泛的神经元丢失[4]。 AD 患者大脑积累
+的大量 β-淀粉样斑块是 AD 发病机制中的关键事
+件， 其由淀粉样前体蛋白 (amyloid precusor protein ,
+APP)被 β-分泌酶和 γ-分泌酶水解形成，同时膜成分
+如胆固醇和神经节苷脂也能增强 β-淀粉样斑块的产
+生[5]。 有研究发现人参皂苷 Rh2 能够降低细胞胆固醇
+和脂筏水平， 减少 β 淀粉样蛋白分泌， 从而抑制膜
+APP 内吞过程
+[6]。 人参皂苷 Rg2 诱导自噬可降低 AD
+小鼠大脑细胞内 Aβ42 的水平和细胞外斑块的形成，
+改善 AD 小鼠模型的认知障碍[7]，人参皂苷 Rb1 和 Rg1
+通过 Akt 和 ERK1/2 信号通路上调 p-Akt 和 p-ERK1/
+2 水平， 促进海马神经元的神经突生长， 对暴露于
+Aβ25-35 的海马神经元发挥神经保护作用[8-9]，且人参
+皂苷 Rg1 通过促进 AD 相关蛋白的清除， 激活脑源性
+Abstract:Ginsenoside is the main active ingredient in ginseng, which has a variety of functions and is considered
+to have potential value in the treatment of human diseases, including anti-inflammatory, anti-cancer,
+wound
+healing, cardiovascular protection
+and
+neuroprotection.The
+pharmacological effects
+of
+ginsenosides on Alzheimer's disease, cognitive impairment, ischemic stroke, Parkinson's disease and
+depression and their mechanisms were analyzed in this paper, in order to provide reference for the
+clinical treatment of these diseases.
+Keywords:Ginsenoside；Alzheimer's disease；Parkinson's disease；neuroprotection；pharmacological effect
+Research Progress on Neuropharmacology Effect of Ginsenosides
+SONG Jia 1, HE Jun-huan1,WANG Xian-ting1, ZHU Shi-min1, TANG Gen-yun1,2,3,4*
+（1.Basic Medical College, Hunan University of Medicine, Huaihua,Hunan 418000;2.Key Laboratory of Brain and Neuroendocrine Diseases,
+College of Hunan Province, Hunan University of Medicine, Huaihua,Hunan 418000, China.；3.Hunan Provincial Key Laboratory for Synthetic
+Biology of Traditional Chinese Medicine,Hunan University of Medicine, Huaihua,Hunan 418000, China.；4. Hunan Provincial key Laboratory of
+Dong Medicine, Hunan University of Medicine, huaihua, 418000, China.）
+基金项目：国家自然科学基金青年项目，项目编号：81703821;湖南省自然科学基金，项目编号：2017JJ3224；湖南省教育厅项目，项目
+编号：2018B530。 湖南医药学院自然科学基金，项目编号：19KJPY01；国家级大学生创新创业训练计划项目，项目编号：
+S202012214012。
+作者简介：宋佳，女，本科，主要从事中药神经药理研究。
+* 通信作者：唐根云,女，副教授，博士,硕士生导师，主要从事中药神经药理研究。 E-mail:tanggenyun@foxmail.com.
+DOI：10.19403/j.cnki.1671-1521.2021.06.015
+52
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+宋 佳等：人参皂苷神经药理作用研究进展
+神经营养因子 (brain derived neurotrophic factor ,BD-
+NF)和 p-TrkB 通路来修复海马长时程增强效应和记忆
+[10]。 人参皂苷 Rg1 通过增强过氧化物酶体增殖物激活
+受体 γ
+(Peroxisome proliferator activated receptor-γ,
+PPARγ)) 与 Bace1 启动子的结合来抑制 β-淀粉样蛋
+白裂解酶 1 (Bace1)的转录和翻译，从而降低 Bace1 活
+性，最终减弱 Aβ 的产生,此外，Rg1 增加胰岛素降解
+酶 IDE(另一种 PPARγ 靶基因)的表达，并促进 Aβ1-
+42 的清除[11]。
+1.2 人参皂苷具有中枢拟胆碱活性
+AD 的 大 脑 发 病 过 程 与 神 经 递 质 乙 酰 胆 碱
+（acetylcholine，Ach）缺乏密切相关，胆碱能系统在 AD
+患者中严重受损， 而胆碱能标志物乙酰胆碱转移酶
+(choline acetyl transferase，ChAT)和囊泡乙酰胆碱转运
+体(vesicle acetylcholine transporter，VAChT)在胆碱能
+神经传递过程中起着重要的作用。 有研究发现，人参
+皂苷 Re 和 Rd 能有效增强 N2a 细胞中 ChAT/VAChT
+基因的表达，增加 ACh 的产生，对抗 AD 的发病过程
+和进展
+[4]。 大脑暴露于脂多糖 （lipopolysaccharide ，
+LPS）可显著损害工作和空间记忆，人参皂苷 Rg1 阻
+止 LPS 诱导的乙酰胆碱(ACh)水平下降和乙酰胆碱酯
+酶活性增加，使 LPS 处理小鼠的前额皮层（PFC）和海
+马中减少的 α 烟碱型乙酰胆碱受体表达恢复，有效缓
+解 LPS 引起的认知功能下降[12]。
+1.3 人参皂苷具有抗炎、抗氧化应激的作用
+在大脑皮层和海马皮层中，Aβ 诱发炎症反应、氧
+化应激导致神经元的损伤[13]。 而人参皂苷 Rg3 和 Rh2
+能够选择性上调 PI3K/Akt，抑制 ERK 活化，降低神经
+炎症的毒性，抑制炎症因子，减少三甲基氯化锡损伤大
+鼠星形胶质细胞的死亡
+[14]。 活性氧 （reactive oxygen
+species，ROS）作为氧化应激早期标志，其过度的氧化
+作用可引起细胞损伤。 有研究认为人参皂苷 Rb1 可通
+过作为 PPARγ 的激动剂，通过减少由胆固醇流出增强
+引起的活性氧积累和脂质过氧化以及增加抗氧化的过
+氧化氢酶 CAT 的表达发挥神经保护作用[10]，同时人参
+皂苷 Rb1、Rd、Rg1、Rg3 和 Rh2 通过激活 Nrf2 通路，增
+强 SOD 和谷胱甘肽过氧化物酶的活性并显著降低过氧
+化氢和 Aβ 损伤神经细胞模型中的 ROS 的水平，起到抗
+氧化应激的作用，参与 AD 的防治过程[14-20]。
+1.4 人参皂苷能够抑制细胞凋亡
+Caspases 作为细胞凋亡信号的蛋白水解酶，参与
+AD 神经元细胞凋亡的病理过程。 人参皂苷 Rd、Rb1
+和 Rg1 能够下调 Caspase-3 和 Caspase-9 的蛋白水
+平、 升高 Bcl-2/Bax 的比例来改善过氧化氢和 Aβ 诱
+导的神经元凋亡[2，10，13，15，16，17，18，19]。研究证明人参皂苷 Rb2
+通过抑制丝裂原活化蛋白激酶(mitogen-activated pro-
+tein kinase，MAPK)中 p38，ERK 和 JNK 活性和凋亡诱
+导因子（Apoptosis Inducing Factor，AIF）易位抑制谷氨
+酸诱导的神经毒性， 并上调抗凋亡基因 Bcl-2 表达，
+降低了促凋亡基因 Bax 水平。抑制 AIF 介导的凋亡细
+胞死亡。 发挥神经保护作用，达到治疗 AD 的效果[17]。
+1.5 人参皂苷能够增强自噬过程
+越来越多的研究指出了自噬体在 AD 早期在海
+马和皮质轴突中的积累这导致自噬通量的阻断和自
+噬体不能与细胞体周围的溶酶体正确融合[21]，因此，
+自噬增强是对抗错误折叠蛋白毒性的一种有前途的
+治疗策略， 人参皂苷在肠道中的代谢产物人参皂苷
+CK 可抑制 mTOR 的磷酸化，增强自噬，提高星形胶质
+细胞对 Aβ 的清除率[3]。 而人参皂苷 Rg2 以 AMPK 依
+赖和 mTOR 非依赖的方式激活自噬过程，增强了淀粉
+样物质的清除，改善了阿尔茨海默病小鼠模型中的认
+知行为[22]。
+2 人参皂苷对缺血性脑卒中的治疗作用
+2.1 人参皂苷减轻缺血性脑卒中患者的再灌注损伤
+缺血性脑卒中是由于脑供血不足而导致脑组织
+坏死的总称， 会导致患者有不同程度的神经功能障
+碍，造成患者的生活与社交能力障碍，甚至导致病人
+肢体残疾或死亡[23]。 人参皂苷可有效地减轻该病患者
+脑组织缺血再灌注的损伤，改善脑神经的功能。 相关
+实验表明，人参皂苷 Rg1 通过抑制 Ca2+过度流入神经
+元细胞，降低缺血再灌注后神经元中 NO 活性，发挥
+对海马神经元细胞缺血再灌注损伤的保护作用[23]。 且
+Rg1 能够下调水通道蛋白 （AQP4） 和蛋白酶活化受
+体-1（PAR-1）的表达，防止缺血再灌注脑损伤大鼠血
+脑屏障破坏和脑梗死[24-25]。 而人参皂苷 Rd 通过抑制
+ASK1-JNK 通路， 下调 Caspase-3 的表达来实现对脊
+髓缺血/再灌注损伤（ischemic/ reperfusion injury I/RI）
+的神经保护作用[26]。 另外，有研究证明 Rd 通过 PI3K/
+Akt/GSK-3β 通路减轻脑缺血所致神经功能障碍[27]。
+2.2 人参皂苷促进神经元的再生
+缺血性卒中由于脑损伤会导致快速和显著的神
+经功能障碍[23]。 轴突再生和重连在神经重塑中起关键
+作用，通过重连神经网络来补偿受损神经[28]。 有研究
+显示，人参皂苷 Rd 通过增加血管内皮生长因子和脑
+源性神经营养因子的表达，激活 PI3K/Akt 和 ERK1/2
+通路，增加调节转录因子和基因表达，从而促进神经
+再生[29]。 还过 MAPK/ERK 和 PI3K/Akt 通路上调特异
+性蛋白(growth associated protein-43,GAP-43)的表达，
+促进 PC12 细胞的神经突的生长[30]。 同时有研究表明。
+Rg1 还能够刺激神经干细胞（neural stem cells，NSCs）
+的分化，而分化的 NSCs 细胞分泌的神经生长因子可
+以改善脊髓局部微环境，诱导轴突再生进而产生多种
+细胞外基质， 填补新生儿缺氧缺血性脑病 （hypoxic-
+ischemic encephalopathy，HIE）后的空洞，为轴突再生
+提供支持，促进 HIE 大鼠模型脑功能的恢复[31]。 同时
+还有研究显示 Rb1 可以通过 cAMP/PKA/CREB 信号
+通路改善脑卒中后小鼠的运动功能恢复和增强轴突
+再生[32]。
+2.3 人参皂苷通过抗氧化应激降低对神经元的损伤
+脑缺血再灌注后产生的大量自由基对神经细胞
+53
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+有严重的损伤作用，抑制氧化应激反应成为预防缺血
+损伤的重要手段。 有研究表明人参皂苷 Rb1 能抑制
+因脑缺血而过度活化的小胶质细胞中 (nitric oxide ,
+NO)、O2-和(tumor necrosis factor- alpha ,TNF-α)的表
+达，从而保护大鼠大脑皮层神经元免受过度活化的小
+胶质细胞所介导的损伤[33]。 也有研究表明，人参皂苷
+Rb1 作为抗氧化剂在老年神经系统疾病(如中风)的抗
+衰老治疗中具有良好的应用前景[34]。 同时，人参皂苷
+Rg1 通过抑制 miR-144 活性，并随后在翻译后水平上
+促进 Nrf2/ARE 通路，从而减轻 I/RI 后的氧化应激[35]。
+3 人参皂苷对帕金森病的治疗作用
+帕金森(Parkinson's disease， PD)是老年人最常见
+的中枢神经系统退行性疾病之一，其主要病理改变是
+中脑黑质多巴胺能神经元的逐渐丧失，因而保护多巴
+胺能神经元免受渐进性损伤的成为了一种治疗策略。
+Rg1 抑制 MPTP 诱导的 PD 小鼠的小胶质细胞活化，减
+少 SNPC 区域多巴胺能神经元的丢失从而起到神经保
+护的作用[36]。 且 Rg1 通过抑制 ROS-NF-KB 途径，激
+活 P13K/AKt 通路抑制促凋亡蛋白磷酸化， 减少异常
+的 α-突触核蛋白（PD 致病基因）介导的神经炎症而
+发挥抗氧化、抗凋亡和神经保护的作用[37-38]。而人参皂
+苷 Rb1 不仅通过抑制核因子 κB 磷酸化防止 LPS 诱导
+的神经炎症以及减少黑质纹状体系统中多巴胺能神经
+元的丢失[39]。而且通过跨突触 α-突触核蛋白/PSD‐95
+途径上调谷氨酸转运体 GLT-1 水平来改善运动缺陷
+并防止多巴胺神经元死亡，使突触可塑性和兴奋性传
+递得到改善[40-41]。 人参皂苷 Rd 和 Re 通过抑制氧化应
+激和炎症反应, 逆转 PD 小鼠多巴胺神经元凋亡一系
+列调控基因和蛋白的异常表达来实现多巴胺神经元
+的保护作用[41]。
+4 人参皂苷对抑郁症的治疗作用
+抑郁症是一种神经精神疾病，但其确切机制尚不
+清楚。 早期的研究表明,单胺类神经递质的缺乏与抑
+郁症的发病机理有关[42]，(5-hydroxytrylamine,5-HT)是
+一种重要的单胺类神经递质，外源性给予 5-HT 可明
+显减轻抑郁症状。 人参皂苷 Rb1 通过促进 5-HT 的合
+成产生抗抑郁作用[43]。 而人参皂苷 Rg3 通过调节 NA、
+ACTH 和皮质酮水平发挥抗抑郁作用[44]。人参皂苷 Rh2
+可促进海马神经元成熟和神经发生，并通过抑制NF—
+KB 信号通路降低海马组织炎性反应来发挥抗抑郁作
+用[45]。最近的研究表明缺乏 BDNF/TrkB 使啮齿类动物
+易患抑郁症， 而人参皂苷 Rb1 和 Rg5 可通过激活
+BDNF/TrkB-CREB 通路起到抗抑郁作用[43]，[46]，此外人
+参皂苷的肠道代谢产物 CK 通过增加 CUMS 大鼠
+PFC 和海马区 5-HT、DA 及其代谢产物水平， 促进
+BDNF 和 NGF 表达， 逆转 MAOB 过表达而在啮齿动
+物中发挥抗抑郁作用[47]。 人参皂苷 Rg1 一方面上调抑
+郁和记忆相关蛋白 CPLX2， 记忆相关蛋白 SYN2、
+SNP25 的表达， 改善 3xTg-AD 小鼠的记忆障碍和抑
+郁样行为[48]，另一方面通过调节 NF-kB/NLRP3 通路
+减轻大鼠慢性不可预测的轻度应激诱导的抑郁样作
+用[49]。
+5 结论与展望
+本文总结了近 7 年来人参皂苷神经生物学药理
+活性以及人参皂苷治疗神经退行性疾病和神经系统
+疾病的最新进展。上述体外研究表明人参皂苷具有较
+好的治疗神经退行性疾病和神经系统疾病的作用，多
+种人参皂苷单体大多通过抑制 Aβ 沉积、增加神经营
+养因子表达、抗炎症、抗氧化应激，激活特定通路、信
+号分子及表达相关蛋白等方面治疗神经退行性疾病
+和神经系统疾病，体内实验也表明可以减轻小鼠的认
+知障碍。人参皂苷更多的作用靶点及其最有效的作用
+途径还有待研究。
+目前，AD 致病因素和发病机制复杂，暂未有有效
+的药物能将其治愈。寻找人参皂苷最有效的作用靶点
+及其与其他中西药结合治疗 AD 应成为日后重点研
+究方向。 此外，人参皂苷可以有效治疗 PD 和抑郁症，
+相对于目前临床使用药物来说毒性较小。但研究范围
+仍比较局限，故人参皂苷也是一种治疗 PD 和抑郁症
+具有研究意义的前景药物，现在人参皂苷药效研究多
+在体外开展， 但缺乏体内试验及相关神经药理学数
+据，随着当代中医药事业及现代医学的发展，人参皂
+苷的药理研究将会取得新的突破。
+参 考 文 献
+[1]Rajabian A, Rameshrad M, Hosseinzadeh H.
+Therapeutic potential of Panax ginseng and its con-
+stituents, ginsenosides and gintonin, in neurological and
+neurodegenerative disorders: a patent review [J]. Expert
+opinion on therapeutic patents, 2019, 29(1): 55-72.
+[2]Hou J, Xue J, Lee M, et al. Ginsenoside Rd as a
+potential neuroprotective agent prevents trimethyltin in-
+jury[J]. Biomedical reports, 2017, 6(4): 435-440.
+[3]Guo J, Chang L, Zhang X, et al. Ginsenoside
+compound K promotes β?amyloid peptide clearance in
+primary astrocytes via autophagy enhancement [J]. Ex-
+perimental and therapeutic medicine, 2014, 8(4): 1271-
+1274.
+[4]Kim M S, Yu J M, Kim H J, et al. Ginsenoside
+Re and Rd enhance the expression of cholinergic mark-
+ers and neuronal differentiation in Neuro -2a cells [J].
+Biological and Pharmaceutical Bulletin, 2014: b14 -
+00011.
+[5]Changhong, K., et al., Ginsenoside Rb1 protect-
+ed PC12 cells from Abeta25 -35 -induced cytotoxicity
+via PPARgamma activation and cholesterol reduction.
+Eur J Pharmacol, 2021. 893: p. 173835.
+[6]Qiu J, Li W, Feng S H, et al. Ginsenoside Rh2
+promotes nonamyloidgenic cleavage of amyloid precur-
+54
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+sor protein via a cholesterol -dependent pathway [J].
+Genet Mol Res, 2014, 13(2): 3586-98.
+[7]Fan Y, Wang N, Rocchi A, et al. Identification
+of natural products with neuronal and metabolic bene-
+fits through autophagy induction [J]. Autophagy, 2017,
+13(1): 41-56.
+[8]Liu J, He J, Huang L, et al. Neuroprotective ef-
+fects of ginsenoside Rb1 on hippocampal neuronal in-
+jury and neurite outgrowth [J]. Neural regeneration re-
+search, 2014, 9(9): 943.
+[9]Huang L, Liu L, Liu J, et al. Ginsenoside Rg1
+protects against neurodegeneration by inducing neurite
+outgrowth in cultured hippocampal neurons [J]. Neural
+regeneration research, 2016, 11(2): 319.
+[10]Wang B, He L, Cui B, et al. Protection of gin-
+senoside Rgl on central nerve cell damage and the in-
+fluence on neuron apoptosis [J]. Pakistan journal of
+pharmaceutical sciences, 2014, 27(6).
+[11]Quan, Q., et al., Ginsenoside Rg1 reduces β
+amyloid levels by inhibiting CD5K -induced PPARγ
+phosphorylation in a neuron model of Alzheimer's dis-
+ease. Molecular Medicine Reports, 2020.
+[12]Jin Y, Peng J, Wang X, et al. Ameliorative ef-
+fect of ginsenoside Rg1 on lipopolysaccharide-induced
+cognitive impairment: role of cholinergic system [J].
+Neurochemical research, 2017, 42(5): 1299-1307.
+[13]Wu J, Yang H, Zhao Q, et al. Ginsenoside Rg1
+exerts a protective effect against Aβ25 -35 -induced
+toxicity in primary cultured rat cortical neurons through
+the NF -κB/NO pathway [J]. International journal of
+molecular medicine, 2016, 37(3): 781-788.
+[14]Hou J, Xue J, Wang Z, et al. Ginsenoside Rg3
+and Rh2 protect trimethyltin‐induced neurotoxicity via
+prevention on neuronal apoptosis and neuroinflamma-
+tion[J]. Phytotherapy Research, 2018, 32 (12): 2531 -
+2540.
+[15]Liu J, Yan X, Qi L, et al. Ginsenoside Rd attenu-
+ates Aβ25–35-induced oxidative stress and apoptosis in
+primary cultured hippocampal neurons [J]. Chemico-bio-
+logical interactions, 2015, 239: 12-18.
+[16]Wang Y, Liu Q, Xu Y, et al. Ginsenoside Rg1
+protects
+against
+oxidative
+stress -induced
+neuronal
+apoptosis through myosin IIA-actin related cytoskeletal
+reorganization[J]. International journal of biological sci-
+ences, 2016, 12(11): 1341.
+[17]Dong Hoi Kim, Dae Won Kim, Bo Hyun Jung,
+et al. Ginsenoside Rb2 suppresses the glutamate-medi-
+ated oxidative stress and neuronal cell death in HT22
+cells. 2019, 43(2):326-334.
+[18]Fernández-Moriano C, González-Burgos E,
+Iglesias I, et al. Evaluation of the adaptogenic potential
+exerted by ginsenosides Rb1 and Rg1 against oxidative
+stress -mediated neurotoxicity in an in vitro neuronal
+model[J]. PloS one, 2017, 12(8): e0182933.
+[19]Wang J, Hou J, Lei H, et al. Synergistic neuro-
+protective effect of microglial?conditioned media treated
+with geniposide and ginsenoside Rg1 on hypoxia injured
+neurons [J]. Molecular medicine reports, 2015, 12 (4):
+5328-5334.
+[20]王利军,何静春,王丽芳等.人参皂苷 Rb-1 对
+阿尔茨海默病模型大鼠的神经保护作用[J].中华医学
+杂志,2020,100(31):2462-2466.
+[21]Boland Barry,Kumar Asok,Lee Sooyeon,et al.
+Autophagy induction and autophagosome clearance in
+neurons:
+relationship
+to
+autophagic
+pathology
+in
+Alzheimer's disease. [J]. The Journal of neuroscience :
+the official journal of the Society for Neuroscience,
+2008,28(27).
+[22]Yuying Fan, Nan Wang, Altea Rocchi, et al. I-
+dentification of natural products with neuronal and
+metabolic benefits through autophagy induction. 2017,
+13(1):41-56.
+[23] He Q, Sun J, Wang Q, et al. Neuroprotective ef-
+fects of ginsenoside Rg1 against oxygen–glucose depri-
+vation in cultured hippocampal neurons [J]. Journal of the
+Chinese Medical Association, 2014, 77(3): 142-149.
+[24] Xie C L, Li J H, Wang W W, et al. Neuropro-
+tective effect of ginsenoside-Rg1 on cerebral ischemia/
+reperfusion injury in rats by downregulating protease-
+activated receptor-1 expression[J]. Life sciences, 2015,
+121: 145-151.
+[25] Zhou Y, Li H, Lu L, et al. Ginsenoside Rg1 pro-
+vides neuroprotection against blood brain barrier disrup-
+tion and neurological injury in a rat model of cerebral is-
+chemia/reperfusion through downregulation of aquaporin
+4 expression[J]. Phytomedicine, 2014, 21(7): 998-1003.
+[26] Wang B, Zhu Q, Man X, et al. Ginsenoside Rd
+inhibits apoptosis following spinal cord ischemia/reper-
+fusion injury [J]. Neural regeneration research, 2014, 9
+(18): 1678.
+[27] Zhang X, Shi M, Ye R, et al. Ginsenoside Rd
+attenuates Tau protein phosphorylation via the PI3K/
+AKT/GSK -3β pathway after transient forebrain is-
+chemia[J]. Neurochemical research, 2014, 39(7): 1363-
+1373.
+[28] Nelles G, Spiekramann G, Jueptner M, et al.
+Evolution of functional reorganization in hemiplegic
+stroke: a serial positron emission tomographic activation
+study. Ann Neurol,1999， 46 (6), 901-909.
+[29] Liu X, Zhou X, Hou J, et al. Ginsenoside Rd
+55
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+人参研究
+GINSENG RESEARCH
+2021 年第 6 期
+promotes neurogenesis in rat brain after transient focal
+cerebral ischemia via activation of PI3K/Akt pathway[J].
+Acta Pharmacologica Sinica, 2015, 36(4): 421.
+[30] Wu S D, Xia F, Lin X M, et al. Ginsenoside-
+Rd promotes neurite outgrowth of PC12 cells through
+MAPK/ERK -and PI3K/AKT -dependent pathways [J].
+International journal of molecular sciences, 2016, 17(2):
+177.
+[31] Li Y, Wang Y, Tang J, et al. Neuroprotective
+effects of ginsenoside Rg1 -induced neural stem cell
+transplantation on hypoxic-ischemic encephalopathy[J].
+Neural regeneration research, 2015, 10(5): 753.
+[32] CerebrovascularDiseasesandConditions-Stroke;
+DataonStrokeDiscussedbyResearchersatHebeiMedicalU-
+niversity (GinsenosideRb1PromotesMotorFunctionalRe-
+coveryandAxonalRegenerationInPost-strokeMiceThrough
+Camp/pka/crebSignalingPathway).2020,:499.
+[33] Ke L, Guo W, Xu J, et al. Ginsenoside Rb1
+attenuates activated microglia-induced neuronal dam-
+age[J]. Neural regeneration research, 2014, 9(3): 252.
+[34] Dong X, Zheng L, Lu S, et al. Neuroprotective
+effects of pretreatment of ginsenoside Rb1 on severe
+cerebral ischemia‐induced injuries in aged mice: In-
+volvement of anti‐oxidant signaling [J]. Geriatrics &
+gerontology international, 2017, 17(2): 338-345.
+[35] Shi-feng Chu, Zhao Zhang, Xin Zhou, et al.
+Ginsenoside Rg1 protects against ischemic/reperfusion-
+induced neuronal injury through miR -144/Nrf2/ARE
+pathway. 2019, 40(1):13-25.
+[36] Zhou T, Zu G, Wang X, et al. Immunomodula-
+tory and neuroprotective effects of ginsenoside Rg1 in
+the MPTP (1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropy-
+ridine)-induced mouse model of Parkinson's disease[J].
+International immunopharmacology, 2015, 29 (2): 334-
+343.
+[37] Heng Y, Zhang Q S, Mu Z, et al. Ginsenoside
+Rg1 attenuates motor impairment and neuroinflamma-
+tion in the MPTP -probenecid -induced parkinsonism
+mouse model by targeting α-synuclein abnormalities in
+the substantia nigra[J]. Toxicology letters, 2016, 243: 7-
+21.
+[38] Fu W, Zhuang W, Zhou S, et al. Plant-derived
+neuroprotective agents in Parkinson’s disease[J]. Ameri-
+can journal of translational research, 2015, 7(7): 1189.
+[39] Da-Wei Li, Fa-Zhan Zhou, Xian-Chang Sun,
+et al. Ginsenoside Rb1 protects dopaminergic neurons
+from
+inflammatory
+injury
+induced
+by
+intranigral
+lipopolysaccharide injection. 2019, 14(10).
+[40] Qu S, Meng X, Liu Y, et al. Ginsenoside Rb1
+prevents MPTP-induced changes in hippocampal mem-
+ory via regulation of the α-synuclein/PSD-95 pathway.
+Aging (Albany NY). 2019 Apr 4;11(7):1934-1964.
+[41] 李冬,王欣笛,郭道宇, 等.人参皂苷 Rg1，Rb1，
+Rd，Re 和帕金森病的研究进展[J].解剖学杂志,2020,43
+(6):517-521.
+[42] Xu D, Wang C, Zhao W, et al. Antidepressant-
+like effects of ginsenoside Rg5 in mice: Involving of
+hippocampus BDNF signaling pathway [J]. Neuroscience
+letters, 2017, 645: 97-105.
+[43] Wang G L, He Z M, Zhu H Y, et al. Involve-
+ment of serotonergic, noradrenergic and dopaminergic
+systems in the antidepressant-like effect of ginsenoside
+Rb1, a major active ingredient of Panax ginseng CA
+Meyer [J]. Journal of ethnopharmacology, 2017, 204:
+118-124.
+[44]Z hang H, Li Z, Zhou Z, et al. Antidepressant-
+like effects of ginsenosides: a comparison of ginsenoside
+Rb3 and its four deglycosylated derivatives, Rg3, Rh2,
+compound K, and 20 (S)-protopanaxadiol in mice mod-
+els of despair [J]. Pharmacology Biochemistry and Be-
+havior, 2016, 140: 17-26.
+[45] 方玲,杨莉莉.人参皂苷 Rh2 对慢性不可预知
+应激所致抑郁小鼠的治疗作用及机制研究[J]. ?浙江
+医学. 2019(21)；2269-2273.
+[46] Wang Guoli, Lei Cong, Tian Ya, et al. Rb1,
+the Primary Active Ingredient in Panax ginseng C.A.
+Meyer, Exerts Antidepressant-Like Effects via the BD-
+NF-Trkb-CREB Pathway.. 2019, 10:1034.
+[53] Song
+W, Guo Y, Jiang S, et al. Antidepressant effects of the
+ginsenoside metabolite compound K, assessed by be-
+havioral despair test and chronic unpredictable mild
+stress model [J]. Neurochemical research, 2018, 43(7):
+1371-1382.
+[47] Lulin Nie, Junxia Xia, Honglian Li, et al. Gi-
+nsenoside Rg1 Ameliorates Behavioral Abnormalities
+and Modulates the Hippocampal Proteomic Change in
+Triple Transgenic Mice of Alzheimer’s Disease. 2017,
+2017.
+[48] Nie L, Xia J, Li H, et al. Ginsenoside Rg1 a-
+meliorates behavioral abnormalities and modulates the
+hippocampal proteomic change in triple transgenic mice
+of Alzheimer’s disease[J]. Oxidative medicine and cel-
+lular longevity, 2017, 1-17.
+[49] Yong-Qiang Zhang, Xu-Bo Wang, Ran-Ran
+Xue, et al. Ginsenoside Rg1 attenuates chronic unpre-
+dictable mild stress-induced depressive-like effect via
+regulating NF -κB/NLRP3 pathway in rats. 2019, 30
+(13):893-900.
+56

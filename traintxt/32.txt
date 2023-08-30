@@ -1,0 +1,557 @@
+特产研究
+Speci al Wi l d Economi c Ani mal and Pl ant Research
+121
+DOI ：1 0．1 6720／j ．cnki ．tcyj ．2022．038
+人参蛋白的药理作用
+李婕1，赵雨1，许宁1，幸书杨1，舒振波2，庞博1※
+( 1．长春中医药大学吉林省人参科学研究院，吉林长春130117；2．吉林大学中日联谊医院，吉林长春130033)
+摘要：人参是我国传统中药，人参蛋白是其重要组成成分。目前已发现的人参蛋白在影响细胞增殖、抗肿瘤、抗氧化衰老、提升免疫和
+降血脂等方面具有重要作用，且能够显著改善学习和记忆，对阿尔茨海默症和帕金森等疾病具有显著治疗作用，有被深入研究和开
+发的潜力。本文结合近年关于人参蛋白和人参多肽作用的研究，综述了人参蛋白的药理作用，为其进一步开发和利用提供参考。
+关键词：人参蛋白；人参；中药；药理作用
+中图分类号：R285
+文献标识码：A
+文章编号：1001．4721( 2022) 02．0121．06
+Pharmacol ogi cal Act i on of Gi nseng Prot ei n
+LI J i el ，ZHAOYul ，XU Ni n91，XI NGShu- yan91，SHU Zhen—b02，PANG B01※
+( 1．J i l i n Gi nseng Academy, Changchun Uni versi t y of Chi nese Medi ci ne，Changchun
+130117，Chi na；2．Chi na—J apan Uni on
+Hospi t al ，J i l i n Uni versi t y, Changchun
+1 30033，Chi na)
+Abst ract ：Gi nseng i s a Tradi t i onal Chi nese Medi ci ne，and gi nseng prot ei n i s an i mport ant component of gi nseng．At present ，gi nseng prot ei n
+has been f ound t o pl ay al l i mport ant rol e i n af f ect i ng t he cel l prol i f erat i on，ant i - t umor, ant i —oxi dat i ve agi ng，enhanci ng i mmuni t y, l oweri ng
+bl ood l i pi ds and ot her aspect s，and si gni f i cantl y i mprovi ng t he l earni ng and memory．I t has a si gni f i cant t herapeut i c ef f ect on Al zhei mer' s
+di sease and Parki nson’
+S di sease，and has t he pot ent i al
+t o be f urt her st udi ed and devel oped．Thi s paper revi ews t he pharmacol ogi cal
+act i on of
+gi nseng prot ei n and gi nseng pol ypept i de，and coul d provi de a ref erence f or t he f urt her devel opment and ut i l i zat i on of gi nseng prot ei n．
+Key words：gi nseng prot ei n；gi nseng；t radi t i onal
+chi nese medi ci ne；pharmacol ogi cal act i on
+人参是五加科植物人参( Panax gi nseng C．A．Mey)
+的根及根茎，是我国应用广泛的传统中药，有保护神经
+系统【1] 、心血管系统【2] 和内分泌系统[ 3】的作用。人参的
+活性成分复杂，主要包括皂苷、多糖、挥发油、甾醇、有
+机酸、蛋白质、多肽和生物碱等【4] 。目前国内外关于人
+参的研究多集中于人参皂苷，有关人参蛋白和多肽的
+相关研究较少，但早在20世纪，就有关于人参蛋白
+( gi nseng prot ei n，GP) 提取和活性的研究。1992年，侯
+元等[ 5】利用电泳技术将GP分成20多个组分，其中绝
+大部分蛋白的等电点在4～7范围内。张巍等【6] 发现GP
+有热不稳定性，提示GP加工提取时应当采用冷提法。
+因此，根据GP的性质，GP常用的提取方法有以Tri s．
+HCl 溶液及PBS溶液为主的传统浸提法和有机试剂
+沉淀法[ 7] 。有机试剂沉淀法包括Tri zol 提取法【8】、膜过
+滤法[ 9] 、沉淀法[ 10，1l 】和快速溶剂萃取法[ 12】等。GP常用
+分离方法包括超滤法[ 131、亲和层析法[ 14] 、疏水层析
+法[ 11] 、凝胶层析法[ 15] 和离子交换树脂法【16] 等。GP常
+用的分析鉴定方法多种多样，比如凝胶电泳[ 171、SDS—
+PAGE指纹图谱技术[ 181、Bradf ord法[ 19】、Lowry法【20】
+和超高效液相色谱一高分辨质谱法【21] 等。
+目前报道的人参蛋白根据功能不同分为类RNA
+酶蛋白、核糖核酸酶、皂苷合成相关酶、几丁质样蛋白
+和木聚糖酶等[ 22] ，这些蛋白与人参抗真菌【23】、抗病
+毒[ 24] 、合成皂苷【25] 、影响细胞增殖[ 26] 和转录活· I @[ 271有
+收稿日期：2021- 10．18
+基金项目：吉林省中药组学工程实验室( 2014N155) ；有助于增强免疫力的保健产品“ 参苓倍健饮” 研究与开发( 20200708060YY) ；
+吉林省中药生物技术重点实验室( 20140622003J c)
+作者简介：李婕( 1998．) ，女，山东省潍坊市人，硕士研究生，从事中药活性物质研究。
+※ 通讯作者：庞博( 1996- ) ，女，博士，从事中药活性物质研究。
+万方数据
+122
+特
+产
+研
+究
+2022年第44卷第2期
+关。经过提取纯化后，人参水溶性蛋白具有抗氧化[ 28] 、
+抗辐射[ 29] 、提升免疫[ 7] 、耐缺氧[ 30] 8H抗疲劳[ 31】等作用。
+基于此，本文从人参多肽和人参蛋白的活性研究等方
+面对人参蛋白的药理作用进行初步总结，为人参蛋白
+的后续研究提供帮助。
+1
+人参蛋白的药理作用
+1．1对细胞增殖的影响
+1．1．1
+促进细胞增殖GP可以促进细胞生长，促进
+伤口愈合。严铭铭等[ 13】发现，GP有促进小鼠海马细胞
+增殖的作用。SUN L w等[ 32] 证明，GP可以通过调节
+小鼠胚胎成纤维细胞NI H／3T3细胞周期、增加调节胶
+原合成因子表达及胶原的分泌和激活ERK信号通路
+促进细胞增殖和胶原分泌，在促进创面愈合中起到积
+极作用。王佳雯等[ 331证明，GP能够增加I 型胶原蛋白
+( col l agen I ，COL I ) 和转化生长因子B1基因的表达量
+促进NI H／3T3细胞增长。
+但也有学者发现，人参水溶性蛋白能够抑制非洲
+绿猴肾脏成纤维细胞Vero增殖；对小鼠成纤维细胞L929
+具有低浓度促进增殖、高浓度抑制增殖的作用[ 34] 。这表
+明浓度过高的GP不仅不会对促进伤口愈合产生好
+处，同时还可能会造成肾脏毒性。而关于GP的安全剂
+量，目前尚未见相关研究。
+1．1．2抗肿瘤肿瘤细胞可以通过调控细胞凋亡来
+延长自己的存活时间[ 35] ，有研究指出，GP可以抑制人
+喉癌细胞Hep一2、小鼠黑色素瘤B16细胞株的增殖【36】。
+李红艳等[ 37】将人参蛋白作用于Hep一2细胞悬液上，发
+现使用不同处理方法提取的GP对Hep一2细胞的作
+用并不一致。人参总蛋白对Hep．2细胞的体外抑制作
+用效果最好，且其抑制率随蛋白浓度的增加而增加。而
+经过沸水、透析处理的蛋白效果并不理想，这可能与蛋
+白活性已经发生变化有关。
+任雨贺等[ 38] 发现，GP能通过调控人乳腺癌细胞
+MCF一7的周期来诱导肿瘤细胞的凋亡。其作用机制是
+通过线粒体途径进行诱导，阻滞细胞有丝分裂，抑制凋
+亡的能力，从而抑制癌细胞的增殖。
+程璐等[ 39] 用GP联合H202诱导人神经母细胞瘤
+SH—SY5Y细胞损伤，染色检测细胞凋亡。实验结果表
+明，GP本身并不能导致SH—SY5Y细胞损害，但GP
+可加强H202诱导癌细胞损伤作用。
+1．2抗氧化应激及老化
+1．2_1
+抗氧化应激损伤GP具有抗自由基对细胞氧
+化损伤的作用。人类的生活离不开自由基，但同时也深
+受其害。自由基对人体的攻击可导致细胞免疫受损，并
+产生炎症和衰老。超氧化物歧化酶( superoxi de di smut -
+ase，SOD) 能够清除有害的自由基，维护体内氧化平
+衡。姚刚等⋯ 从GP中分离出一种四聚体蛋白，经检
+测具有SOD活性。谢洪等[ 41] 发现，幼年期人参的SOD
+蛋白活性较强，随着时间的推移，人参中SOD蛋白活
+性降低，在一20℃下储存时人参中的SOD蛋白活性损
+失最少。
+人体内自由基作用于脂质产生的丙二醛( mal on—
+di al dehyde，MDA) 是膜脂过氧化的毒性产物，常用于
+测定生物体内的氧化应激程度。谷胱甘肽过氧化物酶
+( gl ut at hi one peroxi dase，GSH—Px) 可以还原有毒的过氧
+化物，保护细胞膜。赵雨等[ 28] 通过比较小鼠分别因缺
+氧、亚硝酸钠中毒和脑缺血性缺氧导致死亡的时间，发
+现使用GP灌胃的小鼠均能延长存活时间，MDA含
+量降低，GSH—Px活力升高，说明GP具有耐缺氧和抗
+氧化作用。
+刘达等[ 42] 发现人参糖蛋白能降低大鼠体内肌酸
+激酶同工酶、乳酸脱氢酶( 1act at e dehydrogenase，LDH)
+的活性和活性氧( ROS) 荧光强度，升高SOD和谷胱
+甘肽的活性，减轻阿霉素所致的氧化应激损伤，提高心
+脏功能。
+1 12_2抗衰老
+过氧化氢是常用构建衰老模型的方
+法，它可导致神经元细胞损伤，引起细胞形态发生改
+变，使细胞老化和凋亡。Bcl 一2基因和Bax基因可以通
+过众多途径来影响细胞凋亡，其比值是确定细胞是否
+凋亡的重要标志【35】。有研究证明，GP可以抑制过氧化
+氢引起的乳鼠皮层神经细胞凋亡和衰老，降低Bax／
+Bcl 一2比值，说明GP有保护神经元和抗衰老的作用【43】。
+另外文章中还指出，浓度不同的GP对细胞存活率有
+不同的影响，其中低、高剂量具有促进作用，中剂量具
+有抑制作用，这可能与GP中含有的3种抗氧化酶的
+不同作用有关。
+阿尔茨海默症( al zhei merdi sease，AD) 和帕金森综
+合征( parki nson’
+S di sease，PD) 是两种常见的老年神经
+退行性疾病，AD的两个主要病理特征是淀粉样蛋白
+沉积和神经纤维缠结。p淀粉样蛋白( amyl oi d- [ j ，AB) 通
+过阻断影响大脑功能的P13K／AKT信号通路，导致神
+经元的损伤与凋亡[ 44] 。
+GP对神经系统具有保护作用，可以减轻神经元
+损伤。李红艳等[ 45] 通过实验发现，GP对AD损伤的神
+经元具有保护作用。与正常细胞相比，大鼠细胞AD模
+万方数据
+第2期
+p
+李婕，等：人参蛋白的药理作用
+123
+型细胞凋亡率升高，胞体形态学改变。经GP作用后，
+大鼠细胞存活率上升，一氧化氮合酶( ni t ri c oxi de syn．
+t hase，NOS) 活性和NO水平均下降，说明GP对ABl ．40
+或H202所导致的神经元损伤具有保护作用。后续实
+验证明，GP提高AD大鼠神经元的存活率、减少体外
+神经元凋亡和增强细胞抗氧化的能力可能与CPM／PKA／
+CREB通路介导的抗氧化和凋亡抑制作用有关⋯ 。同
+时，GP可以提高AD大鼠的记忆能力，降低大鼠的
+ABl —42和异常过度磷酸化的t au蛋白含量，这可能是
+通过激活P13K／AKT通路完成的[ 47】。
+PD表现为手抖、肌强直、平衡障碍和食欲不振。
+它的发病与遗传、生活方式、神经系统老化和机体稳定
+等相关。其中PI NKl 蛋白突变以及Q一突触蛋白( 0【一Syn．
+ucl ei n，0【．syn) 异常聚集可能是造成PD的重要原因[ 48】。
+LI U等[ 49】证明，GP对帕金森病果蝇模型的神经毒性
+具有保护作用，能够促进线粒体功能的维持，并保护线
+粒体免受氧化应激的影响。
+王思明等[ 50] 将Q—syn异常表达的PD模型果蝇给
+予人参总蛋白后，测试其脑部脂质过氧化物( 1i pi dper—
+oxi dat i on，LPO) 、谷胱甘肽( gl ut at hi one，GSH) 、谷胱甘
+肽一s本争移酶( gl ut at hi one S—t ransf erase，GST) 和蛋白质
+羰基( prot ei n carbonyl ，PC) 含量。实验证明GP能够明
+显提高PD果蝇存活率，有效恢复其爬行和飞行能力，
+可下调脑内LPO、GS和PC的量，升高GSH的量，且
+有浓度依赖性。说明GP能够抑制Q．syn的异常聚集，
+从而降低PD的病理征状。
+除了氧化应激导致的衰老以外，紫外线照射也是
+细胞老化的重要原因，长波黑斑效应紫外线( ul t ravi ol et
+A，uVA) 具有很强穿透力，能深入真皮层，抑制纤维细
+胞增殖能力，增加胶原蛋白降解率，产生松弛和皱纹。
+UVA照射引起的成纤维细胞衰老主要是由于真皮细
+胞胶原降解和细胞的DNA氧化损伤，其中基质金属
+蛋白酶( mat ri x met al l oprot ei nase，MMPS) 参与结缔组
+织重建。J I ANG等[ 51] 证明，GP可以抑制ROS引起的
+DNA损伤，增加COLI 表达，降低MMP一2和MMP一9
+酶活性，从而抑制紫外线导致的肌肤老化。
+1．3提升免疫
+人参增强免疫的作用多体现在多糖和皂苷上【52] ，但
+有研究指出，GP也具有提升免疫的作用。赵雨等[ 53] 将
+诱发迟发性超敏反应( del ayed t ype hypersensi t i vi t y,
+DTH) 的小鼠进行行为学和理化测试，结果发现GP组
+T细胞功能、吞噬指数Q和肝SOD含量明显增加，肝
+MDA含量降低，缺氧死亡和游泳溺水死亡时间显著
+延长。说明GP能增强DTH，促进单核巨噬细胞的功
+能，从而促进细胞的免疫功能。王钰莹等[ 7] 的研究结果
+表明，GP可以增强小鼠巨噬细胞吞噬的能力和释放
+NO的能力，促进前列腺素E2和肿瘤坏死因子的分泌。
+SUNL等[ 54】证明，GP能提高细胞活力和肌管直
+径，降低Ca2+浓度和LDH释放，可能通过激活AMPK
+和P13K／Akt 信号通路，提高肌管葡萄糖消耗，从而促
+进高剂量地塞米松诱导的小鼠成朋细胞肌肉萎缩的恢复。
+1．4耐缺氧和抗疲劳
+GP具有抗疲劳能力。人体内的肝糖原使血糖维
+持在稳定范围内，当肝糖原被消耗时，就会产生疲劳【55] 。
+机体大量运动后导致的组织缺氧可引起身体内血乳酸
+值的升高。赵雨等[ 31】给喂养GP的小鼠检查其运动后
+体内的血乳酸值、肝糖原和血清尿素氮含量变化，结果
+表明，GP与小鼠肝糖原含量呈正相关，与小鼠血乳酸
+值呈负相关，说明GP能够提高小鼠耐缺氧和抗疲劳
+能力。
+1．5调节血脂
+人参对心血管疾病有较好治疗作用[ 56] 。早在1991
+年就有人指出，GP能够改善高脂给药引起的高血脂
+症[ 57] 。得高血脂症( hyperl i pi demi a，HLP) 的病人血液
+中血清总胆固醇( t ot al
+chol est erol ，TC) 、甘油三酯( t ri —
+gl yceri de，TG) 增高，多有并发症出现，是造成心脑血管
+疾病的重要诱因之一。赵雨等[ 58] 对HLP大鼠模型灌
+胃给予GP后，检查TC、TG以及HDL—C 3种指标，
+发现给予GP后，大鼠的TC和TG均有降低，表明
+GP具有降低血脂的作用。
+1．6抗辐射
+人参中皂苷、蛋白和多糖均具有一定抗辐射作用f 59】。
+辐射可破坏细胞结构，产生大量具有强氧化性的自由
+基，致使机体代谢紊乱，对生物体伤害巨大[ 60】。因此，
+保护造血细胞、清除自由基和提高免疫等成为抗辐射
+药物首选功能[ 6H。ⅪM和CHOI [ 62] 发现，GP显著降低
+紫外线诱导的仓鼠卵巢肿瘤细胞CHO．K1姐妹染色
+单体交换率，表明GP具有降低DNA损伤的作用，
+ⅪM等[ 63] 发现，GP能增强紫外照射下的损伤细胞
+DNA修复。赵雨等[ 29] 发现，给小鼠预先服食GP后，
+以60Co- Y射线照射小鼠全身，受照小鼠的白细胞数减
+少、微核数增多、SOD活性降低及MDA含量增加，同
+时，随着GP含量的提高，受照小鼠的胸腺、脾脏指数
+也增加，反映了GP有提高免疫力的作用，其抗辐射作
+万方数据
+124
+特
+产
+研
+究
+2022年第44卷第2期
+用可能与GP增强免疫力，清除自由基的作用密切相关。
+1．7其他
+GP还具有抗真菌作用[ 酬，与其具有的人参脂质
+转运蛋白、亲环素蛋白和Def ensi n蛋白等有关【65] 。
+人参糖蛋白( gi nseng gl ycoprot ei n，PGP) 是一种由
+共价键连接的含有寡糖链的蛋白质，具有镇痛、提高睡
+眠质量、改善记忆力和增强学习能力等作用。WANG
+等[ 66】证明，人参糖蛋白能减轻小鼠扭体，延长热板潜
+伏期，表现出明显的镇痛活性，并且糖蛋白中蛋白含量
+越高，其镇痛活性越好。人参糖蛋白有改善睡眠的作
+用，作用机制可能与NO合成有关[ 67] 。FANG等[ 68]
+经荧光成像证明，脑血管上皮细胞具有特异性摄取
+PGP的能力，使得糖蛋白在脑内富集，具有神经保护的
+作用。这印证了PGP能显著改善学习和记忆。
+2人参多肽的药理作用
+人参多肽由氨基酸构成，是蛋白质的前体分子，容
+易被人体吸收，具有抑菌、提高免疫、降血糖、改善记忆
+和耐缺氧等作用。
+李红艳等[ 69] 将GP用酶水解后，GP大部分水解
+为多肽，小部分为氨基酸，说明人体可能以多肽或氨基
+酸形式吸收GP。李海涛等[ 17】证明，GP经酶解得到小
+分子量多肽和氨基酸的混合物，可以清除羟自由基，对
+金黄色葡萄球菌有抑制作用。经研究证明，小分子量人
+参寡肽能够提高巨噬细胞吞噬能力、NK细胞活性和
+Th细胞分泌，可提高小鼠体内先天和适应性免疫反
+应，还可以抗Bap诱发的A549细胞损伤[ 70，71] 。孙彬
+等[ 72】发现，人参寡肽具有降血糖作用，可以降低胰岛素
+水平、糖化血清蛋白和胆固醇水平，这可能由于GP中
+含有降血糖的精氨酸。
+王军波等[ 30】证明，人参多肽能延长小鼠常压、亚
+硝酸钠和急性脑缺血耐缺氧时间。人参多肽还能增强
+小鼠记忆能力( 73，74] 。人参糖肽能减低血糖，保护因为链
+脲佐菌素损伤的胰岛p细胞【75】。
+3总结与展望
+人参作为中药的应用历史悠久，关于人参功效的
+研究也随着时代发展而愈加科学全面。《神农本草经》
+中载：“ 人参主补五脏，安精神，定魂魄，止惊悸，除邪
+气，明目，开心益智。久服，轻身延年。” 现代科学证实，
+人参具有调节中枢神经系统，减轻头痛、失眠及健忘等
+症状，增强人体免疫，提高人的记忆力和抗衰老等作
+用。人参蛋白及多肽是人参中的重要活性成分之一，近
+些年有关于此的研究越来越受到人们重视。
+人参蛋白具有改善记忆、抗疲劳、抗衰老、抑制肿
+瘤和保护神经系统及提升免疫等作用，在中草药保健、
+美容和药物开发等方面提供了新思路。人参多肽是人
+参蛋白的前体物质，具有抑菌、降血糖和改善记忆等作
+用，同时可作为人参不同年份的质量标记物，在药用植
+物的质量控制中具有广阔的应用前景[ 76】。
+但看似蓬勃发展的人参蛋白研究研发产业目前还
+存在许多问题：如近些年偏重将人参总蛋白认为是一
+种整体来提取研究，经过纯化的蛋白成分不清，机制不
+明；有研究证明人参蛋白对个别细胞具有促进增殖或
+损害作用，其功能与剂量相关，其剂量的安全问题还有
+待研究。因此，需要加强有关文献搜索研究，结合剂量
+问题设计合理可靠实验，引入先进技术和方法，从蛋白
+的单一功能研究移向分子水平作用机制的研究。
+据目前所知，人参中含有300余种人参多肽和蛋
+白，仅很少一部分得到了分离鉴定，绝大多数蛋白依然
+深藏在未知海洋中，因此仍需要进行继续全面地研究
+发展，从而为相关医药保健行业等产品的研发提供新
+的选择。
+参考文献
+[ 1】许彤，付丽娜，隗永健．人参皂苷R91对H202诱导的大鼠海
+马神经元损伤的影响及其机制[ J ] ．海峡药学，2019，31( 1) ：
+19．22．
+[ 2】刘悦平，崔金涛．人参对心血管系统的作用[ J 】．湖北中医杂
+志，2006( 7) ：56．57．
+[ 3】陈东浪，邹培源，林铭健．人参对心力衰竭患者心功能、神经
+内分泌因子影响的研究[ J ] ．中国医药科学，2020，10( 23) ：100．
+102+173．
+[ 4] 宋齐．人参主要化学成分及皂苷提取方法研究进展[ J 】．人参
+研究，2019，31( 4) ：43．46．
+[ 5] 侯元，孙萍，焦连庆，等．人参蛋白的等电聚焦电泳分析[ J 】．人
+参研究，1992( 4) ：34．36．
+[ 6] 张巍．人参蛋白的分离纯化工艺及热稳定性研究[ D] ．长春：
+长春中医药大学，2007．
+[ 7】王钰莹，闰福源，闰凯丽，等．人参蛋白的提取和体外免疫调
+节活性研究[ J 】．长春中医药大学学报，2018，34( 3) ：443．445．
+[ 8] 任雨贺，刘淑莹，万茜淋．人参蛋白质不同提取方法及含量的
+比较[ J ] ．安徽农业科学，2018，46( 11) ：1- 3+9．
+[ 9] ANDOT，MURAOKA T' YAMASAKI N，et a1．Preparat i on of
+ant i - l i pol yt i c subst ance f romPanax gi nseng[ J ] ．Pl ant a Med，
+1980，38( 1) ：18．23．
+[ 10] 王伟楠，赵雨，李红艳，等．人参蛋白四种提取方法的比较研
+究[ J 】食品工业科技，2010，31( 5) ：280—281．
+[ 11】孟丽莉．人参及鹿茸蛋白的分离纯化[ D】．延吉：延边大学，
+万方数据
+第2期
+李婕，等：人参蛋白的药理作用
+125
+2008．
+[ 12】汪树理，李晓红，张秋，等．利用快速溶剂萃取方法提取人参
+蛋白的研究[ J ] ．时珍国医国药，2010，21( 06) ：1318．1319．
+[ 13】严铭铭．人参鹿茸中蛋白多肽的纯化及活性研究[ D】．长春：
+长春中医药大学，2007．
+[ 14】张鑫．人参Cu／Zn- SOD原核表达的载体构建、表达及纯化[ D] ．
+长春：长春中医药大学，2012．
+[ 15】魏俊杰，李平亚，曾向东，等．生晒参多肽的提取分离[ J 】．白
+求恩医科大学学报，1990( 5) ：436．438．
+[ 16】CHENZ K，FANC X，YE Y H，et a1．I sol at i on and charact er-
+i zat i on of a group of ol i gopept i des rel at ed t o oxi di zed gl ut at -
+hi one f romt he root of Panax gi nseng[ J ] ．The J ournal of Pep-
+t i de Research：Of f i ci al J ournal of t he Ameri can Pept i de So—
+ci ety, 1998，52( 2) ：137—142．
+[ 17] 李海涛．人参粗蛋白提取及酶解产物的研究【D】．长春：吉林
+农业大学，2011．
+[ 18】张浩．人参活性成分蛋白质、氨基酸、有机酸及核苷类成分
+研究[ D】．长春：吉林大学，2016．
+[ 19】幺宝金．人参蛋白、多肽的提取分离及性质研究[ D] ．长春：长
+春中医药大学，2009．
+[ 20] 郝建勋，李萍，李学，等．生药蛋白质提取方法的研究进展[ J 】．
+时珍国医国药，2012，23( 3) ：737．738．
+[ 21】赵楠，程孟春，吴玉林，等．基于超高效液相色谱．高分辨质
+谱的多肽组学技术用于人参不同部位多肽的差异分析[ J ] ．
+色谱，2019，37( 12) ：1305．1313．
+[ 22】王逸，鲍勇刚，贾韦国，等．人参蛋白研究进展[ J ] ．中草药，
+2013，44( 19) ：2782．2786．
+[ 23】GONG L，GAOJ ，XU T S，et a1．Transcri pt ome anal ysi s of f i -
+el d- grownAsi an gi nseng provi des cl ues t o envi ronment al con-
+di t i ons and devel opment al mechani sms rel at ed t o red ski n root
+syndrome[ J ] ．I ndust ri al Crops&Product s，2020，153：1364．
+[ 24】NGT B，WANGHX．Panaxagi n, a newprot ei n f romChi nese gi n-
+seng possesses ant i - f ungal ，ant i - vi ral ，t ransl at i on- i nhi bi t i ng and
+ri bonucl ease acti vi ti es[ J ] ．Li f e Sci ences，2001，68( 7) ：739．749．
+[ 25】王康宇，张美萍，李闯，等．人参15个组织器官中皂苷量与
+6种人参皂苷生物合成基因表达的相关性研究[ J 】．中国中
+药杂志，2015，40( 16) ：3168．3173．
+[ 26】李兴玉，李静，牛小娟，等．一种人参蛋白的分离方法及该人
+参蛋白的用途；CNl 765920[ P] ．2006．05—03．
+[ 27】LAMS K，NG T B．A xyl anase f romroot of sanchi gi nseng
+Panax not ogi nseng wi t h i nhi bi t ory ef f ect s onhuman i mmuno-
+def i ci ency vi res—I reverse transcri ptase[ J ] ．Li f e Sci ，2002，70
+( 25) ：3049．3058．
+[ 28] 徐云风，赵雨，张惠，等．人参蛋白对小鼠的耐缺氧及抗氧化
+作用[ J 】．食品科技，2012，37( 3) ：79．82．
+[ 29】李红艳，赵雨，孙晓迪，等．人参蛋白抗辐射损伤作用研究[ J 】．
+时珍国医国药，2010，21( 9) ：2143．2144．
+【30] 任金威，李迪，孙靖琴，等．吉林人参低聚肽对小鼠耐缺氧作
+用的研究[ J 】．中国食物与营养，2018，24( 12) ：54．57．
+[ 31] 徐云凤，赵雨，邢楠楠，等．人参蛋白对小鼠抗疲劳作用的研
+究[ J 】．食品工业科技，201 1，32( 11) ：406．407+436．
+[ 32】CHENXN，WANGMYXUXH，et a1．Panaxgi nsengt ot al
+prot ei n promot es
+prol i f erat i on and secret i on of
+col l agen
+i n
+NI H／3T3 cel l s by act i vat i ng ext racel l ul ar si gnal - rel at ed ki nase
+pat hway[ J ] ．J ournal of Gi nseng Researcl l ，2017，41( 3) ：41 1- 418．
+[ 33】王敏，王思明，张丽轩，等．人参水溶性总蛋白对BALB／3T3
+细胞增殖以及对COL I 和TGF．131基因表达的影响【J 】．中
+成药，2017，39( 12) ：2589．2591．
+[ 34] 李红艳，赵雨，张巍，等．人参水溶性蛋白对几种细胞增殖的
+影响[ J 】．吉林农业大学学报，2008( 5) ：705．707+711．
+[ 35】杨连君．bcl ．2，bax与肿瘤细胞凋亡[ J ] ．中国肿瘤生物治疗
+杂志，2003( 3) ：232—234．
+[ 36] 张丽轩，王思明，王敏，等．人参水溶性总蛋白对小鼠黑色素
+瘤细胞B16的增殖抑制及对Bcl ．2／Bax表达的影响[ J 】．科
+学技术与工程，2017，17( 33) ：64．68．
+[ 37】李红艳，赵雨，张惠，等．人参蛋白对Hep．2细胞增殖影响
+的比较[ J ] ．中国民族民间医药，2010，19( 1) ：33．34．
+[ 38】任雨贺．人参蛋白质的提取及其对乳腺癌MCF．7细胞的抗
+肿瘤作用研究[ D】．长春：长春中医药大学，2019．
+[ 39】程璐，李红艳，孔亮，等．人参蛋白协同H202诱导SH．SY5Y
+细胞氧化损伤[ J 】．中国医院药学杂志，2016，36( 9) ：707．710．
+[ 40] 姚刚，刘宏，欧阳昌汉．人参水溶性蛋白的提取及SOD活性
+测定【J 】．时珍国医国药，2012，23( 5) ：1153．1154．
+[ 41】谢洪，刘良明，陈琳玲．不同储藏人参及西洋参超氧化物歧
+化酶活力比较[ J 】．实用中医药杂志，2014，30( 5) ：470- 471．
+[ 42】王蕾，董金香，罗浩明，等．人参糖蛋白对阿霉素所致心肌毒性
+的保护作用及其机制研究[ J 】．中草药，2021，52( 7) ：1965．1973．
+[ 43] 李红艳，代永霞，张江华，等．人参蛋白对过氧化氢致神经元损
+伤的保护作用【J 】．中国医院药学杂志，2015，35( 21) ：1906- 1910．
+[ 44】傅文壶，罗建平，刘长虹．P13K／AKT信号通路在常见神经
+退行性疾病中的机制研究进展[ J ] ．生物技术通讯，2017，28
+( 6) ：853—859．
+[ 45】李红艳，曹阳，白雪媛，等．人参蛋白对B淀粉样蛋白1．40和
+H202损伤神经元的保护作用及其机SJ J [ J ] ．吉林大学学报( 医
+学版) ，2013，39( 6) ：1138．1142．
+[ 46】LI HY SONGJ ，ZHANG J H，et a1．Gi nseng prot ei n reverses
+amyl oi d bet a pept i de and H202 Cyt ot oxi ci t y i n neurons，and
+amel i orat es
+cogni t i ve i mpai rment
+i n AD rat s i nduced by
+a
+combi nat i on of D- Gal act ose and AI Cl 3[ J ] ．Phyt ot herapy Re-
+search，2017，31( 2) ：284- 295．
+[ 47] LI H Y，KANGT G，QI B，et a1．Neuroprot ect i ve ef f ect s of
+gi nseng prot ei n on P13K／Akt si gnal i ng pat hway i n t he hi ppoc—
+ampus of D．gal act ose／A1Ch i nduci ng rat s model of Al zhei mer’
+S di sease[ J ] ．J ournal of Et hnopharmacol ogy, 2016，179：162—169．
+[ 48】甘雪，刘书一，王正波．线粒体自噬及功能障碍与帕金森病[ J 】．
+中国比较医学杂志，2020，30( 10) ：121．127．
+[ 49】LI UMC，YU S T，WANG J W：et a1．Gi nseng prot ei n prot ect s
+agai nst mi t ochondri al dysf unct i on andneurodegenerat i on by i n-
+duci ng mi t ochondri al unf ol ded prot ei n response i n Drosophi l a
+mel anogast er PI NKl
+model of Parki nson’
+S di sease[ J ] ．J ournal
+of Et hnopharmacol ogy, 2020，247：112213．
+[ 50】宋岩，刘美辰，赵雨，等．人参总蛋白对帕金森病转基因果蝇
+万方数据
+126
+特
+产
+研
+究
+2022年第44卷第2期
+模型的脑神经保护作用研究[ J 】．中草药，2018，49( 19) ：4602．
+4606+4613．
+[ 51] J I ANGR，XUX H，SUNZ，et a1．Prot ect i ve ef f ect s of gi nseng
+prot ei ns on phot oagi ng of mouse f i brobl ast s i nduced by UⅥ～[ J ] ．
+Phot ochemi st ry and Phot obi ol ogy，2020，96( 1) ：113- 123．
+[ 52] 高健，吕邵娃．人参化学成分及药理作用研究进展[ J ] ．中医
+药导报，2021，27( 1) ：127．130+137．
+[ 53] 李红艳，赵雨，孙晓迪，等．人参蛋白对小鼠免疫功能影响的
+研究[ J 】．亚太传统医药，2010，6( 1) ：14．16．
+[ 54] J I ANGR，WANGMY SHI L，et a1．Panax gi nseng Tot al pro-
+t ei n f aci l i t at es recovery f romDexamet hasone- - I nduced mus- ·
+cl e a仃ophy t hrough t he act i vat i on of gl ucose consumpt i on i n
+C2C12 myot ubes[ J ] ．Bi oMed Research I nt ernat i onal ，2019，
+2019( 3) ：1- 11．
+[ 55】HSI AO C Y HSUY J ，TUNG Y T，et a1．Ef f ect s of Ant rodi a
+camphorat a and Panax gi nseng suppl ement at i on on anti - - f a- -
+t i gue propert i es i n mi ce[ J ] ．The J ournal of Vet eri nary Medi cal
+Sci ence，20 18，80( 2) ：284- 29 1．
+[ 56] 孙丽勇．人参在心血管疾病治疗中的作用[ J ] 求医问药( 下
+半月) ，2012，10( 12) ：85—86．
+【57] 日H世吾．Ef f ect of gi nseng f ract i on component s on f at
+accu—
+mul at i on of l i ver i n t he obese rat i nduced by hi gh f at di etary[ J ] ．
+J ournal of t he Korean Soci et y of Food Sci ence and Nut ri t i on，
+1991，20( 1) ：27- 34．
+[ 58】徐云风，赵雨，幺宝金，等．人参蛋白对高腊血症模型大鼠的
+降血脂作用[ J ] ．中药新药与临床药理，2011，22( 2) ：138—141．
+[ 59】李学军，陈丽，刘小余．人参对辐射损伤抑制作用的研究[ J ] ．
+人参研究，2011，23( 2) ：38．39．
+【60】吴红星，杨剑婷．抗辐射剂的研究现状( 文献综述) 【J 】．放射
+免疫学杂志，2005，18( 1) ：58．60．
+[ 61] 伦博书，李东，刘金平，等．抗辐射中药及天然产物的研究进
+展[ J ] ．国际药学研究杂志，2015，42( 4) ：453．462．
+【62] KI MC，CHOI J E．Ef f ect s of radi oprot ect i ve gi nse堍prot ei n
+on UV i nduced si st er chromat i d exchanges[ J ] ．Archi ves of
+Pharmacal Research，1 988，1 1( 2) ：93—98．
+[ 63] 16ⅪMC M，CHOI MK．DNA repai r enhancement by radi —
+oprot ect i ve gi nseng prot ei n f ract i on[ J ] ．Yakhak Hoej i ，1992，
+36( 5) ：449．454．
+[ 64] CAI KX，WANG J W，WANGM，et a1．Mol ecul ar cl oni ng，re-
+combi nant expressi on，and ant i f ungal
+f unct i onal charact eri za—
+t i on of t he l i pi d t ransf er prot ei n f romPanax gi nseng[ J ] ．Bi n—
+t echnol ogy Letters，2016，38( 7) ：1229· 1235．
+[ 65] 王佳雯，刘美辰，张丽轩，等．人参抗菌蛋白的研究进展[ J ] ．
+世界科学技术一中医药现代化，2016，18( 11) ：1964—1968．
+【66】WANGY，CHENY H，XU H，et a1．Anal gesi c ef f ect s of gl y—
+coprot ei ns f romPanax gi nseng root
+i n mi ce[ J 】．J ournal
+of
+Et hnopharmacol ogy, 2013，148( 3) ：946—950．
+[ 67】WANGY ZHUD F，CHENY H，et a1．Met abonomi cs st udy
+of gi nseng gl ycoprot ei ns on i mprovi ng sl eep qual i t y i n mi ce[ J ] ．
+Bi oMed Research Internati onal ，2019，2019( 7) ：1- 9．
+[ 68] FANGX X，ZHUDF，CHENY H，et a1．LC—MS／MS anal ysi s
+of part i al
+st ruct ure of Panax gi nseng prot ei n and i ts di st ri bu—
+t i on i n vi vo[ J ] ．Internati onal J ournal of Bi ol ogi cal Macromol —
+ecul es，2020，1 50：695- 704．
+[ 69] 李红艳，张江华，张惠，等．人参总蛋白的酶解及氨基酸含量
+测定[ J 】．中国现代中药，2016，18( 1) ：72．75+81．
+【70】HE L X，RENJ W，LI U R，et a1．Gi nseng( Panax gi nseng Me-
+yer) ol i gopept i des regul at e i nnat e and adapt i ve i mmune
+re—
+sponses i n mi ce vi a i ncreased macrophage phagocyt osi s
+ca—
+paci t y, NK cel l
+act i vi t y and Th cel l s secret i on[ J ] ．Food&
+f unct i on，2017，8( 10) ：3523—3532．
+[ 71] 高超，刘杰，赵传欣．人参寡肽抗苯并芘诱发肺上皮细胞炎
+性损伤研究[ J 】．食品工业科技，2021，42( 16) ：336．343．
+[ 72] 孙彬，李迪，毛瑞雪，等．吉林人参低聚肽对糖尿病大鼠的降
+血糖作用研究【J 】．中国食物与营养，2016，22( 10) ：62．65．
+[ 73] LUO H M，J I ANG R Z，YANG X H，et a1．Puri f i cat i on and
+charact eri zat i on of a novel t et radecapept i de f romgi nseng pol y—
+pept i des wi t h enhanci ng memory act i vi t y f or mi ce[ J ] ．Chemi -
+cal Research i n Chi nese Uni versi ti es，2013，29( 4) ：638．641．
+[ 74] 罗浩铭，陈英红，洪铁，等．Nano LC．Ms／MS从具有增强小
+鼠记忆作用的人参组分中鉴定22种新肽[ J ] ．天然产物研
+究与开发，2016，28( 8) ：1223．1227+1232．
+【75] 赵丽艳，张秀云，苗春生，等．人参糖肽对大鼠体外胰岛B细胞
+的保护作用[ J ] ．中国老年学杂志，2017，37( 15) ：3667．3669．
+[ 76] ZHAON，CHENGMC，LV W，et a1．Pept i des as pot ent i al
+bi o．
+markers
+f or aut hent i cat i on of Mount ai n．cul t i vat ed
+gi nseng
+and cul t i vat edgi nsengof di f f erent agesusi ngUPLC—HRMS【J 】．
+J ournal
+of Agri cul t ural
+and Food Chemi st ry, 2020，68( 7) ：
+2263．2275．
+．· _● ‘ ’ 。● - ．· ● ● 。’ ’ ● - _· ● · ’ ’ ’ ● _‘ ● ● ⋯ ‘ 。．．· ● ’ ‘ ‘ ’ ‘ ．· ∥ 。。‘ ．· - ● ‘ 。。● - · - ● 。’ ‘ ● ．_· - ● ‘ ’ ‘ ● - _· ● ’ ’ ’ ’ ● - ．· _。。‘ 。‘ ．t· H1‘ 。．· ● ‘ +1’ - ．- · ● ● 。。’ - _．· ● ’ 。。’ ● _．I● ⋯ 1● - ．∥ ’ 。1。_· H。‘ - - _- ‘ ‘ 。‘ · ．_· - ‘ 。’ ’ ● ．_· 11’ 。。● _．_● ’ ‘ ‘ ‘ 。．．· ● ⋯ ’ ‘ ．· - ‘ ‘ 。。。，· - ‘ ‘ ’ ‘ ’ _．· _’ 。’ 。’ - _· ● 。。’ ’ 。．．· I‘ ’ ’ ’ ●
+《特产研究》著作权使用声明
+本刊己许可中国学术期刊( 光盘版) 电子杂志社在中国知网及其系列数据库产品
+中，以数字化方式复制、汇编、发行、信息网络传播本刊全文。本刊支付的稿酬己包含著
+作权使用费，所有署名作者向本刊提交文章发表的行为即视为同意上述声明。
+万方数据

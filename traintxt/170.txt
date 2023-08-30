@@ -1,0 +1,541 @@
+ 976
+中 国 临 床 药 理 学 杂 志 
+第 39 卷  
+第 7 期  
+2023 年 4 月 （ 总 第 381 期 ）  
+ 
+ 
+ 
+人参总皂苷调控过氧化物酶体增殖物激活
+受体通路治疗心力衰竭大鼠的研究
+Effects of total ginsenosides on peroxisome proliferator activated receptor pathway
+in rats with heart failure
+作 者 简 介 ： 杨 乐 乐 （ 1990 － ） ， 女 ， 药 师 ， 主 要 从
+事 药 学 方 面 的 相 关 研 究
+通 信 作 者 ： 杨 乐 乐
+MP： 15088554633
+E － mail： honset_loyal＠ 163. com
+杨 乐 乐
+1， 林 丽 君
+2， 吴 小 芬
+1，
+曹 晓 静
+1， 张 万 里
+3
+（ 1. 温 州 医 科 大 学
+附 属 第 二 医 院
+药 学 部
+浙 江
+温 州
+325000； 2. 平 阳 县 人 民 医 院
+药 剂 科 ， 浙 江
+平 阳
+325400； 3. 温 州 医 科 大 学
+附 属 第 一 医 院
+神 经 内 科 ， 浙 江
+温 州
+325000）
+YANG Le － le
+1， LIN Li － jun
+2，
+WU Xiao － fen
+1， CAO Xiao － jing
+1，
+ZHANG Wan － li
+3
+（ 1. Department of Pharmacy， The Second
+Affiliated Hospital of Wenzhou Medical
+University，
+Wenzhou 325000，
+Zhejiang
+Province，
+China；
+2.
+Department
+of
+Pharmacy， Pingyang People’ s Hospital，
+Pingyang 325400，
+Zhejiang Province，
+China； 3. Department of Neurology， The
+First
+Affiliated
+Hospital
+of
+Wenzhou
+Medical
+University，
+Wenzhou
+325000，
+Zhejiang Province， China）
+摘 要 ： 目 的  
+探 索 人 参 总 皂 苷 对 心 力 衰 竭 大 鼠 的 治 疗 作 用 及 其 相 关 作 用 机 制 。
+方 法  
+用 皮 下 多 点 注 射 异 丙 肾 上 腺 素 的 方 法 建 立 心 力 衰 竭 大 鼠 模 型 。 将 造 模 成
+功 的 大 鼠 随 机 分 为 模 型 组 和 实 验 组 ， 每 组 20 只 ； 另 取 20 只 正 常 大 鼠 作 为 正 常
+组 。 实 验 组 灌 胃 给 予 60 mg· kg － 1人 参 总 皂 苷 ， qd； 正 常 组 和 模 型 组 均 灌 胃 给 予
+等 量 0. 9％ NaCl。 3 组 大 鼠 均 连 续 给 药 28 d。 用 超 声 心 动 图 检 测 大 鼠 心 脏 功 能 ，
+用 蛋 白 质 印 迹 法 检 测 p38 丝 裂 原 活 化 蛋 白 酶 （ p38MAPK） 和 过 氧 化 物 酶 体 增 殖
+物 激 活 受 体 － γ（ PPAR － γ） 、 B 淋 巴 细 胞 瘤
+－ 2（ Bcl － 2） 和
+Bcl － 2 相 关
+X 蛋 白
+（ Bax） 的 表 达 水 平 。 结 果  
+实 验 组 、 模 型 组 和 正 常 组 的 左 心 室 射 血 分 数 分 别 为
+（ 61. 52 ± 6. 78） ％ 、 （ 36. 52 ± 5. 38） ％ 和 （ 87. 62 ± 15. 36） ％ ， 左 心 室 收 缩 末 期 内
+径 分 别 为 （ 6. 59 ± 0. 34） 、 （ 9. 66 ± 0. 64） 和 （ 5. 61 ± 0. 38） mm， 左 心 室 舒 张 末 期 内
+径 分 别 为 （ 7. 52 ± 0. 26） 、 （ 9. 78 ± 0. 56） 和 （ 6. 65 ± 0. 45） mm， p38MAPK 蛋 白 相 对
+表 达 水 平 分 别 为
+1. 46 ± 0. 17、 1. 78 ± 0. 18 和 0. 98 ± 0. 10， PPAR － γ 蛋 白 相 对 表
+达 水 平 分 别 为 0. 72 ± 0. 04、 0. 38 ± 0. 02 和 0. 99 ± 0. 02， Bcl － 2 蛋 白 相 对 表 达 水
+平 分 别 为 1. 39 ± 0. 06、 0. 98 ± 0. 03 和 1. 76 ± 0. 24， Bax 蛋 白 相 对 表 达 水 平 分 别 为
+0. 72 ± 0. 07、 1. 03 ± 0. 08 和 0. 48 ± 0. 03。 实 验 组 的 上 述 指 标 与 模 型 组 和 正 常 组
+比 较 ， 差 异 均 有 统 计 学 意 义 （ 均 P ＜ 0. 05） 。 结 论  
+人 参 总 皂 苷 可 改 善 心 力 衰 竭
+大 鼠 的 心 功 能 ， 延 缓 心 力 衰 竭 疾 病 发 展 ， 其 机 制 可 能 与 人 参 总 皂 苷 调 控
+PPAR 通
+路 相 关 蛋 白 表 达 有 关 。
+关 键 词 ： 人 参 总 皂 苷 ； 过 氧 化 物 酶 体 增 殖 物 激 活 受 体 通 路 ； 心 力 衰 竭 ； 大 鼠
+DOI： 10. 13699 ／ j. cnki. 1001 － 6821. 2023. 07. 014
+中 图 分 类 号 ： R28 
+ 
+ 
+文 献 标 志 码 ： A
+文 章 编 号 ： 1001 － 6821（ 2023） 07 － 0976 － 04
+Abstract： Objective  
+To analyze the therapeutic effect and related
+mechanism of Ginsenoside on the rats with heart failure. Methods 
+The
+model of heart failure was developed by subcutaneous multipoint injection
+of isoproterenol.
+After successful modeling，
+the rats were randomly
+divided into model and experimental groups with 20 rats per group； and
+another 20 normal rats were selected as normal group. The experimental
+group was given 60 mg· kg
+－ 1 total ginsenosides qd by gavage， while rats
+in the normal and model groups were given the same amount of normal
+saline by gavage. Three groups were treated for 28 days. Rat cardiac
+function was determined by echocardiography. The expression levels of
+mitogen activated protease P38 （ p38MAPK） ，
+peroxisome proliferator
+activated receptor － γ （ PPAR － γ） ， B － cell lymphoma － 2 （ Bcl － 2）
+and Bcl － 2 related X protein （ Bax） were determined by Western blot.
+Chin J Clin Pharmacol
+ 
+977
+ 
+Vol. 39 No. 7 April 2023（ Serial No. 381）
+ 
+ 
+ 
+Results 
+Left ventricular ejection fractions of experimental， model and normal groups were （ 61. 52 ± 6. 78） ％ ，
+（ 36. 52 ± 5. 38 ） ％
+and （ 87. 62 ± 15. 36 ） ％ ；
+left ventricular end systolic diameter were （ 6. 59 ± 0. 34 ） ，
+（ 9. 66 ± 0. 64） and （ 5. 61 ± 0. 38） mm； left ventricular end diastolic diameter were （ 7. 52 ± 0. 26） ， （ 9. 78 ± 0. 56）
+and （ 6. 65 ± 0. 45） mm； the relative expression levels of p38MAPK protein were 1. 46 ± 0. 17， 1. 78 ± 0. 18 and
+0. 98 ± 0. 10； the relative expression levels of PPAR － γ protein were 0. 72 ± 0. 04， 0. 38 ± 0. 02 and 0. 99 ± 0. 02； the
+relative expression levels of Bcl － 2 protein were 1. 39 ± 0. 06， 0. 98 ± 0. 03 and 1. 76 ± 0. 24； the relative expression
+levels of Bax protein were 0. 72 ± 0. 07， 1. 03 ± 0. 08 and 0. 48 ± 0. 03， respectively. Compared the experimental group
+with the model and normal groups， the differences of above indexes were statistically significant （ all P ＜ 0. 05） .
+Conclusion 
+Ginsenoside can delay the development of heart failure in rats with heart failure. The mechanism may be
+related to the regulation of Ginsenoside on PPAR pathway related proteins.
+Key words： ginsenoside； peroxisome proliferator activated receptor pathway； heart failure； rat
+ 
+ 
+慢 性 心 力 衰 竭 （ chronic heart failure， CHF） 是 原 发
+性 心 肌 损 伤 及 心 脏 负 荷 过 重 致 使 心 功 能 受 损 的 一 种
+病 理 状 态
+［ 1］ 。 目 前 ， 临 床 治 疗 心 力 衰 竭 的 目 标 包 括 防
+治 心 肌 重 构 、 改 善 患 者 症 状 及 生 活 质 量 、 减 少 心 力 衰
+竭 的 住 院 率 和 死 亡 率
+［ 2］ 。
+人 参 总 皂 苷 可 调 节 机 体 糖
+脂 代 谢 ， 具 有 改 善 血 管 内 皮 细 胞 功 能 和 心 功 能 的 作
+用 ， 广 泛 应 用 于 心 血 管 疾 病
+［ 3］ ， 其 对 治 疗 心 力 衰 竭 有
+一 定 的 疗 效
+［ 4］ 。
+本 研 究 旨 在 探 索 人 参 总 皂 苷 对 心 力
+衰 竭 大 鼠 的 治 疗 作 用 及 其 相 关 作 用 机 制 。
+材 料 与 方 法
+1 
+材 料
+动 物  
+清 洁 级 雄 性
+SD 大 鼠 60 只 ， 鼠 龄
+8 周 ， 体
+质 量 200 ～ 220 g， 由 黑 龙 江 中 医 药 大 学 动 物 中 心 提
+供 。 动 物 许 可 证 号 ： SYXK（ 黑 ） 2020 － 0035。
+本 实 验
+经 温 州 医 科 大 学 附 属 第 二 医 院 动 物 伦 理 委 员 会 批 准
+（ 伦 理 批 号 ： wydw2019 － 0809） 。
+药 品 与 试 剂  
+人 参 总 皂 苷 ， 纯 度 ： 99. 86％ ， 批 号 ：
+20200811， 由 白 山 市 长 白 山 制 药 有 限 公 司 提 供 ； 异 丙
+肾 上 腺 素 ， 规 格 ： 每 支 200 mg， 批 号 ： 20190625， 德 国 默
+克 公 司 生 产 。 脑 钠 素 （ brain natriuretic peptide， BNP） 、
+腺 苷 三 磷 酸 （ adenosine triphosphate， ATP） 、 腺 苷 二 磷
+酸 （ adenosine diphosphate， ADP） 酶 联 免 疫 吸 附 试 验
+（ enzyme linked immunosorbent assay， ELISA） 法 检 测 试
+剂 盒 ， 均 由 深 圳 容 金 科 技 有 限 公 司 生 产 ； 单 克 隆 抗 体 ，
+美 国 Santa Cruz 公 司 生 产 ； HRP 羊 抗 兔 免 疫 球 蛋 白
+G
+（ immunoglobulin G， IgG） 等 二 抗 ， 均 由 美 国
+Thermo 公
+司 生 产 ； BCA 蛋 白 浓 度 测 定 试 剂 盒 ， 碧 云 天 生 物 技 术
+有 限 公 司 生 产 。
+仪 器  
+DW － T6 彩 色 多 普 勒 超 声 仪 ， 江 苏 大 为 医
+疗 有 限 公 司 产 品 ； Sysmex － chemix － 180 全 自 动 生 化
+分 析 仪 ， 日 本 Furuno Electric 公 司 产 品 ； MiniBIS Pro 凝
+胶 成 像 系 统 ， 以 色 列 DNR 公 司 产 品 。
+2 
+实 验 方 法
+2. 1 
+模 型 建 立
+［ 5 － 6］
+分 别 于
+1 ～ 14 d 皮 下 多 点 注 射 异 丙 肾 上 腺 素 ， 其
+中 第
+1 天 剂 量 为
+20 mg ·
+kg
+－ 1， 第
+2 天 剂 量 为
+10 mg· kg
+－ 1， 第 3 ～ 14 天 剂 量 为 5 mg· kg
+－ 1。 若 左 心 室
+射 血 分 数 （ left ventricular ejection fraction， LVEF） ≤45％，
+则 表 明 心 力 衰 竭 大 鼠 模 型 成 功 构 建 。
+2. 2 
+动 物 分 组 与 给 药 方 法
+将 造 模 成 功 的 大 鼠 随 机 分 为 模 型 组 和 实 验 组 ， 每
+组 20 只 ； 另 取 20 只 正 常 大 鼠 作 为 正 常 组 。 实 验 组 灌 胃
+给 予 60 mg· kg
+－ 1人 参 总 皂 苷 ， qd； 正 常 组 和 模 型 组 均
+灌 胃 给 予 等 量 0. 9％ NaCl。 3 组 大 鼠 均 连 续 给 药 28 d。
+2. 3 
+用 经 胸 壁 超 声 心 动 图 检 测 大 鼠 心 脏 功 能
+［ 4］
+末 次 给 药 后 24 h， 用 2％ 异 氟 烷 麻 醉 大 鼠 ， 大 鼠 平
+卧 并 给 予 固 定 ， 在 M 型 模 式 下 以 MX 250s 探 头 置 于 左
+胸 部 探 查 心 脏 功 能 ， 检 测 3 组 大 鼠 左 心 室 收 缩 末 期 内
+径 （ left ventricular end systolic diameter， LVDS） 、 左 心
+室 舒 张 末 期 内 径 （ left ventricular end diastolic diameter，
+LVDD） 、 左 心 室 舒 张 末 期 后 壁 厚 度 （ left ventricular end
+diastolic posterior wall thickness， LVPWD） 、 LVEF 和 左
+心 室 收 缩 末 期 后 壁 厚 度 （ left ventricular end systolic
+posterior wall thickness， LVPWS） ， 连 续 检 测
+3 次 取 平
+均 值 。
+2. 4 
+心 脏 质 量 指 数
+［ 5］
+待 心 脏 功 能 检 测 后 ， 称 重 大 鼠 体 质 量 ， 打 开 大 鼠
+胸 腔 ， 取 出 心 脏 ， 清 洗 后 称 取 心 脏 质 量 ， 计 算 3 组 大 鼠
+心 脏 质 量 指 数 。
+2. 5 
+用 ELISA 法 检 测 血 清 指 标
+［ 5］
+待 心 脏 功 能 检 测 后 ， 于 腹 主 动 脉 取 血 ， 于 室 温 静
+置 后 ， 以 3 000 r· min
+－ 1离 心
+15 min， 分 离 血 清 ， 置 于
+ 978
+中 国 临 床 药 理 学 杂 志 
+第 39 卷  
+第 7 期  
+2023 年 4 月 （ 总 第 381 期 ）  
+ 
+ 
+ 
+－70 ℃保 存 ， 备 用 。
+用
+ELISA 法 检 测 血 清
+BNP、 ATP
+和 ADP 水 平 。
+2. 6 
+用 蛋 白 质 印 迹 法 检 测 相 关 蛋 白 的 表 达 水 平
+取 3 组 大 鼠 心 肌 组 织 ， 剪 碎 研 磨 加 入 细 胞 裂 解
+液 ， 抽 提 蛋 白 质 ， 用
+BCA 法 检 测 蛋 白 浓 度 。
+取 蛋 白 提
+取 液 50 μL， 按 文 献 ［ 6］ 的 方 法 进 行 聚 丙 烯 酰 胺 凝 胶
+电 泳 ， 电 转 移 至
+PDVF 膜 ， 脱 脂 牛 奶 封 闭
+1 h， 一 抗 过
+夜 ， 二 抗 封 闭
+1 h。 以 β － actin 为 内 参 ， 用 图 像 分 析 软
+件 分 析 p38 丝 裂 原 活 化 蛋 白 酶 （ p38 mitogen activated
+proteinase， p38MAPK） 、 磷 酸 化
+p38MAPK（ phosphoryla-
+ted p38MAPK， p － p38MAPK） 、 过 氧 化 物 酶 体 增 殖 物 激
+活 受 体
+－ γ（ peroxisome proliferator activated receptor －
+γ， PPAR － γ） 、 B 淋 巴 细 胞 瘤 －2（ B － cell lymphoma －2，
+Bcl －2） 和 Bcl －2 相 关 X 蛋 白 （ Bcl －2 associated X pro-
+tein， Bax） 蛋 白 的 相 对 表 达 水 平 。
+3 
+统 计 学 处 理
+用 SPSS 22. 0 软 件 进 行 统 计 分 析 。 符 合 正 态 分 布
+的 计 量 资 料 用 ■
+x ± s表 示 ， 多 组 间 比 较 用 单 因 素 方 差 分
+析 ， 组 间 两 两 比 较 用 SNK － q 检 验 。
+结  
+ 
+果
+1 
+3 组 大 鼠 心 功 能 的 比 较
+实 验 组 给 予 60 mg· kg
+－ 1人 参 总 皂 苷 ； 正 常 组 和
+模 型 组 均 给 予 等 量 0. 9％ NaCl。
+模 型 组 与 正 常 组 相 比 ， 大 鼠 的
+LVDD 和
+LVDS 均
+显 著 升 高 ， LVEF、 LVPWD 和
+LVPWS 均 显 著 降 低 ， 差
+异 均 有 统 计 学 意 义 （ 均
+P ＜ 0. 05） 。 与 模 型 组 相 比 ， 实
+验 组 大 鼠 的
+LVDD 和
+LVDS 水 平 均 显 著 降 低 ， 而
+LVEF、 LVPWD 和 LVPWS 水 平 均 显 著 升 高 ， 差 异 均 有
+统 计 学 意 义 （ 均 P ＜ 0. 05） 。 结 果 见 表
+1。
+2 
+3 组 大 鼠 心 脏 质 量 指 数 的 比 较
+实 验 组 、 模 型 组 和 正 常 组 的 心 脏 质 量 指 数 分 别 为
+（ 3. 89 ± 0. 24 ） 、 （ 4. 34 ± 0. 19 ） 和
+（ 3. 56 ± 0. 27 ）
+mg· g
+－ 1， 实 验 组 的 心 脏 质 量 指 数 与 正 常 组 和 模 型 组
+比 较 ， 差 异 均 有 统 计 学 意 义 （ 均 P ＜ 0. 05） 。
+3 
+3 组 大 鼠 血 清 指 标 的 比 较
+模 型 组 与 正 常 组 相 比 ， 大 鼠 的
+ATP 显 著 降 低 ，
+BNP 和 ADP 均 显 著 升 高 ， 差 异 均 有 统 计 学 意 义 （ 均
+P ＜ 0. 05） ； 实 验 组 与 模 型 组 相 比 ， 大 鼠 的
+ATP 显 著 升
+高 ， BNP 和
+ADP 均 显 著 降 低 ， 差 异 均 有 统 计 学 意 义
+（ 均 P ＜ 0. 05） 。 结 果 见 表 2。
+4 
+3 组 大 鼠 心 肌 凋 亡 及 PPAR 通 路 相 关 蛋 白 表 达 水
+平 的 比 较
+实 验 组 、 模 型 组 和 正 常 组 的
+Bax 蛋 白 相 对 表 达 水
+平 分 别 为
+0. 72 ± 0. 07、 1. 03 ± 0. 08 和
+0. 48 ± 0. 03，
+Bcl － 2 蛋 白 相 对 表 达 水 平 分 别 为
+1. 39 ± 0. 06、
+0. 98 ± 0. 03和
+1. 76 ± 0. 24， p38MAPK 蛋 白 相 对 表 达
+水 平 分 别 为
+1. 46 ± 0. 17、 1. 78 ± 0. 18 和 0. 98 ± 0. 10，
+p － p38MAPK 蛋 白 相 对 表 达 水 平 分 别 为
+1. 37 ± 0. 13、
+1. 73 ± 0. 12 和
+1. 09 ± 0. 08， PPAR － γ 蛋 白 相 对 表 达
+水 平 分 别 为 0. 72 ± 0. 04、 0. 38 ± 0. 02 和 0. 99 ± 0. 02。
+实 验 组 大 鼠 的 上 述 指 标 与 正 常 组 和 模 型 组 相 比 ， 差 异
+均 有 统 计 学 意 义 （ 均 P ＜ 0. 05） 。 结 果 见 图
+1。
+表 1 
+3 组 大 鼠 心 功 能 的 比 较 （ ■
+x ± s）
+Table 1 
+Comparison of cardiac function among three groups（ ■
+x ± s）
+Group
+Dose
+n
+LVDD（ mm）
+LVDS（ mm）
+LVEF（ ％ ）
+LVPWD（ mm）
+LVPWS（ mm）
+Normal
+－
+20
+6. 65 ± 0. 45
+5. 61 ± 0. 38
+87. 62 ± 15. 36
+3. 25 ± 0. 38
+4. 65 ± 0. 58
+Model
+－
+20
+9. 78 ± 0. 56*
+9. 66 ± 0. 64*
+36. 52 ± 5. 38*
+1. 97 ± 0. 25*
+1. 23 ± 0. 28*
+Experimental
+60 mg· kg － 1
+20
+7. 52 ± 0. 26*＃
+6. 59 ± 0. 34*＃
+61. 52 ± 6. 78*＃
+2. 78 ± 0. 26*＃
+2. 58 ± 0. 54*＃
+LVDD： Left ventricular end diastolic diameter； LVDS： Left ventricular end systolic diameter； LVEF： Left ventricular ejection fraction； LVPWD： Left ventricu-
+lar end diastolic posterior wall thickness； LVPWS： Left ventricular end systolic posterior wall thickness； Compared with normal group，
+*P ＜ 0. 05； Compared
+with model group，
+＃P ＜ 0. 05.
+表 2 
+3 组 大 鼠 血 清 指 标 的 比 较 （ ■
+x ± s）
+Table 2 
+Comparison of serum indexes among three groups（ ■
+x ± s）
+Group
+ATP（ μg· L － 1）
+BNP（ ng· L － 1）
+ADP（ μg· L － 1）
+Normal
+762. 58 ± 185. 24
+63. 52 ± 11. 52
+234. 61 ± 50. 64
+Model
+387. 95 ± 154. 23*
+151. 26 ± 20. 56*
+596. 34 ± 125. 64*
+Experimental
+582. 62 ± 256. 34*＃
+105. 62 ± 15. 82*＃
+352. 64 ± 80. 46*＃
+Dose and n refer to table 1； ATP： Adenosine triphosphate； BNP： Brain natriuretic peptide； ADP： Adenosine diphosphate； Compared with normal group，
+*P ＜ 0. 05； Compared with model group，
+＃P ＜ 0. 05.
+Chin J Clin Pharmacol
+ 
+979
+ 
+Vol. 39 No. 7 April 2023（ Serial No. 381）
+图
+1 
+3 组 大 鼠 心 肌 凋 亡 相 关 蛋 白 和 过 氧 化 物 酶 体 增 殖 物 激
+活 受 体 （ PPAR） 通 路 相 关 蛋 白 的 表 达 情 况
+Figure 1 
+Expression of myocardial apoptosis － related proteins
+and peroxisome proliferator － activated receptor （ PPAR） pathway
+－ related proteins of rats among three groups
+A： Experimental group； B： Model group； C： Normal group.
+讨  
+ 
+论
+人 参 总 皂 苷 作 为 类 固 醇 类 化 合 物 ， 是 人 参 中 重 要
+活 性 成 分 ， 在 心 肌 缺 血 、 心 肌 肥 厚 等 心 血 管 疾 病 的 治
+疗 中 发 挥 一 定 的 疗 效
+［ 7］ 。 周 芹 等
+［ 8］ 研 究 认 为 ， 人 参 皂
+苷 Rh2 可 通 过 提 高 血 清 血 管 内 皮 生 长 因 子 水 平 ， 提 高
+高 脂 膳 食 大 鼠 心 肌 缺 血 再 灌 注 后 外 周 血 内 皮 祖 细 胞
+数 量 ， 达 到 减 轻 心 肌 缺 血 再 灌 注 损 伤 的 目 的 。 臧 安 缘
+等
+［ 9］ 研 究 发 现 ， 人 参 皂 苷 素 Rb1 通 过 调 控 磷 脂 酰 肌 醇
+三 激 酶 － 蛋 白 激 酶
+B － 内 皮 一 氧 化 氮 合 酶 信 号 转 导
+通 路 相 关 蛋 白 的 表 达 ， 从 而 发 挥 对 心 肌 缺 血 的 保 护 作
+用 。 孔 宏 亮 等
+［ 10］ 研 究 发 现 ， 人 参 皂 苷 Rbl 通 过 调 控 心
+肌 细 胞 水 平 、 肌 质 网 和 线 粒 体 等 的
+Ca
+2 ＋ “ 交 流 ” ， 改 善
+心 力 衰 竭 大 鼠 模 型 的 心 肌 细 胞 代 谢 。 此 外 ， 人 参 皂 苷
+Rb1 还 可 通 过 调 节 线 粒 体 钠 钙 交 换 体 、 线 粒 体 钙 离 子
+单 向 转 运 体 、 电 压 依 赖 性 阴 离 子 通 道 和 线 粒 体 钙 离 子
+摄 入 蛋 白
+1 的 表 达 介 导 心 肌 细 胞 内 线 粒 体 膜 电 位 ， 达
+到 改 善 心 力 衰 竭 的 目 的 。
+景 雅 婷 等
+［ 11］ 研 究 证 实 ， 人
+参 皂 苷 Rb1 通 过 调 控 心 肌 组 织
+Periostin 蛋 白 的 表 达 ，
+抑 制 转 化 生 长 因 子
+－ β 信 号 通 路 ， 从 而 改 善 心 力 衰 竭
+大 鼠 心 室 重 塑 ， 与 本 研 究 的 结 果 相 似 。
+张 秀 等
+［ 12］ 研
+究 证 实 ， Bax 和 Bcl － 2 介 导 的 细 胞 凋 亡 参 与 心 室 重 塑
+的 过 程 ， 说 明 人 参 总 皂 苷 可 通 过 抑 制 心 脏 细 胞 凋 亡 ，
+延 缓 心 室 重 塑 过 程 。
+这 说 明 人 参 总 皂 苷 能 够 有 效 改
+善 心 力 衰 竭 大 鼠 的 心 室 重 塑 ， 但 其 机 制 可 能 是 多 条 信
+号 通 路 共 同 作 用 的 结 果 。
+PPAR 信 号 通 路 可 参 与 心 肌 细 胞 能 量 代 谢 转 换 的
+调 节
+［ 13］ 。 PPAR － α 可 通 过 调 节 脂 肪 酸 氧 化 ， 维 持 其
+心 肌 功 能 和 能 量 ， 参 与 心 力 衰 竭 的 早 期 进 展 。
+WU
+等
+［ 13］ 研 究 表 明 ， 人 参 总 皂 苷 与 作 为
+PPAR － γ 激 活 剂
+的 TZDs 具 有 相 似 的 生 物 学 作 用 。
+本 实 验 结 果 发 现 ，
+人 参 总 皂 苷 干 预 心 力 衰 竭 大 鼠 后 可 调 控
+p38MAPK、
+p － p38MAPK和 PPAR － γ 表 达 ， 说 明 人 参 总 皂 苷 干 预
+心 力 衰 竭 大 鼠 的 机 制 可 能 与 PPAR 通 路 激 活 相 关 。
+参 考 文 献 ：
+［ 1 ］  
+ALPER A B， CAMPBELL R C， ANKER S D， et al. A propensity
+－ matched study of low serum potassium and mortality in older
+adults with chronic heart failure ［ J］ . Int J Cardiol， 2016， 137（ 1） ：
+1 － 8.
+［ 2 ］  
+DICK S A， EPELMAN S. Chronic heart failure and inflammation：
+What do we really know？ ［ J］ . Circ Res， 2016， 119（ 1） ： 159 － 176.
+［ 3 ］  
+鹿 禛 ， 邱 智 东 ， 王 蕾 ， 等 . 人 参 总 皂 苷 对 皮 肤 细 胞 的 修 复 作 用 机
+制 研 究 ［ J］ . 吉 林 中 医 药 ， 2020， 40（ 4） ： 518 － 521.
+［ 4 ］  
+LI J， CHEN Y， ZHANG L， et al. Total saponins of panaxnotogin-
+seng promotes lymphangiogenesis by activation VEGF － C expression
+of lymphatic endothelial cells ［ J／ OL］ . J Ethnopharmacol， 2016，
+193： e293 － e302. 2016 － 12 － 04 ［ 2022 － 12 － 22］ . https： ／ ／
+pubmed. ncbi. nlm. nih. gov／ 27553977 ／ .
+［ 5 ］  
+刘 昕 ， 林 琳 ， 张 超 英 ， 等 . 木 犀 草 素 抑 制 异 丙 肾 上 腺 素 诱 导 的 心
+力 衰 竭 大 鼠 的 外 周 血 淋 巴 细 胞 DNA 损 伤 ［ J］ . 西 安 交 通 大 学 学
+报 ： 医 学 版 ， 2019， 40（ 2） ： 323 － 327.
+［ 6 ］  
+ZHONG M， ZHOU H， LONG C， et al. Natakalim ameliorates isopro-
+terenol － induced chronic heart failure by protecting against endothelial
+dysfunction ［ J］ . Pharmacology， 2016，98（ 3 －4） ：99 － 110.
+［ 7 ］  
+林 益 群 ， 罗 明 艳 ， 张 望 . 人 参 总 皂 苷 对 功 能 性 消 化 不 良 大 鼠 胃
+窦 平 滑 肌 组 织 的 影 响 ［ J］ . 中 国 临 床 药 理 学 杂 志 ， 2020， 36
+（ 20） ： 3313 － 3316.
+［ 8 ］  
+周 芹 ， 王 晞 ， 王 龙 . 人 参 皂 苷 Rh2 对 高 脂 膳 食 大 鼠 心 肌 缺 血 再 灌 注
+时 内 皮 祖 细 胞 的 影 响 ［ J］ . 实 用 药 物 与 临 床 ，2016， 19（ 1） ： 1 －6.
+［ 9 ］  
+臧 安 缘 ， 冷 雪 ， 李 其 芳 . PI3K／ Akt／ eNOS 信 号 通 路 调 控 人 参 皂
+苷 素 Rb1 对 急 性 心 肌 缺 血 大 鼠 心 肌 的 作 用 ［ J］ . 中 医 药 信 息 ，
+2018， 35（ 2） ： 17 － 21.
+［ 10］  
+孔 宏 亮 ， 赵 雨 婷 ， 蒋 玉 昆 . 人 参 皂 甙 Rbl 对 心 力 衰 竭 大 鼠 心 肌 细 胞
+钙 调 控 的 影 响 ［ J］ . 岭 南 心 血 管 病 杂 志 ，2021，27（ 3） ：356 －360.
+［ 11］  
+景 雅 婷 ， 郑 娴 ， 王 凤 荣 . 人 参 皂 苷 对 心 衰 大 鼠
+Periostin 蛋 白 及
+TGF － β 信 号 通 路 影 响 ［ J］ . 辽 宁 中 医 药 大 学 学 报 ， 2018， 20
+（ 8） ： 44 － 47.
+［ 12］  
+张 秀 ， 程 怡 慧 ， 张 心 彤 ， 等 . 生 理 性 缺 血 训 练 改 善 心 肌 梗 死 后 慢
+性 心 力 衰 竭 大 鼠 心 功 能 及 心 室 重 塑 的 神 经 机 制 ［ J］ . 中 国 康 复
+医 学 杂 志 ， 2021， 36（ 8） ： 915 － 922.
+［ 13］  
+WU Y Y， CUI Y N， ZHANG T Y， et al. Transformation of ginse-
+noside Rh4 and its aglycone from the total saponins of stems and
+leaves of Panax ginseng by Aspergillus tubingensis ［ J］ . Phytochem
+Lett， 2018， 27（ 4） ： 123 － 128.
+（ 定 稿 日 期 2023 － 01 － 13； 本 文 编 辑  
+戴 荣 源 ）

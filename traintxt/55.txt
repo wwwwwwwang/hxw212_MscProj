@@ -1,0 +1,539 @@
+浙江医学2022年第44卷第20期
+【 摘要 】 目的
+探讨人参皂甙 Rg3 对脓毒症小鼠炎症反应的保护作用和对淋巴细胞内凋亡相关蛋白裂解的天冬氨酸特
+异性半胱氨酸蛋白酶 3（Cleaved Caspase-3）蛋白表达的影响。 方 法
+采 用 区 组 随 机 法 将 40 只 小 鼠 分 为 对 照 组 、人 参 皂
+甙 Rg3 组 、脂 多 糖（LPS）组 、人 参 皂 甙 Rg3+LPS 组，每组 10 只。其中 LPS 组、人 参 皂 甙 Rg3+LPS 组 小 鼠 通 过 腹 腔 注 射
+LPS 的方法制备脓毒症模型。对照组用 0.3 ml 0.9%氯化钠溶液灌胃，1 次/d，连续 7 d，第 4 天腹腔注射 0.3 ml 0.9%氯化
+钠注射液；人参皂甙 Rg3 组将人参皂甙 Rg3 按 30 mg/kg 溶于 0.3 ml 0.9%氯化钠溶液后，灌胃，1 次/d，连续 7 d，第 4 天
+腹腔注射 0.3 ml 0.9%氯化钠注射液；LPS 组用 0.3 ml 0.9%氯化钠溶液灌胃，1 次/d，连续 7 d，第 4 天腹腔注射 0.3 ml LPS
+溶液（15 mg/kg LPS 溶于 0.3 ml 0.9%氯化钠注射液）；人参皂甙 Rg3+LPS 组将人参皂甙 Rg3 按 30 mg/kg 溶于 0.3 ml 0.9%
+氯 化 钠 溶 液 后 ，灌 胃 ，1 次/d，连 续 7 d，第 4 天 腹 腔 注 射 0.3 ml LPS 溶 液（15 mg/kg LPS 溶 于 0.3 ml 0.9% 氯 化 钠 注 射
+液）。第 7 天通过腹主动脉采血，采用 ELISA 法检测各组小鼠血清炎性因子 TNF-α、IL-6、IL-1β 水平；并处死小鼠，取小
+鼠脾脏组织，称重、记录脾脏指数；分离脾脏淋巴细胞采用 Western blot 法检测淋巴细胞 Cleaved Caspase-3 蛋白表达。
+结果
+与对照组比较，LPS 组、人参皂甙 Rg3+LPS 组小鼠 TNF-α、IL-6、IL-1β 水平、脾脏指数、Cleaved Caspase-3 蛋白表达
+水平均升高（均 P＜0.05）；与 LPS 组比较，人参皂甙 Rg3 组、人参皂甙 Rg3+LPS 组小鼠 TNF-α、IL-6、IL-1β 水平、脾脏指数、
+Cleaved Caspase-3 蛋白表达水平均降低（均 P＜0.05）。 结论
+人参皂甙 Rg3 具有降低脓毒症小鼠体内炎症反应的作用，并能
+降低淋巴细胞内 Cleaved Caspase-3 的表达。
+【关键词】 人参皂甙 Rg3
+脓毒症
+炎症反应
+淋巴细胞
+天冬氨酸特异性半胱氨酸蛋白酶 3
+Effects of ginsenoside Rg3 on inflammatory response and lymphocyte Cleaved Caspase-3 protein expression in septic mice
+LI Qingqing, JIA Yanan, DING Yihong, LU Gang, TANG Jianguo, ZHANG Xuemin
+First- author's address: Department of Trauma Emergency & Critical Care Medicine, Shanghai Fifth People's Hospital Affiliated to Fudan
+University, Shanghai 200240, China
+Corresponding author: ZHANG Xuemin, E-mail: zhangxm922@126.com
+【 Abstract 】
+Objective
+To investigate the effect of ginsenoside Rg3 on inflammatory response and lymphocyte
+Cleaved Caspase- 3 protein expression in septic mice.
+Methods
+Forty male BALB/c mice were randomly divided into
+control group, ginsenoside Rg3 group, lipopolysaccharide (LPS) group and ginsenoside Rg3+LPS group with 10 mice in each
+group. Mice in control group were given 0.3 ml normal saline by gavage q.d for 7 d, and 0.3 ml normal saline by
+intraperitoneal injection on d4; mice in ginsenoside Rg3 group were given ginsenoside Rg3 30 mg/kg by gavage q.d for 7 d,
+and 0.3 ml normal saline by intraperitoneal injection on d4; mice in LPS group were given normal saline by gavage q.d for 7 d,
+and 0.3 ml LPS solution by intraperitoneal injection on d4; mice in Rg3+LPS group were given ginsenoside Rg3 30 mg/kg by
+gavage q.d for 7 d, then 0.3 ml LPS solution by intraperitoneal injection on d4. On d7, blood samples were collected by
+人参皂甙Rg3对脓毒症小鼠炎症
+反 应 及 淋 巴 细 胞 内 Cleaved
+Caspase-3蛋白的影响
+李青青
+贾雅楠
+丁怿虹
+陆刚
+唐建国
+张学敏
+●论
+著
+DOI：10.12056/j.issn.1006-2785.2022.44.20.2022-1559
+基金项目：上海市闵行区自然科学研究项目（2020MHZ096）
+作者单位：200240
+复旦大学附属上海市第五人民医院创伤急救危重症中心（李青青、丁怿虹、陆刚、唐建国、张学敏），老年医学
+科（贾雅楠）
+通信作者：张学敏，E-mail：zhangxm922@126.com
+·
+·2139
+浙江医学2022年第44卷第20期
+abdominal aorta, serum TNF- α, IL-6 and IL-1β levels were detected by ELISA. The mice were sacrificed and the spleen
+was removed and weighed, the expression of Cleaved Caspase-3 protein in spleen lymphocytes were detected by Western
+blot.
+Results
+Compared with the control group, the levels of TNF-α, IL-6, IL-1β, Spleen index and Cleaved Caspase-3
+protein expression were significantly increased in LPS group and ginsenoside Rg3+LPS group (all P＜0.05). Compared with
+the LPS group, the levels of TNF-α, IL-6, IL-1β, spleen index and Cleaved Caspase-3 protein expression were significantly
+decreased in ginsenoside Rg3 group and ginsenoside Rg3+LPS group (all P＜0.05).
+Conclusion
+Ginsenoside Rg3 can
+inhibit inflammatory response and down-regulate the Cleaved Caspase-3 expression of lymphocyte in mice with sepsis.
+【 Key words 】 Ginsenoside Rg3
+Sepsis
+Inflammatory reaction
+Lymphocyte
+Cysteine-containing aspartate-spe-
+cific proteases-3
+脓毒症是宿主对感染的一种失控反应，常常导致
+严重的多器官功能障碍。脓毒症是急诊、ICU、老年科
+等科室急重症患者主要死亡原因之一。脓毒症治疗
+现在多以抗生素为基础，同时治疗原发疾病，治疗周
+期长、费用高，给患者造成很大的经济负担。脓毒症
+患者晚期常存在免疫抑制或免疫麻痹，针对脓毒症的
+免疫应答机制研究及免疫反应调控的药物探寻具有
+重要意义
+[1]。免疫功能监测指导下的免疫调节治疗可
+能为改善脓毒症预后开辟一种新的途径。
+人参为五加科多年生草本植物，人参皂甙 Rg3 是
+人参的有效成分，是从人参中提取的四环三萜类人参
+二型皂甙单体。人参皂甙 Rg3 本身是免疫增强剂，能
+增强人体对炎症的抵抗作用
+[2]。本研究采用脂多糖
+（lipopolysaccharide，LPS）刺激模拟脓毒症状态小鼠，观
+察人参皂甙 Rg3 对脓毒症状态小鼠炎性因子水平、脾
+脏指数及淋巴细胞内裂解的天冬氨酸特异性半胱氨
+酸蛋白酶 3（cleaved cysteine-containing aspartate-spe-
+cific proteases-3，Cleaved Caspase-3）蛋白表达的影响，
+来探讨人参皂甙 Rg3 对脓毒症小鼠炎症反应的保护作
+用及淋巴细胞凋亡的影响。
+1
+材料和方法
+1.1
+主要试剂及仪器
+小鼠 TNF-α 试剂盒（批号：
+TNDE1021am）、IL-6 试剂盒（批号：16NV1021m）、IL-
+1β ELISA 试剂盒（批号：I1FE1021bm）均购自加拿大
+ANOGEN 公司；LPS 购自上海环硕生物科技有限公司；
+人参皂甙 Rg3 购自成都曼思特生物科技有限公司；
+Cleaved Caspase-3 兔单克隆抗体（批号：3）购自美国
+Cell Signaling 公司。酶标仪（型号：318C+）购自上海市
+沛欧分析仪器有限公司；电热恒温水槽（DK-420）购自
+上海精宏实验设备有限公司电泳仪；转膜仪（型号：
+DYCZ-40D）购自北京市六一仪器厂；荧光及化学发光
+成像系统（型号：ChemiScope 6100）购自上海勤翔科学
+仪器有限公司。
+1.2
+实验动物
+SPF 级 BALB/c 雄性小鼠 40 只，6~8 周
+龄，体重 18~23 g，由上海中医药大学实验动物中心提
+供，动物合格证号：SYXK（沪）2014-0008。所有小鼠饲
+养在温度和湿度受控的动物房中，具有 12 h/12 h 的光/
+暗循环，小鼠自由进食与饮水。本实验中动物处置方
+法符合动物伦理学标准，经复旦大学实验动物科学部
+动物福利和伦理小组批准。
+1.3
+分组及模型制备
+采用区组随机法将小鼠分为对
+照组、人参皂甙Rg3 组、LPS 组、人参皂甙 Rg3+LPS 组，
+每组 10 只。其中 LPS 组、人参皂甙 Rg3+LPS 组小鼠
+通过腹腔注射 LPS 的方法制备脓毒症模型。对照组
+用 0.3 ml 0.9%氯化钠溶液灌胃，1 次/d，连续 7 d，第 4
+天腹腔注射0.3 ml 0.9%氯化钠注射液；人参皂甙Rg3组
+将人参皂甙 Rg3 按 30 mg/kg 溶于 0.3 ml 0.9%氯化钠溶
+液后，灌胃，1 次/d，连续 7 d，第 4 天腹腔注射 0.3 ml
+0.9%氯化钠注射液；LPS 组用 0.3 ml 0.9%氯化钠溶液
+灌胃，1 次/d，连续 7 d，第 4 天腹腔注射 0.3 ml LPS 溶
+液（15 mg/kg LPS 溶于 0.3 ml 0.9%氯化钠注射液）；人
+参皂甙 Rg3+LPS 组将人参皂甙 Rg3 按 30 mg/kg 溶于
+0.3 ml 0.9%氯化钠溶液后，灌胃，1 次/d，连续 7 d，第 4
+天腹腔注射 0.3 ml LPS 溶液（15 mg/kg LPS 溶于 0.3 ml
+0.9%氯化钠注射液）。
+1.4
+检测指标及方法
+第 7 天所有小鼠用 0.3%戊巴
+比妥钠（40 mg/kg）麻醉，剪开腹腔，通过腹主动脉采
+血，取血置于塑料离心管中，室温离心分离出血清
+（3 000 r/min，10 min），取上层血清-70 ℃保存，用于
+测定炎性因子水平；然后采用颈椎脱臼法处死小鼠，
+取出脾脏，计算脾脏指数；将脾脏剪成小块，研磨过
+200 目筛网，收集细胞悬液，采用淋巴细胞分离液分
+离出淋巴细胞置入冻存管-70 ℃保存，用于检测蛋
+白表达。
+1.4.1
+血清炎性因子水平测定
+取出血清后 4 ℃复
+·
+·2140
+浙江医学2022年第44卷第20期
+融，按照 ELISA 试剂盒说明书步骤检测 TNF-α、IL-6、
+IL-1β 水平。
+1.4.2
+脾脏指数检测
+将小鼠 的 脾 脏 结 缔 组 织 剪
+除 ，用 滤纸吸净表面的血液，用分析天平称重，按
+以下公式计算出脾脏指数：脾脏指数=脾重量（mg）/
+体重（g）×10。
+1.4.3
+Cleaved Caspase-3 蛋白表达水平检测
+采用
+Western blot 法。取出淋巴细胞，解冻后用裂解液裂
+解，提取组织蛋白，应用十二烷基磺酸钠-聚丙烯酰胺
+凝胶电泳（SDS-PAGE）进行蛋白质分离，上样后在
+12%聚丙烯酰胺凝胶中进行电泳，以电转膜方法将蛋
+白质转移至醋酸纤维素膜，5%脱脂牛奶封闭 1 h 后，加
+入相关一抗孵育，4 ℃振荡过夜，次日 5%磷酸盐吐温
+缓冲液（PBST）洗膜，加入对应二抗孵育，振荡 1 h，5%
+PBST 洗膜，置于显影仪中曝光显影。以 β-肌动蛋白
+（β-actin）为内参，用凝胶分析软件 Quantity One 分析
+Cleaved Caspase-3 蛋白条带灰度值。
+1.5
+统计学处理
+采用 SPSS 19.0 统计软件。计量资
+料以
+表示，多组间比较采用单因素方差分析，两
+两比较采用 SNK-q 检验。P＜0.05 为差异有统计学
+意义。
+2
+结果
+2.1
+4 组小鼠血清炎性因子水平比较
+与对照组比
+较，LPS 组、人参皂甙 Rg3+LPS 组小鼠 TNF-α、IL-6、
+IL-1β 水平均升高（均 P＜0.05）；与 LPS 组比较，人参
+皂甙 Rg3 组、人参皂甙 Rg3+LPS 组小鼠 TNF-α、IL-6、
+IL-1β 水平均降低（均 P＜0.05），见表 1。
+2.2
+4 组小鼠脾脏指数比较
+与对照组比较，LPS组、人
+参皂甙 Rg3+LPS 组小鼠脾脏指数均升高（均 P＜0.05）；
+与 LPS 组比较，人参皂甙 Rg3 组、人参皂甙 Rg3+LPS 组
+小鼠脾脏指数均降低（均 P＜0.05），见表 2。
+2.3
+4 组小鼠脾脏淋巴细胞 Cleaved Caspase-3 蛋白表
+达水平比较
+与对照组比较，LPS 组、人参皂甙 Rg3+
+LPS 组小鼠 Cleaved Caspase-3 蛋白表达水平均升高
+（均 P＜0.05）；与 LPS 组比较，人参皂甙 Rg3 组、人参皂
+甙 Rg3+LPS 组 Cleaved Caspase-3 蛋白表达水平均降低
+（均 P＜0.05），见图 1、表 3。
+3
+讨论
+脓毒症的发病过程涉及到复杂的全身炎症反应、
+免疫功能障碍、凝血功能异常、组织损伤等多个方
+表 1
+4组小鼠血清炎性因子水平比较（pg/ml）
+组别
+人参皂甙 Rg3+LPS 组
+人参皂甙 Rg3 组
+LPS 组
+对照组
+P 值
+n
+10
+10
+10
+10
+IL-1β
+5.22±2.85
+*△
+3.19±1.12
+△
+6.49±3.74
+*
+3.23±1.56
+＜0.05
+注：LPS 为 脂 多 糖 ；与 对 照 组 比 较 ，
+*P＜0.05；与 LPS 组 比
+较，
+△P＜0.05
+TNF-α
+6.37±3.01
+*△
+3.11±1.43
+△
+8.12±3.83
+*
+3.13±1.48
+＜0.05
+IL-6
+13.12±5.43
+*△
+4.56±1.99
+△
+16.37±6.98
+*
+4.41±1.45
+＜0.05
+表 2
+4组小鼠脾脏指数比较
+组别
+人参皂甙 Rg3+LPS 组
+人参皂甙 Rg3 组
+LPS 组
+对照组
+P 值
+n
+10
+10
+10
+10
+注：LPS 为 脂 多 糖 ；与 对 照 组 比 较 ，
+*P＜0.05；与 LPS 组比
+较，
+△P＜0.05
+脾脏指数
+78.12±19.01
+*△
+34.04±6.97
+△
+91.21±19.76
+*
+33.69±5.76
+＜0.05
+指标
+Cleaved
+Caspase-3
+β-actin
+相对分子质量
+17.19 kD
+42 kD
+注：LPS 为脂多糖；Cleaved Caspase-3 为裂解的天冬氨酸特异
+性半胱氨酸蛋白酶 3；β-actin 为 β-肌动蛋白
+图 1
+4 组小鼠脾脏淋巴细胞 Cleaved Caspase-3 蛋白表达的电
+泳图
+对照组
+人参皂甙Rg3组
+LPS组
+人参皂甙Rg3+LPS组
+表3
+4组小鼠淋巴细胞内Cleaved Caspase-3/β-actin蛋白灰度值
+比较
+组别
+人参皂甙 Rg3+LPS 组
+人参皂甙 Rg3 组
+LPS 组
+对照组
+P 值
+n
+10
+10
+10
+10
+注：LPS 为脂多糖；Cleaved Caspase-3 为裂解的天冬氨酸特异
+性半胱氨酸蛋白酶 3；β-actin 为 β-肌动蛋白 ；与对照组比
+较，
+*P＜0.05；与 LPS 组比较，
+△P＜0.05
+Cleaved Caspase-3/β-actin
+1.126±0.475
+*△
+0.419±0.195
+△
+1.395±0.518
+*
+0.413±0.187
+＜0.05
+·
+·2141
+浙江医学2022年第44卷第20期
+面，它可以由任何部位的感染引起。脓毒症常常发生
+在原有慢性疾病或年老体衰、外科手术后等患者。
+LPS 刺激是制作动物脓毒症模型的一种常用方法，本
+研究采用 LPS 腹腔注射模拟脓毒症状态小鼠，小鼠均
+在刺激后逐渐出现竖毛、萎靡、腹泻、饮食及活动次
+数减少，几天后症状才逐渐缓解好转。
+机体发生脓毒症时感染因素可激活机体单核巨
+噬细胞系统及其他炎症反应细胞，产生并释放大量炎
+性因子，脓毒症期间 TNF-α、IL-1β、IL-6 等炎性因子
+水平均会升高
+[3-5]，它们的协同作用被喻为是细胞因子
+诱发病理生理级联反应的扳机，抑制脓毒症的炎症，
+可以降低 TNF-α、IL-1β、IL-6 水平
+[6]，通过检测这些
+炎性因子的动态变化可以在一定程度上反映体内炎
+症的严重程度。本实验中，小鼠腹腔注射 LPS，刺激
+后 3 d 炎性因子 TNF-α、IL-1β、IL-6 水平和脾脏指数
+均高于对照组，而给予人参皂苷 Rg3 灌胃处理后小鼠
+TNF-α、IL-1β、IL-6 水平和脾脏指数均低于 LPS 组，提
+示人参皂甙 Rg3 能减少脓毒症小鼠炎性因子分泌，降
+低炎症反应。
+淋巴细胞凋亡是脓毒症患者免疫抑制的主要原
+因，脓毒症时机体大量淋巴细胞会发生凋亡，脓毒症
+诱导的免疫抑制的主要特征包括 T 细胞功能障碍，其
+特征是脾脏 T 细胞凋亡，分化抗原 4 叉头翼状螺旋转
+录因子调节性 T 细胞（CD4 FoxP3 Tregs）升高，Th1 免疫
+反应抑制
+[7]，高水平的 T 淋巴细胞凋亡不仅导致大量免
+疫效应细胞的丢失，而且会激活多种信号通路，导致
+机体内免疫系统受到明显抑制，因此减少 T 淋巴细胞
+的凋亡可以改善机体的免疫功能，提高脓毒症患者的
+生存率
+[8]。既往研究表明脾脏中淋巴细胞凋亡状况与
+炎症的严重程度和预后密切相关
+[9]，28 d 内死亡的脓毒
+症患者外周血淋巴细胞凋亡百分比明显高于存活患
+者，死亡患者体内淋巴细胞计数明显低于存活患者
+[10]。
+多种凋亡途径最终激活凋亡执行分子天冬氨酸
+特异性半胱氨酸蛋白酶 3（cysteine-containing aspar-
+tate-specific proteases-3，Caspase-3），Caspase-3 在正常
+情况下以酶原的形式存在，当细胞发生凋亡时，Cas-
+pase-3 会被活化成为 Cleaved Caspase-3，发挥促进细
+胞凋亡的作用
+[11]。Ibrahim 等
+[12]通过实验证明盲肠结扎
+穿孔术后的大鼠炎性因子 TNF-α、IL-1β、NF-κB 水平
+升高，凋亡介质 Caspase-3 和 p-JNK 蛋白表达上调，通
+过非布索坦治疗后，各测量参数均有明显好转，此外，
+还能改善组织病理变化，提高整体存活率。本实验
+中，小鼠腹腔注射 LPS，刺激后 3 d 小鼠脾脏淋巴细胞
+中 Cleaved Caspase-3 蛋白表达水平高于对照组，而给
+予人参皂苷 Rg3 灌胃处理组小鼠的 Cleaved Caspase-3
+蛋白表达水平低于 LPS 组，提示人参皂甙 Rg3 有减少
+小鼠脓毒症时淋巴细胞凋亡的作用。
+既往研究发现人参皂苷 Rg3 能通过激活腺苷酸活
+化蛋白激酶（AMPK）信号通路调节线粒体自噬，改善
+线粒体功能障碍，保护脓毒症引起的细胞和器官损
+伤
+[13]。人参皂苷 Rg3 能通过 NF-κB 和丝裂原活化蛋白
+激酶（MAPK）通路发挥强抗炎效果，抑制一氧化氮、诱
+导型一氧化氮合酶、环氧化酶-2、IL-1β、IL-6和TNF-α
+的表达
+[2]。
+综上所述，本实验通过检测人参皂苷 Rg3 对脓毒
+症小鼠炎性因子及 Cleaved Caspase-3 蛋白表达的影
+响，提示人参皂苷 Rg3 具有降低脓毒症小鼠炎性因子
+水平、脾脏指数及凋亡相关蛋白 Caspase-3 活化水平的
+作用。本研究为动物实验，存在一定的局限性和不足
+之处，为进一步探讨其机制需进一步深入研究，同时
+在临床上的有效性需要通过临床试验去验证。
+4
+参考文献
+[1]
+Kong BB, Wang XF, Yang WP, et al. Effects of simvastatin on
+the function of splenic CD4+ and CD8+ T cells in sepsis mice
+[J]. Immunol Res, 2018, 66(3): 355-366. DOI:10.1007/s12026-
+018-8994-7.
+[2]
+Saba E, Jeong D, Irfan M, et al. Anti-inflammatory activity of
+Rg3-enriched Korean red ginseng extract in murine model of
+sepsis[J]. Evid Based Complement Alternat Med, 2018, 2018:
+6874692. DOI:10.1155/2018/6874692.
+[3]
+Ge WW, Hu QH, Fang XS, et al. LDK378 improves micro-and
+macro-circulation via alleviating STING-mediated inflammato-
+ry injury in a sepsis rat model induced by cecal ligation and
+puncture[J]. J Inflamm (Lond), 2019, 16:3. DOI:10.1186/s12950-
+019-0208-0.
+[4]
+Cak1r M, Tekin S, Oka A, et al. The ameliorating effect of can-
+nabinoid type 2 receptor activation on brain,lung,liver and heart
+damage in cecal ligation and puncture-induced sepsis model
+in rats[J]. Int Immunopharmacol, 2020, 78: 105978. DOI:10.
+1016/j.intimp.2019.105978.
+[5]
+Ding L, Gong YH, Yang ZF, et al. Lactobacillus rhamnosus GG
+ameliorates liver Injury and hypoxic hepatitis in rat model of
+CLP-Induced sepsis[J]. Dig Dis Sci, 2019, 64(10): 2867-2877.
+DOI:10.1007/s10620-019-05628-0.
+[6]
+Xie WF, Chen L, Chen L, et al. Silencing of long non-coding
+RNA MALAT1 suppresses inflammation in septic mice: role
+of microRNA-23a in the down-regulation of MCEMP1 expres-
+sion[J]. Inflamm Res, 2020, 69(2): 179- 190. DOI:10.1007/s00
+011-019-01306-z.
+·
+·2142
+浙江医学2022年第44卷第20期
+[7]
+Li W, Tu J, Liu X, et al. Farnesyltransferase inhibitor FTI-277 in-
+hibits PD-L1 expression onseptic spleen lymphocytes and pro-
+motes spleen lymphocyte activation[J]. Clin Exp Immunol, 2017,
+190(1): 8-18. DOI:10.1111/cei.12995.
+[8]
+Li S, Zhu FX, Zhao XJ, et al. The immunoprotective activity of
+interleukin-33 in mouse model ofcecal ligation and puncture-
+induced sepsis.Immunology letters[J]. Immunol Lett, 2016, 169:
+1-7. DOI:10.1016/j.imlet.2015.11.009.
+[9]
+Yasuda T, Takeyama Y, Ueda T, et al. Splenic atrophy in exper-
+imental severe acute pancreatitis[J]. Pancreas, 2002, 24(4):
+365-372. DOI:10.1097/00006676-200205000-00007.
+[10]
+Jiang WQ, Zhong WH, Deng YY, et al. Evaluation of a combi-
+nation "lymphocyte apoptosis model" to predict survival of
+sepsis patients in an intensive care unit[J]. BMC Anesthesiol,
+2018, 18(1): 89. DOI:10.1186/s12871-018-0535-3.
+[11]
+Jiang H, Zhao PJ, Su D, et al. Paris saponin I induces apopto-
+sis via increasing the Bax/Bcl-2 ratio and caspase-3 expres-
+sion in gefitinib- resistant non- small cell lung cancer in vitro
+and in vivo[J]. Mol Med Rep, 2014, 9(6): 2265- 2272. DOI:
+10.3892/mmr.2014.2108.
+[12]
+Ibrahim YF, Fadl RR, Ibrahim, S, et al. Protective effect of fe-
+buxostat in sepsis- induced liver and kidney injuries after
+cecal ligation and puncture with the impact of xanthine oxi-
+dase, interleukin 1β, and c- Jun N- terminal kinases[J]. Hum
+Exp Toxicol, 2020, 39(7):906-919. DOI:10.1177/09603271209
+05957.
+[13]
+Xing W, Yang L, Peng Y, et al. Ginsenoside Rg3 attenuates
+sepsis- induced injury and mitochondrial dysfunction in liver
+via AMPK mediated autophagy flux[J]. Biosci Rep, 2017, 37
+(4): BSR20170934. DOI:10.1042/BSR20170934.
+（收稿日期：2022-05-31）
+（本文编辑：陈丽）
+（上接第2138页）
+Soc, 2015, 12(1):101- 104. DOI:10.1513/AnnalsATS.201408-
+358BC.
+[21]
+Zhou YZ, Gao YP, Zhang N, et al. Clinical effects of cisplatin
+plus recombinant human endostatin (rh- endostatin) intratu-
+moral injection on malignant central airway obstruction: a ret-
+rospective analysis of 319 cases[J]. J Thorac Dis, 2021, 13(2):
+1100-1105. DOI:10. 21037/ jtd- 20-1493.
+[22]
+Jiang WQ, Yang XP, Wang XK, et al. Bronchoscopic intratu-
+moral injections of cisplatin and endostar as concomitants of
+standard chemotherapy to treat malignant central airway
+obstruction[J]. Postgrad Med J, 2022, 98(1156):104-112. DOI:
+10.1136/postgradmedj-2020-138823.
+[23]
+Weill D, Mack M, Roth J, et al. Adenoviral-mediated p53 gene
+transfer to non-small cell lung cancer through endobronchial
+injection[J]. Chest, 2000, 118(4): 966-970. DOI:10.1378/ chest.
+118.4.966.
+[24]
+DeMaio A, Sterman D. Bronchoscopic intratumoural therapies
+for non- small cell lung cancer[J]. Eur Respir Rev, 2020, 29
+(156): 200028. DOI:10.1183/16000617.0028-2020.
+[25]
+Koizumi T, Tsushima K, Tanabe T, et al. Bronchoscopy-guid-
+ed cooled radiofrequency ablation as a novel intervention
+therapy for peripheral lung cancer[J]. Respiration, 2015, 90(1):
+47-55. DOI:10.1159/000430825.
+[26]
+Shin JH, Song HY, Ko GY, et al. Esophagorespiratory fistula:
+long-term results of palliative treatment with covered expand-
+able metallic stents in 61 patients[J]. Radiology, 2004, 232(1):
+252-259. DOI:10.1148/radiol.2321030733.
+[27]
+Deschamps C, Bernard A, Nichols FC, et al. Empyema and br-
+onchopleural fistula after pneumonectomy: factors affecting in-
+cidence[J]. Ann Thorac Surg, 2001, 72(1):243- 247; discus-
+sion 248. DOI:10.1016/s0003-4975(01)02681-9.
+[28]
+Pforr A, Pag s PB, Baste JM, et al. A predictive score for br-
+onchopleural fistula established using the French database
+epithor[J]. Ann Thorac Surg, 2016, 101(1):287-293. DOI:10.10
+16/j. athoracsur.2015.06.026.
+[29]
+Han XW, Yin MP, Li L, et al. Customized airway stenting for br-
+onchopleural fistula after pulmonary resection by interventional
+technique: single-center study of 148 consecutive patients[J].
+Surg Endosc, 2018, 32(10):4116-4124. DOI:10.1007/s00464-
+018-6152-x.
+[30]
+Zeng YM, Gao HZ, Zhang XB, et al. Closure of bronchopleural
+fistula with mesenchymal stem cells: case report and brief lit-
+erature review[J]. Respiration, 2019, 97(3):273- 276. DOI:10.
+1159/000493757.
+（本文由浙江省医学会推荐）
+（收稿日期：2022-05-21）
+（本文编辑：陈丽）
+·
+·2143

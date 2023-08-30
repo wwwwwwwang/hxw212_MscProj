@@ -1,0 +1,384 @@
+第 3l 卷
+第 10 期 
+20 14 年 l O 月 
+新乡医学院学报 
+J ourn al of X inxi ang Medi cal  University  
+V 01．3 1 
+No．10 
+Oct．2014 
+· 7 81 · 
+：。。。。。 。。 。。’ 。。 。。 。。’ 。。 。。’ 。。’ 。。 。。。。。’ 。。’ 。。’ 。。。。。’ 。。 。。 。。 。。 。。’ 。。’ 。。’ 。。。。。’ 。。 。。 。。 。。’ 。。 。。 。。’ 。。 。。’ 。。 。。： 
+本文弓。
+用：
+ 
+’ 
+帕金雩 、鼠黑质中酪氨酸羟化酶 ph B2和磷酸化 
+【基础研究】 
+。
+o 
+c—Jun 表达的影响 [ J ] ．新乡医学院学报 ，2014 ，31( 10) ：781-785．
+ 
+’o 
+‘ 一  
+‘ 
+。 
+人 参 皂 苷 Rgl 对 帕金 森 病 小 鼠黑 质 中 酪氨 酸 羟 化 酶 及 ephrinB2 和 
+磷 酸 化 c-J un 表 达 的 影 响 
+朱丰 霞 ，常海敏 ，段
+瑛 ，李培艳 ，王淑 秀 
+( 1．新乡医学院病理 学教研室 ，河 南
+新乡
+453003 ；2 ．新乡医学院法 医临床学教研 室 ，河南
+新 乡
+453003) 
+摘要 ： 
+目的
+观察人参皂苷 Rgl 对 1一甲基4 一苯基一1 ，2 ，3 ，6一四氢 吡啶( MPTP) 所致帕金森病 ( PD) 模 型小 鼠黑质 
+中酪氨酸羟化酶 ( T H) mRNA 、ephfi nB2 和磷酸化 c—Jun( p-c-J un) 蛋 白表达 的影 响 ，探 讨人参皂苷 Rgl 对 PD 的治疗作 
+用及其可能机制 。方法
+将 27 只 C57BL／6 小 鼠随机分 为对照组 、模 型组 和人 参皂苷 Rgl 组 ，每组 9 只。模型组和 人 
+参皂苷 Rgl 组 小 鼠腹 腔 注 射 MPTP 构 建 PD 模 型 。注 射 MPT P 前 ，对 照 组 和 模 型 组 小 鼠腹 腔 注 射 生 理 盐 水 
+( 1 mL · kg～ · d 
+) ，人参皂苷 Rgl 组小 鼠腹腔 注射人参皂苷 Rgl ( 10 mg · 
+。。· d 
+) ，连续 3 d。通 过爬 杆实验观察 
+小 鼠行为学变 化 ，2 周 后采用反转 录聚合 酶链 反应检测小 鼠黑质 中 T H mRNA 的表达 ，免疫 组织化学法 检测小 鼠黑 质 
+中 ephri nB2 及 p-c-Jun 蛋 白的表达 。结果 
+不 同时 间点 模 型组 小 鼠的爬 杆 时间 均显 著长 于对 照组 和人 参皂 苷 Rg1 
+组 ，差异均有统计学 意义 ( P < 0．05 ) ；模型组小 鼠脑 黑质 中 TH mRNA 表 达水 平显 著低于对照组和人参皂苷 Rgl 组 ，差 
+异均有统计学 意义 ( P < 0 ．05 ，P < 0．01) ；模型组小 鼠脑 黑质 中 ephfi nB2 、p-c—Jun 阳性 表达细胞 数显著高于对照组 和人 
+参皂苷 Rgl 组 ，差异均有统计 学意义 ( P < 0．05 ) 。结 论
+MPT P 可能通 过促进小 鼠中脑 黑质 中 ephfi nB2 、p-c-Jun 的表 
+达及诱导 多巴胺 能神经元细胞凋 亡导致 PD；人 参皂苷 Rgl 可能通过 降低小 鼠中脑黑质 中 ephfi nB2、P—c-J un 的表达并 
+缓解多 巴胺 能神经元凋亡而改 善 PD 症状 。 
+关键 词 ： 帕金森病 ；人参皂 苷 Rgl ；酪氨酸羟化酶 ；ephfi nB2；磷酸化 c-J un 
+中图分类号 ：R742．5
+文献标志 码 ：A
+文章 编号 ：1004-7239( 2014) 10—0781—05 
+E f ec t of  g inseno sid e R g l on  th e ex p ression s of  ty r osin e hy dr ox y lase ，ep hr inB 2 an d p h osph or y la ted  
+c-J un in substantia nig ra of  mice w ith P ar kinson s disease 
+Z H U F eng —xia ，C H A N G  H ai—m in ，DU A N Y in g ，L I Pei—y an ，W A N G  S hu —x iu 
+( 1．Department of  Pathology ，Xinxiang Medical University，Xinxiang 453003 ，Henan Province，China ；2，Departm
+e nt of  Clinical 
+J urisprudenc e，X inxiang Medical University，X inxiang 453003 ，Henan P rov inc e，China ) 
+A bstract ： Obj ectiv e 
+T o explore the role of ginsenoside R gl on treatment of Parkinson s disease( PD ) and its mecha— 
+nism by observing the effect of ginsenoside Rgl on the expressions of tyrosine hydroxylase( TH ) mRNA ，ephrinB2 and phos— 
+phorylated c—J un( p-c—J un) protein in substantia nigra of mice with PD induced by 1一Methyl-4一phenyl—l ，2 ，3 ，6-tetrahydropyri— 
+dine( MPTP ) ．Methods 
+Twenty-seven C57BL／6 mice were randomly divided into control group ，model gr oup and ginsenoside 
+R g l group ，n in e mic e i n eac h gr oup ．T h e mic e i n model gr ou p an d gin senos ide R gl  grou p were u sed to make mod el s of P D  by 
+intraperitoneal injection of MPTP．Before the intraperitoneal injection of MPTP ，the mice in control gr oup and model gr oup were 
+pretreated with normal saline( 1 mL · kg～ · d 。‘ ) ，and the mice in ginsenoside Rgl group were pretreated with ginsenoside 
+Rgl ( 10 mg ．kg ～ · d 
+) by intraperitoneal injection for three days．The ethological changes of mice were observ ed by the 
+p ole test．T h e express ion of T H  mR N A  i n su bs tanti a n igr a of th e m ic e w as d etermin ed wi th reverse trans c ri ption -polymeras e 
+ch ain reacti on ，an d the exp ressi ons of ep hri nB2 and p -c—J u n p rotein s i n sub stantia ni gr a of the mice were detected b y immuno— 
+h i stoc h emis try af ter tw o w eek s ．R es ul ts 
+T h e time of c li mb ing p ol e of mi ce i n m odel gr oup was si gn ific antly lon ger than thos e 
+of mice in control group and ginsenoside R gl group at different time point ( P < 0 ．05) ．T he expression of T H mRNA  in substan— 
+tia nigra of mice in model group was significantly lower than that in control gr oup and ginsenoside R gl gr oup( P < 0．05 ) ．The 
+number of eph rin B2 and p-c—J un positi ve cell s i n sub stan ti a ni gr a of mice in mod el  grou p was signi fi can tl y h igh er  than th at in 
+control group and ginsenoside Rgl gr oup ( P < 0．05 ，P < 0 ．O1 ) ．C onclusion 
+MPTP may promote the development of PD 
+D O I ：10．7683／x xyx yx b．20 14 ．10 ．003 
+收稿 日期 ：2014 —04 —28 
+基金项 目：河南省高校科技创新人才支持计划 资助项 目( 编号 ：2010HAST ITO08) 
+作者简介 ：朱丰霞 ( 1985 一) ，女 ，山东 泰安人 ，硕 士 ，研究 方向 ：神经内分泌病理。 
+通信作者 ：王淑秀 ( 1970 一) ，女 ，河南 济源人 ，博士 ，教授 ，研究方向 ：帕金森病的发病机制。 
+·
+782 · 
+新乡医学院学报
+http：／／www．= y~yxb．cona 
+2014 年
+第 31卷 
+through i ndu ci ng th e expression s of  ephri nB2 and p -c—J un ，and  ini ti atin g d op amin e n eurons apop tosi s．G insenosi de R g l may i m- 
+p rove the symptoms of P D by d ecreasi ng th e expressions of ep hri nB2 ，p -c—J u n and restrai nin g dopami ne n euro ns ap optosis．
+ 
+K ey wor ds ： Parkinson S di8ease ；ginsen0side Rg l ；tyrosine hydroxyl ase ；ephri nB2 ；phosphorylated c—J un 
+帕金森病( Parkinson s disease，PD) 是一种常见 
+的神经变性疾病 ，主要临床表现为运动迟缓、僵直 、
+ 
+震颤 ，典型病理学特征是 中脑黑质致密 区多巴胺能 
+神经元变性及进行性缺失 引。1 甲基_4．苯基一1，2 ，
+ 
+3 ，6一四氢 吡 啶 ( 1一methyl-4一phenyl一1 ，2 ，3 ，6-tetrahy— 
+dropyridine，MPTP) 可选择性地诱导黑质多巴胺能神 
+经元缺失，故 MPTP 诱导的小 鼠PD 模型能较好地反 
+映 PD 的病 理 过 程 
+。酪 氨 酸 羟 化 酶 ( tyrosine 
+hydroxylase ，TH ) 是多 巴胺生物合成 中的限速酶 ，是 
+脑 内多 巴胺能神经元的蛋 白标志，TH 表达水平的高 
+低能反映多 巴胺能神经元 的数量 J。促 红细胞生 
+成素产生肝细胞 ( erythropoietin—producing hepatocel— 
+lular cell line，Eph) 受体激酶是细胞表面型受体酪氨 
+酸激酶 ( receptor tyrosine kinases ，RTK ) 的一种 ，其配 
+体为 ephrin。Eph 受体分为 A 型和 B 型 ，其配体分 
+别为 ephrinA 和 ephrinB 
+。在多 巴胺 能神经 环路 
+的形成 中，E phB1／ephrinB2 可选择性地抑制多 巴胺 
+能神经元生长锥的形成 ，降低迁移错位神经元 的存 
+活率 ，使黑质一纹状体和纹状体-苍 白球 多巴胺 能神 
+经环路准确形成 J。研究表 明，磷酸化 c．Jun( phos— 
+phorylated c-Jun，p—c—Jun) 与 PD 密切相关 
+。目前 ， 
+对 PD 的治疗 多采 用左旋 多巴等 进行对症 治疗 ，但 
+长期使用效果不佳 ，且无神经保护作用⋯ 。人参皂 
+苷 Rgl 是从人参中提取的主要生物活性成分之一 ，
+ 
+有神经营养作用 ，对 MPTP 引起 的多巴胺能神经元 
+损伤有保护作用 J。本研究通过观察人参皂苷 Rgl 
+对 MPTP 诱导的 PD 小 鼠脑黑质 中 TH 、ephrinB2 及 
+P—e—Jun 表达的影响 ，探讨人参 皂苷 Rgl 对 PD 的预 
+防治疗作用及其可能机制。 
+1
+材料与方法 
+1．1
+材料 
+1．1．1 
+实 验动 物 
+健 康雄 性 C57BL／6J 小 鼠 27 
+只，12 周龄 ，体质量 22 —30 g，购于北京维通利华实 
+验动物技术有 限公 司[ 许可证编号 SCXK ( 京 ) 2006． 
+0009 ] ，单笼喂养 ，自由饮食 ，室温 ( 25．0 4- 2．0 ) oC ，
+ 
+自然光照。 
+1．1．2
+主要试剂
+MPTP 购 自美国 Sigma 公司 ，人 
+参皂苷 Rgl 购于北京寰宇科技生物科技发展有 限 
+公 司，链霉 亲和素一过氧化 物酶 ( streptavidin—peroxi— 
+dase，SP) 免疫组织化学染色试剂盒购 自北京 中杉金 
+桥生物技术有限公 司，TRIzol 试剂为美 国 Invitrogen 
+公司产品 ，TH 小 鼠抗 小 鼠单 克隆抗 体 ( 工作 浓度 
+1 ：100 ) 为美国 Millipore 公司产品，ephrinB2 兔抗小 
+鼠多克隆抗体( 工作浓度 l ：100) 为美国 SantaCruz 
+公 司产 品，p-c-Jun 兔抗小 鼠多克隆抗体 ( 工作浓度 
+1 ：50) 为美国 Cell Signaling 公司产品，反转 录聚合 
+酶链反应( reverse transcri ption—polymerase chain reac— 
+tion，RT—PCR ) 试剂 盒购于 TaKaRa 宝生 物工程 ( 大 
+连 ) 有限公司 ，PCR 引物 由上海生工生物工程有 限 
+公司合成。 
+1．2
+方法 
+1．2．1
+实验分组及 PD 小鼠模型构建
+将 27 只小 
+鼠随机分为对照组 、模型组和人参皂苷 Rgl 组 ，每组 
+9 只。注射 MPTP 前 ，对照组和模型组小鼠腹腔注射 
+生理盐水( 1 mL · kg～ · d 
+) ，人参皂苷 Rgl 组小 鼠 
+腹腔注射人参皂苷 Rgl ( 10 mg · kg～ · d 
+) ，连续 
+3 d。给药 3 d 后 ，对照组小 鼠继续腹腔注射生理盐 
+水 ( 1 mL · kg 
+) ；模型组和人参皂苷 Rgl 组小 鼠腹 
+腔注射 MPTP ( 20 mg · kg 
+) ，均在 同一 天 注射 4 
+次 ，每次间隔 2 h。注射结束后第 1、5 、9 、13 天通过 
+爬杆实验检测小 鼠的行为变化。 
+1．2．2 
+组 织取 材与样本 制备 
+在最后 1 次注射 
+MPTP 后第 14 天 ，将小 鼠经 60 g · L 
+水合氯醛麻 
+醉( 30 mg · kg 
+) ，40 g · L 
+多聚 甲醛 常规灌 注固 
+定脑组织后 ，迅 速开 颅取 脑 ，40 g - L 
+多 聚 甲醛 
+4 ℃ 后固定过夜 ，置于质量分数 20％蔗糖沉底后 ，
+ 
+转人质量分数 30％蔗糖至沉底 ，对包含黑质的脑组 
+织进行冠状冰冻连续切片 ，保存于 一80 ℃ ，供 sP 免 
+疫组织化学染色 ；将小 鼠快速断头取脑 ，于冰上分离 
+出中脑黑质部位 ，分离 出的组织于液氮冷存 ，以备 
+R T．PCR 用 。 
+1．2．3
+爬杆实验
+将直径为 25 cm 的软木小球 固 
+定于长50 cin、粗0 ．8 cm 的木杆顶端 ，木杆上缠纱布 
+防滑 ，将 小 鼠放 于小 球 上 ，记 录小 鼠整个 爬 杆 时 
+间 
+。 
+1．2．4 
+R T -PCR
+应用 TRIzol 试剂提取 小鼠黑质 
+中总 RNA 。根据试剂 盒说 明书进行 反转 录。PCR 
+反应循环参数 为：94 oC 、2 ra in，94 oC 、30 S，55 oC 、 
+30 S，72 ℃、l min，共 30 个 循 环 ，最后 72 ℃ 延伸 
+5 min。甘油醛一3一磷酸脱氢酶 ( glyeeraldehyde．3．phos— 
+phate dehydrogenase，GAPDH) 引物序列 ：正链为 5 - 
+GCCAAGGTCAT CCATGACAAC-3 ，负链 为 5 一AGTG— 
+TAGCCCAA GATGCCCT Y-3 ，PCR 扩 增 产物 长 度 为 
+351 bp；TH 引 物 序 列 ：正 链 为 5 一GGTATACGC- 
+CACGCTGAAGG一3 ，负 链 为 5 一TAGCCACAGTAC- 
+第 1O 期 
+朱丰霞 ，等 ：人参皂苷 Rgl 对帕金 森病小 鼠黑质中酪氨酸羟化酶及 ephri nB2 和磷酸化 c—Jun 表达的影响 
+· 7 85 · 
+N —t erminal k inase inhibit ors protect dopaminergic neurons in a 
+model of Parkinson s disease [ J ] ．ACS Chem Neurosci，2011，2 
+( 4 ) ：198 -20 6．
+ 
+[2] 
+赵 营 ，翟德胜 ，崔泰震 ，等．SL C6A3 基 因 多态 性与 帕金 森病关 
+联性研究 Meta 分析 [ J ] ．新 乡医学 院学 报 ，2013，30 ( 6) ：438 
+44 4 ．
+ 
+『3 ] 
+Smeyne R  J ．J ackson．Lewis V ．The MP r P model of P arkinson s di s— 
+ease[ J ] ．Brain Res Mol Brain Res，2005 ，134( 1) ：57456．
+ 
+[4] 
+K amal  M A ．Editorial ：status of tyrosine hydroxylase in the heal thy 
+and Parkinson s brain[ J ] ．CNS Neurol Disord Drug Targets，2012 ，
+ 
+11(4 ) ：336 -339 ．
+ 
+[ 5] 
+Zhao J ，Yuan G，Cendan C M，et a1．Nociceptor—expressed ephrinB2 
+regulates infl ammatory and neuro pathic pain[ J ] ．Mol Pain，2010 ，6 
+( 1) ：77-90 ．
+ 
+[6 ]
+Pasquale E B．Eph receptor signal ling casts a wide net on cell be- 
+haviour[ J ] ．Nat Rev Mol Cell Biol，2005 ，6( 6) ：4624 75．
+ 
+[ 7]
+Hunot S ，Vila M，Teismann P ，et a1．J NK—mediated induction of cy— 
+cloox yge na se  2 is re quire d f or ne urode ge ne ra tion in a mouse mode l 
+of Parkinson s disease [ J ] ．Proc Natl Acad Sci USA ，2004，10 1 
+(2 ) ：665-670 ．
+ 
+[ 8] 
+Chen X C ，Zhou Y C ，Chen Y ，et a1．Ginsenoside Rgl reduces 
+M PT P··induce d substa ntia nig ra  ne uI ofl  loss by suppre ssing ox ida·- 
+tire stress[ J ] ．Aeta Pharmacol Sin，2005 ，26( 1) ：5645 2．
+ 
+[ 9]
+Matsuura K ，Kabuto H ，Makino H ，et a1．Pole test is a useful meth． 
+od for eva luat ing the  mouse move me nt disorder c au se d by striata l 
+dopamine depletion[ J ] ．J  Neurosci Methods，1997 ，73( 1) ：454 8．
+ 
+[ 1O]
+x u L ，Chen W F ，Wong M S．Ginsenoside Rgl protects dopamin- 
+ergi c neurons in a ra t m ode l of P ark inson s disea se throulg h the 
+IGF一1 receptor signaling pathway [J ] ．
+ 
+J  Pharmacol ，2009，158 
+( 3 ) ：738 -748．
+ 
+[ 11]
+石 冲 ，张宇新 ，张作风 ．磷 酸化 ERK 1／2 对 MPT P 帕金 森病小 
+鼠黑质 iNOS 表 达 的影 响 【J ] ．南 方 医科 大学 学 报 ，2009 ，29 
+[ 12] 
+[ 13] 
+[ 14] 
+[ 15] 
+[ 16] 
+[ 17] 
+[ 18 ] 
+[ 19] 
+( 1) ：60 45 3 ．
+ 
+IJi J Q，Zhang X G，Zhang J T．Study on the anti—apoptotic mecha— 
+nism of ginsenoside Rgl in cultured eo~ieal neurons[ J ] ．Acta 
+P ^nr，n Sinica ，1997 ，32 ( 6 ) ：406 4 10．
+ 
+C hen X  C ，Z hu Y  G ，W ang X  Z ，et a 1．Prot ecti ve ef fect  of ginsen— 
+oside R gl on dopamine—induced apoptosis in PC12 cells[ J ] ．Acta 
+Pharmacol S in，2001，22( 8) ：67345 78．
+ 
+L e un g K  W ，Y ung K  K ，M ak N K ，et a 1．Ne uroprote ctiv e effe cts of 
+ginse noside R g l in pri ama ry  nig ral  neurons a gainst rot enone tox ic - 
+iIy[J ] ．Neuropharmacology ，2007 ，52(3) ：827-835．
+ 
+Y ue Y ，W i dmer D A ，H al l aday A  K ，et a1．S pec ifi ca tion of dist inct 
+dopa minergi c neural pa thw a ys ：role s of  the E ph fam ily re ceptor 
+EphB1 and ligand eprhri nB2[ J ] ．J Neurosci，1999 ，19(6) ：2090- 
+2 10 1 ．
+ 
+G oldshmit Y ，M cL enac han S ，T umley A ．R ole s of  E ph re ce pt ors 
+and ephrins in the normal  and damaged adult CNS [J ] ．Brain Res 
+Rev，2006 ，52 ( 2 ) ：327-345 ．
+ 
+Pan J ，Qian J ，Zhang Y ，et a1．Smal l peptide inhibitor of J NKs pro — 
+tects against MPTP· induced nigral dopaminergic inj ury  via inhibi·· 
+ri ng the J NK-signaling pathway [ J ] ．Lab Invest ，2010，90 ( 2 ) ：
+ 
+156．167 ．
+ 
+S a pori to M  S ，Brown E M ，Mi ller M  S ，et a 1．C E P- 1347／K T ·7515 ，
+ 
+a n inhibitor of  c -jun N - te rm inal k inase ac tiva tion ，a ttenua te s the 
+1- me thyl -4- phenyl te trahydmpyridine·-mediate d loss of nigro-·stri a — 
+tal  dopaminergic neurons in vivo [ J ] ．J  Pharmaeol Exp Ther，
+ 
+1999 ，288( 2 ) ：4 214 27．
+ 
+X ia G ，H a rding T ，W e ller M ，et a 1．G e ne transfe r of t he  J NK  inter— 
+a ct in g protein --1 prote cts dopaminergie ne urons in the M PT P  ro od-- 
+el of Parkinson s disease[ J ] ．Proc Natl Acad Sci USA ，2001，98 
+( 18 ) ：10433—10438 ．
+ 
+( 本 文编辑 ：徐 自超
+英 文编辑 ：徐 自超 ) 
+( 上接第 780 页 ) 
+贯穿了整个 DN 病程并最终演变成终末期 肾病。积 
+聚在肾问质的细胞外基质成分复杂 ，既包括正常肾间 
+质已有的基质蛋白成分 ( Collagen I 、Ⅲ、Ⅶ 、纤连蛋 
+白和腱蛋白等) 的增多 ，还包 括正常 时仅存 在于 肾 
+小管基膜 的基质蛋 白( Collagen Ⅳ和纤连蛋 白等 ) 的 
+沉积 
+。本研究结果显示 ，12 周模 型组 大鼠 HE 染 
+色可见明显 的病理变化 ，Collagen I 、Collagen Ⅲ免疫 
+组织化学结果显示模型组肾组织胶原含量明显高于 
+对照组 ，这是 DN 的直接证据。超微结构亦可见模 
+型组随病程肾小球 毛细血管基底膜弥漫性增厚 ，足 
+突融合 ，间质内大量胶原微纤维成束 出现。因此 ，本 
+研究提示在早期 DM 中就 出现肾脏 的纤维化改变。 
+综上所述 ，l 型 DM 大 鼠在持续高血糖状态下 ， 
+心肌和肾组织同期 出现纤维化 的病理改变 ，并且二 
+者基本 同步 ，在作为靶器官受损方面二者具有共性 ，
+ 
+可 以推断二者的发病机制可能相似 ，因此 心肾保护 
+必须建立整体化思维 ，从 而为 临床 DM 并发症 的早 
+期防治开辟思路。 
+[ 2] 
+[ 3] 
+[ 4] 
+[ 5] 
+[ 6] 
+[ 7] 
+[ 8] 
+参考文献 ：
+ 
+安荣 ，孔维 ，丁延平．糖 心乐对糖 尿病心 肌病大 鼠血糖 及心肌 
+酶的影响[ J ] ．新乡医学 院学报 ，2012 ，29( 9) ：65645 58．
+ 
+张海燕．心肌胶原网络重构的研究进展 [ J ] ．心血管病学进展 ， 
+2003 ，24 ( 5 ) ：359-362 ．
+ 
+Peart J N ，Headri ck J P ．Sustained cardioproteetion ：explori ng nn- 
+conwentional modal ities[ J ] ．Vascul Pharnacol ，2008，49 ( 2／3) ： 
+6 3 -7 O ．
+ 
+王海强 ，黄耀 ，添赵 黎 ，等．等 张应力对 深筋膜 I 、Ⅲ型 胶原影 
+响的实验研究 [J ] ．中国临床康复 ，2002，6( 2) ：208-209．
+ 
+张召才 ，杨其珍 ，陈灏 珠．心肌 纤维化 的研 究进展 [ J ] ．临床 心 
+血管病杂志 ，2004 ，20( 1) ：58450．
+ 
+郭淑香 ，孙冬梅 ，薛瑞 凤．应用 背向散 射积分 技术评价 糖尿病 
+大 鼠心肌纤维化 [ J ] ．现代 医学 ，2009，37( 4) ：261-266．
+ 
+孙红霞 ，杨世杰．依那普利抗异丙 肾上腺 素诱 导的心肌纤 维化 
+作用及机制 [ J ] ．中国药理学通报 ，2009，25( 8) ：1060．1064．
+ 
+L ea J  P ．Nic holas S B ．D iabetes mell it us and hypertension ：k ey ri sk 
+factors fo r kidney disease[ J ] ．J  Natl Med Assoc ，2002 ，94 ( suppl 
+8 ) ：7 S一15S ．
+ 
+( 本文编辑 ：李 胜利
+英文编辑 ：王
+燕 ) 

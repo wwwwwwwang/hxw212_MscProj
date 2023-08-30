@@ -1,0 +1,1963 @@
+  ∗通信作者,E-mail:819607266@ qq. com
+人参皂苷 Rh2 通过抑制氧化应激和神经炎症
+缓解小鼠应激诱导的抑郁样行为
+吴欢欢,陆清溪,陈晓群∗
+(南通大学附属南通第三医院,南通市第三人民医院药剂科,江苏 南通 226000)
+  摘要:目的 初步阐明人参皂苷 Rh2 对抑郁症相关氧化应激和神经炎症具有抗抑郁药作用,以及这些神经保护
+作用的可能机制。 方法 首先构建 C57BL/ 6
+ 
+J 小鼠慢性社交挫败应激(CSDS)模型,根据社会交互作用指数(SIR)
+确定易感小鼠,分为 CSDS 组、Rh2 组和氟西汀组,每组 10 只,另取对照组 C57BL/ 6
+ 
+J 小鼠 10 只进行行为学实验(社
+会交互作用实验、强迫游泳实验、悬尾试验和糖水消耗实验),检测 Rh2 能否减轻小鼠抑郁样行为。 然后采用 ELISA
+法和实时定量 PCR 法检测小鼠氧化应激因子〔超氧化物歧化酶(SOD)、谷胱甘肽过氧化物酶(GSH-PX)、丙二醛
+(MDA)和一氧化氮(NO)〕和炎症因子〔(肿瘤坏死因子 α(TNF-α)、白细胞介素(IL)-1β 和干扰素(IFN)-γ)〕水
+平。 采用免疫荧光染色、实时定量 PCR 法和 Western
+ 
+blot
+ 
+法检测 Rh2 预处理能否对 CSDS 引起的 4-羟基壬烯酸(4-
+HNE)、胶质纤维酸性蛋白(GFAP)和双皮质蛋白(DCX)变化产生抑制作用。 结果 小鼠 CSDS 抑郁模型构建成功。
+人参皂苷 Rh2 治疗显著改善小鼠抑郁样行为。 人参皂苷 Rh2 治疗的 CSDS 小鼠氧化应激产物水平,抗氧化应激激
+酶活性和神经炎症均有所降低或得到改善。 结论 Rh2 在 CSDS 诱导的小鼠体内具有抗抑郁作用,其机制似乎涉及
+对氧化应激的保护,从而防止炎症反应导致的神经元退化。
+关键词:抑郁症;人参皂苷 Rh2;氧化应激;慢性社会挫败应激;神经炎症
+中图分类号:R749. 4  文献标志码:A  文章编号:2096-3882(2023)03-0163-07
+DOI:10. 3969/ j. issn. 2096-3882. 2023. 03. 002
+Ginsenoside
+ 
+Rh2
+ 
+alleviates
+ 
+depression-like
+ 
+behaviors
+ 
+through
+ 
+suppression
+ 
+of
+ 
+oxidative
+ 
+stress
+ 
+and
+ 
+neural
+ 
+inflammation
+ 
+in
+ 
+CSDS-induced
+ 
+mice
+WU
+ 
+Huanhuan,
+ 
+LU
+ 
+Qingxi,
+ 
+CHEN
+ 
+Xiaoqun∗
+(Department
+ 
+of
+ 
+Pharmacy,
+ 
+the
+ 
+Third
+ 
+Affiliated
+ 
+Hospital
+ 
+of
+ 
+Nantong
+ 
+University,
+ 
+the
+ 
+Third
+ 
+People's
+ 
+Hospital
+ 
+of
+ 
+Nantong,
+ 
+Jiangsu
+ 
+226000,
+ 
+China)
+ 
+ 
+Abstract:
+ 
+Objective 
+To
+ 
+explore
+ 
+the
+ 
+possible
+ 
+mechanisms
+ 
+of
+ 
+ginsenoside
+ 
+Rh2
+ 
+in
+ 
+alleviating
+ 
+antidepressant -like
+ 
+effects
+ 
+in
+ 
+chronic
+ 
+social
+ 
+defeat
+ 
+stress
+ 
+(CSDS)
+ 
+mice. Methods A
+ 
+CSDS
+ 
+model
+ 
+was
+ 
+established
+ 
+using
+ 
+C57BL/ 6
+ 
+J
+ 
+and
+ 
+CD1
+ 
+mice.
+ 
+Then,
+ 
+based
+ 
+on
+ 
+social
+ 
+interaction
+ 
+ratio,
+ 
+sensitive
+ 
+mice
+ 
+were
+ 
+determined
+ 
+and
+ 
+divided
+ 
+into
+ 
+three
+ 
+groups
+ 
+(n = 10):
+ 
+a
+ 
+CSDS
+ 
+group,
+ 
+a
+ 
+Rh2
+ 
+treatment
+ 
+group,and
+ 
+a
+ 
+fluoxetine
+ 
+treatment
+ 
+group.
+ 
+Meanwhile,
+ 
+another
+ 
+ten
+ 
+C57BL/ 6J
+ 
+mice
+ 
+were
+ 
+select-
+ed
+ 
+as
+ 
+a
+ 
+control
+ 
+group.
+ 
+Then,
+ 
+the
+ 
+effect
+ 
+of
+ 
+Rh2
+ 
+on
+ 
+alleviating
+ 
+depressive-like
+ 
+behaviors
+ 
+in
+ 
+CSDS
+ 
+mice
+ 
+were
+ 
+evaluated
+ 
+by
+ 
+su-
+crose
+ 
+preference
+ 
+test,
+ 
+forced
+ 
+swimming
+ 
+test,
+ 
+tail
+ 
+suspension
+ 
+test
+ 
+and
+ 
+social
+ 
+interation
+ 
+test.
+ 
+The
+ 
+levels
+ 
+of
+ 
+oxidative
+ 
+stress
+ 
+fac-
+tors
+ 
+superoxide
+ 
+dismutase
+ 
+(SOD),
+ 
+glutathione
+ 
+peroxidase
+ 
+(GSH-PX),
+ 
+malondialdehyde
+ 
+(MDA)
+ 
+and
+ 
+nitric
+ 
+oxide
+ 
+(NO),
+as
+ 
+well
+ 
+as
+ 
+inflammatory
+ 
+factors
+ 
+tumor
+ 
+necrosis
+ 
+factor-α
+ 
+(TNF-α),
+ 
+interleukin-1β(IL-1β)
+ 
+and
+ 
+interferon-γ(IFN-γ)
+ 
+were
+ 
+measured
+ 
+by
+ 
+ELISA
+ 
+and
+ 
+RT-qPCR.
+ 
+Furthermore,
+ 
+the
+ 
+effect
+ 
+of
+ 
+Rh2
+ 
+on
+ 
+the
+ 
+changes
+ 
+of
+ 
+4-hydroxynonenal
+ 
+(4-HNE),
+ 
+glial
+ 
+fibrillary
+ 
+acidic
+ 
+protein
+ 
+(GFAP),
+ 
+and
+ 
+doublecortin
+ 
+(DCX)
+ 
+were
+ 
+detected
+ 
+by
+ 
+immunofluorescence
+ 
+assay,
+ 
+real-time
+ 
+quantitative
+ 
+PCR
+ 
+and
+ 
+Western
+ 
+blot.
+ 
+Results The
+ 
+CSDS
+ 
+mouse
+ 
+model
+ 
+was
+ 
+successfully
+ 
+established.
+ 
+After
+ 
+Rh2
+ 
+treatment,
+ 
+the
+ 
+depression-like
+ 
+behaviors
+ 
+in
+ 
+CSDS-induced
+ 
+mice
+ 
+were
+ 
+significantly
+ 
+improved,
+ 
+the
+ 
+activity
+ 
+of
+ 
+SOD
+ 
+and
+ 
+GSH-PX
+ 
+was
+ 
+enhanced,
+ 
+the
+ 
+content
+ 
+of
+ 
+MDA
+ 
+and
+ 
+NO
+ 
+was
+ 
+reduced,
+ 
+the
+ 
+level
+ 
+of
+ 
+4-HNE
+ 
+was
+ 
+elevated,
+ 
+the
+ 
+protein
+ 
+and
+ 
+mRNA
+ 
+levels
+ 
+of
+ 
+IL
+-1β,
+ 
+TNF-α
+ 
+and
+ 
+IFN-γ
+ 
+were
+ 
+reduced,
+ 
+and
+ 
+neurogenesis
+ 
+was
+ 
+improved.
+ 
+Conclusions Rh2
+ 
+can
+ 
+produce
+ 
+antidepressant-
+like
+ 
+effects
+ 
+on
+ 
+CSDS
+ 
+in
+ 
+mice,
+ 
+which
+ 
+may
+ 
+be
+ 
+associated
+ 
+with
+ 
+protection
+ 
+against
+ 
+oxidative
+ 
+stress
+ 
+and
+ 
+inhibition
+ 
+of
+ 
+neuronal
+ 
+de-
+terioration,
+ 
+resulting
+ 
+inreduced
+ 
+neurogenesis.
+·163·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)
+Key
+ 
+words:depression;ginsenoside
+ 
+Rh2;
+ 
+oxidative
+ 
+stress;
+ 
+chronic
+ 
+social
+ 
+defeat
+ 
+stress;
+ 
+neuroinflammation
+  抑郁症是心理健康相关疾病负担的主要原因。
+2019 年全球约 2. 8 亿人患有抑郁症[1]。 抑郁症还与
+其他疾病和自杀导致的过早死亡有关[2-3]。 近年来,
+尽管抑郁症的治疗取得了重大进展,但传统疗法对许
+多患者效果不佳[4],临床常用的抗抑郁药物伴有较大
+的不良反应[5]。 因此,迫切需要找出治疗抑郁症的新
+型候选药物。
+氧化应激和炎症是抑郁症发病的重要组成部
+分[6]。 研究表明,氧化应激标记物在抑郁症患者中增
+加[7],而神经炎症介质的水平与抑郁症状的严重程度
+有关[8]。 人参皂苷 Rh2 是人参的主要生物活性物质
+之一,在肿瘤治疗和肿瘤微环境免疫调节中发挥重要
+作用[9]。 研究表明,Rh2 通过调节胆碱能传递和抑制
+氧化应激对东莨菪碱诱导的记忆障碍具有保护作
+用[10]。 此外,Rh2 通过抑制氧化应激和神经炎症神
+经毒性,显著抑制三甲基锡(TMT)诱发的小鼠癫痫发
+作和行为变化[11]。 虽然 Rh2 在抑郁症中的作用已得
+到证实[12],但目前尚不清楚 Rh2 是否通过抑制氧化
+应激或降低与抑郁相关的炎症水平发挥保护作用。
+因此,本研究拟探讨 Rh2 在抑郁症中的保护作用,特
+别是通过抑制氧化应激和神经炎症缓解小鼠应激诱
+导的抑郁样行为。 研究结果将为理解 Rh2 在抑郁症
+治疗中的作用提供新的见解。
+1 材料和方法
+1. 1 主要试剂 人参皂苷 Rh2(Sigma),氟西汀(麦
+克林)。 Rh2、氟西汀用 1%
+ 
+DMSO 溶解于生理盐水
+中,然后腹腔内注射不同剂量(Rh2:20
+ 
+mg/ kg,
+ 
+氟西
+汀:20
+ 
+mg/ kg)。 小鼠超氧化物歧化酶(SOD)和谷胱
+甘肽过氧化物酶(GSH-PX)ELISA 检测试剂盒(北京
+华夏远洋),丙二醛(MDA)和一氧化氮(NO)含量检
+测试剂盒(南京草本源),小鼠白细胞介素(IL) -1β、
+干扰素(IFN)-γ 和海马区肿瘤坏死因子 α(TNF-α)
+ 
+ELISA 检测试剂盒(南京建成)。 鼠来源单克隆 4-
+Hydroxynonenal ( 4 - HNE) 抗 体 ( Abcam,
+ 
+1 ∶ 25,
+ 
+ab48506),兔来源 GFAP 抗体(Abcam,
+ 
+ab7260),鼠来
+源 GFAP 抗体(Abcam,
+ 
+ab190288)。
+1. 2 实验动物 成年雄性 C57BL/ 6
+ 
+J 小鼠(20 ~ 22
+ 
+g,8 周龄)96 只和雄性 CD1 小鼠 48 只(16~20 周)购
+自南通大学实验动物中心。 所以动物在标准条件下
+〔12h 光照/ 黑暗周期;室温 25
+ 
+℃ ±2
+ 
+℃;(50±5)%相
+对湿度〕持续 1 周,期间小鼠自由饮水和进食。 所有
+动物实验方案均获得南通大学机构动物伦理委员会
+批准(20171220—005)。
+1. 3 慢性社交挫败应激(CSDS)模型构建 CSDS 造
+模步骤在前述基础上稍作修改[13-14]。 简言之,首先筛
+选出具有攻击潜伏期的 CD1 小鼠,将其安置在使用
+穿孔有机玻璃分离器分隔的鼠笼右侧。 实验组小鼠
+进行 28
+ 
+d 的 CSDS,即将 C57BL/ 6
+ 
+J 小鼠每天暴露于
+CD1 攻击鼠 5
+ 
+min,随后置于各自攻击性 CD1 小鼠的
+鼠笼左侧,允许视觉、嗅觉和听觉接触 24
+ 
+h,每天更换
+新的 CD1 小鼠避免适应。 28
+ 
+d 后,将攻击失败的小
+鼠单独饲养。 对照组为 C57BL/ 6
+ 
+J 小鼠,每天与无攻
+击性的 C57BL/ 6
+ 
+J 小鼠(共 12 只)接触,随后每天更
+换新的 C57BL/ 6
+ 
+J 小鼠,连续 28
+ 
+d。 记录实验组小鼠
+在有 CD1 小鼠的交互区花费的时间与没有 CD1 小鼠
+的交互区花费的时间。 根据以下公式计算社会交互
+作用指数(SIR):SIR = 有 CD1 小鼠在相互作用区停
+留的时间/ 没有 CD1 小鼠在相互作用区停留的时间。
+易感小鼠定义为 SIT 比值<1,而弹性小鼠定义为 SIT
+比值≥1。 将易感小鼠分为 3 组:CSDS 组、Rh2 组和
+氟西汀组,每组 10 只,另取对照组小鼠 10 只,进行后
+续的行为学实验。
+1. 4 行为学实验
+1. 4. 1 社会交互作用实验 将 1 个透明的有机塑料
+空盒子(10
+ 
+cm×7
+ 
+cm×18
+ 
+cm)置于方形的开放场地
+(44
+ 
+cm×44
+ 
+cm×30
+ 
+cm)一边。 实验开始前指定互动
+区域。 第一阶段,C57BL/ 6
+ 
+J 小鼠在开放场地自由探
+索 2. 5
+ 
+min,透明小塑料箱中无 CD1 小鼠,测试后放回
+鼠笼。 第二阶段,将 CD1 小鼠置于透明小塑料箱中,
+然后将 C57BL/ 6
+ 
+J 小鼠放回开放场中并记录小鼠在
+互动区域的累积时间。 每只小鼠测试后对敞箱进行
+清理,避免影响后续小鼠的行为。
+1. 4. 2 强迫游泳实验 将小鼠轻轻放入玻璃筒(直
+径 16
+ 
+cm,高 32
+ 
+cm,内含 25
+ 
+℃水 20
+ 
+cm)中 5
+ 
+min,记
+录小鼠不动(没有运动或保持头部露出水面所需的小
+动作)时间。
+1. 4. 3 悬尾实验 用胶带贴将小鼠尾部
+ 
+1
+ 
+cm 处固
+定并悬挂于地面上方
+ 
+40
+ 
+cm 处,计时
+ 
+6
+ 
+min。 使用
+EthoVision
+ 
+XT 软件记录后 4
+ 
+min 的不动时间。
+1. 4. 4 糖水消耗实验 实验前,小鼠使用 2 个相同
+的水瓶饮用 3
+ 
+d。 每只小鼠禁食禁水 24
+ 
+h,然后给予
+1%的水和蔗糖溶液。 12
+ 
+h 后水瓶称重。 根据以下公
+式,计算糖水偏好系数。 糖水偏好系数=糖水消耗质
+·164·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)
+量/ 总消耗质量×100%。
+1. 5 蛋白质印迹法 取小鼠脑组织置于冰上,使用
+BCA 检测试剂盒(碧云天)测定蛋白浓度。 每个样品
+的蛋白(30
+ 
+μg)在 8% ~12%
+ 
+SDS-PAGE 凝胶中电泳
+分离。 电泳电压条件为浓缩胶 90
+ 
+V、分离胶 110
+ 
+V,
+转膜后,用 5%脱脂牛奶室温封闭 1
+ 
+h。 将 PVDF 膜用
+一抗孵育过夜。 加入 HRP 标记二抗,室温下孵育 2
+ 
+h,ECL 显影。 采用 Image
+ 
+J 软件对蛋白条带密度进行
+定量。 每只小鼠样品实验至少重复 3 次。
+1. 6 ELISA 法 取小鼠脑组织称重,按 1 ∶ 9 的比例
+加入 PBS。 用组织裂解液(碧云天)处理样本,然后以
+12
+ 
+000
+ 
+r/ min、4
+ 
+℃离心匀浆 10
+ 
+min,收集上清液进行
+测量。 按照说明书,加入 100
+ 
+μl 标准品/ 样品,37
+ 
+℃
+孵育 1
+ 
+h,然后每孔中加入生物素抗体,37
+ 
+℃ 孵育 1
+ 
+h。 洗涤缓冲液洗涤,加入辣根过氧化酶标记链霉亲
+和素,37
+ 
+℃孵育 30
+ 
+min。 每孔中加入 TMB 底物,洗净
+后 37
+ 
+℃避光 15
+ 
+min。 最后加入终止液,使用 MDA、
+SOD、GSH-PX、IL-1β、IFN-γ 和 TNF-α 活性测定试
+剂盒在 450
+ 
+nm 处测定光密度。 测定 NO 水平时,亚
+曲霉还原酶将硝酸盐转化为亚硝酸盐,用 Griess 试剂
+测定总亚硝酸盐含量,最后室温孵育 10
+ 
+min,使用分
+光光度计在 543
+ 
+nm 处测定光密度。
+1. 7 实时定量 PCR 使用 EZ-press
+ 
+RNA 纯化试剂
+盒提取总 RNA 并合成 cDNA。 扩增过程如下:95
+ 
+℃
+ 
+3
+ 
+min,95
+ 
+℃
+ 
+5
+ 
+s,60
+ 
+℃
+ 
+30
+ 
+s,循环 40 次,最后以熔体曲
+线法结束。 根据相对定量方程对 IL-1β、TNF-α、IFN
+-γ、GFAP 进行定量。
+1. 8 免疫荧光染色 行为学实验结束后,麻醉小鼠,
+灌注 4%多聚甲醛。 将小鼠脑样本连续切成冠状冰冻
+切片(25
+ 
+μm))。 使用 4-羟基壬烯酸(4-HNE)、胶质
+纤维酸性蛋白(GFAP)和双皮质蛋白(DCX)抗体 4°C
+孵育过夜。 随后将切片与 Alexa
+ 
+Fluor
+ 
+555 标记山羊
+抗兔 IgG 二抗室温孵育 2
+ 
+h,最后用 DAPI 复染 7
+ 
+min。
+使用徕卡共聚焦激光扫描显微镜获得图像。
+1. 9 统计学处理 采用 GraphPad
+ 
+Prism
+ 
+5 进行统计
+学处理。 计量资料以均数±标准差表示。 数据采用单
+因素方差分析(ANOVA),然后用 Tukey 事后检验进
+行多重均值比较。 P<0. 05 为差异有统计学意义。
+2 结 果
+2. 1 Rh2 缓解 CSDS 小鼠抑郁样行为 与对照组相
+比,CSDS 不仅显著延长了小鼠在强迫游泳实验和悬
+尾实验中的不动时间,而且降低了小鼠的糖水消耗量
+和社会交互时间(P<0. 01)。 Rh2 给药后这些效应被
+明显逆转(P<0. 01)。 Rh2 的上述作用与经典抗抑郁
+药氟西汀治疗的效果相似(P>0. 05)。 这些结果表明
+Rh2 能有效缓解 CSDS 小鼠抑郁样行为。 见图 1。
+  A. 强迫游泳实验;B. 悬尾实验;C. 糖水消耗实验;D. 社会交互作用实验。
+与对照组比较:∗∗P<0. 01;与 CSDS 组比较:##P<0. 01
+图 1 Rh2 缓解 CSDS 小鼠抑郁样行为(n= 10)
+·165·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)
+2. 2 Rh2 缓解 CSDS 小鼠海马区的氧化应激 结果
+显示,CSDS 组小鼠海马区 SOD 和 GSH-PX 的活性明
+显低于对照组,而 Rh2 给药后 SOD 和 GSH-PX 的活性
+显著增强(P<0. 01,图 2A)。 此外,CSDS 组小鼠的氧化
+应激产物 MDA 和 NO 水平显著高于对照组,Rh2 预处
+理后 MDA 和 NO 的生成明显减少(P<0. 01,图 2B)。
+2. 3 Rh2 抑制 CSDS 小鼠海马区 4-HNE 水平升高 
+与对照组相比,CSDS 小鼠海马区域内细胞脂质过氧
+化产生氧化应激的重要标志物 4-HNE 含量显著升高
+(P<0. 01)。 与 CSDS 组相比,Rh2 对小鼠 CSDS 引起
+的上述氧化应激变化有抑制作用(P<0. 01)。 Rh2 组
+与氟西汀组之间无明显差异(P>0. 05)。 见图 3。
+  A. Rh2 提高 CSDS 小鼠体内 SOD 和 GSH-PX 的活性;B. Rh2 降低 CSDS 小鼠体内 MDA 和 NO 含量。
+与对照组比较:∗∗P<0. 01;与 CSDS 组比较:##P<0. 01
+图 2 Rh2 缓解 CSDS 小鼠海马区的氧化应激(n= 5)
+  A. 各组小鼠海马区 4-HNE 的代表性免疫荧光染色;B. Rh2 对 CSDS 小鼠海马区 4-HNE
+的影响。 与对照组比较:∗∗P<0. 01;与 CSDS 组比较:##P<0. 01
+图 3 Rh2 抑制 CSDS 小鼠海马区 4-HNE 水平升高(比例尺= 50
+ 
+μm,n= 5)
+2. 4 Rh2 缓解 CSDS 小鼠海马区的炎症反应 与对
+照组相比,CSDS 组小鼠 TNF-α、IL-1β 和 IFN-γ 的
+蛋白表达水平明显升高(P<0. 01),而 Rh2 和氟西汀
+可显著抑制炎症因子 TNF-α、IL-1β 和 IFN-γ 的表
+达(P<0. 01)。 此外,与对照组相比,CSDS 诱导的小
+鼠海马区域内 TNF-α、IL-1β 和 IFN-γ
+ 
+的 mRNA 表
+·166·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)
+达水平均显著增加(P<0. 01),但这一效应被 Rh2 和
+氟西汀抑制(P<0. 01)。 因此,Rh2 可能通过抗炎作
+用发挥抗抑郁作用。 见图 4。
+  A. Rh2 对 CSDS 小鼠海马区 IL-1β、TNF-α、IFN-γ 表达水平的影响;B. Rh2 对 CSDS 小鼠海马区 IL-1β、
+TNF-α、IFN-γ
+ 
+mRNA 表达水平的影响。 与 Control 组比较:∗∗P<0. 01;与 CSDS 组比较:##P<0. 01
+图 4 Rh2 缓解 CSDS 小鼠海马区的炎症反应(n= 5)
+2. 5 Rh2 降低 CSDS 小鼠 GFAP 表达 
+GFAP 是一
+种主要表达于星形胶质细胞的中间纤维蛋白。 在不
+同的神经系统疾病(包括发育、感染和炎症、情绪障
+碍)中,GFAP 的表达会发生变化。 与对照组相比,
+CSDS 小鼠大脑中 GFAP 阳性的星形胶质细胞数量明
+显升高(P<0. 01),GFAP 的
+ 
+mRNA 和蛋白表达水平
+也明显增加(P<0. 01)。 Rh2 给药后,CSDS 小鼠海马
+区 GFAP 阳性细胞数量显著降低,GFAP
+ 
+mRNA 和蛋
+白表达水平也显著降低(P<0. 01)。 以上结果表明
+Rh2 对抑郁小鼠有神经保护作用。 见图 5。
+  A. Rh2 对 CSDS 小鼠海马区 GFAP 阳性细胞影响的代表性免疫荧光染色和荧光强度分析;
+B. Rh2 对 CSDS 小鼠海马区 GFAP
+ 
+mRNA 表达水平的影响;C.
+ 
+Rh2 对 CSDS 小鼠海马区 GFAP 蛋白
+表达水平的影响和代表性免疫印迹图。 与 Control 组比较:∗∗P<0. 01;与 CSDS 组比较:##P<0. 01
+图 5 Rh2 降低 CSDS 小鼠 GFAP 表达(比例尺= 100
+ 
+μm,n= 5)
+·167·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)
+2. 6 Rh2 预防 CSDS 小鼠神经发生减少 DCX 是一
+种微管相关蛋白,作为细胞生长的标志物,在新生神
+经元中表达。 结果表明,与对照组相比,CSDS 组 DCX
+阳性细胞数量显著减少(P<0. 01)。 与 CSDS 组相比,
+Rh2 和氟西汀给药之后 DCX 阳性细胞数量显著增加
+(P<0. 01),Rh2 组与氟西汀组比较差异无统计学意
+义(P>0. 05)。 这表明 Rh2 可缓解 CSDS 对未成熟神
+经元数量的负面影响。 见图 6。
+  A. 各组小鼠海马区 DCX 的代表性免疫荧光染色;B. Rh2 对 CSDS 小鼠海马区 DCX 阳性细胞数量的
+影响。 与对照组比较:∗∗P<0. 01;与 CSDS 组比较:##P<0. 01
+图 6 Rh2 预防 CSDS 小鼠神经发生减少(比例尺= 50
+ 
+μm,n= 5)
+3 讨 论
+Rh2 是中药人参的主要生物活性成分之一,具有
+抗肿瘤、抗疲劳、抗微生物等多种药理活性,同时具有
+增强免疫力的功效[15]。 既往研究证明,人参皂苷可
+改善啮齿类动物的抑郁行为,发挥神经保护作用。 例
+如,Rh2 给药后小鼠在强迫游泳实验和悬尾实验中抑
+郁行为得到明显改善,结肠癌小鼠的生存时间得到延
+长[16]。 本研究发现,Rh2 可有效防止 CSDS 小鼠抑郁
+样行为的发展,Rh2 通过抑制氧化应激以及神经炎症
+来缓解 CSDS 小鼠抑郁行为。
+最新证据表明,抑郁症与大脑功能、神经元可塑
+性的改变以及额叶皮层和海马体体积的减少有
+关[17]。 抑郁期间大脑结构和功能紊乱的一个主要原
+因是氧化应激。 临床前和临床研究表明,活性氧
+(ROS)生成的增加和抗氧化防御的衰竭是导致大脑
+结构改变的原因,该假说被称为抑郁症的氧化应激假
+说[18]。 大脑中的磷脂易受 ROS 介导的过氧化作用的
+影响,脑脂质过氧化的增加是抑郁症发病机制中的一
+个重要事件[19]。 MDA 被认为是脂质氧化损伤的生
+物标志物,为 ROS 在抑郁症中的机制提供了见解;此
+外,SOD 和 GSH-PX 抗氧化酶活性的测定,表明 ROS
+在抑郁症中的作用[20]。 谷胱甘肽是最重要的非酶内
+源性抗氧化剂。 在生理水平上,ROS 是神经发生和神
+经元活动的重要组成部分,其他氧化剂(例如 NO)也
+参与重要的生理功能。 本研究结果提示,Rh2 对抑郁
+小鼠神经损伤的保护作用可能与降低氧化应激有关。
+随着氧化应激的增加,促炎因子的激活也有助于
+抑郁症的发展。 既往研究已经证明免疫系统的改变
+和抑郁症之间的密切联系[21],抑制神经炎症可能是
+治疗抑郁症的另一种机制。 本研究结果表明 Rh2 降
+低抑郁小鼠海马区域的炎症反应。
+本研究存在一些局限性。 首先,Rh2 的抗抑郁机
+制仍不清楚。 我们推测这种机制可能涉及脑源性神
+经营养因子(BDNF)。 BDNF 与神经生长相关,同时
+BDNF 水平降低与抑郁症有关[22-23]。 除了抑郁症之
+外,BDNF 还代表了一种有前景的治疗帕金森病等精
+神疾病药物[24],同时还提供心血管保护和对运动的
+反应[25]。 因此,Rh2 可能发挥涉及 BDNF 的更多药
+理作用,这种可能性还有待进一步研究。 其次,本研
+究仅使用 CSDS 模型,其他已建立的抑郁症模型包括
+慢性不可预知温和应激模型和慢性束缚应激模型,
+Rh2 是否能在这些模型中表现出抗抑郁样作用尚不
+清楚。 此外,除了海马系统功能障碍和神经发生之
+外,抑郁症还伴有许多其他病理症状,包括单胺能缺
+乏、下丘脑-垂体-肾上腺(HPA)轴过度活动等,Rh2
+是否也能改善这些症状,仍需继续研究。
+综上,我们认为 Rh2 可有效防止 CSDS 小鼠抑郁
+·168·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)
+样行为的发展,其机制可能与抑郁氧化应激以及神经
+炎症有关。
+参考文献:
+[1] GBD
+ 
+2019
+ 
+Diseases
+ 
+and
+ 
+Injuries
+ 
+Collaborators. Global
+ 
+burden
+ 
+of
+ 
+369
+ 
+diseases
+ 
+and
+ 
+injuries
+ 
+in
+ 
+204
+ 
+countries
+ 
+and
+ 
+territories,1990—2019:a
+ 
+systematic
+ 
+analysis
+ 
+for
+ 
+the
+ 
+Global
+ 
+Burden
+ 
+of
+ 
+Disease
+ 
+Study
+ 
+2019
+[J]. Lancet,2020,396(10258):1204-1222.
+[2] Walker
+ 
+ER,McGee
+ 
+RE,Druss
+ 
+BG. Mortality
+ 
+in
+ 
+mental
+ 
+disorders
+ 
+and
+ 
+global
+ 
+disease
+ 
+burden
+ 
+implications:a
+ 
+systematic
+ 
+review
+ 
+and
+ 
+meta-a-
+nalysis
+ 
+[J]. JAMA
+ 
+Psychiatry,2015,72(4):334-341.
+[3] Patel
+ 
+V,Chisholm
+ 
+D,Parikh
+ 
+R,et
+ 
+al. Addressing
+ 
+the
+ 
+burden
+ 
+of
+ 
+men-
+tal,neurological, and
+ 
+substance
+ 
+use
+ 
+disorders: key
+ 
+messages
+ 
+from
+ 
+Disease
+ 
+Control
+ 
+Priorities, 3rd
+ 
+edition
+ 
+[ J ]. Lancet, 2016, 387
+(10028):1672-1685.
+[4]  
+Krishnan
+ 
+V,Nestler
+ 
+EJ. The
+ 
+molecular
+ 
+neurobiology
+ 
+of
+ 
+depression
+ 
+[J]. Nature,2008,455(7215):894-902.
+[5] Abdel-Bakky
+ 
+MS,Amin
+ 
+E,Faris
+ 
+TM,et
+ 
+al. ,Mental
+ 
+depression:Re-
+lation
+ 
+to
+ 
+different
+ 
+disease
+ 
+status,newer
+ 
+treatments
+ 
+and
+ 
+its
+ 
+association
+ 
+with
+ 
+COVID-19
+ 
+pandemic
+ 
+(Review)
+ 
+[J/ OL]. Mol
+ 
+Med
+ 
+Rep,2021,
+24(6):839.
+[6] Bhatt
+ 
+S,Nagappa
+ 
+AN,Patil
+ 
+CR. Role
+ 
+of
+ 
+oxidative
+ 
+stress
+ 
+in
+ 
+depres-
+sion
+ 
+[J]. Drug
+ 
+Discov
+ 
+Today,2020,25(7):1270-1276.
+[7] Ng
+ 
+F,Berk
+ 
+M,Dean
+ 
+O,et
+ 
+al. Oxidative
+ 
+stress
+ 
+in
+ 
+psychiatric
+ 
+disor-
+ders:evidence
+ 
+base
+ 
+and
+ 
+therapeutic
+ 
+implications
+ 
+[J]. Int
+ 
+J
+ 
+Neuro-
+psychopharmacol,2008,11(6):851-876.
+[8] Köhler
+ 
+CA,Freitas
+ 
+TH,Maes
+ 
+M,et
+ 
+al. Peripheral
+ 
+cytokine
+ 
+and
+ 
+che-
+mokine
+ 
+alterations
+ 
+in
+ 
+depression:a
+ 
+meta-analysis
+ 
+of
+ 
+82
+ 
+studies
+ 
+[J].
+Acta
+ 
+Psychiatr
+ 
+Scand,2017,135(5):373-387.
+[9] Sun
+ 
+X,Ying
+ 
+C. Role
+ 
+of
+ 
+ginsenoside
+ 
+Rh2
+ 
+in
+ 
+tumor
+ 
+therapy
+ 
+and
+ 
+tumor
+ 
+microenvironment
+ 
+immunomodulation
+ 
+[J/ OL]. Biomed
+ 
+Pharmacoth-
+er,2022,156:113912.
+[10] Lv
+ 
+J,Lu
+ 
+C,Jiang
+ 
+N,et
+ 
+al. Protective
+ 
+effect
+ 
+of
+ 
+ginsenoside
+ 
+Rh2
+ 
+on
+ 
+scopolamine-induced
+ 
+memory
+ 
+deficits
+ 
+through
+ 
+regulation
+ 
+of
+ 
+cholin-
+ergic
+ 
+transmission,oxidative
+ 
+stress
+ 
+and
+ 
+the
+ 
+ERK-CREB-BDNF
+ 
+sig-
+naling
+ 
+pathway
+ 
+[J]. Phytother
+ 
+Res,2021,35(1):337-345.
+[11] Hou
+ 
+J,Xue
+ 
+J,Wang
+ 
+Z,et
+ 
+al. Ginsenoside
+ 
+Rg3
+ 
+and
+ 
+Rh2
+ 
+protect
+ 
+tri-
+methyltin-induced
+ 
+neurotoxicity
+ 
+via
+ 
+prevention
+ 
+on
+ 
+neuronal
+ 
+apopto-
+sis
+ 
+and
+ 
+neuroinflammation
+ 
+[ J]. Phytother
+ 
+Res, 2018, 32 ( 12):
+2531-2540.
+[12] Shi
+ 
+LS,Ji
+ 
+CH,Liu
+ 
+Y,et
+ 
+al. ,Ginsenoside
+ 
+Rh2
+ 
+administration
+ 
+pro-
+duces
+ 
+crucial
+ 
+antidepressant-like
+ 
+effects
+ 
+in
+ 
+a
+ 
+CUMS-induced
+ 
+mice
+ 
+model
+ 
+of
+ 
+depression
+ 
+[J/ OL]. Brain
+ 
+Behav,2022,12(8):e2705.
+[13] Shen
+ 
+SY,Yu
+ 
+R,Li
+ 
+W,et
+ 
+al. The
+ 
+neuroprotective
+ 
+effects
+ 
+of
+ 
+GPR55
+ 
+against
+ 
+hippocampal
+ 
+neuroinflammation
+ 
+and
+ 
+impaired
+ 
+adult
+ 
+neuro-
+genesis
+ 
+in
+ 
+CSDS
+ 
+mice
+ 
+[J/ OL]. Neurobiol
+ 
+Dis,2022,169:105743.
+[14] Jiang
+ 
+N,Huang
+ 
+H,Zhang
+ 
+Y,et
+ 
+al. Ginsenoside
+ 
+Rb1
+ 
+produces
+ 
+anti-
+depressant-like
+ 
+effects
+ 
+in
+ 
+a
+ 
+chronic
+ 
+social
+ 
+defeat
+ 
+stress
+ 
+model
+ 
+of
+ 
+de-
+pression
+ 
+through
+ 
+the
+ 
+BDNF-Trkb
+ 
+signaling
+ 
+pathway
+ 
+[J/ OL]. Front
+ 
+Pharmacol,2021,12:680903.
+[15]  
+Yang
+ 
+X,Zou
+ 
+J,Cai
+ 
+H,et
+ 
+al. Ginsenoside
+ 
+Rg3
+ 
+inhibits
+ 
+colorectal
+ 
+tumor
+ 
+growth
+ 
+via
+ 
+down-regulation
+ 
+of
+ 
+C/ EBPβ/ NF-κB
+ 
+signaling
+ 
+[J]. Biomed
+ 
+Pharmacother,2017,96:1240-1245.
+[16] Wang
+ 
+J,Chen
+ 
+Y,Dai
+ 
+C,et
+ 
+al. Ginsenoside
+ 
+Rh2
+ 
+alleviates
+ 
+tumor-as-
+sociated
+ 
+depression
+ 
+in
+ 
+a
+ 
+mouse
+ 
+model
+ 
+of
+ 
+colorectal
+ 
+carcinoma[J].
+Am
+ 
+J
+ 
+Transl
+ 
+Res,2016,8(5):2189-2195.
+[17] Belleau
+ 
+EL,Treadway
+ 
+MT,Pizzagalli
+ 
+DA. The
+ 
+impact
+ 
+of
+ 
+stress
+ 
+and
+ 
+major
+ 
+depressive
+ 
+disorder
+ 
+on
+ 
+hippocampal
+ 
+and
+ 
+medial
+ 
+prefrontal
+ 
+cortex
+ 
+morphology
+ 
+[J]. Biol
+ 
+Psychiatry,2019,85(6):443-453.
+[18] 
+Michel
+ 
+TM,Camara
+ 
+S,Tatschner
+ 
+T,et
+ 
+al. Increased
+ 
+xanthine
+ 
+oxi-
+dase
+ 
+in
+ 
+the
+ 
+thalamus
+ 
+and
+ 
+putamen
+ 
+in
+ 
+depression
+ 
+[J]. World
+ 
+J
+ 
+Biol
+ 
+Psychiatry,2010,11(2
+ 
+Pt
+ 
+2):314-320.
+[19] Ayala
+ 
+A,Muñoz
+ 
+MF,Argüelles
+ 
+S. Lipid
+ 
+peroxidation:production,
+metabolism,and
+ 
+signaling
+ 
+mechanisms
+ 
+of
+ 
+malondialdehyde
+ 
+and
+ 
+4-
+hydroxy-2-nonenal
+ 
+[ J/ OL]. Oxid
+ 
+Med
+ 
+Cell
+ 
+Longev,2014,2014:
+360438.
+[20] Salim
+ 
+S. Oxidative
+ 
+stress
+ 
+and
+ 
+the
+ 
+central
+ 
+nervous
+ 
+system
+ 
+[ J]. J
+ 
+Pharmacol
+ 
+Exp
+ 
+Ther,2017,360(1):201-205.
+[21] Yrondi
+ 
+A,Sporer
+ 
+M,Péran
+ 
+P,et
+ 
+al. Electroconvulsive
+ 
+therapy,de-
+pression,the
+ 
+immune
+ 
+system
+ 
+and
+ 
+inflammation:A
+ 
+systematic
+ 
+review
+[J]. Brain
+ 
+Stimul,2018,11(1):29-51.
+[22] Guan
+ 
+W,Xu
+ 
+DW,Ji
+ 
+CH,et
+ 
+al. Hippocampal
+ 
+miR-206-3p
+ 
+partici-
+pates
+ 
+in
+ 
+the
+ 
+pathogenesis
+ 
+of
+ 
+depression
+ 
+via
+ 
+regulating
+ 
+the
+ 
+expression
+ 
+of
+ 
+BDNF[J/ OL]. Pharmacol
+ 
+Res,2021,174:105932.
+ 
+[23] Zhang
+ 
+JC,Yao
+ 
+W,Hashimoto
+ 
+K. Brain-derived
+ 
+neurotrophic
+ 
+factor
+ 
+(BDNF)-TrkB
+ 
+signaling
+ 
+in
+ 
+inflammation-related
+ 
+depression
+ 
+and
+ 
+potential
+ 
+therapeutic
+ 
+targets [ J]. Curr
+ 
+Neuropharmacol, 2016,14
+(7):721-731.
+ 
+[24] Palasz
+ 
+E,Wysocka
+ 
+A,Gasiorowska
+ 
+A,et
+ 
+al. BDNF
+ 
+as
+ 
+a
+ 
+promising
+ 
+therapeutic
+ 
+agent
+ 
+in
+ 
+Parkinson's
+ 
+disease[J/ OL]. Int
+ 
+J
+ 
+Mol
+ 
+Sci,
+2020,21(3):1170.
+[25] Pius-Sadowska
+ 
+E,Machaliński
+ 
+B. BDNF-A
+ 
+key
+ 
+player
+ 
+in
+ 
+cardiovas-
+cular
+ 
+system[J]. J
+ 
+Mol
+ 
+Cell
+ 
+Cardiol,2017,110:54-60.
+收稿日期:2022-12-28 修回日期:2023-03-06
+本文编辑:郭昊
+·169·
+徐州医科大学学报  J Xuzhou Med Univ 2023,43(3)

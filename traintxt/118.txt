@@ -1,0 +1,1148 @@
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.2｜January 2023｜177
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞保护作用的机制
+文题释义：
+人参皂苷Rg3：是一种原人参二醇，具有显著的抗肿瘤功效，但在神经系统相关疾病方面的研究很少。有研究指出人参皂苷Rg3与多种人
+参皂苷相比，神经保护作用更强，能够促进神经功能的恢复，但是其具体保护作用以及相关机制尚不明确。
+氧糖剥夺/复糖复氧损伤：脑缺血再灌注损伤是中枢神经系统最常见的病理损伤之一，而氧糖剥夺/复糖复氧损伤是缺血再灌注损伤的经典
+体外模型，通过让细胞缺糖缺氧再复糖复氧，模拟缺血再灌注导致的细胞凋亡、氧化应激、炎性反应、线粒体功能障碍等多种病理损伤。
+摘要
+背景：人参皂苷Rg3在脑缺血疾病中具有一定的神经保护作用，但其对氧糖剥夺/复糖复氧损伤的PC12细胞是否也有保护作用，目前尚不明
+确。
+目的：研究人参皂苷Rg3对氧糖剥夺/复糖复氧损伤的PC12细胞是否有保护作用以及相关机制。
+方法：构建高分化PC12细胞的氧糖剥夺/复糖复氧损伤模型，采用MTT、乳酸脱氢酶、Calcein-AM/PI染色、Western blot、流式检测氧糖剥
+夺/复糖复氧损伤后对PC12细胞的影响，以及不同浓度人参皂苷Rg3处理PC12细胞后的保护作用，并且使用PI3K/AKT通路抑制剂LY294002和
+AKT激活剂SC79从PI3K/AKT信号通路研究其作用机制。
+结果与结论：①氧糖剥夺/复糖复氧损伤模型能随着缺糖缺氧时间的延长从而降低PC12细胞的存活率，促进细胞凋亡，上调p-PI3K/PI3K、
+p-AKT/AKT蛋白比值，促进NLRP3炎性小体、肿瘤坏死因子α、白细胞介素1β、BAX蛋白的表达，促进乳酸脱氢酶的释放；②人参皂苷Rg3
+在一定浓度范围内能提高氧糖剥夺/复糖复氧损伤的PC12细胞存活率、减少乳酸脱氢酶的释放，抑制细胞凋亡，降低p-PI3K/PI3K和p-AKT/
+AKT蛋白比值，下调NLRP3炎性小体、白细胞介素1β、肿瘤坏死因子α、BAX蛋白的表达，还会降低活化的caspase-9蛋白表达，促进活化
+的caspase-3蛋白表达；③LY294002对氧糖剥夺/复糖复氧损伤的PC12细胞的保护作用与人参皂苷Rg3相当，而SC79可以减轻人参皂苷Rg3对
+PC12细胞的保护效果。因此，人参皂苷Rg3可以通过抑制PI3K/AKT信号通路，抑制PI3K和AKT的磷酸化，发挥抗炎、抗凋亡的作用，减轻氧
+糖剥夺/复糖复氧对PC12细胞造成的损伤。
+关键词：人参皂苷Rg3；氧糖剥夺；复糖复氧；PC12细胞；PI3K/AKT信号通路
+Ginsenoside Rg3 protects PC12 cells against oxygen-glucose deprivation/reoxygenation-induced 
+damage
+Zhong Jinglin, Cao Huimin, Pan Yaru, Jian Wenxuan, Wang Qi
+Science and Technology Innovation Center, Guangzhou University of Chinese Medicine, Guangzhou 510000, Guangdong Province, China
+Zhong Jinglin, Master candidate, Science and Technology Innovation Center, Guangzhou University of Chinese Medicine, Guangzhou 510000, Guangdong 
+Province, China
+Corresponding author: Wang Qi, Master, Professor, Doctoral supervisor, Science and Technology Innovation Center, Guangzhou University of Chinese Medicine, 
+Guangzhou 510000, Guangdong Province, China
+Abstract
+BACKGROUND: Ginsenoside Rg3 can protect the brain from ischemia injury. However, it is unclear whether ginsenoside Rg3 can protect PC12 cell against 
+oxygen-glucose deprivation/reoxygenation (OGD/R) injury. 
+广州中医药大学科技创新中心，广东省广州市  510000
+第一作者：钟京霖，男，1995 年生，广东省廉江市人，汉族，广州中医药大学在读硕士，主要从事中医药治疗脑病的研究。
+通讯作者：王奇，硕士，二级教授，博士生导师，广州中医药大学科技创新中心，广东省广州市  510000 
+https://orcid.org/0000-0002-6001-2690 ( 钟京霖 ) 
+基金资助：广东省高等学校重点实验室项目 (2019KSYS005)，项目负责人：王奇；广东省科技计划国际合作项目 (2020A0505100052)，
+项目负责人：王奇
+引用本文：钟京霖，曹惠敏，潘亚茹，简文轩，王奇 . 人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞保护作用的机制 [J].
+中国组织工程研究，2023，27(2):177-183. 
+钟京霖，曹惠敏，潘亚茹，简文轩，王  奇
+https://doi.org/10.12307/2022.1007  
+投稿日期：2022-02-07 
+采用日期：2022-03-02
+修回日期：2022-04-22
+在线日期：2022-05-11
+中图分类号： 
+R459.9；R363；R543 
+文章编号： 
+2095-4344(2023)02-00177-07
+文献标识码：B 
+文章快速阅读：人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞的保护
+PC12 细胞
+这种保护作用主要通
+过抑制 PI3K/AKT 信号
+通路，产生了人参皂
+苷 Rg3 对 氧 糖 剥 夺 /
+复糖复氧损伤 PC12 细
+胞的保护作用。
+人参皂苷 Rg3 能够减轻氧糖剥夺 /
+复糖复氧对PC12细胞造成的损伤。
+人参皂苷 Rg3 具有抗炎、
+抗凋亡的作用。
+人参皂苷 Rg3 处理
+构建氧糖剥夺 / 复糖复
+氧损伤模型
+178｜中国组织工程研究｜第27卷｜第2期｜2023年1月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+0   引言   Introduction
+脑卒中是危害人类健康的主要疾病之一，具有高致残率、
+高死亡率的特点
+[1]。脑卒中严重影响患者日常生活能力和社
+会功能
+[2]，因中风而导致的身体功能障碍可能会伴随患者终
+身
+[3]。脑缺血引起的神经元不可逆性损伤，是脑卒中导致患
+者残疾、死亡的重要原因，而缺血再灌注引起的神经细胞损
+伤是导致神经功能障碍的主要原因
+[4]，因此研究保护神经细
+胞免受缺血再灌注损伤具有重要意义。
+磷 脂 酰 肌 醇 3- 激 酶 (phosphatidylinositol-3-kinase，
+PI3K)/ 蛋白激酶 B(protein kinase B，AKT) 信号通路是参与细
+胞增殖调控的重要通路，是一条经典的调节细胞存活、分化
+以及凋亡的细胞信号传导通路，它通过调节下游相关蛋白的
+活化过程发挥重要的生物学效应，在生理和病理过程中发挥
+关键作用
+[5]。研究发现，PI3K/AKT 信号通路在神经系统中广
+泛存在，与神经细胞的存活、分化以及凋亡密切相关
+[6-7]。
+近年相关研究表明，PI3K/AKT 信号通路与脑缺血损伤有关，
+在因脑缺血发生细胞凋亡时，缺血前处理、缺血后处理、
+神经营养因子等可以通过调节 PI3K/AKT 信号通路抑制细胞
+凋亡，发挥神经保护作用
+[8]。除此之外，也有研究表明抑制
+PI3K/AKT 信号通路能够减轻炎症反应
+[9]，还能够抑制小胶质
+细胞的活化，从而控制神经炎症递质的表达
+[10]。
+人参已在传统医学中广泛使用了 2 000 多年
+[11]。人参皂
+苷是人参的重要活性成分，目前能从各类人参中分离得到 60
+多种人参皂苷，如 Rg1、Rg2、Rg3、Rb1、Rb2、Re、Rk1 等
+[12]。
+人参皂苷 Rg3 是一种原人参二醇，具有抗炎、抗氧化和神经
+保护作用
+[13-15]。人参皂苷 Rg3 在人参的人参皂苷中比例非常
+低，不到 0.1%[16]，与多种人参皂苷相比，可以有效保护大脑
+免受缺血性损伤，具有很强的治疗活性
+[17]。但总体而言，关
+于人参皂苷 Rg3 的研究并不多，且其潜在作用机制也尚不明
+确。
+该研究构建了 PC12 细胞的氧糖剥夺 / 复糖复氧损伤模
+型来模拟体外缺血再灌注的环境，探讨人参皂苷 Rg3 在氧糖
+剥夺 / 复糖复氧损伤模型中对 PC12 细胞的保护作用，并通
+过研究 PI3K/AKT 信号通路进一步探索其潜在机制。
+OBJECTIVE: To investigate the protective role and underlying mechanism of ginsenoside Rg3 in OGD/R-injured PC12 cells. 
+METHODS: A model of OGD/R-injured PC12 cells was constructed. Protective effects of ginsenoside Rg3 at different concentrations on OGD/R-injured PC12 
+cells were detected using MTT, lactic dehydrogenase, Calcein-AM/PI cell apoptosis double staining assay, western blot assay, and flow cytometry. PI3K/AKT 
+pathway inhibitor LY294002 and AKT activator SC79 were involved to reveal the potential mechanisms of ginsenoside Rg3.
+RESULTS AND CONCLUSION: (1) In this study, OGD/R exposure successfully induced cell injury, which reduced cell survival and promoted cell apoptosis in a 
+time-dependent manner, up-regulated p-AKT/AKT and p-PI3K/PI3K ratio, increased the levels of NLRP3 inflammasomes, tumor necrosis factor-α, interleukin-
+1β and BAX, and promoted the release of lactic dehydrogenase. (2) Ginsenoside Rg3 at a certain range enhanced the viability and reduced apoptosis and lactic 
+dehydrogenase release of OGD/R-injured PC12 cells. Ginsenoside Rg3 down-regulated the ratio of p-AKT/AKT and p-PI3K/PI3K, reduced NLRP3, interleukin-1β, 
+tumor necrosis factor-α and BAX levels. Ginsenoside Rg3 also suppressed the expression of activated caspase-9 and up-regulated the expression of activated 
+caspase-3. (3) LY294002 shared the same protective effect as ginsenoside Rg3 whereas SC79 reversed this outcome. Therefore, ginsenoside Rg3 protects PC12 
+cells from OGD/R injury mainly through inhibiting the PI3K/AKT pathway and phosphorylation of PI3K and AKT, which may exert an anti-inflammatory and anti-
+apoptotic effect.
+Key words: ginsenoside Rg3; oxygen-glucose deprivation; reoxygenation; PC12 cell; PI3K/Akt signaling pathway
+Funding: the Key Laboratory Project of Colleges and Universities in Guangdong Province, No. 2019KSYS005 (to WQ); Guangdong Province Science and 
+Technology Plan International Cooperation Project, No. 2020A0505100052 (to WQ)
+How to cite this article: ZHONG JL, CAO HM, PAN YR, JIAN WX, WANG Q. Ginsenoside Rg3 protects PC12 cells against oxygen-glucose deprivation/
+reoxygenation-induced damage. Zhongguo Zuzhi Gongcheng Yanjiu. 2023;27(2):177-183. 
+1   材料和方法   Materials and methods
+1.1   设计   体外细胞学实验观察。对实验获得的数据进行方
+差齐性检测与正态性检验，若实验数据方差齐、符合正态分
+布则两组间采用 t 检验，多组间采用单因素方差分析；如果
+数据不符合正态分布，则采用非参数检验的秩和检验。
+1.2   时间及地点   实验于 2020 年 11 月至 2021 年 12 月在广
+州中医药大学科技创新中心完成。
+1.3   材料   PC12 细胞系购自中国科学院上海生物化学与细胞
+生物学研究所细胞库；人参皂苷 Rg3 标准品购自北京索莱宝
+科技有限公司 (SG8360)；细胞培养试剂购自美国 Gibco 公司；
+EBSS 平衡盐溶液购自上海贝博生物科技公司；流式凋亡试剂
+盒购自江苏凯基生物技术公司；RIPA 裂解液、BCA 试剂盒、
+乳酸脱氢酶试剂盒、Calcein-AM/PI 试剂盒购自上海碧云天生
+物技术公司；LY294002 抑制剂、SC79 激活剂购自德国 Sigma
+公司；抗体见表 1。
+表 1 ｜抗体来源及实验稀释比
+Table 1 ｜ Antibody sources and dilution ratios
+抗体
+种属
+公司
+稀释比
+NLRP3
+兔
+Abclonal(A5652)
+WB 1 ∶ 1 000
+p-PI3K
+兔
+Affinity(AF3242)
+WB 1 ∶ 500
+PI3K
+兔
+Affinity(AF6241)
+WB 1 ∶ 500
+p-AKT
+兔
+Affinity(AF0016)
+WB 1 ∶ 1 000
+AKT
+兔
+Affinity(AF6261)
+WB 1 ∶ 1 000
+白细胞介素 1β
+兔
+Affinity(AF5103)
+WB 1 ∶ 500
+肿瘤坏死因子 α
+兔
+Affinity(AF7014)
+WB 1 ∶ 200
+Caspase-3
+兔
+CST(#14220)
+WB 1 ∶ 1 000
+Caspase-9
+鼠
+CST(#9508)
+WB 1 ∶ 1 000
+BAX
+鼠
+Santa Cruz(SC7480)
+WB 1 ∶ 500
+GAPDH
+兔
+Affinity(AF7021)
+WB 1 ∶ 4 000
+β-actin
+鼠
+SIGMA(A5441)
+WB 1 ∶ 4 000
+水套式 CO2 培养箱 (Thermo，美国 )；Multiskan Go 酶
+标仪 (Thermo，美国 )； 伯乐电泳仪 (BIO-RAD，美国 )；三
+气培养箱 (YCP，中国 )；低温高速离心机 (Scilogex，美国 )；
+Orbital shaker TS-1 摇 床 (Kylin-bell， 中 国 )；Transference  
+decoloring shaker TS-8 摇床 (Kylin-bell，中国 )；HH-1 数显恒
+温水浴锅 ( 国华，中国 )；TS2-S-SM 倒置显微镜 (Nikon，日本 )；
+化学发光成像仪 (BIO-RAD，美国 )；徕卡显微镜 (Leica，德国 )，
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.2｜January 2023｜179
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+KGaA 流式细胞仪 (Merck，德国 )。
+1.4   实验方法   
+1.4.1   PC12 细胞培养   PC12 细胞使用 DMEM+ 体积分数为
+10% 胎牛血清 +1% 青链霉素混合液配制而成的 DMEM 完全
+培养基进行常规培养。细胞培养的条件：37 ℃，体积分数为
+5% CO2。
+1.4.2   构建氧糖剥夺 / 复糖复氧损伤模型   传两三代的 PC12
+细胞种板 18-24 h 后，弃去旧培养基，加入同等体积的 EBSS
+缓冲盐溶液，然后将细胞置于 YCP 三气培养箱内，将 YCP
+三气培养箱的参数调节为体积分数为 94% N2、5% CO2、1% 
+O2，待培养箱各项气体检测示数稳定，开始计算细胞的氧糖
+剥夺时间。根据实验需要，分别进行 0.5，1，1.5，2 h 的氧
+糖剥夺处理，随后将细胞从三气培养箱中取出，小心吸除
+EBSS缓冲盐溶液，沿着皿壁加入等体积的DMEM完全培养基，
+然后将细胞置于普通细胞培养箱内进行复糖复氧处理 16 h。
+正常组细胞不进行氧糖剥夺处理，其余操作均与模型组同步
+进行。
+1.4.3   药物处理
+(1) 人参皂苷 Rg3 的使用：PC12 细胞在氧糖剥夺时，同
+时使用 1-100 nmol/L 的 Rg3 处理。
+(2)PI3K/AKT 抑制剂 LY294002 的使用：PC12 细胞在氧糖
+剥夺前，分别使用 10，20，40 μmol/L LY294002 预处理 2 h。
+(3)AKT激活剂SC79与Rg3联合应用：在氧糖剥夺损伤前，
+将 AKT 激活剂 SC79(20 μmol/L) 加入到培养基中预处理 1 h，
+然后在氧糖剥夺时，同时使用 100 nmol/L Rg3 处理 PC12 细胞。
+1.4.4   MTT 检测 Rg3 毒性以及细胞活力   将 PC12 细胞接种在
+96 孔板中，每孔细胞约为 8 000 个，进行相应的氧糖剥夺 /
+复糖复氧处理后，每孔加入 20 μL 的 MTT 工作液，37 ℃孵育
+三四个小时，然后弃去含有工作液的培养基，沿着孔壁加入
+200 μL 二甲基亚砜，室温下摇床 60 r/min 摇动 10 min，结束
+后使用酶标仪测定吸光度，波长为 490 nm。以正常组 PC12
+细胞的活力为参照，计算相对细胞活力。
+1.4.5   乳酸脱氢酶释放检测   在复糖复氧 15 h 时加入乳酸脱
+氢酶释放试剂，随后吹打混匀，继续在细胞培养箱内孵育 
+1 h，使用细胞培养板专用的孔板离心机以 400×g 的条件离心
+5 min，再吸取每个孔内 120 μL 上清液转移到新的 96 孔板中，
+此时在每孔内加入 60 μL 的乳酸脱氢酶工作液，在摇床上室
+温避光孵育 30-40 min，在 490 nm 波长处测量吸光度值，并
+根据以下公式计算 PC12 细胞乳酸脱氢酶的释放率：
+����乳酸脱氢酶释放率 (%)=[ 吸光度值 ( 处理 )- 吸光度值 ( 对
+照 )]/[ 吸光度值 ( 最大值 )- 吸光度值 ( 对照 )]×100%
+����吸光度值 ( 对照 )、吸光度值 ( 处理 )、吸光度值 ( 最大值 )
+均需减去背景空白吸光度值后才能用于计算乳酸脱氢酶释放
+率。
+1.4.6   Calcein-AM/PI 细胞凋亡双染色   Calcein-AM/PI 染色试
+剂盒用于观察细胞凋亡，PC12 细胞按照 10 000 个 / 孔的密
+度接种在 96 孔板内，经氧糖剥夺 / 复糖复氧处理后，使用
+真空泵吸干净旧培养基，沿着孔壁加入 PBS 润洗细胞 1 次，
+去除 PBS 后，每孔加入 100 μL Calcein-AM/PI 染色工作液，在
+37 ℃的细胞培养箱内避光孵育 30-40 min，随后使用荧光显
+微镜进行图像的拍摄，并通过 LAS X 软件进行图像分析。
+1.4.7   Western blot 蛋白检测   经氧糖剥夺 / 复糖复氧处理后，
+使用 RIPA 裂解液提取 PC12 细胞的总蛋白，然后用 BCA 试剂
+盒定量蛋白浓度，随后使用 5×Loading Buffer 将蛋白样品稀
+释至合适浓度；上样前将蛋白样品进行加热煮沸处理，然后
+进行蛋白电泳：80 V 恒压电泳浓缩胶，120 V 恒压电泳分离胶；
+电泳结束后进行电转：200-250 mA 恒流转膜一到两个小时。
+转膜结束后使用 5% BSA 室温封闭一到两个小时，随后使用
+TBST 洗涤 3 次，10 min/ 次，然后使用相应一抗 4 ℃孵育过夜，
+TBST 洗涤 3 次，10 min/ 次，接着使用对应二抗室温孵育一
+到两个小时，TBST 洗涤 3 次，10 min/ 次，最后进行显影曝光：
+使用 Image Lab 图像采集软件进行拍摄，使用 Image J 分析软
+件进行蛋白条带的灰度分析。蛋白条带的分析方法：将每条
+泳道的目的蛋白条带的灰度值分别除以对应泳道的蛋白内参
+照，得到目的蛋白 / 内参照的比值，因至少重复 3 次实验，
+所以至少有 3 组比值，将全部数值的比值进行归一化处理，
+再进行统计分析。
+1.4.8   流式细胞仪检测细胞凋亡   PC12 细胞进行氧糖剥夺 /
+复糖复氧处理后，完全弃去旧培养基，使用不含 EDTA 的胰
+酶消化细胞，收集细胞后以 2 000 r/min 离心 5 min，再用无
+菌 PBS 洗涤一两次，2 000 r/min 离心 5 min，洗干净上清液
+后加入 250-500 μL Binding Buffer 重悬细胞并将细胞悬液转
+移到流式进样管中。流式上机前移动到避光环境，加入 5 μL 
+Annexin V-FITC 和 5 μL Propidium Iodide 到流式进样管内，与
+细胞充分混匀，室温避光反应 5-10 min，随后调节 Merck 
+KGaA 流式细胞仪至适当参数后进行上样检测。 
+1.5   主要观察指标   ①细胞活力；②乳酸脱氢酶释放率；③
+细胞凋亡染色与细胞凋亡率；④炎症蛋白和凋亡蛋白表达水
+平；⑤ PI3K/AKT 信号通路蛋白表达水平。
+1.6   统计学分析   实验数据以 x-±s 表示。使用 SPSS 25.0 数据
+统计软件和 GraphPad Prism 8.0 绘图分析软件进行数据的统
+计与分析，两组间的比较使用 t 检验，多组间的比较使用单
+因素方差分析。P < 0.05 为差异有显著性意义，P < 0.01 为差
+异有非常显著性意义，P > 0.05 则认为差异无显著性意义。
+文章统计学方法已经通过广州中医药大学科技创新中心生物
+统计学专家审核。
+2   结果   Results 
+2.1   人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞的保
+护作用   图 1A 是人参皂苷 Rg3 的结构式，使用 1-100 nmol/L
+的 Rg3 处理受到不同时间氧糖剥夺损伤的 PC12 细胞，如图
+1B 所示，在不同损伤时间内，Rg3 在 10-100 nmol/L 浓度范
+围时，都可以不同程度地升高细胞活力。通过测定乳酸脱氢
+酶的释放来评估 PC12 细胞受损的程度，如图 1C 所示，在氧
+180｜中国组织工程研究｜第27卷｜第2期｜2023年1月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+图注：图 A 为人参皂苷 Rg3 的化学结构式；B 为
+PC12 细胞进行 0.5，1，1.5，2 h 的氧糖剥夺损伤，
+同时使用 1-100 nmol/L 的 Rg3 进行处理，然后
+复糖复氧 16 h，数值以正常组为参照。与模型组
+相比，
+aP < 0.05，
+bP < 0.01(x-±s，n=6)；C 为氧糖
+120
+90
+60
+30
+0
+模型组 
+1 nmol/L Rg3
+5 nmol/L Rg3
+10 nmol/L Rg3 
+25 nmol/L Rg3 
+50 nmol/L Rg3 
+100 nmol/L Rg3
+0.5 h               1 h               1.5 h               2 h
+细胞活力 (%)
+A
+B
+a
+a
+a
+bb
+b
+bb
+b
+b
+60
+40
+20
+0
+乳酸脱氢酶释放率 (%)
+C
+a
+b
+b
+剥夺 / 复糖复氧损伤后，乳酸脱氢酶释放明显增多，使用人参皂苷 Rg3
+治疗，在 Rg3 浓度为 25-100 nmol/L 时，乳酸脱氢酶的释放明显减少。
+与模型组相比，
+aP < 0.05，
+bP < 0.01(x-±s，n=6)
+图 1 ｜人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞的保护作用
+Figure 1 ｜ Protective effect of ginsenoside Rg3 on oxygen-glucose 
+deprivation/reoxygenation-injured PC12 cells
+糖剥夺 2 h 时，Rg3 在 25-100 nmol/L 时均可以明显减少乳酸
+脱氢酶的释放 (P < 0.05)。因为在 0.5，1，1.5，2 h 时，细胞
+活力都出现明显下降，分别为 81%，75%，55%，51%，为保
+证模型的稳定性与损伤的效果，后续实验使用氧糖剥夺 2 h，
+复糖复氧 16 h 进行造模。
+图注：图 A 为 Calcein-AM/PI 染色观察 PC12 细胞 ( 比例尺：50 µm)，
+其中活细胞为绿色，死细胞为红色；B 为在氧糖剥夺 2 h 时，分别使
+用 10，25，50，100 nmol/L Rg3 处理 PC12 细胞，随后进行 16 h 的复糖
+复氧，提取蛋白利用 Western blot 检测 BAX、Pro-Caspase-3、Cleaved-
+Caspase-3、Pro-Caspase-9、Cleaved-Caspase-9 的表达水平。以 GAPDH 为
+内参照。与对照组相比，
+aP < 0.05，
+bP < 0.01；与模型组相比，
+cP < 0.05，
+dP < 0.01，
+eP < 0.001(x-±s，n=3)
+图 2 ｜人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤诱导的细胞凋亡的影响
+Figure 2 ｜ Effect of ginsenoside Rg3 on oxygen-glucose deprivation/
+reoxygenation-induced apoptosis
+A
+B
+对照组 
+模型组
+100 nmol/L Rg3 
+50 nmol/L Rg3 
+25 nmol/L Rg3 
+10 nmol/L Rg3
+对照组
+ 
+模型组
+10 nmol/L Rg3
+ 
+25 nmol/L Rg3
+ 
+50 nmol/L Rg3
+ 
+100 nmol/L Rg3
+对照组      模型组          100              50                25               10  
+                                                               Rg3 浓度 (nmol/L) 
+Pl                           Calcein                      Merge 
+BAX 蛋白表达量
+(BAX/GAPDH)
+Caspase-3 蛋白表达量
+(cleaved/Pro)
+Caspase-9 蛋白表达量
+(cleaved/Pro)
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+a
+e
+e
+d
+e
+b
+e
+d
+d
+e
+e
+d
+b
+c
+55 kD 
+35 kD 
+35 kD 
+17 kD 
+23 kD 
+37 kD 
+Pro-Caspase-9 
+Cleaved-Caspase-9 
+Pro-Caspase-3 
+Cleaved-Caspase-3 
+BAX 
+GAPDH 
+2.2   人 参 皂 苷 Rg3 对 氧 糖 剥 夺 / 复 糖 复 氧 损 伤 诱 导 的
+细 胞 凋 亡 的 影 响   Calcein-AM/PI 双 染 色 结 果 显 示 Rg3 可
+以 减 少 氧 糖 剥 夺 / 复 糖 复 氧 损 伤 诱 导 的 细 胞 凋 亡， 见
+图 2A。 利 用 Western blot 检 测 凋 亡 相 关 蛋 白 BAX、Pro-
+Caspase-3、Pro-Caspase-9、CleavedCaspase-3、Cleaved-
+Caspase-9 的表达水平，与模型组相比，Rg3 在 100 nmol/L 
+时可以明显降低 BAX 蛋白的表达 (P < 0.01)。意外的是，与
+对照组相比，模型组 Cleaved-Caspase-9 活性升高，Cleaved-
+Caspase-3 活 性 降 低， 而 Pro-Caspasse-9 和 Pro-Caspase-3 蛋
+白的活性无明显变化；在使用不同浓度的 Rg3 处理后，
+Cleaved-Caspase-9 表达降低，Cleaved-Caspase-3 表达明显升
+高，对 Pro-Caspasse-9 和 Pro-Caspase-3 的表达无明显影响，
+见图 2B。
+2.3   人参皂苷 Rg3 对氧糖剥夺 / 复糖复氧损伤诱导的炎症反
+应的影响    如图 3 所示，Western blot 结果表明，使用 Rg3
+处理细胞后，与模型组相比，Rg3 在 100 nmol/L 时可以明显
+降低 NLRP3(P < 0.01)、白细胞介素 1β(P < 0.000 1) 和肿瘤坏
+死因子 α(P < 0.000 1) 的表达水平。
+2.4   LY294002 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞的保
+护作用   为明确 PI3K/AKT 信号通路在氧糖剥夺 / 复糖复
+氧损伤模型中发挥的作用，使用特异性 PI3K/AKT 通路抑
+制剂 LY294002 进行阳性对照实验。在氧糖剥夺 2 h 的条
+件下，单独使用 LY294002 预处理细胞，结果表明不同浓
+度的 LY294002 均能够减少乳酸脱氢酶的释放，见图 4A。 
+Calcein-AM/PI 染色和流式结果均表明，LY294002 能够抑制氧
+糖剥夺 / 复糖复氧损伤介导的细胞凋亡，Western blot 结果
+发现 LY294002 能够明显降低炎症相关因子 NLRP3、白细胞介
+素 1β、肿瘤坏死因子 α 和凋亡蛋白 BAX 的表达水平，并且
+随着 LY294002 浓度的升高，其对 PI3K 和 AKT 的磷酸化抑制
+程度逐渐增强，见图 4B-F。
+2.5   拮抗 Rg3 对 PI3K/AKT 信号通路调节作用后对氧糖剥夺 /
+复糖复氧损伤 PC12 细胞的影响   为进一步探索 Rg3 对 PI3K/
+AKT 信号通路的调节作用，将 Rg3 与特异性 AKT 激活剂 SC79
+联合使用。乳酸脱氢酶释放实验结果显示，与模型组相比，
+单独使用 SC79 的乳酸脱氢酶释放率无明显差异，而 Rg3 和
+SC79 联合使用与单独使用 Rg3 相比，乳酸脱氢酶释放会增
+多，但无统计学差异，见图 5A。Calcein-AM/PI 染色和流式
+结果均表明，SC79 能够促进细胞凋亡，升高细胞凋亡率，
+Western blot 结果表明 SC79 能恢复炎症相关因子 NLRP3、白
+细胞介素 1β、肿瘤坏死因子 α 和凋亡蛋白 BAX 的水平，并
+且能够明显促进 AKT 的磷酸化，图 5B-F。
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.2｜January 2023｜181
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+图 注： 图 A 为 在 氧 糖 剥 夺 / 复 糖 复 氧 损 伤 前， 分 别 使 用 10，20， 
+40 μmol/L 的 LY294002 预处理细胞 2 h，可以有效抑制乳酸脱氢酶的释放，
+与模型组相比，
+aP < 0.001，
+bP < 0.000 1(x-±s，n=6)；B，C 为 LY294002 预
+处理对 BAX 蛋白表达水平的影响，与对照组相比，
+aP < 0.01；与模型组
+相比，
+bP < 0.01(x-±s，n=3)；D 为 Calcein-AM/PI 染色 ( 比例尺：50 µm)；
+E 为流式细胞术检测细胞凋亡率；F，G 为在进行氧糖剥夺 / 复糖复氧损
+伤前，使用 10，20，40 μmol/L 的 LY294002 预处理细胞 2 h，氧糖剥夺
+后进行 16 h 的复糖复氧，提取蛋白用 Western blot 检测 NLRP3、白细胞
+介素 1β(IL-1β)、肿瘤坏死因子 α(TNF-α)、p-PI3K、PI3K、p-AKT、AKT 的
+表达水平。以 β-actin 为内参照。与对照组相比，
+aP < 0.01；与模型组相比，
+bP < 0.05，
+cP < 0.01，
+dP < 0.001，
+eP < 0.000 1(x-±s，n=3)
+图 4 ｜ PI3K/AKT 抑制剂 LY294002 对氧糖剥夺 / 复糖复氧损伤 PC12 细胞
+的保护作用
+Figure 4 ｜ Protective effect of LY294002, a PI3K/AKT pathway inhibitor, on 
+PC12 cells injured by oxygen-glucose deprivation/reoxygenation
+图注：图 A 为在氧糖剥夺 / 复糖复氧损伤前，使用 20 μmol/L 的 SC79 预
+处理细胞 1 h，结果表明 SC79 本身不会促进乳酸脱氢酶释放，但 SC79
+与 Rg3(100 nmol/L) 联用时，可以减轻 Rg3 的保护作用。与模型组相比，
+aP < 0.01(x-±s，n=6)；B，C 为 SC79 预处理对氧糖剥夺 / 复糖复氧损伤后
+BAX 蛋白表达的影响，与对照组相比，
+aP < 0.01；与模型组相比，
+bP < 0.01；
+与 Rg3 组相比，
+cP < 0.01(x-±s，n=3)；D 为 Calcein-AM/PI 染色观察 PC12
+细胞 ( 比例尺：50 µm)；E 为流式细胞仪检测细胞凋亡；F，G 为在进行
+氧糖剥夺前，使用 20 μmol/L 的 SC79 预处理细胞 1 h，在氧糖剥夺时，
+同时使用 100 nmol/L Rg3 处理细胞，然后进行 16 h 的复氧复糖，随后提
+取蛋白利用 Western blot 检测 NLRP3、白细胞介素 1β(IL-1β)、肿瘤坏死
+因子 α(TNF-α)、p-AKT、AKT 的表达水平，以 β-actin 为内参照。与对照
+组相比，
+aP < 0.01；与模型组相比，
+bP < 0.01；与 Rg3 组相比，
+cP < 0.05，
+dP < 0.01(x-±s，n=3)
+图 5 ｜拮抗 Rg3 对 PI3K/AKT 信号通路调节作用后对氧糖剥夺 / 复糖复氧
+损伤 PC12 细胞的影响
+Figure 5 ｜ Effect of antagonizing the regulation of ginsenoside Rg3 on 
+PI3K/AKT signaling pathway on PC12 cells injured by oxygen-glucose 
+deprivation/reoxygenation
+3   讨论   Discussion
+缺血再灌注损伤是一种极其复杂的病理生理过程，能够
+激活细胞凋亡的内源性途径和外源性途径，促进细胞的凋亡
+[18]，
+还能诱导炎症细胞因子的表达，促进炎症反应的发生，破坏
+抗炎和促炎反应的动态平衡，加重对脑组织的损伤
+[19-20]。为
+便于体外研究，氧糖剥夺 / 复糖复氧损伤经常被用作缺血再
+灌注损伤的模型
+[21-23]。该研究发现，随着氧糖剥夺的时间延
+长，PC12 细胞损伤的程度逐渐加重，主要表现为 PC12 细胞
+的活力随着时间延长而下降。同时，氧糖剥夺 / 复糖复氧损
+伤能够促进细胞凋亡，增加乳酸脱氢酶的释放，增强了炎症
+相关因子 NLRP3、白细胞介素 1β、肿瘤坏死因子 α 和凋亡相
+关蛋白 BAX、活化 Caspase-9 的表达。
+人参皂苷是人参的主要活性成分，体内外模型表明人参
+皂苷可以对大脑产生多种药理作用，包括减弱兴奋性毒性、
+抗氧化应激、调节神经炎症和抗凋亡等
+[24-27]。在众多人参皂
+A
+C
+E
+F
+G
+B
+D
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+100
+80
+60
+40
+20
+0
+对照组     模型组      Rg3 组   Rg3+SC79 组 
+对照组     模型组      Rg3 组   Rg3+SC79 组 
+对照组     模型组      Rg3 组   Rg3+SC79 组 
+对照组
+模型组
+Rg3 组
+Rg3+
+SC79
+组 
+p-AKT 
+AKT 
+β-actin 
+60 kD
+60 kD
+42 kD
+乳酸脱氢酶释放率 (%)
+BAX 蛋白表达量
+BAX
+β-actin 
+23 kD
+42 kD
+对照组        模型组        Rg3 组        Rg3+SC79 组����SC79 组 
+对照组        模型组         Rg3 组        Rg3+SC79 组 
+NLRP3 
+IL-1β
+TNF-α 
+β-actin 
+110 kD 
+35 kD 
+25 kD 
+42 kD 
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+101     102     103      104      105
+101     102     103      104      105
+101     102     103      104      105
+101     102     103      104      105
+Annexin V B525-FITC-A
+Annexin V B525-FITC-A
+Annexin V B525-FITC-A
+Annexin V B525-FITC-A
+PI Y585-PE-A
+PI Y585-PE-A
+PI Y585-PE-A
+PI Y585-PE-A
+对照组
+模型组
+Rg3+SC79 组
+Rg3 组
+NLRP3 蛋白表达量
+IL-1β 蛋白表达量
+TNF-α 蛋白表达量
+AKT 蛋白表达量
+a
+b
+c
+a
+b
+c
+a
+b
+d
+a
+b
+d
+a
+a
+b
+c
+Pl                Calcein             Merge 
+对照组
+对照组
+模型组
+模型组
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+101     102     103      104      105
+101     102     103      104      105
+101     102     103      104      105
+Annexin V B525-FITC-A
+Annexin V B525-FITC-A
+Annexin V B525-FITC-A
+ LY294002组(10 μmol/L)
+ LY294002 组
+(10 μmol/L)
+PI Y585-PE-A
+PI Y585-PE-A
+PI Y585-PE-A
+Pl                Calcein                Merge 
+BAX 蛋白表达量
+NLRP3 蛋白表达量
+23 kD
+42 kD
+BAX
+β-actin 
+NLRP3 
+IL-1β
+TNF-α 
+β-actin 
+110 kD 
+35 kD 
+25 kD 
+42 kD 
+p-PI3K 
+PI3K 
+p-AKT 
+AKT 
+β-actin 
+85 kD 
+85 kD 
+60 kD 
+60 kD 
+42 kD 
+对照组     模型组 40 μmol/L   20 μmol/L   10 μmol/L             
+                                    LY294002 组  LY294002 组�LY294002 组
+对照组     模型组 40 μmol/L   20 μmol/L   10 μmol/L             
+                                    LY294002 组  LY294002 组�LY294002 组
+对照组 
+模型组
+40 μmol/L LY294002 组 
+20 μmol/L LY294002 组 
+10 μmol/L LY294002 组
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+2.0
+1.5
+1.0
+0.5
+0
+2.0
+1.5
+1.0
+0.5
+0
+IL-1β 蛋白表达量
+TNF-α 蛋白表达量
+PI3K 蛋白表达量
+AKT 蛋白表达量
+a
+a
+a
+a
+a
+d
+e e d
+e e
+c c
+c
+c
+c c b
+c
+c
+100
+80
+60
+40
+20
+0
+a
+b
+b
+a
+b
+C
+E
+F
+G
+A
+D
+B
+乳酸脱氢酶
+释放率 (%)
+对照组 
+模型组
+40 μmol/L LY294002 组 
+20 μmol/L LY294002 组 
+10 μmol/L LY294002 组
+110 kD 
+35 kD 
+25 kD 
+42 kD 
+NLRP3 
+IL-1β
+TNF-α 
+β-actin 
+TNF-α 蛋白表达量
+IL-1β 蛋白表达量
+NLRP3 蛋白表达量
+                                                               Rg3 浓度 (nmol/L) 
+对照组      模型组          100              50                25               10  
+1.5
+1.0
+0.5
+0
+1.5
+1.0
+0.5
+0
+b
+b
+d
+d
+d
+a
+e
+e
+c
+c
+c
+c
+c
+c
+A
+B
+对照组 
+模型组
+100 nmol/L Rg3 
+50 nmol/L Rg3
+25 nmol/L Rg3 
+10 nmol/L Rg3
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+对照组     模型组 40 μmol/L   20 μmol/L   10 μmol/L             
+                                    LY294002 组  LY294002 组�LY294002 组
+图注：在氧糖剥夺 2 h 时，分别使用 10，25，50，100 nmol/L 的 Rg3 处
+理 PC12 细胞，随后进行 16 h 的复糖复氧，提取蛋白利用 Western blot
+检测 NLRP3、白细胞介素 1β(IL-1β)、肿瘤坏死因子 α(TNF-α) 的表达水平。
+以 β-actin 为内参照。与对照组相比，
+aP < 0.05，
+bP < 0.01；与模型组相比，
+cP < 0.01，
+dP < 0.001，
+eP < 0.000 1(x-±s，n=3)
+图 3 ｜人参皂苷 Rg3 能够减轻氧糖剥夺 / 复糖复氧损伤诱导的炎症反应
+Figure 3 ｜ Effect of ginsenoside Rg3 on oxygen-glucose deprivation/
+reoxygenation-induced inflammatory responses
+182｜中国组织工程研究｜第27卷｜第2期｜2023年1月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+苷中，人参皂苷 Rg3 主要被用于癌症、代谢性疾病等的研 
+究
+[16，28]，关于脑血管疾病的研究较少。最新的研究发现，
+人参皂苷 Rg3 可以有效保护大脑免受缺血性损伤，并且 Rg3
+与其他多种人参皂苷相比，具有最强的治疗活性
+[17]。该研究
+利用氧糖剥夺 / 复糖复氧构建体外脑缺血再灌注损伤模型，
+进一步探索 Rg3 的神经保护作用以及相关机制，结果表明，
+人参皂苷 Rg3 能够对氧糖剥夺 / 复糖复氧损伤的 PC12 细胞
+起保护作用，主要表现在提高细胞活力，减少乳酸脱氢酶的
+释放，抑制炎症相关因子 NLRP3、肿瘤坏死因子 α、白细胞
+介素 1β 的表达，从而减轻氧糖剥夺 / 复糖复氧诱导的炎症
+损伤。除此之外，Rg3 还能够降低凋亡蛋白 BAX 和抑制活化
+的 Caspase-9 的表达，发挥抗凋亡的作用。意外的是，在氧
+糖剥夺 / 复糖复氧损伤后，活化的 Caspase-3 表达明显下降，
+而使用 Rg3 治疗后，会促进活化 Caspase-3 的表达。在凋亡
+相关途径中，Bax 是一种促凋亡基因，其上调可以促进细胞
+凋亡
+[29]，而 Caspase-3 和 Caspase-9 是细胞凋亡的重要标志
+蛋白。Caspase-9 作为细胞凋亡的起始蛋白，激活后会切割并
+激活下游的 Caspase，例如 Caspase-3、6 和 7 等，从而启动
+细胞凋亡
+[30]，但也有研究表明 Caspase-9 被激活后，即使下
+游的效应 Caspase 因子不发挥促凋亡作用，具有活性凋亡体
+的细胞仍会死亡
+[31]。Caspase-3 作为细胞凋亡的主要执行者，
+活化后可以降解细胞内结构蛋白和功能蛋白，并诱导细胞死
+亡
+[32]。除此之外，也有研究表明 Caspase-3 对正常大脑发育
+极为重要
+[33-34]， 并且与 Caspase-7 的功能不同，Caspase-3 可
+以抑制活性氧的产生
+[31]，发挥抗氧化应激损伤的作用。因此，
+Rg3 发挥抗凋亡作用与 BAX、Caspase-3、Caspase-9 蛋白密切
+相关，但具体作用机制仍需进一步研究。
+PI3K/AKT 通路是一条经典的调节细胞分化、代谢、炎
+症以及细胞凋亡的信号传导通路
+[35-36]。目前研究发现，PI3K/
+AKT 信号通路在神经系统中广泛存在，与神经细胞的存活与
+凋亡密切相关
+[37-39]。1999 年，KITAGAWA 等
+[40] 首次发现，
+脑缺血损伤时会激活 PI3K/AKT 通路。近年的研究也表明
+PI3K/AKT 信号通路与脑缺血损伤密切相关
+[41-43]。该研究观察
+到氧糖剥夺 / 复糖复氧损伤模型会激活 PI3K/AKT 信号通路，
+促进 PI3K、AKT 的磷酸化；当使用特异性的 PI3K/AKT 通路抑
+制剂 LY294002 时
+[44]，p-PI3K 和 p-AKT 的表达被抑制，并且
+还观察到乳酸脱氢酶释放的减少，NLRP3、白细胞介素 1β、
+肿瘤坏死因子 α 和 BAX 蛋白水平的降低，表明 PI3K/AKT 通
+路可能调节氧糖剥夺 / 复糖复氧损伤诱导的炎症因子和凋亡
+因子的表达，影响炎症反应和细胞凋亡。当使用人参皂苷
+Rg3处理受到氧糖剥夺损伤的PC12细胞后，同样观察到p-PI3K
+和 p-AKT 表达下调，相关炎症因子和凋亡因子的表达下降，
+炎症反应和细胞凋亡得到抑制。进一步研究发现，使用 AKT
+激活剂 SC79 后
+[45]，Rg3 下调 p-AKT 的作用减弱，同时炎症
+相关因子 NLRP3、肿瘤坏死因子 α、白细胞介素 1β 以及凋
+亡相关蛋白 BAX 表达水平回升，乳酸脱氢酶的释放也有轻度
+升高，表明 Rg3 的保护作用被部分抵消，证明 P-AKT 的上调
+至少部分抵消了 Rg3 对 PC12 细胞的保护作用。这些数据表
+明，人参皂苷 Rg3 通过抑制 PI3K/AKT 信号通路，抑制 PI3K
+和 AKT 的磷酸化，从而发挥其抗炎、抗凋亡的神经保护作用。
+因此，人参皂苷 Rg3 可以改善氧糖剥夺 / 复糖复氧诱导
+的 PC12 细胞损伤，主要通过抗炎和抗凋亡来发挥保护作用，
+并且这与 PI3K/AKT 信号通路的抑制密切相关。该研究为后期
+进行 PI3K/AKT 信号通路上下游因子的深入研究提供了初步实
+验数据，同时也为深入研究人参皂苷 Rg3 对缺血再灌注损伤
+的保护作用以及作用机制奠定基础。
+作者贡献：论文撰写、数据处理为钟京霖，实验实施为曹惠敏和潘
+亚茹，实验评估为简文轩，实验设计为王奇 ( 通讯作者 )。
+利益冲突：文章的全部作者声明，在课题研究和文章撰写过程中不
+存在利益冲突。
+版权转让：文章出版前全体作者与编辑部签署了文章版权转让协议。
+开放获取声明：这是一篇开放获取文章，根据《知识共享许可协议》
+“署名 - 非商业性使用 - 相同方式共享 4.0”条款，在合理引用的情况下，
+允许他人以非商业性目的基于原文内容编辑、调整和扩展，同时允许任
+何用户阅读、下载、拷贝、传递、打印、检索、超级链接该文献，并为
+之建立索引，用作软件的输入数据或其它任何合法用途。
+出版规范：该文章撰写遵守国际医学期刊编辑委员会《学术研究实
+验与报告和医学期刊编辑与发表的推荐规范》。文章出版前已经过专业
+反剽窃文献检测系统进行 3 次查重。文章经小同行外审专家双盲外审，
+同行评议认为文章符合期刊发稿宗旨。 
+4   参考文献   References
+[1] 
+DONNAN GA, FISHER M, MACLEOD M, et al. Stroke. Lancet. 2008; 
+371(9624):1612-1623.
+[2] 
+MENON BK, CAMPBELL BC, LEVI C, et al. Role of imaging in current 
+acute ischemic stroke workflow for endovascular therapy. Stroke. 2015; 
+46(6):1453-1461.
+[3] 
+ZHANG H, LIU X, YANG F, et al. Overexpression of HIF-1α protects PC12 
+cells against OGD/R-evoked injury by reducing miR-134 expression. Cell 
+Cycle. 2020;19(9):990-999.
+[4] 
+LI S, SUN X, XU L, et al. Baicalin attenuates in vivo and in vitro 
+hyperglycemia-exacerbated ischemia/reperfusion injury by regulating 
+mitochondrial function in a manner dependent on AMPK. Eur J 
+Pharmacol. 2017;815:118-126.
+[5] 
+REVATHIDEVI S, MUNIRAJAN AK. Akt in cancer: Mediator and more. 
+Semin Cancer Biol. 2019;59:80-91.
+[6] 
+GABBOUJ S, RYHÄNEN S, MARTTINEN M, et al. Altered Insulin Signaling 
+in Alzheimer’s Disease Brain - Special Emphasis on PI3K-Akt Pathway. 
+Front Neurosci. 2019;13:629.
+[7] 
+KWON O, KIM KW, KIM MS. Leptin signalling pathways in hypothalamic 
+neurons. Cell Mol Life Sci. 2016;73(7):1457-1477.
+[8] 
+ZHANG Z, YAO L, YANG J, et al. PI3K/Akt and HIF-1 signaling pathway in 
+hypoxia-ischemia (Review). Mol Med Rep. 2018;18(4):3547-3554.
+[9] 
+蔡苏娜 , 李强 , 周慧 , 等 . 白杨素通过抑制 PI3K/AKT/mTOR 信号通
+路发挥抗炎和抗氧化作用 : 基于蛋白质芯片方法 [J]. 南方医科大学
+学报 ,2021,41(10):1554-1561.
+[10] 
+LI C, ZHAO B, LIN C, et al. TREM2 inhibits inflammatory responses in 
+mouse microglia by suppressing the PI3K/NF-κB signaling. Cell Biol Int. 
+2019;43(4):360-372.
+Chinese Journal of Tissue Engineering Research｜Vol 27｜No.2｜January 2023｜183
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+[11] 
+WONG AS, CHE CM, LEUNG KW. Recent advances in ginseng as cancer 
+therapeutics: a functional and mechanistic overview. Nat Prod Rep. 
+2015;32(2):256-272.
+[12] 
+WU W, SUN L, ZHANG Z, et al. Profiling and multivariate statistical 
+analysis of Panax ginseng based on ultra-high-performance liquid 
+chromatography coupled with quadrupole-time-of-flight mass 
+spectrometry. J Pharm Biomed Anal. 2015;107:141-150.
+[13] 
+ATTELE AS, WU JA, YUAN CS. Ginseng pharmacology: multiple 
+constituents and multiple actions. Biochem Pharmacol. 1999;58(11): 
+1685-1693.
+[14] 
+HE B, CHEN P, YANG J, et al. Neuroprotective effect of 20(R)-ginsenoside 
+Rg(3) against transient focal cerebral ischemia in rats. Neurosci Lett. 
+2012;526(2):106-111.
+[15] 
+LIU H, LU X, HU Y, et al. Chemical constituents of Panax ginseng and 
+Panax notoginseng explain why they differ in therapeutic efficacy. 
+Pharmacol Res. 2020;161:105263.
+[16] 
+LEE H, KONG G, TRAN Q, et al. Relationship Between Ginsenoside Rg3 
+and Metabolic Syndrome. Front Pharmacol. 2020;11:130.
+[17] 
+CHENG Z, ZHANG M, LING C, et al. Neuroprotective Effects of 
+Ginsenosides against Cerebral Ischemia. Molecules. 2019;24(6): 
+1102.
+[18] 
+BROUGHTON BR, REUTENS DC, SOBEY CG. Apoptotic mechanisms after 
+cerebral ischemia. Stroke. 2009;40(5):e331-e339.
+[19] 
+CAMPANELLA M, SCIORATI C, TAROZZO G, et al. Flow cytometric 
+analysis of inflammatory cells in ischemic rat brain. Stroke. 2002;33(2): 
+586-592.
+[20] 
+JIN R, LIU L, ZHANG S, et al. Role of inflammation and its mediators in 
+acute ischemic stroke. J Cardiovasc Transl Res. 2013;6(5):834-851.
+[21] 
+GONG Z, PAN J, SHEN Q, et al. Mitochondrial dysfunction induces 
+NLRP3 inflammasome activation during cerebral ischemia/reperfusion 
+injury. J Neuroinflammation. 2018;15(1):242.
+[22] 
+WANG G, WANG T, ZHANG Y, et al. Schizandrin Protects against OGD/
+R-Induced Neuronal Injury by Suppressing Autophagy: Involvement of 
+the AMPK/mTOR Pathway. Molecules. 2019;24(19):3624.
+[23] 
+JIA Y, CUI R, WANG C, et al. Metformin protects against intestinal 
+ischemia-reperfusion injury and cell pyroptosis via TXNIP-NLRP3-
+GSDMD pathway. Redox Biol. 2020;32:101534.
+[24] 
+KIM S, KIM T, AHN K, et al. Ginsenoside Rg3 antagonizes NMDA 
+receptors through a glycine modulatory site in rat cultured hippocampal 
+neurons. Biochem Biophys Res Commun. 2004;323(2):416-424.
+[25] 
+SUN ZG, CHEN LP, WANG FW, et al. Protective effects of ginsenoside 
+Rg1 against hydrogen peroxide-induced injury in human neuroblastoma 
+cells. Neural Regen Res. 2016;11(7):1159-1164.
+[26] 
+FAN C, SONG Q, WANG P, et al. Neuroprotective Effects of Ginsenoside-
+Rg1 Against Depression-Like Behaviors via Suppressing Glial Activation, 
+Synaptic Deficits, and Neuronal Apoptosis in Rats. Front Immunol. 
+2018;9:2889.
+[27] 
+CHO M, CHOI G, SHIM I, et al. Enhanced Rg3 negatively regulates Th1 
+cell responses. J Ginseng Res. 2019;43(1):49-57.
+[28] 
+SUN M, YE Y, XIAO L, et al. Anticancer effects of ginsenoside Rg3 
+(Review). Int J Mol Med. 2017;39(3):507-518.
+[29] 
+QIN XY, WANG YN, LIU HF, et al. Anti-cancer activities of metal-
+based complexes by regulating the VEGF/VEGFR2 signaling pathway 
+and apoptosis-related factors Bcl-2, Bax, and caspase-9 to inhibit 
+angiogenesis and induce apoptosis. Metallomics. 2020;12(1):92-103.
+[30] 
+BUDIHARDJO I, OLIVER H, LUTTER M, et al. Biochemical pathways of 
+caspase activation during apoptosis. Annu Rev Cell Dev Biol. 1999; 
+15:269-290.
+[31] 
+BRENTNALL M, RODRIGUEZ-MENOCAL L, DE GUEVARA RL, et al. 
+Caspase-9, caspase-3 and caspase-7 have distinct roles during intrinsic 
+apoptosis. BMC Cell Biol. 2013;14:32.
+[32] 
+YUAN J, SHAHAM S, LEDOUX S, et al. The C. elegans cell death gene 
+ced-3 encodes a protein similar to mammalian interleukin-1 beta-
+converting enzyme. Cell. 1993;75(4):641-652.
+[33] 
+PORTER AG, JÄNICKE RU. Emerging roles of caspase-3 in apoptosis. Cell 
+Death Differ. 1999;6(2):99-104.
+[34] 
+LOSSI L, CASTAGNA C, MERIGHI A. Caspase-3 Mediated Cell Death in 
+the Normal Development of the Mammalian Cerebellum. Int J Mol Sci. 
+2018;19(12):3999.
+[35] 
+POMPURA SL, DOMINGUEZ-VILLAR M. The PI3K/AKT signaling pathway 
+in regulatory T-cell development, stability, and function. J Leukoc Biol. 
+2018;103:1065-1076.
+[36] 
+XU F, NA L, LI Y, et al. Roles of the PI3K/AKT/mTOR signalling pathways 
+in neurodegenerative diseases and tumours. Cell Biosci. 2020;10(1):54.
+[37] 
+ZHANG J, ZHANG JX, ZHANG QL. PI3K/AKT/mTOR-mediated autophagy 
+in the development of autism spectrum disorder. Brain Res Bull. 2016; 
+125:152-158.
+[38] 
+MANTHARI RK, TIKKA C, OMMATI MM, et al. Arsenic induces autophagy 
+in developmental mouse cerebral cortex and hippocampus by inhibiting 
+PI3K/Akt/mTOR signaling pathway: involvement of blood-brain barrier’s 
+tight junction proteins. Arch Toxicol. 2018;92(11):3255-3275.
+[39] 
+GARABADU D, VERMA J. Exendin-4 attenuates brain mitochondrial 
+toxicity through PI3K/Akt-dependent pathway in amyloid beta 
+(1-42)-induced cognitive deficit rats. Neurochem Int. 2019;128:39-49.
+[40] 
+KITAGAWA H, WARITA H, SASAKI C, et al. Immunoreactive Akt, PI3-K 
+and ERK protein kinase expression in ischemic rat brain. Neurosci Lett. 
+1999;274(1):45-48.
+[41] 
+ZHAO M, HOU S, FENG L, et al. Vinpocetine Protects Against Cerebral 
+Ischemia-Reperfusion Injury by Targeting Astrocytic Connexin43 via the 
+PI3K/AKT Signaling Pathway. Front Neurosci. 2020;14:223.
+[42] 
+JIN W, XU W, ZHANG X, et al. Ischemic Preconditioning Upregulates 
+Decoy Receptors to Protect SH-SY5Y Cells from OGD Induced Cellular 
+Damage by Inhibiting TRAIL Pathway and Agitating PI3K/Akt Pathway. 
+Mol Neurobiol. 2020;57(9):3658-3670.
+[43] 
+WANG HL, LIU FL, LI RQ, et al. Electroacupuncture improves learning 
+and memory functions in a rat cerebral ischemia/reperfusion injury 
+model through PI3K/Akt signaling pathway activation. Neural Regen 
+Res. 2021;16(6):1011-1016. 
+[44]    CARPENTER CL, CANTLEY LC. Phosphoinositide kinases. Curr Opin Cell 
+Biol. 1996;8(2):153-158.
+[45] 
+MOREIRA JB, WOHLWEND M, ALVES MN, et al. A small molecule 
+activator of AKT does not reduce ischemic injury of the rat heart. J 
+Transl Med. 2015;13:76. 
+( 责任编辑：MZH，ZN，ZJP)

@@ -1,0 +1,474 @@
+基金项目：解放军总医院第六医学中心创新培育基金 CXPY201523
+作者简介：田 冶，硕士研究生，主治医师。
+作者单位：1.100048 北京，解放军总医院第六医学中心麻醉科；
+2.100142 北京，空军特色医学中心麻醉科
+通讯作者：陶天柱，E-mail：ttz887＠126.com
+人参皂苷 Rg1 对大鼠海水淹溺性肺损伤的保护作用及其机制
+田 冶
+1，葛帅娜
+1，李 军
+1，陶天柱
+2
+  【摘要】 目的 探讨人参皂苷 Rg1 对海水淹溺性肺损伤的保护作用及其机制。 方法 128 只雄性 SD 大鼠随机均分为
+4 组：空白对照组（C 组）、生理盐水组（S 组）、20 mg／kg 低剂量人参皂甙 Rg1 组（L 组）、100 mg／kg 高剂量人参皂苷 Rg1 组
+（H 组）。 L 组和 H 组分别经尾静脉注射人参皂苷 20 或 100 mg／kg， S 组尾静脉注射等容的生理盐水，给药 2 h 后建立海水淹
+溺性肺损伤模型。 分别于吸入海水前（基础值 T0）、吸入海水后30 min（T1）、1 h（T2）、2 h（T3）和4 h（T4）各时间点检测动脉血
+PaO2 和 PaCO2 的动态变化；于建模后 2 h 和 4 h 取出肺组织和外周血标本，检测肺湿干重比（W／D）、肺泡灌洗液蛋白定量
+（BALF）、超氧化物歧化酶（SOD）和髓过氧化物酶（MPO）活性、丙二醛（MDA）和细胞因子 TNF-α、IL-1β、IL-6 的浓度，取建模
+后 4 h 的右肺下叶组织行 HE 病理检查。 结果 T0 时 4 组的动脉血 PaO2、PaCO2 差异均无统计学意义。 T1 ～T4 时 S 和 L 组
+PaO2 明显低于 H 组（P ＜0.05），S 和 L 组 PaCO2 明显高于 H 组（P ＜0.05）。 T3 和 T4 时，S、L 和 H 组肺组织 W／D 比值均明显
+高于 C 组（P ＜0.05），H 组肺组织 W／D 明显低于 S 组和 L 组（P ＜0.05）。 H 组 MDA 浓度和 MPO 活性明显低于 S 组和 L 组
+（P ＜0.05）， H 组 SOD 活性明显高于 S 组和 L 组（P ＜0.05）。 H 组血清中炎性因子 TNF-α、IL-1β和 IL-6 水平明显低于 S 组
+和 L 组。 HE 病理染色显示 H 组肺泡塌陷、水肿及炎性细胞浸润较 S 组明显减轻。 结论 预防性使用人参皂苷 Rg1
+（100 mg／kg）能显著减轻海水淹溺导致的早期（4 h 内）肺损伤，其保护机制与减轻肺内的炎性反应和氧化应激相关。
+  【关键词】 人参皂甙 Rg1；海水淹溺；肺损伤；氧化应激
+  【中国图书分类号】 R563
+  Protective effects of ginsenoside Rg1 on sea water drowning induced lung injury in rats
+TIAN Ye
+1， GE Shuaina
+1，LI Jun
+1， and TAO Tianzhu
+2.1.Department of Anesthesiology， the Sixth Medical Center of Chinese PLA
+General Hospital， Beijing 100048， China；2.Department of Anesthesiology， Air Force Medical Center， Beijing 100142， China
+【Abstract】 Objective To determine the protective effects and potential mechanisms of ginsenoside Rg 1 on lung injury induced
+by sea water drowning.Methods One hundred and twenty-eight male SD rats were randomly divided into four groups ： the control
+group （group C）， sea water ＋saline group （group S）， sea water group ＋20 mg／kg Rg1（group L） and sea water group ＋100 mg／kg
+Rg1（group H）.Rats were intravenously injected with different doses of Rg 1 or saline before a standard model of sea water drowning
+was established in group S， L and H.The arterial PaO2， PaCO2， wet to dry weight ratio（W／D）， protein concentrations of bronchoal -
+veolar lavage fluid （BALF）， MDA， SOD and MPO activity， cytokines expressions and histological changes were measured at the fol -
+lowing time points as designated：before drowning （ T0 ） and 30 min （ T1 ）， 1 h （ T2 ）， 2 h （ T3 ） and 4 h （ T4 ） after drowning.
+Results PaO2 at T1，T2，T3 and T4 in group S and L was significantly lower than in group H （P ＜0.05）， but PaCO2 was significantly
+higher（P ＜0.05）.No significant difference was observed between group S and group L .The W／D ratio， BALF protein concentration，
+MDA and MPO activity were significantly higher in group S and L than in group H at T 3 and T4 （P ＜0.05）.The activity of SOD in
+group S and L was significantly lower than in group H （P ＜0 05）.Compared with group S， the expressions of such cytokines as TNF -
+α， IL-1βand IL-6 were significantly decreased.HE staining showed severe alveolar rupture ， edema， and inflammatory cell infiltration
+in group S.Conclusions Pretreatment with Rg1 can effectively protect rats from sea water drowning induced lung injury in the early
+stage（within 4 hours）.The underlying mechanism is possibly associated with the suppression of inflammatory responses and oxidative
+stress.
+  【Key words】 ginsenoside Rg1；sea water drowning；lung injury；oxidative stress
+  全世界每年因淹溺死亡的人数达 40 万以上，因
+海水淹溺而死亡的人数居意外死亡人数的第三
+位
+［1］ 。 人体吸入海水后，可迅速导致剧烈的肺部炎
+性反应，由此产生海水吸入性肺损伤（seawater in-
+duced acute lung injure， SW-ALI），其病情危重，进展
+快，病死率高
+［2］。 尽管器官保护治疗技术取得不断
+进步，但目前临床上对 SW-ALI 的救治仍然缺乏有
+140
+ 武警医学 2022 年 2 月 第 33 卷 第 2 期 Med J Chin PAP， Vol.33，No.2，February，2022 
+针对性的有效措施，其死亡率仍居高不下
+［3］ 。 人参
+皂苷 Rg1 是从人参中提取的一种主要有效成分，在
+多种炎性疾病中发挥抗炎、抗氧化、调节细胞凋亡等
+保护作用
+［4］ 。 本研究以大鼠建立海水淹溺性肺损
+伤模型，通过呼吸功能、氧化应激和炎性指标的测
+定，探讨人参皂苷 Rg1 对海水淹溺性肺损伤的保护
+作用及可能的机制。
+1 材料与方法
+1.1 实验动物和材料 健康 6 周龄雄性 SD 大鼠，
+体重 200 ～240 g（解放军总医院第六医学中心实验
+动物中心）。 实验海水（海南三亚，东经 109°，北纬
+18°） Na
+＋ 310 mmol ／L， K
+＋ 7.1 mmol ／L， Mg
+2 ＋
+9.16 mmol ／L，Ca
+2 ＋ 9.0 mmol／L， Cl
+-365 mmol ／L，
+pH 8.2） Bradford 试剂盒和 MPO 试剂盒（ 南京建
+成），ELISA 试剂盒（美国 R＆D）。
+1.2 动物分组和动物模型制备 128 只 SD 大鼠按
+照随机数字表法分为 4 组，每组 32 只：空白对照组
+（C 组）、生理盐水对照组（S 组）、低剂量人参皂苷
+Rg1（20 mg／kg）治疗组（L 组）、高剂量人参皂苷 Rg1
+（100 mg／kg）治疗组（H 组）。 吸入海水前 2 h，L 组
+和 H 组经尾静脉注射人参皂苷 Rg1（20 mg／kg 或
+100 mg ／kg）200 μl，S 组注射等容生理盐水 200 μl。
+实验大鼠禁食水 12 h，采用腹腔注射戊巴比妥钠
+50 mg／kg麻醉，仰卧位固定。 颈前区暴露气管后切
+开，插入气管导管，分离股动脉插入连接三通的套管
+针以备取血。 以 4 ml／kg 剂量在气管内滴注海水，
+4 min内完成。 灌注后大鼠即刻出现呼吸困难，口唇
+发绀，经气管插管喷出粉红色泡沫样液体，双肺满布
+湿啰音，动脉血气 PaO2 ＜60 mmHg 提示造模成功。
+80 只大鼠（每组 20 只）用于检测血气、生化及病理
+等指标，48 只（每组 12 只） 大鼠单独用于观察生
+存期。
+1.3 观察指标 分别于吸入海水前（T0），吸入海
+水后 30 min（T1）、1 h（T2）、2 h（T3）和 4 h（T4）抽取
+股动脉血 0.3 ml 检测动脉氧分压（PaO2）、动脉二氧
+化碳分压（PaCO2）；肺泡灌洗液离心后取上清，蛋白
+测定按照 Bradford 试剂盒严格操作，髓过氧化物酶
+（myeloperoxidase， MPO）测定按照试剂盒说明操作，
+比色法计算结果；吸入海水后 2 h 和 4 h 每组各取
+5 只大鼠， 心脏采血处死后取出肺组织标本， 用
+ELISA 试剂盒测定血浆中 TNF-α、IL-1β、IL-6 含量
+和左肺上叶肺组织匀浆 MDA、SOD 浓度；左肺下叶
+经甲醛溶液固定 48 h 后，石蜡包埋后切片，苏木精-
+伊红（HE） 染色后在显微镜下检查；取右肺称重后
+为湿重，置于 70 ℃电热恒温干燥箱中烤 48 h，称重
+为干重，干重与湿重之比为肺干湿重比 （W／D） ；记
+录各组大鼠 4 h 的存活率。
+1.4 统计学处理 采用 SPSS19.0 软件进行统计
+分析，计量数据采用 珋
+x ±s 表示，多组之间均数比较
+采用单因素方差分析，同组不同时间点的比较采用
+重复测量方差分析，两两比较采用 Turkey 法，P ＜
+0.05为差异有统计学意义。
+2 结  果
+2.1 海水淹溺大鼠氧合指标 与C 组相比，海水淹溺
+大鼠在建模后30 min 时 PaO2 显著降低，PaCO2 显著升
+高，随后 PaO2 轻度升高且 PaCO2 有所降低。 T0 时3 组
+的动脉血 PaO2、PaCO2 差异均无统计学意义。 T1 ～T4
+时 S 和 L 组 PaO2 明显低于 H 组（P ＜0.05），S 和 L 组
+PaCO2 明显高于 H 组（P ＜0.05，表1）。
+表 1 海水淹溺组和对照组大鼠不同时间 PaO2 和
+PCO2 的变化
+（珋
+x ±s；n ＝5；mmHg）
+指标
+C 组
+S 组
+L 组
+H 组
+PaO2
+ 0.5 h
+102.0 ±7.1
+56.5 ±5.6
+60.2 ±8.9 69.3 ±12.8
+①②③
+ 1 h
+104.0 ±5.9
+64.8 ±6.8
+70.3 ±11.8 80.2 ±16.5
+①②③
+ 2 h
+107.0 ±8.2
+70.5 ±6.1
+74.9 ±9.4 85.4 ±14.2
+①②③
+ 4 h
+105.0 ±6.3
+72.2 ±7.5
+78.8 ±10.7 92.5 ±13.3
+①②③
+PCO2
+ 0.5 h
+35.2 ±3.8
+45.1 ±4.6
+44.1 ±3.8 40.2 ±3.6
+①②③
+ 1 h
+36.4 ±2.9
+43.8 ±4.2
+42.6 ±3.6 39.1 ±2.9
+①②③
+ 2 h
+34.5 ±3.6
+41.2 ±3.5
+40.5 ±4.1 38.5 ±3.3
+①②③
+ 4 h
+35.1 ±4.4
+40.1 ±4.2
+39.3 ±3.8 38.0 ±2.2
+①②③
+注：C 组.空白对照组； S 组.肺损伤 ＋生理盐水组； L 组.肺损伤 ＋
+Rg1（20 mg ／kg）； H 组.肺 损 伤 ＋Rg1 （100 mg ／kg）；与 C 组 比 较，
+①P ＜0.05；与 S 组比较，②P ＜0.05；与 L 组比较，③P ＜0.05
+2.2 肺泡灌洗液蛋白含量和肺组织湿干重比 与
+对照组相比，海水淹溺组大鼠的肺泡灌洗液蛋白定
+量（BALF）和肺组织湿干重比明显增高，2 h 和 4 h
+时，H 组上述指标均明显低于 S 组和 L 组，差异有统
+计学意义（P 均 ＜0.05，表 2）。
+2.3 氧化应激反应和外周血炎性因子 与对照组
+相比，海水淹溺组大鼠肺组织中 MDA 和 MPO 浓度
+显著升高，SOD 活性则明显下降，血清中炎性因子
+TNF-α、IL-1β、IL-6 水平表达显著升高，提示肺组织
+内氧化应激损伤和全身的炎性反应激活。 与 S 组相
+比，H 组肺组织中 MDA、MPO 和细胞因子的表达水
+141
+ 武警医学 2022 年 2 月 第 33 卷 第 2 期 Med J Chin PAP， Vol.33，No.2，February，2022 
+平均明显降低，而 SOD 的活性显著升高（ P 均 ＜
+0.05，表 2）。
+表 2 各组大鼠肺泡灌洗液蛋白定量、湿／干比、氧化应激
+和外周血炎症因子指标的比较
+（珋
+x ±s；n ＝5）
+指标
+C 组
+S 组
+L 组
+H 组
+BALF（μg／ml）
+ 2 h
+20.3±5.1 418.2±49.4
+① 363.7±47.8
+① 212.6±35.8
+①②③
+ 4 h
+22.2±5.9 502.4±68.8
+① 376.5±51.6
+① 245.3±37.6
+①②③
+MDA（mmol／mg）
+ 2 h
+1.2±0.2
+4.7±0.6
+①
+4.4±0.4
+①
+2.7±0.2
+①②③
+ 4 h
+1.4±0.3
+5.2±0.5
+①
+4.8±0.7
+①
+3.0±0.3
+①②③
+SOD（U／mg）
+ 2 h
+6.2±0.8
+4.1±0.6
+①
+4.3±0.6
+①
+5.2±0.7
+①②③
+ 4 h
+6.4±0.9
+3.8±0.5
+①
+3.9±0.5
+①
+5.0±0.8
+①②③
+MPO（U／l）
+ 2 h
+9.5±1.8 39.5±4.4
+①
+36.6±4.8
+①
+25.0±4.6
+①②③
+ 4 h
+10.1±2.1 45.7±6.7
+①
+42.3±5.4
+①
+28.0±5.1
+①②③
+W／D
+ 2 h
+4.6±0.3
+7.8±0.8
+①
+7.5±1.1
+①
+6.2±0.8
+①②③
+ 4 h
+4.5±0.2
+8.8±0.9
+①
+8.4±1.2
+①
+6.6±0.9
+①②③
+TNF-α（pg／ml）
+ 2 h
+15.1±4.5 58.4±9.2
+①
+49.3±7.4
+①
+38.4±7.2
+①②③
+ 4 h
+17.3±3.8 79.9±11.8
+① 72.7±11.5
+①
+49.7±8.4
+①②③
+IL-1β（pg／ml）
+ 2 h
+22.3±4.5 107.9±18.1
+① 96.2±13.6
+①
+80.5±10.6
+①②③
+ 4 h
+24.6±4.1 134.4±16.3
+① 120.1±14.9
+①
+88.9±8.2
+①②③
+IL-6（pg／ml）
+ 2 h
+12.2±2.8 25.5±4.4
+①
+22.6±2.9
+①
+16.8±1.5
+①②③
+ 4 h
+15.4±3.2 35.7±3.5
+①
+27.9±3.2
+①
+19.2±2.2
+①②③
+注：W ／D.肺湿干重比； BALF.肺泡灌洗液蛋白定量； SOD.超氧化
+物歧化酶； MPO.髓过氧化物酶； MDA.丙二醛； TNF-α.肿瘤坏死因
+子 α；IL-1β.白细胞介素 1β；IL-6.白细胞介素 6； C 组.空白对照
+组； S 组.肺损伤 ＋生理盐水组； L 组.肺损伤 ＋Rg1 （20 mg ／kg）；
+H 组.肺损伤 ＋Rg1（100 mg ／kg）； 与 C 组比较，①P ＜0.05；与 S 组
+比较，②P ＜0.05；与 L 组比较，③P ＜0.05
+2.4 大鼠肺组织病理 吸入海水 4 h 后不同组大
+鼠肺组织病理切片，可见 S 组和 L 组肺间质水肿、出
+血，肺泡塌陷，并有大量炎性细胞浸润。 H 组肺组织
+结构尚清晰，渗出明显减少，炎性浸润也较前两组有
+明显减轻（图 1）。
+2.5 大鼠生存期 C 组、S 组、L 组和 H 组分别死
+亡 0、9、7、3 只，死亡率依次为 0、75.0％、58.3％和
+25.0％（n ＝12 只／组）。 与 S 组相比，H 组大鼠死亡
+率明显降低（P ＜0.05），L 组与 S 组相比无统计学
+差异。
+图 1 各组大鼠建模 4 h 后的肺组织病理表现
+（HE， ×100 倍）
+  C 组.空白对照组；S 组.肺损伤 ＋生理盐水组；L 组.肺损伤 ＋
+Rg1（20 mg ／kg）；H 组.肺损伤 ＋Rg1（100 mg ／kg）
+3 讨  论
+  海水由于高渗与碱性的特点，其所造成的肺损伤
+更容易出现低氧血症和酸中毒，并可发展为急性呼吸
+窘 迫 综 合 征 （ acute respiratory distress syndrome，
+ARDS），救治难度极大
+［5］。 海水吸入后可以直接损伤
+肺泡内皮细胞，破坏肺泡毛细血管屏障，导致肺泡和肺
+间质渗出水肿，同时激活炎症的级联放大效应，引起局
+部和全身的炎性反应综合征
+［6］。 目前针对 SW-ALI 的
+治疗方法主要有肺泡灌洗、糖皮质激素、吸入肺泡表面
+活性物质和器官功能支持治疗等，但整体的救治存活
+率仍然较低
+［1， 7］。 本研究发现，在气管内注入海水后，
+大鼠很快出现呼吸急促，气道内产生大量泡沫样痰，血
+气结果提示氧分压降低，CO2 分压明显升高，其原因可
+能是海水刺激引起气道痉挛，同时气道分泌物阻塞导
+致通气功能障碍，出现Ⅱ型呼吸衰竭。 随着气道分泌物
+逐渐减少，大鼠通气功能改善，CO2 分压进行性降低而
+氧分压逐渐升高。 在大鼠肺脏病理检测中观察到肺间
+质的水肿、肺泡塌陷、炎性细胞浸润，提示肺内可能存
+在通气血流比例失调和分流存在，这与血气指标中持
+续性的低氧血症结果一致。
+人参皂苷 Rg1 为四环三萜类衍生物，具有抗氧
+化应激、抗炎症反应、抗纤维化和神经保护作用等功
+效。 Rg1 可以清除心脏、肾脏缺血再灌注损伤中产
+生自由基，保护内源性 SOD 的活性
+［8， 9］ 。 Rg1 还可
+通过阻断 TLR4 ／NF-κB／NLRP3 通路减轻脂多糖诱
+导的新生大鼠心肌细胞和脓毒症小鼠的炎性反应和
+凋亡，恢复受损的心功能
+［10］ 。 笔者前期研究发现，
+142
+ 武警医学 2022 年 2 月 第 33 卷 第 2 期 Med J Chin PAP， Vol.33，No.2，February，2022 
+人参皂苷 Rg1 可以减轻小鼠脓毒症所致的肺组织
+损伤，抑制机体炎性反应，减少淋巴细胞的凋亡，显
+著改善脓毒症小鼠的生存期
+［11］ 。 在肝缺血再灌注
+模型中我们发现，Rg1 可以显著减少肝细胞的坏死
+和凋亡，抑制氧化应激反应，减轻肝脏局部和全身的
+炎性反应
+［12］。
+本实验结果显示，与对照组比较，高剂量 Rg1
+能显著提升 SOD 活性，并降低肺组织内 MDA 浓度
+和 MPO 活性，明显改善海水吸入后 30、60、120 min
+的氧合功能，提示 Rg1 能抑制海水对肺组织的氧化
+应激损伤，减轻肺组织内渗出水肿，从而改善大鼠的
+生存期。 SOD 是一种重要的抗氧化酶，可与过氧化
+物酶和催化酶一起可消除活性氧（ROS）
+［13］ 。 MPO
+属于血红素蛋白，富含于中性粒细胞中，在杀灭微生
+物和调节炎性反应发挥作用。 MDA 是生物体脂质
+过氧化的代谢产物，也是机体氧化应激的重要标志
+物
+［14］ 。 本研究中模型组内大量炎性细胞浸润与
+MPO 表达升高相吻合，提示中性粒细胞募集活化释
+放氧自由基参与肺损伤的发生。 TNF-α、IL-1β和
+IL-6 是重要的促炎性细胞因子，主要由巨噬细胞和
+中性粒细胞产生。 通过 Toll 样受体、RIG-1 受体或
+NOD 样受体等模式识别受体，激活胞内的炎性反应
+信号通路，使细胞因子分泌增加。 促炎性因子进一
+步活化肺内皮细胞、上皮细胞和白细胞，诱导肺内瀑
+布炎性反应的发生，因此抑制炎性因子的表达可以
+减轻肺组织损伤
+［15］ 。 与既往研究一致，本研究发现
+Rg1 呈剂量依赖性抑制炎性因子的表达，从而减轻
+肺组织损伤，提高海水淹溺大鼠的存活率。
+人参皂苷 Rg1 潜在的分子受体可能包括糖皮
+质激素受体和雌激素受体，抗炎抗氧化功能与 Nrf2 ／
+HO-1、NF-NF-κB 和 Ampk 等信号通路相关，具有
+抗炎抗氧化且不良反应小等特点，随着研究的不断
+深入，Rg1 的药物研发与临床应用将具有广阔的
+前景。
+【参考文献】
+［ 1 ］ Parenteau M， Stockinger Z， Hughes S， et al.Drowning
+management［J］.Mil Med， 2018， 183（suppl_2）：172-179.
+［ 2 ］ Haglund P， Favarel-Garrigues J C， Nicod J， et al.Bio-
+logical disturbances during drowning in sea water ［J］.
+Resuscitation， 1974， 3（2）：121-127.
+［ 3 ］ Estella A A， Bello Fontaiña L P.Sea drowning： a case
+report and review of the literature ［ J］.Monaldi Arch
+Chest dis， 2011， 75（2）：135-137.
+［ 4 ］ Gao Y， Li J， Wang J， et al.Ginsenoside Rg1 prevent
+and treat inflammatory diseases： a review［J］.Int Im-
+munopharmacol， 2020， 87： 106805.
+［ 5 ］ Tyler M D， Richards D B， Reske-Nielsen C， et al.The
+epidemiology of drowning in low-and middle-income
+countries： a systematic review ［ J ］. BMC Public
+Health， 2017， 17（1）： 413.
+［ 6 ］  Michelet P， Dusart M， Boiron L et al.Drowning in
+fresh or salt water： respective influence on respiratory
+function in a matched cohort study ［ J］.Eur J Emerg
+Med， 2019， 26（5）：340-344.
+［ 7 ］ Orlowski J P， Szpilman D.Drowning， rescue， resusci-
+tation， and reanimation ［ J］.Pediat Clin North Am，
+2001， 48（3）：627-646.
+［ 8 ］ Li L， Pan C S， Yan L， et al.Ginsenoside Rg1 Amelio-
+rates Rat Myocardial Ischemia-Reperfusion Injury by
+Modulating Energy Metabolism Pathways ［ J］.Front
+Physiol， 2018， 9： 78.
+［ 9 ］ Zhu M X， Ran B， Feng Z Q， et al.Effects of Rb1 and
+Rg1 on the expression of Bcl-2， Bax in apoptosis of HK-2
+cells induced by the serum of kidney ischemia／reperfusion
+［J］.Chin J Applied Physiol， 2009， 25（4）：496-499.
+［10］ Luo M， Yan D， Sun Q， et al.Ginsenoside Rg1 attenu-
+ates cardiomyocyte apoptosis and inflammation via the
+TLR4 ／NF-kB／NLRP3 pathway ［ J］.J Cell Biochem，
+2020， 121（4）：2994-3004.
+［11］ Zou Y， Tao T， Tian Y， et al.Ginsenoside Rg1 improves
+survival in a murine model of polymicrobial sepsis by sup-
+pressing the inflammatory response and apoptosis of lym-
+phocytes ［J］.J Surg Res， 2013， 183（2）：760-766.
+［12］ Tao T， Chen F， Bo L， et al.Ginsenoside Rg1 protects
+mouse liver against ischemia-reperfusion injury through
+anti-inflammatory and anti-apoptosis properties ［ J］.J
+Surg Res， 2014， 191（1）：231-238.
+［13］ McCord J M， Edeas M A.SOD， oxidative stress and
+human pathologies： a brief history and a future vision
+［J］.Biomed Pharmacother， 2005， 59（4）：139-142.
+［14］ Lv H M，Liu Q M，Wen Z M， et al.Xanthohumol amelio-
+rates lipopolysaccharide （LPS）-induced acute lung inju-
+ry via induction ofAMPK ／GSK3B-Nrf2 signal axis［J］.
+Redox Biol，2017，12（2）：311-324.
+［15］ Antoine F，Simard J，Girard D.Curcumin inhibits agent-
+in duced human neutrophil functions in vitro and lipopo -
+lysaccha-ride-induced neutrophilic infiltration in vivo.
+Int Immunop harmacol，2013，17（4）：1101-1107.
+（2021-10-20 收稿 2021-12-15 修回）
+（责任编辑 武建虎）
+143
+ 武警医学 2022 年 2 月 第 33 卷 第 2 期 Med J Chin PAP， Vol.33，No.2，February，2022 

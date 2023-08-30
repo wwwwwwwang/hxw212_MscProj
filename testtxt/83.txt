@@ -1,0 +1,298 @@
+中国临床神经外科杂志2019年3月第24卷第3期 Chin J Clin Neurosurg, March 2019, Vol. 24, No. 3
+【摘要】 目的 观察人参皂甙Rh2对胶质瘤细胞凋亡的影响并初步探讨其可能机制。方法 将培养的人胶质瘤细胞U87MG
+随机分为人参皂甙Rh2组、人参皂甙Rh2+尼莫地平组和对照组。人参皂甙Rh2组在常规培养细胞时加入20 μg/ml的人参皂甙
+Rh2，人参皂甙Rh2+尼莫地平组在人参皂甙Rh2组培养细胞时加入浓度为10 μmol/L的尼莫地平。利用流式细胞仪检测U87MG
+细胞凋亡，利用激光共聚焦显微镜和流式细胞仪检测 U87MG 细胞内钙离子浓度。结果 与对照组相比，人参皂甙 Rh2 促进
+U87MG细胞凋亡（P<0.05），且增加细胞内游离钙离子浓度（P<0.05）；尼莫地平显著减少人参皂甙Rh2引起的U87MG细胞凋亡
+（P<0.05）。结论 人参皂甙Rh2可以通过增加细胞内游离钙离子浓度促进U87MG细胞凋亡。
+【关键词】 人胶质瘤细胞；U87MG；人参皂甙Rh2；细胞凋亡；细胞内钙离子浓度
+【文章编号】 1009-153X（2019）03-0155-04
+【文献标志码】 A
+【中国图书资料分类号】 R 739.41
+Effects of genoside Rh2 on the apoptosis of human brain glioma cells U87MG
+BAI Lei, CHEN Chen, LI Zhi-lei, HUO Guo-jin, FENG Yi, YAN Fei-ping. Department Of Neurosurgery, Yulin Municipal First
+Hospital, Yulin 719000, China
+【Abstract】 Objective To investigate the effects of genoside Rh2 on the apoptosis of human brain glioma cells and its mechanism.
+Methods Human brain glioma cells U87MG were randomly divided into two groups, i.e. experimental group in which U87MG cells were
+cultured in the medium containing 20 μg/ml genoside Rh2 and control group in which U87MG cells were cultured in the medium
+containing isodose physiological salt solution. The apoptosis of U87MG cells was determined by flow cytometry. And then the
+intracellular calcium concentration of U387MG cells was measured by laser scanning confocal microscope and flow cytometry. Results
+The rate of U87MG cells apoptosis and intracellular calcium concentration were significantly higher in the experimental group than those
+in the control group (P<0.05). Moreover the intracellular calcium concentration and the apoptosis rate of U87MG cells raised by genoside
+Rh2 were significantly decreased by nifedipine [(a specitic inhibitor of Ca
+++ channel (P<0.05)]. Conclusion Genoside Rh2 can promote
+apoptosis of human brain glioma U87MG cells by the up-regulation of intracellular calcium concentration.
+【Key words】 Genoside Rh2; Human brain glioma cells; U87MG cells; Apoptosis; Intracellular calcium concentration
+● 实验研究
+实验研究 ●
+人参皂甙Rh2对人胶质瘤细胞U87MG凋亡的影响
+白
+磊
+陈
+晨
+李志磊
+霍国进
+冯
+毅
+严飞平
+胶质瘤是中枢神经系统发病率最高的恶性肿瘤
+[1，2]。由于其呈浸润性生长，与周围正常组织分界不
+清，完全切除困难，复发率极高，且随着复发次数的
+增加，恶性程度亦增加
+[2~5]。研究表明，钙离子在细胞
+的增殖、凋亡等过程中发挥重要作用，而L型电压依
+赖性钙离子通道（L-type voltage dependent calcium
+channel，LTCC）是钙离子进入胶质瘤细胞的主要方
+式
+[6，7]。人参皂甙 Rh2 是人参中的天然成分，具有脂
+溶性，极易通过血脑屏障
+[8~10]。本研究探讨人参皂甙
+Rh2对人胶质瘤细胞凋亡的影响。
+1 材料与方法
+1.1 主要仪器与试剂 CO2恒温培养箱购自常州润华
+电器公司、倒置相差显微镜购自日本奥林巴斯公司、
+超净工作台购自苏州净化公司；膜片钳信号采集设
+备购自日本尼康公司；激光共聚焦显微镜购自德国
+莱卡公司；流式细胞仪购自美国B&D公司。人胶质
+瘤细胞株U87MG购自上海细胞库；DMEM细胞培养
+基、胎牛血清购自美国 Gibco 公司；人参皂甙 Rh2 购
+自世洲生物公司；尼莫地平、Bay K8644 和 Cav1.2 抗
+体购自 Alomone 公司；荧光标记钙离子探针 Fluo-
+3AM 购自碧云天公司；Annexin-V/PI 凋亡试剂盒购
+自Roche公司；其他耗材及试剂均购自Sigma公司。
+1.2 方法
+1.2.1 细胞培养 取第5~8代人胶质瘤细胞U87MG细
+胞株用于实验。将培养的 U87MG 细胞随机分为人
+参皂甙Rh2组和对照组。人参皂甙Rh2组加入人参
+皂甙 Rh2，浓度为 20 μg/ml，作用时间为 48 h。对照
+组加入同量生理盐水。
+1.2.2 细胞凋亡检测 利用缓冲液制备的细胞悬液
+（细胞密度为 1×10
+6/ml），按照 Annexin-V/PI 凋亡试
+doi:10.13798/j.issn.1009-153X.2019.03.010
+作者单位：719000 陕西，榆林市第一医院榆林院区神经外科（白
+磊、陈
+晨、李志磊、霍国进、冯
+毅、严飞平）
+通讯作者：严飞平，E-mail：43085651@qq.com
+-
+-155
+万方数据
+中国临床神经外科杂志2019年3月第24卷第3期 Chin J Clin Neurosurg, March 2019, Vol. 24, No. 3
+剂盒说明，制备反应用细胞悬液，然后利用流式细胞
+仪检测细胞凋亡。
+1.2.3 钙成像检测 U87MG 细胞内钙离子浓度 利用
+Fluo-3AM 对 U87MG 细胞内游离钙离子标记，参照
+说明设置激光共聚焦显微镜参数。选取 50 个细胞
+并检测细胞内的相对荧光强度，并利用激光共聚焦
+显微镜自带软件进行数据分析。
+1.2.4 流式细胞仪检测 U87MG 细胞内钙离子浓度
+将U87MG细胞制备成流式细胞仪合适的细胞悬液，
+利用 Fluo-3AM 标记 U87MG 细胞内钙离子，上流式
+细胞仪检测相对荧光强度。激发条件为：发射波长
+为 525 nm，激发波长为 488 nm。利用自带软件对数
+据进行分析。
+1.2.5 LTCC 特异性抑制剂尼莫地平对 U87MG 细胞
+凋亡的影响 此部分实验分为三组，人参皂甙Rh2组
+和对照组处理同上，Rh+Nif 组在人参皂甙 Rh2 组培
+养细胞时加入浓度为 10 μmol/L 的尼莫地平。培养
+48 h后检测细胞凋亡情况。
+1.2.6 统计学分析 使用SPSS 19.0软件进行分析，计
+量资料以 x±s 表示，采用 t 检验；以 P<0.05 为差异有
+统计学意义。
+2 结 果
+2.1 人参皂甙 Rh2 对 U87MG 细胞凋亡的影响 同对
+照组相比，人参皂甙Rh2组U87MG细胞凋亡率明显
+增加（P<0.05，图1）。
+2.2 人参皂甙Rh2对U87MG细胞内钙离子浓度的影
+响 人参皂甙Rh2组U87MG细胞内钙离子浓度较对
+照组明显增高（P<0.05，图2）。
+2.3 尼莫地平减少人参皂甙Rh2引起的U87MG细胞
+凋亡 与对照组相比，人参皂甙 Rh2 组 U87MG 细胞
+凋亡率明显增加（P<0.05，图 3）；与人参皂甙 Rh2 组
+相比，Rh+Nif 组 U87MG 细胞凋亡率明显减少（P<
+0.05，图 3），但 Rh+Nif 组 U87MG 细胞凋亡率明显高
+于对照组（P<0.05，图3）。
+3 讨 论
+虽然目前胶质瘤的治疗是积极的手术、放疗、化
+疗等联合措施，但胶质瘤复发率极高，且随着复发次
+数的增加，恶性程度亦增加，预后极差
+[11，12]。因此，寻
+找胶质瘤治疗新靶点具有重要意义。人参皂甙Rh2
+分子量小，为脂溶性，容易通过血脑屏障
+[13]。有研究
+表明人参皂甙Rh2可通过激活半胱天冬酶通路促进
+肝细胞凋亡，并伴有细胞周期的改变
+[14]。还有研究
+证实人参皂甙Rh2抑制C6胶质瘤细胞增殖，并可诱
+导其凋亡
+[12]。本实验观察到人参皂甙 Rh2 促进
+U87MG细胞凋亡。
+钙离子在细胞增殖、凋亡等过程中发挥重要作
+用。而细胞内过多的钙离子可引起钙超载，从而诱
+导细胞凋亡
+[15]。大多数细胞内游离钙离子有两个来
+源，即外钙内流和内钙释放，前者主要是指细胞外钙
+离子通过钙离子通道进入细胞内，而细胞表面钙离
+子通道主要指是LTCC
+[15]；后者主要是指细胞内部内
+质网等细胞器的释放，但细胞器中钙离子的释放主
+要是通过细胞器表面Ry受体等形式释放，可使细胞
+内的钙离子在短时间内大幅提升
+[16，17]。本实验
+U87MG细胞内钙离子浓度持续保持较高水平，未检
+测到短时间内大幅度的细胞内钙离子浓度波动，故
+我们将LTCC作为机制探讨的重点。
+为验证 U87MG 细胞凋亡增加和 U87MG 细胞内
+钙离子浓度增加的关系，我们在人参皂甙 Rh2 培养
+的同时加用特异性LTCC阻滞剂尼莫地平，发现人参
+皂甙 Rh2 引起 U87MG 细胞凋亡明显减少。这说明
+降低U87MG细胞内游离钙离子浓度，能够减少人参
+皂甙 Rh2 对 U87MG 细胞凋亡的促进作用。提示人
+参皂甙 Rh2 可能主要通过增加细胞外钙离子内流，
+促进 U87MG 细胞凋亡。但是尼莫地平又没能完全
+消除人参皂甙Rh2对U87MG细胞凋亡的促进作用，
+这又说明人参皂甙 Rh2 促进 U87MG 细胞凋亡可能
+还有其他机制。
+【参考文献】
+[1]
+Jue TR, Sena ES, Macleod MR, et al. A systematic review
+and meta-analysis of topoisomerase inhibition in preclinical
+glioma models [J]. Oncotarget, 2018, 9(13): 11387-11401.
+[2] Tsymbal DO, Minchenko DO, Kryvdiuk Ⅳ, et al. Expression
+of proliferation related transcription factor genes in U87
+glioma cells with IRE1 knockdown: upon glucose and glu-
+tamine deprivation [J]. Fiziol Zh, 2016, 62(1): 3-15.
+[3]
+于泽奇，程世翔，涂
+悦，等. Ki-67、Bcl-2、Bax 和 Cas-
+pase-3在脑胶质瘤组织中的表达及临床意义[J]. 中国医
+药导报，2017，14（5）：9-12.
+[4]
+呼铁民，孙
+影，卢庆韬. ADAM17、EGFR 和 Ki-67 在脑
+胶质瘤中的表达及意义[J]. 中国医药导报，2016，13（5）：
+21-24.
+[5] 侯
+亮，冯海利. 脑胶质瘤组织中P-gp、MRP、BCRP的表
+达及临床意义[J]. 中国医药导报，2016，14（35）：12-15.
+-
+-156
+万方数据
+中国临床神经外科杂志2019年3月第24卷第3期 Chin J Clin Neurosurg, March 2019, Vol. 24, No. 3
+图3 尼莫地平减少人参皂甙Rh2引起的U87MG细胞凋亡
+与Con比较，* P<0.05；与Rh比较，# P<0.05；Con. 对照组；Rh. 人参皂甙Rh2组；Rh+nif. 人参皂甙Rh2+尼莫地平组
+图1 人参皂甙Rh2促进U87MG细胞凋亡
+与Con比较，* P<0.05；Con. 对照组；Rh. 人参皂甙Rh2组
+图2 人参皂甙Rh2增加U87MG细胞内钙离子浓度
+与Con比较，* P<0.05；Con. 对照组；Rh. 人参皂甙Rh2组；a. 利用激光共聚焦显微镜检测U87MG细胞内钙离子浓度；b. 利用流式细胞
+仪检测U87MG细胞内钙离子浓度
+-
+-157
+万方数据
+中国临床神经外科杂志2019年3月第24卷第3期 Chin J Clin Neurosurg, March 2019, Vol. 24, No. 3
+[6]
+Moschovos C, Papatheodoropoulos C. The L-type voltage-
+dependent calcium channel long-term potentiation is higher
+in the dorsal compared with the ventral associational/com-
+missural CA3 hippocampal synapses [J]. Neurosci Res,
+2016, 106(11): 62-65.
+[7]
+Sun Z, Cao X, Zhang Z, et al. Simulated microgravity inhi-
+bits L-type calcium channel currents partially by the up-
+regulation of miR- 103 in MC3T3- E1 osteoblasts [J]. Sci
+Rep, 2015, 5: 8077.
+[8] 姚兴军，洪新雨，刘兴吉，等. 人参皂甙Rh2对脑胶质细胞
+瘤侵袭性的影响[J]. 中国实验诊断学，2005，21：36-39.
+[9] 朱中生，李锦玉，王相智，等. 人参皂甙Rh2对大鼠主动脉
+TIMP-1、VEGF 表达的影响[J]. 现代中西医结合杂志，
+2017，26（22）：2411-2413.
+[10] 李雪甫，刘艳文，王永实. 人参皂甙 Rh2 联合顺铂对食管
+癌细胞的杀伤作用[J]. 现代肿瘤医学，2014，22（3）：516-
+518.
+[11] Shen F, Guo Q, Hu Q, et al. RelB, a good prognosis predic-
+tor, links cell-cycle and migration to glioma tumorigenesis
+[J]. Oncol Lett, 2018, 15(4): 4404-4410.
+[12] Thust SC, Heiland S, Falini A, et al. Glioma imaging in
+Europe: a survey of 220 centres and recommendations for
+best clinical practice [J]. Eur Radiol, 2018, 3 (4): 216-219.
+[13] 江
+山，陈
+莺，房德芳. 人参皂甙 Rh2 抗海马脑片 H2O2
+损伤作用及与GABAA受体的关系[J]. 中药药理与临床，
+2016，6（2）：38-42.
+[14] Park-JA, Kim-KW, Kim-SI. Caspase specifically cleaves
+p21 WAF1/CIP1 in the earlier stage of apotosis in SK-
+HEP-1 human hepatoma cells [J]. Eur-J-Biochem, 1998,
+257(1): 242-248.
+[15] Zhu P, Hu S, Jin Q, et al. Ripk3 promotes ER stress-
+induced necroptosis in cardiac IR injury: A mechanism
+involvingcalcium
+overload/XO/ROS/mPTP
+pathway
+[J].
+Redox Biol, 2018, 16(9): 157-168.
+[16] Santulli G, Lewis D, des Georges A, et al. ryanodine recep-
+tor structure and function in health and disease [J]. Subcell
+Biochem, 2018, 87(3): 329-352.
+[17] Han S, Lu Q, Wang N. Apr3 accelerates the senescence of
+human retinal pigment epithelial cells [J]. Mol Med Rep,
+2016, 13(4): 3121-3126.
+（2018-10-11收稿，2018-11-13修回）
+（上接第154页）
+[3]
+曹
+莹，李宁怡，任益民. 半月神经节射频热凝对复发型
+三叉神经痛的疗效[J]. 贵州医科大学学报，2015，40
+（10）：1087-1089.
+[4] 康
+鹏，王双义，肖文林，等. 三叉神经痛的诊断和治疗进
+展 [J]. 中 华 临 床 医 师 杂 志（电 子 版），2013，12（24）：
+11816-11820.
+[5] 潘绵顺，李
+勇，邱书珺. 三叉神经痛的发病机制及立体
+定向放射外科治疗进展[J]. 世界复合医学，2015，1（2）：
+144-148.
+[6]
+Chen G, Wang X, Wang L, et al. Arterial compression of
+nerve is the primary cause of trigeminal neuralgia[J]. Neurol
+Sci, 2014, 35(1): 61-66.
+[7] 王长明，关占颖，蔡长华. 经皮微球囊压迫三叉神经半月
+节治疗三叉神经痛的研究进展[J]. 中国疼痛医学杂志，
+2015，21（4）：297-300.
+[8]
+Zhang H, Lei D, You C, et al. The long-term outcome pre-
+dictors of pure microvascular decompression for primary
+trigeminal neuralgia [J]. World Neurosurg, 2013, 79(5- 6):
+756-762.
+[9] 应
+翔，沈煜豪，王
+昊，等. 经皮穿刺微球囊压迫术治疗
+80岁以上老年病人三叉神经痛的疗效分析[J]. 中国疼痛
+医学杂志，2018，7（2）：107-111.
+[10] 李在雨，罗毅男，陈云鹏，等. 三叉神经痛微球囊压迫术相
+关并发症的影响因素分析[J]. 中华神经外科疾病研究杂
+志，2016，15（2）：169-170.
+[11] Desouza DD, Moayedi M, Chen DQ, et al. Sensorimotor and
+pain modulation brain abnormalities in trigeminal neuralgia:
+a paroxysmal, sensory-triggered neuropathic pain [J]. Plos
+One, 2013, 8(6): e66340-e66340.
+[12] 鲍
+龙，李
+想，衣服新. 微血管减压术（MVD）与微球囊
+压迫术（PMC）治疗原发性三叉神经痛的疗效比较[J]. 辽
+宁医学院学报，2016，37（4）：85-87.
+[13] 杜垣锋，杨定博，俞文华. 经皮穿刺球囊压迫半月节治疗
+微血管减压术后复发性三叉神经痛[J]. 医学研究杂志，
+2014，43（8）：118-120.
+[14] 俞文华. 影响经皮穿刺球囊压迫术治疗三叉神经痛疗效
+的因素[J]. 实用医学杂志，2014，30（21）：3379-3380.
+[15] 应
+翔，陈景南，陈可安. 经皮穿刺微球囊压迫三叉神经
+半月节治疗三叉神经痛进展[J]. 浙江临床医学，2017，19
+（9）：1751-1753.
+（2018-11-27收稿，2018-12-07修回）
+􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄􀤄
+-
+-158
+万方数据

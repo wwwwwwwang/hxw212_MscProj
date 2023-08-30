@@ -1,0 +1,458 @@
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2020，V01．36，No．12
+人参皂苷F2干预NF- KB通路
+抑制H202诱导的细胞凋亡
+刘迪1，于子翔1，张浩1，张寒雪2，孔繁利2，冯宪敏1
+( 1．吉林医药学院基础医学院，吉林吉林13201 3) ( 2．北华大学医学技术学院，吉林吉林132013)
+摘要：本研究通过测定人参皂苷F2对凋亡细胞乳酸脱氢酶( LDH) 释放率和线粒体膜电位的影响，运用qRT- PCR和West ernbl ot
+检测F2对NF划3凋亡信号通路中p65蛋白的影响。发现H202损伤细胞的LDH释放率较对照组的有明显提高42．72％；线粒体膜电
+位下降，损伤组的相对荧光值较对照组降低44．03％；NF．擅p65的蛋白和mRNA表达量分别为122．73％、1．66，明显高于对照组( p<0．05) 。
+1．25、5、20 I maol ／L F2预处理损伤细胞后，LDH释放率较损伤组显著降低( p<O．05) ，分别降至82．71％、75．69％、69．61％；线粒体
+膜电位较损伤组显著提高，不同浓度F2的相对荧光值分别为：60．22％、62．76％、70．96％，( p<0．05) ；随着F2浓度的升高，NF和
+通路中p65的蛋白表达分别下降到79．49％、71．92％、58．39％，( p<o．05) ，mRNA表达下调至1．30、1．18、1．01，( p<0．05) 。结果表明，
+人参皂苷F2能通过降低凋亡细胞的LDH释放率、升高线粒体膜电位、抑制NF．xB信号通路激活发挥抗凋亡作用，为人参皂苷抗氧
+化应激诱导的细胞凋亡提供实验依据。
+关键词：人参皂苷；抗凋亡；人胚肾细胞( HEK- 293细胞) ；人参
+文章篇号：1673．9078( 2020) 12．1．6
+DOI：10．13982，j ．mf st．1673．9078．2020．12．0537
+Gi nsenosi de F2 I nt ervenes t he NF- - xB Pat hway t o I nhi bi t H202- i nduced
+Apopt osi s
+LI UDi l ，Yu Zi - xi an91，Z] HANGHa01，zHANGHan- xue2，KoNGFan．H2，FENGⅪan．mi l l l
+( 1．Col l ege of Basi c Medi ci ne，J i l i n Medi cal Uni versi t y, J i l i n 132013，Chi na)
+( 2．CoⅡege of Medi cal Technol ogy, Bei hua Uni versi t y, J i l i n 132013，Chi na)
+Abst ract ：I n t hi s st udy, t he ef f ect s of gi nscnosi &F2
+on p65 prot ei n i n t he NF- ' 出apopt osi s si gnal i ng pat hway were exami ned by
+qRT- PCR and West ern bl ot t echni ques，and t hrough measuri ng t he ef f ect s of gi nsenosi de F2 on t he rel ease rat e of l act at e dehydrogenase( LDH)
+and and mi t ochondri al membrane pot ent i al ( MMP) of apopt ot i c cel l s．I t was f ound t hat t he H202 i nj ured cel l s had a si gni f i cant l y i ncreased LDH
+rel ease rat e( by 42．72％) ，decreased mi t uehondri al membrane potenti al ，and decreased rel at i ve f l uorescence val ue( by 44．03％) ，and i ncreased
+prot ei n and mRNAexpressi on of NF- rd3 p65( as 122．73％and 1．66，respecti vel y) ，compared wi t h t he cont rol group t p<0．05) ．Al t er pret reat ment
+of cel l s wi t h 1．25，5，and 20 i maol ／L F2，t he LDHrel ease rot es of t he i nj ured group were si gni f i cantl y l owered( 卿．05) ，to 82．71％，75．69％，and
+69．61％respect i vel y, whi l e t he mi t ochondri al membrane potenti al val ues were si gni f i cantl y i ncreased◇ ，0．05) ( wi t h t he correspondi ng rel at i ve
+f l uorescence val ues
+aS 60．22％，62．76％and 70．96％，respecti vel y) ．Wi th t he i ncrease of F2 concent rat i on, t he prot ei n expressi on of p65 i n t he
+NF- rd3 pat hway decreased t o 79．49％，71．92％and 58．39％，respecti vel y( P<o．05) ，and t he mRNAexpressi on, was down- regul at ed t o 1．30，1．18
+and 1．01，respecti vel y忸0．05) ．The resul t s showed t hat gi nsenosi de F2 exhi bi t ed an anti - apoptoti c ef f ect t hough reduci ng t he LDHrel ease rat e
+of apoptoti c cel l s，i ncreasi ng t he mi t ochondri al membrane potenti al ，and i nhi bi t i ng t he act i vat i on of NF- xB si gnal i ng pat hway．Thi s
+st udy
+引文格式：
+刘迪，于子翔，张浩，等．人参皂苷F2干预NF- xB通路抑制H202诱导的细胞凋亡叨．现代食品科技，2020，36( 12) ：1- 6
+LI U Di ，YU Zi - xi ang，ZHANG Hao，et a1．Gi nsenosi de F2 i nt ervenes t he NF- rB pat hway t o i nhi bi t H202- i nduced apopt osi s阴．Modem
+Food Sci ence and Technol ogy, 2020，36( 12) ：1- 6
+收稿日期：2020- - 06- 09
+基金项目：吉林省卫生健康科技能力提升计划项目( 20170031) ；吉林省教育厅科学研究规划项目( J J KH20180352KJ )
+作者简介：刘迪( 1988- - ) ，女，博士，讲师，研究方向：天然活性物质的研究与开发
+通讯作者：孔繁利( 1974- ) ，男，博士，教授。研究方向：心脑血管疾病分子诊断；冯宪敏( 1976- ) 。女。博士，教授，研究方向：病原体分子致病机制
+1
+万方数据
+现代食品科技
+ModemFood Sci ence and Technol ogy
+2020，V01．36, No．12
+provi des an experi ment al basi s f or suppressi ng ef f ect of gi nsenosi des on oxi dat i ve st ress- i nducl xi apopt osi s．
+Key words：gi nsenosi de；ant i - apopt osi s；humanembryomc ki dney cel l s( HEK- 293 cel l s) ；gi nseng
+细胞凋亡是指细胞受到刺激后导致的由基因调控
+的自发的细胞有序死亡，又称程序性细胞死亡( PDF)
+【l J 。细胞凋亡存在多种凋亡途径，其中NF．棚通路具
+有十分重要的作用，有研究表明，NT- xB蛋白家族与
+细胞凋亡关系密切，该蛋白家族的中的p65蛋白分布
+广泛，几乎在所有的细胞中都有分布，且多以p65／p50
+二聚体形式存在【2】。在细胞未受到刺激时，p65／#0二
+聚体与I xB蛋白家族成员的蛋白结合在一起形成三聚
+体；细胞在受到有效刺激后( 如过氧化物H202) ，I 出
+蛋白激酶( ⅨK) 激活导致I xB蛋白磷酸化，后者再
+经泛素化后被水解酶降解，导致大量的p65／p50二聚
+体释放，释放出来的二聚体( 即激活后的NF堋3) 可
+进入细胞核，结合DNA上的KB位点调控蛋白的转录
+、
+表达，从而导致细胞凋亡【3】。当细胞凋亡发生时，细
+胞因为细胞膜的损伤会释放乳酸脱氢酶( LDH) ；同
+时因为刺激作用使线粒体膜上的PT通道打开，导致
+线粒体膜电位变低。
+人参是我国传统名贵中药材，其活性成分复杂，
+生物活性多样。人参皂苷是人参的主要有效物质，具
+有抗氧化应激、抗凋亡、抗肿瘤、调节神经、内分泌、
+免疫等多种生物活性[ 41。根据分子结构可将人参皂苷
+分为两大类即原人参二醇型皂苷( prot opanaxadi ol - t ype，
+PPD- t ype) 和原人参三醇型皂苷( prot opanaxal ri ol - t ype，
+PPT- t ype) 。原人参二醇型皂苷经两次水解后可生成人
+参皂苷F2。目前，人参皂苷F2的生物活性主要集中
+在其抗癌活性和毛发生长因子诱导作用上【5’ 6】。研究表
+明，人参皂苷F2的前体皂苷Rbl 和Rd能有效预防外
+界刺激诱导的细胞凋亡【7’ 8】，还有研究表明，人参皂苷
+Rbl 对过氧化氢诱导的细胞凋亡有很好的保护作用【9】，
+以及人参皂苷Rh3能够很好的抑制凋亡过程中的
+NT- rB通路【IuJ 。
+有关研究表明，细胞凋亡与氧化应激关系密切，
+引起氧化应激的主要物质活性氧( I 的S) 可以激活介
+导细胞凋亡的通路从而导致细胞凋亡[ 3, 1t 】。课题组前
+期建立了H202诱导的细胞损伤模型，试验结果表明
+人参皂苷F2能抑制H202诱导的细胞氧化应激【121。
+H202广泛用于诱导细胞凋亡，有研究证实H202可通
+过NF相通路诱导细胞凋亡【13】。本研究采用H202体
+外诱导人胚肾293( 胍K- 293) 细胞凋亡，基于比较
+不同组之间细胞膜损伤和线粒体膜电位水平考察人参
+皂苷F2对凋亡细胞的保护作用，以及通过NF- xB通
+路探讨其抗凋亡作用机制。
+2
+1材料与方法
+1．1材料
+人胚肾细胞( 脏K．293) ，中国科学院细胞库；人
+参皂苷F2( 猡8％) ，中国药品生物制品检定所；胎牛
+血清( FBS) 、青霉素．链霉素( PSS) 、DMEM培养基
+非必需氨基酸，Gi bco美国；TRI zol ，I nvi l rogen美国；
+l VI TS试剂盒、PCR试剂盒，Promega美国；反转录试
+剂盒、SYBRpremi x，Takara日本；乳酸脱氢酶( LDH) 、
+试剂盒，南京建成；线粒体膜电位检测试剂盒( J C．1
+法) ，碧云天；抗体NF- xB p65、GAPDH、HRP标记
+山羊抗兔I gG，武汉博士德。
+多功能酶标仪，Bi 01’
+ek美国；二氧化碳培养箱，
+上海力申科学仪器有限公司；激光扫描共聚焦显微镜，
+Ol ympus，日本；qRT- PCR仪、SDS- PAGE电泳和转
+膜仪，Bi o- Rad美国，图像采集仪，DNR以色列。
+1．2方法
+1．2．1
+细胞培养及细胞凋亡模型的建立
+培养细胞使用的培养基为含有10％FBS、1％PSS
+和l ％非必需氨基酸的DMEM培养基，在37℃、5％
+C02的培养箱中培养24 h。实验分组：空白组，对照
+组，损伤组，和三个不同浓度F2预处理后进行损伤
+的F2组。且为每组设三个平行，并对所得数据进行
+平均处理。空白组内加入的是2．5 mL的完全培养基；
+将HEK- 293细胞接种到6孔板中，对照组、损伤组和
+F2组中每孔加入2 mL、5．6x105个的细胞悬液，培养
+24 h；再分别向三个F2组加入250止浓度为1．25
+l unol ／L、5 i ．tmol ／L、20 l unol ／L的人参皂苷F2，此时对
+照组和损伤组均加入250止的完全培养基，培养24h；
+后向损伤组和F2组中加入250止H202，致H202终
+浓度为400 I xmol ／L，对照组加入250 o．L完全培养基，
+合计每孔内有2．5 mL的液体；再培养12 h，以此建立
+损伤模型。
+1．2．2
+LDH( 乳酸脱氢酶) 释放率的测定
+倒去各孔内的完全培养基，用PBS清洗2遍，向
+各孔内加100止的裂解液置于冰上裂解10 mi n。用
+LDH试剂盒测量LDH活性。在收集整理实验数据后，
+运用公式算得各浓度下的LDH的释放率。并以损伤
+组的释放率为100％( 单位1) ，对各组数据进行处理。
+公式如下：
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2020，V01．36，No．12
+脚活性=巡笔鬻‰筹袈蒜蒜竽堕
+脚释放率=( 丽丽赢等鬻篓嵩慕啬面丽
+1．2．3线粒体膜电位的测定
+利用J C．1荧光探针方法测量线粒体膜电位，J C．1
+在正常细胞的线粒体中形成聚集体，产生红色荧光；
+在细胞凋亡中，则以单体形式存在于细胞质内，发出
+绿色荧光。细胞培养方法同1．2．1，培养后去除培养液，
+加5 gmol l L J C．1荧光探针处理，在37℃、5％C02
+培养箱内培养20 rai n。再用PBS清洗两次后加入新培
+养基，激光共聚焦显微镜下观察并收集荧光图像。酶
+标仪测定荧光值，测定波长为红色荧光( 发射光／吸收
+光：525／590) 、绿色荧光( 发射光／吸收光：490／530) ，
+用红色荧册绿色荧光的比值间接反映膜电位变化。并
+以正常细胞的对照组荧光比值为单位1，计算各组的
+相对荧光比值。
+1．2．4
+West ernBl ot 检测NF- xBp65蛋白
+培养后的细胞去除培养基后用PBS清洗2遍，每
+个孔加入100皿的裂解液，置于冰上裂解10 rai n，搜
+集各组裂解后的成分。置于低温高速离心机内离心，
+4℃，12000 r／mi n，10 mi n，后吸取上清液，测定蛋白
+浓度，加入PBS将各组浓度调一致，使用SDS．PAGE
+电泳，每个孔内上样20止的蛋白样品，后进行转膜，
+而后一抗孵育过夜，使用PBS清洗2遍，加二抗孵育
+2h后PBS清洗2遍，最后ECL成像，结果使用I mage
+J 软件进行分析。
+1．2．5
+qRT- PCR检测NF．旭p65 mRNA表达
+在NCBI 搜索p65蛋白基因的全部目的基因序列，
+使用Pri mer Premi er 6设计引物( F：3' - TGTCTGCTCG
+G2：“ GCG(孓5’ ，R：3’ ．彤黜脚粥刀∞及7℃G21GG
+Z■ 5’
+) ；GAPDH引物序列( F：3’
+．CC刀℃尉CC× C尉C
+CCTA一5’ ，R：3’ ．乃1粥4CAcCGCACⅨCC- 5’ ) 。已预处
+理的细胞去除完全培养基，加入100 uL的裂解液置于
+冰上裂解10 mi n，待裂解完全后提取RNA，反转录成
+DNA，在荧光定量PCR仪中进行扩增检测。扩增条
+件：95℃、3 mi n，95℃、15 s( 40 cycl es) ，59℃、
+20 S，72℃、30 S，结果用相对指数法计算2- △ △ ct ，以
+对照组为l 。
+1．2．6数据分析
+结果显示为X+S的形式，以矩形图的格式显示。
+使用SPSS软件进行差异显著性分析，若p<0．05，则
+认为差异显著。使用Excel 绘制表格，结果如图所示。
+2结果和讨论
+2．1人参皂苷F2对凋亡细胞LDH释放率的影
+响
+薹
+云$
+雹
+鬟
+睡
+蚕
+H202( 400灿1)
+图1人参皂苷F2对损伤细胞I ．DI - I 释放率的影响
+Fi g．1 Ef f ect s of gi nsenosi de砣on LDHrel ease i n HEK- 293
+cel l s
+注：不同字母表示不同组间差异显著，p<O．05；相同字母
+表示差异不显著，p>0．05，下同。
+如图l 所示，比较了损伤组和对照组的数据后，
+发现损伤组的LDH释放率100％明显大于对照组的释
+放率57．28％，二者差异显著( p<0．05) 。在加入不同
+浓度人参皂苷F2的F2组中，可见LDH释放率均低
+于损伤组，差异显著( p<0．05) ；但仍明显大于对照组，
+组间差异显著( 序0．05) ；随着F2浓度的增高，LDH
+释放率逐渐减小，1．25 l maol ／L、5 l amol ／L、20 l unol ／L
+不同浓度的F2组的LDH释放率依次为82．71％、
+75．69％、69．61％。彼此之间差异显著( p<0．05) 。
+H202等损伤因素可以引起细胞凋亡通路的活化，
+继而发生细胞凋亡。发生凋亡时，损伤因素刺激活化
+多种凋亡途径，激活级联反应，造成细胞和细胞器的
+损伤。LDH广泛存在于各种细胞内，当细胞受到损伤
+导致细胞膜遭到破坏后，存在于细胞胞质的LDH会
+释放到细胞外，常通过LDH释放率的多少研究细胞
+凋亡中细胞膜的损伤程度。本实验H202损伤后的损
+伤组LDH释放率较正常细胞的对照组明显升高；在
+F2预处理后的F2组，可见LDH释放率较损伤组降低，
+但仍高于正常的对照组。说明，H202诱导细胞凋亡后，
+细胞膜遭到破坏，LDH释放到细胞外；F2组的细胞
+经过H202诱导后产生了细胞凋亡，F2对细胞凋亡有
+一定的抑制作用，此时细胞凋亡仍存在；且随着F2
+浓度的升高，LDH的释放率逐渐降低、膜损伤的程度
+3
+加m∞如舳加∞∞∞如∞m
+O
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2020，V01．36，No．12
+逐渐降低，F2可通过保护细胞膜帮助细胞抵抗凋亡。
+2．2人参皂苷F2对凋亡细胞线粒体膜电位的
+影响
+通过J C．1探针检测从红色荧光到绿色荧光的转
+变可以很容易地检测到线粒体膜电位的变化，从而可
+以用于早期的细胞凋亡检测。如图2所示，内有正常
+细胞的对照组的红色荧光较其他几组都多，绿色荧光
+相对较少，红绿荧光合并后呈橘红色，线粒体膜电位
+正常。而在损伤组中绿色荧光普遍多于红色荧光，且
+合并后呈黄绿色。在F2组中，加入不同浓度的人参
+皂苷F2产生的结果有所不同，在加入F2浓度由1．25
+岬ol ／L到20 pmoFL的变化中，红色荧光逐渐增多，
+绿色荧光逐渐减少；合并后的黄绿色荧光逐渐加深。
+红色荧光
+绿色．荧光
+合并荧光
+对照组
+损伤纵
+图2激光共聚焦采集的HEK一293细胞荧光图像
+Fi g．2 Conf ocai
+i mages of f l uorescence i n HEK- 293 cei l s
+酶标仪测得红绿荧光强度值，用红／绿荧光比值来
+表示线粒体膜电位，比值越高，表明细胞越正常、线
+粒体膜电位越高。荧光比值如图3所示，损伤组的荧
+光比值为55．97％，明显其低于对照组的100％，二者
+之间差异显著( p<0．05) 。不同浓度F2组的相对荧光
+比值均比损伤组高，随着人参皂苷F2浓度的升高，
+相对荧光比值也呈升高趋：60．22％( 1．25
+bt mol ／L) 、
+4
+62．76％( 5 j ．t mol ／L) 、70．96％( 20 wnol ／L) ，且组问差
+异显著( p<O．05) 。
+鬟季
+錾
+d
+b
+C
+I
+i
+a
+I I
+曩
+H202( 400卅)
+图3红绿荧光的相对比值
+Fi g．3 MMP l oss was represent ed by rel at i ve red／green rat i o of
+f l uorescence
+细胞线粒体膜内负外正的电位差对于维持线粒体
+正常功能有着重要作用，在各种特定的凋亡诱导信号
+导致的细胞程序性死亡过程中，各种因素导致线粒体
+膜的结构功能发生改变。在凋亡过程中，某些物质可
+促进线粒体膜上有关膜通透性改变( permeabi l i t y
+t ransi t i on，PT) 的孑L( PT孔) 开放，进而导致膜通透性
+增加，离子的跨膜流动使得线粒体跨膜电位减小。J C．1
+荧光探针在正常细胞内、线粒体膜电位高的时候可进
+入线粒体内，以聚合体的形式存在，呈现红色本荧光；
+在细胞凋亡时，线粒体膜电位降低，J C一1则以单体的
+形式游离在胞质中，呈现绿色荧光【1引。本实验用相对
+荧光比值表示线粒体膜电位，损伤越严重，绿色荧光越
+少、红色荧光越多。如图3所示，损伤后的相对荧光
+比值明显下降，说明此时线粒体膜受到破坏、PT孔开
+放增多，离子跨膜流动增多，导致细胞膜电位降低。
+在加入人参皂苷F2的F2组，可见相对荧光比值有所
+回升，随着F2浓度的升高，比值也随着升高。说明，
+F2可能通过抑制细胞线粒体膜的损伤来抑制线粒体
+膜电位的降低，且作用与其浓度呈正相关。有类似研
+究，研究了人参皂苷对凋亡细胞LDH水平和线粒体
+膜电位的影响，人参皂苷能很好的减低LDH水平、
+减轻线粒体膜电位的降低【】5，16J 。
+2．3
+人参皂苷F2对NF—xB凋亡信号通路中
+p65蛋白表达的影响
+如图4所示，在损伤组中p65蛋白表达量为
+122．73％，较正常对照组的100％明显上升，差异显著
+( 班0．05) 。在经过F2干预的F2组中可见p65表达量
+较损伤组明显下降，之间差异显著( p<0．05) ，且F2
+组的p65蛋白表达量低于正常对照组，二者之间差异
+∞
+踮
+∞
+∞
+加
+0
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2020，V01．36，No．12
+显著( ∥ 0．05) ：79．49％( 1．25 umol ／L) 、71．92％( 5
+wnol ／L) 、58．39％( 20 gmol ／L) ；F2组内，随着F2浓
+度的升高，p65蛋白表达量逐渐下降，1．25 pmol ／L和
+5 wnol ／L之问差异不显著如>o．05) 、5¨ mol ／L和20
+rt mol ／L浓度的蛋白表达量差异显著( p<O．05) 。
+对照组堡望丝堕互互堕豆至互堕j 巫!
+H202( 400斗M)
+p65一__一一—-
+GAPDH- 簟, l l l l D一一
+图4人参皂苷F2对HEK- 293细胞NF- xB p65蛋白表达的影响
+Fi g．4 Ef f ect of gi nsenosi de F2 onprot ei n expressi on l evel of
+NF4cB p65
+NF—xB通路在凋亡中具有重要作用，细胞在正常
+生理状态下，细胞质中的p50／p65与抑制蛋白I 翘结
+合成三聚体损伤因素的刺激作用下，I xB从三聚体中
+解离出去，p50／p65入核结合DNA上相应位点发挥作
+用，导致细胞凋亡发生。用West em Bl ot 测得NF—xB
+通路中p65蛋白的表达量。观察结果，损伤后的p65
+蛋白的表达量明显上升，在F2组，p65蛋白表达量大
+幅下降，甚至降至低于对照组的水平。说明F2能显
+著抑制细胞凋亡过程中NF—KB凋亡信号通路p65蛋白
+的表达。
+2．4人参皂苷F2对NF- xB凋亡信号通路中
+p65 mRNA表达的影响
+如图5所示，在损伤组中p65的mRNA相对表达
+量为1．66，明显高于对照组的1．00，二者差异显著
+( p<0．05) ；在经过F2干预的F2组中可见p65 mRNA
+表达量比损伤组有明显下降，差异显著( p<O．05) ；且
+F2组p65 mRNA表达量均高于对照组，差异显著
+( p<0．05) ；1．25 wnol ／L、5 w“ nol ／L、20¨ mol ／L不同浓
+度F2组的表达量分别为：1．30、1．18、1．01；随着F2
+组内F2浓度的升高，p65 mRNA的表达量不断下降，
+但1．25 wnol ／L和5 rmaol ／L浓度之间的表达量差异不
+显著( 舢．05) ，5Ⅲnol ／L和20 rt rnol ／L浓度之间的表
+达量差异显著( 矽<0．05) 。
+qRT- PCR技术测得NF．xB通路中p65蛋白相关的
+mRNA的表达变化。qRT- PCR和West ern Bl ot 的结果
+互相印证。损伤后的p65蛋白mRNA的表达量明显升
+高，在F2组，可见其mRNA的表达量有所下降，但
+都高于对照组的表达量。结合West ern Bl ot 的结果中
+蛋白表达量的变化，F2可能通过降低p65蛋白及相关
+的mRNA的表达，来减少NF—xB通路的激活进而发
+挥抑制细胞凋亡、保护细胞的作用。此外，有相似研
+究表明人参皂苷R- 91通过抑制NF—l ( B通路来减轻心肌
+细胞的凋亡反应【l ¨ 。
+蠹
+显
+琶
+篓
+鉴
+亳
+警
+对照组损伤组
+H，O，( 400“ M)
+图5人参皂苷F2对HEK- 293细胞NF—KB p65 mRNA表达的影
+响
+Fi g．5 Ef f ect of gi nsenosi de F2 on mRNAexpressi on l evel of
+NF- xB p65
+3结论
+本研究通过H202诱导凋亡模型，发现H202诱导
+细胞凋亡的损伤组中LDH释放率升高、线粒体膜电
+位降低、NF—xB凋亡信号通路中p65蛋白及其mRNA
+的表达量升高。而人参皂苷F2预处理后能够减少凋
+亡细胞的LDH释放率、升高凋亡细胞的线粒体膜电
+位、保护线粒体膜免受损伤；West ern bl ot 以及
+qRT- PCR结果显示F2干预后NF—xB凋亡信号通路中
+p65蛋白及其mRNA的表达量明显下降，而NF—xB信
+号通路在细胞凋亡中非常重要。综上，人参皂苷F2
+可以通过以上途径，抑制NF—xB通路的激活，实现抑
+制细胞凋亡的作用。
+参考文献
+[ 1]
+Fadeel
+B，Orreni us
+S．Apopt osi s：a
+basi c
+bi ol ogi cal
+phenomenon
+wi m wi de- rangi ng
+i mpl i cat i ons
+i n
+human
+di sease[ J ] ．J ournal
+of
+I nt emal
+Medi ci ne，2005，258( 6) ：
+479．517
+[ 2]
+Ghosh S，May MJ ，Kopp E B．NF- kappa Band rel prot ei ns：
+evol ut i onari l y conserved medi at ors of i m／l ' l une responses[ J 】．
+Annu Rev I ml Tl UnOl
+1998．16：225—260
+O
+8
+6
+4
+2
+O
+8
+6
+4
+2
+0
+2● l
+l●，O
+O
+0
+O
+O
+∞加∞蚰∞加柏0
+一摹oo_【妖《琵莨一
+}{Q山《o高口△啦故擀餐罂
+万方数据
+现代食品科技
+Modern Food Sci ence and Technol ogy
+2020，V01．36, No．12
+( 上接第160页)
+[ 28】Tamon H，I shi zaka HSAxS．St udy on gel at i on process i n
+p11ep啪d∞of resorci nol - f ormal dehyde aerogel 阴．J ournal of
+Col l oi d and I nt erf ace Sci ence, 1998，206( 2) ：57％582
+【29】曹世阳，李宏升，尹秀华．淀粉凝胶老化工艺对鲜湿米粉断
+条率的影响阴．粮食与油脂，2017，30( 4) ：46- 50
+CAO Shi - yang, LI
+Hong- sheng, YI N Xi u- hua．Ef f ect
+of
+agi ng process of st arch gel
+on broken rat e of f resh wet
+ri ce
+6
+noodl e阴．Grai n Oi l and Grease，2017，30( 4) ：46- 50
+【30】李兴革，李娟，魏春红．复合改良剂对马铃薯淀粉粉丝断条
+率的影响阴．黑龙江八一农垦大学学报, 2012，1：62- 64, 95
+LI Xi ng- ge, LI J uan, WEI Chun- hong．Composi t e modi f i er
+ef f ect s about break percent of vermi cel l i wi t h pot at o st arch
+明．J ournal
+of Hei l ongj i ang Bayi
+Agi cul t ural
+Uni versi t y,
+2012．1：62- 64。95
+万方数据

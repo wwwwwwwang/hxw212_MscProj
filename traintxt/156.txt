@@ -1,0 +1,494 @@
+ ∗同为通信作者
+ 作者简介:李金昱，女，研究方向:药学，E-mail:Lijinyu19761999＠ 163.com
+ 通信作者:宋成，男，研究方向:药物制剂，Tel:18741148860，E-mail:songcheng0403＠ 163.com；张凡，男，博士研究生，副教授，研究方向:中药
+炮制，Tel:13804094590，E-mail:zhangfan11123＠ 163.com
+人参皂苷三醇型与二醇型在不同量比下对大鼠机体燥性的影响研究
+李金昱,宋成∗,张凡∗,曾菁菁,倪梦璐,郭雨欣,赵欣,孙明宇
+(辽宁中医药大学药学院,辽宁 大连 116600)
+摘要:目的 探究人参皂苷三醇型与人参皂苷二醇型含量比值变化对大鼠机体的燥性影响。 方法 
+将 30 只
+SD 大鼠随机分为空白组和 4 个实验组(R 值＝ 0.5、1、1.5、2),每组 6 只。 采用 Elisa 法测定大鼠血中 Na
+＋ -K
+＋ -ATP
+酶、Ca2＋-Mg2 ＋-ATP 酶、乳酸脱氢酶(LDH)、琥珀酸脱氢酶(SDH)以及脑中胆碱酯酶(ChE)、乙酰胆碱酯酶(AchE)
+的含量,观察不同量比的人参皂苷三醇型与二醇型对各组 SD 大鼠能量代谢、物质代谢和中枢神经兴奋的影响。 结
+果 对大鼠血中各能量代谢、物质代谢指标影响的检测中,与空白组进行比较,R ＝ 1.5 组及 R ＝ 1.0 组在 Na
+＋ -K
+＋ -
+ATP 酶、Ca2＋-Mg2＋-ATP 酶两个指标中显著升高；对大鼠脑中神经兴奋指标的检测中,与空白组进行比较,R ＝ 0.5
+组、R＝ 1.5 组在胆碱酯酶指标中显著降低；R＝ 2.0 组在乙酰胆碱酯酶指标中显著降低。 结论 
+不同量比的人参皂
+苷三醇型与二醇型与人参燥性具有一定的相关性。 人参皂苷量比越大,机体的能量代谢、物质代谢增加,中枢神经
+兴奋性提高,人参燥性增强。
+关键词:人参；人参皂苷；燥性；能量代谢；物质代谢；神经兴奋
+中图分类号:R285.5 文献标识码:A 文章编号:2095-5375(2022)01-0009-005
+doi:10.13506/ j.cnki.jpr.2022.01.002
+Study on the effect of ginsenoside trioI type and gIycoI type on dryness of
+rats in different dosage ratios
+LI Jinyu,SONG Cheng∗,ZHANG Fan∗,ZENG Jingjing,NI Menglu,GUO Yuxin,ZHAO Xin,SUN Mingyu
+(College of Pharmacy,Liaoning University of Traditional Chinese Medicine,Dalian 116600,China)
+Abstract:Objective To explore the effect of the content ratio of ginsenotriol type to ginsenodiol type on dryness of
+the body.Methods 30 SD rats were randomly divided into blank group and 4 experimental groups (R value＝ 0.5,1,1.5,
+2),with 6 rats in each group.The contents of Na
+＋-K
+＋-ATPase,Ca2＋ -Mg2＋ -ATPase,lactate dehydrogenase(LDH),succi-
+nate dehydrogenase(SDH)and cholinesterase(ChE)and acetylcholinesterase (AChE)in the brain of rats were determined
+by ELISA,and the effects of ginsenoside triol and diol on energy metabolism,material metabolism and central nervous exci-
+tation of SD rats were observed.ResuIts Compared with the blank group,the indexes of Na
+＋-K
+＋-ATPase and Ca2＋-Mg2＋-
+ATPase in R＝ 1.5 group and R ＝ 1.0 group increased significantly；In the detection of nerve excitation index in rat brain,
+compared with the blank group,the Che index in R＝ 0.5 group and R＝ 1.5 group decreased significantly；R＝ 2.0 group de-
+creased significantly in ache index.ConcIusion The ginsenoside content ratio of different ginsenosides has a certain corre-
+lation with ginseng dryness.When ginsenoside content ratio was higher,the energy metabolism and material metabolism of
+the body increased,the excitability of the central nervous system increased,and the dryness of ginseng increased.
+Key words:Ginseng；Ginsenoside；Dryness；Energy metabolism；Substance metabolism；Nerve excitement
+  
+人参为五加科植物人参( Panax ginseng C. A.
+Mey.) 的干燥根和根茎[1]，最早记载于《 神农本草
+经》，具有大补元气，益气生津，复脉固脱，补脾益
+肺，安神益智之功效[2]。 人参虽为补益佳品，但由
+•9•
+药学研究•Journal of Pharmaceutical Research 2022 Vol.41，No.1
+于其具有温燥之性，因此使用不当或用量过大会导
+致“人参中毒综合征”，如出现精神高度兴奋、出鼻
+血、血压升高、烦躁不安、失眠、抽搐等症状[3]。 人
+参所具有的温燥之性，主要是由于人参内部化学成
+分引起的，对人参化学成分的研究可探析人参温燥
+之性的物质基础。 人参皂苷是人参的药效物质基
+础，人参皂苷(ginsenoside) 根据结构不同可分为齐
+墩果烷型(oleanane-type)和达玛烷型(dammarane-
+type)两种类型[4]。 达玛烷型进一步可分为人参皂
+苷三醇型(panaxatriol)和人参皂苷二醇型(panaxadi-
+ol)。 从构型上分类，其中人参皂苷 Rg1、Re、Rf 为三
+醇型皂苷，人参皂苷 Rb1、Rc、Rb2为二醇型皂苷(见
+图 1)。 有学者研究推测，在高温高压条件下人参皂
+苷会发生降解和转化[5]。
+ A.人参皂苷三醇型；B.人参皂苷二醇型  1.人参皂苷 Rg1； 2.人参皂苷 Re；3.人参皂苷 Rf；4.人参皂苷 Rb1；5.人参皂苷
+Rc；6.人参皂苷 Rb2
+图 1 人参皂苷三醇型与二醇型分子式构型
+  人参燥性会导致机体明显的致热作用和精神高
+度兴奋，并可能是导致机体气机塞滞、产生动血之患
+的主要原因。 有研究表明，人参皂苷三醇型可能与
+人参致热作用相关[6-7]。 根据文献报道，人参皂苷
+对记忆缺陷的大鼠具有改善学习和记忆的能力，并
+认为人参皂苷的药理作用可能取决于人参皂苷的组
+成，而不是人参皂苷的含量[8]。 人参有效成分中的
+人参皂苷(人参二醇皂苷和人参三醇皂苷) 被认为
+是人参的主要药用成分。 研究显示，人参三醇皂苷
+能够使缬氨酸水平增高，这对应激、能量和肌肉代谢
+的反应至关重要[9]。 有学者对人参皂苷三醇型与
+二醇型成分的含量比值进行了研究，发现该比值的
+变化会影响人参的整体质量；同时，有较多学者认为
+该比值与燥性相关，且该比值越小，燥性可能越低，
+并认为人参皂苷不同含量和比例是人参生物活性变
+化的主要原因[10]。 因此，通过对人参皂苷类成分不
+同量比变化与人参燥性的相关性进行研究具有重要
+意义。 本文将人参皂苷三醇型与人参皂苷二醇型的
+比值定义为 R，即 R＝人参皂苷三醇型的含量(Rg1＋
+Re＋Rf) / 人参皂苷二醇型的含量( Rb1 ＋Rc ＋Rb2)。
+为了研究不同量比的人参皂苷三醇型与二醇型对机
+体能量代谢、物质代谢及神经兴奋变化，本实验以大
+鼠血中与机体能量代谢及物质代谢相关的 Na
+＋ -K
+＋
+-ATP 酶、Ca2＋ -Mg2＋ -ATP 酶、乳酸脱氢酶(LDH)、
+琥珀酸脱氢酶(SDH)，以及能反应中枢神经兴奋的
+脑中胆碱酯酶(ChE)、乙酰胆碱酯酶(AchE)的含量
+为指标，探讨不同构型人参皂苷量比变化对机体的
+燥性影响。
+1 材料
+1.1 仪器 Mettler AE240 型分析天平(十万分之一，
+瑞士 Mettler 公司)；FA1004B 型电子天平(上海精密
+科学仪器有限公司)；KQ-250DB 型数控超声波清洗
+器(昆山市超声仪器有限公司)；TGL-16G 型离心机
+(上海安亭科学仪器厂)；FSH-2 可调高速电动匀浆
+器(江苏佳美仪器有限公司)；XW-80A 涡旋混合器
+(上海青浦沪西仪器厂)；Thermo Fisher Finnpipette
+•10•
+药学研究•Journal of Pharmaceutical Research 2022 Vol.41，No.1
+Steppers 单道连续分配移液器(芬兰雷勃公司)。
+1.2 
+实验动物  
+SD 雄性大鼠 [ 许可证号:SCXK
+(辽)2010-0001]30 只，体质量 180 ~ 200 g，6 ~ 8 周
+龄，由辽宁长生生物技术有限公司提供。 在正式实
+验前，大鼠适应性喂养一周，预饲养期间自由饮食饮
+水，室温(22±2)℃，湿度 60％±2％。 本实验的动物
+实验伦理审查批件号:2019YS(DW)-029-01。
+1.3 
+药品与试剂 
+人参皂苷 Rg1、Re、Rf、Rb1、Rc、
+Rb2对照品(大连美仑生物技术有限公司，批号分别为
+A0503AS、 S0317AS、 J0404AS、 D0718AS、 O0303AS、
+J0322AS、纯度均>98％)；超纯水；生理盐水。
+大 鼠 胆 碱 酯 酶 ( ChE ) 试 剂 盒 ( 批 号:
+21032434N)、大鼠乙酰胆碱酯酶(AchE)试剂盒(批
+号:21032435N)、 Na
+＋ - K
+＋ - ATP 酶 试 剂 盒 ( 批 号:
+21032425N)、 Ca2＋ - Mg2 ＋ - ATP 酶 试 剂 盒 ( 批 号:
+21032438N)、 乳 酸 脱 氢 酶 ( LDH) 试 剂 盒 ( 批 号:
+21032431N)、琥珀酸脱氢酶( SDH) 试剂盒( 批号:
+21032426N)均购自上海科兴贸易有限公司。
+2 方法
+2.1 给药样品的制备 
+人参皂苷三醇型与人参皂
+苷二醇型不同量比给药液的配制:人参皂苷 Rb1给
+药剂量按照《中国药典》2020 年版(一部)人参用最
+高剂量的 6.17 倍等效剂量，作为 R＝ 0.5 组大鼠的给
+药剂量。 各组人参皂苷样品的总浓度均为 0.345 6
+mg•mL
+-1，按 R ＝ 人参皂苷三醇组含量总和(Rg1 ＋
+Re＋Rf) / 人参皂苷二醇组含量总和(Rb1＋Rc＋Rb2)，
+常规配比 R＝(10 ∶ 4 ∶ 1) / (5 ∶ 2 ∶ 1)计算，配制 R
+＝ 0.5、1.0、1.5、2.0 的 4 组不同配比的样品。 最后将
+配制好的各组样品，置于 4 ℃储存备用。
+2.2 动物分组及给药  动物随机分成 5 组，每组 6
+只。 分别为空白组、人参皂苷三醇型与二醇型不同
+量比(R 值＝ 0.5、1、1.5、2)的 4 个实验组。 各组大鼠
+灌胃给予相对应的药物溶液，4 mL•kg
+-1，每天一
+次，连续给药 7 d。 空白组给予等容积的生理盐水。
+2.3 指标检测
+2.3.1 血样的处理 将取得各组大鼠全血，以3 000
+r•min
+-1离心 15 min，取上清液，将各组血样置于-
+80 ℃保存待测。
+2.3.2 脑组织的处理 
+将取得的各组大鼠的脑组
+织进行搅匀，称取 0.2 g，分别放入 EP 管中，用匀浆
+机进行匀浆后，放入离心机中以 3 500 r•min
+-1离心
+5 min，取上清液，将各组脑组织样品置于-80 ℃ 保
+存待测。
+2.3.3 指标检测 
+最后一次给药 2 h 后，用乌拉坦
+对各组大鼠进行麻醉，经腹主动脉取血 5 mL。 取出
+脑组织，并用生理盐水洗净血污。 所有指标均用
+ELISA 法检测，血中检测的指标为 Na
+＋-K
+＋-ATP 酶、
+Ca2＋-Mg2 ＋-ATP 酶、LDH 和 SDH；脑中检测的指标
+为 ChE 和 AchE。 所有指标检测的操作均按照试剂
+盒使用说明书进行。 同时观察大鼠的肛温、神志反
+应、毛发光亮程度，并作为各组大鼠药效学的差异考
+察的辅助指标。
+2.4 统计学分析 数据采用 SPSS 16.0 软件进行统
+计，组间数据比较采用单因素方差分析，实验数据以
+x±s 表示，P<0.05 表示差异有统计学意义。
+3 结果
+3.1 
+血中 Na
+＋ -K
+＋ -ATP 酶、Ca2＋ -Mg2＋ -ATP 酶、
+LDH、SDH 指标的测定结果 由表 1 可知，与空白组
+进行比较，R ＝ 1.5 组及 R ＝ 1.0 组在 Na
+＋ -K
+＋ -ATP
+酶、Ca2＋ -Mg2＋ -ATP 酶两个指标中显著升高 ( P <
+0.01或 P<0.05)。 R ＝ 1.0 组在 LDH、SDH 两个指标
+中呈升高趋势，但无统计学意义；R ＝ 1.5 组在 SDH
+指标中显著升高(P<0.01)；R ＝ 2.0 组在 LDH 指标
+中呈升高趋势(P<0.05)。
+表 1 不同人参皂苷量比对大鼠血中 Na＋ -K＋ -ATP 酶、
+Ca2＋ -Mg2＋ -ATP 酶、LDH、SDH 指标含量的影响(x±s，n ＝ 6)
+组别
+Na＋-K＋-ATP
+酶/ μmol•mL-1
+Ca2＋-Mg2＋-ATP
+酶/ μmol•mL-1
+LDH
+/ ng•mL-1
+SDH
+/ ng•mL-1
+空白组
+15.51±0.91
+25.70±0.45
+86.53±0.50
+114.84±2.20
+R＝0.5 组
+16.63±0.56
+26.00±0.70
+88.86±2.87
+115.71±2.86
+R＝1.0 组
+18.22±0.37∗∗
+27.80±0.50∗
+92.51±2.10
+117.99±1.59
+R＝1.5 组
+17.80±0.46∗
+27.70±0.50∗
+85.65±1.90
+128.50±5.12∗∗
+R＝2.0 组
+17.10±0.32
+29.00±0.50
+94.97±2.87∗
+95.39±1.79
+ 注:与空白组比较，∗P<0.05，∗∗P<0.01
+3.2 
+脑中 ChE、AchE 指标的测定结果 
+如表 2 所
+示，不同人参皂苷量比对大鼠脑中 ChE、AchE 指标影
+响的检测中，ChE 含量没有规律性的变化，AchE 含量
+出现了规律性的变化。 与空白组进行比较，R ＝ 0.5
+组、R＝1.5 组在 ChE 指标中显著降低(P<0.05 或 P<
+0.01)；R＝2.0 组在 AchE 指标中显著降低(P<0.05)。
+表 2 不同人参皂苷量比对大鼠脑中 ChE、AchE 指标含量
+的影响(x±s，n ＝ 6)
+组别
+ChE / ng•mL-1
+AchE / nmol•mL-1
+空白组
+136.48±1.80
+224.08±3.73
+R＝ 0.5 组
+126.31±2.65∗
+190.94±2.24
+R＝ 1.0 组
+140.09±3.32
+199.66±2.66
+R＝ 1.5 组
+125.39±3.15∗∗
+212.85±4.90
+R＝ 2.0 组
+132.08±1.36
+210.24±4.67∗
+ 注:与空白组比较，∗P<0.05，∗∗P<0.01
+4 讨论
+能量代谢与物质代谢是人体和外界环境之间的
+能量与物质交换的过程，是机体生命活动的基本特
+•11•
+药学研究•Journal of Pharmaceutical Research 2022 Vol.41，No.1
+征[11]，而 Na
+＋ - K
+＋ - ATP 酶、 Ca2＋ - Mg2＋ - ATP 酶、
+LDH、SDH 是机体能量代谢与物质代谢的重要指
+标。 胆碱酯酶(ChE)是一类催化酰基胆碱水解的酶
+类，由 乙 酰 胆 碱 酯 酶 ( AChE ) 和 丁 酰 胆 碱 酯 酶
+(BuChE)两类组成。 ChE 活性升高，可导致胆碱能
+突触间隙处的神经递质乙酰胆碱(ACh) 含量降低。
+AChE 可高效水解 ACh， 维持正常的神经冲动传
+导[12]。 可 见， ChE 或 AChE 含 量 的 减 少， 都 会 使
+ACh 堆积，导致神经兴奋加强，因此 ChE 和 AChE 的
+含量能够反应机体中枢神经的活跃程度。 故本实验
+以大鼠血中 Na
+＋ -K
+＋ -ATP 酶、Ca2＋ -Mg2＋ -ATP 酶、
+LDH、SDH 以及脑中 ChE、AchE 含量为指标，探析不
+同量比的人参皂苷三醇型与二醇型对机体能量代谢
+和脑神经兴奋的影响。
+在上述各指标中，Na
+＋ -K
+＋ -ATP 酶是维持细胞
+正常内外离子浓度和膜电位水平的关键酶[6]；Ca2＋ -
+Mg2＋-ATP 酶对维持细胞内 Ca2＋ 和 Mg2＋ 浓度水平，
+以及在神经细胞动作电位的传导等方面具有重要影
+响[12]，二者均是细胞膜上重要的酶。 因此，Na
+＋ -K
+＋
+-ATP 酶及 Ca2＋-Mg2＋-ATP 酶活性是衡量线粒体功
+能和能量代谢水平的重要的指标[13]。 实验结果显
+示，不同人参皂苷量比给药后，与空白组相比较，在
+R＝ 2.0 组、R ＝ 1.5 组大鼠血中 Na
+＋ -K
+＋ -ATP 酶、
+Ca2＋-Mg2＋ -ATP 酶指标均显著上升，从而体现出在
+较大的 R 值下，这两组大鼠的能量代谢和物质代谢
+有所增加。 LDH 是检测糖酵解途径反应强弱的指
+标之一，参与糖酵解途径的最后一部分反应，催化丙
+酮酸(PA) 生成乳酸。 SDH 位于线粒体内，是呼吸
+链的氧化还原酶复合体的组成成分之一，也是反应
+糖氧化程度的检测指标之一，是三羧酸循环中的关
+键酶[14]。 实验数据显示，与空白组进行比较，R ＝
+2.0组在 LDH 指标中显著升高，R ＝ 1.5 组在 SDH 指
+标中显著升高。 说明 R 值越大，大鼠血中的能量代
+谢和物质代谢有一定的加强。 AChE 是乙酰胆碱
+(ACh)的水解酶，胆碱能神经元突触间的信息传递
+依赖于 AChE 对 ACh 的水解，进而对脑功能进行调
+控。 因 AChE 在胆碱能神经元内具有较高的活性，
+所以其活性可以在一定程度上代表胆碱能神经元的
+活性[15]。 对大鼠脑中 ChE、AchE 指标进行检测发
+现，不同 R 组别之间，ChE 含量并无规律性变化。
+与空白组进行比较，R ＝ 0.5 组、R ＝ 1.5 组在 ChE 指
+标中明显下降，R＝ 2.0 组在 AchE 指标中显著降低，
+可见当 R 值较大时，大鼠脑中神经中枢较活跃。
+综上所述，在 R 值较大的情况下，大鼠血中 Na
+＋-
+K
+＋-ATP 酶、Ca2＋-Mg2＋ -ATP 酶、LDH、SDH 指标含量
+会有不同程度的增加，脑中 ChE、AchE 指标含量则有
+不同程度的降低。 反映 R 值较大的人参样品会加强
+机体的能量代谢和物质代谢，并提高中枢神经兴奋
+性。 实验过程中，在给药第 3 天后，与空白组、R ＝ 0.5
+及 R＝1.0 组相比，R＝ 1.5 组大鼠表现出反应灵敏，活
+泼好动，外观毛发光亮，并伴有立毛现象，该组大鼠肛
+温在第 6 天和第 7 天相对较高。 通过对实验数据及
+宏观指标的分析，R 值与人参燥性有一定的关联性，
+在较大的 R 值下，人参体现出一定的燥性，然而在 R
+值较低的情况下，这种作用并不明显。
+本实验探析了不同量比的人参皂苷三醇型与二
+醇型对机体的能量代谢、物质代谢和中枢神经兴奋
+的影响。 研究结果表明，R 值大小与人参燥性具有
+一定关联性。 R 值越大，机体的能量代谢、物质代谢
+增加，中枢神经兴奋性提高，进而体现出人参燥性增
+强。 为了能在临床上安全合理的用药，在使用人参
+时应着重关注 R 值的大小，意在降低人参皂苷三醇
+型的含量或提高人参皂苷二醇型的含量。 通过相关
+文献的研究，部分人参皂苷三醇型在蒸制过程中易
+发生水解，转化为人参皂苷二醇型[16]。 通过这种方
+法，有目的的对人参进行炮制加工和栽培，通过控制
+人参皂苷三醇型与人参皂苷二醇型含量比值大小有
+效降低人参燥性，使人参更适合患者用药。
+参考文献:
+[1] 国家药典委员会.中华人民共和国药典 2020 年版(一
+部)[S].北京:中国医药科技出版社，2020:8-9.
+[2]
+王丽娜.蜜制平性人参炮制工艺研究[D].大连:辽宁
+中医药大学，2006.
+[3]
+贺鹏，高素强，傅得兴.人参的不良反应及其合理应用
+[J].首都医药，2006，13(18):50-51.
+[4]
+SOLLORZ G.Quality evaluation of ginseng roots.Quantita-
+tive HPLC determination of ginsenosides[J].Dtsch Apoth
+Ztg，1985，125(41):2052-2055.
+[5]
+刘佳，汪洋，吕爽，等.不同蒸制方法对人参愈伤组织中
+皂苷含量的影响 [ J]. 延边大学 农 学 学 报，2017，39
+(2):41-46.
+[6]
+KANG S Y，SCHINI-KERTH V B，KIM N D.Ginsenosides
+of the protopanaxatriol group cause endothelium-dependent
+relaxation in the rat aorta[J].Life Sci，1995，56(19):1577
+-1586.
+[7]
+CHARKOUDIAN N. Mechanisms and modifiers of reflex
+induced cutaneous vasodilation and vasoconstriction in hu-
+mans[J]. J Appl Physiol ( 1985)，2010，109 ( 4):1221
+-1228.
+(下转第 21 页)
+•12•
+药学研究•Journal of Pharmaceutical Research 2022 Vol.41，No.1
+参考文献:
+[1] 许文，吴献，黄鸣清，等.栝楼桂枝汤的血清药物化学研
+究[J].中草药，2017，48(10):2033-2043.
+[2]
+向青，许文，刘杰，等.HPLC-DAD 法分析栝楼桂枝汤
+血中移行成分[J].福建中医药，2015，46(2):42-43.
+[3]
+HU H，ZHONG X H，LIN X J，et al.Inhibitory Effect of
+Gualou Guizhi Decoction on Microglial Inflammation and
+Neuron Injury by Promoting Anti-Inflammation via Targe-
+ting mmu-miR-155[J].Evid Based Complement Alternat
+Med，2021，10(2):1370-1379.
+[4]
+谢风帆，张玉琴，赖文芳，等.栝楼桂枝汤通过抑制小胶
+质细胞活化改善大鼠脑缺血/ 再灌注损伤[J].中国药
+理学通报，2020，36(5):703-709.
+[5]
+郭双，戴成球，金钦，等.基于 GC-TOF-MS 代谢组学研
+究栝楼桂枝汤对脑缺血大鼠的作用机制[J].药学研
+究，2020，39(4):187-192.
+[6]
+ZHU X，HU H，LI Z，et al.Gua Lou Gui Zhi decoction attenu-
+ates post-stroke spasticity via the modulation of GABAB re-
+ceptors[J].Mol Med Rep，2015，12(4):5957-5962.
+[7]
+LI Z F，HU H X，LIN R H，et al.Neuroprotective effects of
+Gua Lou Gui Zhi decoction against glutamate-induced apop-
+tosis in BV-2 cells[J].Int J Mol Med，2014，33(3):597
+-604.
+[8]
+CHEN X，LI H，HUANG M，et al.Effect of Gua Lou Gui
+Zhi decoction on focal cerebral ischemia - reperfusion
+injury through regulating the expression of excitatory
+amino acids and their receptors[J].Mol Med Rep，2014，
+10(1):248-254.
+[9]
+丁建营，刘春娟，郭建军，等.天花粉化学成分的药理活
+性及其提取与检测方法研究进展[J].中国药房，2018，
+29(13):1859-1864.
+[10] 王艳敏，王娜，于黎鑫，等.HPLC 法测定复方氨基酸双
+肽注射液中醋酸盐和枸橼酸盐的含量[J].药学研究，
+2021，40(4):232-234.
+[11] 尹宁宁，郭东晓.HPLC 法同时测定复方阿胶补血颗粒
+中 4 种氨基酸[J].药学研究，2019，38(7):389-392.
+[12] 邓红英，张永文，李永贵.柱前衍生高效液相色谱法测
+定复方氨基酸注射液中氨基酸的含量[J].药学研究，
+2020，39(1):27-30.
+[13] 李海波，杨群，区伟珍，等.金振口服液氨基酸特征指纹
+图谱及 29 种氨基酸同时定量的质量控制方法研究
+[J].中草药，2020，51(23):5972-5979.
+[14] YUAN X，WEN J，JIA H，et al.Integrated metabolomic a-
+nalysis for intervention effects of Gushudan on glucocorti-
+coid - induced osteoporostic rat plasma based on RP /
+HILIC-UHPLC-Q-Orbitrap HRMS[J].Anal Biochem，
+2020(591):113559.
+[15] CHEN Y，WU Y，LIU X，et al.Pulsed elution modulation for on
+-line comprehensive two-dimensional liquid chromatography
+coupling reversed phase liquid chromatography and hydrophilic
+interaction chromatography[J].J Chromatogr A，2019(1583):98
+-107.
+[16] WANG X，LIU T，SONG H，et al. Targeted Metabolomic
+Profiling Reveals Association Between Altered Amino
+Acids and Poor Functional Recovery After Stroke [ J].
+Front Neurol，2020(10):1425.
+[17] 陈孝男，杨爱琳，赵亚楠，等.缺血性脑中风的发病机制
+及其常用治疗中药研究进展[J].中国中药杂志，2019，
+44(3):422-432.
+[18] XU Q，YANG J W，CAO Y，et al.Acupuncture improves loco-
+motor function by enhancing GABA receptor expression in
+transient focal cerebral ischemia rats[J].Neurosci Lett，2015
+(588):88-94.
+[19] BARAKAT W，FAHMY A，ASKAR M，et al.Effectiveness
+of arginase
+inhibitors
+against
+experimentally
+induced
+stroke[J].Naunyn Schmiedebergs Arch Pharmacol，2018，
+391(6):603-612.
+[20]
+LIU J， YUAN J， ZHAO J， et al. Serum metabolomic
+patterns in young patients with ischemic stroke: a case
+study[J].Metabolomics，2021，17(2):24.
+(上接第 12 页)
+[8] JIN S H，PARK J K，NAM K Y，et al.Korean red ginseng
+saponins with low ratios of protopanaxadiol and proto-
+panaxatriol
+saponin
+improve
+scopolamine - induced
+learning disability and spatial working memory in mice
+[J].J Ethnopharmacol，1999，66(2):123-129.
+[9]
+WANG J C，HOU Y L，JIA Z Y，et al.Metabonomics Ap-
+proach To Comparing the Anti stress Effects of Four Panax
+ginseng Components in Rats[J].J Proteome Res，2018，17
+(2):813-821.
+[10] ZHANG Y C，LI G，JIANG C，et al.Tissue-specific distri-
+bution of ginsenosides in different aged ginseng and an-
+tioxidant activity of ginseng leaf[ J].Molecules，2014，19
+(11):17381-17399.
+[11] 许云姣，吴文笛，蔡悦青，等.基于补土伏火法的四逆汤
+及其拆方对肾阳虚证模型大鼠肝脏组织 Na
+＋-K
+＋-ATP
+酶及 Ca2＋-Mg2＋-ATP 酶表达影响的研究[J].时珍国
+医国药，2020，31(11):2620-2622.
+[12] TSIM K，SOREQ H.Acetylcholinesterase:old questions and
+new developments[J].Front Mol Neurosci，2012(5):101.
+[13] 刘秉文，陈俊杰.医学分子生物学[M].北京:中国协和
+医科大学出版社，2000:139.
+[14] 臧树成，郭文晋，甄莉，等.亚低温对大鼠肝细胞能量代
+谢中关键酶 LDH、SDH 和 MDH 活性以及 PA 含量的
+影响[J].黑龙江畜牧兽医，2018(18):194-196.
+[15] 周永翠，王玉良.脑内胆碱能系统与血管性痴呆的关系
+[J].中国临床康复，2004，8(22):4568-4569.
+[16] 郑重，宋凤瑞，刘淑英，等.人参、红参皂苷类成分指纹
+图谱研究[J].质谱学报，2012，33(6):327-333.
+•21•
+药学研究•Journal of Pharmaceutical Research 2022 Vol.41，No.1

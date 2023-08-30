@@ -1,0 +1,648 @@
+2021年4月
+第43卷第4期
+中成药
+Chi nese Tmdi t i onal
+Pat ent Medi ci ne
+Apri l 2021
+V01．43
+No．4
+[ 综
+述]
+人参皂苷Rg。治疗阿尔茨海默病作用及机制的研究进展
+王超楠1，
+赵大庆1，
+王
+健h，
+王隶书1’ 2+
+( 1．长春中医药大学，吉林长春130117；2．吉林省中医药科学院，吉林长春130012)
+摘要：阿尔茨海默病( AD) 是一种常见的起病隐匿、呈渐进性发展的脑部神经退行性疾病，以认知功能障碍为主要
+表现，目前尚无逆转其病程的特效药物。近年来，对AD发病机制及药物，尤其是天然产物干预方面的研究逐步取得
+了实质性进展，诸多学者利用动物与细胞模型已从不同角度证实了人参皂苷Rg．是人参总皂苷中活性最显著的相关成
+分。本文就近年来国内外关于人参皂苷Rg，治疗AD作用及机制的研究进展进行梳理归纳，以期为将该成分开发成治
+疗AD和其他类型记忆障碍的新药提供参考依据。
+关键词：阿尔茨海默病( AD) ；人参皂苷Rg，；作用机制
+中图分类号：R285．5
+文献标志码：A
+文章编号：1001—1528( 2021) 04—0984—04
+doi ：10．3969／i ．i ssn．1001—1528．2021．04．028
+阿尔茨海默病( AD) 又称老年痴呆症，是德国精神科
+医师及神经病理学家Al oi s Al zhei mer于1906年发现．并以
+其名字命名的疾病，患者会出现认知障碍、失语、执行功
+能障碍等全面性痴呆表现，严重影响日常生活，甚至导致
+死亡。根据国际阿尔茨海默病协会( ADI ) 的相关数据统
+计．发达国家65岁以上人群中至少有13％遭受AD带来的
+痛苦[ “ 。世界卫生组织( wHo) 估计，到2050年AD患
+者可能将接近1．14亿，给全世界带来严重的社会和经济负
+担[ 2] 。AD发病机制尚不明确，其病理特征包括B淀粉样
+蛋白胞外沉积形成的老年斑( 来源于细胞内淀粉样前体蛋
+白) 、神经纤维缠结的形成( 包含异常的Tau蛋白的磷酸
+化形式，微管相关蛋白) 、神经元突触和锥体神经元的丢
+失等，由此产生了多种假说，如B淀粉样蛋白、Tau蛋白、
+胆碱能，但目前临床上尚无疗效显著的相关药物[ 3] 。
+基于胆碱能假说开发的胆碱酯酶抑制剂．是目前获得
+美国食品药品监督管理局( FDA) 批准的治疗AD的主要
+上市药物，但只能改善部分临床症状而不能逆转病程[ 4] 。
+自2003年以来，基于某个单一假说开发的药物均在二期三
+期临床试验中宣告失败，已经有16年无新药上市[ 5] 。
+中药具有多靶点的作用特点，从中筛选出治疗AD的
+活性成分正在成为研究热点。人参皂苷Rg。( c。：H，，0，。)
+是原人参三醇型皂苷，即达玛烷型20( p) 一原人参三醇，
+为人参属植物人参心n。并gi 7"ew c．A．Mey．、三七如凡似
+no￡昭：瑚e昭( Burk．) F．H chen、西洋参尸nn龇q“ i nq础
+加zi “ s L) 中共有的生物活性成分MJ 。前期通过梳理关于人
+参皂苷治疗AD的文献发现，人参皂苷Rg．是人参总皂苷
+中活性最显著的相关成分，但尚无对其进行归纳总结的综
+述。因此，本文对人参皂苷Rg，在突触功能可塑性及神经
+发生、B淀粉样蛋白水平、线粒体功能、Tau蛋白神经毒缠
+结、胆碱能神经系统、氧化应激与神经炎症过程等方面治
+疗AD作用及机制的研究进展进行综述．以期为将该成分
+开发成治疗AD和其他类型记忆障碍的新药提供参考依据。
+1人参皂苷Rg，对突触功能可塑· 眭及神经发生的影响
+突触是中枢神经系统的基本结构，神经元间信号的产
+生、传递和整合通过其进行，其功能的可塑性也被认为是
+学习和记忆的神经生物学基础。在认知障碍发生前，突触
+功能障碍是一种早期、显著的AD小鼠脑神经元丢失病理
+特征。大量研究表明，与对照组比较，即使在疾病的早期
+症状阶段，每个神经元的皮质突触密度也降低了25％～
+30％，突触密度也降低了15％～35％，故突触成为AD早期
+干预的靶点之一。作为人参有效成分之一，人参皂苷Rg，
+已在药代动力学研究中被证明可穿过血脑屏障，在皮质、
+海马、纹状体中发挥作用，故该成分可能改变神经结构、
+环形网络，进而改变老年动物突触可塑性与记忆。另外，
+经生物化学、电生理实验证实，人参皂苷№，在结构及效
+能方面均能增强突触神经可塑性[ 7。1⋯ 。
+zhu等[ 11] 对12月龄中年小鼠腹腔注射人参皂苷取，
+30 d，发现该成分可通过调节磷脂酰肌醇3一激酶( P13K) ／
+蛋白质丝氨酸苏氨酸激酶( AKT) 信号通路来增强基底突
+触传递，促进中老年动物海马脑片弱0脉冲刺激( TBs)
+诱导的长时程增强( LTP) ，增加树突顶棘的数目和海马
+CAl 区面积，上调海马磷酸化蛋白激酶B( p—AKT) 、脑源
+性神经营养因子( BDNF) 、脑源性神经营养因子前体蛋白
+( proBDNF) 和谷氨酸受体1( G1uR．) 表达，明显改善中
+收稿日期：2020．06—29
+基金项目：国家重点研发计划项目( 2017YFcl 702100，2019YFcl 711405) ；吉林省医药健康产业专项( 20191102014YY)
+作者简介：王超楠( 1994一) ，女，硕士生，研究方向为神经内科相关药物药效活性及作用机制。E_nl ai l ：604281481@qq．com
+。通信作者：王健( 1970一) ，男，博士，教授，从事神经内科科研临床工作。E．mai l ：wan自i an70123@163．com
+王隶书( 1966一) ，女，博士，主任药师，从事中药药效活性物质基础及作用机制研究。E．mai l ：wl s6856@163．com
+984
+万方数据
+2021年4月
+第43卷第4期
+中成药
+Chi nese Tmdi t i onal
+Pat ent Medi ci ne
+Apri l 2021
+V01．43
+No．4
+年小鼠记忆能力，显示了其治疗AD相关记忆衰退或丧失
+候选药物的潜力。Li 等[ ” ] 对APP／PSl 转基因AD小鼠进行
+30 d的人参皂苷Rg，腹腔注射，发现小鼠BDNF、磷酸化的
+酪氨酸激酶受体B( Tl kB) 突触可塑性的相关蛋白上调，
+其海马LTP和记忆能力也得到恢复，提示该成分可通过促
+进与AD相关的蛋白清除和激活BDNF／TrkB途径来改善
+AD小鼠的记忆．从而为相关治疗提供新证据。
+突触素是突触小泡中含量最多的特异性膜通道蛋白，
+在所有神经末梢内几乎都有分布，其数量和密度可间接反
+映突触数量和密度，也是学习记忆过程中的重要蛋白。李
+明等[ 13] 观察人参皂苷Rg，对老年痴呆模型大鼠脑片中突触
+素( sYN) 表达的影响，发现与模型组比较，人参皂苷
+Rg．各剂量组sYN蛋白表达均升高，提示该成分可能通过
+调节突触素活性表达来发挥抗老年痴呆神经退行性变的作
+用，减缓大脑的老化进程。神经突起生长是神经元发育、
+突触形成和再生的重要过程，为突触形成提供了形态学基
+础，是学习和记忆的基础[ “ ] 。Huang[ ” ] 发现，人参皂苷
+Rg．可基于细胞外调节蛋白激酶( ERK) 和Akt 信号通路
+来促进大鼠海马神经突起的生长，并保护大鼠海马神经免
+受AB，，，诱导的损伤，阻止其诱导的细胞凋亡，揭示该成
+分治疗神经退行性疾病如AD的潜力。
+细胞凋亡引起的神经元变性是AD的病因之一。shi
+等[ 】61报道，人参皂苷Rg．可通过调节快速老化痴呆模型一
+sAMP8小鼠海马神经元中111i R_873—5p表达来抑制神经元细
+胞凋亡，明显减轻AD症状，为进一步相关治疗提供依据。
+2人参皂苷R蜀对B淀粉样蛋白水平、线粒体功能及Tau
+蛋白神经毒缠结的调节作用
+2．1
+B淀粉样蛋白、线粒体功能
+B淀粉样蛋白( AB)
+是由36～43个氨基酸残基组成的几种肽的通用名称，为
+AB前体蛋白( APP) 所形成，后者是种含695个氨基酸的
+跨膜蛋白，被B分泌酶1( BAcEl ) 和吖一分泌酶水解形成
+p淀粉样蛋白。AB形成不溶性AB细丝后，在细胞间隙中
+粘在一起形成致密的结构，称为老年斑[ 17‘
+1⋯ 。叶茂盛等[ 1
+9]
+对模型组、人参皂苷№．干预组大鼠海马体直接注射
+AB卜4，造模，采用Morri s水迷宫测试大鼠学习记忆能力，发
+现该成分人参皂苷R蜀可明显减少海马组织的AB沉积，抑
+制AB诱导的大鼠海马细胞凋亡，改善AB所致AD大鼠学
+习记忆功能。
+流行病学研究表明．绝经后妇女AD发生率高于同年
+龄层的男性[ 2⋯ ，大量临床实验也发现，女性绝经后脑源雌
+激素水平的下降与AD患病风险有关[ 2“ 。shi 等[ 22] 研究表
+明，人参皂苷Rg．可有效降低卵巢切除术诱导的大鼠海马
+中AB水平，改善神经功能，上调可溶性淀粉样前体细胞
+外分泌蛋白( sAPPd) 水平，提高空间学习记忆能力，可
+用于减缓或预防绝经后女性AD的发生。体外细胞实验表
+明，人参皂苷Rg，能通过促进雌激素受体( ER) 在ser。
+残基的磷酸化以激活ER信号，促进sAPPd的细胞外分泌，
+增强仪一分泌酶活性，降低AB胞外释放。
+线粒体动力学平衡是维持线粒体功能和形态正常的前
+提，AB沉积作为AD患者脑中的重要病理特征之一，可直
+接或间接引起线粒体动力学改变，线粒体功能障碍是AD
+发病的主要原因之一[ 2⋯ 。shi m等[ “ ] 发现，在B．淀粉样肽
+处理后的人神经母细胞瘤细胞SH—SY5Y细胞中．人参皂苷
+Rg，干预后17一B一羟基类固醇脱氢酶10、丙氨酰t RNA合成
+酶2等线粒体蛋白发生显著改变．表明该成分可通过改善
+线粒体功能障碍来发挥在AD中对机体的保护作用。
+2．2
+Tau蛋白神经毒缠结
+AD的特征在于神经纤维缠结
+( NFTs) 在脑组织中的积累，Tau蛋白是在中枢神经系统中
+表达的一种微管相关磷蛋白，由Tau蛋白激酶、蛋白磷酸酶
+调节，使其只有少数位点被磷酸化。然而，过多Tau磷酸化
+会使Tau蛋白对蛋白水解降解具有抗性，导致磷酸化的Tau
+蛋白在细胞中逐渐积累，并促进N丌的形成。在AD患者
+中，Tau蛋白过度磷酸化会导致神经元营养缺乏继而死亡，
+导致突触功能障碍、神经元变性、认知障碍，故抑制Tau蛋
+白的磷酸化可能是预防AD的潜在治疗策略[ 25‘
+2⋯ 。
+冈田酸( 0KA) 是一种磷酸抑制剂，经大鼠侧脑室注
+射冈田酸可导致记忆障碍，常用于模拟阿尔茨海默病样的
+NFT损伤，研究sD大鼠的记忆损伤和相关机制心⋯ 。
+song[ 2引通过对大鼠单侧静脉注射0KA建立空间记忆损伤
+模型，发现故参皂苷R91后可有效减弱OKA诱发的空间记
+忆障碍。人参皂苷Rgl 对0KA引起的神经病理学改变可能
+有2种有效途径，即稳定Tau／糖原合成酶激酶一3B途径、
+抑制AB形成，提示人参皂苷Rg．可能对AD和其他神经退
+行性疾病的认知障碍和神经病理学改变有治疗作用。
+He等[ ” ] 研究人参皂苷Rg．对双转基因APP／Psl 模型
+小鼠视网膜色素上皮细胞( RPE) 中NFTs的抑制作用，
+RPE视网膜内的上皮细胞是细胞神经嵴起源发育之地，而
+该成分可通过升高脑啡肽酶( NEP) 活性、降低蛋白激酶
+A( PKA) 活性来下调t au蛋白磷酸化，降低RPE细胞
+NFTs的积累，改善AD中黄斑变性视网膜损伤。Yang
+等[ 3¨ 进一步评估了以人参皂苷Rg．为主要成分的扶正祛邪
+汤对sAMP8小鼠AD模型的功效，结果表明扶正祛邪汤通
+过抑制海马Tau蛋白的过度磷酸化改善了SAMP8小鼠的学
+习和记忆能力。张彩凤等[ 32] 研究发现人参皂苷№，能通过
+促进蛋白磷酸酯酶2A( Prot ei n phosphat ase2A，PP2A) 的
+活性以减少Tau蛋白的过度磷酸化，从而防治AD。
+3人参皂苷R舀对胆碱能神经系统的调节作用
+中枢胆碱能系统与学习、记忆密切相关，当AD发病
+时，中枢神经系统中的胆碱能神经元减少，导致乙酰胆碱
+( Ach) 合成、储存和释放逐渐减少，出现以记忆、识别功
+能障碍为主要症状的一系列临床表现。Ach是副交感神经
+系统中的主要神经递质，可被体内特定的乙胆碱酯酶
+( AChE) 、丁酰胆碱酯酶( BChE) 破坏，在AD中起重要
+作用[ 3⋯ 。抑制AChE和BChE是AD治疗手段之一，已创
+造了效果可观的维持疗法．被美国FDA批准上市多年的多
+奈哌齐、加兰他敏、卡巴拉汀这3种AChE抑制剂是构成
+985
+万方数据
+2021年4月
+第43卷第4期
+中成药
+Chi nese Tmdi t i onal
+Pat ent Medi ci ne
+Apri l 2021
+V01．43
+No．4
+AD患者维持治疗的基础[ ” ] 。“ u等[ ” ] 研究表明，人参皂
+苷Rg．能穿透血脑屏障并分布于髋关节，进而增加可溶性
+AB寡聚体诱导的AD模型大鼠髋关节内Ach水平，具有促
+进智力发育的作用。choi 等[ 361用体外抑制胆碱酶法
+( El l man和Cal l awav开发的分光光度法) 测定胆碱酯酶活
+性，发现人参皂苷Rg．对诱导AD的AchE、BchE、B位淀
+粉样蛋白前体裂解酶均具有抑制作用，可为该成分在AD
+患者治疗中的应用提供科学依据。
+4人参皂苷Rg．对氧化应激、神经炎症过程的作用
+氧化应激、神经炎症在与衰老相关的神经退行性疾病
+( 如AD等) 发病机制中具有重要地位，活性氧所致氧化应
+激是造成细胞凋亡的重要环节，导致病理损伤的NADPH
+氧化酶2( N0x，) 为脑内活性氧的主要来源。核苷酸结合
+寡聚结构域( NOD) 样受体蛋白1炎症小体( NLRPl ) 负
+责神经元中促炎分子的形成．但N0x。一NLRPl 炎症信号通
+路是否参与神经元老化和年龄相关损伤尚不明确，有待
+阐明‘ ” 。⋯ 。
+向碉[ 3刚用D一半乳糖( D—gal ) 建立转基因小鼠氧化损
+伤衰老模型，以氧化锂激活体外培养的神经干细胞( Nsc)
+的wn∥ p—cat eni n信号通路，并用人参皂苷Rg，进行治疗，
+发现该成分能通过抑制氧化应激损伤和wn∥ B—cat eni n信号
+通路的过度激活，进而减轻海马NSCs损伤，延缓海马衰
+老，保护学习记忆功能。chen等[ 40] 研究表明，人参皂苷
+Rg．可通过降低氧化应激水平增加小鼠体内外超氧化物歧
+化酶( s0D) 、谷胱甘肽过氧化物酶( GsH—Px) 活性，下
+调Ak∥ mTOR信号通路、经D—gal 处理的神经干细胞中下游
+的细胞周期调控蛋白p53、p16、p2l 水平，从而减缓神经
+干细胞的衰老，改善D—gal 诱导的小鼠认知障碍。刘琳
+等[ 41] 通过ELI sA法、HE染色、west emBl ot 发现，人参皂
+苷Rg，能显著改善APP／Psl 双转基因模型小鼠的氧化应激
+状态，减轻炎症反应，通过调节相关凋亡蛋白( 如Bcl 一2／
+Bax、cyt —c、caspase一3、caspase一59等) 表达来抑制神经元
+凋亡，进而改善认知功能。xu等[ 421采用过氧化氢
+( 200肛moL／L) 、Rg，( 1、5、10斗moL／L) 处理原代海马神
+经元24 h，模拟年龄相关损伤，发现人参皂苷Rg．可降低
+过氧化氢处理海马神经元R0s产生及NOx，、NLRPl 炎症
+小体的表达，抑制神经元衰老和损伤，对AD治疗具有重
+要参考意义。王莹莹等[ 43] 报道，人参皂苷R禹对过氧化物
+酶( cAT) 活性的改善作用尤为明显，提示该成分主要通
+过提升cAT活性，在oKA诱导的AD细胞模型中通过抗氧
+化应激作用来发挥抗细胞死亡及保护神经细胞的作用，为
+抗AD新药的研发提供前期数据支持。
+5讨论与展望
+AD作为一种起病隐匿、呈渐进性发展的神经系统退行
+性疾病，具有记忆障碍、失语、失用、失认、视空间技能
+损害、执行功能障碍、人格和行为改变等临床特征，对患
+者及其家庭造成了巨大影响。目前，由美国FDA批准的5
+种临床治疗AD的药物有卡巴拉汀、加兰他敏、多奈哌齐、
+986
+美金刚、他克林，均可改善相关症状，但它们既不能减轻
+病理变化，也不能延缓病程进展，故寻找新的特异性药物
+势在必行Ⅲ] 。本文通过综述发现，近年来国内外学者利用
+动物与细胞模型从不同角度证实了人参皂苷Rg，治疗和改
+善阿尔兹海默病的作用，并具有多靶点、毒副作用小等优
+势。目前，关于人参皂苷盹，的提取制备技术也较为成熟，
+如洗脱一推挤逆流色谱( EEccc) 、c，。色谱中压制备
+等旧“ ] ，具有提取纯度高、可工业化生产等优点，可为该
+成分研究提供物质基础。但关于人参皂苷Rg．系统的成药
+性研究仍较少，故应进一步加强对该成分临床前系统规范
+的药理学、药效学、毒理学研究，以期为将其开发成治疗
+AD新药提供理论依据。
+参考文献：
+[ 1]
+Lane c A，Hardy J ，schot t J M．Al zhei mer’
+s di sease[ J ] ．EMr，
+ⅣeMroZ，2018，25( 1) ：59—70．
+[ 2]
+zhao L H．2020 Al zhei mer’
+s
+di sease
+f act s and垣gures[ J ] ．
+A胁ei ⅢmDemeⅢ，2020，16( 3) ：391—460．
+[ 3]
+贾建平，侯婷婷．阿尔茨海默病发病机制及治疗进展[ J ] ．
+中华医学杂志，2叭8，98( 29) ：2351—2356．
+[ 4]
+At ri
+A．cuⅡent
+and f ut ure t reat ment s
+i n Al zhei mer’
+s
+di sease
+[ J ] ．semi n肫Mroz，2019，39( 2) ：227—240
+[ 5]
+王晓珍，王蓉．阿尔茨海默病的药物治疗及研发进展
+[ J ] ．中国新药杂志，2019，28( 24) ：2960一2964．
+[ 6]
+国家药典委员会．中华人民共和国药典( 2015年版一部)
+[ s] ．北京：中国医药科技出版社，2015：8；11；122．
+『7]
+邓洁，李仲铭，张航铭，等．神经可塑性与认知功能关
+系研究进展[ J ] ．中国组织化学与细胞化学杂志，2019，
+28( 5) ：462_466．
+『8]
+杨联勇，沈金娥，余发春．阿尔茨海默病体液生物标记研
+究进展[ J ] ．医学理论与实践，2020，33( 10) ：1586—
+1588：
+1570．
+[ 9]
+Yu H L，Fan c Q，Yang L J ，“ 。2．Gi nsenosi de Rgl prevent s
+c}l roni c
+st ress—i nduced dep阳ssi on—l i ke
+behavi ors
+and neuronal
+st mct ural
+pl ast i ci t y i n l ats[ J ]
+＆朋P危” 矧Bi o如啪，2018，48
+( 6) ：2470—2482．
+[ 10]
+shi D D，Huang Y H，Lai
+c
+s w，以nf ．Gi nsenosi de R91
+prevent s
+chemot her印y—i nduced
+cogni t i ve
+i mpai ment ：
+associ at i ons wi t h mi cr0甜i a- medi at ed cyt oki nes， neumi nnamma—
+t i on，and neumpl ast i ci t y[ J ] ．Ⅱ如zⅣeMr06i oz，2019，56( 8) ：
+5626．5642．
+[ 11]
+zhu G，wang Y，“ J ，以az．chmni c t reat ment wi t h gi nsenosi de
+R91 promot es memory and hi ppocampal l ong- t em pot ent i at i on i n
+mi ddl e—aged 111i ce[ J ] ．肌Mrosc抬M，2015，292：81- 89．
+[ 12]
+Li
+F L，wu x Q，Li
+J ，耐Ⅱz．Gi nsenosi de
+Rgl
+amel i omt es
+hi ppocampal
+l o“ g· te珊
+pot ent i at i on
+and
+memory
+i n
+an
+Al zhei mer’
+s di sease model [ J ] ．M甜讹d R甲，2016，13( 6) ：
+4904．49l O．
+『13]
+李明，李玺，权乾坤，等．老年痴呆模型中人参皂苷
+Rg。预处理对大鼠脑片中突触素表达的影响[ J ] ．西部医
+学，2018，30( 4) ：485_488．
+[ 14]
+Gi bbons c H．Basi c8 of aut onomi c ner vous
+syst em f uncti on[ J ] ．
+万方数据
+2021年4月
+第43卷第4期
+中成药
+Chi nese Tmdi t i onal
+Pat ent
+Medi ci ne
+Apri l
+2021
+V01．43
+No．4
+爿07zd6 C胁z』VeMroZ，2019，160：40’
+7- 418．
+[ 15]
+Hual l g L，Li u L F，Li u
+J ，ef 。z．Gi nsenosi de
+Rgl
+prot ect s
+agaj ns￡
+neurodegenerat j on
+by
+i nducj “ g
+neudf e
+out growt h
+j n
+cul t ured hi ppocampal neurons[ J ] ．ⅣeMroz R昭℃n R∞，2016，11
+( 2) ：319．325．
+[ 16]
+shi R，z11ang s s，cheng G Q，e#。z．Gi nsenosi de Rgl
+aJ l d
+4∞ri
+Gmmi nei
+R^洳m。
+at t enuat es
+neur on
+cel l
+印opt osi s
+by
+pmmot i ng t he el pressi on 0f
+mi r一873—5p
+i n Al zhei mer’
+s di sease
+[ J ] ．舭uroc^∞1 R∞，2018，43( 8) ：1529—1538．
+[ 17]
+刘铮，魏成喜．阿尔兹海默症的发病机制探究『J ] ．世界
+最新医学信息文摘，2019，19( 8) ：170一171．
+[ 18]
+Zl 】a119 H，zheng Y．p A瑚y】oi d hypot besi s
+j J l
+A】zbej mer’
+s
+di sease：
+pat hogenesi s，
+prevent i on，
+and
+man89ement
+[ J ] ．
+Ac把AcⅡd讹d 5流，2019，41( 5) ：702—708．
+[ 19]
+叶茂盛，赵东杰，周勇，等．人参皂苷R91对p淀粉样
+蛋白诱导的神经细胞凋亡的研究[ J ] ．浙江中西医结合杂
+志，2017，27( 8) ：642—645；634．
+[ 20]
+Gi acobi ni E，Pepeu c．sex and gender di f f erences
+i n t he brai n
+chol i ner西c 8yst em and i n t he response
+t o t her8py of Al zhei mer
+di sease wi t h chol i nest emse i nhi bi tors『J ] ．
+C“ rr AZ抗ei mer
+Res．
+2018，15( 11) ：1077- 1084．
+[ 21]
+杨琳，艾静．脑源雌激素在阿尔茨海默病中的作用研
+究进展[ J ] ．神经药理学报，2019，9( 5) ：50一64．
+[ 22]
+shi
+c，zheng D D，Fang L，ef
+oz．Gi nsenosi de Rgl pmmot es
+nonamyl oi dgeni c cl eavage of APP∥ 如est rogen recept or si gnal i ng
+t o MAPK／ERK and P13K／Akt [ J ] ．Bi oc^i m Bi op瞳"Ac把，
+2012，1820( 4) ：453_460．
+[ 23]
+于罡，刘鑫，何蔚．阿尔茨海默病的线粒体损伤机
+制[ J ] ．赣南医学院学报，2019，39( 4) ：390．395．
+[ 24]
+shi m J
+s，song MY，Yi m s
+V，酣Ⅱz．Gl obal
+anal ysi s
+0f
+gi l l senosi de R91 prot ect i ve eⅡbct s i n B—ar。l yl oi d—treated neuronal
+cel l s[ J ] ．，Gi Ⅲe增鼢，2叭7，4l ( 4) ：566- 571．
+[ 25]
+乔蕾，孙寅轶，曲忠森．t au蛋白和B．淀粉样蛋白在阿
+尔茨海默病病理过程中作用及自噬机制的研究概况『J ] ．
+中华诊断学电子杂志，2019．7( 2) ：94—97．
+[ 26]
+刘菊．阿尔茨海默病发病机制研究进展[ J ] ．黔南民族医
+专学报，2018，31( 4) ：261—263．
+[ 27]
+陈光银，董长治，王静，等．阿尔茨海默症的发病机理
+假说[ J ] ．广东化工，2019，46( 11) ：115一117．
+[ 28]
+Kaushal
+A，waI l i wY，Bal
+A，酣Ⅱz．0kadai c aci d aJ l d hypoxi a
+i nduced dement i a
+model
+0f
+Al zhei mer’
+s
+t ype
+i n rat s[ J ] ．
+ⅣeMmf ∞R∞，2019，35( 3) ：621—634．
+[ 29]
+song x Y，Hu J F，chu s F，耐Ⅱz．Gi nsenosi de R91 at t enuat es
+okadai c
+aci d
+i nduced
+5pat i al
+memory
+i Ⅲpai rI l l ent
+by
+t he
+csK3B／t au si gnal i ng pat hw8y and t he AB f 0珊ati on prevent i on
+i n rat s[ J ] ．EMr．，P矗ⅡrmⅡ∞z，2013，710( 1—3) ：29- 38．
+[ 30]
+He Y H，zhao H J ，su
+G F．Gi nsenosi de
+R91
+decreases
+neu加曲ml ary
+t aI l des
+accuⅢul at i on
+i n
+ret i na
+by
+陀gLl l at i “ g
+act i Vi t i es of
+nepri l ysi n and PKA i n
+ret i nal
+cel l s
+of AD mi ce
+model [ J ] ．．，胁z，ve“ rosci ，2014，52( 1) ：101．106．
+[ 31]
+Yang Y，J i a x x，Feng J
+c，ef
+nz．Fuzheng quxi e decoct i on
+amel i omt es l eami ng and memol y i mpai nnent i n SAMP8 mi ce by
+[ 32]
+[ 33]
+[ 34]
+[ 35]
+[ 36]
+[ 37]
+[ 38]
+[ 39]
+[ 40]
+[ 41]
+[ 42]
+[ 43]
+[ 44]
+[ 45]
+[ 46]
+decreasi ng
+t au
+hype。phosphor) dat i on
+[ J ] ．点沁i d
+日05ed
+co唧如眦凡￡A船m口￡胁d，2017，2017：5934254．
+张彩凤，刘志帆，宋珍，等．黄腐酸及人参皂苷Rgl 对
+蛋白磷酸酯酶2A影响的初步研究[ J ] ．腐植酸，2018( 3) ：
+47—55：63．
+Hampel
+H，Mesul amMM，Cuel l o A C，以ⅡZ．The c110l i l l e增i c
+syst em i n
+t he pat hophysi ol ogy and
+t reat Ⅲent
+of 』Uzhei mer’
+s
+di sea弓e[ J ] ．曰m流，2018，141( 7) ：1917—1933．
+Sul t zer D L．
+Cogni t i ve
+agei ng
+and Al zhei mer’
+s
+di sease：
+t he
+chol i nergi c
+syst em redux[ J ] ．Bm流，2018，
+141( 3) ：
+626—628．
+“ u Y，Gao
+Y，
+“
+K
+X，
+以。正
+Pba埘】acoki net j cs
+and
+ace‘
+yl chol i ne
+rel easi ng
+ef f ect s
+of
+gi nsenosi de
+R91
+i n
+hi ppocampus 0f bet a- amyl oi d model
+rats[ J ] ．．，Asi 血nⅣ耐Prod
+Res，2019，21( 8) ：772- 781．
+Choi R J ，Roy A，J ung H J ，酣ⅡZ．BACEl
+mol ecul ar docki ng
+and aJ l t i —Al zhei mer’
+s
+di sease
+act i vi t i es 0f 西nsenosi des[ J ] ．
+．，＆^“ 叩^nmncDZ，2016，190：219· 230．
+Tobore T O．0n t he cent ral ml e 0f mi t ochondri a dysf unct i on aI l d
+oxi dat i ve st ress i n Al zhei mer’
+s di sease[ J ] ．^o“ roz＆i ，2019，
+40( 8) ：
+1527- 1540．
+Mecocci
+P，Boccardi
+V，Cecchet t i
+R，酣nZ．A l ong j 叫m8y i nt o
+agi ng，
+bmi n a矛ng，
+and Al zhei mer’
+s
+di sease
+f ol l owi ng
+t he
+oxi dat i ve st ress tmcks[ J ] ．t，』4￡如ei mem D厶，2018，62( 3) ：
+1319．1335．
+向
+珥．人参皂苷Rgl 调控wnL／p—cat eni n信号通路延缓神经
+干细胞衰老的机制研究[ D] ．重庆：重庆医科大学，2018．
+Chen L
+B，
+Yao
+H，
+Chen X
+B，e￡Ⅱf ．Gi nsenosi de
+Rgl
+decreases
+oxi dat i ve
+st ress
+and
+down—regul at es
+Akt ／mTOR
+si gnal l i ng
+t o
+at t enuat e
+cogni t i ve
+i mpai nnent
+i n
+mi ce
+and
+senescel l ce of neural
+st em cel l s i nduced by d—gal act ose[ J ] ．^k¨ 一
+mckmR∞，2018，43( 2) ：430一440．
+刘琳，张凯，何勐，等．人参皂苷Rg。对阿尔茨海
+默病转基因小鼠的神经保护作用[ J ] ．中草药，2020，51
+( 5) ：
+1264．1272．
+Xu T Z，Shen X Y，Sun L L，耐ⅡZ．Gi nsenosi de Rgl
+prot ect s
+agai nst
+H2 02 i nduced neuronal d砌age due t o i nhi bi t i on 0f
+t he
+NLRP 1
+础aⅢmasome
+si gn拙ng
+pat hway
+i n
+hi ppoc砌pal
+neurons抽口i f ro[ J ] ．如t，讹z肘甜，2019，43( 2) ：717—726．
+王莹莹，宋修云，王奇，等．人参皂苷Rgl 通过抗氧化
+应激保护冈田酸诱导的Pcl 2细胞损伤『J ] ．中国药理学通
+报，2016，32( 10) ：1364—1370．
+李潭，张萌，林韬，等．阿尔茨海默病治疗药物的
+研究现状[ J ] ．中国临床药理学杂志，2019，35( 19) ：
+2479．2482．
+程屹俊，梁琼麟，王义明，等．应用洗脱一推挤逆流色谱法
+高效分离制备人参皂苷Rgl 、耐及Rd[ J ] ．中成药，2012，
+34( 1) ：89- 93．
+李滢，张敏，高宏涛，等．三醇皂苷中人参皂苷Rgl
+的分离纯化工艺研究[ J ] ．云南中医中药杂志，2018，39
+( 11) ：69．71．
+987
+万方数据

@@ -1,0 +1,610 @@
+作者单位：730050　
+兰州�兰州军区兰州总医院神经内科［张明
+磊　
+杨金升（通讯作者）　
+石向群　
+司江华　
+曲传勇　
+王彦平　
+范　
+磊］
+人参皂甙 Rd 对颞叶癫
+大鼠学习
+记忆能力及海马5-HT 表达的影响
+张明磊　
+杨金升　
+石向群　
+司江华　
+曲传勇　
+王彦平　
+范　
+磊
+　
+　
+【摘要】　
+目的　
+研究人参皂甙 Rd 对氯化锂-匹罗卡品点燃颞叶癫
+（temporal lobe epilepsy�T LE）大鼠
+学习记忆能力及海马5-HT 表达的干预作用。方法　
+建立氯化锂-匹罗卡品点燃颞叶癫
+大鼠模型�将30只
+造模成功的颞叶癫
+大鼠随机分为 T LE 组（生理盐水10ml／kg 腹腔注射�15只）及 GSRd 干预组（人参皂甙
+Rd2mg／kg 腹腔注射�15只）�另选15只大鼠作为正常对照组；采用 Morris 水迷宫及免疫组化染色分别检测
+各组大鼠学习记忆能力及海马5-HT 表达水平。结果　
+与正常对照组比较�T LE 组大鼠学习记忆能力下降�
+海马5-HT 表达明显减少（P＜0．05）；与 T LE 组比较�GSRd 干预组可显著提高大鼠学习记忆能力及海马5-
+HT 的表达水平（P＜0．05）。结论　
+人参皂甙 Rd 可能通过增加海马5-HT 的表达来提高颞叶癫
+大鼠学习
+记忆能力。
+【关键词】　
+人参皂甙 Rd　
+颞叶癫
+　
+学习记忆能力　 5-HT
+【中图分类号】　
+R742．1　
+【文献标识码】　
+A　
+【文章编号】　
+1007-0478（2010）03-0147-04
+Effects of Ginsenoside Rd on learning and memory abilities and5-HT expression in hippocampus of temporal lobe epilepsy rats
+　
+Zhang Minglei�Y ang Jinsheng�Shi Xiangqun�et al．Dep artment of
+Neurology�L anz hou General Hospital of PL A �
+L anz hou730050
+【Abstract】　
+Objective　
+To investigate the effects of ginsenoside Rd on the learning and memory abilities and5-HT expres-
+sion in hippocampus CA1of the temporal lobe epilepsy Rats induced by lithium-pilocarpine．Methods　
+T he temporal lobe epi-
+lepsy rat models were established with lithium and pilocarpine intraperitoneally．30temporal lobe epilepsy rats were randomly
+divided into 2groups：T LE group（NS 10ml／kg�intraperitoneal injection）�and Ginsenoside Rd intervention group （Ginsen-
+oside Rd2mg／kg�intraperitoneal injection）．In addition�15 rats were assigned to the normal control group．Morris maze test
+was conducted for valuating the learning and memory abilities in each groups．T he expression of 5-HT in hippocampus CA1
+were examined by immunohistochemistry staining．Results　
+Compared with normal control group�rats in T LE group showed
+worse learning and memory abilities（P＜0．05）and fewer expression of 5-HT in hippocampus CA1（P＜0．05）；Compared with
+T LE group�Ginsenoside Rd intervention group had significantly improved on the learning and memory abilities（P＜0．05）and
+showed more expression of 5-HT in hippocampus CA1（P＜0．05）．Conclusions　
+Ginsenoside Rd may play an important role in
+alleviating the injury on the learning and memory abilities in T LE by increasing the expression of 5-HT in hippocampus CA1．
+【Key words】　
+Ginsenoside Rd（GSRd）　
+Temporal lobe epilepsy（T LE）　
+Learning and memory abilities　 5-HT
+　
+　
+颞叶癫
+是最常见的难治性癫
+之一�长期反
+复发作是导致癫
+患者认知功能障碍的主要原因之
+一
+［1］ �主要表现为记忆力、计算力和思维能力的下
+降。5-HT 是中枢神经系统重要的单胺类神经递
+质�参与人类的感觉、运动和行为等许多生理过程。
+海马中5-HT 与认知功能密切相关�在海马长时程
+效应增强（LTP）和记忆改善中起重要作用
+［2］ 。此
+外�5-HT 可以导致癫
+发作的波幅下降�对癫
+具
+有抑制效应
+［3］ 。因此�本实验利用氯化锂-匹罗卡品
+点燃颞叶癫
+大鼠模型�观察大鼠学习记忆能力及
+海马5-HT 表达情况�并采用人参皂甙 Rd（GSRd）
+进行干预�以探讨5-HT 在癫
+形成和学习记忆中
+的作用以及 GSRd 对颞叶癫
+大鼠认知功能损害的
+改善作用。
+1　
+材料与方法
+1．1　
+主要实验器材和药品　
+Morris 水迷宫（北京
+硕林苑科技有限公司产品）�氯化锂购自美国 Sigma
+·147·
+卒中与神经疾病2010年6月第17卷第3期
+公司�匹罗卡品购于日本 Wako 公司�人参皂甙 Rd
+注射液（纯度为99．8％）由广东泰禾生物药业有限公
+司提供�兔抗大鼠5-HT 多克隆抗体（一抗）、山羊抗
+兔 IgG（二抗）及 DAB 显色剂均购于北京中杉金桥
+生物公司。
+1．2　
+实验动物及分组　
+健康成年雄性 Wistar 大鼠
+45只（由兰州大学实验动物中心提供）�清洁级�体
+重180～250g�置于室温（24±2）℃�12h 昼夜循环
+光照条件下饲养。将实验大鼠随机分为正常对照组
+（15只）、T LE 组（15只）及 GSRd 干预组（15只）。
+1．3　
+动物模型制作　
+大鼠腹腔注射氯化锂生理盐
+水溶液（130mg／kg）�18h 后腹腔注射盐酸匹罗卡
+品生理盐水溶液（首剂30mg／kg）�以后每隔30min
+追加剂量（10mg／kg）�极量为60mg／kg�直至出现
+Ⅳ级以上 SE（status epilepticus�SE）�大鼠癫
+发作
+强度按照 Racine 法分级标准
+［4］ �点燃出现 Racine
+Ⅳ-Ⅴ级 SE60min 视为点燃成功�同时给予10％水
+合氯醛腹腔注射（300 mg／kg）及硫酸阿托品（0．5
+mg／kg）控制发作以防止大鼠抽搐过度致死。正常
+对照组大鼠注射等量生理盐水。将点燃成功大鼠随
+机分为 T LE 组及 GSRd 干预组。GSRd 干预组大
+鼠腹腔注射人参皂甙 Rd（2mg／kg）�正常对照组及
+T LE 组则给予等量的生理盐水（10ml／kg）腹腔注
+射。各组大鼠每天给药1次�30d 后行 Morris 水迷
+宫测试。
+1．4　
+学习记忆能力测试　
+采用 Morris 水迷宫试
+验�Morris 水迷宫主体为直径150cm�高50cm 的
+黑色圆形不锈钢水池�水深30cm�水温保持（22±
+1）℃；在水池壁上标明4个入水点�由此将水池等分
+为4个象限�将第一象限中心作为目标象限（target
+quadrant）�正中水域放置一圆形隐藏逃生平台（黑
+色平台直径为9 cm�高28 cm）�平台低于水面2
+cm；实验期间水迷宫池壁标记及周围房间内参照物
+保持不变作为空间参照线索�以供大鼠定位平台�水
+迷宫正上方装有摄像装置并与计算机连接�通过图
+像采集及分析系统软件（SLY-WMS2．1）同步适时
+记录大鼠运动轨迹。
+1．4．1　
+定位航行试验（Place navigation test�PNT ）
+　
+连续学习训练5d�每天固定一个时间段�分别从
+4个象限的入水点将大鼠面向池壁放入水中�记录
+从入水到找到并爬上平台的时间（即逃避潜伏期）及
+活动总路程（即潜伏期距离）。如果120s 内大鼠没
+能找到平台�将其引向平台�潜伏期计为120s�每一
+时间段之4次潜伏期的算术平均数作为这一时间段
+的学习成绩。每次试验时平台位置固定不变。
+1．4．2　
+空间搜索试验 （Spatial probe test�SPT ）　
+在定位航行试验结束后撤除平台�分别从4个入水
+点将大鼠放入水中�记录大鼠120s 内搜寻平台的
+运动轨迹�在目标象限的停留时间和距离 占 总 时
+间 和 总 距离的百分比及穿越原平台区的次数�并
+进行统计分析�观察受试鼠的空间记忆能力。
+1．5　
+组织标本及切片制备　
+水迷宫测试结束后�各
+组大鼠在相应的取材时间点灌注取材（以10％水合
+氯醛300mg／kg 腹腔注射麻醉后�开胸暴露心脏�
+直视下用20ml 注射器针头经左心室刺入主动脉�
+同时剪开右心耳；连接输液器后依次用生理盐水
+100ml 及4％多聚甲醛250ml 灌注固定后取脑）�
+冠状位切取视交叉后1～4mm 脑组织；各组标本经
+常规脱水、透明、浸蜡及石蜡包埋后�以冠状位切片
+法取背侧海马最大面积处连续切片（片厚5μm）�进
+行5-HT 免疫组化染色。
+1．6　 5-HT 免疫组化检测　
+采用 SP 法行免疫组织
+化学染色（一抗为兔抗5-HT 多克隆抗体�二抗为生
+物素化标记的山羊抗兔 IgG）。具体步骤为切片依
+次经二甲苯、梯度酒精脱蜡入水�依次于室温下滴加
+3％过氧化氢溶液20min 以灭活内源性过氧化物
+酶�滴加正常山羊血清封闭孵育20min�倾去不洗�
+滴加兔抗大鼠5-HT 多克隆抗体（1∶150）50μl�4℃
+孵育16～18h 后置37℃复温30min�滴加生物素
+化的山羊抗兔 IgG�室温孵育20min；滴加辣根酶标
+记的链霉卵白素孵育20 min；上述各步骤间均用
+0．01mol／L PBS 振洗3次�每次5min；此后以二
+氨基联苯胺（3�3-＇ diaminobenzidine�DAB）显色3～
+5min�显微镜下观察控制显色过程；DAB 显色后用
+自来水终止反应；苏木素复染�梯度酒精脱水、二甲
+苯透明、中性树胶封片。阴性对照组采用0．01mol／
+L PBS 代替5-HT 抗体�步骤同上。
+1．7　
+图像分析及统计学处理
+1．7．1　
+图像分析　
+在光镜下观察大鼠海马 CA1区
+5-HT 阳性细胞的表达强弱；用 DP controller 70／
+OlympusBX61显微摄影分析系统进行图像采集；光
+镜下（×400倍）于每一张切片海马 CA1区随机选
+取5个不重叠视野采集图像；采用 Image-Pro plus
+6．0软件测量每个视野的阳性细胞数及平均光密度
+（average optical density�AOD）值�并取算术平均数
+作为该例的阳性细胞数及 AOD 值以反映5-HT 表
+·148·
+Stroke and Nervous Diseases�Jun2010�Vol．17�No．3
+达的水平。
+1．7．2　
+统计学处理　
+所用实验数据采用均数±标
+准差（-
+x±s）表示�使用 SPSS 16．0统计软件包�多样
+本间均数比较采用 one-w ay A NOV A 检验�组间比
+较采用 Donnet-
+t t 检验�检验水准 α＝0．05�以 P＜
+0．05为差异有统计学意义。
+2　
+结　
+果
+2．1　
+行为学观察　
+腹腔注射匹罗卡品后3～5min
+大鼠出现外周胆碱能反应（M 样作用）�如竖毛、缩
+瞳、流泪、流涎及腹泻；约30min 后发展为全身性强
+直-阵挛发作�失去体位控制伴有直立、跌倒；注射水
+合氯醛后3min 左右 SE 逐渐停止�存活鼠进入2～
+4d 的毒性阶段�表现为体重突然下降、皮毛不光
+滑、蜷伏不动、不进饮食、易激惹；经过10～20d 的
+缄默期后每天可观察到数次Ⅰ～Ⅲ级的自发反复发
+作�每次持续时间数秒至数分钟不等；在急性毒性阶
+段 GSRd 干预组大鼠体重下降较 T LE 组少�并且较
+早出现体重恢复性增长�发作程度减轻且次数减少。
+正常对照组体重增加正常�且未观察到
+性发作。
+2．2　
+定位航行试验　
+在5个不同时间段的学习训
+练过程中正常对照组和 GSRd 干预组逃避潜伏期逐
+日缩短�学习记忆成绩逐步提高�而 T LE 组大鼠的
+学习能力低�在5d 的学习测验中成绩几乎没有得
+到提高。T LE 组平均逃避潜伏期及潜伏期距离均
+显著长于正常对照组和人参皂甙 Rd 干预组（ P＜
+0．05）；与 T LE 组比较�GSRd 干预组平均逃避潜伏
+期和潜伏期距离明显缩短（P＜0．05）（表1）。
+表1　
+人参皂甙 Rd 对癫
+大鼠空间学习记忆
+能力的影响（x-±s）
+组别
+n
+逃避潜伏期
+（ms）
+潜伏期距离
+（m）
+正常对照组
+15
+35211．75±11350．44
+8．15±2．79
+T LE 组
+15
+83168．39±19187．85△ 18．64±5．10△
+GSRd 干预组
+15
+58487．04±26040．59▲ 13．55±4．48▲
+注：与正常对照组比较�△ P＜0．05；与 T LE 组比较�▲ P＜0．05
+2．3　
+空间搜索试验　
+选择性搜索策略是指被测试
+动物在逐渐记忆形成的情况下对目标象限的隐匿平
+台进行搜索时所表现出来的状态。通常情况下受过
+训练的动物在目标象限出现的频率和时间会高于其
+它3个象限。图1代表正常对照组的搜索策略图�
+这组大鼠能依靠空间线索找到平台�长时间在目标
+象限搜索并频繁穿越原平台区�其运动轨迹集中于
+目标象限�呈趋向式�在搜寻隐匿平台期间在目标象
+限停留了55．6％的时间（而没有在对侧象限停留）�
+穿越平台区5次；图2代表典型的 T LE 组大鼠的搜
+索策略图�这组大鼠较多地绕池壁游泳�活动范围
+大�较少游向原平台附近�运动轨迹呈随机式�在目
+标象限停留了33．7％的时间（而在对侧象限停留了
+20．6％的时间）�没有穿越平台区；图3代表 GSRd
+干预组大鼠的搜索策略图�这组大鼠也表现出一定
+的搜索策略�活动范围较集中于目标象限且穿越原
+平台所在位置�其运动轨迹也呈明显的趋向式�在目
+标象限停留了42．5％的时间（而在对侧象限停留了
+11．0％的时间）�穿越平台区1次。
+图1
+图2
+图3
+　
+　
+空间搜索试验中 T LE 组大鼠在目标象限停留
+时间及路程的百分比及穿越原平台区的次数均显著
+低于正常对照组和人参皂甙 Rd 干预组（P＜0．05）；
+与 T LE 组比较�人参皂甙 Rd 干预组在原平台象限
+停留时间的百分比及穿越原平台区的次数均显著高
+于 T LE 组（P＜0．05） （表2）。
+表2　
+人参皂甙 Rd 对癫
+大鼠空间学习记忆
+能力的影响（x-±s）
+组别
+n
+目标象限停留
+时间百分比
+目标象限游泳
+距离百分比
+穿越原平台
+区平均次数
+正常对照组
+15 45．30±7．67
+43．62±5．94
+3．03±0．74
+T LE 组
+15 25．63±4．93▲ 26．23±4．69▲
+0．75±0．28▲
+GSRd 干预组 15 37．47±5．12△ 38．38±3．35△
+1．88±0．38△
+注：与正常对照组比较�▲ P＜0．05；与 T LE 组比较�△ P＜0．05
+2．4　 5-HT 表达水平　 5-HT 免疫反应产物位于神
+经元胞浆中�阳性反应呈棕黄色者颗粒�阴性对照切
+片未见阳性表达。测量各时间点海马 CA1区5-HT
+的阳性细胞数及平均光密度（average optical densi-
+·149·
+卒中与神经疾病2010年6月第17卷第3期
+ty�AOD）值。与正常对照组比较�T LE 组大鼠海马
+CA1区5-HT 表达显著减少（ P＜0．05）。与 T LE
+组比较�GSRd 干预组大鼠海马 CA1区5-HT 表达
+明显增多（P＜0．05）（表3）。
+表3　
+各组大鼠海马 CA1区5-HT 表达阳性细胞数
+及 AOD 值（x-±s）
+组别
+n
+5-HT 表达水平
+阳性细胞数
+（个／每400倍视野）
+AOD 值
+正常对照组
+15
+41．8±6．5
+0．354±0．053
+T LE 组
+15
+17．7±5．9△
+0．191±0．061△
+GSRd 干预组
+15
+29．6±5．3▲
+0．294±0．046▲
+注：与正常对照组比较�△ P＜0．05；与 T LE 组比较�▲ P＜0．05
+3　
+讨　
+论
+氯化锂-匹罗卡品致
+大鼠模型是国际通用的、
+理想的颞叶癫
+模型
+［4�5］ 。颞叶癫
+引起大鼠的空
+间学习记忆能力损害的具体机制尚不清楚�可能是
+通过突触重塑、钙离子超载、谷氨酸毒性及脑内神经
+递质改变等多种途径形成。单胺类神经递质5-HT
+与癫
+发作和学习记忆有密切关系。已证实遗传性
+癫
+易感大鼠（GEPRs）存在海马5-HT 的降低�应
+用5-HT 拮抗剂 ritanserin 可以减少其湿狗样抖动
+发作
+［6］ 。某些癫
+患者发作与其脑内缺乏5-HT 能
+神经传递有关
+［7］ 。升高体内5-HT 水平的物质�比
+如5-HT 和5-HT 重摄取抑制剂�可以抑制四肢和
+全身发作
+［8］ 。有研究发现谷氨酸致
+大鼠海马5-
+HT 水平明显降低
+［9］ 。5-HT 通过不同的受体亚型
+发挥着不同的生理效应。与癫
+密切相关的是5-
+HT2C 受体。激动5-HT2C 受体也可起到抗惊厥作
+用�因此�5-HT2C 的激活可以刺激该神经元而间接
+地起到抗癫
+作用�克隆的5-HT2C受体可作为抗癫
+药物新的作用靶点
+［10］ 。脑内5-HT 下降的大鼠
+其学习记忆能力亦显著降低。Mazer 等给成年大鼠
+脑中灌注酪氨酸羟化酶抑制剂-对氯苯丙氨酸以耗
+竭5-HT �结果出现大鼠学习能力缺损
+［11］ 。
+人参皂甙 Rd（ginsenoside Rd�GSRd）是从中药
+人参（Panax ginseng）、三七（Panax notoginseng）中
+提取的三萜皂苷类化合物。GSRd 在三七中的含量
+在0．36％～1．47％
+［12］ 之间�比人参中含量高
+［13］ 。研
+究表明 GSRd 能够减轻氧糖剥夺（oxygen-glucose
+deprivation�OGD）的体外培养海马神经元的损伤�
+其机制与人参皂甙 Rd 抑制氧化应激损伤�维持线
+粒体膜电势差水平和对抗谷氨酸兴奋性毒性对氧糖
+剥夺致神经元损伤有关
+［14］ 。最近有研究表明人参
+皂甙 Rd 是一种特异性受体操纵钙离子通道抑制
+剂�能够阻断受体调控性钙通道（receptor-operated
+Ca
+2＋ channels）和钙库调控性钙通道（store-opera-
+ted Ca
+2＋ channels）
+［15］ 。在颞叶癫痫
+间脑损伤中兴奋
+性氨基酸毒性作用是重要因素
+［16］ 。谷氨酸是主要
+的兴奋性神经递质�其过量释放可导致神经元受伤
+或死亡。实验发现人参皂甙可抑制胞内钙超载和谷
+氨酸的释放�以及通过抑制一氧化氮合酶抑制神经
+元凋亡而起到对抗谷氨酸兴奋性神经毒作用
+［17］ 。
+王爱民等发现�人参皂甙能明显提高动物脑干、纹状
+体、海马等部位5-HT 的含量�脑干5-HT 含量的增
+多还可进一步影响额叶、纹状体的多巴胺能神经元
+的功能�引起尾状核等脑区胆碱能神经功能的改变�
+从而起到提高记忆能力的作用
+［18］ 。本实验结果提
+示�T LE 组大鼠 Morris 水迷宫学习记忆能力明显
+低于正常对照组�人参皂甙 Rd 具有减轻颞叶癫痫
+间
+大鼠发作程度�改善学习记忆能力的作用。其药理
+作用机制可能与人参皂甙 Rd 通过抑制钙超载从而
+对抗谷氨酸兴奋性毒性作用�减轻神经元损害�提高
+中枢单胺类神经递质5-HT 的水平�抑制引起爆发
+放电的动作电位密切有关。
+参
+考
+文
+献
+1　
+宋雪祥�赵彦平．癫痫样放电对认知功能的影响．临床荟萃�
+2007�22（1）：67-68．
+2　
+Sudha S�Lakshmana M K�Pradhan N．Changes in learning and
+memory�acetylcholinesterase activity and monoamines in brain
+after chronic carbamazepine administration in rats．Epilepsia�
+1995�36（4）：416-422．
+3　
+Tokarski K�Zahorodna A�Bobula B�et al．Comparison of the
+effects of 5-HT1A and5-HT4receptor activation on field poten-
+tials and epileptiform activity in rat hippocampus．Exp Brain
+Res�2002�147（4）：505-510．
+4　
+Borges K�Gearing M�Mcdermott DL�et al．Neuronal and glial
+pathological changes during epileptogenesis in the mouse pilocar-
+pine model．Exp Neurol�2003�182（1）：21-34．
+5　
+梁　
+益�孙红斌�喻　
+良�等．锂-匹罗卡品致癫痫
+间大鼠海马胶质纤
+维酸性蛋白的表达及意义．卒中与神经疾病�2009�16（5）：280-
+282．
+6　
+Shin EJ�Jeong JH�Chung YH�et al．Decrease in the kainate-in-
+duced wet dog shake behavior in genetically epilepsy-prone rats：pos-
+sible involvement of an impaired synaptic transmission to the 5-HT
+（2A） receptor．J Pharmacol Sci�2009�110（3）：401-404．
+（下转第171页）
+·150·
+Stroke and Nervous Diseases�Jun2010�Vol．17�No．3
+CADASIL 患 者 出 现 颅 内 出 血
+［7�8］ �Ragoschke-
+Schumm 报道了1例出现小脑出血的 CADASIL 患
+者�但该患者有长期高血压病
+［9］ 。本例患者在右颞
+顶交界处有一直径约1．2cm 的大出血灶�且与以往
+报道不同�本例患者既无高血压病、糖尿病、高脂血
+症及心脏病病史�亦未服用抗血小板药及抗凝药物�
+使本例患者的脑出血更难解释。
+位于19号染色体上 Notch3基因突变是 CA-
+DASIL 的病因。Notch3基因在成年人仅表达在血
+管平滑肌细胞�该基因突变通过改变蛋白质构像�干
+扰配体-受体间的相互作用�或者产生异常的同源性
+或异源性二聚体�导致血管平滑肌细胞的变性�这种
+与基因突变相关的血管平滑肌细胞退形性病变是本
+病的核心发病机制
+［10］ 。CADASIL 的血管病理改变
+特征为血管平滑肌的变性缺失、管壁增厚引起的管
+腔狭窄及嗜锇物质 GOM 沉积于血管平滑肌细胞的
+基底层�除嗜锇物质 GOM 沉积于血管平滑肌细胞
+的基底层外�与高血压病所致的血管变性是一致的�
+而高血压是导致脑出血的最常见病因
+［8］ �本例患者
+虽无高血压病史且住院期间血压监测正常�但与高
+血压相似的血管损害可能是引发脑出血的基础。而
+患者表现的以焦虑为主的情感障碍导致的血压波动
+可能是脑出血的直接诱因。此外�颅内微出血数与
+大出血灶关系密切
+［11］ �本例患者颅内微出血灶多达
+26个�多于平均的9个微出血灶
+［4］ �可能也是本例
+患者容易出现颅内大出血灶的原因。
+总之�CADASIL 也可以表现为脑出血�可能与
+抗凝剂和抗血小板剂的使用、颅内微出血的数量及情
+绪障碍引起的血压波动有关�因此�对于 CADASIL
+患者应谨慎使用抗凝药及抗血小板药物�合理控制血
+压�并可参考颅内微出血的数量评估出血风险。
+参
+考
+文
+献
+1　
+H Chabriat A�Joutel M�Dichgans E�et al．CADASIL．Lancet
+Neurol�2009�8（7）：643–653．
+2　
+陈璇�杨期东．伴皮质下梗死和白质脑病的常染色体显性遗传性
+脑动脉病的研究进展．中华神经科杂志�2009�42（2）：133-135．
+3　
+Malandrini A�Gandiano C�GambeUi S�et a1．Diagnostic value
+of ultrastructural skin biopsy studies in CADASIL．Neurology�
+2007�68（17）：1430-1432．
+4　
+van den Boom R�Lesnik Oberstein SA�Ferrari MD�et a1．Cere-
+bral autosomal dominant arteriopathy with subcortical infarcts
+and leukoencephalopathy：MR imaging findings at different ages
+-3rd-6th decades．Radiology �2003�229（3）：683-690．
+5　
+Dichgans M�Holtmannspotter M�Herzog J�et a1．Cerebral mi-
+crobleeds in CADASIL-A gradient-echo magnetic resonance im-
+aging and autopsy study．Stroke �2002�33（1）：67-71．
+6　
+Viswanathan A�Guichard JP�Gschwendtner A�et al．Blood
+pressure and haemoglobin A1c are associated with mircrohaemor-
+rha-ge in CADASIL：a two-centre cohort study．Brain�2006�
+129（9） ：2375-2383．
+7　
+Werbrouck BF�De Bleecker JL．Intracerebral haemorrhage in
+CADASIL．A case report．Acta neurol Belg�2006�106（4）：219-
+221．
+8　
+Oh JH�Lee JS�Kang SY�et al．Aspirin-associated intracerebral
+hemorrhage in a patient with CADASIL．Clin neurol neurosurg�
+2008�110（4）：384-386．
+9　
+Ragoschke-Schumm A�Axer H�Witte OW�et a1．Intracerebral
+haemorrhage in CADASIL． J Neurol Neurosurg Psychiatry�
+2005�76（11）：1606-1607．
+10 Hassan A�Markus HS．Genetics and ischemic stroke1．Brain�
+2000�123（9） ：1784-1812．
+11 Choi JC�Kang SY�Kang JH�et a1．Intracerebral hemorrhages
+in CADASIL．Neurology�2006�67（11）：2042-2044．
+（2009-09-01收稿）
+（上接第150页）
+7　
+Pranzatelli MR�Tate E�Huang Y�et al．Neuropharmacology of
+progressive myoclonus epilepsy：response to5-hydroxy-L-trypto-
+phan．Epilepsia�1995�36（8）：783-791．
+8　
+Yan QS�Jobe PC�Cheong JH�et al．Role of serotonin in the anti-
+convulsant effect of fluoxetine in genetically epilepsy-prone rats．Nau-
+nyn Schmiedebergs Arch Pharmacol�1994�350（2）：149-152．
+9　
+卢　
+敏�周厚纶�袁　
+远．褪黑素对谷氨酸钠致痫大鼠海马5-羟
+色胺水平的影响．中国组织化学与细胞化学杂志�2006�15（2）：
+148-152．
+10 Krishnakumar A�Abraham P M�Paul J�et al．Down-regula-
+tion of cerebellar5-HT（2C） receptors in pilocarpine-induced epi-
+lepsy in rats：therapeutic role of Bacopa monnieri extract．J
+Neurol Sci�2009�284（1-2）：124-128．
+11 Mazer C�Muneyyirci J�Taheny K�et al．Serotonin depletion
+during synaptogenesis leads to decreased synaptic density and
+learning deficits in the adult rat：a possible model of neurodevel-
+opmental disorders with cognitive deficits．Brain Res�1997�760
+（1-2）：68-73．
+12 严　
+华�粟晓黎�林瑞超�等．高效液相色谱法测定三七中人参
+皂苷 Rd 的含量．药物分析杂志�2002�22（5）：383-386．
+13 刘德育�曾　
+飒．从三七药材中快速批量分离提取人参皂苷 Rd
+的方法．中药材�2006�29（3）：247-249．
+14 Ye R�Li N�Han J�et al．Neuroprotective effects of ginsen-
+oside Rd against oxygen-glucose deprivation in cultured hipp-
+ocampal neurons．Neurosci Res�2009�64（3）：306-310．
+15 Guan YY�Zhou JG�Zhang Z�et al．Ginsenoside-Rd from pa-
+nax notoginseng blocks Ca2＋ influx through receptor-and store-
+operated Ca2＋ channels in vascular smooth muscle cells．Eur J
+Pharmacol�2006�548（1-3）：129-136．
+16 Dirnagl U�Iadecola C�Moskowitz M A．Pathobiology of ischae-
+mic stroke：an integrated view．T rends Neurosci�1999�22（9）：
+391-397．
+17 咸云淑�熊　
+文�程　
+刚．兴奋毒损伤海马神经细胞机制的研
+究．中国实验诊断学�2003�7（5）：417-418．
+18 王爱民�曹颖林�王玉坤�等．Effects of chinese ginseng root
+and stem-leaf saponins on learning�memory and biogenicmono-
+amines of brain in rats．中国中药杂志�1995�20（8）：493-495．
+（2009-11-30收稿）
+·171·
+卒中与神经疾病2010年6月第17卷第3期

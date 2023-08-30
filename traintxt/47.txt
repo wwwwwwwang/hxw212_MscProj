@@ -1,0 +1,1003 @@
+第 48 卷
+第 3 期
+2022 年 5 月
+吉
+林
+大
+学
+学
+报 （ 医
+学
+版 ）
+Journal of Jilin University （Medicine Edition）
+Vol. 48
+No. 3
+May
+2022
+DOI：10. 13481/j. 1671‑587X. 20220304
+人参糖蛋白对少弱精症小鼠生精障碍的改善作用
+单梦瑶 1, 王维纲 2, 董金香 1, 田建明 3, 宋莲莲 3, 陈英红 3, 房晓雪 1, 邱智东 1, 罗浩铭 4, 朱迪夫 5
+（1. 长春中医药大学药学院中药药剂实验室，吉林 长春 130117；2. 吉林医药学院附属医院中医科，
+吉林 吉林 132013；3. 吉林省中医药科学院中药二所，吉林 长春 130012；4. 长春中医药大学药学院
+药物化学与中药化学教研室，吉林 长春 130117；5. 长春中医药大学药学院生物制药与保健食品
+教研室，吉林 长春 130117）
+［摘
+要］
+目的
+目的：探讨人参糖蛋白 （PGG） 对少弱精症小鼠生精障碍的改善作用，并初步阐明其作
+用机制。方法
+方法：选取健康 雄 性 小 鼠 60 只 ， 随 机 分 成 正 常 组 、 模 型 组 、 阳 性 对 照 组 （生 精 胶 囊 ，
+700 mg·kg
+－1）、低剂量 PGG 组 （100 mg·kg
+－1 PGG）、中剂量 PGG 组 （200 mg·kg
+－1 PGG） 和高剂量
+PGG 组 （400 mg·kg
+－1 PGG），每组 10 只。除正常组外，其余组小鼠腹腔注射 30 mg·kg
+－1环磷酰胺，
+制备少弱精症模型。取各组小鼠附睾采集精子，显微镜下观察精子总数、精子活率、精子畸形率和精
+子活力，观察各组小鼠精子形态，采集各组小鼠睾丸 （双）、前列腺+贮精囊 （双）、包皮腺 （双） 和
+提肛肌，称质量并计算脏器系数，苏木精-伊红 （HE） 染色观察各组小鼠睾丸组织病理形态表现，
+ELISA 法测定各组小鼠血清睾酮 （T）、卵泡刺激素 （FSH） 和催乳素 （PRL） 水平。结果
+结果：与正常
+组比较，模型组小鼠精子总数降低 （P<0. 01）、精子活率降低 （P<0. 01）、精子畸形率升高 （P<
+0. 01）、精子活力降低 （P<0. 01），睾丸和前列腺+贮精囊脏器系数降低 （P<0. 05 或 P<0. 01），包
+皮腺和提肛肌脏器系数差异无统计学意义 （P>0. 05），生精小管中生精细胞层厚度和生精细胞层横截
+面面积减小 （P<0. 01），血清 T、FSH 和 PRL 水平降低 （P<0. 05 或 P<0. 01）。与模型组比较，中
+和高剂量 PGG 组小鼠精子总数升高 （P<0. 05）、精子活率升高 （P<0. 01）、精子畸形率降低 （P<
+0. 05 或 P<0. 01）、精子活力升高 （P<0. 05 或 P<0. 01），各脏器系数差异无统计学意义 （P>0. 05），
+生精小管中生精细胞层厚度和生精细胞层横截面面积增大 （P<0. 05 或 P<0. 01），生精胶囊组、中和
+高剂量 PGG 组小鼠血清 T 水平升高 （P<0. 05 或 P<0. 01）、生精胶囊组和各剂量 PGG 组小鼠血清
+FSH 水 平 升 高 （P<0. 05 或 P<0. 01）， 各 剂 量 PGG 组 小 鼠 血 清 PRL 水 平 升 高 （P<0. 01）。
+结论
+结论：PGG 具有剂量依赖性，给药剂量增加药效增强，PGG 能明显改善少弱精症小鼠生精障碍，其
+机制可能与 PGG 提高小鼠血清性激素水平有关。
+［关键词］
+人参糖蛋白；少弱精症；生精障碍；精子活力；性激素
+［中图分类号］
+R698. 2
+［文献标志码］
+A
+Improvement effect of Panax ginseng glycoproteins on
+spermatogenesis of mice with oligoasthenozoospermia
+SHAN Mengyao1, WANG Weigang2, DONG Jinxiang1, TIAN Jianming3, SONG Lianlian3,
+CHEN Yinghong3, FANG Xiaoxue1, QIU Zhidong1, LUO Haoming4, ZHU Difu5
+（1. Laboratory of Chinese Medicine，School of Pharmacy，Changchun University of Chinese Medicine，
+[文章编号]
+1671‑587X(2022)03‑0575‑09
+[收稿日期]
+2021‑08‑31
+[基金项目]
+国家自然科学基金项目 （81973468）；吉林省科技厅医药健康专项 （20200708081YY）
+[作者简介]
+单梦瑶 （1997－），女，河北省唐山市人，在读硕士研究生，主要从事中药药剂学方面的研究。
+[通信作者]
+罗浩铭，副教授，博士研究生导师 （E-mail：luo.haoming@163.com）；
+朱迪夫，讲师 （E-mail：zhudifu@163.com）
+575
+第 48 卷
+第 3 期
+2022 年 5 月
+吉林大学学报 （医学版）
+Changchun 130117，China；2. Department of Traditional Chinese Medicine，Affiliated Hospital，Jilin
+Medical College，Jilin 132013，China；3. Second Institute of Traditional Chinese Medicine，Academy of
+Chinese Medicine Sciences，Jilin Province，Changchun 130012，China；4. Department of Pharmaceutical
+Chemistry and Traditional Chinese Medicine Chemistry，School of Pharmacy，Changchun University of
+Chinese Medicine，Changchun 130117，China；5. Department of Biopharmaceutical and Health Food，
+School of Pharmacy，Changchun University of Chinese Medicine，Changchun 130117，China）
+ABSTRACT
+Objective：To investigate the improvement effect of Panax ginseng glycoproteins（PGG）on
+the
+spermatogenesis
+of
+the
+mice
+with
+oligoasthenozoospermia， and
+to
+preliminarily
+elucidate
+its
+mechanism.
+Methods：Sixty healthy male mice were randomly divided into normal group，model group，
+positive control group（Shengjing capsule，700 mg·kg
+－1），low dose of PGG group（100 mg·kg
+－1 PGG），
+medium dose of PGG group（200 mg·kg
+－1 PGG）and high dose of PGG group（400 mg·kg
+－1 PGG），and
+there were 10 mice in each group. Except for normal group，the mice in other groups were intraperitoneally
+injected with 30 mg·kg
+－1 cyclophosphamide to establish the oligoasthenozoospermia models. The sperm
+was collected from the mice in various groups. The total number，survival rate，malformation rate and
+motility of the sperm of the mice in various groups were examined under microscope. The morphology of
+the sperm of the mice in various groups was observed. The testis（double），prostate+seminal vesicle
+（double），preputial gland（double）and levator ani muscle of the mice in various groups were collected and
+weighed for the calculation of the organ coefficients. Hematoxylin-eosin（HE）staining was used to detect
+the pathomorphology of the testis tissue of the mice in various groups. The levels of serum testosterone
+（T），follicle stimulating hormone（FSH），and prolactin（PRL）of the mice in various groups were measured
+by ELISA method.
+Results：Compared with normal group，the total number of sperm of the mice in model
+group was decreased（P<0. 01），the survival rate of sperm was decreased（P<0. 01），the malformation
+rate of sperm was increased （P<0. 01），the motility of sperm was decreased （P<0. 01），the organ
+coefficients of testis and prostate + seminal vesicle were decreased （P<0. 05 or P<0. 01），the organ
+coefficients of preputial gland and levator ani muscle had no significant differences （P>0. 05）， the
+spermatogenic cell layer thickness and spermatogenic cell layer cross-sectional area in seminiferous tubule
+were decreased（P<0. 01），and the levels of serum T，FSH，and PRL were decreased（P<0. 05 or P<
+0. 01）. Compared with model group，the total number of sperm of the mice in medium and high doses of
+PGG groups were increased （P<0. 05），the survival rates of sperm were increased （P<0. 01），the
+malformation rates of sperm were decreased（P<0. 05 or P<0. 01），the motilities of sperm were increased
+（P<0. 05 or P<0. 01）， the organ coefficients had no significant differences（P>0. 05）， and the
+spermatogenic cell layer thickness and spermatogenic cell layer cross-sectional areas in seminiferous tubule
+were increased（P<0. 05 or P<0. 01）；the levels of serum T of the mice in Shengjing capsule group and
+medium and high doses of PGG groups were increased（P<0. 05 or P<0. 01），the levels of serum FSH of
+the mice in Shengjing capsule group and different doses of PGG groups were increased（P<0. 05 or P<
+0. 01），and the levels of serum PRL of the mice in different doses of PGG groups were increased（P<
+0. 01）.
+Conclusion：PGG has a dose-dependent effect；with the increasing of dosage，the efficacy is
+enhanced. PGG can obviously improve the spermatogenesis of the oligoasthenospermic mice，and its
+mechanism may be related to the increasing of serum sex hormone levels by PGG.
+KEYWORDS
+Panax
+ginseng
+glycoproteins； Oligoasthenozoospermia； Spermatogenesis； Sperm
+motility；Sex hormone
+少弱精症是近年来临床常见的病症，多导致男
+性不育症，已占男性不育病因的 75%。因环境污
+染和生活压力带来的影响日益加剧，男性患有少弱
+精症的人数逐年升高，发病率呈上升趋势
+［1-2］，主
+576
+单梦瑶，等 .
+人参糖蛋白对少弱精症小鼠生精障碍的改善作用
+要表现在精子总数与精子质量的明显下降。目前，
+少弱精症的病因病机尚不明确，致病因素较多且临
+床缺少特效治疗药物
+［3］。现阶段临床上常采用经验
+性药物治疗，例如采用促性腺激素和促性腺激素释
+放激素等激素疗法，或采用 L-肉碱和维生素 E 治
+疗，以及采用辅助生殖技术和手术治疗提高生育
+率。现有药物单用疗效并不显著，临床常采用联合
+用药的方式，药物带来了多种不良反应，且辅助生
+殖技术要求高、成功率低且价格昂贵，因此经验性
+药物及辅助技术在临床推广受到一定限制
+［4-7］。近
+年来，中医药治疗少弱精症优势较为明显，市场已
+有的中成药生精胶囊和麒麟丸均显示出了独特的
+疗效
+［8-9］。
+人参 （Panax ginseng C. A. Mey） 被誉为百草
+之王，具有补气固脱、健脾补肺和安神益智的作
+用
+［10-12］。研究
+［13-16］ 显示：人参具有改善男性性功
+能障碍的作用，其作用机制可能与睾丸中诱导精子
+生成并激活和增加精原干细胞中胶质细胞源性神经
+营 养 因 子 （glialcellline-derivedneurotrophicfactor，
+GDNF） 的表达有关，也可能与以内皮细胞和血管
+神经为介导的一氧化氮 （nitric oxide，NO） 释放有
+关 ， 或 是 人 参 中 有 效 成 分 影 响 Cyp11a1 基 因 的 表
+达，增强睾丸功能，影响器官形态与生殖系统发
+育。因此，人参在改善生精障碍和治疗少弱精症方
+面有很好的开发前景。
+本 课 题 组 针 对 人 参 糖 蛋 白 （Panax ginseng
+glycoproteins，PGG） 进行研究。本课题组
+［17］检测
+PGG 荧光标记后的小鼠体内药物的组织分布和靶
+向效率结果显示：PGG 在小鼠脑组织和睾丸组织
+有明显的靶向性趋势，具有透过血脑屏障和血睾屏
+障的可能性。为探讨 PGG 对少弱精症的治疗作用，
+本研究采用环磷酰胺建立小鼠少弱精症模型，在此
+基础上给予小鼠 PGG，在体内研究 PGG 促进小鼠
+生殖功能的生物活性，并初步探讨其作用机制。本
+实验旨在为深度开发 PGG 提供依据，为少弱精症
+治疗药物的研究奠定基础。
+1
+材料与方法
+1. 1
+动 物
+动 物 、主 要 试 剂 和 仪 器
+主 要 试 剂 和 仪 器
+昆 明 种 小 鼠 60 只 ，
+均为雄性，体质量 （20±1） g，由辽宁长生生物技
+术股份有限公司提供，动物生产许可证号：SCXK
+（辽） 2015-0001。 PGG （长 春 中 医 药 大 学 自 制），
+生精胶囊 （遵义廖元和堂药业有限公司），注射用
+环磷酰胺 （德国 Baxter Oncology GmbH 公司），小
+鼠 ELISA 试剂盒 （江苏绿叶生物科技有限公司），
+苏 木 精 - 伊 红 （hematoxylin eosin， HE） 试 剂 盒
+（山东西亚化学股份有限公司），生理盐水 （石家庄
+四药有限公司），甲醇 （天津市富宇精细化工有限
+公司）。Olympus BX51 光学显微镜 （日本 Olympus
+公司），NIS-ELEMNT BR 型图像分析系统 （日本
+Nikon 公司），BI2000 图像分析仪 （成都泰盟科技
+有限责任公司），i30 计数器 （广东省深圳市海天地
+科 技 有 限 公 司）， Leica RM2255 型 石 蜡 切 片 机 和
+Leica EG1140 石蜡包埋机 （德国 Leica 公司）。
+1. 2
+PGG 理 化 性 质 测 定 和 结 构 分 析
+理 化 性 质 测 定 和 结 构 分 析
+按 文 献
+［18］ 的方法测定 PGG 的中性糖构成比、酸性糖构
+成比和蛋白质构成比，进行相对分子质量分布测
+定、组成糖分析、氨基酸分析和甲基化分析。
+1. 3
+PGG 在 小 鼠 睾 丸 组 织 中 分 布 检 测
+在 小 鼠 睾 丸 组 织 中 分 布 检 测
+按 文 献
+［17］ 方法对 PGG 进行荧光标记，观察其在小鼠脏
+器组织中的分布情况。采集小鼠睾丸组织，并置
+于－20℃冰箱中冻存 20 min 后，将组织连续切片，
+置于载玻片上，放入动物荧光成像仪中，观察小鼠
+睾丸组织中荧光分布情况。拍摄条件：拍摄像素：
+2×2，FOV：10，激发波长：480 nm，发射波长：
+535 nm，曝光时间：2 s。
+1. 4
+生精胶囊和
+生精胶囊和 PGG 剂量设计
+剂量设计
+阳性对照药物：
+生精胶囊，临床用量为 0. 4 g/粒×12 粒/人/日，折
+算 成 小 鼠 的 等 效 剂 量 为 700 mg·kg
+－1； 根 据 文 献
+［19-20］， PGG 的 低 、 中 和 高 剂 量 分 别 设 为 100、
+200 和 400 mg·kg
+－1。
+1. 5
+小 鼠 少 弱 精 症 模 型 制 备
+小 鼠 少 弱 精 症 模 型 制 备
+［21］
+取 60 只 雄 性 小
+鼠，随机选取 10 只小鼠作为正常组，腹腔注射生
+理盐水 10 mL·kg
+－1，其余小鼠腹腔注射环磷酰胺
+30 mg·kg
+－1，每日 1 次，连续 7 d，建立小鼠少弱精
+症模型。与正常组比较，造模小鼠精子总数、精子
+活率和精子活力明显降低，精子畸形率明显升高，
+则表明造模成功。
+1. 6
+动物分组和给药处理
+动物分组和给药处理
+将小鼠随机分为正常
+组、模型组、阳性对照组 （生精胶囊，700 mg·kg
+－1）、
+低剂量 PGG 组 （100 mg·kg
+－1 PGG）、中剂量 PGG 组
+（200
+mg·kg
+－ 1
+PGG）
+和 高 剂 量 PGG 组
+（400 mg·kg
+－1 PGG）， 每 组 10 只 。 正 常 组 和 模 型
+组小鼠灌胃等体积纯净水，其他各组小鼠分别灌胃
+相应药液，每日 1 次，连续给药 28 d。
+1. 7
+各组
+各组小鼠精子检查
+小鼠精子检查
+给药结束次日取材，称
+量小鼠体质量、脱臼处死，打开腹腔，取出双侧睾
+577
+第 48 卷
+第 3 期
+2022 年 5 月
+吉林大学学报 （医学版）
+丸 ， 分 离 两 侧 附 睾 组 织， 置 入 含 有 提 前 预 热 至
+37 ℃、1 mL 生理盐水的小平皿中，采用眼科剪刀
+剪碎，静置 5 min，吸管吹打均匀。取悬液滴于细
+胞计数板中，立即置于显微镜下计精子总数、活精
+子 数 、 畸 形 精 子 数 、 前 进 运 动 精 子 数 （a 级 精 子
+数+b 级精子数），a 级精子：表示精子快速直线向
+前运动，直线运动；b 级精子：表示精子缓慢或呆
+滞向前移动，缓慢运动；并计算精子活率、精子畸
+形 率 和 精 子 活 力 。 精 子 活 率 = 活 精 子 数/精 子 总
+数 ×100%； 精 子 畸 形 率 = （头 、 尾 断 裂 的 精 子
+数） /精 子 总 数 ×100%； 精 子 活 力 = （a 级 精 子
+数 +b 级 精 子 数） /精 子 总 数 ×100%。 另 取 50 μL
+悬液滴至载玻片上，盖玻片纵向涂一线条，均匀涂
+片。置室温自然干燥，甲醇固定 5 min，干燥，1%
+伊红染色 1 h，用水轻冲，干燥，获得各组小鼠精
+子观察图。
+1. 8
+各组小鼠脏器系数测定
+各组小鼠脏器系数测定
+取小鼠睾丸 （双）、
+前列腺+贮精囊 （双）、包皮腺 （双） 和提肛肌称
+质量，分别计算睾丸、前列腺+贮精囊、包皮腺和
+提肛肌脏器系数。脏器系数= （脏器质量或脏器平
+均 质 量 / 小 鼠 体 质 量 ） ×100%， 单 位 均 为
+mg·100 g
+－1。
+1. 9
+HE 染色检测各组小鼠睾丸组织病理形态表
+染色检测各组小鼠睾丸组织病理形态表
+现
+取小鼠右侧睾丸组织，4% 多聚甲醛溶液固定
+24 h，进行梯度乙醇脱水透明。将固定后的组织横
+切，取 0. 5 cm 组织块，采用石蜡包埋，制备 5 µm
+切片，组织切片置于 60 ℃烘箱中烘烤 1 h，冷却至
+室温。
+将组织切片浸入二甲苯中浸泡 10 min，更换二
+甲苯后再浸泡 10 min，采用 100%、95%、90% 和
+80% 梯度乙醇水化，水冲洗，水化后的切片置入
+苏木精染液中浸泡 5~20 min，细胞核染成紫蓝色，
+水冲洗 3~5 min，1% 盐酸酒精分化 5~30 s，水冲
+洗 1~3 min，弱碱性水溶液返蓝 30~60 s，水充分
+冲洗 5~10 min，充分水化后的切片直接入伊红染
+色液中浸泡 5~15 min，细胞质染成粉红色，蒸馏
+水稍洗，采用 90%、95% 和 100% 梯度乙醇脱水，
+二甲苯透明，中性树胶封片。观察各组小鼠睾丸组
+织病理形态表现。
+1. 10
+各组小鼠生精小管形态指标测量
+各组小鼠生精小管形态指标测量
+测量各组
+小鼠睾丸组织中 12 个生精小管内生精细胞层厚度，
+取平均值。生精细胞层厚度反映生精细胞分化成熟
+程度，厚度值越高，生精细胞分化层级越高，生精
+细胞数量越多，精子生成和成熟进程越高。
+测量各组小鼠睾丸组织中 5 个类圆形生精小管
+切面内生精细胞层横截面的面积，取平均值。生精
+细胞层横截面面积反映动物生精能力，横截面面积
+越大，生精细胞数量越多，生精能力越强，生成精
+子总数越多。
+1. 11
+各组
+各组小鼠血清性
+小鼠血清性激 素 水 平 检 测
+激 素 水 平 检 测
+末 次 给 药
+1 h 后，小鼠眼眶采血，将血样以 3 000 r·min
+－1 离
+心 10 min，分离血清，采用 ELISA 法检测各组小
+鼠 血 清 睾 酮 （testosterone， T）、 卵 泡 刺 激 素
+（follicle stimulating hormone， FSH） 和 催 乳 素
+（prolactin，PRL） 水平，具体操作步骤按照试剂盒
+说明书进行。
+1. 12
+统计学分析
+统计学分析
+采用 SPSS 17. 0 统计软件进行
+统计学分析。各组小鼠精子总数、脏器系数、生精
+小管中生精细胞层厚度和生精细胞层横截面面积及
+血 清 性 激 素 水 平 经 正 态 性 检 验 呈 正 态 分 布 ，以
+-x ± s 表示，多组间样本均数比较采用单因素方差
+分析，组间两两比较采用 t 检验。精子活率、精子
+畸 形 率 和 精 子 活 力 组 间 两两比较采用 χ
+2检验。以
+P<0. 05 为差异有统计学意义。
+2
+结 果
+2. 1
+PGG 的理化性质和结构分析
+的理化性质和结构分析
+PGG 是相对分
+子质量为 12 690 （100%） 的大分子混合物，中性
+糖、酸性糖和蛋白质构成比分别为 45. 4%、4. 3%
+和 51. 1%。 PGG 单 糖 组 成 为 甘 露 糖 （21. 01%）、
+葡萄糖 （26. 53%）、N-乙酰葡萄糖或 N-乙酰半乳
+糖 （12. 17%）、 半 乳 糖 （28. 23%） 和 岩 藻 糖
+（9. 78%）。氨基酸检测结果显示：PGG 主要含有
+15 种 氨 基 酸， 其 中 谷 氨 酸 （13. 724%）、 精 氨 酸
+（6. 227%） 和 赖 氨 酸 （6. 19%） 居 多
+［17］。 甲 基 化
+分析和单糖组成分析结果表明：PGG 的主链部分
+是由→2） -Man- （1→，→4） -Rha- （1→，→4） -
+Fuc- （1→ ， →6） -Gal- （1→ ， →3） -Gal- （1→ ，
+→4） -GalA- （1→，→4） -GlcNAc- （1→，→4） -
+GalNAc- （1→ 组 成 ， 支 链 主 要 由 →3， 6） -Man-
+（1→ ， 2， 6） -Man- （1→ ， 2， 5） -Man- （1→ 组
+成 ， 末 端 主 要 由 1→） -Fuc， 1→） -Glc， 1→）
+GlcNAc or 1→） -GalNAc 组成。
+2. 2
+PGG 在小鼠睾丸组织中的分布
+在小鼠睾丸组织中的分布
+PGG 在小鼠
+睾丸组织处大量富集，睾丸组织的生精小管内有较
+强荧光信号表达，主要集中在生精小管内生精细胞
+表面。见图 1。
+578
+单梦瑶，等 .
+人参糖蛋白对少弱精症小鼠生精障碍的改善作用
+2. 3
+各组小鼠精子总数
+各组小鼠精子总数、精子活率
+精子活率、精子畸形率和
+精子畸形率和
+精子活力
+精子活力
+与正常组比较，模型组小鼠精子总数明
+显降低 （P<0. 01）；与模型组比较，生精胶囊组、
+中和高剂量 PGG 组小鼠精子总数明显升高 （P<
+0. 05）。与正常组比较，模型组小鼠精子活率明显
+降 低 （P<0. 01）； 与 模 型 组 比 较 ， 生 精 胶 囊 组 、
+中剂量 PGG 组和高剂量 PGG 组精子活率明显升高
+（P<0. 01）。与正常组比较，模型组小鼠精子畸形
+率明显升高 （P<0. 01）；与模型组比较，生精胶
+囊组、中剂量 PGG 组和高剂量 PGG 组小鼠精子畸
+形率明显降低 （P<0. 05 或 P<0. 01）。与正常组比
+较 ， 模 型 组 小 鼠 精 子 活 力 明 显 降 低 （P<0. 01）；
+与模型组比较，生精胶囊组、中剂量 PGG 组和高
+剂 量 PGG 组 精 子 活 力 明 显 升 高 （P<0. 05 或 P<
+0. 01）。见表 1 和图 2。
+2. 4
+各组小鼠各类脏器系数
+各组小鼠各类脏器系数
+与正常组比较，模
+型组小鼠睾丸和前列腺+贮精囊脏器系数明显降低
+（P<0. 05 或 P<0. 01），包皮腺和提肛肌脏器系数
+差 异 无 统 计 学 意 义 （P>0. 05）。 与 模 型 组 比 较 ，
+生精胶囊组和各剂量 PGG 组小鼠睾丸、前列腺+
+贮精囊、包皮腺和提肛肌脏器系数差异无统计学意
+表 1
+各组小鼠精子总数
+各组小鼠精子总数、精子活率
+精子活率、精子畸形率和精子活力
+精子畸形率和精子活力
+Tab
+Tab. 1
+Total number of sperm
+Total number of sperm，survival rates of sperm
+survival rates of sperm, malformation rates of sperm
+malformation rates of sperm, and motilities of sperm of mice in various
+and motilities of sperm of mice in various
+groups
+groups
+(n=10，-x ± s）
+Group
+Normal
+Model
+Shengjing capsule
+PGG
+Low dose
+Medium dose
+High dose
+Group
+Normal
+Model
+Shengjing capsule
+PGG
+Low dose
+Medium dose
+High dose
+Malformation rate
+of sperm（η/%）
+18.03±5.72
+41.87±6.24
+*
+27.82±8.26
+△△
+36.95±4.20
+30.73±6.40
+△
+26.67±3.94
+△△
+Total number of sperm
+（×10
+4 mL
+－1）
+148.10±35.86
+94.10±27.67
+*
+126.30±27.26
+△
+99.90±24.29
+127.90±32.00
+△
+136.60±44.17
+△
+F
+19.270
+7.197
+0.624
+3.936
+6.690
+Survival rate of sperm（η/%）
+76.84±6.69
+55.70±10.11
+*
+74.51±9.66
+△△
+67.28±14.43
+72.70±7.95
+△△
+74.66±3.14
+△△
+P
+<0.01
+<0.01
+>0.05
+<0.05
+<0.01
+Motility of sperm
+（η/%）
+68.45±7.31
+47.57±7.47
+*
+66.61±9.78
+△△
+54.83±9.54
+62.83±7.41
+△
+65.89±8.32
+△△
+F
+11.419
+7.197
+2.779
+6.908
+7.353
+F
+10.369
+7.001
+1.265
+4.063
+7.064
+P
+<0.01
+<0.01
+>0.05
+<0.01
+<0.01
+P
+<0.01
+<0.01
+>0.05
+<0.05
+<0.01
+*P<0.01 compared with normal group；
+△P<0.05，
+△△P<0.01 compared with model group.
+A：Methods of administration and analysis for detection of drug distribution in mice ；B ：PGG was enriched at mouse testis ；
+C：Fluorescence imaging in various organs；D：Fluorescence of testis tissue section.
+图 1
+PGG 在小鼠睾丸组织中的荧光分布
+在小鼠睾丸组织中的荧光分布
+Fig. 1
+Fluorescence distribution of PGG in testis tissue of mice
+579
+第 48 卷
+第 3 期
+2022 年 5 月
+吉林大学学报 （医学版）
+义 （P>0. 05）。见表 2。
+2. 5
+各组小鼠睾丸组织病理形态表现
+各组小鼠睾丸组织病理形态表现
+各组小鼠
+睾丸组织病理学结果显示：正常组小鼠睾丸组织生
+精细胞排列具有层次，所占面积较大，各级生精细
+胞数量丰富，精子分化形成过程中的各级细胞均易
+见，管腔内可见较多精子。与正常组比较，模型组
+小鼠睾丸组织生精上皮变薄，生精细胞层次和结构
+疏松、排列紊乱，生精过程中的各级细胞受损，分
+化异常，管腔内见少量精子或未见精子。与模型组
+比较，生精胶囊组和各剂量 PGG 组小鼠睾丸组织
+生精上皮表现为生精障碍的程度得到有效缓解，生
+精细胞层增厚，多见生精过程中的各级细胞，精子
+分化形成过程得到明显改善，管腔内精子总数增
+加，随着 PGG 剂量增加效果越明显。见图 3。
+2. 6
+各组小鼠生精小管中生精细胞层厚度和生精
+各组小鼠生精小管中生精细胞层厚度和生精
+细胞层横截面面积
+细胞层横截面面积
+与正常组比较，模型组小鼠生
+精小管中生精细胞层厚度和生精细胞层横截面面积
+明显减小 （P<0. 01）。与模型组比较，生精胶囊
+组和各剂量 PGG 组小鼠生精小管中生精细胞层厚
+度和生精细胞层横截面面积明显增加 （P<0. 05 或
+P<0. 01）。见表 3。
+2. 7
+各组小鼠血清性激素水平
+各组小鼠血清性激素水平
+与正常组比较，
+模 型 组 小 鼠 血 清 T 、 FSH 和 PRL 水 平 明 显 降 低
+（P<0. 05 或 P<0. 01）。与模型组比较，生精胶囊
+A：Normal group；B：Model group；C：Shengjing capsule group；D-F：Low，medium，and high doses of PGG groups.
+图 2
+各组小鼠精子形态表现
+各组小鼠精子形态表现（×100）
+Fig. 2
+Morphology of sperm of mice in various groups (×100)
+表 2
+各组小鼠各类脏器系数
+各组小鼠各类脏器系数
+Tab
+Tab. 2
+Different kinds of organ coefficients of mice in various groups
+Different kinds of organ coefficients of mice in various groups
+[n=10，-x ± s，wB /(mg·100 g
+－1)]
+Group
+Normal
+Model
+Shengjing capsule
+PGG
+Low dose
+Medium dose
+High dose
+Organ coeffieient
+Testis
+261.72±43.09
+204.80±44.32
+**
+197.13±31.15
+209.35±31.60
+207.90±25.40
+223.80±74.26
+Prostate+seminal vesicle
+714.80±183.90
+551.51±163.80
+*
+631.82±128.62
+666.70±143.90
+570.81±176.65
+571.26±188.18
+Preputial gland
+475.47±104.12
+440.24±118.43
+435.55±147.60
+363.60±75.14
+367.27±72.98
+370.51±127.90
+Levator ani muscle
+1 023.51±245.67
+1 046.21±307.60
+1 054.70±360.14
+882.35±214.70
+895.22±191.80
+879.34±287.24
+*P<0.05，
+**P<0.01 compared with normal group.
+580
+单梦瑶，等 .
+人参糖蛋白对少弱精症小鼠生精障碍的改善作用
+组、中剂量 PGG 组和高剂量 PGG 组小鼠血清 T 水
+平明显升高 （P<0. 05 或 P<0. 01），生精胶囊组和
+各剂量 PGG 组小鼠血清 FSH 水平明显升高 （P<
+0. 05 或 P<0. 01），各剂量 PGG 组小鼠血清 PRL 水
+平明显升高 （P<0. 01）。见表 4。
+3
+讨
+论
+近年来，随着人们对人参多糖及其复合物的研
+究不断系统和深入，对 PGG 的生物活性有了新的
+认 识 。 前 期 研 究
+［22-24］ 证 实 ： PGG 具 有 改 善 睡 眠 、
+增强学习记忆功能、镇静催眠和镇痛等多方面的作
+用。生精障碍即精子发生障碍，是引发男性不育的
+重要原因，其致病因素多样，一些无精子症或少精
+子症等大部分是由生精障碍引起的。本研究结果显
+示：PGG 可提高精子数量和质量，提高小鼠血清
+T、FSH 和 PRL 水平，可有效改善少弱精症小鼠
+的生精障碍。
+环磷酰胺是常用的抗肿瘤药物和免疫抑制剂，
+具有生殖毒性，可对生精干细胞进行破坏，影响
+p53 和 Fas/FasL 等途径，从而诱导生殖细胞畸形、
+遗传物突变和凋亡
+［25］。研究
+［26］ 显示：环磷酰胺可
+引起无精症或少精症，导致不育或畸形的发生。本
+研究采用环磷酰胺建立小鼠少弱精症模型，探讨
+PGG 对少弱精症小鼠生精障碍的改善作用。与正
+A：Normal group；B：Model group；C：Shengjing capsule group；D-F：Low，medium，and high doses of PGG groups.
+图 3
+各组小鼠睾丸组织病理形态表现
+各组小鼠睾丸组织病理形态表现（HE，×400）
+Fig. 3
+Pathomorphology of testis tissue of mice in various groups (HE，×400)
+表 3
+各组小鼠生精小管内生精细胞层厚度和横截面面积
+各组小鼠生精小管内生精细胞层厚度和横截面面积
+Tab
+Tab. 3
+Spermatogenic cell layer thickness and spermatoge
+Spermatogenic cell layer thickness and spermatogenic cell layer cross
+nic cell layer cross-sectional areas in seminiferous tubules of mice in
+sectional areas in seminiferous tubules of mice in
+var
+various groups
+ious groups
+(n=10，-x ± s）
+Group
+Normal
+Model
+Shengjing capsule
+PGG
+Low dose
+Medium dose
+High dose
+Spermatogenic cell layer thickness（l/µm）
+63.89±4.26
+42.91±4.61
+*
+50.36±4.86
+△△
+47.31±4.77
+△
+50.15±4.01
+△△
+52.92±5.15
+△△
+Spermatogenic cell layer cross-sectional area（S/µm
+2）
+24 144.17±5 509.80
+11 167.24±1 913.23
+*
+18 556.31±3 590.27
+△△
+15 689.35±4 359.50
+△
+17 919.70±6 462.12
+△△
+18 277.02±4 259.90
+△△
+*P<0.01 compared with normal group；
+△P<0.05，
+△△P<0.01 compared with model group.
+581
+第 48 卷
+第 3 期
+2022 年 5 月
+吉林大学学报 （医学版）
+常组比较，模型组小鼠的精子总数、精子活率和精
+子活力降低，精子畸形率升高，以上结果说明造模
+成功。小鼠精子总数、精子活率、精子畸形率和精
+子活力实验结果显示：生精胶囊组和各剂量 PGG
+组小鼠上述指标均有改善，且具有剂量依赖性，即
+中和高剂量 PGG 对少弱精症具有明显的治疗作用，
+表明 PGG 可促进精子发生，增强精子质量。小鼠
+脏器系数反映生殖器官的发育情况及损害情况
+［27］，
+与模型组比较，生精胶囊组和各剂量 PGG 组小鼠
+睾丸、前列腺+贮精囊、包皮腺和提肛肌脏器系数
+差异无统计学意义，结果表明 PGG 对脏器无明显
+毒害或修复损伤作用。睾丸组织病理形态结果需要
+结合精子检查的相关指标综合分析，因细胞不能明
+确分层，造模后会出现细胞成分、种类、形态复
+杂，排列紊乱等情况，不利于客观评价结果。为最
+大可能排除干扰，减小误差，本研究采用计算生精
+小管中生精细胞层厚度和生精细胞层横截面面积的
+方式进行评价。本研究结果显示：经生精胶囊和各
+剂量 PGG 治疗后，小鼠睾丸组织中生精障碍均得
+到 有 效 改 善， 且 对 PGG 具 有 剂 量 依 赖 性 ， 表 明
+PGG 可恢复生精上皮细胞形态和结构，推动细胞分
+化进程，逐步恢复分化秩序和功能，增加精子数
+量，有效改善少弱精症。
+T 是雄性激素的重要组成部分，其水平与睾丸
+生精功能密切相关，具有促进精子生成与成熟，提
+升精子数量与质量的作用
+［28-29］。FSH 作用于支持
+细胞分泌 T，PRL 虽然不被认为是一种“经典”的
+性激素，但其可能在男性内分泌控制中发挥作用。
+本 研 究 结 果 显 示 ： 模 型 组 小 鼠 血 清 T、 FSH 和
+PRL 水平明显低于正常组，经各剂量 PGG 治疗后，
+小鼠血清性激素水平提高，且具有剂量依赖性，高
+剂量 PGG 组小鼠血清 T、FSH 和 PRL 水平高于中
+剂量 PGG 组和低剂量 PGG 组。PGG 可能是通过提
+高血清性激素水平从而改善少弱精症小鼠生精障
+碍，但其对性激素作用的机制需要进一步的研究和
+探讨。
+综上所述，PGG 对少弱精症小鼠的生精障碍
+具有明显的改善作用，本研究结果为研究改善生精
+状况、提高精子活力和提高生殖质量提供了实验
+依据。
+[参考文献]
+［1］ 刘
+媛，葛平玉. 中医药治疗少、弱精子症的现状［J］.
+贵阳中医学院学报，2019，41（6）：79-83.
+［2］ MEHRA B L，SKANDHAN K P，PRASAD B S，et al.
+Male infertility rate：a retrospective study［J］. Urologia，
+2018，85（1）：22-24.
+［3］ 王
+哲 ，陈 亿 慧 ，蔡 平 平 . 少 弱 精 子 症 中 西 医 研 究
+进 展［J］. 河北中医，2017，39（9）：1434-1440.
+［4］ 钟小冬，俞旭君，安
+劬. 少、弱精子 症 治 疗 进 展［J］.
+中 国性科学，2016，25（2）：98-101.
+［5］ 林
+峰，陈永艳，康跃凡. 克罗米芬联合维生素E治疗
+特 发 性 少 弱 精 子 症 的 随 机 对 照 研 究［J］. 中 国 医 药 指
+南，2017，15（31）：44-45.
+［6］ 卢彦欣，杨
+瑞，姚旭旺，等. 左旋肉碱治疗小鼠少弱
+精症机理［J］. 中国兽医学报，2018，38（8）：1598-1602.
+［7］ 孔祥军，姜
+睿. 中药治疗少弱精子症的分子机制研究
+进展［J］. 中国男科学杂志，2018，32（1）：68-72.
+［8］ 王亚楠，魏延玲，杨
+立，等. 生精胶囊联合小剂量雄
+激 素 治 疗 睾 酮 低 下 的 特 发 性 少 弱 精 子 症 的 临 床
+观察［J］. 中国男科学杂志，2019，33（6）：42-45.
+［9］ 张开舒，傅龙龙，商学军，等. 麒麟丸治疗少弱精子症
+的临床研究进展［J］. 中华男科学杂志，2017，23（10）：
+938-941.
+［10］MANCUSO C， SANTANGELO R. Panax ginseng
+and
+panax
+quinquefolius： from
+pharmacology
+to
+toxicology［J］. Food Chem Toxicol，2017，107（Pt A）：
+362-372.
+［11］KIM
+J H， YI Y
+S， KIM
+M
+Y， et al. Role of
+ginsenosides， the main active components of Panax
+ginseng，in inflammatory responses and diseases［J］.
+J Ginseng Res，2017，41（4）：435-443.
+［12］ROKOT N T，KAIRUPAN T S，CHENG K C，et al.
+A role of ginseng and its constituents in the treatment of
+central
+nervous
+system
+disorders ［J］.
+Evid
+Based
+Complement Alternat Med，2016，2016：2614742.
+表 4
+各组小鼠血清性激素水平
+各组小鼠血清性激素水平
+Tab
+Tab. 4
+Levels of sex hormones in serum of mice in various
+Levels of sex hormones in serum of mice in various
+groups
+groups
+（n=10，-x ± s）
+Group
+Normal
+Model
+Shengjing
+capsule
+PGG
+Low dose
+Medium dose
+High dose
+T
+[cB/(nmol·L
+－1)]
+241.89±63.93
+149.99±46.10
+**
+203.62±51.15
+△
+198.03±44.08
+210.35±48.75
+△
+235.89±79.25
+△△
+FSH
+[λB/(U·L
+－1)]
+22.18±9.73
+12.22±4.76
+*
+25.39±11.00
+△
+26.96±8.65
+△△
+21.92±5.32
+△△
+32.32±6.37
+△△
+PRL
+[ρB/(mg·L
+－1)]
+7.61±1.08
+6.11±1.23
+*
+7.29±0.71
+8.75±0.68
+△△
+9.23±0.58
+△△
+11.59±2.86
+△△
+*P<0.05，
+**P<0.01 compared with normal group；
+△P<0.05，
+△△P<0.01 compared with model group.
+582
+单梦瑶，等 .
+人参糖蛋白对少弱精症小鼠生精障碍的改善作用
+［13］LEUNG
+K
+W， WONG
+A
+S.
+Ginseng
+and
+male
+reproductive function［J］. Spermatogenesis，2013，3（3）：
+e26391.
+［14］KIM I H，KIM S K，KIM E H，et al. Korean red
+ginseng up-regulates C21-steroid hormone metabolism
+via Cyp11a1 gene in senescent rat testes［J］. J Ginseng
+Res，2011，35（3）：272-282.
+［15］唐伟卓，赵余庆，贾
+力. 人参和人参皂苷新近研究证
+明的生物活性和临床用途［J］. 人参研究，2010，22（2）：
+32-38.
+［16］YANG W M，PARK S Y，KIM H M，et al. Effects of
+Panax ginseng on glial cell-derived neurotrophic factor
+（GDNF） expression and spermatogenesis in rats［J］.
+Phytother Res，2011，25（2）：308-311.
+［17］FANG X X，ZHU D F，CHEN Y H，et al. LC-MS/
+MS analysis of partial structure of Panax ginseng protein
+and its distribution in vivo［J］. Int J Biol Macromol，
+2020，150：695-704.
+［18］吕京南. 人参非皂苷成分治疗老年痴呆作用的药效物质
+基础研究［D］. 长春：长春中医药大学，2016.
+［19］罗浩铭，陈英红，周婷婷，等. 人参糖蛋白对小鼠学习
+和记忆能力的影响［J］. 吉林大学学报（医学版），2016，
+42（3）：439-445.
+［20］王
+颖，陈英红，徐
+宏，等. 人参糖蛋白的结构及其
+镇静安眠作用研究［J］. 特产研究，2017，39（2）：1-4，8.
+［21］郭锡春，高
+华，刘
+坤，等. 海参精囊两种提取物对
+环磷酰胺诱导的小鼠 睾 丸 氧 化 损 伤 的 保 护 作 用［J］.
+中国药房，2015，26（4）：497-499.
+［22］WANG
+Y， ZHU
+D
+F， CHEN
+Y
+H， et
+al.
+Metabonomics
+study
+of
+ginseng
+glycoproteins
+on
+improving sleep quality in mice［J］. Biomed Res Int，
+2019，2019：2561828.
+［23］LUO
+H
+M， JIANG
+R
+Z， YANG
+X
+H， et
+al.
+Purification
+and
+characterization
+of
+a
+novel
+tetradecapeptide
+from
+ginseng
+polypeptides
+with
+enhancing memory activity for mice［J］. Chem Res Chin
+Univ，2013，29（4）：638-641.
+［24］LUO H M，ZHU D F，WANG Y，et al. Study on the
+structure of ginseng glycopeptides with anti-inflammatory
+and analgesic activity［J］. Molecules，2018，23（6）：1325.
+［25］张盼盼，刘凤霞，阿地力江·伊 明. 少弱精症动物模型
+建立的研究进展［J］. 新疆医科大学学报，2014，37（8）：
+974-976，980.
+［26］JAHNUKAINEN K，EHMCKE J，HOU M，et al.
+Testicular function and fertility preservation in male
+cancer patients［J］. Best Pract Res Clin Endocrinol
+Metab，2011，25（2）：287-302.
+［27］李
+环，曲振廷，钱鸿昊，等. 人参皂苷Rg1联合人参皂
+苷Rg3对雄性生殖功能损伤模型小鼠生殖功能的改善
+作用［J］.吉林大学学报（医学版），2020，46（4）：707-713.
+［28］吴剑锋. 男性基础性激素水平与精子质量参数的相关性
+探讨［J］. 现代检验医学杂志，2020，35（3）：69-71，77.
+［29］朱
+倩，崔毓桂. 精子发生的调 节 机 制 及 其 进 展［J］.
+生 殖医学杂志，2016，25（4）：378-383.
+583

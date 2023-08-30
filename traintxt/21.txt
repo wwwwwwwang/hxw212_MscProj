@@ -1,0 +1,1677 @@
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+心力衰竭（heart failure）是各种心血管疾病的终
+末阶段，是最重要的心血管疾病之一。 心力衰竭患病
+率随着患者年龄增长而上升，70 岁以上发病率可达
+10%[1]，预后较差，临床数据表明患者患病 30 天、1 年
+和 5 年后的死亡率分别为 10.4%、22%和 42.3%[2]，与
+恶性肿瘤相比死亡率较高。现代医学认为心力衰竭是
+一组由心脏结构和（或）功能异常引起的临床综合征，
+主要表现为呼吸困难、疲乏和肢体浮肿等，且与多种
+非心血管疾病如慢性支气管炎、 慢性阻塞性肺疾病
+（COPD）、痛风、慢性肾病等密切相关[3]。根据其临床表
+现，心力衰竭在中医药理论中主要分属于胸痹、心悸、
+水肿、喘证等范畴，基本证候特征为心气虚证[4]。 中医
+治疗心衰常以补益心气为主[5]，补气类中药人参、人参
+叶、西洋参、三七及人参炮制品红参、黑参广泛用于心
+衰疾病的治疗，可缓解心气虚症状，改善心功能，且毒
+副作用较小。
+虽然中药治疗心力衰竭的疗效已有许多研究，但
+由于中药具有“多成分、多途径、多靶点”的特点，且炮
+制后的化学成分种类及含量发生了显著变化，其发挥
+药效的关键成分和作用靶点、机制尚不清楚。 网络药
+理学基于传统药理学、生物网络学、计算生物学、网络
+分析等学科，系统地揭示药物、疾病靶点和生物信号
+通路之间的相互作用关系[6]，已被广泛应用于研究中
+药活性成分、预测作用靶点及作用机制等方面。 本研
+究基于网络药理学方法研究人参、 人参叶、 红参、黑
+参、西洋参、三七治疗心力衰竭的物质基础和作用机
+制，为进一步研究提供理论依据。
+1 材料与方法
+1.1 数据库及数据来源
+中医药整合药理学研 究 平台 v2.0 （Integrative
+Pharmacology -based Research Platform of Traditional
+Chinese Medicine， TCMIP）;PubChem 数据库（https://
+pubchem.ncbi.nlm.nih.gov/）;Swiss Target Prediction 数
+据
+库
+(http://www.
+swisstargetprediction.
+ch/）;
+GeneCards 数据库(https://www.genecards.org/);人类孟
+德尔遗传 （OMIM） 数据库 （http://www. omim. org/）;
+Therapeutic Target Database （TTD） 数据库（http://db.
+idrblab.net/ttd/）;Drugbank 数据库（https://go.drugbank.
+com/）;STRING 数据库 （https://string-db.org/）;Metas-
+cape 数据库 （http://metascape.org/）;Venny2.1 在线软
+件作图工具平台 (https://bioinfogp. cnb. csic. es/tools/
+venny/);CytoScape3.7.1 软件。
+1.2 药物活性成分筛选及其靶点获取
+结合文献调研和实验室前期研究成果， 利用
+TCMIP v2.0 中药材数据库，以“人参”、“红参”、“人参
+叶”、“西洋参”、“三七”为关键词检索获得药物的化学
+成分以及所对应的靶点信息， 选择相似性分数≥0.8
+的药物所对应的靶标作为候选靶点。经过文献调研选
+取黑参的活性成分， 在 TCMIP v2.0 中药成分数据库
+中获得所对应的靶点信息。 利用 PubChem 数据库对
+化合物信息进行名称的矫正和统一， 并上传到 Swiss
+Target Prediction 数据库， 靶点种类设定为“Homo
+sapiens”，将靶点概率值（Probability）≥0 的分子作为
+该成分有效靶点，对药物的靶点信息进行补充。
+基金项目：国家自然科学基金，项目编号：82073985。
+作者简介：黄也，男，硕士在读，研究方向：中药药效物质基础及新药开发研究工作。
+* 通信作者：窦德强，男，教授、博士生导师，研究方向：中药药效物质基础及新药开发研究工作。 E-mail：deqiangdou@126.com.
+基于网络药理学的人参、红参、黑参、人参叶、西洋
+参和三七抗心力衰竭的作用机制及活性成分研究
+黄 也,窦德强 *
+(辽宁中医药大学药学院·辽宁 大连·116600)
+摘
+要：目的 利用网络药理学的研究方法探究人参、红参、黑参、人参叶、西洋参和三七治疗心力衰竭的
+作用机制及不同药性的药物治疗心力衰竭的差异性。 方法 利用 TCMIP v2.0、Swiss Target
+Prediction 数据库并结合文献挖掘筛选各药物的成分及作用靶点;GeneCards、OMIM 等数据库筛
+选有关心力衰竭靶点;取交集后将交集靶点通过 String 数据库构建靶点蛋白互作网络;运用 GO、
+KEGG 数据库对靶点基因信号通路分析;由 Cytoscape.v3.7.2 构建网络并挖掘人参、红参、黑参、人
+参叶、 西洋参和三七治疗心力衰竭的作用机制并赋值法比较不同药性的药物治疗心力衰竭的差
+异。 结果 人参活性成分 64 种，红参活性成分 30 种，人参叶活性成分 27 种，西洋参活性成分 26
+种和三七活性成分 40 种; 各药物治疗心力衰竭潜在靶点分别为 157、108、96、80、93、106 个。 GO
+功能富集显示各药物生物功能主要集中在炎症反应的调节、 蛋白激酶活性等方面;KEGG 通路富
+集显示各药物治疗心力衰竭主要涉及蛋白多糖、EGFR 酪氨酸激酶抑制剂耐药性通路、PI3K-AKT
+等信号通路。对各药物成分、靶点、通路赋值得到温热性药物治疗心力衰竭的主要成分为人参皂苷
+Rh3 等，主要靶点为 CDK8、AGTR1、GYS1、MMP1，主要通路为脂质与动脉粥样硬化通路;寒性药
+物治疗心力衰竭的主要成分为人参皂苷 Rh6 等， 主要靶点为 CYP1A2、EPAS1、ATP1A3、ATP1A，
+主要通路为受体活化通路。 结论 通过构建“活性成分-靶点-信号通路-疾病”网络和赋值分析法，
+从多成分、多靶点、多通路角度阐释人参、红参、黑参、人参叶、西洋参和三七治疗心力衰竭的作用
+机制，分析比较不同药性治疗心力衰竭的的差异性，为后续研究中药传统功效提供了新的思路与
+基础。
+关键词：人参;寒热药性;中药功效;心力衰竭;网络药理学
+DOI：10.19403/j.cnki.1671-1521.2023.01.002
+7
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+2.2 药物-疾病共同靶点的获取
+在 GeneCards、OMIM、TTD、Drugbank 数 据 库 以
+“heart failure ”作为关键词检索，分别筛选出 13391、
+140、75、74 个 HF 相关基因， 选取相关性数值（Rele-
+vance score）＞10 作为筛选条件剔除相关性得分较小
+的基因，将结果合并剔除重复基因，共得到 1286 个高
+分靶点。在 Venny2.1 工具平台上将得到的 HF 高分靶
+点分别与人参、红参、黑参、人参叶、西洋参和三七素
+潜在靶点信息取交集，得到各药物治疗心力衰竭潜在
+靶点为 157、108、96、80、93、106 个。
+1.3 疾病靶点及交集靶点获取
+通过 GeneCards、OMIM、TTD、Drugbank 数据库，
+以“heart failure ”作为关键词检索收集与心力衰竭相
+关的靶点。 将结果进行汇总并剔除重复项， 得到 HF
+潜在靶点。 将筛选过的靶点上传至在线韦恩图，得到
+药物与 HF 的交集基因。
+1.4 “药物-成分-疾病-靶点”网络构建
+使用 CytoScape3.8.0 软件, 构建 “药物-成分-疾
+病-靶点”相互作用网络图，使用 Network Analyzer 功
+能对中药主要活性成分进行分析。
+1.5 蛋白相互作用（PPI）网络构建及核心靶点分析
+将上述交集基因导入 String 数据库构建蛋白质
+之间的 PPI， 将 PPI 网络导入 CytoScape3.8.0 软件进
+行调整构建并分析交互网络，利用 cytoHubba 插件得
+到关键靶点并根据蛋白之间的关联度进行排序。
+1.6 KEGG 通路和 GO 功能富集分析
+基因本体论（GO）数据库可用于分析潜在的生物
+分子机制，进一步解释交集基因在分子功能、生物过
+程和细胞组成抗 HF 的过程。 京都基因与基因组百科
+全书 （KEGG），KEGG 富集分析可用于研究交集基因
+涉及的主要抗 HF 信号通路。 本研究利用 Metascape
+数据库（http://metascape.org/）对 PPI 网络中筛选出的
+核心靶点进行 GO 功能注释和 KEGG 通路分析，将富
+集分析结果可视化。 同时构建“药物-主要通路-心力
+衰竭”核心靶点网络。
+1.7 药性归属靶点信息
+人参为五加科植物人参 Panax ginseng C. A. Mey.
+的干燥根和根茎， 性微温。 红参为五加科植物人参
+Panax ginseng C. A. Mey.的栽培品经蒸制后的干燥根
+和根茎，性温。 黑参为五加科植物人参 Panax ginseng
+C. A. Mey.的栽培品经多次蒸晒（多九蒸九晒）的干燥
+根和根茎， 性温。 西洋参为五加科植物西洋参 Panax
+quinquefolium L.的干燥根，性凉。 人参叶为五加科植
+物人参 Panax ginseng C. A. Mey.的干燥叶，性寒。三七
+为五加科植物三七 Panax notoginseng （Burk.）F. H.
+Chen 的干燥根和根茎，性温[7]。
+将药性寒、凉、微温、温依次赋值为-2、-1、0.5、1，
+与药物成分、靶点、通路的 degree 加权。通过对比去重
+的方法剔除寒凉、温性中药共同涉及的治疗 HF 的成
+分、靶点、代谢通路，得到寒凉性中药和温性中药的特
+异性代谢通路。
+2 结果
+2.1 化学成分及对应的靶点分析
+通过 TCMIP v2.0 检测人参、红参、人参叶、西洋
+参和三七的化学成分以及所对应的靶点信息， 利用
+PubChem 数据库对化合物信息进行名称的矫正和统
+一，并上传到 Swiss Target Prediction 数据库，靶点种
+类设定为“Homo sapiens”，将靶点概率值（Probability）
+≥0 的分子作为该成分有效靶点，对药物的靶点信息
+进行补充。 去除结构未知及靶点与疾病不相关的成
+分， 并结合文献和实验室前期研究进行筛选及补充，
+分别得到人参活性成分 64 个及靶点 615 个、 红参活
+性成分 30 个及靶点 359 个、人参叶活性成分 27 个及
+靶点 195 个、 西洋参活性成分 26 个及靶点 257 个和
+三七活性成分 40 个及靶点 296 个。 经文献调研[8~10]和
+实验室前期研究选取黑参的活性成分，在 TCMIP v2.0
+中药成分数据库并经上述条件筛选后获得所对应的
+靶点信息，得到黑参活性成分 15 个及靶点 399 个。各
+药物靶点数目前 10 名的成分信息，详见表 1。
+表 1 各药物成分及靶点信息
+人参
+红参
+黑参
+人参叶
+西洋参
+三七
+化合物名称
+靶点
+数目
+化合物名称
+靶点
+数目
+化合物名称
+靶点
+数目
+化合物名称
+靶点
+数目
+化合物名称
+靶点
+数目
+化合物名称
+靶点
+数目
+Ginsenoside Rh3
+114
+Protopanaxatriol
+103
+Ginsenoside Rh3
+114
+Kaempferol
+104
+Linoleic Acid
+108
+Panaxytriol
+108
+Panaxacol
+111
+Ginsenoside Rh4
+102
+Ginsenoside Rk2
+114
+Sitosterol
+44
+Cetylic Acid
+82
+Quercetin
+104
+Panaxatriol
+110
+Palmitoleic Acid
+97
+Compound K
+105
+Ginsenoside Rh5
+39
+Heptadecanoic Acid
+70
+Quinquenoside I
+90
+Linoleic Acid
+108
+Cetylic Acid
+82
+Ginsenoside Rh4
+102
+Ginsenoside Rh1
+33
+Isoeugenol
+68
+Cetylic Acid
+82
+Panaxytriol
+108
+Myristic Acid
+81
+Ginsenoside Rk3
+96
+Ginsenoside Rh7
+28
+Stearic Acid
+68
+Ethyl Palmitate
+75
+Kaempferol
+104
+Pentadecanoic Acid
+74
+Ginsenoside Rg5
+48
+Ginsenoside Rh8
+27
+Nonanoic Acid
+58
+Nonanoic Acid
+58
+Protopanaxatriol
+103
+Heptadecanoic Acid
+70
+Ginsenoside F4
+37
+Ginsenoside F1
+25
+Caprylic Acid
+51
+Quinquenoside Ii
+53
+Ginsenoside Rh4
+102
+Arachic Acid
+58
+Ginsenoside Rh1
+33
+Ginsenoside Rh2
+25
+Enanthic Acid
+49
+Heneicosanoic Acid
+51
+Biotin
+91
+Protopanaxadiol
+57
+Ginsenoside Rk1
+32
+Ginsenoside Rg1
+24
+Pseudoginsenoside F11
+49
+Enanthic Acid
+49
+Cetylic Acid
+82
+Ginsenoside Rg5
+48
+Ginsenoside Rh2
+25
+Ginsenoside Rb2
+23
+Caproic Acid
+45
+Sitosterol
+44
+黄
+也等：基于网络药理学的人参、红参、黑参、人参叶、西洋参和三七抗心力衰竭的作用机制及活性成分研究
+8
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+图 3 黑参药物-成分-靶点-疾病网络图
+图 4 人参叶药物-成分-靶点-疾病网络图
+图 5 西洋参药物-成分-靶点-疾病网络图
+图 6 三七药物-成分-靶点-疾病网络图
+2.3 药物-成分-靶点-疾病网络图的构建
+将人参、红参、黑参、人参叶、西洋参和三七素的
+潜在活性成分与药物-疾病共同靶点点输入 Cy-
+toscape 软件中，绘制出“药物-成分-靶点-疾病”相互
+作用的网络图。 结果见图 1~6。 图中胡各色三角代表
+药物，蓝色方块代表各药物的活性成分，红色圆圈代
+表 包 括 MAPK1、 STAT3、VEGFA、AKT1、TNF、EGFR
+在内的共同靶点，绿色菱形代表疾病。各药物治疗 HF
+活性成分的 Degree 值前 10 名的成分，详见表 2。
+图 1 人参药物-成分-靶点-疾病网络图
+图 2 红参药物-成分-靶点-疾病网络图
+9
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+图 7 人参核心 PPI 网络
+图 8 红参核心 PPI 网络
+根据各有效成分的 Degree 值可以推测原人参三
+醇、Ginsenoside Rh3、Ginsenoside Rh4、山奈酚、谷甾醇
+及有机酸类化合物可能为治疗 HF 的活性成分，黑参
+中稀有皂苷 Rk3、Rg5 也有较强活性。
+2.4 PPI 网络及治疗 HF 的关键靶点
+在 STRING 数据库中录入上述各药物与疾病的
+交集靶点，物种限定为人“Homo sapiens”，得到蛋白互
+作网络， 将其进一步导入 Cytoscape 软件进行可视化
+分析。 利用 Analyze Network 及 cytoNCA 插件计算介
+数 中 心 性 （Betweenness centrality）、 接 近 中 心 性
+（Closeness centrality）、点度中心性（degree centrality）、
+特征向量（Eigenvector）、局部平均连通性（Local Aver-
+age Connenctivity-based mathod）、 网络中心度（Net-
+work centrality）， 综合得到 Degree 排名各药物前 10
+治疗 HF 的关键靶点。
+结果显示，人参 PPI 网络中剔除与其他蛋白没有
+相互作用关系的 GAA 后，发现有 58 个节点的度值大
+平均值（degree=23.5），占总节点数的 37.2%，其中度
+值最高的为 AKT1（degree=89）。 红参 PPI 网络中剔除
+与其他蛋白没有相互作用关系的 LIMK1、KCNA5 后，
+发现有 41 个节点的度值大平均值 （degree=16.9），占
+总节点数的 38.7%，其中度值最高的为 AKT1（degree=
+67）。 黑参 PPI 网络中发现有 38 个节点的度值大平均
+值（degree=15.7），占总节点数的 39.6%，其中度值最
+高的为 AKT1（degree=57）。 人参叶 PPI 网络中剔除与
+其他蛋白没有相互作用关系的 LIMK1 后， 发现有 37
+个节点的度值大平均值（degree=17.3），占总节点数的
+40.2%，其中度值最高的为 AKT1（degree=62）。 西洋参
+PPI 网络中剔除与其他蛋白没有相互作用关系的
+LIMK1 后， 发现有 37 个节点的度值大平均值 （de-
+gree=16.9），占总节点数的 40.7%，其中度值最高的为
+AKT1（degree=60）。 三七 PPI 网络中发现有 45 个节点
+的 度 值 大 平 均 值 （degree =18.8）， 占 总 节 点 数 的
+43.4%，其中度值最高的为 AKT1（degree=66）。 其中
+AKT1、CASP3、STAT3、TNF、VEGFA、EGFR 在 6 种药
+物的 PPI 网络中中都具有很高 Degree 排名， 可能为
+人参、红参、黑参、人参叶、西洋参和三七治疗 HF 的
+关键靶点。 详见图 7~12、表 3。
+表 2 各药物治疗 HF 有效成分 Degree 值
+人参
+红参
+黑参
+人参叶
+西洋参
+三七
+成分
+Degree
+成分
+Degree
+成分
+Degree
+成分
+Degree
+成分
+Degree
+成分
+Degree
+Protopanaxatriol
+44
+Protopanaxatriol
+44
+Ginsenoside Rh3
+39
+Kaempferol
+27
+Linoleic Acid
+32
+Panaxytriol
+32
+Ginsenoside Rh3
+39
+Ginsenoside Rh4
+36
+Ginsenoside Rh4
+36
+Protopanaxadiol
+27
+Isoeugenol
+27
+Quercetin
+26
+Ginsenoside Rh4
+36
+Palmitoleic Acid
+30
+Ginsenoside Rk2
+35
+Quercetin
+26
+Heptadecanoic Acid
+25
+Cetylic Acid
+24
+Panaxacol
+35
+Protopanaxadiol
+27
+Ginsenoside Rk3
+33
+Sitosterol
+19
+Cetylic Acid
+24
+Sitosterol
+19
+Panaxytriol
+32
+Heptadecanoic Acid
+25
+Compound K
+33
+Ginsenoside Rh5
+16
+Stearic Acid
+22
+Sanchinoside B1
+19
+Linoleic Acid
+32
+Ginsenoside Rg5
+25
+Ginsenoside Rg5
+25
+Ginsenoside Rh1
+14
+Nonanoic Acid
+19
+Nonanoic Acid
+19
+Panaxatriol
+32
+Myristic Acid
+24
+Ginsenoside F4
+20
+Ginsenoside Rf
+14
+Pseudoginsenoside F11
+19
+Heneicosanoic Acid
+17
+Kaempferol
+27
+Cetylic Acid
+24
+Ginsenoside Rk1
+17
+Ginsenoside Rh7
+13
+Caproic Acid
+17
+Stigmasterol
+16
+Biotin
+27
+Pentadecanoic Acid
+21
+Ginsenoside Rf
+14
+Ginsenoside Rg1
+12
+Caprylic Acid
+16
+Enanthic Acid
+16
+Protopanaxadiol
+27
+Arachic Acid
+20
+Ginsenoside Rh1
+14
+Ginsenoside Rh8
+12
+Enanthic Acid
+16
+Notoginsenoside B
+14
+10
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+2.5 GO 富集分析
+在 Metascape 数据库对人参、红参、黑参、人参叶、
+西洋参和三七治疗 HF 的关键靶点进行生物过程
+（BP）、细胞组成（CC）、分子功能（MF）3 方面的 GO 功
+能富集分析。 结果显示 6 种药物治疗 HF 的生物过程
+主要集中在：炎症反应的调节、细胞凋亡信号通路的
+调节、血液循环过程、对激素水平的调节、蛋白质磷酸
+化的调节、心脏收缩的负调节、细胞迁移的积极调节;
+分子功能生物过程主要集中在：蛋白激酶活性、脂质
+结合、核受体活性、ATP 酶结合、跨膜受体蛋白激酶活
+性、核受体活性、生长因子受体结合;细胞组成主要集
+中在：膜筏、膜微域、质膜蛋白复合物、神经肌肉接头、
+突触前膜、囊泡腔。
+2.6 KEGG 富集分析
+将人参、红参、黑参、人参叶、西洋参和三七治疗
+HF 的 关 键 靶 点 蛋 白 导 入 Metascape 数 据 库 进 行
+KEGG 通路注释分析， 分别富集出 157、108、96、80、
+93、175 条信号通路。 其中前 30 是最具有显著性的通
+路， 将结果进行可视化其中 P 值代表富集的显著性，
+颜色越红则显著性越高，点的大小对应于条目中注释
+表 3 各药物治疗 HF 靶点 Degree 值
+人参
+红参
+黑参
+人参叶
+西洋参
+三七
+Key targets
+Degree
+Key targets
+Degree
+Key targets
+Degree
+Key targets
+Degree
+Key targets
+Degree
+Key targets
+Degree
+AKT1
+89
+AKT1
+67
+AKT1
+57
+AKT1
+62
+AKT1
+60
+AKT1
+66
+IL6
+86
+VEGFA
+59
+GAPDH
+54
+IL6
+58
+IL6
+58
+VEGFA
+57
+TNF
+85
+EGFR
+54
+VEGFA
+54
+VEGFA
+54
+VEGFA
+52
+EGFR
+54
+GAPDH
+81
+JUN
+46
+EGFR
+51
+EGFR
+49
+EGFR
+48
+HIF1A
+51
+VEGFA
+80
+STAT3
+45
+STAT3
+49
+PPARG
+43
+PPARG
+43
+CASP3
+51
+EGFR
+74
+PPARG
+44
+MMP9
+40
+STAT3
+41
+STAT3
+40
+STAT3
+51
+STAT3
+69
+ESR1
+43
+HRAS
+37
+ESR1
+41
+ESR1
+40
+JUN
+49
+CASP3
+66
+ERBB2
+40
+ACE
+37
+JUN
+40
+JUN
+39
+PPARG
+46
+JUN
+64
+MMP9
+40
+PPARG
+37
+PTGS2
+39
+PTGS2
+38
+ESR1
+46
+HIF1A
+63
+PTGS2
+38
+MTOR
+36
+CXCL8
+35
+CXCL8
+35
+FGF2
+45
+图 11 西洋参核心 PPI 网络
+图 12 三七核心 PPI 网络
+图 9 黑参核心 PPI 网络
+图 10 人参叶参核心 PPI 网络
+11
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+图 17 西洋参 KEGG 通路富集分析结果图
+18 三七 KEGG 通路富集分析结果
+的基因数，详情见图 13~18。 其中 Pathways in cancer
+为癌症相关的通路， 包括与维持血管生成相关的
+VEGF signaling pathway、HIF-1 signaling pathway;与
+细胞凋亡相关的 PI3K-Akt signaling pathway、mTOR
+signaling pathway; 与 增 殖 相 关 的 MAPK signaling
+pathway 等。
+其中癌症中的蛋白多糖 （Proteoglycans in can-
+cer）、EGFR 酪氨酸激酶抑制剂耐药性通路（EGFR ty-
+rosine kinase inhibitor resistance）、PI3K-AKT 信号通
+路 （PI3K -Akt signaling pathway）、 糖 尿 病 并 发 症
+AGE-RAGE 信号通路（AGE-RAGE signaling pathway
+in diabetic complications）、 脂质与动脉粥样硬化通路
+（Lipid and atherosclerosis）、MAPK 信 号 通 路 通 路
+（MAPK signaling pathway）、HIF-1 信号通路 （HIF-1
+signaling pathway）、VEGF 信号通路 （VEGF signaling
+pathway）、 肿瘤坏死因子信号通路 （TNF signaling
+pathway） 在 6 种药物的 KEGG 分析结果中都具有很
+高的富集显著性，可能为人参、红参、黑参、人参叶、西
+洋参和三七治疗 HF 的关键通路。
+图 15 黑参 KEGG 通路富集分析结果
+图 16 人参叶 KEGG 通路富集分析结果
+图 13 人参 KEGG 通路富集分析结果图
+14 红参 KEGG 通路富集分析结果
+12
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+将药性寒、凉、微温、温依次赋值为-2、-1、0.5、1，
+与所有通路 degree 加权，通过对比去重的方法剔除寒
+凉、温性中药共同涉及的治疗 HF 的代谢通路，得到
+寒凉性中药和温性中药的特异性代谢通路并与 Gene
+Ratio（%）加权。 共得到温热性药物治疗 HF 通路 32
+个，寒凉性药物治疗 HF 靶点 15 个，详见表 6。
+2.7.2 靶点药性归属分析
+将药性寒、凉、微温、温依次赋值为-2、-1、0.5、1，
+剔除寒热药治疗 HF 共有靶点后得到寒热特异性靶
+点并与 degree 加权， 归属排序各药性所包含的靶点，
+共得到温热性药物治疗 HF 靶点 70 个， 寒凉性药物
+治疗 HF 靶点 10 个，详见表 5。
+2.7 药性归属靶点分析
+2.7.1 各成分药性归属分析
+将药性寒、凉、微温、温依次赋值为-2、-1、0.5、1，
+对比剔除寒热药治疗 HF 相同成分后到寒热特异性
+成分并与 degree 加权， 归属排序各药性所包含的成
+分，共得到温热性药物治疗 HF 成分 82 个，寒凉性药
+物治疗 HF 成分 20 个，详见表 4。
+表 4 各药治疗 HF 成分信息表
+温性药治疗 HF 的特异性成分
+寒性药治疗 HF 的特异性成分
+成分
+Degree
+矢量值
+成分
+Degree
+矢量值
+三七
+红参
+黑参
+人参
+西洋参
+人参叶
+Protopanaxatriol
+0
+44
+0
+44
+66
+Ginsenoside Rh6
+0
+16
+-32
+Ginsenoside Rh3
+0
+0
+39
+39
+58.5
+Isoeugenol
+27
+0
+-27
+Ginsenoside Rh4
+0
+35
+0
+35
+52.5
+Ginsenoside Rh7
+0
+13
+-26
+Ginsenoside Rg5
+0
+25
+25
+0
+50
+Ginsenoside Rh8
+0
+12
+-24
+Panaxytriol
+31
+0
+0
+32
+47
+Stearic Acid
+22
+0
+-22
+Ginsenoside Rk2
+0
+0
+35
+0
+35
+Panasenoside
+0
+10
+-20
+Compound K
+0
+0
+33
+0
+33
+Pseudoginsenoside F11
+19
+0
+-19
+Ginsenoside Rk3
+0
+0
+33
+0
+33
+Caproic Acid
+17
+0
+-17
+Palmitoleic Acid
+0
+30
+0
+0
+30
+Caprylic Acid
+16
+0
+-16
+Ginsenoside F4
+0
+0
+20
+12
+26
+Ginsenoside F3
+16
+0
+-16
+表 5 各药物治疗 HF 靶点信息表
+温性药治疗 HF 的特异性靶点
+寒性药治疗 HF 的特异性靶点
+成分
+Degree
+矢量值
+成分
+Degree
+矢量值
+三七
+红参
+黑参
+人参
+西洋参
+人参叶
+CDK8
+3
+4
+6
+9
+17.5
+CYP1A2
+3
+3
+-9
+AGTR1
+0
+4
+7
+5
+13.5
+EPAS1
+0
+3
+-6
+GYS1
+3
+3
+4
+5
+12.5
+ATP1A3
+0
+3
+-6
+MMP1
+3
+0
+6
+6
+12
+ATP1A2
+0
+3
+-6
+TRPV4
+0
+3
+6
+4
+11
+ELANE
+0
+3
+-6
+CHEK2
+0
+3
+4
+4
+9
+IGFBP3
+3
+0
+-3
+DYRK1A
+3
+0
+3
+6
+9
+CYP1A1
+3
+0
+-3
+FLT1
+3
+0
+4
+4
+9
+BRAF
+3
+0
+-3
+ADORA2B
+3
+3
+0
+5
+8.5
+MIF
+3
+0
+-3
+HDAC8
+3
+0
+3
+5
+8.5
+NFE2L2
+3
+0
+-3
+13
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+温热性药治疗 HF 特异性成分可能为原人参三
+醇 、Ginsenoside
+Rh3、Ginsenoside
+Rh4、Ginsenoside
+Rg5、Ginsenoside Rk2; 特 异性靶 点 可 能 为 CDK8、
+AGTR1、GYS1、MMP1、TRPV4; 特异性通路可能为脂
+质与动脉粥样硬化通路（Lipid and atherosclerosis）、乙
+型 肝 炎 通 路
+（Hepatitis B）、mTOR 通 路 （mTOR
+signaling pathway）、 中枢碳代谢通路 （Central carbon
+metabolism in cance r）、IL-17 通路 （IL-17 signaling
+pathway）。
+寒性药治疗 HF 特异性成分可能为，Ginsenoside
+Rh6、
+异 丁 香 酚
+（Isoeugenol）、Ginsenoside Rh7、
+Ginsenoside Rh8、硬脂酸（Stearic Acid）;特异性靶点
+可 能 为 CYP1A2、EPAS1、ATP1A3、ATP1A2、ELANE
+特 异 性 通 路 可 能 为 受 体 激 活 通 路 （Chemical
+carcinogenesis - receptor activation）、甲状腺激素信号
+通路（Thyroid hormone signaling pathway）、松弛素信
+号通路 （Relaxin signaling pathway）、PD-L1 表达和
+PD -1 检 查 点 通 路 （PD -L1 expression and PD -1
+checkpoint pathway in cancer）、 小细胞肺癌相关通路
+（Small cell lung cancer）。
+3 结论
+心力衰竭中医药理论中主要分属于胸痹、 心悸、
+水肿、喘证等范畴。患者的主要证候要常以心脉淤阻、
+气滞心胸、寒凝血脉、痰瘀互结、气阴两虚等为主。 其
+中气虚证与血瘀证是心力衰竭最为常见的证型。益气
+活血类中药人参、人参叶、西洋参、三七及人参炮制品
+红参、黑参广泛用于心衰疾病的治疗，可缓解心气虚
+症状，改善心功能[11~15]。 有研究表明，复方人参补气颗
+粒可抑制心肌纤维化、改善心室重构、抑制炎症从而
+改善急性心梗后心衰大鼠的心肌损伤情况[16]。 人参皂
+苷 Rg1 可改善冠状动脉左前降支结扎诱导的心衰大
+鼠的心功能，抑制心肌细胞细胞膜损伤，改善心衰心
+肌细胞动作电位，且呈剂量依赖性[17]。 临床调查研究
+显示，小剂量西洋参联合常规利尿剂、扩血管药给药
+可有效改善充血性心力衰竭患者心功能[18]。 西洋参提
+取物可减轻特非那定所致心脏损伤模型斑马鱼的心
+包水肿和卵黄囊下瘀血、恢复血流速度、提高心律，心
+脏损伤相对修复率为 75.48％~98.12％，具有一定的心
+脏保护作用
+[19]。 三七皂苷 R1 可上调表达抗氧化
+AMPK/Nrf-2/HO-1 通路、抑制心肌细胞凋亡、氧化应
+激、炎症反应，从而改善冠心病大鼠心肌损伤[20]。
+本研究筛选出人参、红参、黑参、人参叶、西洋参
+和三七的有效活性成分、作用靶点、信号通路，构建与
+心力衰竭相关的 PPI 网络，以分析治疗心力衰竭的潜
+在作用机制。 其中原人参三醇、Ginsenoside Rh3、
+Ginsenoside Rh4、山奈酚、谷甾醇及有机酸类化合物
+可能为治疗 HF 的活性成分;AKT1、CASP3、STAT3、
+TNF、VEGFA、EGFR 等靶点可能为治疗 HF 的关键靶
+点; 癌症中的蛋白多糖 （Proteoglycans in cancer）、
+EGFR 酪氨酸激酶抑制剂耐药性通路（EGFR tyrosine
+kinase inhibitor resistance）、PI3K -AKT 信 号 通 路
+（PI3K-Akt signaling pathway）、 糖尿病并发症 AGE-
+RAGE 信号通路 （AGE-RAGE signaling pathway in
+diabetic complications）、 脂质与动脉粥样硬化通路
+（Lipid and atherosclerosis）等信号通路可能是治疗 HF
+的重要信号通路。通过各药物成分、靶点、通路赋值得
+到温热性药物治疗心力衰竭的主要成分为原人参三
+醇、 人参皂苷 Rh3 等， 主要靶点为 CDK8、AGTR1、
+GYS1、MMP1 等，主要通路为脂质与动脉粥样硬化通
+路; 寒性药物治疗心力衰竭的主要成分为人参皂苷
+性药治疗 HF 的特异性通路
+寒性药治疗 HF 的特异性通路
+Pathway
+Gene Ratio(%)
+矢量
+值
+Pathway
+Gene Ratio(%) Path-
+way
+三七
+红参
+黑参
+人参
+西洋参
+人参叶
+Lipid and atherosclerosis
+16
+12
+18
+15
+53.5
+Chemical carcinogenesis - receptor activation
+22
+20
+-62
+Hepatitis B
+0
+9
+14
+10
+28
+Thyroid hormone signaling pathway
+0
+15
+-30
+mTOR signaling pathway
+9
+6
+8
+0
+23
+Relaxin signaling pathway
+0
+13
+-26
+Central carbon metabolism in cancer
+0
+9
+11
+0
+20
+PD-L1 expression and PD-1 checkpoint pathway in cancer
+0
+13
+-26
+IL-17 signaling pathway
+8
+6
+0
+7
+17.5
+Small cell lung cancer
+8
+8
+-24
+T cell receptor signaling pathway
+9
+7
+0
+0
+16
+AMPK signaling pathway
+0
+10
+-20
+Th17 cell differentiation
+0
+7
+7
+0
+14
+Insulin resistance
+0
+9
+-18
+Ras signaling pathway
+14
+0
+0
+0
+14
+Transcriptional misregulation in cancer
+0
+8
+-16
+Human immunodeficiency virus 1 infection
+0
+0
+13
+0
+13
+Regulation of actin cytoskeleton
+11
+0
+-11
+FoxO signaling pathway
+0
+0
+10
+0
+10
+Drug metabolism - other enzymes
+0
+4
+-8
+表 6 各药物治疗 HF 通路信息表
+14
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+Rh6 等 ， 主 要 靶 点 为 CYP1A2、EPAS1、ATP1A3、
+ATP1A 等，主要通路为受体活化通路。
+在“药物-成分-靶点-疾病网络”及富集分析中可
+以发现，药物的每种活性成分对应于多个靶点，每个
+靶点都与多种成分相关，体现药物多成分和多靶点治
+疗心力衰竭的作用机理;同一靶点将多个途径连接起
+来，与多个活性成分发挥协同作用，体现中药治疗的
+“多成分、多途径、多靶点”的特点。不同药性的药物治
+疗心力衰竭的成分、 靶点和信号通路有一定的差异
+性，在治疗中可以选择性用药，为后续研究中药传统
+功效提供了新的思路与基础。
+参 考 文 献
+[1]Van Riet EE, Hoes AW, Wagenaar KP, Limburg
+A, Landman MA, Rutten FH. Epidemiology of heart
+failure: the prevalence of heart failure and ventricular
+dysfunction in older adults over time. A systematic
+review. Eur J Heart Fail. 2016 Mar;18(3):242-52.
+[2]Loehr LR, Rosamond WD, Chang PP, Folsom AR,
+Chambless LE: Heart failure incidence and survival (from
+the Atherosclerosis Risk in Communities study). Am J
+Cardiol.
+2008,
+101:1016
+-22.
+10.1016/j.amjcard.
+2007.11.061.
+[3]Loosen SH, Roderburg C, Curth O, Gaensbacher
+J, Joerdens M, Luedde T, Konrad M, Kostev K, Luedde
+M.
+The
+spectrum
+of
+comorbidities
+at
+the
+initial
+diagnosis of heart failure a case control study. Sci Rep.
+2022 Feb 17;12(1):2670.
+[4]黄平东.中医古籍对心力衰竭的论述探要[J].中
+医药学刊, 2003, 21( 4): 592.
+[5]屈松柏,张晓星,张道亮.心脏病人心阴虚心气
+虚证候特征探讨[J].湖北中医杂志,1995(03):24-26.
+[6]Berger SI, Iyengar R. Network analyses in systems
+pharmacology. Bioinformatics. 2009 Oct 1;25 (19):2466-
+72.
+[7]中华人民共和国药典委员会.中华人民共和国
+药典(一部) (202 年版)[S].北京:中国医药科技出版社,
+2020:57.
+[8]许妍. 人参二醇组皂苷制备二醇型拟人参皂苷
+的研究[D].吉林大学,2017.
+[9]Bai-Shen Sun,Li-Juan Gu,Zhe-Ming Fang,
+Chun-yan Wang,Zhen Wang,Mi-Ra Lee,Zheng Li,Jing-
+Jie Li,Chang-Keun Sung. Simultaneous quantification of
+19 ginsenosides in black ginseng developed from Panax
+ginseng by HPLC–ELSD[J]. Journal of Pharmaceutical
+and Biomedical Analysis,2009,50(1).
+[10]Yong -Wook Shin,Eun -Ah Bae,Dong -Hyun
+Kim. Inhibitory effect of ginsenoside Rg5 and its
+metabolite ginsenoside Rh3 in an oxazolone -induced
+mouse
+chronic
+dermatitis
+model
+[J].
+Archives
+of
+Pharmacal Research,2006,29(8).
+[11]高健,吕邵娃.人参化学成分及药理作用研究
+进展[J].中医药导报,2021,27(01):127-130+137.
+[12]樊伟旭,詹志来,侯芳洁,郑玉光.红参的化学成
+分及药理作用研究进展 [J]. 天然产物研究与开发,
+2021,33(01):137-149.
+[13]赵天琦,赵岩,郜玉钢,何忠梅,杨鹤,刘双利,张
+连学.黑参的研究进展[J].中国现代中药,2016,18(01):
+123-125.
+[14]陈林,郭建鹏.黑参国内外研究进展[J].人参研
+究,2019,31(01):42-46.
+[15]陈虹宇,曹洋,杨华平.林下山参与栽培人参的
+应用价值剖析[J].中医药导报,2019,25(06):67-68+81.
+[16]王智博,吴昱杰,张业昊等.基于“益气活血法”
+的复方人参补气颗粒对心梗后心衰大鼠心肌保护药
+效学研究[J].中药药理与临床, 2021, 37( 03): 150-157.
+[17]古云,李霞,马坤,张海,鲁晓男,董颖.人参皂苷
+Rg1 对心衰大鼠心功能的保护作用及对作用机制探
+讨[J].药物生物技术,2020,27(02):122-126.
+[18]刘望乐.小剂量西洋参联合卡托普利防治充
+血性心力衰竭的临床观察 [J]. 中国中医基础医学杂
+志,2005( 06): 469.
+[19]吕婧,李晨,杨龙飞,高燕,赵渤年.基于斑马鱼
+模型的西洋参提取物心脏保护作用研究[J].中国药房,
+2020, 31( 03): 308- 313.
+[20]郭伟伟,张晓鹏,李霞,刘平洋,李树立.三七皂
+苷 R1 调控 AMPK/Nrf-2/HO-1 信号通路缓解冠心病
+大鼠心肌损伤的研究[J].中国现代应用药学, 2021, 38(
+01): 36-41.
+15

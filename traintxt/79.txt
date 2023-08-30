@@ -1,0 +1,487 @@
+人参皂苷 Rd 通过调控 circDONSON 表达对结肠癌 SW480 细胞增殖和
+凋亡的影响
+卞龙艳1, 　 杨　 威2, 　 陈晓玲3, 　 周金才4
+(1. 江苏医药职业学院, 江苏 盐城 224005; 2. 盐城市第一人民医院普外科, 江苏 盐城 224000; 3. 东台
+市人民医院伤口造口门诊, 江苏 盐城 224000; 4. 南通大学附属建湖县人民医院普外科, 江苏 盐城
+226021)
+收稿日期: 2022-01-24
+作者简介: 卞龙艳 (1982—), 女, 硕士, 副教授, 研究方向为药理学。 Tel: 15189303306, E-mail: bpjrfu@ 163.com
+摘要: 目的　 探讨人参皂苷 Rd 是否可通过调控环状 RNA DONSON (circDONSON) 表达来抑制结肠癌 SW480 细胞的
+增殖和凋亡。 方法　 选取 30 例结肠癌患者癌组织及匹配的癌旁组织, 体外培养结肠癌 SW480 细胞, 将其分为对照
+组, 50、 100、 150 μmol/ L 人参皂苷 Rd 组, si-NC 组, si-circDONSON 组, 人参皂苷 Rd+pcDNA 组, 人参皂苷 Rd+
+pcDNA-circDONSON 组, RT-qPCR 法 检 测 circDONSON 表 达, MTT 法 检 测 细 胞 活 力, 流 式 细 胞 术 检 测 细 胞 凋 亡,
+Western blot 法检测蛋白表达。 结果　 与癌旁组织比较, 结肠癌组织中 circDONSON 表达升高 (P<0． 05)。 与对照组比
+较, 100、 150 μmol/ L 人参皂苷 Rd 组细胞活力、 circDONSON 表达和 CyclinD1、 Bcl-2 蛋白表达降低 (P<0． 05), 细胞
+凋亡率和 p21、 Bax 蛋白表达升高 (P<0． 05), 并呈剂量依赖性 (P<0． 05); 与 si-NC 组比较, si-circDONSON 组细胞
+活力和 CyclinD1、 Bcl-2 蛋白表达降低 (P<0． 05), 细胞凋亡率和 p21、 Bax 蛋白表达升高 (P<0． 05); 与人参皂苷Rd+
+pcDNA 组比较, 人参皂苷 Rd+pcDNA-circDONSON 组细胞活力和 CyclinD1、 Bcl-2 蛋白表达升高 (P<0． 05), 细胞凋亡
+率和 p21、 Bax 蛋白表达降低 (P<0． 05)。 结论　 人参皂苷 Rd 可能通过下调 circDONSON 表达来抑制结肠癌 SW480 细
+胞的增殖和凋亡。
+关键词: 人参皂苷 Rd; 结肠癌; circDONSON; 增殖; 凋亡
+中图分类号: R285． 5　 　 　 　 　 文献标志码: A　 　 　 　 　 文章编号: 1001-1528(2023)01-0075-06
+doi:10． 3969/ j.issn.1001-1528． 2023． 01． 014
+Effects of ginsenoside Rd on proliferation and apoptosis of colon cancer SW480
+cells via regulation on circDONSON expression
+BIAN Long-yan1, 　 YANG Wei2, 　 CHEN Xiao-ling3, 　 ZHOU Jin-cai4
+(1. Jiangsu Vocational College of Medicine, Yancheng 224005, China; 2. Department of General Surgery, Yancheng No. 1 People’s Hospital, Yancheng
+224000, China; 3. Wound Ostomy Care Clinic, Dongtai Municipal People’ s Hospital, Yancheng 224000, China; 4. Department of General Surgery,
+Jianhu People’s Hospital Affiliated to Nantong University, Yancheng 226021, China)
+ABSTRACT: AIM　 To investigate whether ginsenoside Rd can inhibit the proliferation and apoptosis of colon
+cancer SW480 cells by regulating the expression of circular RNA DONSON (circDONSON). METHODS　 Thirty
+patients colon cancer tissues and matching adjacent healthy tissues were selected. Colon cancer SW480 cells were
+cultured in vitro and divided into the control group, ginsenoside Rd groups (50, 100, 150 μmol/ L), si-NC group,
+si-circDONSON group, ginsenoside Rd +pcDNA group, ginsenoside Rd + pcDNA-circDONSON group. The cells
+were subsequently subjected to the determination of circDonson expression by RT-qPCR; assessment of cell viability
+by MTT method ; detection of cell apoptosis by flow cytometry; and determination of protein expression by Western
+blot. RESULTS　 Compared with the adjacent healthy tissues, colon cancer tissues was found to be with increased
+circDONSON expression (P < 0． 05). Compared with the control group, the 100, 150 μmol/ L ginsenoside Rd
+groups shared decreases in cell viability, circDONSON expression, CyclinD1 and Bcl-2 protein expressions ( P<
+5
+7
+2023 年 1 月
+第 45 卷　 第 1 期
+中 成 药
+Chinese Traditional Patent Medicine
+January 2023
+Vol. 45　 No. 1
+0． 05), and increases in apoptosis rate and expressions of p21 and Bax proteins (P<0． 05) in a dose-dependent
+manner (P<0． 05). Compared with the si-NC group, the si-circDONSON group was observed with decreased cell
+viability, CyclinD1 and Bcl-2 protein expressions, and the apoptosis rate as well as the expressions of p21 and Bax
+proteins (P<0． 05). Compared with the ginsenoside Rd+pcDNA group, the ginsenoside Rd+pcDNA-circDONSON
+group exhibited increased cell viability, expressions of CyclinD1 and Bcl-2 proteins ( P <0． 05), and decreased
+apoptosis rate and expression of p21 and Bax proteins (P<0． 05). CONCLUSION　 Ginsenoside Rd may inhibit
+the proliferation and apoptosis of colon cancer SW480 cells by down-regulating the circDONSON expression.
+KEY WORDS: ginsenoside Rd; colon cancer; circDONSON; proliferation; apoptosis
+　 　 结肠癌是最常见的消化道恶性肿瘤之一, 其发
+病率和病死率分别位居恶性肿瘤第三位和第五
+位[1-2]。 大多数结肠癌患者确诊时已为中晚期, 失
+去了最佳治疗时间, 预后较差, 因此, 急需寻找有
+效的治疗策略。 人参皂苷已被报道具有抗癌、 抗
+炎、 抗氧化等作用[3-4], 其中人参皂苷 Rd 可抑制
+结肠癌的进展[5-6], 但其抗癌机制仍不清楚。 随着
+RNA 测序技术和生物信息学的发展, 越来越多的
+非 编 码 RNA 被 筛 选 和 鉴 定, 如 微 小 RNA
+(microRNA, miR)、 长链非编码 RNA ( long non-
+coding RNA, lncRNA )
+和 环 状 RNA ( circular
+RNA, circRNA) [7], circRNA 呈封闭环状结构, 没
+有 5′-3′极性, 也没有聚腺苷化尾, 表达更稳定[8],
+可通过与 miR、 lncRNA 或蛋白相互作用参与调控
+细胞 的 各 种 生 理 和 病 理 过 程[9-10]。 研 究 发 现,
+circRNA 与肿瘤的发生发展密切相关, circOSBPL10
+通过浸润 miR-136-5p 和上调 WNT2 促进胃癌细胞
+的生长和转移[11]; circHIPK3 通过海绵 miR-558 抑
+制肝素酶的表达, 延缓膀胱癌细胞的侵袭、 转移和
+血管生成[12]; circ-SLC7A6 通过大量浸润 miR-21 在
+非小细胞肺癌中发挥抑癌作用[13]。 近年来, 许多
+circRNA 被 发 现 在 结 肠 癌 中 异 常 表 达[14], 例 如
+circDONSON 来源于 DONSON mRNA 的背剪接, 位
+于 21q22． 11 染色体上, 本研究探讨了人参皂苷 Rd
+是否通过调控 circDONSON 表达发挥抗癌作用。
+1　 材料与方法
+1． 1　 临床资料　 选取盐城市第一人民医院 2017 年
+1 月至 2019 年 1 月期间病理检测为结肠癌的患者
+30 例, 获得原发性结肠癌组织及匹配的癌旁组织,
+每位患者均知情且同意, 手术切除后立即将样本保
+存在-80 ℃下。 本研究经医院伦理委员会批准 (批
+准号 201612-20)。
+1． 2　 材料　 结肠癌 SW480 细胞系购自中国科学院
+上海细胞库。 人参皂苷 Rd 购自中国食品药品检定
+研 究 院 ( 批 号 111818-201603, 纯 度 > 98% )。
+RPMI-1640 培养基、 胎牛血清购自美国 Gibco 公
+司; 青-链霉素购自上海宝曼生物科技有限公司;
+MTT 试 剂 盒 购 自 上 海 晶 抗 生 物 工 程 有 限 公 司;
+Annexin V-FITC / PI 试剂盒购自上海瓦兰生物科技
+有限公司; Lipofectamine2000 购自上海信帆生物科
+技有限公司; TRIzol 试剂、 反转录、 荧光定量试剂
+盒购自日本 TaKaRa 公司; RIPA 蛋白裂解液、 BCA
+试剂盒购自上海研谨生物科技有限公司。
+1． 3　 细胞处理与分组　 SW480 细胞用含 10% 胎牛
+血清的 RPMI-1640 培养基, 在 5% CO2、 37 ℃条件
+下孵育。 取对数生长期 SW480 细胞接种于 6 孔板,
+每孔 3×104 个, 分别加入含不同浓度 (50、 100、
+150 μmol/ L) 人参皂苷 Rd 的培养基孵育 24 h, 同
+时将正常培养的细胞作为对照组。 后续实验分别将
+si-NC、 si-DONSON 转染至 SW480 细胞, 孵育24 h,
+分别 作 为 si-NC 组、 si-DONSON 组; 将 pcDNA、
+pcDNA-DONSON 转 染 至 SW480 细 胞 后, 加 入 含
+150 μmol/ L 人参皂苷 Rd 的培养基孵育 24 h, 分别
+作为 人 参 皂 苷 Rd + pcDNA 组、 人 参 皂 苷 Rd +
+pcDNA-circDONSON 组, 各组 转 染 过 程 严 格 按 照
+Lipofectamine2000 试剂盒说明书进行操作。
+1． 4　
+RT-qPCR 法检测 circDONSON mRNA 表达　
+提取 组 织 和 细 胞 总 RNA, 反 转 录 成 cDNA, 以
+GAPDH 为内参, 采用 2
+-ΔΔCT法计算相对表达量, 检
+测 各 组 circDONSON 表 达 以 验 证 转 染 效 果。
+circDONSON 正 向 序 列 5′-ATATCAGGCTCGGAGA
+ATGATACATGTGAAGT-3′,
+反 向 序 列
+5′-CTT
+AAGCATTTGCATTGTGGCACCTCGG-3′; GAPDH 正
+向 序 列 5′-CCCACATGGCCTCCAAGGAGTA-3′, 反
+向 序 列 5′-GTGTACATGGCAACTGTGAGGAGG-3′,
+引物由生工生物工程 (上海) 股份有限公司合成。
+1． 5　 MTT 法检测细胞活力　 取 SW480 细胞 (密度
+2． 5×104 / mL) 接种于 96 孔板, 每孔 100 μL, 按
+“1． 3” 项下方法培养 24 h 后, 每孔加入 20 μL
+MTT 溶液继续培养 4 h, 弃上清, 每孔加入150 μL
+6
+7
+2023 年 1 月
+第 45 卷　 第 1 期
+中 成 药
+Chinese Traditional Patent Medicine
+January 2023
+Vol. 45　 No. 1
+DMSO, 室温 振 荡 孵 育 5 min, 采 用 酶 标 仪 检 测
+490 nm 波 长 处 光 密 度 ( OD) 值, 计 算 细 胞 存
+活率。
+1． 6　 流式细胞术检测细胞凋亡率　
+SW480 细胞按
+“1． 3” 项下方法培养后, 收集各组细胞并用 PBS
+漂洗 2 次, 按照 Annexin V-FITC / PI 试剂盒说明检
+测细胞 凋 亡 情 况, 结 合 缓 冲 液 重 悬 细 胞, 加 入
+Annexin V-FITC、 碘化丙啶 (PI) 各 5 μL, 37 ℃
+孵育 15 min 后, 流式细胞仪检测细胞凋亡率。
+1． 7 　
+Western blot 法检测 CyclinD1、 Bcl-2、 p21、
+Bax 蛋白表达　
+SW480 细胞按 “1． 3” 项下方法培
+养, 提取细胞总蛋白, 用 BCA 试剂盒进行定量,
+SDS-PAGE 凝胶电泳后转移至 PVDF 膜上, 5% 脱
+脂牛奶室温封闭, 一抗 4 ℃孵育过夜, 二抗室温孵
+育 2 h, 暗室中曝光显影, 定影后用 Quantity One
+软件检测目的条带蛋白表达。
+1． 8　 统计学分析　
+通过 SPSS 21． 0 软件进行处
+理, 计量资料以 ( x±s) 表示, 并均符合正态分
+布, 2 组间比较采用独立样本 t 检验, 多组间比
+较采用单因素方差分析。 以 P<0． 05 为差异具有
+统计学意义。
+2　 结果
+2． 1　 circDONSON 在结肠癌组织中的表达　 与癌旁
+组织比较, 结肠癌组织中 circDONSON 表达升高
+(P<0． 05), 见表 1。
+表 1　 circDONSON 在结肠癌组织中的表达 (x±s, n= 30)
+Tab． 1　 Expressions of circDONSON in colon cancer tissue
+(x±s, n= 30)
+组别
+circDONSON
+癌旁组织
+1． 01±0． 03
+结肠癌组织
+2． 94±0． 12∗
+　 　 注: 与癌旁组织比较,∗P<0． 05。
+2． 2　 人参皂苷 Rd 对 SW480 细胞增殖和凋亡的影
+响　 与对照组比较, 100、 150 μmol/ L 人参皂苷 Rd
+组细胞活力和 CyclinD1、 Bcl-2 蛋白表达降低 (P<
+0． 05), 细胞 凋 亡 率 和 p21、 Bax 蛋 白 表 达 升 高
+(P<0． 05), 并呈剂量依赖性 (P<0． 05), 见图 1、
+表 2。
+图 1　 各组细胞凋亡情况 (A) 和相关蛋白表达 (B)
+Fig． 1　 Apoptosis (A) and related protein expressions (B) in each group
+表 2　 人参皂苷 Rd 对 SW480 细胞增殖和凋亡的影响 (x±s, n= 9)
+Tab． 2　 Effects of ginsenoside Rd on proliferation and apoptosis of SW480 cells (x±s, n= 9)
+组别
+存活率/ %
+凋亡率 / %
+CyclinD1 蛋白
+p21 蛋白
+Bcl-2 蛋白
+Bax 蛋白
+对照组
+100． 00±0　
+5． 19±0． 39
+0． 69±0． 04
+0． 31±0． 02
+0． 63±0． 04
+0． 22±0． 01
+50 μmol/ L 人参皂苷 Rd 组
+92． 09±7． 66
+9． 54±0． 49
+0． 58±0． 03
+0． 41±0． 03
+0． 52±0． 03
+0． 29±0． 03
+100 μmol/ L 人参皂苷 Rd 组
+69． 20±4． 94∗#
+17． 56±1． 05∗#
+0． 41±0． 02∗#
+0． 56±0． 04∗#
+0． 39±0． 03∗#
+0． 45±0． 03∗#
+150 μmol/ L 人参皂苷 Rd 组
+37． 85±3． 78∗#&
+28． 21±1． 38∗#&
+0． 21±0． 02∗#&
+0． 78±0． 04∗#&
+0． 18±0． 01∗#&
+0． 67±0． 05∗#&
+　 　 注: 与对照组比较,∗P<0． 05; 与 50 μmol/ L 人参皂苷 Rd 组比较,#P<0． 05; 与 100 μmol/ L 人参皂苷 Rd 组比较,&P<0． 05。
+7
+7
+2023 年 1 月
+第 45 卷　 第 1 期
+中 成 药
+Chinese Traditional Patent Medicine
+January 2023
+Vol. 45　 No. 1
+2． 3　 人参皂苷 Rd 对 SW480 细胞 circDONSON 表达
+的影响　 与对照组比较, 100、 150 μmol/ L 人参皂
+苷 Rd 组细胞 circDONSON 表达降低 ( P < 0． 05),
+并呈剂量依赖性 (P<0． 05), 见表 3。
+2． 4　 下调 circDONSON 表达对 SW480 细胞增殖和
+凋亡的影响　
+与 si-NC 组比较, si-circDONSON 组
+细胞 circDONSON 表 达、 细 胞 活 力 和 CyclinD1、
+Bcl-2 蛋白表达降低 ( P < 0． 05), 细胞凋亡率和
+p21、 Bax 蛋 白 表 达 升 高 ( P < 0． 05 ), 见 图 2、
+表 4。
+表 3　
+人参皂苷 Rd 对 SW480 细胞 circDONSON 表达的影
+响 (x±s, n= 9)
+Tab． 3 　
+Effects
+of
+ginsenoside
+Rd
+on
+circDONSON
+expression in SW480 cells (x±s, n= 9)
+组别
+circDONSON
+对照组
+1． 01±0． 05
+50 μmol/ L 人参皂苷 Rd 组
+0． 92±0． 04
+100 μmol/ L 人参皂苷 Rd 组
+0． 68±0． 04∗#
+150 μmol/ L 人参皂苷 Rd 组
+0． 35±0． 02∗#&
+　 　 注: 与对照组比较,∗P<0． 05; 与 50 μmol/ L 人参皂苷 Rd 组比
+较,#P<0． 05; 与 100 μmol/ L 人参皂苷 Rd 组比较,&P<0． 05。
+图 2　 circDONSON 表达下调对细胞凋亡 (A) 和相关蛋白表达 (B) 的影响
+Fig． 2　 Effects of circDONSON expression down-regulation on apoptosis (A) and related protein expressions (B)
+表 4　 circDONSON 表达下调对 SW480 细胞增殖和凋亡的影响 (x±s, n= 9)
+Tab． 4　 Effects of circDONSON expression down-regulation on proliferation and apoptosis of SW480 cells (x±s, n= 9)
+组别
+circDONSON
+存活率/ %
+凋亡率/ %
+CyclinD1 蛋白
+p21 蛋白
+Bcl-2 蛋白
+Bax 蛋白
+si-NC 组
+1． 02±0． 04
+100． 00±0
+5． 79±0． 46
+0． 67±0． 04
+0． 25±0． 02
+0． 66±0． 04
+0． 24±0． 01
+si-circDONSON 组
+0． 37±0． 02∗
+34． 32±2． 94∗ 32． 29±1． 61∗
+0． 18±0． 01∗
+0． 74±0． 04∗
+0． 19±0． 01∗
+0． 72±0． 04∗
+　 　 注: 与 si-NC 组比较,∗P<0． 05。
+2． 5　 上调 circDONSON 表达能逆转人参皂苷 Rd 对
+SW480 细胞增殖和凋亡的影响　
+与人参皂苷 Rd+
+pcDNA 组比较, 人参皂苷 Rd+pcDNA-circDONSON
+组细胞 circDONSON 表达、 细胞活力和 CyclinD1、
+Bcl-2 蛋白表达升高 ( P < 0． 05), 细胞凋亡率和
+p21、 Bax 表 达 表 达 降 低 ( P < 0． 05 ), 见 图 3、
+表 5。
+图 3　 circDONSON 表达上调对细胞凋亡 (A) 和相关蛋白表达 (B) 的影响
+Fig． 3　 Effects of circDONSON expression up-regulation on apoptosis (A) and related protein expressions (B)
+8
+7
+2023 年 1 月
+第 45 卷　 第 1 期
+中 成 药
+Chinese Traditional Patent Medicine
+January 2023
+Vol. 45　 No. 1
+表 5　 circDONSON 表达上调逆转人参皂苷 Rd 对 SW480 细胞增殖和凋亡的影响 (x±s, n= 9)
+Tab． 5　 circDONSON expression up-regulation reversed the effects of ginsenoside Rd on proliferation and apoptosis of SW480
+cells (x±s, n= 9)
+组别
+circDONSON
+存活率/ %
+凋亡率/ %
+CyclinD1 蛋白
+p21 蛋白
+Bcl-2 蛋白
+Bax 蛋白
+人参皂苷 Rd+pcDNA 组
+0． 99±0． 04
+100． 00±0　
+26． 65±1． 23
+0． 24±0． 01
+0． 75±0． 04
+0． 23±0． 01
+0． 71±0． 03
+人参皂苷 Rd+pcDNA-circDONSON 组
+1． 89±0． 07∗
+257． 01±22． 64∗ 11． 21±0． 54∗
+0． 55±0． 03∗
+0． 46±0． 02∗
+0． 48±0． 03∗
+0． 36±0． 01∗
+　 　 注: 与人参皂苷 Rd+pcDNA 组比较,∗P <0． 05。
+3　 讨论
+研究表明, 人参皂苷 Rd 具有显著抗癌作用,
+其可通过调控 TRPM7 通道活性来抑制胃癌 AGS 细
+胞和乳腺癌 MCF-7 细胞的增殖[15]。 Wang 等[16] 研
+究表明, 人参皂苷 Rd 治疗可减少自发性和实验性
+转移模型中肺部肿瘤病灶数量减少, 并通过下调
+miR-18a 来促进 Smad2 表达, 从而抑制小鼠乳腺癌
+细胞 的 迁 移 和 侵 袭, 且 呈 剂 量 依 赖 性。 Zhang
+等[17]研究表明, 人参皂苷 Rd 可降低实体瘤体积和
+质 量, 减 少 肿 瘤 血 管 生 成, 并 通 过 调 节 Akt/
+mTOR/ p70S6K 信号级联, 抑制乳腺癌血管生成和
+细胞增殖, 诱导细胞凋亡, 从而发挥抗肿瘤活性。
+人参皂苷 Rd 可抑制肺癌 A549 细胞的增殖, 诱导
+G0 / G1 期阻滞, 并通过抑制 Nrf2 通路来提高 A549 /
+DDP 细胞的药物敏感性[18]。 Tian 等[19] 发现, 人参
+皂苷 Rd 通过增加 caspase-3、 caspase-9 表达和 Bax /
+Bcl-2 比值, 抑制胃癌细胞增殖, 诱导细胞凋亡。
+钱松等[20] 研究表明, 人参皂苷 Rd 可以通过下调
+Nrf2 表达抑制非小细胞肺癌 H460 细胞增殖, 促进
+凋亡, 并提高其化疗药物敏感性。 高境邈[21] 研究
+发现, 在结肠癌防治过程中, 人参皂苷 Rd 联合阿
+司匹林的治疗效果更佳, 有助于降低临床治疗中阿
+司匹林的使用量, 从而降低其对胃肠道产生的不良
+反应。 与上述抗癌作用一致, 本研究发现人参皂苷
+Rd 以剂量依赖方式抑制结肠癌 SW480 细胞增殖和
+诱导细胞凋亡。 人参皂苷 Rd 能降低 SW480 细胞
+CyclinD1、 Bcl-2 蛋白表达, 升高 p21、 Bax 蛋白表
+达, 与功能分析结果一致, 提示人参皂苷 Rd 可抑
+制结肠癌细胞增殖, 促进细胞凋亡, 在结肠癌中具
+有抗癌作用。
+一些研究表明, circDONSON 促进肿瘤的发生
+发展, 如 circDONSON 在胶质瘤组织中表达上调,
+其通过调节 FOXO3 促进胶质瘤恶性进展, 且与胶
+质瘤患者的淋巴结远处转移以及不良预后密切相
+关[22]。 circDONSON 在胃癌组织中表达升高, 且与
+TNM 晚期及预后不良呈正相关, 其通过 NURF 复
+合体依赖性激活转录因子 SOX4 促进胃癌的生长和
+侵袭[23]。 circDONSON 在胃癌、 DDP 耐药胃癌组织
+和细胞中高表达, 通过调节 miR-802 / BMI1 轴促进
+胃癌细胞的顺铂耐药, 为克服胃癌患者化疗耐药性
+的新治疗策略研究提供了依据[24]。 本研究发现,
+结肠癌 SW480 细胞中 circDONSON 表达升高, 而人
+参皂苷 Rd 处理可降低其表达, 提示人参皂苷 Rd
+可能通过调控 circDONSON 表达在结肠癌中发挥抗
+癌作用。 进一步功能分析显示, 下调 circDONSON
+表达可抑制 SW480 细胞增殖, 诱导细胞凋亡, 并
+改变增 殖 和 凋 亡 相 关 蛋 白 的 表 达。 此 外, 上 调
+circDONSON 表达逆转了人参皂苷 Rd 对 SW480 细
+胞增殖和凋亡的影响。
+综上 所 述, 人 参 皂 苷 Rd 可 能 通 过 下 调
+circDONSON 表达抑制结肠癌 SW480 细胞增殖, 诱
+导细胞凋亡。
+参考文献:
+[ 1 ] 　 彭科瑜, 岳芙蓉, 张　
+力. LncRNA FoxD2-AS1 靶向 miR-
+324-5p 对结肠癌 SW480 细胞增殖和迁移侵袭的影响[ J].
+临床和实验医学杂志, 2019, 18(16): 1724-1728.
+[ 2 ] 　 刘志军, 康剑锋, 袁世发, 等. LncRNA MALAT1 在结肠癌
+组织中的表达及其与预后的相关性研究[ J]. 临床误诊误
+治, 2020, 32(9): 70-75.
+[ 3 ] 　 权 恺, 刘　 群, 李　 萍, 等. 人参皂苷抗癌活性的最新研究
+进展[J]. 医学研究生学报, 2015, 28(4): 427-431.
+[ 4 ] 　 刘　 博, 俞　 婷, 韩晓蕾, 等. 人参皂苷抗炎作用及其分子
+机制的 研 究 进 展 [ J]. 中 国 药 学 杂 志, 2019, 54 ( 4 ):
+253-258.
+[ 5 ] 　 Lee S Y, Kim G T, Roh S H, et al. Proteome changes related
+to the anti-cancer activity of HT29 cells by the treatment of
+ginsenoside Rd[J]. Pharmazie, 2009, 64(4): 242-247.
+[ 6 ] 　 Phi L T H, Sari I N, Wijaya Y T, et al. Ginsenoside Rd
+inhibits the metastasis of colorectal cancer via epidermal growth
+factor receptor signaling axis[J]. IUBMB Life, 2019, 71(5):
+601-610.
+[ 7 ] 　 Qu S B, Yang X S, Li X L, et al. Circular RNA: A new star of
+noncoding RNAs[J]. Cancer Lett, 2015, 365(2): 141-148.
+[ 8 ] 　 Chen L L, Yang L. Regulation of circRNA biogenesis[J]. RNA
+Biol, 2015, 12(4): 381-388.
+[ 9 ] 　 Li J Q, Yang J, Zhou P, et al. Circular RNAs in cancer: novel
+insights into origins, properties, functions and implications[J].
+9
+7
+2023 年 1 月
+第 45 卷　 第 1 期
+中 成 药
+Chinese Traditional Patent Medicine
+January 2023
+Vol. 45　 No. 1
+Am J Cancer Res, 2015, 5(2): 472-480.
+[10] 　 Ebbesen K K, Kjems J, Hansen T B. Circular RNAs:
+Identification, biogenesis and function [ J]. Biochim Biophys
+Acta, 2016, 1859(1): 163-168.
+[11] 　 Wang S, Zhang X, Li Z, et al. Circular RNA profile identifies
+circOSBPL10 as an oncogenic factor and prognostic marker in
+gastric cancer[J]. Oncogene, 2019, 38(44): 6985-7001.
+[12] 　 Li Y W, Zheng F X, Xiao X Y, et al. CircHIPK3 sponges miR-
+558 to suppress heparanase expression in bladder cancer cells
+[J]. EMBO Rep, 2017, 18(9): 1646-1659.
+[13] 　 Wang Y, Zheng F S, Wang Z B, et al. Circular RNA circ-
+SLC7A6 acts as a tumor suppressor in non-small cell lung cancer
+through abundantly sponging miR-21[J]. Cell Cycle, 2020, 19
+(17): 2235-2246.
+[14] 　 Li X N, Wang Z J, Ye C X, et al. RNA sequencing reveals the
+expression profiles of circRNA and indicates that circDDX17
+acts as a tumor suppressor in colorectal cancer[ J]. J Exp Clin
+Cancer Res, 2018, 37(1): 325.
+[15] 　 Kim B J. Involvement of melastatin type transient receptor
+potential 7 channels in ginsenoside Rd-induced apoptosis in
+gastric and breast cancer cells[ J]. J Ginseng Res, 2013, 37
+(2): 201-209.
+[16] 　 Wang P W, Du X Y, Xiong M Q, et al. Ginsenoside Rd
+attenuates breast cancer metastasis implicating derepressing
+microRNA-18a-regulated Smad2 expression[J]. Sci Rep, 2016,
+6: 33709.
+[17] 　 Zhang E Y, Shi H L, Yang L, et al. Ginsenoside Rd regulates
+the Akt/ mTOR/ p70S6K
+signaling
+cascade
+and
+suppresses
+angiogenesis and breast tumor growth[J]. Oncol Rep, 2017, 38
+(1): 359-367.
+[18] 　 Chian S, Zhao Y N, Xu M, et al. Ginsenoside Rd reverses
+cisplatin resistance in non-small-cell lung cancer A549 cells by
+downregulating the nuclear factor erythroid 2-related factor 2
+pathway[J]. Anticancer Drugs, 2019, 30(8): 838-845.
+[19] 　 Tian Y Z, Liu Y P, Tian S C, et al. Antitumor activity of
+ginsenoside Rd in gastric cancer via up-regulation of Caspase-3
+and Caspase-9[J]. Pharmazie, 2020, 75(4): 147-150.
+[20] 　 钱　 松, 柴尹泽, 余潇苓, 等. 人参皂苷 Rd 通过下调 Nrf2
+表达调控 H460 细胞的增殖和凋亡[J]. 中国生物化学与分
+子生物学报, 2020, 36(5): 566-572.
+[21] 　 高境邈. Rd 与阿司匹林组合物对炎症相关小鼠结肠癌的预
+防作用[D]. 兰州: 兰州大学, 2016.
+[22] 　 Zou Z, Dong Y S, Liu J M, et al. Circ-DONSON promotes
+malignant progression of glioma through modulating FOXO3[J].
+Eur Rev Med Pharmacol Sci, 2020, 24(2): 749-757.
+[23] 　 Ding L X, Zhao Y Y, Dang S W, et al. Circular RNA circ-
+DONSON facilitates gastric cancer growth and invasion via
+NURF complex dependent activation of transcription factor SOX4
+[J]. Mol Cancer, 2019, 18(1): 45.
+[24] 　 Liu Y, Xu J Z, Jiang M, et al. CircRNA DONSON contributes
+to cisplatin resistance in gastric cancer cells by regulating miR-
+802 / BMI1 axis[J]. Cancer Cell Int, 2020, 20: 261.
+0
+8
+2023 年 1 月
+第 45 卷　 第 1 期
+中 成 药
+Chinese Traditional Patent Medicine
+January 2023
+Vol. 45　 No. 1

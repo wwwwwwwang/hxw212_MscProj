@@ -1,0 +1,385 @@
+基于 NF - κB 表达探讨人参皂苷 Rd 对冈田酸诱导的
+神经细胞损伤的保护作用
+李 玲
+(陕西省中医医院,陕西 西安 710000)
+  [摘要] 目的 探讨人参皂苷 Rd 对冈田酸诱导的神经细胞损伤的保护
+作用及其机制。 方法 胎鼠海马细胞体外实验:①实验分为 8 组。 正常组胎
+鼠海马细胞不加其他处理因素正常培养,对照组加入 ddH2O 培养,冈田酸 2
+h、4 h、6 h、8 h、12 h、24 h 组分别加入 10 nmol/ L 冈田酸进行培养,通过细胞免
+疫荧光化学染色观察各组海马神经元细胞形态。 ②实验分为 5 组。 正常组不
+加其他处理因素正常培养,对照组加入 ddH2O 培养,冈田酸组加入 10 nmol/ L
+冈田酸培养,均培养 12 h;人参皂苷 Rd 2. 5 μmol/ L 组、人参皂苷 Rd 5 μmol/ L
+组先加入相应浓度的人参皂苷 Rd 预处理 12 h,再加入 10 nmol/ L 冈田酸培养 12 h。 各组培养 12 h
+后,采用 Western blot 方法检测海马神经元内 NF - κB 表达情况。 SD 雄性大鼠体内实验:将 75 只
+雄性 SD 大鼠随机分为正常组、假手术组、冈田酸 1 周组、冈田酸 2 周组、冈田酸 2 周 + 人参皂苷 Rd
+组,每组 15 只。 除正常组和假手术组外,其余组均进行冈田酸溶液左右侧脑室区注入造模;冈田酸
+2 周 + 人参皂苷 Rd 组每天相同时间段腹腔注射人参皂苷 Rd 10 mg / kg 1 次,连续 21 d,期间于第 8
+天进行冈田酸造模。 冈田酸 1 周组、冈田酸 2 周组大鼠分别于造模后 1 周、2 周处死,其他组大鼠
+均于实验第 21 天给药完毕后处死。 采用 Western blot 方法检测皮质和海马中 NF - κB 表达情况。
+结果 细胞免疫荧光染色显示冈田酸各组海马神经元进行性损伤,时间越长,损伤越严重。 冈田酸
+组海马神经元细胞中 NF - κB 表达水平明显高于正常组和对照组(P 均 < 0. 05),人参皂苷 Rd 2. 5
+μmol/ L 组、人参皂苷 Rd 5 μmol/ L 组明显低于冈田酸组。 冈田酸 1 周组、冈田酸 2 周组大鼠皮质和
+海马区 NF - κB 表达水平均明显高于正常组和假手术组(P 均 < 0. 05)。 冈田酸 2 周 + 人参皂苷
+Rd 组大鼠皮质和海马区 NF - κB 表达水平均明显低于冈田酸 1 周组和冈田酸 2 周组( P 均 <
+0. 05)。 结论 人参皂苷 Rd 能抑制冈田酸诱导的海马神经元及海马 CA1 区注射冈田酸大鼠皮质
+和海马内 NF - κB 表达,从而减轻神经元损伤,具有神经保护作用。
+[关键词] 人参皂苷 Rd;冈田酸;阿尔茨海默病;NF - κB
+doi:10. 3969 / j. issn. 1008 - 8849. 2019. 36. 010
+[中图分类号] R -332 [文献标识码] A [文章编号] 1008 -8849(2019)36 -4031 -05
+[作者简介] 李玲,女,博士,副主任医师,研究方向为阿尔茨海默病的中医药防治。
+Protective effect of Ginsenoside Rd on okadaic acid-induced neuronal damage based on NF-κB expression
+LI Ling
+(Shaanxi Provincial Hospital of Traditional Chinese Medicine, Xi'an 710000, Shaanxi, China)
+Abstract: Objective It is to explore the protective effect and mechanism of ginsenoside Rd on okadaic acid-induced
+neuronal injury. Methods Fetal rat hippocampus experiments in vitro: ①The experiments were divided into 8 groups. The
+fetal rat hippocampal cells in normal group were cultured normally without any other treatment factors. The cells in the con-
+trol group were cultured with ddH2O, and the cells in the okadaic acid 2 h, 4 h, 6 h, 8 h, 12 h and 24 h groups were cul-
+tured with 10 nmol/ L okadaic acid respectively. The morphology of hippocampal neurons was observed by fluorescence
+chemical staining. ② The experiment was divided into 5 groups. The normal group was cultured without other treatment
+factors, the control group was cultured with ddH2O, the okadaic acid group was cultured with 10 nmol/ L Okadaic acid,
+and all groups were cultured for 12 hours; the ginsenoside Rd 2. 5 μmol/ L group, the ginsenoside Rd 5 μmol/ Group L
+·4031·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2019 Dec, 28(36)
+万方数据
+were pretreated with ginsenoside Rd at a corresponding concentration for 12 h, and then were cultured with 10 nmol/ L Oka-
+daic acid for 12 h. After 12 h of culture in each group, the expression of NF-κB in hippocampal neurons was detected by
+Western blot. SD male rats experiments in vivo: 75 male SD rats were randomly divided into normal group, sham operation
+group, Okadaic acid 1 week group, Okadaic acid 2 week group, Okadaic acid 2 week + ginsenoside Rd group, each group
+had 15 animals. Except for the normal group and the sham operation group, the other groups were injected with okadaic
+acid solution in the right and left ventricle regions for modeling; okadaic acid 2 weeks + ginsenoside Rd group was treated
+with ginsenoside Rd 10 mg/ kg by intraperitoneal injection once a day at the same time period for 21 days, in which okada
+acid modeling was performed on the 8th day. The rats in the okadaic acid 1 week group and the okadaic acid 2 week group
+were sacrificed at 1 week and 2 weeks after modeling, respectively. The rats in the other groups were sacrificed after the ad-
+ministration on the 21st day of the experiment. Western blot was used to detect the expression of NF-κB in the cortex and
+hippocampus. Results Cellular immunofluorescence staining showed that hippocampal neurons were progressively damaged
+in each group of okadaic acid. The longer the time, the more severe the damage. The expression level of NF-κB in hipp-
+ocampal neurons of the Okadaic acid groups was significantly higher than that of the normal group and the control group (P <
+0. 05). The levels in ginsenoside Rd2. 5 μmol/ L group and the ginsenoside Rd 5 μmol/ L group were significantly lower
+than those in the control group and okada acid group. The levels of NF-κB in the cortex and hippocampus of the Okadaic
+acid 1 week group and the okadaic acid 2 week group were significantly higher than those in the normal group and the sham
+operation group (P < 0. 05). The levels of NF-κB in the cortex and hippocampus of rats in the okadaic acid 2 weeks + gin-
+senoside Rd group were significantly lower than those in the okadaic acid 1 week group and the okadaic acid 2 week group
+(both P < 0. 05). Conclusion Ginsenoside Rd can inhibit the expression of NF-κB in hippocampal neurons induced by
+okadaic acid and in the cortex and hippocampus of rats whose hippocampal CA1 was injected by okadaic acid, thus to re-
+duce neuronal damage and play its neuroprotective effect.
+Key words: Ginsenoside Rd; okadaic acid; Alzheimer's disease; NF-κB
+  阿尔茨海默病( Alzheimer’ s disease,AD) 是由
+多种因素引起的神经功能异常而导致的一种以记忆
+障碍和认知功能障碍为特征的渐进性神经变性疾
+病[1],多发于老年人。 AD 的病因主要有遗传性、散
+发性,大多数属 于 散 发 性, 主 要 是 由 载 脂 蛋 白 E
+(ApoE)和环境因素及各种慢性疾病(糖尿病、高同
+型半胱氨酸血症等)相互作用引起[2]。 目前研究认
+为细胞外 β 淀粉样蛋白(Aβ)沉积、tau 蛋白过度磷
+酸化、氧化应激、炎症反应与 AD 的发生发展密切相
+关,其中 Aβ 沉积是 AD 发生和发展的首要及中心环
+节,Aβ 沉积会导致神经元减少及功能障碍,从而发
+展成痴呆[3 - 4]。 海马是大脑中参与学习与记忆的重
+要器官,而 AD 患者以海马的病理改变最为突出[5]。
+目前针对 AD 的药物治疗均属对症治疗,能影响或
+逆转病程进展的药物还在研究阶段。 人参皂苷 Rd
+是中药人参的有效成分,其可通过抗炎、抗氧化、抗
+凋亡及抑制钙离子内流作用而发挥神经保护作
+用[6 - 7]。 本实验主要通过冈田酸干预的海马神经元
+细胞模型和海马 CA1 区注射冈田酸的大鼠模型,探
+讨了人参皂苷 Rd 对 NF - κB 的调控发挥其保护神
+经元作用的可能机制。
+1 实验资料
+1． 1 
+实 验 动 物  
+健 康 清 洁 级 Sprague - Dawley
+(SD)妊娠大鼠 1 只,孕期(18 ± 2)d,由空军军医大
+学动物 中 心 提 供。 健 康 清 洁 级 Sprague - Dawley
+(SD)成年雄性大鼠 75 只,体质量(200 ± 10)g,由空
+军军医大学实验动物中心提供,动物合格证编号:
+SCXK(陕)2014 - 002。 动物饲养在空军军医大学
+动物实验室,饲养条件符合国家科学技术委员会的
+《实验动物管理条例》,湿度控制在 45% ~ 60% ,温
+度保持 20 ~ 30 ℃,明暗比为 1∶ 1。
+1． 2 药物与试剂 
+人参皂苷 Rd 由广州泰禾制药
+公司提供,纯度 > 98% 。 DMEM - F12 培养基、左旋
+多聚赖氨酸和 Neurobasl 添加剂均购自 Gibco 公司。
+胎牛血清购杭州江滨生物技术有限公司。 βⅢtubu-
+lin 单克隆抗体购自 Millipore 公司。 冈田酸购自
+Sigma 公司。 兔抗 NF - κB p65 购于 Millipore 公司。
+1． 3 主要仪器 CO2 培养箱(美国 Forma Scientific
+公司),倒置显微镜(日本 Olympus,CK40)。
+1． 4 实验方法 
+实验均经医学实验动物管理委员
+会批准。
+1． 4． 1 体外实验 ①实验分为正常组、对照组及冈
+田酸 2 h、4 h、6 h、8 h、12 h、24 h 组。 在无菌条件下
+取出胎鼠,解剖分离出海马,分散细胞,以细胞数约
+·4032·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2019 Dec, 28(36)
+万方数据
+2 × 105 mL - 1的密度和 Neurobasl 直接接种在预先用
+多聚赖氨酸包被 96 孔板中,每孔培养基体积 200
+μL,放入 37 ℃、5% CO2 细胞培养箱中培养,以后每
+3 d 半量换液 1 次。 正常组细胞不加其他处理因素
+正常培养,对照组加入 ddH2O 培养,冈田酸各组分
+别加入 10 nmol/ L 冈田酸进行培养。 然后在相应时
+间点按 2 × 104 mL - 1的细胞密度将培养后的细胞接
+种于培养板中进行细胞爬片,按照 SP 试剂盒(西安
+昊轩生物有限公司)说明书进行操作。 抗体孵育,4
+℃过夜或 37 ℃ 60 min,最后 DAB 显色(避光,镜下
+观察至棕色),树胶封片,通过细胞免疫荧光化学染
+色观察各组海马神经元细胞形态。 ②实验分为正常
+组、对照组、冈田酸组、人参皂苷 Rd 2. 5 μmol/ L 组、
+人参皂苷 Rd 5 μmol/ L 组。 正常组不加其他处理因
+素正常培养,对照组加入 ddH2O 培养,冈田酸组加
+入 10 nmol/ L 冈田酸培养,均培养 12 h;人参皂苷 Rd
+2. 5 μmol/ L 组、人参皂苷 Rd 5 μmol/ L 组先加入相
+应浓度的人参皂苷 Rd 预处理 12 h,再加入 10 nmol/
+L 冈田酸培养 12 h。 各组培养 12 h 后,采用 Western
+blot 方法检测海马神经元内 NF - κB 表达情况:按
+照 BCA 试剂盒说明书测定各组细胞蛋白浓度,根据
+测定的蛋白浓度加入一定量的 Loading buffer 稳定
+蛋白;再根据蛋白分子量选择合适的凝胶浓度;上
+样,跑胶,跑胶时间以样品跑至凝胶底部为准;后置
+于电转仪中进行转膜,转膜后的 PVDF 膜浸入 5%
+脱脂牛奶中封闭,封闭后孵育一抗、二抗,后将化学
+发光液 A、B 液按 1∶ 1 比例混合,滴在抗体孵育的
+PVDF 膜表面,吹匀,在膜表面反应 1 ~ 3 min 后,放
+入凝胶成像仪器内扫描胶片,采集合适时间内的图
+片并保存;采集数据,统计分析。
+1． 4． 2 体内实验 将 75 只雄性 SD 大鼠随机分为
+正常组、假手术组、冈田酸 1 周组、冈田酸 2 周组、冈
+田酸 2 周 + 人参皂苷 Rd 组,每组 15 只。 除正常组
+外,其余组均进行造模: 称大鼠体质量,使用 10% 水
+合氯醛 350 mg / kg 麻醉大鼠,剪去头顶部的毛发,固
+定于脑立体定位仪上,用 75% 乙醇消毒剪除毛发部
+位的皮肤,正中竖着划开长 2 ~ 3 cm 切口,剥离皮下
+组织及骨膜,暴露前囟,以 bregma 点为原点(十字中
+心),使用此点的三坐标位置;用直径约 1 mm 的牙
+科钻钻头于颅骨前囟后 0. 5 mm、左右旁开 1. 5 mm
+处钻孔,用 5 μL 微量注射器自钻孔处皮质往下 3. 6 ~
+4. 6 mm 将 10 μL(每侧 5 μL) 冈田酸溶液分别缓慢
+注入左右两侧脑室区。 假手术组以同样方法注射等
+量医用生理盐水;注射完毕后留针 5 min 以促进其
+完全吸收,后缓慢退针,缝合切口处皮肤,75% 乙醇
+消毒顶部切口处皮肤,用烤灯照至大鼠醒来,后将其
+放回笼中正常饲养。 造模后进行行为学实验(mor-
+ris 水迷宫实验、隐匿平台实验、空间探索实验),有
+行为记忆能力下降的动物纳入实验研究,否则不纳
+入。 冈田酸 2 周 + 人参皂苷 Rd 组每天相同时间段
+腹腔注射人参皂苷 Rd 10 mg / kg 1 次,连续 21 d,期
+间于第 8 天进行冈田酸造模。 冈田酸 1 周组、冈田
+酸 2 周组大鼠分别于造模后 1 周、2 周处死,其他组
+大鼠均于实验第 21 天给药完毕后处死,取脑组织。
+提取各组冰冻的大鼠脑组织中皮质和海马,按照实
+验一中 Western blot 方法检测皮质和海马中 NF - κB
+表达情况。
+1． 5 统计学方法 
+采用 SPSS 16. 0 软件进行数据
+分析,测定结果以  
+x ± s 表示,组间比较采用单因素
+方差分析,P < 0. 05 为差异有统计学意义。
+2 结  果
+2． 1 各组培养细胞中海马神经元免疫荧光化学染
+色表现 正常组和对照组原代培养的海马神经元 β
+Ⅲtubulin 阳性细胞分布一致,形态完整、规则,神经
+元胞体饱满,呈圆形或椭圆形,突起微管平滑连续,
+轴突微管集合成束,无断裂,没有差异性。 冈田酸 8
+h、12 h、24 h 组中 βⅢtubulin 细胞胞体饱满度明显
+降低,形态不规则、不完整,胞体与突起脱离,突起变
+短,明显断裂,甚至消失,可见许多断裂的碎片,且随
+着时间的延长损伤加重。 见图 1。
+2． 2 各组海马神经元细胞中 NF - κB 表达情况 正
+常组、对照组、冈田酸组、人参皂苷 Rd 2. 5 μmol/ L
+组、人参皂苷 Rd 5 μmol/ L 组 NF - κB 表达水平分别
+为 1. 00 ± 0. 000,1. 07 ± 0. 049,7. 73 ± 0. 033,2. 12 ±
+0. 079,2.06 ±0.062,冈田酸组明显高于正常组和对照
+组(P 均 <0.05),人参皂苷 Rd 2. 5 μmol/ L 组、人参皂
+苷 Rd 5 μmol/ L 组明显低于冈田酸组(P 均 < 0. 05),
+人参皂苷 Rd 2. 5 μmol/ L 组、人参皂苷 Rd 5 μmol/ L
+组比较差异无统计学意义(P > 0. 05)。 见图 2。
+2． 3 各组大鼠皮质和海马区 NF - κB 表达情况 冈
+田酸 1 周组、冈田酸 2 周组大鼠皮质和海马区 NF -
+κB 表达水平均明显高于正常组和假手术组(P 均 <
+0. 05)。 冈田酸 2 周 + 人参皂苷 Rd 组大鼠皮质和
+海马区NF - κB表达水平均明显低于冈田酸1周组
+和冈田酸 2 周组(P 均 < 0. 05)。 见图 3 及表 1。 正
+常 组、假手术组、冈田酸1周组、冈田酸2周组、冈田
+·4033·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2019 Dec, 28(36)
+万方数据
+图 1 正常组、对照组和冈田酸各组细胞免疫荧光染色表现(标尺 = 100 μm)
+1 为正常组;2 为对照组;3 为冈田酸组;4 为人参皂苷
+Rd 2. 5 μmol/ L 组;5 为人参皂苷 Rd 5 μmol/ L 组
+图 2 各组海马神经元细胞中 NF - κB 表达凝胶成像
+酸 2 周 + 人参皂苷 Rd 组。
+1 为正常组;2 为假手术组;3 为冈田酸 1 周组;4 为冈田酸
+2 周组;5 为冈田酸 2 周 + 人参皂苷 Rd 组
+图 3 各组大鼠皮质和海马区 NF - κB 表达凝胶成像
+3 讨  论
+AD 是以进行性认知障碍和行为损害为特征的
+退行性神经系统疾患,主要表现为记忆障碍,由于疾
+病过程的复杂性,目前尚没有有效治疗药物[8]。 Aβ
+在 AD 的发生中发挥重要作用,其会引发炎症、氧化
+损伤、代谢衰竭,随后导致广泛的神经元死亡,故 Aβ
+沉 积被认为是AD发生发展的根本原因之一[9] 。
+有研究表明,NF - κB 的激活与 Aβ 沉积有关,AD 患
+者神经元细胞及神经胶质细胞中 NF - κB 都能被激
+活,NF - κB 可能参与了 AD 损伤[10]。
+药物在大脑直接作用的先决条件是通过血脑屏
+表 1 各组大鼠皮质和海马区 NF - κB 表达水平比较(  
+x ± s)
+组别
+n
+皮质
+海马区
+正常组
+15
+1. 10 ± 0. 000
+1. 04 ± 0. 000
+假手术组
+15
+1. 30 ± 0. 007
+1. 08 ± 0. 011
+冈田酸 1 周组
+15
+3. 75 ± 0. 053①②
+5. 09 ± 0. 019①②
+冈田酸 2 周组
+15
+3. 92 ± 0. 038①②
+5. 82 ± 0. 017①②
+冈田酸 2 周 + 人参
+皂苷 Rd 组
+15
+1. 71 ± 0. 016
+1. 24 ± 0. 007
+  注:①与正常组和假手术组比较,P < 0. 05;②与冈田酸 2 周 +
+人参皂苷 Rd 组比较,P < 0. 05。
+障,人参皂苷 Rd 作为一种神经保护剂,具有亲脂
+性,很容易穿过生物膜和血脑屏障[11]。 既往研究发
+现,人参皂苷 Rd 有抗氧化、延缓衰老、降血糖、抗肿
+瘤、抗炎、保护线粒体作用,能够稳定海马神经元线
+粒体膜电位,从而抑制细胞凋亡,对大脑皮质神经元
+有保护作用,对星形胶质细胞同样具有抗氧化作
+用[11 - 14]。 本实验中首先观察了冈田酸干预的海马
+神经细胞形态变化,结果显示 βⅢtubulin 细胞胞体
+饱满度明显降低,形态不规则、不完整,胞体与突起
+脱离,突起变短,明显断裂,神经元减少,随着干预时
+间的延长,损伤加重;Western blot 检测发现,冈田酸
+组 NF - κB 表达水平显著升高,而人参皂苷 Rd 2. 5
+μmol/ L 组、人参皂苷 Rd 5 μmol/ L 组 NF - κB 表达
+水平明显低于冈田酸组。 提示人参皂苷 Rd 能抑制
+冈田酸诱导的大鼠海马神经元内 NF - κB 表达,证
+明人参皂苷 Rd 具有神经保护作用。 进一步实验动
+物研究发现,10 mg / kg 人参皂苷 Rd 腹腔注射能减
+少海马 CA1 区注射冈田酸大鼠皮质和海马区的 NF -
+κB 表达,提示人参皂苷 Rd 可通过抑制 NF - κB 而发
+挥神经保护作用。 这为 AD 的预防和治疗提供了一
+个很好的思路。
+(下转第 4098 页)
+·4034·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2019 Dec, 28(36)
+万方数据
+透析探针的体内外回收率分析[J]. 中国实验方剂学
+杂志,2017,13(15):35 - 40
+[16] 唐超园, 祝丽欣,陈芝,等. 血脑同步微透析研究大鼠
+口服银杏酮酯后内酯类成分的血脑分布[J]. 中草药,
+2017,48(2):272 - 277
+[17] 吴丽颖,张运好,刘建芳,等. 大鼠在体皮肤微透析的
+建立及对创伤涂膜剂经皮给药的药动学[J]. 中国医
+药工业杂志,2016,47(4):438 - 443
+[18] 兰颐,杨琳,史大勇,等. 基于微透析技术的花椒挥发
+油在体经皮促透作用研究[J]. 中国中药杂志,2017,
+42(14):2676 - 2682
+[19] 杨华生,黎晓丽,吴维刚,等. 在体皮肤微透析分析制
+川乌 - 白芍配伍对芍药苷局部药代动力学的影响[J].
+中国实验方剂学杂志,2017,13(9):80 - 84
+[20] 刘胜敏. 基于微透析 - 液质联用新技术研究丹参脑及
+血浆药代动力学特性[D]. 张家口:河北北方学院,
+2014
+[21] 刘聪敏,白洁,杜守颖,等. 血液微透析技术分析阿魏
+酸口服给药后药代动力学过程[J]. 中国实验方剂学
+杂志,2013,19(17):176 - 179
+[22] 郑芳昊,罗佳波. 微透析采样考察麻黄 - 桂枝药对配
+伍对麻黄碱药代动力学的影响[J]. 中国实验方剂学
+杂志,2016,12(16):80 - 83
+[23] 诸明娜,徐瑞鑫. 基于血液微透析技术探究五味子甲
+素的体内代谢过程[J]. 中国中医药信息杂志,2016,
+23(6):99 - 102
+[24] 李颖,汤湛,尹丽娜,等. 苄达赖氨酸离子敏感型眼用
+原位凝胶的研究[J]. 中国药学杂志,2016,51(12):
+999 - 1005
+[25] 张岩. 基于微透析取样技术的氧化苦参碱大鼠体内药
+代动力学研究[D]. 杭州:浙江工业大学,2015
+[26] Hou ML,Lu CM,Lin CH,et al. Pharmacokinetics of Ma-
+leic Acid as a Food Adulterant Determined by Microdialys-
+is in Rat Blood and Kidney Cortex[J]. Molecules,2016,
+21(3):367
+[27] Wang WY,Wang W,Wu H,et al. Microdialysis sampling
+combined with ultra-high-performance liquid chromatogra-
+phy-tandem mass spectrometry for the determination of ge-
+niposide in dialysate of joint cavities in adjuvant arthritis
+rats[J]. Rapid Commun Mass Spectrom,2018,32(6):
+516 - 522
+[收稿日期] 2018 - 08 - 15
+                                             
+(上接第 4034 页)
+笔者通过体内、体外实验,发现人参皂苷 Rd 可
+通过抑制 NF - κB 的表达而减轻冈田酸诱导的神经
+细胞损伤,然而人参皂苷 Rd 具体的作用靶点仍不
+明确,有待进一步研究。
+[
+参
+考
+文
+献
+]
+[1]  
+Kwak KA,Lee SP,Yang JY,et al. Current Perspectives
+regarding Stem Cell-Based Therapy for Alzheimer’s Dis-
+ease[J]. Stem Cells Int,2018,2018:6392986
+[2] Duncan T,Valenzuela M. Alzheimer’s disease, dementi-
+a,and stem cell therapy[J]. Stem Cell Res Ther,2017,8
+(1):111 - 117
+[3] Suidan GL,Singh PK,Patel-Hett S,et al. Abnormal clot-
+ting of the intrinsic/ contact pathway in Alzheimer disease
+patients is related to cognitive ability[ J]. Blood Adv,
+2018,2(9):954 - 963
+[4] 
+张静爽,王蓉. 阿尔茨海默病发生机制的研究进展
+[J]. 首都医科大学学报,2014,35(6):721 - 724
+[5] 韩旭,梁宇,周刚. 海马与阿尔茨海默病[J]. 中国医
+疗前沿,2011,6(6):21 - 22
+[6] Nabavi SF,Sureda A,Habtemariam S,et al. Ginsenoside
+Rd and ischemic stroke; a short review of literatures[J].
+J Ginseng Res,2015,39(4):299 - 303
+[7]  
+Liu J, Yan X, Li L, et al. Ginsenoside Rd Improves
+Learning and Memory Ability in APP Transgenic Mice
+[J]. J Mol Neurosci,2015,57(4):522 - 528
+[8] 
+Magalingam KB,Radhakrishnan A,Ping NS,et al. Cur-
+rent Concepts of Neurodegenerative Mechanisms in Alzhe-
+imer’ s Disease [ J].
+Bio Med Res Int, 2018, 2018:
+3740461
+[9] Schelke MW,Attia P,Palenchar DJ,et al. Mechanisms of
+Risk Reduction in the Clinical Practice of Alzheimer’ s
+Disease Prevention[J]. Front Aging Neurosci,2018,10:96
+[10] 龚云涛,王晓民. NF - κb 与中枢神经系统退变性疾病
+[J]. 生命科学,2004,16(5):280 - 284
+[11] Ye R,Kong X,Yang Q,et al. Ginsenoside Rd in Experi-
+mental Stroke: Superior Neuroprotective Efficacy with a
+Wide Therapeutic Window[J]. Neurotherapeutics,2011,
+8(3):515 - 525
+[12] 张琛,赵钢. 人参皂苷 Rd 的药理作用研究进展[J].
+中国新药杂志,2011,20(11):953 - 958
+[13] Kim DH,Chung JH,Yoon JS,et al. Ginsenoside Rd In-
+hibits the Expressions of iNOS and COX-2 by Suppressing
+NF-κB in LPS-Stimulated RAW264. 7 Cells and Mouse
+Liver[J]. J Ginseng Res,2013,37(1):54 - 63
+[14] 李玲,王凌,呼兴华,等. 人参皂苷 Rd 对 Alzheimer's
+disease 细胞模型 MTT 的影响[J]. 中医药导报,2014,
+20(14):58 - 60
+[收稿日期] 2018 - 08 - 01
+·4098·
+现代中西医结合杂志 Modern Journal of Integrated Traditional Chinese and Western Medicine 2019 Dec, 28(36)
+万方数据

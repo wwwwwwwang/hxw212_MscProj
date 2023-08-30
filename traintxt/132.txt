@@ -1,0 +1,602 @@
+垦匿耋至匡堂苤查! 璺婴至! 旦箜堡鲞箜! 塑
+堕! 壁曼生，堕坚! 鲤! ! ! 塑．塑坐．!
+@2022国际老年医学杂志编辑部
+@2022 by t he Edi t ori al
+Of f i ce of I nt ernat i onal J ournal
+of Geri at ri cs
+人参皂苷Rhl 免疫调节作用的研究进展冰
+牛瑞娟1
+马思佳1唐亮1
+李江2一
+吉林大学口腔医院修复科，长春130021；2广州医科大学EI 腔医院，广州510180
+[ 摘
+要]
+人参皂苷Rhl 具有良好的免疫调节活性，对多种疾病具有免疫调节作用。本文重点综
+述了人参皂苷Rhl 对炎症反应，过敏性皮炎、哮喘、系统性红斑狼疮等超敏反应及对肿瘤的免疫调节作
+用的研究进展，以期为人参皂苷Rhl 的后续基础研究和转化应用提供依据。
+[ 关键词]
+人参皂苷Rhl ；免疫调节；抗炎；超敏反应；肿瘤
+doi ：10．3969／j ．i ssn．1674—7593．2022．03．028
+Advances i n I mmunomodul at ory Ef f ect s of Gi nsenosi de Rhl
+Ni u Rui j uanl ，Ma Si j i al ，Tang Li an91，Li
+J i an92
+8
+8
+1Depart ment of Prost hodont i cs，Hospi t al
+of St omat ol ogy，J i l i n Uni versi t y，Changchun
+130021；2Af f i l i at ed St omat ol ogy Hospi t al
+of Guangzhou Medi cal
+Uni versi t y，Guangzhou
+510180
+” CmTespondi ng aut hor：Li j i ang，E—mai l ：l j i ang@j l u．cdu．CB
+[ Abst ract ]
+Gi nsenosi des Rhl
+has
+a si gni f i cant i mmunomodul at ory act i vi t y whi ch can be seen i n numerous di seases．The
+en—
+t i re paper f ocus on t he gi nsenosi de Rhl
+ef f ect s on t he i nf l ammat i on，hypersensi t i vi t y di seases such
+as t he al l ergi c dermat i t i s，ast hma
+and syst emi c l upus eryt hemat osus( SLE) and t umors wi l l
+be i nt roduced i n order
+t o provi de t he basi s f or t he f ol l ow—up basi c research
+and t ransf ormat i onal
+appl i cat i on of gi nsenosi de Rhl ．
+[ Key words]
+Gi nsenosi de Rhl ；I mmune regul at i on；Ant i —i nf l ammat i on；Hypersensi t i vi t y；Tumor
+人参皂苷Rhl ( gi nsenosi des—Rhl ，G—Rhl )
+是一种四环三萜达玛烷型皂苷单体，按结构分类属
+于原三醇型人参皂苷( prot opanaxat ri ol ，PPT) ，在
+红参、人参、三七、西洋参等植物中微量存在。11。
+G—Rhl 具有显著的免疫调节活性，在许多老年性
+疾病的治疗中具有较高的药用价值。G—Rhl 可以
+抑制炎症反应，调节超敏反应性疾病异常免疫应
+答，抑制肿瘤细胞扩散心。5o。本文就G—Rhl 在炎
+症、超敏反应、肿瘤的不同病理条件下发挥免疫调
+节作用的研究进展作一综述。
+1
+G—Rhl 抑制炎症反应
+炎症是天然免疫反应的一部分，避免机体受到
+外部刺激的损害。识别外部刺激是炎症发生的第一
+步，主要通过细胞表面分子受体的识别功能来实
+现。这些受体会激活一系列信号通路包括核因子
+KB( nucl ear f act or—kappa B，NF—KB) 和AP一1
+等的信号通路，进而诱导肿瘤坏死因子13c( t umor
+necrosi s f act or—al pha，TNF—01．) 、白细胞介素( i n—
+t erl euki n，I L) 6和干扰素^，( i nt erf eron—gamma，
+I FN一1) 等炎性因子的表达上调，从而促进效应
+。基金项目：吉林省财政厅项目( j sz2018170—3)
+$$通讯作者：李汀，电子邮箱l j i ang@gzhmu．edu．cn
+免疫细胞向损伤处聚集并分泌有毒化学物质，清除
+异物∞J 。脂多糖( 1i popol ysacchari de，LPS) 是细菌
+感染中最常见的致炎因子，LPS与血清中的结合蛋
+白结合后抵达免疫细胞膜表面，借助免疫细胞表面
+的CDl 4蛋白激活Tol l 样受体4( Tol l —l i ke recept or
+4，TLR4) ，触发细胞信号转导通路，最终活化转
+录因子NF—KB，使其进入细胞核，促进I L一6、
+I L一1B、TNF一仪等一系列炎性因子的表达门“ 1。
+LPS可激活巨噬细胞表面的TLR4，最终造成机体
+的炎症和异常免疫应答9‘ ” o。
+G—Rhl 可抑制LPS刺激诱导后活化的小鼠腹
+腔巨噬细胞RAW264．7中诱导型一氧化氮合酶( i n—
+duci bl e ni t ri c
+oxi de synt hase，i NOS) 和环氧合酶2
+( cycl ooxyganese一2，COX一2) 的特异表达，并有效
+抑制NF—s：B的活化，提示G—Rhl 可能通过调节
+NF—KB信号转导而发挥其抗炎活性H。。此外，G—
+Rhl 能显著降低LPS激活的人脐静脉内皮细胞( hu—
+man umbi l i cal
+vei n endot hel i al cel l s，HUVECs) 中高
+迁移率族蛋白B1( hi gh
+mobi l i t y
+group box
+1，
+HMGBl ) 的释放，抑制NF—KB活化，降低TNF—
+万方数据
+垦匠耋生堕堂苤查! Q丝生! 基箜塑鲞箜! 塑
+! 苎! 堡堕坐! 塑! ! ! ! 丝! ! 塑：塑坠：!
+牛瑞娟，等．人参皂苷Rhl 免疫调节作用的研究进展
+仪、I L一6的产生，并调节细胞外信号调节激酶( ex—
+t racel l ul ar
+si gnal
+regul at ed ki nases，ERK) 1／2与
+HMGB 1的关系，从而改善HMGBl 介导的严重炎症
+反应” “ 。研究表明，联合使用人参皂苷R92和Rhl ，
+能显著降低LPS诱导的主要炎症介质TNF一仅、
+I FN—B、I L一113的释放，抑制i NOS和NO的产生，
+此外人参皂苷R92和Rhl 联合还可抑制LPS与
+RAW264．7细胞膜上的TLR4结合，从而阻断TLR4
+的信号通路，抑制炎症反应” J 。上述研究证明了
+G—Rhl 可有效抑制LPS诱导的炎症，且LPS诱导的
+炎症发展过程与自身免疫疾病相似，因此G—Rhl
+在自身免疫疾病的治疗中可能发挥抑制炎症产生和
+发展的作用，终止病程。
+2
+G—Rhl 对超敏反应性疾病的免疫调节作用
+超敏反应是一种机体对抗原刺激介导的异常免
+疫应答，从而造成机体免疫异常的一组病理性免疫
+反应¨ “ 。G—Rhl 可通过对各种炎性因子及超敏反
+应相关免疫球蛋白进行调节，发挥对超敏反应性疾
+病的治疗作用。G—Rhl 可改善肥大细胞和免疫球
+蛋白I gE诱导的被动皮肤过敏反应( passi ve cut ane-
+OUS anaphyl axi s，PCA) ，进一步的研究证实，G—
+Rhl 可通过抑制RAW264．7的炎症反应而发挥治疗
+作用，这是由于G—Rhl 能抑制RAW264．7细胞中
+i NOS和COX一2蛋白的表达，激活NF—KB，抑制
+大鼠腹腔肥大细胞和I gE介导的PCA组胺的释放，
+改善过敏引起的炎症并且具有稳定细胞膜的作
+用L4J 。此外，有研究表明利用G—Rhl 干预恶唑酮
+诱导的无毛小鼠特异性皮炎反应模型，G—Rhl
+( 20 mg／kg) 组耳肿胀和耳重显著低于对照组，血
+清I L一6水平和血清总I gE水平降低，I FN一吖和
+叉状头转录因子家族Foxp3的基因表达显著增
+加。1“ 。表明G—Rhl 可通过对炎性因子及免疫球蛋
+白的调节发挥抑制超敏反应性疾病的作用。
+抗原诱导的过敏性哮喘模型是迄今使用最广泛
+的体内研究方法，常用卵白蛋白( oval bumi n，
+OVA) 进行诱导。研究表明，G—Rhl 可使OVA所
+致哮喘模型小鼠支气管肺泡冲洗液( bronchoal veol ar
+l avage f l ui d，BALF) 中嗜酸性粒细胞计数减少，降
+低炎性因子的表达，下调血清中I gE的含量，通过
+对各种炎性因子和免疫球蛋白的调节从而减轻哮喘
+小鼠的症状。⋯ 1。G—Rhl 除了通过调节炎性因子及
+免疫球蛋白的表达发挥治疗作用外，还可通过影响
+Thl 或Th2细胞分泌的细胞因子的平衡发挥作用。
+利用G—Rhl 干预OVA诱导的哮喘模型小鼠，发现
+G—Rhl 可显著减轻哮喘小鼠的肺阻力和气道阻力，
+减少BALF中的总炎症细胞、白细胞和淋巴细胞的
+数量，表明G—Rhl 可通过调节Thl 或Th2细胞分
+泌的细胞因子平衡减轻OVA诱导的小鼠哮喘模型的
+症状。171。因此，可推测G—Rhl 可以作为良好的抗
+过敏药物，应用于过敏性疾病的治疗。
+系统性红斑狼疮( syst emi c
+l upus
+eryt hemat o—
+SHS，SLE) 属于Ⅲ型变态反应，特征是自身抗体产
+生和免疫功能障碍，发病机制复杂，目前主要集中
+于对淋巴细胞及细胞因子水平的研究” 8。B细胞
+高度增殖活化和大量自身抗体复合物的快速产生是
+SLE发病的主要生物学特点¨ ⋯ 。研究证实，在G—
+Rhl 干预下，高度活化的B细胞的增殖被显著抑
+制，B细胞分泌物I gM和I gG的产生被显著下调，
+凋亡相关蛋白Fas／Fas配体和caspase一3的表达上
+调。结果也表明了G—Rhl 可以通过抑制B淋巴细
+胞增殖，诱导凋亡，调节B细胞亚群的比例对SLE
+的治疗产生作用。201。除对B细胞具有调节作用外，
+G—Rhl 对T细胞也有作用。研究发现，G—Rhl
+可通过调节CD4+T细胞活化和Thl ／Th2平衡来增
+强地塞米松在MRL／l pr小鼠治疗中的作用，提高
+糖皮质激素在激素依赖性疾病中的疗效21。⋯ 。以
+上研究提示，G—Rhl 通过对体液免疫和细胞免疫
+的调节减轻SLE的器官组织损伤，为临床使用G—
+Rhl 辅助治疗SLE提供实验依据。
+3
+G—Rhl 对肿瘤的免疫调节作用
+金属基质蛋白酶( mat ri x met al l oprot ei nases，
+MMPs) 在肿瘤细胞的迁徙、增殖和侵袭中发挥至关
+重要的作用，这是由于MMPs可溶解正常组织中的
+蛋白成分，破坏抵抗肿瘤侵袭的屏障口⋯ 。G—Rhl
+可通过抑制MMPs的作用减少肿瘤细胞的侵袭和迁
+移。G—Rhl 可通过抑制P13K／Akt 和MAPK信号通
+路以及NF—KB和AP一1等下游转录因子抑制人脑
+胶质瘤细胞U87MG、U373MG的MMP一1、MMP一3
+和MMP一9的表达，从而有效抑制胶质瘤细胞的侵
+袭和转移惮J 。基质金属蛋白酶组织酶抑制剂( t i ssue
+i nhi bi t or
+of
+mat ri x
+met al l oprot ei nases，TI MPs) 是
+MMPs的内源性抑制剂。G—Rhl 可剂量依赖性抑制
+结肠癌细胞CRC增殖，并通过促进TI MP3的表达从
+而抑制MMP一1和MMP一3的表达，抑制CRC的侵
+袭与迁移，此外G—Rhl 还可抑制结肠癌细胞SW
+620和荷瘤小鼠组织中MAPK信号通路，使其失活
+从而抑制SW620的迁移和侵袭协J 。
+G—Rhl 还可以通过对免疫细胞如树突状细胞
+( dendri t i c cel l ，DC) 的调节发挥抗肿瘤的作
+用。拍。2“ 。研究表明，G—Rhl 可以作为一种佐剂上
+调DC的I L一12的基因表达和分泌，刺激DC促进
+T细胞增殖，增强淋巴因子和植物血凝素激活的杀
+伤( 1ymphoki ne and phyt ohaemaggl ut i ni num act i vat ed
+ki l l er，LPAK) 细胞的抗肿瘤活性，即使在G—
+Rhl 浓度为1 mr, ／L，且LPAK细胞在肿瘤细胞中占
+比为1／10时，G—Rhl 也能有效协同LPAK细胞，
+万方数据
+----——370-----——
+垦区耋生堕堂苤查兰! 丝生! 旦筮塑鲞筮! 塑
+! 坐』壁至塑! 堕翌! ! 丝! ! 尘：箜堕! ：!
+牛瑞娟，等．人参皂苷Rhl 免疫调节作用的研究进展
+发挥细胞杀伤作用，抑制肿瘤生长心J 。
+4小结
+综上所述，G—Rhl 在人体多种疾病及不同类
+型的组织病理状态下可发挥不同形式的免疫调节作
+用。在发生炎症、超敏反应等多种免疫应答亢进情
+况下，G—Rhl 可有效地通过其对多种细胞信号转
+导途径如NF—KB和P13K／Akt 等信号通路双向调
+节从而达到抑制多种炎性因子表达的目的。同时促
+进某些特异性抗炎免疫复合物的产生，抑制机体自
+身免疫亢进。在肿瘤微环境中，主要通过抑制
+MMPs活性和刺激DC产生等作用，使肿瘤细胞的
+侵袭和生长受到抑制。尽管G—Rhl 在免疫调节和
+抗肿瘤方面表现优异，但其精确的作用靶点和深入
+的作用机制仍缺乏足够的研究，尤其缺乏临床应用
+的研究。因此，后续的研究应着重于药物靶点预
+测、药物作用的分子机制以及临床应用研究的合理
+开展。
+[ 2]
+[ 3]
+[ 4]
+[ 5]
+[ 6]
+[ 7]
+[ 8]
+[ 9]
+参考文献
+J eon J H，Lee S，Lee W，et
+a1．Herb—drug
+i nt erac—
+t i on of red百nseng ext ract and gi nsenosi de Rc wi t h val —
+sart an i n rat s[ J ] ．Mol ecul es，2020，25( 3) ．doi ：
+10．3390／mol ecul es25030622．
+TamD，Truong DH，Nguyen T，et a1．Gi nsenosi de
+Rhl ：a syst emat i c revi ew of
+i t s phml macol ogi cal proper-
+t i es[ J ] ．Pl ant a Med，2018，84( 3) ：139—152．
+Vi nh LB，Lee Y，Han YK，et
+a1．Two newdam—
+marane——t ype
+t ri t erpene saponi ns f rom Korean red gi n—-
+seng and t hei r ant i —i nf l ammat ory ef f ect s[ J ] ．Bi oorg
+Med ChemLet t ，2017，27( 23) ：5149—5153．
+Han MJ ，Ki m DH．Ef f ect s
+of
+red and f erment ed gi n—
+seng and gi nsenosi des
+on al l ergi c di sorders[ J ] ．Bi o—
+mol ecul es，2020，10( 4) ．doi ：10．
+3390／bi —
+oml 0040634．
+Yi
+YS．Amel i orat i ve ef f ect s
+of gi nseng and gi nsenosi des
+on rheumat i c di seases[ J ] ．J
+Gi nseng Res，2019，43
+( 3) ：335—341．
+Ki mJ H，Yi
+YS，Ki mMY，et
+a1．Rol e of
+gi nsen—
+osi des，t he nmi n
+act i ve component s
+of Panax gi nseng，
+i n i nf l ammat ory responses and di seases[ J ] ．J
+Gi nseng
+Res，2017，41( 4) ：435—443．
+Yuan DH，J i a Y，Hassan OM，et
+a1．LPS—t reat ed
+podocyt es
+pol ari ze
+nai ve CI M( +) T
+cel l s
+i nt o Thl 7
+and Treg cel l s[ J ] ．Bi omed Res
+I nt ，2020，2020：
+8587923．
+Ki mYS，Ahn CB，J e J Y．Ant i —i nt l ammat ory
+act i on
+of
+hi gh
+mol ecul ar
+wei ght
+Myt i l us
+edul i s
+hydr01) 7sat es
+f ract i on i n LPS—i nduced RAW264．7 macrophage vi a
+NF—KB
+and MAPK pat hways[ J ] ．Food
+Chem，
+2016，202：9—14．
+Oh H，Park SH，Kang MK，et
+a1．Asaroni c
+aci d
+at 一
+[ 14]
+[ 15]
+[ 16]
+[ 17]
+[ 18]
+[ 19]
+[ 20]
+[ 21]
+t enuat es
+macrophage
+act i vat i on
+t oward
+MI
+phenot ype
+t hrou。gh i nhi bi t i on of NF—KB pat hway and J AK—STAT
+si gnal i ng i n gl ucose—l oaded muf i ne maerophages[ J ] ．
+J Agri c Food Chem，2019，67( 36) ：10069—10078．
+Hu X，Yu Q，Hou K，et
+a1．Regul at ory
+ef f ect s
+of
+Ganoderma at rum pol ysacchari des
+on
+LPS—i nduced
+i nf l ammat ory maerophages model
+and i nt est i nal —l i ke
+Caco——2／macrophages co——cul t ure i nf l ammat i on model
+[ J ] ．Food ChemToxi col ，2020，140：111321．
+Li Q，Ye T，Long T，et a1．Gi nkget i n execs ant i —
+i nf l ammat ory
+ef f ect s
+on
+cerebral
+i sehemi a／reperf usi on
+——i nduced i nj ury i n a rat model
+vi a t he TLR4／NF——KB
+si gnal i ng pat hway[ J ] ．Bi osci
+Bi ot eehnol
+Bi oehem，
+2019，83( 4) ：675—683．
+Lee W，Cho SH，Ki mJ E，et
+a1．Suppressi ve ef f ect s of
+Onsenosi de Rhl
+on HMGBl 一medi at ed sept i c
+responses
+[ J ] ．AmJ Chi n Med，2019，47( 1) ：119—133．
+Huynh D，Back N，Si mS，et a1．Mi nor
+gi nsenosi de
+R妃and Rhl
+at t enuat es LPS—i nduced acut e l i ver and
+ki dney damages
+vi a downregul at i ng act i vat i on of TLR4
+——STATl
+and i nf l ammat ory cyt oki ne product i on i n mac- -
+rophages[ J 3．I nt
+J Mol Sci ，2020，21( 18) ．doi ：
+10．3390／i j l ns21 186656．
+Si mon D．Recent
+advances i n cl i ni cal
+al l ergy and i m—
+munol ogy
+2019[ J ] ．I nt
+Arch
+Al l ergy
+I mmunol ，
+2019，180( 4) ：291—305．
+Zheng H，J eong Y，Song J ，et
+a1．Oral
+admi ni st ra—
+t i on
+of
+gi nsenosi de
+Rhl
+i nhi bi t s
+t he devel opment
+of
+at opi e dermat i t i s——l i ke ski n l esi ons i nduced by oxazol o· -
+ne
+i n
+hai rl ess
+mi ce[ J ] ．I nt
+I mmunopharmaeol ，
+2011，11( 4) ：511—518．
+Zhang CJ ，Li
+SY，Zhao RJ ，et
+a1．Ef f ect s of
+gi nsen—
+osi de Rhl
+on
+expressi on
+of
+i nf l ammat ory
+f act ors
+i n
+mouse
+ast hma
+model [ J ] ．Chi n
+J
+Pat hophysi ol ，
+2018，34( 1) ：163—167．
+Li Q，Zhai C，Wang G，et a1．Gi nsenosi de Rhl
+at —
+t enuat es
+oval bumi n—i nduced
+ast hma
+by
+regul at i ng
+Thl ／Th2 eyt oki nes bal ance[ J ] ．Bi osci
+Bi ot echnol
+Bi ochem，2021，85( 8) ：1809—1817．
+Zhao X，Zhang J ，Li ang Y，et a1．Advances i n drug
+t herapy f or
+syst emi c
+l upus eryt hemat osus[ J ] ．Curt
+Med Chem，2021，28( 6) ：1251—1268．
+Ren J ，Cat al i na MD，Eden K，et a1．Sel ect i ve
+hi s—
+t one deacet yl age 6 i t rhi bi t i on normal i zes B cel l
+aet i va—
+t i on and germi nal
+cent er f ormat i on i n a model
+of
+sys—
+t emi c
+l upus
+eryt hemat osus[ J ] ．Front
+I mmunol ，
+2019，10：2512．
+Yu X，Zhang N，Li n W，et a1．Regul at ory ef f ect s
+of
+f our gi nsenosi de monomers
+i n humoral
+i mmuni t y of
+sys—
+t emi e
+l upus
+eryt hemat osus[ J ] ．Exp
+Ther
+Med，
+2018，15( 2) ：2097—2103．
+Feng Y，Wang C，Cheng S，et a1．Gi nsenosi de Rhl
+1J
+]1J
+1J
+m
+¨
+他
+B
+r【
+[PL_【
+万方数据
+垦匠耋生堕堂苤查! Q丝生! 基箜塑鲞箜! 塑
+! 苎! 堡堕坐! 塑! ! ! ! 丝! ! 塑：塑坠：!
+牛瑞娟，等．人参皂苷Rhl 免疫调节作用的研究进展
+[ 22]
+[ 23]
+[ 24]
+i mproves t he ef f ect
+of dexmnet hasone on aut oant i bodi es
+product i on
+and l ymphoprol i f erat i on i n
+MRL／l pr
+mi ce
+[ J ] ．Evi d Based Corn。pl ement
+Ahernat
+Med，2015，
+2015：727650．
+Yi
+YS．Amel i orat i ve ef f ect s of gi nseng and百nsen—
+osi des
+on rheumat i c di seases[ J ] ．J
+Gi nseng
+Res，
+2019，43( 3) ：335—341．
+Conl on GA，Murray GI ．Recent
+advances i n under—
+st andi ng
+t he
+rol es
+of
+mat ri x
+met al l oprot ei nases
+i n
+t umour
+i nvasi on and met ast asi s[ J ] ．J
+Pat hol ，2019，
+247( 5) ：629—640．
+J ung j s，Ahn J H，Le TK，et a1．Prot opanaxat ri ol
+gi nsenosi de Rhl
+i nhi bi t s t he expressi on of mat ri x met al —
+l oprot ei nases
+and t he i n vi t ro i nvasi on／mi grat i on of
+hu—
+man ast rogl i oma
+cel l s[ J ] ．Neuroehem I nt ，2013，
+63( 2) ：80—86．
+一371一
+[ 25] Lyu X，Xu X，Song A，et
+a1．Gi nsenosi de Rhl
+i n—
+hi bi t s
+eol oreet al
+cancer
+cel l
+mi grat i on and i nvasi on i n
+vi t ro and t umor
+growt h
+i n vi vo[ J ] ．Oncol
+Let t ，
+2019，18( 4) ：4160—4166．
+[ 26]
+FMc6n—Beas C，Ti t t arel l i A，Mora—Bau G，et
+a1．
+Dexamet hasone
+t urns
+t umor ant i gen—present i ng cel l s
+i nt o t ol erogeni c
+dendri t i c
+cel l s
+wi t h T
+cel l
+i nhi bi t ory
+f unct i ons[ J ] ．I mmunobi ol ogy，2019，224( 5) ：
+697—705．
+[ 27]
+Li u J ，Ni l e SH，Xu G，et a1．Syst emat i c expl orat i on
+of Ast ragal us membranaeeus and Panax百nseng
+as
+i m—
+mune regul at ors：i nsi ght s f romt he comparat i ve bi ol ogi —
+cal and comput at i onal
+anal ysi s[ J ] ．Phyt omedi ci ne，
+2021，86：153077．
+( 2021—04—13收稿)
+( 上接第367页)
+[ 22] Han KH，Lee J Y，Shi n SW．I mpl ant —and t oot h—
+support ed f i xed prost heses
+usi ng a hi gh—perf ormance
+pol ymer( Pekkt on) f ramework[ J ] ．I nt
+J
+Prost h—
+odont ，2016，29( 5) ：451—454．
+[ 23] Lee KS，Shi n J H，Ki mJ E，et
+a1．Corri gendum t o
+‘
+‘
+bi omeehani eal eval uat i on of a t oot h rest ored wi t h hi gh
+perf ormance pol ymer PEKK post —core syst em：a 3D
+f i ni t e el ement
+anal ysi s”
+[ J ] ．Bi omed
+Res
+I nt ，
+2017，2017：7196847．
+[ 24]
+Song CH，Choi J W，J eon YC，et a1．Compari son of
+t he mi crot ensi l e bond st rengt h
+of
+a pol yet herket oneke—
+t one( PEKK) t oot h post cement ed wi t h vari ous surf ace
+t reat ment s
+and vari ous
+resi n cenl ent s[ J ] ．Mat eri al s
+( Basel ) ，2018，11( 6) ：916．
+[ 25] Tannous F，St ei ner
+M，Shahi n R，et
+a1．Ret ent i ve
+f orces
+and f at i gue
+resi st ance
+of
+t hel anopl ast i e
+resi n
+[ 26]
+[ 27]
+[ 28]
+[ 29]
+cl asps[ J ] ．Dent Mat er，2012，28( 3) ：273—278．
+冀垄，朱顶贵，陆伟，等．聚醚酮酮数字化乳牙早
+失间隙保持器的临床应用观察[ J ] ．中华口腔医学
+研究杂志( 电子版) ，2019，13( 6) ：368—372．
+Egusa H，Ko N，Shi mazu T，et
+a1．Suspect ed asso—
+ci at i on of
+an al l ergi c react i on wi t h t i t ani um dent al
+i m—
+pl ant s：a
+cl i ni cal
+report [ J ] ．J
+Prost het
+Dent ，
+2008，100( 5) ：344—347．
+闻志靖，顾鹏真，贺西京，等．高分子聚合物聚
+醚酮酮的发展及其医学应用前景[ J ] ．中国组织
+工程研究，2021，25( 22) ：3603—3608．
+孙方方，景建龙，吴国锋．数字化铣削技术制作
+聚醚酮酮口腔修复体的初步临床报告[ J ] ．实用
+口腔医学杂志，2019，35( 6) ：908—912．
+( 2020—12—30收稿)
+万方数据

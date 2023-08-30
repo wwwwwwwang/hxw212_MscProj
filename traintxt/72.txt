@@ -1,0 +1,600 @@
+- 173 -
+《中国医学创新》第 20 卷  第 1 期（总第 607 期）2023 年 1 月　　综　　述  Zongshu
+Medical Innovation of China Vol.20, No.1 January, 2023
+[23] 刘倩，欧阳美萍，邓承龙，等 . 从《金匮要略》水气病谈
+心肾综合征的临床思辨方法 [J]. 中医药临床杂志，2021，33
+（5）：825-829.
+[24] 周卫国，李龙，贾倩，等 . 济生肾气丸加味治疗心肾综合征
+临床观察 [J]. 湖北中医杂志，2015，37（7）：36-37.
+[25] 徐敏，伍芳 . 温阳利水法早期干预Ⅱ型心肾综合征临床观
+察 [J]. 陕西中医，2017，38（9）：1162-1163.
+[26] 蒋伟芳 . 中西医结合治疗慢性心肾综合征疗效观察 [J]. 山西
+中医，2017，33（4）：24-25.
+[27] 郑启艳，孙鲁英，张笑笑，等 . 温阳利水益气活血法辅助治
+疗心肾综合征的系统评价和 Meta 分析 [J]. 世界中西医结合
+杂志，2019，14（9）：1209-1215.
+[28] 方芳，裴朝华，王鹏，等 . 益气化瘀平肝滋肾法对心肾综合
+征病人肾血流谱、心肌标志物及氧化应激反应的影响 [J]. 中
+西医结合心脑血管病杂志，2022，20（2）：311-315.
+（收稿日期：2022-07-22）　（本文编辑：田婧）
+* 基金项目：2022 年齐齐哈尔市科技计划联合引导项目
+（LSFGG-2022053）；2022 年黑龙江省大学生创新创业训练
+计划项目（202211230037）
+①齐齐哈尔医学院　黑龙江　齐齐哈尔　161000
+通信作者：张春晶
+人参皂苷Rb1抗炎作用及其机制研究进展
+*
+宋悦
+①　刘森洋
+①　高宇
+①　彭瑶
+①　李阳
+①　齐晓丹
+①　张春晶
+①
+　　【摘要】　人参皂苷 Rb1（GRb1）是一种人参二醇系皂苷单体，具有多种生物学作用。抗炎作用是
+GRb1 最主要的生物学作用之一，在多种疾病的抗感染治疗中备受关注。本文综述了 GRb1 在心血管、神
+经、呼吸、消化系统疾病中的抗炎作用及其机制，为深入理解 GRb1 介导抗炎作用的分子机制提供了新
+的视角，也为其预防和治疗炎症性疾病提供理论基础。
+　　【关键词】　人参皂苷 Rb1　抗炎作用　炎症因子
+　　Research Progress on Anti-inflammatory Effect and Mechanism of Ginsenoside Rb1/SONG Yue, LIU 
+Senyang, GAO Yu, PENG Yao, LI Yang, QI Xiaodan, ZHANG Chunjing. //Medical Innovation of China, 
+2023, 20(01): 173-178
+　　[Abstract]　Ginsenoside Rb1 (GRb1) is a panaxadiol saponin monomer, with various biological effects. Anti-
+inflammatory effect is one of the most important biological effects of GRb1, which has attracted the attention of in 
+the anti-inflammatory treatment for various diseases. This article reviews the anti-infective effect and mechanism 
+of GRb1 in cardiovascular, neurological, respiratory, and digestive system diseases, providing a new perspective for 
+in-depth understanding the molecular mechanism of ginsenoside Rb1-mediated anti-inflammatory effects, and also 
+providing a theoretical basis for the prevention and treatment of inflammatory diseases.
+　　[Key words]　Ginsenoside Rb1　Anti-inflammatory effect　Inflammatory factor
+　　First-author's address: Qiqihar Medical University, Qiqihar 161000, China
+　　doi：10.3969/j.issn.1674-4985.2023.01.041
+　　人参皂苷 Rb1（ginsenoside Rb1，GRb1）主要
+存在于人参、三七、西洋参等植物中，是人参皂苷
+中最主要的活性成分之一。GRb1 具有抗肿瘤、抗
+炎、抗氧化、调节肠道菌群等多种药理学作用，在
+控制摄入的情况下几乎没有毒副作用
+[1]。临床前
+和临床证据表明，GRb1 在中枢神经系统、消化系
+统和心血管系统等疾病中具有抗炎作用
+[2]。近年
+来，GRb1 因其多靶点效应和副作用少等优点被
+作为许多抗炎药的替代药物而被广泛研究，其治
+疗疾病的分子靶点或通路包括 HMGB1、GLUT4、
+11β-HSD1、Notch、PPAR-γ、TGF-β1/Smad/
+ERK、PI3K/Akt/mTOR、Nrf2/ARE/HO-1、MAPK/
+NF-κB 等。本文对 GRb1 在心血管系统、神经系
+统、呼吸系统、消化系统疾病中的抗炎作用及机制
+进行综述，以期为深入探讨其抗炎作用提供参考。
+1　GRb1在疾病中的抗炎作用
+1.1　心血管系统疾病　随着人口老龄化社会的发
+- 174 -
+综　　述  Zongshu　　《中国医学创新》第 20 卷  第 1 期（总第 607 期）2023 年 1 月
+Medical Innovation of China Vol.20, No.1 January, 2023
+展，心血管疾病已经成为危害人类健康最常见疾病
+之一，因其较高的患病率与死亡率一直受到人们的
+广泛关注
+[3]。GRb1 对由炎症、栓塞导致的冠状动
+脉血管狭窄、心肌缺血缺氧或坏死、血管弹性减弱
+而引起的心血管疾病如高血压、心肌缺血缺氧、心
+肌梗死后再灌注损伤、动脉粥样硬化、慢性心力衰
+竭等都具有保护作用
+[4]。近年来的研究表明，GRb1
+对心血管疾病的抗炎作用主要体现在减少心肌缺氧/
+缺血和缺血再灌注损伤、改善线粒体功能障碍、抗
+心力衰竭等方面，通过调节线粒体凋亡通路 PI3K/
+Akt/mTOR、RhoA、p38αMAPK、eNOS、HIF-1α
+和 GRF91 等来实现。GRb1 对心血管系统疾病的治
+疗作用及机制见表 1。
+1.2　神经系统疾病　GRb1 是最早发现具有保护缺
+血性脑损伤的主要皂苷单体，可以穿过血脑屏障进
+入大脑，并且在大脑内呈特异性分布。GRb1 具有
+中枢拟胆碱活性，可治疗多种中枢神经系统疾病，
+如在异常微环境中对海马体的神经保护作用和改
+善急性脑缺血后的脑血流量等，可能是通过其抗炎
+活性发挥作用
+[14]。近年来的研究表明，GRb1 可以
+通过增加 BNDF 蛋白、脑源性神经营养因子和磷酸
+蛋白激酶 b/ 蛋白激酶 b 的表达，抑制 p38 MAPK、
+NF-κB p65 或 tau 蛋白的磷酸化，经靶向 HMGB1，
+IGF-1R 等， 进 而 调 控 BNDF-Trkb、AKT、MAPK、
+NF-κB 和 NLRP3 等信号通路，抑制神经系统炎症
+的发生。其治疗作用及机制见表 2。
+1.3　呼吸系统疾病　肺是人体进行气体交换的重要
+器官。在肺炎等呼吸系统炎症性疾病中，炎症细胞
+因子如 TNF-α、IL-1β 和 IL-6 的释放可引起细胞
+凋亡和肺组织破坏。尽管近年来在预防和治疗方面
+取得了重大进展，但肺炎等呼吸系统疾病仍然面临
+着住院和复发的高风险
+[24]。因此，需要更多的实验
+和临床研究来探索新的治疗肺炎的有效药物。GRb1
+作为天然药物的活性物质因其良好的抗炎效果和较
+少的副作用对呼吸系统疾病的治疗作用已经在多项
+临床试验中得到评估，是治疗呼吸系统疾病炎性损
+伤的有效药物成分。近年来 GRb1 对呼吸系统疾病
+的治疗作用及机制见表 3。
+表1　GRb1对心血管系统疾病的治疗作用及机制
+疾病
+细胞 / 动物
+影响
+机制
+参考文献
+心肌损伤
+新生 Sprague-Dawley
+大鼠原代细胞
+显著降低 H/I 诱导的细胞死亡和 LDH
+渗漏
+减少细胞色素 C 从线粒体向细胞质的转
+运，提高 Bcl-2/Bax 比值，保留线粒体
+膜电位，抑制 caspase-9 和 caspase-3 的
+活性
+[5]
+心肌细胞炎症
+H9C2 细胞
+显著抑制 LPS 诱导的 IL-6、IL-1β 及
+TNF-α 的 mRNA 和蛋白表达水平
+通过抑制 PI3K/AKT/eNOS 信号通路，调
+节内皮细胞 L- 精氨酸转运，刺激 NO 的
+产生
+[6]
+H9C2 细胞
+维持 NO 水平的同时减少 LDH 释放，降
+低 CKMB 水平和 AST 活性
+维持 Ca
+2+ 稳态，激活 PI3K/AKT 通路诱
+导下游蛋白级联反应，下调 caspase-3 和
+Bax，上调 Bcl-2 表达
+[7]
+心肌梗死后
+再灌注损伤
+Sprague-Dawley 大鼠
+显著降低心肌梗死面积，降低冠脉流出
+液中 LDH 和 CK 水平，并减弱 I/R 诱导的
+破坏性超微结构
+激活 AKT、磷酸化 GSK-3β 和抑制
+mPTP 开放
+[8]
+Sprague-Dawley 大鼠
+减轻缺氧 / 复氧诱导的损伤 MIRI 诱导的
+自噬激活
+通过 PI3K/AKT/mTOR 信号通路抑制心肌
+细胞自噬
+[9]
+川崎病
+KM 大鼠
+提高心肌组织病理评分、ET-1 和 NO 水
+平，降低促炎因子含量，下调心脏组织
+NF-κB、MMP-9 蛋白表达
+抑制 NF-κB 信号通路
+[10-11]
+人主动脉平滑肌细胞
+抑制 TNF-α 诱导的 ROS 和 MDA 的产
+生，提高 SOD、CAT 和 GSH-Px 的活性，
+降低 IL-1β、IL-6、VCAM-1、ICAM-1、
+VEGF、MMP-2 和 MMP-9 的水平
+通过抑制 JNK 和 p38 的活性抑制 NF-κB
+信号转导
+[12]
+动脉粥样硬化
+C57BL/6 小鼠、
+ApoE
+-/- 小鼠
+促进精氨酸酶 -I 和巨噬细胞甘露糖受
+体的表达，增强动脉粥样硬化斑块的
+稳定性
+通过增加 IL-4、IL-13 和 STAT6 磷酸化的
+产生促进抗炎 M2 巨噬细胞极化
+[13]
+- 175 -
+《中国医学创新》第 20 卷  第 1 期（总第 607 期）2023 年 1 月　　综　　述  Zongshu
+Medical Innovation of China Vol.20, No.1 January, 2023
+表2　GRb1对神经系统疾病的治疗作用及机制
+疾病
+细胞 / 动物
+影响
+机制
+参考文献
+抑郁症
+CD、1C57BL/6 小鼠
+增加海马 ERK、AKT、CREB 磷酸化水
+平，增加 DCX+ 细胞数量，减轻小鼠抑
+郁症状
+通过提高 BNDF 蛋白的表达调控 BNDF-
+Trkb 信号通路
+[15]
+ICR 小鼠
+降低 IL-1β、TNF-α 和离子化钙结合分
+子 1 的蛋白表达
+通过增加脑源性神经营养因子和磷酸蛋
+白激酶 b/ 蛋白激酶 b 的表达，激活 AKT
+信号通路
+[16]
+ICR 小鼠
+明显增强 5-HT1A 的 mRNA 及蛋白水平的
+表达，增加 NR3C1 的 mRNA 水平的表达，
+降低 LPS 诱导的促炎细胞因子，增加
+IDO 活性
+调节神经活性配体 - 受体相互作用中
+GR 的作用靶点，通过抑制 p38 MAPK
+和 NF-κB p65 的磷酸化影响 MAPK 和
+NF-κB 通路
+[17-18]
+Wistar 大鼠
+抑制 LPS 诱导的 COX-2、iNOS 炎性蛋白
+表达，降低 IκB、IKK 蛋白磷酸化水平
+通过 IGF-1R 减少 NF-κB 信号通路激活
+[19]
+阿尔茨海默氏病
+PC12 细胞
+增加PC12细胞的活力，降低其胆固醇水平
+激活氧化物酶体增殖物激活受体 γ
+[20]
+SAMP8 小鼠
+显著缩短 SAMP8 小鼠 MWM 采集试验的
+逃逸潜伏期，修复 SAMP8 小鼠海马神经
+元细胞丢失和抑制星形胶质细胞及小胶
+质细胞活化
+抑制海马胶质细胞活化、Aβ 和 NLRP3
+炎性体相关蛋白、iNOS 和 TNF-α 的
+产生
+[21]
+ICR 小鼠
+显著改善学习记忆
+通过降低增加运动、感觉皮层和海马结
+构的 GSK3 和增加 PP2A 水平，从而降低
+tau 蛋白磷酸化
+[22]
+中风
+Wistar 大鼠
+减弱脑I/R诱导的细胞凋亡，下调caspase-3、
+caspase-9、NF-κB、TNF-α、IL-6、NOS
+和 NO 水平
+通过靶向 HMGB1 的释放抑制 NF-κB 信
+号转导
+[23]
+表3　GRb1对呼吸系统疾病的治疗作用及机制
+疾病
+细胞 / 动物
+影响
+机制
+参考文献
+急性肺损伤
+KM 小鼠
+降低干湿比、蛋白质水平、总细胞数、
+中性粒细胞计数、ROS、MPO、MDA、
+SOD、CAT、Gpx1 的消耗来缓解肺损伤
+通过抑制 ER 应激标志基因 PERK、AFT-6、
+IRE1 和 CHOP 的表达抑制内质网应激通
+路；通过抑制死亡受体相关基因 FasL、Fas、
+FADD 和 caspase-8 的 mRNA 表达抑制死亡
+受体介导的凋亡通路
+[25]
+人胎儿肺成纤维细
+胞（WI-38 细胞）
+减弱 LPS 诱导 WI-38 细胞产生炎症细
+胞因子，减少 p65 的表达以及细胞凋亡
+通过下调 miR-222 阻碍 LPS 诱导的炎症
+细胞因子的产生和 NF-κB 途径的激活
+[26]
+RAW264.7 细胞
+减少线粒体凋亡相关基因 Bax、caspase-3、
+caspase-9、细胞色素 C 和 p53 的 mRNA
+和蛋白表达，而升高 Bcl-2；上调 Nrf2
+及其下游相关基因的 mRNA 和蛋白表达
+通过上调 Nrf2，抑制线粒体信号通路与氧
+化应激，抑制 NF-κB，MAPK 信号通路
+[27-28]
+急性肺损伤
+（H9N2 病毒引起）
+BALB/c 小鼠
+抑制 TNF-α、IL-1、IL-6、IL-8 的释放，
+抑制中性粒细胞渗出活性氧和蛋白酶等
+抑制羟自由基、NF-κB 信号通路
+[29]
+哮喘
+大鼠血液淋巴细胞、嗜酸性粒细胞、中性
+粒细胞水平显著降低；大鼠肺 / 体比值显
+著降低，PaO2 水平显著升高
+抑制哮喘大鼠肺部 TLR3、TRIF 的 mRNA 和
+蛋白表达水平进而抑制 TLR3/TRIF 信号通
+路的激活
+[30]
+BALB/c 小鼠
+减少 GATA3，增加 T-bet，抑制 OVA 诱
+导的 RI 和嗜酸性粒细胞和 IL-4 的增加，
+缓解气道炎症
+通过增加 Th1 分泌 IFN-γ，抑制 Th2 分泌
+IL-4、IL-5 和 IL-13，减少 IgE 的释放
+[31]
+呼吸衰竭
+SD 大鼠
+抑制 IL-1、IL-6 和 TNF-α 含量缓解炎
+症，降低内质网应激反应，自由基氧化
+通过抑制Wnt信号通路的关键蛋白β-catenin
+表达，减少 GRP78、MMP2 的表达
+[32]
+- 176 -
+综　　述  Zongshu　　《中国医学创新》第 20 卷  第 1 期（总第 607 期）2023 年 1 月
+Medical Innovation of China Vol.20, No.1 January, 2023
+1.4　消化系统疾病 
+炎症性肠病是一种由免疫紊
+乱介导的自体免疫性疾病，临床症状表现为腹痛、
+腹泻和直肠出血，被世界卫生组织称为最难治疗的
+疾病之一。研究表明，GRb1 对 2，4，6- 三硝基
+苯磺酸诱导的小鼠结肠炎具有部分或完全逆转的
+作用
+[33-35]。
+　　炎症性肠病小鼠转录组高通量测序分析结果显
+示，GRb1 缓解炎症性肠病的机制可能与调节 Ca
+2+
+信号通路、神经活动配体 - 受体相互作用通路及
+cAMP 信号通路有关
+[36]。为进一步探讨其作用机制，
+笔者对 GRb1 与溃疡性结肠炎相关靶点进行交集，
+发现了 13 个潜在的作用靶点，利用 Cytoscape 软件
+计算拓扑学参数，构建 GRb1- 溃疡性结肠炎 - 潜
+在作用靶点的网络图，并通过京都基因组百科全书
+（KEGG）和基因本体（GO）对 GRb1 对溃疡性结肠
+炎的潜在作用及其可能的抗炎机制进行了预测。结
+果显示：Hsp90 和 heat shock 功能蛋白与 GRb1 抗炎
+作用的相关性最强，推测 GRb1 的抗炎机制可能与
+调节晚期糖基化终末产物 - 糖基化终末产物受体、
+NF-κB、丝裂原活化蛋白激酶等通路有关。见图 1。
+1.5　其他疾病　研究表明，GRb1 还具有治疗 2 型
+糖尿病、骨关节炎、术后疲劳综合征、增强 CHX
+治疗乳腺癌等作用。GRb1 对其他疾病的治疗作
+用及机制，见表 4。
+图1　GRb1对溃疡性结肠炎的潜在作用的KEGG通路富集分析（A）
+和GO功能富集分析（B）预测气泡图
+表4　GRb1对其他疾病的治疗作用及机制
+疾病
+细胞 / 动物
+影响
+机制
+参考文献
+2 型糖尿病
+C57BL/6
+改善葡萄糖耐量、中枢瘦素敏感性和下
+丘脑瘦素信号转导通路（p-STAT3），减
+少脂肪堆积；增加厌食激素 PYY 和调节
+黑皮质素 POMC/AgRP 神经肽在中基底下
+丘脑中的循环浓度，有助于负能量平衡
+通过抑制脂肪组织、肝脏和下丘脑中的促炎
+细胞因子（TNF-α、IL-6、IL-1β）和 NF-κB
+途径分子（p-IKK 和 p-IκBα）的水平，恢
+复瘦素诱导的 STAT3 磷酸化；抑制下丘脑瘦
+素信号传导的负调节因子（SOCS3、PTP1B）
+的表达
+[37]
+糖尿病
+心肌病
+H9C2 细胞
+保护 H9C2 心肌细胞的活力，抑制炎症反应
+通过上调 SIRT1，下调 NF-κB 的乙酰化水
+平，进而降低 TNF-α、IL-6 的分泌
+[38]
+糖尿病
+视网膜病变
+RAW264.7 细胞
+抑制 LPS 刺激的 ARPE19 细胞中促炎基因
+IL-1β 和 IL-6 的表达，以及趋化因子配体
+2（Ccl2）、细胞间黏附分子 1（ICAM-1）和
+血管细胞黏附分子 1（VCAM-1）的表达
+与 Rd 联合用药，减弱亮光诱导的小鼠视网
+膜中 miR-155，并上调肌醇 -5- 磷酸酶 1
+（SHIP1）的表达
+[39]
+骨关节炎
+SD 大鼠
+降低基质金属蛋白酶 13（MMP13）的
+mRNA 表达，并依赖于剂量上调 BMP-2
+的表达；降低 Cox-2 和 TGF-β 的表达
+通过抑制 MMP13 和 COX-2 的 mRNA 水平和
+抑制促炎细胞因子如 PGE2、IL-6、IFN-γ 和
+IL-β 来保护软骨降解
+[40]
+术后疲劳
+综合征
+SD 大鼠
+通过抑制 p38 MAPK-NF-κB 信号
+通路来抑制炎症，减轻肌肉萎缩
+通过抑制 p38 和 NF-κB 的磷酸化水平、肌肉
+环状指基因 1（murf）和肌肉萎缩盒 F 基因 1
+（atrogin-1）的蛋白表达水平来降低血清和肌
+肉中 IL-1β、IL-6 和 TNF-α 的表达水平
+[41]
+乳腺癌
+ICR 小鼠
+增强 CHX 治疗乳腺癌的作用，延长存活
+率，减少肿瘤负荷，以及增加肿瘤生长抑制
+率和细胞凋亡；降低肠道通透性，减少腹
+泻，减少上皮损伤和较高的紧密连接蛋白
+通过促进肠道益生菌包括嗜粘蛋白 - 阿克曼
+氏菌、双歧杆菌和罗伊氏乳杆菌的繁殖增强
+抗肿瘤免疫力；通过调节 Nrf2 和 NF-κB 通
+路改善肠道黏膜炎症进而起到抗肿瘤的作用
+[42]
+- 177 -
+《中国医学创新》第 20 卷  第 1 期（总第 607 期）2023 年 1 月　　综　　述  Zongshu
+Medical Innovation of China Vol.20, No.1 January, 2023
+2　结论与展望
+　　人参作为中药使用具有数千年的历史，GRb1
+是人参的主要活性成分之一，具有多种药理作用，
+主要包括抑制炎症因子释放、下调促凋亡基因表
+达、调节体内氧化还原平衡及细胞自噬等。GRb1
+发挥抗炎作用主要有三种方式，首先，GRb1 可以
+通 过 调 节 HMGB1、MAPK/NF-κB 和 PPAR-g 等
+炎症相关信号通路，抑制促炎因子的释放。其次，
+GRb1 可 以 通 过 上 调 SOD、GSH、eNOS、CAT 和
+Nrf2 等抗氧化剂的水平，下调 ROS、MDA、LDH
+和 MMP-2 的 水 平， 激 活 Nrf2/HO-1、Nrf2/ARE 和
+PI3K/Akt 信号通路来提高抗氧化能力进而发挥抗炎
+作用。第三，细胞自噬的缺损与凋亡是诱发炎症反
+应和炎症性疾病的重要因素。GRb1 可以下调促凋
+亡因子，如 Bax、caspase-3 和 caspase-9；上调抗凋
+亡因子，包括 Bcl-2 和 Bcl-xL；并通过诱导雌激素
+受体依赖性串扰和调节 PI3K/mTOR、MAPK 信号通
+路发挥抗凋亡和调节自噬作用。GRb1 发挥抗炎作
+用过程中，有多种信号分子和多种途径参与，呈现
+多效应、多靶点、多途径的特点。目前，GRb1 抗
+炎作用的研究大多局限于动物模型实验，主要因为
+它不易被肠黏膜吸收，肠道上皮通透性低，限制了
+GRb1 的临床应用。虽然随着纳米技术的发展，已
+经部分改善了人参皂苷的不良特性，提高了其生物
+利用度，但 GRb1 靶向给药效率的研究还有待于进
+一步改进与完善。
+参 考 文 献
+[1] 刘博，俞婷，韩晓蕾，等 . 人参皂苷抗炎作用及其分子机制
+的研究进展 [J]. 中国药学杂志，2019，54（4）：253-258.
+[2] LIN Z，XIE R，ZHONG C，et al.Recent progress （2015-2020） 
+in the investigation of the pharmacological effects and mechanisms 
+of ginsenoside Rb1，a main active ingredient in Panax ginseng 
+Meyer[J].Journal of ginseng research，2022，46（1）：39-53.
+[3] 赵冬 . 心血管疾病危险因素的研究：过去、现在和未来 [J].
+中国循环杂志，2021，36（1）：1-3.
+[4] 宁冰冰，陈瑜，张腾 . 三七及其主要皂苷组分在心血管疾病
+中的作用研究进展 [J]. 中国中医药信息杂志，2017，24（10）：
+126-129.
+[5] YAN X，TIAN J，WU H，et al.Ginsenoside Rb1 protects 
+neonatal rat cardiomyocytes from hypoxia/ischemia induced 
+apoptosis and inhibits activation of the mitochondrial apoptotic 
+pathway[J].Evidence-based Complementary and Alternative 
+Medicine，2014，2014：149195.
+[6] 朱志扬，葛然，杨露露 . 人参皂苷 Rb1 通过抑制 PI3K/AKT
+信号通路保护脂多糖诱导的心肌细胞炎症反应 [J]. 中国循证
+心血管医学杂志，2018，10（7）：823-826.
+[7] ZHAO Y，WANG H，HE C，et al.Protopanaxadiol and 
+protopanaxatriol ginsenosides can protect against aconitine-
+induced injury in h9c2 cells by maintaining calcium homeostasis 
+and activating the akt pathway[J/OL].Journal of Cardiovascular 
+Pharmacology，2021，78（5）：e690-e702.https://pubmed.ncbi.
+nlm.nih.gov/34369901/.
+[8] LI Y H，LI Y Y，FAN G W，et al.Cardioprotection of 
+ginsenoside Rb1 against ischemia/reperfusion injury is associated 
+with mitochondrial permeability transition pore opening 
+inhibition[J].Chin J Integr Med，2016：1-10.
+[9] QIN G W，LU P，PENG L，et al.Ginsenoside Rb1 inhibits 
+cardiomyocyte autophagy via PI3K/Akt/mTOR signaling pathway 
+and reduces myocardial ischemia/reperfusion injury[J].Am J Chin 
+Med，2021，49（8）：1913-1927.
+[10] 蔡亦斌，符珍珠，李洪 . 人参皂苷 Rb1 对川崎病小鼠心肌
+损伤及血管炎症严重程度的影响 [J]. 临床和实验医学杂志，
+2022，21（3）：225-228.
+[11] 刘倩，吴升伟，蒋红雨 . 人参皂苷 Rb1 对川崎病小鼠的治疗
+作用 [J]. 中国临床药理学杂志，2020，36（23）：3914-3917.
+[12] ZHOU P，LU S，LUO Y，et al.Attenuation of TNF-α-induced 
+inflammatory injury in endothelial cells by ginsenoside Rb1 via 
+inhibiting NF-κB，JNK and p38 signaling pathways[J].Front 
+Pharmacol，2017，8：464.
+[13] ZHANG X，LIU M H，QIAO L，et al.Ginsenoside Rb1 
+enhances atherosclerotic plaque stability by skewing macrophages 
+to the M2 phenotype[J].J Cell Mol Med，2018，22（1）：409-
+416.
+[14] 万茜淋，吴新民，刘淑莹，等 . 人参皂苷参与调控神经系统
+功能的研究进展 [J]. 中药药理与临床，2020，36（6）：230-
+235.
+[15] JIANG N，HUANG H，ZHANG Y，et al.Ginsenoside Rb1 
+produces antidepressant-like effects in a chronic social defeat 
+stress model of depression through the BDNF-Trkb signaling 
+pathway[J].Front Pharmacol，2021，12：680903.
+[16] GUO Y，XIE J，ZHANG L，et al.Ginsenoside Rb1 exerts 
+antidepressant-like effects via suppression inflammation and 
+activation of AKT pathway[J].Neuroscience Letters，2021，744：
+135561.
+[17] 周坤 . 人参皂苷 Rb1 通过调控炎症改善 LPS 诱导的小鼠急
+性抑郁样行为机制及体内药效成分研究 [D]. 北京：北京中
+医药大学，2020.
+[18] ZHANG J H，YANG H Z，SU H，et al.Berberine and 
+- 178 -
+综　　述  Zongshu　　《中国医学创新》第 20 卷  第 1 期（总第 607 期）2023 年 1 月
+Medical Innovation of China Vol.20, No.1 January, 2023
+ginsenoside Rb1 ameliorate depression-like behavior in diabetic 
+rats[J].Am J Chin Med，2021，49（5）：1195-1213.
+[19] 李大伟 . 人参皂苷 Rb1 抑制小胶质细胞炎症反应保护多巴胺
+能神经元的实验研究 [D]. 济南：山东大学，2021.
+[20] KE C H，PENG Y，YUAN Z，et al.Ginsenoside Rb1 protected 
+PC12 cells from Aβ（25-35）-induced cytotoxicity via 
+PPARγ activation and cholesterol reduction[J].Eur J Pharmacol，
+2021，15（893）：173835.
+[21] YANG Y，LI S，HUANG H，et al.Comparison of the protective 
+effects of ginsenosides Rb1 and Rg1 on improving cognitive 
+deficits in samp8 mice based on anti-neuroinflammation 
+mechanism[J].Front Pharmacol，2020，11：834.
+[22] ZHAO H H，DI J，LIU W S，et al.Involvement of GSK3 and 
+PP2A in ginsenoside Rb1’s attenuation of aluminum-induced 
+tau hyperphosphorylation[J].Behavioural Brain Research，2013，
+241：228-234.
+[23] LIU A，ZHU W，SUN L，et al.Ginsenoside Rb1 administration 
+attenuates focal cerebral ischemic reperfusion injury through 
+inhibition of HMGB1 and inflammation signals[J].Exp Ther Med，
+2018，16（4）：3020-3026.
+[24] 柳天宇，张杨，胡枭，等 . 呼吸道微生态与呼吸系统疾病的
+研究进展 [J]. 医学综述，2022，28（12）：2419-2425.
+[25] SHAUKAT A，SHAUKAT I，RAJPUT S A，et al.Ginsenoside 
+Rb1 protects from staphylococcus aureus-induced oxidative 
+damage and apoptosis through endoplasmic reticulum-stress and 
+death receptor-mediated pathways[J].Ecotoxicol Environ Saf，
+2021，219：112353.
+[26] WEI E，FANG X，JIA P，et al.Ginsenoside Rb1 alleviates 
+lipopolysaccharide-induced inflammatory injury by 
+downregulating miR-222 in WI-38 cells[J].Cell transplantation，
+2021，30：1-11.
+[27] SHAUKAT A，YANG C，YANG Y，et al.Ginsenoside Rb1：
+a novel therapeutic agent in staphylococcusaureus-induced 
+acute lung injury with special reference to oxidative stress and 
+apoptosis[J].Microbial Pathogenesis，2020，143：104109.
+[28] SHAUKAT A，GUO Y F，JIANG K，et al.Ginsenoside Rb1 
+ameliorates staphylococcus aureus-induced acute lung injury 
+through attenuating NF-κB and MAPK activation[J].Microbial 
+Pathogenesis，2019，132：302-312.
+[29] 刘宝剑，王存连，徐明举，等 . 人参皂苷 Rb1 对 H9N2 亚型
+猪流感病毒诱导急性肺损伤小鼠肺组织氧自由基的影响 [J].
+畜牧兽医学报，2013，44（9）：1468-1474.
+[30] 吴倩，郑秀花，刘亚丽 . 人参皂苷 Rb1 介导 TLR3/TRIF 信
+号通路对哮喘大鼠的抗炎作用机制 [J]. 中国老年学杂志，
+2022，42（2）：391-395.
+[31] CHEN T，XIAO L，ZHU L，et al.Anti-asthmatic effects of 
+ginsenoside Rb1 in a mouse model of allergic asthma through 
+relegating Th1/Th2[J].Inflammation，2015，38（5）：1814-
+1822.
+[32] 罗文娟，王灿敏，叶敏宜 . 人参皂苷 Rb1 对百草枯所致呼吸
+衰竭大鼠肺功能影响及机制研究 [J]. 医学研究杂志，2020，
+49（2）：91-98.
+[33] JOH E H，LEE I A，JUNG I H，et al.Ginsenoside Rb1 and its 
+metabolite compound K inhibit IRAK-1 activation--the key step 
+of inflammation[J].Biochemical Pharmacology，2011，82（3）：
+278-286.
+[34] ZHANG J，CAO L，WANG H，et al.Ginsenosides regulate 
+PXR/NF-κB signaling and attenuate dextran sulfate sodium-
+induced colitis[J].Drug Metab Dispos，2015，43（8）：1181-
+1189.
+[35] DONG J Y，XIA K J，LIANG W，et al.Ginsenoside Rb1 
+alleviates colitis in mice via activation of endoplasmic reticulum-
+resident E3 ubiquitin ligase Hrd1 signaling pathway[J].Acta 
+Pharmacol Sin，2021，42（9）：1461-1471.
+[36] 董建一，李昶仪，陈大朋，等 . 人参皂苷 Rb1 干预 DSS 诱
+导结肠炎模型小鼠转录组高通量测序及分析 [J]. 实验动物科
+学，2021，38（5）：42-48.
+[37] WU Y，YU Y，SZABO A，et al.Central inflammation and 
+leptin resistance are attenuated by ginsenoside Rb1 treatment in 
+obese mice fed a high-fat diet[J/OL].PLoS one，2014，9（3）：
+e92618.https://pubmed.ncbi.nlm.nih.gov/24675731/.
+[38] 王嘉睿，李苏华，罗艳婷，等 .SIRT1/NF-κB 通路在人参皂
+苷 Rb1 对高糖处理的 H9C2 细胞凋亡与炎症反应作用的研
+究 [J]. 新医学，2019，50（4）：283-289.
+[39] BIAN M J， DU X Y， WANG P W，et al.Combination of 
+ginsenoside Rb1 and Rd protects the retina against bright light-
+induced degeneration[J].Sci Rep，2017，7（1）：6015.
+[40] ARAVINTHAN A，HOSSAIN M A，KIM B，et al.Ginsenoside 
+Rb1 inhibits monoiodoacetate-induced osteoarthritis 
+in postmenopausal rats through prevention of cartilage 
+degradation[J].Journal of Ginseng Research，2021，45（2）：
+287-294.
+[41] 范圣东 . 人参皂苷 Rb1 改善术后疲劳模型大鼠骨骼肌炎
+症反应和肌肉萎缩的机制研究 [D]. 合肥：安徽医科大学，
+2019.
+[42] ZHU H，HE Y S，MA J，et al.The dual roles of ginsenosides 
+in improving the anti-tumor efficiency of cyclophosphamide 
+in mammary carcinoma mice[J].J Ethnopharmacol，2021，30
+（265）：113271.
+（收稿日期：2022-09-07）　（本文编辑：陈韵）

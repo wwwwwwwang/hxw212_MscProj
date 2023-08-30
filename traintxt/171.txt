@@ -1,0 +1,306 @@
+中国基层医药 2009 年 7 月第 16 卷第 7 期
+Chin J 蹦 m Med Pharm，July 2009，Vo1．16，No．7 
+人参总皂苷对 白血病 细胞 K562 凋 亡及生存 素 
+表 达 的影 响 
+吴东红
+杨志刚 
+李庆华 
+【摘要】 
+目的
+探讨人参总皂苷(TSPG) 对人白血病细胞株 K562 生长和凋亡的影响及其可能机制。方 
+法
+采用噻唑 兰比色法 ( MT T) 观察 T SPG 对 K562 细胞生长的影响 ；流 式细胞仪观察 TSPG 对细胞凋亡的影 
+响 ；用 RT．PeR 检测 TSPG诱 导 K562 细胞凋亡中生存素 ( Survivin) 基 因的表达情况 。结 果
+TSPG 对 K562 细 
+胞生长有 抑制作用 ，呈剂量依赖关系( P <0．05) ；10、100、200 
+g／ml 组 细胞凋 亡率 分别为 16．67％ 、23．78％ 、 
+33．98％ ，药物组与对照组差异有统计学意义 ( P < 0．01 或 P < 0．05 ) ；随着 TSPG 浓度升 高 ，Survivin 基因的表 
+达水平逐渐下调 ( P <0．05) 。结论
+T sPG 可以抑制人 白血病细胞 的生 长并诱导其 凋亡 ，其 机制可能与下调 
+Survivin基 因的表达有关。 
+【关键词】 人参总皂苷；l(562 细胞；凋亡；生存素 
+E f ec ts  of  T S P G  on  ap op tosi s of  K 562 c el ls  a nd  th e exp r essio n  o f S ur viv in  
+WU  D ong 一 
+增 ，YA N G Z h i—g口 
+，
+ 
+ng—hna ．Departement of Hematology ，The Af iliated Hospital of  Gu0ng ng Medical  College，Zhanjiang ，
+ 
+0ngdD 
+52400 1 ，Ch ina 
+【Abstract】 Obj ecti ve To study the ef ects of rsPG on apoptosis of K562 ceils and the probable mechanism 
+involved．Meth ods 
+MT r was used to investigate the proliferation of K562 ceils ；Flow cytometry( FCM) was used  to 
+in ves ti gate the ef ects of T SP G  on apo ptosi s of  K 562 c ell s ；The expressi on of Survivi n in K 562 cell s treated wi th d if er- 
+ent c onc entr aetion of TS P G w ere exam i ned  by R T -P C R ．R es ul ts 
+T he grow th of  K 56 2 c eil s WaS in hib ited  by T SP G  in 
+the concentration dependent nlanner ( P < 0．05 ) ．FCM showed  th at the apoptosis rates of cells in 100 
+L 
+( 23 78％) and 200 ~,g／L TSPG group( 33．98％ ) were higher than those in lOttg／L TSPG group( 16．67％ ) ，with 
+signifi cant dif erence( P < O．01 or P < 0．05 ) ．The expression rates of Survivin were decreased by the treatment wi th 
+th e increas ing concentrations of TSPG ( P < 0．05 ) ．C onclusion 
+TSPG c aIl restr ain the human  leukemic cell growth 
+and  ind uce cel l apop tosi s ，which may be re l ated  to the decreas ed exp ression s of S urvivin ．
+ 
+【K ey words】 Total saponins of panax ginseng；K562 cells；Apoptosis；Survivin 
+本实验拟通过观察人参总皂苷( TSPG) 对人 白 
+DOI ：10．3760／ema．j ．issn．1008-6706．2009．07．043 
+作者单位 ：524001 广东省湛 江，广东医学院附属医院血液内科 
+血病 K562 细胞 凋亡 的诱导作用及对 生存 素 ( Sur- 
+vivin) 基因表达的影响，探讨其可能的作用机制 。 
+1
+材料与 方法 
+1．1
+材料
+人 白血病细胞株 K562 购 自中国科学 
+作用大于胰岛素的降糖作用 ，引起血糖升高 J 。文 
+献l3 报道不伴糖尿病 的心肌梗死患者 出现应激性 
+高血糖提示预后不 良，心律失 常、充血性心力衰竭、 
+心源性休克、住 院死亡的危险性加大。本组资料提 
+示 AMI 合并 SHG 组肌酸肌酶峰值高 于非 SHG 组， 
+说明 SHG 与 AMI 梗死面积有关。表 1显示 AMI 伴 
+SHG 患者住 院期 间发生严重 心律失 常、心源性 休 
+克、充血性心力 衰竭和死亡 的发 生率 明显 高于非 
+SHG 组( P <0．05) 。 
+高血糖能够加重缺血性心肌损害，其原因可能 
+是 ：( 1) 高血糖加剧缺血性心肌细胞水肿 ；(2) 高血 
+糖干扰缺血 时局部心 肌血流的恢 复；( 3) 高血糖加 
+剧 自由基损伤；(4) 高血糖可促 发渗透性利尿，导致 
+血容量下降和血流动力学改变 ，增加血液粘稠度，加 
+重微循环障碍；( 5) 患者可能存在潜在的胰 岛细胞 
+功能不全；( 6 ) 急性高血糖可 导致 内皮依 赖性血管 
+舒张功能减退 ，内皮细胞调亡 ，血小板聚集和血粘度 
+均明显增 加 引。 
+参考文献 
+[ 1]
+Capes SE ，Hunt D ，Mal mberg K ，et a1．Stress hyperglycemia and in— 
+creased risk of  de ath after my ocardial infarct ion in pat ients wit h 
+and without：a systematic overview．L ancet ，2000，355 ( 9206 ) ：
+ 
+773 -778 ．
+ 
+[ 2]
+邓小芳．高血糖 与心 肌梗死．广州 医学 院学 报，2000 ，28( 4 ) ：
+ 
+96_98 ．
+ 
+[ 3]
+胡大一 ，马长生．心脏病学实践 2003．北京 ：人 民卫生出版社 ， 
+2003 ：620 -634 ．
+ 
+’ 
+( 收稿 日期 ：2009-02-23) 
+( 本文编辑 ：张超 ) 
+中国基层医药 2009 年 7 月第 l6 卷第 7 期
+Chin J Prim Med Pharm，July 2o09 ，V01．16 ，No．7 
+院细胞研究所 。TSPG 由广东医学院天然药物开发 
+中心提供 ，纯度为 95％以上 ，用 PRMI-1640 配制成 
+所需浓度。M33"、碘化丙锭 ( PI) 购 自美 国 SIGMA 公 
+司；新生小牛血 清购 自杭州 四季青生 物公 司；RT— 
+PCR 试 剂 盒 购 自德 国 QIAGEN 公 司 ；Survivin 及 
+GAPDH 引物由上海生物工程技术有限公司合成。 
+1．2
+细胞培养
+K562 细胞于 RPMI一164 0 培养液中 
+( 含 10％新生小牛血清 ，青霉素 100 U／ml ，链霉 素 
+100 U／ml，0．056％NaHCO3，调节 pH 值至 7．4 ) ，置 
+于 37 ℃、5％CO 培养箱内常规培养。所有实验均 
+用对数生长期 的细胞 。 
+1．3 
+MTY 法检测 K562 细胞生长影 响
+将对数生 
+长期的 K562 细胞制备成 4 X 10 ／ml 单细胞悬液，按 
+每孔 9O 
+l 接种于 96 孔培 养板 ，分别加 入含 TSPG 
+培养液 ，使其终浓度为 0 、10、100 、200 
+ml。另设 
+阴性对照组 ( 只加细胞 和培养液 ，不加药物 ) ，空 白 
+调零组( 仅加培养液) ，各设 6 个复孔。在孵箱 中分 
+别 24 、48、72 h后 ，加入 MT F 100 ~1，培养 4 h，离心弃 
+去液体 ，每孔加入 100 IA DMSO 充分溶解 15 min。 
+A570 nm测定各孔光密度值( A 值) ，按 以下公式计 
+算 ：细胞生长抑制率( ％) = ( 1 一实验组 A 值／对照 
+组 A 值) × 100％。 
+1．4
+流式细胞仪检 测细胞凋亡情况 
+将 K562 细 
+胞制成 1 × 10 ／个细胞悬液 ，设对照组 ( 仅含等量的 
+细胞和 RPMI一164 0 液) 和实验组 ( 10 、100 、200 
+g／ 
+IYIl 的 TSPG 培 养液) ，每组 3 个 复孔。分别 于 CO： 
+孵箱中培 养 24 h 后收集细胞 ；PBS 清洗、离 心，用 
+0．5 ml PBS 将余下细胞制成均匀 的细胞悬液 ；滴人 
+预冷的95％乙醇 1．5 ml ，吹打、固定 12 h；分析前将 
+乙醇中的细胞悬液离心 ( 1 000 r／min，5 min) ，加 PI 
+染色液 1 ml 置于室温 30 ra in；流式细胞仪分析。 
+1．5 
+RT．PCR 检测各组 Survivin mRNA 的表达
+分 
+别以 10~．100 、200 g／ml TSPG 作用 K562 细胞 24 h， 
+以未加药细胞为对照组。按 Trizol 试剂盒说明书提 
+取细胞总 RNA ，以 1 
+g RNA 为模板，按照逆转录试 
+剂盒 说 明 书合 成 cDNA ，并 进 行 聚合 酶 链 反 应 
+( PCR) 。PCR 条件为 94 ℃45 s，56 ℃45 s ，72 oC45 
+s，循环 30 次 ，末次延长 10 min 。PCR 产物 5 
+1，加 
+6 × 上样缓冲液 1 Ixl 混匀 ，上样 于 2％琼脂糖凝胶 ，
+ 
+90 V 恒压 电泳 90 ra in，溴乙啶紫外透射仪下拍照。 
+采用图像分析软件 BandScan 5．0 比较 电泳条带 的 
+相对光 密度值 ，获得 Survivin mRNA 相对 表达 量。 
+Survivin 长 度 为 401 bp，上 游 引 物 5 一TTC11 一 
+GAGGGCTc CGcCT —3 ，下游 弓I物 5 一CCTGGT AGTG— 
+G T GC A G C C A  -3 。 
+1．6
+统计 学方法
+实验数据 资料 以x ± s 表示 ，应 
+用 SAS 8．1 软件包进行方差分析。P < 0．05 为组 间 
+差异有统计学意义。 
+2
+结果 
+2．1 
+TSPG 对 K 562 细胞 生 长 的影 响
+Mql " 法结 果 
+显示 ，TSPG 对 K562 细胞 的抑制作用呈时间一剂量依 
+赖关系。见图 1。 
+2．2 
+TSPG 对 K562 细胞 凋亡的影 响 
+经流式细胞 
+仪检测 ，浓度为0 、10 、100 、200 g／L 的 TSPG 作用于 
+K562 细胞 24 h 后 ，细胞凋亡率分别为 0 、( 16．67 ± 
+2．13 ) ％、( 23．78 -4-2．90) ％、( 33．98 ± 1．71) ％，lO、 
+100 、200 
+g／L 组与对照组相 比较，差异有统计学意 
+义 ( P < 0．05 或 P < 0．O1) 。随着 TSPG 浓度增加 ，亚 
+二倍 峰( 凋亡峰 ) 所 占比例逐渐增大。 
+2．3 
+TSPG 对 Survivin mRNA 表达的影响
+见 图2 。 
+3
+讨论 
+TSPG 是人参 中主要的活性有效成分⋯ 。以往 
+对 TSPG 抗肿瘤作用 的研究大多 局限于畸 胎瘤细 
+胞、卵巢癌细胞以及黑色素瘤细胞 
+。本研究应用 
+不同浓度 的 TSPG 作用于 K562 细胞 ，通过 MTY 比 
+色法检测观察 TSPG 对 K562 细胞生长抑制的影响 ，
+ 
+发现 TSPG 能明显抑制 K562 细胞的增殖。在 TSPG 
+浓度为 l0 
+L 时 ，已出现抑制细胞增殖作用 ，随着 
+TSPG 浓 度 的 递 增 ，增 殖 抑 制 率 也 逐 渐 增 强 
+( P < 0．05 ) 。 
+Survivin 在胚胎组织、转化细胞及多种肿瘤组织 
+中表达 ，而在正常成人组织不表达或低表达 ，在基因 
+诊断和靶向治疗 中具有较大 的研究价值 j。研究 
+表明 Survivin 高表达 与某些肿瘤分化程度、预后不 
+良相关-4 J 。本研 究 RT ．PCR 结果表 明，随着 TSPG 
+浓度的增加 ，Survivin mRNA 的表达逐渐减少 ，各组 
+间差异有统计学意义 (P < 0．01) 。 
+综上所述 ，TSPG 可抑制 白血病细胞的生长和增 
+殖 ，诱导其凋亡 ，这可能与下调 Survivin 基因的表达 
+有关 ，但其具体机制尚需进一步研究 。 
+( 本文图 1、图 2 见插图 7 —2) 
+参考文献 
+[ 1]
+王海南．人参皂苷药理研究进展．中国临床药理学与治疗学， 
+2006，11( 11) ：1201—1206． 
+[ 2】 Lee J H，Choi S，Kim J H ，et a1．Ef ects of ginsenosides on carbll— 
+c hol··sti mulated formation of  inositol phos--phates in rat corti cal cell 
+cultures．Neuroc hcm Res，2003，28(9) ：1307—1313．
+ 
+[ 3]
+Kawasaki H，Altieri DC ，Lu CD，et a1．Inhibiti on of  apoptosis by 
+Survivin predi cts shorter Survl vln ra tes in eoloreetal c ancer．Cancer 
+Res，1998，58( 22) ：5071-5074．
+ 
+[ 4]
+Das A ，Tan WL ，Teo J ，et a1．Expression of Survivin in pri mary 
+gliobl astomas．J Cancer Res Clin Oncol ，2002，128( 6) ：302-306．
+ 
+( 收稿 13期 ：2008—12-lO) 
+( 本 文编辑 ：张超 ) 
+1 
+前列腺特异 性抗原检测诊 断前列腺癌 的价值 
+ROC 曲线 
+卜特异性 
+图 1 
+PS A 、PSA D、f／t PSA百 分值用 于PCA 诊断 的R OC曲线 
+(正 文 见l 2 l 2页) 
+8 0 
+7 0  
+6 O 
+芭 50 
+褂 
+磊
+40 
+3 0  
+2 0  
+l 0  
+0  
+2 4h 
+4 8h 
+72 h 
+图 1 人参总皂 甙对K 562细 胞生长 的影 响 
++
+1 0 g g ／L  
+-4 1- 100 g g ／L  
++
+200 g g／L  
+800bp ．．．
+ 
+．  
+瞪b — — 
+10l ，p一
+ 
+镧 10t 
+一
+ 
+M 
+A 
+B 
+C 
+—
+GADPH 
+S U l  
+l  In  
+图2 T SPG对K 562细胞 中survivi n mRNA表达 的影 响 
+M ：10 0 bp D N A l a dde r A ：10 
+g ／L  
+B ：10 0 
+g ／L  
+C ：20 0 
+g ／L  
+插 图7 2 
+敏 感 性 
+向
+ 
+口
+2
+ 
+影 勋 
+的陂 
+达 
+表  
+素  
+存 ＼ 
+生  
+及  
+亡 
+凋  
+c、＼J 
+U 
+[ 『) 
+K
+ 
+胞 
+细 
+病  
+缸  
+白  
+对  
+甙  
+皂  
+参  
+人 

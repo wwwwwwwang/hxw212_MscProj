@@ -1,0 +1,182 @@
+一
+1 1 l 2 
+中国康复理论与实践 2012 年 12月第 18卷第 12 期 Chin J Rehabil Theory Pract，Dec，2012，Vo1．18，No．12 
+DOI：10．
+3969~．
+issn．1006-9771．
+2012．12．
+005 
+· 基础研究 · 
+人参皂甙 R gl 对大鼠海马神经元缺糖氧／复糖氧后氧化损伤的保护作用 
+何斌 ，吴鸿浩 ，吕金如 ，孙昊，吴昊，蒋雷，王淦楠，胡德亮，张劲松 ，陈彦 
+【摘 要】
+ 
+目的
+观察人参皂 甙 Rgl 对大 鼠海马神经元 缺糖氧／复糖氧后谷 胱甘肽(GSH)和谷胱甘肽 过氧化物酶(GPx) 的影 响。方 
+法
+海马神 经元培养 8～10 d，随机分为正 常对照组 、模型组 、人参皂 甙 Rgl 低 、 中、高剂 量组(5 gmol／L，20 gmol／L ，60 gmol／L ) 。 
+建立 大 鼠海马神经元缺糖氧／复糖氧模型 ，复糖氧后 6 h 以生物化学法观察各 组海马神经元 GSH 含量 和 GPx 活性 的变化 ；复糖 氧后 
+24 h以 Hochest染 色法检测细胞凋亡 ，并检测各 组海马神经元 四甲基偶氮 唑盐 (MTT) 代谢率 。结果
+与模 型组相 比，人参皂甙 Rg l 
+中、高剂量组海马神经元 GSH 含量、GPx 活性显著升高，凋亡显著减少，MT T 代谢率显著提高(尸<0．001)，人参皂甙Rg l 低剂量组 
+变化不 明显(P>0．05) 。结论
+人参皂甙 Rg 1可通过提高缺糖氧神经元 GSH 含量和 GPx 活性 ，发挥脑保护作用。 
+l关键 词】 脑缺血 ；人参皂甙 Rg1；谷胱甘肽 ；细胞凋亡 ；海 马 
+N eu r Op r0 tec tiv e E f f ect o f  G in s en os id e R g l  o n O xi d ativ e D a m a ge I n d u ced  b y  O xy gen - gl u c os e D ep r iv ati o n a n d R ep er f u s io n i n C u l -  
+tured Hippocampal Cells 
+HE  Bin．WU Hong-hao．L U J in—ru，et a1．Department of E mergency, the F订 Affi liated Hospital of
+Naming 
+M edical University, N anj ing 210029, J iangsu，China 
+Abstract ：Obj ect ive To explore the effect of G insenoside Rgl on glutathion (GSH ) level and glutathion peroxidase (GPx) activity after 
+ox yg en—g lu c os e d epr iv atio n／reperfu si on in c u ltured hip p oc am pa l c ell s ．M eth od s T he m o del o f  ox yg en-g lu c os e d epri vatio n an d rep erfu s ion  
+w ere es tab li sh ed  w i th th e h ip po c am pal n eur on s of  rats．T h ey w er e ran do m ly d iv id ed in to c on tro l gr oup ，m o del g roup  and  G i ns eno si de R g l 
+treatment groups (5 gmol／L，20 gtmol／L ，60 gmol／L )．T he G SH level and G Px activity were measured 6 h after reperfusion．The apoptosis 
+and the metabolic rate of methyl thiazolyl tetrazolium (MT T) were detected 24 h aft er reperfusion．R esult s Compared with model group，the 
+G SH level，G Px activity , and metabolic rate of MTT improved (P <0．00 1)，and the apoptosis decreased in the Ginsenoside Rgl groups (P ‘  
+0．00 1 except with the dosage of 5 gmol／L fP >0．05)．C onclusion G insenoside Rgl can protect the brain from ischemia by increasing the 
+G SH  l ev el and  G P x  ac tiv ity ．
+ 
+K ey w o r d s ：c erebral i sc h em i a；G in s en o sid e R g l ；gl utath io n；apo ptos is ；h ip po c amp u s 
+I中图分类号l 
+R743
+【文献标识码l 
+A
+【文章 编号l 
+1006—9771(20 12) 12—1112—04 
+I本 文著录格式】 何斌 ，吴鸿浩 ，吕金如 ，等．人参皂甙 Rg 1对 大 鼠海马神经元缺糖氧／复糖氧后氧化损伤 的保 护作用 【J J．中国 
+康复理论与实践，2012，18( 12)：1112—1115．
+ 
+脑缺血卒 中是临床常见的高危疾病 ，涉及多种病 
+理生理机制 ，其中氧化应激是引发神经元死亡级联反 
+应的主要原因之一 。体外研究发现 ，海马神经元缺糖 
+缺氧再灌 注损伤后 ，过 氧化 物大量生成 ，谷胱甘肽 
+(glutathione，GSH)含量减少 ，以及谷胱甘肽过氧化物 
+酶(glutathion peroxidase，GPx)活性 降低 ，体 内氧化及 
+抗 氧化系统平衡破坏 ，进而引发神经元死亡级联反 
+应u 。人参皂甙 Rgl 是人参活性成分中已提纯 的重要 
+单体活性成分 ，对缺血脑组织具有保 护作用 。另有 
+体外实验表明 ，人参皂甙 Rgl 可通过抗氧化反应 ，发 
+挥抗衰老 、保护帕金森病黑质神经元等药理作用 l。 
+本实验 旨在海马神经元缺糖氧／复糖氧(oxygen．glucose 
+deprivation／reperfusion，OGD—R)模 型基 础上 ，探讨人 
+参皂 甙 Rgl 对脑缺血后抗氧化能力的影 响及其机制 ，
+ 
+提供人参皂甙 Rgl 脑保护作用和脑缺血病理机制方面 
+的研究资料 。 
+1 材料与方法 
+1．1 实 验动 物 
+出生 24 h 内 SD 乳大 鼠 ，雌 雄不 限 ，
+ 
+SPF 级 ，由南京医科大学实验动物中心提供。 
+1．2 试剂与配液
+人参皂甙 Rgl (中国药科大学分离纯 
+化) ；GSH 、GPx 测定试剂盒(南京建成生物工程研究 
+所) ；多聚赖 氨酸 、谷氨 酰胺 、胰 酶(SIGMA 公 司) ；
+ 
+马血清 、DMEM 、Neurabasal、B27(GIBCO 公司) ；胎 
+牛血清(杭州四季青生物工程公司) ；其余为 国产分析 
+纯 。 
+解剖 液 ：NaC 1 f 124 mmol／L) 、K C 1 f5 mmol／L ) 、 
+基金项 目：江苏高校优势学科建设工程项 H (Jx 10231081) 。 
+作者单位：南京医科大学第一附属医院急诊科 ，江苏南京市210029。作者简介：何斌(1981一) ，男 ，安徽安庆市人，硕士，主治医师 ，主要研 
+究方 向 ：脑 缺血损 伤与康复 。通讯作者 ：陈彦 。 
+http：／／www．cj rtponli ne．COFIfl 
+中国康复理论与实践 2012年 12 月第 18卷第 l2期 Chin J Rehabii Theory Pratt，Dec．2012，Vo1．18，No．12 
+为 ，GPx 是神经元清除H O 的主要过氧化物酶 ，该过 
+程 以 GSH 为底物 。GSH 在脑组织 中含量 丰富 ，在 体 
+大 鼠模 型研 究发现 ，GSH 缺失可加重脑缺血／再灌 注 
+脑损伤 ，而 给予 GSH 类似物或 GSH 前体物可 明显减 
+轻损伤 。其可能的机制为 ，GSH 是体 内重要的抗氧 
+化剂 ，可清除过量的氧应激产物 ，并且能与蛋 白质形 
+成二硫化物 ，后者被称为蛋白质谷胱甘肽化 ，谷胱甘 
+肽 化 的蛋 白质 可 降低 神 经元 氧 应 激 损伤 [61。此外 ，
+ 
+GSH 还是调 节氧化．还原转化的信 号分子 ，GSH 的缺 
+失可导致 Fos过表达 ，进而引起神经元凋亡p 。本实验 
+发现 ，再灌注后 6 h GSH 含量 、GPx 活性较高的神经 
+元 ，其后受到的损伤较小 ，与 以上观点一致 。 
+人参是祖国传统 中药资源中应用最为广泛的药物 
+之一 ，人参皂甙 Rgl 是人参 活性成分 中已提纯 的重要 
+单体 活性成分 ，已发现具有抗疲 劳 、抗衰老 、抗癌 、 
+降血脂 、增强记忆力 、提高免疫力等药理作用 。近几 
+年人们发现人参皂甙Rg l 可以经减少谷氨酸释放 、抑 
+制凋亡 、营养神经等作用 。卅，对抗脑缺血损伤。另有 
+在体实验发现 ，人参皂甙 Rg l 具有抗氧化应激反应的 
+功能 ，保护缺血再灌注的心 、肾器官减轻损伤 ，并在 
+抗衰老 、保护帕金森病黑质神经元等方 面发挥作用 
+“ 。 
+。 本实验通过离体细胞模型发现 ，人参皂甙R g l 减 
+少脱糖 氧再灌注神经元 GSH 、GPx 的缺失 ，在脑缺血 
+时也可发挥抗氧化作用 ，对抗脑缺血损伤 。不过 目前 
+人参 皂甙 Rgl 对 缺糖氧神 经元抗 氧化作用 的报道较 
+少，其具体的作用机制尚需进一步研究明确。人参皂 
+甙 Rg l 对脑缺血的保护作用可能涉及多项机制 ，根据 
+本研究结果 ，我们认为人参皂甙 Rgl 可减轻缺糖 氧神 
+经元抗氧化成分 的缺失 ，该机制可能在脑保护过程中 
+发挥重要的作用 。 
+综上所述 ，氧化应激反应在脑缺血再灌注损伤 中 
+起重要作用 。本实验经研究发现 ，人参皂甙 Rg l 可对 
+抗脑缺血时的氧化损伤 ，保 护脑组织 ，其机制可能与 
+人参皂甙 Rgl 减轻 GSH 缺失 、提高 GPx 活性有关。本 
+实验结果丰富了人参皂甙R gl 的脑保护研究 ，但其具 
+体作用机制还有待于进一步 阐明。 
+l参考文献1 
+—
+1115
+一 
+[ 1】Jiang X ，Mu D ，Manabat C，et a1．Dif erenti al vulnerability of  
+immature murine neurons to oxygen-glucose depri vati on 【J】．
+ 
+E xp Neurol，2004，190( 1) ：224—232． 
+【2】江 山，姜正林 ，曾因明，等．九种人参 皂甙单体抗 脑缺血 损伤作 
+用研究【J ]．中药药理与临床，2007，23(2)：19．20．
+ 
+【3】周宜灿 ，陈晓春 ，朱元贵，等．人参 皂苷 Rg 1可能通过抗 氧化作 
+用来保 护帕金森 病 鼠黑质神经元【J】．中国临床药理学与治疗 
+学，2003，8(3) ：273-277． 
+[4】彭彬，陈茂山，蒲莹，等．人参皂苷Rg l 延缓D．半乳糖大鼠脑衰 
+老 作用 及机 制 的初 步研 究 【J】-重 庆 医科大 学学 报，201l ，36 
+(4) ：4 19-422 ．
+ 
+[5】G otoh O，Yamamoto M，Tamura A，et a1．Ef ect of Y M 737，a 
+new glutathione analogue，on ischemic bra in edema 【J1．A eta 
+N eurochi~ 1994，60(supp1) ：3 18—320．
+ 
+[6】Shelton MD ，Chock PB ，Mieyal JJ ，et a1 ．Glutaredoxin：role in 
+r eversib le p rotein S -g lu tath ion y lation  and  r egu lati on  of  re do x 
+signal tran sduction an d protein translocation 【J]．A ntioxid Re— 
+dox Signal，2005，7(3-4 )：348-366．
+ 
+[7】Fra telli M ，G oodwin L O，Orom U A ，UA ，et a1．Gene expre s— 
+sio n pr ofi lin g  rev eal s a sign al ing  r ol e o f  g lu tathi on e i n redo x 
+regulation [J ]．Proc Natl A cad Sci U  S A ，2005，102(39)：
+ 
+139 9 8．14 00 3 ．
+ 
+【8] 石永江，罗雪，王永红，等．人参皂甙Rgl 和 Rbl 对培养大鼠室 
+管 膜前下 区神经干 细胞谷氨 酸兴奋毒性 的保护作用及 其与 
+STAT3 表 达 的 关 系 [J 】．国 际 脑 血 管 病 杂 志，2007，15(3)： 
+172 —176 ．
+ 
+[9] Chen X C，Zhu Y G ，Wan g X Z ，et a1．Protecti ve ef ect of ginsen— 
+oside Rgl on dopamine—induced apoptosis in PC12 cell [J】．Ac- 
+ta Phannacol Sin，2001，22(8) ：673—678．
+ 
+【10] 崔荣 太，蒲传强，刘洁晓，等．人参皂甙 Rgl对 大 鼠局灶性脑缺 
+血后侧脑 室下区神经干细胞增殖分化 的影响 【J 】．中华老年心 
+脑血管病杂 志，2007，9( 10)：707．709．
+ 
+【11] L iu K ，Abe T ，Sekine S，et a1 ．E xperimental study on the scar — 
+en gi ng ef ec ts of  g in sen os id es o n o xy gen fl ee r adi ca ls u s in g 
+model of  heterotopic heart tran splan tation in rats [J】．A nn T ho— 
+rac C ardiov asc Surg，1 998，4(4)：1 88-1 91．
+ 
+【12] Y okozawa T，Liu ZW Dong E ．A stu dy of  ginsenoside-Rd in a 
+renal ischemia—reperfusion model [J ]．Nephron，1998，78(2)：
+ 
+2 0 1．20 6 ．
+ 
+(收稿 日期 ：2012．07．31) 
+http：／／www．
+cjrtponline．
+com 

@@ -1,0 +1,745 @@
+研究报告
+2023 年第 49 卷第 10 期(总第 478 期) 131
+ 
+DOI:10. 13995 / j. cnki. 11 - 1802 / ts. 033189
+引用格式:柯锋,林韡,童国强,等. 单方人参泡制酒不同浸泡时间对风味和活性成分的影响[ J]. 食品与发酵工业,2023,49(10):
+131 - 138. KE Feng,LIN Wei,TONG Guoqiang, et al. Effects of different soaking time on the flavor and bioactive compounds
+of ginseng Baijiu[J]. Food and Fermentation Industries,2023,49(10):131 - 138.
+单方人参泡制酒不同浸泡时间对风味和活性成分的影响
+柯锋,林韡,童国强,乐细选,万朕,吴鑫,倪书干,罗高建,易翔,管莹,祝成,李澜奇
+∗
+(劲牌有限公司,劲牌研究院,中药保健食品质量与安全湖北省重点实验室,湖北 大冶,435100)
+摘 
+要 
+小曲清香型白酒作为配制酒和露酒的常用基酒,用来泡制人参酒非常合适。 该文系统性地研究了单方
+人参泡制酒随着浸泡时间的延长,酒体中人参皂苷的浸出量、风味口感以及色谱骨架成分的变化规律。 该文采
+用了液液微萃取结合气相色谱-质谱联用 ( liquid-liquid microextraction-gas chromatography-mass, LLME-GC-MS),
+以及 HPLC 等技术,基于单方人参不同浸泡时间建立了人参皂苷浸出量数学模型,色谱骨架成分的层次聚类模
+型和多元变量分析模型。 该研究通过不同浸泡时间的人参泡制酒的品质识别并结合饮用口感和功能成分含量,
+为人参泡制酒的合理浸泡时间提供理论参考。
+关键词 
+人参泡制酒;人参皂苷;感官评定;色谱骨架成分;数学模型;多元变量分析
+第一作者:柯锋(硕士,中级工程师)和林韡(学士,中级工程师)为共同第一作者(李澜奇中级工程师为通信作者,E-mail:21513082@ zju. edu. cn)
+ 
+ 
+基金项目:湖北省重点研发计划项目(2020BBA050)
+收稿日期:2022-08-03,改回日期:2022-08-17
+ 
+ 
+人参指的是五加科植物的干燥根及根茎
+[1] 。 人
+参的主要活性成分为人参皂苷,人参皂苷的种类多达
+30 余种,不同品种的人参皂苷种类也有所不同,比如
+高丽参中就含有多达 34 种人参皂苷成分,远远高于
+花旗参的 13 种和三七参的 15 种
+[2] 。 在众多种类的
+人参皂苷中,含量最多的种类以 Rb1、Rb2、Rc 为代表
+的人参 二 醇 和 以 R e、 Rg1、 Rf 为 代 表 的 人 参 三 醇 为
+主
+[3] 。 然而人参皂苷的生物利用度低,仅为 2. 63% ,
+主要是因为人参皂苷是一种非极性分子,其水溶性较
+差,却可以溶于乙醇,将人参浸泡于酒中,使皂苷充分
+浸出,溶于酒中并加以服用是提高其生物利用度的一
+个重要途径
+[4] 。
+虽然白酒的主要成分是乙醇和水,约占总重量的
+98% ,但其余的 2% 的多种微量香味物质决定着酒类
+品质、风格与典型性
+[5] 。 白酒中可检出的微量风味
+物质多达 2 400 余种,其主要成分包含酯、醇、酸、醛、
+酮类以及萜烯类、芳香族、含硫含氮类、甾醇类等其他
+风味物质成分
+[6] 。 白酒中的这些微量风味成分划分
+为色谱骨架成分、协调成分和复杂成分 3 个部分。 色
+谱骨架成分约占微量成分总量的 95% 以上,在白酒
+中占优势地位,是白酒中的主干成分,这些物质组分
+的含量、相互之间的量比关系,是构成酒体丰 满、协
+调、优质的 关键
+[7] 。 因此,为研究酒体品 质和风味,
+必须从剖析酒体的色谱骨架等微量成分入手
+[3] 。
+感官评价是利用人的感觉器官( 眼睛、鼻子和舌
+头)观色、闻香、品味来鉴别酒质量的一门检测技术,
+通过对酒的品评能够指导生产工艺,发现酿酒工艺是
+否正常、发酵是否正常、操作是否精细
+[8] 。 单纯的色
+谱骨架成分指标无法准确地衡量酒体的品质好坏,只
+有将感官评定和色谱数据结合起来分析,才能综合判
+定酒体的风味特征
+[9] 。
+小曲清香型白酒作为配制酒和露酒的常用基酒,
+其风格特点为柔和醇厚,谐调净爽,清香纯正,口感淡
+爽,能够更容易被消费者所接受
+[10] 。 用来泡制人参
+酒非常合适,泡制酒随着浸泡时间的延长,人参中的
+人参皂苷会逐渐浸出,溶于酒中
+[11] 。 截至目前,人参
+的浸泡时间对人参皂苷的含量、酒体色谱骨架成分以
+及酒体风味的影响,还未见相关资料报道。 本研究的
+意义在于为不同浸泡时间的人参泡制酒进行品质的
+识别,结合饮用口感和功能成分含量,为人参泡制酒
+的合理浸泡时间提供基础数据和科学依据。
+1 
+材料与方法
+1. 1 
+材料与试剂
+本实验采用的基酒为劲牌公司 ( 湖北,大冶) 酿
+造的小曲清香型原酒,酒精度为 52% vol;长白山干人
+参(吉林集安,人工种植) 购自吉林白山传奇健康药
+业有限公司,通过秋季采挖,洗净烘干而成;人参皂苷
+食品与发酵工业
+FOOD AND FERMENTATION INDUSTRIES
+ 132
+2023 Vol. 49 No. 10 ( Total 478)
+Re、Rg1、Rf、Rc、Rb1、Rb2 的标准品,中国药品生物制
+品检定所,人参皂苷标准品加甲醇制成每 10 mL 含
+0. 2 mg 的混合溶液,摇匀作为对照溶液备用
+[3] 。
+乙醛、乙缩醛、异戊醛、甲醇、正丙醇、正丁醇、异
+丁醇、仲丁醇、正戊醇、正己醇、2-甲基-1-丁醇 ( 异 戊
+醇 1)、3-甲基-1-丁醇( 异戊醇 2)、乙酸、丙酸、丁酸、
+异丁酸、戊酸、异戊酸、己酸、庚酸、辛酸、甲酸乙酯、乙
+酸乙酯、乙酸丁酯、丁酸乙酯、戊酸乙酯、异戊酸乙酯、
+乙酸异戊酯、己酸乙酯、己酸丁酯、乳酸乙酯、癸酸乙
+酯、苯乙酸乙酯、棕榈酸乙酯、油酸乙酯、亚油酸乙酯、
+β-苯乙醇、2,3-丁 二 醇、糠 醛、醋 嗡、2-丁 酮、2-辛 醇、
+2-乙基己醇 ( 均 为 色 谱 纯, 纯 度 大 于 97% ), Sigma-
+Aldrich;乙腈、无水乙醇、二氯甲烷( 均为色谱纯),北
+京迈瑞 达 科 技 有 限 公 司; 本 实 验 所 用 的 水 均 为 超
+纯水。
+1. 2 
+仪器与设备
+AB135-S 十 万 分 之 一 电 子 分 析 天 平, 美 国 梅 特
+勒-托利多公司;IDC12H 氮吹仪,上海安谱科技有限
+公司;7890B-5977C 气质联用仪、DB-FFAP 毛细管色
+谱柱(60 m × 0. 25 mm,0. 25 μm)、ZORBAX Eclipse
+XDB-C18 液相 色 谱 柱 ( 4. 6 mm × 250 mm,5 μm)、
+1260 Infinity Ⅱ Prime 高效液相色谱仪,美国安捷伦
+科技有限公司。
+1. 3 
+实验方法
+1. 3. 1 
+样品的制备
+综合人参酒酒体颜色( 人参太多则颜色过深,而
+且苦味过重,太少则没有效果)、消费者对浸泡人参
+形态的需 求 ( 整 只 人 参 浸 泡, 喝 完 后 可 续 酒 继 续 浸
+泡),制定人参浸泡酒配方:取整只长白山干人参,质
+量为(84 ± 6) g,浸润于 5 个不同批次的 52 ° 4. 8 L
+小曲清香型白酒酒基中,置于地下陶缸中 20 ℃ ,阴
+凉、密封、避光贮存,分别于 15、30、60、90、120、180 d
+摇匀取样,共取得试验酒样 30 个。 其中每组中 5 个
+不同批次浸泡的酒样均被视作是平行样品
+[11] 。
+1. 3. 2 
+HPLC 测定人参总皂苷含量
+参考 GB / T 22996—2008《 人参中多种人参皂甙
+含量的测定 液相色谱-紫外检测法》 的方法来测量人
+参总皂苷的含量
+[8] 。 液相色谱柱为 C18 柱,以乙 腈
+为流动相 A,以水为流动相 B,梯度洗脱,初始 A 相为
+19% ,维持 35 min 之后,逐步在第 55 min 升至 29% ,
+维持至第 70 min,最后在第 100 min 升至 40% ,B 相
+则对应地减少,检测波长 203 nm,进样量 10 μL,根据
+保留时间定性,色谱峰面积定量,利用标准品的标曲,
+计算样品中人参皂苷 Re、Rg1、Rf、Rc、Rb1、Rb2 的含
+量,六者含量之和作为人参总皂苷的含量
+[12] 。
+1. 3. 3  
+液 液 微 萃 取 ( liquid-liquid microextraction,
+LLME)
+内标溶液的配制:内标混合溶液包含叔戊醇( in-
+ternal standard 1, IS 1,13 mg / mL),为醇类内标;乙酸
+正戊酯 ( IS2,15 mg / mL), 为 酯 类 内 标;2-乙 基 己 醇
+(IS3,10 mg / mL),为有机酸及其他物质内标。 将标
+准化合物溶解在体积分数为 55% 的乙醇溶液中,制
+备已知质量浓度的混合标准储备液,梯度稀释成系列
+混合标准液,于 4 ℃ 下避光密封保存 3 个月
+[13] 。
+参考孙细珍等
+[14] 的方法,采用 LLME 的方法提取
+酒样的香气物质。 取 4 mL(V1 ) 样品加入 20 μL 内标
+使用液,用超纯水稀释至 10% vol,加入 NaCl 至饱和,
+再加入 2 mL(V2)二氯甲烷进行提取,振摇 5 min,超声
+10 min,以 8 000 r / min 的转速离心 5 min,收取上层萃
+取的有机相,向合并后的有机相中加入无水 Na2SO4 干
+燥,置于 - 20 ℃ 冰箱中过夜脱水,过滤后的提取液用
+氮气缓慢浓缩至约 0. 5 mL,所得浓缩液用于 GC-MS
+分析。
+1. 3. 4 
+GC-MS 分析
+气相色谱条件:进样口温度为 250 ℃ ,载气为高纯
+氦气(纯度 ≥ 99. 999% ),不分流进样;DB-FFAP 色谱
+柱(60 m × 0. 25 mm × 0. 25 μm),流速 1. 4 mL / min;柱
+温箱 升 温 程 序: 起 始 温 度 50 ℃ , 保 持 1 min, 再 以
+3. 5 ℃ / min 升至 160 ℃ ,保持 1 min,再以 5 ℃ / min 升
+至 220 ℃ ,最后以 25 ℃ / min 升至 250 ℃ ,保持 5 min;
+进样量 1 μL
+[15] 。
+质谱条件:电 子 轰 击 离 子 ( electron impact ion,
+EI) 源,能量 70 eV,温度 230 ℃ ,四级杆温度 150 ℃ ,
+辅助通道加热温度 280 ℃ ,溶剂延迟 10 min,扫描质
+量范围 20 ~ 500 amu;扫描方式:先采用全扫描模式
+进行定性分析,并对仪器参数进行优化。 以待测物与
+相应内标物的峰面积比为纵坐标,质量浓度比为横坐
+标,建立内标标准曲线。 确定目标化合物及对应内标
+物的保留时间及特征离子,对质谱图解析后进行分
+组,采用选择离子模式(single ion monitoring, SIM) 进
+行定量分析,采用内标标准曲线法进行定量
+[16] 。
+1. 3. 5 
+GC-MS 定量分析
+样品经过 LLME 前处理流程处理后,将试样溶液
+注入气相色谱-质谱仪中,测得目标化合物与对应内
+标物的峰面积,根据内标标准曲线,按公式(1) 计算
+样品中目标化合物的含量
+[17] 。
+研究报告
+2023 年第 49 卷第 10 期(总第 478 期) 133
+ 
+Xi = Ci × V2 × 2
+V1
+(1)
+式中:X i,样品中目标化合物的质量浓度,mg / L;C i,
+试样经标准曲线计算得到的目标化合物 质量浓度,
+μg / L;V1,取酒样的体积,4 mL;V2,使用萃取溶剂二
+氯甲烷的体积,2 mL;2,转换系数。
+计算结果以重复性条件下获得的两次独立测定
+结果的算术平均值表示。
+1. 3. 6 
+人参皂苷浸出量随时间变化曲线的数学模型
+的建立
+人参皂苷从植物细胞中由于浓度梯度的原因扩
+散至酒中,有被动转运的特点,因此人参皂苷浸出量
+随时间的变化曲线遵循一级动力学反应模型,可以根
+据公式(2)来进行非线性拟合回归分析
+[15] 。
+Ct = C∞ (1 - e
+- kt)
+(2)
+式中:C t 是在时间 t(d)释放的人参皂苷的质量浓度,
+mg / L;C ∞ 是人参皂苷的平衡浓度,k 是人参皂苷的释
+放速率常数,d
+- 1 [18] 。
+1. 3. 7 
+人参泡制酒风味特征的定性与定量表达
+参考 GB / T 23470. 2—2009 《 感官分析 感官分
+析实验室人员一般导则 第 2 部分:评价小组组长的
+聘用和培训》 ,直 接 挑 选 8 名 有 经 验 的 专 业 白 酒 评
+委组成感 官 评 价 小 组,其 中 国 家 级 评 委 3 名,省 级
+评委 5 名,对以小曲清香型白酒为基酒浸泡的人参
+泡制酒的感官特性进行讨论,确定了人参酒的 8 个
+感官描述属性( 清香、酯香、药香、苦味、甜味、酸味、
+谐调、净 爽)
+[19] 。 实 验 采 用 随 机 双 盲 实 验 的 方 式,
+感官评价小 组 在 专 业 的 品 酒 室 内 嗅 闻 及 品 尝 提 供
+的实验酒样,测试 员 将 30 个 酒 样 分 为 6 轮,每 轮 5
+杯,酒 杯 采 用 GB / T 10345—2022 《 白 酒 分 析 方 法 》
+所述郁金香形状的白酒专用品酒杯,每杯酒体积恒
+定 20 mL,酒样被随机编码,随机呈送,感官 评 价 小
+组在专业品酒室嗅闻并品尝提供的实验酒样,每次
+嗅闻 30min 后进行评价,每个轮次间隔 30 min,要求
+评价人员对 使 用 的 每 个 描 述 语 根 据 自 身 感 受 到 的
+强度采用 5 分 制 进 行 特 征 性 定 量 描 述:0 表 示 无,
+3 表示中等,5 表 示 强,0 ~ 5 所 代 表 的 强 度 依 次 增
+强
+[17] 。 根据 8 名 评 价 人 员 的 评 价 结 果 参 考 GB / T
+39625—2020《 感官分析 方法学 建立感官剖面的导
+则》 绘制感官风味剖面图
+[20] 。
+1. 3. 8 
+数据处理
+所有样品的 5 个批次均被视为平行值,测定结
+果以均值 ± 标 准 差 表 示,试 验 数 据 使 用 SPSS 22. 0
+采用方差分析( analysis of variance, ANOVA) 进行邓
+肯( Duncan) 差异分析,均以 P < 0. 05 作为显著性差
+异的衡量 标 准,使 用 Origin 软 件 中 的 BoxLucas1 函
+数对人参皂 苷 浸 出 量 的 浓 度 随 时 间 变 化 的 曲 线 进
+行一级动力学方程的非线性拟合,拟合结果的好坏
+程 度 由 决 定 系 数 R
+2 ( coefficient of determination,
+COD) ,以及校正的决定系数 R
+2
+Adj( root mean squared
+error, RMSE) 来综合判定。 将所检测的 42 种色谱
+骨架成分进行 Z-score 标 准 化 法 [ X = ( x - x
+- ) / SD]
+处理,并在 R 语言中利用 pheatmap 工具包进行层次
+聚类热图的绘 制。 使 用 SIMCA13. 0 软 件 进 行 正 交
+偏最小二乘判别分析 ( orthogonal projections to latent
+structures- discriminant analysis, OPLS-DA) , 根 据 变
+量重要性因 子 ( variable importance in the projection,
+VIP) > 1、P < 0. 05 的 标 准,对 以 上 30 个 样 品 的 定
+量结果进行差异性分析,并筛选出具有显著差异性
+的色谱骨架成分
+[21] 。
+2 
+结果与分析
+2. 1 
+人参皂苷浸出量随时间变化曲线的数学模型
+基于人参皂苷浸出量的浓度随时间变化的公式
+(2) 可以计算浸出速率常数 k 和人参皂苷的平衡浓
+度 C ∞ 。 由图 1 可知,在浸泡的时间段内,随着浸泡
+时间延长,酒体中人参总皂苷含量持续增加。 由表
+1 可知,拟合曲线的参数可 以 进 一 步 定 量 预 测 人 参
+总皂苷的最大浸出浓 度 为 (796. 34 ± 7. 37 ) mg / L。
+当人参浸泡时间为 180 d 以后,曲线的斜率 逐 渐 趋
+近于零,人参皂苷的浸出量不再增加。 根据表 2 模
+拟出的模 型 参 数,我 们 可 以 得 出,人 参 皂 苷 浸 出 量
+随时间 变 化 的 曲 线 函 数 公 式 为 C t = 796. 34 × 1 -
+e
+- 0. 028t) ,其中决定系数 R
+2 ( COD) ,以及校正的决定
+系数 R
+2
+Adj( RMSE) 均为 0. 99,表 示 模 型 拟 合 的 效 果
+非常好。
+图 1 
+人参皂苷浸出量随着浸泡天数变化的拟合曲线
+Fig. 1 
+Fitting curve of the concentration of released
+ginsenoside over soaking days
+食品与发酵工业
+FOOD AND FERMENTATION INDUSTRIES
+ 134
+2023 Vol. 49 No. 10 ( Total 478)
+表 1 
+人参皂苷浸出量随时间变化曲线的模型参数
+Table 1 
+Modelling parameters of the concentration of
+released ginsenoside over soaking days fitting curve
+模型
+公式
+C ∞
+k
+Reduced Chi-Sqr
+R2(COD)
+R2
+Adj(RMSE)
+BoxLucas1
+C t = C ∞ (1 - e - kt)
+796. 34 ± 7. 37 0. 028 ± 8. 25E - 4
+89. 36
+0. 99
+0. 99
+2. 2 
+人参泡制酒的感官特征构成
+通过对人参泡制酒进行定量感官评价,参考小曲
+清香型白酒风味轮的建立方法,筛选出了能够表达人
+参泡制酒风味特征的主要风味描述语,其中包括 3 个
+香气的特征描述语:清香、酯香、药香;3 个口味的描
+述语:苦味、甜味、酸味;2 个口感的描述语:谐调、净
+爽,总计共 8 个主要的特性指标进行整体评价,结果
+取平均值绘制不同浸泡时间的人参泡制酒的风味剖
+面图
+[22] 。
+由图 2 可知,不同浸泡时间的人参泡制酒的 香
+气、口味和口感特征上均存在较大的差异。 从对酒体
+香气上的指标来看,浸泡时间为 15 d 时,能够保持良
+好的清香,在这以后的时间均出现了较为明显的下降
+(P < 0. 05),酯香则是在 60 d 开始才出现了较为明
+显的下降;而药香则 是 在 30 d 及 以 后 才 较 为 明 显。
+这表明 随 着 浸 泡 时 间 延 长, 酒 体 的 人 参 气 味 越 发
+明显。
+从对酒体口味上的指标来看,除了 15 d 和 30 d
+苦味较轻之外,60 d 及以后苦味均较重。 酸味则是
+在 120 d 时相比于其他时间,较为明显;甜味则是在
+15 d 和 30 d 的时候甜度较大,60 d 以后甜度有了较
+为明显的下降。 这表明随着浸泡时间延长和人参总
+皂苷的浸出,酒体口感逐渐偏苦,说明浸泡 15、30 d
+酒体口感相对较佳。
+从对 酒 体 口 感 上 的 指 标 来 看,浸 泡 时 间 为 15、
+30、60、90 d 时对酒体的谐调,净爽均无明显的影响,
+浸泡时间为 120、180 d 时酒体的谐调与净爽均出现
+了较为明显的下降。 这表明随着浸泡时间延长,特别
+是在浸泡 120 d 以后,酒体整体呈现出小曲清香型白
+酒的典型特征不再明显。
+综合人参泡制酒特征的关键指标来看,如果不外
+加糖源去减轻人参泡酒特有的苦味来改善口感的话,
+人参浸泡时间在 30 d 以下的时候比较合适。 如果外
+加糖源来改善人参泡酒的口感,使之整体上较为均
+衡,可以延长至 90 d,此时对酒体的整体谐调,净爽的
+口感风格不会有明显的影响。
+2. 3 
+酒体色谱骨架成分层次聚类热图分析
+构成酒体中主要风味的微量色谱骨架成分主要
+包含酯、醇、酸、醛、酮类及其他风味物质成分 ( 主要
+为萜烯类、芳香族、含硫含氮类、甾醇类物质等),本
+次研究采用 LLME-GC-MS 对小曲清香型原酒进行定
+性定量分析
+[21] 。 在挥发性关键香气成分中,筛选出
+酒体中的骨架成分共 42 种,所属于酸类(9 种)、醛类
+(4 种)、醇类(11 种)、酯类(16 种)、酮类(2 种)。
+图 2 
+人参泡制酒的感官评价风味剖面图
+Fig. 2 
+Sensory evaluation of ginseng Baijiu
+通过对酒体色谱骨架成分进行层次聚类热图分
+析,观测样本的质量。 如图 3 所示,每个小方格代表
+一种骨架成分物质,颜色深浅表示物质含量( 浓度)
+的大小,蓝色表示含量低,红色表示含量高,颜色越深
+表示含量越低或者越高;上方色块区域表示不同浸泡
+时间的人参泡制酒样本的聚类分析结果,左侧树状图
+表示不同骨架成分物质聚类分析结果。
+横向来看,色谱骨架成分大致可以分成两大类
+群,A 类群随着人参浸泡时间的延长,色谱骨架成分
+的含量最终出现了下降的趋势,这一点很可能由于浸
+泡的人参为干人参,容易吸收酒,浸泡的时间过长导
+致人参细胞溶胀,酒体内的小分子风味物质反向渗入
+人参中导致的,在浸泡 180 d 以后特别明显,A 类群
+恰恰包含了决定小曲清香型白酒的特征风味成分,比
+如乙酸乙酯,乳酸乙酯,正丙醇,异戊醇,乙酸等。 这
+也从侧面印证了随着浸泡时间的延长,人参酒的基酒
+特征风味发生了明显的变化。 B 类群则是随浸泡时
+间的延长,其成分无明显变化,也无特定规律的变化
+趋势,这些类群主要以高级脂肪酸酯为主,比如棕榈
+酸乙酯,亚油酸乙酯,苯乙酸乙酯等,这些物质的化学
+性质较为稳定,不会随着浸泡时间的变化而有较大的
+改变,从整体上来看,A 类群的分子质量要明显小于
+B 类群的分子质量,因为小分子相对于大分子而言较
+容易被反向渗入,因此 A 类群分子含量出现了明显
+研究报告
+2023 年第 49 卷第 10 期(总第 478 期) 135
+ 
+的下降,而 B 类群的变化并不明显。
+纵 向 来 看,按 浸 泡 时 长 来 分,样 品 大 概 可 以 分
+成三大 类,短 期 ( 浸 泡 15 d) ,中 期 ( 30、60、90、120
+d) 和长期(180 d) ,浸 泡 短 期 与 浸 泡 中 期 样 品 的 色
+谱骨架成分差别并不明 显,然而到了浸泡 180 d 以
+后,样品与 其 他 时 间 形 成 了 较 为 明 显 的 对 比,以 A
+类群为代表的大量色谱骨架成分均出现了下降( 呈
+现蓝色) 。
+图 3 
+人参泡制酒的色谱骨架成分含量的层次聚类热图分析
+Fig. 3 
+Hierarchical cluster heatmap analysis of chromatographic skeleton components in ginseng Baijiu
+2. 4 
+色谱骨架成分化合物差异判别分析与关键色谱
+骨架成分的筛选
+酒体组成中 98% 是乙醇和水,另外 2% 的微量成
+分种类繁多复杂并存在交互作用,决定着人参酒的风
+味与质量,因此很难通过简单的数据分析获得有效的
+变量,为有效区分不同浸泡时间段的人参酒,并明确
+两者酒体的骨架成分含量差异来源,本研究采用多元
+统计方法对样品进行分析
+[21] 。
+根据获得的数据进行主成分分析( principal com-
+ponent analysis,PCA),并且依据 2. 3 中层次聚类的结
+论,把样本分成 3 个类别,以揭示样本的分布并检测
+异常值,其中 PCA 各个特征根的碎石图如图 4-A 所
+示。 第一主成分(PC1)占方差的48. 0% ,第二主成分
+(PC2)占方差的 24. 6% ,第三主成分(PC2) 占方差的
+20. 8% 。 前 3 个分量(PC1、PC2 和 PC3) 共同解释了
+93. 5% 的方差,这表明使用 3 个主成分去分析能够
+拥有很好的模型解释率。 根据 Hotelling's T
+2 绘制置
+信椭圆(图 4-B),默认显著性水平为 0. 05。 位于椭圆
+外的观测被认为是异常值,用此方法排除了一个异常
+值(浸泡时间为 180 d 的 5 号样品),它超过了 95%
+的置信区间。
+由此绘制 PCA 的得分图( 图 4-C) 和载荷图( 图
+4-D)。 由图 4-C 可知,不同浸泡时间的人参泡制酒能
+够进行很好地区分,浸泡时间为 15 d 的样品聚集在
+得分图的最右侧,浸泡时间为 180 d 的样品聚集在得
+分图的最左侧,其余时间的样品聚集在得分图的中
+部。 人参浸泡时间的长短导致挥发性化合物存在显
+著差异,同一浸泡时间段的人参酒的样品重复聚类紧
+密,这表明我们的分析方法具有出色的重现性。 图
+4-D 则反映了对应的色谱骨架的分布,可以看出大部
+分的色谱骨架分子位于坐标轴的右侧,而少量的色谱
+骨架分子则位于坐标轴左侧,这也从侧面印证了随着
+人参浸泡时间的延长,部分色谱骨架分子的含量呈现
+出减少的趋势。
+由于不同浸泡时段的人参酒在色谱骨架成分上
+较为接近,因此采取有监督,有限制条件的多元变量
+统计分析模型
+[22] 。 该方法可以预先对所需的观察变
+量进行分组,根据级别性质对数据进行统计分析,从
+而精确地获悉影响分组的关键变量。 本研究基于 5
+个不同批次的小曲清香型白酒酒基浸泡的 6 个不同
+时间段的人参浸泡酒的样品,通过 PCA 和Hotelling's
+T
+2 判定,筛选出的剩下的 29 个样本建立了有监督性
+食品与发酵工业
+FOOD AND FERMENTATION INDUSTRIES
+ 136
+2023 Vol. 49 No. 10 ( Total 478)
+的 OPLS-DA 模型,进一步识别出特定的标记化合物。
+模型通过 k 折交叉验证( k = 7) 进行验证。 模型的方
+差解释率( R
+2Y) 和方差预测率 ( Q
+2 ) 分别为0. 960 和
+0. 947,这 2 个值均接近于 1,这表明该模型的建立是
+成功的。 为了检验 OPLS-DA 有无过拟合,防止得到
+一致假设而使假设变得过度严格,进行随机分组 200
+次的置换检验,用已知测定数据变量 X 对预测变量 Y
+进行多次迭代分析, 并得出一个对这些变量的统计
+结果。 图中 5-A 中所有的 Q
+2 均在 R
+2 之下,而且 Q
+2
+截距 < 0,这表明模型没有过拟合。
+A - 碎石图;B - Hotelling's T2 判定图;C - 得分图;D - 载荷图
+图 4 
+人参泡制酒的色谱骨架成分含量的 PCA
+Fig. 4 
+PCA of chromatic skeleton components in ginseng Baijiu
+ 
+ 
+利用 OPLS-DA 模型可以分析 VIP 从而量化每个
+变量对分类的贡献值,如果 VIP 值越大,变量在不同
+类别 间 的 差 异 就 越 显 著
+[22] 。 根 据 VIP 值 > 1、 P <
+0. 05的标准,从 42 个色谱骨架成分中共筛选出 19 种
+化合物,它们是区分不同浸泡时间的人参酒样品的标
+志差异骨架成分,结果如图 5-B 所示。 这些化合物的
+含量与比例关系对以小曲清香为基酒浸泡的人参酒
+的 香 气 特 征 与 酒 质 有 着 重 要 的 影 响, 比 如 乙 酸
+(VIP = 1. 374),乙酸乙酯( VIP = 1. 219) 为小曲清香
+型白酒的典型风味分子,它的含量从某种程度上决定
+了清香型白酒的品质
+[23] ;异戊醇(VIP = 1. 064) 入口
+微甜,刺激性较强,带有一定的爽口的苦味
+[24] ;乳酸
+乙酯(VIP = 1. 056) 的气味相对于乙酸乙酯较弱,沸
+点较高,会使得乙酸乙酯的挥发性相对降低
+[25] ;正丙
+醇(VIP = 1. 028) 在一定的浓度范围内,口味会出现
+类似清香型小曲酒落口后干爽带苦的特点,若浓度过
+低则不会出现这种口味特征
+[26] 。 总体上来说这些化
+合物大部分均位于 2. 3 结论中的 A 类群,这些物质
+随着人参浸泡时间的延长而最终有所降低。
+A - 置换检验图;B - 变量重要性因子图
+图 5 
+人参泡制酒的色谱骨架成分含量的 OPLS-DA
+Fig. 5 
+OPLS-DA of chromatographic skeleton
+components in ginseng Baijiu
+研究报告
+2023 年第 49 卷第 10 期(总第 478 期) 137
+ 
+3 
+结论
+本研究基于人参泡制酒的酒体色谱骨架成分检
+测和感官品评等数据,分析不同人参浸泡时间对人参
+皂苷浸出量,感官风味,以及色谱骨架成分的影响,主
+要结论如下:
+(1)通过对人参总皂苷浸出量随浸泡时间变化
+的曲线建立相对应的匹配模型,得出模型的函数公式
+为 C t = 796. 34 × ( 1 - e
+- 0. 028t ), 其 中 决 定 系 数
+R
+2(COD),以及 校 正 的 决 定 系 数 R
+2
+Adj ( RMSE) 均 为
+0. 99,表示模型拟合的效果非常好。
+(2)通过感官评定结果绘制风味剖面图,综合人
+参泡制酒的香气、口味和口感特征的关键指标,建议
+52°人参泡制酒最佳饮用期为浸泡 30 d;浸泡时间超
+过 30 d,可根据个人喜好适量添加糖源以调整口感。
+(3)通过层次聚类热图分析,样品大概可以分成
+三大类,短期(浸泡 15 d),中期(30、60、90、120 d) 和
+长期(180 d),不同类别之间的色谱骨架分子的差异
+较为明显,大量色谱骨架分子随着浸泡时间的延长而
+减少,少量的色谱骨架分子变化趋势并不明显。
+(4) 针 对 骨 架 成 分 的 定 量 结 果 建 立 了 相 应 的
+PCA 和 OPLS-DA 模型,结果显示不同浸泡时间的人
+参泡制酒能够进行很好地区分,模型能够很好地反映
+出样本的差异。 根据 VIP > 1、P < 0. 05 的标准,从 42
+个色谱骨架成分中共筛选出 19 种化合物,它们是区
+分不同浸泡时期的人参泡制酒的标志性差异色谱骨
+架成分。
+参
+考
+文
+献
+[1]  
+文连奎, 张微, 王立芳, 等. 人参发酵酒加工工艺优化[ J] . 食品
+科学, 2010, 31(22) :508 - 511.
+WEN L K, ZHANG W, WANG L F, et al. Preparation processing of
+ginseng-fermented wine[J]. Food Science, 2010, 31(22):508 -511.
+[2]  
+崔光泰. 高丽参的功效、药理和生理活性成分[ J] . 中国医药技
+术与市场, 2005(3) :47 - 51;65.
+CUI G T. Efficacy, pharmacology and physiologically active compo-
+nents of Korean ginseng[ J] . China Pharmaceutical Technology Ex-
+change, 2005(3) :47 - 51; 65.
+[3]  
+马帅, 刘新瑶, 林柯. 人参皂苷在人参发酵酒中变化规律的研
+究[ J] . 农产品加工, 2016(21) :8 - 9;13.
+MA S, LIU X Y, LIN K. Change law of ginseng saponins in Panax
+ginseng extraction research [ J] .
+Farm Products Processing, 2016
+(21) :8 - 9; 13.
+[4]  
+钟浩, 谢春阳. 人参发酵酒中人参总皂苷含量变化及其工艺优
+化[ J] . 农产品加工( 学刊) , 2013(15) :21 - 24.
+ZHONG H, XIE C Y. The change of ginseng total saponins content
+of ginseng fermentation wine and process optimization[ J] . Academ-
+ic Periodical of Farm Products Processing, 2013(15) :21 - 24.
+[5]  
+郑飞云, 姜甜, 董建军,等. 酒类主要风味物质对乙醇-水体系中
+氢键的影响[ J] . 食品科学, 2010,31(9) :106 - 112.
+ZHENG F Y, JIANG T, DONG J J, et al. Effect of main flavor sub-
+stances of alcohol on hydrogen bonding in ethanol-water system[ J] .
+Food Science, 2010,31(9) :106 - 112.
+[6]  
+熊燕飞, 马卓, 彭远松,等. 中国白酒风味成分的色谱分析方法
+研究进展[ J] . 中国酿造, 2019, 38(11) :1 - 5.
+XIONG Y F, MA Z, PENG Y S, et al. Research progress on chrom-
+atographic analysis of Baijiu flavor components[ J] . China Brewing,
+2019, 38(11) :1 - 5.
+[7]  
+汪玲玲. 酱香型白酒微量成分及大曲香气物质研究[ D] . 无锡:
+江南大学, 2013.
+WANG L L. Study on aroma components of the Chinese soy sauce
+liquor and Daqu[ D] . Wuxi:Jiangnan University, 2013.
+[8]  
+杨建兴, 宋曙辉, 徐 桂 花. 食 品 质 量 控 制 中 感 官 评 价 的 应 用
+[ J] . 中国食品工业, 2008(9) :58 - 59.
+YANG J X, SONG S H, XU G H. Application of sensory evaluation
+in food quality control[J]. China Food Industry, 2008(9):58 - 59.
+[9]  
+孙细珍, 熊亚青, 杜佳炜, 等. 不同品种高粱小曲白酒感官表征
+及重要风味物质对比分析[ J] . 食品与发酵工业, 2022, 48(9) :
+34 - 40.
+SUN X Z, XIONG Y Q, DU J W, et al. Comparative analysis of aroma
+compounds in Xiaoqu Baijiu fermented by different varieties of sorghum
+[J]. Food and Fermentation Industries,2022,48(9):34 -40.
+[10]  
+祝成, 童国强, 姜华龙, 等. 定量评价小曲清香型白酒典型感
+官特征的研究[ J] . 酿酒, 2022, 49(1) :83 - 89.
+ZHU C, TONG G Q, JIANG H L, et al. Study on typical sensory
+characteristics of xiaoqu Qingxiang Xing Baijiu by quantitative de-
+scription analysis[ J] . Liquor Making, 2022, 49(1) :83 - 89.
+[11]  
+张微. 人参发酵酒的研制[ D] . 长春:吉林农业大学, 2011.
+ZHANG W. Study on fermentation technology of ginseng wine[ D] .
+Changchun:Jilin Agricultural University, 2011.
+[12]  
+沈小梅, 刘露, 马雷, 等. 超高效液相色谱法同时测定人参酒
+中六种人参皂苷的含量[ J] . 酿酒, 2019, 46(3) :94 - 96.
+SHEN X M, LIU L, MA L, et al. Simultaneous determination of
+six ginseng saponins in ginseng wine by ultra-high performance liq-
+uid chromatography[ J] . Liquor Making, 2019, 46(3) :94 - 96.
+[13]  
+孙细珍, 熊亚青, 唐娟, 等. 液液微萃取结合气相色谱-串联质
+谱测定饮料 酒 中 挥 发 性 酚 类 化 合 物 [ J] . 食 品 与 发 酵 工 业,
+2022, 48(3) :257 - 265.
+SUN X Z, XIONG Y Q, TANG J, et al. Analysis of phenols in al-
+coholic beverages by liquid-liquid microextraction coupled with gas
+chromatography-tandem mass spectrometry[ J] . Food and Fermen-
+tation Industries, 2022, 48(3) :257 - 265.
+[14]  
+孙细珍, 杜佳炜, 张帆, 等. 应用顶空固相微萃取-气相色谱质
+谱技术解析天龙泉米香型白酒风味成分 [ J] . 酿酒, 2021, 48
+(5) :55 - 60.
+SUN X Z, DU J W, ZHANG F, et al. Analysis of volatile aroma
+components of tianlongquan rice-flavor liquors by headspace solid
+phase microextraction-gas chromatography mass spectrometry [ J] .
+Liquor Making, 2021, 48(5) :55 - 60.
+[15]  
+郑岳. 玉米、甘薯发酵液中脂肪酸测定方法的研究[ D] . 泰安:
+山东农业大学, 2014.
+ZHENG Y. Determination of fatty acid in fermentation broth of corn
+and
+sweet
+potato
+[ D ] .
+Tai'
+an:
+Shandong
+Agricultural
+食品与发酵工业
+FOOD AND FERMENTATION INDUSTRIES
+ 138
+2023 Vol. 49 No. 10 ( Total 478)
+University, 2014.
+[16]  
+孙细珍, 杜佳炜, 黄盼, 等. 现代工艺和传统工艺酿造小曲清
+香型白酒 感 官 表 征 及 风 味 成 分 分 析 [ J] . 食 品 科 学, 2021,
+42(6) :282 - 290.
+SUN X Z, DU J W, HUANG P, et al. Analysis of sensory charac-
+teristics and flavor components in light-flavor Chinese liquor( Bai-
+jiu) made with xiaoqu starter by modern and traditional technolo-
+gies[ J] . Food Science, 2021, 42(6) :282 - 290.
+[17]  
+王艳丽,李利荣,张肇元,等. 气相色谱-质谱法测定空气中 8 种
+挥发性酚类化合物的含量[ J] . 理化检验( 化学分册) , 2015,
+51(8) :1 159 - 1 162.
+WANG Y L, LI L R, ZHANG Z Y, et al. GC-MS determination of
+8 volatile phenols in air[ J] . Physical Testing and Chemical Analy-
+sis ( Part B:Chemical Analysis) , 2015, 51(8) :1 159 - 1 162.
+[18]  
+曲迪, 陈建波, 华梅, 等. HS-SPME-GC-MS 法分析不同辐照方
+式的人参酒挥发性成分[J]. 食品科技, 2019, 44(7):344 - 349.
+QU D, CHEN J B, HUA M, et al. Analysis of volatile components of
+ginseng liquor by different irradiation methods by HS-SPME-GC-MS
+method[J]. Food Science and Technology, 2019, 44(7):344 -349.
+[19]  
+祝成, 童国强, 易翔, 等. 基于风味轮原理对毛铺苦荞酒典型感
+官特征的研究[J]. 食品与发酵工业, 2019, 45(18):234 - 238.
+ZHU C, TONG G Q, YI X, et al. Typical sensory characteristics of
+Maopu Tartary Buckwheat liquor based on the principle of flavor wheel
+[J]. Food and Fermentation Industries, 2019, 45(18):234 -238.
+[20]  
+范玛莉,李震宇,李爱平,等. 偏最小二乘方法在不同食醋判别
+分析中的应用[ J] . 食品工业科技, 2014, 35(21) :324 - 328.
+FAN M L, LI Z Y, LI A P, et al. Application of partial least squares
+method in vinegar discriminant analysis[J]. Science and Technology of
+Food Industry, 2014, 35(21):324 -328.
+[21]  
+WANG Z, SUN X Z, LIU Y C, et al. Characterization of key aro-
+ma compounds in xiaoqu liquor and their contributions to the senso-
+ry flavor[ J] . Beverages, 2020, 6(3) :42.
+[22]  
+CHEN S, TANG J, FAN S S, et al. Comparison of potent odorants
+in traditional and modern types of Chinese Xiaoqu liquor ( Baijiu)
+based on odor activity values and multivariate analyses[ J] . Foods
+( Basel, Switzerland) ,2021,10(10) :2 392.
+[23]  
+孙细珍, 左可成, 唐娟, 等. 基于气相色谱-嗅闻-质谱技术结合
+化学计量法分析小曲清香型白酒醛异味成分[ J] . 食品与发酵
+工业, 2021, 47(16) :263 - 270.
+SUN X Z, ZUO K C, TANG J, et al. Analysis of aldehyde off-fla-
+vor compounds of Xiaoqu light flavor Baijiu based on GC-O-MS
+combined with chemometric method [ J] .
+Food and Fermentation
+Industries, 2021, 47(16) :263 - 270.
+[24]  
+王喆, 张梦思, 孙细珍, 等. 小曲清香型白酒中关键风味成分
+分析[ J] . 食品科学,2022,43(14) :264 - 271.
+WANG Z, ZHANG M S, SUN X Z, et al. Analysis of key flavor
+components in Xiaoqu light-aroma-type liquor[ J] . Food Science,
+2022,43(14) :264 - 271.
+[25]  
+张明珠, 吴学凤, 穆冬冬, 等. 不同香型白酒的风味物质及抗
+氧化作用分析[ J] . 食品工业科技, 2021, 42(11) :218 - 225.
+ZHANG M Z, WU X F, MU D D, et al. Analysis of flavoring sub-
+stances and antioxidant characteristics of different flavor Baijiu [ J].
+Science and Technology of Food Industry, 2021, 42(11):218 -225.
+[26]  
+孙宝国, 吴继红, 黄明泉, 等. 白酒风味化学研究进展[ J] . 中
+国食品学报, 2015, 15(9) :1 - 8.
+SUN B G, WU J H, HUANG M Q, et al. Recent advances of flavor
+chemistry in Chinese liquor spirits(Baijiu)[J]. Journal of Chinese In-
+stitute of Food Science and Technology, 2015, 15(9):1 -8.
+Effects of different soaking time on the flavor and bioactive
+compounds of ginseng Baijiu
+KE Feng,LIN Wei,TONG Guoqiang,YUE Xixuan,WAN Zhen,WU Xin,
+NI Shugan,LUO Gaojian,YI Xiang,GUAN Ying,ZHU Cheng,LI Lanqi
+∗
+(Hubei Provincial Key Lab for Quality and Safety of Traditional Chinese Medicine Health Food,
+Jing Brand Research Institute, Jing Brand Co. Ltd., Daye 435100, China)
+ABSTRACT 
+As the common base Baijiu of health Baijiu and liquor, Xiaoqu light-aroma Baijiu is very suitable for the ginseng soaking.
+With the extension of soaking time, the ginsenosides of ginseng will gradually leach out and dissolve in the liquor. In this paper, the
+effects of soaking time of ginseng on the leaching amount of ginsenoside, chromatographic skeleton composition and liquor flavor were sys-
+tematically studied by using liquid-liquid microextraction-gas chromatography-mass and high-performance liquid chromatography. Based on
+different soaking time of single ginseng, the mathematical model of the leaching amount of ginsenoside, hierarchical clustering model and
+multivariate analysis model of chromatographic skeleton composition were established. This study provided a theoretical reference for the
+rational soaking time of ginseng Baijiu by identifying the quality of ginseng Baijiu with different soaking time, combining drinking taste and
+functional component content.
+Key words 
+ginseng Baijiu; ginsenoside; sensory evaluation; chromatographic framework component; mathematical modelling; multiva-
+riate analysis

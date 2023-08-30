@@ -1,0 +1,997 @@
+32
+Speci al 、矾l d Economi c Ani mal and Pl ant Research
+特产研究
+DOI ：1 0．1 6720／j ．cnki ．tcyj ．2022．064
+基于网络药理学探讨人参治疗房颤的作用机制
+阚晨静1，2，高磊l ，一，陈昕1，2，徐盛松l ，2，3，石开虎1，2※
+( 1．南京中医药大学附属中西医结合医院心胸外科，江苏南京210028：2．江苏省中医药研究院，江苏南京210028；
+3．安徽医科大学第二附属医院心胸外科，安徽合肥230601)
+摘要：基于网络药理学探讨人参治疗心房颤动( 房颤，a仃i al 肋ri l l at i on，AF) 的分子机制。通过中药系统药理学数据库与分析平台
+( TCMSP) 和uni prot 数据库以及中药分子机制生物信息学工具( BATMAN．TCM) 获取人参的作用靶点；通过DmgBaI l k、0MI M、Di ．
+sGenet 、TTD及GeneCards数据库获取房颤的相关靶点；运用st ri ng 11．0数据库构建蛋白质一蛋白质相互作用( PPI ) 网络，并利用
+cyt oscape 3．7．1软件构建“ 药物一疾病一靶蛋白” 相互作用网络并筛选核心靶点；通过DAvI D数据库对人参作用于AF的靶点进行
+基因本体( G0) 分析及京都基因与基因组数据库( KEGG) 通路富集分析。结果显示，筛选得到人参靶点507个，房颤靶点2 176个；
+取交集得到人参与房颤相关靶点190个，核心靶点15个，KEGG富集信号通路129个。人参可通过cGMP．PKG信号通路、cAMP
+信号通路、TNF信号通路和心肌细胞。肾上腺素信号转导等调控离子通道、抑制炎症、调控细胞凋亡、抑制心肌纤维化与心脏重塑以
+及调节自主神经方面发挥治疗房颤的作用。
+关键词：人参；心房颤动；网络药理学；分子机制
+中图分类号：R285
+文献标识码：A
+文章编号：1001．472l ( 2022) 03．0032．11
+Expl orat i on Mechani smof 砌刀麟g锄sP馏C．A．Mey．i n t he Treat ment of
+At ri al Fi bri l l at i on Based on Net work Pharmacol ogy
+KANChen- j i n91，_，GAOLei l 一，CHEN Xi nl ，_，XUSheng- son91，2，v，SHI Kai - hul ，2※
+( 1．A伍l i at ed Hospi t al
+of I nt egrat ed Tradi t i onal
+Chi nese and West emMedi ci ne，Nanj i ng Uni vers时of Chi nese Medi ci ne，
+Nanj i ng 210028，chi na；2．J i angsu ProVi nce Academy of T’
+radi t i onal Chi nese Medi ci ne，Nanj i ng 210028，Chi na；3．The sec—
+ond Hospi t al of Anhui Medi cal
+Uni versi t 弘Hef ei 230601，Chi na)
+Abst ract ：To expl ore t he mechani smof 砌聍烈∥ 珊P馏C．A．Mey．i n t he t reat I nent of atri al 助ri l l ati on( AF) by t he net 、vork ph锄l acol o盱
+The act i ve componems and t he correspondi ng t a唱et s were col l ect ed t hrough TCMSPwi t h Uni prot dat abase aI l d BATMAN- TCM．The re—
+l at ed t a唱et s of AF were screened t hrough f i Ve di sease t a唱et dat abases，i ncl udi ng DmgBank，OMI M，Di sGenet ，TTD a11d GeneCards dat a—
+base．TheSTRI NG 11．0 da协basewasusedf orprot ei n—prot ei I l i nt eract i on( PPI ) ne柳ork；TheC” osc印e 3．7．1 wasusedt oconst mct menet —
+work of “ dmg—di sease- 协唱et ’ ’ ．Fi nal l y，t he gene ont ol ogy( G0) aI l d Kyot o encycl opedi a of genes and genomes( KEGG) e血chment anal ysi s
+of key t a玛et s were carTi ed out by usi ng t he DAVI D dat abase．Resul t s showed a t ot al of l 90 common t a唱et s and
+l 5 key t a玛et s rel at ed were
+obt ai ned，i ncl udi ng AKTl ，TNF，MAPK8，PRKACA，J UN，I Ll B，CASP3，et c．Fi nal l y，t here were 129 KEGGpat hways obtai ned．P口胛甜
+g扔s8增C．A．Mey．mi ght pl ay a rol e i n t reat i ng At ri al Fi bri l l at i on by regul at i ng i on channel s，suppressi ng i nnammat i on，regul at i ng印叩一
+t osi s，i I l l l i bi t i ng myocai di al 肋rosi s a11d cardi al
+remodel i ng，aI l d regul at i ng aut onomi c nerves t 11rough cgmp- pk si gl l al i I l g pat hway’
+cAMP
+si gnal i ng pat hway' TNF si gnal i ng pat hway’
+Adrene唱i c si gnal i ng i n cardi om- yocy把s and ot her si gnal i ng pat hways．
+Key words：心一饿g栅e馏’ C．A．Mey．；at ri aI f i bri l l at i on；net work phanl l acol ogy；mol ecul ar mechani sm
+收稿日期：202l 一12—17
+基金项目：江苏省自然科学基金面上项目( BK20191503) ；江苏省研究生科研创新计划( KYcx211719) ；江苏省研究生科研创新计
+划( KYCx201482) ；江苏省中医药研究院青年科学研究项目( QNKxYJ 202109)
+作者简介：阚晨静( 1995- ) ，女，江苏省南京市人，在读硕士研究生，从事中西医结合治疗心胸外科疾病研究。
+※ 通讯作者：石开虎( 1963．) ，男，安徽省合肥市人，教授，博士研究生导师，从事中西医结合治疗心胸外科疾病的研究工作。
+万方数据
+第3期
+阚晨静，等：基于网络药理学探讨人参治疗房颤的作用机制
+33
+房颤，是临床中最为常见的心律失常，其发病率随
+年龄的增长而增长。随着人口老龄化及其危险因素趋势
+的上升，心房颤动的发病率预计在未来会大幅增长[ 1] 。
+房颤临床表现为心悸、眩晕、胸部不适及气短等症状，
+根据《中西医结合内科学》可将其归为“ 心悸” 范畴[ 2] ，
+而根据中国中医药学会中医诊断专业委员会的规定，
+此病在中医学上归属于“ 心动悸” 范畴。心悸、心动悸的
+名称最早是在汉代张仲景《伤寒杂病论》中提出[ 3】，其
+病因是由诸种原因使心脏气机紊乱，心动异常，临床表
+现为以阵发心悸、胸闷、气短。
+人参为五加科植物人参( P口，2饿gf ，2J e，29 c．A．
+Mey．) 的干燥根、根茎。人参的药用历史有上千年，其抗
+心律失常的药理作用显著，且毒副作用少，临床应用广
+泓4] 。目前主要用于临床治疗房颤的中药方剂中，炙甘
+草汤、生脉散中均含有人参[ 5] ，生脉散更是以人参为君
+药，而在国家中医药管理局发布的《房颤的分级诊疗技
+术方案》中推荐的安神定志丸也是以人参为君药，此外
+临床运用治疗房颤的中成药参松养心胶囊、生脉注射
+液等的主要成分也含有人参，可见人参在房颤的治疗
+中起到重要作用，但人参治疗房颤的具体作用机制尚
+不明确。
+本研究基于网络药理学，从多向药理学进一步拓
+展分析人参对房颤的治疗作用靶点以及重要的信号通
+路，阐明人参在房颤中的作用机制，为后续临床以及基
+础研究提供一定的思路和依据。
+1资料与方法
+1．1
+人参的主要成分及靶点预测
+登录中药系统药理学数据库( TCMSP，ht t p：／／
+t cmspw．con价cmsp．php) 【6] ，以人参为关键词进行检索，
+获得人参所有的化学成分，包括化学成分的名字( mol —
+ecl uen锄e) 、生物利用度( OB) 和类药性( DL) 等信息。
+结合文献研究，将0B≥30％、DL≥O．18作为条件，筛
+选人参的潜在有效成分，并检索所有成分的靶点，利用
+Uni prot数据库( htIp：／／v州w．uni prot．o叫) [ 7] 将人参的有
+效靶点与人类相关基因相对应，获得人参潜在靶点；
+使用BATMAN—TCM( htcp：∥ bi onet．ncpsb．or{珈a衄an—
+t cl I l ／) [ 8】平台来预测人参的成分及其潜在作用靶标。将
+两个数据库所得结果进行整合筛选，得到人参的潜
+在作用靶点。
+1．2房颤疾病靶点预测
+通过在DmgBaIl l 【( https：／／go．d11l gbal l l 【．com) 【9] 、
+OMIM( h郇s：／／omj m．o吲) [ 10】、Di sGenet( htIps：伽nⅣw．di sge
+net．o叫) [ 11] 、TTD( http：／／db．i drbl ab．ne讹d／) [ 12] 和Ge—
+neCards( htcps：／／、^，、^nvgenecards．o叫) [ 13] 数据库中进行
+疾病靶点的检索，均以“ A仃i al Fi bri l l ati on” 为关键词查
+找筛选与房颤相关的基因。
+1．3药物成分一疾病靶点网络构建与分析
+将人参的靶点和房颤靶点导入在线作图软件Hi p．
+10t( https：∥ hi pl ot．com．cn) 绘制比例韦恩图，取得的交集
+靶点，即为人参治疗房颤的潜在靶点。筛选整合交集靶
+点及对应人参成分，将结果导入Cyt oscape 3．7．1，得到
+人参成分一房颤靶点网络。
+1．4潜在靶点蛋白互作( PPI ) 网络构建
+将药物一疾病交集靶点导入STRI NG( h郇s：／／
+www．st ri ng—db．o哕) [ 14] 数据库进行蛋白质相互作用
+( PPI ) 分析，得到人参作用于房颤的蛋白互作网络。
+1．5核心靶点筛选及其PPl 网络构建
+将所得PPI 信息导入C” oscape 3．7．1，根据连接
+度( degree) 、节点介度( Be觚ee皿ess Cen仃al 时) 、连接
+紧密度( Cl oseness Cent ral 时) 以及平均最短路径( Aver．
+age Short est PamLengt h) 筛选出核心靶点，再进行可视
+化，得到人参作用于房颤的核心靶点蛋白互作网络。
+1．6
+GO功能分析和KEGG通路富集分析
+将药物一疾病交集基因导入DAVI D 6．8数据库
+( https：／／daVi d．nci f- crfgov／) 【15] ，设置Sel ectIdenti fi er为
+“ 0FFI CI AL GENE SYMBOL” 、Li st Type为“ GeneL．
+i st ” 进行GO功能富集和KEGG通路富集分析，从
+生物功能及信号通路角度分析人参房颤的作用
+机制。
+2
+结果
+2．1
+人参的潜在作用靶点
+通过TCMSP数据库收集到人参195个化学成
+分，以OB≥30％、DL≥0．18为条件，筛选人参的潜在
+有效成分22个，通过uni prot 数据库找到人类相关靶
+点107个，含靶基因的有效成分17个。
+在BATMAN—TCM数据库中输入人参的完整拼
+音，以P<0．05，Scorecut of r>40为筛选条件进行
+检索，结果显示，人参的主要化学成分共293个，其中
+155个化学成分具有潜在靶点，106个成分具有Score
+cut of r>39的靶点。通过BATMAN—TCM数据库得
+到各成分对应的靶点基因，将所得靶点导入EXCEL
+并进行排除重复、合并统计，得到人参所含化学成分涵
+盖靶点基因共439个。
+将TCMSP和BATMAN—TCM两个数据库收集
+到的靶点取并集，共收集到人参的靶基因共计507个，
+含靶基因化学成分111个。
+万方数据
+34
+特
+产
+研
+究
+2022年第44卷第3期
+2．2药物成分一疾病靶点网络构建与分析
+通过DmgBank、OMI M、Di sGenet 、TTD和GeneC—
+ards这5个数据库检索，共获取房颤靶标基因2 176
+个；通过韦恩图( 图1) 分析发现，药物人参与疾病房颤
+共有190个交集基因，药物一疾病的基因映射率为
+37．5％，表明人参防治房颤存在确切作用靶点，对房颤
+的防治作用具有一定特异性。进一步手动筛选人参干
+预房颤靶点对应的成分，得到人参干预房颤的有效成
+分共94个，见表1。将结果导入Cyt osc印e3．7．1，以190
+个靶基因对应蛋白作为人参治疗房颤的靶点，建立人
+参成分一疾病靶点网络图。将靶基因设置为蓝色，人参
+成分设置为黄色，得到药物成分一疾病网络图，见图2。
+图1
+人参一房颤交集靶点韦恩图
+Fi g。1
+Venn dj agramOf gi nseng al r|a|f I bri |I at i On
+i nt ersecl i On t argel
+表1
+含房颤靶基因的人参化学成分
+Tabf e 1
+Gi nseng chemi caI cOnst _t uenl s cOnl ai ni ng
+al ri aI f i br．IIal i On l argel genes
+序号
+Number
+化学成分
+Chemi cal composi t i on
+序号
+Number
+化学成分
+Chemi cal Composi t i on
+l
+l 6—0xoserat enedi ol
+48
+Gamma- Si t ost eml
+2
+l —HeDt adecanoI
+49
+Gi nsenoI
+3
+1一T色t mdecanol
+50
+Gi nsenosi de F l
+4
+20( R) ．Gi nsenosi de R93
+5 1
+Gi nsenosi de La
+5
+20( S) ．Prot oDanaxadi ol
+52
+Gi nsenosi de Rbl
+6
+20．HexadecanoVl i ngenol
+53
+Gi nsenosi de Rb2
+7
+2．HeDt adecanone
+54
+Gi nsenosi de Rc
+8
+3，5．Di met hvl 一4一Met hoxybenzoi c Aci d
+55
+Gi nsenosi de Rd
+9
+Adeni ne
+56
+Gi nsenosi de Re
+l O
+Adenosi ne
+57
+Gi nsenosi de R91
+l 1
+Adenosi ne Tri phosphat e
+58
+Gi nsenosi de R昏
+l 2
+al exandri n
+qt
+59
+Gi nsenosi de Rh2
+l 3
+A1Dha—Cadi nol
+60
+Gi nsenosi de—La
+14
+Al Dha—Famesene
+61
+Gi nsenosi de—Rhl
+l 5
+Al pha—Guri unene
+62
+Gi nsenosi de—Rh4
+qt
+l 6
+Aposcopol ami ne
+63
+Gi ri ni mbi n
+l 7
+Aposi op01ami ne
+64
+Guanosme
+l 8
+arachi donat e
+65
+Hexadecanoi c Aci d
+l 9
+Aml osi de A
+66
+HumuI ene
+20
+Ar业i ni nvl —Fmct osVI ．Gl ucose
+67
+I nemi n
+2 1
+Bet a—Bi sabol ene
+68
+kaempf brol
+22
+Bet a。El emene
+69
+Mal onyl gi nsenosi de Rc
+23
+Bet a—Humul ene
+70
+Mal onyl gi nsenosi de Rd
+24
+Bet a—Sant al ol
+7 l
+Mal t ose
+25
+Bet a。Sel i nene
+72
+Mal vi c Aci d
+26
+bet a—si t ost eml
+73
+Mannose
+27
+Bi cycl ogemacrene
+74
+Ment hyl Acet at e
+28
+Bi ot i n
+75
+Met hyl
+Pal mi t at e
+29
+Cal arene
+76
+N一0ct ane
+30
+Campest eml
+77
+Not ogi nsenosi de Rl
+3 l
+Chi kuset susapOni n Ii i
+78
+Not ogi nsenosi de R2
+32
+Chi kuset susapOni n I v
+79
+Not ogi nsenosi de R4
+33
+Chol i ne
+80
+0ct anal
+34
+Ci t mnel l al
+8 l
+Pal mi t ol ei c Aci d
+35
+Dauri ci ne
+82
+Panaxadi ol
+36
+Del t a—El emene
+83
+Put rescj ne
+37
+DeI t a—Guai ene
+84
+St i gmast erol
+38
+Deoxyharri n2t oni ne
+85
+suchi l act one
+39
+Di ant I l rami ne
+86
+Sucrose
+40
+Di but vl oxal at e
+87
+Thuremi si n
+4 l
+Di but vl
+Pht hal at e
+88
+Tet radecane
+42
+Di op
+89
+Trans—Caryophyl l ene
+43
+E1emi ci n
+90
+1' ri decanoi c Aci d
+44
+EDsi l on—Cadi nene
+91
+Uri di ne
+45
+Fmt i none A
+92
+Vi t ami n B12
+46
+Fumari ne
+93
+Wi ddrol
+47
+Gamma．Sel i nene
+94
+Xyl ose
+万方数据
+第3期
+阚晨静，等：基于网络药理学探讨人参治疗房颤的作用机制
+35
+图2药物成分一疾病靶点网络图
+Fi g．2
+Drug compOnent —di sease l arget nel work di agram
+2．3潜在靶蛋白相互作用网络构建
+将药物一疾病交集基因编码蛋白导入STRI NG数
+据库，设置物种为“ Homo sapi ens” ，最低相互作用评分
+为高置信度“ hi ghconf i dence( 0．700) ” ，不显示网络中的
+单一节点，其余参数保持默认，获取蛋白互作关系，得
+到药物一疾病交集作用靶蛋白互作网络图( 图3) ，图
+中节点表示蛋白，连线表示蛋白之间的关联，人参一房
+颤交集作用蛋白共涉及190个节点，629条连线。
+2．4核心靶点筛选及其PPI 网络构建
+将所得PPI 信息导入Cyt oscape 3．7．1，筛选出连
+接度( degree) 值大于2倍数均值( Degree>14．7) 的
+靶点，再根据节点介度( Be觚eenness Central i ty，BC) 和
+连接紧密度( C10seness Cent ral i 饥CC) 大于均值( BC>
+0．02，CC>0．329) ；平均最短路径( Average Shonest
+Pat hLengt h，ASPL) 小于均值( ASPL<3．352) 筛选得到
+15个核心靶点，包括AKTl 、n师、MAPK8、PRKACA、
+J UN、I Ll B和CASP3等，提取核心网络，如图4。图中
+橙色圆圈表示核心靶点，其半径越大表示该靶点的de—
+gree值越大。
+万方数据
+36
+特
+产
+研
+究
+2022年第44卷第3期
+图3人参治疗房颤潜在作用靶点PPI 网络图
+Fi g．3
+PPI net wOrk di agramof pol ent i aj t argel s Of gi nseng i n t he l reat menl
+of at rIal
+f i b rI ¨ at i on
+cAcK^J c■ ■ ■ ■ ■ ■ 一15
+c旺B，■ ■ ■ ■ ■ ■ ■ ■ ■ ■ - ·
+一n- ■ ■ ■ ■ ■ ■ ■ ■ ■ 一- t
+H帅xl ■ ■ ■ ■ ■ ■ ■ ■ ■ _18
+ms3■ ■ ■ ■ ■ ■ ■ ■ ■ _-9
+嘲P9■ ■ ■ ■ ■ ■ ■ ■ ■ ● -。
+P蕊c一■ ■ ■ ■ ■ ■ ■ ■ ■ _，9
+cxcR4■ ■ ■ ■ ■ ■ ■ ■ ■ _，9
+c脚。■ ■ ■ ■ ● —■ ■ ■ ■ ■ ● zo
+I--B■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ _25
+娜■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ z，
+rRKA泓■ ■ ■ —■ ——■ —■ ■ ■ ■ ■ _zs
+t陌■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ —一z。
+脚xs——■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ _z。
+从tt■ ■ ■ ■ ■ ■ ■ ■ ● ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ _。s
+：冬酞式j
+0
+h
+i 0
+r5
+，0
+70
+{( )
+35
+40
+■ Dt ，En、t -
+图4人参治疗房颤核心靶点及PPI 网络
+Fi g．4
+COre t arget s and PPl
+net work of gi nseng i n t he t reat menl
+of at rIaI
+f i b ri ¨ at i on
+2．5
+GO功能分析结果
+对药物一疾病交集基因进行GO功能分析，以P<
+0．05为基准筛选，共获得681个功能富集，根据P值
+选取前10的信息进行可视化。药物一疾病交集基因
+G0功能分析提示，人参活性成分主要通过对药物的
+反应、调节离子跨膜转运、动作电位时膜去极化、突触
+后膜电位的调节、对缺氧的反应、衰老、钠离子跨膜转
+运、通过心脏传导调节心率、神经元动作电位和对脂多
+糖的反应等参与生物过程( Bi ol ogi cal Processes) ( 图5) 。
+在分子功能( Mol ecul ar Funct i ons) 方面( 图6) ，主
+万方数据
+第3期
+阚晨静，等：基于网络药理学探讨人参治疗房颤的作用机制
+37
+要涉及电压门控钠通道活性、酶结合、延迟整流钾通道
+活动、离子通道结合、药物结合、氧化还原酶活性、血红
+素结合、电压门控钾离子通道活性、黄素腺嘌呤二核苷
+酸( FAD) 结合和支架蛋白结合等。
+reguI 越i on of i on寸ansmemb帕ne f mnspo『t
+respon∞l o hpopoI y懿I cchande。
+sod¨ mi on口an涨mbrar培l 甩ns∞n
+memb怕ne depObr妇bondunng ad的npot 帅缸a卜
+re9u吼I Dn of posI sy怕pbc membrane poI enb翻’
+re驯bbon of h明rI ral e by∞rdi ac∞nduc仨∞‘
+在细胞组成( Cel l ul ar Component s) 方面( 图7) ，主
+要和电压门控钠通道复合物、质膜、电压门控钾通道复
+合物、质膜的组成部分、质膜穴样内陷、横小管、电压门
+控钙通道复合物、肌膜炎、细胞膜膜筏和闰盘等相关。
+Ge『l e Nunl beo
+图5人参治疗房颤的生物过程富集分析
+Fi g．5
+Bi OI Ogi cal PrOcesses en r．chment anaI ysi s Of gi nseng i n l he l reat ment of at ri aI f i br．¨ ati on
+vonage—gal ed∞di umchan∞I acl i 唧
+酬ay喇州行时pota鸫Iumchan怕I act i V竹
+vona驴‘
+gal ed pot a跚umchanneI a曲Vi l y
+f bvi nadenme dmucI l ∞nde bI nd．ng
+Gene Numbe
+图6人参治疗房颤分子功能富集分析
+Fi g．6
+MOI ecuI ar Funct i Ons en rI chment anaI ysi s Of gi nseng i n t he t reat ment
+of at rIal
+f i brI ¨ at i On
+- b910{ P垤I 岫)
+16
+1●
+12
+万方数据
+38
+特
+产
+研
+究
+2022年第44卷第3期
+帕I协舻一gaI鲥sodi 帅channd∞np融
+一联ma membmne‘
+旧I 协口e- gat 州pol as甜umchamd Oo．np融
+鳓叼raI ∞mpon¨ I of pIasma盯帅b哺怕
+Cav∞塘-
+T- hJ buI e·
+涮恒铲．口j l 鲥测cI哪chanMI oomp蛔
+摹a删emma
+memb憎ne ran·
+n怕r∞妇协d di 址
+G斟地Nunt bⅢ
+图7人参治疗房颤细胞组成富集分析
+Fi g．7
+Ce¨ ul ar COmponenl s enr．chment anal ysi s 0f gi nseng i n t he l real ment of at r．al f i b rI ¨ al i on
+2．6
+KEGG富集通路分析
+KEGG通路富集分析中以P<0．05为基准筛
+选，190个交集靶点基因显著富集在129条通路上。选
+取其中最有意义的20条通路( 表2) 作可视化处理，见
+图8。由表2可知，富集排名前20的通路是cGMP．
+PKG信号通路、cAMP信号通路、TNF信号通路、心肌
+‘
+b910{PW蚺
+细胞肾上腺素信号转导、血清素能突触、乙型肝炎、多
+巴胺能突触、细胞凋亡、查加斯病、吗啡成瘾、肾素分
+泌、结核、钙信号通路、非酒精性脂肪肝病( NAFLD) 、
+MAPK信号通路、胰岛素抵抗、弓形虫病、胆碱能突触、
+破骨细胞分化和催产素信号通路，提示人参通过作用
+以上多条通路发挥治疗房颤的作用。
+表2人参治疗房颤潜在靶点KEGG分析( 排名前20)
+TabI e 2
+KEGG anaI ysi s of pot ent i aI l arget s of gi nseng i n t he l real ment
+of al ri al f i br．I|al i on( top 20)
+编号I D
+名称Tem
+数量( 个)
+Quant 时
+J p值J p val ue
+hsa04022
+cGMP—PKG si gnal i ng pat hway
+25
+1．82E一1 3
+hsa04024
+cAMP si gnal i ng pat hway
+27
+5．53E一13
+hsa04668
+TNF si gnal i ng pat hway
+20
+4．15E- 12
+hsa0426 l
+Adrene唱i c si gnal i ng i n cardi omyocyt es
+22
+6．45E- 】2
+hsa04726
+Semt onergi c synapse
+29
+7．72E一1 l
+hsa0516l
+HeDat i t i s B
+2l
+1．34E．10
+hsa04728
+Dopami nergi c synapse
+1 9
+8．69E—l O
+hsa042 1 0
+Apopt osi s
+l 3
+1．62E—08
+hsa05 l 42
+Chagas di sease( Ameri can t rypanosomi asi s)
+l 6
+1．68E一08
+hsa05032
+Momhi ne addj ct i on
+15
+2．2l E．08
+hsa04924
+Reni n secret i on
+1 3
+236E—08
+hsa05 l 52
+Tubercul osi s
+20
+2．86E一08
+hsa04020
+Cal ci umsi gnal i n2 pat hwav
+20
+3．43E—08
+hsa04932
+Non．al cohol i c f at t v l i ver di sease( NAFLD)
+l 8
+7．97E—08
+hsa040 1 O
+MAPK si gnal i ng paChway
+23
+1．02E—07
+hsa0493 l
+I nsul i n resi st ance
+1 5
+2．04E．07
+hsa05 l 45
+T0xoDl asmosi s
+1 5
+2．58E．07
+hsa04725
+Chol i nergi c synapse
+l 5
+2．89E．07
+hsa04380
+ost eocl ast di f 琵rent i at i on
+1 6
+3．87E—07
+hsa0492 1
+Oxyt oci n si gnaI i ng pat hway
+l 7
+4．1 6E一07
+—1
+万方数据
+第3期
+阚晨静，等：基于网络药理学探讨人参治疗房颤的作用机制
+39
+l ube佗u10sI s
+TbxOdasmOsI s
+TNF sf gn圳仉g paI hway
+Se∞l OnergE synapse
+Renl n secTel bn
+Ox” oan sI gnaI 仉g paf hway
+Osl 眦Iasl
+dl f f erenl 口cmn
+Non．aI ∞ho№f a“ y 1l ver dI s∞se《NAFLO)
+MOrOhl ^e addd帕n
+MAPK s‘ gnaI’ ng pal hway
+}nsul l n resl sl ance
+He∞hbsB
+DOpammergc synapse
+ChO¨ ne‘
+9E s” apse
+Chagas dI sea∞( AmerJ can” ypanosom船sl s)
+cGMP—PKG s『gnaI ng paIh哪
+cAMP sl gnaI I ng pal hway
+CaI cI um sI gnaI mg pal hWay
+ApopI osf s
+Adrenergc s叼naI m9
+1n ca，dI omyoc” es
+图8人参治疗房颤KEGG通路富集分析
+Fi g．8
+KEGG pal hway enr．chmenl anal ysi s of gi nseng i n l he l real ment of al rIaIf ．b ri IIal i On
+3讨论
+房颤是临床中最为常见的心律失常，其机制主要
+分为电生理机制和病理生理学机制，病理生理学机制
+主要涵盖电重构、收缩性重构、结构重构、炎症、神经内
+分泌和自主神经系统等方面的学说。人参作为中国传
+统中药，主要功效为大补元气、复脉固脱、补脾益肺、生
+津和安神等。现代研究发现，人参抗心律失常的作用显
+著，毒副作用少，临床应用广泛[ 4] 。韩志龙等[ 16】研究发
+现人参皂苷Rgl 可通过抑制TNF一0【、I L—l p等改善大鼠
+心肌缺血再灌注损伤后的心律失常。人参皂苷Re、R臣、
+Rbl 和Rd可阻滞L．型钙离子通道电流，达到抑制心律
+失常的作用【17—20] 。人参皂苷Re、Rbl 可增加CX40、Cx43
+的表达，抑制心房缝隙链接的重塑[ 2l ，22] 。
+本研究发现，人参治疗AF主要涉及15个核心靶
+点，488个生理过程，65种分子功能，125个细胞组成
+以及128条信号转导通路。结果显示，人参治疗房颤
+的主要作用可能与其调控离子通道、抑制炎症、调控细
+胞凋亡和抑制心肌纤维化与心脏重塑和调节自主神经
+有关。
+3．1调控离子通道
+房颤的发病机制与心肌细胞内的离子稳态与离子
+通道改变有关【23] 。本研究发现，人参通过靶向PRKACA
+( 环磷酸腺苷依赖性蛋白激酶A，cAMP—dependent
+PKA的编码基因) ，并且参与调控cGMP—PKG信号通
+Pv■ "岫I O
+喾·
+● H
+● ∞
+● _
+路、cAMP信号通路、肾素分泌和心肌细胞肾上腺素信
+号转导通路等干预心肌细胞内的离子通道和离子电
+流。cGMP为细胞内第二信使，在心肌细胞中，可通过
+调控蛋白激酶G( PKG) 信号减少Ca2+释放，减轻钙超
+载[ 24] 。cGMP与cAMP之间交叉调节，控制心肌细胞
+内的Ca2+流。研究表明，cAMP激活PKA，可调控L一
+型钙通道开放，增加Ca2+内流[ 25] ，还能通过I WI 也磷
+酸化进而调节钙离子通道[ 26] ，参与房颤。肾素一血管紧
+张素一醛固酮系统( reni n—angi ot ensi nal dost erone sys．
+t em，RAAS) 的激活对于房颤的发生发展有重要作用。
+凡气AS的激活可增加心房肌中的L．型钙通道的密度[ 27] ，
+改变离子通道。人参可能通过靶向上述蛋白，参与上述
+信号通路，来维持心肌细胞内的Ca2+、默稳态和离子
+通道，从而对房颤产生有益作用。
+3．2抑制炎症
+在房颤的发生和维持过程中，炎症密切参与了其
+病理生理过程[ 28] 。研究表明，房颤与TNF—q、I L一1B等炎
+症因子有一定相关性，可诱导胶原过表达，影响胶原代
+谢，进而发生心肌纤维化，促进心脏的结构重构[ 29，30] ，
+并且在房颤患者的心肌组织中高表达[ 3l ，32] 。I L．1B还能
+通过激活基质金属蛋白酶( mat ri X met al l oprot ei nases，
+MMPs) 调节金属蛋白酶组织抑制因子( t i ssuei I l l l i bi t or
+of met al prot ease，TI MPs) 的活性，上调心肌中血管紧
+张素I I 受体ATl 来促进心脏结构重构，导致房颤[ 33，34】。
+]
+万方数据
+特
+产
+研
+究
+2022年第44卷第3期
+作为炎症启动因子的n师．Q和I L一1B，还能够刺激C．
+反应蛋白( C．react i ve prot ei n，CRP) 的合成，继而通过
+破坏心房肌细胞膜结构和炎症细胞浸润等途径导致房
+颤[ 35】。另外，TNF．Q可调节心房细胞内钙释放、心房神
+经丛，从而升高房颤触发几率，降低房颤阈值[ 36' 37] 。
+I L．1 B可激活右前心房神经丛，从而诱导房颤的发生[ 38】。
+可见，人参可以通过抑制炎症，推测其通过抑制I L．1D、
+n师信号通路和产生抗炎作用来影响房颤。
+3．3调控细胞凋亡
+发生房颤时，心脏组织中的细胞凋亡增加[ 39】，细
+胞凋亡与房颤密切相关⋯ 。心肌细胞发生凋亡时，有
+效心肌细胞减少，心肌限制纤维化增多，造成心脏的收
+缩功能降低和纤维化成分的增加，从而促进心脏的结
+构重构，参与房颤的心脏结构和功能的改变[ 41] 。研究
+表明在风湿性心脏病合并永久房颤患者的右心房组织
+中细胞凋亡及其关键酶Caspase．3表达增加，提示Cas—
+pase．3在房颤发病中起重要作用[ 42】。人参可能通过靶
+向Caspase．3和凋亡信号通路来调控心肌细胞的凋亡，
+从而发挥其抗房颤的功能。
+3．4抑制心肌纤维化与心脏重塑
+心脏的结构重构包括组织结构变化和细胞水平的
+结构变化。组织结构的变化可直接影响传导，主要包括
+心肌肥厚、心肌纤维化和脂肪浸润等。纤维化引起细胞
+外基质( ECM) 代谢失调，胶原表达增多，造成心肌细
+胞之间的传导延迟，使房颤更易维持[ 43】。缝隙连接是
+心肌细胞之间的主要连接方式，可维持正常的电偶联，
+相关蛋白为连接蛋白( CoI l I l ei xn，Cx) 43和Cx40。心肌
+纤维化会造成缝隙连接的重构，进而发生房颤[ 圳。产
+生ECM的细胞为心肌成纤维细胞，通过调节MMPs
+及其抑制剂TI MPs的平衡来促进心肌纤维化[ 45] 。AKT 1
+是蛋白激酶B，即AKT基因家族成员之一，为P13K
+的下游关键靶点，参与细胞活力和增殖的控制，抑制细
+胞凋亡和促进细胞周期进展，与心血管疾病密切相关㈨。
+周琳[ 47] 研究发现房颤患者心肌组织中的AKT、Gsk3p
+较窦律组表达更高，提示AKT参与了瓣膜病房颤的
+发生。AKT的磷酸化可升高Cx43的表达，降低恶性
+心律失常的发生率[ 48] ；MAPK8编码的ⅢK1为丝裂
+原活化蛋白激酶( mi t ogen．act i vat ed prot ei n ki nase，
+MAPK) 家族成员之一，又称为c．几腻N端激酶，可使
+几肘编码的c—J un磷酸化。研究表明，ⅢK可通过增
+强c—J un与Cx43启动子的结合，来减少Cx43的表
+达，从而发生房颤[ 49] ；研究表明，MAPK通路调控心肌
+成纤维细胞的增殖和迁移，影响胶原表达，靶向MAPK
+通路可减轻大鼠房颤[ 50] ；作为炎症因子的I L—l B也可
+以通过激活MMPs，调节TI MPs的活性，上调心肌中
+血管紧张素I I 受体ATl 来促进心脏结构重构，导致房
+颤[ 34，35] 。因此，人参可通过靶向AKTl 、MAPK8、I Ll B
+以及MAPK通路抑制心肌纤维化与心脏重塑，从而
+抵抗房颤。
+3．5调节自主神经
+长期的快速心房刺激可使心房肾上腺素能神经纤
+维密度增加，产生交感神经重构，影响心房的电生理活
+动[ 51] 。因此，人参可能通过心肌细胞。肾上腺素信号转
+导重构交感神经丛而干预房颤。
+综上所述，人参可能通过作用AKTl 、n师、MAPK8、
+P砌认CA、几肘、I Ll B和CASP3等相关靶点调节
+cGMP—PKG信号通路、cAMP信号通路、TNF信号通
+路、心肌细胞肾上腺素信号转导、细胞凋亡、。肾素分泌、
+钙信号通路及MAPK信号通路等多条AF相关通路，
+通过调控多种离子通道、抑制炎症与细胞凋亡、抑制心
+肌纤维化与心脏重塑以及调节自主神经等多个方面以
+发挥治疗AF的作用。本研究基于网络药理学探讨人
+参治疗AF的作用机制，体现了中药多成分、多靶点及
+多通路的特点，可为进一步开展细胞和动物等试验提
+供理论依据。
+参考文献
+[ 1】KI RCHHOF P，BENUSSI S，KOTECHA D，et a1．2016 ESC
+gui del i nes f or t he management of atri al 肋ri l l ati on deVel 叩ed
+i n conabomt i on wi t h EACTS[ 刀．Rev Esp Cardi ol ( En91 Ed) ，
+2017，70( 1) ：50．
+[ 2】蔡光先，赵玉庸．中西医结合内科学【M] ．北京：中国中医药出
+版社，2005：158．
+[ 3】王茹，王培利，王承龙．房颤的中医研究进展[ J 】．辽宁中医杂
+志，2020，47( 6) ：213．216．
+[ 4] 曹莹，李劭恒，袁硕，等．人参抗心律失常作用机制的研究进
+展【J 】．中草药，2021，52( 10) ：3157．3166．
+[ 5】毛慧芳，朱翠玲．中医药治疗房颤的研究进展[ J 】．中国民间疗
+法，2020，28( 2) ：103．106．
+[ 6] RUJ ，LI P，WANG J ，et al _TCMSP：a dat abase of syst ems phar—
+macol og) r f or dnl g di scov唧肋mherbal medi ci nes[ J 】．J Chem-
+mf oml ，2014，6：13．
+[ 7】I脚RoT C．Uni Prot ：a worl dwi de hub of pm蛐howl edge[ J ] ．
+Nucl ei c Aci ds Res，2019，47( 1) ：D506—515．
+[ 8】LI UZ，GUO F，WANG Y，et al _BATMAN- TCM：A bi oi n—
+万方数据
+第3期
+阚晨静，等：基于网络药理学探讨人参治疗房颤的作用机制
+f omat l cs
+anal ysl s
+t ool
+f br mol ecul ar mecl LANl smof ’ I’ radi -
+t i onal Chi nese Medi ci l l e【J ] ．Sci Rep，2016，6：21146．
+【9] WI SHART D S，FEUNANGY D，GU0 A C，et a1．DmgBaI l k
+5．0：A maj or updat e t o t11e DmgBank dat abase f or 2018[ J ] ．Nu-
+cl ei c Aci ds Res，2018，46( 1) ：D1074．1082．
+[ 1 0] AM[ BERGERJ ，BOCCHI NI C，HAMOSHA．A newf ace and
+new chal l en2es
+f or onl i ne mendel i an i nheri t ance
+i n man
+( 0MI M( R) ) 【J 】．HumMutaI，2011，32( 5) ：564．567．
+【1l 】PI NERO J ，RAMI REZ- ANGUI TA J M，SAUCH．PI TARCH
+J ，etal ．111eDi sG姗Thowl edgepl a仃。肌for di seasegeno疵s：
+2019 update[ J ] ．Nucl ei c Aci 凼Res，2020，48( 1) ：D845．855．
+[ 12] WANG Y' ZHANGS，LI F，et a1．Therapeut i c t a唱et dat abase
+2020：eI l ri ched resource f or f aci l i t at i ng research and earl y de．
+Vel opment of t argeI ed l bempeuti cs[ J 】．Nucl ei c Ac豳Res，2020，
+48( 1) ：D1031．1041．
+[ 13】RAPPAPORT N，TWI KM，PLASCHKES I，et a1．Mal aCards：
+an锄al gamated human di sease compendi umwi t h di verse cl i —
+ni cal and genet i c annot at i on and st mct l J red search[ J 】．Nucl ei c
+Aci ds Res，201 7，45( 1) ：D877．887．
+[ 14】SZKLARCZYK D，GABLE A L，LYON D，et a1．STRI NG
+v11：pmt ei n．prot ei l l associ at i on ne帆orks wi t l l i ncreased cover-
+唱e，supponi ng如nct i onal
+di scoVery i n genome．wi de experi _
+ment al datasets[ J ] ．Nucl ei c Aci ds Res，2019，47( 1) ：D607．613．
+[ 15】DENNI SGJ R，SHERMANB T，HOSACKDA，et al ．DAV—
+I D：Dat abase f or annot at i on，vi sual i zat i on，and i nt egrat ed di s．
+covery[ J ] ．Genome Bi ol ，2003，4( 5) ：3．
+[ 16] 韩志龙，王静，王连友，等．基于PPAR—Y探讨人参皂苷R91
+对大鼠心肌缺血再灌注后心律失常的调节作用[ J ] ．中国动
+脉硬化杂志，2019，27( 7) ：587．592+598．
+[ 17】陈彩霞，张宏艳．人参皂甙Re对异丙肾上腺素致家兔室性
+心律失常的保护作用[ J ] ．中国当代儿科杂志，2009，11( 5) ：
+384．388．
+[ 18】裴娟慧，张银辉，陈敬洲，等．人参皂苷Rbl 对大鼠心室肌
+细胞L型钙电流和瞬时外向钾电流的调控作用[ J 】．中国分
+子心脏病学杂志，2011，11( 4) ：230．234．
+[ 19] GOUD，PEI X，WANGJ ，et a1．Ant i arrhyt hmi c ef rect s of gi n-
+senosi de R臣oncal ci 啪chl ori de- i nduced a玎hyt hmi as wi m—
+out oral toxi c时[ J 】．J Gi nseng Res，2020，44( 5) ：7 17—724．
+[ 20] Lu c，SuNz，wANG L．I nhi bi t i on of L—t ype Ca( 2+) cun．ent
+by gi nsenosi de Rd i n rat vent ri cul ar myoc” es[ J ] ．J
+Gi nseng
+Res，2015，39( 2) ：169．177．
+[ 2l 】孔宏亮，李占全，苗志林，等．人参皂甙Rbl 对心力衰竭大鼠心
+肌缝隙连接蛋白43的影响[ J 】．天津医药，2013，41( 7) ：675．678．
+[ 22] ZHANG B，CUI X，J I N H H，et a1．Gi nsenosi de Re prevent s
+angi ot ensi n I I - i nduced gap- j unct i on remodel i ng by act i vat i on
+of PPARgamma i n i sol at ed beat i ng rat atri a[ J 】．Li fe Sci ，2017，
+190：36．45．
+[ 23】董丽君，许国军，周贤惠，等．心房肌钙转运调控蛋白的表达
+改变与增龄及心房颤动关系的实验研究[ J ] ．临床心血管病
+杂志，2015，3l ( 3) ：241．244．
+[ 24] SCHLOSSMANN J ，DESCHM．I RAG and novel PKG雠
+get i ng i n t he cardi ovascul ar syst em[ J 】．Am J Physi ol Hean
+Ci rc Physi ol ，2011，30l ( 3) ：H672—682．
+[ 25] HANTASHB M，THOMAS A P，REEvES J P．Regul at i on of
+t he cardi ac L- t) ，pe cal ci umch锄el i n L6 cel l s by a唱i ni ne-
+vasopressi n[ J ] ．Bi ochemJ ，2006，400( 3) ：411．419．
+[ 26] 杨珍，刘宇宁，余薇，等．鼢姨结合基序蛋白20在心肌病中作
+用的研究进展[ J 】．中国药理学通报，2019，35( 11) ：1505．1508．
+[ 27] 曹凡，高艳香，王勇．肾素．血管紧张素．醛固酮系统在心房颤
+动患者心房重构中的研究进展[ J ] ．心血管病学进展，2018，
+39( 4) ：528．531．
+[ 28] ZACHARI AE，PAPAGEORGl 0UN，I OANNOUA，et a1．In．
+f l 锄mato珂Bi omarkers i 11 A倒al F㈨l l al i on[ J 】．C附Med Ch锄，
+2019，26( 5) ：837．854．
+[ 29] YUT，ZHUW，GU B，et a1．Si mvast at i n anenuat es sympat h-
+et i c hyperi I l I l ervat i on t o preVent atri al 助ri l l ati on duri ng t he
+post myocardi al mf arct i onremodel i l l g process[ J ] ．J Appl P11ysi ol
+( 1985) ，2012，113( 12) ：1937—1944．
+[ 30] 吴卫，柯丹，许春萱，等．I 型胶原和白细胞介素．1B在心房颤
+动患者心房中的表达[ J 】．中华内科杂志，2006( 10) ：807．810．
+[ 31] 王长华，胡大一，汤楚中，等．慢性心房颤动患者右心耳
+I L．1B、I L一6和肿瘤坏死因子．a基因表达的研究[ J ] ．首都医
+科大学学报，2005( 2) ：111．115．
+[ 32】戴艳枝，王晓华，刘秋玲，等．白细胞介素．1B、白细胞介素．8
+及肿瘤坏死因子．a与房颤伴凝血功能异常的相关性[ J ] ．中
+国当代医药，2019，26( 23) ：4．7．
+[ 33】SI WI K DA，CHANGD L，COLUCCI WS．I nt erl euki n- 1bet a
+and t 11mor necrosi s f actor_al pha decrease col l agen syl l t hesi s
+and i ncrease mat ri x met al l oprot ei nase act i Vi t y i n cardi ac f i b-
+robl ast s i n vi tro[ J ] ．Ci rc Res，2000，86( 12) ：1259．1265．
+[ 34] GURANT z D，C0wLI NGR T' VARKI N，et a1．I L- 1bet a and
+1NF—al pha upregul at e angi ot ensi n II t ype 1( ATl ) recept ors
+on cardi ac f i brobl ast s and are associ at ed wi t h i ncreased ATl
+densi t ) r i n t he post —MI heart[ J 】．J Mol Cen Cardi ol ，2005，38
+( 3) ：505．515．
+[ 35] DERNELLI S J ，PANARETOU M．C．react i ve prot ei n aIl d
+paroxysmal
+at ri al f i bri l l at i on：eVi dence of t he i mpl i cat i on of
+an i nf l ammat o秽process i n paroxysmal
+at ri al
+fi bri l l ati on[ J ] ．
+Act a cardi ol ，2001，56( 6) ：375—380．
+[ 36] 左嵩，李林凌，蒋乐，等．月中瘤坏死因子Q对小鼠心房细胞内
+钙释放的急性调节作用[ J ] ．中国心脏起搏与心电生理杂志，
+2019，33( 3) ：236．239．
+[ 37] 王猛，王振亚，邓洁琳，等．肿瘤坏死因子a对心房神经丛功
+能和房颤阈值的影响[ J 】．中国心血管杂志，2018，23( 5) ：
+405．408．
+【38] 张倩倩，王梦龙，孟冠南，等．白细胞介素一l B对心房神经节丛
+功能及神经活性的影响[ J ] ．中国心脏起搏与心电生理杂志，
+201 8，32( 6) ：570．572．
+万方数据
+42
+特
+产
+研
+究
+2022年第44卷第3期
+[ 39] AI ME—SEMPE C，FOLLI GUET T，RUCKER- MARTI NC，et
+a1．Myocardi al
+cel l
+deat h i n舳ri l l at i ng锄d di l at ed h啪an
+ri ghta仃i a[ J 】．J AmCon Cardi ol ，1999，34( 5) ：1577—1586．
+[ 40] BRUNDEL B J ，AUSMA J ，Ⅵ～N GELDER I C，et a1．Act i va-
+t i on of prot eol ysi s by cal pai ns aI l d st rI J ct Ll ral changes i n human
+paroxysmal 锄d persi stent枷al 肋ri l l ati on[ J ] _Cardi oVasc Res，
+2002，54( 2) ：380．389．
+[ 41】柯丹，许春萱，张建成，等．心房颤动患者心房组织中明胶酶
+的基因表达及活性变化[ J ] ．中华心血管病杂志，2005( 2) ：
+37．42．
+[ 42] 陈运清，王琳，苏唏，等．风湿性心房颤动患者cal pai n．I／cal ．
+past at i n和caspase．3与细胞凋亡的关系及其作用[ J ] ．中华心
+血管病杂志，2006( 4) ：303．307．
+[ 43】VEI U{ EULE S，TUYLS E，VANHU嘲I K A，et a1．Fi bri l l a-
+t ory conduct i on i n t11e砌al
+f．ree waUs of goat s i n persi st ent
+a11d pemanent a仃i al 肋硎ati on[ J ] ．ci rc A曲yt hmEl ect ro—
+physi ol ，20 10，3( 6) ：590- 599．
+[ 44] SEvERS NJ ，BRUCE A F，DUPONT E，et a1．Remodel l i ng
+of g印j ul l cti ons aI l d co皿exi n exprcssi on i n di seased myocar-
+di um[ J 】_Cardi ovasc Res，2008，80( 1) ：9．19．
+[ 45] BERKBC，FU肌饿RAKLEHOU) ( S．ECM咖川el 崦i I l hy-
+p‘ 斌ensi ve heart di seaSe[ J 】．J Cl i l l hwe瓯2007，117( 3) ：568．575．
+[ 46] 李赛赛，李平，康楠，等．P13K／Akt 信号通路与心血管疾病关
+系的研究进展[ J ] ．北京医学，2021，43( 1) ：66．69+72．
+[ 47】周琳．Akt 、Gsk3B在瓣膜病房颤患者心房肌表达的变化及
+意义[ D】．济南：山东大学，2020．
+[ 48】苏枫．P13刚Akt 信号介导缺血预适应在心肌梗死猪中抗心
+律失常及心功能修复作用[ D] ．济南：山东大学，2015．
+[ 49】YAN J ，THOMSON J K，ZHA0 W：et a1．The st ress I【i nase
+ⅢKregul at es gapj unct i onCx43 gene expressi on and pmmo-
+t es at ri al f i bri nat i on i n t he aged heart[ J ] ．J Mol Cen Cardi ol ，
+2018．114：105- 115．
+[ 50】徐庆梅，莫辰，朱飞宇，等．二十二碳六烯酸介导MAPK途
+径抗房颤的作用及机制研究[ J ] ．蚌埠医学院学报，202l ，46
+( 1) ：1．5．
+[ 5 1】SAYGI LI E，SCHAUEI 汀E P，KUPPERS F，et
+a1．El ec打i cal
+st i mul at i on of sympat het i c neumns i nduces autocri ne／paracri —
+ne ef f ect s of NGF medi at ed by TrkA[ J ] ．J Mol Cen Cardi 01，
+2010，49( 1) ：79．87．
+( 上接第31页)
+运输和储存时破碎。
+3
+讨论
+本实验采用星点设计一效应面法优选降血脂片的
+3．1
+选择制粒方法
+成型工艺，优选最优处方并进行验证，结果良好，进一
+常见的制片方法有湿法制粒、干法制粒和直接压
+步证实该方法可用于工业生产。
+片等，其中湿法制粒法操作简单、成本低、载药量大，可
+广泛用于小试和工厂大规模加工[ 8] 。近几年来，粉末直
+参考文献
+接压片技术因为操作简单、产品崩解快及成品质量稳
+[ 1] 吴嘉朔，常晓燕，李壮壮，等牌泻汤降脂及抗炎作用分子机
+定等优点发展迅速，目前较多的制药企业倾向于采用
+制研究进展[ J 】．中国实验方剂学杂志，2021，27( 2) ：224—232·
+粉末直接压片技术[9]。但因中药提取物吸湿慨流动
+乜1鬻喜黧鬻慧需效应的研列刀· 心血管外科
+性差等特点，需要大量辅料校正其缺点，且直压辅料需
+[ 3] 许鹏飞，孙学斌，黄尹琦，等．决明子降脂有效成分的研究进
+特殊工艺制备，价格昂贵，国外产品优于国内，购买不
+展[ J ] _中华中医药学刊，2018，36( 1) ：150—153．
+易。辅料过多容易阻碍吸收，影响药物疗效，每日服用
+[ 4】国家药典委员会．中华人民共和国药典：一部[ M】．2020年版．
+量过大，故本实验采用湿法制粒。
+北京：中国医药科技出版社，2020：315—316·
+3．2评价指标的选择
+b1鬟I黧裟翥鬈原料吸湿行为研究ul 帼新
+本实验采用成型率、脆碎度和崩解时间等指标来
+[ 6] HAssANEE，PARJ sHRc，GALLo J M．opt i I l l i zedf omml a．
+评价成品。颗粒的成型率保证颗粒的成品率，是制剂评
+t i on of ma印et i c mtosaIl IIl i crospheres cont ai l l i l l g me锄t i caI 】cer
+价的重要指标。流动性会对制片过程产生重要影响，流
+ag吼嘲咖刁0l e[ J 】．Ph砌ac鲥cal 飚黝也1992，90) ：3吣397．
+动性的好坏会影响压片过程中模具的填充，会影响片
+[ 7] 曹兰，王英利，詹先成，等· 饱和溶液法和粉末吸湿法测定临
+黼重量差异。姗陛黝舯蒯型品质和稳定性吲：眢薹鬻鬈裟篡黧篡芸翥：裟
+重要的指标之一，因中药提取物易吸湿，使颗粒潮解、
+的影响[ J ] ．中南药学，2015，13( 6) ：587．590．
+变形，进而影响药物质量。脆碎度和硬度是影响片剂运
+[ 9】李金枝，冯金瑞，何恬，等．粉末直接压片技术及其辅料的应用
+输途中的重要因素，如硬度小，脆碎度大，会使片剂在
+与研究现状【J ] ．中国新药杂志，2015，24( 21) ：2467- 2470十2498．
+万方数据

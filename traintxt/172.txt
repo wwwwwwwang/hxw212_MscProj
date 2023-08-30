@@ -1,0 +1,633 @@
+第 13 卷 第 19 期 
+食 品 安 全 质 量 检 测 学 报 
+Vol. 13 No. 19 
+2022 年 10 月 
+Journal of Food Safety and Quality 
+Oct. , 2022 
+ 
+                            
+基金项目: 国家自然科学基金项目 (82004074)、吉林省教育厅科学技术研究项目(JJKH20210966KJ)、吉林省科技发展计划项目
+(YDZJ202201ZYTS683) 
+Fund: Supported by the National Natural Science Foundation of China (82004074), the Science and Technology Research Project of Jilin Education 
+Department (JJKH20210966KJ), and the Scientific and Technological Development Planning Foundation of Jilin Province (YDZJ202201ZYTS683) 
+*通信作者: 王思明, 硕士, 高级实验师, 主要研究方向为中药活性成分筛选及大健康产品开发。E-mail: lwsm126030@126.com 
+*Corresponding author: WANG Si-Ming, Master, Senior Engineer, Changchun University of Chinese Medicine, Changchun 130117, China. E-mail: 
+lwsm126030@126.com 
+ 
+人参总皂苷对过氧化氢诱导的红细胞氧化应激的
+抑制作用及机制研究 
+赵雨初 1, 乔巨慧 1, 倪伟峰 1, 白雪媛 1, 刘诗超 2, 刘美辰 1, 王思明 1* 
+(1. 长春中医药大学东北亚中医药研究院, 长春  130117; 2. 长春中医药大学教务处, 长春  130117) 
+摘  要: 目的  探讨人参总皂苷(total ginsenoside ginseng root, TGGR)对过氧化氢(hydrogen peroxide, H2O2)诱
+导的红细胞氧化应激的抑制作用及机制研究。方法  利用 70 mmol/L H2O2 氧化诱导大鼠红细胞 1 h, 建立红细
+胞体外氧化应激损伤模型。将大鼠红细胞随机分为对照组、模型组、TGGR 组(100 μg/mL)。评价 TGGR 对
+H2O2 诱导的红细胞的溶血率, 凋亡率, 红细胞形态, 高铁血红蛋白(met-hemoglobin, Met-Hb)、游离血红蛋白
+(free-hemoglobin, F-Hb)、活性氧(reactive oxygen species, ROS)、丙二醛(malonaldehyde, MDA)、三磷酸腺苷
+(adenosine triphosphate, ATP)的水平, 谷胱甘肽(glutataione, GSH)的含量, 抗氧化酶、Na+/K+-ATP 酶、
+Ca2+/Mg2+-ATP 酶、糖酵解关键酶的活力, 以及 Band 3 蛋白表达水平的影响。结果  100 μg/mL 的 TGGR 能
+显著降低 H2O2 诱导的红细胞溶血率及凋亡率、降低 Met-Hb 和 F-Hb 水平(P<0.001, P<0.05), 恢复红细胞形态, 
+并显著提高 GSH 含量、超氧化物歧化酶(superoxide dismutase, SOD)、过氧化氢酶(catalase, CAT)的活力
+(P<0.001, P<0.01, P<0.05), 显著降低 ROS 和 MDA 水平(P<0.01), 发挥氧化损伤保护作用; TGGR 可显著提高
+ATP 水平和 ATP 酶活性(P<0.05, P<0.01), 显著增强糖酵解关键酶活性, 上调 Band 3 蛋白的表达, 诱导糖酵解
+途径发挥抗氧化保护作用。结论  TGGR 通过上调 Band 3 蛋白提高红细胞糖酵解能力, 恢复细胞内氧化平衡, 
+从而抑制 H2O2 诱导的红细胞氧化应激。 
+关键词: 红细胞; 人参总皂苷; 过氧化氢; 氧化应激; 糖酵解途径 
+Study on the mechanism of total ginsenoside ginseng root inhibiting 
+oxidative stress of red blood cells induced by hydrogen peroxide 
+ZHAO Yu-Chu1, QIAO Ju-Hui1, NI Wei-Feng1, BAI Xue-Yuan1, LIU Shi-Chao2,  
+LIU Mei-Chen1, WANG Si-Ming1* 
+(1. Northeast Asian Institute of Traditional Chinese Medicine, Changchun University of Chinese Medicine, Changchun 130117, 
+China; 2. Academic Affairs Office, Changchun University of Chinese Medicine, Changchun 130117, China) 
+ABSTRACT: Objective  To investigate the protective and molecular mechanism of total ginsenoside ginseng root 
+(TGGR) on oxidative stress injury of red blood cells induced by hydrogen peroxide (H2O2). Methods  Red blood 
+cells were induced by 70 mmol/L H2O2 oxidation for 1 h to establish an oxidative stress injury model of red blood 
+6282 
+食品安全质量检测学报 
+第 13 卷 
+ 
+ 
+ 
+ 
+ 
+ 
+cells in vitro. The red blood cells of rats were stochastically divided into control group, model group and TGGR 
+group (100 μg/mL). Effects of TGGR on H2O2-induced red blood cells hemolysis rate, apoptosis rate, red blood cells 
+morphology, and the levels of met-hemoglobin (Met-Hb), free-hemoglobin (F-Hb), reactive oxygen species (ROS), 
+malonaldehyde (MDA), adenosine triphosphate (ATP), the content of glutathione (GSH), and the activities of antioxidant 
+enzymes, Na+/K+-ATPase, Ca2+/Mg2+-ATPase, key glycolytic enzymes, and the expression of Band 3 protein were 
+evaluated. Results  The 100 μg/mL TGGR could significantly reduce the H2O2-induced red blood cells hemolysis rate 
+and apoptosis rate, significantly reduce the levels of Met-Hb and F-Hb (P<0.001, P<0.05), restore the morphology of 
+red blood cells, and significantly increase the content of GSH, significantly improve the activities of superoxide 
+dismutase (SOD) and catalase (CAT) (P<0.001, P<0.01, P<0.05), significantly reduce the levels of ROS and MDA to 
+protect red blood cells against oxidative damage (P<0.01). TGGR could significantly increase the levels of ATP and 
+ATPases activities (P<0.05, P<0.01), significantly enhance the activities of key enzymes in glycolysis, and up-regulate the 
+expression of Band 3 protein to induce the glycolytic pathway to play an antioxidant protection role. Conclusion  TGGR 
+can improve the glycolysis ability of red blood cells by upregulating Band 3 protein, thereby restore the intracellular 
+oxidative balance and inhibite the oxidative stress of red blood cells induced by H2O2. 
+KEY WORDS: red blood cells; total ginsenoside ginseng root; hydrogen peroxide; oxidative stress; glycolyyic pathway 
+ 
+ 
+0  引  言 
+红细胞作为血液循环系统内数量最多, 更新速率最
+快的血细胞之一, 具备运输氧气、清除自由基、维持体内
+电解质平衡等特性[1]。成熟的红细胞缺乏细胞核和线粒体, 
+无法合成新的蛋白质以及降解细胞中的毒性物质, 因此特
+别容易受到氧化应激的影响[2]。作为最早受到机体氧化应
+激影响的细胞之一, 红细胞的变化指数被广泛用于疾病的
+诊断中, 是研究抗氧化应激损伤药物的最佳细胞模型[3‒4]。
+过氧化氢(hydrogen peroxide, H2O2)作为一种强氧化剂, 极
+易透过细胞膜扩散, 对细胞造成氧化损伤[5]。通过体外向
+细胞施加 H2O2 从而诱导细胞体外氧化应激的模型, 被证
+实可明显增加细胞中活性氧(reactive oxygen species, ROS)
+的积累, 可以直接用来评价细胞的氧化损伤程度, 是一种
+常用的抗氧化活性评估模型[6]。因此建立 H2O2 诱导的红细
+胞体外氧化损伤模型, 对于开发抗氧化应激药物具有重要
+的意义和参考价值。 
+人参(Panax ginseng C.A.Meyer)作为传统药食同源中
+药材, 拥有悠久的使用历史, 且因其具有诸多重要的生理功
+效, 而被广泛应用于保健食品的开发中[7]。人参总皂苷(total 
+ginsenoside ginseng root, TGGR)是人参中最重要的活性成分, 
+其抗氧化应激能力已经得到普遍证实, 故市面上的保健食
+品多利用 TGGR 抗氧化这一功效进行产品开发[8‒9]。但
+TGGR 对红细胞的氧化应激是否具有保护作用尚不清楚。
+已有的研究表明, TGGR 能有效清除含氧自由基, 进一步
+减少细胞氧化损伤及凋亡; 提高细胞内抗氧化酶活力, 并
+抑制丙二醛(malonaldehyde, MDA)生成, 从而提高抗氧化
+能力[10‒12]。目前的研究对氧化应激治疗所采用的主要策略
+是通过外源性抑制 ROS 产生或补充外源性抗氧化剂, 以改
+善患者的预后, 但成功率非常有限, 并且在氧化应激治疗
+过程中对于自由基的清除机制并未完全阐明[13]。因此, 迫
+切需要系统研究氧化应激的原因和发病机制。探索抗氧化
+应激药物或活性物质已成为治疗各类氧化损伤的关键途径
+之一。截止目前的研究中, TGGR 对红细胞氧化损伤的保护
+作用尚未见报道。本研究利用 H2O2 诱导的大鼠红细胞体
+外氧化应激模型, 深入探讨 TGGR 对红细胞氧化应激的保
+护作用及其机制, 对 TGGR 抗氧化作用的研究及以 TGGR
+为原料的健康食品的开发利用具有重要意义。 
+1  材料与方法 
+1.1  试剂与仪器 
+人参总皂苷(纯度≥80%, 上海源叶生物科技有限公
+司); 30% H2O2(分析纯, 广州西陇化工股份有限公司); 酶
+联免疫吸附(enzyme-linked immunosorbent assay, ELISA)检
+测试剂盒(No.202202, 上海优选生物科技有限公司); 钙含量
+显色检测试剂盒(No.102319200615)、三磷酸腺苷(adenosine 
+triphosphate, ATP)检测试剂盒(No.061821211119)、聚氰基丙
+烯酸正丁酯(bicinchoninic acid, BCA)蛋白浓度测定试剂盒
+(No.070721211115)、化学发光(efficient chemiluminescence, 
+ECL)试剂盒(No.090921220407)(上海碧云天生物技术有
+限 公 司 ); 超 微 量 Na+/K+ 、 Ca2+/Mg2+-ATP 酶 测 试 盒
+(No.20211117, 南京建成生物工程研究所); 磷脂结合蛋白
+V 偶联异硫氰酸荧光素(annexin V-FITC)细胞凋亡检测试
+剂盒(No.2119964, 美国 BD 公司); 抗 Band 3 兔单克隆抗体
+(5.3 µg/mL)、抗 β-肌动蛋白兔多克隆抗体(61 µg/mL)(美
+国 CST 公司); 辣根过氧化酶(horseradish peroxidase, 
+HRP)标记羊抗兔 IgG 多克隆抗体(1 mg/mL, 美国 Bioworld
+第 19 期 
+赵雨初, 等: 人参总皂苷对过氧化氢诱导的红细胞氧化应激的抑制作用及机制研究 
+6283 
+ 
+ 
+ 
+ 
+ 
+ 
+公司); 水合氯醛(分析纯, 天津福晨化学试剂有限公司); 
+磷酸盐缓冲液(phosphate buffer saline, PBS)(0.0067 mol/L, 
+美国 HyClone 公司); 0.9%生理盐水(四川科伦药业股
+份有限公司); 无水乙醇、戊二醛、叔丁醇(分析纯, 天
+津 市 汇 航 化 工 有 限 公 司 ); 苯 甲 基 磺 酰 氟
+(phenylmethanesulfonyl fluoride, PMSF)(纯度≥98%)、β-巯
+基乙醇(分析纯)、脱脂奶粉(食品级)、吐温-20(分析纯)、十
+二烷基硫酸钠(sodium dodecyl sulfate, SDS)(分析纯)(北京
+索莱宝科技有限公司); 硝酸纤维素膜(nitrocellulose filter 
+membrane, NC 膜)(北京 Biotrace 公司); 多聚赖氨酸细胞爬
+片(大连靓宜生物科技有限公司); 水合氯醛、十二水磷酸氢
+二钠(Na2HPO4ꞏ12H2O)、二水合磷酸二氢钠(NaH2PO4ꞏ2H2O) 
+(分析纯, 国药集团化学试剂有限公司)。 
+Infinite®200 Pro 型全自动酶标仪(瑞士 TECAN 公司); 
+SW-CJ-2FD 双人超净工作台(苏州苏净集团); MJX-430 恒
+温培养箱(浙江托普仪器有限公司); Mini spin 小型高速离
+心机(德国 Eppendorf 公司); Flow Sight 多维全景流式细胞
+仪(美国 Amnis 公司); Hitachi ES-2030 真空冷冻干燥仪、
+Hitachi E-1010 离子溅射仪、S-3400N 扫描电子显微镜(日
+本日立公司); Mini Protean 蛋白电泳仪、Mini Tans-Blot 半
+干转印仪(美国 Bio-rad 公司); iBright FL1000 凝胶成像仪器
+(美国 Invitrogen 公司)。 
+1.2  实验动物分组 
+30 只体重为 180~220 g 的无特定病原体(specific 
+pathogen free, SPF)级雄性 Wistar 大鼠(长春易思实验动物
+技术有限公司, 许可证号: SCXK(吉)-2020-0002), 按 5 只/
+笼的数量, 随机安置于不同的不锈钢笼中, 所有动物食水
+自由, 室温 25℃, 湿度 30%。适应性饲养一周后。用 10%
+水合氯醛麻醉大鼠。从腹主动脉抽取肝素化血液样本用于
+后续实验。实验动物饲养于长春中医药大学创实大厦实验
+动物中心 SPF 级实验室。所有实验均按照《实验动物使用
+和护理原则》(长春中医药大学动物研究伦理委员会, 证书
+编号 2020111)进行。 
+1.3  红细胞氧化损伤模型建立 
+取大鼠肝素抗凝的新鲜全血, 4℃下, 2500 r/min(离心
+半径为 194 mm, 下同)离心 10 min, 去除上清及中间层的白
+膜, 用3倍体积的PBS清洗3次, 得到红细胞积压液, 用0.9%
+生理盐水稀释成 6%的红细胞悬液。在 37℃恒温培养箱中, 于
+5% CO2 条件下, 用 H2O2 (60、70、80、90、100、110 mmol/L)
+或 TGGR (1、10、50、100、300、600 μg/mL)处理红细胞悬
+液 1 h, 对照组加入相同体积的生理盐水, 离心取上清液, 
+412 nm 下测定光密度(optical density, OD)值, 计算溶血率, 
+筛选出 H2O2 最佳造模浓度及 TGGR 安全剂量范围。 
+溶血率计算如公式(1):  
+溶血率/%=
+0
+A  100%
+A
+             (1) 
+其中, A 表示不同浓度 H2O2诱导后的 OD 值; A0表示对照组
+的 OD 值。 
+1.4  TGGR 对 H2O2 诱导的红细胞溶血的影响 
+按照 1.3 所述得到红细胞悬液。在 37℃恒温培养箱中, 
+于 5% CO2 条件下, 用 TGGR (1、10、50、100 μg/mL)预处
+理 1 h, 然后用 70 mmol/L H2O2 处理 1 h。4℃下 2500 r/min
+离心 10 min, 412 nm 下测定 OD 值, 根据公式(1)计算溶血
+率, 筛选出 TGGR 最佳给药浓度。 
+1.5  TGGR 对 H2O2 诱导的红细胞凋亡的影响 
+将 1×105个红细胞重悬于 200 μL PBS 缓冲液中, 再加
+入 5 μL annexin V-FITC, 充分混匀, 避光反应 15 min。利用
+Flow Sight 多维全景流式细胞仪分析细胞, 并使用 IDEAS
+软件 v6.1 分析数据。 
+1.6  红细胞扫描电镜 
+4℃下利用 2.5%戊二醛将红细胞固定在多聚赖氨酸细
+胞爬片上 1 h, PBS 缓冲液冲洗 3 次, 每次 10 min, 乙醇梯度
+脱水(30%、50%、70%、90%、100%), 每个浓度脱水 10 min, 
+将爬片浸泡在叔丁醇中, 于‒20℃下冷冻过夜, 然后进行
+真空冷冻干燥, 喷溅金属金 120 s, 使用 S-3400N 形扫描电
+子显微镜成像。 
+1.7  红细胞酶联免疫吸附实验 
+将 1×106 个红细胞加入到 150 μL 细胞组织快速裂解
+液(radio-immunoprecipitation assay, RIPA)中, 轻弹管壁裂
+解红细胞, 4℃下 10000 r/min 离心 5 min, 取上清液。利用
+ELISA 检 测 试 剂 盒 对 高 铁 血 红 蛋 白 (met-hemoglobin, 
+Met-Hb)、游离血红蛋白(free-hemoglobin, F-Hb)和谷胱甘肽
+(glutataione, GSH)的 含量, 超 氧化 物歧化 酶(superoxide 
+dismutase, SOD)、过氧化氢酶(catalase, CAT)、MDA、ROS、
+己糖激酶(hexokinase, HK)、丙酮酸激酶(pyruvate kinase, 
+PK)、果糖-6-磷酸激酶(fructose-6-phosphate kinase, PFK)的
+水平进行测定。 
+1.8  TGGR 对 H2O2 诱导的红细胞 ATP 含量的影响 
+将 1×106 个红细胞加入到 200 μL ATP 检测裂解液中, 
+轻弹管壁裂解红细胞, 4℃下 12000 r/min 离心 5 min, 取上
+清液。利用 ATP 检测试剂盒对红细胞 ATP 水平进行测定。 
+1.9  TGGR 对 H2O2诱导的红细胞 Na+/K+-ATP 酶及
+Ca2+/Mg2+-ATP 酶活力的影响 
+取 50 μL 红细胞加入 2450 μL 双蒸水, 涡旋混匀 30 s, 
+充分溶血(透光观察至溶液透亮)。利用超微量 Na+/K+、
+Ca2+/Mg2+-ATP
+酶 试 剂 盒 测 定
+Na+/K+-ATP
+酶 及
+Ca2+/Mg2+-ATP 酶的活性。 
+6284 
+食品安全质量检测学报 
+第 13 卷 
+ 
+ 
+ 
+ 
+ 
+ 
+1.10  红细胞膜制备 
+低渗 pH 7.4 7.5 mmol/L PBS 缓冲液制备: 称取 5.373 g 
+Na2HPO4ꞏ12H2O, 用超纯水定容至 2 L, 再称取 1.170 g 
+NaH2PO4ꞏ2H2O 定容至 1 L, 取 1620 mL Na2HPO4ꞏ12H2O 加
+入 380 mL NaH2PO4ꞏ2H2O, 用浓盐酸调节至 pH 7.4。 
+将积压红细胞按 1:50 (V:V)的比例置于低渗 pH 7.4 
+7.5 mmol/L PBS 缓冲液中, 加入 20 μmol/L PMSF, 混合均
+匀后在 4℃下破溶 1 h, 12000 r/min 离心 10 min, 然后在相
+同条件下用低渗 PBS 缓冲液洗涤 2~3 次, 得到乳白色或淡
+粉色的细胞膜。BCA 法测定细胞膜蛋白含量, ELISA 法测
+定细胞膜 Band 3 蛋白含量。 
+1.11  免疫印迹法检验红细胞膜 Band 3 蛋白表达 
+蛋白样品经含 β-巯基乙醇的上样缓冲液充分还原后, 
+以 30 μg/孔的上样量, 采用 10%十二烷基硫酸钠-聚丙烯酰
+胺 凝 胶 电 泳 (sodium dodecyl sulfate polyacrylamide gel 
+electropheresis, SDS-PAGE) (70 V, 30 min; 140 V, 50 min)分
+离蛋白。将湿润的滤纸、NC 膜、胶片按顺序放入半干转印
+仪(18 V, 300 mA, 25 min)内, 进行转膜。用 0.0067 mol/L PBS
+缓冲液配制终浓度为 5%的脱脂奶粉将膜片封闭 30 min, 
+0.05% PBST(含有 0.05%吐温‒20 的 PBS)清洗 3 次, 4℃孵
+育抗 Band 3 兔单克隆抗体(1:1000, V:V, 下同)以及抗 β-肌
+动蛋白兔多克隆抗体(1:1000)过夜, PBST 清洗 3 次; HRP 标
+记羊抗兔 IgG 多克隆抗体(1:1000)孵育 1 h, PBST 清洗 3 次。
+使用 ECL 试剂盒对条带进行显影。蛋白条带在 iBright 
+FL1000 成像系统中进行成像, 并利用 Image J 软件(国立卫
+生研究院)分析灰度值。 
+1.12  数据处理 
+数据采用 GraphPad Prism 9 软件进行分析。所有实验
+进行 3 次生物学重复。数据通过单因素方差分析(one-way 
+analysis of variance, ANOVA)方法和 t 检验进行分析, 数据
+采用用平均值±标准偏差表示。 
+2  结果与分析 
+2.1  TGGR 改善 H2O2 诱导的红细胞氧化损伤 
+H2O2 诱导的红细胞溶血是一种常用的体外抗氧化活
+性评估模型, 用以评价红细胞的氧化损伤[14]。本研究以
+H2O2 诱导的大鼠红细胞为实验模型, 来探究 TGGR 对红细
+胞溶血率的影响。结果表明, 70 mmol/L H2O2 能极显著增加
+红细胞的溶血率(P<0.001), 因此选定 70 mmol/L 的 H2O2 作
+为造模浓度(图 1a)。TGGR 在 1~100 μg/mL 剂量范围内, 红
+细胞溶血率与对照组相比无明显差异, 表明 TGGR 在此剂
+量范围内对红细胞不产生溶血效应(图 1b), 且 100 μg/mL 
+TGGR 预处理后 H2O2损伤的红细胞与模型组相比, 溶血率
+极显著降低(P<0.001)(图 1c), 因此选取 100 μg/mL TGGR
+进行后续实验。此外, Met-Hb 及 F-Hb 的含量能进一步反
+应红细胞的溶血性能[15]。与溶血率的结果一致, 与模型组
+相比, 100 μg/mL TGGR 能显著降低 H2O2 诱导的红细胞
+Met-Hb 与 F-Hb 的含量(P<0.05)(图 1d~e)。 
+ 
+ 
+ 
+ 
+ 
+注: 与对照组相比, #、##、###分别表示 P<0.05(显著)、P<0.01(显著)、P<0.001(极显著), 与模型组相比, *、**、***分别表示 P<0.05(显
+著)、P<0.01(显著)、P<0.001(极显著), 下同。 
+图 1  TGGR 对红细胞溶血作用的影响 
+Fig.1  Effects of TGGR on red blood cells hemolysis 
+第 19 期 
+赵雨初, 等: 人参总皂苷对过氧化氢诱导的红细胞氧化应激的抑制作用及机制研究 
+6285 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2  TGGR 改善 H2O2 诱导的红细胞凋亡 
+与 模 型 组 相 比 , TGGR 介 导 的 红 细 胞 的 annexin 
+V-FITC 荧光强度明显减弱(P<0.001)(图 2a~b)。而 H2O2 诱
+导的红细胞凋亡主要通过胞质 Ca2+浓度的增加而触发[16]。
+结果显示, 与模型组比, TGGR 能显著降低红细胞内 Ca2+
+浓度(P<0.05)(图 2c)。此外, 凋亡导致的 Ca2+内流使红细胞
+失水, 加剧了内膜磷酯酰丝氨酸(phosphatidyl serine, PS)的
+翻转[17]。本研究采用流式细胞术检测被 annexin V-FITC 标
+记的 PS 外翻红细胞表明 TGGR 能够有效抑制 H2O2 诱导的
+细胞凋亡。 
+2.3  TGGR 对 H2O2 损伤后的红细胞形态的影响 
+扫描电子显微镜可以直接观察到红细胞的形态变化。
+对照组的红细胞表面平滑, 表现为双面微凹的圆盘状结构
+(图 3a)。H2O2 诱导后, 原本的盘状结构消失, 红细胞表面
+收缩, 突起增多(图 3b)。TGGR 预处理后红细胞的形态逐
+渐恢复, 由收缩、膨胀变为圆形、光滑(图 3c)。 
+2.4  TGGR 改善 H2O2 诱导下的红细胞抗氧化系统
+失衡 
+红细胞通过细胞中所含的抗氧化酶体系和谷胱甘肽
+系统以及 ROS 含量反应血液的抗氧化能力[18]。为进一步
+研究 TGGR 对 H2O2 诱导的红细胞氧化应激的改善是否与
+抗氧化系统有关, 对红细胞内的抗氧化系统进行测定。结
+果显示, 与对照组比较, 在 H2O2 诱导下, SOD、CAT 活力、
+GSH 含量极显著降低(P<0.001)(图 4a~c), MDA 与 ROS 水
+平极显著升高(P<0.001)(图 4d~e)。TGGR 预处理后, H2O2
+诱导的效应均被逆转, 表明 TGGR 能够改善 H2O2 诱导的
+抗氧化系统失衡。 
+2.5  TGGR 提高 H2O2 诱导的红细胞能量代谢 
+ATP 作为红细胞能量代谢的重要产物, 能够维持
+ATP 酶的运转、启动糖酵解途径等多种功能[19]。与对照
+组相比, H2O2 组红细胞内 ATP 水平及 Na+/K+-ATP 酶和
+Ca2+/Mg2+-ATP 酶活性均受到明显抑制(P<0.01, P<0.001)(图
+5); 与 H2O2 组相比, TGGR 给药组显著提高红细胞中
+Na+/K+-ATP 酶、Ca2+/Mg2+-ATP 酶的活性(P<0.05, P<0.01)。 
+2.6  TGGR 通过糖酵解途径提升红细胞抗氧化作用 
+糖酵解是红细胞进行能量代谢并获得 ATP 的唯一途
+径[20]。研究发现, H2O2 诱导的红细胞的糖酵解途径中的关
+键酶 PFK、PK、HK 的活性, 在 TGGR 预处理后显著恢复
+(P<0.05, P<0.001)(图 6a~c)。这些结果表明, TGGR 可以改
+善红细胞的糖酵解途径。 
+ 
+ 
+ 
+ 
+图 2  TGGR 对红细胞凋亡的影响 
+Fig.2  Effects of TGGR on red blood cells apoptosis 
+ 
+ 
+ 
+注: a: 正常红细胞扫描电镜图; b: H2O2 诱导后红细胞扫描电镜图; c: 100 μg/mL TGGR 预处理后红细胞扫描电镜图。 
+图 3  TGGR 对红细胞形态的影响 
+Fig.3  Effects of TGGR on red blood cells morphology 
+6286 
+食品安全质量检测学报 
+第 13 卷 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+图 4  TGGR 对红细胞抗氧化系统的影响 
+Fig.4  Effects of TGGR on red blood cells antioxidant system 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+图 5  TGGR 对红细胞能量代谢的影响 
+Fig.5  Effects of TGGR on red blood cells energy metabolism 
+ 
+ 
+ 
+ 
+  
+图 6  TGGR 对红细胞糖酵解关键酶的影响 
+Fig.6  Effects of TGGR on key enzymes of red blood cells glycolysis 
+第 19 期 
+赵雨初, 等: 人参总皂苷对过氧化氢诱导的红细胞氧化应激的抑制作用及机制研究 
+6287 
+ 
+ 
+ 
+ 
+ 
+ 
+2.7  TGGR 通过上调 Band 3 蛋白表达提升红细胞
+抗氧化能力 
+红细胞膜上的 Band 3 蛋白能够调节红细胞糖酵解途
+径 , 并 进 一 步 影 响 糖 代 谢 速 率 [21] 。 免 疫 印 迹 (western 
+blotting, WB)的结果表明, H2O2 对红细胞造成损伤时, Band 3
+蛋白的表达受到明显抑制(P<0.01), 而 TGGR 的干预上调
+了红细胞 Band 3 的表达(P<0.05)(图 7a~b)。最后, 利用
+ELISA 法测定 TGGR 预处理后的红细胞膜的 Band 3 蛋白
+含量获得了相同的结果(P<0.05)(图 7c)。这些结果表明
+TGGR 可以有效地恢复 H2O2损伤后的红细胞 Band 3 蛋白。 
+3  讨  论 
+氧化应激作为多种慢性疾病的首要发病机制, 长期以
+来都是研究的热点, 截至目前, 尚未有研究明确氧化应激的
+治疗方法。越来越多的研究表明, 减少红细胞氧化应激损伤
+是实现机体抗氧化的首要任务。红细胞作为维持生命活动最
+重要的细胞之一, 因其结构的特殊性致使在氧化状态下易
+损伤, 所以被作为研究抗氧化损伤药物的最佳细胞模型[22]。
+本研究利用 H2O2 体外诱导的红细胞氧化损伤模型, 验证了
+TGGR 对氧化应激状态下的红细胞具有保护作用。进一步证
+实了 TGGR 的干预可以增强红细胞糖酵解能力, 维系能量
+代谢水平, 并上调 Band 3 蛋白表达水平, 进而阻断氧化损
+伤增强抗氧化防护系统, 最终发挥抗氧化作用。 
+越来越多的证据表明, 红细胞在评价许多疾病的发病
+过程中具有生物学意义[23], 其中溶血率作为评价红细胞的
+基本指标, 可直接衡量红细胞的氧化损伤程度[24]。H2O2 诱
+导的红细胞溶血是一种常用的抗氧化活性评价模型[25], 本
+研究以溶血率为指标评价 TGGR 对 H2O2 诱导的红细胞氧化
+损伤的保护作用。溶血率也反映了 Hb 的释放量, Hb 是引发
+红细胞内氧化应激的主要因素, 通过检测 Met-Hb 与 F-Hb
+的含量进一步证实 TGGR 具有良好的抗氧化溶血活性[15]。
+此外, 过量的外源性 H2O2 会增加的胞质中 Ca2+活性[26], 使
+Ca2+内流增加, 进一步激活 Ca2+依赖性 K+通道, 使 K+、Cl‒
+大量丢失出胞, 细胞失水皱缩, 增加了 PS 翻转, 进一步加
+剧了红细胞凋亡[27‒28]。本研究发现, TGGR 能显著降低红细
+胞内 Ca2+浓度, 阻止细胞膜超极化, 表明 TGGR 能有效降低
+红细胞的凋亡率。并且在扫描电镜下观察到经 TGGR 预处
+理后, H2O2 诱导的红细胞膜表面从皱缩逐渐恢复光滑。 
+氧化应激是红细胞损伤的病理基础, 外源性 H2O2 产
+生的 ROS 具有很强的氧化性, 红细胞被外源性 H2O2 破坏
+会造成氧化还原失衡导致氧化应激, 并可能与 ROS 的过度
+产生或抗氧化系统的能力不足有关[29]。过量的 H2O2 导致
+脂质过氧化, 脂质过氧化的最终产物 MDA 诱导红细胞膜
+氧化应激, 损害红细胞抗氧化系统的防御能力[30]。本研究
+表明, TGGR 干预能够恢复细胞抗氧化系统的功能, 这一
+结果与之前的研究相同[31‒32], 即显著降低了 ROS 和 MDA
+的水平, 提高了 SOD 和 CAT 抗氧化酶活性及非酶抗氧化
+物 GSH的含量, 说明 TGGR可能通过抗氧化防御系统保护
+红细胞免受氧化应激损伤。 
+成熟的红细胞依赖糖酵解途径产生能量获得 ATP, 维
+持细胞膜上的 Na+/K+-ATP 酶工作, 并且 Na+/K+-ATP 酶活性
+与糖酵解活性相偶联, 从而调控红细胞的代谢速率[33]。此外, 
+H2O2 诱导的红细胞氧化应激使钠泵功能减弱, 造成 Na+-K+
+协同转运障碍, 同时也会造成细胞内钙泵对 Ca2+的亲和力
+降低, 导致红细胞内“钙超载”影响细胞膜复极化[21,34], 进而
+导致离子分布失常, 最终可能影响细胞能量代谢。本研究
+的结果表明, TGGR 可通过增加相应 ATP 酶的活性, 调节
+失常的离子分布, 改善能量代谢, 减少红细胞损伤。PK、
+HK 和 PFK 作为糖酵解供能过程中的关键酶, 它们的活性
+与葡萄糖代谢直接相关[35]。TGGR 预处理可恢复 H2O2 诱
+导的红细胞糖酵解相关酶 PFK、HK 和 PK 活性, 表明无
+氧代谢增加。糖代谢速率也是影响红细胞糖酵解代谢的
+关键因素, 涉及糖酵解酶与 Band 3 蛋白的 N 端细胞质结
+构域的竞争结合[36]。本研究结果显示 TGGR 显著提升 H2O2
+诱导后 Band 3蛋白的表达及含量, 推测 Band 3蛋白可能是
+TGGR 恢复红细胞糖酵解的靶点之一, 未来还需深入研究
+Band 3 蛋白与糖酵解途径的作用关系来验证这一推测。 
+ 
+ 
+ 
+ 
+图 7  TGGR 对 Band 3 蛋白的影响 
+Fig.7  Effects of TGGR on Band 3 protein 
+6288 
+食品安全质量检测学报 
+第 13 卷 
+ 
+ 
+ 
+ 
+ 
+ 
+4  结  论 
+TGGR 预处理可以显著改善 H2O2 诱导的红细胞氧化
+应激, 恢复红细胞抗氧化酶系, 抑制过量产生的 ROS, 减
+少红细胞氧化损伤。在能量代谢方面, TGGR 能够提高 ATP
+水 平 及 Na+/K+-ATP 酶 、 Ca2+/Mg2+-ATP 酶 活 力 , 且
+Na+/K+-ATP 酶与糖酵解在功能上存在耦合[37], 能进一步
+影响红细胞糖酵解相关酶的活性, 提升红细胞膜上与糖酵
+解途径相关的 Band 3 蛋白的表达, 提高红细胞的能量代谢, 
+对红细胞抵御氧化应激有着重要意义。研究的结果证实了
+TGGR 预处理能够改善 H2O2诱导的红细胞氧化损伤, 并提
+高能量代谢, 对 TGGR 在氧化相关疾病的治疗奠定了实验
+基础, 并为进一步探索 TGGR 在抗氧化方面的相关研究提
+供了理论依据。 
+参考文献 
+[1] DONADEE C, RAAT NJ, KANIAS T, et al. Nitric oxide scavenging by 
+red blood cell microparticles and cell-free hemoglobin as a mechanism for 
+the red cell storage lesion [J]. Circulation, 2011, 124(4): 465‒476. 
+[2] FUJII J, HOMMA T, KOBAYASHI S, et al. Erythrocytes as a preferential 
+target of oxidative stress in blood [J]. Free Radic Res, 2021, 55(5): 
+562‒580. 
+[3] SILVA DGH, CHAVES NA, MIYAMOTO S, et al. Prolonged erythrocyte 
+auto-incubation as an alternative model for oxidant generation system [J]. 
+Toxicol In Vitro, 2019, 56: 62‒74. 
+[4] PODSIEDLIK M, MARKOWICZ-PIASECKA M, SIKORA J. Erythrocytes 
+as model cells for biocompatibility assessment, cytotoxicity screening of 
+xenobiotics and drug delivery [J]. Chem Biol Interact, 2020, 332: 109305. 
+[5] ORRICO F, LOPEZ AC, SALIWONCZYK D, et al. The permeability of 
+human red blood cell membranes to hydrogen peroxide is independent of 
+aquaporins [J]. Biol Chem, 2022, 298(1): 101503. 
+[6] JI Q, LIU J, WANG G, et al. EphA2 over expression reduces H2O2- 
+induced damage of lens epithelial cells [J]. Genet Mol Biol, 2021, 44(3): 
+e20200414. 
+[7] FLAGG AJ. Traditional and current use of ginseng [J]. Nurs Clin N Am, 
+2021, 56(1): 109‒121. 
+[8] 乔巨慧. 人参总皂苷对果蝇衰老及相关行为的调控和分子机制研究
+[D]. 长春: 长春中医药大学, 2021. 
+QIAO JH. Study on the regulation and molecular mechanism of ginsenosides 
+on aging and related behaviors of Drosophila melanogaster [D]. 
+Changchun: Changchun University of Chinese Medicine, 2021. 
+[9] 郭建博, 宋莉, 吕卓, 等. 保健食品中人参皂苷类成分的快速检测及应
+用[J]. 食品安全质量检测学报, 2019, 10(1): 117‒122. 
+GUO JB, SONG L, LV Z, et al. Rapid determination of ginsenosides in 
+health food and its application [J]. J Food Saf Qual, 2019, 10(1): 117‒122. 
+[10] ZHANG G, ZHANG M, YU J, et al. Ginsenoside Rg1 prevents 
+H2O2-induced lens opacity [J]. Curr Eye Res, 2021, 46(8): 1159‒1165. 
+[11] CUI YC, PAN CS, YAN L, et al. Ginsenoside Rb1 protects against 
+ischemia/reperfusion-induced myocardial injury via energy metabolism 
+regulation mediated by RhoA signaling pathway [J]. Sci Rep-UK, 2017, 7: 
+44579. 
+[12] LI L, PAN CS, YAN L, et al. Ginsenoside Rg1 ameliorates rat myocardial 
+ischemia-reperfusion injury by modulating energy metabolism pathways 
+[J]. Front Physiol, 2018, 9: 78. 
+[13] POL A, GILST W, VOORS AA, et al. Treating oxidative stress in heart 
+failure: Past, present and future [J]. Eur J Heart Fail, 2019, 21(4): 
+425‒435. 
+[14] XU X, HE J, LIU G, et al. Hemolysis assessment and antioxidant activity 
+evaluation modified in an oxidized erythrocyte model [J]. J Agric Food 
+Chem, 2014, 62(9): 2056‒2061. 
+[15] HECKL C, LANG A, RÜHM A, et al. Spectrophotometric evaluation of 
+hemolysis in plasma by quantification of free oxyhemoglobin, methemoglobin, 
+and methemalbumin in presence of bilirubin [J]. J Biophotonics, 2021, 
+14(5): e202000461. 
+[16] FURUTA Y, PENA-RAMOS O, LI Z, et al. Calcium ions trigger the 
+exposure of phosphatidylserine on the surface of necrotic cells [J]. PLoS 
+Genet, 2021, 17(2): e1009066. 
+[17] DIAS GF, TOZONI SS, BOHNEN G, et al. Uremia and inadequate 
+oxygen supply induce eryptosis and intracellular hypoxia in red blood 
+cells [J]. Cell Physiol Biochem, 2021, 55(4): 449‒459. 
+[18] 吴显熠, 王旭萍. 高原不同人群体外红细胞无氧酵解能力的差异[J]. 
+高原医学杂志, 2018, 28(3): 23. 
+WU XY, WANG XP. Poor anaerobic digestion ability of erythrocytes in 
+different human populations at high altitude [J]. J High Alt Med, 2018, 
+28(3): 23. 
+[19] TSANTES AE, BONOVAS S, TRAVLOU A, et al. Redox imbalance, 
+macrocytosis, and RBC homeostasis [J]. Antioxid Redox Signal, 2006, 
+8(7‒8): 1205‒1216. 
+[20] GHASHGHAEINIA M, KÖBERLE M, MROWIETZ U, et al. Proliferating 
+tumor cells mimick glucose metabolism of mature human erythrocytes [J]. 
+Cell Cycle, 2019, 18(12): 1316‒1334. 
+[21] 杨俊杰. 人参对力竭运动后红细胞功能恢复的作用机制研究及产品开
+发[D]. 长春: 长春中医药大学, 2020. 
+YANG JJ. The ginseng of erythrocyte function recovery after exhaustion 
+exercise mechanism research and product development [D]. Changchun: 
+Changchun University of Chinese Medicine, 2020. 
+[22] MASUOKA N, ZUKERAN A, TAKEMOTO K, et al. Effect of hydrogen 
+peroxide on normal and acatalasemic mouse erythrocytes [J]. Toxicol Rep, 
+2020, 7: 282‒287. 
+[23] GURKAN UA. Biophysical and rheological biomarkers of red blood cell 
+physiology and pathophysiology [J]. Curr Opin Hematol, 2021, 28(3): 
+138‒149. 
+[24] 田雅娴, 詹林盛, 王小慧, 等. 去白悬浮红细胞 4℃储存不同时间的质
+量评价[J]. 临床输血与检验, 2021, 23(4): 435‒441, 468. 
+TIAN YX, ZHAN LS, WANG XH, et al. Quality evaluation of white 
+blood removed suspended red blood cells stored at 4℃ for different times 
+[J]. J Clin Transfus Lab Med, 2021, 23(4): 435‒441, 468. 
+第 19 期 
+赵雨初, 等: 人参总皂苷对过氧化氢诱导的红细胞氧化应激的抑制作用及机制研究 
+6289 
+ 
+ 
+ 
+ 
+ 
+ 
+[25] ALAMDARI DH, AGHASIZADEH-SHARBAF M, MOHADJERANI M, 
+et al. Prooxidant-antioxidant balance and antioxidant properties of Thuja 
+orientalis: A potential therapeutic approach for diabetes mellitus [J]. Curr 
+Mol Pharmacol, 2018, 11(2): 109‒112. 
+[26] SUN Y, LIU G, JIANG Y, et al. Erythropoietin protects erythrocytes 
+against oxidative stress-induced eryptosis in vitro [J]. Clin Lab, 2018, 
+64(3): 365‒369. 
+[27] BISSINGER R, BHUYAN AAM, QADRI SM, et al. Oxidative stress, 
+eryptosis and anemia: A pivotal mechanistic nexus in systemic diseases [J]. 
+Febs J, 2019, 286(5): 826‒854. 
+[28] FÖLLER M, LANG F. Ion transport in eryptosis, the suicidal death of 
+erythrocytes [J]. Front Cell Dev Biol, 2020, 8: 597. 
+[29] GWOZDZINSKI K, PIENIAZEK A, GWOZDZINSKI L. Reactive 
+oxygen species and their involvement in red blood cell damage in chronic 
+kidney disease [J]. Oxid Med Cell Longev, 2021, 2021: 6639199. 
+[30] OYEM JC, CHRIS-OZOKO LE, ENAOHWO MT, et al. Antioxidative 
+properties of Ocimum gratissimum alters lead acetate induced oxidative 
+damage in lymphoid tissues and hematological parameters of adult Wistar 
+rats [J]. Toxicol Rep, 2021, 8: 215‒222. 
+[31] 陈雪, 刘金福, 张业尼, 等. 基于细胞氧化应激模型的南瓜多糖与人参
+皂苷联合抗氧化作用研究[J]. 食品研究与开发, 2019, 40(8): 40‒44. 
+CHEN X, LIU JF, ZHANG YN, et al. Based on cell oxidative stress model 
+of pumpkin polysaccharide and ginseng saponin antioxidant effect 
+research [J]. Food Res Dev, 2019, 40(8): 40‒44. 
+[32] 刘盈, 周满如, 周春. 人参皂苷 Rg1 对 H2O2诱导的 HaCaT 细胞氧化损
+伤保护作用研究[J]. 药学研究, 2022, 41(3): 145‒148, 152. 
+LIU Y, ZHOU MR, ZHOU C. Ginseng saponin Rg1 on HaCaT cells 
+induced by H2O2 oxidative damage protection research [J]. J Pharm Res, 
+2022, 41(3): 145‒148, 152. 
+[33] LIN HY, HUANG RC. Glycolytic metabolism and activation of Na+ 
+pumping contribute to extracellular acidification in the central clock of the 
+suprachiasmatic nucleus: Differential glucose sensitivity and utilization 
+between oxidative and non-oxidative glycolytic pathways [J]. Biomed J, 
+2022, 45(1): 143‒154. 
+[34] FEDOSOVA NU, HABECK M, NISSEN P. Structure and function of Na, 
+K-ATPase-the sodium-potassium pump [J]. Compr Physiol, 2021, 12(1): 
+2659‒2679. 
+[35] ZHAO LL, WU H, SUN JL, et al. MicroRNA-124 regulates lactate 
+transportation in the muscle of largemouth bass (Micropterus salmoides) 
+under hypoxia by targeting MCT1 [J]. Aquat Toxicol, 2020, 218: 105359. 
+[36] ALESSANDRO A, NEMKOV T, SUN K, et al. Altitude omics: Red blood 
+cell metabolic adaptation to high altitude hypoxia [J]. J Proteome Res, 
+2016, 15(10): 3883‒3895. 
+[37] FERNÁNDEZ-MONCADA I, BARROS LF. Non-preferential fuelling of 
+the Na+/K+-ATPase pump [J]. Biochem J, 2014, 460(3): 353‒361. 
+(责任编辑: 黄周梅 韩晓红) 
+ 
+作者简介 
+ 
+赵雨初, 硕士研究生, 主要研究方向
+为中药有效成分发现、生物转化及健康产品
+研究与开发。 
+E-mail: 739912973@qq.com 
+王思明, 硕士, 高级实验师, 主要研究方
+向为中药活性成分筛选及大健康产品开发。 
+E-mail: lwsm126030@126.com 
+ 

@@ -1,0 +1,583 @@
+第17卷第5期
+2008年10月
+中国组织化学与细胞化学杂志
+CHI NESE J OURNAL oF HI 翻【’
+0C邱EMI 卯限Y ANDC” 阳( =I j 哐MI sl l W
+V01．17．No．5
+OcL 2008
+人参皂甙Rbl 对AD大鼠顶叶皮质』3～分泌酶
+及PS一1表达的影响
+方
+欣
+杨吉平
+高旭红
+李兆圣
+赖
+红。
+( 中国医科大学基础医学院解剖学教研室，沈阳110001)
+( 摘要)
+目的探讨人参皂甙Rbl 对AD大鼠顶叶皮质争分泌酶及PS- 1表达的影响。方法30只健康雄性sD大
+鼠，随机分为对照组、模型组和治疗组。模型组大鼠胃饲氯化铝同时腹腔注射D半乳糖2个月，对照组大鼠给予等剂量生
+理盐水，治疗组大鼠于造模结束后腹腔注射人参皂甙Rbl 4周。采用刚果红染色法观察老年斑，镀银染色法观察神经原纤
+维缠结，West ern bl ot 方法、免疫组化方法和图像分析技术对争分泌酶及P孓1的表达进行检测。结果模型组与对照组相
+比有明显的老年斑及神经原纤维缠结形成，伊分泌酶及PS- 1的表达增多( P<O．01) ；治疗组老年斑及神经原纤维缠结数量
+减少，p分泌酶及PSl 的表达与模型组相比明显减少( P<0．05) 。结论AD模型大鼠顶叶皮质神经元p分泌酶及PS- 1表
+达水平明显上调，人参皂甙Rbl 可明显改善模型动物上述蛋白的异常表达，对神经元具有明显保护和营养作用。
+[ 关键词)
+p淀粉样肽；
+p分泌酶；
+早老素蛋白一1；
+人参皂甙Rbl ；
+阿尔茨海默病
+( 中图分类号)
+R332．81
+( 文献标识码)
+A
+I X) I ：10．3870／zgzzhx
+2008．05．012
+El ’
+FECI ’
+OF GI NSENOsI DE Rbl ON步SECRETASE ANDI’ 孓1
+I N PARI ETAL I X) BE OF ADMODEL RA髑
+Fang Xi n，Yang J i pi ng，Gao Xuhong，Li
+Zhaosheng，Lai
+Hong。
+( De加rt ment of Anat omy，吼i na Medi cal
+Uni versi t y，Shenyang 110001，Chi na)
+[ Abst racO
+Obj ec峨To i nvest i gat e t he ef f ect of gi nsenosi de Rbl
+on p- secretase and PS- 1 i n t he pari et al
+l obe of Al zhei mer di sease- l i ke rat s．Met hods 30 SD rat s were randoml y di vi ded i nt o t he cont r01 group，model group
+and t reat ment group．The r／l odel was bui l t wi t h admi ni st rat i on of D- gal act ose and al umi numchl ori de f or 2 momhs．
+t he oont rol group was gi ven t he same dose of sodi umchl ori de，and t he treatment group was gi ven gi nsenosi de Rbl
+f or 4 weeks
+af t er t he model
+was bui l t ．Congo red st ai ni ng Was used t o observe seni l e pl aques，si l ver i mpregnat i on
+met hod was used t O observe neurof i bri Uary t angl e，and t he expressi on of psecret 弱e and P孓1 was
+det ect ed by
+West ern bl ot and i mmunohi st ochemi st ry wi t h i mage anal ysi s．Resul t s Compared wi t h t he cont rol
+group，seni or
+pl ague( SP) and neurof i bri l l ary t angl e were cl ear
+t o he seen i n t he model group，and t he l evel s of psearet aSe and
+PS- 1 were si gni f i cant l y hi 曲er( P．<O．01) ．Compared wi t h t hose i n t he model group，SP and neurof i bri l l ary
+t an—
+gl e were uncl ear i n t he t reat ment group，and t he l evel s of p- secret ase and PS- 1 were si gni f i cant l y l ower( P<O．05)
+．Concl usi on The expressi on of争secre妇and PS- 1
+are i ncreased i n t he pari et al
+l obe of Al zhei mer di sease- l i ke
+rat s，but gi nsenosi de Rbl
+normal i zes t he expressi on and prot ect s neuron＆
+[ Key words]
+p- Amyl oi d；
+p_Secret ase；Preseni l i n- 1；
+Gi nsenosi de Rbl ；
+Al zhei mer di sease
+人参皂甙( gi nsenosi de，GS) 是人参的主要活
+[ 收稿日期) 2007—11—22
+[ 修同日期] 2008- 01- 30
+( 基金项目] 辽宁省自然科学基金( 20062088) 辽宁省教育
+厅基金( 051511)
+( 作者简介] 方欣，女( 1982年) ，汉族，在读硕士生。
+*通讯作者( To whomcorrespondence shoul d be addressed)
+’
+L
+性成分，目前为止已确定结构的皂甙单体至少在
+40种以上[ 1] 。迄今已有大量关于人参皂甙Rbl 促
+智抗痴呆的报道，但人参皂甙Rbl 对阿尔茨海默
+病( Al zhemi er di sease，AD) 大鼠顶叶皮质与Ap
+产生有关的分泌酶，即p_分泌酶及早老素蛋白一1
+( preseni l i n- 1，PS- 1) 作用方面的报道尚少。因此，
+ 万方数据
+中国组织化学与细胞化学杂志
+第17卷
+本实验拟采用氯化铝联合肛半乳糖[ 23的方法建立
+AD动物模型，观察人参皂甙Rbl 对大鼠顶叶皮质
+p一分泌酶及PS- 1的影响，进而为人参皂甙Rbl 对
+老年性痴呆的临床预防和治疗提供可靠的实验依
+据。
+材料和方法
+1．动物及分组选用相同环境下饲养的SPF
+级健康雄性SD大鼠30只，体重在250克左右，
+中国医科大学实验动物中心提供，许可证号：
+趴仪K( 辽) 2003- 0013。将大鼠随机分为对照组、
+模型组和治疗组，每组l o只。
+2．药品与试剂
+D半乳糖( 国药集团化学试
+剂有限公司) ；人参皂甙Rbl ( 中国药品生物制品
+检定所，批号110704—20318) ，实验时采用生理盐
+水溶解，浓度为0．8 mg／ml ，- 4℃保存；三氯化铝
+( A1C1。· 6H20) ( 沈阳第一试剂厂) ；Apl 郴抗体和
+SABC免疫组化试剂盒( 武汉博士德公司) ；6- 分
+泌酶抗体，PS- 1抗体( 北京博奥森生物科技有限
+公司) 。
+3．模型制作及给药模型组及治疗组腹腔注
+射n半乳糖60 mg／kg／d，同时胃饲AI Cl 3水溶液
+200 mg／kg／d，连续给药2个月。对照组每日腹腔
+注射与模型组剂量相同的生理盐水，同时胃饲与模
+型组剂量相同的蒸馏水。治疗组造模结束后1 d开
+始腹腔注射人参皂甙Rbl ( 10／比g／kg／d) ，连续给
+药4周。
+4．标本的收集大鼠腹腔注射10％水合氯醛
+0．45 g／kg麻醉，开胸，经升主动脉相继快灌生理
+盐水150 ml ，4％多聚甲醛灌注固定，持续30 rai n
+以上。断头取脑，置于新配4％多聚甲醛中后固
+定。常规石蜡切片制备，片厚7肛m，切片贴到经
+多聚赖氨酸处理过的载玻片上，进行镀银染色，刚
+果红染色及免疫组化染色。
+5．刚果红染色切片常规脱蜡至水。苏木素
+染色液浸染2 rai n，0．5％盐酸乙醇液分化10
+s，
+自来水冲洗后，蒸馏水洗2次。刚果红染色液中浸
+染25 mi n，无水乙醇脱水3rai n X2次，二甲苯透
+明，中性树胶封固。
+6．镀银染色方法组织切片经脱蜡、逐级乙
+醇脱水及水洗后，于37℃温箱内用质量分数为
+20％的硝酸银水溶液避光浸染60 mi n，随后氨银
+溶液内5—8 mi n，载玻片用滤纸吸干后，入10％酒
+石酸钾水溶液内，以颜色变成黄褐色为度。水洗后
+人1％醋酸内1 rai n。水洗2—3次，入5％的硫代
+硫酸钠水溶液固定5—10 rai n。常规脱水，二甲苯透
+明，中性树胶封固。
+7．免疫组织化学染色切片常规脱蜡至水。
+3％H：O。室温孵育5- 10 mi n以灭活内源性酶，蒸
+馏水洗3次后按照武汉博士德公司提供的即用型
+SABC免疫组化染色试剂盒步骤进行免疫组织化学
+染色，DAB呈色、苏木素复染，常规脱水、透明，
+中性树胶封固，摄片。
+8．West ern bl ot 各组给药结束后，将大鼠断
+头取脑，剥离大脑皮层称重后加入组织裂解液( 50
+mmol ／L、pH 7．4三羟甲基氨基甲烷10 mI 、10
+mg／ml 苯甲基磺酰氟0．1 m1、10 mg／ml 亮抑制肽
+0．002 m1) 进行组织匀浆；以11000 r／re_i n离心30
+rai n，取上清液分装，于- 20℃冻存备用；采用
+Lowry法进行蛋白定量分析；按照“ 分子克隆
+( 第二版) ” 方法，进行凝胶转移电泳，检测p分泌
+酶及PS- 1，第一抗体稀释度均为1：400；碱性磷
+酸酶偶联抗大鼠IgG按1：2000稀释；用DAB显
+色系统显色。
+9．图像分析及统计学析
+测定West ern bl ot
+结果图像扫描后各条带的平均光密度( OD) 值及
+免疫组化结果阳性细胞OD值。所有数据均以均数
+士标准差表示，采用SPSSl 3．0软件包进行处理，
+组间差异采用方差分析。
+结
+果
+1．老年斑的刚果红染色对照组大鼠顶叶皮
+层仅见少量橘红色斑块( 图1) ；模型组可见大量
+斑块，染色较深，数量较多，分布密集( 图2) I
+治疗组有少量的斑块( 图3) 。
+2．神经原纤维的镀银染色对照组大鼠顶叶
+皮层神经原纤维排列规则，染色较浅( 图4) ；模
+型组背景淡棕色，细胞萎缩变形，可见大量神经原
+纤维缠结，位于神经元胞浆及轴突起始处，走行紊
+乱，呈棕黑色( 图5) ；治疗组神经元染色较浅，
+损伤减轻，神经元突起保留较完整，神经原纤维排
+列增粗、紊乱减轻( 图6) 。
+3．免疫组化染色对照组大鼠皮层内有少量
+的Ap、p分泌酶、PS- 1阳性染色神经元；而模型
+组大鼠皮层内AB、p分泌酶、PS- 1阳性染色神经
+元数目均比对照组明显增加，胞体聚集，染色较
+深，大量棕黄色或棕褐色颗粒阳性颗粒位于神经元
+的胞浆，突起及其分支，胞核不着色；治疗组上述
+ 万方数据
+第S期
+方欣等．人参皂甙Rbl 对AD大鼠顶叶皮质盼泌酶及PS- I表达的影响461
+各种抗体的染色结果与对照组接近( 图7一图
+15) 。
+三组大鼠顶叶阳性标记细胞数目比较见表1，
+各组蛋白OD值比较见表2。
+4．West ern bl ot
+West ern bl ot 结果显示，在
+相对分子质量为55KD处有一组晰的哥分泌酶条带
+图16对照组( A) 、模型组( B) 和治疗组( C) 大
+鼠顶叶皮层p分泌酶的表达水平
+Fi g．16
+Expressi ons of p- secret ase i n rat
+pari et al
+l obe
+of cont rol group( A) ，model
+group( B) and t reat ment group
+( C) ．
+( 图16) ，在相对分子质量为51KD处有一组清晰
+的PS- 1条带( 图17) 。模型组顶叶p分泌酶、P孓
+1的表达较对照组明显增多( P<O．05) ，治疗组p
+分泌酶、P§ 1的表达较模型组明显减少( P<
+0．01) ( 表3) 。
+图17对照组( A) 、模型组( B) 和治疗组( C) 大
+鼠硬叶皮层PS*I 表达水平
+Fi g．17
+Expressi ons of PS- 1
+i n rat pari et al
+l obe 0f cont rol
+gmup( 舢，model group( B) and t reat ment group( C) ．
+表1三组大鼠顶叶抗体阳性细胞数目比较( z士s，n=10)
+Tahl e 1佻stati sti cal
+resul t s of posi t i ve neH_rOl ：l S i n t he panet al
+l obe of t hree experi ment al groups在± 5，n=l O)
+Group
+A岛- ‘ o
+O- secret ase
+，PS- 1
+Cont rol
+group
+9．25- t - 2．18
+10．34- t - 3．22
+8．34士2．24
+Model
+group
+30．32+10．56‘
+’
+29．33士12．89’
+’
+28．43士11．98‘
+‘
+Treat ment group
+8．92士3．09△
+9．88+2．98△
+12．54士3．09
+” P<O．01 Wcont rol group；△ P<O．05 vs model group
+表2三组大鼠顶叶各种蛋白含量的比较( oD值) ( 互士s，n- - - - - 10)
+Tabl e 2
+The compari sons of expressi ons of prot ei n among groups of
+pari et al l obe( OD) ( 暑± s，n=l O)
+Group
+郐
+p- secret ase
+PS- 1
+Cont rol group
+0．166士0．003
+0．157+0．003
+0．159土0．008
+Model group
+0．238+0．001’
+’
+0．234+0．007‘
+‘
+0．227+0．005’
+·
+Treat ment group
+0．175士0．003△ 0．228± 0．004
+0．170士0．004a
+“ P<O．01 vs cont rol group；△ P<O．05 vs model group
+表3
+West ern bl ot 检测各组大鼠项叶皮层B- 分泌酶和PS- I 的OD值比较( z士s)
+Tabl e 3
+Compari sons of p- secret ase and PS- 1 ODi n pari et al
+l obe of rat s( 王± s)
+Group
+／3- seeretase
+PS- 1
+▲ 与对照组比较( compared wi t h cont rol group) P<O．05
+‘
+与模型组比较( compared wi t h model group) P<0．01
+ 万方数据
+中国组织化学与细胞化学杂志
+第17卷
+讨
+论
+。
+AD是一种中枢神经系统原发性、退变性疾
+病，是老年人的常见病。其主要临床表现为进行性
+记忆力减退和认知功能障碍，其三大病理特征为：
+神经元之问形成大量的老年斑( seni l e pl aque，
+SP) ，神经元内出现神经原纤维缠结( neurof i bri l —
+l ary t angl e，NFT) 以及区域性神经元及突触连接
+的退行性变。SP的主要成分B一淀粉样肽( p- amy—
+l oi d，邸) 在细胞外的沉积，能对细胞造成毒性损
+害，是导致患者脑功能障碍的主要原因。邱是由
+p淀粉样前体蛋白( p- amyl oi d precursor
+prot ei n，
+APP) 经口、y- 分泌酶作用产生的。在正常情况
+下，APP经a．分泌酶途径产生可溶性的SAPP- a
+和CTF口，此途径可以阻止Ap的形成和沉积[ 3] 。口
+级联假说[ 4] 认为当环境或基因突变引起8和刊争泌
+酶表达过高时，APP多经p、7一分泌酶途径产生大
+量具有神经毒性作用的Ap，p和7一分泌酶是Ap产
+生过程中非常关键的限速酶，通过激活或者抑制p
+和r分泌酶，可直接调节AB水平的高低。有实验
+表明，B一分泌酶基因剔除的小鼠，大脑Ap表达显
+著降低，动物发育正常，其组织形态、脑组织化
+学、血／尿成分、行为及神经肌肉等与野生型幼鼠
+无明显差异[ 51；敲除编码早老蛋白一1( preseni l i n-
+1，PS- 1) 基因的小鼠，7一分泌酶活性降低80％，
+A8含量大大降低[ 6] 。因此，G、7一分泌酶已成为治
+疗AD的非常有潜力的靶点[ 7~8] 。Si man R[ 9] 等
+认为早老素蛋白一l ( PS一1) 本身就是7一分泌酶，或
+者是组成7一分泌酶复合物的主要部分。AD的另一
+病理特征NFT位于细胞内，其主要成分为异常磷
+酸化的微管相关蛋白Tau组成的双股螺旋丝。
+本实验结果证明了模型组大鼠与对照组相比，
+顶叶皮层内Ap、p分泌酶与PS- 1表达均明显增
+高，模型组大鼠顶叶皮层形成明显的SP与NFT。
+因此，我们认为，sP的产生及p分泌酶与PS- 1表
+达相关的一致性都证明：AB的异常分泌可能是通
+过p分泌酶与PS- 1的大量表达而实现的，这与
+AD脑的病理改变有一定的榴似性，因此本实验制
+作的动物模型可作为比较理想的AD动物实验模
+型。
+人参是我国传统的益智药物。近年来，国内外
+均有人参能够易化学习记忆及改善动物学习记忆障
+碍的报道。张均田等也证明人参可促进脑的生长发
+育和学习过程，且可改善记忆的获得再现[ 10] 。已
+有研究证实人参皂甙Rbl 可以通过促进乙酰胆碱
+( ACh) 释放、增加神经末梢摄取ACh而改善记
+忆[ u1，并可促进神经元突起再生，增强神经元抗
+损伤与凋亡的能力Dz, l s] 。但在较长期给予的情况
+下，人参皂甙Rbl 能否改善AD动物的脑损伤，
+营养保护神经元，迄今未见报道。AD患者脑内蛋
+白磷酸脂酶2A( PP2A) 含量较正常同龄对照人群
+明显下降，而PP2A表达的减少，会引起Tau蛋
+白过度磷酸化，进而形成神经原纤维缠结。李永
+坤[ 14] 等发现，人参皂甙Rbl 可能通过提高脑内
+PP2A的活性，减轻冈田酸诱导的大鼠海马神经元
+Tau蛋白的过度磷酸化，从而减少AD模型大鼠脑
+内的神经原纤维缠结，这与本实验结果一致。本实
+验结果证明，应用人参皂甙Rbl 后，AD大鼠顶叶
+皮层老年斑表达明显减少，神经元中p分泌酶与
+PS- 1水平明显下降。这提示人参皂甙Rbl 可能具
+有通过抑制分泌酶的表达而减少郐产生，从而减
+少老年斑表达的作用。然而，人参皂甙Rbl 作用
+的具体机制，在分泌酶的基因表达，转录，还是翻
+译过程中抑制了其活性，还不清楚，尚需要进一步
+的实验研究。
+参考文献
+E13窦德强，靳玲，陈英杰．人参的化学成分及药理活性
+的研究进展与展望．沈阳药科大学学报，1999，16
+( 2) ：151- 156
+C23罗焕敏，肖飞．n半乳糖和三氯化铝诱导小鼠产生类
+阿尔茨海歇病变．中国药理学与毒理学杂志，2004，
+Feb，18( 1) ：22- 26
+[ 33 Kuramer C，Wehner S，Quast
+T，et a1．Expressi on and
+pot ent i al
+f unct i on
+of
+bet a- amyl oi d
+precursor
+prot ei ns
+duri ng
+cut al l eous wound repai r．Exp Cdl
+Res。2002，
+280( 2) ：222- 232
+E43胨生弟．神经病学．北京：人民军医出版社，2002，
+262—269
+( 5) Roherds SL，Anderson J ，Basi
+G，et aL BACE knock-
+OUt mi ce
+ar e heal t hy despi t e l acki ng t he
+pri mary bet a-
+seeret ase act i vi t y
+i n brai n：i mpl i cat i ons f or Al zhei mef s
+di sease t herapeut i cs．Hum Mol Genet ，2001，10( 12) ：
+1317- 1324
+( 6] Yang F，Li ra GP，BegumAN，et
+a1．Curcumi n i nhi bi t s
+f ormat i on of
+amyl oi d bet a
+ol i gomers and f i bri l s，bi nds
+pl aques，and redaces
+amyi oi d
+i n
+vi vo．J
+Bi ol
+Chem。
+2005，280：5892—5901
+( 7] 杨红旗，陈生弟．a分泌酶在阿尔茨海默病治疗中的作
+用．生物化学与生物物理进展．2006，33：109—115
+ 万方数据
+第5期
+方欣等．人参皂甙Rbl 对AD大鼠顶叶皮质争分泌酶及PS- I 表达的影响
+463
+C83鄢浩，姜风超．r分泌酶抑制剂研究进展．化学进展，
+2006。18( 2) ：356- 362
+C9) Shmn R，Vel j i J ．Subuni t composi t i on of 7- secret ese and
+ef f ect
+of
+mut ant
+preseni l i n- 1．Neurobi ol
+Agi ng，2002，
+25：177- 181
+C103杨迎，张均田，田成璋，等．人参皂甙Rbl 和Rgl
+促智作用机制的探讨一对小鼠脑神经发育的影响．药
+学学报，1994，294：241- 245
+C117 Beni shi n CG，Lee R，Wang LC，et a1．Ef f ect s of
+gi n-
+senosi de
+Rbl
+on
+cent ral
+chol i nergi c
+met aboi i sm．Pharmacol ogy，1991，42( 4) ：223- 229
+023
+Li ao B，Newmark H，Zhou R Neuroprot ect i ve ef f ect s
+of gi nseng t ot al saponi n and gi nsenosi des Rbl
+and Rgl
+on spi nal cord neur ons i n vi t ro．Exp Neurol ，2002．173
+( 2) ：224- 234
+[ 13] Rudakewi ch M，Ba F，Beni shi n CG．Neurot rophi c and
+neuroprot ect i ve
+act i ona
+of
+gi nsenosi des
+Rbl
+and
+S91．Pl ant a Med．2001，67( 6) ：533- 537
+C143李永坤，陈晓春，朱原贵，等．人参皂甙Rbl 减轻冈
+田酸诱导的大鼠海马神经元Tau蛋白过度磷酸化．生
+理学报，2005，57( 2) ：154- 160
+．
+图1、2、3
+图4、5、6
+图7、8、9
+图版说明
+对照组、模型组和治疗组大鼠顶叶皮层老年
+斑。刚果红染色。X400标] 已=20pm
+对照组、模型组和治疗组大鼠顶叶皮层神经
+原纤维缠结，镀银染色。X400一指示为神经
+原纤维缠结。标尺=l Opm
+对照组、模型组、治疗组大鼠顶叶皮层神经
+元的邱表达．免疫组化染色。X 400标尺
+=20vm
+图10、11、1Z对照组，模型组，治疗组大鼠顶叶皮层神
+经元的肛分泌酶表达．免疫组化染色．×
+400标尺=20pm
+图13、14、15对照组，模型组，治疗组大鼠顶叶皮层神
+经元的PS- 1表达，免疫组化染色。× 400
+标] 己=20vxn
+EXPLANATl ON0F FI GURES
+Fi g．1，2，3
+Fi g．4，5，6
+Fi g．7，8，9
+SP i n rat pari et al
+l obe of cont rol group．mod—
+el
+group and t reat ment
+group．Congo
+red
+st ai ni ng．X400 Bar=20肿
+NFT i n
+rat
+pari et al
+l obe of
+cont rol
+group．
+model group and t reat ment group，Si l ver i m-
+pregnat i on met hod．X 400 Bar=10脚’
+shows neurof i bri l l ary t angl es．
+郐expressi on
+i n
+pari et al
+I obe of
+cont rol
+group，
+model
+group，
+and
+treatment
+group．I mmunohi st ochemi caI st ai m X 400
+Bar=20prn
+Fi g．10，11，12
+p- secremse expressi on i n pari etal
+l obe of
+cont rol group，rf l odel
+group，and
+t reat -
+meri t group．I mmunohi st ochemi cal
+st ai n．
+X400
+Bar=20vm
+Fi g．1 3，14，15
+PS- 1 expressi on i n pari eml l obe of cont roI
+group，model
+group，and
+t reat ment
+group．I mmunohi st ochemi scal
+st ai n．× 400
+Bar=20／Ⅲ, n
+ 万方数据
+十目Ⅲm化学々日胞化学杂{
+● _’
+■ ●
+●
+●
+：
+L
+一+t
+ji}；j：：
+第17％
+o熠
+叫．～
+一f、一r
+疋0
+‘ t，
+、
+。哞
+0^，Ⅵ¨
+≮护《
+，
+．，．．‘
+_
+，，i■。卜cI
+_
+．● ～
+，
+、
+，-．0
+v
+1
+7
+r．一
+，．|■．一v乞
+p最‘ ■ u
+。一■。．．，．崦
+f
+i
+I l
+y|≯“ 一一
+．
+寸
+tI_¨
+，．．■h．．
+■，．-鼻f．∥，
+．●，
+● ．
+丫．．I■ 矗
+r』
+● “
+p-
+r．●●，
+h
+^
+l
+1’
+审_≯．弋一o■，．．i～
+_．)．
+p
+，
+，_．
+，、，、
+弘誓．曩≯一搬
+‰。时鼢j。冷蕾j
+，
+．、。：f
+I一
+0啦“ 也
+Ib●
+●
+0％¨ ～
+、．，_●。∥ ～
+“ 厶．
+0
+。
+麓点。鬈
+．．．0．冱
+●～．．．譬．
+，．．．to“
+、丫．。
+．
+^．
+，
+。，‘
+，，
+ 万方数据

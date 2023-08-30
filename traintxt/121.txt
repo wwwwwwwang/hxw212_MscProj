@@ -1,0 +1,538 @@
+第 41 卷第 3 期
+2021 年 6 月
+健 康 研 究
+Health Research
+Vol．41 No．3
+Jun． 2021
+收稿日期: 2020－03－18
+作者简介: 郑伊妮( 1990 － ) ，女，浙江仙居人，本科，药师。
+临床疗效研究
+doi: 10．19890/j．cnki．issn1674－6449．2021．03．022
+郑伊妮，王兴，徐丹． 人参皂苷 Rg3 联合 XELOX 方案对晚期胃癌患者生存期的影响［J］．健康研究，2021，41( 3) : 335－339．
+人参皂苷 Rg3 联合 XELOX 方案
+对晚期胃癌患者生存期的影响
+郑伊妮
+1，王
+兴
+1，徐
+丹
+2
+( 1．杭州市肿瘤医院 药学部，浙江 杭州 310002; 2．浙江省立同德医院 药学部，浙江 杭州 310012)
+摘要: 目的
+探讨人参皂苷 Rg3 联合卡培他滨+奥沙利铂( XELOX) 方案对晚期胃癌患者生存期的影响。方法
+104 例晚期胃癌患者随机分为对照组和观察组各 52 例，对照组给予 XELOX 方案治疗，观察组给予人参皂苷 Rg3 联
+合 XELOX 方案治疗，连续治疗 3 个 月。对 比 2 组 患 者 治 疗 效 果，观 察 患 者 治 疗 前 后 的 CD3
++、CD4
++、CD8
++、
+CD4
++ /CD8
++和肿瘤坏死因子-α( TNF-α) 、癌胚抗原( CEA) 水平及血清肝肾功能指标变化，记录治疗期间患者的不良
+反应，采用生 存 分 析 比 较 2 组 患 者 的 中 位 生 存 期。结 果
+观 察 组 治 疗 的 总 有 效 率 ( 42. 31%) 高 于 对 照 组
+( 23. 08%) ，差异有统计学意义( χ2 = 4. 372，P= 0. 037) 。治疗后，观察组外周血 CD3
++、CD4
++、CD4
++ /CD8
++水平高于对
+照组，CD8
++、TNF-α、CEA 水平低于对照组，差异有统计学意义( P＜0. 05) ; 2 组血清肝肾功能指标差异无统计学意义
+( P＞0. 05) 。观察组患者的中位生存期为( 8. 31± 0. 98) 月，对照组为( 6. 24± 0. 72) 月，2 组差异有统计学意义
+( LogRank χ2 = 4. 747，P= 0. 029) 。结论
+人参皂苷 Rg3 联合 XELOX 方案治疗晚期胃癌，临床疗效优于 XELOX 方
+案，可延长患者的生存期。
+关键词: 人参皂苷 Rg3; 卡培他滨; 奥沙利铂; 晚期胃癌
+中图分类号: R735．2
+文献标志码: A
+文章编号: 1674－6449( 2021) 03－0335－05
+Effects of ginsenoside Rg3 combined with XELOX
+regimen on survival of patients with advanced gastric cancer
+ZHENG Yini
+1，WANG Xing
+1，XU Dan
+2
+( 1． Department of Pharmacy，Hangzhou Tumor Hospital，Hangzhou 310002，China; 2． Department
+of Pharmacy，Tongde Hospital of Zhejiang Province，Hangzhou 310012，China)
+Abstract: Objective To explore the effects of ginsenoside Rg3 combined with xeloda oxaliplatin－the parker ( XELOX) on
+the survival of patients with advanced gastric cancer． Methods A total of 104 patients with advanced gastric cancer were
+randomly divided into a control group ( n = 52) and an observation group ( n = 52) ． The control group was treated with
+XELOX，while the observation group was treated with ginsenoside Rg3 combined with XELOX for three months． The treatment
+efficacy of the two groups was compared． Before and after treatment，levels of CD3
++，CD4
++，CD8
++，CD4
++ /CD8
++，TNF－α，
+CEA and liver and kidney function indexes were detected． The adverse reactions during treatment were recorded． The
+median survival time ( MST) was compared between two groups by survival analysis． Results The total effective rate of
+treatment in the observation group was higher than that in the control group ( 42. 31% vs 23. 08%) ( χ2 = 4. 372，P =
+0. 037) ． After treatment，levels of CD3
++，CD4
++ and CD4
++ /CD8
++ in peripheral blood in the observation group were higher
+than those in the control group，while levels of CD8
++，TNF－α and CEA were lower than those in the control group ( P＜
+0. 05) ． There was no significant difference in serum liver and kidney function indexes between the two groups ( P＞0. 05) ．
+The MST in the observation group was longer than that in the control group ( ( 8. 31 ± 0. 98) months vs( 6. 24 ± 0. 72)
+months) ( LogRank χ2 = 4. 747，P= 0. 029) ． Conclusions Ginsenoside Rg3 combined with XELOX can improve the clinical
+efficacy on advanced gastric cancer，and prolong the survival of patients．
+Key words: ginsenoside Rg3; xeloda; oxaliplatin; advanced gastric cancer
+胃癌患者早期无明显症状，可采用胃癌根治术
+治疗，疾病进展到晚期主要表现为恶心、呕吐、胃痛
+等症状，常采用化学治疗
+［1］。目前，晚期胃癌的一
+线化疗方案为卡培他滨+奥沙利铂( xeloda oxalipla-
+tin－the parker，XELOX) ，虽然能一定程度上控制胃
+癌进展，但毒副作用较大，部分免疫力低下的患者常
+常无法耐受，而被迫终止治疗
+［2］。人参皂苷 Rg3 是
+从中药人参中提取的有效活性成分，可以抑制肿瘤
+血管的形成，发挥抗肿瘤的作用
+［3］。近年来研究显
+示
+［4－5］，人参皂苷 Rg3 可以用于癌症的辅助治疗，能
+提高化疗患者的免疫力和化疗敏感性。本研究观察
+人参皂苷 Rg3 联合 XELOX 方案对晚期胃癌患者生
+存期的影响，探讨其临床效果，为治疗晚期胃癌提供
+一种新视角。
+1
+资料与方法
+1. 1
+一般资料
+选择 2016 年 12 月—2018 年 12 月
+在杭州市肿瘤医院就诊的晚期胃癌患者 104 例，纳
+入标准: 均符合《临床肿瘤内科手册》中晚期胃癌的
+病理学诊断标准
+［6］，排除合并其他恶性肿瘤、无法
+耐受本研究治疗方案、预计生存期＜3 个月、合并免
+疫系统疾病、适宜手术治疗者。采用随机分组法将
+其分为对照组和观察组，每组 52 例，2 组一般资料
+差异无统计学意义( P＞0. 05) ，见表 1。本研究经杭
+州市肿瘤医院医学伦理委员会审批，患者及家属知
+情同意。
+表 1
+入组患者一般资料情况
+Table 1
+General information of enrolled patients
+组别
+性别
+( 男/女，例)
+年龄/岁
+TNM 分期/例
+ⅢA 期
+ⅢB/Ⅳ期
+病理类型/例
+管状腺癌
+黏液腺癌
+髓样癌
+弥散型癌
+观察组( n= 52)
+30/22
+61. 40±6. 21
+30
+22
+12
+16
+18
+6
+对照组( n= 52)
+29/23
+60. 58±6. 76
+28
+24
+11
+15
+16
+10
+t/χ2
+0. 039
+0. 644
+0. 162
+1. 194
+P
+0. 843
+0. 521
+0. 693
+0. 755
+1. 2
+治疗方法
+1. 2. 1
+对照组
+用奥沙利铂( 江苏恒瑞医药，规
+格: 50 mg，国药准字: H20000337) 注射液与 250 mL
+5%葡萄糖溶液混合后于疗程开始首日静脉滴注，1
+次剂量为 130 mg /m
+2，3 周 1 次。口服卡培他滨( 上
+海罗 氏 制 药 有 限 公 司，规 格: 0. 5 g，国 药 准 字:
+H20073024) ，1 天的剂量为 1 g /m
+2，分 2 次于饭后服
+用，连用 2 周，停药 1 周，21 d 为一个周期，连续治疗
+3 个月。
+1. 2. 2
+观察组
+在对照组治疗的基础上联用参一
+胶囊口服( 主要成分为人参皂苷 Rg3，厂家: 吉林亚
+泰制 药 股 份 有 限 公 司，规 格: 40 mg，国 药 准 字:
+Z20030044) ，每次 20 mg，每天 2 次，连续治疗 3 个
+月。
+1. 3
+观察指标
+1. 3. 1
+疗效
+疗程结束后，参照《RECIST 疗效评价
+标准》
+［7］观察 2 组治疗后的临床效果，完全缓解: 肿
+瘤病灶消失; 部分缓解: 肿瘤病灶最大直径缩小
+30%以上; 病情稳定: 肿瘤最大直径缩小 30%以下或
+增大 20%以下; 病情恶化: 肿瘤最大直径增大 20%
+以上。总有效=完全缓解+部分缓解。
+1. 3. 2
+免疫指标及肿瘤标志物
+于治疗前一天和
+疗程结束后，用流式细胞仪检测患者外周静脉血中
+CD3
++、CD4
++、CD8
++、CD4
++ /CD8
++ 水平，操作流程严格
+参照仪器说明书; 用酶联免疫吸附实验试剂法检测
+患 者 血 清 中 肿 瘤 坏 死 因 子-α ( tumor necrosis
+336
+健 康 研 究
+2021 年
+factor α，TNF-α) 、癌胚抗原( carcino－embryonic anti-
+gen，CEA) 浓度，实验试剂盒均购自上海研生实业有
+限公司。
+1. 3. 3
+肝肾功能
+治疗前后，收集 2 组患者静脉血
+4 mL，分离后取血清，采用 AU5800 全自动生化分析
+仪( 美国贝克曼库尔特公司) 检测血清谷丙转氨酶
+( alanine aminotransferase，ALT) 、谷草转氨酶( aspar-
+tate aminotransferase，AST) 、血尿素氮( blood urea ni-
+trogen，BUN) 、肌酐( creatinine，Cr) 。
+1. 3. 4
+不良反应
+记录 2 组患者治疗期间的不良
+反应，包括白细胞反应、血红蛋白反应、胃肠道反应。
+参照《抗癌药物毒副反应分级标准》
+［8］进行分级，0
+级为无不良反应，Ⅰ～ Ⅲ级依次为轻、中、重度。
+1. 4
+随访
+自患者接受治疗之日开始随访，每 3 个
+月经电话或门诊随访，随访截至 2019 年 12 月，所有
+患者均随访 12 个月，记录患者的生存状态。
+1. 5
+统计学方法
+用 SPSS20. 0 统计软件进行数据
+分析，满足正态分布的计量数据采用 t 检验; 分类计
+数数据组间比较采用 χ2 检验，等级计数数据组间比
+较采用非参数 Mann－Whitney U 检验; 采用生存分析
+比较 2 组患者的中位生存期，P＜0. 05 为差异具有统
+计学意义。
+2
+结果
+2. 1
+近期疗效与不良反应
+观察组治疗总有效率
+( 42. 31%) 高于对照组( 23. 08%) ，差异有统计学意
+义( P＜0. 05) 。见表 2。治疗期间，观察组和对照组
+患者白细胞反应( U = 1. 143) 、血红蛋白反应( U =
+1. 481) 、胃肠道反应( U= 0. 897) 发生例数无明显差
+异( 均 P＞0. 05) 。
+表 2
+治疗后 2 组患者的近期疗效比较［n( %) ］
+Table 2
+Comparison of short－term efficacy between two groups after treatment ［n ( %) ］
+组别
+完全缓解
+部分缓解
+稳定
+恶化
+总有效
+对照组( n= 52)
+0
+12( 23. 08)
+31( 59. 62)
+9( 17. 31)
+12( 23. 08)
+观察组( n= 52)
+0
+22( 42. 31)
+28( 53. 85)
+2( 3. 85)
+22( 42. 31)
+χ2
+4. 372
+P
+0. 037
+2. 2
+治疗前后患者的外周血 T 淋巴细胞水平变
+化
+治疗前，2 组 CD3
++、CD4
++、CD8
++、CD4
++ /CD8
++ 水
+平差异无统计学意义( P＞0. 05) 。治疗后，对照组
+CD3
++、CD4
++水平较治疗前降低，差异有统计学意义
+( P＜0. 05) ; 而 CD8
++、CD4
++ /CD8
++水平与治疗前差异
+无统计学意义( P ＞0. 05) 。治疗后，观察组 CD3
++、
+CD4
++、CD4
++ /CD8
++ 水平较治疗前均升高，CD8
++ 水平
+较治疗前降低，差异有统计学意义( P＜0. 05) 。见表
+3。
+表 3
+治疗前后 2 组患者的外周血 T 淋巴细胞水平比较( x
+－±s)
+Table 3
+Comparison of peripheral blood T lymphocyte levels between two groups before and after treatment ( x
+－±s)
+观察指标
+对照组( n= 52)
+治疗前
+治疗后
+观察组( n= 52)
+治疗前
+治疗后
+CD3
++ /%
+50. 40±5. 37
+47. 81±5. 28*
+50. 23±5. 17
+53. 68±5. 13* #
+CD4
++ /%
+30. 24±4. 29
+27. 16±4. 36*
+29. 35±4. 67
+33. 53±4. 23* #
+CD8
++ /%
+27. 04±3. 61
+25. 91±3. 44
+27. 36±3. 26
+24. 11±3. 40* #
+CD4
++ /CD8
++
+1. 12±0. 32
+1. 05±0. 28
+1. 07±0. 33
+1. 39±0. 27* #
+注: * 与本组治疗前比较，P＜0. 05; #与对照组治疗后比较，P＜0. 05。下同。
+2. 3
+治疗前后患者血清肿瘤标志物浓度比较
+治
+疗前，2 组血清 TNF-α、CEA 浓度差异无统计学意义
+( P＞0. 05) ; 治疗后，2 组 TNF-α、CEA 浓度均较治疗
+前降低，且观察组低于对照组，差异有统计学意义
+( P＜0. 05) 。见表 4。
+337
+第 3 期
+郑伊妮，等: 人参皂苷 Rg3 联合 XELOX 方案对晚期胃癌患者生存期的影响
+表 4
+治疗前后 2 组患者血清肿瘤标志物浓度比较( x
+－±s)
+Table 4
+Comparison of serum tumor marker concentrations between two groups before and after treatment( x
+－±s)
+观察指标
+TNF-α/( ng/L)
+治疗前
+治疗后
+CEA/( μg/mL)
+治疗前
+治疗后
+对照组( n= 52)
+41. 90±7. 38
+34. 86±8. 53*
+39. 79±6. 36
+34. 57±5. 93*
+观察组( n= 52)
+40. 70±7. 88
+15. 47±6. 19*
+38. 78±7. 07
+17. 62±5. 84*
+t
+0. 802
+13. 267
+0. 766
+14. 686
+P
+0. 425
+＜0. 001
+0. 446
+＜0. 001
+2. 4
+治疗前后患者血清肝肾指标水平变化
+治疗
+前及治疗后，2 组患者血清 ALT、AST、BUN、Cr 水平
+均无明显差异( P ＞ 0. 05) 。治疗后，2 组患者血清
+ALT、AST、BUN、Cr 均高于治疗前，差异有统计学意
+义( P＜0. 05) 。见表 5。
+表 5
+治疗前后 2 组患者血清肝肾指标水平比较( x
+－±s)
+Table 5
+Comparison of serum liver and kidney indexes between two groups before and after treatment( x
+－±s)
+观察指标
+对照组( n= 52)
+治疗前
+治疗后
+观察组( n= 52)
+治疗前
+治疗后
+ALT/( U/L)
+27. 16±4. 03
+61. 22±7. 46*
+28. 15±3. 28
+63. 76±7. 51*
+AST/( U/L)
+23. 18±4. 06
+70. 33±8. 54*
+23. 86±3. 19
+72. 37±8. 14*
+BUN/( mmol/L)
+3. 31±0. 51
+7. 15±0. 89*
+3. 24±0. 44
+7. 16±0. 96*
+Cr/( μmol/L)
+85. 61±18. 56
+92. 35±19. 61*
+84. 65±19. 23
+92. 33±20. 12*
+2. 5
+治疗后的生存期比较
+随访 12 个月，2 组患
+者的生存期均为 1 ～ 12 个月，观察组中位生存期为
+( 8. 31±0. 98) 月，对照组中位生存期为( 6. 24±0. 72)
+月，2 组差异有统计学意义( LogRank χ2 = 4. 747，P =
+0. 029) 。见图 1。
+图 1
+治疗后 2 组患者的生存曲线
+Figure 1
+Survival curves of two groups after treatment
+3
+讨论
+晚期胃癌是指疾病进展到终末期，已经丧失手
+术机会，化疗是其最主要的治疗手段。然而，晚期胃
+癌在接受化疗时，伴随着极大的副作用，甚至可加重
+部分患者病情，从整体上影响疗效的稳定性
+［9］。人
+参皂苷 Rg3 是从中药人参中提取的一种生物活性
+成分，可抑制肿瘤血管的形成，诱导胃癌、肺癌、乳腺
+癌等多种肿瘤细胞凋亡，常作为临床抗肿瘤治疗的
+辅助药物
+［10］。石燕燕等
+［11］研究显示，人参皂苷 Rg3
+可通过调节 PI3K/AKT 信号通路促进胃癌细胞的凋
+亡，发挥抗肿瘤作用。罗玉妍
+［12］将人参皂苷 Rg3 联
+合 5－Fu 用于胃癌荷瘤裸鼠，提示人参皂苷 Rg3 与
+化疗药物的联合应用具有明显的抑瘤作用，并可通
+过抑制血管新生防止肿瘤转移。本研究中，人参皂
+苷 Rg3 联合 XELOX 治疗晚期胃癌的总有效率明显
+高于单用 XELOX 治疗。
+本研究结果显示，人参皂苷 Rg3 联合 XELOX
+治疗可以明显提高患者外周血 CD4
++ T 淋巴细胞水
+平。CD4
++T 淋巴细胞是机体介导细胞免疫功能的中
+338
+健 康 研 究
+2021 年
+心，具有辅助机体免疫系统杀灭癌细胞的作用，在乳
+腺癌等恶性肿瘤患者中呈现低表达水平。CD8
++ 细
+胞具有细胞毒性，在乳腺癌等恶性肿瘤患者中呈现
+高表达水平。Fu 等
+［13］的研究显示，CD4
++ /CD8
++ 比
+例失衡是介导肿瘤细胞免疫逃避的主要原因，其数
+值大小与机体免疫力呈正相关，提示人参皂苷 Rg3
+联合 XELOX 方案治疗可以提高患者的免疫力，从
+而提高化疗效果。
+本研究结果还显示，人参皂苷 Rg3 联合 XELOX
+治疗后，胃癌患者的 TNF-α、CEA 水平明显低于对
+照组。TNF-α、CEA 均为肿瘤标志物，浓度水平均与
+肿瘤病情严重程度成正相关
+［14－15］，提示人参皂苷
+Rg3 联合 XELOX 方案更能提高晚期胃癌患者的免
+疫力，抑制肿瘤细胞，究其原因，可能是人参皂苷
+Rg3 能增强机体细胞免疫作用，提高了患者的化疗
+耐受性，从而提高疗效。
+本研究随访结果显示，人参皂苷 Rg3 联合 XE-
+LOX 方案治疗可以明显延长晚期胃癌患者的生存
+期，且和对照组患者的不良反应发生率及血清肝肾
+功能指标比较无明显差异，表明人参皂苷 Rg3 可以
+在提高 XELOX 方案治疗有效率的同时，还保证治
+疗的安全性。
+综上所述，人参皂苷 Rg3 联合 XELOX 方案可
+以增强晚期胃癌患者的免疫力，提高治疗的临床效
+果，延长患者的生存期。
+参考文献:
+［1］VAN CUTSEM E，SAGAERT X，TOPAL B，et al． Gastric cancer
+［J］．The Lancet，2016，10060: 2654－2664．
+［2］GUO Y，XIONG B H，ZHANG T，et al． XELOX vs． FOLFOX in
+metastatic colorectal cancer: an updated meta－analysis［J］．Cancer
+Invest，2016，34( 2) : 94－104．
+［3］JEONG D，IRFAN M，KIM S D，et al． Ginsenoside Rg3－enriched
+red ginseng extract inhibits platelet activation and in vivo thrombus
+formation［J］．J Ginseng Res，2017，41( 4) : 548－555．
+［4］林星，王峰，徐燕．人参皂苷 Rg3 联合阿帕替尼促进可诱导共刺
+激分子( ICOS) 上调的肺癌细胞免疫应答［J］． 免 疫 学 杂 志，
+2019，35( 2) : 137－142．
+［5］买二辉，李四桥，雷霆，等．人参皂苷 Rg3 联合顺铂对肝癌小鼠体
+内肿瘤的作用［J］．临床与病理杂志，2017，37( 11) : 2317－2322．
+［6］孙燕，石远凯．临床肿瘤内科手册［M］．5 版．北京: 人民卫生出版
+社，2012: 480－482．
+［7］LUO H，XU R，WANG F，et al． Phase II trial of XELOX as first－
+line treatment for patients with advanced gastric cancer ［J］．
+Chemotherapy，2010，56( 2) : 94－100．
+［8］JULKA P K，DOVAL D C，GUPTA S，et al． Response assessment
+in solid tumours:
+a comparison of WHO，SWOG and RECIST
+guidelines［J］．Br J Radiol，2008，966: 444－449．
+［9］朱晓虹，许雯，赵秋枫，等．健脾为主中药复方联合化疗延长晚期
+胃癌复治患者生存期的前瞻性同期对照研究［J］．中华中医药学
+刊，2018，36( 8) : 1844－1848．
+［10］李红涛，余娜，杨方方，等．人参皂苷 Rg3 抑制乳腺癌大鼠肿瘤
+组织中血管生长及对血管内皮细胞生长因子和基质金属蛋白
+酶－9 表达的影响［J］．中华实验外科杂志，2019，36( 5) : 812－
+815．
+［11］石燕燕，李树才，孙军．人参皂苷 Rg3 通过 PI3K/AKT 信号系统
+调控 CaM 基因表达促进胃癌 BGC－823 细胞的凋亡［J］．中国
+肿瘤生物治疗杂志，2018，25( 6) : 590－594．
+［12］罗玉妍．人参皂苷 Rg3 联合 5－Fu 对胃癌荷瘤裸鼠肿瘤侵袭转
+移及 CD133 表达的影响［D］．南京: 南京中医药大学，2014．
+［13］ FU S，QU P S，CAI S N． Effect of anesthetic methods on
+postoperative CD3+，CD4+ and CD4+ CD25+ in patients with lung
+cancer undergoing radical operation［J］．Oncol Lett，2018，16( 5) :
+6547－6551．
+［14］MA Y，REN Y，DAI Z J，et al． IL－ 6，IL-8 and TNF-α levels
+correlate with disease stage in breast cancer patients［J］．Adv Clin
+Exp Med，2017，26( 3) : 421－426．
+［15］ SHINTANI T， MATSUO Y， IIZUKA Y， et al． Prognostic
+significance of serum CEA for non－small cell lung cancer patients
+receiving stereotactic body radiotherapy［J］．Anticancer Res，2017，
+37( 9) : 5161－5167．
+339
+第 3 期
+郑伊妮，等: 人参皂苷 Rg3 联合 XELOX 方案对晚期胃癌患者生存期的影响

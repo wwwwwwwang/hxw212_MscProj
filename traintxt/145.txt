@@ -1,0 +1,1067 @@
+2022第二十四卷第二期
+*V01．24 No．2
+人参皂苷Ro延长秀丽隐杆线虫的寿命并增强
+氧化应激抵抗力六
+刘
+瑾，周
+磊，宋祯彦，郑熙隆姒，成绍武枞
+( 湖南中医药大学中西医结合心脑疾病防治湖南省重点实验室长沙410208)
+摘
+要：目的
+以秀丽隐杆线虫( ( Caenorhabdi t i s el egans，C．el egans) ，下文简称线虫) 及其突变株为生物
+模型，研究人参皂苷Ro( Gi nsenosi de—Ro，G—Ro) 对健康寿命的影响及抗氧化作用。方法
+实验设空白对照
+组、不同剂量G—Ro( 5、10、20 t xmol · L。) 药物组、阳性药物对照组( 40 p。mol · L。1二甲双胍) ，研究G—Ro对线虫
+寿命、脂褐素荧光的影响。另外，在上述基础上利用10 mmol · L。1百草枯( Paraquat ，PQ) 建立氧化损伤模型，
+探究G—Ro对线虫氧化应激状态下寿命及活性氧自由基( React i ve oxygen speci es，ROS) 的影响。利用绿色荧
+光蛋白标记的DAF一16：：GFP、SOD一3：：GFP线虫及突变株do厂_16( mu86) 分析G—Ro对DAF一16及SOD一3的
+调节作用。结果
+与空白对照组相比，20I xmol · L～G—Ro延长了线虫寿命( ：i ：：|：：|=P<0．001) ；在氧化应激模型
+中，延长线虫寿命( 乍<o．05) ；降低脂褐素荧光水平( 11．70％) 。20 p。mol · L～G—Ro降低线虫内源性ROS
+( 11．92％，冰P<0．05) ，降低氧化应激后升高的ROS( 79．67％，木P<0．001) 。与空白对照组相比，20 I 山mol · L～G—
+Ro提高叉头转录因子( Fork head box O，FOXO) 同系物DAF一16去磷酸化入核率( 51．00％) ；增强SOD一3荧光
+强度( 19．85％，：l ：：l ：术P<0．001) 。在正常及氧化应激状态下，G—Ro对突变体do厂_16( mu86) 寿命的影响均无统
+计学意义。结论在正常及氧化应激状态下G—Ro延长线虫寿命的作用，可能与其上调SOD一3，清除累积的
+ROS相关。DAF一16的转录活性可能介导G—Ro效应。
+关键词：人参皂苷Ro
+秀丽隐杆线虫
+抗衰老
+氧化应激DAF一16
+SOD一3
+doi ：10．11842／wst ．20210714009
+中图分类号：R285．5
+文献标识码：A
+衰老是一个由多种复杂的因素相互作用决定的
+生理过程，涉及细胞、组织和器官，最终导致广泛的功
+能衰退“ 1。自由基学说认为，在机体衰老的过程中，氧
+化应激反应造成氧自由基ROS累积，破坏大分子( 蛋
+白质、核酸和脂质) ，从而导致衰老口，，并诱发衰老相关
+慢性疾病形成，如心血管疾病。1、神经退行性疾病川和
+癌症” 1等。近年来衰老领域研究的蓬勃发展，大量数
+据证明衰老相关功能衰退可得到减轻，并且通过干预
+措施可以延缓衰老相关疾病发生陋1。因此，探索改善
+衰老及衰老相关疾病中氧化损伤的有效药物，对于延
+缓衰老及相关疾病的治疗具有较高的临床应用价值。
+线虫是衰老研究的理想模型，20世纪90年代首次
+发现胰岛素通路上游基因daf - 2突变体及age—J 突变
+体线虫的寿命达到野生线虫的两倍” “ 1，且大多数长寿
+的线虫突变体表现出对过氧化氢( H，O，) 、胡桃醌
+( J ugl one) 或P0诱导的氧化应激的抗性增加【91。这些
+收稿日期：2021—07—14
+修回日期：2022—01—14
+女
+国家自然科学基金委员会面上项目( 82074046) ：P53／TUGl 通路调控小胶质细胞糖代谢重编程的机制及阿司匹林姜黄素酯的靶向抗炎作用
+研究，负责人：成绍武；湖南省科学技术厅湖南创新型省份建设专项( 2019RSl 064) ：2019年湖湘高层次人才聚集工程一创新人才，负责人：成
+绍武；湖南省教育厅科研项目( 19K06) ：乙酰水杨酸姜黄素酯通过NFKB—NLRP3／STAT6一PPARl 调控小胶质细胞表型极化的机制研究，负责
+人：成绍武。
+士六
+通讯作者：成绍武，本刊编委，教授，医学博士，博士生导师，主要研究方向：神经生物学与中药抗衰老研究；郑熙隆，教授，医学博士，博士生导
+师，主要研究方向：中西医结合防治心血管疾病及机制研究。
+626
+[ Moderni zat i on of Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca—Worl d Sci ence and Technol ogy]
+万方数据
+长寿突变体还表达高水平的抗氧化应激相关蛋白，并
+且通过刺激这些相关蛋白的表达可以提高野生线虫
+抗氧化应激能力从而延长寿命l 吲。然而，增强抗氧化
+应激能力与延长寿命的机制尚不清楚。
+人参为五加科草本植物人参的根，在成书于公元
+200年左右的《神农本草经》中有相关记载，并有“ 欲轻
+身益气不老延年” 的阐述⋯ I 。几千年来，人参一直被用
+于恢复身体活力、缓解精神和身体压力、抗疲劳和延
+缓衰老” ⋯ 。人参皂苷是产生多种药理作用的主要生物
+活性成分，结构确定的皂苷成分有40余种，可分为原
+人参二醇( Prot opanaxadi ol ，PPD) 、原人参三醇
+( Prot opanaxat ri ol ，PPT) 和齐墩果酸( Ol eanol i c
+aci d，
+OA) 三类” “ 。据文献报道，人参总皂苷( Tot al
+gi nsenosi de，TGS) 对神经系统疾病、心血管系统疾病、
+代谢性疾病及癌症等疾病引起的损伤的改善作用I ” 1，
+可能源于刺激自噬、抗细胞凋亡及抗氧化应激等” ⋯ 。
+以往研究结果表明，TGS通过激活抗氧化调节和长寿
+的信号通路延长了线虫的平均寿命，增强抗氧化应
+激” ⋯ 。G—Ro具有潜在的皮肤抗光老化特性，可抵抗成
+纤维细胞中的紫外线辐射“ ⋯ 。G—Ro是人参中含量丰
+富的OA型人参皂苷，在体内通过多种途径代谢为
+OA，具有抗补体、抗炎的活性” 7。1⋯ 。另外，OA作为Ro
+的苷元，已被证明具有抗炎、抗癌和抗氧化特性” ⋯ 。
+OA可以降低南直径小于10 I xm的颗粒物( Part i cul at e
+mat t er，PM) 诱导升高的肿瘤坏死因子一d( Tumor
+necrosi s
+f act or—d，TNF一仪) 、白细胞介素一6
+( I nt erl euki n一6，I L一6) 及自噬体，从而保护皮肤免受由
+PM。引起的皮肤炎症和皮肤老化” ⋯ 。此外，OA通过调
+节DAF一16的活性，增强线虫抗逆性并降低了其细胞
+内ROS水平，从而起到延长线虫寿命的作用“ “ 。虽然
+有文献表明OA具有很好的抗衰老活性，但G—Ro抗衰
+老作用及抗氧化损伤效应尚未见报道。那么G—Ro是
+否也具有抗衰老效应及抗氧化作用?为了解决这些
+问题，我们对G—Ro是否能延长线虫寿命展开研究。
+本研究利用模式生物线虫，通过对其寿命、脂褐素、氧
+化应激反应、体内ROS等方面进行研究以及利用绿色
+荧光标记线虫荧光检测和突变体线虫寿命的分析，探
+究G—Ro的抗衰老作用及机制。结果表明，G—Ro具有
+较强的抗衰老作用和抗氧化能力。本研究对后续药
+物结构改造及开发提供了研究基础，对延长寿命和提
+高健康水平具有重要的实际意义。
+人参皂苷Ro( B21086) ，上海源叶生物科技有限公
+司；磷酸二氢钾( 7778—77—0) 、磷酸氢二钾( 7785—1 1—
+4) 、蛋白胨( P8450) ，北京索莱宝科技有限公司；氯化
+钙( 10005861) 、无水硫酸镁( 20025118) 、氯化钠
+( 10019318) ，国药集团化学试剂有限公司；琼脂
+( DH010—1) ，北京鼎国昌盛生物技术有限责任公司；
+胆固醇( 57—88—5) ，德国RUI BI O公司；无水乙醇
+( 20205315) ，吉林钟药师药业有限公司；百草枯
+( M106760) ，上海阿拉丁公司；活性氧( ROS) 检测试剂
+盒、总超氧化物歧化酶活性检测试剂盒，碧云天生物
+工程有限公司。
+所用秀丽线虫分为三大类：野生型秀丽线虫，突
+变体秀丽线虫以及用绿色荧光标记的转基因秀丽线
+虫，所用品系如下：N2( wi l d—t ype) ，TJ 356( zi ss56[ &f -
+16p??d( 旷16a／b：：GFP+rol 一61) ，CFl 553( mul s84[ pAD76
+( sod一3：：GF P) ] 1，CFl 038瞄nf _i 6( mu86j {I l 及埃希氏大
+肠杆菌OP50( Escheri ehi a．Col i ) ，均由湖南大学生物学
+院涂海军教授惠赠。
+PH一240A电热鼓风干燥箱( 上海一恒科学仪器有
+限公司) ；LRH一250A生化培养箱( 广东泰宏君科学仪
+器股份有限公司) ；化学发光凝胶成像仪( 美国BI O—
+RAD公司) ；小型台式离心机( 美国Thermo Fi sher公
+司) ；倒置荧光显微镜( 德国ZEI SS公司) ；多功能酶标
+仪( 美国Bi oTek公司) 。
+线虫培养基NGM( Nemat ode growt h medi a，NGM)
+制备：在2 L试剂瓶中混合3 g氯化钠，17 g琼脂和2．5 g
+蛋白胨，定容1 L，121。C高压灭菌1 h。随后放人55。C
+烘箱15分钟。( 在超净台上进行以下步骤) 加入l ml
+1mol · L。1氯化钙、1ml 1l l l 01· L1硫酸镁、25ml
+l mol · L。1磷
+酸钾缓冲液和hnl 5mg／ml 乙醇胆固醇，摇匀。使用分
+液泵( 分液泵乳胶管提前灭菌烘干) 将NGM溶液分配
+到培养皿中，室温静置2天，检查有无污染，随后储存
+在密闭盒巾可以使用数周” “ 。
+NGM培养基接菌：在超净台中，将大肠杆菌OP50
+( Moderni zat i on o厂Tradi t i onal
+Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+627
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+液体培养液平铺在NGM培养基上，留出空白边缘。置
+于37。C生长3 h后储存在密封的容器中可以保持
+2—3周” “ 。
+线虫同期化：将L4期野生型N2线虫，移至含有大
+肠杆菌OP50的NGM培养基上，置于20。C培养箱，培养
+2- 3天，观察其产卵情况。开始产卵4 h后，将成虫挑
+去，卵生长至L4期成虫，该批成虫即为同期化成虫。
+收集同期化线虫，随机分组[ 2“ 。
+将同期化的L4期野生型N2，daf - 16( mu86) 线虫，
+分别转移到含有3种不同浓度药物( 5、10、20 I咀mol ·
+L。1) 药物组、阳性药物对照组( 40 t 上mol · L。1二甲双胍
+( Met f ormi n，MET) ) 及空白组( 不添加药物) 的含菌培
+养I 皿中，每组50只，3个平行组，每天将线虫转至新的
+含药培养基上，并记录存活和死亡条数，持续到最后
+一条线虫死亡2“ 。线虫死亡判断：以铂丝轻碰触秀丽
+线虫后10 S无反应；线虫剔除判断：意外死亡、逃逸( 爬
+壁干燥死亡) 、囊袋虫、内部孵育。
+将同期化L4期野生型N2，d。厂- 16( mu86) 突变线
+虫，分别转移到含有3种不同浓度药物( 5、10、20
+I xmol · L。) 药物组、阳性药物对照组( 40 I xmol · L。1 MET)
+及空白组( 不添加药物) 的含菌培养皿中，每组50只，3
+个平行组。处理3天后，将药物组、1组空白组及阳性
+对照组转至含有10 mmol · L“ PQ的培养基，每12 h记
+录线虫存活数量及死亡数量，直至最后一条线虫死
+亡” ⋯ 。死亡标准同2．2。
+将同期化L4时期野生型N2线虫，分别转移到药
+物组( 20 t 上mol · L
+G—Ro) 、阳性药物对照组( 40 I xmol ·
+L。1 MET) 及空白对照组( 不添加药物) 的含菌培养皿
+中，每组20只。处理7天后，将线虫挑至含5％琼脂糖
+凝胶的载玻片，用10¨ L浓度为10 mmol · L。1的左旋咪
+唑溶液麻醉后，压片。在倒置荧光显微镜下进行观
+察，运用I mage—Pz· O P1US软件，对荧光强度进行定量
+分析124l 。
+M9缓冲液收集各组线虫并清洗后，放人有200uL PBS
+缓冲液中ep管中，随后在冰上超声破碎后，使用4℃
+12000 r· rai n。1离心，取上清，移人黑色96孔板中每个
+孑L中( 每组平行3孔每孑L) 3H 50¨ L上清液) ，再加人50
+¨ L提前稀释好的100 bLmol ·
+L
+H2DCF—DA荧光探针
+( 终浓度50 pml ol · L。1) ，实验设置不加线虫和DCFH—
+DA溶液的为空白组，只加线虫不加DCFH—DA溶液的
+为对照物，将加完样的96孑L黑板置于荧光酶标仪中立
+即检测，室温孵育30 mi n，酶标仪检测荧光，每10 mi n
+读1次数，读120 mi n，激发光为485 nm，发射光为528
+13113，测定DCF的荧光强度，从而确定ROS的浓度[ 2“ 。
+将同期化L4时期SOD一3：：GFP线虫，分别转移到
+药物组( 20 t xmol · L～G～Ro) 、阳性药物对照组( 40
+¨ mol · L“ MET) 及空白对照组( 不添加药物) 的含菌培
+养皿中，每组15只。处理3天后，将线虫挑至含5％琼
+脂糖凝胶的载玻片，使用10¨ L浓度为10 mmol · L“ 的
+左旋咪唑溶液麻醉后，压片。在倒置荧光显微镜下进
+行观察，使用hnage—Pro Pl us软件处理图像，对荧光强
+度进行定量分析” ⋯ 。
+将同期化L4时期DAF一16：：GFP线虫，分别转移到
+药物组( 20} _Lmol · L
+G—Ro) 、阳性药物对照组( 40
+¨ mol · L。MET) 及空白对照组( 不添加药物) 的含菌培
+养皿中，每组20只。处理3天后，将线虫挑至含5％琼
+脂糖凝胶的载玻片，使用10 t xL浓度为10 mnl ol · L。1的
+左旋咪唑溶液麻醉后，压片。在倒置荧光显微镜下进
+行观察，使用I mage—Pro Pl us软件处理图像。DAF一16
+进入到细胞核中，荧光聚集成点状，若荧光弥散则表
+示DAF一16蛋白还存在于细胞质中” “ 。
+所有实验重复3次，实验结果采用Pri sm
+GraphPad7统计软件分析，生存曲线实验结果采用
+Log—Rank检验进行分析，％P<0．05为差异有统计学意
+义。其余实验采用方差分析进行两组问比较，*P<
+0．05为差异有统计学意义。整体实验流程图见图1。
+将同期化L4时期野生型N2线虫，转移到空白组、
+药物组( 20¨ m01．L
+G—Ro) 各2组，阳性药物对照组1
+组，每组30只。处理7天后将1组空白组、药物组( 20
+I xmol · L
+G—Ro) 及阳性对照组转至含有10 nl mol · L“
+百草枯的培养基培养，其余组不变，处理12h之后，用
+生存分析是衡量线虫衰老最直接的指标。G—Rc，
+628
+( Moderni zat i on o／‘ Tradi ti onal Chi nese Medi ci ne andMat eri a Medi ca—Worl d Sci ence and Technol ogy]
+万方数据
+J 盯博-q；兰一，}
+．一i 一?焉锕／p，，，ri , ≯r号覃丁霹
+A
+p飞
+125
+l OO
+75
+50
+25
+O
+对线虫寿命的影
+01耐
+对抗氧化应激能
+力的影响
+探索分子机靠，l
+生存曲线
+脂褐素
+线虫体内ROS检测
+氧化应激生存曲线
+SOD一3表达量检测
+DAF．16入核率检测
+dagl 6突变体生存曲
+线及氧化应激生存曲
+线
+图1
+以线虫为模型探讨G—Ro抗衰老效应的实验流程图
+0
+15
+20
+25
+30
+Ti me( days)
+B
+125
+100
+50
+0
+a
+G—Ro延长线虫寿命
+G，Ro对DAF．16、SOD．
+3起调节作用
+0．0
+0．5
+l 0
+1．5
+2．0
+2．5
+3．0
+3．5
+4．0
+4．5
+5．0
+5．5
+6．0
+Ti me( days)
+图2
+G—Ro对线虫寿命的影响
+注：A：野生型线虫生存曲线图，与空白对照组相比，⋯ P<0 001，n=50；B：野生型线虫氧化应激条件下生存曲线图，与空白对照组相比，“ P<0 05，n
+5( ) 、
+对线虫寿命的影响实验结果( 图2A) 显示，与空白对照
+组比，5¨ mol · L
+G—Ro，未延长线虫寿命，P>O．05，元
+统计学意义；10 t xmol · L
+G—Ro延长了线虫中位生存
+期．从19．00天延长到21．00天，P>O．05，无统计学意
+义；20“ m。，1．L～G—R( ，延长了线虫中位生存期，从
+19．00天延长到20．00天，女水术P<0．001；MET延长了线虫
+中位生存期，从19．00天延长到23．00天，料冰P<0．001；
+数据表明，3个浓度G—Ro组、阳性药物组与空白对照
+组相比，G—Rc，使线虫寿命曲线右移，说明G—Rc，具有
+延长成年线虫寿命的效应，对线虫老年期的寿命延长
+尤为明显。为了确认G—Ro是否可以增加线虫的抗氧
+化损伤，采用10 mmol · L“ PQ诱导的氧化应激探究了
+( M。derni 。n￡：。凡Qr z，Ⅱdi ti 。凡n1 Chi 坨ese Medi ci ne“ nd Mat eri “ Medi cn—Tl 砀rl d Sci ence“ nd Techn。1。gY]
+629
+矿上r、p
+抓
+《p一
+秽杉
+梦．、睡℃ ．|瓣
+一装)l譬IA暑∽若ouJ。4
+一摹一一季一AJ_n∽苔ooJ9∞
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+D
+150
+00
+50
+0
+，◇ ∥
+◇ 夕
+图3
+G—Ro对线虫脂褐素的影响
+注：A、B、C：野生型线虫脂褐质荧光代表图像；1) ：脂褐素荧光定量数据分析图，与空白对照组对比，+P<O 05，⋯ P<( ) 001，H=2( ) 。
+Ro对线虫压力胁迫条件下生存率的影响。结果如图
+2B昆示，与空白对照组比，5 p．．mol · L
+G—Ro延长了线
+虫中位生存期，从6．50天延长到7．00天，P>O．05，无统
+计学意义；10¨ mo卜L—G—Ro，p>O．05，无统计学意义；
+20p。mol · 一G—Ro延长了线虫中位生存期，从6．50天
+延长到7．00天，∥ P<0．05；MET延长了线虫中位生存
+期，从6．50天延长到7．00天，斧P<0．05；数据表明，G—Ro
+能延长线虫在氧化应激状态下的寿命，具有抗氧化应
+激能力。
+衰老伴随着大分子以及细胞器的损伤和有害物
+质的累积。细胞内出现脂褐素聚集，是细胞开始衰老
+的特征，标志着细胞内清除系统功能障碍，这些变化
+具有普遍的特征。脂褐素是溶酶体降解后剩余的物
+质，具有自发荧光特性，被广泛认可的衰老标志
+物m3。2⋯ 。在线虫中，脂褐素南肠道颗粒的邻氨基苯甲
+酸酯所致，又称为“ 肠道颗粒” 可以通过荧光思微镜检
+测其自发荧光强度” ⋯ 。由图3D可知，与空白组对照组
+相比，20斗rnol · L—G—Ro药物组的线虫体内脂褐素荧
+光强度降低( 11．17％，术P<0．05) 。数据表明，G—Ro缓
+解了线虫与年龄相关的身体衰退的特征，这表明蠕虫
+的健康状况有所改善。
+随着蠕虫年龄的增长，对外部刺激的抵抗力急剧
+下降，细胞内ROS累积。当刺激由氧化剂产生时，不
+断增加的ROS可能是衰老过程的原因。为了探究G—
+Ro增强线虫抗氧化应激能力的原因，本研究选择2 7，
+7’
+一二氯二氢荧光素二乙酸酯( H2DCF—DA) 检测了G—
+Ro对线虫内源性ROS水平的影响。结果如图4所示，
+20 p．．mol · L～G—Ro处理7天后，线虫体内ROS的水平
+与空白对照组相比显著降低( 1 1．92％，：l =P<o．05) ，表明
+20 p．．mol · L～G—Ro能降低了线虫内源性ROS水平。同
+630
+( Moderni zat i on可‘ Tradi t i onal
+Chi nese Medi ci ne andMat eri a Medi ca—Worl dSci ence and Technol ogy]
+万方数据
+o
+>
+皇
+∽o
+配
+250
+200
+150
+100
+50
+0
+梦
+笋
+◇
+图4
+G—Ro对线虫ROS水平的影响
+与空白对照组( cont r01) 相比．+P<O 05：与模型组( model ) 相比．“ 4P<0 001．n=30。
+D
+150
+100
+叩亩50
+o口
+O
+《
+◇ ∥
+图5
+G—Ro对线虫SOD一3荧光表达的影响
+A、B、C：SOD 3：：GFP的转基因菌株CFl 553线虫荧光代表图像；D：SOD
+3荧光表达半定量数据分析图，与空白
+( Moderni zat i on o厂Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci en
+∥。
+．∥
+芦◇
+。∥
+∥ 带
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+D
+∥ ◇ ∥
+图6
+G—Ro对线虫FOXO／DAF一16转录因子的影响
+A、B、C：DAF一16：：GFP线虫荧光定位代表图像；D：DAF一16：：GFP线虫荧光定量数据分析图，n=20
+1给与20¨ mol · L
+G—Ro处理7天，再给与10 mmol ·
+。1 PQ诱导的氧化应激处理后，线虫体内ROS水平升
+i ，而与模型组相比20 I xmol · L～G—Ro处理的线虫体
+j ROS显着降低( 79．67％，％：l =：l ：P<o．001) 。本次实验表
+j ，G—Ro不经能减少线虫内源性ROS的产生，而且能
+《少氧化应激状态下ROS的产生。而较低的ROS水
+二可能与其延长健康寿命及增强抗氧化应激能力
+j 关。
+抗氧化防御系统维持氧化还原平衡，清除体内累
+{ 的ROS。线虫体内SOD一3是DAF一16的转录靶点
+：一，编码线粒体内清除自由基的超氧化物歧化酶
+I n—SOD[ 2“ 。因此，我们利用含有SOD一3：：GFP的转基
+j 菌株CFl 553来确定G—Ro是否调控SOD一3的表达。
+；验结果如图5D所示，20¨ mol · L
+G—Ro处理诱导的
+i 光强度比对照增加了( 19．85％，％％冰P<0．001) 。这些
+；果表明，其上调SOD一3表达，提高了线虫体内抗氧
+化酶的水平，这可能是诱导ROS减少的原因之一。
+DAF一16是叉头转录冈子FOXO同系物，FOXO蛋
+白家族参与氧化应激调控，DNA修复，寿命调节等。
+DAF一16作为线虫体内多种信号通路的中心调节因
+子，调控线虫长寿、发育、抗逆性和繁殖。2” 2⋯ 。为了探
+究G—Ro是否可以调控转录因子DAF一16，首先验证了
+G—Ro是否可以激活DAF一16，引起DAF一16核定位，选
+用DAFl 6：：GFP线虫，给药72 h后，在荧光显微镜观察
+DAF一16荧光定位。在荧光显微镜下观察到线虫体内
+多个点状聚集，说明DAF一16去磷酸化后从细胞质进
+入到细胞核中聚集，聚集点越多说明DAF一16核转入
+情况越多。如图6D所示，与对照组相比20 I xmol · L“
+G—Ro使DAF一16核转入增加51．00％。实验结果表明，
+G—Ro对线虫体内转录因子DAF一16具有调节作用，能
+够促使DAF一16入核，这可能与其延长线虫寿命相关。
+}2
+[ Moderni zat i on oJ ‘ Tradi t i onal Chi nese Medi ci ne andMat eri a Medi ca—Worl d Sci ence and Technol ogy]
+∞
+药
+∞
+乃
+如
+巧
+。
+一摹一山‰_9==∞一己《o岫o
+IIo一葛NII回。o一高。一u声z
+万方数据
+世界科学技术一中医药现代化★中药学研究
+10
+15
+Ti me( days)
+B
+图7
+G—Ro对D矿16( mu86) 突变线虫寿命的影响
+注：A：D口r_16( , m86) 突变线虫生存曲线图．n=50：B：Dqf - 16( mu86) 突变线虫氧化应激生存曲线图，n=50。
+基于之前的G—Ro能够促使DAF一16促进转录因
+子转录实验结果，进一步探索G—Ro是否通过调节
+DAF一16通路延长线虫寿命。的实验结果显示，G—Ro
+处理的突变体&f - 16 mu86) 线虫的寿命曲线与对照
+相似，无统计学意义( 冈7A) 。本次实验表明DAF一16
+转录因子可能是G—Ro诱导的寿命延长的关键因子之
+一。另外，在之前的实验结果分析中观察到了G—Ro
+能提高线虫抗氧化应激能力。为了阐明DAF一16可能
+与G—Ro提高线虫抗氧化应激的能力有关，使用突变
+株d“ 厂_16( mu86) 进行急性氧化应激状态下寿命分析。
+在10 mmol ·
+L。PQ的急性氧化损伤的状态下，20
+t xmol ·
+L
+G—Ro未能起到延长应激状态下aaf - 16
+( mu86) 突变体的寿命( 图7B) 。突变体dn厂- 16( mu86)
+逆转了G—Ro带来的长寿效应，这也证实了daf _16基
+因与G—Ro介导的寿命延长效应相关。另外，在氧化
+应激状态下，d。厂_16( mu86) 突变体也逆转了G—Ro带
+来的长寿效应，这说明其抗氧化应激能力可能与daf -
+16基因功能相关。
+4讨论
+衰老是必然的，但寻找延缓衰老的药物是有可能
+的。《素问· 上古天真论》云：“ 五七，阳明脉衰，面始焦，
+发始堕” ，是指衰老是从“ 阳明脉衰” 开始的，阳明脉
+衰，也就是脾胃的虚衰12⋯ 。老年疾病中脾虚占较大比
+例，因此，“ 健脾” 在衰老的治疗中显得尤为重要。人
+参性微寒，入脾、肺、心经，具有大补元气、补虚、抗衰
+2．5
+3．0
+3．5
+4．0
+4．5
+5．0
+5．5
+6．0
+Ti me( days)
+老等作用，是治疗衰老相关疾病的常用药物“ 4” 1。人
+参皂苷作为人参中主要活性物质已经广泛应用于衰
+老相关疾病的基础研究及临床治疗，其中OA型人参
+皂苷单体G—Ro对衰老相关疾病有确切疗效，如预防
+血栓形成【” 1，抗肿瘤活性等” 6I 。但其延缓衰老的基础
+研究较少，对抗衰老及治疗衰老相关疾病过程的影响
+机制尚待阐明。MET是治疗2型糖尿病的一线用药，
+服用MET可延长糖尿病患者寿命。此外，MET还能降
+低心血管疾病、癌症、代谢综合征和认知障碍的发病
+率。因此MET对人类衰老与年龄相关疾病的保护作
+用展开了大量的研究，并且有实验证明MET能延长小
+鼠及线虫等动物的健康寿命” ⋯ 。线虫在衰老研究领域
+具有多种优势，其生存曲线是药物抗衰老能力评估的
+金标准【3⋯ 。本研究以线虫为实验对象，以MET为阳性
+药物对照，探究了G—Ro的抗衰老效应。本次实验绘
+制了不同浓度G—Ro及MET饲喂的野生线虫的生存曲
+线，结果表明G—Ro与MET的作用相似，不仅延长自然
+状态下野生线虫的最大寿命，而且延长了线虫的平均
+寿命。这说明G—Ro能有效延长线虫寿命，并且能使
+该种群中的大部分获益。衰老是多因素参与的极其
+复杂的生理过程，为进一步评价G—Ro的抗衰老效应，
+选用脂褐素荧光检测作为衰老的相关参数。线虫体
+内包含多种白发荧光物质，脂褐素是其中一种。脂褐
+素的积累与寿命成反比，其荧光强度被认为是衰老的
+指标之一。本实验通过DAPI 通道检测线虫体内的自
+发荧光强弱，来研究G—Ro对线虫体内脂褐素的影响。
+实验结果表明用G—Ro处理7天的线虫体内脂褐素累
+( Moderni zat i on o厂Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+633
+瞵
+㈣
+A
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+———————÷ }激活
+抑制
+D八
+G—Ro＼—一，
+Heal t hy l i f espan ext ensi on
+十
+Oxi dat i ve st ress resi st ance
+图8
+G—Ro通过调节DAF一16诱导线虫长寿的分子机制示意图
+积比野生线虫的体内脂褐素累积明显减少。实验结
+果说明G—Ro不只是延长线虫寿命，更进一步的改善
+了健康参数。
+目前衰老假说有很多种，其巾氧化应激假说认为
+机体在遭受有害刺激时，体内活性氧ROS产生过多，
+超出了机体的清除速度，氧化系统和抗氧化系统失
+衡，引起氧化损伤。衰老过程中机体抗氧化酶的减少
+导致清除ROS的能力减弱，氧化损伤随着机体的衰老
+而逐渐累积，破坏大分子，造成细胞、组织功能老化或
+丧失，甚至发生癌变” ⋯ 。近年来，越来越多的研究利用
+线虫来探索中草药的抗氧化活性，如姜黄素、槲皮素、
+马齿苋等，这些中草药对PQ引起的虫体内活性氧水
+平升高均有抑制作用” ⋯ 。前期有报道证明，TGS明显
+改善了与年龄相关的活动能力，脂褐素积累，并增强
+了氧化应激下的抵抗力” “ 。本实验利用PQ建立氧化
+损伤模型，用10 mmo] · L。1百草枯处理会产生大量的活
+性氧ROS，ROS的过度积累通常会导致线粒体功能障
+碍，加速衰老的过程，因此被广泛用作线粒体呼吸链
+的应激源” 5l 。为探究TGS中含量丰富的G—Ro单体是
+否能抗氧化应激，本实验绘制了给药G—Ro的线虫在
+氧化应激状态下的生存曲线。结果表明，在氧化损伤
+状态下，G—Ro延长的线虫的平均寿命及中位生存期，
+表明G—Ro增强了线虫的氧化应激耐受能力。但是氧
+化应激抵抗力增加并不一定能延长寿命。从生理的
+角度看，ROS能抵抗外界刺激，被认为有助于抗衰老。
+但是，随着机体衰老导致自身抗氧化的能力下降，不
+能清除蓄积过多的ROS，氧化与抗氧能力的失衡，形
+成恶性循环，进而导致细胞、组织及器官的结构和功
+634
+( Moderni zat i on可‘ Tradi t i onal Chi nese Medi ci ne andMat eri a Medi ca—Worl d Sci ence and Technol ogy]
+万方数据
+世界科学技术一中医药现代化★中药学研究
+能逐渐丧失” 1。本实验检测了线虫内源性ROS含量及
+在PQ诱导的氧化应激状态下体内ROS水平的变化。
+实验结果表明G—Ro处理7天后，降低了内源性ROS
+水平及PQ诱导的线虫内升高的ROS水平。实验表
+明，G—Ro不仅能减少线虫内源性ROS的产生，而且具
+有与MET相似的减少氧化应激状态下ROS的产生的
+作用。而较低的ROS水平可能与其延长健康寿命及
+增强抗氧化应激能力相关。
+ROS的清除主要依赖于抗氧化酶，其中最重要的
+是超氧化物歧化酶( Superoxi de di smut ase，SOD) 。线
+虫体内SOD一3是DAF一16的转录靶点之一，编码线粒
+体内清除自由基的超氧化物歧化酶Mn—SOD2“ 。
+DAF一16在胰岛素信号通路( I nsul i n recept or si gnal i ng
+pat hway，I I S) 下游发挥作用，调节dauer形成、寿命、脂
+肪代谢、应激反应和先天免疫” ⋯ 。I I S途径具有调节衰
+老的效应，并且是多物种保守的，包括斑马鱼、果蝇、
+线虫、小鼠，甚至人类” “ 。在野生线虫中，I I S途径( 如
+图8) 由胰岛素样配体结合胰岛素样生长因子1
+( I nsul i n l i ke growt h f act or一1，I GF一1) 跨膜受体( I nsul i n／
+I GF一1
+t ransmembrane recept or，I GFR) 同源DAF一2启
+动。DAF一2激活后诱导磷酸肌醇3一激酶
+( Phosphoi nosi t i de 3- ki nase，P13K) 同源AGE一1激活和
+招募，进而激活丝氨酸／苏氨酸激酶PDK一1、AKT一1和
+AKT一2，使DAF一16磷酸化，停留在细胞质中不能人
+核，无法发挥转录活性；当线虫受到外界压力时，
+DAF一16蛋白去磷酸化后，进入细胞核并在细胞核中
+积累，调节下游靶基因，如SOD[ 28] o我们利用含有
+SOD一3：：GFP的转基因菌株来确定G—Ro是否调控
+SOD一3的表达。实验数据显示，G—Ro处理上调了
+SOD一3的表达，提高了线虫体内抗氧化酶的水平，这
+可能是诱导ROS减少的原因之一。据文献报道，大量
+中草药如当归、何首乌、黄芪甲苷和枸杞多糖等，通过
+调节DAF一16活性延长线虫的平均寿命并减少ROS累
+积，增强了氧化应激抵抗力” ⋯ 。SOD一3的表达可被
+DAF一16调控【2⋯ ，DAF一16在衰老氧化应激调节中起核
+心作用，本研究利用DAF一16：：GFP荧光蛋白标记线
+虫，给予G—Ro处理后，在荧光显微镜下检测线虫肠内
+细胞质中进入细胞核的比例显著增加。但是G—Ro处
+理的突变体do厂_16( mu86) 在正常及氧化应激状态下
+的生存曲线分析无统计学意义。实验数据表明G—Ro
+提高其转录活性，并且DAF一16的转录活性对于线虫
+寿命延长是不可或缺的，这与以前报道的DAF一16激
+活可以延长寿命相互佐证。另外，G—Ro与阳性对照
+药MET作用相似，对线虫体内SOD一3的上游转录因子
+DAF一16具有调节作用，这可能与其延长线虫寿命
+相关。
+G—Ro作为OA型人参皂苷，含量丰富，在抗衰老
+方面具有潜在的药用价值，为进一步抗衰老研究提供
+了实验基础。然而，目前G—Ro的研究主要集中在抗
+肿瘤及抗血小板聚集，而未展开其抗衰老作用及机制
+的探索。因此，实验数据提供了第一个证据来证明G—
+Ro的抗衰老作用，鼓励了进一步的临床研究。我们目
+前的研究表明，G—Ro对线虫寿命的延长作用及作用
+机制类似于阳性药物二甲双胍。而二甲双胍相比需
+要剂量大，使用的G—Ro剂量仅为二甲双胍的八分之
+一。另外，二甲双胍存在副作用，糖尿病患者服用后
+可能出现胃肠道不适及乳酸酸中毒。“ 。这些数据表明
+G—Ro具有优势。G—Ro无论是在正常条件下，还是在
+氧化应激条件下，都能以剂量依赖的方式显著延长野
+生型蠕虫的健康寿命，提示G—Ro具有通过提高生物
+利用度来提供抗衰老和抗应激的潜力。G—Ro降低了
+内源性ROS的产生，并且上调了具有能清除ROS的酶
+SOD一3的水平，提示G—Ro具有抗氧化作用的潜在机
+制，可能是通过上调SOD一3相关。进一步实验证明，
+G—Ro增加了DAF一16的核易位，并且d。厂_J 6基因突变
+消除了G—Ro延长寿命的效应，表明G—Ro对线虫体内
+SOD一3的上游转录因子DAF一16的调节作用，提示G—
+Ro延长线虫寿命可能与DAF一16的转录活性相关。
+通过do厂- 16( mu86) 突变体氧化应激生存分析，表明
+DAF一16功能缺失的情况下，G—Ro失去了延长氧化应
+激状态下延长寿命的效应，提示G—Ro抗氧化应激可
+能与DAF一16转录活性相关。
+综上所述，研究结果表明，在正常状态及氧化应
+激状态下G—Ro延长线虫寿命的作用，可能与上调
+SOD一3和清除体内累积的ROS的功能相关。DAF一16
+的转录活性可能介导G—Ro效应。关于G—Ro效应背
+后的机制，还需要进行更多的研究。我们的研究为开
+发新型抗衰老药物开辟了新的途径。
+( Moderni zat i on of Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+635
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+1
+Mi t t el brunn M，Kroemer G．Hal l marks of T cel l agi ng．Nat
+I mmunol ，
+2021，22( 6) ：687—698．
+2
+Si es
+H，J ones
+D P．React i ve
+oxygen speci es( ROS) as
+pl ei ot ropi c
+physi ol ogi cal
+si gnal l i ng
+agent s．Nat Rev Mol
+Cel l
+Bi ol ，2020，21( 7) ：
+363—383．
+3
+Zhang Y，Murugesan P，Huang K，et a1．NADPH oxi dases and oxi dase
+crosst al k i n cardi ovascul ar di seases：novel t herapeut i c t arget s．Nat
+Rev
+Cardi ol ，2020，17( 3) ：170—194．
+4
+St ockwel l
+B R，Fri edmann A J
+P，Bayi r
+H，et
+a1．Ferropt osi s：a
+regul at ed cel l
+deat h
+nexus l i nki ng
+met abol i sm，redox bi ol ogy，and
+di sease．Cel l ，2017，171( 2) ：273—285．
+5
+Hayes J D，Di nkova—Kost ova A T，Tew K D．Oxi dat i ve st ress i n
+cancer．
+Cancer Cel l ，2020，38( 2) ：167—197．
+6
+Pagt ri dge L，Fuent eal ba M，Kennedy B K，et a1．The quest
+t o sl ow
+agei ng
+t hrough drug
+di scovery．Nat
+Rev Drug Di scov，2020，19( 8) ：
+513- 532．
+7
+Ki nmra KD，Ti ssenbap—MHA，Li u Y，et a1．daf - 2，an i nsul i n recept or—
+l i ke
+gene
+t hat
+regul at es
+l ongevi t y and di apause
+i n
+Caenorhabdi t i s
+el egans．Sci ence，1997，277( 5328) ：942—946．
+8
+J ohnson T E．I ncreased l i f e—span
+of age一1 mut ant s i n Caenorhabdi t i s
+el egans and l ower
+Gompert z
+rat e
+of agi ng．Sci ence，1990，249( 4971) ：
+908- 912．
+9
+Wi l ki nson D
+S，Tayl or R C，Di l l i n
+A．Anal ysi s
+of
+agi ng
+i n
+Caenorhabdi t i s el egans．Met hods
+Cel l Bi ol ，2012，107：353—381．
+10
+Li n K，Dornl an
+J
+B，Rodan A，et
+a1．Daf - 16：An HNF- 3／f orkhead
+f anf i l y
+member
+t hat
+can
+f unct i on
+t o
+doubl e
+t he
+l i f e—span
+of
+Caenorhabdi t i s el egans．Sci ence，1997，278( 5341) ：1319—1322．
+11孙巧思．古代本草著作中延年药物的研究．北京：中国中医科学院
+博士研究生学业论文，2017．
+12
+Pat el
+S，Rauf A．Adapt ogeni c herb gi nseng( Panax) as medi cal
+f ood：
+St at us
+quo and f ut ure
+prospect s．Bi omed Pharmacot her，2017，85：
+120一127．
+13
+Wang
+C，Li u
+J ，Deng
+J ，et
+a1．Advances
+i n
+t he
+chemi st ry，
+pharmacol ogi cal di versi t y，and met abol i smof 20( R) 一gi nseng saponi ns．
+J Gi nseng Res，2020，44( 1) ：14—23．
+14
+Huang Q，Gao S，Zhao D，et
+a1．Revi ew of
+gi nsenosi des
+t arget i ng
+mi t ochondri al
+f unct i on t o t reat
+muhi pl e di sorders：Current
+st at us and
+perspect i ves．J Gi nseng Res，2021，45( 3) ：371—379．
+15
+Wang
+H，Zhang S，Zhai
+L，et
+a1．Gi nsenosi de ext ract
+f rom gi nseng
+ext ends
+l i f espan
+and heahh
+span
+i n Caenorhabdi t i s
+el egans．Food
+Funct，2021，12( 15) ：6808．
+16
+Zhu S，Zou K，Cai
+S，et a1．Si mul t aneous det ermi nat i on of
+t ri t erpene
+saponi ns
+i n
+Gi nseng
+drugs
+by
+hi gh—perf ormance
+l i qui d
+chromat ography．ChemPhnrmBul l ．2004．52( 8) ：995—998．
+17
+Kang H J ，Lee
+S，Ryu
+I W，et
+a1．Ant i oxi dat i ve
+propert i es
+of
+gi nsenosi de
+Ro
+agai nst
+UV—。B—。i nduced
+oxi dat i ve
+st ress
+i n
+human
+dermal
+f l brobl ast s．Bi osci
+Bi ot echnol
+Bi ochem，2015，79( 12) ：2018-
+2021．
+18
+Zeng K，Li
+Y，Wang S，et a1．I nhi bi t i on of
+aut ophagosome—l ysosome
+f usi on by gi nsenosi de Ro vi a t he ESR2——NCFl ——ROS pat hway sensi t i zes
+esophageal
+cancer
+cel l s
+t o 5- f l uorouraci l —i nduced cel l
+deat h vi a t he
+CHEKl 一medi at ed DNA damage checkpoi nt ．Aut ophagy，2016，12( 9) ：
+1593．
+19
+Han J ，Ki mM，Ban Y，et a1．The i nvol vement of B—Amyri n 28一Oxi dase
+( CYP716A52v2) i n ol eanane—t ype gi nsenosi de bi osynt hesi s
+i n panax
+gi nseng．Pl ant
+Cel l Physi ol ，2013，54( 12) ：2034．
+20
+Tspi l al as
+D，Fragki adaki
+P，Docea A 0，et a1．Di scovery
+of
+pot ent
+t el omcrase
+act i vat ors：Unf ol di ng
+new
+t herapeut i c
+and
+ant i —agi ng
+perspect i ves．Mol Med Rep，2019，20( 4) ：3701．
+21
+Ki mY J ，Lee J E，J ang HS，et a1．Ol eanol i c aci d prot ect s t he ski n f rom
+part i cul at e
+nl at t er—i nduced
+agi ng．Bi omol
+Ther( Seoul ) ，2021，29
+( 2) ：220．
+22
+Zhang J ，Lu L，Zhou L．Ol eanol i c
+aci d
+act i vat es daf - 16
+t o
+i ncrease
+l i f espan
+i n
+Caenorhabdi t i s
+el egans．Bi ochem Bi ophys Res Commun，
+2015，468( 4) ：843—849．
+23
+St i ernagl e T．Mai nt enance of C．el egans．WormBook．2006．11：1—11．
+24
+Li
+J ，Cui
+X，Wang
+Z，et
+a1．rBTI
+ext ends
+Caenorhabdi t i s el egans
+l i f espan by
+mi nf i cki ng
+cal ori e
+rest ri ct i on．Exp
+Geront ol ，2015，67：
+62—71．
+25
+Nemot o—Sasaki
+Y，Kasai
+K．Del et i on of
+l ec一10，a gal ect i n—encodi ng
+gene，i ncreases
+suscept i bi l i t y
+t o
+oxi dat i ve
+st ress
+i n
+Caenorhabdi t i s
+el egans．Bi ol PharmBul l ，2009，32( 12) ：1973—1977．
+26
+Hal l
+D H，Hart wi eg E，Nguyen K C．Modern
+el ect ron mi croscopy
+met hods f or C．el egans．Met hods Cel l Bi ol ，2012，107：93- 149．
+27
+Hoogewi j s
+D，Hout hoof d
+K，Mat t hi j ssens
+F，et
+a1．Sel ect i on and
+val i dat i on of
+a set of rel i abl e ref erence genes f or quant i t at i ve sod gene
+expressi on anal ysi s
+i n C．el egans．BMC 550 Mol
+Bi ol ，2008，9：9．
+28
+Chow D K，Gl enn
+C F，J ohnst on
+J
+L，et
+a1．Sarcopeni a
+i n
+t he
+Caenorhabdi t i s el egans pharynx correl at es wi t h muscl e cont ract i on rat e
+over l i f espan．Exp Gerontol ，2006，41( 3) ：252—260．
+29
+Gems D，Coburn C．The myst eri ous
+case of t he C．el egans gut
+granul e：
+deat h f l uorescence，ant hrani l i c aci d and t he kynureni ne pat hway．Front
+Genet ，2013，4：151．
+30
+Al t i nt as O，Park S，Lee S V．The rol e of i nsul i n／I GF一1 si gnal i ng i n t he
+l ongevi t y of model i nvert ebrat es，C．el egans and D．mel anogast er．BMB
+Rep，2016，49( 2) ：81- 92．
+31陈学忠．中医衰老理论的继承和发展．中国中西医结合学会虚证与
+老年病专业委员会．第七次全国中西医结合虚证与老年病学术会
+议论文摘要集，2003：166—169．
+32陈超，王丹丹，程磊，等．《中华人民共和国药典} 2020年版和国外
+药典的药包材标准体系概述．中国医药工业杂志，2021，52( 2) ：
+267- 271．
+33
+Kwon H．I nhi bi t ory ef f ect s of Gi nsenosi de Ro on cl ot ret ract i on t hrough
+suppressi ng P13K／Akt si gnal i ng pat hway i n human pl at el et s．Prey Nut r
+Food Sci ，2019，24( 1) ：56．
+34
+Chen
+J ，Ou Y，Li
+Y，et
+a1．Met f ornf i n ext ends
+C．el egans
+l i f espan
+t hrough l ysosomal pat hway．E1i f e，2017，6：e31268．
+35
+Sni der
+T A，Ri chardson A，St oner
+J
+A，et
+a1．The Geropat hol ogy
+636
+[ Moderni zat i on of Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca—Worl d Sci ence and Technol ogy]
+万方数据
+世界科学技术一中医药现代化★中药学研究
+Gradi ng Pl at f orm demonst rat es
+t hat
+mi ce
+nul l
+f or Cu／Zn—superoxi de
+di smut ase
+show
+accel erat ed
+bi ol ogi cal
+agi ng．Gerosci ence，201 8，
+40( 2) ：97．
+36
+Wang
+L，Zuo X，Ouyang Z，et a1．A syst emat i c revi ew of
+ant i agi ng
+ef f ect s
+of
+23 t radi t i onal
+chi nese medi ci nes．Evi d Based Compl ement
+Ahernat Med，2021，2021：5591573．
+37
+Di l berger B，Ba斗Manns
+S，Schmi t t
+F，et
+a1．Mi t ochondri al
+oxi dat i ve
+st ress i mpai rs
+energy
+met abol i sm and reduces
+st ress resi st ance and
+l ongevi t y of C．El egans．Oxi d Med Cel l Longev，2019，2019：6840540．
+38
+Tat ar
+M，Bart ke A，Ant ebi
+A．The endocri ne regul at i on of
+agi ng by
+i nsul i n- l i ke si gnal s．Sci ence，2003，299( 561 1) ：1346—1351．
+39
+Sal ui a M，Pareek K K，Swami
+Y K．St udy
+of
+di versi t y of
+mef f ormi n
+rel at ed gast roi nt est i nal
+si de ef f ect s．J Assoc Physi ci ans I ndi a，2020，68
+f8) ：36—38．
+Gi nsenosi de Ro Prol ongs Longevi t y and Enhances St ress Resi st ance i n Caenorhabdi t i s el egans
+Li u f i n，Zhou Lei ，Song Zhenyan，Zheng Xi l ong，Cheng Shaowu
+( Key Lab of Hunan Provi ncef or Prevent i on and Treat ment of Cardi o—cerebral
+Di sease wi t h I nt egrat ed
+Tradi t i onal Chi nese and West ern Medi ci ne，Hunan Uni versi t y of Chi nese Medi ci ne，
+Changsha 410208，Chi na)
+Abst ract ：0bi ect i ve
+To st udy t he ef f ect s
+of
+Gi nsenosi de Ro( G—RO) on heal t h
+l i f e
+and ant i oxi dant
+act i vi t y
+of
+Caenorhabdi t i s el egans( C．el egans) and i t s
+mut ant
+st rai ns
+as bi ol ogi cal
+model s．Met hods
+The bl ank cont rol
+group，
+di f f erent doses of G- Ro( 5，10，20斗mol · L- 1) groups and posi t i ve cont rol group( 40 I xmol · L_。mef f ormi n) were set up t o
+st udy t he ef f ect s of G—Ro on t he l i f espan and l i pof usci n f l uorescence of C．el egans．The oxi dat i ve damage model
+was
+est abl i shed by usi ng
+1 0 mmol · L‘
+1 paraquat ( PQ) t o i nvest i gat e t he ef f ect s of G—Ro on React i ve oxygen speci es( ROS) i n
+C．el egans．We used DAF一16：：GFP，SOD一3：：GFP，and mut ant
+dc}产16( mu86) t o expl ore t he mechani sm of
+G—Ro．
+Resul t s
+Compared wi t h t he bl ank cont rol group．20 p。mol · L
+1 G—Ro prol onged t he l i f espan of c．el egans( 米米术P<0．00 1)．
+I n t he oxi dat i ve st ress model
+const ruct ed by PQ，t he l i f espan of nemat ode was prol onged( ” P<O．05) ．The f l uorescence
+l evel
+of 1i pof usci n decreased by 11．70％．20 I ．zmol · L～G—Ro decreased ROS 1evel s( 11．92％，：l ：P<0．05) ，decreased ROS
+l evel s
+af l er oxi dat i ve
+st ress i nduced by
+10 mm01· L。1 PQ( 79．67％，：l =P<0．001) ，i ncreased Fork head box O( FOXO)
+homol ogous Daf - 16
+dephosphoryl at i on i nt o nucl eus rat e( 51．00％) ，i ncreased t he f l uorescence
+i nt ensi t y of
+SOD一3
+( 19．85％，术水术P<0．001) ．However，t he ef f ect
+of G—Ro on t he l i f espan of
+mut ant d衫1- J 6( mu86) was
+not
+st at i st i cal l y
+si gni f i cant under normal
+and oxi dat i ve st ress
+condi t i ons．Concl usi on
+The ef f ect
+of G—Ro on prol ongi ng l i f e span of
+nemat odes under normal
+and oxi dat i ve
+st ress condi t i ons may be rel at ed t o up—regul at i on of SOD- 3 and cl earance of
+accumul at ed ROS．Transcri Dt i onal
+act i vi t y of DAF- 16 may medi at e G- Ro ef f ect．
+Keywords：Gi nsenosi de Ro，Caenorhabdi t i s el egans，Ant i - agi ng，Ant i oxi dat i ve st ress，DAF一16，SOD一3
+( 责任编辑：周阿剑、郭思宇，责任译审：周阿剑，审稿人：王璃、张志华)
+( Moderni zat i on of Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+637
+万方数据

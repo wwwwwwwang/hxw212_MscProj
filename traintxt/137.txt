@@ -1,0 +1,732 @@
+162
+2021, V01．42, No．07
+畏晶科学
+※ 营养卫生
+人参皂苷Rh2．壳聚糖纳米粒子制备及对A549
+细胞的抑制作用
+顾倩1，周
+静1’
+2，张建梅1，尚志1，沈婷1，杨晓君2一，胡卫成1’
+2滞
+( 1．淮阴师范学院江苏省区域现代农业与环境保护协同创新中心，江苏淮安
+223300；
+2．新疆农业大学食品科学与药学学院，新疆乌鲁木齐830052)
+摘要：人参皂苷Rh2是一种具有抑制肿瘤生长功效的生物活性物质。本实验采用离子交联的方法制备壳聚糖纳米
+粒子包载人参皂苷I Lh2，以解决Rh2的水溶性差、生物相容度低的问题。以纳米粒子的粒径、Zet a- 电位为评价指标，
+对制备条件( 聊( 壳聚糖) ：m( 三聚磷酸钠) 、壳聚糖分子质量以及Rh2投药量) 进行探究，筛选纳米粒子最佳成球
+条件；通过透射电子显微镜、原子力显微镜对纳米粒子形态进行观察，采用x射线衍射考察晶型变化；最后通过体外
+实验探究载药纳米粒子对人非小细胞肺癌A549细胞增殖的影响以及细胞对其的摄取行为。结果表明，最优条件( m( 壳
+聚糖) ：m( Rh2) ：川( 三聚磷酸钠) 为8：1．5：2、壳聚糖分子质量为50kDa) 下制备得到的载药纳米粒子粒径和Zet a- 电
+位分别为( 222．70± 17．34) Bi n和( 46．50± 2．57) mV，载药量和包封率分别为7．89％并D49．54％，载药纳米粒子分布均
+一、性能稳定，适用于药物递送。细胞实验结果显示载药纳米粒子能够被A549细胞摄取，较游离药物抑S J ] A5492N胞
+的增殖作用增强。研究表明离子交联法制备而成的壳聚糖纳米粒子是一种具有应用前景的Rh2递送载体。
+关键词：壳聚糖；纳米粒子；离子交联；人参皂苷Rh2
+Preparat i on of Gi nsenosi de Rh2一Loaded Chi t osan Nanopart i cl es and I t s Cyt ot oxi ci t y t o A549 Cel l s
+GUQi anl ，ZHOU J i n91’
+。，ZHANG J i anmei l ，SHANGZhi l ，SHENTi n91，YANGXi aoj un2一，HU Wei chen91’ 2' 半
+( 1．J i angsu Col l aborat i ve I nnovat i on Cent er of Regi onal ModemAgri cul t ure&Envi ronment al Prot ect i on，Huai yi n Normal Uni versi t y,
+Huai ’
+an
+223300，Chi na；2．Col l ege of Food Sci ence and Pharmacol ogy, Xi nj i ang Agri cul t ural Uni versi t y, Urf i mqi
+830052，Chi na)
+Abst ract ：I n t hi s st udy，chi t osan nanopart i cl es prepared by i oni c cross—l i nki ng was consi dered as
+a new vehi cl e f or
+t he i mprovement of t he wat er
+sol ubi l i t y and bi ocompat i bl i t y of gi nsenosi de Rh2．Based on t he si ze and zet a pot ent i al
+of nanopart i cl es，t he condi t i ons f or prepari ng gi nsenosi de Rh2一l oaded nanopart i cl es were opt i mi zed wi t h respect t o
+mass rat i o bet ween chi t osan and sodi umt ri p01yphosphat e，t he mol ecul ar mass
+of chi t osan and t he f eedi ng amount
+of Rh2．The morphol ogy of Rh2一l oaded nanopart i cl es was observed t ransmi ssi on el ect ron mi croscopy and at omi c
+f orce mi croscopy．The change of
+cryst al
+t ypes was i nvest i gat ed by X—ray di f f ract i on．The ant i —prol i f erat i on ef f ect of
+Rh2一l oaded nanopart i cl es on non—smal l
+cel l l ung cancer cei l s( A549) and t he cel l ul ar upt ake of Rh2 were st udi ed．Under
+t he opt i mal
+condi t i ons
+as f ol l ows：mass rat i o of chi t osan t o Rh2 t o sodi umt ri pol yphosphat e 8：1．5：2 and chi t osan mol ecul ar
+mass 50 kDa，Rh2一l oaded nanopart i cl es whose average part i cl e si ze and zet a pot ent i al
+were( 222．70士17．34) nmand
+( 46．50土2．57) mV，respect i vel y were obt ai ned wi t h encapsul at i on and l oadi ng ef f i ci enci es
+of 7．89％and 49．54％，
+respect i vel y．The as—prepared nanopart i cl es showed uni f ormsi ze di st ri but i on and good st abi l i t y，t heref ore bei ng sui t abl e
+f or drug de! i very．It
+coul d be upt aken by A549 cel l s and have hi gher i nhi bi t ory
+ef f ect
+on t he prol i f erat i on of A549 cel l s
+compared wi t h f ree gi nsenosi de Rh2．Theref ore，t he chi t osan nanopart i cl es prepared by i oni c cross—l i nki ng are a promi si ng
+carri er f or t he del i very of gi nsenosi de Rh2．
+Keywords：chi t osan；nanopart i cl es；i oni c cross—l i nki ng；gi nsenosi de Rh2
+DOI ：10．7506／spkxl 002—6630—20200311—175
+中图分类号：R282．71
+文献标志码：A
+文章编号：1002—6630( 2021) 07—0162．07
+收稿日期：2020—03—11
+基金项目：国家自然科学基金青年科学基金项目( 31700304) ；江苏省大学生创新创业训练计划重点项目( 201810323008z)
+第一作者简介：顾倩( 1999一) ( ORCI D：0000—0001—6047—7167) ，女，硕士研究生，研究方向为食品化学。
+E—mai l ：15380617792@189．cn
+$通信作者简介：杨晓君( 1971一) ( ORCI D：0000—0003—4473．0403) ，女，副教授，博士，研究方向为天然产物功能性评价。
+E—mai l ：xj xi aoj uny@163．com
+胡卫成( 1984一) ( ORCI D：0000—0002．6730．811X) ，男，教授，博士，研究方向为天然产物化学。
+E—mai l ：hu_wei cheng@163．com
+万方数据
+※ 营养卫生
+食品科学
+2021，VoL42, No．07
+163
+引文格式：
+顾倩，周静，张建梅，等．人参皂苷Rh2一壳聚糖纳米粒子制备及对A549细胞的抑制作用[ J ] ．食品科学，2021，42( 7) ：
+162—168．DOI ：i 0．7506／spkxl 002—6630—20200311—175．ht t p：／／www．spkx．net ．cn
+GU Qi an，ZHOU J i ng，ZHANG J i anmei ，et a1．Preparat i on of gi nsenosi de Rh2一l oaded chi t osan nanopart i cl es and i t s
+cyt ot oxi ci t y t o A549 cel l s[ J ] ．Food Sci ence，2021，42( 7) ：162—168．( i n Chi nese wi t h Engl i sh abst ract ) DOI ：10．7506／
+spkxl 002—6630—202003 1 1- 175．ht t p：#www．spkx．net ．cn
+肺癌具有高发率和高致死率，已经成为当今严重威
+胁人类健康和生命的恶性肿瘤之一。非小细胞肺癌是最
+常见的肺癌类型，由基因和环境因素共同作用引发，与
+吸烟关系密切[ 1] ，占所有肺癌病例的80％。非小细胞肺癌
+对多数抗癌药物呈现出低敏感度，导致通过开发特殊药
+物治愈非小细胞肺癌的方法很难成功口] 。
+人参是一种名贵的药食同源中药材，根茎花果实均
+可食用，生物活性广泛，有“ 百草之王” 的美称[ 3] 。人参
+的主要活性成分是人参皂苷，在提升免疫力、抗氧化、抗
+衰老、降糖降脂[ 41等方面有显著功效，广泛应用于保健食
+品陋] 。人参皂苷Rh2是红参提取物的主要活性成分之一，
+具有抑制肿瘤生长、抗病毒感染[ 61等多种药理学活性，能
+够抑制前列腺癌‘
+71、结肠直肠癌嘲、脑胶质瘤‘
+91、肝癌‘
+101
+等多种肿瘤细胞的增殖，是一种潜在的抗癌药物。研究
+发现非小细胞肺癌细胞A549对人参皂苷Rh2具有较高的
+敏感性【11】。Rh2能够下调周期蛋白水平和激酶活性，上调
+pRb2／p130的活性，导致A549细胞G1期阻滞，抑$f ] A549
+细胞增殖、诱导细胞凋亡。人参皂苷Rh2具有C20立体异
+构( S／R) ，张春晶等n21研究表明人参皂苷Rh2具有构效
+效应，20( S) 一Rh2对细胞增殖的抑制作用更为显著。
+尽管具有上述生物活性功效，但是人参皂苷Rh2属于
+脂溶性小分子，故扩散速率快、水溶性较差，且Rh2的生
+物相容度低、毒副作用大[ 1” ，制约了其在临床上的广泛
+运用。因此，提升Rh2的溶解性和延长体内滞留时间是实
+际应用Rh2的首要难题。
+纳米粒子是微米级的聚合胶体粒子系统，直径在
+10～500 nm之剐14] ，已经广泛应用于包载并递送生物活
+性物质。纳米粒子具有良好的缓释性能，能够增加药物
+的溶解度，提升药物的稳定性，通过胞吞作用被细胞摄
+取而增强药物在体内的吸收，提升药物在机体循环中的
+生物活性【1 51。此外，肿瘤的微环境区别于正常细胞，具
+有高渗透和滞留效应，肿瘤组织血管丰富、通透性强、
+淋巴回流少，纳米载体因易在特定的微环境中聚集而具
+有一定的靶向性u” 。
+壳聚糖( chi t osan，CS) 由虾蟹类甲壳素脱乙酰化
+而成，具有良好的抑菌性、抗病毒性[ 17】，同时有一定的
+成膜性，可以起到防腐保鲜的作用，用于食品包装中可
+以提高产品保存品质[ 1引。研究表明cs能够被人体内的特
+定酶。( 如溶菌酶等) 水解，具有良好的生物可降解性。
+此外，CS能够打开上皮组织间的紧密连接而加强渗透
+作用¨ 91。肿瘤细胞外环境呈酸性，CS能够在酸性条件
+下溶解，保证了包载药物在特定的pH值条件下响应性
+释放口01。CS纳米粒子能够控制药物释放，提升药物的
+生物相容性，其来源广泛、价格低廉，已经被广泛应用
+于构建药物递送载体。制备CS纳米粒子的方法有乳化
+交联法、离子交联法、溶剂蒸发法等【2” 。其中离子交联
+法最为常用。离子交联法制备工艺简单、反应条件温
+和，无需有机溶剂和催化剂，且安全无毒。三聚磷酸钠
+( sodi umt ri pol yphosphat e，TPP) 的负电荷密度较高，是
+一种常用的交联剂，CS主链上含有氨基，可提供大量交
+联位点，两者借助静电作用形成可逆的物理交联，制备
+的纳米粒子具有较强的交联度，稳定性好“ 91。
+本研究设计一种纳米药物载体，通过离子交联法制
+备CS载药纳米粒子，递送人参皂苷20( 63．Rh2，并对其制
+备条件、结构表征和抗肿瘤活性进行研究，为递送难溶
+性药物提供新思路。
+1
+材料与方法
+1．1
+材料与试剂
+( S型) 人参皂苷Rh2( 相对分子质量为622．87，
+纯度大于98％)
+成都曼斯特生物科技有限公司；CS
+( 脱乙酰度为91．5％)
+青岛云宙生物科技有限公司；
+TPP( 相对分子质量为367．86)
+上海麦克林生化
+科技有限公司；非小细胞肺癌细胞A549
+武汉大
+学中国典型培养物保藏中心；MEM培养基、胎牛血
+清、胰蛋白酶．EDTA、抗生素
+加拿大Gi bco公司：
+4’ ，6一二脒基一2一苯基碍1哚( 4’ ，6．di ami di no一2一phenyl i ndol e，
+DAPI )
+美国Si gma公司；Cy5．5- N- 羟基琥珀酰亚胺
+酯( N- hydroxysucci ni mi de，NHS)
+西安瑞禧生物科
+技有限公司；3。( 4，5．二甲基一2．噻唑基) 一2，5．二苯基一2日四
+唑溴化物( 3- ( 4，5一di met hyl t hi azol - 2一y1) 一2，5一di phenyl - 2H-
+t et razol i umbromi d，MTT)
+德国Bi of roxx公司；所有
+有机溶剂均为分析纯。
+1．2
+仪器与设备
+Zet asi zer Nano ZS90粒度仪
+英国Mal vern公司；
+1260高效液相色谱仪
+美国Agi l ent 公司；I nf i ni t e M200
+Pro酶标仪
+瑞士Tecan公司；LSM700激光共聚焦显微镜
+万方数据
+164
+2021，V01．42, No．07
+畏品科学
+※ 营养卫生
+德国Zei ss公司；X’
+Pert
+Pro MPD型X射线衍射光谱仪
+荷兰PANal yt i cal 公司；J Y88．I I N型超声波破碎仪
+宁波
+新芝生物科技股份有限公司；5810R台式高速冷冻离心机
+德国Eppendorf 型}司；J EM．1230透射电子显微镜
+日本
+J EOL公司；Al pha 1- 2 LDpl us型真空冷冻干燥机
+德国
+Chri st 公司；BS224S分析天平
+北京赛多利斯仪器系统
+有限公司。
+1．3
+方法
+1．3．1
+CS纳米粒子制备及工艺的考察
+1．3．1．1
+空白纳米粒子的制备
+CS粉末溶于体积分数1％乙酸溶液，搅拌溶解，配制
+成1 mg／m5 CS溶液，用2 mol ／L NaOH溶液调节pH值至5左
+右。分别称取0．5、0．25、0．125、0．1 mg TPP溶于与上述CS
+溶液等体积的超纯水中，将其以20滴／mi n的速率滴加到
+CS溶液中，待TPP溶液全部滴加完毕后，搅拌交联反应
+30 rai n。反应结束过0．45 gm滤膜，冷冻干燥，4℃保存。
+1．3．1．2
+空白纳米粒子制备工艺的筛选
+按照1．3．1．1节方法，固定其他反应条件，改变
+m( CS) ：m( TPP)
+( 2：1、4：1、8：1、10：1)
+( 固
+定CS分子质量为50 kDa) 、CS的分子质量( 50、80、
+212 kDa) ( 固定m( CS) ：m( TPP) 为4：1) ，制备空
+白纳米粒子，探究CS分子质量、m( CS) ：m( TPP) 对
+纳米粒子粒径、Zet a．电位等成球特性的影响。
+1．3．1．3
+载药纳米粒子投药量的筛选
+称取4 mg CS，溶于4 mL体积分数1％乙酸溶液，待
+CS全部溶解后，用2 mol ／LNaOH溶液调节pH值至5。称
+取0．25、0．5、0．75、1 mg的人参皂苷Rh2溶于500旺无
+水甲醇，以20滴／mi n的速率滴3口Ncs溶液中。滴加完毕
+后，逐滴加入等体积的1 mg／mL TPP溶液，搅拌交联反应
+30 rai n，制成CS—Rh2．TPP纳米粒子。反应结束后溶液过
+0．45 grn滤膜，冷冻干燥，置于4℃保存。
+1．3．2
+纳米粒子的粒径、Zet a．电位的测定
+取1．5 mL左右样品溶液，过0．22 pm微孔滤膜，采用
+Zet asi zer NanoZS90粒度仪测定粒径和zet a．电位。
+1．3．3
+载药量与包封率的测定
+采用高效液相色谱法测定CS载药纳米粒子中包载的
+人参皂苷Rh2质量浓度。称取冻干的载药纳米粒子样品溶
+解于蒸馏水，制备成1 mg／mL溶液，超声15 mi n，使人参
+皂苷Rh2充分释放，离心后取上清液过0．22“ m微孔滤膜，
+高效液相色谱法检测其质量浓度。色谱条件：ZORBAX
+SB．C】8反向色谱柱( 3．0 mm× 50 mm，1．8肛m) ；流动
+相为体积分数65％乙腈溶液；柱温为35℃；运行时间为
+20 mi n；进样量为10此。结合标准曲线换算Rh2质量，分
+别按式( 1) 、( 2) 计算载药量和包封率。
+载药量／％=瓦m1× 100
+包封率／％一鼍X 100
+( 1)
+( 2)
+式中：m，为纳米粒子中包载的Rh2质量／pg：m：为载
+药纳米粒子的质量／gg；m，为Rh2的总投药质量／¨ g。
+1．3．4
+CS载药纳米粒子的结构表征
+1．3．4．1
+透射电子显微镜观察微观形态
+取一滴样品溶液置于碳包覆铜栅上，磷钨酸负染，
+空气干燥后用J EM一1230型透射电子显微镜进行观察。
+1．3．4．2
+原子力显微镜观察微观形态
+取5 uL样品溶液置于云母片上，室温下干燥，用
+NTEGRA Pri ma型原子力显微镜观察样品的表面形貌，经
+NanoSeope Anal ysi s软件分析获得图像。
+1．3．5
+X射线衍射光谱分析晶型变化
+采用X射线衍射仪分别对人参皂苷Rh2、CS及
+CS—Rh2一TPP载药纳米粒子冻干粉末进行光谱扫描分析，
+扫描角度范围5。～900，扫描速率为2( o) ／rai n。
+1．3．6
+体外细胞毒性实验
+1．3．6．1
+细胞培养
+在含体积分数5％CO：、37℃及饱和相对湿度条件
+下，用含10％( 质量分数，下同) 胎牛血清、1％青霉素
+和链霉素的MEM培养基培养人非小细胞肺癌A549细胞，
+细胞密度达到80％～90％时，按体积比1：4进行传代培
+养。取对数生长期、生长状态良好的细胞用于实验。
+1．3．6．2
+MTT钡0试
+A549细胞经胰酶消化30～40 s后，加入适量MEM
+培养基轻轻吹打成细胞悬液，台盼蓝染色后在倒置显微
+镜下观察计数，以每孔2× 105个细胞的密度接种于96孔
+板，在co：培养箱( 37℃、体积分数5％co：) 中培养。
+其中，空白组加培养基，处理组每个孔加入不同质量浓度
+( 5、10、20、40 I ，t g／mL) 的人参皂苷Rh2*口CS—Rh2一TPP
+( 质量浓度以Rh2为准) 溶液孵育。24 h后，弃除培养
+基，每孔加入100皿MTT溶液，培养4 h，加100旺终止
+液继续培养16～20 h后于酶标仪550 am波长处测定光密
+度值。按照式( 3) 计算细胞增殖抑制率。
+oD．
+细胞增殖抑制率／％=( 1一—鬲÷ ) X 100
+( 3)
+UI - ) 2
+式中：OD，为实验组OD值；OD：为空白组OD值。
+1．3．7
+A549细胞对纳米粒子的摄取实验
+1．3．7．1
+包载荧光探针纳米粒子的制各
+称取一定量的Cy5．5- NHS溶于无水甲醇，制备成
+1 mg／mL的荧光探针储备液，避光4℃保存。荧光纳米粒
+子的制备方法参考1．3．1．3节载药纳米粒子的制备，调节
+溶液pH值至5附近，向溶液中逐滴滴加荧光探针储备液
+50血，保持避光。
+1．3．7．2
+细胞摄取
+取对数生长期A549细胞以5X104令野L接种于24孔板中，
+培养16～20 h。空白对照组加新鲜MEM培养基，3个
+处理组加5“ L CS：Rh2．TPP溶液，分别处理1、3、
+6 h。磷酸盐缓冲液清洗后以质量分数4％多聚甲醛室温
+万方数据
+※ 营养卫生
+食品科学
+202毛V01．42, No．07
+165
+固定15 rai n，再次清洗后加0．5％Tri t on X一100透化处理
+10 rai n，清洗后用含DAPI 的抗猝灭封片剂封片，避光保
+存。在激光共聚焦显微镜下观察不同孵育时间下细胞对
+纳米粒子的摄取情况。
+1．4
+数据处理与分析
+采用SPSS 19．0统计软件进行数据分析，结果以平均
+值± 标准差表示，组间差异采用单因素方差分析比较，
+P<0．05表示差异显著。
+2
+结果与分析
+2．1
+m( CS) ：m( TPP) 对纳米粒子成球特性的影响
+表1
+CS／TPP不同质量比对纳米粒子粒径和Zet a·
+电位的影响
+Tabl e 1
+Ef f ect of CS- t o．TPP mass rat i o on si ze and zet a pot ent i al
+of nanopart i cl es
+注：一．有沉淀析出。
+由表1可知，在等体积反应体系中，纳米粒子粒径
+随着CS添加量的增加而逐渐减小。这是由于溶液中CS
+添加量较少时，CS与TPP交联形成疏松的结构，在水溶
+液中的粒径较大；随着CS添加量的增加，未中和的氨基
+数量增多，导致更强的分子内交联，使得纳米粒子的粒
+径逐渐减小[ 221。如果粒子的交联程度过高，药物释放会
+受阻，不利于药物缓释。当m( CS) ：m( TPP) 较低时
+( 2：1) ，过量的TPP使得更多的CS参与单个纳米粒子的
+形成，纳米粒子表面电荷密度较低，无法维持大颗粒的
+稳定性，从而导致颗粒沉淀。
+Zet a．电位与胶体分散体系的稳定性成正比，粒子表
+面电势能够反映纳米分散体系的物理稳定性口31。当表面
+电势较高时，单个纳米粒子之间同种电荷相互排斥，保
+持稳定，可以有效防止聚集沉淀，且带正电荷的胶体粒
+子能够通过与黏膜表面带负电荷的粒子相互作用提升生
+物利用度。CS与TPP在质量LL4：l 条件下的Zet a．电位在
+25 mV左右，带正电荷，相比于其他质量比条件下制备的
+纳米粒子以更稳定的状态存在，因此后续实验在该条件
+下开展。
+2．2
+CS分子质量对纳米粒子成球特性的影响
+如表2所示，随着CS分子质量的增加，纳米粒子的
+粒径呈现增加的趋势。这是由于CS主链上存在大量的氨
+基和羟基基团，在水溶液中存在较强的氢键和静电相互
+作用。低分子质量CS在特定的质量浓度下，分子内氢键
+的吸引力和静电相互作用产生的排斥力处于一个平衡的
+状态，易形成单个的纳米粒子。高分子质量CS具有更多
+的分子间氢键，使得表面张力大于低分子质量CS。在其他
+条件保持不变的情况下，溶液体系的表面张力越小，纳
+米粒子的粒径越小‘
+241。
+表2
+不同CS分子质量对纳米粒子粒径和Zet a- 电位的影响
+Tabl e 2
+Ef f ect of t he mol ecul ar mass of chi t osan oH si ze and zet a
+pot ent i al of nanopart i cl es
+纳米粒子在体内的分布取决于其粒径Ⅲ1，粒径较小
+的纳米粒子在递送药物至靶组织或靶细胞时通常具有更
+高的效率，所以选取分子质量为50 kDa的CS进行后续实
+验，以提高所载药物的利用度。
+2．3
+投药量对载药纳米粒子成球特性的影响
+表3
+不同投药量对纳米粒子粒径、Zet a- 电位、载药量和包封率的影响
+Tabl e 3
+Ef f ect of Rh2 l evel s on si ze，zet a pot ent i al ，encapsul at i on and
+l oadi ng ef f i ci enci es of nanopart i cl es
+如表3所示，纳米粒子粒径随Rh2投药量的增加而增
+大。粒径影响纳米粒子在体内的分布，不同投药量制备
+的CS纳米粒子粒径在129～353 nl i l 之间，能够通过肿瘤组
+织的高渗透和长滞留效应聚集在病变部位附近。
+Zet a一电位是评估胶体分散体系稳定性的重要指标，
+一般来说，对于分散稳定的胶体溶液，理想的表面电
+势的绝对值应大于30 mV[ 251。纳米粒子表面电势越高越
+稳定，正电荷能够增强纳米粒子对组织的黏附性和渗
+透性口61。如表3所示，不载药的CS纳米粒子Zet a一电位为
+26．90 mV，随着投药量的增加，Zet a．电位明显增加，绝
+对值均大于30 mV，表明包载药物后CS纳米粒子具有良
+好的分散性【2” 。
+当CS与人参皂苷Rh2的质量比从8：0．5减少至8：1．5
+时，载药量从1．70％增加到了7．89％，包封率从18．95％
+增加到了49．54％，表明投药量影响药物的载药量和包封
+率，这时药物主要以包埋的方式存在于纳米粒子内部：
+当CS与Rh2的质量比从8：1．5减少至8：2时，载药量和包
+封率增幅不大，而粒径从( 222．70± 17．34) nm增加到
+了( 353．27± 7．17) nm，这可能是由于药物负载过多，
+多余的药物吸附在CS纳米粒子表面，引起纳米粒子粒径
+突然增加，纳米粒子不能维持较小的表面张力，容易引
+起聚集沉淀【2引。所以一味地增加投药量，并不能获得更
+高的包封率。综合考虑粒径、包封率，为利于药物运
+载，选择m( CS) ：m( Rh2) ：m( TPP) =8：1．5：2的比
+例进行后续研究。
+万方数据
+166
+2021，rot 42, No．07
+食品科孛
+※ 营养卫生
+2．4
+载药纳米粒子的粒径与Zet a一电位分布
+图1
+cs- Rh2- TPP载药纳米粒子的粒径( A) 和Zet a- 电位( B) 分布
+Fi g．1
+Si ze( A) and zet a pot ent i al ( B) di st ri but i on of
+CS- Rh2- TPP nanopart i cl es
+如图l A所示，载药纳米粒子粒径呈正态分布，具有良
+好的分散性和稳定性。结合表3和图1B可知，载药纳米粒子
+较空白纳米粒子有较高的Zet a- 电位，正电荷间的排斥作用
+保证了纳米粒子具有较好的稳定性，即较低的分散度。
+2．5
+载药纳米粒子形态观察结果
+2．5．1
+透射电子显微镜形态观察结果
+图2
+CS·
+Rh2- TPP载药纳米粒子透射电子显微镜图
+Fi g．2
+CS- Rh2- TPP nanopart i cl es observed by t ransmi ssi on
+el ect ron mi croscopy
+如图2所示，载药纳米粒子呈圆球形或类球形，分布
+均匀，无明显的黏连现象。可能由于粒度仪测量的是纳
+米粒子水合状态下的尺寸，而透射电子显微镜的图像是
+在样品干燥状态下获得的，所以透射电子显微镜观察到
+的粒径比粒度仪测量到的粒径尺寸要小一些【2孵。
+2．5．2
+原子力显微镜形态观察结果
+原子力显微镜具有纳米级的分辨率，为非破坏性
+成像，是表征纳米水平粒子表面拓扑结构的有力工具，
+被广泛用于生物大分子及高分子的形态观察口01。图3和
+图4分别为CS．Rh2一TPP原子力显微镜的二维和三维图像。
+载药纳米粒子呈圆球形，分散均匀，与透射电子显微镜
+结果一致；载药纳米粒子平均直径在200 nm左右，与粒度
+仪测定结果一致，符合肿瘤靶向药物递送载体的要求。
+0．0
+3．0岫
+图3
+原子力显微镜CS- Rh2- TPP载药纳米粒子二维图像
+Fi g．3
+2Dat omi c f orce mi croscopi c i mage of CS- Rh2- TPP nanopart i cl es
+图4
+原子力显微镜CS- Rh2·
+TPP载药纳米粒子三维图像
+Fi g．4
+3Dat omi c f orce mi croscopi c i mage of CS- Rh2- TPP nanopart i cl es
+2．6
+纳米粒子X射线衍射分析结果
+鳓甓
+≮∑翌妄二二二
+10
+20
+30
+40
+50
+60
+70
+80
+90
+20／( 。)
+图5
+人参皂苷Rh2、CS、CS·
+Rh2- TPP纳米粒子的X射线衍射图
+Fi g．5
+X·
+ray di f f ract i on cur ves of gi nsenosi de Rh2，chi t osan，
+and CS．Rh2．TPP
+如图5所示，cs的x射线衍射显示在2秽为20．16。处
+有一个明显的特征峰，制备成球后，该特征峰消失；且
+2日为27．720、12．060处特征峰强度和位置发生改变，可能
+是由于交联过程中cs晶型结构破坏口” 。药物Rh2呈现许
+多尖锐的晶体衍射峰，在CS．Rh2．TPP纳米粒子体系中，
+衍射图谱中没有出现明显的药物晶体衍射峰。上述结果
+表明Rh2不是简单地与CS混合在一起，而是以无定形的
+形式存在于CS纳米微粒中，形成了固相包合物。
+2．7
+细胞毒性实验分析结果
+如图6所示，随着给药质量浓度的增加，游离Rh2和
+CS．Rh2．TPP载药纳米粒子对A549细胞的增殖抑制作用
+增强。在各个质量浓度条件下，CS．Rh2．TPP载药纳米粒
+子较游离的Rh2呈现出更高的细胞毒性，这可能是载药
+万方数据
+※ 营养卫生
+良晶科学
+2021，V01．42, No．07
+167
+纳米粒子对药物的持续释放引发的。游离的Rh2是通过自
+由扩散进入细胞发挥作用的，CS的生物黏附性能够促进
+细胞摄取药物，将纳米粒子递送至胞内缓慢释放Rh2p“ 。
+Chen Chao掣硎研究指出CS纳米粒子可能通过内吞作用被
+细胞摄取，质子化的CS能够通过静电相互作用与细胞膜
+上的糖萼相互作用，加速纳米粒子的内化过程，提高包
+载药物的渗透性和细胞毒性。
+质量浓度／( pg／mL)
++．相同质量浓度下组问差异显著( P<0．05) 。
+图6
+不同质量浓度的人参皂苷Rh2和CS- Rh2·
+TPP载药纳米粒子对
+A549细胞的毒性
+Fi g．6
+Cyt ot oxi ci t y of di f f erent concent rat i ons of Rh2
+and CS．Rh2．TPP on A549 cel l s
+2．8
+A549细胞对纳米粒子的体外摄取结果
+A．空白对照组：B．处理1 h组A549细胞；C．处理3 h组A549
+细胞：D．处理6 h组A549细胞。下标1
+DAPI 标记；下标2．
+Cy5．5- NHS标记：下标3．Cy5．5一NHS与DAPI 荧光信号叠加。
+图7
+A549细胞对CS—Rh2- TPP载药纳米粒子的摄取
+Fi g．7
+Cel l ul ar upt ake of CS- Rh2- TPP nanopart i cl es by A549 cel l s
+在激光共聚焦显微镜下，CY5．5．NHS标记的纳米粒
+子呈红色荧光，DAPI 标记细胞核呈蓝色荧光。如图7所
+示，相对于空白对照组，药物处理过的A549细胞核周围
+出现红色荧光，说明纳米粒子能够内化进入细胞；孵育
+1 h后，细胞核附近荧光极其微弱，红色荧光随着孵育时
+间的延长不断增强，表明更多的纳米粒子被摄取进入细
+胞，摄取过程呈时间依赖型。
+3
+结论
+本研究选用CS为载体，通过离子交联法构建了
+CS．Rh2．TPP纳米粒子，实现对人参皂苷Rh2的包载，以
+提升药物的溶解性和生物活性。实验通过优化CS、TPP
+质量比，CS的分子质量以及投药量等制备工艺，得到了
+粒径可控、性能稳定的纳米粒子。CS．TPP纳米粒子包载
+Rh2后，粒径和Zet a．电位发生变化，当载药量适当时，
+纳米粒子呈圆球形，结构规整、分布均一，具有较高的
+载药量和包封率。X射线衍射图谱表明药物被成功地包被
+于纳米粒子中。体外细胞实验结果表明CS．Rh2- TPP纳米
+粒子能够被细胞吞噬摄取，较游离的药物具有更强的细
+胞毒性，综上，该纳米粒子有望成为肿瘤治疗中递送Rh2
+的理想载体。
+参考文献：
+【1】
+姚梦杰，吕金朋，张乔，等
+吉林中医药，2017，37( 12)
+j l zyy．2017．12．022．
+人参化学成分及药理作用研究[ J 】
+1261- 1263，DOI ：10．13463／j ．cnki
+【2】
+王世伦，金键．人参主要化学成分及皂苷提取方法研究
+进展[ J 】．人参研究，2019，3l ( 3) ：54．57．DOI ：10．19403／
+i ．cnki ．1671．1521．2019．03．014．
+[3】
+郭建博，宋莉，吕卓，等．保健食品中人参皂苷类成分的快速
+检测及应用【J 】食品安全质量检测学报，2019，10( 1) ：117- 122．
+DOI：10．3969／i ．i ssn．2095．0381．2019．01．021．
+[ 4】HUANGWT，LARSSONM，WANG YJ ，et a1．Demet hoxycurcumi n．
+carryi ng
+chi t osan—ant i body
+core- shel l
+nanopart i cl es wi t h
+mul t i t herapeut i c ef f i cacy t oward mal i gnant A549 l ung t umor：
+From i n vi t ro charact eri zat i on
+t o
+i n vi vo eval uat i on[ J 1．Mol ecul ar
+Pharmaceut i cs，2015，12( 4) ：1242．1249．DOI ：10．102l ／mp500747w．
+【5】
+GoNG HC，WANG S，MAYER G，et a1．Si gnat ures
+of
+drug
+sensi t i vi t y i n nonsmal l
+cel l
+l ung cancer[ J ] ．I nt ernat i onal
+J ournal of
+Prot eomi cs。2011．201l ：l —13．DOI ：10．1155，201l ，215496．
+【6】
+KANG S，I M K，I ( I MG，et a1．Ant i vi ral act i vi t y of 20僻) - gi nsenosi de
+Rh2 agai nst muri ne gammaherpesvi rus[ J ] ．J ournal
+of
+Gi nseng
+Research，2017，4l ( 4) ：496- 502．DOI：10．10160．j gr．2016．08．010．
+【7]
+KI MHS，LEE E H，KOS R，et
+a1．Ef f ect s
+of gi nsenosi des R93
+and Rh2 on t he prol i f erat i on of
+prost at e cancer cel l s[ J 】．Archi ves
+of Pharmacal
+Research，2004，27( 4) ：429．435．DOI ：10．1007／
+BF02980085．
+[ 8】HANS，J EONG A，YANGH，et a1．Gi nsenosi de 20( ∞一Rh2 exert s anti —
+cancer act i vi t y t hrough t arget i ng I L· - 6- - i nduced J AK2／STAT3 pat hway
+i n human col orect al
+cancer cei l s[ J [ ．J ournal
+of Et hnopharmacol ogy，
+2016．194：83．90．DOI ：10．10160dep．2016．08．039．
+万方数据
+168
+2021，Voi ．42, No．07
+食品雨斗学
+※ 营养卫生
+[ 9]
+[ 10]
+[ 11]
+[ 12]
+[ 13]
+[ 14]
+[ 15]
+[ 16]
+[ 17]
+[ 18]
+[ 19]
+[ 20]
+[ 21]
+王占峰，罗毅男，洪新雨，等．人参皂苷Rh2对胶质瘤细胞的体
+外抑制作用[ J ] ．吉林大学学报( 医学版) ，2006，32( 4) ：658．661．
+DOI ：10．3969／j ．i ssn．1671- 587X．2006．04．034．
+姜浩，樊光华．人参皂甙．Rh2对人肝癌Bel 一7404细胞增殖和凋亡
+的影响[ J ] 中国肿瘤临床与康复，2004( 4) ：289—292．DOI ：10．3969／
+{．i ssn．1005—8664．2004．04．001．
+ANI S，ANS。KWON KJ 。et a1．Gi nsenosi de Rh2 medi at es changes
+i n t he mi croRNA expressi on prof i l e of human non—smal l
+cel l I ung
+cancer A549 cel l s[ J ] ．Oncol ogy Report s，2013，29( 2) ：523—528．
+DOI ：10．3892，or．2012．2136．
+张春晶，于海涛，侯金才，等．s型与R型人参皂苷Rh2对人肺腺癌
+A549细胞增殖和凋亡的影响[ J ] 中国中药杂志，2011，36( 12) ：1670．
+1674．DOI ：10．4268／ci emm201 1 1228．
+CHEN DQ，YU HY，MU HJ ，et a1．Novel
+mul t i core ni osomes
+based on doubl e PH—sensi t i ve mi xed mi cel l es f or gi nsenosi de Rh2
+del i very[ J ] ．Art i f i ci al Cel l s，Nanomedi ci ne，and Bi ot echnol ogy，2014，
+42f 31：205．209．DOI ：10．3109／21691401．2013．794358．
+KHANMA，ZAFARYAB M，M【EHDI S H，et a1．Charact eri zat i on and
+ant i —prol i f erat i ve act i vi t y of curcumi n l oaded chi t osan nanopart i cl es i n
+cervi caI cancer[ J ] ．I nt ernat i onal J oumal
+of Bi ol ogi cal
+Macromol ecul es．
+2016．93：242—253．DOI ：10．1016／i ．i j bi omac．2016．08．050．
+LI ANGJ ，YAN H，PULI GUNDLA P，et a1．Appl i cat i ons of chi t osan
+nanopart i cl es
+t o enhance absorpt i on and bi oava订abi l i t v of
+t ea
+pol yphenol s：a revi ew[ J ] ．Food Hydrocol l oi ds，2017，69：286—292．
+DOI ：10．1016／i ．f oodhyd．2017．01．041．
+罗小林，易丹丹．抗肿瘤药物纳米给药系统研究进展[ J ] ．医药导报，
+2015，34( 2) ：218- 222．DOI ：10．3870／yydb．2015．02．022．
+徐闯．改性壳聚糖纳米粒子药物载体的制备和表征[ D] ．天津：南开
+大学，2013：4．5．DOI ：10．76661d．Y2409182．
+付玲．壳聚糖在食品领域的应用研究进展[ J ] ．食品安全导刊，
+2019( 24) ：72．DOI ：10．3969[ i ．i ssn．1006—2513．2018．12．027．
+BERGER J ，REI ST MJ ．MAYER J MM。et
+a1．St ruct ure and
+i nt eract i ons i n coyal ent l y and i oni cal l y cross—l i nked chi t osan hydrogel s
+f or bi omedi cal appl i cat i ons[ J 1．European J ournal of
+Pharmaceut i cs
+and Bi opharmaceut i es，2004，57( 1) ：19—34．DOI ：10．1016／S0939—
+6411( 03) 00161- 9．
+CHEN Chao，YU Yong，WANG Xi aol i ．et a1．Mani pul at i on
+of
+pH．sensi t i ve i nt eract i ons bet ween podophyl l ot oxi n．chi t osan f or
+enhanced cont rol l ed drug
+rel easef J l ．I nt ernat i onal
+J ournal
+of
+Bi ol ogi cal
+Macromol ecul es．2017．95：451．461．DOI ：10．1016，
+i ．i i bi omac．2016．11．053．
+高艳，王碹，万明，等．壳聚糖微球的制备及其在药物载体中的
+应用[ J ] 功能材料，2015，46( 2) ：2007—2012；2018．DOI ：10．3969／
+i ．i ssn．1001—9731．2015．02．002．
+[ 22]
+【23]
+[ 24]
+[ 27]
+[ 29]
+[ 30]
+[ 31]
+[ 32]
+邢志华，方桂珍．离子交联法制备叶酸一壳聚糖微球工艺
+研究[ J ] ．黑龙江医药，2011，24( 6) ：915- 917．DOI ：10．3969／
+j ．i ssn．1006—2882．2011_06．017．
+吕丹．虫草素羧甲基壳聚糖纳米粒的制备、释药性能及体外抗肿
+瘤作用研究[ D] ．扬州：扬州大学，2015：35—36．
+方晓娇．桦木酸／壳聚糖载药微球的制备及性能研究[ D] ．哈尔滨：哈
+尔滨理工大学。2015：28．
+KHANMA，ZAFARYABM，MEHDI S H，et a1．Charact eri zat i on and
+ant i ．prol i f erat i ve act i vi t y of curcumi n l oaded chi t osan nanopart i cl es i n
+cervi cal cancer[ J ] ．I nt ernat i onal J ournal of Bi ol ogi cal Macromol ecul es，
+2016，93：242—253．DOI ：10．1016／j ．i j bi omac．2016．08．050．
+KUMAR S P，BI RUNDHA K，KAVERI K，et a1．Ant i oxi dant
+st udi es of chi t osan nanopart i cl es cont ai ni ng nari ngeni n and t hei r
+cyt ot oxi ci t y ef f ect s i n l ung
+cancer cel l s[ J ] ．I nt ernat i onal
+J ournal
+of Bi ol ogi cal
+Macromol ecul es，2015，78：87—95．DOI ：10．1016／
+j ．i j bi omac．2015．03．045．
+WU J ，WANG Y P，YANGH，et a1．Preparat i on and bi ol ogi cal
+act i vi t y st udi es of resverat rol l oaded i oni cal l y cross· - l i nked chi t osan- -
+TPP nanopart i cl es[ J ] ．Carbohydrat e Pol ymers，2017，175：170- 177．
+DOI：10．10160．carbp01．2017．07．058．
+L1 wK，YALCI NM，LI N Qs，et a1．Sel f - assembl y of
+green t ea
+cat echi n deri vat i ves i n nanopart i cl es f or oral
+l ycopene del i very[ J ] ．
+J ournal of
+Cont rol l ed Rel ease，2017，248：117—124．DOI ：10．1016／
+j ．j conrel ．2017．01．009．
+WANG F H，ZHANG DR，DUANC X，et a1．Preparat i on and
+charact eri zat i ons of a novel deoxychol i c aci d—- O· · carboxymet hyl at ed
+chi t osan—f ol i c
+aci dconj ugat e s
+and sel f —aggregat e s[ J 】．
+Carbohydrat e Pol ymers，201l ，84( 3) ：1192—1200．DOI ：10．1016／
+j ．carbp01．201 1．01．017．
+J I NG Y S，ZHU J H，LI U T，et
+a1．St ruct ural
+charact eri zat i on and
+bi ol ogi cal
+act i vi t i es of anovel pol ysacchari de f romcul t ured，cordyceps
+mi l i t ari s，and i ts sul f at ed deri vat i ve[ J ] ．J ournal
+of Agri cul t ural
+and
+Food Chemi s时，2015，63( 13) ：3464—3471．DOI：10．10211j f 505915t．
+YANGJ L，GAO CM，LU S Y，et a1．Physi cochemi cal charact eri zat i on
+of amphi phi l i c nanopart i cl es based on t he novel
+st arch- deoxychol i c
+aci d conj ugat es and serf - aggregat es[ J ] ．Carbohydrat e Pol ymers，2014，
+102：838—845．DOI：10．10160．carbp01．2013．10．081．
+AGRAWAL P，SI NGH R P，SONALI
+S，et a1．TPGS—chi t osan
+cross—l i nked t arget ed nanopart i cl es f or ef f ect i ve brai n cancer
+t herapy[ J ] ．Mat eri al s Sci ence and Engi neeri ng：C，2017，74：167—176．
+DOI：10．1016／j ．msec．2017．02．008．
+万方数据

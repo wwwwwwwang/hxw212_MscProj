@@ -1,0 +1,329 @@
+第 23 卷 第 5 期
+北华大学学报(自然科学版)
+Vol. 23 No. 5
+2022 年 9 月
+JOURNAL OF BEIHUA UNIVERSITY(Natural Science)
+Sep. 2022
+文章编号:1009-4822(2022)05-0586-05
+DOI:10. 11713 / j. issn. 1009-4822. 2022. 05. 006
+人参皂苷对果蝇高糖模型糖脂代谢的调节作用
+李晓野1,杨　 志2,尤思曼2,闫慧琪2,武　 静2,王凯璐2,王金龙2,孙海明3
+(1. 吉林市中心医院,吉林 吉林　 132011;2. 北华大学理学院,吉林 吉林　 132013;
+3. 北华大学药学院,吉林 吉林　 132013)
+摘要:目的　 探讨人参皂苷对处于高糖环境中的果蝇糖脂代谢的调节作用. 方法　 将待测果蝇分为对照组(正常
+果蝇喂食普通培养基)、高糖模型组(正常果蝇喂食高糖培养基)、人参皂苷低剂量给药组(0. 5% 的人参皂苷培
+养基)、人参皂苷中剂量给药组(1. 25% 的人参皂苷培养基)、人参皂苷高剂量给药组(2. 5% 的人参皂苷培养
+基)、阳性药物组(高糖环境下的果蝇喂食含浓度为 0. 2% 的二甲双胍培养基). 培养 7 d 后对 6 组果蝇体内海藻
+糖、甘油三酯的含量以及体质量、体长、翅面积进行比较. 结果　 与对照组比较,高糖模型组果蝇体内海藻糖、甘
+油三酯含量显著上升(P<0. 05);与高糖模型组比较,各剂量人参皂苷给药组、阳性药物组果蝇体内海藻糖和甘
+油三酯含量显著下降(P<0. 05). 结论　 人参皂苷对处于高糖环境中的果蝇具有保护作用,可缓解在高糖环境下
+所引起的糖脂代谢紊乱情况.
+关键词:人参皂苷;果蝇;糖脂代谢;高糖诱导
+中图分类号:R285
+文献标志码:A
+收稿日期:2022-06-10
+基金项目:吉林省科技发展计划项目(20210101032JC).
+作者简介:李晓野(1978—),女,主管药师,主要从事临床药物合理应用研究,E-mail:657115753@ qq. com;通信作者:孙海明(1979—),
+男,博士,教授,硕士生导师,主要从事中药生物技术及微生物多样性研究,E-mail:sunhaiming@ beihua. edu. cn.
+Regulation of Ginsenosides on Glucose and Lipid Metabolism in
+Drosophila melanogaster High Glucose Model
+LI Xiaoye1,YANG Zhi2,YOU Siman2,YAN Huiqi2,WU Jing2,WANG Kailu2,
+WANG Jinlong2,SUN Haiming3
+(1. Center Hospital in Jilin City,Jilin 132011,China;2. Science College of Beihua University,Jilin 132013,China;
+3. Pharmacy College of Beihua University,Jilin 132013,China)
+Abstract: Objective
+To explore the regulation of ginsenosides on glucose and lipid metabolism of Drosophila
+melanogaster in high glucose environment. Method
+Flies were divided into control group (normal flies feeding
+common medium),high sugar model group (normal flies fed high sugar medium),high,medium and low dose of
+ginsenoside group( Drosophila melanogaster fed ginseng saponin culture medium with concentration of 2. 5% ,
+1. 25% and 0. 5% in high sugar environment),positive drug group (Drosophila melanogaster in high glucose
+environment was fed with metformin medium containing 0. 2% concentration). After 7 days of culture, the
+contents of trehalose and triglyceride,body weight,body length and wing area of the six groups were detected and
+compared. Results
+Compared with the control group,the contents of trehalose and triglyceride in flies in the
+high-glucose model group were significantly increased;Compared with the high glucose model group,the contents
+of trehalose and triglyceride in flies in the positive drug group and ginsenoside administration groups were
+significantly decreased. Conclusion
+Ginsenosides can
+protect Drosophila
+melanogaster
+in
+high
+glucose
+environment and alleviate the disorder of glucose and lipid metabolism caused by high glucose environment.
+Key words: Ginsenoside;Drosophila melanogaster;glucose and lipid metabolism;high sugar induced
+　 　 人参(Ginseng)为伞形目五加科人参属多年生
+草本植物,其主要药理作用来自人参皂苷. 人参皂
+苷是从人参的根、茎、叶中提取精制而成,富含 18
+种人参单体皂苷. 人参在各种人类疾病中具有多种
+功效,如心血管疾病、神经元疾病、肥胖和癌症等,
+还能影响人体或小鼠体内的糖脂代谢,但其代谢调
+节作用的机制研究较少[1]. 研究[2] 发现,人参总皂
+苷、人参单体皂苷 Rb1、Rd、Rh1、Rh2、Rg3、CK 可增
+强免疫功能. 孟凡丽等[3] 研究发现,在给予糖尿病
+小鼠人参皂苷 Rh3 28 d 后,能够检测到小鼠血清
+中 TC 和 TG 的含量下降,SOD 的活性显著增强,由
+此推测,人参皂苷 Rh3 可能具有降低糖尿病患者
+血糖的作用. MUSSELMAN L P 等[4] 通过建立链脲
+佐菌素诱导的 2 型糖尿病动物模型,发现人参皂苷
+Rg1 可以降低 2 型糖尿病大鼠心肌细胞的凋亡,减
+轻心肌胶原蛋白的合成,从而改善心肌功能.
+果蝇( Drosophila melanogaster) 的基因背景很
+清晰,75% 的功能基因与人类基因同源,并且有约
+60% 的基因与人类疾病基因相关[5]. 与人类一样,
+果蝇体内也存在参与能量代谢和糖尿病并发症的
+标靶器官. 果蝇因其繁殖迅速、生命周期短、品系丰
+富且与人类基因的联系非常紧密,成为用于成分复
+杂的中药的活性评价与筛选的优秀模式生物. 研
+究[6] 发现,给予果蝇高糖培养基,会使其血糖升
+高、体内脂肪积累、产生胰岛素抵抗,并且参与调控
+脂肪代谢、糖代谢相关基因的表达,这与人类的胰
+岛素抵抗的病理机制是一致的. 因此,可以应用高
+糖培养基诱导建立果蝇的 2 型糖尿病模型.
+本研究以果蝇为模式生物,通过对不同组别果
+蝇体内海藻糖、甘油三酯含量的检测以及体质量、
+体长、翅面积的测量,探讨人参皂苷对处于高糖环
+境中的果蝇糖脂代谢的调节作用,为人参资源价值
+发现和资源化利用提供参考.
+1　 材　 　 料
+1. 1　 实验动物
+野生型黑腹果蝇(雄蝇)由北华大学理学院遗
+传实验室提供,培养条件(25±2)℃,相对湿度 50%~
+60% ,12 h / d 昼夜交替培养[7]. 实验果蝇分为对照
+组、高糖模型组、人参皂苷低剂量给药组(0. 5% 的人
+参皂苷培养基)、人参皂苷中剂量给药组(1. 25% 的
+人参皂苷培养基)、人参皂苷高剂量给药组(2. 5%
+的人参皂苷培养基)、阳性药物组. 幼虫从卵开始
+直至 L3(三龄幼虫) 均存活在对照培养基中,成虫
+从羽化开始进入高糖或给药培养基中.
+1. 2　 仪器与药品
+立式高压灭菌器(上海博迅医疗生物仪器股
+份有限公司);高性能无菌实验台(北京东联哈尔
+仪器制造有限公司);球形玻璃匀浆器(金坛恒丰
+仪器制造有限公司);紫外可见分光光度计(岛津
+仪器有限公司);人工气候箱(上海博迅医疗生物
+仪器股份有限公司);高速离心机(金坛恒丰仪器
+制造有限公司);电子天平(沈阳龙腾电子有限公
+司);海藻糖试剂盒(南京建成生物工程研究所);
+甘油三酯试剂盒(长春汇力生物技术有限公司);
+人参皂苷(白山市益康参茸有限公司);玉米粉、酵
+母粉、琼脂、丙酸、乙醚、蔗糖( 上海源叶生物科技
+有限公司).
+2　 实验方法
+2. 1　 培养基的配制
+培养基的配方及制作过程(以配制 200 mL 培
+养基为例). 普通培养基:①琼脂 1 g、蔗糖 10 g、酵
+母粉 3 g、适量蒸馏水;②玉米粉 10 g,适量蒸馏水.
+先将①煮沸后,再煮沸②,然后将①倒入②混合后
+加蒸馏水定容至刻度线,煮沸. 待其冷却至 60 ℃ 左
+右加入 8 滴丙酸,搅拌均匀后倒入锥形瓶中,封口,
+贴好标签,待高压. 高压后在无菌环境下向试管中
+倒入 1 / 5 高度的培养基,塞上棉塞,用牛皮纸封口.
+高糖培养基:在普通培养基的基础上增加蔗糖
+至 70 g.
+给药培养基:在高糖培养基的基础上添加人参
+皂苷或二甲双胍,按照不同浓度添加相应的药物,
+分别配制成人参皂苷浓度为 0. 5% 、1. 25% 、2. 5%
+和二甲双胍浓度为 0. 2% 的培养基. 为避免高压灭
+菌影响药物的活性,高压后待培养基温度在 50 ~
+60 ℃范围内再加入药液,混匀.
+2. 2　 果蝇高糖模型的建立
+将羽化 10 h 之内的雄性果蝇随机分组,对照
+组果蝇使用普通培养基培养,高糖组果蝇使用高糖
+培养基培养. 将果蝇在高糖培养基中喂养 7 d,检测
+其体内血糖、脂肪积累、糖脂代谢指标,建立高糖果
+蝇模型.
+2. 3　 指标检测及方法
+2. 3. 1　 果蝇成虫体长及翅面积的测定
+果蝇用乙醚麻醉处死,随机取 10 只果蝇,用镊子
+夹取果蝇至载玻片上,在显微镜下利用 Mvlmage vt
+对果蝇个体和翅膀进行拍照,再通过 Image J 软件
+来测量其体长并计算翅面积[8].
+587
+第 5 期
+李晓野,等:人参皂苷对果蝇高糖模型糖脂代谢的调节作用
+2. 3. 2　 果蝇成虫体质量的测定
+收集果蝇,用乙醚麻醉处死,每组取 10 只,平
+行 3 次,装入离心管中进行称量.
+2. 3. 3　 果蝇成虫体内海藻糖含量的测定
+果蝇用乙醚麻醉处死,每组取质量相等的果
+蝇,平行 3 次,称其质量后放入离心管中,于-80 ℃
+冻存 0.5 h,然后在冰浴的条件下制成匀浆,室温静置
+45 min,震荡 3 ~5 次,8 000 r/ min,室温离心 10 min 后
+取上清液测定,测定方法按照海藻糖检测试剂盒的说
+明书进行操作.
+2. 3. 4　 果蝇成虫体内甘油三酯含量的测定
+果蝇用乙醚麻醉处死,每组取质量相等的果
+蝇,平行 3 次,称其质量后,用生理盐水制成匀浆
+液,测定方法按甘油三酯检测试剂盒的说明书进行
+操作.
+2. 4　 统计学分析
+应用 GraphPad Prism 6 ( GraphPad Software,
+Inc. )对数据进行处理和统计学分析. 多组间样本
+比较采用单因素方差分析,两组间比较采用 LSD
+检验. 以 P<0. 05 为差异具有统计学意义.
+3　 实验结果与分析
+3. 1　 高糖诱导对果蝇的影响
+3. 1. 1　 高糖诱导对果蝇成虫体长及翅面积的影响
+果蝇个体大小的变化主要是受个组织器官大
+小的变化影响. 本研究结果显示,与对照组果蝇比
+较,高糖组果蝇的体长减少了 4. 96% ,但差异无统
+计学意义(P>0. 05). 体长分析结果见图 1 a、c;与对
+照组果蝇比较,高糖组果蝇的翅面积减少了 11. 74%
+(P<0. 05). 结果见图 1 b、c.
+∗. P<0. 05.
+图 1
+不同培养基对果蝇体长、翅面积的影响
+Fig. 1
+Effects of different media on body length and
+wing area of Drosophila melanogaster
+3. 1. 2　 高糖诱导对果蝇成虫体质量的影响
+本研究结果显示,通过高糖诱导的果蝇高糖模
+型组与对照组比较,高糖模型组果蝇的体质量较对
+照组减少了 29. 12% (P<0. 01). 结果见图 2 a.
+3. 1. 3　
+高糖诱导对果蝇成虫体内海藻糖含量的
+影响
+果蝇循环体液中主要是海藻糖,测定海藻糖浓
+度可反映果蝇血糖水平[9]. 本研究结果显示,果蝇
+高糖组海藻糖含量较对照组升高了 96. 64% ( P<
+0. 05). 结果见图 2 b.
+3. 1. 4　 高糖诱导对果蝇成虫体内甘油三酯含量的
+影响
+果蝇体内的甘油三酯含量是检验其体脂率的重
+要指标,测定甘油三酯含量可反映果蝇血脂水平. 本
+研究结果显示,果蝇高糖组体内甘油三酯含量较对
+照组升高了 153. 02% (P<0. 05). 结果见图 2 c.
+∗. P<0. 05.
+图 2
+不同培养基对果蝇体质量及体内海藻糖、
+甘油三酯含量的影响
+Fig. 2
+Effects of different media on the body weight
+and trehalose and triglyceride contents of
+Drosophila melanogaster
+588
+北华大学学报(自然科学版)
+第 23 卷
+3. 2　 药物对果蝇高糖模型的影响
+3. 2. 1　 药物对果蝇成虫体长及翅面积的影响
+在高糖环境下给予果蝇不同浓度的给药培养
+基喂食 7 d,结果显示,与高糖组比较,人参皂苷高
+剂量给药组果蝇体长和翅面积分别增加了 6. 33%
+(P<0. 01)、11. 15% (P<0. 05);阳性药物组药物对
+果蝇的体长和翅面积的影响差异均无统计学意义
+(P>0. 05). 结果见图 3 a、b、c.
+结合以上高糖饮食对果蝇体长、翅面积的影
+响,可以看出高糖饮食对果蝇体长、翅面积的影响
+存在一定的偶然性. 因此,体长、翅面积不能作为反
+应高糖模型建立是否可靠的决定性因素,可作为辅
+助性参考.
+∗. P<0. 05.
+图 3
+不同组别果蝇体长、翅面积
+Fig. 3
+Body length and wing area of Drosophila
+melanogaster in different groups
+3. 2. 2　 药物对果蝇成虫体质量的影响
+本研究显示,与高糖组比较,人参皂苷低、中、
+高剂量给药组果蝇的体质量分别增加了 29. 34%
+(P<0. 01)、23. 46% (P<0. 05)、35. 21% (P<0. 001);
+阳性药物组果蝇的体质量增加了 5. 82% . 结果见
+图 4 a.
+3. 2. 3　 对果蝇成虫体内海藻糖含量的影响
+本研究结果显示,与高糖组比较,人参皂苷中、
+高 剂 量 给 药 组 果 蝇 体 内 海 藻 糖 含 量 分 别 降 低
+54. 17% (P<0. 05)、85. 87% (P<0. 01),其中人参
+皂苷高剂量给药组效果更显著;在阳性药物组的作
+用下,果蝇体内海藻糖含量降低 57. 37% (P<0. 05).
+结果见图 4 b.
+3. 2. 4　 药物对果蝇成虫体内甘油三酯含量的影响
+本研究结果显示,与高糖组比较,人参皂苷低、
+中、高剂量给药组和阳性药物组果蝇体内甘油三酯
+含量分别降低了 40. 13% (P<0. 05)、50. 56% (P<
+0. 01)、52. 48% (P<0. 01)、60. 04% (P<0. 001). 结
+果见图 4 c.
+组别
+∗. P<0. 05;∗∗. P<0. 01;∗∗∗. P<0. 001.
+图 4
+不同组别果蝇体质量及体内海藻糖、甘油三酯含量
+Fig. 4
+Body weight and trehalose and triglyceride content
+of Drosophila melanogaster in different groups
+4　 讨　 　 论
+4. 1　 高糖饮食对果蝇的影响
+研究[10]表明:胰岛素信号传导途径中部分基
+因功能缺失的 2 型糖尿病模型果蝇表现出体质量
+显著下降、个体减小、糖脂代谢紊乱等病症,因此,
+本研究设想通过对正常果蝇进行长时间喂食高糖
+培养基,以此建立高糖诱导的果蝇模型. 本研究结
+果显示,经过给予正常果蝇 7 d 的高糖饮食,其体
+内的海藻糖及甘油三酯含量均有显著性升高(P<
+0. 05),身体发育受到一定的限制,这与糖尿病的
+发病特征是一致的. 此外,在 YU H 等[11] 利用雌性
+589
+第 5 期
+李晓野,等:人参皂苷对果蝇高糖模型糖脂代谢的调节作用
+果蝇来评价高糖饮食对其糖脂代谢的影响的研究
+中也出现了这种现象. 因此,成功诱导高糖模型为
+我们后续的实验研究提供了基础保障.
+4. 2　 人参皂苷对果蝇高糖模型的影响
+本研究设想对处在高糖环境中的果蝇进行喂
+食不同浓度的人参皂苷,在培养 7 d 后进行各项指
+标的检测,结果显示,与高糖组比较,人参皂苷高剂
+量给药组果蝇体内的海藻糖和甘油三酯含量均有
+所下降(P<0. 05),除此之外,因高糖作用导致的身
+体发育受到的限制也得到了显著缓解. 因此,我们
+认为人参皂苷对处在高糖环境中的果蝇起到了一
+定的保护作用,对因高糖饮食导致的糖脂代谢紊乱
+性疾病的治疗提供了理论依据,同时为人参资源价
+值的发现和资源化利用提供参考.
+5　 结　 　 论
+正常果蝇在高糖环境下使果蝇体内海藻糖、甘
+油三酯含量显著上升,并且一定程度上阻碍了果蝇
+的生长发育. 在人参皂苷的作用下,处于高糖环境
+中的果蝇体内的海藻糖和甘油三酯含量均有所下
+降,除此之外,身体发育所受到的限制得到一定程
+度的缓解. 由此可见,人参皂苷对处在高糖环境中
+的果蝇具有一定的保护作用.
+参考文献:
+[1] 崔玉娜,张怡轩,赵余庆. 利用生物转化法制备稀有人
+参 皂 苷 的 研 究 进 展 [ J]. 中 草 药, 2009, 40 ( 5 ):
+676-680.
+[2] ZHAO Li,GAO Yugang, JI Qing, et al. Immune effects
+and mechanism of ginseng[J]. Cent South Pharm,2015,
+13(7):741.
+[3] 孟凡丽,苏晓田,郑毅男. 人参皂苷 Rb-3 对糖尿病模型小
+鼠的降血糖和抗氧化作用[J]. 华南农业大学学报,2013,
+34(4):553-557.
+[4] MUSSELMAN L P,FINK J L,NARZINSKI K,et al. A
+high-sugar diet produces obesity and insulin resistance in
+wild-type drosophila[J]. Dis Mod Mech,2011,4(6):842.
+[5] MUSSELMAN L P,RONALD P K. Drosophila as a model
+to study obesity and metabolic disease[ J]. J Exp Biol,
+2018,221(Pt Suppl 1):163881.
+[6] 欧曦阳. 三种亲水性多糖对果蝇肠道免疫和肠道菌群
+影响的研究[D]. 杨凌:西北农林科技大学,2019.
+[7] 白野. 中药提取物对高糖饮食诱导的果蝇代谢异常的
+缓解作用[D]. 哈尔滨:东北林业大学,2018.
+[8] 吴棋芳,何丹,吴明江,等. 模式生物黑腹果蝇在高糖诱导
+代谢综合征研究中的应用进展[J]. 中国医药科学,2020,
+10(18):26-31.
+[9] MURILLO-MALDONADO J M,SFINCHEZ-CHAVEZ G,
+SALGADO L M,et al. Drosophila insulin pathway mutants
+affect visual physiology and brain function besides growth,
+lipid,and carbohydrate metabolism [ J]. Diabetes, 201l,
+60(5):1632-1636.
+[10] BUESCHER J L,MUSSELMAN L P,WILSON C A,et al.
+Evidence for transgenerational metabolic programming in
+Drosophila[J]. Dis Model Mech,2013,6(5):1123-1132.
+[11] YU H,ZHEN J,YANG Y,et al. Ginsenoside Rgl amelio-
+rates diabetic cardiomyopathy by inhibiting endoplasmic
+re-ticulum stress-induced apoptosis in a-streptozotocin
+induced diabetes rat model [ J]. J Journal of Cellular
+Molecular Medicine,2016,20(4):623-631.
+【责任编辑:陈丽华】
+590
+北华大学学报(自然科学版)
+第 23 卷

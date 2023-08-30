@@ -1,0 +1,807 @@
+Chinese Journal of Tissue Engineering Research｜Vol 28｜No.8｜March 2024｜1235
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+人参多糖干预创伤性骨关节炎模型大鼠前列腺素 E2/6- 酮 - 前列腺素 F1α 的表达
+文题释义：
+骨关节炎：为一种常见的慢性退行性关节疾病，以关节软骨进行性退化、健康软骨基质代谢紊乱、软骨下骨硬化、软骨下囊肿形成和骨赘
+形成为特征。骨关节炎的发生和发展是多因素的，如炎性细胞因子的分泌、关节软骨的机械损伤和软骨细胞的凋亡。
+人参多糖：为五加科植物人参最关键的生物活性成分之一，作为一种高分子葡聚糖，由人参中性糖和人参果胶两部分共同组成，临床上对
+治疗神经、心血管及免疫系统等疾病具有一定作用。
+摘要
+背景：目前已有研究发现植物人参提取物对骨关节炎有明显的改善作用，但是关于人参多糖提对骨关节炎的治疗作用尚未见报道。
+目的：探讨人参多糖干预创伤性骨关节炎模型大鼠前列腺素E2/6-酮-前列腺素F1α的表达变化。
+方法：选取60只雄性SD大鼠，随机分为健康组、模型组、人参多糖低、中、高剂量组、地塞米松组，除健康组外，其余大鼠均建立创伤
+性骨关节炎模型。造模成功后，健康组与模型组采用生理盐水0.2 mL腹腔注射，人参多糖低、中、高剂量组分别采用0.1，0.25，0.5 μg/mL
+人参多糖0.2 mL腹腔注射，地塞米松组采用0.2 mg/kg地塞米松腹腔注射，均每3 d注射一次，连续干预4 周。给药结束后采用ELISA法检测大
+鼠血清中前列腺素E2、6-酮-前列腺素F1α水平，Mankin’s 评分法检测大鼠膝关节软骨功能，苏木精-伊红染色观察大鼠膝关节病理形态，免
+疫印迹与PCR分别检测关节软骨组织中肿瘤坏死因子α、白细胞介素1β、白细胞介素10的表达。
+结果与结论：①与模型组比较，人参多糖中剂量组、地塞米松组大鼠血清前列腺素E2降低，6-酮-前列腺素F1α升高(P < 0.05)；与人参多糖
+中剂量组、地塞米松组比较，人参多糖高剂量组大鼠上述指标显著改善(P < 0.05)；人参多糖中剂量组及地塞米松组无差异(P > 0.05)；②与
+模型组比较，人参多糖中剂量组、地塞米松组大鼠Mankin’s 评分降低(P < 0.05)；与人参多糖中剂量组、地塞米松组比较，人参多糖高剂量
+组Mankin’s 评分显著降低(P < 0.05)；人参多糖中剂量组及地塞米松组无差异(P > 0.05)；③模型组与人参多糖低剂量组大鼠软骨组织层明显
+变薄，深达骨质层的裂隙及软骨细胞大量丢失，潮线严重断裂、模糊，滑膜层胶原纤维增多、增粗，可见大量软骨细胞被破坏，排列不规
+则；人参多糖中剂量组、地塞米松组较模型组改善；人参多糖高剂量组较人参多糖中剂量组改善；④与模型组比较，人参多糖中剂量组、
+地塞米松组大鼠关节软骨组织中肿瘤坏死因子、白细胞介素1β表达降低，白细胞介素10表达升高(P < 0.05)；与人参多糖中剂量组、地塞米
+松组比较，人参多糖高剂量组大鼠骨关节中上述指标显著改善(P < 0.05)；人参多糖中剂量组及地塞米松组无差异(P > 0.05)；⑤提示人参多
+糖可改善创伤性骨关节炎大鼠炎性水平及病理形态，降低Mankin’s 评分，其中人参多糖高剂量组效果最好，其作用机制可能与调控前列腺
+素E2/6-酮-前列腺素F1α表达水平有关。
+关键词：人参多糖；创伤性骨关节炎；前列腺素E2；6-酮-前列腺素F1α；动物模型
+缩略语：前列腺素E2：prostaglandin E2，PGE-2；6-酮-前列腺素F1α：6-Keto-prostaglandin F1α，6-keto-PGF1α；肿瘤坏死因子α：Tumor necrosis 
+factor，TNF-α；白细胞介素：interleukin，IL
+Effect of ginseng polysaccharide on the expression of prostaglandin E2/6-keto-prostaglandin 1alpha in 
+traumatic osteoarthritis model rats 
+Li Rui1, Zhang Guihong2, Wang Tao2, Fan Ping3
+1Shaanxi Vocational and Technical College of Energy, Xianyang 712000, Shaanxi Province, China; 2Shaanxi Provincial People’s Hospital, Xi’an 710007, Shaanxi 
+Province, China; 3The First Affiliated Hospital of Xi’an Jiaotong University School of Medicine, Xi’an 710007, Shaanxi Province, China
+Li Rui, Master, Associate professor, Shaanxi Vocational and Technical College of Energy, Xianyang 712000, Shaanxi Province, China
+Corresponding author: Li Rui, Shaanxi Vocational and Technical College of Energy, Xianyang 712000, Shaanxi Province, China
+1 陕西能源职业技术学院，陕西省咸阳市  712000；
+2 陕西省人民医院，陕西省西安市  710007；
+3 西安交通大学医学院第一附属医院，陕西省西安
+市  710007
+第一作者：李蕊，女，1982 年生，山东省滨州市人，汉族，2014 年西安交通大学毕业，硕士，副教授，主要从事中医药文化传播方面的研究。
+通讯作者：李蕊，硕士，副教授，陕西能源职业技术学院，陕西省咸阳市  712000
+https://orcid.org/0000-0002-0010-7348( 李蕊 )
+基金资助：陕西省国际科技合作与交流计划项目 (2016KW-023)，项目负责人：樊萍
+引用本文：李蕊，张桂红，王涛，樊萍 . 人参多糖干预创伤性骨关节炎模型大鼠前列腺素 E2/6- 酮 - 前列腺素 F1α 的表达 [J]. 中国
+组织工程研究，2024，28(8):1235-1240. 
+李  蕊
+1，张桂红
+2，王  涛
+2，樊  萍
+3
+文章快速阅读：人参多糖对创伤性骨关节炎模型大鼠前列腺素 E2/6- 酮 - 前列腺素 F1α 表达的影响
+https://doi.org/10.12307/2023.999  
+投稿日期：2022-10-26
+采用日期：2023-01-18
+修回日期：2023-04-03
+在线日期：2023-04-18
+中图分类号： 
+R459.9；R318；R365 
+文章编号： 
+2095-4344(2024)08-01235-06
+文献标识码：B 
+健康组
+人参多糖中剂量组
+模型组
+结论：
+人参多糖可改善创伤性骨
+关节炎大鼠炎性水平及病
+理形态，降低 Mankin’s 评
+分，其作用机制可能与调
+控前列腺素 E2/6- 酮 - 前
+列腺素 F1α 水平有关。
+健康雄性大鼠 60
+只，8 周 龄， 建
+立创伤性骨关节
+炎大鼠模型
+人参多糖高剂量组
+人参多糖低剂量组
+地塞米松组
+指标检测
+1236｜中国组织工程研究｜第28卷｜第8期｜2024年3月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+0   引言   Introduction
+创伤性关节炎是一种以关节软骨退行性病变、继发性软
+骨增生及骨化为主的病理性改变，主要发生在创伤后、负荷
+不平衡和活动负荷过重的关节，并以关节疼痛以及活动受限
+为主要表现
+[1-2]。该疾病可发生于任何年龄阶段，现阶段尤
+其以年轻以及中年人群较为常见，若不及时进行治疗可继发
+软骨损害，最终导致创伤性骨关节炎的产生
+[3]。创伤性骨关
+节炎常伴随关节积液及炎性浸润，当关节软骨细胞类因子等
+炎性因子侵蚀分解后可使关节腔内营养合成代谢紊乱进而造
+成免疫调节失衡
+[4]。前列腺素 E2(prostaglandin E2，PGE-2) 是
+机体的主要炎症因子，当出现感染时，PGE-2 可大量产生，
+进而增加损伤中炎性递质的合成及扩散、滑膜的通透性及关
+节内渗液
+[5]。对于创伤性骨关节炎的治疗目前临床上常采用
+外科手术、细胞因子制剂以及基因工程治疗等手段，通过诱
+导骨细胞生成的生物学方法治疗该类疾病，但均无法高效阻
+止疾病的发展，且手术治疗不仅成本高昂，也会给患者带来
+巨大的身心负担
+[6]。中医药在临床治疗中的应用越来越广泛，
+且对于骨科疾病的治疗近年来也有一定研究。中医研究认为，
+骨关节炎属“骨秀事”“膝痹”范畴，脏腑虚亏导致正气不足，
+不足则痛，而气虚则易感风、寒、湿、热等邪气，进而邪入
+骨而痛
+[7]。经研究，人参多糖是五加科植物人参的重要生物
+活性成分之一，是一种高分子葡聚糖，由人参中性糖和人参
+果胶两部分组成，对治疗神经、心血管及免疫系统等疾病具
+有一定作用。由于人参多糖中含有 D- 葡萄糖、D- 半乳糖、L-
+阿拉伯糖等多种活性单糖成分，且这些单糖在人体软骨细胞
+糖胺多糖的合成中充当重要底物，但现阶段对于人参多糖在
+Abstract
+BACKGROUND: Ginseng extracts have been found to significantly improve osteoarthritis, but the therapeutic effects of ginseng polysaccharide extracts on 
+osteoarthritis have not been reported.
+OBJECTIVE: To investigate the effect of ginseng polysaccharide on the expression of prostaglandin E2/6-keto-prostaglandin F1α in traumatic osteoarthritis model 
+rats.
+METHODS: Sixty male Sprague-Dawley rats were selected and randomly divided into healthy group, model group, ginseng polysaccharide low-dose group, 
+ginseng polysaccharide medium-dose group, ginseng polysaccharide high-dose group and dexamethasone group. Except for 10 rats in the healthy group, the 
+other rats were taken to establish traumatic osteoarthritis models. The healthy group and model group were given 0.2 mL of normal saline intraperitoneally. 
+The low-, medium-, and high-dose groups were intraperitoneally injected with 0.1, 0.25, 0.5 μg/mL ginseng polysaccharide, respectively. In the dexamethasone 
+group, 0.2mg/kg dexamethasone (0.2 mL) was injected intraperitoneally. Injections were given once every 3 days, for 4 consecutive weeks. Serum prostaglandin 
+E2 and 6-keto-prostaglandin F1α levels were detected by ELISA. The bone and joint function of rats were assessed by the Mankin’s score. Hematoxylin-eosin 
+staining was used to observe the pathologic morphology of the knee joints of rats. Western blot and PCR were used to detect the protein and mRNA expression 
+of tumor necrosis factor α and interleukin-1β, interleukin-10 in articular cartilage tissue, respectively.
+RESULTS AND CONCLUSION: Compared with the model group, serum prostaglandin E2 levels were decreased in the medium-dose group and dexamethasone 
+group, while serum 6-keto-prostaglandin F1α levels were increased (P < 0.05). Compared with the medium-dose group and dexamethasone group, the above-
+mentioned indicators were significantly improved in the high-dose group, and there was no significant difference between the medium-dose group and 
+dexamethasone group (P > 0.05). Compared with the model group, the Mankin’s score was reduced in the medium-dose group and dexamethasone group 
+(P < 0.05), but there was no significant difference between the medium-dose group and dexamethasone group (P > 0.05). Compared with the medium-dose 
+group and dexamethasone group, the Mankin’s score was significantly reduced in the high-dose group (P < 0.05). The cartilage tissue layer of rats in the model 
+and low-dose groups was significantly thinned, the cracks and chondrocytes deep into the bone layer were largely lost, the tide line was seriously broken and 
+blurred, the collagen fibers in the synovial layer were increased and thickened, and a large number of chondrocytes were destroyed and arranged irregularly. 
+These pathological changes were improved in the medium-dose group and dexamethasone group compared with the model group as well as improved in the 
+high-dose group compared with the medium-dose group. Compared with the model group, the expression of tumor necrosis factor-α and interleukin-1β was 
+reduced, while the expression of interleukin-10 was increased in the medium-dose group and dexamethasone group (P < 0.05). These indicators in the joint 
+were significantly improved in the high-dose group compared with the medium-dose group and dexamethasone group (P < 0.05), but there was no significant 
+difference between the medium-dose group and dexamethasone group (P > 0.05). To conclude, ginseng polysaccharide can improve the inflammatory level 
+and pathological morphology of traumatic osteoarthritis rats and reduce the Mankin’s score. Its mechanism may be related to the regulation of prostaglandin 
+E2/6-keto-prostaglandin F1α levels.
+Key words: ginseng polysaccharide; traumatic osteoarthritis; prostaglandin E2; 6-keto-prostaglandin F1α; animal model
+Funding: Shaanxi Province International Science and Technology Cooperation and Exchange Program, No. 2016KW-023 (to FP)
+How to cite this article: LI R, ZHANG GH, WANG T, FAN P. Effect of ginseng polysaccharide on the expression of prostaglandin E2/6-keto-prostaglandin 1alpha 
+in traumatic osteoarthritis model rats. Zhongguo Zuzhi Gongcheng Yanjiu. 2024;28(8):1235-1240. 
+骨关节炎中的作用机制相关报道较少
+[8]。因而，此次研究通
+过探讨人参多糖对创伤性骨关节炎大鼠关节软骨的保护作用
+机制，为人参多糖治疗创伤性骨关节炎的作用机制和疗效研
+究提供有力依据。
+1   材料和方法   Materials and methods
+1.1   设计   随机动物对照实验，单因素方差分析。
+1.2   时间及地点   实验于 2020 年 1-12 月在陕西省人民医院
+完成。
+1.3   材料
+1.3.1   实验大鼠   选取健康雄性 SD 大鼠 60 只，8 周龄，体质
+量 150-250 g，由广东省医学实验动物中心提供，使用许可证
+号：SCXK( 粤 )2019-0075。在室温为 15-25 ℃每日光照 12 h 
+的室内饲养，湿度为 35%-70%，给予标准饲料，自来水自由
+摄取。所有操作严格按照陕西省人民医院动物伦理委员会动
+物管理与使用指南执行，批准号：20210204。
+1.3.2   药物、试剂与仪器   人参多糖 ( 陕西斯诺特生物技术有
+限公司，纯度 50%)；戊巴比妥钠 ( 上海伊卡生物技术有限公
+司，批号：P0225)；地塞米松 ( 上海西格玛奥德里奇贸易有
+限公司，货号：D4902-100MG)；生理盐水 ( 安徽双鹤药业有
+限责任公司生产的生理盐水，国药准字：H20054037)；辣根
+过氧化物酶 HRP 标记亲和纯化山羊抗鼠 IgG 二抗 ( 上海信裕
+生物科技有限公司，货号：xy-2691)；肿瘤坏死因子 (tumor 
+necrosis factor，TNF-α) 抗体 ( 武汉华美生物工程有限公司，货号：
+CSB-EQ023955HU)；白细胞介素 1β(interleukin-1β，IL-1β) 抗体 
+( 上海晶抗生物工程有限公司，货号：JKSW70414)；IL-10 抗体 
+Chinese Journal of Tissue Engineering Research｜Vol 28｜No.8｜March 2024｜1237
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+( 上海泽叶生物科技有限公司，货号：K019-H148)；石蜡切片
+机 ( 北京若水合科技有限公司，型号：CZHS11/ERM-4000)；
+光学显微镜 ( 日本 OLYMPUS 公司，型号：BX50)；PCR 试剂盒 
+( 上海烜雅生物科技有限公司，货号：XY-SD-R-1048)；电泳仪
+( 北京鸿涛基业科技发展有限责任公司，型号：HT-SCZ04)。
+1.4   方法   
+1.4.1   模型建立   采用 1% 戊巴比妥钠 (110 mg/kg) 进行麻醉
+后，使大鼠仰卧于手术台上，依据文献 [9] 采用切断膝关节
+内侧副韧带和切除部分内侧半月板的方式建立大鼠创伤性关
+节炎模型。对大鼠右后肢膝关节进行剃毛和消毒处理后，于
+膝骨内侧纵切长约 2 cm 的切口暴露膝关节，剪断韧带后完
+整切除内侧半月板，并破坏韧带和半月板后，用生理盐水清
+洗切口后逐层缝合切口，术后给予 20×104 U 青霉素肌肉注射，
+连续使用 3 d，不固定肢体，在造模后第 7 日开始连续 15 d
+进行驱赶大鼠行为，每日进行 2 次，每次约 30 min，若在此
+期间大鼠的关节部位出现明显的肿胀、僵硬现象，且活动明
+显受限，同时伴随关节畸形等，表示此次建模成功。 
+存待用，采用双抗夹心 ELISA 试剂盒测定 PEG-2、6-keto-PGF1α
+水平，取血清标本 200 μL，测定前室温复溶后离心取上清液
+测定，用酶标仪在 300 nm 测定吸光度值，根据样品的吸光
+度值在坐标上找出对应的浓度并以 ng/L 表示。
+1.5.2   Mankin’s 评分法检测大鼠膝关节软骨组织状况   所有实
+验大鼠采用颈椎脱臼法处死后，切取膝关节、剔净软组织，
+用 PBS 冲洗后，大体观察并照相后用体积分数 10% 中性甲醛
+溶液固定待测。依据文献 Mankin’s 法评价大鼠膝关节软骨状
+况，其中正常为 0 级，1 级为表层破坏，2 级为血管翳及表
+层破坏，3 级为浅层裂隙形成，4 级为局限性深达骨质的裂隙，
+5 级为大面积深达骨质的软骨缺如，6 级为负重区软骨全部
+丢失
+[10]。
+1.5.3   苏木精 - 伊红染色   剔除大鼠膝关节表面肌肉等组织，
+固定于 40 g/L 多聚甲醛溶液中，于 24 h 后采用 pH 7.2 的乙
+二胺四乙酸溶液脱钙，每日 3 次进行更换，4 周后可将大头
+针刺入骨组织表示脱钙完全，采用乙醇脱水，将选好的石蜡
+切片置于 70 ℃的保温箱中 1 h 进行烘干，经无水乙醇、体积
+分数 80% 乙醇、60% 乙醇和 70% 乙醇脱水后用清水冲洗，
+于 80 ℃烤箱中烘烤 15 min 后于苏木精中染色 10 min，清洗
+后采用伊红染色 1 min，70 ℃烘箱烤干后进行中性树脂封固，
+骨组织切片于显微镜下观察后拍照。
+1.5.4   免疫印迹检测大鼠膝关节软骨组织 TNF-α、IL-1β、
+IL-10 蛋白表达   用 RIPA 裂解液进行软骨组织蛋白质提取，
+BCA 法测定蛋白质含量，调整蛋白质浓度为 30 μg/10 μL 进
+行 SDS 聚丙烯酰胺凝胶电泳，将电泳后的蛋白转移至 PVDF
+膜封闭液封闭，5 ℃过夜，用一抗 TNF-α(1 ∶ 1 000)、IL-1β 
+(1 ∶ 1 500)、IL-10(1 ∶ 1 000) 和多克隆抗体 β-actin(1 ∶ 2 000) 
+孵育 1 h 后，TBS 洗涤 3 次，15 min/ 次，分别用辣根过氧化
+物酶标记的山羊抗鼠 IgG(1 ∶ 5 000) 室温孵育 1 h，TBS 洗涤
+3 次，15 min/ 次，后将膜浸入 ECL 工作液，经 X 射线曝光、
+显影后检测获取图像观察结果。
+1.5.5   PCR 检 测 大 鼠 膝 关 节 软 骨 组 织 TNF-α、IL-1β、IL-10 
+mRNA 表达   取大鼠软骨组织 100 mg 用液氮在研钵中研磨成
+匀浆，移入玻璃匀浆器，加入 3 mL TRIzol 试剂及 100 μL 氯仿
+提取总 RNA，核酸定量仪检测提取 RNA 的浓度和纯度，按照
+第一链合成系统说明书进行反转录制备 cDNA，以 β-actin 为
+内参进行荧光定量 PCR 扩增以检测各组 TNF-α mRNA、IL-1β  
+mRNA、IL-10 mRNA 表达，70 ℃预处理 5 min，循环 1 次，
+90 ℃预变性 3 min，循环 1 次，70 ℃变性 3 min，60 ℃退火
+15 s，70 ℃延伸 20  s，循环 30 次，各组均设 3 个复孔，PCR
+产物用 2% 琼脂糖凝胶电泳，紫外灯下观察照相，将照片通
+过凝胶图像分析系统分进行析，PCR 产物量以吸光度 × 面积
+表示，根据 2-ΔΔCt 值计算相对表达，见表 1。
+1.6   统计学分析   采用 GraphPad Prism 8.0 软件进行统计分
+析，计量资料采用 x-±s 表示，多组间比较用单因素方差分析，
+两组间比较采用 LSD-t 检验，P < 0.05 为差异有显著性意义。
+文章统计学方法已经陕西省人民医院生物统计学专家审核。
+组织工程实验动物造模过程中的相关问题：
+造模目的
+构建创伤性骨关节炎大鼠模型
+选择动物的条件
+健康雄性大鼠 60 只，8 周龄，体质量 150-250 g
+模型与所研究
+疾病的关系
+为创伤性骨关节炎防治研究提供理想的动物模型
+动物来源及品系
+广东省医学实验动物中心提供
+造模技术描述
+采用戊巴比妥钠麻醉后，剃毛和消毒处理，于膝骨内侧纵切
+长约 2 cm 的切口暴露膝关节，剪断韧带后完整切除内侧半月
+板，并破坏韧带和半月板
+动物数量及
+分组方法
+将 60 只大鼠随机分为健康组、模型组、人参多糖低剂量组、
+人参多糖中剂量组、人参多糖高剂量组、地塞米松组，每组
+10 只
+造模成功评价指标 大鼠步态行为明显不同
+造模后观察指标
+大鼠血清前列腺素 E2、6- 酮 - 前列腺素 F1α 测定；膝关节软
+骨组织 Mankin’s 评分、苏木精 - 伊红染色及肿瘤坏死因子 α、
+白细胞介素 1β、白细胞介素 10 蛋白及 mRNA 测定
+造模后动物处理
+收集大鼠血液，取血清，麻醉处死，取出膝关节软骨
+伦理委员会批准
+该实验方案经陕西省人民医院动物实验中心伦理委员会批准
+1.4.2   分组给药   将 60 只大鼠采用随机数字表法随机分为健
+康组、模型组、人参多糖低剂量组、人参多糖中剂量组、人
+参多糖高剂量组、地塞米松组，除健康组外，其余大鼠均建
+立创伤性骨关节炎模型。造模成功后，健康组与模型组采用
+生理盐水 0.2 mL 腹腔注射，人参多糖低、中、高剂量组分别
+采用 0.1，0.25，0.5 μg/mL 人参多糖 0.2 mL 腹腔注射，地塞
+米松组采用 0.2 mg/kg 地塞米松腹腔注射，均每 3 d 注射一次，
+连续干预 4 周。
+1.5   主要观察指标   
+1.5.1   ELISA 检 测 大 鼠 血 清 中 PGE-2、6- 酮 - 前 列 腺 素 F1α 
+(6-Keto-prostaglandin F1α，6-keto-PGF1α) 水平   给药结束后 24 h 
+采用 1% 戊巴比妥钠 (110 mg/kg) 将大鼠麻醉后经腹主动脉取
+血 5 mL，4 000 r/min 离心 15 min 后分离血清，于 -20 ℃保
+1238｜中国组织工程研究｜第28卷｜第8期｜2024年3月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+2   结果   Results 
+2.1   实验动物数量分析   共纳入 60 只大鼠，随机分为健康组、
+模型组、人参多糖低、中、高剂量组、地塞米松组，每组 10
+只。此次实验中所有大鼠均符合实验标准且无脱失现象。
+2.2   各组大鼠血清中 PGE-2、6-keto-PGF1α 表达   与健康组比
+较，模型组大鼠血清 PGE-2 表达升高 (P < 0.05)；与模型组比较，
+人参多糖中剂量组大鼠血清 PGE-2 表达降低 (P < 0.05)；与人
+参多糖中剂量组比较，人参多糖高剂量组大鼠血清 PGE-2 表
+达降低 (P < 0.05)；与人参多糖高剂量组比较，地塞米松组大
+鼠血清 PGE-2 表达升高 (P < 0.05)；模型组与人参多糖低剂量
+组比较无差异 (P > 0.05)，人参多糖中剂量组与地塞米松组比
+较无差异 (P > 0.05)。
+与健康组比较，模型组大鼠 6-keto-PGF1α 表达降低 (P < 
+0.05)；与模型组比较，人参多糖中剂量组大鼠 6-keto-PGF1α
+表达升高 (P < 0.05)；与人参多糖中剂量组比较，人参多糖高
+剂量组大鼠 6-keto-PGF1α 表达升高 (P < 0.05)；与人参多糖高
+剂量组比较，地塞米松组大鼠 6-keto-PGF1α 表达降低 (P < 0.05)；
+模型组与人参多糖低剂量组比较无差异 (P > 0.05)，人参多糖
+中剂量组与地塞米松组比较无差异 (P > 0.05)。见表 2。
+图 1 ｜ 各 组 大
+鼠 膝 关 节 软 骨
+组 织 苏 木 精 -
+伊红染色 (×200)
+Figure 1 ｜
+Hematoxylin-
+eosin staining 
+of the knee 
+cartilage tissue 
+of rats in each 
+group (×200)  
+表 2 ｜各组大鼠血清前列腺素 E2(PGE-2)，6- 酮 - 前列腺素 F1α(6-keto-PGF1α)
+表达                                           (x-±s，n=10，ng/L)
+Table 2 ｜ Serum levels of prostaglandin E2 and 6-keto-prostaglandin F1α in rats
+组别
+PGE-2
+6-keto-PGF1α
+健康组
+102.02±11.85
+78.68±19.52
+模型组
+186.86±33.02a
+39.59±10.15a
+人参多糖低剂量组
+179.99±29.87a
+41.17±10.09a
+人参多糖中剂量组
+157.41±22.04ab
+52.22±13.25ab
+人参多糖高剂量组
+122.11±15.43abc
+62.32±16.79abc
+地塞米松组
+149.75±20.66abd
+49.86±14.78abd
+F 值
+19.770
+10.180
+P 值
+< 0.001
+< 0.001
+表注：与健康组比较，
+aP < 0.05；与模型组、人参多糖低剂量组比较，
+bP < 0.05；与
+人参多糖中剂量组比较，
+cP < 0.05；与人参多糖高剂量组比较，
+dP < 0.05
+表 3 ｜各组大鼠骨关节 Mankin’s 评分比较                (x-±s，n=10)
+Table 3 ｜ The Mankin’s score of the bone joint of rats
+组别
+Mankin’s 评分 ( 平均积分 )
+健康组
+0.49±0.10
+模型组
+8.51±1.59a
+人参多糖低剂量组
+8.46±1.60a
+人参多糖中剂量组
+6.52±1.23ab
+人参多糖高剂量组
+3.78±0.86abc
+地塞米松组
+6.49±1.19abd
+F 值
+65.210
+P 值
+< 0.001
+表注：与健康组比较，
+aP < 0.05；与模型组、人参多糖低剂量组比较，
+bP < 0.05；与
+人参多糖中剂量组比较，
+cP < 0.05；与人参多糖高剂量组比较，
+dP < 0.05
+表 1 ｜引物序列
+Table 1 ｜ Primer sequences
+基因
+方向
+引物序列
+肿瘤坏死因子 α
+F
+5'-CAT GAT CCG AGA TGT GGA ACT GGC-3'
+R
+5'-CTG GCT CAG CCA CTC CAG-3'
+白细胞介素 1β
+F
+5'-GAC CTG TTC TTT GAG GCT GAC-3'
+R
+5'-TCC ATC TTC TTT GGG TAT TGT T-3'
+白细胞介素 10
+F
+5'-TAA GGG TTA CTT GGG TTG CCA AGC C-3'
+R
+5'-AGG GAA ATC GAT GAC AGC G-3'
+β-actin
+F
+5'-CCC ATC TAT GAG GGT TAC GC-3'
+R
+5'-TTT AAT GTC ACG CAC GAT TTC-3'
+2.3   各组大鼠膝关节软骨组织 Mankin’s 评分表达    与健康组
+比较，模型组大鼠 Mankin’s 评分增高 (P < 0.05)；与模型组比
+较，人参多糖中剂量组大鼠 Mankin’s 评分降低 (P < 0.05)；与
+人参多糖中剂量组比较，人参多糖高剂量组大鼠 Mankin’s 评
+分降低 (P < 0.05)；与人参多糖高剂量组比较，地塞米松组大
+鼠 Mankin’s 评分增高 (P < 0.05)；模型组与人参多糖低剂量组
+比较无差异 (P > 0.05)，人参多糖中剂量组与地塞米松组比较
+无差异 (P > 0.05)，见表 3。
+2.4   苏木精 - 伊红染色   健康组大鼠关节软骨面光滑、红润，
+软骨滑膜完整，骨细胞及纤维生长良好且排列规整；模型组
+与人参多糖低剂量组大鼠软骨组织层明显变薄，深达骨质层
+的裂隙及软骨细胞大量丢失，潮线严重断裂、模糊，滑膜层
+胶原纤维增多、增粗，可见大量软骨细胞被破坏，排列不规
+则；人参多糖中剂量组、地塞米松组表面不平，滑膜层可见
+胶原纤维增多，仍有软骨细胞被破坏及炎性细胞浸润，潮线
+仍有紊乱现象；人参多糖高剂量组仅可见少量细胞簇聚集与
+双重潮线，膝关节面稍显光滑，滑膜层胶原纤维有增粗现象，
+见图 1。
+2.5   各组大鼠膝关节软骨组织 TNF-α、IL-1β、IL-10 蛋白表达 
+与健康组比较，模型组大鼠骨关节中 TNF-α、IL-1β 蛋白表达
+升高 (P < 0.05)；与模型组比较，人参多糖中剂量组大鼠骨关
+节中 TNF-α、IL-1β 蛋白表达降低 (P < 0.05)；与人参多糖中剂
+量组比较，人参多糖高剂量组大鼠骨关节中 TNF-α、IL-1β 蛋
+白表达降低 (P < 0.05)；与人参多糖高剂量组比较，地塞米松
+组大鼠骨关节中 TNF-α、IL-1β 蛋白表达升高 (P < 0.05)；模型
+组与人参多糖低剂量组比较无差异 (P > 0.05)，人参多糖中剂
+量组与地塞米松组比较无差异 (P > 0.05)。
+与健康组比较，模型组大鼠骨关节中 IL-10 蛋白表达降
+低 (P < 0.05)；与模型组比较，人参多糖中剂量组大鼠骨关
+节中 IL-10 蛋白表达升高 (P < 0.05)；与人参多糖中剂量组比
+较，人参多糖高剂量组大鼠骨关节中 IL-10 蛋白表达升高 (P <  
+0.05)；与人参多糖高剂量组比较，地塞米松组大鼠骨关节中
+IL-10 蛋白表达降低 (P < 0.05)；模型组与人参多糖低剂量组
+比较无差异 (P > 0.05)，人参多糖中剂量组与地塞米松组比较
+无差异 (P > 0.05)。见表 4 及图 2。
+健康组
+人参多糖中剂量组
+模型组
+人参多糖高剂量组
+人参多糖低剂量组
+地塞米松组
+Chinese Journal of Tissue Engineering Research｜Vol 28｜No.8｜March 2024｜1239
+中国组织工程研究 
+Chinese Journal of Tissue Engineering Research
+www.CJTER.com
+研究原著
+2.6   各组大鼠膝关节软骨组织 TNF-α、IL-1β、IL-10 mRNA 表
+达   与健康组比较，模型组大鼠骨关节中 TNF-α、IL-1β mRNA
+表达升高 (P < 0.05)；与模型组比较，人参多糖中剂量组大鼠
+骨关节中 TNF-α、IL-1β mRNA 表达降低 (P < 0.05)；与人参多
+糖中剂量组比较，人参多糖高剂量组大鼠骨关节中 TNF-α、
+IL-1β mRNA 表达降低 (P < 0.05)；与人参多糖高剂量组比较，
+地塞米松组大鼠骨关节中 TNF-α、IL-1β mRNA 表达升高 (P < 
+P < 0.05)；模型组与人参多糖低剂量组比较无差异 (P > 0.05)，
+人参多糖中剂量组与地塞米松组比较无差异 (P > 0.05)。
+与健康组比较，模型组大鼠骨关节中 IL-10 mRNA 表达
+降低 (P < 0.05)；与模型组比较，人参多糖中剂量组大鼠骨关
+节中 IL-10 mRNA 表达升高 (P < 0.05)；与人参多糖中剂量组
+比较，人参多糖高剂量组大鼠骨关节中 IL-10 mRNA 表达升高
+(P < 0.05)；与人参多糖高剂量组比较，地塞米松组大鼠骨关
+节中 IL-10 mRNA 表达降低 (P < 0.05)；模型组与人参多糖低
+剂量组比较无差异 (P > 0.05)，人参多糖中剂量组与地塞米松
+组比较无差异 (P > 0.05)。见表 5。
+3   讨论   Discussion
+当关节受到创伤后，关节软骨会发生退行性变性和继发
+性增生，进而导致关节活动功能产生障碍，且近年来由于创
+伤和交通事故的高发，创伤性骨关节炎的发病率也有增加的
+趋势
+[11-12]。创伤后患者的临床表现、诊断方法和治疗方面的
+考虑与原发性骨关节炎相类似，其病理特征为细胞外基质降
+解、关节软骨退变、软骨下骨硬化等，尤其是蛋白多糖的缺失，
+可引起软骨细胞的破坏，导致关节疼痛和功能障碍产生
+[13-14]。
+现阶段，中药多糖的研究已经成为生物医学领域的热门课题，
+且相关研究发现，中药多糖具有抗肿瘤、增强免疫、降压降
+糖、活血抗栓、增强骨髓造血功能及保护肝肾脏器等多种功
+效
+[15-17]。此文主要针对人参多糖在治疗创伤性骨关节炎疾病
+中的作用机制进行探究，意在为日后临床人参多糖对相关疾
+病的治疗提供一定思路。
+PGE-2 与 6-keto-PGF1α 是属于前列腺素类的两个重要因
+子，是由细胞膜上的花生四烯酸经环氧化酶催化形成的，且
+PGE-2 是机体的主要炎症因子，当出现感染时 PGE-2 可大量
+产生，进而促进炎症的发展
+[18]。而当创伤性骨关节炎产生时
+往往伴随炎症反应加剧，此次研究中，与健康组相比模型组
+与人参多糖低剂量组大鼠血清 PGE-2 表达升高；与模型组相
+比人参多糖中剂量组与地塞米松组大鼠血清 PGE-2 表达降低；
+与人参多糖中剂量组相比人参多糖高剂量组大鼠血清 PGE-2
+表达降低，且 6-keto-PGF1α 表达与之呈负相关，表示人参多
+糖可能对创伤性骨关节炎中的 PGE-2/6-keto-PGF1α 水平具有
+一定调节作用。相关研究表示，创伤性骨关节炎出现时常伴
+随关节积液的产生，其病理改变以炎性浸润关节腔、滑膜以
+及关节面软骨被破坏、变性为主，而 PGE-2、6-keto-PGF1α 等
+因子的失衡可使关节腔内透明质酸合成代谢紊乱、血液瘀滞，
+进而加重局部组织微循环障碍和骨关节炎的损伤，造成关节
+退行性病变
+[19]。人参多糖是中药人参的主要药物成分之一，
+对造血干细胞和造血祖细胞的增殖与分化有明确的刺激作
+用，具有调节免疫、抗氧化、抗病毒和降血糖等多种生物学
+活性。分析其调节 PGE-2、6-keto-PGF1α 的机制可能与改善关
+节炎中的炎症因子以及氧化功能相关，但具体的调控机制仍
+需进一步探究。
+相关研究发现，人参成分可能通过诱导关节软骨细胞
+糖胺聚糖合成酶活性，和增加软骨细胞糖胺聚糖和关节腔积
+液中透明质酸的合成，进而改善关节软骨组织微循环缺血状
+态，促进血管舒张和病变组织的新陈代谢
+[20]。因而此文推
+测，人参多糖可能通过改善 PGE-2、6-keto-PGF1α 等因子在关
+节瘀血状态的不平衡性，以防止血栓和炎性递质的合成、扩
+散，在降低痛阈和关节滑膜表面神经神经末梢对炎性因子刺
+激的同时，起到降低软骨周围组织损伤和缓解骨关节炎症的
+作用。目前认为的创伤性骨关节炎病理学特征是由于关节软
+图注：TNF-α 为肿瘤坏死因子 α，IL-1β 为白细胞介素 1β，IL-10 为白细
+胞介素 10
+图 2 ｜各组大鼠膝关节软骨组织 TNF-α、 IL-1β、 IL-10 蛋白表达免疫印
+迹条带图
+Figure 2 ｜ Protein expressions of tumor necrosis factor-α, interleukin-1β 
+and interleukin-10 in the articular cartilage of the rat knee
+表 4 ｜各组大鼠膝关节软骨组织 TNF-α、 IL-1β、 IL-10 蛋白表达 (x-±s，n=10)
+Table 4 ｜ Protein expressions of tumor necrosis factor-α, interleukin-1β 
+and interleukin-10 in the articular cartilage of the rat knee
+组别
+TNF-α
+IL-1β
+IL-10
+健康组
+1.11±0.05
+1.03±0.02
+5.21±1.15
+模型组
+5.51±1.72a
+5.02±1.22a
+1.09±0.04a
+人参多糖低剂量组
+5.38±1.67a
+4.86±1.08a
+1.15±0.06a
+人参多糖中剂量组
+4.10±1.35ab
+4.05±0.76ab
+2.62±0.38ab
+人参多糖高剂量组
+2.13±0.77abc
+2.33±0.29abc
+4.06±0.79abc
+地塞米松组
+4.08±1.29abd
+3.96±0.69abd
+2.59±0.41abd
+F 值
+19.010
+38.390
+69.520
+P 值
+< 0.001
+< 0.001
+< 0.001
+表注：与健康组比较，
+aP < 0.05；与模型组、人参多糖低剂量组比较，
+bP < 0.05；与
+人参多糖中剂量组比较，
+cP < 0.05；与人参多糖高剂量组比较，
+dP < 0.05。TNF-α：
+肿瘤坏死因子 α；IL-1β：白细胞介素 1β；IL-10：白细胞介素 10
+表 5 ｜各组大鼠膝关节软骨组织 TNF-α、 IL-1β、 IL-10 mRNA 表达
+(x-±s，n=10)
+Table 5 ｜ Protein expressions of tumor necrosis factor-α, interleukin-1β 
+and interleukin-10 in the articular cartilage of the rat knee
+组别
+TNF-α
+IL-1β
+IL-10
+健康组
+1.00±0.00
+1.00±0.00
+1.00±0.00
+模型组
+5.42±1.42a
+4.21±1.05a
+0.11±0.03a
+人参多糖低剂量组
+5.35±1.58a
+4.75±1.08a
+0.09±0.02a
+人参多糖中剂量组
+4.08±1.29ab
+3.95±0.69ab
+0.29±0.09ab
+人参多糖高剂量组
+2.08±0.68abc
+2.19±0.20abc
+0.62±0.17abc
+地塞米松组
+4.02±1.31abd
+3.87±0.58abd
+0.31±0.10abd
+F 值
+22.350
+39.010
+151.200
+P 值
+< 0.001
+< 0.001
+< 0.001
+表注：与健康组比较，
+aP < 0.05；与模型组、人参多糖低剂量组比较，
+bP < 0.05；与
+人参多糖中剂量组比较，
+cP < 0.05；与人参多糖高剂量组比较，
+dP < 0.05。TNF-α：
+肿瘤坏死因子 α；IL-1β：白细胞介素 1β；IL-10：白细胞介素 10
+70 kD
+125 kD
+70 kD
+90 kD
+IL-10
+IL-1β
+TNF-α
+β-actin
+健康组
+人参多糖
+中剂量组
+模型组
+人参多糖
+高剂量组
+人参多糖
+低剂量组
+地塞米松组
+1240｜中国组织工程研究｜第28卷｜第8期｜2024年3月
+中国组织工程研究  
+www.CJTER.com Chinese Journal of Tissue Engineering Research
+研究原著
+骨损伤而造成的软骨变性，以及关节软骨外基质合成与降解
+的失衡过程，因此，有效改善骨关节损伤造成的关节腔内平
+衡介质破坏现象对于骨保护至关重要
+[21-22]。此次研究中，与
+健康组相比，模型组与人参多糖低剂量组大鼠 Mankin’s 评分
+增高；与模型组相比，人参多糖中剂量组与地塞米松组大鼠
+Mankin’s 评分降低；与人参多糖中剂量组相比，人参多糖高
+剂量组大鼠 Mankin’s 评分降低，表示人参多糖对改善大鼠骨
+关节功能 Mankin’s 评分具有积极作用。相关研究表示，创伤
+性骨关节炎发生时，体内炎症因子可刺激滑膜细胞的分化，
+进而破坏骨细胞导致软骨组织损伤的加剧，影响骨关节的修
+复
+[23-24]。传统中药人参、当归等对骨关节炎有一定的疗效，
+而人参多糖可分解软骨基质中胶原、蛋白多糖，增加软骨细
+胞内葡萄糖醛酸转移酶Ⅰ的表达，促进炎症状态下软骨细胞
+糖胺多糖的合成，抑制炎症中氧自由基的生成，进而减轻关
+节软骨退变，起到促进骨愈合的作用
+[25]。
+创伤性关节炎多数伴随患处明显的红肿、功能受限的
+同时，也会出现 IL-1β、TNF-α、IL-10 水平失衡等免疫紊乱
+现象，说明炎性因子在关节炎的发生发展过程中具有重要
+作用
+[26-27]。此次研究表明，经人参多糖干预后大鼠的骨关节
+中 TNF-α、IL-1β 表达有所升高，IL-10 表达下降，表示人参多
+糖对创伤性骨关节炎大鼠体内的 TNF-α、IL-1β、IL-10 表达具
+有一定调节作用。创伤性关节炎中在软骨细胞和滑膜细胞内
+的 IL-1β 和 TNF-α 增高可以破坏软骨细胞中合成代谢与分解
+代谢的平衡，引起关节软骨代谢障碍。IL-1β 和 TNF-α 可通过
+对炎症反应转录因子与核因子 κB 发挥介导作用而加重骨关
+节损伤
+[28-29]。有学者在研究中表示，人参多糖可能通过抑制
+TNF-α、IL-1β 及人单核细胞、中性粒细胞等产生的细胞因子
+表达，降低炎性细胞因子的水平，并通过上调 IL-10 表达改
+善炎症反应
+[30]。
+综上所述，人参多糖可改善创伤性骨关节炎大鼠炎性水
+平及病理形态，降低 Mankin’s 评分，其作用机制可能与调控
+PGE-2/6-keto-PGF1α 水平有关。但此文存在一定的不足之处，
+仅通过实验验证了人参多糖降低 TNF-α、IL-1β 和升高 IL-10，
+调控 PGE-2/6-keto-PGF1α 表达，对于人参多糖通过参与调控
+的具体机制以及必然联系仍需进一步探究，同时未进行目标
+蛋白的免疫组化分析，会在日后的实验中继续进行完善。
+致谢：感谢我的导师，在论文的选题、搜集资料和写作阶段给予我极大的关
+怀和鼓励。
+作者贡献：李蕊负责实验设计，张桂红负责实验实施，王涛、樊萍负责指标
+测定。
+利益冲突：文章的全部作者声明，在课题研究和文章撰写过程中不存在利益
+冲突。
+开放获取声明：这是一篇开放获取文章，根据《知识共享许可协议》“署名 -
+非商业性使用 - 相同方式共享 4.0”条款，在合理引用的情况下，允许他人以非商
+业性目的基于原文内容编辑、调整和扩展，同时允许任何用户阅读、下载、拷贝、
+传递、打印、检索、超级链接该文献，并为之建立索引，用作软件的输入数据或
+其它任何合法用途。
+版权转让：文章出版前全体作者与编辑部签署了文章版权转让协议。
+出版规范：该文章撰写遵守了国际医学期刊编辑委员会《学术研究实验与报
+告和医学期刊编辑与发表的推荐规范》。文章出版前已经过专业反剽窃文献检测
+系统进行 3 次查重。文章经小同行外审专家双盲外审，同行评议认为文章符合期
+刊发稿宗旨。 
+4   参考文献   References
+[1] 
+O’BRIEN MS, MCDOUGALL JJ. Neurophysiological assessment of joint nociceptors 
+in the rat medial meniscus transection model of post-traumatic osteoarthritis. 
+Osteoarthritis Cartilage. 2020;28(9):1255-1264.
+[2] 
+MENDEZ ME, SEBASTIAN A, MURUGESH DK, et al. LPS-Induced Inflammation 
+Prior to Injury Exacerbates the Development of Post-Traumatic Osteoarthritis in 
+Mice. J Bone Miner Res. 2020;1(11):35.
+[3] 
+SAITO M, NISHITANI K, KEDA HO, et al. A VCP modulator, KUS121,as a promising 
+therapeutic agent for post-traumatic osteoarthritis. Sci Rep. 2020;10(1):20787.
+[4] 
+HART ML. An Evidence-Based Systematic Review of Human Knee Post-Traumatic 
+Osteoarthritis (PTOA): Timeline of Clinical Presentation and Disease Markers, 
+Comparison of Knee Joint PTOA Models and Early Disease Implications. Int J Mol 
+Sci. 2021;22(4):1996.
+[5] 
+KHALIL HE, IBRAHIM H, AHMED EA, et al. Orientin, a Bio-Flavonoid from Trigonella 
+hamosa L.Regulates COX-2/PGE-2 in A549 Cell Lines via miR-26b and miR-146a. 
+Pharmaceuticals. 2022;15(2):154.
+[6] 
+LI JQ,HAO X,SUN ZG, et al. The outcomes of post-traumatic arthritis vs 
+osteoarthritis following primary total knee arthroplasty: A protocol of matched 
+cohort study. Medicine. 2020;99(19):e20077. 
+[7] 
+吴鹏 , 茆军 . 代谢组学在中医药治疗膝骨关节炎中应用的研究进展 [J]. 中国
+医药 ,2021,16(9):1420-1422.
+[8] 
+王璐 , 孙小虎 , 刘春娜 , 等 . 人参多糖通过下调炎性因子及 AKT 防治结肠癌
+的研究 [J]. 重庆医学 ,2020,49(22):3693-3697.
+[9] 
+陈连旭 , 傅欣 , 于长隆 , 等 . 内侧副韧带切断合并部分半月板切除对大鼠膝
+关节软骨、滑膜和细胞因子的影响[J].中国运动医学杂志,2006,25(6):655-657.
+[10] 
+姚合梅 , 王政 , 崔瑾 , 等 . 苗药验方皮部熏洗对骨关节炎大鼠软骨细胞凋亡
+与增殖的影响 [J]. 浙江中医药大学学报 ,2013,37(7):893-896.
+[11] 
+BROCKMAN BS, MAUPIN JJ, THOMPSON SF, et al. Complication Rates in Total 
+Knee Arthroplasty Performed for Osteoarthritis and Post-Traumatic Arthritis: A 
+Comparison Study - ScienceDirect. J Arthroplasty. 2020;35(2):371-374.
+[12] 
+LI EQ, ZHANG JL. Therapeutic effects of triptolide from Tripterygium wilfordii 
+Hook. f. on interleukin-1-beta-induced osteoarthritis in rats. Eur J Pharmacol. 
+2020;883:173341.
+[13] 
+LIU Y, ZHAO XD, ZHOU C, et al. Lingering Risk: A Meta-analysis of Outcomes 
+following Primary Total Knee Arthroplasty for Patients with Post-Traumatic 
+Arthritis. Int J Surg. 2020;77:163-172.
+[14] 
+GOMES LMRS, CZECZKO NG, ARAÚJO RLTM, et al. Effect of intra-articular 
+dexmedetomidine on experimental osteoarthritis in rats. PLoS One. 2021;16(1): 
+e0245194.
+[15] 
+徐洋洋 , 孙成新 , 丁侃 , 等 . 活血化瘀中药多糖的抗癌活性及其机制研究 [J]. 
+上海中医药大学学报 ,2022,36(4):1-11.
+[16] 
+万浩芳 , 应佳妮 , 关旸 , 等 . 人参多糖对冠心病大鼠心肌细胞线粒体的保护
+作用 [J]. 现代食品科技 ,2020,36(11):24-28+60.
+[17] 
+HUANG S, CHEN F, CHEN H. Modification and application of polysaccharide from 
+traditional Chinese medicine such as Dendrobium officinale. Int J Biol Macromol. 
+2020;157:385-393.
+[18] 
+沈哲司 , 王宏 , 郭广洋 , 等 . 消化性溃疡并发上消化道出血的危险因素及其
+与血清 PGE-2、6-Keto-PGF-(1α) 的关系 [J]. 山东医药 ,2020,60(35):71-74.
+[19] 
+吴弢 , 高翔 , 王拥军 , 等 . 益气化瘀利水方对骨关节炎兔前列腺素代谢的影
+响 [J]. 老年医学与保健 ,2004,1(1):24-26.
+[20] 
+高志 . 药用植物人参活性成分人参皂苷 Rb1 对大鼠骨关节炎症和蛋白多糖
+降解的作用 [J]. 分子植物育种 ,2022,20(14):4800-4806.
+[21] 
+刘鹏 , 赵茂盛 , 曹国定 , 等 . 创伤性关节炎手术治疗现状 [J]. 解放军医学杂
+志 ,2020,45(5):559-567.
+[22] 
+KEENAN CM, RAMOS-MUCCI L, KANAKIS I, et al. Post-traumatic osteoarthritis 
+development is not modified by postnatal chondrocyte deletion of CCN2. Arthritis 
+Res Ther. 2020;22(1):57.
+[23] 
+MA X, ZHANG Z, SHEN M, et al. Changes of type II collagenase biomarkers on IL-
+1β-induced rat articular chondrocytes. Exp Ther Med. 2021;21(6):582.
+[24] 
+李惠娟 , 张栋 , 张晓哲 , 等 . 针刀、圆利针干预膝骨关节炎模型大鼠对 β- 内
+啡肽及前列腺素 E-2 水平的影响 [J]. 中国医药导报 ,2020,17(9):153-155+184.
+[25] 
+XU C,NI S, ZHUANG C, et al. Polysaccharide from Angelica sinensis attenuates 
+SNP-induced apoptosis in osteoarthritis chondrocytes by inducing autophagy via 
+the ERK1/2pathway. Arthritis Res Ther. 2021;23(1):47.
+[26] 
+谭艳 , 宁丽常 , 蹇孝丽 , 等 . 胶原诱导性关节炎大鼠血清 TNF-α、IL-6、IFN-γ
+及 IL-10 水平变化 [J]. 贵州医科大学学报 ,2020,45(1):18-22.
+[27] 
+AMERICA MC, RAYMUNDO C,MAGLALENA MS,et al.Latexin expression correlated 
+with mineralization of articular cartilage during progression of post-traumatic 
+osteoarthritis in a rat model. Histol Histopathol. 2020;35(3):269-278.
+[28] 
+董勇勇 , 段广斌 , 茹嘉 , 等 . 膝关节骨性关节炎患者血清 IL-1β、TNF-α 表达
+及其与术后疼痛指标的关系 [J]. 中国实用医刊 ,2022,49(18):54-57.
+[29] 
+CHERY DR, HAN B, LIi Q, et al. Early Changes in Cartilage Pericellular Matrix 
+Micromechanobiology Portend the Onset of Post-Traumatic Osteoarthritis. Acta 
+Biomater. 2020;111(1):267-278.
+[30] 
+ALONSO B, BRAVO B,MEDIAVILLA L,et al.Osteoarthritis-related biomarkers profile 
+in chronic anterior cruciate ligament injured knee. Knee. 2020;27(1):51-60.
+( 责任编辑：GD，ZN，WL，LCH)

@@ -1,0 +1,669 @@
+矗曩Ⅱ字杂志，2023，33( 1) ：8—13
+@2023
+CHI NESE J OURNAL 0F MI CROCI RCULATl 0N
+doi ：10．3969／j ．i ssn．1005—1740．2023．01．002
+人参皂苷R93对低密度脂蛋白诱导的肾小球系膜细
+胞TGF- ⅣSmad／NF—KB通路及细胞凋亡的影响
+李胜涛1
+夏川1
+曹
+红1
+徐玉娟1
+黄红娟1
+周丹旎1
+阳爱丽1
+阳
+帆2’ 3’ #
+[ 中图分类号] R446．1
+[ 文献标识码] A
+[ 文章编号]
+1005—1740( 2023) 01一o008一06
+*
+【摘要】
+目的：分析人参皂苷R93对低密度脂蛋白( LDL) 诱导人肾小球系膜细胞( HMC) 转化生长因子一8／
+Smad／核因子kappa B( TGF_8／smad／NF- 出) 通路及细胞凋亡的影响。方法：将HMC细胞分为对照组( 不做任何
+处理) 、LDL组( 40pg／ml 的LDL处理) 、人参皂苷R93低浓度组( LDL 40pg／ml +人参皂苷R93 15pmol ／L) 、人参皂
+苷R93中浓度组( LDL 40弘g／m1+人参皂苷R93 30弘mol ／L) 、人参皂苷R93高浓度组( LDL 40pg／mL+人参皂苷
+R93 60pmol ／L) 。采用MTT法检测HMC细胞增殖活性；west ern Bl ot t i ng法检测通路相关蛋白TGF．p、Smad2、
+Smad3、NF_KB以及B淋巴细胞瘤基因相关x蛋白( Bax) 、B淋巴细胞瘤基因一2( Bcl —2) 和半胱天冬酶一3( Caspase_3)
+细胞凋亡相关蛋白的表达水平。结果：与对照组相比，LDI ．组HMC细胞增殖活性、TGF- 0、Smad2、Smad3、NF- KB
+蛋白表达水平明显升高，差异均有统计学意义( P<o．01) ；与LDL组相比，人参皂苷R93低、中、高浓度组HMC细
+胞增殖活性、TGF- 8、smad2、smad3、NF—KB、Bcl 一2蛋白表达水平明显降低，HMc细胞凋亡率、Bax和caspase- 3的
+蛋白水平明显升高，并呈浓度依赖性，差异均有统计学意义( P<o．01) 。结论：人参皂苷R93可抑制LDL诱导的
+HMc细胞增殖，促进其凋亡，其作用机制可能与TGF—B／smad／NF_” B信号通路密切相关。
+【关键词】人参皂苷R93；低密度脂蛋白；肾小球系膜细胞；TGF- B／smad／NF_KB通路；凋亡
+The Ef f ect s of Gi nsenosi de R93 on TGF—p／Smad／NF。KB Pat hway and Apopt osi s of Human Mesangi al
+Ce¨ s I nduced by Low Densi t y Li poprot ei n
+LI
+Sheng—t a01，XI A Chuanl ，CA0 Hon91，XU Yu_j uanl ，HUANG Hong- j uanl ，ZHOU Dan—
+ni l ，YANG Ai —l i l ，YANG Fan2’
+3’
+8
+1 Laborat ory of Chenzhou Fi rst Peopl e’
+s Hospi t al ，Chenzhou 423000，Chi na；
+2 Hunan Medi cal
+Col l ege，Huai hua 418000，Chi na；
+3Xi angt an Fi rst Peopl ds Hospi t al ，Xi angt an 411101，Chi na；
+#Correspondi ng aut hor
+【Abst 髓ct 】
+obj ect i ve：To i nvest i gat e t he ef f ect s
+of gi nsenosi de R93 on t ransf ormi ng
+growt h f act or- B／Smad／
+nucl ear f act or kappa B( TGFL口／Smad／NF乙KB) pat hway and apopt osi s of human mesangi al cel l s( HMC) i nduced by
+l ow densi t y l i poprot ei n( LDL) ．Met hod：The cul t ured HMC cel l s were di vi ded i nt o t he cont r01 group( wi t hout
+any
+t reat ment ) ，t he LDL group( 40pg／ml LDL t reat ment ) ，t he l ow concent rat i on group( LDL 40弘g／ml +gi nsenosi de
+R93 15pmol ／L) ，and t he medi um concent rat i on group( LDI 。40pg／ml +gi nsenosi de R93 30pmol ／L group) ，hi gh
+concent rat i on group( LDL 40pg／ml +gi nsenosi de R93 60肛m01／L) ．The prol i f erat i on act i vi t y of HMC cel l s was
+de—
+t ect ed by MTT met hod，t he expressi on l evel s of ceI l
+cycl e rel at ed prot ei ns of TGF一口，Smad2，Smad3，NF KB，and
+*[ 基金项目] 湖南省卫生健康委一般资助项目( 202203105470) ；郴州市级重点研发及技术创新引导专项项目( zDYF2020017) ；郴州市第
+一人民医院院级科研项目( N2019一032)
+[ 作者单位] 1郴州市第一人民医院检验医学中心，郴州423000；
+2湖南医药学院医学院。怀化418000；
+。湘潭市第一人民医院，湘潭
+411101；
+8通讯作者，E—mai l ：yachvi l i @al i yun．com
+本文2022一07—18收到，2022一09—22修回
+矗■ 厦学杂志
+册船年第33卷第】期
+基础与实验◆
+万方数据
+人参皂苷R93对低密度脂蛋白诱导的肾小球系膜细胞TGF- Ⅳsmad／NF- KB通路及细胞凋亡的影响
+9
+apopt osi s rel at ed prot ei ns of E} ．1ymphoma gene_rel at ed X prot ei n( Bax) ，f } - l ymphoma gene_2( Bcl - 2) and caspase_3
+were det ect ed by West ern Bl ot t i ng． R咖l ts：Compared wi t h t hose i n t he cont rol
+group，t he prol i f erat i on act i vi t y，
+TGF—B，Smad2，Smad3，NI 、- KB prot ei ns expressi on l evel s
+of HMC cel l s
+i n LDL group were si gni f i cant l y hi gher，
+and t he di f f erences
+were st at i st i cal l y
+si gni f i cant ．
+Compared wi t h t hose
+i n LDL
+group，
+t he pr01i f erat i on
+act i vi t y，
+TGF_B，Smad2，Smad3，NF乙．cB，Bcl —2 prot ei ns expressi on l evel s of HMC cel l s
+i n l ow，medi umand hi gh concent ra—
+t i on gi nsenosi de R93 groups were si gni f i cant l y l ower，t he apopt osi s rat e of HMC cel l s and t he prot ei n 1evel s of Bax
+and Caspase- 3 were si gni f i cant l y hi gher，wi t h a concent rat i on dependent manner，and t he di f f erences were st at i st i —
+cal l y si gni f i cant ( P<O．01) ．C帅cl usi on：Gi nsenosi de R93 can i nhi bi t t he prol i f erat i on and promot e t he apopt osi s of
+HMC cel l s i nduced by LDL，and i t s Hl echanj smmay be cl osel y rel at ed t o TGp∥ Srmd／NF- KB si gnal
+path、阳y．
+【Key words】
+Gi nsenosi de R93；Lowdensi t y 1i poprot ei n；Mesangi al cel l s；TGF矗B／Smad／NF- KB pat hway；Ap—
+oDt osi s
+肾脏疾病的病理类型表现多样，但在各种病理
+类型中常伴有不同程度的系膜细胞及系膜基质的增
+生，系膜细胞及系膜基质增生是肾小球肾炎及肾小
+球硬化过程中常见的病理变化，也是引发肾小球肾
+炎的主要病理因素[ 1’
+2] 。人参皂苷是从中药人参中
+提取的有效活性成分，主要成分有皂苷、蛋白和多糖
+等，其中皂苷包括R91、Rbl 、R93等多种皂苷单
+体[ 3] 。研究[ 4’
+5] 证实，人参皂苷R93在抗炎、抗肿
+瘤、抑制肿瘤细胞增殖和侵袭、诱导细胞凋亡方面具
+有重要作用。大量研究表明，转化生长因子一G1
+( TGF一81) ／Smads通路是一种广泛存在于正常细胞
+和肿瘤细胞的跨膜信号转导通路，参与炎症反应、肿
+瘤细胞增殖、侵袭转移和凋亡等病理过程¨ ’
+7] 。有
+研究[ 81表明，人参皂苷R91在一定给药浓度下，对
+大鼠肾小球系膜细胞具有抗炎作用，且该作用可能
+依赖于TGF- B／Smad信号通路活性的调节。但是，
+目前TGF—G／Smad核因子kappa B( NF_I cB) 通路在
+人参皂苷R93干预低密度脂蛋白( Low Densi t y
+Li poprot ei n，LDL) 诱导的人肾小球系膜细胞( Hu—
+man Mesangi al
+Cel l s，HMC) 中的作用机制尚不完
+全清楚。因此，本研究观察人参皂苷R93对LDL
+诱导的HMC细胞TGF_口／Smad／NF一．cB通路及细
+胞凋亡的影响，从而为其药物作用机制及临床应用
+提供一定的理论依据。
+1材料与方法
+1．1
+材料
+1．1．1
+仪器：Powerwave xs2酶标仪( 美国
+Bi oTek公司) ，QUANTUMST5凝胶成像分析系
+统( 法国Vi l ber) ，Gal l i os流式细胞仪( 美国BECK—
+MANCOULTER) 。
+1．1．2药材／药品与试剂：人参皂苷R93( 中国食品
+m髓厦学杂志
+2023年第33卷第】期
+药品检定研究院，2019040) ，链霉素( si gma，S1277
+—50G) 和青霉素( Si gma，A9518—5G) 购于华北制
+药有限公司；DMEM培养基( Gi bco，11995065) 、胎
+牛血清( 140527) 和胰蛋白酶购于杭州四季青有限公
+司，MTT( 克拉马尔公司，3293807) 、DMSO( Si gma
+公司，34869) ；辣根过氧化物酶( HRP) 标记二抗、山
+羊抗兔I gG( 中杉金桥公司，ZE2306) 。Annexi n_v-
+FI TC／PI 细胞凋亡试剂盒( 南京凯基生物科技发展
+有限公司，KGAl 02) 。兔抗人TGF- G( ab208156) 、
+Smad2( ab33875) 、Smad3( ab208182) 、NF—KB
+( ab32360) 、B—act i n( abl 79467) 、Bax( abl 82733) 、
+Bcl 一2( ab32124) 和Caspase- 3( ab2302) 单克隆抗体
+购自Abcam公司。BCA蛋白定量试剂盒( 碧云天
+生物技术有限公司，P0010) ，PVDF膜购自美国
+Mi l l i pore公司。
+1．1．3
+细胞：人HMC细胞购自中国科学院上海细
+胞库。
+1．2方法
+1．2．1
+人HMC细胞培养：HMC细胞用含有
+10％胎牛血清、100u／ml 青霉素、100弘g／ml 链霉素
+的DMEM培养液，置于37℃、5％CO。恒温培养箱
+中培养，待细胞进入对数生长期时进行后续试验。
+1．2．2
+细胞分组与干预：将HMC细胞分成5组，
+分别为对照组( 不做任何处理) 、LDL组( 40扯g／ml
+LDL) 、人参皂苷R93低浓度组( LDL 40"g／ml +人
+参皂苷R93 15弘m01／L) 、R93中浓度组( LDL 40弘g／
+ml +人参皂苷R93 30弘mol ／L) 、R93高浓度组
+( LDL 40弘g／ml +人参皂苷R93 60pm01／I 。) ，人参皂
+苷R93给药剂量参考相关文献[ 9] ，并做适量调整。
+于37℃、5％CO：细胞培养箱中培养48h后，收集各
+组细胞用于后续实验。每组细胞设置6个复孔。
+1．2．3
+MTT法检测HMC细胞增殖活性：取各组
+基础与实验
+◆
+万方数据
+10
+李胜涛，夏川，曹红，等
+对数生长期的HMC细胞，调整细胞浓度为2．O×
+104个细胞／ml 的单细胞悬液，加入96孔板中，培养
+24h，每孔加入浓度为5mg／ml 的MTT溶液20“ l ，
+37℃孵育4h后去除上清液，加入100” 1 DMSO，
+37℃孵育20mi n，以空白孔为对照，酶标仪测定吸光
+度( A) 值，实验重复3次。细胞增殖活性一( 实验组
+OD值一空白组OD值) ／( 对照组OD一空白组OD)
+× 100％。
+1．2．4流式细胞术检测HMC细胞凋亡：取各组细
+胞( 调整细胞浓度为1× 106个细胞／m1) 100弘1接种
+于96孔板，培养48h后，用不含EDTA的胰酶消化
+细胞，冰PBS终止消化，用PBS洗涤细胞，用200弘1
+结合缓冲液制得细胞重悬液，分别加入异硫氰酸荧
+光素( FI TC) 标记的Annexi n V及碘化丙啶( PI ) 各
+5“ l ，混合均匀，室温避光孵育5mi n后，上机检测，实
+验重复三次。
+1．2．5
+West ern B10t t i ng法检测TGF—B、Smad2、
+Smad3、NF．I cB、Bax、Bcl 一2和Caspase一3蛋白表达：
+收集各组对数生长期的HMC细胞，加入细胞裂解
+液，严格按照试剂盒说明书提取各组细胞总蛋白，采
+用BCA蛋白测定试剂盒测定每个样品的蛋白浓度，
+调整蛋白浓度，取50“ g蛋白样品与上样缓冲液混
+合均匀，100℃水浴煮沸5mi n，进行SDS_PAGE凝
+胶电泳，电泳结束后将蛋白转移至PVDF膜上，用
+5％的牛血白蛋白( BsA) 室温封闭2h，分别加入稀
+释过的TGF—p、Smad2、Smad3、NFLI cB、p—act i n、Bax、
+Bcl 一2和caspase一3抗体( 1：100稀释) ，4℃孵育过
+夜，室温下PBS洗涤3次，再加入HRP标记的二抗
+( 1：50稀释) ，37℃孵育1h，DAB试剂盒显色，利用
+凝胶成像仪对west ern Bl ot i ng印迹条带进行定量
+分析。以8一act i n为内参，使用Quant i t y One( 4．6．
+6) 软件分析蛋白电泳条节，以目标条带与内参条带
+的灰度值比值作为目标蛋白的相对表达量。
+1．3统计学处理
+本研究数据分析均采用SPSS 22．o统计软件，
+计量资料以平均数± 标准差( 互± s) 表示，多组间比
+较采用单因素方差分析，进一步两两比较采用￡检
+验，P<o．05为差异有统计学意义。
+2
+结
+果
+2．1
+人参皂苷R93对LDL诱导的HMC细胞增殖
+活性的影响
+各组HMC细胞活性差异有统计学意义( P<
+髓曩厦学杂志
+2023年第33卷第l 期
+o．05) 。与对照组比较，LDL组HMC细胞增殖活
+性明显升高( ￡一11．494) ，差异有统计学意义( P<
+o．01) ；与LDL组相比，人参皂苷R93低、中、高浓
+度组HMC细胞增殖活性明显降低( ￡一15．325、19．
+487、25．197，P均<O．01) ，另外人参皂苷R93各组
+HMC细胞增殖活性呈低浓度组>中浓度组>高浓
+度组( ￡均>6．680，P<o．01) 。见表1。
+表1人参皂苷R93对LDL诱导的HMc细胞增殖活性
+的影响( 岳± 5，” 一6)
+组别
+HMc细胞增殖活性( ％)
+对照组
+LDL组
+人参皂苷R93低浓度组
+人参皂苷R93中浓度组
+人参皂苷R93高浓度组
+F值
+103．61
+注：与对照组比较，” P<O．01；与LDL相比较，2’
+P<O．01；与人参皂
+苷R93低浓度组比较，3’
+P<o．01；与人参皂苷R93中浓度组比较，
+4’
+P<O．01
+2．2人参皂苷I 螂对U) L诱导的HMC凋亡的影响
+各组HMC细胞凋亡率差异有统计学意义( P
+<O．05) 。与对照组比较，LDL组HMC凋亡率差
+异无统计学意义( ￡一1．952，P>o．05) ；与LDL组
+比较，人参皂苷R93低、中、高浓度组HMC细胞凋
+亡率显著升高，差异均有统计学意义( ￡一16．015、
+26．118、34．939，P均<o．01) ，另外人参皂苷R93
+各组HMC细胞凋亡率呈低浓度组<中浓度组<高
+浓度组( ￡均>14．426，P<o．01) 。见图1，表2。
+表2人参皂苷R够对LDL诱导的HMc凋亡
+的比较( 茁士5，” 一6)
+组别
+HMc细胞凋亡率( ％)
+对照组
+LDL组
+人参皂苷R93低浓度组
+人参皂苷R93中浓度组
+人参皂苷R93高浓度组
+F值
+注：与LDL组比较，1’
+P<o．01；与人参皂苷R93低浓度组比较，2’
+P
+<o．01；与人参皂苷R93中浓度组比较，3’
+P<o．01
+2．3
+人参皂苷R93对LDL诱导的HMC细胞相关
+基础与实验◆
+∞纠咿印㈨
+仉
+叽邝
+旋倍
+一一一一一
+0
+2
+6_[一士
+～～一一一
+跎％
+驼弘∽
+啪¨ ㈣
+瑚科
+强
++一± +一地
+盘
+“
+睨
+们
+诣
+刖诖
+％
+一一一一一
+舢
+万方数据
+人参皂苷R93对低密度脂蛋白诱导的肾小球系膜细胞TGF_Ⅳsmad／NF- KB通路及细胞凋亡的影响
+11
+e
+j
+；
+'
+'
+e
+-
+-
+％
+％
+％
+-
+_
+-
+’
+e
+t
+-
+％
+p
+' o’
+t萨
+舻
+“
+● ’
+I
+p
+t 一
+· 萨
+一
+“ ^
+一
+' o’
+' 一
+一
+1一
+妒
+’
+r
+一
+妒
+' p
+’ l 一
+’
+01
+l 一
+一
+I‘
+对黑组LDL组
+Annexi n—V
+人参皂苷R93低浓度组
+人参皂苷R93中浓度组
+人参皂苷R93高浓度组
+图1各组HMC细胞凋亡( 流式细胞术)
+通路蛋白TGF—B、Smad2、Smad3、NF—f cB表达的影
+响
+各组HMC细胞相关通路蛋白TGF- J 3、Smad2、
+Smad3、NF- J cB表达差异均有统计学意义( P<0．
+05) 。与对照组比较，LDL组TGF一|3、Smad2、
+Smad3、NF一．cB蛋白表达水平明显升高，差异均有统
+计学意义( ￡均>13．723，P<0．01) ；与LDL组比
+较，人参皂苷R93低、中、高浓度组TGF—B、Smad2、
+Smad3、NF—KB蛋白表达水平明显降低，且人参皂苷
+R93各浓度组相关蛋白表达水平呈低浓度>中浓度
+组>高浓度组，差异均有统计学意义( ￡均>3．253，
+P<0．01) 。见表3。
+表3人参皂苷R93对LDL诱导的HMC细胞中TGF_p、smad2、smad3、NF_KB蛋白表达的比较( z土s，” =6)
+注：与对照组比较，1’
+P<o．01；与LDL组比较，2’
+P<o．ol ；与人参皂苷R93低浓度组比较，3’
+P<o．01；与人参皂苷R93中浓度组比较，4’
+P<
+O．Ol
+2．4
+人参皂苷R93对LDL诱导的HMC细胞凋亡
+相关蛋白Bax、Bcl 一2和Caspase一3表达的影响
+各组HMC细胞凋亡相关蛋白Bax、Bcl 一2和
+Caspase一3蛋白表达水平差异有统计学意义( P<o．
+05) 。与对照组比较，LDL组Bax、Bcl 一2和Caspase一
+3表达水平差异不显著，均无统计学意义( f 均<1．
+350，P>o．05) ；与LDL组比较，人参皂苷R93低、
+中、高浓度组Bax和Caspase一3的蛋白水平上调，不
+同浓度人参皂苷R93组间呈低浓度组<中浓度组
+<高浓度组，Bcl —2蛋白表达下调，不同浓度人参皂
+苷R93组问呈低浓度组>中浓度组>高浓度组，差
+异均有统计学意义( f 均>2．943，P<O．01) ，见表4。
+表4人参皂苷R93对LDL诱导的HMc细胞Bax、Bcl 一2和caspase- 3蛋白表达的影响( 彳± s，” 一6)
+组
+别
+Bax蛋白
+Bcl 2蛋白
+Caspase一3蛋白
+对照组
+LDL组
+人参皂苷R93低浓度组
+人参皂苷R93中浓度组
+人参皂苷R93高浓度组
+O．56± O．12
+0．55± O．14
+O．81± O．091’
+1．02± O．121’
+2’
+1．34土0．151) 2) 3
+F值
+77．31
+74．86
+76．54
+注：与LDL组相比较，1’
+P<o．01；与人参皂苷R93低浓度组比较，2’
+P<o．01；与人参皂苷R93中浓度组比较，” P<o．01
+盔噩环学杂志
+曲23年第33卷第l 期
+基础与实验
+◆
+O
+O
+L√1
+± ± H
+誉|％驼灶± m叭
+～～～～一
+7
+9，
+，
+C：c：∞⋯沙 2
+驯叭ⅢmⅢ
+土± “ n吼
+∞卯趾吐土
+．
+．6¨ 4
+一～～～一
+万方数据
+12
+李胜涛，夏川，曹红，等
+3讨
+论
+慢性肾小球肾炎与肾小球硬化是由多种病因引
+起的一类原发性肾小球疾病，脂代谢紊乱在肾病综
+合征或继发性肾小球疾病中常见，是肾脏病变进展
+的重要危险因素，研究发现LDL在肾病综合征或伴
+有血脂、脂蛋白成分升高的原发或继发性肾小球疾
+病的病情进展中发挥作用[ 1 0’
+11] 。本研究结果显示，
+与对照组比较，LDL组HMC细胞增殖活性明显升
+高，与相关研究结果一致[ 12’
+1 3|，提示LDL能促进
+HMC细胞增殖。
+肾小球系膜细胞过度增殖、细胞外基质积聚等
+是肾脏疾病发生的重要因素，因此抑制系膜细胞增
+殖、促进细胞凋亡对缓解疾病有重要意义。人参皂
+苷R93是中药人参中的一种皂苷类化合物，具有减
+轻炎症反应、减少氧自由基、抗氧化等一系列药理活
+性。研究表明人参皂苷R93可以通过增强抗氧化
+能力，减轻炎症反应及抗细胞凋亡等缓解糖尿病肾
+病进程凹’
+1引。冀凯等口51研究表明，人参皂苷R93
+可能是通过抑制NF—KB信号通路减轻高糖诱导的
+系膜细胞增殖及炎症反应。以上结果表明，人参皂
+苷R93可能具有抑制系膜细胞增殖、促进细胞凋亡
+等作用。本研究发现，与LDL组相比，人参皂苷
+R93低、中、高浓度组HMC细胞增殖活性明显降
+低，HMC细胞凋亡率明显升高，并呈浓度依赖性，
+提示人参皂苷R93可显著抑制LDL诱导的HMC
+细胞增殖，促进细胞凋亡，然而其具体机制不清楚。
+NF—f cB是一种核转录因子，NF—I cB在炎症的发
+生发展中发挥重要作用，通过激活NF—KB信号通
+路，导致一系列促炎症因子的释放并且促进促纤维
+化因子TGF—B1的产生，TGF—B在肾脏纤维化发病
+机制中发挥重要作用[ 16。。TGF- |3能通过激活细胞
+中的Smad蛋白来转导TGF- 8，在信号传导中起到
+重要作用[ 1 7|。研究表明，抑制TGF_|3／Smad3信号
+通路可以预防。肾纤维化[ 1 8I 。陶鹏宇等[ 19] 研究表明，
+六味地黄丸具有肾脏保护作用，其机制可能是通过
+参考文
+献
+l 刘芳．肾小球基底膜与肾脏疾病[ J ] ．中华肾脏病杂志，2017，
+33( 11) ：873—877．
+2范高霞，甘甜，周晓燕，等．Racl 抑制剂对高糖诱导大鼠肾小
+球系膜细胞损伤的影响及其作用机制[ J ] ．安徽医科大学学报，
+2019，54( 4) ：605—610．
+3张
+彩，史
+磊．人参化学成分和药理作用研究进展[ J ] ．食品与
+盔曩厦学杂志
+调控NF—I cB及TGF一|3／Smad双信号通路，从而减轻
+糖尿病肾病炎症损伤和纤维化。肖伟伟等[ 20] 研究
+表明，白藜芦醇能够降低wnt ／B—cat eni n和TG邱l —
+smad2／3信号通路的表达水平，改善糖尿病肾脏病
+理进程，减少肾脏受到的损害。本研究发现，与对照
+组相比，LDL组TGF—B、Smad2、Smad3、NF—I cB蛋
+白表达水平明显升高，提示LDL可上调TGF—G、
+Smad2、Smad3、NF—J cB表达，促进HMC细胞增殖；
+与LDL组相比，人参皂苷R93低、中、高浓度组
+TGF一0、Smad2、Smad3、NF- l cB蛋白表达水平明显
+降低，并呈浓度依赖性，提示人参皂苷R93可能通
+过抑制TGF_|3／Smad通路从而抑制肾纤维化的进
+程，抑制NF—I cB信号通路，减轻炎症，进而抑制LDL
+诱导的HMC细胞增殖。
+Bax是Bcl 一2家族成员之一，发挥促凋亡作用，
+Caspase家族( 半胱氨酸蛋白酶家族) 是一切凋亡信
+号传导的共同通路，是凋亡的重要标志，caspase一3
+是细胞凋亡过程中Caspase的关键分子口1’
+22] 。本
+研究发现，与对照组和LDL组相比，人参皂苷R93
+低、中、高浓度组Bax和Caspase一3的蛋白水平上
+调，Bcl 一2蛋白表达下调，并呈浓度依赖性，进一步说
+明人参皂苷R93对LDL诱导的HMC细胞具有促
+进凋亡作用，且呈现明显的剂量依赖性，但是具体机
+制尚不明确。
+综上所述，人参皂苷R93可能通过抑制TGF_
+G／Smad／NF—KB通路活化，进而抑制LDL诱导的
+HMC细胞增殖，促进其凋亡。但本研究局限于
+TGF- 8／smad／NF—KB信号通路相关因子表达水平
+的变化情况，未对通路进行验证，后续需做进一步研
+究予以明确具体机制。
+●
+本文第一作者简介：
+李胜涛( 1978一) ，男。汉族，硕士，副主任技师，主要从事生物化学与
+分子生物学研究
+药品，2016，18( 1) ：300一304．
+4
+Peng Y，Zhang R，Yang X，et
+a1．
+Gi nsenosi de R93 suppresses
+t he prol i f erat i on of
+prost at e
+cancer cel l
+l i ne PC3 t hrough ROS—i n—
+duced cel l
+cycl e arrest [ J ] ．0ncol
+Let t ，2019，17( 1) ：1 139
+1
+145．
+5
+Li J ，Qi
+Y．Gi nsenosi de R93 i nhi bi t s
+cel l
+growt h，mi grat i on and
+基础与实验
+◆
+万方数据
+人参皂苷R93对低密度脂蛋白诱导的肾小球系膜细胞TGF- Ⅳsmad／NF- KB通路及细胞凋亡的影响
+13
+i nvasi on i n
+Caco一2 cel l s
+by
+downregul at i on of
+l ncRNA CCATl
+[ J ] ．Exp Mol
+Pat hol ，2019，106( 1) ：131一138．
+6
+肖伟伟，奚
+悦．白藜芦醇对糖尿病肾病大鼠wnt ／B—cat eni n和
+TGF一8卜smad2／3信号通路的影响[ J ] ．中成药，2019，41( 12) ：3
+033—3 038．
+7
+Zhao B，Lu YL，Yang Y，et a1．0verexpressi on of l ncRNA AN—
+RI L promot ed t he prol j f erat i on and mi gra“ on of
+prost at e
+cancer
+cel l s vi a regul at i ng l et - 7a／TGF—日1／smad si gnal i ng pat hway[ J ] ．
+Cancer Bi omark，2018，21( 3) ：613—620．
+8赵静．人参皂苷R91对糖基化末端产物诱导肾小球系膜细胞
+炎症及TGFB／smad信号通路的影响[ J ] ．中国药师，2018，21
+( 11) ：1 919—1
+923．
+9吴胜斌，王应灯．人参皂苷R93对H202诱导人肾小球系膜细
+胞氧化应激损伤的保护作用及其机制研究[ J ] ．现代药物与临
+床，2015，30( 12) ：1 437—1
+442．
+10
+Shi nya N，Ei j i
+I ，Yuj i ro 0，et a1．The ef f i cacy
+of
+l ow—densi t y
+1i poprot ei n apheresi s
+i n
+a pat i ent
+wi t h drug—resi st ant
+mi ni mal
+change nephrot i c syndrome： Acase
+report
+and a revi ew of
+t he
+I i t erat ure[ J ] ．NephroJ ogy，2018，23( 6) ：603—604．
+1l 潘碧霞，刘国辉，姜宗培，等．瑞舒伐他汀对氧化低密度脂蛋
+白诱导的大鼠肾小球系膜细胞结缔组织生长因子表达的影响
+[ J ] ．广东医学，2014，35( 12) ：1 838—1 841．
+12廖江铨．氧化低密度脂蛋白对大鼠肾小球系膜细胞的炎症性影
+响与活血化瘀法干预研究[ D] ．北京：北京中医药大学，2014：8
+—33．
+13唐灵，周
+康，王
+艳，等．绞股蓝皂苷对AGEs诱导的人
+。肾小球系膜细胞增殖及分泌细胞外基质的影响[ J ] ．中华中医药
+杂志，2015，30( 12) ：4 478—4 481．
+14吴胜斌，王应灯．人参皂甙R93对糖尿病。肾病大鼠肾组织Bax
+和B淋巴细胞瘤一2蛋白表达及肾细胞凋亡的影响[ J ] ．中华实
+用诊断与治疗杂志，2020，34( 1) ：5—8．
+15冀凯，杜世豪，李新，等．人参皂苷R93抑制高糖诱导的
+人肾小球系膜细胞过度增殖、炎症反应和PTX3的表达[ J ] ．烟
+台大学学报( 自然科学与工程版) ，2020，33( 1) ：55—62．
+16
+Wang D，Zhang G，Chen X，et a1．Si t agl i pt i n amel i orat es di a—
+bet j c nephr。pat hy by bl ocki ng TGF一盆l ／Smad si gnal i ng pat hway
+口] ．Int
+J Mol
+Med，2018，41( 5) ：2 784—2 792．
+17
+Li
+J ，Qi u PC，He QY，et
+a1．Denci c hi ne amel i orat es ki dney i n—
+j ury
+i n i nduced t ype
+I I
+di abet i c
+nephropat hy
+vi a t he
+TGF一0／
+smad si gnal l i ng pat hway[ J ] ．Eur J
+Pharmac。l ，2017，812：196
+—205．
+18
+Feng M，Tang PM，Huang XR，et a1．TGF一8 medi at es renal
+fi —
+brosi s
+vi a t he smad3一Erbb4一I R l ong
+noncodi ng RNA axi s[ J ] ．
+M01 Ther，2018，26( 1) ：148—161．
+19
+陶鹏宇，张
+悦．六味地黄丸通过调控NF—KB及TGFl B／smad
+双信号通路减轻糖尿病肾病炎症及纤维化[ J ] ．广州中医药大
+学学报，2019，36( 2) ：99—104．
+20
+肖伟伟，奚
+悦．白藜芦醇对糖尿病肾病大鼠wnt ／8- cat eni n
+和TGF一8卜smad2／3信号通路的影响[ J ] ．中成药，2019，41
+( 12) ：3 034～3 037．
+21
+Yao C，Cao X，Fu Z，et a1．Boschni aki a rossi ca p01ysacchari de
+t “ ggers 1aryngeal
+carci noma cel l
+apopt osi s by regul at i ng
+expres—
+si on
+of Bcl 一2，caspase一3，and P53[ J ] ．Med sci M。ni t ，2017，
+23：2 059—2 064．
+22
+Si l wedel
+C，Haarmann A，Fehrh01z M，et
+a1．More t han j ust
+i nf l ammat i on：
+Ureapl asma
+speci es i nduce
+apopt osi s
+i n human
+brai n mi crovascul ar endot hel i al
+cel l s[ J ] ．J
+Neuroi nf l ammat i on，
+201 9，16( 1) ：38．
+街曩Ⅱ学杂志
+2023年第33卷第1期
+基础与实验
+◆
+万方数据

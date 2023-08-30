@@ -1,0 +1,340 @@
+中国肿瘤生物治疗杂志 http://www.biother.org
+Chin J Cancer Biother, Sep. 2019, Vol. 26, No. 9
+∙基础研究∙
+DOI：10.3872/j.issn.1007-385x.2019.09.009
+人参皂苷Rg3协同TRAIL促进肺癌H358细胞凋亡的机制
+安辉，李思思，高野，梁春光（锦州医科大学附属第一医院 神经外科，辽宁 锦州 121001）
+[摘
+要]
+目的：探讨人参皂苷Rg3联用肿瘤坏死因子相关凋亡诱导配体（TRAIL）对肺癌H358细胞凋亡的影响及其作用机制。
+方法:肺癌H358细胞培养完成后，0、50、100、200 ng/ml TRAIL 或0、25、50、100 μmol/L Rg3作用H358细胞48 h，按照实验方法分
+为对照组、50 μmol/L Rg3 组、100 ng/ml TRAIL 组及 50 μmol/L Rg3+100 ng/ml TRAIL 组。MTT 法检测 Rg3 和/或 TRAIL 对肺癌
+H358 细胞增殖的影响，DAPI 染色荧光倒置显微镜观察 Rg3 和/或 TRAIL 对肺癌 H358 细胞形态学变化的影响，流式细胞术检测
+Rg3 和/或 TRAIL 对肺癌 H358 细胞凋亡的影响,WB 实验检测 Rg3 和/或 TRAIL 对各组肺癌 H358 细胞内死亡受体（DR5）及 cas-
+pase-8 表达的影响。结果：50 μmol/L Rg3+100 ng/ml TRAIL 组与其他各组比较，肺癌 H358 细胞的增殖抑制最明显（P<0.05）；
+DAPI染色后显示，50 μmol/L Rg3+100 ng/ml TRAIL组多数胞核皱缩，染色质凝集，荧光强度增加，并出现饱和碎裂等晚期凋亡形
+态学改变；50 μmol/L Rg3+100 ng/ml TRAIL组与其他各组比较，细胞凋亡率升高最明显，细胞内DR5及caspase-8 表达增强最明
+显（均P<0.05）。结论：人参皂苷Rg3联合TRAIL能够协同抑制肺癌H358细胞的增殖及诱导细胞凋亡，其作用机制可能与人参
+皂苷Rg3协同促进DR5及caspase-8的表达上调有关。
+[关键词]
+肺癌；H358细胞；人参皂苷Rg3；肿瘤坏死因子相关凋亡诱导配体；凋亡
+[中图分类号] R739.12; R734.2
+[文献标识码] A
+[文章编号] 1007-385X（2019）09-0988-05
+Ginsenoside Rg3 synergistically promotes apoptosis of lung cancer H358 cells with
+TRAIL and its mechanism
+ANN Hui, LI Sisi, GAO Ye, LIANG Chunguang (Neurosurgery, First Affiliated Hospital of Jinzhou Medical University, Jinzhou
+121001, Liaoning, China)
+[Abstract] Objective: To investigate the effect of ginsenoside Rg3 combined with TRAIL on the apoptosis of lung cancer H358 cells
+and its possible mechanism. Methods: After the completion of cell culture, H538 cells were treated with TRAIL (0, 50, 100, 200 ng/
+ml ) or Rg3 (0, 25, 50, 100 μmol/L) for 48 h, and the cells were grouped according to different treatments, namely control group, 50
+μmol/L Rg3 group, 100 ng/ml TRAIL group and 50 μmol/L Rg3+100 ng/ml TRAIL group. The effects of Rg3 and/or TRAIL on the pro-
+liferation of H358 cells were detected by MTT assay. The effects of Rg3 and/or TRAIL on the morphological changes of H358 cells
+were observed by DAPI staining. Theapoptosis of H358 cells in each group was detected by flow cytometry. The effects of Rg3 and/or
+TRAIL on the expressions of death receptor 5 (DR5) and caspase-8 in H358 cells were detected by WB. Results: Compared with the
+other groups, the proliferation of lung cancer H358 cells was significantly inhibited, while the apoptosis was significantly elevated in
+the 50 μmol/L Rg3+100 ng/ml TRAIL group (P<0.05). After color developing, cells in 50 μmol/L Rg3+100 ng/ml TRAIL group had nu-
+clear shrinkage, chromatin condensation, increased fluorescence intensity, and late morphological changes such as saturation fragmenta-
+tion. Compared with the other groups, the expression levels of DR5 and caspase-3 ,8 in the cells of 50 μmol/L Rg3+100 ng/ml TRAIL
+group were significantly increased (P<0.05). Conclusion: Ginsenoside Rg3 combined with TRAIL can synergistically inhibit the prolif-
+eration and induce apoptosis of lung cancer H358 cells. The mechanism may be related to the up-regulation of DR5 and caspase-8 by
+ginsenoside Rg3.
+[Key words] lung cancer; H358 cell; ginsenoside Rg3; TNF-related apoptosis-inducing ligand (TRAIL); apoptosis
+[Chin J Cancer Biother, 2019, 26(9):988-992. DOI：10.3872/j.issn.1007-385X.2019.09.009]
+肿瘤坏死因子相关凋亡诱导配体（TNF-related
+apoptosis-inducing ligand，TRAIL）是 TNF 超家族成
+员之一，TRAIL又称凋亡素2配体(Apo2L)，可以在促
+进肿瘤细胞凋亡的同时不影响正常细胞的活性。研
+[作者简介]
+安辉(1980-)，女，硕士，主要从事临床肿瘤治疗的研究，
+E-mail：anda55299@163.com
+[通信作者]
+梁春光(LIANG Chunguang,corresponding author)，博士，
+副教授，硕士生导师，主要从事肿瘤药理的研究，E-mail:amilyliang@163.
+com
+· 988 ·
+安辉, 等. 人参皂苷Rg3协同TRAIL促进肺癌H358细胞凋亡的机制
+究[1-3]发现，虽然TRAIL能促进肿瘤细胞凋亡，但肿瘤
+细胞对其存在一定的耐药性，这限制了 TRAIL 的进
+一步应用。近年来研究[4-5]证实，通过联合化疗可增
+强肿瘤细胞对TRAIL的敏感性而降低其耐药性。人
+参皂苷 Rg3 是从人参中提取出来的重要有效成分之
+一，Rg3 不但具有较强的抗肿瘤作用，用时还能逆转
+其他化疗药物引起的肿瘤细胞耐药性[6-7]。目前关于
+人参皂苷Rg3是否能增强肺癌细胞对TRAIL敏感性
+的研究尚未见报道。本研究选用肺癌细胞株 H358，
+观察TRAIL和人参皂苷Rg3单用及两者联用对肺癌
+H358细胞细胞增殖、凋亡的影响，以判断两者联用的
+疗效，并对其机制进行初步探讨，为肺癌临床治疗提
+供新思路。
+1
+材料与方法
+1.1
+材料、细胞株及主要试剂
+人参皂苷 Rg3（大连富生天然药物开发有限公
+司）。肺癌 H358 细胞（上海细胞库）。Annexin V-
+FITC/PI 凋亡检测试剂盒（欣博盛生物科技有限公
+司），鼠抗人 DR4、5 单克隆抗体、兔抗人 caspase-3、8
+单克隆抗体(Abcam 公司)，山羊抗兔 IgG、山羊抗鼠
+IgG（大连宝生物工程有限公司）。
+1.2
+细胞培养
+肺癌 H358 细胞置于 37 ℃水浴复苏，5% CO2 、
+37 ℃培养箱内培养。每2 d更换培养液，细胞呈上皮
+样贴壁生长。待细胞汇合度达到 80%~90% 时，用
+0.25% 胰蛋白酶消化 1～2 min，去胰酶，加入 10% 胎
+牛血清的Leibovitz's L-15培养基，终止消化。用吸管
+吸取培养液，反复吹打贴壁细胞，使细胞脱离瓶壁充
+分分散，将细胞悬液按1∶2稀释后传代。
+1.3
+MTT法检测肺癌H358细胞的增殖能力
+取对数期生长的肺癌H358细胞，胰酶消化，调整
+细胞密度至 5×104/ml，接种于 96 孔板中，37 ℃、5%
+CO2条件下培养。按 0、50、100、200 ng/ml TRAIL 或
+0、25、50、100 μmol/L Rg3 添加，每个浓度设 4 个平行
+孔。各组作用48 h后，每孔加入质量浓度为5 mg/ml
+MTT 20 μl，继续培养 4 h。吸去培养液，每孔加入
+150 μl DMSO，避光，振荡 10 min，室温孵育 20 min。
+放入酶标仪，以 490 nm 波长检测光密度（D）值。细
+胞增殖率=（实验组 D 值/对照组 D 值）×100%。实验
+重复3次。
+1.4
+DAPI染色荧光显微镜观察肺癌H358细胞的形
+态学变化
+取对数期生长的细胞，胰酶消化，调整细胞密度
+至 3×105/ml，接种于 12 孔板中 ，每孔 1 ml，37 ℃、
+5%CO2条件下培养。药物作用 48 h 后，用 PBS 洗 3
+次。4%多聚甲醛固定5 min，室温干燥。每孔加入2
+μg/ml DAPI 0.5 ml，37 ℃避光15 min，洗3次，倒置荧
+光显微镜观察凋亡细胞。
+1.5
+流式细胞术检测肺癌H358细胞的凋亡率
+作用 48 h 后，胰酶消化，调整细胞密度至 1×106/
+ml，PBS洗2次，重悬。将细胞悬液置于流式管中，加
+入 5 μl Annexin V-FITC，混匀，间隔 3 min，加入 10 μl
+20 μg/ml 的 PI 溶液，于室温避光孵育 10 min，每管加
+入 400 μl 1×Binding Buffer，上流式细胞仪检测。实
+验重复3次。
+1.6
+WB实验检测肺癌H358细胞相关蛋白的表达
+作用48 h后，收集各组细胞，以裂解缓冲液提取
+细胞总蛋白。每孔40 μg的含量加样，电泳分离。移
+至 PVDF 膜上，5% 脱脂奶粉在 37 ℃封闭 2 h。加入
+鼠抗人死亡受体（death receptor 5, DR5）抗体（1∶500）
+和兔抗人caspase-8抗体（1∶1 000），4 ℃过夜。TBST
+洗膜 3 次，每次 10 min，再加入 HRP 标记山羊抗鼠
+IgG(1∶200)、山 羊 抗 兔 IgG(1∶200)，4 ℃ 孵 育 2 h。
+ECL发光试剂盒发光显影，凝胶成像，扫描分析灰度
+值、计算相关蛋白的相对表达量。实验重复3次。
+1.7
+统计学处理
+采 用 SPSS 20.0 软 件 进 行 统 计 数 据 分 析 ，用
+GraphPad Prism 7软件绘制图片。计量数据以xˉ±s 表示，
+两组间比较采用t检验，多组间比较采用单因素方差分
+析。以P<0.05或P<0.01表示差异有统计学意义。
+2
+结
+果
+2.1
+人参皂苷 Rg3 和 TRAIL 分别抑制肺癌 H358 细
+胞的增殖
+MTT 法 检 测 结 果 显 示 ，50、100、200 ng / ml
+TRAIL 作 用 细 胞 48 h，细 胞 增 殖 抑 制 率 分 别 为
+（22.51±1.02）%、
+（42.67±3.31）%和（44.86±2.62）%，与
+对照组（7.34±0.87）%比较，差异均有统计学意义（均
+P<0.05，图1A），但当剂量超过100 ng/ml时细胞增殖
+抑制率无明显变化（P>0.05）。25、50、100 μmol/L 人
+参皂苷 Rg3 作用细胞 48 h，细胞增殖抑制率分别为
+（23.36±1.82）%、
+（40.14±2.43）%和（39.98±2.77）%，与
+对照组[（8.72±0.62）%]比较，差异均有统计学意义
+（均 P<0.05，图 1B）；但当剂量超过 50 μmol/L 时细胞
+增殖抑制率无明显变化（P>0.05）。
+2.2
+人参皂苷 Rg3 联合 TRAIL 对肺癌 H358 细胞凋
+亡的影响
+流式细胞术检测结果（图 2）显示，作用 48 h 后，
+50 μmol/L人参皂苷Rg3组、100 ng/ml TRAIL组和50
+μmol/L 人参皂苷 Rg3+100 ng/ml TRAIL 组细胞凋亡
+率分别为（12.72±2.51）%、
+（11.65±2.97）%和（28.84±
+· 989 ·
+中国肿瘤生物治疗杂志, 2019, 26(9)
+3.52）%，与对照组[（3.75±0.87）%]比较差异均有统计
+学意义（均P<0.05）。其中人参皂苷Rg3+TRAIL组与
+TRAIL 组或人参皂苷 Rg3 组比较差异显著（均 P<
+0.05）。上述结果说明，人参皂苷 Rg3 联合 TRAIL 能
+够明显抑制肺癌H358细胞的增殖。
+*P<0.05 vs Control group; △P<0.05 vs 50ng/ml TRAIL or 25 μmol/L Rg3 group
+图1 人参皂苷Rg3和TRAIL对肺癌H358细胞增殖的影响
+Fig. 1 Effects of ginsenoside Rg3 and TRAIL on the proliferation of lung cancer H358 cells
+A：Control; B: 50 μmol/L Rg3; C: 100 ng/ml TRAIL; D: 50 μmol/L Rg3+100 ng/ml TRAIL
+图2 人参皂苷Rg3联合TRAIL对肺癌H358细胞凋亡的影响
+Fig. 2 Effects of ginsenoside Rg3 combined with TRAIL on apoptosis of lung cancer H358 cells
+2.3
+人参皂苷 Rg3 联合 TRAIL 对肺癌 H358 细胞形
+态的影响
+经 DAPI 染色结果显示，对照组细胞胞核完整，
+呈椭圆形，胞核内染色质均匀分布，呈均匀蓝色荧光
+（图 3A）；50 ng/ml TRAIL 与 100 μmol/L 人参皂苷
+Rg3 分别单独作用 48 h 后，部分胞核染色质凝聚、边
+集(图 3B、C)；50 ng/ml TRAIL+100 μmol/L 人参皂苷
+Rg3作用48 h 后 ，多数胞核皱缩 ，染色质凝聚、边
+集 ，并出现胞核碎裂等晚期凋亡的典型形态学改变
+（图3D）。
+2.4
+人参皂苷 Rg3 联合 TRAIL 对肺癌 H358 细胞
+DR5的蛋白表达影响
+WB 检测结 果（图 4）显 示 ，与 单 独 人 参 皂 苷
+Rg3 或单独 TRAIL 组比较 ，人参皂苷 Rg3+TRAIL
+组 DR5 蛋白的表达明显增强（P<0.05）。上述结
+果 表 明 ，在 人 参 皂 苷 Rg3 增 加 肺 癌 H358 细 胞 对
+TRAIL 敏感性 ，并促进细胞凋亡的过程中DR起到
+了关键作用。
+A: Control; B 100 ng/ml TRAIL; C: 50 μmol/L Rg3;
+D: 50 μmol/L Rg3+100 ng/ml TRAIL
+图3 TRAIL联合人参皂苷Rg3对肺癌H358细胞形态的影响
+（×400）
+Fig. 3 Effects of TRAIL combined with ginsenoside Rg3 on
+the morphology of lung cancer H358 cells（×400）
+· 990 ·
+安辉, 等. 人参皂苷Rg3协同TRAIL促进肺癌H358细胞凋亡的机制
+2.5
+人参皂苷 Rg3 联合 TRAIL 对肺癌 H358 细胞
+caspases家族表达的调控
+WB 实验检测结果（图 5）显示，与人参皂苷 Rg3
+单独或 TRAIL 单独作用组比较 ，人参皂苷 Rg3+
+TRAIL组明显增强caspase-8的表达（均P<0.05）。上
+述结果表明，在人参皂苷 Rg3 增加肺癌 H358 细胞对
+TRAIL 敏感性，并促进细胞凋亡的过程中 caspase 家
+族起到了关键作用。
+1: Control; 2：100 ng/ml TRAIL; 3：50 μmol/L Rg3;
+4：50 μmol/L Rg3+100 ng/ml TRAIL
+*P<0.05 vs Control group;△P<0.05 vs 50 μmol/L Rg3 or
+100 ng/ml TRAIL
+图4 TRAIL联合人参皂苷Rg3对H358细胞DR5
+蛋白表达的影响
+Fig.4 Effects of TRAIL combined with ginsenoside Rg3 on
+DR5 protein expression in H358 cells
+3
+讨
+论
+肺癌为常见的恶性肿瘤之一，目前是以手术、放
+疗、化疗和靶向治疗为主的综合治疗，但上述治疗手
+段均有其局限性。因此，寻找新的、能有效杀灭肺癌
+H358细胞而对正常细胞毒副作用小的治疗方法成为
+近年来研究的热点。
+本研究发现，TRAIL与Rg3均能够明显抑制肺癌
+H358 细胞的增殖，促进其凋亡，并都呈浓度依赖关
+系，但当两者浓度增加到一定程度时上述作用均不
+再明显增加。该结果进一步说明TRAIL和Rg3在肿
+瘤治疗过程中均存在抵抗性。接下来本研究应用
+100 ng/ml TRAIL和50 μmol/L Rg3处理肺癌H358细
+胞，结果发现，当TRAIL和人参皂苷Rg3联合使用的
+时候，其杀伤肺癌 H358 细胞的作用最强。本结果初
+步证明 TRAIL 与 Rg3 在促进肺癌 H358 细胞凋亡的
+过程中有协同作用，但具体机制不清。
+DR5是TRAIL的配体，TRAIL可以通过与DR4、
+DR5 结合来启动凋亡信号，诱导肿瘤细胞凋亡[8-10]。
+本研究发现，当 TRAIL 和人参皂苷 Rg3 联合使用时
+DR5 的表达均被明显增强。该研究结果表明，人参
+皂苷Rg3可能是通过增强DR5的表达来促进TRAIL
+激活凋亡信号通路活性，进而促进肺癌 H358 细胞的
+凋亡。
+1: Control; 2：100 ng/ml TRAIL; 3：50 μmol/L Rg3;
+4：50 μmol/L Rg3+100 ng/ml TRAIL
+*P<0.05 vs Control group, ΔP<0.05 vs 50 μmol/L Rg3 or
+100 ng/ml TRAIL group
+图5 TRAIL联合人参皂苷Rg3对H358细胞caspase-8
+蛋白表达的影响
+Fig. 5 Effects of TRAIL combined with ginsenoside Rg3 on
+caspase-8 protein expression in H358 cells
+Caspases属于凋亡蛋白酶家族，是凋亡通路的重
+要组成部分。近年来一些研究[11-13]报道，很多化疗药
+物是通过增强 caspases 的表达来提高肿瘤细胞对
+TRAIL的敏感性。本实验结果显示，人参皂苷Rg3可
+以明显上调 caspase-8 的表达，促进 TRAIL 诱导肺癌
+H358 细胞凋亡。综合上述研究结果，初步得出结论
+人参皂苷Rg3可以通过增强DR5、caspase-8的表达来
+提高肺癌H358细胞对TRAIL的敏感性，进而促进肺
+癌 H358 细胞的凋亡。该研究结果初步证明，人参皂
+苷 Rg3 与 TRAIL 在诱导肺癌 H358 细胞凋亡的过程
+中存在明显的协同作用。因此，在肺癌治疗过程中，
+使用TRAIL和人参皂苷Rg3联合作用或许是一个有
+效的治疗策略。
+[参 考 文 献]
+[1] KEUPER M, WERNSTED T, SCHERER P E, et al. TRAIL (TNF-
+related apoptosis-inducing ligand) regulates adipocyte metabolism
+by caspase-mediated cleavage of PPAR gamma[J]. Cell Death Dis,
+2013, 4(1): e474. DOI:10.1038/cddis.2012.212.
+[2] DAI X Y, ZHANG J W, ARFUSO F, et al. Targeting TNF-related
+apoptosis-inducing ligand (TRAIL) receptor by natural products as
+a potential therapeutic approach for cancer therapy[J]. Exp Biol
+Med (Maywood), 2015, 240(6): 760-773. DOI: 10.1177 / 1535370
+· 991 ·
+中国肿瘤生物治疗杂志, 2019, 26(9)
+215579167.
+[3] JAN-BERND N, VERENA J, MUAD M,et al. TNF-related apopto-
+sis inducing ligand in ocular cancers and ocular diabetic complica-
+tions[J]. FASEB J, 2015, 29(7): 3065-3075. DOI：10.1155 / 2015 /
+424019.
+[4] GALLEGO-LLEYDA A, DE MIGUEL D, ANEL A, et al. Lipid
+nanoparticles decorated with TNF-related aptosis-inducing ligand
+(TRAIL) are more cytotoxic than soluble recombinant TRAIL in
+sarcoma[J]. Int J Mol Sci, 2018, 19(5): 1449. DOI: 10.3390 /
+ijms19051449.
+[5] KRETZ A, VON KARSTEDT S, HILLENBRAND A, et al. Should
+we keep walking along the trail for pancreatic cancer treatment? re-
+visiting TNF-related apoptosis-inducing ligand for anticancer thera-
+py[J]. Cancers, 2018, 10(3): 77. DOI:10.3390/cancers10030077.
+[6] LIU T G, HUAN G Y, CUI D D, et al. Inhibitory effect of ginsen-
+oside Rg3 combined with gemcitabine on angiogenesis and growth
+of lung cancer in mice[J/OL]. BMC Cancer, 2009, 9: 250[2019-05-
+29]. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2721848/.DOI:
+10.1186/1471-2407-9-250.
+[7] TIAN L L, SHEND C, LI X D, et al. Ginsenoside Rg3 inhibitsepithe-
+lial-mesenchymal transition (EMT) and invasion of lung cancer by
+down-regulating FUT4[J / OL]. Oncotarget, 2016, 7(2): 1619-1632
+[2019-05-29]. https://www. ncbi. nlm. nih. gov / pmc / articles /
+PMC4811485/. DOI:10.18632/oncotarget.6451.
+[8] WANG Q, CHENQ, ZHU L, et al. JWA regulates TRAIL-induced
+apoptosis via MARCH8-mediated DR4 ubiquitination in cisplatin-
+resistant gastric cancer cells[J/OL]. Oncogenesis, 2017, 6(7): e353
+[2019-05-29]. https://www. ncbi. nlm. nih. gov / pubmed / 28671676
+DOI:10.1038/oncsis.2017.57.
+[9] MILUTINOVIC S, KASHYAPAK, YANAGI T, et al. Dual agonist
+surrobody simultaneously activates death receptors DR4 and DR5
+to induce cancer cell death[J/OL]. Mol Cancer Ther, 2016, 15(1):
+114-124[2019-05-29]. https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4707094/. DOI:10.1158/1535-7163.MCT-15-0400.
+[10] CAROLI N E , BODVA E L, PHUON G, et al. Modulation of
+TRAIL resistance in colon carcinoma cells: Different contributions
+of DR4 and DR5[J/OL]. BMC Cancer, 2011, 11: 39[2019-05-26].
+https://www.researchgate.net/publication/51214806.DOI：10.1111/
+j.1349-7006.2011.02002.x.
+[11] MARCIN K, ALEKSANDRA J, PAULINA N,et al.Small molecule
+active site directed tools for studying human
+caspases[J]. Chem
+Rev, 2015, 115(22): 12546 – 12629. DOI：10.1021 / acs. chem-
+rev.5b00434.
+[12] DEREK D C, LEWIS L, LUIS P, et al. Learning on the fly: the in-
+terplay between caspases and cancer[J/OL]. Biomed Res Int, 2018,
+2018: 5473180[2019-05-26]. https://www. ncbi. nlm. nih. gov /
+pubmed/29854765. DOI: 10.1155/2018/5473180.
+[13] 孙大鹏, 顾立学, 李晨光, 等 . 人参皂苷 Rg3 通过人乳腺珠蛋白 A
+促进乳腺癌 MDA-MB-231 细胞凋亡及其可能的机制[J]. 中国肿
+瘤 生 物 治 疗 杂 志 , 2017, 24(6): 615 - 619. 10.3872 / j. issn. 1007-
+385X.2017.06.007.
+[14] MARK L, CHRISTINE H R,HAWKINS K,et al.Executioner caspases
+and CAD are essential for mutagenesis induced by TRAIL or vincristine
+[J]. Cell Death Dis, 2017, 8(10): e3062[2019-05-29]. http://med.
+wanfangdata.com.cn/Paper/Detail/PeriodicalPaper_PM20825380 .
+DOI：10.1111/j.1600-0897.2010.00914.x.
+[收稿日期]
+2019-06-15
+[俢回日期]
+2019-08-02
+[本文编辑]
+王映红
+· 992 ·

@@ -1,0 +1,520 @@
+解放军药学学报第23卷第l 期人参皂苷Rgl 对Ⅶ叮P致帕金森病模型小鼠多巴胺能神经元保护作用研究杨海东
+．17．
+文章编号：1008- 9926( 2007) 01 J D017旬5
+中图分类号：R965
+文献标识码：A
+人参皂苷R蜀对舯致帕金森病模型小鼠多巴胺能神经元保护作用研究?
+杨海东②，姜
+宏，宋宁，王俊，谢俊霞
+( ②青岛大学医学院生理学教研室
+山东青岛266021)
+摘要：目的研究人参皂苷R蜀( Gi nsenosi de Rgl ，R昏) 对1- 甲基4- 苯基一1，2，3，6- 四氢吡啶( 1一met hy_4一phenyl - 1，2，3，6一t et ra-
+hydropyri di ne，MPl l P) 致帕金森病小鼠黑质( subst ant i a ni gra，sN) 多巴胺( d叩ami ne，DA) 能神经元变性的保护作用及其可能机
+制。方法C57BL6小鼠随机分为对照组( NS，i p) 、MPTP组( 30mg· 蝇- 1× 5d，i p) 及Rg。( 5mg· kg’
+1× 8d，i p) 预处理组。应用逆
+转录一聚合酶链式反应( RT．PcR) 、免疫组织化学染色等技术观察了sN caspase一3
+mRNA、Bcl 一2 mRNA、Bax mRNA、酪氨酸羟
+化酶( t yrosi ne hydroxyl ase，TH) mRNA的表达水平和黑质致密带( subst ant i a ni gmzona compact a，sNzc) TH免疫反应阳性细胞数
+量等多项指标的变化，用高效液相色谱法检测小鼠纹状体( st 矗at um，st r) 内DA及其代谢物二羟基苯乙酸( di hydroxyphenyl ace—
+t i c aci d，DOPAc) 和高香草酸( homovanmi c aci d，HVA) 含量。结果
+MPTP组sN内TH阳性细胞数量、st r内DA及其代谢产物
+DOPAc和HVA的含量明显减少，应用Rg，后可逆转上述改变( P<0．01) 。Mf rrP组sN Bcl 一2、TH mRNA的表达明显降低( P
+<0．01) ；Caspase．3、Ba】【mRNA的表达明显增加( P<0．01) 。应用Rg，后可逆转上述改变( P<0．05) 。结论
+Rg，对MPTP
+致帕金森病小鼠sN DA能神经元具有明显的保护作用，其机制可能与抗凋亡过程有关。
+关键词：帕金森病；人参皂苷Rg，；1- 甲基4- 苯基一1，2，3，6- 四氢吡啶；多巴胺；细胞凋亡
+Neuroprot ect i Ve Ef f ect s of Gi nsenosi de R91 on t he Dopami nergi c Neurons i n t he
+Subst ant i a Ni grai n Mpt p．Treat ed C57BL6 Mi ce①
+YANG Hai —Dong②，J I ANG Hong，SONG Ni ng，WANG J un，XI E J un—Xi a
+( ②Depart ment of Physi 0109y，Medi cal
+Col l ege of Qi ngdao Uni versi t y，Qi ngdao
+266021，Shandong
+Chi na)
+ABSTRACT：Ai mTo i nvest i gat e whet her gi nsenosi de R91
+can preVent t he degenerat i on of dopami nergi c neumns i n
+t he subst ant i a ni gra( SN) i n 1- met hy_4一phenyl 一1，2，3，6一t et rahydropyri di ne( MPTP) t reat ed C57BL6 mi ce．Met hod
+Mi ce weI ℃randoml y di vi ded i nt o t hree groups：cont rol gmup( NS，i p) ，MPTP group( 30mg· kg一1× 5d，i p) and
+R91( 5mg· kg- 1× 8d，i p) pret reat ment
+gmup．Usi ng RT- PCR，t yrosi ne hydmxyl ase( TH) i mmunohi st ochemi st ry
+and HPLC，t he degenerat i on of dopami nergi c
+neurons was measured i n t he SN of MPTP t reat ed mi ce and assessed
+t he ef f bct s of t reat ment wi t h gi nsenosi de R91．Resul t s The number
+of TH—i mmunoreact i Ve ceUs i n t he SN of MPTP
+t reat ed mi ce，as weU as t he cont ent s of dopami ne and i ts met abol i t es i n t he st ri at um，decreased si gni f i canny．Treat —
+ment
+wi t h gi nsenosi de R91 reversed t hese ef kct s( P<0．01) ．The expressi on of Bcl —2 and THmRNA i n t he SN al ·
+so decreased s培ni f i cantl y i n M刀P t reat ed mi ce( P<0．01) ，whi l e t he expressi on 0f Caspase一3
+and Bax mRNA
+i ncreased s培ni f i cant l y( J P<0．01) ．Treat ment wi t h gi nsenosi de RgI
+reversed t he above changes( P<0．05) ．Con-
+cl usi on Gi nsenosi de Rgl
+i s neuI Dprot ect i Ve agai nst
+t he neurot oxi n MPTP，possi bl y due t o i t s ant i —apopt osi s
+act i Vi t y．
+KEY WoRDS：Parki nson色di sease；Gi nsenosi de R91；1一met hy4一phenyl 一1，2，3，6一t et rahydropyri di ne( M17rP) ；Do-
+pami nergi c neumn；Apopt osi s
+帕金森病( Parki nson台di sease，PD) 是一种常见
+的中老年人中枢神经系统慢性退行性疾病，其主要
+病理改变是中脑黑质致密带多巴胺能神经元进行性
+变性，引起黑质．纹状体( st ri at um，s” ) 通路上DA水
+①基金项目：山东省科技厅资助项目，No．031070125；青岛市科技局资助项目，No．04- 2- J s一136，05—10—J c_97
+②作者简介：杨海东( 1976一) ，男，福建莆田人，硕士。研究方向：神经退行性疾病的病因及防治对策。Tel ：13599006519；E- mai l ：yhd-
+zl 】【999890@si na．com
+、
+通讯作者：谢俊霞( 1956- ) ，女，河南鄢陵人，博士。研究方向：神经退行性疾病的病因及防治对策。Tel ：( 0532) 85955891；E· m8i l ：．i ) 【i -
+axi e@Publ i c．qd．sd．cn
+ 万方数据
+’
+1 8．
+一舅放军药学学报2007年2月
+第23卷第1期
+肌口m．，伪讥尸_LA％z 23
+Ⅳo J ，e6 20D7
+平降低‘
+1、21。PD的病因迄今未明，发病机制十分复
+杂。研究认为可能与氧化应激、兴奋性毒素、线粒体
+功能障碍、细胞凋亡等机制密切相关。
+多年来，对PD的治疗主要是基于用左旋多巴
+来代替多巴的对症治疗。但是长期使用左旋多巴和
+其他的抗PD药常带来严重的副作用，没有一种药
+物表现出可以阻止PD中神经元的退行性变性过
+程。人参皂苷Rg。是近年来研究较多的一种人参单
+体，药理研究表明它具有抗神经细胞凋亡、抗衰老、
+抗氧化、提高免疫力等作用。故实验检测指标旨在
+研究Rg。对sNzc DA能神经元的保护作用并探讨其
+可能机制。
+1材料
+1．1动物
+健康c，，BL6小鼠，10～12周龄，体重
+( 21± 2) g，6，36只，[ 北京维通利华动物实验中心，
+动物合格证号：scxK( 京) 2002舢3] 。
+1．2药物与试剂
+1．甲基4．苯基一1，2，3，6．四氢吡
+I 姹( 1一met hy_4一phenyl 一1，2，3，6- t et rahydmpyri di ne，
+M门P) 、DA、二羟基苯乙酸( di hydroxyphenyl acet i c
+aci d，DoPAc) 和高香草酸( homovani l l i c
+aci d，
+HVA) 、酪氨酸羟化酶( t yrosi ne hydroxyl ase，TH) 抗
+体( 均为si gma公司) ，Rgl ( LKTLABs公司) ，DAB底
+物显色试剂盒( 北京中杉试剂公司) ，聊zol 试剂( GIB—
+CO公司) ，逆转录试剂盒( PRoMEGA公司) ，Tag DNA
+聚合酶、DNA MarkerD脚(TAKARA公司)。
+1．3仪器台式低温离心机( 德国Eppend耐公司) ；
+DNA t hem】al cycl er( Pel ti er公司) ；电泳仪( 山11e柚an
+ph姗ci a bi ot ech公司) ；紫外凝胶成像系统及分析软
+件( 上海天能7r肌on公司) ；冰冻切片机( 德国ki t z公
+司) ；高效液相色谱仪( 美国wat ers公司) 。
+2方法
+2．1分组与给药将小鼠随机分为3组，每组12
+只( 其中6只用于断头取脑st r和SN活组织、6只用
+于脑灌注固定做脑切片) 。置于室温( 19± 2) ℃，
+24h昼夜循环光照条件下生活，自由饮水、取食。动
+物于实验前适应实验室环境1周。M胛P组：于上
+午8：00先行i p等体积生理氯化钠溶液，连续3d，其
+后于上午8：00 i p等体积生理氯化钠溶液及10：00
+i p M胛P( 30mg· kg一) ，连续5d；Rg，预处理组：上午
+8：00先行i p Rg。( 5mg· kg一) ，连续3d，其后于上午
+8：00 i p R91( 5mg· k叫) 及10：00 i p M盯P( 30mg·
+kg“ ) ，连续5d；对照组：i p等体积生理氯化钠溶液。
+2．2
+TH免疫组织化学( i mmunohi st ochemi s町，
+I Hc) 测定于末次注射24h后用水合氯醛将小鼠
+深度麻醉后断头取脑固定，修整中脑组织块进行冠
+状连续冰冻切片，参照试剂盒说明进行TH免疫组
+织化学染色。
+2．3半定量逆转录聚合酶链反应法( RT- pol ymemse
+chai n react i on，RT—PCR) 检钡0脑内caspase- 3mRNA、
+bcl ．2mRNA、bax mRNA、THmRNA在SN中的表达。
+2．3．1总RNA的提取于末次注射24h后断头处
+死快速取出sN组织，加入TRI zol 试剂提取总RNA。
+2．3．2逆转录反应利用逆转录试剂盒要求的标
+准条件进行RNA逆转录。反应体系为20“ 1，42℃
+反应1h，99℃加热5mi n，然后快速冷却到4℃以灭
+活逆转录酶与cDNA结合，反转录得到的cDNA用
+作PcR反应模板，或暂放- 20℃保存。
+2．3．3
+聚合酶链反应( pol ymerase chai n react i on，
+PCR) PCR引物分别参照文献设计，由上海生工生物
+工程技术服务有限公司合成，见表1。采用25斗l 反
+应体系进行扩增，甘油酸一3一磷酸脱氢酶( 甜yceri c
+aci d一3一phosphat e dehydmgenase，GAPDH) 2、Caspase-
+3基因的扩增参数为94℃预变性4mi n，94℃变性
+30s，48℃退火30s，72℃延伸1 mi n，反应35个循环，
+72℃延伸10mi n；GAPDHl 、Bcl ．2、Bax基因的扩增参
+数为94℃预变性4mi n，94℃变性30s，56℃退火30s，
+72℃延伸1mi n，反应35个循环，72℃延伸10mi n；
+GAPDHl 、TH基因的扩增参数为94℃预变性4mi n，
+94℃变性30s，52℃退火30s，72℃延伸1mi n，反应
+35个循环，72℃延伸10mi n。
+2．3．4
+PcR产物定量分析取扩增产物于含溴化
+乙锭( et hi di um bromi de，EB) ( 0．5恤g· I l l l “ ) 2％的琼
+脂糖凝胶中电泳，80V，25mi n，运用软件对条带进行
+分析。每份样本分别得到GAPDH2和Caspase- 3、
+GAPDHl 和Bcl - 2、GAPDHl 和Ba) 【、GAPDHl 和TH
+基因的特异性扩增条带，用Caspase一3、Bcl - 2、Bax、
+TH与GAPDH比值表示caspase- 3、Bcl _2、Bax、TH
+基因的表达水平。
+2．4
+st r DA及其代谢产物高效液相色谱电化学检
+i 贝0筘安( hi gh peI f 0珊ance l i qui d ehromat ography—el ect ro—
+chemi cal det ect i on，HPLC—ECD)
+2．4．1
+色谱柱条件
+流动相：柠檬酸( H：O)
+( 4．202 89) ；乙酸钠( 6．8049) ；EDTA· 2Na( 2H20)
+( 49．87mg) ；八烷基磺酸钠( H20) ( OSA) ( 811．
+275mg) ；二正丁胺( 0．17I I l l ) ；甲醇50111l ，用双蒸水
+( ddH：O) 稀释至1 000I I l l 。最大柱压2 500p，流速1．o
+ 万方数据
+解放军药学学报2007年2月
+第23卷第1期Ph口丌，l ，铂流PLA蹦23
+些!
+型呈塑
+Ca8pase_3
+Bcl _2
+GAPDH2
+GAPDHl
+上游：AAAATCCACCACTTAGAGAcc
+下游：TAGcCACAGTACCG7兀' CC
+上游：TGATGAGGAGATGGCTTG
+下游：TCTG7I ’
+rrC7I ’
+I TGCGTGGA
+上游：GTcccGCCTCTTCAcCl Tr
+下游：CCCACTCGTAGccccTcT
+上游：GGcGAA’
+rrGGAGATGAAC
+下游：ccGAAG．rAGGAGAGGAGG
+上游：’
+rG7rI ’
+CCAGTATGATTCTAcCCA
+下游：GGTAGGAACACGGAAGGC
+上游：TTcAccAccATGGAGAAGGC
+下游：GGcATGGAcTGTGGTCATGA
+mL／mi n，EcD设定电压0．65V，每一样品检测
+35mi n。
+2．4．2组织样品的预处理样品转人2．0ml
+ep-
+pendorf t ube中，准确称量，加入冰冷的样品预处理
+A液[ 4．6ml HcL04( 0．4mo卜L_1) +ddH20至200m1]
+300¨ l ，冰浴中超声10s( 1Hz，即振动1s，间歇1s，反
+复4～5次) ，冰浴静置1h，4℃12 000r／mi n，离心
+20mi n，取240¨ 1上清液转入另一eppendorf t ube中
+再加入120斗l 冰冷的预处理B液[ 柠檬酸钾( 1．69)
++磷酸二氢钾( 13．069) +EDTA· 2Na( 0．1859) +
+ddH，O至250m1] ，涡旋混匀，冰浴静置1h，4℃12
+000r／mi n，离心20mi n后置．80℃冷冻保存待测。
+2．5统计学处理
+实验结果以戈± s表示，应用
+SPSSl l ．0软件包进行单因素方差分析( one- way—
+ANOVA) 继以St udent - Newman—Keul s法进行两两比
+较检验。
+3结果
+3．1
+Rg。对MPrI P PD模型小鼠TH免疫反应阳性神
+经元数目的影响
+MHP模型组与对照组相比SNpc
+的TH免疫反应阳性神经元的数目缺失了77．29％，有
+No．333- 799
+467 bp
+NM009377
+No．597_847
+251bp
+NM009810
+No．749—1157
+409bp
+BC095964
+No．259- 565
+307bp
+NM007527
+No．161- 735
+575 bp
+M 17701
+No．423_659
+236bp
+BC064681
+·
+19·
+显著性差异( P<0．01) ；Rg，预处理组的TH阳性神
+经元的数目与M肿模型组相比显著增多( P<
+o．05) ；Rg，预处理组的TH阳性神经元的数目仍低于
+对照组，有显著性差异( P<0．01) 。见表2。
+3．2
+Rg。对MPTP PD模型小鼠SN caspase一3、
+Bcl _2、Bax、TH mRNA表达的影响
+对照组与模型
+组相比，TH、Bcl _2 mRNA扩增产物明显减少( P<
+0．01) ，Caspase．3、Bax mRNA扩增产物明显增多
+( P<0．01) ；Rg，预处理组TH、Bcl - 2 mRNA扩增
+产物较M盯P模型组明j 显增多( P<O．05) ，Rg。预
+处理组caspase_3、Ba) ( mRNA扩增产物较MPTP模
+型组明显减少( P<O．05) ；Rg，预处理组扩增产物
+与对照组相比有显著性差异( J P<0．01) 。见表3。
+表2
+l 沁I 对MPTP PD模型小鼠SN区TH
+免疫阳性神经元数目的影响( ；± s，n=6)
+Tab2瑚Mof l t gl 仰恤e n啪b哪of THi 栅咖onacti ve
+neum吣i n me sN of MPTP PD modd mi ce( ；± s。n=6)
+组别
+TH免疫阳性神经元数目
+对照组
+MPTP模型组
+R91预处理组
+41．83± 2．86
+9．50士2．43。
+27．00士3．359
+注：与对照组比较，。P<0．01；与MPrP模型组比较，8P<0．01
+表3
+Rgl 对MPTP PD模型小鼠SN TH C鲫呻艇o Bcl - 2和B腿m心A表达的影响( ；± s。n=6)
+Tab3
+E融t of R91蛐TH吼甲a∞- 3鲫d bcI l 2蚰d b旺辨眦e印ressi ∞i I I SN of ⅫP．rP PD modd IIl i ∞f i ± s，n=6)
+组别
+c鹊pase0／GAPDH2 mRNA比值
+bcl ．2／GAPDHl mRNA比值
+ba) ∥ GAPDHl mRNA比值
+TH／GAPDHl
+mRNA比值
+对照组
+MPI P模型组
+0．28l 士0．066
+O．638± O．123。
+O．960± 0．215
+0．467± O．083。
+O．47l ± 0．247
+O．978士O．273
+o
+O．91l 士0．162
+O．442士O．1720
+Rgl 预处理组
+O．43l 士O．049。‘
+0．895± 0．198“
+．O．588士0．24l 。‘
+0．775± O．142d
+注：与对照组比较，。P<O．叭；与MPl l P模型组比较，f P<0．05，gP<O．01
+3．3
+Rg。对M胛P PD模型小鼠鼬内DA及其代谢
+产物含量的影响
+MPrP模型组DA及其代谢产物
+DOPAC、HVA的含量与对照组相比分别下降了72．
+51％、43．85％、65．89％，有显著性差异( P<0．01) ；
+ 万方数据
+· 20·
+解放军药学学报2007年2月
+第23卷第1期Pkm_，∞汛PM％z 23
+Ⅳ0，n6 2∞7
+Rg。预处理组DA、DOPAC和HⅥ～的含量较MPrP模
+型组均明显增加，有显著性差异( P<0．05) ；Rg。预处
+理组DA、DoPAc和HVA的含量仍低于对照组，有显
+著性差异( P<0．01) 。见表4。
+表4
+Rgl 对M盯P PD模型小鼠St r内DA及
+其代谢产物含量的影响( ；± s，n=6)
+Tab4
+l 肺蛆of Rgl
+on t he con细ts of DA and
+i t s
+met aboI i t esi nt he St r of M[ PTPPDmoddmi ∞( 五± s，n=6)
+注：与对照组比较，。P<0．叭；与M町P模型组比较，gP<O．01
+4讨论
+PD是一种常见的中枢神经系统退行性疾病，主
+要病理改变是SNzc DA能神经元进行性变性缺失。
+到目前为止国内外已建立了众多的动物模型来研究
+PD，其中应用最为广泛的是Mf yI P小鼠模型” 。。
+MPrFP是近二十多年来神经科学者们所知并公认的
+可以诱发小鼠sN．st r通路DA能神经元变性，可模
+拟出人类PD症状的神经毒性物质M、51。M盯P穿过
+血脑屏障后被单胺氧化酶B( MAO- B) 转化为相应
+的二氢吡啶( MPDP+) ，MPDP+随之氧化为1一甲基一
+4- 苯基吡啶( MPP+) ，MPP+可抑制TH的活性而减
+少DA的合成，通过抑制活性复合体( NADH脱氢
+酶) I ，增加自由基的生成及氧化应激，进而促进BaDc
+的表达、抑制Bcl ．2的表达及其在线粒体外膜上的
+分布，从而改变线粒体膜的通透性，使膜内的某些蛋
+白，如细胞色素c等进入细胞质，继而激活caspases
+级联反应，启动凋亡过程∞J 1。
+人参是我国传统名贵中药，具有广泛的药理作
+用和医疗用途。人参皂苷是人参的主要有效成分之
+一，可分三类：二醇型、三醇型、齐墩果酸型，其中二
+醇型和三醇型皂苷占人参皂苷的大多数，被认为是
+人参的最主要活性成分，具有很强的生物活性。Rg。
+属于三醇型人参皂苷物质，药理学研究表明，Rg。具
+有抗衰老、抗氧化、提高免疫力和增强记忆力等作
+用‘ 8I。
+本实验结果表明，M胛P可导致小鼠St r中DA
+及其代谢产物DoPAc、HVA的含量分别下降
+72．51％，43．85％，65．89％；同时本实验也发现
+M门P造成小鼠sN内TH免疫反应阳性神经元的数
+目缺失了77．29％及THmRNA的表达下降。应用
+Rg。处理后上述指标有所改善，说明Rg，对DA神经
+元具有保护作用。
+Bcl - 2家族蛋白可分为两类，一类具有促进凋亡
+的作用，如BaX促进细胞色素C的释放；另一类具
+有抗凋亡作用，如Bcl - 2阻止线粒体释放细胞色素
+c19 J 。caspases家族可以分为两类：启始caspases
+( Caspasel 8、_9和- 12) 和效应Caspases( caspase- 3、一6
+和_7) ，其中caspase．3在大脑神经细胞的凋亡中起
+主要作用¨ 0I。本实验结果显示，Mm可以引起小
+鼠sN内Caspase．3、Bax mRNA表达上调，Bcl 一2 mR—
+NA表达水平下降，说明MPrl l P是通过Bcl 一2家族蛋
+白来调控线粒体细胞色素c的释放，进而通过封闭
+或启动caspase，主要是涉及以caspase- 3激活为终
+点的信号通路的活化来调控细胞凋亡过程。表明
+sN神经元凋亡与Bcl ．2 mRNA表达减少及Bax mR—
+NA表达增加有关。
+本研究应用Rg。处理后观察到小鼠st r中DA
+及代谢物含量、SN内TH活性均比M门P组明显升
+高，小鼠SN内Bcl ．2
+mRNA表达水平增加，而
+caspase一3、Bax mRNA表达下调。我们可推测Rg。
+可能是通过增加Bcl ．2 mRNA表达和减少BaX mR—
+NA表达来抑制caspase．3活性进而对抗sN DA神
+经元凋亡，起到保护sN DA神经元的作用。
+以上结果和讨论均证实，M胛P可导致SN DA
+神经元凋亡，Rg，对M阳P致sN DA能神经元的损
+伤具有一定的保护作用，其机制可能与抗凋亡过程
+有关。
+-
+参考文献：
+[ 1]
+Dawson TM，Dawson VL．
+Mol ecul ar
+pat hways
+of neumdegenem—
+t i on i n Parki nson§ di sease[ J ] ．_sci ence，2003，302( 5646) ：819
+[ 2]
+Reena Haob帅，Ki zhakke M．si ndhu，Gout am chaIl 如，以nz．
+Swi m—t est
+as
+a f unct i on
+of mot o
+i mpai Hnent
+i n MH甲model
+of
+Parki ns彻勺dj sease：A compara“ 忙st udy
+i n
+t wo
+mouse
+st rai ns
+[ J ] ．Be^Ⅱ"i o“ rnz Broi n Reseorc^，2005，( 163) ：159
+[ 3]
+姜
+宏，谢俊霞，钱忠明．M哪诱导小鼠黑质区铁摄取和
+DMTl 表达增加[ J ] ．生理学报，2003，55( 5) ：57l
+[ 4]
+Mari na
+E．
+Embo瑁．
+Eval uat i on of
+ani mal
+model s
+of Parki nson，s
+di sease f or neuropmt ect i ve 8t rat egi e8[ J ] ．．，oHm口f 矿，忆urosci ence
+Me琥。出，2004，( 139) ：121
+[ 5]
+0．von Bohl en und Hal bach，A．schober，K．Kri e出st en．Genes，
+pmt ei ns，and neumt oxi ns
+i nvol ved
+i n
+Parki nson’
+s
+di sease[ J ] ．
+ProgⅢ5抚肌“ r06i of o∥ ，2004，( 73) ：151
+[ 6]
+磁ch8I d J ay smeyne，Vemi ce J ackson- L州s．ne Mm’ mdel 0f 胁
+ki nson§ di se鹤e[ J ] ．肘。如c“ zⅡr BrⅡi n R∞e口rc^，2005，( 134) ：57
+[ 7]
+Reed
+J c．Doubl e i dent i t y f o。prot ei n8
+of t he
+bcl ．2
+f ami l y[ J ] ．
+^协ure，1997，387( 6635) ：773
+[ 8]
+zhaI l g J T．Ret rospect and prospect of 百nseng research[ J ] ．Ac￡口
+p^omS抽，1995，30( 5) ：321
+ 万方数据
+解放军药学学报第23卷第l 期
+链霉素聚氰基丙烯酸正丁酯纳米粒小鼠体内抗结核菌沿陛的研究桂卉
+·
+21．
+文章编号：l 008_9926( 2007) Ol J D021 J 04
+中图分类号：R944、R965
+文献标识码：A
+链霉素聚氰基丙烯酸正丁酯纳米粒小鼠体内抗结核茵活性的研究①
+桂卉②，邹龙，范学工
+( 湖南中医学院药剂教研室湖南长沙410007)
+摘要：目的观察链霉素纳米粒的小鼠体内抗结核作用。方法以被结核分枝杆菌感染的小鼠为实验动物，以小鼠的体重
+变化、死亡率、心、肝、脾、肺等重要脏器的重量指数变化及病理改变为评判指标，对链霉素纳米粒的体内抗结核作用进行了观
+察，并与非纳米化的普通链霉素进行了对比。结果链霉素纳米粒在降低结核感染模型动物死亡率及减轻肺脏病变程度的
+作用方面均较普通链霉素有较大的增强。结论链霉素纳米化后抗结核作用增强。
+关键词：链霉素；纳米粒；结核分枝杆菌
+St udy on Ant i t ubercul osi s Act i vi t y of St rept omyci n Nanopart i cl es i n Vi vo①
+GUI
+Hui ②，ZOU Long，FAN Xue—Gong
+( Depart ment
+of PhaⅡI l acy，Hunan CoUege of TCM，Changsha
+410007，Hunan
+Chi na)
+ABSTRACT：Ai mTo expl ore t he ant i t ubercul osi s act i Vi t y of st rept omyci n nanopani cl es i n Vi Vo．Met hods Mi ce t u-
+bercul osi s model s were used t o st udy st rept omyci n nanopart i cl es§ ant i t ubercul osi s act i vi t y i n Vi Vo t hat was compared
+wi t h st rept omyci n．The cumt i ve ef kct
+were eval uat ed by mi ce§ body wei ght changes and mort al i t y，wei ght and hi st o—
+pat hol ogy changes
+i n t he l ung，l i ver and spl een t i ssues．I I esuI t s The mort al i t y and hi st opat hol ogy changes i n l ungs
+of t he
+st rept omyci n nanopart i cl es
+group were
+10wer
+compared
+wi t h
+t he non—nanop叭i cl e
+dmg．
+Concl usi on The
+st rept omyci n童i n vi vo ant i mi crobi al
+act i Vi t y
+t 0 mycobact eri umt ubercul osi s
+was enhanced af t er
+bei ng nanopart i cl i —
+zi ed．
+KEY WORDS：St rept omyci n；Nanopart i cl es；Mycobact eri umTubercul osi s
+链霉素是使用最早的抗结核药物，其作用的
+主要部位在细菌核糖体，通过干扰结核杆菌的酶
+活性而阻碍其蛋白质合成，对结核分枝杆菌具有
+较强的抑菌作用。但结核分枝杆菌是胞内寄生致
+病菌，主要寄生在巨噬细胞内¨ “ J ，而链霉素主要
+分布于细胞外液，胞内药物浓度低。因此，结核分
+枝杆菌难以全部清除，这也是链霉素易产生耐药
+性的原因之一。已有研究证明，将抗菌药物吸附
+或包裹到纳米载体中制成载药纳米粒，可提高感
+染细胞内药物浓度，实现胞内给药，有效清除胞内
+致病菌口J 。我们的前期研究结果证明，链霉素纳
+米化后，其胞内渗透能力增强，进入细胞内的链霉
+素的量增加。在前期研究基础上，我们以被结核
+分枝杆菌感染的小鼠为实验动物，以小鼠的体重
+变化、死亡率、心肝脾肺等重要脏器的重量指数变
+化及病理改变为评判指标，对链霉素纳米粒的体
+内抗结核作用进行了观察，并与非纳米化的普通
+链霉素进行了对比。
+1材料与方法
+1．1菌种结核分枝杆菌H37Rv株( 中国医学科
+学院结核病防治所，ATCC27294) 。
+1．2培养基及药物改良罗氏培养基。6o；链霉素
+( 华北制药有限公司生产，批号030306) ；链霉素纳
+[ 9]
+Est her B．E．Becker，Azad Bonni ．Cel l cycl e regul at i on 0f neur0一
+nal 印opt osi s
+i n
+devel 叩ment
+and di se鹊e[ J ] ．
+Pr0冒ress
+汛
+Ⅳe“ r06i DZo彰，2004，( 72) ：l
+[ 10]
+A．Ni cot ra，s．H．Pa叶ez．Ap叩t ot i c mol ecI l l es and MP】田· i nduced ceu
+deat }l [ J ] ．^kMr0￡“ i cof ol 盯口，矗死m￡of 99y，2002，( 24) ：599
+( 收稿日期：2006．10旬8；修回日期：2006- 12- 15)
+( 本文编辑魏萍)
+①基金项目：国家“ 863” 子项目，No．2001AA21801l ；湖南省教育厅科研基金资助项目，No．湘教通( 2001) 207
+②作者简介：桂卉( 1粥7一) ，女，湖南衡阳人，博士，副教授。研究方向：新药与开发。Tel ：( 0731) 554e990；E- rIl ai l ：gui hui l 967@hof mai l ．com
+ 万方数据

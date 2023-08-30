@@ -1,0 +1,712 @@
+第 48 卷
+第 5 期
+2022 年 9 月
+吉
+林
+大
+学
+学
+报 （ 医
+学
+版 ）
+Journal of Jilin University （Medicine Edition）
+Vol. 48
+No. 5
+Sep.
+2022
+DOI：10. 13481/j. 1671‑587X. 20220510
+人参皂苷 Rg1 对重症急性胰腺炎大鼠心脏损伤的保护作用
+及其机制
+杨
+杭, 陈佳祺, 王首寒, 杨洪军, 王
+斌
+（吉林省肿瘤医院腹部肿瘤外科，吉林 长春 130012）
+［摘
+要］
+目的
+目的：探讨人参皂苷 Rg1 对重症急性胰腺炎 （SAP） 大鼠心脏损伤的保护作用，阐明其
+相关分子机制。方法
+方法：SD 大鼠随机分为对照组、模型组和 Rg1 处理组，每组 6 只。对照组大鼠开腹后
+闭腹；模型组大鼠开腹后逆行向胆胰管内注射 5% 牛磺胆酸钠 （0. 15 μL·kg
+－1） 诱导 SAP； Rg1 处理
+组大鼠术前 30 min 经尾静脉注射 Rg1 （4 mg·kg
+－1），制备 SAP 模型；对照组和模型组大鼠术前 30 min
+尾静脉注射生理盐水。酶联免疫吸附测定 （ELISA） 法检测各组大鼠血清中肿瘤坏死因子α（TNF-α）、
+内 毒 素 、 内 皮 素 1 （ET-1）、 白 细 胞 介 素 1β （IL-1β） 水 平 及 肌 酸 激 酶 MB （CK-MB）、 肌 钙 蛋 白 I
+（cTnI） 和淀粉酶活性。超声成像系统检测各组大鼠心率 （HR）、左室收缩末期内径 （LVDs） 和左室
+舒张末期内径 （LVDd），并计算左室短轴缩短率 （FS）。Western blotting 法检测各组大鼠心肌组织中
+烟酰胺腺嘌呤二核苷酸氧化酶 （NOX） 2、NOX4、磷酸化p38（p-p38）、磷酸化细胞外调节蛋白激酶1/2
+（p-ERK1/2） 和磷酸化 c-Jun 氨基末端激酶 （p-JNK） 蛋白表达水平。结果
+结果：ELISA 法检测，与对照组
+比 较 ， 模 型 组 大 鼠 血 清 中 TNF-α、 内 毒 素 、 IL-1β 和 ET-1 水 平 均 明 显 升 高 （P<0. 05）， CK-MB、
+cTnI 和淀粉酶活性均明显升高 （P<0. 05）；与模型组比较，Rg1 处 理 组 大 鼠 血 清 中 TNF- α、内毒
+素、IL-1β 和 ET-1 水平降低 （P<0. 05），CK-MB、cTnI 和淀粉酶活性降低 （P<0. 05）。超声心动图，
+与对照组比较，模型组大鼠 HR 和 LVDs 明显增加 （P<0. 05），LVDd 差异无统计学意义 （P>0. 05），
+FS 明显降低 （P<0. 05）；与模型组比较，Rg1 处理组大鼠 LVDs 明显减小 （P<0. 05），LVDd 差异无
+统计学意义 （P>0. 05），FS 明显升高 （P<0. 05）。Western blotting 法检测，与对照组比较，模型组
+大鼠心肌组织中 NOX2、NOX4、p-p38、p-ERK1/2 和 p-JNK 蛋白表达水平明显升高 （P<0. 05 或 P<
+0. 01）；与模型组比较，Rg1 处理组大鼠心肌组织中 NOX2、NOX4、p-p38、p-ERK1/2 和 p-JNK 蛋白
+表达水平明显降低 （P<0. 05）。结论
+结论：Rg1 对 SAP 大鼠心脏损伤具有一定保护作用，其机制可能与
+Rg1 抑制丝裂原活化蛋白激酶 （MAPK） 信号通路进而降低心肌组织氧化应激有关。
+［关键词］
+人参皂苷 Rg1；重症急性胰腺炎；心脏损伤；NADPH 氧化酶；丝裂原活化蛋白激酶
+［中图分类号］
+R576
+［文献标志码］
+A
+Protective effect of ginsenoside Rg1 on cardiac injury in rats
+with severe acute pancreatitis and its mechanism
+YANG Hang, CHEN Jiaqi, WANG Shouhan, YANG Hongjun, WANG Bin
+（Department of Abdominal Tumor，Jilin Cancer Hospital，Changchun 130012，China）
+[文章编号]
+1671‑587X(2022)05‑1175‑07
+[收稿日期]
+2021‑12‑13
+[基金项目]
+吉林省卫健委卫生健康科技能力提升项目 （2021LC129）
+[作者简介]
+杨
+杭 （1993－），男，吉林省辽源市人，主治医师，医学硕士，主要从事肝胆胰脾及结直肠疾病诊断和治疗
+方面的研究。
+[通信作者]
+王
+斌，主任医师，硕士研究生导师 （E-mail：yxwbwyc@126.com）
+1175
+第 48 卷
+第 5 期
+2022 年 9 月
+吉林大学学报 （医学版）
+ABSTRACT
+Objective：To investigate the protective effect of ginsenoside Rg1 on cardiac injury in the rats
+with severe acute pancreatitis（SAP），and to elucidate the related molecular mechanisms.
+Methods：The
+SD rats were randomly divided into control group，model group and Rg1 treatment group，with 6 rats in
+each group. The abdominal cavity of the rats in control group was closed after laparotomy；the rats in
+model
+group
+were
+retrogradely
+injected
+with
+5%
+sodium
+taurocholate （0. 15
+μL·kg
+－1） into
+the
+biliopancreatic duct to induce SAP after laparotomy；the rats in Rg1 treatment group were injected with Rg1
+（4 mg·kg
+－1）via the tail vein 30 min before operation of preparing the SAP model；the rats in control group
+and model group were injected with normal saline 30 min before operation. Enzyme linked immunosorbent
+assay（ELISA）method was used to detect the levels of serum tumor necrosis factor-α（TNF-α），endotoxin，
+endothelin 1（ET-1），interleukin-1β（IL-1β）and the activities of serum creatine kinase-MB（CK-MB），
+cardiac troponin I（cTnI）and mylase of rats in various groups. Ultrasound imaging system was used to
+detect the heart rate（HR），left ventricular end-systolic diameter（LVDs）and left ventricular end-diastolic
+diameter（LVDd）of rats in various groups and calculate the fractional shortening（FS）. Western blotting
+method was used to detect the expression levels of NADPH oxidase（NOX）2 and NOX4，phosphorylated
+p38（p-p38），phosphorylated extracellular regulated protein kinase 1/2（p-ERK1/2） and phosphorylated
+c-Jun N-terminal kinase（p-JNK）proteins in myocardium tissue of rats in various groups. Results：Compared
+with control group，the levels of TNF-α，endotoxin，IL-1β and ET-1 in serum of the rats in model group
+were significantly increased （P<0. 05）；the activities of CK-MB，cTnI，and amylase were significantly
+increased（P<0. 05）. Compared with model group，the levels of TNF-α，endotoxin，IL-1β and ET-1 in
+serum of the rats in Rg1 treatment group were decreased（P<0. 05），and the activities of CK-MB，cTnI，
+and amylase were decreased（P<0. 05）. Compared with control group，the HR and LVDs of the rats in
+model group were significantly increased（P<0. 05），the LVDd had no significant difference（P>0. 05），
+and the FS was significantly decreased（P<0. 05）；compared with model group，the LVDs of the rats in
+Rg1 treatment group were significantly decreased（P<0. 05），the LVDd had no significant difference（P>
+0. 05），and the FS was significantly increased （P<0. 05）. The Western blotting results showed that
+compared with control group ，the expression levels of NOX2 ，NOX4 ，p-p38，p-ERK1/2 and p-JNK
+proteins in myocardium tissue of the rats in model group were significantly increased （P<0. 05 or P<
+0. 01）；compared with model group，the expression levels of NOX2 ，NOX4 ，p-p38 ， p-ERK1/2 and
+p-JNK proteins in myocardium tissue of the rats in Rg1 treatment group were significantly decreased（P<
+0. 05）.
+Conclusion：Rg1 has a protective effect on cardiac injury in the SAP rats，and its mechanism may
+be related to reducing myocardial tissue oxidative stress by inhibiring MAPK signaling pathway.
+KEYWORDS
+Ginsenoside
+Rg1； Severe
+acute
+pancreatitis
+heart
+injury； NADPH
+oxidase；
+Mitogen-activated protein kinase signaling pathway
+重 症 急 性 胰 腺 炎 （severe acute pancreatitis，
+SAP） 是一种进展迅速、病死率高的致命性全身性
+疾 病 ， 其 最 重 要 的 致 死 原 因 是 心 脏 损 伤
+［1-4］。 研
+究
+［5］ 表明：高血压、心肌缺血再灌注损伤、心肌
+梗死和心力衰竭等心脏疾病的发生发展都与活性氧
+含量增加有关。
+心血管系统中的活性氧主要由烟酰胺腺嘌呤二
+核 苷 酸 磷 酸 氧 化 酶 （nicotinamide
+adenine
+dinucleotide phosphate oxidase， NOX） 生 成 。 在
+NOX 家 族 中 ， NOX2 和 NOX4 在 心 肌 中 高 表 达 ，
+介导心脏代偿性和失代偿性变化
+［6-7］ 。研究
+［8-13］ 显
+示：在脓毒症、缺血性心肌病和心力衰竭等疾病状
+态 下 ， 心 功 能 不 全 患 者 的 NOX 活 性 均 升 高 ， 且
+NOX4 升高更明显，促炎细胞因子如肿瘤坏死因子 α
+（tumor necrosis factor- α， TNF- α）、 内 皮 素 1
+（endothelin 1，ET-1） 和内毒素等也可激活 NOX，
+促进活性氧的生成，通过激活丝裂原活化蛋白激酶
+（mitogen-activated protein kinase，MAPK） 信号通
+路促进氧化应激增加和心肌细胞凋亡，最终导致
+SAP 大鼠心脏损伤。
+人参作为一种用于治疗和养生的传统中草药，
+对 人 体 有 保 护 作 用 。 人 参 皂 苷 Rg1， 分 子 式 为
+1176
+杨
+杭，等 .
+人参皂苷 Rg1 对重症急性胰腺炎大鼠心脏损伤的保护作用及其机制
+C42H72O14，是人参属药材的重要药理学活性成分之
+一，其具有多靶点效应且不良反应少。Rg1 可通过
+增强内源性抗氧化活性物质，如过氧化氢酶、超氧
+化物歧化酶和谷胱甘肽等活性，明显降低心肌细胞
+缺氧和复氧过程中活性氧的产生，抵制心肌细胞钙
+离子 （Ca
+2+） 浓度异常性升高，进而抑制左心室肥
+厚，减少细胞凋亡并保护心脏，避免心肌重塑和慢
+性血栓栓塞性肺动脉高压大鼠心肌细胞紊乱、右心
+室肥厚和炎症细胞浸润等现象的发生，并抑制胶原
+沉 积
+［14-16］。 然 而 ， 人 参 皂 苷 Rg1 作 为 抗 氧 化 剂 对
+SAP 相关心脏损伤的作用尚未完全阐明。本研究
+探讨人参皂苷 Rg1 对 SAP 大鼠导致心脏损伤的保
+护作用，并阐明其可能的分子机制。
+1
+材料与方法
+1. 1
+实 验 动 物
+实 验 动 物 、主 要 试 剂 和 仪 器
+主 要 试 剂 和 仪 器
+8 周 龄 健 康
+SD 大鼠 18 只，体质量 250~300 g，购自辽宁长生
+生 物 技 术 股 份 有 限 公 司 ， 动 物 生 产 许 可 证 号 ：
+SCXK （辽） 2020-0001。 人 参 皂 苷 Rg1 （CAS
+号 ： 22427-39-0） 购 自 上 海 源 叶 生 物 技 术 有 限 公
+司 ， 肌 酸 激 酶 MB （creatine kinase-MB， CK-MB）
+和 肌 钙 蛋 白 I （cardiac tropnin I， cTnI） 酶 联 免 疫
+吸 附 测 定 （enzyme linked immunosorbent assay，
+ELISA） 试剂盒购自武汉伊莱瑞特生物科技股份有
+限 公 司 ， 白 细 胞 介 素 1β （interleukin-1β， IL-1β）、
+TNF-α、内毒素、ET-1 和淀粉酶 ELISA 试剂盒购
+自杭州联科生物技术股份有限公司，全蛋白提取试
+剂盒、BCA 蛋白定量试剂盒和 SDS-PAGE 凝胶配
+制 试 剂 盒 购 自 北 京 索 莱 宝 生 物 技 术 有 限 公 司 ，
+NOX4、 细 胞 外 调 节 蛋 白 激 酶 1/2 （extracellular
+regulated protein kinase1/2， ERK1/2）、 磷 酸 化
+ERK1/2 （phosphorylated ERK1/2， p-ERK1/2）、
+磷酸化 p38 （phosphorylated p38，p-p38）、c-Jun 氨
+基末端激酶 （c-Jun N-terminal kinase，JNK）、磷酸
+化 JNK （phosphorylated JNK， p-JNK）、 β-actin 和
+羊抗兔 IgG （H+L） HRP 购自常州市祥泰生物技
+术 有 限 公 司 。 超 声 成 像 系 统 购 自 中 国 迈 瑞 公 司 ，
+ULTRA-TURRAX
+® 组 织 匀 浆 器 购 自 德 国 IKA 公
+司 ， 5415R 高 速 离 心 机 购 自 德 国 Ependorff 公 司 ，
+Powerpac Basic 电泳系统、Mini Trans-Blot
+® Cell 小
+型转印槽和 680 酶标仪购自美国 Bio-Rad 公司。
+1. 2
+实验分组和造模
+实验分组和造模
+18 只 SD 大鼠随机分为对
+照组、模型组和 Rg1 处理组，每组 6 只。各组大鼠
+术前无菌消毒准备后，腹腔注射 3% 戊巴比妥钠溶
+液 （3 mL·kg
+－1体质量） 麻醉，开腹，充分暴露手
+术视野。依据参考文献 ［16-17］ 方法，对照组大
+鼠开腹后闭腹；模型组大鼠采用 2 mL 注射器缓慢
+逆 行 向 大 鼠 胆 胰 管 内 注 射 5% 牛 磺 胆 酸 钠
+（0. 15 μL·kg
+－1体质量） 制备 SAP 模型，注射后维
+持 5 min，取出微血管钳和穿刺针，关腹；Rg1 处理
+组 大 鼠 于 SAP 诱 导 手 术 前 30 min 经 尾 静 脉 注 射
+Rg1 （4 mg·kg
+－1体质量）。对照组和模型组大鼠术
+前 30 min 尾静脉注射等体积生理盐水。术后所有大
+鼠背部皮下注射无菌生理盐水 （4 μL·kg
+－1体质量）
+补偿预期失水量，每 6 h 1 次。
+大鼠血清中心肌酶异常超过正常上限值 2 倍以
+上，胰腺炎症指标血清中 TNF-α、内毒素、ET-1
+和 IL-1β 水平升高超正常值 2 倍以上，可认为造模
+成功
+［12］。
+1. 3
+ELISA 法检测大鼠血清中炎症因子水平和心
+法检测大鼠血清中炎症因子水平和心
+肌酶 及 淀 粉 酶 活 性
+酶 及 淀 粉 酶 活 性
+收 集 不 抗 凝 血 液， 4 ℃、
+3 500 r·min
+－1 离 心 15 min， 取 上 清 液 备 用 。 采 用
+ELISA 法 检 测 各 组 大 鼠 血 清 中 炎 症 因 子 TNF-α、
+内 毒 素 、 ET-1 和 IL-1β 水 平 及 心 肌 损 伤 相 关 指 标
+CK-MB、cTnI 和淀粉酶活性，实验重复 3 次。按
+照 ELISA 试 剂 盒 说 明 书 操 作 ， 采 用 酶 标 仪 测 定
+450 nm 及 405 nm 波长处吸光度 （A） 值，绘制标
+准曲线。根据标准曲线和 A 值计算血清中炎症因子
+水平和心肌酶及淀粉酶活性。
+1. 4
+超声成像系统检测各组大鼠超声心动图
+超声成像系统检测各组大鼠超声心动图
+各
+组大鼠术后麻醉苏醒 24 h 后 3% 戊巴比妥麻醉，采
+用超声成像系统以 200 mm·s
+－1 的扫描速度观察和
+记录各组大鼠多普勒信号轨迹，测量心率 （heart
+rate， HR）、 左 室 收 缩 末 期 内 径 （left ventricular
+end-systolic diameter， LVDs） 和 左 室 舒 张 末 期 内
+径 （left ventricular end-diastolic diameter，LVDd），
+计 算 左 室 短 轴 缩 短 率 （factional shortening，FS）。
+FS= （LVDd－LVDs/LVDd） ×100%。所有数据
+均由单盲超声诊断仪采集和分析，连续测量 5 个心
+动周期，取平均值。
+1. 5
+Western blotting 法检测各组大鼠心肌组织中
+法检测各组大鼠心肌组织中
+NOX2、NOX4、p-p38、p-ERK1/2 和 p-JNK 蛋白表达
+蛋白表达
+水平
+水平
+冰上剪取适量左心室组织样本加入蛋白裂解
+液 ， 组 织 匀 浆 器 匀 浆 ， 4 ℃ 、 15 000 r·min
+－1 离 心
+25 min，取上清。采用 BCA 法测定上清液蛋白浓
+度，将蛋白浓度用 RIPA 调整为 40 g·L
+－1，按 4∶1
+比 例 与 5×SDS-PAGE Loading Buffer 充 分 混 匀，
+1177
+第 48 卷
+第 5 期
+2022 年 9 月
+吉林大学学报 （医学版）
+置 于 100 ℃ 沸 水 中 7 min， 使 蛋 白 质 变 性。
+10%SDS-PAGE 电泳，4 ℃、100 V 转膜 60 min 至
+PVDF 膜，5% 脱脂奶粉室温封闭 2 h。弃封闭液，
+PBST 洗膜后，一抗 （1∶1 000） 10 h，4 ℃冰箱孵
+育，弃一抗，PBST 洗膜，二抗 （1∶3 000） 室温
+孵育，弃二抗，PBST 洗膜。采用化学发光成像系
+统进行检测，ECL 发光剂显影、成像，以 β-actin
+为内参，采用 Image J 软件分析蛋白条带灰度值，
+计算目的蛋白表达水平。目的蛋白表达水平=目的
+蛋白条带灰度值/β-actin 蛋白条带灰度值。
+1. 6
+统 计 学 分 析
+统 计 学 分 析
+采 用 GraphPad Prism 9. 0 统 计
+软 件 进 行 统 计 学 分 析 。 各 组 大 鼠 血 清 中 TNF-α、
+内毒素、ET-1 和 IL-1β 水平及 CK-MB、cTnI 和淀
+粉 酶 活 性， 心 肌 组 织 中 NOX2、 NOX4、 p-p38、
+p-ERK1/2 和 p-JNK 蛋白表达水平均符合正态分布，
+以 x±s 表示，多组间样本数比较采用单因素方差
+分析，组间两两比较采用 LSD-t 检验。以 P<0. 05
+为差异有统计学意义。
+2
+结
+果
+2. 1
+各组大鼠血清中炎症因子水平和心肌酶及淀
+各组大鼠血清中炎症因子水平和心肌酶及淀
+粉酶活性
+粉酶活性
+ELISA 法检测结果显示：与对照组比
+较，模型组大鼠血清中 TNF-α、内毒素、IL-1β 和
+ET-1 水平及 CK-MB、cTnI 和淀粉酶活性均明显升
+高 （P<0. 05）；与模型组比较，Rg1 处理组大鼠血
+清 中 TNF-α、 内 毒 素、 IL-1 β 和 ET-1 水 平 及
+CK-MB、 cTnI 和 淀 粉 酶 活 性 均 明 显 降 低 （P<
+0. 05）。见表 1。
+2. 2
+各组大鼠
+各组大鼠 HR、LVDs、LVDd 和 FS
+超声心动
+图 结 果 显 示 ： 与 对 照 组 比 较 ， 模 型 组 大 鼠 HR 和
+LVDs 明显增加 （P<0. 05），LVDd 差异无统计学
+意义 （P>0. 05），FS 明显降低 （P<0. 05）；与模
+型组比较，Rg1 处理组大鼠 LVDs 明显减小 （P<
+0. 05），LVDd 差异无统计学意义 （P>0. 05），FS
+明显升高 （P<0. 05）。见表 2。
+2. 3
+各组大鼠心肌组织
+各组大鼠心肌组织中 NOX2 、NOX4 、p-p38、
+p-ERK1/2 和 p-JNK 蛋 白 表 达 水 平
+蛋 白 表 达 水 平
+Western
+blotting 法检测结果显示：与对照组比较，模型组
+大鼠心肌组织中 NOX2 和 NOX4 蛋 白 表 达 水 平
+明 显 升 高 （P<0. 05 或 P<0. 01）； 与 模 型 组 比
+较，Rg1 处理组大鼠心肌组织中 NOX2 和 NOX4 蛋
+白表达水平明显降低 （P<0. 05）。与对照组比较，
+模型组大鼠心肌组织中 p-p38、p-ERK1/2 和 p-JNK
+蛋白表达水平明显升高 （P<0. 05）；与模型组比
+较，Rg1 处理组大鼠心肌组织中 p-p38、p-ERK1/2
+和 p-JNK 蛋 白 表 达 水 平 明 显 降 低 （P<0. 05）。
+见图 1 和 2。
+表 1
+各组大鼠血清中炎症因子水平和心肌酶及淀粉酶活性
+各组大鼠血清中炎症因子水平和心肌酶及淀粉酶活性
+Tab
+Tab. 1
+Levels of inflammatory factors and activities of myocardial enzymes and amylase in serum of rats in various groups
+Levels of inflammatory factors and activities of myocardial enzymes and amylase in serum of rats in various groups
+(n=6，x±s）
+Group
+Control
+Model
+Rg1 treatment
+TNF-α
+[ρB/(ng·L
+－1）]
+47.08±5.01
+150.72±6.72
+*
+130.36±2.88
+*△
+Endotoxin
+[ρB/(μg·L
+－1）]
+0.54±0.03
+1.20±0.02
+*
+0.92±0.06
+*△
+IL-1β
+[ρB/(ng·L
+－1）]
+55.26±4.25
+259.08±5.73
+*
+222.53±2.92
+*△
+ET-1
+[ρB/(ng·L
+－1）]
+23.15±1.24
+52.27±2.02
+*
+47.44±1.37
+*△
+CK-MB
+[λB/（U·L
+－1）]
+11.33±2.45
+32.43±2.74
+*
+25.72±3.26
+△
+cTnI
+[ρB/(μg·L
+－1）]
+0.68±0.01
+1.62±0.09
+*
+1.12±0.04
+△
+Amylase
+[λB/（U·L
+－1）]
+109.00±45.60
+502.33±122.14
+*
+385.72±83.26
+*△
+*P<0.05 vs control group；
+△P<0.05 vs model group.
+表 2
+各组大鼠
+各组大鼠 HR、FS、LVDd 和 LVDs
+Tab
+Tab. 2
+HR
+HR, FS
+FS, LVDd and LVDs of rats in various groups
+LVDd and LVDs of rats in various groups
+(n=6，x±s）
+Group
+Control
+Model
+Rg1 treatment
+HR(beat·min
+－1)
+256.25±17.60
+301.00±11.14
+*
+278.72±10.26
+LVDs(d/mm)
+3.28±0.24
+4.00±0.32
+*
+3.64±0.17
+*△
+LVDd(d/mm)
+5.62±0.13
+5.80±0.33
+5.72±0.21
+FS（η/%）
+41.63±1.71
+31.03±0.03
+*
+36.36±0.14
+*△
+*P<0.05 vs control group；
+△P<0.05 vs model group.
+1178
+杨
+杭，等 .
+人参皂苷 Rg1 对重症急性胰腺炎大鼠心脏损伤的保护作用及其机制
+3
+讨
+论
+SAP 患者除胰腺坏死和全身炎症反应外，还
+会出现肺、肠道、肾和心脏等远隔器官损伤
+［1-3］。
+研究
+［12，18-21］ 报道：在 SAP 期间可观察到心功能和
+心肌损伤的改变。SAP 导致的心脏损伤是该病最
+重要的死亡原因，也是最严重的并发症之一，且
+SAP 大鼠心肌组织中被激活的 NOX 促进活性氧生
+成作为损伤心脏的基础，并通过激活 MAPK 通路，
+增加氧化应激，同时增加心肌细胞凋亡，最终导致
+心脏损伤
+［22-23］。
+本研究结果显示：SAP 大鼠的心脏损伤模型
+制备成功；与对照组比较，SAP 大鼠血清中心肌
+损伤相关的 CK-MB 和 cTnI 蛋白酶活性明显升高，
+LVDs 和 LVDd 明显增加，FS 明显降低，同时模型
+组大鼠血清中淀粉酶活性及炎症相关因子 TNF-α、
+内毒素、IL-1β 和 ET-1 水平均明显升高，上述指标
+不仅是胰腺炎症相关指标，同时也是慢性心力衰
+竭、心肌缺血再灌注损伤、高血压、脑出血和肺气
+肿等疾病研究中的重要指标；与模型组比较，Rg1
+处理组大鼠血清中 CK-MB 和 cTnI 活性降低，表明
+Rg1 处 理 可 明 显 减 轻 SAP 引 起 的 心 脏 损 伤 ， 且
+LVDs 明显减小，FS 明显升高，表明 Rg1 处理明显
+改善了 SAP 大鼠的心脏功能，同样证实 Rg1 处理
+减轻了 SAP 大鼠的心脏损伤。
+研究
+［10-12，17］ 显示：氧化还原敏感的 MAPK 信
+号通路通常被认为可调节心肌细胞的炎症和凋亡，
+NOX 可促进活性氧生成，通过激活 MAPK 通路促
+进氧化应激增加和心肌细胞凋亡。本文作者推测
+Rg1 可抑制氧化应激并保护 SAP 大鼠心脏作用，其
+作用机制可能与干预 NOX 激活 MAPK 通路有关。
+MAPK 家族参与多种调控过程，包括对生长信号
+的 反 应、 细 胞 凋 亡 和 对 压 力 的 敏 感 性， p38、
+ERK1/2 和 JNK 是 MAPK 信 号 通 路 的 主 要 亚 家
+Lane 1：Control group；Lane 2：Model group；Lane 3：Rg1 treatment group.
+*P<0.05，
+**P<0.01 vs control group；
+△P<0.05 vs model group.
+图 1
+各组大鼠心肌组织中
+各组大鼠心肌组织中 NOX2 和 NOX4 蛋白表达电泳图
+蛋白表达电泳图（A）和直条图
+和直条图（B）
+Fig. 1
+Electrophoregram（A）and histogram（B）of expressions of NOX2 and NOX4 proteins in myocardium tissue of
+rats in various groups
+Lane 1：Control group；Lane 2：Model group；Lane 3：Rg1 treatment group.
+*P<0.05 vs control group；
+△P<0.05 vs model group.
+图 2
+各组大鼠心肌组织中
+各组大鼠心肌组织中 p-p38、p-ERK1/2 和 p-JNK 蛋白表达电泳图
+蛋白表达电泳图（A）和直条图
+和直条图（B）
+Fig. 2
+Electrophoregram（A）and histogram（B）of expressions of p-p38,p-ERK1/2 and p-JNK proteins in myocardium
+tissue of rats in various groups
+1179
+第 48 卷
+第 5 期
+2022 年 9 月
+吉林大学学报 （医学版）
+族
+［12，24-26］。 结 果 显 示 ： Rg1 处 理 使 由 SAP 引 发 的
+NOX2、 NOX4、 p-ERK1/2、 p-p38 和 p-JNK 蛋 白
+表达明显上调的情况被逆转，表明 Rg1 对 SAP 大
+鼠 心 脏 的 保 护 作 用 与 NOX 及 其 下 游 信 号 分 子
+MAPK 家族有关。
+尽管 NOX 对左室肥厚本身的发展非必要，但
+其在压力超负荷时会导致心脏收缩功能障碍的发
+展。NOX 作为活性氧生成的重要来源，使活性氧
+生成增加，活性氧通过激活 MAPK 通路促进氧化
+应激增加和心肌细胞凋亡
+［10-12］。而人参皂苷 Rg1 可
+通过 MAPK 信号通路降低氧化应激过程
+［27-30］，对
+SAP 大鼠心脏损伤起到保护作用。
+综上所述，人参皂苷 Rg1 对 SAP 大鼠心脏损
+伤具有一定保护作用，其机制可能与人参皂苷 Rg1
+抑制 NOX 介导的由 MAPK 信号通路增加心肌组织
+氧化应激有关。
+[参考文献]
+［1］ PORTELLI M，JONES C D. Severe acute pancreatitis：
+pathogenesis， diagnosis and surgical management［J］.
+Hepatobiliary Pancreat Dis Int，2017，16（2）：155-159.
+［2］
+SERGEEVA
+S
+S，
+KUZNETSOVA
+T
+Y，
+KOCHERINA V V，et al. Rivaroxaban for secondary
+prophylaxis of atherothrombosis complications in patients
+with recent acute coronary syndrome［J］. Kardiologiia，
+2017，57（10）：89-97.
+［3］MEDEROS M A，REBER H A，GIRGIS M D. Acute
+pancreatitis： a review［J］. JAMA， 2021， 325（4）：
+382-390.
+［4］YEGNESWARAN B，KOSTIS J B，PITCHUMONI C S.
+Cardiovascular manifestations of acute pancreatitis［J］.
+J Crit Care，2011，26（2）：225.e11-225.e18.
+［5］ ZHANG Y X，MURUGESAN P，HUANG K，et al.
+NADPH oxidases and oxidase crosstalk in cardiovascular
+diseases：novel therapeutic targets［J］. Nat Rev Cardiol，
+2020，17（3）：170-194.
+［6］ ZHANG M，PERINO A，GHIGO A，et al. NADPH
+oxidases in heart failure：poachers or gamekeepers？［J］.
+Antioxid Redox Signal，2013，18（9）：1024-1041.
+［7］BEDARD K，KRAUSE K H. The NOX family of ROS-
+generating
+NADPH
+oxidases：
+physiology
+and
+pathophysiology［J］. Physiol Rev，2007，87（1）：245-313.
+［8］ MOE K T， KHAIRUNNISA K， YIN N O， et al.
+Tumor necrosis factor- α -induced nuclear factor-kappaB
+activation
+in
+human
+cardiomyocytes
+is
+mediated
+by
+NADPH oxidase［J］. J Physiol Biochem，2014，70（3）：
+769-779.
+［9］ZENG Q H，ZHOU Q W，YAO F R，et al.Endothelin-1
+regulates cardiac L-type calcium channels via NAD（P）H
+oxidase-derived superoxide［J］. J Pharmacol Exp Ther，
+2008，326（3）：732-738.
+［10］ SIRKER A， ZHANG M， SHAH A M. NADPH
+oxidases in cardiovascular disease：insights from in vivo
+models and clinical studies［J］. Basic Res Cardiol，2011，
+106（5）：735-747.
+［11］ QIN F Z，SHITE J Y，LIANG C S. Antioxidants
+attenuate
+myocyte
+apoptosis
+and
+improve
+cardiac
+function in CHF：association with changes in MAPK
+pathways［J］. Am J Physiol Heart Circ Physiol，2003，
+285（2）：H822-H832.
+［12］ WEN Y，LIU R H，LIN N，et al. NADPH oxidase
+hyperactivity
+contributes
+to
+cardiac
+dysfunction
+and
+apoptosis in rats with severe experimental pancreatitis
+through ROS-mediated MAPK signaling pathway［J］.
+Oxid Med Cell Longev，2019，2019：4578175.
+［13］ QI L W，WANG C Z，YUAN C S. Isolation and
+analysis of ginseng：advances and challenges［J］. Nat
+Prod Rep，2011，28（3）：467-495.
+［14］ ZHU D，WU L，LI C R，et al. Ginsenoside Rg1
+protects rat cardiomyocyte from hypoxia/reoxygenation
+oxidative injury via antioxidant and intracellular calcium
+homeostasis［J］. J Cell Biochem，2009，108（1）：117-124.
+［15］卫
+衡，施 展，张若冰，等.人参皂苷Rg1对顺铂致H9c2
+心肌细胞损伤的保护作用与机制［J/OL］.吉林农业大
+学学报，2021.DOI：10.13327/j.jjlau.2021.1021.
+［16］ CHEN G Y，DAI R W，LUO H，et al. Effect of
+percutaneous catheter drainage on pancreatic injury in
+rats with severe acute pancreatitis induced by sodium
+taurocholate［J］. Pancreatology，2015，15（1）：71-77.
+［17］白
+槟，徐
+斌，刘朝旭，等. 逆行胰胆管注射牛磺胆
+酸 钠 诱 导 重 症 急 性 胰 腺 炎 模 型多器官损害观察［J］.
+科学技术与工程，2013，13（15）：4141-4147.
+［18］WANG Y J，LIU J Z，MA A R，et al. Cardioprotective
+effect
+of
+berberine
+against
+myocardial
+ischemia/
+reperfusion
+injury
+via
+attenuating
+mitochondrial
+dysfunction and apoptosis［J］. Int J Clin Exp Med，
+2015，8（8）：14513-14519.
+［19］RO T K，LANG R M，WARD R P. Acute pancreatitis
+mimicking
+myocardial
+infarction： evaluation
+with
+myocardial contrast echocardiography［J］. J Am Soc
+Echocardiogr，2004，17（4）：387-390.
+［20］CAVE A C，BREWER A C，NARAYANAPANICKER A，
+et al. NADPH oxidases in cardiovascular health and
+disease［J］. Antioxid Redox Signal， 2006， 8（5/6）：
+1180
+杨
+杭，等 .
+人参皂苷 Rg1 对重症急性胰腺炎大鼠心脏损伤的保护作用及其机制
+691-728.
+［21］ SELVARAJU V， JOSHI M， SURESH S， et al.
+Diabetes，oxidative stress，molecular mechanism，and
+cardiovascular disease：an overview［J］. Toxicol Mech
+Methods，2012，22（5）：330-335.
+［22］崔明哲，王
+恒，翟水亭，等.抑制磷脂酰肌醇3激酶/心
+肌素信号通路对血管平滑肌瘤细胞增殖和侵袭能力的
+影响［J］.郑州大学学报（医学版），2021，56（5）：690-693.
+［23］张
+琦，刘
+静.SGLT2 抑 制 剂 的 心 脏 保 护 作 用［J］.
+中国实用内科杂志，2020，40（8）：630-633.
+［24］吕
+瑾，杨胜祥，华晓芳，等. 黑芥子苷通过p38/JNK
+MAPK信号通路对阿霉 素 心 脏 毒 性 的 保 护 作 用［J］.
+国际心血管病杂志，2020，47（1）：48-51.
+［25］赵金红，张新金，李建美. p38MAPK信号通路与心脏
+重 构 关 系 的 研 究 进 展［J］. 医 学 综 述 ，2013，19（13）：
+2312-2314.
+［26］贾蕾蕾，王爱玲. 棉子酚通过干扰氧化应激反应、抑制
+JNK/p38 MAPK信号通路的激活减轻大鼠离体心脏缺
+血再灌注损伤［J］. 安徽医科大学学报，2017，52（10）：
+1424-1429.
+［27］ YU H T，ZHEN J，PANG B，et al. Ginsenoside Rg1
+ameliorates oxidative stress and myocardial apoptosis in
+streptozotocin-induced diabetic rats［J］. Zhejiang Univ
+Sci B，2015，16（5）：344-354.
+［28］高文静，马
+宏，项美香. 心肌能量底物代谢重构与心
+力衰竭关系的研究进展［J］.解 放 军 医 学 杂 志，2021，
+46（8）：822-826.
+［29］黄小平，王
+蓓，邱咏园，等. 黄芪甲苷、人参皂苷Rg1、
+Rb1和三七皂苷R1抗小鼠脑缺血再灌注氧化应激损伤
+和 促 进 能 量 代 谢 的 配 伍 研 究［J］. 湖 南 中 医 药 大 学 学
+报，2014，34（7）：5-11.
+［30］陈海霞，黄广丽，周红瀛，等. 人参皂苷Rg1减轻大鼠离
+体 心 脏 缺 血 再 灌 注 损 伤 的 作 用 研 究［J］. 河 北 医 药 ，
+2016，38（4）：485-488.
+1181

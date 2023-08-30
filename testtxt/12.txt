@@ -1,0 +1,483 @@
+墅昌笠厶叁皇煎盟氢照塑症醛后耋生太鼠堂翌运坚塑筐鲤鬟响筮垒塑
+人参皂甙对氯胺酮麻醉后老年大鼠学习记忆功能的影响
+邓
+昌
+欧阳波
+陶
+然1
+余顺治2金华3
+( 昆明市官渡区人民医院急诊科，云南
+昆明650200)
+·
+955·
+[ 摘要】
+目的观察人参皂甙对氯胺酮麻醉后老年大鼠学习和记忆的影响。方法将48只老年大鼠随机分为4组，每组12只：对照组( A
+组) 、氯胺酮组( B组) 、人参皂甙低剂量组( c组) 、人参皂甙高剂量组( D组) 。用Moms水迷宫检测人参皂甙对氯胺酮所致学习记忆障碍的影响，同
+时采用ELI SA方法检测大鼠海马区脑源性神经营养因子( BDNF) 和神经生长因子( NGF) 的含量，利用蛋白免疫印迹法测定海马区ERK和CREB的
+磷酸化水平。结果人参皂甙可改善氯胺酮麻醉后老年大鼠的学习和记忆能力；与氯胺酮组相比，人参皂甙治疗组海马区BDNF、EGF、P—ERKl ／2和
+p- Serl 33一CREB的水平均显著增加。结论人参皂甙可明显改善氯胺酮麻醉后老年大鼠的认知功能障碍，其机制可能与其上调ERK和CREB的磷
+酸化水平并增加BDNF的表达有关。人参皂甙可用于老年人麻醉术后认知功能障碍的治疗与防护。
+[ 关键词] 氯胺酮；人参皂甙；学习记忆；麻醉
+[ 中图分类号] 贴粥；R勰
+[ 文献标识码] A
+[ 文章编号] 1005- 9202( 2014) 04- 09SS- 04；doi ：l o．3969／．[ ．i s虬1005- 9202．2014．04．044
+Ef f ect s of panax gi nsenosi des on dysf unct i on of l earni ng and memory i n aged rat s af t er ket ami ne anest hesi a
+DENG Chang，OUYang- Bo，TAO Ran，et 口L
+Depart ment
+of Emergency，t he Peopl e’
+S Hospi t al
+of Guandu Di st ri ct ，Kunmi ng 650200，Yunnan，Chi na
+【Abstract]
+Obj ect i ve
+To exanl i ne t he ef f ect s
+of panax gi nsenosi des on dysf unct i on of l earni ng- memory abi ht y i n aged mi ce af t er
+ket ami ne anest hesi a．and expl ore
+i ts mol ecul ar mechani sm Met hods
+鸭e aged mi ce were di vi ded randoml y
+i nt o 4 groups：cont rol ( A
+group) ，ket ami ne- i nj ect ed( B group) ，l ow( C group) ，hi gh dose of panax gi nsenosi des· t reat ed groups( D group) ．Praxi ol ogy of i mpai red
+memory acqui ri ng mi ce caused by ket ami ne was i nvest i gat ed wi t h Morri s Wat er Maze．The l evel s of nerve growt h f act or( NGF) and brai n—de-
+ri ved neurot rophi c f act or( BDNF) i n hi ppocampus of aged rat s were exami ned by ELI SA．The phosphoryt at i on of ext racel hl ar si gnal - regul a-
+t ed ki nase( ERK) and cAMP- response el ement bi ndi ng prot ei n( CREB) i n hi ppocampus were al so i nvest i gat ed by West ern bl ot ．Resul t s
+Panax gi nsenosi des prevent ed t he decl i ne of l earni ng- memory abi l i t y
+i n ket ami ne- t reat ed aged mi ce．Compared wi t h B group，t he l evel s
+of
+NGF，BDNF，p- ERKl ／2 and p- Serl 33- CREB i n hi ppocampus
+of C and D group were si gni f i cant l y i ncreased．
+Concl usi ons
+Panax gi nsen—
+osi des coul d i mprove t he cogni t i ve dysf unct i on i n aged
+rat s
+af t er ket ami ne t reat menL
+The mol eeul ar mechani smundedyi ng t hese prot ect i ve
+ef f ect s
+i s t hat panax gi nsenosi des i ncrease t he l evel s of NGF and BDNF t hrough act i vat i ng ERK- CREB pat hway．Panax gi nsenosi des mi ght be
+used i n t he t reat ment on post operat i ve cogni t i ve dysf unct i on i n aged peopl e．
+【Key words】
+Ket ami ne；Panax gi nsenosi des；Learni ng and memory；Anest hesi a
+术后认知功能障碍( POCD) 可导致患者丧失独立生活的能
+力，给家庭和社会造成严重的负担。氯胺酮为N- 甲基· D一天门
+冬氨酸( NMDA) 受体的非竞争性拮抗剂，是一种临床上常用的
+静脉麻醉药。研究发现，氯胺酮能损害大脑的神经细胞，引发
+POCD的产生u’
+2J 。目前还没有一个公认的治疗或预防POCD
+的方法。人参是我国传统的中药，其主要活性成分人参皂甙对
+老龄动物的神经系统具有良好的改善及保护作用。人参皂苷
+的成分如人参皂甙Rgl 和Rbl 能促进胆碱能代谢，改善中枢胆
+碱能系统，增强动物的学习和记忆能力H1。人参皂甙还能通过
+增加大脑神经营养因子的表达，发挥神经保护作用。研究发
+现，人参皂甙对电休克、脑缺血和睡眠剥夺等造成的动物学习
+基金项目：国家自然科学基金( 31360246，81300973) ；云南省教育厅重
+点项目( 20122085) ；云南省科技厅面上项目( 2013FBl 00)
+1
+盘龙区人民医院内2科2昆明市精神卫生防治医院
+3
+云南省第一人民医院昆明医学院附属昆华医院麻醉科
+通讯作者：金华( 1975· ) ，女，博士，副主任医师，硕士生导师，主要从
+事临床麻醉工作研究。
+第一作者：邓昌( 1975一) ，男，副主任医师，主要从事神经系统相关疾
+病的研究。
+记忆功能受损均有显著性地保护作用‘
+4“ 1。然而，人参皂甙对
+麻醉术后学习和记忆障碍的影响，目前报道较少。本实验将通
+过Morri s水迷宫实验，探讨人参皂甙对氯胺酮麻醉后老年大鼠
+学习记忆的影响及其可能的机制，为临床防治POCD提供理论
+依据与参考。
+1资料与方法
+1．1
+实验动物14月龄的清洁级健康sD大鼠48只，体重
+400～450 g，由昆明医学院实验动物中心提供。大鼠在实验前
+适应性驯养1 W，自由摄食饮水。
+1．2实验药品及仪器盐酸氯胺酮注射液( 购自福建古田药
+业有限公司，批号：110301- 2) ；人参皂苷( 购自吉林省集安万泰
+中药厂) ；Morri s水迷宫仪( 由北京普升科技有限公司提供) ；神
+经生长因子( NGF) 和脑源性神经营养因子( BDNF) 检测试剂盒
+( Rapi dbi o公司进口分装) 。
+1．3动物分组及处理随机分为四组，每组12只：对照组( A
+组) 、氯胺酮组( B组) 、人参皂甙低剂量组( c组) 和人参皂甙高
+剂量组( D组) 。A组：第1天( D0) 腹腔注射生理盐水，第2天
+( D1) 至第6天( D5) 无药物处理。B组：第1天( D0) 腹腔氯胺
+万方数据
+·
+956·
+酮( 80 mg／kg) ，从第2天( D1) 开始每日腹腔注射生理盐水，持
+续至D5。c组：第1天( Do) 腹腔氯胺酮( 80 mg／kg) ，从第2天
+( D1) 开始每日腹腔注射人参皂甙( 20 mg／kg) ，持续至D5。D
+组：第1天( D0) 腹腔氯胺酮( 80 mg／kg) ，从第2天( D1) 开始每
+日腹腔注射人参皂甙( 100 mr／kg) ，持续至D5。
+1．4
+水迷宫实验Moms水迷宫由一个直径130 cm、高50 cm
+的圆形水池及一个直径为12 cm的圆柱形玻璃平台构成。池
+壁分为4个象限，标有4个入水点。实验前水池注入水至水平
+面高于平台顶1 cnl 。实验过程中保持环境的安静，水温控制在
+( 23± 2) ℃。实验过程参照参考文献进行，分为两部分：( 1) 定
+位航向实验，D0于麻醉前让大鼠自由游泳2 mi n，熟悉迷宫环
+境。从Dl 起，每天注射药物2 h后，对大鼠进行4次训练，每次
+训练间隔60 s。从4个不同入水点将大鼠面向池壁分别放入
+水中，记录大鼠爬上平台所需的时间( 即逃避潜伏期) ，找到平
+台后，让大鼠停留于平台上10 s。如果在2 mi n内大鼠未找到
+平台，则人为地将其引至平台上停留10 s，此时潜伏期记为
+120 s。( 2) 空间探索实验：在D5最后一次训练后，撤除平台，
+在同一入水点将大鼠面向池壁放入水中，测量大鼠在120 s内
+跨过原平台位置的次数。
+1．5
+海马区神经营养因子的检测
+Moms水迷宫实验结束
+后，断头开颅取脑，将海马组织用4℃生理盐水迅速制成1：9匀
+浆液，3 000 r／mi n离心15 mi n，取上清液，用于NGF和BDNF含
+量的检测。NGF和BDNF的检测采用ELI SA法。操作过程严
+格按照试剂盒说明书的要求进行。
+1．6
+海马区p- ERK和p- CREB表达水平的检测Morri s水迷
+宫实验结束后，断头开颅取脑，分离海马组织，放入玻璃研磨器
+中磨碎为分散的细胞。加入0．5 ml 的细胞裂解液( 0．1 mmol ／L
+NaCl ，0．1
+mmol f L Tri s· HCI pH 7．6，1 mmol ／L EDTA pH 8．0，
+1恤ee' ml
+Aprot i ni n，100¨ g／ml
+PMSF) 冰上裂解45
+rai n，
+空国耋生堂苤查! Q! 垒生! 旦笠丝鲞
+15 000 r／rai n离心15 rai n，取上清液，一80℃保存，用蛋白免疫印
+记法检测p- ERK和p- CREB的表达水平。具体过程如下：BCA
+法行蛋白定量分析。根据目的蛋白的分子量，配制12％十二烷
+基硫酸钠一聚丙烯酰胺凝胶进行电泳分离后，将蛋白质电转至
+PVDF膜中。用15 ml 含有5％牛血清白蛋白的T131S缓冲溶液
+4℃封闭过夜。然后分别加入ERK( 1：1 000) 、p- ERK( 1：
+500) 、CREB( 1：l
+000) 和p- Serl 33一CREB( 1：500) 的一抗封闭
+1 h。13"BS洗膜3次，每次5 mi n，加入辣根过氧化物酶偶联的
+I gG抗体，于室温轻摇1 h杂交反应，TYBS洗膜6次，每次
+5 rai n。加入化学发光底物反应5 mi n后保鲜膜包裹，暗室内进
+行x线胶片曝光、显影和定影。
+1．7统计学处理数据均以孑± s表示，采用SPSSl 5．0统计软
+件进行数据处理，多组问比较采用单因素方差分析，两两比较
+采用配对t 检验，组内比较采用重复测量数据的方差分析。
+2结果
+2．1
+定位航向实验结果经过5 d的隐匿平台训练，各组逃
+避潜伏期呈逐渐缩短的趋势。Dl 和D2时各组间均无显著差
+异；D3～D5，与A组相比，B组寻找平台的逃避潜伏期明显延
+长( P<0．05) ；与B组相比，c组的逃避潜伏期于D4时缩短明
+显，而D组的逃避潜伏期于D3时已开始显著缩短。见表1。
+2．2
+空间探索实验结果氯胺酮麻醉后各组大鼠穿越原平台
+位置的次数与A组( 6．8± 0．5) 相比均有所减少，其中B组
+( 3．8± 0．4) 差异显著( P<0．05) 。C组( 4．2± 0．6) 和D组( 5．9±
+0．5) 大鼠穿越原平台位置的次数均明显比B组增加( P<0．05) 。
+2．3
+各组大鼠海马区神经营养因子表达水平的变化
+与A
+组相比，B组大鼠海马匀浆中NGF和BDNF的含量下降( P<
+0．01) ；与B组比较，c组和D组NGF和BDNF的含量均明显
+增加( P<0．05) 。见表2。
+表1各组大鼠不同时间点逃避潜伏期的变化f i 虹，疗=12)
+与A组比较：1) P<0．05；与B组比较：2) P<0．05，下表同
+表2各组大鼠海马区NGF和BDNF的表达变化( i 矗，一=6)
+2．4
+各组大鼠海马CREB、p- Serl 33- CREB的表达变化蛋白
+免疫印迹结果显示，与A组相比，B组大鼠海马总CERB蛋白表
+达无显著性差异，B组海马p- Serl 33一CREB的蛋白表达水平显
+著降低( P<0．05) 。与B组比较，C组和D组海马p- Serl 33-
+CREB的蛋白表达水平均显著增加( P<0．05) 。见图1。
+2．5各组大鼠海马ERK、p- ERK的表达变化蛋白免疫印迹
+结果显示，与A组相比，B组大鼠海马总ERK蛋白表达无显著
+性差异，B组海马p- ERK的蛋白表达水平显著降低( P<0．05) 。
+与B组比较，c组和D组海马p- ERK的蛋白表达水平均显著增
+加( P<0．05) 。见图2。
+CREB_● ■ ● ● —● ● ■ ● _
+A组
+B组
+C组D组
+图1
+人参皂甙对海马区CREB活性的影响
+万方数据
+塑
+量笠厶叁皇煎盟氢壁围鏖醛重耋生太匦堂墨起丝功篚笪丝响筮垒塑
+墨蟹量■ 二]【I二【：
+A组
+B组
+C组D组
+图2人参皂甙对海马区ERK活性的影响
+3讨论
+神经营养因子是一类对神经组织起着特殊营养作用的小
+分子多肽因子，在中枢神经系统的发育过程中能够促进神经细
+胞的增殖、生长、分化和存活，并可调节突触的可塑性，其中以
+NGF和BDNF最为重要。NGF通过与特异性的TrkA受体结
+合，激活细胞代谢，促进神经细胞的增殖和分化，调节中枢和周
+围神经细胞的存活和轴突的生长，并对神经细胞损伤的修复起
+着十分重要的作用。而BDNF通过与其特异性的高亲和力受体
+TrkB结合而发挥神经营养作用。随着研究的深入，研究发现神
+经营养因子在改善认知功能方面具有十分重要的作用¨ J o。
+NGF和BDNF可以改善老年痴呆模型鼠的学习记忆能力，促进
+神经元的生长∽J 。研究证实，氯胺酮会导致认知功能障碍¨ ⋯ 。
+本研究显示氯胺酮所致的认知功能障碍与其引起的神经营养
+因子减少有关。人参皂甙可通过增加NGF和BDNF的水平改
+善氯胺酮所致的学习记忆障碍：①在成熟的神经系统中，NGF
+和BDNF具有维持神经细胞生存的作用；而在神经系统损伤的
+情况下其具有神经保护与修复的功能。研究发现，氯胺酮可导
+致神经细胞的凋亡⋯ 一31。因此，人参皂甙可能通过维持NGF
+和BDNF表达水平，以维持神经细胞的存活，抑制细胞凋亡，从
+而改善氯胺酮所致的学习记忆障碍。②乙酰胆碱是中枢胆碱
+能神经系统的一种重要递质，参与注意力、记忆和睡眠等过
+程¨ 4’
+” ’
+。拟胆碱能药物或海马区内移植胆碱能胚胎组织均可
+改善学习记忆功能。NGF的缺失会导致胆碱能神经元发生皱
+缩，减少胆碱能神经元的纤维密度，降低乙酰胆碱转移酶和乙
+酰胆碱的含量¨ “ 。NGF和BDNF表达水平的增加能够促进神
+经递质如乙酰胆碱的合成，并对胆碱能神经元起营养作用，改
+善动物的学习记忆能力。本实验研究发现，人参皂甙可以阻止
+氯胺酮所致NGF和BDNF表达水平的减少。因此，人参皂甙可
+能通过维持NGF和BDNF表达水平，以维持胆碱能神经元的活
+性，并增加乙酰胆碱的含量，从而改善氯胺酮所致的学习记忆
+障碍。
+cAMP反应元件结合蛋白( CREB) 是一种重要的核转录因
+子，具有调节包括学习记忆在内的广泛的生物学功能Ⅲ’
+。当
+CREB的第133位丝氨酸发生磷酸化时，磷酸化的CREB即成
+为活性状态，从而调节启动子中具有cAMP应答元件的基因转
+录。在中枢神经系统中，CREB参与突触可塑性和长时程记忆
+的形成过程。CREB表达量或活性的下降会导致学习记忆障
+碍，而CREB的高表达可改善学习记忆功能。研究发现，许多与
+学习记忆相关的基因都受到CREB的调控，如神经递质受体亚
+基Gl uRl 、BDNF和即早基因等。CREB的活性受到多条信号转
+导通路的调节，如cAMP．PKA通路、有丝分裂原激活的蛋白激
+酶通路、钙离子- 钙调蛋白激酶通路和应激相关的P38通路。已
+·
+957·
+有研究发现，氯胺酮所致的学习记忆障碍与其对ERK和CREB
+活性的抑制有关¨ 8．19】。而本实验研究发现，氯胺酮可降低老年
+大鼠海马区内p- ERK和P- CREB的表达水平；而人参皂甙可以
+阻止氯胺酮对p- ERK和p- CREB的抑制作用。因此，人参皂甙
+可能通过增加NGF和BDNF表达水平，激活ERK—CREB信号通
+路，以增加学习记忆相关基因( 如NGF、BDNF、c—f os等) 的表达，
+从而改善氯胺酮所致的学习记忆障碍。
+人参皂甙是人参的主要活性成分，具有多种生物学活性，
+如抗氧化作用、抗凋亡作用、抗兴奋性毒害和钙通道拮抗作用
+等。近年研究发现，人参皂甙还具有神经营养和神经保护作
+用，能够增强学习记忆，抵抗衰老。学习和记忆是一个十分复
+杂的神经活动过程，需要神经递质、信号分子、神经营养因子和
+基因表达的协同作用。人参皂甙能增加基底前脑乙酰胆碱转
+移酶及海马区内NGF和BDNF的表达Ⅲ川。在NGF缺失下，
+人参皂甙可以促进PCI 2细胞轴突的生长mJ 。本实验结果发
+现，人参皂甙对氯胺酮麻醉后老年大鼠学习记忆功能的改善作
+用，与其恢复氯胺酮导致海马区NGF和BDNF的低表达及P-
+ERK和p- CREB的低活性有关。然而，人参皂甙是否还可以通
+过其他途径( 如抗氧化和抗凋亡等) 改善氯胺酮所致的学习记
+忆障碍，其机制如何，还有待进一步研究。综上所述，人参皂甙
+可用于POCD的防治。
+4参考文献
+1
+Green SM，Cot e CJ ．Ket ami ne and neurot oxi ci t y：cl i ni cal
+perspect i ves and
+i mpl i cat i ons
+f or emergency medi ci ne[ J ] ．Ann Emerg Med，2009；54( 2) ：
+18l - 90．
+2
+Zou X，Pat t erson TA，Sadovova
+N，et
+a1．Pot ent i al
+neumt oxi ci t y
+of
+ket —
+ami ne i n t he devel opi ng
+rat
+brai n[ J ] ．Toxi col Sci ，2009；108( 1) ：149—
+58．
+3
+Rudakewi ch M．人参皂苷Rbl 与Rgl 的神经营养与神经保护作用
+[ J ] ．国外医药：植物药分册，2002；17( 3) ：121．
+4倪小虎，白
+冰．人参根和茎叶皂甙对大鼠学习记忆障碍改善作用
+研究[ J ] ．时珍国医国药，2000；l l ( 9) ：773- 5．
+5杨国愉，皇甫恩，张大均，等．人参皂甙对睡眠剥夺大鼠学习记忆和
+活动性的影响[ J ] ．中国临床心理学杂志，2007；15( 1) ：814．
+6刘红梅，李瑞雪，杨学军，等．人参皂甙的神经保护作用和机制及其
+在神经变性疾病中的应用[ J ] ．大连医科大学学报，2009；31( 5) ：
+595- 8．
+7
+Wal z R，Roesl er A，Rei nke R，et a1．Short —and
+l ong—t ermmemory
+ar e di f -
+f erent i al y modul at ed by
+hi ppocampal
+ner ve growt h
+f act or and f i brobl ast
+growt h f act or[ J ] ．Neuroehem Res，2005；30( 2) ：185- 90．
+8
+D’
+I nt i no G，Paradi si
+M，Fernandez M。et 以Cogni t i ve
+def i ci t
+associ at ed
+wi t h ehol i nergi c and ner ve growt h f act or down—regul at i on i n experi ment al
+al l ergi c encephal o⋯ yel i t i s
+i n rat s[ J ] ．Proc
+Nat l
+Acad Sci U s A，2005；
+102( 81：3070- 5．
+9
+Schi ndowski
+K，Bel arbi
+K，Buee L Neumt rophi c
+f act ors
+i n Al zhei mer’
+S
+di sease：rol e of axonal t ransport [ J ] ．Genes
+Brai n Behav，2008；7( Suppl
+1) ：43- 56．
+10
+Geul art
+BK，De Li ma MN，De Fari as CB，et
+a1．Ket ami ne i mpai rs recog-
+ni t i on memory consol i dat i on and prevent s l earni ng—i nduced i ncrease
+i n
+hi ppocampal
+brai n· deri ved neurot rophi c f act or l evel s[ J ] ．Neurosci ence，
+2010；167( 4) ：969- 73．
+万方数据
+·
+958·
+11
+Takadera，T，I shi da A，Ohyashi ki
+T．Ket ami ne·
+i nduced apopt osi s i n cul -
+t ured t at
+cort i cal neurons[ J ] ．Toxi col
+Appl
+Pharmacol ，2006；210( I 一
+2) ：100- 7．
+12
+Shang Y，Wu Y，Yao S，et a1．Prot ect i ve ef f ect
+of eryt hmpei et i n agai nst
+ket ami ne- i nduced apopt esi s
+i n cul t ured
+rat cort i cal
+neurons：i nvol vement
+of PDK／Akt and GSK- 3 bet a pat hway[ J ] ．Apopt osi s，2007；12( 12) ：
+2187- 95．
+13
+Beal s J K，Cart er LB，J evt ovi e- Todorovi c V．Neurot oxi ci t y of
+ni t rous oxi de
+and ket ami ne i s more severe i n aged t han i n young rat brai n[ J ] ．Ann N
+Y Acad sci ，2003；993：115：di scussi on 1234．
+14
+Mi cheau J ，Marl 【ghetto A．Acet yl chol i ne and memory：a l ong，compl ex and
+chaot i c but st i l l l i vi ngrel at i onshi p[ J ] ．Behav Brai nRes，2011；221( 2) ：
+424- 9．
+15
+Van Waarde A，Ramakf i shnan NK，Rybczynska AA。et
+a1．11l e chol i ner-
+si c syst em，si gma- l
+recept ors and cogni t i on( J ] ．Behav Brai n Res，201l ；
+221( 2) ：543- 54．
+16
+Hart i kka J ．Hef l i
+F．Devel opment
+of
+sept al
+chol i nersi c neurons i n
+cul -
+t ure：pl at i ng densi t y and gl i al
+ceHs modul at e ef f ect s of NGF on survi val ，
+f i ber growt h，and expressi on of
+t ransmi t t er—speci f i c enzymes[ J ] ．J
+Neu-
+rosci ，1988；8( 8) ：2967．85．
+17毛凤霞，姚梅玲．Creb与学习记忆及情绪关系[ J ] ．医药论坛杂志，
+2008；29( 22) ：126- 7．
+18
+Peng
+S，Zhang
+Y，Ren B，et ⅡL Ef f ect
+of ket ami ne
+admi ni st rat i on on
+memory consol i dat i on，p- CREB and c- l os expressi on i n t he hi ppecampal
+sl i ces
+of mi nor rat s[ J ] ．Mol
+Bi ol Rep，201l ；38( 4) ：2401- 7．
+19
+Pang S，Zhang Y，Zhang J ，et a1．Ef f ect of ket ami ne
+on ERK expressi on
+i n hi ppocampal neural
+cel l
+and t he abi l i ty
+of
+l earni ng behavi or
+i n mi nor
+rat s[ J ] ．Mol
+Bi ol Rep，2010；37( 7) ：313742．
+20
+Sal i m KN，McEwen BS，Chao HM．Gi nsenosi de Rbl
+regul at es
+ChAT，
+NGF and t rkA mRNA expressi on
+i n t he rat brai n[ J ] ．Brai n Res Mol
+Brai n Res，1997；47( 1．2) ：177- 82．
+21
+Yamaguchi
+Y，Hi gushi M，Kobayashi
+H．Ef f ect s
+of
+gi nsenosi des
+on mm
+perf ormance and brai n chol i ne aeet yl t ransf erase act i vi t y
+i n scopol ami ne—
+t reat ed young rat s and aged rat s[ J ] ．Eur
+J
+Pharmacol ，1997；329( 1) ：
+37_41．
+22
+Rudakewi ch M，Ba F，Beni shi n CG．Neurot rophi c
+and neuroprot ect i ve
+act i ons of si nsenosi des Rb( 1) and Rg( 1) [ J ] ．Pl ant a Med，2001；67
+( 6) ：533- 7．
+[ 201l 一12- 21收稿2012- 05- 10惨回]
+( 编辑曹梦园)
+北五味子多糖对高脂血症大鼠肝损伤的影响
+吴金滢赵允龙李贺
+高晓旭陈建光王春梅( 北华大学药学院，吉林吉林132013)
+( 摘要】
+目的探讨北五味子多糖( SCP) 对高脂饮食诱导肝损伤大鼠肝功能的保护作用。方法采用高脂饲料喂养16 W诱发高脂血症大
+鼠模型，随机分为模型组及SCP治疗组，另设正常对照组以及正常+SCP组。SCP( 50 mg／kg) 灌胃给药12 W，检测各组动物血清中总胆固醇( Tc) 、甘
+油三酯( TG) 、低密度脂蛋白胆固醇( LDL—C) 、高密度脂蛋白胆固醇( HDL—C) 、谷丙转氨酶( ALT) 、谷草转氨酶( AST) 水平，肝组织中TG和7rc水平；
+苏木素一伊红( HE) 染色观察药物对肝组织病理学改变的影响。结果与正常对照组比较，模型组大鼠血清中TC、TG、LDL．C、ALT及AST水平显著增
+高( P<0．01) ，肝组织中TG和Tc水平显著增高( P<O．01) 。与模型组比较，SCP显著降低了大鼠血清TC、TG、LDL—c水平( P<0．05或P<0．01) 、
+ALT、AST水平( P<0．01) ，降低肝组织中TG和Tc水平( P<0．01) ，而对正常大鼠血脂、肝脂质和肝功能没有明显影响。HE染色显示模型组大鼠肝
+小叶结构紊乱，出现明显的肝细胞脂肪变性；SCP组肝小叶结构基本正常，肝脏脂肪变性明显减轻。结论SCP可改善高脂血症大鼠脂质代谢紊乱，
+改善肝功能，减轻肝损伤。
+( 关键词] 北五味子多糖；高脂血症；肝损伤
+( 中图分类号] R258．5
+[ 文献标识码】A
+( 文章编号] 1005- 920212014) 04- 0958- 03；doi ：10．3969／j ．i ss儿1005- 9202．2014．04．045
+脂质代谢紊乱是非酒精性脂肪肝病( NAFLD) 发病的关键
+因素¨ ’ 2 J 。寻找降脂保肝的新药具有非常重要的意义。北五味
+子、具有敛肺滋阴、生津止泻、宁心安神等功效，被列入国家药
+典和保健食品可用原料的名单，但到目前为止均以复方制剂人
+药，以单味药入药还没有得到很好的开发和应用Ho。五味子含
+有多糖、木脂素等活性成分HJ 。现代药理学研究表明五味子多
+基金项目：吉林省教育厅“ 十二五” 计划项目( 吉教科合字[ 2014] 178
+号)
+通讯作者：王春梅( 1974一) ，女，博士，副教授，硕士生导师，主要从事北
+五味子功效成分筛选及机制研究。
+陈建光( 1962一) ，男，博士，教授，硕士生导师，主要从事北五
+味子开发与研究。
+第一作者：吴金滢( 1989一) ，女，硕士，主要从事北五味子功效成分筛选
+及机制研究。
+糖( SCP) 具有提高免疫力、保护肝脏、调节血脂代谢、降低血
+糖、减肥、抗氧化、抗衰老、抗疲劳、抗肿瘤等作用哺“ 】。对五味
+子及其有效成分在保护肝脏的研究中，仅见有防治化学性及酒
+精性肝损伤等作用进行研究，但其对高脂血症引起的NAFLD
+是否具有防治作用。尚未见报道。本研究采用高脂饮食诱导
+肝损伤大鼠模型，观察SCP对高脂血症引起的NAFLD的保护
+作用。
+1材料与方法
+1．1
+材料
+1．1．1
+动物及饲料健康清洁级雄性Wi st ar大鼠，体重180—
+200 g，由吉林大学实验动物中心提供( 许可证编号：2008-
+0005) 。普通饲料成分及其热量：脂肪5％，碳水化合物53％，
+蛋白质23％，包括纤维素及水分在内的其他成分占19％，总热
+万方数据

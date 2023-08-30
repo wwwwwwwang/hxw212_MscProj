@@ -1,0 +1,554 @@
+实用医学杂志
+2022 年第 38 卷第 2 期
+The Journal of Practical Medicine
+2022 Vol.38 No.2
+·基 础 研 究·
+氧疗是临床常用的治疗措施之一，可显著提
+高血氧饱和度，满足机体组织器官对氧气的需
+求
+［1］。高浓度氧疗被广泛应用于危重新生儿救治
+中，大幅度提升了低血压症新生儿及早产儿存活
+率，但长时间处于高氧环境可造成肺损伤，进而发
+展为不可逆性肺纤维化，造成新生儿支气管肺发
+育不良，严重影响患儿成长
+［2］。目前临床对新生
+儿高氧肺损伤尚无有效治疗手段，多采用激素类
+抗炎药物及肺表面活性剂，但效果不理想且副作
+用强，故未能得到推广。因此，寻找安全、高效的
+预防方式，对于预防及改善新生儿高氧肺损伤、减
+少肺功能障碍、瘫痪、智力发育缓慢等后遗症具有
+doi：10.3969/j.issn.1006⁃5725.2022.02.004
+基金项目：广西医药卫生科研课题（编号：Z20180584）
+通信作者：史学凯
+E⁃mail：ssxxkk@126.com
+人参皂苷 Rb1 对高氧诱导新生仔鼠肺损伤的
+改善作用及机制研究
+农常亮
+1
+黄楚洪
+2
+冯金明
+1
+徐千惠
+1
+何潇
+1
+莫锦丽
+1
+史学凯
+1
+黄玉维
+1
+南宁市第二人民医院
+1儿科，
+2介入超声科（南宁 530031）
+【摘要】 目的
+观察人参皂苷 Rb1（ginsenoside Rb1，G⁃Rb1）对高氧诱导新生仔鼠肺损伤的改善作用
+及相关机制。方法
+模型组、Rb1 组、Rb1 联合 ML385 组建立新生仔鼠高氧肺损伤模型。Rb1 联合 ML385
+组腹腔注射 G⁃Rb1（10 mg/kg）+灌胃 ML385（20 mg/kg），Rb1 组腹腔注射 G⁃Rb1（10 mg/kg）+灌胃等量生理盐
+水，空白组、模型组腹腔注射、灌胃等量生理盐水。检测丙二醛（malondialdehyde，MDA）、超氧化物歧化酶
+（superoxide dismutase，SOD）活性；检测肺表面活性物质蛋白⁃D（alveolar surface active substance⁃D，SP⁃D）含
+量；检测肺组织核因子 E2 相关因子 2（nuclear factor⁃E2 related factor2，Nrf2）蛋白表达量。结果
+与模型组
+比较，Rb1 组 MDA 水平、SP⁃D 水平降低，SOD 活性、Nrf2 蛋白表达量升高（P < 0.05）；与 Rb1 组比较，Rb1 联
+合 ML385 组 MDA 水平、SP⁃D 水平升高，SOD 活性、Nrf2 蛋白表达量降低（P < 0.05）。结论
+G⁃Rb1 可改善
+新生仔鼠肺损伤，提升机体抗氧化能力，抑制肺组织氧化应激反应，激活 Nrf2/ARE 通路可能是其发挥作用
+的机制之一。
+【关键词】 人参皂苷 Rb1； 高氧； 新生大鼠； 肺损伤
+【中图分类号】 R722.1
+Improvement of hyperoxia⁃induced lung injury via ginsenoside Rb1 in newborn rats and its mechanism
+NONG Changliang*，HUANG Chuhong，FENG Jinming，XU Qianhui，HE Xiao，MO Jinli，SHI Xuekai，HUANG
+Yuwei. *Department of Pediatrics，Nanning Second People′s Hospital，Nanning 530031，China
+Corresponding author：SHI Xuekai
+E⁃mail：ssxxkk@126.com
+【Abstract】 Objective
+To observe the improvement effect of ginsenoside Rb1（G⁃Rb1）on lung injury of
+neonatal rats induced by hyperoxia，and to explore its mechanism. Method
+Hyperoxic lung injury model of neonatal
+rats was established in model group，Rb1 group，and Rb1 combined with ML385 group. Rb1 combined with ML385
+group was intraperitoneally injected with G⁃Rb1（10 mg/kg）+ intragastric ML385（20 mg/kg）；Rb1 group with G⁃Rb1
+（10 mg/kg）+ gavage the same amount of normal saline and the blank group and model group with the same amount
+of normal saline + gavage with the same amount of normal saline. The activity of malondialdehyde（MDA）and
+superoxide dismutase（SOD），the content of lung surface active substance protein⁃D（SP⁃D）and the expression of
+Nrf2 protein in lung tissue were detected. Results
+Compared with those in model group，MDA level and SP⁃D level
+in Rb1 group were decreased，but SOD activity and Nrf2 protein expression were increased（P < 0.05）. Compared
+with those in Rb1 group，MDA level，and SP⁃D level in Rb1 combined with ML385 group were increased，but
+SOD activity，and Nrf2 protein expression were decreased（P < 0.05）. Conclusion
+G⁃Rb1 can improve lung injury
+of newborn mice，enhance the body′s antioxidant capacity，and inhibit the oxidative stress response of lung tissue.
+Activation of the Nrf2/ARE pathway may be one of its mechanisms.
+【Key words】 ginsenoside Rb1； hyperoxia； newborn rats； lung injury
+145
+万方数据
+实用医学杂志
+2022 年第 38 卷第 2 期
+The Journal of Practical Medicine
+2022 Vol.38 No.2
+积极意义。人参皂苷 Rb1（ginsenoside Rb1，G⁃Rb1）
+是自中药人参中提取的一种固醇类化合物，具有
+多种生物学功能，如抗氧化、抗炎、增强机体免
+疫力、延缓衰老、提升记忆力等
+［3］。有研究表明
+［4］，
+G⁃Rb1 可降低大鼠肺泡组织氧化酶活性，减缓慢
+阻肺病理改变，从而治疗肺气肿，提示其肺功能保
+护作用。然而，目前鲜有关于其对新生儿高氧肺
+损伤治疗的研究。本研究通过建立新生仔鼠高氧
+肺损伤模型，观察 G⁃Rb1 对新生仔鼠高氧肺损伤
+的改善作用，并探讨相关机制。
+1
+材料与方法
+1.1
+实验动物
+SPF 级 SD 大鼠 20 只，雌雄比例各
+半，9 周龄，体质量（300 ± 50）g，购自上海灵畅生物
+科技有限公司，生产许可 SCXK（沪）2018⁃0003。
+1.2
+药物、主要试剂、仪器
+G⁃Rb1（纯度 > 99%），
+上海沪震实业有限公司；核因子 E2 相关因子 2
+（nuclear factor⁃E2 related factor2，Nrf2）/抗氧化反
+应元件（antioxidant response elements，ARE）通路抑
+制剂 ML385，上海一研生物科技有限公司；丙二醛
+（malondialdehyde，MDA）试剂盒、超氧化物歧化
+酶（superoxide dismutase，SOD）试剂盒、肺表面活
+性物质蛋白⁃D（alveolar surface active substance⁃D，
+SP⁃D）酶联免疫吸附法（enzyme linked immunoser⁃
+bent assay，ELISA）试剂盒，上海江莱生物科技有
+限公司；兔抗大鼠 Nrf2、醌氧化还原酶 1［NAD（P）
+H：quinone oxidoreductase 1，NQO1］一抗，美国 R&D
+公司。
+Elx808 酶标仪，美国 BioTek 公司；CKX41 显微
+镜，日本奥林巴斯株式会社；JY600 电泳仪、JY04S⁃
+3 凝胶成像分析系统，北京君意东方电泳设备有限
+公司。
+1.3
+新生仔鼠高氧肺损伤模型建立及干预
+［5-7］
+将雌雄 SD 大鼠按 1∶1 比例合笼配对，获得孕鼠
+7 只，共得 73 只新生仔鼠，3 d 后随机分为空白组
+（18 只）、模型组（19 只）、Rb1 组（18 只）、Rb1 联合
+ML385 组（18 只）。除空白组外的各组仔鼠建立高
+氧肺损伤模型，将仔鼠与其母鼠分别置于玻璃氧
+箱内，输入氧气使氧箱内氧气浓度维持在 80%，湿
+度维持在 50% ~ 70%，空白组同样置于玻璃氧箱
+内，输入正常空气，其余条件同其他组，保持 7 d。
+每日开箱 1 h，期间 Rb1 联合 ML385 组腹腔注射 G⁃
+Rb1（10 mg/kg），10 min 后灌胃 ML385 生理盐水溶
+液（20 mg/kg），Rb1 组腹腔注射 G⁃Rb1（10 mg/kg），
+灌胃等量生理盐水，空白组、模型组腹腔注射等
+量生理盐水，灌胃等量生理盐水，每日 1 次，干预
+7 d。干预期间，模型组、Rb1联合ML385组死亡5只
+仔鼠，Rb1 组死亡 3 只。
+1.4
+组织取材
+干预结束后次日，各组随机选取
+12 只仔鼠，腹腔注射戊巴比妥钠麻醉，脱颈处死，
+其中 6 只开胸取全肺，称取肺湿重，后放入 65 ℃恒
+温箱，干燥 24 h 后取出称取干重。计算肺湿/干重
+比（W/D 值）=全肺湿重/全肺干重；剩余 6 只暴露气
+管后左肺注入预冷生理盐水，行支气管肺泡灌洗
+术，收集肺泡灌洗液（bronchoalveolar lavage fluid，
+BALF），4 ℃ 1 200 r/min离心8 min（离心半径10 cm），
+取其上清液，分成 3 份，置于-80 ℃冰箱冷冻保存，
+用于后续检测；切取部分右肺组织，分成两份，
+一份置于 4%多聚甲醛固定 24 h，石蜡包埋，切片
+机切为 4 μm 厚度连续切片用于 HE 染色，一份放
+入-80 ℃冰箱保存，用于 Western blot 实验。
+1.5
+BALF中MDA、SOD活性水平及SP⁃D含量检
+测
+取冷冻保存的BALF，按照试剂盒说明书要求
+设计实验步骤，采用硫代巴比妥酸法检测 MDA 含
+量，羟胺法检测 SOD 活性；采用酶联免疫吸附法
+（enzyme linked immunoserbent assay，ELISA）检 测
+BALF 中 SP⁃D 含量，根据试剂盒说明书要求设计
+实验步骤，酶标仪测定波长 450 nm 位置吸光度值，
+通过标准曲线计算 SP⁃D 含量。
+1.6
+HE 染色观察肺组织病理学变化
+取肺组织
+切片，二甲苯脱蜡，梯度酒精水洗，蒸馏水冲洗
+2 min，苏木精液染色 5 min，蒸馏水冲洗，盐酸酒精
+分色，蒸馏水浸泡 10 min，促蓝液蓝化，蒸馏水冲
+洗，伊红液复染 2 min，常规脱水、透明，中性树脂
+封固，置于光镜下观察肺组织病理学变化，并拍照
+记录。
+1.7
+肺组织Nrf2、NQO1蛋白相对表达量检测
+取
+冷冻保存的肺组织，眼科剪剪碎，研磨器充分研
+磨，PBS 匀浆，加入预冷的 RIPA 裂解液，置于离
+心管内，8 500 r/min 离心 15 min（离心半径 12 cm），
+采用 BCA 法提取总蛋白并定量。取 40 μg 待测样
+本，与 5 倍体积上样缓冲液混匀，水浴加热沸腾
+5 min 变性蛋白，同条件离心取上清，电压 80 V 行
+聚丙烯 酰 胺 凝 胶 电 泳 分 离 ，湿 法 转 膜 ，封 闭 液
+封闭2 h，TBST洗膜，加入兔抗大鼠Nrf2、NQO1一抗
+（工作浓度 1∶500），4 ℃摇床孵育过夜，TBST 洗膜，
+加入二抗（工作浓度 1∶2 000），常温孵育 2 h，ECL
+显 色 ，暗 室 曝 光 ，经 凝 胶 成 像 系 统 拍 照 分 析 ，
+蛋 白表达量为条带灰度值/内参 GAPDH 条带灰
+度值。
+1.8
+统计学方法
+采用 IBM SPSS 20.0 统计学软
+件分析数据，计量资料以均数±标准差表示，方差
+分析检验多样本计量资料，以t检验行两样本比较。
+P < 0.05 差异有统计学意义。
+146
+万方数据
+渺。
+二，＼
+．q
+实用医学杂志
+2022 年第 38 卷第 2 期
+The Journal of Practical Medicine
+2022 Vol.38 No.2
+2
+结果
+2.1
+各组仔鼠肺 W/D 值比较
+空白组、模型组、
+Rb1 组、Rb1 联合 ML385 组新生仔鼠肺 W/D 值分
+别为（4.97 ± 0.52）、（5.87 ± 0.61）、（5.19 ± 0.54）、
+（5.38 ± 0.56），与空白组比较，模型组肺 W/D 值升
+高（P < 0.05）；与模型组比较，Rb1 组肺 W/D 值降
+低（P < 0.05）；与 Rb1 组比较，Rb1 联合 ML385 组肺
+W/D 值升高（P < 0.05）。
+2.2
+各组仔鼠 BALF 中 MDA、SOD 活性水平比
+较
+与空白组比较，模型组 MDA 水平升高，SOD
+活 性 降 低（P < 0.05）；与 模 型 组 比 较 ，Rb1 组 肺
+MDA 水平降低，SOD 活性升高（P < 0.05）；与 Rb1
+组比较，Rb1 联合 ML385 组水平升高，SOD 活性降
+低（P < 0.05）。见表 1。
+2.3
+各组仔鼠 SP⁃D 水平比较
+空白组、模型组、
+Rb1 组、Rb1 联合 ML385 组新生仔鼠 SP⁃D 含量分
+别为（2.58 ± 0.26）ng/L、（4.71 ± 0.50）ng/L、（3.04 ±
+0.31）ng/L、（4.12 ± 0.43）ng/L，与空白组比较，模型
+组 SP⁃D 水平升高（P < 0.05）；与模型组比较，Rb1
+组 SP⁃D 水平降低（P < 0.05）；与 Rb1 组比较，Rb1
+联合 ML385 组 SP⁃D 水平升高（P < 0.05）。
+2.4
+各组仔鼠肺组织病理学变化
+HE 染色结果
+显示，空白组肺组织完整，肺泡结构清晰，无病理
+学变化；模型组肺组织结构破坏严重，肺泡间距
+增加，可见大量炎性细胞浸润；Rb1 组和 Rb1 联合
+ML385 组肺组织结构异常，肺泡间距增加较少，炎
+性细胞数量浸润程度均低于模型组，Rb1 组比 Rb1
+联合 ML385 组病理改善更明显。见图 1。
+表 1
+各组 BALF 中 MDA、SOD 活性水平比较
+Tab.1
+Comparison of MDA and SOD activity levels of BALF
+in each group
+组别
+空白组
+模型组
+Rb1 组
+Rb1 联合 ML385 组
+F 值
+P 值
+例数
+6
+6
+6
+6
+MDA（nmol/mg）
+0.31 ± 0.04
+0.78 ± 0.09
+a
+0.50 ± 0.07
+b
+0.62 ± 0.07
+c
+48.359
+< 0.001
+SOD（UN/mg）
+8.59 ± 1.27
+5.86 ± 0.69
+a
+7.71 ± 0.88
+b
+6.20 ± 0.75
+c
+11.534
+< 0.001
+x ± s
+注：与空白组比较，aP < 0.05；与模型组比较，bP < 0.05；与 Rb1
+组比较，cP < 0.05
+图 1
+HE 染色观察各组肺组织病理变化（× 200，标尺 50 μm）
+Fig.1
+HE staining to observe the pathological changes of lung tissues in each group（× 200，scale 50 μm）
+Rb1 组
+模型组
+空白组
+Rb1 联合 ML385 组
+2.5
+各组仔鼠肺组织 Nrf2、NQO1 蛋白表达量比
+较
+与空白组比较，模型组 Nrf2、NQO1 蛋白表达
+量升高（P < 0.05）；与模型组比较，Rb1 组肺 Nrf2、
+NQO1 蛋白表达量升高（P < 0.05）；与 Rb1 组比较，
+Rb1 联 合 ML385 组 Nrf2、NQO1 蛋 白 表 达 量 降 低
+（P < 0.05）。见表 2、图 2。
+3
+讨论
+高氧肺损伤以肺泡上皮细胞、毛细血管内皮
+细胞损伤为主要病理改变，表现为进行性呼吸窘
+迫、低氧血症，威胁患儿生命健康
+［8］。目前新生儿
+高氧肺损伤的发病机制尚未被完全阐明，一般认
+为与氧化应激反应、免疫细胞异常活化、肺表面活
+表 2
+各组肺组织 Nrf2、NQO1 蛋白表达量比较
+Tab.2
+Comparison of Nrf2 and NQO1 protein expression of
+lung tissues in each group
+x ± s
+组别
+空白组
+模型组
+Rb1 组
+Rb1 联合 ML385 组
+F 值
+P 值
+例数
+6
+6
+6
+6
+MDA（nmol/mg）
+0.31 ± 0.04
+0.78 ± 0.09
+a
+0.50 ± 0.07
+b
+0.62 ± 0.07
+c
+48.359
+< 0.001
+SOD（UN/mg）
+8.59 ± 1.27
+5.86 ± 0.69
+a
+7.71 ± 0.88
+b
+6.20 ± 0.75
+c
+11.534
+< 0.001
+注：与空白组比较，aP < 0.05；与模型组比较，bP < 0.05；与 Rb1
+组比较，cP < 0.05
+147
+万方数据
+· 一-一
+—■ ● ■ __
+—一—-—-—一
+实用医学杂志
+2022 年第 38 卷第 2 期
+The Journal of Practical Medicine
+2022 Vol.38 No.2
+性物质改变、炎性细胞因子增多、毛细血管屏障破
+坏、细胞凋亡等因素有关，其中氧化应激反应机制
+被大多数人所认同
+［9］。由于新生儿肺发育不全、
+抗氧化酶活性低，导致抗氧化系统超负荷，打破氧
+化⁃抗氧化动态平衡，肺组织氧自由基过量，造成
+氧中毒，直接损伤肺组织细胞，引起炎症反应，招
+募并激活免疫细胞，进一步损伤肺组织
+［10］。
+新生 SD 仔鼠在免疫反应、病理生理及组织发
+育等方面与新生儿相似性很强，采用该仔鼠建立
+高氧肺损伤模型，并在该基础上进行实验研究可
+行性与科学性较强。肺 W/D 值是肺部水肿程度的
+直接指标，可反映肺损伤程度，肺损伤后大量液体
+渗出转移至肺间质，肺湿重增大，W/D 值升高
+［11-12］。
+MDA 是机体内自由基与细胞脂质膜的过氧化产
+物，具有细胞毒性，可诱导蛋白质、核酸、脂质等物
+质交联，破坏生物膜，其水平可反映机体氧化应激
+反应严重程度，SOD 是氧自由基清除酶，广泛分布
+于机体代谢器官组织，可维持机体氧化⁃抗氧化动
+态平衡，其活性水平可反应机体抗氧化能力
+［13］。
+SP⁃D 是一种大分子表面活性蛋白，作为肺部重要
+的免疫调节剂，在免疫防御过程中发挥重要作用，
+其可识别并结合微生物、非微生物颗粒或坏死细
+胞，提升免疫细胞的吞噬能力及杀伤力，又可间接
+调控促炎因子，保护肺损伤，可作为高氧肺损伤的
+生物标记物
+［14］。人参是我国名贵中药材，取自五
+加科植物人参的干燥根，性温，味甘、微苦、微温，
+归脾，肺经，可补气固脱、补脾益肺、安益智神，张
+元素所著《医学启源》记载，可治肺气促，短气、少
+气，补中缓中，泻肺脾胃中火邪
+［15］。G⁃Rb1 是人参
+主要活性成分之一，可提升神经系统兴奋性，改善
+心肌功能，增强机体抵抗力。SHAUKAT 等
+［16］研究
+认为，G⁃Rb1 可缓解过度炎症导致急性呼吸窘迫
+综合征，从而对金黄色葡萄球菌诱导的急性肺损
+伤小鼠产生治疗作用，提示 G⁃Rb1 在肺部疾病中
+的作用。本研究结果显示，与模型组比较，Rb1 组
+肺 W/D 值、MDA 水平、SP⁃D 水平降低，SOD 活性升
+高，提示 G⁃Rb1 可改善新生仔鼠肺损伤，提升机体
+抗氧化能力。
+Nrf2/ARE 信号通路是机体重要的抗氧化应激
+信号通路，在多种疾病的氧化⁃抗氧化动态平衡调
+节过程中扮演重要角色，其中 Nrf2 是 CNC 调节蛋
+白家族成员，是一种高度保守的转录因子，ARE 是
+机体重要的抗氧化反应驱动序列，可被多种氧化
+性物质激活，启动抗氧化酶转录，NQO1 是 Nrf2 下
+游抗氧化靶蛋白，可降解毒性化合物，抑制其参
+与氧化还原反应
+［17-18］。机体正常状态下，Nrf2 与
+Kelch 样环氧氯丙烷相关蛋白 1（Kelch⁃like ECH⁃
+associated protein 1，Keap1）结合低表达于胞质中，
+当受到氧自由基刺激后，Nrf2 表达升高并与 Keap1
+分离，转移至胞核与 ARE 序列结合，激活 Nrf2/ARE
+信号通路，启动多个下游基因如 NQO1 转录，大量
+释放抗氧化酶，不同因子相互作用进一步提升
+机体抗氧化能力
+［19-20］。LIAN 等
+［21］研究认为，激活
+Nrf2/ARE 通路可减轻间歇性缺氧诱导的肺损伤，
+从而治疗阻塞性睡眠呼吸暂停大鼠，提示 Nrf2/
+ARE 通路对肺部的保护作用。本研究结果显示，
+与模型组比较，Rb1 组肺 Nrf2、NQO1 蛋白表达量
+升高，且在 G⁃Rb1 基础上增用 Nrf2/ARE 通路抑制
+剂 ML385 可减弱 G⁃Rb1 对高氧肺损伤的改善作
+用，提示可能通过介导该通路，抑制肺组织氧化应
+激反应，从而对高氧肺损伤新生仔鼠产生保护作
+用。目前关于 G⁃Rb1 毒理学安全性的系统研究尚
+少，尽管天然食物及传统中草药成分常规食用是
+安全的，但其有效成分经过现代科学技术提炼、浓
+缩后的安全资料相对缺乏。田辉等
+［22］在观察人参
+皂甙的安全性时发现，其符合特殊食品安全毒理
+学要求。但有学者认为
+［23］，暴露于 50 μg/mL 的胚
+胎与未暴露的胚胎相比具有显著较低的中位形态
+学评分，提示其具有一定的胚胎毒性。但因其应
+用时间较短且较少应用于临床，安全性仍有待长
+期观察，尤其应加强对其应用于妊娠患者中的安
+全性的关注。
+综上所述，G⁃Rb1 可改善新生仔鼠肺损伤，提
+升机体抗氧化能力，抑制肺组织氧化应激反应，激
+活 Nrf2/ARE 通路可能是其发挥作用的机制之一。
+然而，G⁃Rb1 对肺损伤的治疗可能通过多条通路
+发挥作用，在后续实验中需进一步研究。
+参考文献
+［1］ GENTLE S J，ABMAN S H，AMBALAVANAN N. Oxygen ther⁃
+apy and pulmonary hypertension in preterm infants［J］. Clin Per⁃
+inatol，2019，46（3）：611⁃619.
+［2］ CHEN S，WU Q，ZHONG D，et al. Caffeine prevents hyperoxia⁃
+induced lung injury in neonatal mice through NLRP3 inflamma⁃
+some and NF⁃κB pathway［J］. Respir Res，2020，21（1）：140.
+［3］ 张璟璇，袁美春，李海霞，等 . 人参皂苷 Rb_1 对氧⁃糖剥夺
+诱导的大鼠原代皮层神经元损伤的保护作用［J］. 中成药，
+图 2
+各组仔鼠肺组织 Nrf2、NQO1 蛋白表达
+Fig.2
+Expression of Nrf2 and NQO1 protein in the lung
+tissues of offspring in each group
+Nrf2
+NQO1
+GAPDH
+空白组
+模型组
+Rb1 组
+Rb1 联合组 ML385 组
+148
+万方数据
+实用医学杂志
+2022 年第 38 卷第 2 期
+The Journal of Practical Medicine
+2022 Vol.38 No.2
+2019，42（10）：2339⁃2344.
+［4］ 潘志鹏，王俊，段晨霞，等 . 人参皂甙 Rb1 通过促肺泡细胞
+线粒体自噬以抑制凋亡在大鼠肺气肿模型治疗的机制［J］.
+临床肺科杂志，2020，25（5）：665⁃670.
+［5］ 尹玲玲，唐丽君，黄为民 . 大黄对新生大鼠支气管肺发育
+不良的保护作用［J］. 中华实用儿科临床杂志，2019，34
+（1）：60⁃63.
+［6］ 杨根梦，李利华，何翠华，等 . NR2B/CREB 在人参皂苷 Rb1
+调节甲基苯丙胺诱导大鼠条件位置偏爱中的作用［J］. 中国
+药理学通报，2020，36（5）：604⁃608.
+［7］ 杨丽，赵岗，樊秀梅，等 . 基于 Nrf2/HO⁃1 通路研究芹菜素
+改善妊娠期糖尿病大鼠氧化应激损伤［J］. 中国医药导报，
+2020，17（13）：27⁃31.
+［8］ NAGANO N，TANAKA K，OZAWA J，et al. Attenuation of
+hyperoxic lung injury in newborn thioredoxin⁃ 1⁃overexpressing
+mice
+through
+the
+suppression
+of
+proinflammatory
+cytokine
+mRNA expression［J］. Biomedicines，2020，8（3）：66.
+［9］ KUL M，GÖNÜL E，AKCAN A B，et al. The effects of omega⁃
+3 fatty acids on the newborn rat hyperoxic lung injury［J］. J Ma⁃
+tern Fetal Neonatal Med，2020，33（14）：2434⁃2440.
+［10］ STADING R，COUROUCLI X，LINGAPPAN K，et al. The role
+of cytochrome P450（CYP）enzymes in hyperoxic lung injury
+［J］. Expert Opin Drug Metab Toxicol，2021，17（2）：171⁃178.
+［11］ ZHAO H，CHEN H，XIAOYIN M，et al. Autophagy activation
+improves lung injury and inflammation in sepsis［J］. Inflamma⁃
+tion，2019，42（2）：426⁃439.
+［12］ 何义，林飞，潘灵辉，等 . 程序性细胞死亡因子⁃1 在大鼠肺
+缺血再灌注损伤中的作用［J］. 实用医学杂志，2019，35
+（8）：1216⁃1221.
+［13］ WEI W，PENG J，LI J. Curcumin attenuates hypoxia/reoxygen⁃
+ation⁃induced myocardial injury［J］. Mol Med Rep，2019，20
+（6）：4821⁃4830.
+［14］ XU L，JIANG J，LI Y，ZHANG L，et al. Genetic variants of SP⁃
+D confer susceptibility to radiation pneumonitis in lung cancer
+patients undergoing thoracic radiation therapy［J］. Cancer Med，
+2019，8（5）：2599⁃2611.
+［15］ 张勇，黄黛，贾新州 . 人参皂苷 Rg1 对嗅球摘除抑郁症大鼠
+模型的抗炎和神经保护作用及其机制研究［J］. 中国免疫学
+杂志，2019，35（13）：1573⁃1579.
+［16］ SHAUKAT A，GUO Y F，JIANG K，et al. Ginsenoside Rb1
+ameliorates staphylococcus aureus ⁃ induced acute lung injury
+through attenuating NF ⁃ κB and MAPK activation［J］. Microb
+Pathog，2019，132：302⁃312.
+［17］ MENG M，ZHANG R，HAN R，et al. The polysaccharides
+from the Grifola frondosa fruiting body prevent lipopolysaccha⁃
+ride/D⁃galactosamine⁃induced acute liver injury via the miR⁃122⁃
+Nrf2/ARE pathways［J］. Food Funct，2021，12（5）：1973⁃1982.
+［18］ 刘冰，杨智承，袁芳 . 血小板衍生生长因子受体抑制剂 CP⁃
+868596 对 A549 细胞毒性的影响及机制［J］. 实用医学杂
+志，2019，35（20）：3124⁃3128.
+［19］ VESKEMAA L，GRAW J A，PICKERODT P A，et al. Tert⁃bu⁃
+tylhydroquinone augments Nrf2 ⁃ dependent resilience against
+oxidative stress and improves survival of ventilator⁃induced lung
+injury in mice［J］. Am J Physiol Lung Cell Mol Physiol，2021，
+320（1）：17⁃28.
+［20］ WANG T，SUN X Y，LI A L，et al. Botrysphin D attenuates
+arsenic⁃induced oxidative stress in human lung epithelial cells via
+activating Nrf2/ARE signaling pathways［J］. Biochem Biophys
+Res Commun，2019，518（3）：526⁃532.
+［21］ LIAN N，ZHANG S，HUANG J，et al. Resveratrol attenuates
+intermittent hypoxia⁃induced lung injury by activating the Nrf2/
+ARE pathway［J］. Lung，2020，198（2）：323⁃331.
+［22］ 田辉，田洁，王玉娥，等 . 人参皂甙与淫羊藿苷复方制剂安
+全性及抗氧化功能实验研究［J］. 公共卫生与预防医学，
+2011，22（3）：3⁃7.
+［23］ CHAN L Y，CHIU P Y，LAU T K. Embryotoxicity study of gin⁃
+senoside Rc and Re in in vitro rat whole embryo culture［J］. Re⁃
+prod Toxicol，2004，19（1）：131⁃134.
+（收稿：2021⁃08⁃12
+编辑：吴淑金）
+149
+万方数据

@@ -1,0 +1,400 @@
+　 基金项目:中山大学新华学院校级科研项目(No.2018KYQN008)
+　 作者简介:刘盈,女,讲师,研究方向:临床药理、药物质量控制与分析,E-mail:YingLiu@ xhsysu.cn
+　 通信作者:周春,男,博士研究生,副教授,研究方向:抗炎免疫药理,Tel:020-87215055,E-mail:87707725@ qq.com
+人参皂苷 Rg1 对 H2 O2 诱导的 HaCaT 细胞氧化损伤保护作用研究
+刘盈1,周满如1,周春2
+(1.广州新华学院药学院,广东 广州 510520;2.南方医科大学药学院,广东 广州 510515)
+摘要:目的　 观察人参皂苷 Rg1对 H2O2诱导的 HaCaT 细胞氧化损伤保护作用,并探讨其机制。 方法　
+体外培
+养 HaCaT 细胞, H2O2诱导细胞建立氧化应激损伤模型,分为空白组、H2O2损伤组、人参皂苷 Rg1保护组。 细胞增殖
+与毒性检测试剂盒(CCK-8)检测细胞存活率,Hochest 染色法检测细胞凋亡情况,活性氧检测试剂盒测定细胞活性
+氧(ROS)水平,Western blot 检测细胞中 caspase- 3、caspase- 6、caspase- 8、GAPDH 蛋白表达。 结果　
+H2 O2 诱导
+HaCaT 细胞半数抑制浓度为 100 μg·mL
+-1;与 H2O2损伤组比较,5、10 和 15 mg·L
+-1人参皂苷 Rg1预处理后,HaCaT
+细胞存活率明显升高(P<0.05),细胞核皱缩损伤状态明显改善,细胞凋亡数量显著减少。 同时,人参皂苷 Rg1 预处
+理可显著降低 HaCaT 细胞活性氧水平,下调凋亡相关标志蛋白-活化型 caspase-3、caspase-6、caspase-8 蛋白表达
+水平。 结论　 人参皂苷 Rg1对 H2O2诱导的 HaCaT 细胞氧化应激损伤具有一定的保护作用,其机制可能与增强细胞
+清除自由基能力及抑制凋亡相关。
+关键词:人参皂苷 Rg1;HaCaT 细胞;氧化应激损伤
+中图分类号:R285.5　 文献标识码:A　 文章编号:2095-5375(2022)03-0145-005
+doi:10.13506/ j.cnki.jpr.2022.03.002
+Protective effect of ginsenoside Rg1 on hydrogen peroxide induced HaCaT cell injury
+LIU Ying1,ZHOU Manru1,ZHOU Chun2
+(1.School of Pharmacy,Xinhua College of Guangzhou,Guangzhou 510520,China;2.School of Pharmaceutical
+Sciences,Southern Medical University,Guangzhou 510515,China)
+Abstract:Objective　 To explore the protective effect of ginsenoside Rg1 on hydrogen peroxide induced HaCaT cell in-
+jury and its mechanism.Methods　
+Different concentration of H2 O2 were used to establish oxidative stress injury model.
+HaCaT cell were divided into blank group,injury group and ginsenoside Rg1 protection group.CCK-8 was used to detect cell
+survival rate,and Hochest staining was specific for cell apoptosis detection;reactive oxygen species (ROS) level was ana-
+lyzed by using a detection kit,and Western blot was used to analyze the protein expressions of cleaved form caspase-3,
+caspase-6,caspase- 8. Results　
+The half-inhibition concentration (IC50) for H2 O2 -induced HaCaT damage was 100
+μg·mL
+-1.Compared with model group,pretreatment with 5,10 and 15 mg·L
+-1 ginsenoside Rg1 significantly increased the
+survival rate of HaCaT cells,reduced nuclear shrinkage and ROS level,down-regulated the expression of cleaved caspase-
+3,caspase-6 and caspase-8,thus protected HaCaT cells from H2O2-induced oxidative stress and apoptosis.Conclusion　
+Ginsenoside Rg1 has a protective effect on H2O2-induced oxidative stress injury of HaCaT cells,and its mechanism may be
+related to the enhancement of cell to scavenge free radicals ability and inhibition of apoptosis.
+Key words:Ginsenoside Rg1;HaCaT cells;Oxidative stress injury
+　 　 人参皂苷 Rg1作为人参皂苷中主要的活性成分
+之一,不仅存在于人参的根中,在其非药用部位茎、
+叶、花和果中也有较高的含量,具有抗氧化、抗炎、免
+疫调节及促进血管生成等多种药理作用。 陈羡人
+等[1]研究表明,人参皂苷 Rg1可通过提高体内抗氧
+化酶的活性,使血清和心肌丙二醛(MDA)水平明显
+·145·
+药学研究·Journal of Pharmaceutical Research 2022 Vol.41,No.3
+万方数据
+降低,从而有效缓解糖尿病大鼠体内的氧化应激反
+应。 容 伟 等[2] 研 究 表 明, 人 参 皂 苷 Rg1 可 抑 制
+MAPK/ NF-κB 信号通路,发挥对缺血后的脑组织的
+保护作用。 此外人参皂苷 Rg1 可通过抑制 Cytc 释
+放、调控凋亡蛋白 Bax、Bcl-2 的表达发挥对高脂大
+鼠心肌缺血再灌注损伤的保护作用[3],也可通过
+PERK-eIF2、ATF4 信号通路保护神经元免受谷氨酸
+诱导的内质网应激[4]。 但目前对于人参皂苷 Rg1的
+研究大多数集中在其对心、肾、肝、大脑等组织脏器
+能量代谢紊乱上[5],而关于人参皂苷 Rg1 对 HaCaT
+细胞 抗 衰 老 的 相 关 研 究 却 甚 少。 本 文 以 100
+μg·mL
+-1 H2O2诱导 HaCaT 细胞建立氧化应激损伤
+模型,探讨人参皂苷 Rg1对 H2O2诱导的 HaCaT 细胞
+氧化应激损伤的保护作用及其可能机制,为今后人
+参皂苷 Rg1在延缓皮肤衰老的研究进程中提供理论
+依据。
+1　 材料与方法
+1.1　 材料
+1.1.1　 细胞　 人角质形成细胞(HaCaT cell)细胞株
+购自美国 ATCC 公司
+1.1.2　
+药品与试剂　
+人参皂苷 Rg1( 纯度≥98%)
+(中国药品生物制品检定所);CCK-8 试剂盒(美国
+Biosharp 公司);Hochest33342 试剂( 美国 Sigma 公
+司);30% H2O2 试剂 ( 天津市大茂 化 学 试 剂 厂);
+DMEM 培养基(美国 Gibco 公司);10%胎牛血清(德
+国 PAN Biotech 公司);PBS 粉末(博士德生物);活
+性氧检测试剂盒(广州碧云天生物公司);其余试剂
+均为国产分析纯。
+1.1.3　 主要仪器设备　 旋转蒸发仪(上海市贝仑仪
+器设备有限公司);超净工作台( 青岛海尔公司);
+5%CO2培养箱(美国 Thermo 公司);-80 ℃ 低温冰
+箱(美国 Thermo 公司);酶荧光多功能检测仪(美国
+Biotek 公司);细胞培养板(美国 Falon 公司);荧光
+显微镜 ( 日本 Olympus 公司); 冷冻干燥机 ( 日本
+EYELA 公司);离心机( Beckman Coulter 公司);蛋
+白印迹转膜槽(美国 Bio-rad Criterion);蛋白垂直电
+泳槽(赛默飞公司);蛋白电泳仪( 赛默飞公司);
+FluorChem HD2 型化学发光凝胶成像仪(赛默飞公
+司)。
+1.2　 方法
+1.2.1　
+HaCaT 细胞培养　
+取适量已活化的 HaCaT
+细胞原液于含 10%精制小牛血清和青霉素、链霉素
+各 100 μg·mL
+-1的 DMEM 培养基中,于细胞培养箱
+(37 ℃、5% CO2) 中培育。 取生长对数期的 HaCaT
+细胞,以 1×105个/ mL 密度的细胞悬液接种于 96 孔
+细胞板中,每孔 200 μL,常规培养(37 ℃,5% CO2)
+24 h,备用。
+1.2.2　 细胞损伤实验　
+将 HaCaT 细胞分为空白组
+和损伤组,每组设 5 个平行孔。 损伤组以 1×105个/
+mL 密度的细胞悬液接种于 96 孔细胞板中,每孔
+200 μL,空白组加入相同体积培养基,培养 24 h。 采
+用 CCK-8 法筛选 H2 O2 浓度的分组为 25、50、100、
+150、200 mmol·L
+-1 每组 5 个复孔。 取出事先培养
+好的 HaCaT 细胞,将原培养基吸出后分别加入对应
+体积的 0.03% H2O2溶液和 DMEM 培养基使每孔体
+积为 200 μL,于 37 ℃、5% CO2培养箱内培养作用 2
+h。 换培养基继续培养 24 h,每孔分别加入 5 μL
+CCK-8 试剂作用 3 h,充分染色后用酶标仪在 450
+nm 波长下检测 OD 值。 细胞存活率通过以下公式
+计算:存活率(%)= (OD 处理/ OD 空白)×100%。
+1.2.3　 CCK-8 染色法测定细胞存活率　
+将 HaCaT
+细胞分为空白组、损伤组与人参皂苷 Rg1 保护组。
+空白组给予完全培养基,对照组加入 H2O2溶液使体
+系终浓度为最佳损伤浓度;人参皂苷 Rg1 保护组分
+为 3 个浓度计量组: 5、10、15 mg·L
+-1。 先按浓度加
+入人参皂苷 Rg1预处理 2 h,再加入最佳浓度的H2O2
+溶液作用 2 h 进行氧化损伤。 换培养基终止反应后
+再在 37 ℃、5% CO2培养箱中培育 24 h,每孔分别加
+入 5 μL CCK-8 试剂作用 3 h,充分染色后用酶标仪
+在 450 nm 波长下检测 OD 值。 计算每孔中细胞存
+活率。
+1.2.4　 Hochest 染色观察细胞凋亡　 将 HaCaT 细胞
+分为空白组、 损伤组与人参皂苷 Rg1 保护组 ( 15
+mg·L
+-1)。 24 孔板中的细胞经预处理及培养后,使
+用 PBS 缓冲液反复清洗 3 次,加入 Hochest33342 荧
+光试剂,染色 30 min。 使用光学显微镜观察 HaCaT
+细胞形态变化及凋亡情况。
+1.2.5　
+活性氧检测试剂盒(ROS Assay Kit) 测定细
+胞 ROS 水平　 将 HaCaT 细胞分为空白组、损伤组与
+人参皂苷 Rg1保护组,每组设 5 个平行孔,将 HaCaT
+细胞接种到 6 孔细胞培养板中,每孔 5 mL,接种密
+度为每孔 1×105个细胞,培养 24 h。 人参皂苷 Rg1保
+护组加入 5、10、15 mg·L
+-1 的人参皂苷,每孔 250
+μL,空白组和损伤组补充相同体积的 DMEM 空白培
+养基,孵育 3 h。 损伤组与人参皂苷 Rg1 保护组加入
+损伤浓度的 H2O2,每孔 250 μL,孵育 2 h,孵育结束
+后移除培养基,PBS 缓冲液清洗 2 次,按照 ROS 检
+测试剂盒的说明书步骤进行后续操作,最后置于激
+·146·
+药学研究·Journal of Pharmaceutical Research 2022 Vol.41,No.3
+万方数据
+1．5
+1．0
+0．5
+0．0
+褂呈{悼遥恩苌罂
+光共聚焦显微镜下检测荧光强度, 激发波长 488
+nm,发射波长 525 nm。 以各组细胞荧光强度代表
+ROS 水平。
+1.2.6　 Western blot 检测增殖凋亡相关标志蛋白　
+将 HaCaT 细胞分为空白组、损伤组与人参皂苷 Rg1
+保护组。 每组设 5 个平行孔,将 HaCaT 细胞接种到
+6 孔细胞培养板中,每孔 5 mL,接种密度为每孔 1×
+105个细胞,培养 24 h。 人参皂苷 Rg1保护组加入 5、
+10、15 mg·L
+-1的人参皂苷,每孔 250 μL,空白组和
+损伤组补充相同体积的 DMEM 空白培养基,孵育
+3 h。 损伤组与人参皂苷 Rg1 保护组加入损伤浓度
+的 H2O2,每孔 250 μL,孵育 2 h,孵育结束后移除培
+养基,PBS 缓冲液清洗 2 次,结束后,提取细胞总蛋
+白,Western blot 检测 caspase-3、caspase-6、caspase-
+8、GAPDH 增殖凋亡相关标志蛋白的表达及磷酸化
+水平。
+1.2.7　 统计学分析　
+统计学分析均采用统计学分
+析软件 SPSS 15.0 进行分析。 各组细胞存活率、ROS
+水平和 SOD 活性均符合正态分布,以(x±s)表示,多
+组间样本均数比较采用单因素方差分析,组间两两
+比较采用 SNK-q 检验。 以 P<0.05 为差异有统计学
+意义。
+2　 结果
+2.1　 H2O2损伤后 HaCaT 细胞存活率　 与空白组比
+较,25、50、100、150、200 mmol·L
+-1的 H2O2损伤处理
+HaCaT 细胞后,各组 HaCaT 细胞存活率均有下降(P
+<0.05)。 在 H2O2浓度为 100 mmol·L
+-1时,细胞损
+伤率达 50%左右,作为后续实验损伤组中 H2O2的加
+入量(见图 1)。
+图 1　 不同浓度 H2O2损伤后 HaCaT 细胞存活率
+2.2　
+人参皂苷 Rg1预处理后各组 HaCaT 细胞存活
+率　 与空白组比较,H2O2损伤组 HaCaT 细胞存活率
+明显降低,与 H2O2损伤组比较,5、10、15mg·L
+-1的
+人参皂苷 Rg1保护组 HaCaT 细胞存活率明显升高,
+10、15 mg·L
+-1人参皂苷 Rg1保护组中 HaCaT 细胞
+存活率升高最为明显,具有统计学差异(P<0.05),
+表明人参皂苷 Rg1对 H2O2氧化损伤后的 HaCaT 细
+胞增殖有一定的作用(见图 2)。
+图 2　 人参皂苷 Rg1预处理后各组 HaCaT 细胞存活率
+2.3　
+人参皂苷 Rg1预处理后各组 HaCaT 细胞凋亡
+情况　 与空白组比较,H2 O2 损伤组细胞呈亮蓝色,
+出现细胞核皱缩,染色质聚集的现象,凋亡细胞数量
+明显增多,与 H2O2损伤组比较,5、15 和 15 mg·L
+-1
+人参皂苷 Rg1保护组细胞凋亡数量明显减少,表明
+人参皂苷 Rg1对氧化损伤后的 HaCaT 细胞凋亡有一
+定的抑制作用(见图 3)。
+图 3　 人参皂苷 Rg1预处理后各组 HaCaT 细胞凋亡情况
+2.4　 人参皂苷 Rg1处理后各组 HaCaT 细胞 ROS 水
+平　 与空白组比较,H2O2损伤组细胞中 ROS 水平升
+高,与 H2O2损伤组比较,5、15 和 15 mg·L
+-1人参皂
+苷 Rg1保护组细胞中 ROS 水平均有所降低,表明人
+参皂苷 Rg1在一定程度上可降低细胞中 ROS 水平
+(见图 4)。
+2.5　 Western blot 检测增殖凋亡相关标志蛋白　 与
+空白组比较,H2O2损伤组细胞中 caspase-3、caspase
+-6、caspase-8 水平均有所升高,与 H2 O2 损伤组比
+较,5、15 和 15 mg·L
+-1人参皂苷 Rg1保护组细胞中
+caspase-3、caspase-6、caspase-8 水平均有所降低,
+表明人参皂苷 Rg1在一定程度上可降低细胞凋亡相
+关标志蛋白的表达(见图 5)。
+·147·
+药学研究·Journal of Pharmaceutical Research 2022 Vol.41,No.3
+万方数据
+C- - caspase- - 3
+C- - caspase- - 6
+C- - caspase- - 8
+GAPDH
+矿◇ o。b∥ ◇ ∥
+>
+◇ ∥
+图 4　 人参皂苷 Rg1处理后各组 HaCaT 细胞 ROS 水平
+图 5　 Western blot 检测增殖凋亡相关标志蛋白
+3　 讨论
+ROS 被认为是造成机体氧化应激的主要原因,
+包括氧自由基和非自由基的含氧产物,如羟自由基
+(-OH)、超氧阴离子(O2-)、脂质过氧化物(ROO-、
+RO-与 ROOH) 及过氧化氢( H2 O2) 等[6]。 大量的
+ROS 超出了机体清除能力,破坏了机体正常的氧
+化/ 还原平衡状态,造成蛋白质、脂质、核酸等生物大
+分子物质氧化损伤和功能紊乱,从而影响机体正常
+代谢。 本研究发现,与 H2O2损伤组比较,5、15 和 15
+mg·L
+-1 的人参皂苷 Rg1 保护组中 HaCaT 细胞中
+ROS 含量呈浓度依赖性降低,表明人参皂苷 Rg1 可
+通过抑制 ROS 产生和累积从而抑制细胞氧化应激
+损伤,提高细胞活力,维持正常细胞形态。
+半胱氨酸天冬氨酸蛋白酶(caspase)是一类半胱
+氨酸天冬氨酸特异性蛋白酶族,是执行细胞凋亡的关
+键信号途径[7]。 在正常的细胞内,caspase 家族以非
+酶活性前体存在,经由细胞内外多种促凋亡的信号激
+活,进而介导凋亡。 其可分为两大类,一类是起始触
+发蛋白 caspase-2、caspase-8、caspase-9、caspase-10,
+另一类是效应执行蛋白 caspase-3、caspase-6、caspase
+-7。 起始触发 caspase 在外来蛋白信号的作用下被切
+割激活,激活的起始 caspase 对效应执行 caspase 进行
+切割并使之激活,被激活的效应执行 caspase 通过对
+caspase 靶 蛋 白 的 水 解,导 致 程 序 性 细 胞 死 亡[8]。
+caspase-3 是凋亡最直接的执行者,caspase-8 位于
+caspase-3 的上游,构成级联激活[9]。 在本研究中,与
+H2O2损伤组比较,5、15 和 15 mg·L
+-1人参皂苷 Rg1保
+护组中,HaCaT 细胞中 caspase-3、caspase-6、caspase-
+8 蛋白水平均有所降低,表明人参皂苷 Rg1在一定程
+度上可降低细胞凋亡相关标志蛋白的表达。 此外,
+caspase-8 和 caspase-3 的水平变化一致,提示二者可
+能存在级联反应,caspase-8 对 caspase-3 有一定程度
+的激活作用。
+本研究采用 100 μg·mL
+-1的 H2O2诱导细胞,建
+立氧化应激损伤模型,发现人参皂苷 Rg1 可显著提
+高 H2O2 诱导氧化损伤的 HaCaT 细胞存活率,缓解
+细胞核的损伤状态,减少凋亡细胞数量,同时有效降
+低 HaCaT 细胞内 ROS 水平, Western blot 检测结果
+显示人参皂苷 Rg1一定程度上可降低细胞凋亡相关
+标志蛋白 caspase-3、caspase-6、caspase-8 水平,综
+上所述,人参皂苷 Rg1对 H2O2诱导的 HaCaT 细胞氧
+化应激损伤具有一定的保护作用,其机制可能与增
+强细胞清除自由基能力及抑制凋亡相关。
+参考文献:
+[1]　 陈羡人,高雅文,邓小梅.人参皂苷 Rg1 对糖尿病大鼠
+肝损伤、氧化应激及肝组织 Toll 样受体 4 表达的影响
+[J].中国临床药理学杂志,2020,36(2):146-149.
+[2]
+容伟,熊静,伍新田,等.人参皂苷 Rg1 对缺血性脑卒中
+大鼠的保护作用及其机制研究[J].中国临床药理学杂
+志,2020,36(14):2021-2024.
+[3]
+赵宏月,张东伟,庞琳琳,等.黄芪甲苷及人参皂苷 Rg1
+对高脂大鼠心肌缺血再灌注损伤后心肌细胞凋亡的
+影响[J].辽宁中医杂志,2021,48(2):188-191.
+[4]
+GU Y,REN K,WANG L,et al.Rg1 in combination with
+mannitol protects neurons against glutamate-induced ER
+stress via the PERK - eIF2 α - ATF4 signaling pathway
+[J].Life Sciences,2020(263):118559.
+[5]
+姜彤伟,田治宇,闻乃妍,等.人参皂苷干预重要脏器能
+量代谢紊乱的研究进展[J].中华中医药学刊,2021,39
+(5):5-8.
+(下转第 152 页)
+·148·
+药学研究·Journal of Pharmaceutical Research 2022 Vol.41,No.3
+万方数据
+4　 讨论
+蔗糖中存在的颗粒杂质粒径约为 80 ~ 300 nm
+之间,这部分颗粒有可能激活补体系统,存在免疫应
+答风险造成用药安全隐患。 为减少其中的纳米颗粒
+杂质,生产者可通过使用小孔径过滤器(例如 0.02
+μm)过滤除去纳米颗粒杂质,也可改进生产工艺并
+制定相关的内控标准,对高风险给药途径用的蔗糖
+中纳米颗粒杂质进行合理控制。
+参考文献:
+[1]　 DAOU C A Z,NATOUT M A,HADI NE.Biphasic anaphy-
+laxis after exposure to the first dose of pfizer-biontech co-
+vid-19 mrna vaccine[ J]. J Med Virol 2021,93 ( 10):
+6027-6029.
+[2]
+LEVEN T,VAN W T,VANDEBOTERMET M,et al.Toler-
+ability of polysorbate 8o-containing COVID-19 vaccines
+in confirmed polyethylene glycol - allergic patients[ J]. J
+Allergy Clin Immunol Prac,2021,9(12):4470-4472.
+[3]
+SELVARAJ G,KALIAMURTHI S,PESLHERBE G H,et
+al. Are the Allergic reactions of COVID - 19 vaccines
+caused
+by
+mRNA
+constructs
+or
+nanocarriers?
+Immunological Insights[J].Interdiscip Sci,2021,13(2):
+344-347.
+[4]
+SATISH K S,NATALIYA A,MICHEL A,et al.An industry
+perspective on the monitoring of subvisible particles as a
+quality attribute for protein therapeutics[J].J Pharm Sci,
+2010,99(8):3302-3321.
+[5]
+CHISHOLM C F,BEHNKE W,POKHILCHUK Y,et al.
+Subvisible particles in IVIg formulations activate comple-
+ment in human serum - sciencedirect[ J]. J Pharm Sci,
+2020,109(1):558-565.
+[6]
+SZEBENI J,ALVING C R,MUGGIA F M. Complement
+activation by cremophor EL as a possible contributor to
+hypersensitivity to paclitaxel:an in vitro study[J].J Natl
+Cancer Inst,1998,90(4):300-306.
+[7]
+DANIEL W,JASON K C,JURGEN K,et al.Nanoparticulate
+Impurities in Pharmaceutical-Grade Sugars and their Inter-
+ference with Light Scattering-Based Analysis of Protein For-
+mulations[J].Pharm Res,2015,32(7):2419-2427.
+[8]
+国家药典委员会.中华人民共和国药典 2020 年版(四
+部)[S].北京:中国医药科技出版社,2020:179-181.
+[9]
+CARPENTER J F,RANDOLPH T W,JISKOOT W,et al.
+Overlooking subvisible particles in therapeutic protein
+products:gaps that may compromise product quality[J].J
+Pharm Sci,2009,98(4):1201-1205.
+[10] SZEBENIT J,JISKOOT W. Handbook of nanobiomedical
+research:fundamentals, applications and recent develop-
+ments[M].New Jersey:World Scientific Publishing Co.,
+2014:45-73.
+[11]
+MOGHIMI S M, SIMBERG D, Complement activation
+turnover on surfaces of nanoparticles [ J]. Nano Today,
+2017,8(15):8-10.
+[12] SZEBENI J,STORM G,Complement activation as a bio-
+equivalence issue relevant to the development of generic
+liposomes and other nanoparticulate drugs [ J]. Biochem
+Biophys Res Commun,2015,468(3):490-497.
+(上接第 148 页)
+[6]　 张立秋,李成华,姜丽,等.衰老假说与活性氧研究[J].
+生理科学进展,2020,51(5):327-331.
+[7]
+VAN OPDENBOSCH N,LAMKANFI M Caspases in Cell
+Death,Inflammation,and Disease[J].Immunity,2019,50
+(6):1352-1364.
+[8]
+RIEDL S J,SALVESEN G S. Caspase mechanisms[ J].
+Adv Exp Med Biol,2008(615):13-23.
+[9]
+KRUIDERING M,EVAN G I. Caspase - 8 in apoptosis:
+the beginning of " the end" ? [J].IUBMB Life,2000,50
+(2):85-90.
+·152·
+药学研究·Journal of Pharmaceutical Research 2022 Vol.41,No.3
+万方数据

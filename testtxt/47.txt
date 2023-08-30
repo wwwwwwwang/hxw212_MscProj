@@ -1,0 +1,320 @@
+CHINES E J OU RNA L  OF A NA T OM Y V o1．36 No．1 2013 
+解剖学杂志
+2013 年第 36 卷第 1期 
+人参皂甙 R gl 促进大鼠坐骨神经损伤后再生的作用 
+方
+欣
+周 
+朋 
+闰旭 升
+杨 占君△ 
+( 内蒙古科技 大学包头 医学 院人体解剖学教研 室，包头
+014040) 
+摘要 
+目的 ：观察人参皂甙 Rgl 促进大 鼠坐骨神经损伤后修复重建的作用 。方法 ：采用离断左侧坐骨神经的方法建立周 围 
+神经损伤模型 ，建模后 随机分 为实 验组 和对 照组 。实验组 大鼠每 日腹膜腔注射人参皂甙 R gl ( 剂量为 40mg／kg) ，对 照组大 
+鼠注射等量生理盐水 。用药 4 周时两组取材 ，免疫组织化学检测神经生长 因子 ( NGF) 蛋 白的表达情 况 ；给药 4 、8 、12 周后 
+进行坐骨神经功能指数 ( SFI) 、肌肉及神经组织形态学 、腓肠肌湿重恢复率 的检测 ；用 药 12周 时 ，行荧光 素逆行追踪 观察神 
+经轴突再通情况 。结果 ：大体 观察显示术后 大鼠左小腿肌萎缩 ，足趾 肿胀溃 疡及 鼠爪 张开及后 蹬动作情 况 ，实 验组优 于对 
+照组 。用药 4周时 ，实验 组 NGF 蛋 白的表达 ( 染色密度及染色面积) 明显 高于对照组 ；给药 4、8、12 周后 ，实验组大 鼠 SFI 
+指数 、神经传导速度及小腿三头肌湿重恢复率等均优于对照组 ；术后 4、8、12周 ，实验组神经纤 维轴 突、髓鞘 的数量 及其排 
+列整齐程度均优 于对照组 。12 周时荧光逆行追踪结果显示 ，实验组损伤坐 骨神经轴 突再通情况较对照组 明显 。结论 ：人参 
+皂甙 Rgl 可促进大 鼠坐骨神经损伤 的修复 、再生和功能 的恢 复。 
+关键词
+人参皂甙 Rgl ；坐骨神经 ；神经损伤 ；神经保护 
+G insen oside R g l  pr om otes scia ti c nerv e reg ener ati on 
+in rat following nerve transected inj ury 
+F ang X in ，Z hou P eng ，Y an X usheng ，Y ang Z haN un~  
+( H uma n A na tomy  D epa rtment ，B aotou M edi cal  C ol l eg e ，B aotou 
+01 4 04 0 ，C hi na ) 
+Abstract 
+Obj ective：T o study effects of ginsenosides R gl on the sciatic nerve regeneration after injury．Methods ：Sixty SD 
+rats were assigned into a treated group and a control group randomly．G insenosides R gl ( 40 mg／kg) was administered by in— 
+traperitoneal inject ion each day in the treated group for 12 w eek s．T he ex pression of NG F  w as tested by immunohistoehemis— 
+try metho d after 4 week s．T he sciati c ner ve fu n ctio n in dex ( SF I) ，el ect rop hy sio lo gica1 in dex  o f th e n erve ，mor ph ol og ic alt era— 
+tion  of n er ve an d mu scl es an d weig h t recover y rate of g astr ocnemiu s w ere stud ied to eval u at e th e recover y of the sci atic n erv e 
+after injury．R esults ：T he denerv ated changes of the rats from the test group in the muscle atrophy，swelling and ulcer of the 
+toe ，str etch and ascend act ion of the paw  were bett er  t han those of the control group．T here were mor e expressions of NG F  in 
+t he tr eated  gr ou p th an the con tro l gro u p in  4 week s． A ft er  bein g tr eated wi th g inseno sides R gl  fo r 4 tO 12 week s，all r esu l ts 
+i ncl ud ing  S F I，n er ve co nd uctio n v elocity ，co un ts of ax on an d weig h t r eco very ra te of gastro cn emiu s，in d icated tha t th ere wer e 
+stati stical ly impo rtan t differ en ces b etween tW O g ro up s．T h e axon an d myel in of th e reg en erative sciatic n erve in  the test g roup were 
+much denser an d  r egu lar than tho se in  the co ntrol gr oup at the end of 4 ，8 an d 12 week s after su rgery．C on cl usi on ：T h e p resen t 
+stu dy sh ow ed th at gin sen osid es R g l  can  pr omote rep air ，reg en erati on an d fun ction al r ecov ery of th e sciatic nerv e after iN ur y．
+ 
+K ey words 
+ginsenoside R gl ；sciatic nerve；nerv e injury ；neuropr0tective effect 
+周 围神经损伤后 ，将会导致其相应的神经元死亡， 
+引起神经运动功能 的丧失 ，感觉 和营养方面的损伤更 
+是无法补救 的[1] 。采取对神经元有效 的保 护措施 ，是 
+促进周围神经再生 的方法之一。 目前 ，由于缺 乏经济 
+有效和使用方便 的促进神经再生药物 ，周 围神 经损伤 
+后修复的效果仍不理想 。研究显示人参皂 甙( ginsen— 
+doi ：10．3969／j ．issn．1001—1633．2013．01．019 
+* 内蒙古 自治区 自然科学基金 (2012MS I 143) 
+第 1 作者 E-mail ：simabeinan@ yahoo．corr1．cn 
+△ 通讯作者 ，E-mail：zhanjunyangpumc@ yahoo．corn, ．cn 
+收稿 日期 ：2012—06—04；修 回 日期 ：2012—09—12 
+—
+7O
+—  
+oside，GS) Rgl 具有神经保护作用[2。 ；笔者之前研 究 
+也显示 ，Rgl 对老年痴呆模 型大 鼠的脑功能有明显的 
+改善作用_1 
+。本研究利用人参皂甙 Rgl 干预坐骨神 
+经损伤后大 鼠，通过观察大 鼠坐骨神经功能指数 (SFI) 、 
+神经 传导 速度 及神 经生 长 因子 ( nerve growth factor，
+ 
+NGF )蛋白的表达等，研究周围神经损伤后人参皂甙 Rgl 
+对运动神经元的保护作用及机制 ，为治疗周围神经损伤 
+开辟有效的新途径提供基础理论和动物实验依据。 
+1
+材 料和 方 法 
+l _ 1
+动 物模 型与分 组 
+雄性 SD 大鼠共 60 只，体质量为 180~ 200 g。用 
+10 9／6水合氯醛(3．5 ml／kg) 作腹膜腔注射麻醉 。显露左 
+侧坐骨神经 ，于梨状肌下缘 0．8 cm 处将坐骨神经离断， 
+随即用 l 1～0 无创伤尼龙线以表面血管走行为标记缝 
+合神经外膜 4 针 ，显微缝线 留置于该损伤 区外膜上作 
+为标记 。然后 1～0 线逐层关闭切 口。术后第 1 天随机 
+分为实验组和对照组 ，每组 30 只。实验组每天经腹膜 
+腔注射人参皂甙 R gl 溶液 40 mg／kg_1 ，对照组 以同样 
+的方式注射相当量的生理盐水 ，直至取材为止 。 
+1．2 
+坐骨神 经功能指数( SF I) 
+自制大 鼠足印行走箱 ，50 cmX 15 cmX 20 cm，通道 
+远端放置 1 个 鼠箱 ，单侧开 门。行走箱底放置 与行走 
+箱等长 、等宽 的白纸 。用碳素墨水浸染大 鼠双后 足，放 
+人行走箱近端 ，让其 向远端行走 ，可记录大 鼠双侧后 足 
+足印 ，每侧 3～4个 。选实验侧足(E ) 和正常侧足(N ) 足 
+印测定 3 个变量 ：( 1) 足印长度( podogram length，PL ) 
+即从足跟到足尖的距离 ；( 2) 足趾 宽度 ( width between 
+the first and fifth toes ，T w ) 第 1 趾 到第 5 趾连线距 
+离 ；(3) 中间足趾距离 (inter—toes distance，IT ) 第 2 趾 
+到第 4 趾连线距 离。测量精确 到毫米 ，每次使用最长 
+的一组数据 。将 3 个变量带人 Bain 公式计算 SF I_4] 。
+ 
+SFI 一 一 38．3 ( E PL —NP L )／NPL +
+109．5
+( E T W — 
+NT W ) ／NT W + 13．3(E IT —NIT ) ／NIT -8．8。SF I= 0 为 
+完全正常，SF I= 一100 为完全损伤。 
+1I 3 
+电 生 理 检 测 
+记录足印后处死 大 鼠，沿手术切 口人 路暴露切取 
+右侧坐骨神经全长 ，置 于台氏液中，电极置于神经吻合 
+口两侧各 2 cm 处 ，采用 PCL ab 生物信号采集处理系统 
+记录诱发 电位 ，并计算神经传导速度 。 
+1．4
+免 疫组 织化 学 
+电生理检测后将神经用中性甲醛液固定 ，石蜡包埋， 
+分别取坐骨神经钳夹段 3 ITI1TI 作纵切片，钳夹段近、远侧 
+各 3 mm 作神经干横切片，按试剂盒说明进行神经生长 
+因子免疫组织化学显色(抗体和 SABC 免疫组织化学试 
+剂盒均为武汉博士德公司产 品) 。用图像分析仪 观察各 
+组标本 ，在每一例标本中选 1O个高表达的视野，摄取图 
+像 ，分析 NGF 表达的面积和密度( Image pro plus 软件) 。 
+1．5 
+荧光逆 行 追踪 
+术后 12 周时 ，实验组和对照组各取 6 只大鼠，行荧 
+光逆行追踪试 验 ，观察坐 骨神 经轴突再通 的情况 
+在 
+神经离断处以远 5 mm 处，用微量注射器向神经 干内注 
+入 5 9／6荧光金( fluoro gold，F G ；Fluorochrome 公 司) 。 
+继续饲养 1 周后 ，以生理盐水及 4 
+多聚甲醛经左心室 
+灌注 ，取坐骨神经，入 4 9／6多聚甲醛后 固定 ，在梯度蔗糖 
+液中沉底后冷冻切片，L eica SP 2 激光扫描共聚焦显微 
+镜 (L eica 公司) 下检测神经内被 FG 标记的细胞 。 
+1．6
+腓 肠 肌 湿重恢 复 率 
+术后 4 、8、12 周分别取左小腿三头肌 ，立即用 电 
+子天平 测定肌湿 重。腓 肠肌湿 重恢 复率计 算公式 如 
+下 ：腓肠肌湿重恢复率 一( 损伤侧肌湿重／正常侧肌湿 
+重 ) × 100 
+。 
+1．7 
+H —E 染 色 
+取坐骨神经组织 6 mm，正常对照侧取相应节段的 
+神经组织置于 4 
+多聚 甲醛缓 冲固定液 中固定24 h，梯 
+度乙醇脱水 ，石蜡包埋 ，横断面半 薄切片 ，厚度5 m，将 
+切片贴于载玻 片上 ，行苏木 精一伊红染 色 ( H—E 染 色) ， 
+观察再生神经组织 中有髓神经纤维的变化情况。 
+1．8 
+图像分析和统计 学处理 
+将各组大鼠 SF I 和 MNCV 的数据 以i ± S 表示 ，所 
+得结果采用 SPSS 13．0 软件包进行处理 。 
+2
+结果 
+2．1 
+坐骨神经功能指数测定 
+术后 4、8、12 周分别观察测定实验组与对照组大鼠 
+SFI 。结果显示 ，实验组 的 SFI 优于对照组 ，差异有统计 
+学意义(P < O．01) ，不同时间点间亦有明显差异(表 1) 。 
+表 1
+实验组与对照 组 SF I 的比较 
+士s) 
+T ab 1 
+0 】
+lI1 
+Ⅱ s∞ of SFI betw een experimental an d control groups 
+士 ) 
+P < 0．01 VS cont ro1 
+2．2
+坐骨神 经传 导速度 测 定 
+术后 4 、8 、12 周测定运动神经动作 电位波幅并计 
+算坐骨神经传导速度 ，实验组传导速度优 于对 照组 ，差 
+异有统计学意义(P < 0．05) (表 2) 。 
+表 2
+实验组与对照组神经传导速度的比较 
+士s) 
+T ab 2 
+Compa ri son of nen re conduct ion  v eloci ty  be twee n 
+exps r imen~ l and control gr oups 
+士s) 
+2．3
+神经生长因子表达 
+用药 4 周后 ，可见神经生长 因子 阳性反应产物 呈 
+棕黄色或棕褐色颗粒状 。高倍镜下可见神经生长 因子 
+阳性反应 产物 主要位 于神经 元胞 质、突起及 其分 支。 
+实验结果显示 ，对照组可见少量阳性染色神经元 ；实验 
+组大鼠阳性神经元数 目较对 照组 明显增多 ，两组 比较 
+差异具有统计学意义 (表 3 ，图 1A 、B) 。 
+表 3 
+NGF 蛋 白染色密度和染色面积 比较 
+士s) 
+T ab 3 
+Co
+m pa r ison of  st ain ing densi ty  a nd ar ea  of  N G F  bet w ee n 
+exps rimen ml and co ntro l groups 
+士s ) 
+一
+7 1
+—  
+随着对某些中药研 究的深入 ，越来 越多证据显示它们 
+可以通 过促进周 围神经损 伤后神 经生长 因子蛋 白表 
+达，雪旺细胞增殖 ，保 护受损神经元和促进神经再生及 
+结构重建等机制发挥 实验神经损 伤的作用[6_ 。人参 
+是最重要 的气血滋补药物 。笔者既往研究证实 ，人参 
+皂甙 R bl 对 老年痴呆模型大 鼠有较为显 著 的实 验作 
+用[9-103。R gl 是人参的主要有效成分之一 ，R gl 可增加 
+胆碱能系统功能，即增加脑突触体对 3H一胆碱的摄取 ，
+ 
+增加乙酰胆碱的合成与释放 ，同时提高中枢 M 胆碱受 
+体的密度 ，并 明显增 加动物脑 内蛋 白质含量[ii-12] 。本 
+研究通过观察 R gl 对 坐骨神经损伤模 型大 鼠的作 用 ，
+ 
+探讨 Rgl 可能的神经损伤修复作用及机制 。结果可能 
+具有重要 的理论及临床意义。 
+本研究使用 SF I 这 一较 为公认 且稳定 可 靠 的指 
+标 ，从行为功能角度进行分析。结果提示 ，术后 4、8 及 
+12 周实验组大 鼠 SF I 优 于对照组 ，提示 坐骨神经 功能 
+有 明显恢复 。神 经传导速度测定提示 ，实验组大 鼠坐 
+骨神经传导速度 明显优于对照组 ，且 结果均存在 时间 
+相关性。以上两项指标提示经 R gl 干预后 ，损伤 的坐 
+骨神经功能有 明显 的恢 复。那么 ，Rgl 通过何 种机制 
+促进了坐骨神经功能的恢复呢? 
+文献报道 NGF 是最早被发现 、兼有神经元 营养和 
+促突起生 长双重生物 学功 能的一种 细胞生 长调 节 因 
+子 ，它对 中枢和周 围神经元 的发育、分化、生长、再生和 
+功能特性的表达均具有重要 的调控作用[13-14] 。对于神 
+经细胞 ，NGF 不仅有神经元营养效应 ，而且能诱导和促 
+进神经突起的生长 。NGF 对神经所支配的组织也有重 
+要的营养作用 。 
+本实验利用 图像分 析软件 ，比较实验组 和对照组 
+坐骨神经 NGF 表达的差异。结果显示 ，实验组损伤侧 
+远端坐骨神经组织 NGF 蛋 白表达阳性 呈棕褐色着色 
+较多且密度大 ，而对照组 NGF 表达较少 ，两组 比较差 
+异有统计学意义。提示 NGF 可能是神 经功能恢复 的 
+重要原因。小腿三头肌湿重恢复率结果提示实验组小 
+腿三头肌湿重恢复率 明显 优于对 照组 。显微镜 观察 ， 
+4 、8、12 周 时实验组 神经纤维及新生轴突数量等 明显 
+优于对照组 ；而荧光逆行追踪结果显示 ，实验组轴突再 
+通情况 明显较对 照组 改善 。结果 印证 了 NGF 促进神 
+经轴突恢复 ，并发挥其神经营养作用 ，促进远端肌营养 
+和功能恢复 。人参皂 甙 R gl 还 可能通过抗 氧化 ，抗凋 
+亡等机制发挥有效的神经保护作用[1 。 
+综上所述 ，R gl 可能通过促进 NGF 表达上调等机 
+制促进大鼠损伤坐骨神经轴突再通 和功能 的恢复。本 
+研究提示 ，人参 皂甙 R gl 是外周神经损伤后一种有效 
+的药物 ，值得进一步进行临床及基础研究 。 
+参 考 文 献 
+[ 1]
+陆裕朴．实用骨科学 FJ ] ．北 京 ：人民军医出版社，1991：855—872．
+ 
+[ 2 ]
+R adad K ，Gille G ，Moldzio R ，et a1．Ginsenosides R bl and Rgl 
+eff ec t s on s urv iv al and neurit e g row th of  M P P  af fect ed m es enc e— 
+phalic dopaminergic cells FJ ] ．J Neural T ransm，2004，111( 1) ：
+ 
+37—45．
+ 
+[ 3 ]
+R udak ewich M ，Ba F ，Benishin G G．Neurotrophie and neuropro— 
+tective actions of ginsenosides R bl and Rg l
+[ J ] ．Planta Med，
+ 
+2001 ，67( 6) ：533- 537． 
+[ 4 ]
+Bain J R ，M ackinnon S E ，Hunter D A ．F unctional evaluation of 
+compl et e sciat ic ，peroneal ，and post erior t ibial n erv e lesions in t he 
+rat FJ] ．Plast R econstr Surg，1989，83(1) ：129—138．
+ 
+[ 5 ]
+何振辉．补气通 络方对大 鼠坐骨神 经损 伤后小腿三头肌湿重 的影 
+响[J ] ．中国 中医骨伤科杂志 ，2001，9(1) ：10．
+ 
+[ 6 ]
+杨迎 ，张均 田 ，石成璋 ，等．人参皂 甙 Rgl 对 慢性应激 大鼠空 间学 
+习记忆能力 的影 响[J ] ．解剖学研究 ，2004，26( 1) ：29—31． 
+[ 7]
+胡圣望 ，胡 旺平 ，周红．人参皂 甙 R gl ，Rbl 促智作用机制 的探讨一 
+对小 鼠脑神经发育 的影 响FJ ] ．药学学报 ，1994，29( 4) ：241—245．
+ 
+[ 8 ]
+L i A H ，K e K F ，W u X M ，et a1．E ffects of GSR b一1，R b一3，Rg l 
+again st isch emic iN ury  of cul tu red cort ical n euron s and its mecha— 
+nism [ J] ．J A poplexy Nerv Dis，2004，21(3) ：231—234．
+ 
+[ 9 ]
+方欣 ，杨吉平 ，赖红．人参皂甙 R bl 对老年性痴呆 模型大 鼠顶叶皮 
+质 
+分泌 酶及早 老蛋 白一1 表 达的影 响FJ ]．解剖学 杂志 ，2008，31 
+( 6) ：812- 815． 
+[ 1O]
+方欣 ，杨吉平 ，高旭红．人参皂甙 R bl 对 A D 大 鼠顶叶皮质 
+分泌 
+酶及 P S-1表达 的影 响[J ] ．中 国组 织化学 与细胞化 学杂 志，2008，
+ 
+17( 5) ：459—464． 
+Fl i ]
+L iang W ，Ge S，Y ang L ，et a1．Ginsenosides R bl and Rgl pro— 
+m ot e prolif erat ion and ex pression of n euro troph ic f ac to rs in pr im a— 
+ry Schwann cell cultures [J ]．Brain Res，2010，1357：19—25．
+ 
+[ 12]
+M a J ，¨ W ，T ian R ，et a1．Ginsenoside R gl promotes peripheral 
+nerve regeneration in rat model of nerve crush injury 口] ．Neuros— 
+c i L ett ，20 10 ，4 78 ( 2) ：66—7 1．
+ 
+F13]
+A oki Y ，A n H S，T akahashi K ，et a1．A xonal growth potential of 
+l umbar dorsal root  ganglion neurons in an organ cul tu re sy st em ： 
+r espon se of nerv e grow t h f ac t 0r—sens itiv e neu rons t o neuronal in— 
+jury and an inflammatory cytokine [ J ] ．S pine，2007，15，32( 8) ： 
+827—863．
+ 
+F 14]
+K renz N R ，W eaver L  C  Nerve growth factor in glia and inflam— 
+matory cells of the injured rat spinal cord [ J ] ．J Neurochem， 
+2000 ，74 ( 2) ：730—739．
+ 
+[ 15]
+方芳 ，陈 晓春 ，朱元贵．抗氧化作用可能是人参皂 甙 Rg l 抗 细胞凋 
+亡的机制口]．中国临床药理学 与实验学 ，2002，7( 5) ：412—416．
+ 
+( 编 辑 ：张 志 英 ) 
+一
+7 3
+—  

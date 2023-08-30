@@ -1,0 +1,549 @@
+·基础研究·
+人参皂苷 Rb1 激活 HRD1 信号通路对动脉粥样硬化
+内皮细胞凋亡的影响∗
+∗
+任丽, 吴锡骅, 刘婷, 梅益彰, 苏施雅
+(佛山复星禅诚医院, 广东 佛山　 528031)
+[摘　 要] 目的　 探讨人参皂苷 Rb1(GRb1)激活羟甲基戊二酰辅酶 A 还原酶降解蛋白 1(HRD1)通路对动脉
+粥样硬化介导的内皮细胞凋亡的影响。 方法　 将人主动脉内皮细胞(HAECs)分为正常对照组(NC 组)、模型组
+[氧化低密度脂蛋白(ox-LDL),100 mg/ L]、GRb1 组(50 μmol/ L )、GRb1 + si-NC 组(si-HRD1 阴性对照)和 GRb1 +
+si-HRD1 组,比较各组 HAECs 的细胞活力、活性氧(ROS)、超氧化物歧化酶(SOD)、丙二醛(MDA)水平、细胞凋
+亡、B 细胞淋巴瘤-2(Bcl-2)、半胱氨酸天冬氨酸蛋白酶 3(Caspase-3)、B 细胞淋巴瘤-2 相关 X 蛋白(Bax) 及
+HRD1 蛋白表达。 结果　 与 NC 组比较,模型组细胞活力、SOD 水平、Bcl-2 及 HRD1 蛋白降低,ROS、MDA 水平、
+细胞凋亡率、Caspase-3 及 Bax 蛋白升高,差异有统计学意义(P < 0． 05);与模型组比较,GRb1 组细胞活力、SOD
+水平、Bcl-2 及 HRD1 显著升高,ROS、MDA 水平、细胞凋亡率、Caspase-3 及 Bax 蛋白降低,差异有统计学意义
+(P < 0． 05);沉默 HRD1 逆转了 GRb1 对 ox-LDL 诱导的动脉粥样硬化内皮细胞的影响。 结论　
+GRb1 可能通过
+激活 HRD1 通路抑制 ox-LDL 诱导的动脉粥样硬化内皮细胞凋亡。
+[关键词] 动脉粥样硬化; 人参皂苷 Rb1; 氧化应激; 细胞凋亡; 羟甲基戊二酰辅酶 A 还原酶降解蛋白 1
+[中图分类号] R331. 3; R34　 　 [文献标识码] A　 　 [文章编号] 2096-8388(2022)07-0779-06
+DOI:10. 19367 / j. cnki. 2096-8388. 2022. 07. 006
+Effects of ginsenoside Rb1 activated HRD1 signaling pathway
+on atherosclerosis endothelial apoptosis
+REN Li, WU Xihua, LIU Ting, MEI Yizhang, SU Shiya
+(Foshan Fuxing Chancheng Hospital, Fohsan 528031, Guangdong, China)
+[Abstract] Objective　 To investigate the effects of ginsenoside Rb1 (GRb1) activated hydroxymeth
+ylglutaryl-CoA reductase degradation protein 1 (HRD1) signaling pathway on atherosclerosis-mediated
+endothelial apoptosis. Methods　
+Human aortic endothelial cells (HAECs) were divided into normal
+control group (NC group), model group (oxidized low-density lipoprotein, 100 mg / L), GRb1 group
+(50 μmol/ L), GRb1 + si-NC group ( si-HRD1 negative control) and GRb1 + si-HRD1 group.
+Following items were compared: cellular viability, reactive oxygen species ( ROS ), superoxide
+dismutase ( SOD ), malondialdehyde ( MDA ) levels, apoptosis, B-cell lymphoma-2 ( Bcl-2 ),
+cysteamine Caspase-3 (Caspase-3), B-cell lymphoma-2 related X protein (Bax), and HRD1 protein
+expression. Results 　
+Compared with the NC group, the cellular viability, SOD level, Bcl-2 and
+HRD1 protein in the model group significantly reduced; levels of ROS and MDA, apoptosis rate,
+Caspase-3, and Bax protein significantly increased, differences were statistically significant ( P <
+0． 05); compared with model group, cellular viability, SOD level, Bcl-2, and HRD1 protein in GRb1
+group significantly increased; ROS, MDA level, apoptosis rate, Caspase-3, and Bax protein
+significantly decreased, differences were statistically significant (P < 0. 05); silencing HRD1 reversed
+the effect of GRb1 on ox-LDL-induced atherosclerotic endothelial cells. Conclusion 　
+GRb1 might
+activate the HRD1 pathway to inhibit apoptosis of atherosclerotic endothelial cells induced by ox-LDL.
+79
+7
+第 47 卷　 第 7 期
+2022 年 7 月
+　 　 　
+贵 州 医 科 大 学 学 报
+JOURNAL OF GUIZHOU MEDICAL UNIVERSITY　 　 　 Vol. 47　 No. 7
+2022. 7
+∗[基金项目]广东省佛山市科技攻关项目(1920001000474)
+[Key words] atherosclerosis; ginsenoside Rb1(GRb1); oxidative stress; apoptosis; hydroxymethylgl
+utaryl-CoA reductase degradation protein 1(HRD1)
+　 　 动脉粥样硬化是多种疾病发展的主要原因,如
+脑卒中、心肌梗死和外周动脉疾病,氧化低密度脂
+蛋白(oxidized low density lipoprotein,ox-LDL)是动
+脉粥样硬化发展的重要触发因素[1 - 2]。 动脉粥样
+硬化是脑卒中发生的主要原因之一,由它引起的脑
+卒中具有非常高的发病率和致残率[3 - 4]。 研究发
+现,阻止内皮细胞凋亡可以抑制动脉粥样硬化进
+展[5];人参皂苷 Rb1(ginsenoside Rb1,GRb1) 是人
+参皂苷的主要成分,具有多种生物活性,包括抗氧
+化应激、抗炎等[6],GRb1 可通过抑制细胞凋亡对
+ApoE-/ -小鼠早期动脉粥样硬化发挥抑制作用[7],
+但其抑制内皮细胞凋亡的具体机制尚不完全清楚。
+有研究表明,羟甲基戊二酰辅酶 A 还原酶降解蛋
+白 1 ( hydroxymethylglutaryl-goA reductase degrada-
+tion protein 1,HRD1)参与动脉粥样硬化的发生,在
+患者中呈低表达状态[8];有报道 GRb1 可通过激活
+HRD1 信号通路从而减轻小鼠结肠炎症状[9];但
+GRb1 能否通过调控 HRD1 信号通路抑制动脉粥
+样硬化介导的内皮细胞凋亡尚不明确。 因此,本研
+究利用 ox-LDL 处 理 人 主 动 脉 内 皮 细 胞 ( human
+aortic endothelial cells,HAECs) 构建动脉粥样硬化
+细胞模型,探究 GRb1 对动脉粥样硬化介导的内皮
+细胞凋亡的影响以及作用机制。
+1　 材料与方法
+1． 1　 材料
+1． 1． 1　 细胞来源　 人主动脉内皮细胞 HAECs(上
+海启达生物,货号 ACBRI 375)。
+1． 1． 2　 主要试剂　
+HRD1 小干扰 RNA(si-HRD1)
+及其阴性对照 si-NC 购自北京百泰派克生物科技
+有限公司,CCK-8 试剂盒(货号 YT8193) 购自北京
+伊塔生物科技有限公司,双染细胞凋亡检测试剂盒
+(上海高创化学科技有限公司,货号 G003-1),丙二
+醛(malondialdehyde,MDA) 试剂盒(上海西唐生物
+科技有限公司,货号 F01963),超氧化物歧化酶
+(super oxide dismutase,SOD) 试剂盒(北京杰辉博
+高生物技术有限公司,货号 JM-ELISA-15098)。 兔
+源一抗 HRD1 ( 货号 ab170901)、B 细胞淋巴瘤-2
+(b-cell lymphoma 2,Bcl-2,货号 ab32124)、半胱氨
+酸天冬氨酸蛋白酶 3(cysteine aspastic acid-specific
+protease 3,Caspase-3,货号 ab184787)、B 细胞淋巴
+瘤-2 相 关 X 蛋 白 ( bcl-2-associated X, Bax, 货 号
+ab32503)、GAPDH( 货号 ab9485)、辣根过氧化物
+酶(HRP)标记的山羊抗兔二抗(货号 ab97051) 购
+于 Abcam 公司。
+1． 2　 研究方法
+1． 2． 1　
+细胞培养及分组　
+将 HAECs 细胞置于含
+有 10% FBS 的 DMEM 培养基中,在 37 ℃、5% CO2
+条件下培养,收集对数生长期的 HAECs 细胞,将其
+分为正常对照组(NC 组)、模型组、GRb1 组、GRb1 +
+si-NC 组(si-HRD1 阴性对照组)和 GRb1 + si-HRD1
+组。 其中模型组、GRb1 组、si-HRD1 阴性对照组和
+GRb1 + si-HRD1 组 HAECs 细 胞 分 别 对 应 用
+0 μmol/ L GRb1、50 μmol/ L GRb1[10]、50 μmol/ L
+GRb1 + 转 染 si-NC、50 μmol/ L GRb1 + 转 染 si-
+HRD1[8]处理 12 h 后,加入 100 μg / mL ox-LDL[11]
+处理 24 h。 NC 组细胞正常培养,不做任何处理。
+1． 2． 2　 HAECs 细胞活力　
+将 HAECs 细胞以 5 ×
+103 个/ 100 μL 的密度接种到 96 孔板中,经过相应
+的药物处理后,将 10 μL CCK-8 溶液加入每个孔
+中,并在 37 ℃下孵育 4 h;使用酶标仪检测 450 nm
+处的 OD 值来评估细胞活力。 细胞活力(% ) =
+[(实验组 OD 值 - 空白组 OD 值) / (NC 组 OD 值
+- 空白组 OD 值)] × 100% 。
+1． 2． 3　 氧化应激指标的检测 SOD 和 MDA 表达　
+除去各组细胞培养液,用 PBS 洗涤 3 次后,加入含
+有 10 μmol/ L 2′,7′-二氯荧光黄双乙酸盐的 DMEM
+培养液,在 37 ℃ 下孵育 30 min 后,利用荧光显微
+镜观察细胞在激发波长为 488 nm、 发射波长为
+525 nm处的荧光强度,通过荧光强度的强弱反映
+细胞内的活性氧(ROS)水平;按照 SOD、MDA 试剂
+盒说明书操作步骤检测细胞裂解液中 SOD、MDA
+水平。
+1． 2． 4　
+HAECs 细胞凋亡 　
+收集各组 HAECs 细
+胞,并用 PBS 洗涤 2 次,再向细胞中加入 100 μL
+1 × 结合缓冲液、5 μL Annexin V-FITC 和 5 μL PI,
+室温下孵育 15 min,然后再加入 100 μL 1 × 结合缓
+冲液,利用流式细胞仪分析细胞凋亡情况。
+1． 2． 5　 Caspase-3、Bax、Bcl-2、HRD1 蛋白表达　 将
+细胞用 PBS 洗涤 2 次后,裂解提取总蛋白。 加入抗
+体 Caspase-3(1 ∶ 1 000)、Bax(1 ∶ 1 000)、Bcl-2(1 ∶
+80
+7
+贵 州 医 科 大 学 学 报　
+47 卷　
+1 000)、HRD1(1 ∶ 2 000)、GAPDH(1 ∶ 1 000),山羊
+抗兔二抗(1 ∶ 2 000)在室温下孵育 1 h,通过 ECL 化
+学发光试剂盒检测蛋白质条带显色情况,通过 Im-
+ageJ 软件对蛋白质条带的灰度值进行定量。
+1． 3　 统计学分析
+数据使用统计分析软件 SPSS 19． 0 处理,计量
+资料用平均值 ± 标准差(x ± s)表示。 单因素方差分
+析用于比较多组之间的统计差异,进一步两组间的比
+较使用 SNK-q 检验,P < 0． 05 为差异具有统计学
+意义。
+2 结果
+2． 1　 HAECs 细胞活力
+与 NC 组比较,模型组 HAECs 细胞活力降低,
+差异有统计学意义 ( P < 0． 05); 与模型组比较,
+GRb1 组 HAECs 细胞的活力升高,差异有统计学意
+义(P < 0． 05);与 GRb1 组、si-HRD1 阴性对照组比
+较,GRb1 + si-HRD1 组 HAECs 细胞活力降低,差异
+有统计学意义(P < 0． 05)。 见表 1。
+表 1　 各组 HAECs 细胞活力比较(x ± s,n =6)
+Tab. 1　 Comparison of cellular viability of HAECs
+in each group(x ± s,n =6)
+　 分组
+细胞活力/ %
+NC 组
+96． 78 ± 3． 15
+模型组
+44． 35 ± 3． 02(1)
+GRb1 组
+83． 37 ± 5． 28(2)
+si-HRD1 阴性对照组
+82． 27 ± 5． 11
+GRb1 + si-HRD1 组
+66． 58 ± 3． 42(3)(4)
+注:(1) 与 NC 组比较,P < 0． 05;(2) 与模型组比较,P < 0． 05;(3) 与
+GRb1 组比较,P < 0． 05;(4) 与 si-HRD1 阴性对照组比较,P < 0． 05。
+2． 2　 SOD、ROS、MDA 水平
+与 NC 组比较,模型组 SOD 水平降低,ROS、
+MDA 水平则呈升高的趋势, 差异有统计学意义
+(P < 0． 05);与模型组比较,GRb1 组 SOD 水平升
+高,ROS、MDA 含量降低,差异有统计学意义(P <
+0． 05);与 GRb1 组、 si-HRD1 阴 性 对 照 组 比 较,
+GRb1 + si-HRD1 组 SOD 水平显著降低,MDA、ROS
+水平升高,差异有统计学意义(P < 0． 05)。 见图 1
+和表 2。
+图 1　 各组 HAECs 细胞内 ROS 表达(荧光法, ×100)
+Fig. 1　 Expression of ROS in HAECs cells detected by fluorescence densitometry(fluorescence, ×100)
+表 2　 各组 HAECs 细胞中 SOD、MDA 水平(x ± s,n =6)
+Tab. 2　 Comparison of SOD and MDA contents in
+HAECs cells of each group(x ± s,n =6)
+　 分组
+SOD/ (mU/ L)
+MDA/ (ng/ L)
+NC 组
+79． 25 ± 6． 12
+2． 89 ± 0． 21
+模型组
+48． 51 ± 4． 07(1)
+6． 65 ± 0． 34(1)
+GRb1 组
+72． 31 ± 4． 35(2)
+3． 47 ± 0． 22(2)
+si-HRD1 阴性对照组
+73． 35 ± 4． 13
+3． 50 ± 0． 24
+GRb1 + si-HRD1 组
+59． 68 ± 3． 54(3)(4)
+5． 18 ± 0． 27(3)(4)
+注:(1) 与 NC 组比较,P < 0． 05;(2) 与模型组比较,P < 0． 05;(3) 与
+GRb1 组比较,P < 0． 05;(4) 与 si-HRD1 阴性对照比较,P < 0． 05。
+2． 3　 HAECs 细胞凋亡
+与 NC 组比较,模型组 HAECs 细胞凋亡率升
+高,差异有统计学意义(P < 0． 05);与模型组比较,
+GRb1 组 HAECs 细胞凋亡率降低,差异有统计学意
+义(P < 0． 05);与 GRb1 组、si-HRD1 阴性对照组比
+较,GRb1 + si-HRD1 组 HAECs 细胞凋亡率升高,差
+异有统计学意义(P < 0． 05)。 见图 2 和表 3。
+81
+7
+　 7 期
+任丽等　 人参皂苷 Rb1 激活 HRD1 信号通路对动脉粥样硬化内皮细胞凋亡的影响
+图 2　 流式细胞仪分析各组 HAECs 细胞凋亡情况
+Fig. 2　 Apoptosis of HAECs cells in each group analyzed by flow cytometry
+表 3　 各组 HAECs 细胞凋亡率比较(x ± s,n =6)
+Tab. 3　 Comparison of apoptosis rate of HAECs
+in each group(x ± s,n =6)
+　 分组
+细胞凋亡率/ %
+NC 组
+3． 21 ± 0． 13
+模型组
+18． 62 ± 1． 41(1)
+GRb1 组
+7． 26 ± 0． 21(2)
+si-HRD1 阴性对照组
+7． 34 ± 0． 25
+GRb1 + si-HRD1 组
+13． 67 ± 1． 15(3)(4)
+注:(1) 与 NC 组比较,P < 0． 05;(2) 与模型组比较,P < 0． 05;(3) 与
+GRb1 组比较,P < 0． 05;(4) 与 si-HRD1 阴性对照组比较,P < 0． 05。
+2． 4　 Caspase-3、Bax、Bcl-2 蛋白表达
+与 NC 组比较,模型组 HAECs 细胞中 Caspase-
+3、Bax 蛋白表达升高,Bcl-2 蛋白表达降低,差异有
+统计学意义( P < 0． 05);与模型组比较,GRb1 组
+HAECs 细胞中 Caspase-3、Bax 蛋白表达降低,Bcl-2
+蛋白表达升高,差异有统计学意义(P < 0． 05);与
+GRb1 组、 si-HRD1 阴 性 对 照 组 比 较, GRb1 + si-
+HRD1 组 HAECs 细胞中 Caspase-3、Bax 蛋白表达
+升高, Bcl-2 蛋 白 表 达 降 低, 差 异 有 统 计 学 意 义
+(P < 0． 05)。 见图 3 和表 4。
+图 3　 Western blot 检测 HAECs 细胞中
+Caspase-3、Bax、Bcl-2 蛋白表达
+Fig. 3　 Expression of Caspase-3, Bax, and Bcl-2
+proteins in HAECs cells by Western blot
+82
+7
+贵 州 医 科 大 学 学 报　
+47 卷　
+表 4　 各组 HAECs 细胞中 Caspase-3、Bax、
+Bcl-2 蛋白表达(x ± s,n =6)
+Tab. 4　 Expression of Caspase-3, Bax, and Bcl-2
+in HAECs of each group(x ± s,n =6)
+　 分组
+Caspase-3 / GAPDH　 Bax/ GAPDH
+Bcl-2 / GAPDH
+NC 组
+0． 20 ± 0． 01　
+0． 41 ± 0． 03
+0． 78 ± 0． 06
+模型组
+0． 63 ± 0． 04(1)
+1． 18 ± 0． 09(1)
+0． 15 ± 0． 01(1)
+GRb1 组
+0． 31 ± 0． 02(2)
+0． 57 ± 0． 04(2)
+0． 52 ± 0． 05(2)
+si-HRD1 阴性对照组 0． 32 ± 0． 02
+0． 58 ± 0． 03
+0． 50 ± 0． 04
+GRb1 + si-HRD1 组 0． 49 ± 0． 03(3)(4)0． 82 ± 0． 06(3)(4)0． 37 ± 0． 02(3)(4)
+注:(1) 与 NC 组比较,P < 0． 05;(2) 与模型组比较,P < 0． 05;(3) 与
+GRb1 组比较,P < 0． 05;(4) 与 si-HRD1 阴性对照组比较,P < 0． 05。
+2． 5　
+HRD1 通 路 相 关 蛋 白 在 HAECs 细 胞 中 的
+表达
+与 NC 组比较,模型组 HAECs 细胞中 HRD1
+蛋白表达降低,差异有统计学意义(P < 0． 05);与
+模型组比较,GRb1 组 HAECs 细胞中 HRD1 蛋白表
+达升高,差异有统计学意义(P < 0． 05);与 GRb1
+组、si-HRD1 阴性对照组比较,GRb1 + si-HRD1 组
+HAECs 细胞中 HRD1 蛋白表达降低,差异有统计
+学意义(P < 0． 05)。 见图 4 和表 5。
+图 4　 Western blot 检测 HAECs 细胞中 HRD1 蛋白表达
+Fig. 4　 HRD1 protein expression in HAECs
+cells by Western blot
+表 5　 各组 HAECs 细胞中 HRD1 蛋白表达(x ± s,n =6)
+Tab. 5　 Expression of HRD1 protein in HAECs
+cells of each group(x ± s,n =6)
+　 分组
+HRD1 / GAPDH
+NC 组
+0． 89 ± 0． 07
+模型组
+0． 24 ± 0． 01(1)
+GRb1 组
+0． 72 ± 0． 06(2)
+si-HRD1 阴性对照组
+0． 71 ± 0． 05
+GRb1 + si-HRD1 组
+0． 36 ± 0． 04(3)(4)
+注:(1) 与 NC 组比较,P < 0． 05;(2) 与模型组比较,P < 0． 05;(3) 与
+GRb1 组比较,P < 0． 05;(4) 与 si-HRD1 阴性对照组比较,P < 0． 05。
+3　 讨论
+动脉粥样硬化是脑血管疾病发生的主要原因。
+大量研究证实,ox-LDL 是动脉粥样硬化发生和发
+展的关键因素,ox-LDL 通过与低密度脂蛋白受体 1
+结合诱导 ROS 大量产生,大量的 ROS 可以进一步
+上调 ox-LDL 的形成并激活脂质过氧化,这可能导
+致细胞凋亡和氧化应激增加[12 - 13]。 有研究报道,
+ROS 的增加会促使血管内皮细胞氧化应激增加,
+与动脉粥样硬化的发生发展有相关性[14];SOD、
+MDA 分别作为衡量机体抗氧化、氧化能力的重要
+指标,已有研究显示在动脉粥样硬化大鼠血清中,
+MDA 含量上升,SOD 活性下降[15]。 本研究发现,
+与 NC 组比较,模型组 HAECs 细胞中 SOD 水平显
+著降低,ROS、MDA 水平则显著升高,提示 ox-LDL
+诱导的 HAECs 细胞氧化应激增加。 Zhang 等[16] 研
+究发现,ROS 诱导的氧化应激增加,最终会促进血
+管内皮细胞的凋亡。 作为细胞凋亡的标志性蛋白,
+Bcl-2 可促进细胞存活,Bax 会增加细胞凋亡,而
+Caspase-3 作为调节中心来控制细胞凋亡的发生,
+且在进一步激活凋亡酶方面发挥核心作用[17 - 18]。
+与 NC 组比较,模型组 HAECs 细胞活力、Bcl-2 蛋
+白相对表达量显著降低,细胞凋亡率、Caspase-3、
+Bax 蛋白相对表达量显著升高,表明 ox-LDL 诱导
+的 HAECs 细胞存在大量凋亡现象。 以上结果提
+示,ox-LDL 诱导的动脉粥样硬化细胞模型构建成
+功。 GRb1 是 从 人 参 中 提 取 的 主 要 活 性 成 分 之
+一[19 - 20],近年来发现 GRb1 还具有强大的血管保
+护潜力[21 - 22]。 如 GRb1 可抑制大鼠球囊损伤引起
+的颈动脉新生血管内膜增生[23];GRb1 可促进受损
+颈动脉的再内皮化[24];GRb1 在动脉粥样硬化患者
+中有稳定斑块的作用[25]。 而关于 GRb1 对动脉粥
+样硬化介导的内皮细胞凋亡的影响鲜有报道。 本
+研究 结 果 显 示, 与 模 型 组 比 较, HAECs 细 胞 经
+GRb1 处理后活力升高,氧化应激减弱,细胞凋亡
+率显著降低,提示 GRb1 可能通过抑制氧化应激降
+低 ox-LDL 诱导的动脉粥样硬化内皮细胞凋亡。
+HRD1 是一种 E3 泛素连接酶,已有研究报道,上调
+HRD1 表 达 可 抑 制 ox-LDL 诱 导 的 内 皮 细 胞 凋
+亡[8];高表达的 HRD1 能够抑制 ox-LDL 导致的人
+脐静脉血管内皮细胞凋亡[26]。 而 GRb1 能否通过
+调控 HRD1 通路抑制 ox-LDL 诱导的 HAECs 细胞
+凋亡尚不清楚。 本研究结果显示,与 NC 组对比,
+83
+7
+　 7 期
+任丽等　 人参皂苷 Rb1 激活 HRD1 信号通路对动脉粥样硬化内皮细胞凋亡的影响
+模型组 HAECs 细胞中 HRD1 蛋白相对表达量显著
+降低,推测 HRD1 通路可能参与了 ox-LDL 诱导的
+动脉粥样硬化内皮细胞凋亡过程。 与模型组比较,
+GRb1 组 HAECs 细胞中 HRD1 蛋白相对表达量显
+著升高,推测 GRb1 可能通过激活 HRD1 通路抑制
+低 ox-LDL 诱导的内皮细胞凋亡。 为了验证该推
+测,本研究利用 HRD1 小干扰 RNA 进行干预,结果
+显示,与 GRb1 组比较,GRb1 + si-HRD1 组 HAECs
+细胞中 HRD1 蛋白相对表达量、细胞活力降低,氧
+化应激增强,细胞凋亡率升高,表明 si-HRD1 可逆
+转 GRb1 对 ox-LDL 诱导的动脉粥样硬化内皮细胞
+凋亡的抑制作用。
+综上所述,GRb1 可能通过激活 HRD1 通路抑
+制氧化应激,进而抑制 ox-LDL 诱导的动脉粥样硬
+化内皮细胞凋亡。 然而关于 GRb1 调节 ox-LDL 诱
+导的动脉粥样硬化内皮细胞凋亡涉及的通路较多,
+有待后续实验进一步深入探究。
+4　 参考文献
+[1] GENG J, XU H, FU W, et al. Rosuvastatin protects against
+endothelial cell apoptosis in vitro and alleviates atherosclero-
+sis in ApoE-/ -mice by suppressing endoplasmic reticulum
+stress[J]. Exp Ther Med,2020,20(1):550 - 560.
+[2] 黄力君,谢丽英,陈朝俊. 参七脉心通胶囊联合辛伐他
+汀治疗动脉粥样硬化的临床疗效观察及对血清 ox-
+LDL、ET-1、NO 的影响[J]. 江西中医药,2021,52(8):
+47 - 49.
+[3] SONG N, JIA L, CAO H, et al. Gypenoside inhibits en-
+dothelial cell apoptosis in atherosclerosis by modulating
+mitochondria through PI3K/ Akt/ Bad pathway [ J].
+Bi-
+omed Res Int,2020,2020(1): 2819658 - 2819669.
+[4] 郭旭男,边云飞,张玥,等. 非编码 RNA 调控的细胞焦
+亡在动脉粥样硬化中作用机制的研究进展[J]. 实用
+心脑肺血管病杂志,2021,29(12):136 - 140.
+[5] CHEN S, LI X, WANG Y, et al. Ginsenoside Rb1 atten-
+uates intestinal ischemia/ reperfusion- induced inflamma-
+tion and oxidative stress via activation of the PI3K/ Akt/
+Nrf2 signaling pathway[J]. Mol Med Rep,2019,19(5):
+3633 - 3641.
+[6] 李玉萍,苗伟,高苇航,等. 人参皂苷 Rb1 对小鼠脂性
+肝细胞模型脂质沉积与氧化应激的影响[J]. 中药新
+药与临床药理,2021,32(7):939 - 944.
+[7] ZHOU P, XIE W, LUO Y,et al. Inhibitory effects of gin-
+senoside Rb1 on early atherosclerosis in apoE-/ -mice via
+inhibition of apoptosis and enhancing autophagy[J]. Mol-
+ecules,2018,23(11): 2912 - 2926.
+[8] LI Q, XUAN W, JIA Z, et al. HRD1 prevents atherosclero-
+sis-mediated endothelial cell apoptosis by promoting LOX-1
+degradation[J]. Cell Cycle,2020,19(12):1466 -1477.
+[9] DONG J Y, XIA K J, LIANG W, et al. Ginsenoside Rb1
+alleviates colitis in mice via activation of endoplasmic re-
+ticulum-resident E3 ubiquitin ligase Hrd1 signaling path-
+way[J]. Acta Pharmacol Sin,2021,42(9):1461 - 1471.
+[10]KE S Y, YU S J, LIU D H, et al. Ginsenoside Rb1 pro-
+tects human umbilical vein endothelial cells against high
+glucose-induced mitochondria-related apoptosis through
+activating SIRT3 signalling pathway [ J]. Chin J Integr
+Med,2021,27(5):336 - 344.
+[11]羌玲玉,汤小星,孙晓晖. miR-142-5p 通过直接靶向
+ELK1 调控动脉粥样硬化内皮细胞凋亡[J]. 中国老年
+学杂志,2020,40(23):5026 - 5031.
+[12]HU Y, XU R, HE Y, et al. Downregulation of microR-
+NA106a5p alleviates oxLDLmediated endothelial cell in-
+jury by targeting STAT3 [ J]. Mol Med Rep,2020,22
+(2):783 - 791.
+[13]肖园元,李东泽,贾禹,等. 地中海饮食通过抗氧化应
+激抑制动脉粥样硬化血栓形成[J]. 医学综述,2021,
+27(18):3662 - 3668.
+[14]CAI X, SHE M, XU M, et al. GLP-1 treatment protects
+endothelial cells from oxidative stress-induced autophagy
+and endothelial dysfunction[J]. Int J Biol Sci,2018,14
+(12):1696 - 1708.
+[15]杜英杰,赵印涛,孔令娟,等. 荷丹片对动脉粥样硬化
+大鼠血管内皮的保护作用[J]. 基因组学与应用生物
+学,2020,39(2):890 - 894.
+[16]ZHANG B, ZHANG Y, LI R, et al. Knockdown of circu-
+lar RNA hsa_circ_0003204 inhibits oxidative stress and
+apoptosis through the miR-330-5p/ Nod2 axis to ameliorate
+endothelial cell injury induced by low-density lipoprotein
+[J]. Cent Eur J Immunol, 2021,46(2):140 -151.
+[17]KALE J, OSTERLUND E J, ANDREWS D W. BCL-2
+family proteins: changing partners in the dance towards
+death[J]. Cell Death Differ,2018,25(1):65 - 80.
+[18]ZHANG Y, LIN F, YAN Z, et al. Salidroside downregu-
+lates microRNA133a and inhibits endothelial cell apopto-
+sis induced by oxidized lowdensity lipoprotein[J]. Int J
+Mol Med,2020,46(4):1433 - 1442.
+[19] 王倩,万品文,曹丽楠,等. 人参皂苷 Rbl 对小鼠皮肤
+光老化氧化应激的改善作用[J]. 广州中医药大学学
+报,2021,38(11):2479 - 2484.
+[20]王睿智,陈志文,邵乐,等. 人参皂苷 Rb1 通过调控 Nrf2/
+ARE 信号通路抗氧糖剥夺/ 复氧后神经细胞焦亡的研究
+[J]. 中国药理学通报,2021,37(10):1383 - 1390.
+(下转第 795 页)
+84
+7
+贵 州 医 科 大 学 学 报　
+47 卷　
+mia of carp virus [ J]. Journal of Virological Methods,
+2016, 229(3): 27 - 34.
+[10]SHEN Y F, LIU L, CHEN W C, et al. Evaluation on the
+antiviral activity of arctigenin against spring viraemia of
+carp virus[J]. Aquaculture, 2018, 483(82):17 - 26.
+[11]DIXON P, PALEY R, ALEGRIAMORAN R, et al. Epi-
+demiological characteristics of infectious hematopoietic
+necrosis virus ( IHNV): a review [ J]. Veterinary Re-
+search, 2016, 47(1): 63.
+[12]AHMADIVAND S, SOLTANI M, MARDANI K, et al.
+Infectious hematopoietic necrosis virus (IHNV) outbreak
+in farmed rainbow trout in Iran: viral isolation, pathologi-
+cal findings, molecular confirmation, and genetic analysis
+[J]. Virus Research, 2017, 229(2): 17 - 23.
+[13]HU Y, LIU L, LI B Y, et al. Synthesis of arctigenin de-
+rivatives against infectious hematopoietic necrosis virus
+[J]. European Journal of Medicinal Chemistry, 2019,
+163(2): 183 - 194.
+[14]李靓, 谢巍, 姜志胜, 等. 我国动脉粥样硬化基础研
+究近三年进展 [ J]. 中国动脉硬化杂志, 2015, 23
+(11):1182 - 1188.
+[15]罗冬娇. Ⅲ型 PI3K 调控 NADPH 氧化酶活性促进血
+小板活化和血栓形成[D]. 杭州: 浙江大学, 2016.
+[16]余华军, 伍俊, 吴尚, 等. 麒麟菜多肽对血小板聚集
+及角叉菜胶诱导的小鼠尾部血栓形成的影响[J]. 解
+放军医学杂志, 2018, 43(2):96 - 100.
+[17] KASAHARA K, KANEDA M, MIKI T, et al. Clot re-
+traction is mediated by factor XIII-dependent fibrin-
+αIIbβ3-myosin axis in platelet sphingomyelin-rich mem-
+brane rafts[J]. Blood, 2013, 122(19):3340 - 3348.
+[18]魏陵博, 戎冬梅, 吉中强, 等. 角叉菜胶致大鼠尾部
+血栓形成的机制[J]. 中西医结合心脑血管病杂志,
+2008, 6(5):542 - 543.
+[19]WANG G Q, XU T, BU X M, et al. Anti-inflammation
+effects of corn silk in a rat model of carrageenin-induced
+pleurisy[J]. Inflammation, 2012, 35(3):822 - 827.
+[20]宋伟. 丹参新酮抗血小板作用及对血栓形成的影响
+[D]. 武汉:华中科技大学, 2018.
+(2022-04-08 收稿,2022-06-28 修回)
+中文编辑: 刘　 平; 英文编辑: 赵　 毅
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+(上接第 784 页)
+[21]ZHANG X, LIU M H, QIAO L, et al. Ginsenoside Rb1
+enhances atherosclerotic plaque stability by skewing mac-
+rophages to the M2 phenotype [ J].
+J Cell Mol Med,
+2018,22(1):409 - 416.
+[22]张潇,张金枝,刘真真,等. 人参皂苷 Rb1 对脑梗死大
+鼠血管新生的作用及机制研究[J]. 解放军医药杂志,
+2019,31(4):10 - 15.
+[23] ZHANG S, DENG J, GAO Y, et al. Ginsenoside Rb1
+inhibits the carotid neointimal hyperplasia induced by bal-
+loon injury in rats via suppressing the phenotype modula-
+tion of vascular smooth muscle cells[J]. Eur J Pharma-
+col,2012,685(1 - 3):126 - 132.
+[24]LAN T H, XU D P, HUANG M T, et al. Ginsenoside
+Rb1 prevents homocysteine-induced EPC dysfunction via
+VEGF/ p38MAPK and SDF-1 / CXCR4 activation[J]. Sci
+Rep,2017,7(1):13061 - 13070.
+[25]YANG X, WANG L, ZHANG Z, et al. Ginsenoside Rb1
+enhances plaque stability and inhibits adventitial vasa va-
+sorum via the modulation of miR-33 and PEDF[J]. Front
+Cardiovasc Med,2021 ,8(1):654670 - 654679.
+[26]玄文颖,李红妍,杨珣,等. HRD1 在 oxLDL 刺激的人
+脐静脉血管内皮细胞中的表达及意义[J]. 南京医科
+大学学报(自然科学版),2016,36(5):559 - 563.
+(2022-03-20 收稿,2022-06-03 修回)
+中文编辑: 刘　 平; 英文编辑: 赵　 毅
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+(上接第 790 页)
+[18]LUO Y, LI J, WANG B, et al. Protective effect of gly-
+cyrrhizin on osteoarthritis cartilage degeneration and in-
+flammation response in a rat model[ J]. J Bioenerg Bi-
+omembr, 2021, 53(3):285 - 293.
+[19]XIE J, LIN J, WEI M, et al. Sustained akt signaling in
+articular chondrocytes causes osteoarthritis via oxidative
+stress-induced senescence in mice[J]. Bone Res, 2019,
+7(1):23 - 32.
+[20]GUAN P P, DING W Y, WANG P. The roles of prosta-
+glandin F2 in regulating the expression of matrix metallo-
+proteinase-12 via an insulin growth factor-2-dependent
+mechanism in sheared chondrocytes[J]. Signal Transduct
+Target Ther, 2018, 3(1):27 - 40.
+(2022-04-05 收稿,2022-06-18 修回)
+中文编辑: 喻馨兰; 英文编辑: 张启芳
+95
+7
+　 7 期
+潘彩燕等　 牛蒡苷元对小鼠断尾出血时间和血栓形成的影响

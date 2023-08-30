@@ -1,0 +1,517 @@
+6
+v01．30
+No．5
+May
+2021
+武警后勤学院学报( 医学版)
+J ournal of Logi st i cs Uni versi t y of PAP( Medi cal Sci ences)
+第30卷第5期
+2021年5月
+人参总皂苷对MPTP诱导的小鼠帕金森病的认知功能和神经
+炎症的影响
+李双英，王聪聪，钟士江( 武警特色医学中心神经内科，天津300162)
+摘要：【目的】探讨人参总皂苷对l 一甲基一4一苯基一1，2，3，6- 四氢吡啶( 1- methyl 一4一phenyl —l ，2，3，6一tetrahydropyri di ne，MPTP)
+诱导的小鼠帕金森病的认知功能影响。【方法】选取80只健康C57小鼠按照区组随机划分为4组：对照组帕金森病( Parki nson’
+s
+di sease，PD) 组、对照人参皂苷组、PD人参皂苷组，每组20只。PD模型颈部皮下注射MPTP，剂量为30mg／kg，连续8 d，对照组
+注射等量的生理盐水( 0．9％NaCI ) 。将人参总皂苷溶解在生理盐水中，给予小鼠100mg／kg的腹腔注射剂量，给药8d，第9天进
+行行为学实验。采用新物体识别实验和恐惧条件箱实验检测小鼠认知功能改变。PCR和west embl ot t i ng检测小鼠脑内炎症因
+子和Tamm—Harsef al l ( TH) 蛋白表达的改变。【结果】在新物体识别实验中，与对照组相比，PD组小鼠的辨别指数明显降低；与
+PD组相比，PD人参皂苷组小鼠的辨别指数明显增强。在恐惧条件箱实验中，与对照组相比，PD组小鼠的不动时间明显降低；
+与PD组相比，PD人参皂苷组小鼠的不动时间明显增加。与对照组相比，PD组小鼠的肿瘤坏死因子一oL( t umor necrosi sf act or—
+ot ，TNF—ot ) 和白介素一113( i nt erl euki n一113，I L一1i s) 的mRNA水平明显增高；与PD组相比，PD人参皂苷组小鼠的TNF一0【、I L一1B的
+mRNA水平明显降低。与对照组相比，PD组小鼠的TH蛋白水平明显降低；与PD组相比，PD人参皂苷组小鼠的TH蛋白水平明
+显升高。【结论】PD能导致C57小鼠记忆能力下降并产生神经炎症反应，人参总皂苷对PD小鼠的认知功和神经炎症有一定的
+缓解。
+关键词：l 一甲基一4一苯基一1，2，3，6- 四氢吡啶；认知功能；帕金森病；人参总皂苷；神经炎症
+【文章编号】2095—3720( 2021) 05—0006—05
+【中图分类号】R285
+【文献标志码】A
+Ef f ect
+of
+gi nsenosi des
+on cogni t i ve f unct i on and
+neuroi nf l ammat i on
+of
+MPTP- i nduced
+Parki nson。S di sease i n mi ce
+LI Shuang—yi ng，WANG Cong—cong，ZHONG Shi - j i ang( Depart ment
+of
+Neurol ogy，Charact eri st i c Medi cal
+Cent er
+of
+PAP，Ti anj i n 3001 62，Chi na)
+Abstract：【Obj ecti ve】To expl ore t he ef f ect of gi nsenosi des on cogni t i ve f unct i on of
+1一met hyl 一4一phenyl - 1，2，3，6一t et rahydropyri di ne
+( MPTP) 一i nduced Parki nson’
+s di sease i n mi ce．【Met hods] A t ot al of 80 heal t hy C57 mi ce were randoml y di vi ded i nt o 4 groups：cont rol
+group，Parki nson’
+s di sease( PD) group，cont rol
+gi nsenosi de group and PD gi nsenosi de group，wi t h 20 mi ce i n each group．The PD model
+was subcut aneousl y i nj ect ed wi t h MPTP at
+a dose of 30 mg／kg f or 8 consecut i ve days．The mi ce i n t he cont rol
+group were i nj ect ed wi t h
+t he
+same
+amount
+of
+normal
+sal i ne f 0．9％NaCl ) ．The
+t ot al
+gi nsenosi des
+were
+di ssol ved
+i n
+normal
+sal i ne，and mi ce
+were gi ven
+i nt raperi t oneal
+i nj ect i on of
+100 mg／kg f or 8 days andbehavi oral
+experi ment s were conduct ed
+at
+t he 9t h day．The cogni t i ve f unct i on of
+mi ce was det ect ed by newobj ect recogni t i on experi ment and f ear condi t i on box t est ．I nf l ammat ory f act ors and TH prot ei n expressi oni n
+mouse brai n
+were det ect edby PCR and West ern bl ot t i ng．【Resul t s】I n t he new obj ect
+recogni t i on experi ment ，compared wi t h t he
+cont rol
+group，t he di scri mi nat i on i ndex of PD group was si gni f i cant l y l ower．Compared wi t h t he PD group，t he di scri mi nat i on i ndex of PD
+gi nsenosi de group was si gni f i cant l y i ncreased．I n t he f ear condi t i on box t est ，compared wi t h t he cont rol
+group，t he i mmobi l i t y t i me of PD
+【收稿日期】2021—01—20；[ 修回日期] 2021—04—06
+[ 作者简介] 李双英，硕士，主治医师，主要从事神经内科脑血管病、
+帕金森、失眠、头痛等方向的研究。
+group was si gni f i cant l y decreased．Compared wi t h t he PD group，t he
+i mmobi l i t y t i me of PD gi nsenosi de group was si gni f i cant l y i ncreased．
+The resul t s of PCR showed t hat compared wi t h t he cont rol
+group，t he
+mRNA l evel s of t umor necrosi s f act or- a( TNF—d1 and i nt erl euki n-
+万方数据
+第30卷第5期
+武警后勤学院学报( 医学版)
+v01．30
+No～
+．
+2021年5月
+J ournal of Logi st i cs Uni versi t v of PAP( Medi cal Sci ences)
+May
+2021
+，
+113( IL一1B) i n t he PD group were si gni f i cant l y i ncreased．Compared wi t h t he PD group，t he mRNA l evel s of TNF- a and I L- 113 i n t he PD
+gi nsenosi de group were obvi ousl y decreased．The resul t s
+of TH prot ei n showed t hat compared wi t h t he cont rol
+group，t he l evel
+of TH
+prot ei n i n t he PD group was si gni f i cant l y l ower．Compared wi t h t he PD group，TH prot ei n l evel of PD gi nsenosi de group was si gni f i cant l y
+i ncreased．【Concl usi on】PD can decrease t he memory
+abi l i t y and i nduce
+neuroi nf l ammat i oni n C57 mi ce，and舀nsenosi des
+can
+i mprove t he cogni t i ve f unct i on and al l evi at e t he neuroi nf l ammat i on i n PD mi ce．
+Key
+words：
+1～met hyl 一4一phenyl 一1，2，3，6- t et rahydropyri di ne；Cogni t i ve
+f unct i on；Parki nson’
+S
+di sease；Gi nsenosi des；
+Neuroi nf l ammat i on
+帕金森病( Parki nson’ S di sease，PD) 是一种渐进
+的神经退行性疾病n剖。临床表现为静息性震颤、运
+动迟缓和肌肉僵硬，并伴有自主神经功能障碍、认
+知障碍等非运动症状，是老年人中仅次于痴呆的第
+2大常见神经退行性疾病H1。其核心病理变化是黑
+纹状体多巴胺通路的进行性变性，脑黑质区多巴胺
+能神经元丢失，纹状体多巴胺分泌减少，多巴胺大
+量耗竭b正1。多巴胺作为一种内源性神经毒素，通过
+氧化和酶分解代谢两个过程来产生活性代谢产物
+和活性氧分子。而它作为神经元用来调节运动输
+出的神经递质，多巴胺能神经元丧失将导致相关运
+动性症状。PD的早期阶段包括黑质腹侧多巴胺能
+神经元的丧失，而由于认知损伤功能区域、病程以
+及病情存在差异，PD认知功能障碍临床表现复杂多
+样，发病早期不易鉴别，但随着病情进展不断加剧，
+PD患者早期的认知功能障碍可演变为PD性痴
+呆[ 7] 。认知障碍影响患者的工作生活，但目前其发
+病机制尚不清楚，既往研究则认为其机制与d一突触
+核蛋白的稳定、氧化应激、线粒体功能障碍、钙稳态
+的破坏、轴突运输受损和神经炎症有关阳1。近年来
+神经免疫炎症作为PD的发病机制之一受到普遍关
+注。1一甲基一4～苯基一1，2，3，6一四氢吡啶( 1- methyl 一
+4- phenyl - 1，2，3，6一t et rahydropyri di ne，MPTP) 的毒性
+引起PD是公认动物模型。已有大量研究表明
+MPTP可引起人、小鼠和灵长类动物的学习记忆功
+能减退阳] 。
+人参在AD患者的神经和其他系统、大脑稳态
+和认知表现等方面具有多种生理和药理作用口⋯ 。
+近年研究表明，人参提取物可促进脑缺血后海马神
+经发生。然而，对人参的活性成分及其信号转导机
+制尚未见报道。从人参中分离出的有效成分人参
+总皂苷是一种含有溶血磷脂酸( 1ysobi sphosphat i di c
+aci ds，LPA) 的糖酵素蛋白n“ 。已有研究表明，人参
+总皂苷加强了海马区域的突触传递n⋯ 。在阿尔茨
+海默病转基因动物模型中，人参总皂苷激活非淀粉
+样物质生成途径，增强长期记忆障碍，减轻淀粉样B
+斑块的沉积，降低海马胶质细胞的活性n3|。基于先
+前人参总皂苷的作用，本研究假设其可能在体内对
+多巴胺能神经元细胞产生保护作用。因此，本研究
+探讨人参总皂苷在MPTP作用后的PD小鼠模型中
+是否具有降低神经免疫炎症反应的作用，从而达到
+神经保护的效果，改善其学习记忆功能。
+1材料与方法
+1．1
+一般材料
+1．1．1实验动物雄性C57小鼠80只，SPF级，体质量
+为18～22 g，在室温、湿度分别为60％和10％的条件
+下，昼夜循环自由进食和饮水。
+1．1．2主要试剂与仪器MPTP购于美国Si gma，人参
+总皂苷( Rbl 、Rb2、Rc、Rd、Re、Rgl 和R92) 由吉林大
+学提供。TransZol 、TransScri pt Al l —i n—one cDNA ki t、
+TransSt art Top Green qPCR SuperMi x均购于北京全
+式金生物。兔单克隆Tamm—Harsef al l ( TH) 蛋白一
+抗购于Abcam，鼠GAPDH一抗、山羊抗兔二抗、山羊
+抗鼠二抗购于索莱宝。新物体识别测试系统、恐惧
+条件箱系统购于上海欣软信息科技。CFX96 Touch
+实时荧光定量PCR仪购于Bi o—Rad。
+1．2
+方
+法
+1．2．1模型制备与分组将小鼠随机分为4组，每组
+20只，分别为对照组、PD组、对照人参皂苷组、PD
+人参皂苷组。PD模型颈部皮下注射MPTP，剂量为
+30 mg／kg，连续8 d，对照组注射等量的生理盐水
+( 0．9％NaCl ) 。将人参总皂苷溶解在生理盐水中，给
+予小鼠100 mg／kg的腹腔注射剂量[ ” 1，给药8 d，第9
+天进行行为学实验，每组选取5只小鼠进行新物体
+识别实验，5只进行恐惧条件箱实验，5只进行PCR
+实验，5只进行West ern bl ot t i ng实验。
+1．2．2新物体识别实验新物体识别实验用来检测
+实验动物的学习记忆功能，特点是识别能力不受动
+万方数据
+8
+v01．30
+No．5
+Mav
+2021
+武警后勤学院学报( 医学版)
+J ournal
+of Logi st i cs Uni versi t y of PAP( Medi cal Sci ences)
+第30卷第5期
+2021年5月
+物运动功能影响，进行新型物体的探索。测试工具
+为开口的塑料箱( 40 cmx 40 cm× 40 cm) ，准备A、
+B、C 3个大小材质相同的特制立方体( 5 cmx 5 cm×
+5 cm) ，其中A、B物体颜色完全一样，c物体颜色与
+A、B物体完全不同。新物体识别实验包括训练实验
+和测试实验，实验开始前每天对实验小鼠进行抚摸，
+以减轻应激刺激，训练实验的前1天将动物放在测
+试的房间内，适应测试环境。在训练实验中，将实验
+小鼠与A和B两物体放入场地内，进行5 rai n识别。
+4 h后进行测试实验，将场地内的B物体换作c物体，
+仍将小鼠放人实验场地，记录5 rai n。实验结束时将
+小鼠放回饲养处，观察指标为探索新物体的时间
+( expl orat i on t i me f or newobj ect ，Tn) 和旧物体的时问
+( expl orat i on t i me f or f ormer obj ect ，Tf ) ，最后进行识别
+系数的计算，公式为：识别系数=( Tn—Tf ) ／( Tn+Tf ) 。
+1．2．3恐惧条件箱实验恐惧条件实验同样也可用
+来检测实验动物的记忆能力，测试工具为可控制声
+光电的实验箱体，箱体底部为带电的电栏，本实验
+也包括训练实验和测试实验，实验开始前每天对实
+验小鼠进行抚摸，以减轻应激刺激，训练实验的前1
+天将动物放在测试的房间内，适应测试环境。训练
+实验声音为20 Hz，电流为0．3 mA，时间为6 rai n，连
+续训练2 d，第3天进行测试，测试时间为6 rai n。观
+察指标则是动物不动时间。训练实验条件和测试
+条件见图1。
+图1恐惧条件箱训练和测试实验不意图
+1．2．4 PCR实验将小鼠用浓度为4％的水合氯醛，
+0．01 ml ／g，腹腔注射麻醉，处死后提取小鼠海马组
+织，加入1 ml 的TransZol ，匀浆后后加入0．2 ml 氯仿
+充分震荡静置10 rai n。12 000 r／mi n 4 oC离心15 rai n，
+取最上层无色的水相置于新的EP管中加入等体积
+异丙醇，颠倒混匀，室温静置5 rai n，然后12 000 r／mi n
+4℃离心10 mi n，弃上清，保留胶状沉淀。加入0．5 ml
+DEPC水配置的75％乙醇，剧烈涡旋后7 500 r／rai n
+4℃离心5 rai n，晾干后加50 txl RNA溶解液，进行浓
+度检测后，反转体系为20“ l ，其中RNA加入1
+I．zg，
+37 c{C
+15 rai n，85
+oC 5 S，进行反转。将引物及cDNA
+和试剂盒其他试剂轻轻混匀后，放入荧光定量PCR
+仪进行3步法扩增，第1步变性95℃10 S，第2步退
+火57 cc 20 S，第3步延伸72 c|C 15 S，进行40个循环，
+最后添加溶解曲线。得到ct 值计算并分析一AACt 值。
+肿瘤坏死因子一d( t umor necrosi s f actor一0【，TNF—Ot) 和
+白介素一l [ 3( i nt erl euki n一1B，I L一113) 7I 物序列见表1。
+表1
+TNF—a和I L一1B弓l 物序歹0
+1．2．5 West ern bl ot t i ng实验将小鼠用浓度为4％的
+水合氯醛，0．01 ml ／g，腹腔注射麻醉，处死后提取小
+鼠海马组织，加入凯基全蛋白提取试剂，提取蛋白
+后在562 nm波长下检测光密度值( D) ，计算蛋白浓
+度后，根据被检测蛋白分子量16～80 kDa，制备
+15％分离胶和5％的浓缩胶。电泳后转膜250 mA
+70 rai n，5％BsA室温封闭1 h，分别加入配制好的一
+抗[ TH( 1：2 000) 和GAPDH( 1：5 000) ] ，4℃摇床过
+夜，回收一抗，TBST摇床漂洗3次，每次10 mi n。室
+温孵育配制好的二抗[ 山羊抗兔( 1：5 000) 、山羊抗小
+鼠( 1：5 000) ] 1 h。TBST摇床漂洗3次，每次10 rai n。
+滴加显影液在凝胶成像仪上成像，用I mage Lab 4．0
+进行灰度分析。
+1．2．6统计学方法采用GraphPad Pri sm7．0和SPSS
+软件进行统计分析，使用f 检验和单因素方差分析
+检测，所有数据均用( X+S) 表示，P<0．05差异有统计
+学意义。
+2
+结
+果
+2．1
+新物体识别行为
+与对照组相比，PD组小鼠的辨别指数明显降
+低；与PD组相比，PD人参皂苷组小鼠的辨别指数明
+显增强，差异具有统计学意义( P<0．01) 。该结果提
+示PD能导致C57小鼠记忆能力下降，人参总皂苷对
+PD小鼠的学习记忆能力有一定的缓解。见图2。
+万方数据
+第30卷第5期
+2021年5月
+武警后勤学院学报( 医学版)
+J ournal
+of Logi st i cs Uni versi t y of PAP( Medi cal Sci ences)
+v01．30
+No．5
+Mav
+2021
+9
+①
+／豳一T
+w
+1
+．．．L
+番，≯，
+①与对照组比较，P<0．01；②与PD组比较，P<0．01
+图2各组小鼠的新物体识别实验( n=5)
+2．2恐惧条件箱实验
+与对照组相比，PD组小鼠的不动时间明显降低
+( P<0．001) ；与PD组相比，PD人参皂苷组小鼠的不
+动时问明显增加( P<0．01) ，差异具有统计学意义。
+该结果提示PD能导致C57小鼠记忆能力下降，人参
+总皂苷对PD小鼠的学习记忆能力有一定的缓解。
+见图3。
+①
+矿。／∥ ／
+蒂
+零。
+①与对照组比较，P<0．001；②与PD组比较，P<0．01
+图3各组小鼠的恐惧条件箱实验( n=5)
+2．3
+PCR实验检测TNF一仅与I L一18的mRNA水平
+与对照组相比，PD组小鼠的TNF一仪、I L一1B的
+mRNA水平( P<0．001) 明显增高；与PD组相比，PD
+人参皂苷组小鼠的TNF—Or．、I L一1B的mRNA水平( P<
+o．05) 明显降低，差异具有统计学意义。该结果提示
+PD能导致C57小鼠产生神经炎症反应，人参总皂苷
+对PD小鼠的神经炎症有一定的缓解。见图4。
+A
+2．4
+West ern bl ot t i ng实验检测TH蛋白水平
+与对照组相比，PD组小鼠的TH蛋白水平( P<
+0．001) 明显降低；与PD相比，PD人参皂苷组小鼠的
+TH蛋白水平( P<0．05) 明显升高，差异具有统计学意
+义。见图5。
+A
+B
+GAPDH E三三刍s∞
+夕／∥ ／
+A：TH蛋白表达条带；B：TFI 蛋白表达柱形图；①与对照组比较，P<
+0．001；②与PD组比较，P<0．05
+图5各组小鼠TH蛋白表达( n=5)
+3
+讨
+论
+认知功能障碍是PD患者的非运动功能障碍，认
+知障碍出现较运动功能障碍早。已有大量研究发
+现在PD早期的患者出现学习记忆的下降症状” ⋯ 。
+MPTP因其可以选择性地造成多巴胺神经元变性，
+是一种公认且高效的进行PD模型构建的神经毒
+物。虽然MPTP也可引起小鼠出现一系列的小鼠学
+习记忆功能下降，但是其机制尚未见报道。既往研
+究则认为其机制与d一突触核蛋白的稳定、氧化应
+激、线粒体功能障碍、钙稳态的破坏、轴突运输受损
+和神经炎症有关’
+81。近年来神经免疫炎症作为PD
+的发病机制之一受到普遍关注。
+人参作为一种传统草药对AD患者的神经系统
+大脑稳态和认知能力具有各种生理和药理作用“ ⋯ 。
+A：rI NF- d的mRNA水平表达柱状图；B：I L- 113的mRNA水平表达柱状图；①与对照组比较，P<0．001；②与PD组比较，P<0．05
+图4各组小鼠的TNF—oc和I L一1B mRNA表达( n=- 5)
+uo}置甚喜oH上零暑葛叱
+co!譬芒A蓉早kNl粤l!lj■比
+万方数据
+10
+v01．30
+No．5
+Mav
+2021
+武警后勤学院学报( 医学版)
+J ournal of Logi st i cs Uni versi t y of PAP( Medi cal Sci ences)
+第30卷第5期
+2021年5月
+研究表明人参提取物增加了局灶性脑缺血后海马
+神经发生n5|。人参作为一种传统草药对人类和AD
+患者的神经系统大脑稳态和认知能力具有各种生
+理和药理作用n0|。已有研究报道，人参总皂苷是一
+种溶血磷脂酸糖脂蛋白¨ 引，可以改善小鼠抑郁样行
+为，改善PD小鼠的运动功能和认知障碍n引。但其
+对PD小鼠是否同样具有改善认知功能障碍，提高
+其学习记忆能力，尚未见报道。
+本研究探讨了人参总皂苷对MPTP诱导的PD
+小鼠模型的作用。针对人参总皂苷对行为改变，对
+神经炎症发生的作用进行了相关实验。在本研究
+中发现人参总皂苷对MPTP诱导的PD雄性C57小
+鼠具有改善神经炎症作用。人参总皂苷对MPTP诱
+导的PD雄性C57小鼠具有提高其已降低的认知功
+能的作用。这可能与神经炎症的改善有关，人参总
+皂苷降低了PD小鼠的炎症反应，使得炎症体表达
+下降，改善炎症反应激活的相关自噬与凋亡反应，
+减缓对多巴胺能神经元的损伤作用，通过进行TH
+蛋白检测发现，与PD组相比，PD人参皂苷组的TH
+明显高表达，证明其阳性细胞数多于PD组，损伤程
+度低于PD，但是与对照组相比，TH表达仍然偏低，
+证明人参总皂苷对于PD可以起到延缓多巴神经元
+损伤的作用。
+综上所述，本研究结果阐明人参总皂苷可通过
+改善PD小鼠的炎症反应，延缓多巴神经元损伤，从
+而提高学习记忆功能。未来研究的重点则将进行
+其对神经炎症作用的靶点级机制的探讨，为今后的
+临床应用提供更可靠的理论依据。
+【参考文献】
+[ 1] Massano J ，Bhat i a KP．Cl i ni cal
+approach t o Parki nson’
+S di s-
+ease：f eat ures，di agnosi s，and pri nci pl es
+of
+management [ J ] ．
+Col d Spri ng Harb Perspect Med，2012，2( 6) ：a008870．
+[ 2】Shen XL，Song N，Du XX，et a1．Nesf at i n- 1
+prot ect s dopami -
+nergi c
+neurons
+agai nst
+MPP+／MPTP- i nduced pat hway[ J ] ．
+Sci Rep，2017，7：40961．
+[ 31
+Ski bi nski
+G，HwangV，AndoDM，et
+a1．Nrf 2
+mi t i gat es
+LRRK2一and d—synucl ei n—i nduced neurodegenerat i on by
+modul at i ng proteostasi s[ J ] ．Proc Nat l Acad Sci ，2017，1 14( 5) ：
+1165- 1170．
+[ 4] Si gurl aug S．The cl i ni cal sympt oms of Parki nson’
+S di sease[ J 1．
+J Neurochem，2016，139 Suppl
+1：318- 324．
+[ 51 Przedborski S．Pat hogenesi s of ni gral cel l deat h i nParki nson’
+S
+di sease[ J ] ．Park Rel at Di sord，2005，1 l ( Suppl
+1) ：S3一S7．
+【6] Wang YQ，Zhao WL，Li
+G，et a1．Neuroprot ect i ve ef f ect and
+mechani smof t hi azol i di nedi one on dopami nergi c neurons
+i n
+vi vo and i n vi t ro i n Parki nson’
+s di sease[ J ] ．PPAR Res，2017，
+2017：4089214．
+[ 7] 殷盛明，于德钦，王世伟，等．MPTP对小鼠空间学习和记
+忆能力的影响[ J 】．中国行为医学与脑科学杂志，2005，14
+( 1) ：18- 20．
+[ 8] Ozkan A，Parl ak H，Tanri over G，et a1．The prot ect i ve mecha—
+ni sm of docosahexaenoi c aci d i n mouse model
+of
+Parki nson：
+The
+rol e of hemeoxygenase[ J ] ．Neurochem I nt ，2016，101：
+110—119．
+【9】Schnei der
+J S，Roehgen DP．Del ayed mat chi ng—t o—sampl e，
+obj ect
+ret ri eval ，and
+di scri mi nat i on
+reverasl
+def i ci t s
+i n
+chroni c l ow dose MPTP t reat ed monkeysl ．Brai n Res，1 993，
+615( 2) ：351．354．
+【10] Lee CH，Ki mJ M，Ki m DH，et a1．Ef f ect s
+of Sun gi nseng on
+memory
+enhancement
+and
+hi ppocampal
+neurogenesi s[ J ] ．
+Phyt ot her Res，2013，27( 9) ：1293—1299．
+[ 1 1] Hwang SH，Lee BH，Choi
+SH，et a1．Gi nt oni n，a novel
+gi n—
+seng- deri ved l ysophosphat i di c
+aci d recept or
+l i gand，st i mu—
+l at es
+neurot ransmi t t er rel ease[ J ] ．Neurosci
+Let t ，2015，584：
+356- 361．
+[ 12] Shi n TJ ，Ki m HJ ，Kwon BJ ，et a1．Gi nt oni n，a gi nseng—de—
+ri ved
+novel
+i ngredi ent ，evokes
+l ong- t erm
+pot ent i at i on
+t hrough N—met hyl —D—aspart i c
+aci d recept or
+act i vat i on：i n—
+vol vement
+of LPA recept ors[ J ] ．Mol Cel l s，2012，34( 6) ：563-
+572．
+[ 13] Hwang SH，Shi n EJ ，Shi n TJ ，et
+a1．Gi nt oni n，a gi nseng—de—
+ri ved l ysophosphat i di c
+aci d recept or l i gand，at t enuat es A1一
+zhei mer’
+S di sease- rel at ed neuropat hi es：i nvol vement
+of
+non—
+amyl oi dogeni c processi ng[ J ] ．J
+Al zhei mers Di s，2012，31( 1) ：
+207- 223．
+[ 14] Lepl ow B，Hol l
+D，Zeng L，et a1．Spat i al
+behavi our
+i s dri ven
+by proxi mal
+cues even i n mi l dl y i mpai red Parki nson’
+S di s-
+ease[ J ] ．Neuropsychol ogi a，2002，40( 8) ：1443—1455．
+[ 15] Lee J S，Choi
+HS，Kang SW，et a1．Therapeut i c ef f ect
+of Kore—
+an red gi nsengon i nf l ammat ory cyt oki nes
+i n
+rat s
+wi t h f ocal
+cerebral
+i s chemi cal
+reperf usi on i nj ury[ J ] ．AmJ Chi n Med，
+201 1，39( 1) ：83- 94．
+[ 16] Pyo MK，Choi SH，Hwang SH，et a1．Novel gl yeol i poprot ei ns
+f romgi nseng[ J ] ．J Gi nseng Res，201 1，35( 1) ：92—103．
+[ 17] Lee BH，Ki mJ ，Lee RM，et
+a1．Gi nt oni n enhances perf or—
+mance of mi ce i n rot arod t est ：I nvol vement
+of l ysophospha—
+t i di c
+aci d recept ors and cat echol ami ne rel ease[ J ] ．Neurosci
+Let t ，2016，612：256—260．
+( 责任编辑：高洁)
+万方数据

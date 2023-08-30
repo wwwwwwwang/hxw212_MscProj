@@ -1,0 +1,351 @@
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.22
+AUG.2013
+人参皂甙 Rb1 对大鼠慢性缺氧性认知功能障碍的治疗作用 *
+刘慧琳
+刘
+涛
+徐孝娜
+王冰水
+王
+枫△
+（第四军医大学营养与食品卫生学教研室 陕西 西安 710032）
+摘要 目的：目前尚无特效的防治慢性缺氧性认知功能障碍措施，前人的研究提示人参皂甙 Rb1 可能有上述功效，故本实验拟研
+究人参皂甙 Rb1 对大鼠慢性缺氧性认知功能障碍的治疗作用及其可能机制。方法：取雄性成年 SD 大鼠 30 只，随机分为对照组、
+模型组、人参皂甙 Rb1（2 mg/ kg·d）治疗组。采用 Morris 水迷宫行为学实验检测大鼠学习记忆功能，运用膜片钳技术在脑片水平
+检测海马的突出可塑性。结果：(1) 模型组大鼠寻找平台潜伏期较对照组显著延长 ( P < 0.05)，在目标象限的停留时间较对照组明
+显缩短( P < 0.05)，人参皂甙 Rb1 治疗后，大鼠寻找平台潜伏期较模型组缩短( P < 0.05)，在目标象限的停留时间较模型组延长 ( P
+< 0.05)；(2) 在高频强直刺激（HFS）作用下，各组均有长时程增强（LTP）现象，但模型组 LTP 较对照组明显减弱（P<0.05），人参皂甙
+Rb1 治疗后 LTP 明显增强（P<0.05）。结论：人参皂甙 Rbl 减轻了慢性缺氧大鼠在水迷宫实验中的行为学改变，并增强了慢性缺氧
+大鼠海马 LTP，证实人参皂甙 Rbl 可明显减轻大鼠慢性缺氧性认知功能障碍，该作用与其减轻海马 LTP 抑制有关，为高原缺氧性
+认知功能障碍的防治提供了新思路，但其具体机制尚有待于进一步研究，本室将在此基础上进一步深入研究人参皂甙 Rbl 改善慢
+性缺氧性认知功能障碍的机制。
+关键词：慢性缺氧；人参皂甙 Rb1；认知功能障碍
+中图分类号：Q95-3，R742.1
+文献标识码：A
+文章编号：1673-6273（2013）22-4242-04
+Ginsenoside Rb1 Attenuates Chronic Hypobaric Hypoxia-Induced
+Cognitive Deficits*
+LIU Hui-lin, LIU Tao, XU Xiao-na, WANG Bing-shui, WANG Feng△
+(Department of Nutrition and food hygiene, Fourth Military Medical University, Xi'an, Shaanxi, 710032, China)
+ABSTRACT Objective: At present, no specific drug exists to prevent, delay, or cure Chronic Hypobaric Hypoxia-Induced Cognitive
+Deficits. In order to provide a new window into the Chronic Hypobaric Hypoxia-Induced Cognitive Deficits, the present study was
+designed to investigate the effects of Ginsenoside Rb1 on cognitive deficits induced by chronic hypobaric hypoxia. Methods: Thirty male
+SD rats (200-250 g) were randomly divided into three groups with 10 rats in each group: Control group, Model group and Ginsenoside
+Rb1 therapy group. Cognitive function was detected by the water maze task. Hippocampal LTP at brain slices was measured by
+electrophysiology method. Results: Chronic hypobaric hypoxia can cause severe cognitive deficits, and Ginsenoside Rb1 could improve
+the cognitive deficits induced by chronic hypobaric hypoxia. LTP inhibition in hippocampus caused by chronic hypobaric hypoxia were
+markedly attenuated by administration of Ginsenoside Rb1. Conclusion: Ginsenoside Rb1 exhibits therapeutic potential for cognitive
+deficits induced by chronic hypobaric hypoxia. One of the most important mechanisms is possibly that Ginsenoside Rb1 can protect LTP
+in hippocampus.
+Key words: Hypobaric hypoxia; Ginsenoside Rb1; Cognitive deficits
+Chinese Library Classification(CLC): Q95-3, R742.1
+Document code: A
+Article ID: 1673-6273(2013)22-4242-04
+* 基金项目：国家自然科学基金项目（81102631）
+作者简介：刘慧琳(1978-)，女，硕士研究生，主治医师，主要从事认知功能障碍的临床与基础研究，电话：(029)
+84775439，E-mail：lhlshd@163.com
+△通讯作者：王枫，E-mail：wfshids@163.com，电话：(029) 84775121
+（收稿日期：2012-12-22 接受日期：2013-01-17）
+前言
+随着现代科技的进步，人类在高海拔地区的活动越来越频
+繁，高原缺氧的生物学效应及其防治措施逐渐成为了广大科研
+工作者的研究热点。目前已明确，高原慢性缺氧对人体神经系
+统、循环系统、造血系统等各大系统均有显著影响，可诱发机体
+暂时甚至永久性的病理改变，引起多种疾病。众所周知，大脑以
+全身 2%的体积消耗了全身 20%氧气，故中枢神经系统对缺氧
+最敏感，是慢性缺氧损害的主要靶器官之一。人体在高原慢性
+缺氧环境下可出现一过性甚至不可逆的记忆力减退、反应迟缓
+等，对此，目前尚无特效的防治措施[1]。多年来，广大科研工作者
+一直致力于寻找一种安全而有效的防治措施或药物。人参皂甙
+是人参中的主要生物活性物质，在人参的众多皂甙成分中以
+Rbl 含量高，活性强，具有抗氧化、抗凋亡等重要的生理作用[2]。
+前人的研究结果提示人参皂甙可减轻颞叶癫痫所致的大鼠认
+知功能障[3]，但人参皂甙对慢性缺氧所致的认知功能障碍是否
+·4242
+·
+DOI:10.13241/j.cnki.pmb.2013.22.010
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.22
+AUG.2013
+有治疗作用尚不明确。故本实验拟利用我校自行开发的低压氧
+仓模拟高原环境，复制大鼠慢性缺氧性认知功能障碍模型，运
+用行为学及膜片钳技术研究人参皂甙 Rbl 对大鼠慢性缺氧性
+认知功能障碍是否有治疗作用。
+1 材料方法
+1.1 材料及仪器
+人参皂甙 Rbl （购自西安宝信公司，纯度＞95.0％），Ax-
+opatch-700B 放大器 (Molecular Devices Corporation，美国)，红
+外相差显微镜（Olympus，日本），Master-8 脉冲发生器(A.M.P.I，
+以色列)，1440A 模数数模转换器 (Molecular Devices Corpora-
+tion，美国)，其余试剂为国产分析纯。
+1.2 实验动物及分组
+雄性健康 SD 大鼠 (来自解放军第四军医大学医学实验动
+物中心)30 只，体质量 200～250 g，将动物随机分为三组。对照
+组(Control group)，每日进缺氧舱饲养 8 小时，但不降气压，每
+日腹腔注射等量生理盐水；模型组(Model group)，按计划每日
+缺氧 8 小时，每日腹腔注射等量生理盐水；人参皂甙 Rbl 治疗
+组(Ginsenoside Rb1 group)，按计划每日缺氧 8 小时，从第一次
+缺氧前开始给药，给予人参皂甙 Rbl，腹腔注射，2 mg/kg·d ，1
+次 / 日。缺氧 28 天后，先进行 Morris 水迷宫行为训练及测试，
+然后麻醉后断头处死并取海马组织，进行电生理记录。
+1.3 大鼠慢性缺氧性认知功能障碍模型的复制
+参照文献，利用我校自行设计的缺氧舱复制大鼠慢性缺氧
+性认知功能障碍模型[4]。缺氧舱长 80 cm，内径 45 cm，可通过舱
+门的玻璃窗了解舱内动物活动情况。舱顶有进气、出气口及压
+力表，其中进气口装有可调节大小的进气阀，出气口与真空泵
+相连，舱内置可吸收二氧化碳的钠石灰。置鼠笼于低压氧舱中，
+封闭舱门，开启真空泵，通过调节进气阀大小，使气压缓慢下
+降，气压降至 380 mmHg 后，维持此压力 8 小时，然后缓慢调大
+进气阀，降低负压，直至常压。
+1.4 Morris 水迷宫行为测试
+参照闫志强等人文献，稍做调整
+[5，6]。缺氧 28 天后进行
+Morris 水迷宫训练，共 5 天，每天训练 2 次，具体训练方法为：
+分别从 4 个不同象限的中点将大鼠头朝池壁放入水池，任其在
+水中自由游泳，如大鼠在 60 s 内找到并爬上平台，让其在平台
+上停留 30 s，以强化记忆效果，逃避潜伏期为实际寻找平台所
+用的时间，如在 60 s 内大鼠未能找到平台，则由实验者用工具
+将其引导至平台，同样让大鼠在平台上停留 30 s，以强化记忆
+效果，同时以 60 s 为逃避潜伏期。上述运动轨迹被设在水池正
+上方的摄像记录系统实时记录。取每天训练所记逃避潜伏期的
+平均值作为当日的逃避潜伏期。②空间探索试验：在开始训练
+前和训练 5 天结束后进行实验，具体方法为：撤除平台，从原平
+台所在象限对侧象限的中点面朝池壁放入大鼠，任其在水中自
+由游泳 120 s，用设在水池正上方的摄像记录系统实时记录大
+鼠运动轨迹，并计算大鼠在平台所在象限活动的时间。
+1.5 海马脑片制备
+异氟烷吸入麻醉后断头处死大鼠，低温条件下快速取脑，
+然后将其浸入冰浴人工脑脊液中，该脑脊液已被预充氧气、二
+氧化碳混合气（O2 95% 、CO2 5%）达饱和状态，其主要成份为
+(mmol/L)：glucose (11)，NaCl (126)，CaCl2 (2.4)，MgCl2 (1.2)，
+NaH2PO4 (1.2)，KCl (2.5)，NaHCO3 (26) (用 NaOH 滴定 pH 至
+7.35-7.45)。持续供氧并冰浴条件下，利用震动切片机将鼠脑切
+为厚度 400 μm 的脑片，取海马位置佳的脑片置于预充氧气、二
+氧化碳混合气的人工脑脊液中，34 ℃恒温条件下孵育 1 h，以
+恢复脑片活性。孵育后，小心将脑片移至记录浴槽，浴槽中持续
+灌流氧饱和的人工脑脊液（2 ml/min），以维持脑片活性。
+1.6 海马 CA1 区长时程增强(LTP)记录
+记录电极内液为 NaCl 溶液 （3 mol/L），外液为人工脑脊
+液。测试脉冲参数：波形为方波，频率 0.05 Hz，波宽 100 μs，刺
+激强度以能诱发 50%最大兴奋性突出后电位（fEPSP）为准。高
+频强直刺激（HFS）参数为：强度、波宽同测试脉冲，频率 100Hz，
+时程 1 s。记录位点：利用倒置显微镜，将电极间距约 300 μm 的
+激电极置于海马 Schaffer 侧支纤维处，将记录用玻璃微电极置
+于海马 CA1 锥体细胞层。测试步骤：给予适当强度的测试脉
+冲，开始记录 fEPSP，待记录基线平稳后，继续记录 fEPSP 30
+min 以上，给予间隔 20 s 的两次 HFS 刺激，然后继续给予测试
+脉冲并记录 fEPSP，持续 1 h 以上。将刺激后的 fEPSP 斜率标准
+化为刺激前 fEPSP 斜率的百分比，该数值可作为评价 fEPSP 强
+度的定量客观指标。
+1.7 统计学处理
+实验所得数据结果以 x ±s 表示，用 SPSS13.0 进行统计学
+分析，fEPSP 斜率和寻找平台潜伏期的组间比较采用重复测量
+的多因素方差分析及 Tukey-Kramer 检验，大鼠在目标象限的
+停留时间用单因素方差分析进行统计学分析。以 P < 0.05 为有
+统计学意义。
+2 实验结果
+2.1 人参皂甙 Rb1 可显著减轻慢性缺氧对大鼠寻找平台潜伏
+期的影响
+在 Morris 水迷宫实验中模型组大鼠寻找平台的潜伏期明
+显长于健康对照组，有显著统计学差异( P < 0.05)，人参皂甙
+Rb1 治疗后大鼠寻找平台潜伏期较模型组显著缩短 ( P < 0.05)
+( Fig. 1)，提示人参皂甙 Rb1 可显著减轻慢性缺氧导致的大鼠
+寻找平台潜伏期延长，减轻慢性缺氧对大鼠记忆力的损害。
+2.2 人参皂甙 Rb1 可明显延长慢性缺氧大鼠在目标象限的停
+留时间
+如图 2 所示，空间探索试验中，模型组大鼠在目标象限的
+停留时间显著短于对照组 ( P < 0.05)，人参皂甙 Rb1 治疗组大
+鼠在目标象限的停留时间较模型组明显延长( P < 0.05)，人参
+皂甙 Rb1 可显著延长慢性缺氧大鼠在目标象限的停留时间，再
+次证实人参皂甙 Rb1 可减轻慢性缺氧对大鼠记忆力的损害。
+2.3 人参皂甙 Rb1 可显著减轻慢性缺氧导致的大鼠海马 LTP
+抑制
+电生理实验证实，给予 HFS 后各组大鼠海马 fEPSP 均较
+前增强，即各组均可诱发 LTP，并持续 1 小时以上。与对照组相
+比 HFS 刺激后模型组 LTP 被显著抑制 （P<0.05），人参皂甙
+Rb1 治疗可显著减轻慢性缺氧导致的大鼠海马 LTP 抑制，人参
+皂甙 Rb1 治疗组 LTP 较模型组显著增强（P<0.05），从脑片电
+生理水平再次证实人参皂甙 Rb1 可减轻慢性缺氧对大鼠记忆
+·4243
+·
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.22
+AUG.2013
+图 1 人参皂甙 Rb1 对慢性缺氧大鼠寻找平台潜伏期的影响
+Fig. 1 Effects of Ginsenoside Rb1 on escape latencies caused by chronic
+hypobaric hypoxia
+Note: *P＜0.05 Model group compared with control group；#P＜0.05
+Ginsenoside Rb1 group compared with model group.
+图 2 人参皂甙 Rb1 对慢性缺氧大鼠在目标象限停留时间的影响
+Fig. 2 Effects of Ginsenoside Rb1 on time in the probe quadrant caused by
+chronic hypobaric hypoxia
+Note: *P＜0.05 Model group compared with control group; #P＜0.05
+Ginsenoside Rb1 group compared with model group.
+图 3 人参皂甙 Rb1 对慢性缺氧大鼠海马 LTP 的影响
+Fig. 3 Effects of Ginsenoside Rb1 on Hippocampal LTP inhibition induced
+by chronic cerebral hypoperfusion in rats
+Note: *P＜0.05 Model group compared with control group；#P＜0.05
+Ginsenoside Rb1 group compared with model group.
+力的损害。
+3 讨论
+高原慢性缺氧导致的认知功能障碍等生物学效应严重限
+制了人类在高原地区的活动，已成为了人类开发、利用高原的
+一大障碍，目前尚无一种安全而有效的防治高原缺氧性认知功
+能障碍的药物。本课题组长期致力于寻找防治高原缺氧性认知
+功能障碍的新药，在这方面积累了一定经验。人参是驰名中外
+的名贵中药材，在临床应用已有近千年历史，人参及其有效成
+分具有广泛的生物活性和医疗用途。近年来，人参的药理学研
+究进人了分子水平，因而人参的许多新的药理作用及其机制也
+逐渐被阐明。人参皂甙是人参中的主要生物活性物质，其中 Rbl
+含量最高，活性最强，具有重要的生理功能[2]。张明磊等人证实
+人参皂甙可显著减轻颞叶癫痫所致的大鼠认知功能障碍[3]。江
+山等人证实，人参皂甙可显著减轻大鼠海马脑片的缺血损伤[7]。
+上述结果均提示人参皂甙可能有改善动物认知功能的作用，但
+人参皂甙对慢性缺氧所致的认知功能障碍是否有治疗作用尚
+不明确。
+水迷宫实验是由科学家 Morris 于 1881 发明的客观评价大
+鼠学习记忆的方法[8]，该方法问世后，很快的到了全世界相关领
+域科学工作者的一致认可，并被不断改进、完善，目前已成为研
+究学习记忆的最佳行为学方法之一[9，10]。突触前纤维受到高频
+刺激后相当长一段时间内，突触的传递效率和强度会成倍增
+加，这种高频刺激后突触传递效率增强的现象被称为 LTP，是
+反映突触可塑性的客观指标，以海马最容易引出 LTP[11]。目前
+已明确，海马损伤会严重影响动物和人的学习记忆功能 [12，13]，
+缺氧引起的认知功能障碍也和海马损伤密切相关[14]。海马 LTP
+与大脑的信息存储能力密切相关，具有三大特征 -- 特异性、时
+程长、可加性，可客观反映海马的突触可塑性，已成为在电生理
+水平研究学习、记忆的金标准[15，16]。本实验利用我校自行设计、
+制造的低压氧仓复制慢性缺氧所致的大鼠认知功能障碍模型，
+运用水迷宫行为学实验及膜片钳技术从动物行为学及脑片电
+生理两个不同水平证实人参皂甙 Rbl 对大鼠慢性缺氧性认知
+功能障碍的治疗作用。
+本实验中，水迷宫行为学实验证实慢性缺氧可导致大鼠寻
+找平台潜伏期延长，空间探索试验证实缺氧可导致大鼠在目标
+象限的停留时间缩短，提示慢性缺氧大鼠学习记忆能力较正常
+大鼠显著下降，与前人研究结果一致[17-19]，缺氧对大鼠学习记忆
+功能的影响可被人参皂甙 Rbl 显著抑制，从行为学水平证实了
+人参皂甙 Rbl 对大鼠慢性缺氧性认知功能障碍的治疗作用。我
+们利用膜片钳技术从脑片水平验证了海马 LTP 可被慢性缺氧
+显著抑制，即慢性缺氧损害了海马的突触可塑性，给予人参皂
+甙 Rbl 治疗可显著减轻慢性缺氧对大鼠海马 LTP 的抑制，保护
+其突触可塑性，从脑片电生理水平证实人参皂甙 Rbl 对大鼠慢
+性缺氧性认知功能障碍的治疗作用。
+综上所述，本实验中，人参皂甙 Rbl 减轻了慢性缺氧大鼠
+在水迷宫实验中的行为学改变，并增强了慢性缺氧大鼠海马
+LTP，证实人参皂甙 Rbl 可明显减轻大鼠慢性缺氧性认知功能
+障碍，该作用与其减轻海马 LTP 抑制有关，为高原缺氧性认知
+功能障碍的防治提供了新思路，但其具体机制尚有待于进一步
+研究，本室将在此基础上进一步深入研究人参皂甙 Rbl 改善慢
+·4244
+·
+现代生物医学进展
+www.shengwuyixue.com
+Progress in Modern Biomedicine Vol.13
+NO.22
+AUG.2013
+性缺氧性认知功能障碍的机制。
+参 考 文 献(References)
+[1] Wang J, Ke T, Zhang X, et a1. Effects of acetazolamide on cognitive
+performance during high-altitude exposure[J]. Neurotoxicol Teratol,2
+012,35(3):28-33
+[2] Wang J, Qiao L, Li S, Yang G. Protective effect of ginsenoside Rb1
+against lung injury induced by intestinal ischemia-reperfusion in rats
+[J]. Molecules,2013,18(1):1214-1226
+[3] 张明磊，杨金升，范磊，等. 人参皂甙 Rd 对慢性颞叶癫痫大鼠空间
+学习记忆能力的影响 [J]. 癫痫与神经电生理学杂志，2010，2(2)：
+65-68
+Zhang Ming-lei, Yang Jin-sheng, Fan Lei, et a1. Effect of ginsenoside
+Rd on spatial learning and memory abilities and Mossy fiber
+sprouting in hippocampus of rats with chronic temporal lobe epilepsy
+[J]. Journal of Clinical Electroneurophysiology,2010,12 (2):65-68 (In
+Chinese)
+[4] 刘曼玲，李志超，董明清，等. 丹参酮ⅡA 磺酸钠对慢性低氧性肺动
+脉高压大鼠的治疗作用[J]. 中国药理学通报，2008，24(6)：723-726
+Liu Man-ling, Li Zhi-chao, Dong Ming-qing, et a1. The therapeutical
+effect of sodium tanshinone Ⅱ A sulphonate on hypoxic pulmonary
+hypertension rats [J]. Chinese Pharmacological Bulletin,2008,24(6):
+723-726(In Chinese)
+[5] 闫志强，徐英，李华，等. 姜黄素预防高原缺氧大鼠认知功能障碍的
+电生理机制[J]. 现代生物医学进展，2011，11(22)：4229-4231
+Yan Zhi-qiang, Xu Ying, Li Hua, et al. The Electrophysiology
+Mechanism
+of
+Curcumin
+Prevent
+Hypobaric
+Hypoxia-Induced
+Cognitive Deficits [J]. Progress in Modern Biomedicine,2011,11(22):
+4229-4231(In Chinese)
+[6] Zheng G, Zhang W, Zhang Y, et al. Gamma-Aminobutyric acid (A)
+(GABA
+(A)) receptor regulates ERK1/2 phosphorylation in rat
+hippocampus in high doses of methyl tert-butyl ether (MTBE)
+-induced impairment of spatial memory[J]. Toxicol Appl Pharmacol,2
+009,236(2): 239-245
+[7] 江山，姜正林. 人参皂甙 Rb1 对大鼠海马脑片缺血损伤的保护作用
+[J]. 中风与神经疾病杂志，2003，20(5)：415-417
+Jiang Shan, Jiang Zheng-Lin. Effect of Ginsenoside Rb1 on
+hippocampus injury caused by ischemic [J]. Journal of Apoplexy and
+Nervous Diseases,2003,20(5):415-417(In Chinese)
+[8] Morris C. The evolution of flying animals[J]. Science,1881,2(74):552-
+554
+[9] Mulder GB, Pritchett K. The Morris water maze [J]. Contemp Top Lab
+Anim Sci,2003,42(2):49-50
+[10] D'Hooge R, De Deyn PP. Applications of the Morris water maze in
+the study of learning and memory [J]. Brain Res Brain Res Rev,2001,
+36(1):60-90
+[11] Baudry M, Bi X, Aguirre C. Progesterone-estrogen interactions in
+synaptic plasticity and neuroprotection
+[J]. Neuroscience,2012,
+S0306-4522(12):1075-1085
+[12] 段瑞生，刘娜，王维平，等. 戊四氮诱导癫痫大鼠的认知功能测定
+与海马超微结构观察[J]. 江苏医药，2009，35(3)：332-334
+Duan Rui-sheng, Liu Na, Wang Wei-ping, et al. Cognitive ability and
+ultra-microstrcture in rats hippocampus after pentetrazol induced
+seizure [J]. Jiangsu Medical Journal,2009,35(3):332-334 (In Chinese)
+[13] 叶冰，黄华品，车春晖，等. 癫痫复杂部分性发作患者认知功能与
+海马质子磁共振波谱改变相关性分析 [J]. 中华神经医学杂志，
+2010，9(2)：158-161
+Ye Bing, Huang Hua-pin, Che Chun-hui, et a1. Correlation analysis of
+cognitive function and changes in proton magnetic resonance
+spectroscopy of the hippocampus in patients with complex partial
+seizures[J]. Chinese Journal of Neuromedicine,2010,9(2):158-161 (In
+Chinese)
+[14] 孙正启，王唯析，康龙丽，等. 模拟高原低压低氧对大鼠学习记忆
+行为和海马 GABA 表达的影响 [J]. 现代预防医学，2009，36(21)：
+4133-4135
+Sun Zheng-qi, Wang Wei-xi, Kang Long-li, et a1. The influence of
+simulated high-altitude hypobaric hypoxia on learning memory
+behaviors and expression of gaba neurons in hippocampus of rats [J].
+Modern Preventive Medicine,2009,36(21):4133-4135 (In Chinese)
+[15] Hai J, Wan JF, Qi L, et al. Cognitive dysfunction induced by chronic
+cerebral hypoperfusion in a rat model associated with arteriovenous
+malformations [J]. Brain research,2009,627(1):80-88
+[16] Xu B, Li XX, He GR, et al. Luteolin promotes long-term potentiation
+and improves cognitive functions in chronic cerebral hypoperfused
+rats[J]. European Journal of Pharmacology,2010,627(1):99-105
+[17] Shukitt-Hale B, Stillman MJ, Welch DI, et al. Hypobaric hypoxia
+impairs spatial memory in an elevation-dependent fashion [J]. Behav
+Neural Biol,1994,62(3):244-252
+[18] Udayabanu M, Kumaran D, Katyal A, et al. Free chelatable zinc
+modulates the cholinergic function during hypobaric hypoxia-induced
+neuronal damage: an in vivo study[J]. Neuroscience,2012,202(1):434
+-445
+[19] Titus AD, Shankaranarayana Rao BS, Harsha HN, et al. Hypobaric
+hypoxia-induced
+dendritic
+atrophy of
+hippocampal
+neurons
+is
+associated with cognitive impairment in adult rats[J]. Neuroscience,2
+007,145(1):265-278
+·4245
+·

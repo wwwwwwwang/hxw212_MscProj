@@ -1,0 +1,561 @@
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+DOI：10.19403/j.cnki.1671-1521.2023.01.001
+神经分化是一个复杂的过程， 一般经过几个阶
+段，包括轴突生长、树突发生和突触形成、塑造和重塑
+等分化过程[1]，其在维持神经系统正常生理功能有着
+很重要的作用。神经元萎缩、死亡是神经退行性疾病、
+缺血性脑卒中的主要病理变化，这导致神经信息网络
+不能交织成网，阻碍信息的传递，神经网络受损，从而
+造成患者神经功能上的病变。 因此促进神经细胞存
+活、神经突起再生或延长是治疗这些疾病的一种较好
+的策略。 人参皂苷是中药人参干燥根的主要有效成
+分，对中枢神经[2]、心血管[3]、抗氧化[4]和抗肿瘤[5]具有较
+好的药理作用，现代药理学实验及临床应用等研究证
+明，人参皂苷对神经组织的生长和神经网络的建立具
+有促进作用[6]，抗肿瘤活性作用强的 Rh2 是人参皂苷
+的单体，与其他类似分子相比，其对神经分化的作用
+鲜有报道， 现已证实人参皂苷 Rh2 通过阻止神经元
+凋亡和神经炎症来保护三甲基锡诱导的神经毒性[7]，
+并促进海马胆碱能系统， 显著抑制氧化应激和激活
+ERK-CREB-BDNF 信号通路，对东崀宕碱、tg2576 阿
+尔茨海默症模型小鼠的认知和记忆缺陷具有改善作
+用。阿尔茨海默症（Alzheimer's disease, AD）是最常见
+的老年性中枢神经退行性疾病[8]，阿尔茨海默症的主
+要特征是淀粉样斑块和神经纤维缠结，导致神经元变
+性死亡，神经突起损伤，而后出现认知障碍的表现，迄
+今为止还没有找到能够根治 AD 的手段以及药物，如
+今研究治疗阿尔兹海默症效果显著的药物已刻不容
+缓[9]。 神经营养因子多年来一直被认为是神经退行性
+疾病的潜在治疗选择之一，但是其半衰期短，不稳定，
+脂溶性差， 外周给药进入神经中枢的途径也非常有
+限，在临床试验中也遭遇失败，开发具有类似活性的
+小分子药物具有广阔的应用前景，目前大多数神经营
+养药物通过一些经典的信号转导途径作用于大脑，激
+活关键信号通路如：有丝分裂活化蛋白激酶（MAPK）
+途径、磷脂酰肌醇 3 激酶（PI3K）/蛋白激酶 B（也称为
+Akt）途径等[10]，促进神经突起生长。 因此，本研究评估
+人参皂苷 Rh2 对神经细胞分化的促进作用， 为其具
+有神经营养作用阐明药效和作用机制， 为人参皂苷
+Rh2 在临床开发和治疗神经退行性疾病提供药理学
+依据。
+2 实验材料与方法
+2.1 实验材料
+人参皂苷 Rh2(纯度>98%)购买于阿拉丁试剂公
+司;MEM(EBSS，含 L-谷氨酰胺）购自上海羽圣生物科
+技; 胎牛血清购自 Gibco; 蛋白定量测定试剂盒
+(PierceTMBCA Protein Assay Reagent A） 购自 Thermo
+Scientifc 公司;C0201 胰酶细胞消化液、PBS 缓冲液、
+二甲基亚砜、 蛋白酶磷酸酶抑制剂混合物 （通用型，
+50×）、 细胞裂解液、p-Akt、p-Erk1/2、β-actin 抗体、
+HRP 标记的二抗、PI3K/Akt 抑制剂LY294002、MAPK/
+基金项目：国家自然科学基金项目，项目编号：81703821;湖南省教育厅项目，项目编号：18B530;湖南省自然科学基金，项目编号：
+2017JJ3224; 湖南医药学院博士启动基金， 项目编号：19KJPY10; 国家级大学生创新创业训练计划项目， 项目编号：
+S202012214012。
+作者简介：何俊桓，男，本科，主要从事中药神经药理研究。
+* 通信作者：唐根云，女，副教授，博士，硕士生导师，主要从事中药神经药理研究。
+E-mail:tanggenyun@foxmail.com.
+人参皂苷 Rh2 通过激活 Akt 和 Erk 通路促进神经分化
+何俊桓 1,徐浩仁 1,文献学 1,童美玲 1,陈晓勇 1,李姝祺 1,李 彬 1,唐根云 1,2,3*
+(1.湖南医药学院,怀化 418000;2.脑与神经内分泌疾病湖南省高等学校重点实验室,怀化 418000;
+3.中药合成生物学研究湖南省重点实验室,怀化 418000)
+摘
+要：目的 研究人参皂苷 Rh2 的促神经分化作用，初步明确相关分子机制。 方法 将细胞分为对照组、
+实验组，使用 MTT 检测 Rh2 对细胞毒性的影响，筛选最适药物浓度，用倒置相差显微镜观察拍照，
+使用 Image-J 软件对照片进行细胞分化率和神经突起长度统计分析， 用 Western Blotting 检测其
+促神经分化所激活的信号通路，之后用相关通路抑制剂加以干预，检测神经突起长度、分化率和相
+关通路的蛋白表达变化。 结果 人参皂苷 Rh2 浓度在 2~6μM 不影响细胞存活， 能够促进神经分
+化，随剂量依赖性增加，其中 6μM 的效果最显著，其通过激活 PI3K/Akt、MEK/Erk 发挥作用，其中
+p-Akt 和 p-Erk 在 30 min 表达最明显，Rh2 可以降低由于 PI3K/Akt、MEK/Erk 抑制剂所致 p-Akt、
+p-Erk 抑制的效果。 结论 人参皂苷 Rh2 促进神经突起生长、增加和延长，具有较好促进神经分化
+的效果，具有开发为治疗神经退行性疾病的潜力。
+关键词：人参皂苷 Rh2;神经分化;PI3K/Akt; MEK/Erk;神经退行性疾病
+2
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+ERK1/2 抑制剂 PD98059、极超敏 ECL 化学发光试剂
+盒均购自碧云天生物技术有限公司;阳性对照视黄酸
+（Retinoic acid，RA ）购于 Sigma 公司;中分子量神经
+丝蛋白抗体（Neurofilament M，简称 NF）购于 Cell Sig-
+naling Technology。
+2.2 细胞培养
+小鼠来源神经瘤母细胞 （Mouse neuroblastoma
+N2a Cell，又称 Neuro-2a，简称 N2a）， 购自于美国模
+式菌种收集中心 （American type culture collection，
+ATCC）细胞库。本实验中小鼠神经母细胞瘤 N2a 细胞
+用含 10%胎牛血清以及 1%双抗 （青霉素和链霉素）
+的 MEM 培养基作为培养体系，放置于二氧化碳培养
+箱（37℃、5%CO2）中培养，隔天换液，平均 3~4 天传
+代。
+2.3 MTT 法检测药物对细胞毒性的影响
+取对数期 N2a 细胞， 将细胞按 5×103 个/孔的密
+度接种于 96 孔板，培养至 48 h 后每孔加入 20 μL 的
+MTT （5 mg/mL）（空白对照组不加，MTT 避光-20℃保
+存），放置细胞培养箱充分反应 4 h 后，吸去原细胞培
+养液，每孔加入 100 μL 的分析纯 DMSO 溶解，轻轻
+拍打板身， 避光， 放置摇床，50~100 rpm/min，15 min
+后停止。 使用酶标仪在 490 nm 检测细胞各孔 OD 值。
+细胞存活率=（实验组平均 OD 值/对照组平均
+OD 值）×100%
+2.4 细胞突起生长实验
+取对数期 N2a 细胞进行传代和种板，将细胞按 3×
+104 个/皿的密度接种于 6 孔板中， 培养生长 24 h 后，
+加 10 μL RA 或不同浓度 Rh2 于分化培养基 (含 0.5%
+FBS 和 1%青霉素/链霉素的 MEM)诱导分化 48 h。化合
+物人参皂苷 Rh2 设置的浓度为 4 μM 和 6 μM， 并且
+设置阴性对照组 DMSO 组和阳性对照组 RA 组。
+2.5 神经细胞分化的定义及量化统计
+诱导分化 48 h 后， 在相差显微镜下拍照并计数
+N2a 细胞。 使用 Image-J 软件对照片进行分析细胞分
+化率和神经突起长度。突起长度大于胞体两倍长的细
+胞为分化细胞，分化细胞的神经突起长度将会被定量
+统计。主要分析细胞分化率和分化细胞总神经突起的
+平均长度。
+2.6 蛋白免疫印迹技术
+将 N2a 细胞接种在密度为 3×105 个/孔的 6 孔板
+中，用药物预处理后，用 PBS 洗涤细胞，并用 RIPA 联
+合蛋白磷酸酶抑制剂配制的裂解液在冰上裂解 30
+min， 裂解后在 4℃12000 rpm /min 下离心 15 min 收
+集蛋白上清液，经 BCA 蛋白质定量试剂盒进行定量，
+样品制备后在 95℃下变性 15min。 蛋白样品用 10%十
+二烷基硫酸钠聚丙烯酰胺凝胶电泳分离，并转移至聚
+偏二氟乙烯膜（PVDF）上，用 5%脱脂牛奶在室温下封
+闭 60 min，将膜与特异性一抗（1∶1000 稀释）在 4℃孵
+育过夜，TBST 洗涤后在室温下用相应的辣根过氧化
+物酶（HRP）偶联的二抗（1∶1500 稀释）孵育 60 min，用
+ECL 化学发光液孵育蛋白条带，并用凝胶成像系统仪
+检测分析。
+2.7 数据处理
+采用 GraphPad Prism8 处理数据， 数据处理值表
+示为平均值±标准误。 数据分析使用单因素方差分析
+(ANOVA），然后进行 Dunnett's 多重比较，将相关对照
+组和各实验组之间进行比较，P<0.05 视为具有统计学
+差异。
+3
+结果
+3.1 人参皂苷 Rh2 对细胞活力的影响
+探究不同浓度的人参皂苷 Rh2 对细胞毒性的影
+响，如图 1 所示，4 μM 与 6 μM 的人参皂苷 Rh2 与对
+照组细胞活力基本一致，表明该药物浓度对细胞活力
+无毒性作用。
+图 1.不同浓度 Rh2 对细胞活力的影响
+Fig1. Effects of different concentrations of Rh2 on cell viability
+3.2 人参皂苷 Rh2 对 N2a 细胞分化的影响
+为了探究人参皂苷 Rh2 对 N2a 细胞分化的影
+响，我们将 N2a 细胞在低血清（0.5%FBS）培养基中诱
+导分化，并用 4 μM 和 6 μM 的 Rh2 分别处理 48 h 和
+72 h， 对诱导分化的细胞用神经突起专一性抗体 β-
+tublinIII 进行免疫荧光染色， 并用荧光显微镜进行拍
+照。 与 DMSO 组相比，Rh2 组细胞的分化率和神经突
+起长度都有了很大的提高，且与 RA 组细胞形态非常
+相似（图 2A）。 经过统计分析发现，随着时间和浓度的
+提高， 神经突起长度和细胞的分化率呈依赖性增加
+（图 3A，B），其中 6 μM 的 Rh2 在 48 h 促神经分化的
+效果最为显著。 同时 Rh2 可以增加中分子量神经丝
+蛋白 NF 的表达，与对照组相比具有浓度依赖性（图
+2B）。
+何俊桓等：人参皂苷 Rh2 通过激活 Akt 和 Erk 通路促进神经分化
+3
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+3.3
+人参皂苷 Rh2 对 PI3K/Akt、 MEK/Erk 通路的影响
+为了确定 Rh2 激活这些信号通路的时间，用
+Rh26μM 作用不同时间（0~90min）后提取蛋白进行检
+测， 随着 Rh2 处理时间的延长，p-Akt 和 p-Erk 表达
+增加（图 4），在处理 30min 后 Akt 和 Erk 的磷酸化最
+明显， 随后呈现出逐级递减的趋势。 表明人参皂苷
+Rh2 可能通过快速激活 MEK/Erk、PI3K/Akt 通路促进
+神经分化。
+图 2. Rh2 诱导 N2a 细胞分化的形态图和蛋白表达变化
+Fig2. Morphological pattern and protein expression changes of N2a cell differentiation induced by Rh2
+图 3. Rh2 诱导 N2a 细胞的分化率和神经突起长度
+Fig3. Rh2 induces differentiation rate and neurite length in N2a cells
+图 4.Rh2 不同时间点对 Akt 和 Erk 信号通路的影响
+Fig4. Effects of Rh2 on Akt and Erk signaling pathways at different time points
+4
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+3.4 人参皂苷 Rh2 不同浓度对 PI3K/Akt、MEK/Erk 通
+路的影响
+为了确定不同浓度 Rh2 对 Akt 和 Erk 表达的影
+响，用人参皂苷 Rh2（2、4、6μM）作用 30 min 提取蛋
+白进行检测。 随着人参皂苷 Rh2 浓度增高 p-Akt 和
+p-Erk 的表达呈现递增趋势（图 5）。
+图 5. Rh2 不同浓度对 Akt 和 Erk 信号通路的影响
+Fig5. Effects of different concentrations of Rh2 on Akt
+and Erk signaling pathways
+3.5 PI3K 和 MEK 抑制剂对人参皂苷 Rh2 促神经分
+化的影响
+为了进一步验证激活的信号通路对人参皂苷
+Rh2 促进神经分化和神经突起生长的影响，我们利用
+信 号 通 路 关 键 蛋 白 的 药 理 抑 制 剂 LY294002 和
+PD98059 对 Rh2 处 理 组 进 行 干 预 。 结 果 表 明
+LY294002 和 PD98059 能够显著抑制 Rh2 诱导 N2a
+细胞分化形成神经突起（图 6A），通过统计分析可以
+发现抑制剂组的分化率明显低于 Rh2 组， 具有统计
+学意义（图 6B）。 Western Blotting 检测蛋白表达显示，
+用 PI3K 和 MEK 抑制剂处理后，p-Akt、p-Erk 的表达
+水平受到明显抑制 (图 7A，B)， 而用相应抑制剂加上
+Rh2 共同处理后 p-Akt、p-Erk 的表达有所增加。 这些
+结果表明 LY294002 和 PD98059 能够抑制 Rh2 诱导
+的 N2a 细胞分化， 进一步证明了 PI3K/Akt 和 MEK/
+Erk 参与了人参皂苷 Rh2 诱导 N2a 细胞分化的过程。
+图 6. Rh2 诱导 N2a 细胞分化需要激活 PI3K/Akt 和 MEK/Erk 信号通路
+Fig6. Rh2 induces N2a cell differentiation by activating
+PI3K/Akt and MEK/Erk signaling pathways
+图 7.抑制剂预处理后 Rh2 对 p-Akt 和 p-Erk 信号通路的影响
+Fig7. Effect of Rh2 on Akt and Erk signaling pathways after inhibitor pretreatment
+5
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+人参研究
+GINSENG RESEARCH
+2023 年第 1 期
+4 讨论
+Neuro-2a 细胞是研究神经分化机制[11, 12]的最佳
+模型之一。 人参一直被认为具有增强记忆、促进大脑
+发育的作用， 而人参皂苷 Rh2 有文献报道其可以减
+轻由于睡眠剥夺或者阿尔茨海默症模型小鼠引起的
+行为缺陷以及记忆障碍[13-15]。 本研究中人参皂苷 Rh2
+在 2~6 μM 浓度下不影响细胞的活力，人参皂苷 Rh2
+能够促进中分子量神经丝蛋白的表达实现神经分化
+和神经突起的生长，有利于维持神经系统功能结构的
+稳定，对重建损伤的神经网络结构、恢复信息传递和
+记忆的储存有一定的作用， 其中 6 μM 的人参皂苷
+Rh2 在 48 h 促神经分化效果最为显著， 在 72 h 后神
+经分化率有所降低，故不推荐作用时间太长。 在促神
+经分化的作用中，人参皂苷 Rh2 对 p-Akt 和 p-Erk 的
+表达具有剂量依赖性，6 μM 效果最为显著，Akt 和
+Erk 的磷酸化在 30~60 min 激活最为明显， 之后随时
+间延长而递减，这说明 Akt 和 Erk 的磷酸化在短时间
+被激活，Rh2 的起效时间较快。 利用 LY294002 和
+PD98059 处理细胞后，神经分化率和神经突起长度降
+低，p-Akt、p-Erk 的表达受到明显抑制， 而使用 Rh2
+可以增加 p-Akt、p-Erk 的表达。 这些结果进一步证实
+了人参皂苷 Rh2 促神经分化和轴突延伸依赖 PI3K/
+Akt、MEK/Erk 信号通路。 人参皂苷 Rh2 可以通过激
+活 PI3K/Akt、 MEK/Erk 信号通路促进神经细胞分化
+和神经突起生长，具有很好的神经营养作用，为其在
+临床应用于治疗神经退行性疾病提供了药理学依据。
+参 考 文 献
+[1]
+FRESE C K, MIKHAYLOVA M, STUCCHI
+R, et al. Quantitative Map of Proteome Dynamics during
+Neuronal Differentiation
+[J]. Cell Rep, 2017, 18 (6):
+1527-1542.
+[2]
+XIE W, ZHOU P, SUN Y, et al. Protective
+Effects and Target Network Analysis of Ginsenoside
+Rg1 in Cerebral Ischemia and Reperfusion Injury: A
+Comprehensive Overview of Experimental Studies [J].
+Cells, 2018, 7(12):270.
+[3]
+WANG Q, FU W, YU X, et al. Ginsenoside
+Rg2 alleviates myocardial fibrosis by regulating TGF-
+β1/Smad signalling pathway
+[J]. Pharm Biol, 2021, 59
+(1): 106-113.
+[4]
+BAIK I H, KIM K H, LEE K A. Antioxidant,
+Anti-Inflammatory and Antithrombotic Effects of Gin-
+senoside Compound K Enriched Extract Derived from
+Ginseng Sprouts [J]. Molecules, 2021, 26(13):4102.
+[5]
+LI X, CHU S, LIN M, et al. Anticancer prop-
+erty of ginsenoside Rh2 from ginseng
+[J]. Eur J Med
+Chem, 2020, 203: 112627.
+[6]
+HOU J, XUE J, WANG Z, et al. Ginsenoside
+Rg3 and Rh2 protect trimethyltin-induced neurotoxicity
+via prevention on neuronal apoptosis and neuroinflam-
+mation [J]. Phytother Res, 2018, 32(12): 2531-2540.
+[7]
+HONG S, BEJA-GLASSER V F, NFONOYIM
+B M, et al. Complement and microglia mediate early
+synapse loss in Alzheimer mouse models
+[J]. Science,
+2016, 352(6286): 712-716.
+[8]
+SORIA
+LOPEZ
+J
+A,
+GONZáLEZ
+H
+M,
+LéGER G C. Alzheimer's disease [J]. Handb Clin Neu-
+rol, 2019, 167: 231-255.
+[9]
+毕进方. 九谷酵汁促神经分化作用及其机制
+研究 [D]. 吉林大学, 2018.
+[10] XU M L, ZHENG Z Y, XIA Y J, et al. Shexi-
+ang Baoxin Pill, a Formulated Chinese Herbal Mixture,
+Induces Neuronal Differentiation of PC12 Cells: A Sig-
+naling Triggered by Activation of Protein Kinase A [J].
+Front Pharmacol, 2019, 10: 1130.
+[11] WANG J L, LIN Y C, YOUNG T H, et al.
+Far-infrared ray radiation promotes neurite outgrowth of
+neuron-like PC12 cells through AKT1 signaling
+[J]. J
+Formos Med Assoc, 2019, 118(2): 600-610.
+[12] HUO B, YANG Y, LI M, et al. Pax3 inhibits
+Neuro-2a cells proliferation and neurite outgrowth [J]. J
+Cell Mol Med, 2021, 25(2): 1252-1262.
+[13] SAINATH R, GALLO G. Cytoskeletal and
+signaling mechanisms of neurite formation [J]. Cell Tis-
+sue Res, 2015, 359(1): 267-278.
+[14] WARBURTON E C, BROWN M W. Neural
+circuitry for rat recognition memory
+[J]. Behav Brain
+Res, 2015, 285: 131-139.
+[15] WEISSMILLER A M, WU C. Current ad-
+vances in using neurotrophic factors to treat neurode-
+generative disorders
+[J]. Transl Neurodegener, 2012, 1
+(1): 14.
+6

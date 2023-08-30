@@ -1,0 +1,767 @@
+临床神经病U U :  2022年 第 35 # 第 I 朗
+• 49 •
+• 论 著 •
+1-甲基-4-苯基-1，2,3,6-四氢吡啶制备的
+帕金森病模型小鼠对帕金森病自主 
+神经功能障碍的适用性研究
+汪烨，姜雯雯，吴晶，程越，张克忠
+【摘要】 目的 探 讨 1-甲基本苯基-1，2,3,6-四氢吡啶（MPI’P)诱导的帕金森病（PD)小鼠模型对 P I ) 自 
+主神经功能障碍研究的适用性：方 法 将 2 0 只 2 月龄小鼠随机分为MPTP组和对照组，每 组 1 0 只，
+MPTP 
+组皮下注射MPI’P(20 mg/kg)联合腹腔注射丙磺舒(250 mg/kg),每周2 次 ，连 续 5 周 ；对照组注射相N 剂讀、
+频次的生理盐水及丙磺舒溶液。于 第 2、3 、4 、5 、6周评估小鼠自主神经功能（胃肠功能、泌尿功能、心血管功 
+能 ），同时采用转棒、爬竿测试评价小鼠的运动功能。采用免疫组化法测中脑黑质阳性多巴胺能神经元的 
+数量,Western blotting法检测酪氨酸羟化酶（TH)的表达.：结 果 与 对 照 组 相 比 ，MPTP组 第 4 ~ 6 周排便颗粒 
+数显著减少，第 5 〜6 周粪便含水量显著降低（P <0. 0 5 〜0.01) : 与对照组相比，MPTP组 第 5 〜6 周 1 h 排尿 
+次数显著增多，平均单次尿量显著下降（均P <〇.〇l )。两组小鼠各时间点心率及连续R R 间隔差的均方根 
+(1?\^30)差异无统计学意义（均 /^>0.05)两 组 小 鼠 第 2 ~5周运动功能差异无统计学意义，第 6 周 MPTP 
+组小鼠转头时间及爬杆时间显著延长，而转棒时间显著减少（均P <〇.〇5) 
+MPIT组小鼠黑质区域多巴胺能 
+神经元数董及中脑TH表达均显著降低（ f = 19. 00， P < 0. 001 ;/ = 3. 67 , P < 0. 01 ),: MPTP组小鼠中脑多巴胺 
+能神经元数M 与排便颗粒数、粪便含水量以及平均单次尿量呈正相关（「= 0.6930, P <0.05 ;r = 0.6718,P < 
+0.05;r =0.8149,P <0.05),与 1 h 排尿次数呈负相关（/•= -0.7丨55,P < 0 . 0 5 ) 结 论 慢 性 MPTP诱导的小 
+鼠模型可用于P1)早期胃肠道功能及泌尿系统功能的研究，但不适用于心血管功能的研究
+【关键词】 帕金森病；1 -甲基4 - 苯基- 1 ,2 ,3 ,6 - 四氢吡啶；帕金森病动物模型；自主神经功能障碍 
+【中图分类号】R 7 4 2 .5  
+【文献标识码】A 
+【文章编号】1004-16 4 8 (2022)0143049-07
+Applicability research of l-methyI-4-phenyI-l, 2, 3, 6-tetrahydropyridine-prepared mouse model for 
+autonomic nervous dysfunction in Parkinson 1 s disease 
+WANG Ye, J/ANG Wen-wen, WU Jing, et al. 
+Department of Neurology, the First Affiliated Hospital of Nanjing Medical University, Nanjing 210029, China
+Abstract ：
+ Objective 
+To investigate the applicability of mouse model of Parkinson' s disease ( 1*0) induced l)\
+1-methyM-phenyl-l ,2 ,3 ,6 -tetrahydropyri(line (M FrF) on study of autonomic nervous dysfunction in PI). Methods 
+A total of twenty 2-month-old mice were randomly divided into control and model groups with 10 in each group. For 
+.MIyrP group, MFyrP ( 2 0  mg/kg) was administrated subcutaneously combining with an intraperitoneal injection of 
+prol)eneci(l (250 mg/kg) twice a week for 5 weeks, while the control group was injected with physiological saline and 
+probenecid at the same dose and frequency. 
+The autonomic nerve function ( gastrointestinal, urinary and 
+cardiovascular function) of mice at week 2, 3, 4 , 5 , 6 were assessed, and the rotating rod and climbing pole1 test 
+were used lo evaluate the motor function of mice at the same time. The immunohistochemical method was employed to 
+measure the number of tyrosine hydroxylase ( TH ) -positive neurons in the substantia nigra of the midbrain, while 
+Western blotting was used to examine the expression of TH. Results 
+Compared with those in control group, the 
+number of defecation particles in the MPTP group were reduced significantly at weeks 4 -  6 , arid the fecal water 
+content was decreased remarkably at weeks 5 - 6  ( < 0 .  05 - 0 . 01 ). Compared with those in control group, MKI'P 
+group exhibited a significant increase in number of 1 hour urination and a remarked decrease in average single 
+urination volume at weeks 5 - 6  (all P < 0. 01 ). There were no significant differences in heart rate and root mean 
+square of successive HR interval difference ( KMSSD) between the two groups at each time point ( all P >0. 05). The 
+motor function of the two groups had no statistical difference at weeks 2 - 5 . The head turning time and pole'-climhing 
+time in MFFP group elevated significantly at week 6 , while the time in the rotarod was declined significantly ( all P <
+苺 金 项 : 固家自然科学基金面上项目（82071431)
+作者单位：210029南京医科大学第•附属医院神经内科 
+通信作者：张克忠
+• 50 •
+J Clin Neurol, February 2022 , Vol. 35 , No. 1
+0 .0 5 ). Number of dopaminergic neurons in substantia nigra and the expression of TH in midhrain were both 
+significantly decreased in MFrP group (/ = 19. 00, P < 0. 001 ；
+ / = 3. 67 , P < 0. 01 ). The number of dopaminergic 
+neurons in the substantia nigra of MP1T group was positively correlated with the number of defecation particles, fecal 
+water content and average single urination volume ( r = 0. 6930, 
+< 0. 05 ；
+ r = 0. 6718 , P < 0. 05 ；
+ r = 0. 8149 , P <
+0. 05 ) , while negatively correlated with the number of 1 hour urination (r = -  0. 7155 , P < 0. 05 ). Conclusion 
+Chronic MFrP-induced mouse model can be used to study gastrointestinal and urinai^ system functions in the early 
+stages of PD, hut not cardiovascular function.
+Key words： Parkinson’ s disease; 1 -methyl-4-phenyl-l ,2 ,3 ,6 -tetrahyclropyri(line；
+ Parkinson' s disease mouse 
+model ；
+ autonomic nerve dysfunction
+帕金森病（P D )是 继 Alzheimer’s 病后最常见的 
+神经退行性疾病。PI〕患者黑质致密部（S N p 〇中多 
+巴胺能神经元死亡，基底神经节内多巴胺缺乏导致经 
+典运动障碍，包括运动迟缓、肌强直、静止性震颤以及 
+姿势和步态障碍[1:。随着对 P D 研究的不断深人，认 
+知功能障碍、焦虑抑郁、感觉障碍、自主神经功能障碍 
+等非运动症状越来越受到重视。 自主神经系统功能 
+障碍是一种常见且重要的非运动症状，且 有 证 据 2: 
+表明，P D 患者运动功能障碍出现前几年甚至几十年 
+可能就存在自主神经功能障碍，其形式不一，涉及多 
+个系统及器官，以胃肠功能、膀胱功能、心血管功能障 
+碍多见。有研究131发现，自主神经功能障碍出现越 
+早 ，疾病进展越快，患者的生存期越短：目前关于P D  
+自主神经功能障碍的机制研究较少，且缺乏经典实验 
+模型。1-甲基本苯基-1,2,3,6-四氢吡啶（M P T P )小鼠 
+P D 模型能够模拟P D 的病理表现，被广泛用于 P D 运 
+动功能障碍研究[4\本 文 通 过 评 估 M P T P 小鼠模型不 
+同时程各内脏系统的自主神经功能变化，探 讨 M F I T  
+小鼠模型在P D 自主神经功能障碍机制研究中的适 
+用性，为 P 1)自主神经功能障碍研究提供实验依据_
+1
+材料与方法
+1 . 1 材料
+1 . 1 . 1 实 验 动 物 2 月 龄 S P F 级野生型（W T )雄性 
+C 57BI76 J 小 鼠 2 0 只，质 量 24~29 g ,购自南京医科
+大学医药实验动物中心3
+1.1.2 
+常 用 试 剂 与 仪 器 觭 1^?(3如 1£^丨士丨必，31. 
+Louis，M 0 )，丙磺舒（#57-66-9，济南尚圣化工有限公 
+司），二甲基亚砜（D M S 0,30072418,国药集团化学试 
+剂有限公司），生理盐水，鼠抗酪氨酸羟化酶多克隆 
+抗体（T H ，
+T 1299，Sigma-Aldrich) ，过氧化物酶标记山 
+羊抗小鼠丨g G ( H  + L ) (33201E S60,上海翊圣生物科 
+技有限公司），D  A  B 显色液（江苏凯基生物技术股份 
+有限公司）。P 〇w e r L a b 26T 多导生理记录仪，分离代 
+谢笼 J L B e h v -R R T G -5通用转棒实验分析系统（上海 
+吉量软件科技有限公司），LeiCa C M  950冰冻切片机，
+ 
+Bio-R a d 仪器，T a m m  520 0 自动化学发光成像分析系
+统 ，蔡 司 A X I 0 显微镜。
+1 . 2 方法
+1 . 2 . 1 慢 性 P D 小 鼠模 型的 制 备 及 实 验 设 计 将 20 
+只雄性C 57B 1Y 6J小鼠随机分为对照组 U  = 10 )和 
+M P r P 组 （n = 10),所 有 动 物 在 造 模 前 先 适 应 1 周。 
+对照组皮下注射无菌生理盐水0.1 ml/ 1 0 g ，l h 后腹 
+腔注射以 1)M S0溶解浓度为250 m g /m l 的丙磺舒溶 
+液 10 pl/10 g i M P T P 组皮下注射浓度为2 m g /m l 的 
+M PT P生理盐水溶液0. 1 m l/10 g , 1 h 后腹腔注射丙 
+磺舒溶液 1〇 W /10 g 。注射频率均为2 次/ 周 ，持 续 5 
+周15。在造模期不同时间行胃肠功能、泌尿功能、心 
+血管功能及运动功能评估，造模结束后取材进行病理 
+学评估，具体实验流程见图1。所有实验步骤及处理 
+均通过南京医科大学动物保护与伦理委员会批准
+I I h
+i  i u  i n , n  i 
+v «
+i :给药 
+A :评估胃肠及泌尿功能 
+▽ : i f 估心血管功能0 : 评估运动功能秦：取材
+图 1
+实验流程图
+1.2. 2
+胃 肠 功 能 评 估 于 第 2 ~ 6 周记录小鼠的 1 h 
+排便颗粒数及粪便含水量。小鼠禁食过夜，在测试前 
+2 h 给予充足食物。将小鼠放在干净的分离代谢笼 
+中 1 h ,收集粪便，计数并称重，经 65 t ：烘干过夜再次 
+称重。粪便含水量= ( 粪 便 湿 重 -粪 便 干 重 ）/粪便 
+湿重 x 100% [6]。
+1 . 2 . 3 泌 尿 功 能 评 估 于 第 2 〜6 周评估小鼠的泌 
+尿功能。在清洁干燥的桌面上放好滤纸，用 2 000 ml 
+的烧杯将小鼠扣在滤纸上，持 续 1 h 。在小鼠排尿滤 
+纸充分吸收尿液后更换滤纸，并标记好尿液浸润的面 
+积 ，同时记录I h 内小鼠排尿次数。滤纸风干48 h 后 
+剪下标记好的部分，称重。将〇.〇5 m l 、0• 10 m l 、0. 15 
+m l 、0• 20 m l 、0_ 25 m l 、0_ 30 m l 、0. 35 m l 、0. 40 ml 的生 
+理盐水分别滴在滤纸上，标记浸润的面积，待 48 h 风 
+干后剪下称重，并计算盐水体积与滤纸干重的线性方 
+程[小鼠平均单次排尿量（m l ) =0. 8088 x 吸收尿液
+临床神经病学杂志2022年第 3 5 卷 第 1 期
+• 51 .
+的 滤 纸 平 均 干 重 -0. 0036]，其 中 相 关 系 数 r = 
+0.9994m 。
+1 . 2 . 4 心 血 管 功 能 评 估 腹 腔 注 射 4 % 水合氯醛 
+(0. 1 ml/10 g ) 麻醉小鼠，通过保温垫将体温维持在 
+3 7 丈 ，使 用 生 物 电 势 电 极 监 测 E C G ，使 用 powerlab 
+26T 数 据采 集 系统 收集图 像。截取基线平稳持续 
+3 m i n的 E C G 图像，通 过 labchart软件分析小鼠心率 
+及心率变异性。在时域中以连续 R R 间隔差的均方 
+根（R M S S D ) ( m s 2)表示的自主性指标进行测量。 
+1 . 2 . 5 运 动 功 能 评 估 （1)转棒测试:于第2 ~ 6 周  
+采用转棒实验评估M P T P 组运动协调能力。将小鼠 
+放于仪器的转动滚筒上，转轴可加速。仪器自动记录 
+小鼠在转棒上的停留时间，参数:低速>  5 r/niin ,高 
+速矣25 r/m i n ;加 速 时 间 2 m i n ,持 续 时 间 5 m i n。每 
+只小鼠进行3 次测试，结果取平均值。（2 ) 爬竿测 
+试:于第2 ~6周采用爬竿测试检测小鼠的运动能力。 
+制作一根直径1.2 c m 、高 50 c m 的直爬杆，顶部有一 
+外面覆盖纱布的木球。将小鼠头部向上放置于杆顶 
+端,记录转头时间（从开始运动到完全转为头向下的 
+时间）及爬竿时间（转头后向下爬并到达底端的时 
+间）。每只小鼠检测3 次 ，取最短时间记录。每次测 
+量前用酒精消毒去除残留气味，以免影响结果。
+1 . 2 . 6 中脑黑质多巴胺能神经元的检测运动功能 
+及自主神经功能检测结束后，对黑质区域行T H 免疫 
+组化染色。采用4 % 的水合氯醛进行麻醉，行心脏灌 
+注 ，取脑后固定并脱水，将 厚 度 20 |x m 的冰冻中脑切 
+片放置P B S 中清洗3 次 ，3 %  H 20 2 灭活，5 %  B S A 封 
+闭 ，一抗过夜，二抗室温敷育2 h ，D A B 显色液显色，
+ 
+过梯度乙醇、二甲苯脱水，中性树胶封片。每只小鼠 
+选 5 张部位一致的中脑切片进行观察，高倍镜下随机 
+选取5 个视野进行阳性细胞计数。计算平均值后，将 
+两组数据进行归一化比较，以对照组作为阴性对照。 
+1 . 2 . 7 小 鼠 T H 表 达 的 检 测 采 用 Western blotting
+法检测小鼠中脑的T H 表达。取小鼠的中脑黑质称 
+重 ，加 入 R IP A 裂解液，冰上超声勻浆后裂解30 min, 
+以 16000 g 在 4 
+离心机中离心分离15 m in ,收集上 
+层透 明液 体 于 E P 管中。用 B C A 方法测蛋白浓度,_ 
+将蛋白样品加人提前制好的凝胶中，通过电泳、电转 
+将蛋白转到P V D F 膜上，再经封 闭 、敷一抗、二 抗 、漂 
+洗。用显色液发光检测，自动化学发光成像分析系统 
+显影，应 用 Image j 软件分析条带灰度值，以待测目的 
+蛋白与内参蛋白的灰度值之比表示蛋白的相对表 
+达量。
+1.2. 8
+统 计 学 方 法 应 用 Graphpad Prism 8. 0 软件
+进行统计学分析。计 量 资 料 均 采 用 均 数 ± 标 准 误  
+(:« ± s)表不，组间比较米用/.检验。米 用 Pearson相 
+关分析 M PTP组模型小鼠脑内多巴胺能神经元水平 
+与胃肠功能、泌尿功能评估结果之间的相关性。
+2
+结 果
+2. 1
+对 照 组 与 M P T P 组 胃 肠 功 能 的 比 较 见 表 1 
+与对照组相比，M P r P 组 第 4 ~ 6周排便颗粒数显著 
+减少（P  <0.05〜0.01)，第 5 〜6 周粪便含水量显著 
+降低（均P  <〇.〇5)。
+2 .2  
+对 照 组 与 M PT P组 泌 尿 功 能 的 比 较 见 表 2 。 
+与对照组相比,M PT P组第 5 〜 6 周 1 h 排尿次数显著 
+增多（均P < 0.01)，平均单次尿量显著下降（均P < 
+0•0!)〇
+2 . 3 对照组与M P T P 组小鼠心率变异性的比较见 
+表 3 。 与对照组相比，M P T P 组小鼠心率及RM SSD在 
+各时间点差异均无统计学意义（均
+> 〇. 〇5)。
+2 - 4 对 照 组 与 M P T P组 运 动 功 能 的 比 较 见 表 4 : 
+对照组与M P1T组小鼠第2 ~ 5 周运动功能差异无统 
+计学意义，第 6 周 M PTP组小鼠转头时间及爬杆时间 
+显著延长（均 P <  0 . 0 5 ) ，转棒时间显著减少（均P <  
+0. 0 5 ) 〇
+表 1
+对照组与M P T P 组胃肠功能的比较（
+x ± s ,n = 10)
+组别
+排 便 粒 数 （颗 ）
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+15. 1 0 ± 0 .8 4
+15.40 ±0.85
+15. 80 ±0.85
+15.30± 1.01
+14.90 ±0.67
+MPrp 组
+14.90 ±1. 10
+13.60 ± 0 .8 6
+13.30 ±0.61
+12_60±0.45
+12. 10± 0.48
+^值
+0. 14
+1.49
+2.38
+2.44
+3.38
+p 值
+0.89
+0. 15
+<0.05
+<0.05
+<0.01
+组别
+粪便含水量（ ％
+)
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+60.95 ±1.01
+61.70 ±1.07
+63.22 ± 1.50
+62.62 ± 0.99
+61.58 ± 1.36
+MPTP 组
+63.86 ±1.78
+63.52 ± 1.23
+62.93 ±1.64
+5 9 .17 ± 0. 86
+56.55 ± 1. 15
+/值
+1.42
+1. 11
+0. 13
+2.62
+2.83
+户值
+0. 17
+0.28
+0.90
+<0.05
+<0.05
+• 52 •
+J Clin Neurol， February 2022，Vol. 35，No. 1
+表2
+对照组与M P T P 组泌尿功能的比较U ± s ,«=10)
+组别
+1 h 排 尿 次 数 （次 ）
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+1.00 ±0. 15
+1. 10 ±0. 18
+1.30 ±0.21
+1.2 0 ± 0 .1 3
+1 .3 0 ± 0 . 15
+MPTP 组
+1.40 ±0.22
+1.20 ±0. 13
+1.90 ±0.28
+2.40 ±0.31
+2. 50 ± 0.27
+f 值
+1.50
+0.45
+1.72
+- 3 .6 0
+-3 .8 8
+P 值
+0. 15
+0.66
+0. 10
+<0.01
+<0.01
+组别
+平均单次尿量（ml)
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+0.21 ±0.03
+0. 19 ±0.03
+0.20 ±0.03
+0.20 ±0.02
+0.24 ±0.03
+MPTP 组
+0• 16 ± 0.02
+0. 19 ±0.02
+0. 15 ±0.02
+0. 12 ± 0.02
+0 . 13 ±0.02
+/值
+1.46
+0. 11
+1.39
+3. 10
+2.90
+p 值
+0. 16
+0.92
+0. 18
+<0.01
+<0.01
+表3
+对照组与M P T P 组小鼠心率变异性的比较U
+, « = ! 〇)
+组别
+心 率 （次/m in)
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+518.20± 16.21
+525. 50 ± 1 3 .78
+537. 30 ± 1 2 .04
+531.20 ±17. 89
+536. 10 ± 1 5 .55
+MPTP 组
+503. 20 ± 1 5 .64
+5 1 6 .0 0 ± 7 .97
+527.90 ± 1 6 .05
+528. 20 ±10. 26
+531.30 ± 12.89
+f 值
+0.66
+0.60
+0.47
+0. 15
+0.24
+p 值
+0.52
+0.56
+0.64
+0.89
+0.81
+组别
+RMSSD(ms2)
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+1.07 ±0.21
+0.93 ±0. 15
+0.91 ±0.08
+0.83 ± 0 .11
+0.88 ±0. 14
+MPTP 组
+1.20 ±0.21
+1.25 ±0.09
+0.99 ±0.08
+1.04 ±0. 11
+0.91 ±0. 12
+f 值
+0.44
+1.82
+0.71
+1.33
+0. 13
+p 值
+0.67
+0.09
+0.48
+0.20
+0.90
+表4
+对照组与M P T P 组 运 动 功 能 的 比 较 =：10)
+组别
+转 头 时 间 U )
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+2. 20 ±0.25
+2 .50 ±0.22
+2 .6 0 ± 0 .3 1
+2.40 ±0. 16
+2.30 ±0.21
+MPTP 组
+2 .30 ± 0.26
+2.40 ±0.27
+2.30 ± 0.30
+2.5 0 ± 0 .3 1
+3.20 ±0.29
+(值
+0.28
+0.29
+0.70
+0.29
+2.50
+户值
+0.78
+0.78
+0.49
+0.78
+< 0.05
+组别
+爬 竿 时 间 （S)
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+10. 10 ±0.38
+10. 30 ±0.78
+10. 70 ±0.68
+10. 10 ±0.53
+10.50 ± 0.70
+MPTP 组
+10.90 ±0.50
+1 1 .1 0 ± 0 .5 0
+10.40 ± 0.54
+10.30 ± 0.50
+12.90 ± 0.59
+1.27
+0.86
+0.34
+0.28
+2.62
+Z3值
+0.22
+0.40
+0.73
+0.79
+< 0.05
+组别
+转 棒 时 间 （S)
+第 2 周
+第 3 周
+第 4 周
+第 5 周
+第 6 周
+对照组
+281.20 ±18.25
+269.90 ± 1 8 .29
+287.70 ±9.92
+266.20 ±20.47
+288.90 ±8.53
+MPTP 组
+261.20 ±17.79
+265.30 ±17.69
+271.60 ±19.36
+268. 10 ±14. 89
+248.90 ± 1 4 .75
+f 值
+0.78
+0. 18
+0.74
+0.08
+2.35
+P 值
+0.44
+0.86
+0.47
+0.94
+< 0.05
+临床神经病学杂志2022年第 3 5 卷 第 1 期
+• 53 •
+2 . 5 病理学评估
+2.5. !
+对照组与M P T P 组中脑黑质多巴胺能神经元 
+的 比 较 见 图 2 。 M P T P 组小鼠黑质区域多巴胺能神 
+经元数量 （〇. 60 ±0. 01 )显 著 少 于 对 照 组 （1. 00 ± 
+0• 02) (t = 19.00 ,P < 0. 001) ， 在组织学上可认定 P D  
+模型制作成功。
+图 2
+小鼠中脑黑质区域T H 免疫组化染色图 
+A :对照组；B :M PTP组
+2 . 5 . 2 对 照 组 与 M P T P组 小 鼠 中 脑 T H 表达的比 
+较 见 图 3 。 与 对 照 组 （1 .0 6  ± 0 . 1 0 ) 相 比 ，MPTP
+组 中 脑 T H 表达下降（0.58 ±0.08)，差异有统计学 
+意义（；=3.67 ，P  <0.01),可进一步认定P D 模型制 
+作成功。
+对照组 
+MPTP组
+TH 
+58 kDa
+图 3
+对照组与MPTP组小鼠中脑T H 表达水平
+2 .6  
+M PT P组小鼠中脑黑质区域多巴胺能神经能数 
+量 与 胃 肠 功 能 、泌 尿 功 能 相 关 性 分 析 见 图 4 。 
+M PTP组小鼠中脑多巴胺能神经元数量与排便颗粒 
+数 、粪 便 含 水 量 以 及 平 均 单 次 尿 量 呈 正 相 关 （r = 
+0. 6930, P  < 0. 05 ； r = 0. 6718, P  < 0. 05 ； r = 0. 8149, 
+P  < 0 . 0 5 ) , 与 1 h 排 尿 次 数 呈 负 相 关 “ 0 .7 1 5 5 , 
+P < 0 .  0 5 ) 0
+120
+110
+韋
+S  
+90 
+80
+1 h排尿次数(次）
+平均单次尿量(ml)
+图 4 M PTP组小鼠中脑多巴胺能神经元数量与胃肠功能、泌尿功能相关性分析
+3
+讨 论
+自主神经功能障碍是P D 重要的非运动症状之 
+一
+，主要包括胃肠道功能不全、心血管功能失调、
+ 
+泌尿系统疾病、性功能障碍、瞳孔调节异常等。 自主 
+神经功能障碍可出现在运动障碍前数十年，且与患者 
+生存期有密切关系[3]。但 目 前 P D 自主神经功能障 
+碍 机 制 尚 未 完 全 明 确 ，且 缺 乏 经 典 的 实 验 模 型 。 
+M PTP是一种神经毒素，被广泛用于制作 P D 动物模 
+型 ，主要通过氧化损伤和抑制线粒体呼吸链复合物造 
+成中枢和周围神经系统儿茶酚胺能丧失，能够模拟 
+P D 的病理表现,病变的严重程度和稳定性取决于给
+药方案。常 用 的 M P T P小鼠模型根据给药剂量和给 
+药时间不同分为急性、亚急性、慢性模型，其中急性模 
+型 、亚急性模型诱导的黑质纹状体的病变具有显著可 
+逆性，慢性低剂量模型引起的症状及病理改变呈进行 
+性发展[4]，可 模 拟 P D 疾病进行性发展过程，因此本 
+研究通过对M PT P慢性诱导的P D 模型小鼠进行多个 
+时间点、多个自主神经系统功能评估，探 讨 M P T P制 
+备的慢性P D 模型小鼠对P D 自主神经功能障碍研究 
+的适用性。
+据报道[2] ,88. 9 % 的 P D 患者在运动症状发作前 
+会出现胃肠道症状，其中排便障碍的患病率为77 %
+。 
+既往研究[ M W  1 ]显示，给予腹膜内急性注射MPTP[ 60
+• 54 •
+J Clin Neurol, February 2022，Vol. 35 , No. 1
+m g / ( k g • d )，4 次/d ，每次间隔2 h ]2 ~3 (1后 ，小鼠 
+结肠运动短暂增加，7 d 后出现肠道延迟转运和便 
+秘 ，第 18 d 出现排便频率显著降低，大便质量未见改 
+变。 目前关于胃肠功能的研究结果不一致，可能与 
+M P T P 给药时间、给药剂量不同有关。但 是 ，相对于 
+急性、亚急性模型，慢 性 M P T P 模型中发现的运动衰 
+退及病理变化更加近似于人类P D 的主要改变112。 
+为此，本研究采用M P r P 慢性注射的方法评估两组小 
+鼠的胃肠功能，结果发现M P T P 组小鼠在第4 周开始 
+出 现 i h 排便颗粒数下降，第 5 周 、第 6 周排便颗粒 
+数及粪便含水量均明显下降，提示慢性 M P T P 注射可 
+引起小鼠早期胃肠功能障碍,可 用 于 P D 伴胃肠道功 
+能的相关研究，并且制备该模型所需的时间相对较 
+短 ，其症状表型较为稳定。
+27% ~ 8 5 % 的 P D 患者出现刺激性排尿障碍，表 
+现为夜尿症、尿频、尿急或膀胱排空不良[2]。既往有 
+研究[131对 M P T P 处理的猴模型的泌尿功能进行评 
+估 ，其膀胱逼尿肌也出现收缩增加。另一项研究n4 
+显示，过表达人 a -突触核蛋白的转基因小鼠也表现 
+为膀胱排尿反射亢进、排尿频率增加、单次排尿量减 
+少 ;在 G M 2 合 酶 敲 除 的 P D 小鼠模型中同样观察到 
+膀 胱 功 能 亢 进 的 症 状 ~ ]。但 既 往 尚 无 研 究 评 估  
+M P T P 模型对小鼠泌尿功能的影响，本研究系首次进 
+行该项研究。研 究结果 显 示 ，M P T P 组 小 鼠 在 第 5 
+周 、第 6 周排尿次数明显增加，平均单次尿量明显下 
+降 ，提示慢性M P T P 注射也可导致小鼠膀胱逼尿肌反 
+射亢进，表 现 出 类 似 P D 患者的刺激性排尿障碍症 
+状 ，相对于猴模型或转基因小鼠，制备该模型过程较 
+简单，所需的实验药品及实验动物易获得，可 用 于 PI〕 
+泌尿功能的评估及相关病理机制的研究。
+此外，研究1161显示，P D 患者心血管自主神经功 
+能障碍与周围神经的去甲肾上腺素能神经支配丧失 
+有关，心脏交感神经纤维也存在严重耗竭。亚急性 
+M P r P 中毒使猴子的交感神经末梢系统受到影响，实 
+验中发现其心外膜神经束中表达酪氨酸羟化酶的轴 
+突数量显著减少^7 ,与上述研究一致。然而 ，M P T P  
+治疗后的小鼠心肌神经纤维未见明显异常[181 ,这可 
+能与物种差异有关。另有研究n 9]发现，在腹膜内注 
+射 M P r P [10 m g / ( k g •
+ d ) ，连续4 d ]小鼠表现出心率 
+升高以及 R M S S D 显著下降的特征。本研究同样对 
+小鼠的心血管相关指标进行评估，以明确慢性M P T P  
+注射是否对小鼠造成外周心血管系统的影响。结果 
+显示，两组小鼠心率及心率变异性相关指标无明显差 
+异。曾有研究[2<)1指出，M P T P 对啮齿类动物心脏损伤 
+的影响是暂时的。本研究小组推测，药物剂量和给药 
+间隔时间也可能是造成这些研究结果不同的原因，慢
+性 M P T P 间隔给药的方式可能使得模型小鼠心功能 
+损伤相对不明显。既往有研究[21]采 用 M P T P 皮下泵 
+诱发小鼠 P D 样症状。持续缓慢给药的方式或许可 
+以解决这一缺陷，这值得在未来的科学研究中进一步 
+探索。
+本研究发现，经 MPIT处理的小鼠于第6周出现 
+运动功能受损，两组小鼠中脑免疫组化染色及蛋白质 
+免疫印迹的结果均提示M P r P 诱导的P D 慢性小鼠模 
+型中脑多巴胺神经元显著减少，再现了 PD运动症状 
+和神经病理特征，提示慢性MPTP皮下注射可成功诱 
+导 出 P D 小鼠模型。既往有研究[22]发现，大鼠黑质多 
+巴胺能神经元损耗导致升结肠乙酰胆碱水平降低，多 
+巴胺水平增加以及多巴胺D 1 和 D 2 受体减少，可引 
+起胃肠运动障碍。另有研究[231显示，与单侧黑质多 
+巴胺能神经元退化相比，双侧受损的 P D 大鼠表现出 
+更广泛的行为缺陷和尿动力学变化。本研究相关分 
+析结果显示，M P F P 组小鼠胃肠功能及泌尿功能障碍 
+与多巴胺能神经元受损也存在一定的相关性，与上述 
+研究一致，均提示脑内多巴胺能神经元丢失可能是 
+P D 伴胃肠功能、泌尿功能障碍的原因之一，但具体相 
+关机制有待更多研究来揭示。
+P D 自主神经功能障碍的症状复杂多变，涉及系 
+统较多，考虑到不同动物模型的局限性对实验设计至 
+关重要,本研究在多个时间点对慢性低剂量M PT P制 
+备 的 P D 模型小鼠自主神经功能进行了评估，以验证 
+该模型对 P D 自主神经功能障碍研究的适用性。 目 
+前关于 P D 动物模型多系统横向比较的研究分析较 
+少,多数研究仅针对单一系统进行分析。本研究通过 
+对多个自主神经系统进行动态分析发现，M PT P处理 
+小鼠的胃肠功能、泌尿功能障碍均在运动症状之前出 
+现 ，且胃肠功能障碍发生在泌尿功能障碍之前，心血 
+管功能未见明显损害，中脑多巴胺能神经元受损与胃 
+肠功能、泌尿功能障碍存在着相关性关系，即慢性 
+M PTP皮下注射制备的P D 小鼠模型可诱导部分自主 
+神经功能受损,可用于 P D 早期胃肠及泌尿系统功能 
+的研究，但不适用于心血管功能的研究。本研究也存 
+在一些局限性。首 先 ，本研究未能持续评估更长时 
+间，以观察后期症状是否发生改变;其次，本研究也未 
+能同步观察脑中多巴胺能神经元数量，为全面分析症 
+状与脑内多巴胺能神经元受损的相关性提供综合性 
+依据。因此，今后的研究可以此为基础，进一步探索 
+并构建更加完善的P [)伴自主神经功能障碍的动物 
+模型，以帮助进行P D 自主神经功能的相关研究。
+[ 参 考 文 献 ]
+[ 1 」
+Poewe W ， Seppi K，Tanner CM， et al. Parkinson disease[j」 ■ Nat Rev
+临床神经病学杂志2022年第 3 5 卷 第 1 期
+• 55 •
+Dis Primers,20 1 7 ,3： 17013.
+[2 ] Chen Z,Li G,Liu J. Autonomic dysfunction in Parkinson* s disease：
+ 
+implications for pathophysiology, diagnosis, and treatment [ J ]. Neu- 
+robiol D is,2020,134：
+ 104700.
+[3] De Pablo-Femandez E ,Tur C,Revesz T ,et al. Association of auto­
+nomic dysfunction with disease progression and survival in Parkinson 
+disease [ J ] . JAMA Neurol,2017 ,7 4 (8 ) ：970-976.
+[4 ] Munoz-Manchado AB, Villadiego J , Romo-Madero S ,et al. Chronic 
+and progressive Parkinson' s disease MPTP model in adult and aged 
+mice[ J ] . J Neurochem,2016,136(2) ：373-387.
+[5 ] Jang Y,Koo JH,Kwon I,et al. Neuroprotective effects of endurance 
+exercise against neuroinflammation in MPTP-induced Parkinson ' s 
+disease mice[ J ]. Brain Res,2017,1655 ：
+ 186-193.
+[6 ] Ellett LJ, Hung LW, Munckton R , et al. Restoration of intestinal 
+function in an MPTP model of Parkinson’ s Disease [ J ] . Sci Rep, 
+20 1 6 ,6 ：30269.
+[ 7 ]  原 文 鹏 ，张 硕 峰 ，沈 欣 ，等• 尿 频 康 对 大 、小 鼠 排 尿 的 抑 制 作 用 及  
+药 动 学实验[ J ] . 中国实验方 剂 学 杂 志 ，200 0 ,5 (6 ) :18-20.
+[ 8 ]  王 文 婷 ，张 忠 霞 ，陈 鸿 旭 ，等 .伴 自 主 神 经 功 能 障 碍 的 帕 金 森 病  
+患 者 的 睡 眠 结 构 及 其 与 快 速 眼 动 睡 眠 障 碍 的 相 关 性 [ J ].临床 
+神经 病 学 杂 志 ，2019,32(4):249-253.
+[ 9 ]  刘 婉 ，刘 卫 国 ，谢 敏 珍 ，等. 住 院 帕 金 森 病 患 者 2 4 小时动态血压 
+及心率 变 化 的 临 床 研 究[ J ] . 临 床 神 经 病 学 杂 志 ，2 0 1 9 ,3 2 (3 ): 
+161-165.
+[10] Anderson G,Noorian AR,Taylor G ,et al. Loss of enteric dopaminer­
+gic neurons and associated changes in colon motility in an MPTP 
+mouse model of Parkinson * s disease [ J ]. Exp Neurol, 2007,207 
+( 1 ) ：4-12.
+l11] Natale G , Kastsiushenka 0,Fulceri F ,et al. MPTP-induced parkin­
+sonism extends to a subclass of TH-positive neurons in the gut[ J_ . 
+Brain Res,2010,1355 ：
+ 195-206.
+[12] Petroske E,Meredith GE,Callen S,et al. Mouse model of Parkinson­
+ism ： a comparison between subacute MPTP and chronic MPTP/pro­
+benecid treatment[ J ]. Neuroscience,2001,106(3) ：589-601.
+。13] Pritchard S,Jackson MJ,Hikima A ,et al. Altered detrusor contractil­
+ity in MPTP-treated common marmosets with bladder hyperreflexia
+[JJ.PL oS One,2017,12(5) ：e0175797.
+[14] Hamill RW, Tompkins JD, Girard BM,et al. Autonomic dysfunction 
+and plasticity in micturition reflexes in human a-synuclein mice[ J ] . 
+Dev Neur〇biol,2012,72(6) ：918-936.
+[15] Gil-Tommee C , Vidal-Martinez G, Annette Reyes C , et al. Parkinso­
+nian GM2 synthase knockout mice lacking mature gangliosides devel­
+op urinary dysfunction and neurogenic bladder [ J ] • Exp Neurol, 
+2019,311 ：265-273.
+[16] Mendoza-Velasquez JJ, Flores-Vazquez JF, Barron-Velazquez E, et 
+al. Autonomic Dysfunction in a-Synucleinopathies [ J ]. Front Neu­
+rol,2019 ,10 ：363.
+[17] Carmona-Abelian M , Martinez-Valbuena I.DiCaudo C,et al. Cardiac 
+sympathetic innervation in the MPTP non-human primate model of 
+Parkinson disease[J . Clin Auton Res,2019 ,29(4) ：415^25.
+[18] Amino T,Uchihara T,Tsunekawa H , et al. Myocardial nerve fibers 
+are preserved in MPTP-treated mice, despite cardiac sympathetic 
+dysfunction[ J ]. Neurosci Res,2008 ,6 0 (3 ) ：314-318.
+[19] Liu X,Wei B,Bi Q ,et al. MPTP-induced impairment of cardiovascu­
+lar function[J]. Neurotox Res,2020,38( 1 ) ：27-37.
+Fuller RW,Steranka LR. Central and peripheral catecholamine de­
+pletion by 1-methyl-4-phenyl-tetrahydropyridine (MPTP) in rodents 
+[ J ] . Life Sci, 1985,36(3) ：243-247.
+[21] Fomai F,Schliiter 0M,Lenzi P ,et al. Parkinson-like syndrome in­
+duced by continuous MI^TP infusion ： convergent roles of the ubiquit- 
+in-proteasome system and alpha-synuclein[ J j . Proc Natl Acad Sci U 
+S A ,2005,102(9) ：3413-3418.
+[22] Garrido-Gil P, Rodriguez-Perez A l, Dominguez-Meijide A , et al. Bi­
+directional neural interaction between central dopaminergic and gut 
+lesions in Parkinson's disease m odels[JJ. Mol Neurobiol ,2018 ,55 
+(9 ) ：7297-7316.
+[23 ] Praveen Rajneesh C , Liou JC , Hsieh TH, et al. The voiding efficiency 
+in rat models with dopaminergic brain lesions induced through uni­
+lateral and bilateral intrastriatal injections [ J ]. PLoS One, 2020,15 
+(12) ：e0243452.
+( 收 稿 日 期 2021 > 0 8 -1 6 修 回 日 期 2021 *09-26)
+《临床神经病学杂志》关于及时领取稿酬的通知
+本刊刊用的论文在当期杂志发行后3 周内将会给第一作者寄出稿酬。本刊往期中已多次刊登“关于及时领取稿酬的通 
+知”，对汇款逾期未领被邮局退回汇款不再重寄。 目前仍有作者未及时领取汇款，被邮局退回。本刊现再次通知,请作者在论文 
+刊登后注意查收和及时领取稿酬，如稿酬未及时领取被邮局退回，则交上级主管财务部门，本刊不再重寄。特再次告之。
+《临床神经病学杂志》编辑部
+《临床神经病学杂志》微信公众平台邀您关注
+为了加强与广大读者、作者以及专家的沟通，及时进行信息反馈，《临床神经病学杂志》微信公众平台于2015年 8 月正式开 
+通 ，欢迎大家关注！
+您可通过以下三种方式关注《临床神经病学杂志》微信公众平台：1、搜索公众订阅号名称“临床神经病学杂志”添加关注;2 、
+ 
+搜索微信号“Icsjbx”添加关注;3 、扫描位于本刊目次页右上角的微信二维码。
+《临床神经病学杂志》编辑部

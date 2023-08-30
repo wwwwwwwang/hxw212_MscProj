@@ -1,0 +1,366 @@
+史国匡』匝盘盍! ! ! 兰生! 旦筮! i 鲞筮! 翅』! ! 翌堂堂g! i ! ! 堕堕巡! i 些：丛业! ! ! 堡：! 堂：! ! ：盟! ：!
+· 论著·
+人参皂甙Rgl 对Cdk5的调控在海马神经元放射性
+损伤防护中的意义
+孙爱民李传刚
+林水苗
+张余琴夏琼
+【摘要】
+目的探讨人参皂甙Rgl 对Cdk5的调控在海马神经元放射性损伤防护中的意义。方法通过建立放射性脑
+损伤的体内模型，将40只实验大鼠按随机数字表法分为4组，每组10只，即：0Cy组( 简称空白组) ，单纯人参皂甙Rgl 预处理
+组( 简称对照组) ，30Gy组( 简称模型组) ，30Gy+人参皂甙Rgl 预处理组( 简称中药组) ，分离、培养海马神经元，用4’
+，6- 二脒
+基_2- 苯基吲哚( DAPI ) 染核方法检测各组海马神经元凋亡情况，采用West ern bl ot 检测p35、p25蛋白表达以及应用Cdk5抑制
+剂roscovi t i ne抑制Cdk5，观察阻断Cdk5后x射线对各组海马神经元损伤的改变。结果与空白组比较，对照组的核固缩百
+分数、神经元存活数目、p35、p25蛋白表达水平差异无统计学意义( P>0．05) ，模型组与中药组的核固缩百分数、p35、p25蛋
+白水平则明显升高，神经元存活数目明显降低，且差异有统计学意义( P<0．05) ；与模型组比较，中药组的核固缩百分数、
+p35、p25蛋白水平明显降低，神经元存活数目则明显升高，差异有统计学意义( P<0．05) ；单就各组+二甲基亚砜( DMSO) 而
+言，与空白组+DMSO比较，对照组+DMSO的核固缩百分数差异无统计学意义( P>0．05) ，模型组+DMSO与中药组+DMSO
+则明显升高，差异有统计学意义( P<0．05) ；与模型组+DMSO比较，中药组+DMSO的核固缩百分数明显降低，差异有统计学
+意义( P<0．05) 。结论人参皂甙Rgl 可通过调控Cdk5，降低神经元凋亡，而在海马神经元放射性损伤中发挥防护作用。
+[ 关键词]
+人参皂甙／治疗应用；细胞周期蛋白质依赖激酶类；海马；神经元；辐射损伤，实验性／中药疗法
+The i mport ance of regul at ory rol e of panaxosi de Rgl
+i n Cdk5 on hi ppocampal
+neuron radi oact i ve damage prot ect i on
+Sun
+Ai mi n+，Li
+Chuangang，Li n Shui mi ao，Zhang
+Yuqi n，Xi a Qi ong．+Depart ment
+of Radi at i on
+Oncol ogy，Sout hern Medi cal
+uni versi t y nanf ang hospi t al ，Guangzhou 5 105 15，Chi na
+Correspondi ng aut hor：Xi a Qi ong，Emai l ：xi aqi ong@f i mmu．corn
+【Abst arct 】Obj ect i ve
+To di scuss t he i mport ance of regul at ory rol e of panaxosi de Rgl
+i n Cdk5 i n t he process of hi ppocampal
+neuron radi oact i ve damage prot ect i on．Met hods
+Radi oact i ve brai n damage
+i n vi vo 40 model s
+were bui l t ，and di vi ded i nt o 4 groups，
+i ncl udi ng 0 Gy group( short
+f or bl ank group) ，pure panaxosi de Rgl
+precondi t i oni ng group( short
+f or cont rol group) ，30 Gy
+group
+( short
+f or model group) ，and 30Gy+panaxosi de Rel
+precondi t i oni ng group( short
+f or t radi t i onal
+Chi nese medi ci ne group) ．Hi pp—
+ocampal
+neurons were separat ed and t rai ned．Hi ppocampal
+neuron apopt osi s condi t i on was t est ed i n every group by 4’
+，6- di ami di no一
+2一phenyl i ndol e( DAPI ) st ai ni ng met hod．The p35 and p25 prot ei n expressi ons were t est ed wi t h West ern bl ot ．Cdk5 was rest rai ned by
+Cdk5
+rest rai ner roscovi t i ne．Hi ppocampal
+neuron damage af t er Cdk5 bl ocki ng· up was observed wi t h changes of X ray i n every
+group．
+Resul t s
+Compared wi t h bl ank
+group，no si gni f i cant di f f erence was f ound i n nucl ear shri nkage percent age，t he number of neuron sat -
+vi val ，and t he prot ei n expressi on l evel s of p35 and p25 i n cont rol
+group；nucl ear shri nkage percent age and t he prot ei n expressi on l evel s
+of p35 and p25 were si gni f i cant l y i ncreased and t he number of neuron survi val
+was si gni f i cant l y decreased i n t he model
+group and tradi —
+t i onal
+Chi nese medi ci ne group( P<0．05) ．Compared wi t h model group，nucl ear shri nkage percent age and t he prot ei n expressi on l ev-
+el s of p35 and p25 were si gni f i cantl y decreased and t he number of neuron survi val
+was si gni f i cant l y i ncreased i n t he t radi t i onal
+Chi nese
+medi ci ne group( P<0．05) ．For t he addi t i on of di met hyl sul f oxi de( DMSO) i n every group，t he nucl ear
+shri nkage percent age was
+not
+si gni f i cant l y changed i n cont rol
+group compared wi t h bl ank group，was si gni f i cant l y i ncreased i n model
+group and t radi t i onal
+Chi —
+nese medi ci ne group compared wi t h bl ank group( P<0．05) ，and was si gni f i cant l y decreased i n t radi t i onal
+Chi nese medi ci ne group
+compared wi t h model group( P<0．05) ．Concl usi ons
+Panaxosi de Rgl
+Can reduce neuron apopt osi s by cont rol l i ng Cdk5，and pl ays
+a prot ect i ve rol e i n hi ppocampal
+neuron radi oact i ve damage．
+DOI ：10．3760／cma．j ．i ssn．1008—1372．20t 4．05．003
+基金项目：国家自然科学基金资助项目( 30973846) ；广东省科技计划资助项目( 20118031800244)
+作者单位：510515广州，南方医科大学南方医院放疗科( 孙爱民、林水苗、张余琴) ，超声诊断科( 李传刚) ，医学影像教研室( 夏琼)
+通信作者：夏琼，Emai l ：xi aqi ong@f i mmu．eom
+万方数据
+主国医蠼苤查垫! 垒生! 旦箜! ! 鲞箜! 翅』! ! 里堂生垦! i ! ! 堕呈! Y! i ! ! 塑：丛盟垫! ! ：! ! ! ：! ! ：塑! ：i
+【Key words】
+G1NSENOSI DE／t hempeut i c use；Cycl i n—dependent ki nases；Hi ppocampus；Neurons；Radi at i on i nj uri es，experi —
+ment al ／ZHONG YAOLI AO FA
+放射性脑损伤是头颈部肿瘤最严重的放射治疗
+并发症，已成为影响患者疗效及生活质量的主要因
+素之一【1] ，故而研究其有效防治药物具有较大的临
+床价值。同时，由于海马神经元对于放射线敏感，其
+受损后主要表现在学习记忆、行为反应以及内分泌
+调节等方面口j ，然而，现今对其机制尚不清楚。课
+题组在前期研究中发现，Cdk5可能在神经元放射性
+损伤中发挥作用，而Cdk5属于Cdks家族的特殊成
+员，与神经退行性病变关系密切，人参皂甙则属于人
+参的活性成分[ 3] 。已有研究证实MJ ，人参皂甙可对
+大鼠脑缺血再灌注损伤发挥保护作用，放射线脑损
+伤机制与脑组织缺血缺氧性损伤机制在血管及免疫
+损伤上具有共同点。从而引发课题组思考，是否人
+参皂甙对于放射线损伤也能发挥保护作用?本研究
+即以此为切入点，通过建立放射性脑损伤的体外模
+型，系统研究Cdk5在海马神经元放射性损伤中的
+功能，探讨人参皂甙在海马神经元放射性损伤中的
+作用及其对Cdk5的调控机制。
+1材料与方法
+1．1
+实验材料
+1．1．1药物与试剂
+人参皂甙Rgl ( 纯度>95％)
+购自吉林大学有机化学教研室；主要试剂：West ern—
+bl ot 化学发光检测试剂盒( 凯基生物公司) ；辣根过
+氧化物酶标记二抗( 中杉金桥公司) ；13- act i n( 威佳
+公司) ；p25／p35( C一19) 多克隆抗体( Cel l
+Si gnal i ng) ；
+roscovi t i ne，纯度>95％( Bi omol 公司) ；胎牛血清
+( Hycl one公司) ；转印用PVDF膜( 美国Bi o—rad公
+司) ；B27培养基添加剂、DMEM／F12、青链霉素及胰
+酶( Gi bco公司) ；谷氨酰胺、多聚赖氨酸及L一谷氨酸
+( Si gma) 。
+1．1．2实验动物新生1 d的清洁级SD大鼠40
+只，雌雄各半，由南方医科大学南方医院实验动物中
+心提供，动物生产许可证号：SYXK( 粤) 2005- 0056。
+自由饮食，室温( 25± 3) ℃，Y6／暗周期为12 h／12 h
+( 光照时间6：00～18：00) 。
+1．2
+实验方法
+1．2．1
+分离、培养海马神经元
+取实验大鼠，用
+75％乙醇消毒后，取大脑组织后，进行海马分离，将
+其剪成直径为0．4 mm小块，胰蛋白酶作用后使用
+DMEM／F12终止消化，将组织块进行吹打以分离细
+胞，筛网过滤后离心，弃上清液，加Neural basal ／F12
+完全培养基，再次吹打分离细胞，制成单细胞悬液，
+接种在培养板内，置适宜温度与湿度的CO：培养箱
+内进行培养。72 h后，加入阿糖胞苷抑制胶质细胞
+过度增殖，待48 h后更换为新鲜培养液。而后每周
+换液两次，每次换培养液体积为原有的1／2，培养至
+第12天进行神经元鉴定，达到纯度高于95％时用
+于下述实验。
+1．2．2
+放射性损伤照射方法。5
+采用Vari an
+2100C型直线加速器，相关参数设置为：剂量为30
+Gy，源皮距100 cm，射野大小为10 13111× 10 om，剂量
+率为400 cGy／mi n的6 MV的x线，将射线沿细胞
+贴壁面垂直进行照射，并垫厚度1．5 om的有机玻璃
+板。对照组( 0 Gy) 在细胞孵育箱外放置的时间同
+“ 实验组” ，但不用x线照射。照射完毕后继续培养
+进行下一步研究。
+1．2．3实验分组将40只实验大鼠按随机数字表
+法分为4组，即：0Gy组( 简称空白组) ，单纯人参皂
+甙Rgl 预处理组( 简称对照组) ，30Gy组( 简称模型
+组) ，30Gy+人参皂甙Rgl 预处理组( 简称中药组) 。
+将人参皂甙Rgl 在x线照射前15 mi n加入培养板，
+其终浓度均为20 t xmol ／L，每组10只。
+1．2．4观察指标神经元凋亡检测：将各组大鼠神
+经元细胞照射后再培养24 h，吸弃细胞培养液，而后
+依次进行漂洗、孵育、漂洗，置于荧光显微镜下观察
+细胞核的形态改变，并进行计数。
+p35／p25蛋白水平检测：吸弃细胞培养液，分别
+提取胞质、胞膜、胞核蛋白；于200 V进行聚丙烯酰
+胺凝胶电泳45 mi n；转移于硝酸纤维膜( NC膜) 上，
+用封闭液室温封闭2 h，和一抗共同轻摇孵育过夜。
+洗3次，把NC膜与辣根过氧化物酶( HRP) 结合的
+二抗，和HRP．结合的抗生物素抗体室温孵育1 h；洗
+3次，与10 ml
+1× Lumi GLO室温下轻摇1 mi n。感
+光，显影，定影，晾干，拍照、图像分析。
+1．3统计学处理本研究中所有数据均采用SPSS
+16．0统计学软件进行处理和分析。P<0．05为差异
+有统计学意义。
+2结果
+2．1
+人参皂甙Rgl 对各组海马神经元损伤凋亡的
+保护作用
+2．1．1对神经元核固缩的影响效果空白组与对
+照组的核固缩百分数差异无统计学意义
+万方数据
+生国匿』匝盘查! ! ! 兰生! 旦箜! ! 鲞筮! 翅』业里型! ! g! i ! 塑! 里! Y堂迪：坠型! Q! 兰：! ! ! ：! 鱼：№：!
+( P>0．05) ，模型组与中药组则升高明显，差异有
+统计学意义( P<0．05) ；与模型组比较，中药组的
+核固缩百分数明显降低，差异有统计学意义
+( P<0．05) ，见表1、图1。
+图1
+各组海马神经兀核固缩比较
+2．1．2对神经元数目的影响空白组与对照组的
+神经元存活数目差异无统计学意义( P>0．05) ，模
+型组与中药组则明显降低，差异有统计学意义
+( P<．0．05) ；与模型组比较，中药组的神经元百分
+数明显升高，差异有统计学意义( P<0．05) ，见
+表1。
+2．2人参皂甙Rgl 对p35、p25蛋白表达影响
+与
+空白组比较，对照组的p35、p25蛋白表达水平差异
+无统计学意义( P>0．05) ，模型组与中药组则明显
+升高，差异有统计学意义( P<0．05) ；与模型组比
+较，中药组则明显降低，差异有统计学意义
+( P<0．05) ，见表1、图2。
+表1人参皂甙Rgl 对各组海马神经元核固缩百分数、
+海马神经元及p35、p25蛋白表达影响比较( 元± s)
+注：与空白组比较，8P<0．05；与模型组比较，6P<0．05
+审厂] 组
+剐照组
+j ：药组
+模型组
+图2各组p35、p25蛋白表达比较( 采用West ern bl ot )
+2．3
+Cdk5抑制剂roscovi t i ne对x线诱导的海马神
+经元损伤的作用DMSO即roscovi t i ne的溶质，空白
+组与空白组+DMSO，对照组与对照组+DMSO之间
+比较，差异无统计学意义( P>0．05) ，模型组与模
+型组+DMSO，中药组与中药组+DMSO比较，则明
+显降低，差异有统计学意义( P<0．05) 。单就各组
++DMSO而言，与空白组+DMSO比较，对照组+
+A：空白组；B：对照组；C：模型组；D：中药组
+DMSO的核固缩百分数差异无统计学意义
+( P>0．05) ，模型组+DMSO与中药组+DMSO则
+明显升高，差异有统计学意义( P<0．05) ；与模型
+组+DMSO比较，中药组+DMSO的核固缩百分数
+明显降低，差异有统计学意义( P<0．05) ，见表2。
+表2
+Cdk5抑制剂roscovi t i ne对x线诱导的海马神经元
+损伤的作用( 元± s)
+注：与模型组比较，8P<0．05；与中药组比较，。P<0．05；与空白
+组+DMSO比较, bp<0．05；与模型组+DMSO比较，8P<O．05
+3讨论
+3．1
+X线对海马神经元的影响
+随着对于脑瘤等
+疾患治疗及预后的深入研究，患者出现的智力降低、
+记忆缺失等神经放射损伤现象逐渐增多，从而提示
+在治疗过程中神经细胞受到放射线损伤，临床实践
+证实，在治疗过程中，一定的照射剂量即可导致神经
+细胞的凋亡，同时出现神经功能障碍∞J ，一般而言，
+晚期的放射性脑损伤主要以白质坏死和脱髓鞘的病
+理学改变为主[ ．7|，然其机制如何，尚不清楚，但随着
+现今临床放射线损伤患者的渐趋增多，探讨其机制
+已成为亟需解决的问题。
+神经细胞凋亡普遍存在于生物体内，而电离辐
+射是诱导其出现的最常用手段，研究发现，神经系统
+疾病在发生与发展过程中与凋亡具有较大相关性，
+国外系列研究发现，如发现放射性脑损伤后胶质细
+胞的凋亡主要发生在第1天，其后逐渐减少"1；且
+万方数据
+生国匡』匝盘查! Q! 堡生! 旦箍! ! 鲞筮! 翅』塑翌堂垡￡! i ! ! 堕坠! 堂也，丛型! Q! 璺：! 坐：! ! ：塑! ：!
+进一步研究认为4 h即可发生凋亡，至12 h达到高
+峰∽] 。本研究结果与此基本一致，照射24 h之内即
+发现凋亡细胞，但进一步细化不同时间段凋亡情况
+的数据尚在整理之中，有待同期发表。
+3．2
+Cdk5在中枢神经系统中的作用
+cdk5作为
+丝氨酸／苏氨酸激酶家族，其与激活蛋白( NcKSa) 结
+合所形成的复合物方具有生物活性，生理状态下，
+Cdk5在p35、p25等调节亚基的信号作用下锚定于
+膜上，发挥促凋亡和促存活信号转导通路平衡的功
+效，可见，其在神经元发育、迁移、神经元存活中具有
+重要作用u0|。反之，若Cdk5被过度激活，则极易导
+致神经元变性坏死，研究显示：用A13孵育培养的原
+代神经元，p35可经中性蛋白酶作用，降解为p25，游
+离在胞浆内，其蛋白激酶活性更高，更易导致神经元
+的死亡¨ ¨ ；临床实践证实，在海马硬化症中，与正常
+神经元比较，患处神经元的p25／p35表达明显升高，
+可见，p35被降解为p25，激活Cdk5，促进神经元死
+亡【I 2|。本研究结果显示，与空白组比较，对照组的
+p35、p25蛋白表达水平差异无统计学意义
+( P>0．05) ，模型组与中药组则明显升高，差异有
+统计学意义( P<0．05) ；与模型组比较，中药组则
+明显降低，差异有统计学意义( J P<0．05) 。可见，
+受x线照射后体外培养海马神经元的p35、p25表
+达均增加；照射后p35裂解成p25，而p25则进一步
+激活Cdk5，致Cdk5激酶活性更高，从而促进神经元
+退行性病变的发生。
+3．3人参皂甙的干预作用分析人参皂甙是人参
+的主要有效活性成分，是糖的衍生物，按组成结构上
+可以分为三大类，即：二醇型、三醇型以及齐墩果酸
+型，该药物对神经系统具有保护作用、有促进学习及
+记忆的作用以及拮抗神经元凋亡的作用口J ，其中人
+参皂甙Rgl 是较受关注的一种人参单体，现今报道
+中证实，其对帕金森病等神经退行性病导致的神经
+细胞凋亡有保护作用¨ 引。本研究结果发现：与模型
+组比较，中药组的核固缩百分数、p35、p25蛋白水平
+明显降低，神经元存活数目则明显升高且差异有统
+计学意义( P<0．05) ；与模型组+DMSO比较，中
+药组+DMSO的核固缩百分数明显降低，差异有统
+计学意义( P<0．05) 。
+综上所述，人参皂甙Rgl 可通过调控Cdk5，降
+低神经元凋亡，而在海马神经元放射性损伤中发挥
+防护作用。然而，由于文章篇幅有限，不同浓度的人
+参皂甙Rbl 、Rb3、Re对于调控Cdk5而发挥抗神经
+元损伤的作用机制研究的相关数据仍在整理之中，
+有待近期公开发表。
+参考文献
+[ 1]
+韩永清，孙爱民，刘鹊凌，等．x线照射原代培养大鼠海马神经
+元后p35、p25的表达及Cdk5激酶活性变化[ J ] ．南方医科大
+学学报，2009，29( 3) ：405- 407，411．
+[ 2] 刘慧莲．人参皂甙的药理作用研究进展[ J ] ．潍坊学院学报，
+2009，9( 2) ：106—108．
+[ 3] 郑亚莉，陆晓华，保莉，等．以Cdk5为靶点探讨Cdk5活性抑制
+肽CI P在神经细胞和胰岛B细胞的作用机制[ J ] ．中华保健医
+学杂志，2013，15( 2) ：152—155．
+[ 4]
+徐卫财，倪玉霞，刘小青，等．丙酮酸乙酯对大鼠全脑缺血再灌
+注损伤海马区SOD、NO和i NOS的影响[ J ] ．中国现代医学杂
+志，2010，20( 1) ：45- 48．
+[ 5]
+刘鹊凌，孙爱民，韩永清，等．放射性脑损伤大鼠海马神经元
+P35及P25的表达[ J ] ．山东医药，2008，48( 45) ：19- 21．
+[ 6]
+刘俊丽．他莫昔芬对放射性脑损伤的神经保护作用及其机制
+研究[ D] ．武汉：华中科技大学，2010．
+[ 7]
+刘鹊凌．放射性脑损伤大鼠动物模型的建立及其海马神经元
+P35及P25的表达变化[ D] ．广州：南方医科大学，2009．
+[ 8]
+Acharya MM，Lan ML，Kan VH，et
+a1．Consequences of i oni zi ng
+radi at i on—i nduced damage i n human neural
+st em ceHs[ J ] ．Free
+Radi c Bi ol
+Med，2010，49( 12) ：1846—1855．
+[ 9]
+J amumH，St ef f ensen EG，Knut sson L，et a1．Perf usi on MRI
+of
+brai n t umours：a comparat i ve st udy
+of pseudo—cont i nuous
+art eri al
+spi n l abeBi ng and dynami c
+suscept i bi l i t y
+cont rast
+i masi ng[ J ] ．
+Neuroradi ol ogy，2010，52( 4) ：307—317．
+[ 10] Pot t er GM，Marl borough FJ ，Wardl awJ M．Wi de vari at i on i n def -
+i ni t i on，det ect i on，and descri pt i on of
+l acunar l esi ons
+on i magi ng
+[ J ] ．St roke，201l ，42( 2) ：359- 366．
+[ 11] Tri vedi
+R，Khan AR，Rana P，et a1．Radi at i on—i nduced earl y
+changes i n t he brai n and behavi or：seri al
+di f f usi on t ensor i magi ng
+and behavi oral
+eval uat i on
+af t er graded doses of radi at i on[ J ] ．J
+Neumsci
+Res，2012，90( 10) ：2009- 2019．
+[ 12] Thomason ME，Thompson PM．Di f f usi on i magi ng，whi t e mat t er，
+and psychopat hol ogy[ J ] ．Annu Rev Cl i n Psychol ，201 1，7：63—
+85．
+[ 13] 陈勇，孙爱民，陈智贤，等．人参皂甙Rgl 对NOS的调控在海
+马神经元放射性损伤防护中的意义[ J ] ．南方医科大学学
+报，2010，30( 7) ：1522—1525。
+[ 收稿日期：2014．02—10]
+( 本文编辑：龙智钢)
+万方数据

@@ -1,0 +1,791 @@
+第42卷
+第2期
+2013年
+浙江大学学报( 医学版)
+J OURNAL 0F ZHEJ I ANG UNI VERSl 7rY( MEDl CAL SCI ENCES)
+ht t p：∥ www．j oumal s．zj u．edu．cn／med
+Vol 42
+No 2
+2013
+DOI ：10．3785／j ．i ssn．1008．9292．2013．02．011
+人参皂苷Rbl 对睡眠剥夺大鼠学习记忆及脑内
+生长抑素表达的影响
+董静尹，王俊波，方
+洁，袁张根，陆柯洁，金怡，曾玲晖
+( 浙江大学城市学院，浙江杭州310015)
+[ 摘要]
+目的：研究人参皂苷Rbl ( 西nsenosi des Rbl ，GsRbl ) 对睡眠剥夺( sl eep de研vat i on，sD)
+大鼠学习记忆与海马及额叶生长抑素( somat ost at i n，ss) 表达的影响。方法：大鼠随机分为睡眠剥夺
+2 d组、4 d组、6 d组和未睡眠剥夺( SD0 d) 组，每组再分为GSRbl 用药组和生理盐水对照组，共8
+组。采用改良小平台水环境法制作SD大鼠模型。造模前大鼠分别腹腔内注射GSRbl
+30 mg／( kg
+· d) 或生理盐水7 d。睡眠剥夺2 d、4 d和6 d后采用Morri s迷宫检测各组大鼠学习记忆能力，免
+疫组织化学法结合图像分析脑内SS阳性神经元数量及SS平均光密度。结果：与sD0d组大鼠比
+较，SD各组大鼠游泳平均速度减慢( P<0．01) ，逃避潜伏期明显延长( P<0．01) ；海马CA4&DG区
+ss表达下降( P<0．05) ；sD 2 d组大鼠额叶SS表达无明显变化( P>0．05) ，而SD 4 d、6 d组ss表
+达减少明显( P<0．05) 。与生理盐水对照组比较，SD组同时段的GSRbl 用药组大鼠游泳平均速度
+显著加快( P<0．05) ，逃避潜伏期明显缩短( P<O．05) ，用药组各时段海马内ss阳性神经元数量
+均明显增多，ss表达增强( P<0．05) 。结论：人参皂苷Rbl 能显著改善sD大鼠认知功能，该作用
+可能与增加海马内SS密切相关。
+[ 关键词]
+人参皂甙／治疗应用；生长抑素；
+习；海马／细胞学；额叶／细胞学；
+[ 中图分类号]
+R 338．63
+[ 文献标志码]
+学习障碍／药物疗法；记忆障碍／药物疗法；迷宫学
+神经元／细胞学；睡眠剥夺
+A
+[ 文章编号]
+1008．9292 I 2013) 02旬197D8
+Ef f ect s of 西nsenosi des Rbl
+on l earI l i ng and memory and expressi on of
+somat ost at i n i n sl eep depri Vat i on rat s
+DONG J i ngyi n，WANG J unbo，FANG J i e，YUAN Zhanggen，LU Kej i e，J I N Yi ，ZENG Li nghui ( Ci ￡y
+coff哪，劢咖口愕‰i 抛耶叻，mngz^o“ 310015，C^i 凡Ⅱ)
+[ Abst ract ]
+obj ect i Ve：To det emi ne t he ef kct s of gi nsenosi des Rbl ( GsRbl ) on l eami ng and memory
+and expressi on of
+somat ost at i n ( SS)
+i n t he hi ppocampus and t he f }ont al
+cort ex
+i n
+rat model
+of
+sl eep
+depri vat i on( SD) ．Met hoI l s：Rat s were mndomi zed i nt o groups
+of SD2 d，SD 4 d，SD 6 d，and SD 0 d，
+whi l e each group was sub—di vi ded
+i nt o GSRbl
+group and no瑚al
+sal i ne( NS)
+sub—groups．Rat s
+were
+i nt raperi t oneal
+admi ni st ered wi t h 30 mg／( kg· d) of CSRb 1
+or NS f or 7 d，t hen t he l eami ng and memory
+abi l i t i es
+were
+exami ned by measuri ng average swi mmi ng speed and mean escape l at ency usi ng Morri s
+收稿日期：2012旬1硝修回日期：2012讲一16
+基金项目：浙江大学城市学院大学生科研项目( ) ( 2011562098) ；浙江省教育厅科研基金项目( Y200909882) ；浙江省
+自然科学基金项目( Y2100417) ．
+作者简介：董静尹( 1976一) ，女，基础医学硕士，讲师，从事神经系统疾病形态学研究．
+通讯作者：曾玲晖( 】972一) ，女，药理学博士，教授，从事神经系统疾病药理学研究；E—maj l ：zen—h@zucc．edu．cn
+万方数据
+浙江大学学报( 医学版)
+第42卷
+maze．Expressi on of
+somat ost at i n was det ect ed
+wi t h i mmunohi st ochemi cal
+met hod and i mage anal ysi s
+i n
+t he hi ppocampus
+and
+t he
+f 而nt al
+conex．
+Resul t s：
+Compared
+wi t h
+SD 0
+d rat s，SD
+rat s
+exhi bi t ed
+si gni 6cant
+decrease i n t he average swi mmi ng speed and i ncrease i n t he escape l at ency( P<0．0 1) ．The
+expressi on of somat ost at i n i n t he hi ppocampus was decreased si gni f i cant l y i n SD 2 d，SD 4 d and SD 6 d
+rat s( P<0．05) ．However，decrease was onl v obseⅣed i n SD4 d and SD6 d rat s
+i n t he f ronl al cort ex( P
+<0．05) ．Paral l el
+compari son bet ween NS cont rol and GSRb 1 t reat ed
+rat s demonst rat ed t haI
+rat s f reat ed
+wi t h GSRb 1
+i n each subgmup exhi bi t ed f ast er swi mmi ng speed and short er escape l at ency( P<0．05) ．
+Meanwhi l e，t he
+expressi on of
+somat ost at i n was
+i ncreased i n SD 2 d，SD 4 d and SD 6 d rat s
+i n t he
+hi ppocampus and i n SD 4 d and SD 6 d rat s i n t he f 、rontal cort ex( P<0．05) ，respect i vel y．Concl usi on：
+GSRb l
+enhances t he expressi on of
+somat ost at i n i n sl eep depri vat i on
+rat s and subsequent l y may i mpmve
+l earni ng and memon『abi l i ci es of
+rat s．
+[ Key words]
+Gi nsenosi de／t herapeut i c
+use；somat ost at i n；Learni ng di sorders／pharmacol ogy；Memory
+di sorders／pharmacol ogy；Maze l earni ng；Hi ppocampus／cyt ol ogy；Front al
+l obe／cyt 0109y；
+NeuI ．0ns／cyt 0109y；Sl eep depri vaCi on
+[ J
+zhej i ang Uni v( Medi cal Sci ) ，2013，42( 2) ：197—204．]
+睡眠剥夺( sl eep cl epri vat i on，SD) 是指机体
+因各种原因致部分或全部丧失正常睡眠量的状
+态，可通过脑内多种神经递质的介导引起感觉、
+直觉、认知和精神活动等方面的复杂变化，对人
+体心理、生理、生活、T作多方面造成严重影响，
+在我国冈睡眠障碍引起的疾病占各类疾病总数
+80％以上。1。。因此，SD对机体的影响及防治研
+究已成为研究热点之一。已有研究表明，SD对
+动物的学习记忆有明显影响_。
+脑内生长抑素( somat ost at i n，ss) 具有激素
+和神经递质的双重作用，在中枢神经系统内参
+与了多种生理功能的活动和调节，如调节递质
+和激素的释放及神经元的兴奋点燃活动等；近
+年来，Ss对学习记忆的作用受到密切关注，如
+Al zhei mer病变严重的脑区ss神经元数量减
+少，SSmRNA表达下降3，脑室内注射Ss能明
+显增加电惊厥休克后大鼠的被动回避潜伏期。
+传统中药人参有效成分人参皂苷Rbl
+( gi nsenosi des Rbl ，GSRbl ) 有明显促智效应；4，
+能显著改善电休克，缺血，药物所致等脑功能受
+损动物的学习记忆功能。本研究通过行为学方
+法结合免疫组化，探讨GSRbl 对SD大鼠学习
+记忆能力及脑内生长抑素表达的影响，为临床
+防治SD，改善患者认知功能提供实验依据。
+1材料和方法
+1．1
+仪器，药品与试剂
+Morri s水迷宫( 深圳
+瑞沃德公司) ；Ni kon50i 显微镜( 日本Ni kon公
+司) ；Mi crom石蜡切片机( 德围美康公司) ；
+GSRhl ( 上海融禾医药科技发展有限公司，批号
+1 10520) ；生长抑素抗体( somat ost at i n，SS) ( 北
+京巾山生物公司) ；即用型SP试剂盒( 福建迈
+新公司) 。
+1．2实验动物及分组清洁级l ～2月龄健康
+雄性SD大鼠80只，体重120～140 g，南浙江省
+医科院提供[ 许可证号：scxK( 浙) 2008一
+0033] 。动物自由进食、饮水，室温保持在23℃
+～25℃，给予12 h／12 h明暗交替( 光照时间为
+8：00～20：00) 。适应性饲养l 周，观察状态良
+好。其后进行首次Morri s水迷宫行为训练。
+根据睡眠剥夺时间的不同将大鼠随机分4
+组：SD 0 d组( 未剥夺睡眠组) 、SD 2 d组、SD 4
+( 1组和SD 6 d组；每组再分为GSRbl 用药组和
+生理盐水对照组( NS) ，共8组，每组10只。
+1．3造模与给药根据文献” l ，制作78 cm×
+52 c：m× 28 cm剥夺箱，采用改良小平台水环境
+法( now pot ) 建立sD大鼠模型，剥夺箱内分布
+直径8．5 cm，高8 cm平台8个，在平台周围注
+满水，水距平台约3 cm，水温保持在20℃左右。
+万方数据
+第2期
+董静尹，等人参皂苷Rbl 对睡眠剥夺大鼠学习记忆及脑内生长抑素表达的影响
+每天换水1次，大鼠在平台上可自行饮食饮水，
+若其睡眠，则因肌肉松弛垂头触水而醒，大鼠只
+能重振精神爬上平台，这样反复多次达到剥夺
+睡眠的效果。为减少水环境法造成的应激干
+扰，sD0d组采用水环境法大平台作为对照，该
+平台直径15 cm，大鼠可以在平台上睡眠，其它
+环境与其余SD组相同。造模前，GSRbl 组大
+鼠以30 mg／( kg· d) 腹腔注射给药，每日1次，
+连续7 d，对照组以同样方式给予等量生理盐
+水。在SD 2 d、4 d和6 d之后进行Mo而s水迷
+宫测试。
+1．4
+Morri s水迷宫行为训练及测试首次训
+练之前，大鼠分笼饲养以适应实验室环境。每
+日逐一给予适当抓摸以消除其恐惧感。实验前
+将大鼠置于平台上适应10 s，随后将大鼠随机
+从不同象限面壁置人池内，大鼠登上平台5
+s
+后终止记录，最长记录时间为120 s，若大鼠在
+120 s内不能上台，引导其爬上平台适应10 s，最
+后将大鼠擦干放回鼠笼。如此将大鼠置入游泳
+池，每天4次，每次间隔1 h，训练4 d，其间保持
+水温恒定，水下平台位置固定不变。记录大鼠游
+泳平均速度( average speed) 及逃避潜伏期
+( esc印e l at ency) ，以评判大鼠的学习记忆能力。
+在sD 2 d，4 d，6 d后进行测试，每只大鼠从不同
+象限中点面壁人水4次，计算机自动跟踪记录游
+泳轨迹。检测完成之后，采用灌注固定法取脑。
+1．5免疫组织化学方法将大鼠以l ％戊巴
+比妥那腹腔麻醉( 30 mg／kg) 后，打开胸腔，经
+左心室升主动脉4％多聚甲醛( pH 7．2) 灌流取
+脑。取前脑至小脑前全脑，以视交叉后4 mm
+为界，切开脑组织置于相同固定液内后同定4
+～8 h，石蜡包埋制片。连续切片，隔3取l ，片
+厚5¨ m。每只大鼠额叶，海马切片分为2套，
+分别进行HE染色及免疫组织化学染色方法。
+应用免疫组织化学SP法检测各组大鼠额
+叶，海马CA4&DC区SS表达水平。染色步骤
+按照生长抑素测定试剂盒说明书进行。ss抗
+体浓度为1：50。阴性对照以0．01
+moL／L PBs
+代替一抗进行免疫组织化学染色，余步骤相同。
+1．6
+SS阳性神经元计数及统计学处理
+光镜
+下观察SS阳性神经元的分布，应用Ni kon显微
+镜I mage．PmPl us( I PP) 分析软件计数额叶和海
+马CA4&DG区SS阳性神经元数量及平均光密
+度。每只大鼠额叶和海马区各取2张不同断面
+切片，并使切片在各组间保持断面一致。所得
+数据以均数± 标准差( z± s) 表示。结果采用
+SPSS 17．o统计软件进行单因素方差分析
+( 0ne．way ANOVA) 及共同对照￡检验，P<0．05
+为差异有统计学意义。
+2
+结
+果
+2．1
+SD大鼠精神状态
+SD大鼠从睡眠剥夺
+开始出现自主活动明显增加，对外界刺激较为
+明显，易激惹，表明大鼠兴奋性明显提高。SD 4
+d始激惹征显著，大鼠全身毛竖起，难于抓取，
+轻微刺激后互相撕咬，探究行为和攻击性增强，
+SD 6 d大鼠转为抑制状态，无刺激时低头思睡，
+但情绪紧张，警惕性极强，轻微刺激激惹明显，
+攻击性强。sD 0 d组大鼠虽然处于水环境中，
+早期有自主活动增加现象，但程度轻，大鼠基本
+无互相撕咬和攻击等易激惹表现。
+2．2
+Mo而s迷宫测定结果
+与sD Od大鼠相
+比，SD 2 d组、SD 4 d组和SD 6 d组大鼠游泳
+平均速度减慢( P<O．01) ，逃避潜伏期明显延
+长( P<0．01) 。与生理盐水对照组相比，同时
+段SD用药组大鼠的游泳平均速度加快( P<
+0．05) ，逃避潜伏期变短( P<0．05) ，差异具有
+统计学意义( 表1) 。
+表1
+大鼠Morri s迷宫平均速度和逃避潜伏期
+检测数据
+TabI e 1
+AVerage
+speed
+and
+escape
+l at ency
+det ect ed i n IⅥo而s maze
+( 凡=10，戈± s)
+组别
+游泳速度／( m· rni n。1) 逃避潜伏期／s
+与sD 0 d+Ns组比较，+J p<0．05，一P<0．0l ；与
+同时段NS组比较，6P<0．05，“ J [ ) <0．01．
+万方数据
+浙江大学学报( 医学版)
+第42卷
+2．3光镜下HE切片观察光镜下，SD 0 d组
+大鼠海马组织结构基本正常，细胞排列整齐，形
+态无殊，细胞着色均匀，胞质呈淡红色，胞核呈
+蓝色并较清亮；而SD 4 d和6 d组大鼠海马
+CA4和齿状回区( DG区) 细胞排列紊乱，细胞
+间隙增宽，神经元发生明显变性和坏死，出现胞
+质红染，胞核固缩，碎裂，溶解等；SD 2 d组大鼠
+海马内神经元分布，形态特点与sD 0 d组基本
+相近( 图1) 。
+对于额叶而言，HE镜下该区神经元数量，
+分布，形态在各组间大鼠无明显差异。
+A：SD 2 d+NS组；B：SD 4 d+NS组；C：SD 6 d+Ns组；D：SD O d+Ns组( HE染色，× 100)
+图1
+大鼠海马CA4&DG区HE染色
+Fi g．1
+Represent at i Ve sect i ons 0f HE st ai ni ng of CA4&DG re西on i n t he hi ppoc嘲pus
+2．4
+SS神经元计数及平均光密度测定SS阳
+性产物为棕黄色点状或颗粒状沉积，主要分布
+于神经元胞浆，突起和神经纤维内，颗粒大小不
+一，胞核不着色，苏木素复染后呈蓝色。
+在细胞形态和SS免疫阳性产物的表达强
+弱方面亦有相应改变，主要表现为随SD时间
+的延长，SS阳性细胞胞体轮廓稍显模糊，突起
+变短或消失，胞质着色不均，阳性产物染色变浅
+( 图2，图3) 。
+与SD 0 d组比较显示，SD 4 d组，SD 6 d
+组额叶SS神经元数量减少( P<0．05) ，SS平均
+光密度明显下降( P<0．01) 。与同时段生理盐
+水对照组相比，SD 4 d组和SD6 d用药组大鼠
+SS阳性神经元及表达差异显著( P<0．05) ，而
+SD 2 d用药组无明显变化( P>0．05，表2) 。
+海马CA4&DG区SS阳性神经元比较显
+示，SD 2 d组，SD4 d组，SD 6 d组和SD O d组
+比较，均有统计学意义( P<0．01) 。与同时段
+生理盐水对照组比较，SD 2 d，SD 4 d，SD 6 d
+三组用药大鼠亦有显著差异( P<0．05) ；值得
+注意的是SD 0 d用药组与SD0 d生理盐水组
+比较，SS神经元数量及表达差异显著( P<
+0．01，表3) 。
+万方数据
+第2期
+董静尹，等．人参皂苷Rbl 对睡眠剥夺大鼠学习记忆及脑内生长抑素表达的影响
+·
+20l -
+A：SD 2 d+NS组；B：SD 4 d+NS组；C：SD 6 d+NS组；D：SD O d+NS组( 免疫组化染色，×
+200倍；箭头标示为ss阳性细胞) ．
+图2大鼠额叶SS免疫阳性神经元
+Fi g．2
+Represent at i ve
+sect i ons
+of
+i mmunohi st ochemi cal
+st ai ni ng
+showi ng somat ost at i n
+posi t i ve neur ons i n t he f 而nt al
+cort ex
+表2各组大鼠额叶SS神经元数量及平均光
+密度
+Tabk 2
+Number of SS neumns and meaI l opt i cal
+densi 哆i n山e f 而nt al
+cort ex
+表3各组大鼠海马CA4&DG区ss神经元数
+量及平均光密度
+Tabl e 3
+Number of SS neumns and me舳opt i cal
+densi t ) r
+i n
+tl l e
+hi ppoc印us
+CA4&DG
+( 厅=10，面± s)
+regi on
+( n=l O，面± s)
+与sD 0 d+Ns组比较，‘
+P<0．05，一P<0．01；与
+同时段NS组比较，△ P<0．05，△ △ P<O．01．
+△
+与SD O d+NS组比较，’
+P<0．05，一P<O．01；与
+同时段NS组比较，△ P<0．05，△ △ P<0．01．
+万方数据
+浙江大学学报( 医学版)
+第42卷
+A：sD 2 d+NS组；B：sD 4 d+Ns组；C：SD 6 d+NS组；D：sD 0 d+NS组( 免疫组化染色，×
+100倍) ．
+图3
+大鼠海马CA4&DG区生长抑素免疫阳性神经元
+Fi g．3
+Represent at i Ve
+sect i ons
+of
+i munohi st ochemi cal
+st ai ni ng
+showi ng
+somat ost at i n
+posi t i Ve neur ons
+i n CA4&DG re百on of t he hi ppoc锄pus
+3讨论
+小平台水环境法是研究SD的常用方法，
+Machado等∞1通过脑电记录发现此法剥夺了大
+鼠的全部快波睡眠，慢波睡眠减少了37％，具
+有简单可靠之优点。与此同时，水环境、一定程
+度的隔离和限制活动也会使动物产生一定程度
+应激反应。本研究显示睡眠剥夺大鼠早期即可
+出现自主行为增多，兴奋性增强行为学变化，同
+时伴有学习记忆能力显著下降，显示上述应激
+对于SD来说是次要的，并不至于影响实验结
+果‘ 7|。
+已知睡眠具有抗氧化自由基作用，促进1一
+氨基丁酸( GABA) 能神经递质的释放、对抗谷
+氨酸的兴奋毒性作用¨ J ，故在正常状态及睡眠
+剥夺初期机体能有效动用应激反应机制，产生
+保护作用。睡眠剥夺可致人体记忆力下降、情
+绪与行为变化，造成脑损伤[ 9，10】。本实验发现，
+大鼠自睡眠剥夺2 d起学习记忆能力即有明显
+减退，显示虽然睡眠剥夺早期机体能有效调动
+应激反应，逃避反射能力增强，仍不足以避免其
+认知减退，随着睡眠剥夺时间的延长，这种差别
+随之加大；显示长期的睡眠剥夺可致机体代偿
+机制逐渐紊乱，出现各种生理生化反应异常及
+相关神经元及神经递质的病变，进而导致认知
+功能的衰退。
+ss属于脑肠肽，除消化系统外，SS神经元
+广泛分布于大脑皮层、海马及纹状体等区域中。
+SS能易化海马长时程增强( 10ng—t e珊
+potenti ati on，姗) 的产生，促进学习记忆，使用
+半胱氨酸耗竭脑内SS，可使大鼠学习记忆能力
+受损，而海马内注射SS能提高小鼠的空间学习
+能力¨ 1I 。额叶SS神经元已证实与学习、认知
+等高级神经活动有关。本实验显示SD 2 d大
+万方数据
+第2期
+董静尹，等人参皂苷Rbl 对睡眠剥夺大鼠学习记忆及脑内生长抑素表达的影响
+鼠额叶sS神经元数量及ss表达无显著变化，
+但学习记忆能力显著下降，可能是sD早期机
+体的一种代偿反应，虽然此时ss神经元及递质
+含量未明显减少，但ss表达可能较多出现于神
+经组织肿胀或受损的区域，因而不能发挥正常
+活性。。2I 。作为信息储存的重要部位，海马区
+SD组大鼠SS神经元数量改变及递质含量变化
+颇为显著。自SD 2 d始，随剥夺时间的延长，
+神经元数量及SS表达减少渐趋显著，与sD大
+鼠行为学改变高度一致，提示海马SS神经元对
+sD颇为敏感，可能由于在脑神经环路中，神经
+元突起对环境因素较为敏感，而海马神经元树
+突发达有关。13I 。研究表明，睡眠剥夺可影响凋
+亡相关基因bcl 一2和bax mRNA的表达，对于本
+实验显示的SD 4 d和SD6 d组大鼠海马和额
+叶ss神经元数量减少和ss表达下降是否与此
+相关则有待证实。
+与同时段生理盐水对照组相比，GSRbl 组
+大鼠学习记忆能力有不同程度改善，尤以SD 4
+d和SD6 d较为显著。对于海马CA4&DGⅨ
+而言，GSRbl 可明显减轻SD各时段SS阳性神
+经元减少及ss表达下降，增加未剥夺睡眠组大
+鼠SS表达；对于额叶而言，GSRbl 仅对SD 4 d，
+6 d组大鼠SS表达有明显影响，显示GSRhl 改
+善SD大鼠SS相关的认知功能主要影响的是
+海马内神经元，或可能与海马神经元对GsRbl
+较为敏感有关。GsRbl 是人参二醇系皂苷，研
+究显示GSRbl 对动物的学习记忆有促进作用，
+尤其是对于学习记忆受损的动物更为明显。在
+抗氧化，清除自由基，抑制神经毒性，促进蛋白
+质合成等方面均有较强活性。GsRbl 还可通
+过促进乙酰胆碱释放，增加神经末梢摄取乙酰
+胆碱，及营养神经，促进轴突生长等作用，发挥
+其促智效应。14。“ 。
+目前，有关GSRbl 促智机制研究已深入到
+分子水平。CSRbl 可激活cAMP蛋白激酶途
+径，调节神经突触素磷酸化以改善大鼠空间学
+习记忆能力_16|；亦可通过激活蛋白激酶A，增
+加大鼠皮质突触小体内ca2+依赖型谷氨酸释
+放以发挥其生理效应。17。。已知神经营养因子
+对神经元的存活与突起生长至关重要，Ga0等
+研究显示，GSRbl 可增加脑缺血大鼠脑源性神
+经营养因子( BDNF) 及抑制capase一3表达，促
+进神经再生以改善其空间学习和记忆能力¨ 8I 。
+不过，GsRbl 对sD大鼠海马ss神经元及神经
+递质表达影响的机制尚未明确。离体实验结果
+表明，GsRbl 可改善海马神经元增殖活力，并
+通过可能具有的保护线粒体功能以改善海马神
+经元产生ATP的能力。” 。。最新研究显示，
+GsRbl 可激活Akt 和ERKl ／2信号通路，促进
+海马神经元存活，诱导神经元突起生长以改善
+认知功能‘ 20。21 1。结合本实验所显示的用药组
+SD大鼠海马SS神经元数量增多，SS表达明显
+增加，我们推测GsRbl 有可能通过改善sS神
+经元增殖活力，减少海马内SS神经元凋亡坏
+死，通过激活某种蛋白激酶影响信号传导通路
+以增加ss神经递质的表达发挥促智作用，具体
+作用机制尚待今后进一步深入研究。
+Ref erences：
+[ 1]
+LI HaUi ng，GA0 Yue，LI u Pi ng，et al ( 李海静，高
+月，刘萍，等) ．Pmgress
+i n
+t he st udy
+on i nsomni a
+ani mal
+model
+[ J ] ．
+CI I i nese Phamacol ogi cal
+BuI l et i n( 中国药理学通报) ，2007，23( 4) ：437—
+440．( i n Chi nese)
+[ 2]
+sTI cKGOLD
+R，wal kER M
+P．sl eep—dependent
+memorv
+【：onsol i dat i on
+and
+reconsol i dat i on
+J
+Sl eep Med，2007，8( 4) ：331—343．
+[ 3]
+D( ) NGJ i ngyi n，suN Bai qi ang，zHu xi ，et al ( 董静
+丁}，孙百强，朱
+唏，等) ．Ef f ect s
+of
+gi nsenosi des
+( ) n
+somat ost at i n
+mRNA
+expressi on
+i n
+mt
+Al zhei mer 7s di sease model 『J
+1．
+Chi nese J ournal
+Of Anat omy( 解剖学杂志) ，2005，28( 4) ：446—
+448．( i n Chi nese)
+[ 4]
+KHVOTcHEV
+M V，suDHOF
+T
+c．st i mul us—
+dependent
+dynami c
+homo—
+and
+het em
+mul t i meri zat i on
+of
+synapt obrevi n／VAMP
+and
+synpt ophysi n[ J ] ．Bi ocheI I I i st ry，2004，43( 47) ：
+15037一15043．
+[ 5]
+J I ANG Pei f ang，xI A zhezhi ，J I ANG Kewen，et
+a1
+( 汀佩芳，夏哲质，江克文，等) ．The rel at i onshi p
+l J et ween
+11euronal
+apopt osi s
+and
+expressi on
+of
+( ’
+annabi noi d recept or 1
+af t er epi l epsy
+i n sl eep[ J ] ．
+Chi n J Emerg Med( 中华急诊医学杂志) ，2007，
+16( 7) ：7l l 一715．( i n Chi nese)
+『6]
+MCHAD0
+R
+B，HI POLI DE
+D C．BENEDI T0一
+万方数据
+·
+204
+浙江大学学报( 医学版)
+第42卷
+SI LVA A A，et
+a1．Sl eep depri vat i on i nduced by
+t he
+modi f i ed mul t i pl e pl at f o肌t echni que：quant i f i cat i on
+of sl eep l oss and recovery[ J ] ．Brai n R∞，20( ) 4，
+1004( 1- 2) ：45- 51．
+[ 7]
+Y0uNGBL00D B D，zH0u J ，sMAGI N G N，et
+a1．
+Sl eep
+depri vat i on
+i nduced
+by
+t he
+Fl ower
+Pot
+t echni que
+and
+spat i al
+ref erence
+memory
+[ J ] ．
+Physi ol
+BehaV，1997，2：249—256．
+[ 8]
+MODI RROuSTA M，MAI NVI LLE L，J ONEs B
+E．
+Dyn砌i c
+changes
+i n
+GABAA
+recept ors
+on
+basal
+f orebrai n
+chol i nergi c
+neurons
+f ol l owi ng
+sl eep
+depri vat i on and
+recover) ，
+[ J ] ．
+BMc Neumsci ，
+2007．8：15．
+[ 9]
+scHussLER P，YASsouRI DI s A，uHR M，et
+al _
+Growt h
+homone—rel easi ng
+homone
+and
+cort i cot ropi n- rel easi ng homone
+enhance non- rapi d-
+eye- movement
+sl eep
+af t er sl eep depri vat i on [ J ] ．
+AmJ
+Physi oI Endocdnol Met ab，2006，291( 3) ：
+549—556．
+[ 10]
+RuI z F s，ANDERsEN ML，zAGER
+A，et
+a1．
+Sl eep depri vat i on reduces t he l ymphocyt e count
+i n
+a non—obese mouse model
+of t ypel di abet es meUi t us
+[ J ] ．Br北J Med Bi ol 胝，2007，40( 5) ：633-
+637．
+[ 11]
+LAMI RAuLT L，GuI LLOu J
+L，MI cHEAu J ，et
+a1．
+Intrahi ppoc锄pal
+i nj ecti ons
+of
+somat ost at i n
+di ssoci at e acqui si t i on f romt he nexi bl e use of pl ace
+responses[ J ] ．Eur
+J NeuI I 吣ci ，2001，14( 3) ：
+567．570．
+[ 12]
+u J i sheng，cHENJ un，wANG Huaren，et al ( 李积
+胜，陈俊，王华仁，等) ．Ef f ect s of zi nc on NN0s
+and SS posi t i ve
+neurons
+i n cerebml
+cort ex of
+rat s
+心er
+sl eep depri vat i on[ J ] ．
+Act a Nut ri ment a
+Si I I i c( 营养学报) ，2006，28( 1) ：43_46．( i n
+Chi nese 1
+[ 13]
+HANTai zhen，wu Fumei ( 韩太真，吴馥梅) ．
+Neumbi ol o留of
+l earI I i ng and memory( 学习与
+记忆的神经生物学) [ M] ．Bei j i ng：PubI i shi ng
+House of Peki ng Uni on Medi cal
+CoUege and Chi na
+Medi cal Uni versi ty，1998：208．209．( i n Chi nese)
+[ 14]
+wANG Q，suN LH，J I A w，et
+a1．compa—son of
+gi nsenosi des
+R91
+and Rbl
+f or
+t hei r
+ef kct s
+on
+i mprovi ng
+scopol 砌i ne—i nduced
+l eami ng
+and
+[ 15]
+[ 16]
+[ 17]
+[ 18]
+[ 19]
+[ 20]
+[ 21]
+memory i mpai 硼ent
+i n mi ce[ J ] ．Phyt ot her
+R幅。
+2010，24( 12) ：1748一1754．
+LAI Hong，WANG Ti emi ng，ZHA0
+I I ai hua，et
+a1
+( 赖
+红，王铁民，赵海花，等) ．Ef f ect s
+of
+gi nsenosi des
+on chol i nergi c
+6ber
+of
+aged
+rat s
+i n
+hi ppocampus[ J ] ．cl l i nese J oumaI
+of Anat omy
+( 解剖学杂志) ，2006，29( 2) ：249—251．( i n
+Chi nese)
+XUE J F，LI U Z J ，HU J
+F，et a1．Gi nsenosi de Rbl
+pmmot es
+neurot ransmi t t er
+rel ease
+by
+modul at i ng
+phosphoryl at i on
+of
+synapsi ns
+t hrough
+a cAMP—
+dependent
+prot ei n
+ki nase
+pat hway
+[ J ] ．Brai n
+R船，2006，1106( 1) ：91- 98．
+CHANG Y，HUANG WJ ，TI EN L
+T，et
+a1．
+Gi nsenosi des
+R91
+and
+Rbl
+enhance
+dut amat e
+rel ease t hmu曲act i vat i on of pmt ei n ki nase A i n ral
+cerebrocort i cal
+neⅣe te瑚i nal s
+( syn印t osomes)
+[ J ] ．Eur J Pha珊越oI，2008，578( 1) ：28—36．
+GA0 X
+Q，YANG C
+X，CHEN G J ，et
+a1．
+Gi nsenosi de
+Rbl
+regul at es
+tIl e
+expressi ons
+of
+brai n—deri ved
+neurot I Dphi c
+f act or
+and
+caspase一3
+and i nduces
+neurogenesi s i n rat s wi t h experi ment al
+cerebral i schemi a[ J ] ．J E岫opha珊acol 。2010，
+132( 2) ：393—399．
+KE“ ni ng，WANG Wei ，ZHA0 xi aozhen，et al ( 柯
+荔宁，王
+纬，赵小贞，等) ．E艉ct
+of 舀nsenoi d
+Rbl
+on hypoxi a—i nduced damage
+of hi ppoc锄paJ
+neurons
+i n SD rat s『J ] ．J oumal
+Sh舢瞄Med
+UI l i v( 山西医科大学学报) ，2009，40( 8) ：688-
+692．( i n Chi nese)
+LI u J uan，QI u Yi ng，HE J i ng，et al ( 刘
+娟，裘
+莹，何
+晶，等) ．Ef f ect s
+of 西nsenoi d Rbl
+and
+R91
+on hi ppocampal
+neurons
+[ J ] ．J ournal
+Of
+Ton妤uI l i vers竹：Medi cal
+Sdenc骼( 同济大学
+学报：医学版) ，2011，32( 3) ：1_6．( i n Chi nese)
+LI U L，HOANG—GI A T，WU H，et a1．Gi nsenosi de
+Rbl
+i mproves
+spat i al
+l e锄i ng
+and
+memory
+by
+regul at i on
+of
+ceU
+genesi s
+i n
+t he
+hi ppocampal
+subregi ons
+of rat s[ J ] ．Brai l l
+Res，2011，1382：
+147．】54．
+[ 责任编辑黄晓花]
+万方数据

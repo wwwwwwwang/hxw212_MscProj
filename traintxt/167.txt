@@ -1,0 +1,548 @@
+特 产 研 究
+163
+Special Wild Economic Animal and Plant Research
+DOI：10.16720/j.cnki.tcyj.2023.093
+人参皂苷治疗骨性关节炎的研究进展
+郭校妍1，张伟东1，张扬1※
+（吉林大学药学院，吉林
+长春
+130021）
+摘要：人参在防治关节软骨损伤退变及参与体外培养软骨细胞修复关节软骨缺损中具有较好治疗前景。人参皂苷作为人参的主要药
+理活性成分，在治疗骨性关节炎的进程中发挥关键作用。人参皂苷根据不同的结构被分为不同的类型，各类型均含有多种人参皂苷
+单体成分，其治疗骨性关节炎的机制也各不相同。本文对不同人参皂苷单体治疗骨性关节炎的研究进行梳理和总结，探讨其治疗骨
+性关节炎的潜在可能性和作用机制，为后期临床应用提供依据。
+关键词：骨性关节炎；人参皂苷；信号通路
+中图分类号：R285
+文献标识码：A
+文章编号：1001-4721（2023）03-0163-06
+Research Progress of Ginsenosides in the Treatment of Osteoarthritis
+GUO Xiaoyan1, ZHANG Weidong1, ZHANG Yang1※
+（School of Pharmaceutical Sciences, Jilin University, Changchun 130021, China）
+Abstract: Ginseng has pharmacological effects such as anti-inflammatory, antioxidant, antidepressant, anti-Alzheimer's and anti-athero-
+sclerosis. Current studies have found that it has good therapeutic prospects in preventing degeneration of articular cartilage damage and parti-
+cipating in in vitro culture of chondrocytes to repair articular cartilage defects. Ginsenosides, as the main pharmacological active component
+of ginseng, also play an important role in the process of treating osteoarthritis. Ginsenosides can be classified into different types because of
+their different structures, and each type contains a variety of ginsenoside monomer components with different mechanisms for the treatment
+of osteoarthritis. In this paper, we review the research progress of different ginsenoside monomers in the treatment of osteoarthritis, and ex-
+plore their potential possibilities and mechanisms for the treatment of osteoarthritis, so as to provide a basis for later clinical application.
+Key words: osteoarthritis; ginsenosides; signaling pathway
+骨性关节炎（Osteoarthritis, OA）是一种退行性病
+变，系由于增龄、肥胖、遗传、劳损、创伤、关节先天性异
+常和关节畸形等诸多因素引起的关节软骨退化损伤、
+关节边缘和软骨下骨反应性增生。临床表现为缓慢发
+展的关节疼痛、压痛、僵硬、关节肿胀、活动受限和关节
+畸形等[1]。目前，缓解 OA 的常规疗法主要包括非甾体
+抗炎药、糖皮质激素和物理疗法，病情严重的患者通常
+还需要进行关节置换[2]。所以，寻找一种副作用少和效
+果好的药物已经成为治疗 OA 亟待解决的问题。随着
+对传统中医药研究的深入，发现人参在防治关节软骨
+损伤、退变及参与体外培养软骨细胞修复关节软骨缺
+损都有较好前景[3]，为 OA 的治疗提供了新思路。
+人参（Panax ginseng C. A. Mey.）为五加科多年生
+宿根草本植物的干燥根及根茎，是我国延用了多年的
+传统名贵药材[4]。作为东北三宝之一，具有抗炎、抗氧
+化、抗抑郁、抗老年痴呆、抗动脉粥样硬化和抗 OA 等
+药理作用，有多年的用药历史和极高的药用价值[5]。人
+参皂苷作为人参的主要药理活性成分，在疾病治疗中
+发挥着关键作用。有研究显示，人参总皂苷可通过抑制
+炎症因子、减少软骨细胞凋亡和基质损伤、促进软骨细
+胞修复来改善关节疼痛、修复受损软骨，从而发挥对
+OA 的治疗作用 [6]。尽管目前已经对人参的药理活性
+进行了充分的研究，但人参皂苷分类众多，具体哪种人
+参皂苷可能对 OA 有治疗作用，人参皂苷单体联合应
+收稿日期：2022-08-01
+基金项目：吉林省教育厅科学研究项目（JJKH20221105KJ）
+作者简介：郭校妍（1998-），女，山西吕梁人，在读硕士，从事生药学研究。
+※通讯作者：张扬（1977-），女，吉林省吉林市人，博士，副教授，硕士生导师，主要从事中药质量标准与鉴定研究。
+特
+产
+研
+究
+2023 年第 45 卷第 3 期
+164
+用是否有作用，其靶向的特异性蛋白质和/或大分子等
+治疗机制等问题尚未完全阐明。本文综述了近些年人
+参皂苷治疗OA的研究及其进展，为人参皂苷治疗OA
+的临床应用提供依据。
+1
+人参皂苷及其分类
+人参皂苷（Ginsenosides, G），也称为类固醇样皂
+苷，是人参独有的成分，一般用 Rx 表示。目前，从人参
+植物的根、茎、叶、花和果实中可分离出超过 150 种天
+然存在的人参皂苷。这些人参皂苷可以根据其骨架类
+型分为 4 类，都具有共同的四环疏水结构，但糖部分
+各不相同。不同的糖分子附着在四个主链的不同区域
+以产生独特的人参皂苷单体分子（表 1），决定了不同
+的药理活性[7-9]。
+表 1
+人参皂苷分类
+Table 1
+Classification of ginsenosides
+类别
+Types
+骨架结构类型
+Backbone structure
+代表人参皂苷
+Major ginsenosides
+原人参
+二醇型
+达玛烷结构
+G Ra1-3、G Rb1-2、
+G Rc、G Rd 和 G
+Rh2-3
+原人参
+三醇型
+达玛烷主链 C6 上外加羟基基团
+G Re，G Rf
+和 G Rg1-3
+齐墩
+果烷型
+五环三萜类
+G Ro
+奥克
+梯隆型
+C20 处有五元环氧环
+这 4 种人参皂苷中，原人参二醇型皂苷和原人参
+三醇型皂苷占人参总皂苷的 90%以上，且活性较强，
+是人参皂苷的主要活性成分，也是目前学者们研究的
+重点。其中，G Rb1、G Rg1、G Rg3、G Rd、G Re、G Rh1
+和 G Rh2 的研究最为频繁[10]。本研究对 G Rb1、G Rg1、
+G Rg3 和 G Ro 等人参皂苷单体和单体联用和中药复
+方等治疗 OA 的研究进展作详细介绍。
+2
+OA 的发病因素及治疗方法
+2.1
+OA的发病因素
+OA 作为最常见的关节炎形式之一，许多因素都
+促进其发展，包括年龄、性别和肥胖等个体因素。研究
+发现，65 岁以上人群中有三分之一受 OA 影响[11]，且
+女性的发病率在 50 岁以后会大幅增加[12]，这主要由
+妇女绝经后雌激素减少，关节软骨分解增加导致 [13]。
+此外，运动损伤导致关节结构的异常，增加软骨丢失风
+险，可以直接导致 OA 的发生[14]；关节的机械压力增
+加了关节细胞促炎症因子的表达，也是 OA 软骨发生
+分解代谢过程的部分原因[15]。OA 的发生发展还与新
+陈代谢[16,17]、遗传和免疫[18]等因素密切相关。
+2.2
+OA的治疗方法
+目前，治疗 OA 的技术方法多种多样，除物理疗
+法（包括运动疗法和病人教育并以关节矫形器作辅助）
+外[19]，还可以通过口服药物、关节腔注射和终末期手术等
+方法，以期达到缓解疼痛、延缓病程和改善功能的目的[20]。
+标准的药物治疗包括控制疼痛和炎症的药物，如
+非类固醇类抗炎药、阿片类和关节内皮质类固醇的止
+痛药等，还有关节炎的症状缓效药，如硫酸葡萄糖胺、
+硫酸软骨素、地塞林、大豆和鳄梨非皂化物提取物口服
+和关节内注射透明质酸 [21]。此外，也有些研究显示中
+草药如甘草汤等在治疗OA上也有一定作用[22]。但药物
+治疗对病情严重者疗效甚微，只能选择手术治疗，最为
+常见也最有效的是关节置换术 [23]。当然，还可通过针
+灸[24]、推拿[25]、理疗、中药贴敷、中药熏洗、中药涂抹[26]、
+中药熨烫和中药定向透药等传统中医手段延缓OA
+发展[27]。
+3
+人参皂苷对 OA 治疗作用的研究进展
+3.1
+人参皂苷Rb1
+人参皂苷 Rb1（Ginsenoside Rb1, G Rb1）的主要来
+源是人参属成员亚洲人参，在人参茎和叶中的含量远
+低于在人参根部、根茎和根毛中的含量。G Rb1 是一种
+三萜皂苷，是 40 多种单体人参皂苷中含量最多的一
+第 3 期
+165
+种，可通过抑制炎症细胞因子的表达、通过 Notch 信
+号通路、NF- B 信号通路来发挥抗炎、抗凋亡和神经
+保护等作用[9]。
+G Rb1 可通过抑制炎症细胞因子的表达来发挥对
+关节软骨的保护作用。Cheng等[28]通过白细胞介素（In-
+terleukin, IL）-1 诱导刺激构建软骨 OA 模型，给予一
+定量 GRb1 后进行指标检测，发现 GRb1 能够抑制基质
+金属蛋白酶（Matrix metalloproteinases, MMP）-13、环氧
+合酶-2（Cyclo-oxygenase-2,
+COX-2）、前列腺素 E2
+（Prostaglandin E2, PGE2）、诱导型一氧化氮合酶（Indu-
+cible nitric oxide synthase, iNOS）和一氧化氮（NO）等
+炎症因子的产生，并减少由 IL-1 在人关节软骨细胞
+中诱导的Ⅱ型胶原蛋白（CollagenII）和蛋白聚糖（ACAN）
+降解，这表明 G Rb1 的作用机制可能类似于非甾体抗
+炎药，可通过抑制 COX-2 和 PGE2 的表达来缓解 OA
+症状。
+这一作用在 OA 大鼠模型上也得到了验证。Ara-
+vinthan 等[29]发现 G Rb1 可能通过抑制 MMP13 和
+COX-2 mRNA 的水平并抑制干扰素 （Interferon gam-
+ma, IFN- ）、单核细胞趋化蛋白-1（Monocyte chemoat-
+tractant protein-1, MCP-1）/趋化因子配体-2（CCL-2）、
+IL-1 和IL-6 这几种炎性细胞因子/趋化因子的表达来
+防止软骨降解，从而有助于G Rb1发挥对碘乙酸（MIA）
+诱导的卵巢 OA 大鼠抗炎作用。高志[30]通过切断大鼠
+右膝关节的前交叉韧带建立骨关节炎模型，基于不同
+剂量 G Rb1 来治疗大鼠。结果表明，G Rb1 显著降低了
+模型大鼠血液中白细胞、淋巴细胞的数量，且以浓度依
+赖性方式降低了大鼠血清 TNF- 和 IL-1
+水平，也降
+低了大鼠关节软骨组织中 MMP-9、MMP-13 和 AD-
+AMTS-5 的表达，同时升高了软骨组织中 Collagen II
+和 Aggrecan 的表达，表明 G Rb1 可通过抑制炎症反
+应和关节组织中 MMPs 的合成来抑制软骨降解，对前
+交叉韧带切断诱导的骨关节炎具有较好的治疗作用。
+G Rb1 治疗 OA 的作用机制有多种，可能通过
+Notch 信号通路、NF- B 信号通路来发挥作用。例如，
+王维[31]研究发现，G Rb1 可以降低IL-1 诱导的细胞Ⅱ
+型胶原和 MMP-13 表达，同时使诱导后的 Notch1、
+JAG1 表达水平下降，表明 G Rb1 对软骨细胞的保护
+作用可能是通过抑制 MMP-13 的表达以及 Notch 信
+号通路活化来实现的。此外，Hossain 等 [32] 通过构建
+OA 兔模型，发现 G Rb1 可预防软骨细胞凋亡，抑制软
+骨细胞内活性氧（ROS）的产生，下调 p38/MAPK 和
+PI3K/AKT 信号通路以防止 MMPs 和平衡胶原 II 型
+和蛋白聚糖的表达，且激活 NF- B 信号转导，发挥对
+软骨细胞的保护作用，从而用于治疗 OA。
+3.2
+人参皂苷Rg1
+人参皂苷 Rg1（Ginsenoside Rg1, G Rg1）最初由中
+药人参根、茎部分提取所得，是三萜达玛烷环类衍生
+物，具有三十个碳原子，有类似糖皮质激素甾环样的结
+构，能够通过与糖皮质激素受体相结合发挥与糖皮质
+激素类药物相似的抗炎作用。黄宇旻[33]通过前交叉韧
+带切除法（ACLT）和 MIA 关节腔注射法在大鼠体内
+构建 OA 模型，发现 G Rg1 能够通过抑制 I B 的磷
+酸化过程来降低 I B 的激活，从而抑制 NF- B 的激
+活来降低软骨细胞 MMP-13 和 PGE2 的合成来发挥
+软骨保护作用。
+G Rg1 还可抑制软骨细胞凋亡、促进软骨细胞增
+殖，发挥对软骨细胞的保护作用，从而具有治疗OA的
+潜在价值。段超等[3]采用伸直位管型石膏固定法造模
+6 周，成功建立兔类似临床所见的人 OA 模型。观察 G
+Rg1 对兔膝 OA 关节软骨细胞凋亡的影响，发现一定
+剂量 G Rg1 对软骨组织有着积极的保护作用，可通过
+调控软骨细胞凋亡关键因子Bax/Bcl-2 表达比例和下
+调 Caspase-3 的表达有效抑制软骨细胞过度凋亡，避
+免软骨组织进行性破坏。此外，Huang 等[34]发现 G Rg1
+预处理的 IL-1 诱导的软骨细胞也会促进 Bcl-2 的表
+达，抑制 Bax 活性，并降低 Cyt C 释放和 Caspase-3 激
+活。它还增强了 TIMP-1 表达并抑制了 MMP-13 的合
+成，有效抑制了细胞外基质降解。还发现 G Rg1 的这
+些效果是通过增强的 PI3K/AKT 信号转导部分介导
+实现的。
+此外，G Rg1 还可抑制炎症介质活性，减轻关节软
+骨损伤。Cheng 等[35]通过使用人体软骨细胞的体外模
+型和大鼠 OA 的体内模型来观察 G Rg1 作用，发现 G
+Rg1 可抑制 IL-1 诱导的人软骨细胞
+、
+和
+基因和蛋白的表达，并防止Col2A1 和ACAN
+降解，减缓软骨退变。这表明 G Rg1 对 OA 治疗具有
+潜在的临床益处。
+3.3
+人参皂苷Rg3
+人参皂苷 Rg3（Ginsenoside Rg3, G Rg3）是四乙二
+醇三萜皂苷单体，可由 Rb1、Rb2、Rb3、Rc 和 Rd 代谢
+得到，其结构为 3b、12b 以及 20 pro-S 位被羟基取代
+且 3 位羟基转化为 -D-吡喃葡萄糖基- -D-吡喃葡萄
+糖苷的达玛烷，属原人参三醇型人参皂苷[36]。
+郭校妍，等：人参皂苷治疗骨性关节炎的研究进展
+特
+产
+研
+究
+2023 年第 45 卷第 3 期
+166
+有一项体外研究调查了 G Rg3 对人 OA 软骨细
+胞的保护作用。So 等 [37] 用 IL-1 刺激软骨细胞显示
+MMP-1、MMP-3 和 MMP-13 水平的增加和 COL2A1
+和 ACAN 表达的下降，而在用 IL-1 和 G Rg3 共同处
+理的细胞中，MMP-1 和 MMP-13 的水平低于单独用
+IL-1 处理的细胞，并且 COL2A1 和 ACAN 的表达水
+平从仅在 IL-1 存在下培养时的低值恢复。此外研究
+还发现仅 IL-1 刺激软骨细胞会导致与衰老相关的 -
+半 乳 糖 苷 酶（Senescence-associated
+-galactosidase,
+SA- -Gal）阳性细胞的增加，而 IL-1 和 G Rg3 共同培
+养的细胞中对这一衰老标志物的表达有明显抑制。且
+用 G Rg3 培养的软骨细胞显示出明显高于对照细胞
+的增殖和端粒酶活性。以上研究表明，G Rg3 能保护细
+胞免受骨关节炎中软骨细胞衰老的影响。
+G Rg3 还可以通过调节 SIRT1 介导的抗凋亡和
+抗炎机制对 OA 发挥作用。Ma 等[38]用肿瘤坏死因子
+（Tumor necrosis factor, TNF）- 刺激 TC28a2 人软骨细
+胞诱导软骨细胞的损伤，发现 G Rg3 逆转了 TNF- 抑
+制的 SIRT1 的表达，还可激活 SIRT1/PGC-1 /SIRT3
+途径抑制 TNF- 诱导的乙酰化环蛋白 D（Acetylated
+Cyclophilin D, CypD）的乙酰化，从而导致线粒体功能
+障碍和活性氧（ROS）积累减少，改善 TNF- 诱导的细
+胞凋亡。此外还发现，G Rg3 逆转SIRT1/PGC-1 /SIRT3
+的激活，介导 p38 MAPK 的抑制，进而下调 TNF- 处
+理的细胞中的 NF- B 转位。总之，在 TNF- 刺激下，G
+Rg3 能通过 SIRT1/PGC-1 /SIRT3/p38 MAPK/NF- B
+信号传导减少软骨细胞中 IL-8 和 MMP-9 的产生，从
+而达到治疗 OA 的目的。
+3.4
+人参皂苷Ro
+人参皂苷 Ro（Ginsenoside Ro, G Ro）是齐墩果烷
+型人参皂苷，有研究显示，G Ro 通过直接抑制 TLR4
+信号通路发挥抗炎作用，表明 G Ro 可以作为炎症相
+关疾病的天然治疗化合物[39]。
+Zhang 等[40]首次报道了 G Ro 能抑制 IL-1 诱导
+的大鼠软骨细胞凋亡率且促进凋亡蛋白的表达，同时
+还能够抑制 COX-2、MMP-3 和 MMP-9 等炎症因子
+的表达从而发挥抗炎作用。此外还发现 G Ro 抑制了
+软骨细胞中 IL-1 刺激的 NF- B 磷酸 p65 的活化，表
+明 G Ro 是通过抑制 NF- B 来抑制 IL-1 诱导的细胞
+凋亡和炎症的。
+3.5
+其他人参皂苷单体
+目前，针对其他人参皂苷治疗 OA 的研究较少。
+但有研究显示，人参皂苷包括 Rb2、Rh、Rc，Rd 和 Rf
+等均可抑制 MMPs 的表达来发挥抗炎作用，有希望成
+为治疗 OA 的潜在药物，但发挥作用涉及的靶点还需
+要进一步深入研究[41]。Lee等[42]发现包括人参皂苷Rd、
+Rf 和F4 在内的几种皂苷在非细胞毒性浓度（1~50 M）
+下可抑制 IL-1 处理的软骨细胞中 MMP-13 的表达，
+最突出的抑制剂是人参皂苷 F4 和 Rg3。进一步研究
+发现 G F4 能强烈抑制 p38 促丝裂原激活蛋白激酶的
+激活，从而抑制 MMP-13 的活性[43]。
+此外，研究显示，G Rb2 和 G Rg5 等均可抑制 OA
+大鼠关节软骨细胞凋亡和基质损伤，还可抑制IL-1 和
+TNF- ，从而减缓关节炎的进展或严重程度，预防关节
+软骨的破坏[44,45]。Zhang 等[45]通过韧带横断和内侧半
+月板切除制备骨关节炎大鼠模型，然后给予大鼠不同
+剂量的G Rg5 观察。发现 15 M G Rg5 能显著预防OA
+大鼠模型中的软骨退化，防止滑膜崩解。用 G Rg5 治
+疗大鼠可使 Col2A1、ACAN 和Ⅱ型胶原蛋白表达水
+平增加，降低 MMP-13、IL-1 、TNF- 、NO 和 iNOS 的
+水平，证明 G Rg5 可防止软骨降解，抑制 OA 大鼠滑
+膜炎症，使软骨细胞凋亡，可用于骨关节炎的治疗。
+研究发现，人参皂苷 Rc 可以通过激活 -catenin
+和 Runx2 的经典 Wnt 通路促进成骨细胞分化和基质矿
+化，上调骨标志物的表达来增加骨形成[43]。
+3.6
+多种人参皂苷协同治疗
+多种人参皂苷联合用药治疗 OA 也是目前研究
+的方向之一。有学者制备人参皂苷 Rd 和人参皂苷 Re
+作为活性成分组成的复合人参皂苷，将其作为治疗OA
+的药物[46]。Siddiqi 等[47]通过重复地蒸煮和干燥从新
+鲜人参根部分离出 Rg5:Rk1 混合物，研究其对小鼠
+MC3T3-E1 细胞生长和分化方面的影响，发现Rg5:Rk1
+会以剂量依赖的方式刺激MC3T3-E1 细胞生长，且上
+调胶原蛋白的合成，对骨基质的发展产生增殖和合成
+作用，还可以诱导体外成骨的MC3T3-E1 细胞分化和
+矿化，而 Rg5:Rk1 对 MC3T3-E1 细胞生长和分化的影
+响与 BMP-2/Runx2 信号通路的表达密切相关。Rg5:
+Rk1 可能对刺激成骨细胞分化和正确的骨形成有用，
+可能成为治疗 OA 的潜在药物。
+此外，研究显示，含多种人参皂苷的中药复方在治
+疗OA方面也有一定的前景。秦七风湿方（Qinqi Rheu-
+matism Formula, QRF）是作为治疗类风湿性关节炎的
+临床经验方，由珠子参（扣子七）、秦艽和山茱萸组成，
+苏洁等[48]推测其对 OA 也有一定疗效。借助网络药理
+学方法，基于系统网络数据库，建立 QRF 干预 OA 的
+靶点网络，对 QRF 作用于 OA 的活性成分及作用机
+第 3 期
+167
+制进行预测分析，得出 QRF 可能通过 G Re、G Rb1、
+G Rg1 和 G Rd 等活性成分，作用于 IL-6、TNF 和 IL-1
+等靶点，调控IL-17 信号通路、TNF信号通路、Th17 分
+化、Toll 样受体信号通路及破骨细胞分化信号通路等
+实现对 OA 的干预，为 QRF 干预 OA 的临床研究提
+供参考。活血止痛胶囊是一种中药配方，由当归、三七、
+乳香、冰片、土鳖和黄芪以 20:10:4:4:6:1 的比例组成，
+主要活性成分有 G Rg1 和 G Rb1 等[2]。Jua 等[2]发现，
+活血止痛胶囊能够改善 MIA 诱导的大鼠 OA 模型中
+的 OA 发展。
+4
+总结与展望
+人参作为传统中药，在临床具有广泛的应用前景。
+人参皂苷的药理作用的研究主要集中在抗癌，抗氧化
+和免疫刺激活性上。然而，许多研究提出的证据表明，
+人参皂苷可通过抗炎来预防和治疗各种炎症性疾病，
+包括 OA。
+OA 作为一种多发于老年人群的疾病，越来越受
+到研究人员的重视。目前研究发现，人参皂苷可以通过
+多种途径发挥对 OA 的治疗作用。人参皂苷可以调控
+软骨细胞凋亡关键因子 Bax/Bcl-2 表达比例，抑制软
+骨细胞凋亡，或同时促进软骨细胞增殖来保护软骨细
+胞，但其相关调控的信号通路还不明确，有待后续进一
+步研究；其次，人参皂苷能够通过NF- B、Notch和p38
+MAPK 等信号通路抑制 OA 细胞内炎症信号因子的
+表达，从而发挥抗炎作用。此外，人参皂苷还能抑制软
+骨细胞衰老，从而阻止 OA 软骨损伤进程。人参皂苷
+除抗炎作用外，还具有一定的抗氧化应激作用 [49]。抗
+氧化应激也是治疗 OA 的一种可行方法[50]，但目前针
+对人参皂苷在抗氧化应激方面对 OA 是否有作用的研
+究还较少，其具体机制仍需要更深入的研究。
+总之，随着对人参皂苷研究的深入，人参皂苷及其
+代谢物、衍生物可以用作预防和治疗OA的有效药物，
+并需要对其治疗机制进行更深一步的研究，将为开发
+OA 治疗药物及人参皂苷的临床应用提供帮助。
+参 考 文 献
+[1] YI Y S. Ameliorative effects of ginseng and ginsenosides on
+rheumatic diseases[J]. Journal of Ginseng Research, 2019, 43
+(3): 335-341.
+[2] JUA L J, HUA P P, CHEN P, et al. Huoxuezhitong capsule
+ameliorates MIA-induced osteoarthritis of rats through sup-
+pressing PI3K/ Akt/ NF- B pathway[J]. Biomedicine & Phar-
+macotherapy, 2020, 129:110471-110482.
+[3] 段超, 周细江, 陈焱, 等. 人参皂苷 Rgl 对兔膝骨性关节炎关节
+软骨细胞凋亡的影响[J]. 中医学报, 2018, 33(12): 2387-2392.
+[4] 王冬雪, 吴新民, 蔺冬梅, 等. 人参皂苷抗胃癌作用研究进展[J].
+特产研究, 2022, 44(3): 118-123+128.
+[5] 李倩, 柴艺汇, 高洁, 等. 人参现代药理作用研究进展[J]. 贵阳
+中医学院学报, 2019, 41(5): 89-92.
+[6] 包黎莎, 王华芳, 杨锦荧, 等. 人参总皂苷对大鼠骨关节炎的
+作用[J]. 浙江临床医学, 2021, 23(1): 4-7.
+[7] JI H K, YOUNG S Y, MI Y K, et al. Role of ginsenosides, the
+main active components of
+, in inflammatory re-
+sponses and diseases[J]. Journal of Ginseng Research, 2017,
+41(4): 435-443.
+[8] 高健, 吕邵娃. 人参化学成分及药理作用研究进展[J]. 中医药
+导报, 2021, 27(1): 127-130+137.
+[9] AHMED T, RAZA S H, MARYAM A, et al. Ginsenoside Rb1
+as a neuroprotective agent: a review[J]. Brain Research Bull-
+etin, 2016, 125: 30-43.
+[10] MOHANAN P, SUBRAMANIYAM S, MATHIYALAGAN
+R, et al. Molecular signaling of ginsenosides Rb1, Rg1, and
+Rg3 and their mode of actions [J]. Journal of Ginseng Re-
+search, 2018, 42(2): 123-132.
+[11] O’BRIEN M S, MCDOUGALL J J. Age and frailty as risk
+factors for the development of osteoarthritis[J]. Mechanisms
+of Ageing and Development, 2019, 180: 21-28.
+[12] LINN S, MURTAUGH B, CASEY E. Role of sex hormones
+in the development of osteoarthritis[J]. PM&R, 2012, 4(5):
+S169-S173.
+[13] FRANCISCO V, PEREZ T, PINO J, et al. Biomechanics, ob-
+esity, and osteoarthritis. the role of adipokines: when the levee
+breaks [J]. Journal of Orthopaedic Research, 2018, 36 (2):
+594-604.
+[14] ALIZAI H, ROEMER F W, HAYASHI D, et al. An update on
+risk factors for cartilage loss in knee osteoarthritis assessed
+using MRI-based semiquantitative grading methods [J]. Euro-
+pean Radiology, 2015, 25(3): 883-893.
+[15] FRANCISCO V, PEREZ T, PINO J, et al. Biomechanics, ob-
+esity, and osteoarthritis. the role of adipokines: when the levee
+breaks[J]. Journal of Orthopaedic Research, 2018, 36(2): 594-604.
+[16] ZHENG L L, Zhang Z J, SHENG P, et al. The role of metab-
+olism inchondrocytedysfunctionandtheprogressionofosteoarthr-
+itis[J]. Ageing Research Reviews, 2021, 66: 101249-101266.
+[17] ZHAI G J, Alteration of metabolic pathways in osteoarthritis[J].
+Metabolites, 2019, 9(1): 11-22.
+[18] WANG H, WANG Q, YANG M, et al. Histomorphology and
+innate immunity during the progression of osteoarthritis: does
+synovitis affect cartilage degradation[J]. Journal of Cellular
+Physiology, 2018, 233(2): 1342-1358.
+[19] SKOU S T, ROOS E M, Physical therapy for patients with
+knee and hip osteoarthritis: supervised, active treatment is
+current best practice[J]. Clinical and Experimental Rheumat-
+ology, 2019, 37(120): 0112-0117.
+[20] 杨翔, 林向进. 骨性关节炎治疗方法的研究进展[J]. 中国骨
+与关节损伤杂志, 2019, 34(9): 900-903.
+[21] HERMANN W, LAMBOVA S, MULLER-LADNER U, Cur-
+郭校妍，等：人参皂苷治疗骨性关节炎的研究进展
+特
+产
+研
+究
+2023 年第 45 卷第 3 期
+168
+rent treatment options for osteoarthritis[J]. Current Rheumat-
+ology Reviews, 2018, 14:108-116.
+[22] ZHU N, HOU J, MA G, et al. Network pharmacology identif-
+ies the mechanisms of action of shaoyao gancao decoction in
+the treatment of osteoarthritis[J]. Medical Science Monitor,
+2019, 14(25): 6051-6073.
+[23] CULLIFORD D J , MASKELL J, KIRAN A, et al. The life-
+time risk of total hip and knee arthroplasty: results from the
+UK general practice research database[J]. Osteoarthritis and
+Cartilage, 2012, 20: 519-524.
+[24] HOU P W, FU P K, HSU H C, et al. Traditional Chinese medi-
+cine in patients with osteoarthritis of the knee[J]. Journal of Tra-
+ditional and Complementary Medicine, 2015, 5(4): 182-196.
+[25] ZHU Q G, LI J H, FANG M, et al. Effect of Chinese massage
+(Tui Na) on isokinetic muscle strength in patients with knee
+osteoarthritis[J]. Journal of Traditional Chinese Medicine, 2016,
+36(3): 314-320.
+[26] WING S S, WAI T S, WEN C, et al. Topical application of
+Chinese herbal medicine DAEP relieves the osteoarthritic
+knee pain in rats[J]. Chinese Medicine, 2019,14: 55.
+[27] 潘炳, 周颖芳, 方芳, 等. 骨性关节炎的国内外研究现状及治
+疗进展[J]. 中国中医基础医学杂志, 2019, 27(5): 861-865.
+[28] CHENG W D, WU D Y, ZUO Q, et al. Ginsenoside Rb1 pre-
+vents interleukin-1 beta induced inflammation and apoptosis
+in human articular chondrocytes[J]. International Orthopaed-
+ics, 2013, 37(10): 2065-2070.
+[29] ARAVINTHAN A, HOSSAIN M A, KIM B, et al. Ginseno-
+side Rb1 inhibits monoiodoacetate-induced osteoarthritis in
+postmenopausal rats through prevention of cartilage degrada-
+tion[J]. Journal of Ginseng Research, 2021, 45(2): 287-294.
+[30] 高志. 药用植物人参活性成分人参皂苷 Rb1 对前交叉韧带
+切断大鼠骨关节炎症和蛋白多糖降解的影响[J]. 分子植物
+育种, 2022, 20(14): 4800-4806.
+[31] 王维. 人参皂苷 Rb1 通过 Notch 信号通路调控基质金属蛋
+白酶-13 防治骨关节炎的实验研究[D]. 重庆: 重庆医科大
+学, 2015.
+[32] HOSSAIN M A, ALAM M J, KIM B, et al. Ginsenoside-Rb1
+prevents bone cartilage destruction through down-regulation
+of p-Akt, p-P38, and p-P65 signaling in rabbit[J]. Phytomedi-
+cine, 2022, 100: 154039.
+[33] 黄宇旻. 人参皂甙 Rg1 对大鼠骨关节炎的治疗作用及相关
+机制研究[D]. 南京: 南京医科大学, 2015.
+[34] HUANG Y M, WU D Y, FAN W M. Protection of ginsenoside
+Rg1 on chondrocyte from IL-1b-induced mitochondria-activ-
+ated apoptosis through PI3K/Akt signaling[J]. Molecular and
+Cellular Biochemistry, 2014, 392(1): 249-257.
+[35] CHENG W D, JING J H, WANG Z, et al. Chondroprotective
+effects of ginsenoside Rg1 in human osteoarthritis chond-
+rocytes and a rat model of anterior cruciate ligament transec-
+tion[J]. Nutrients, 2017, 9(3): 263-275.
+[36] WON H J, KIM H I, PARK T, et al. Non-clinical pharmaco-
+kinetic behavior of ginsenosides[J]. Journal of Ginseng Re-
+search, 2019, 43(3): 354-360.
+[37] SO M W, LEE E J, LEE H S, et al. Protective effects of ginse-
+noside Rg3 on human osteoarthritic chondrocytes[J]. Modern
+Rheumatology, 2012, 23(1): 104-111.
+[38] MA C H, CHOU W C, WU C H, et al. Ginsenoside Rg3 At-
+tenuates TNF- -Induced damage in chondrocytes through
+regulating SIRT1-mediated anti-apoptotic and anti-inflamma-
+tory mechanisms[J]. Antioxidants, 2021, 10(12): 1972-1986.
+[39] XU H L, CHEN G H, WU Y T, et al. Ginsenoside Ro, an ole-
+anolic saponin of
+, exerts antiinflammatory ef-
+fect by direct inhibiting toll like receptor 4 signaling pathway[J].
+Journal of Ginseng Research, 2022, 46: 156-166.
+[40] ZHANG X H, XU X X, XU T. Ginsenoside Ro suppresses in-
+terleukin-1 -induced apoptosis and inflammation in rat
+chondrocytes by inhibiting NF- B [J].
+Chinese Journal of
+Natural Medicines, 2015, 13(4): 283-289.
+[41] LEE S Y, Anti-Metastatic and anti-inflammatory effects of
+matrix metalloproteinase inhibition by ginsenosides[J]. Bio-
+medicines, 2021, 9(2): 198-218.
+[42] LEE J H, LIM H, SHEHZAD O , et al. Ginsenosides from ko-
+rean red ginseng inhibit matrix metalloproteinase-13 expression
+in articular chondrocytes and prevent cartilage degradation[J].
+European Journal of Pharmacology, 2014, 724(1): 145-151.
+[43] YANG N, ZHANG X, LI L F, et al. Ginsenoside rc promotes
+bone formation in ovariectomy-induced osteoporosis in vivo
+and osteogenic differentiation in vitro[J]. International Jour-
+nal of Molecular Sciences, 2022, 23(11): 6187-6209.
+[44] 黎立, 李晓旭, 司裕, 等. 人参皂苷 Rb2 保护关节软骨细胞对
+抗氧化应激的作用机制研究[J]. 中国矫形外科杂志, 2018,
+26(9): 845-849.
+[45] ZHANG P. Ginsenoside-Rg5 treatment inhibits apoptosis of
+chondrocytes and degradation of cartilage matrix in a rat model
+of osteoarthritis[J]. Oncology Reports, 2017, 37(3): 1497-1502.
+[46] KIM Y O, LEE S W, KIM D H, et al. Pharmaceutical compo-
+sition for preventing or treating bone diseases such as rheuma-
+toid or degenerative bone disease, comprises complex ginse-
+noside consisting of ginsenoside Rd and ginsenoside Re as ac-
+tive ingredient: KR1856477-B1[P]. 2018-05-14.
+[47] SIDDIQI M H, SIDDIQI M Z, AHN S, et al. Stimulative effect
+of ginsenosides Rg5: Rk1 on murine osteoblastic MC3T3-E1
+cells[J]. Phytotherapy Research, 2014, 28: 1447-1455.
+[48] 苏洁 ,周瑞, 王梅, 等. 基于网络药理学的秦七风湿方干预骨
+性关节炎活性成分及作用机制预测[J]. 中国现代中药, 2022,
+24(3): 476-487.
+[49] 衡科. Rg1 抑制氧化应激预防激素性股骨头坏死的实验研
+究[D]. 南京: 南京医科大学, 2018.
+[50] 夏干清, 周庞虎. 氧化应激反应与骨关节炎相关性及抗氧化
+应激药物应用的研究进展[J].疑难病杂志, 2021,20(1): 94-98.

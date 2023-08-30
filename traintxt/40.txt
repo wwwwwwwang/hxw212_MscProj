@@ -1,0 +1,565 @@
+第42卷第1期
+2023年3月
+成都大学学报( 自然科学版)
+J ournal
+of Chengdu Uni versi t y( Nat ural
+Sci ence Edi t i on)
+V01．42 No．1
+Mar．2023
+文章编号：1004—5422( 2023) 01—0006—05
+DOI ：10．3969／j ．i ssn．1004—5422．2023．01．002
+人参及其复方抗抑郁症作用机制研究进展
+刘亚芹
+( 山东中医药大学附属医院东营医院，山东东营257055)
+摘要：人参在治疗抑郁症方面有着显著效果，通过总结人参活性成分( 人参皂苷Rg。、Rb．和Rg：等) 及人参复方
+制剂( 开心散、参远苷、小柴胡汤和归脾汤) 抗抑郁症的主要作用机制，以期为临床治疗抑郁症提供参考价值．
+关键词：人参；成分；抑郁症；抗抑郁症机制；研究进展
+中图分类号：R285
+文献标志码：A
+0
+引
+言
+目前，抑郁症发病机制主要包括单胺神经递质
+系统假说、神经免疫假说、神经内分泌假说和神经营
+养假说．临床上治疗抑郁症主要以传统的抗抑郁症
+药物为主，但存在着患者依从性差、靶点单一与不良
+反应多等缺点，因此，需要开发新型的抗抑郁症药物．
+在中医理论中，抑郁症属于“ 郁证” 范畴．“ 郁
+证” 是由于气机不畅与情志不舒所引起的一系列症
+状．抑郁症由于病程较长，患者经治疗后容易反复发
+病，患病过程中不断耗伤机体气血津液，日积月累致
+使脏腑功能异常。1o．人参( Panax
+gi nseng
+C．A．
+Mey．) 为五加科植物人参的干燥根和根茎．人参味
+甘、微苦，性微温，归心、脾、肺及肾经，具有大补元
+气、复脉固脱、补脾益肺、生津养血及安神益智之
+效心J ，其活性成分主要包括人参皂苷、人参挥发油
+和人参多糖等，其中，皂苷类成分被认为是人参的主
+要活性成分．按苷元人参皂苷可分为原人参二醇类、
+原人参三醇类和齐墩果酸类．原人参二醇类主要有
+Rb。、Rc、Rd和R‰，原人参三醇类主要有Re、Rf 、
+Rg。、Rg：和Rh。，齐墩果酸类主要为Ro∞o．研究表
+明，人参在抑郁症的治疗中能发挥重要作用，因此，
+科研人员对人参皂苷类成分广泛开展了抗抑郁药效
+及作用机制的研究．除此之外，人参复方制剂也被应
+用于抗抑郁症的临床及实验研究中，具有代表性的
+复方制剂有开心散、参远苷、小柴胡汤和归脾汤等．
+本文通过归纳人参及其复方抗抑郁症机制等方面的
+研究进展，以期为人参治疗抑郁症的进一步研究提
+供参考．
+1
+人参及其成分抗抑郁症作用机制
+1．1对单胺类神经递质的影响
+单胺类神经递质主要包括多巴胺( DA) 、5一羟色
+胺( 5- HT) 、肾上腺素( A) 和去甲肾上腺素( NA) ．在
+中枢神经系统中，单胺类神经递质表达水平失衡是
+引起抑郁症发病的重要原因∽J ．通过建立慢性不可
+预测轻度应激( CUMS) 大鼠模型研究发现，人参皂
+苷能调节大鼠血清、尿液及脑组织中异常表达的单
+胺类神经递质。5J ．Ki m等M1研究发现，人参皂苷能
+改善因酒精戒断诱发的小鼠抑郁症行为学症状．实
+验证明，小鼠抑郁症状缓解的机制与提高从肠道嗜
+铬细胞释放到血浆的5- HT水平有关．另有研究发
+现，从人参根中分离出的人参皂苷Rb．能够通过调
+节5- HT受体( 5- HT2A) 功能发挥抗抑郁症作用，这
+个结论同时也在利坦色林阻断5- HT表达的模型中
+得到了证实"J ．人参皂苷Rb，还能显著上调CUMS
+大鼠大脑中的5- 羟吲哚乙酸( 5- HI AA) 、5- HT、NA
+和DA含量，可以与咖啡因和氟西汀联合用药产生
+协同作用旧J ．上述研究表明，人参可能是通过调节
+单胺类神经递质的表达来发挥抗抑郁症作用的．
+1．2对炎性细胞因子的影响
+越来越多的研究表明，抑郁症患者的外周血和
+收稿日期：2022—09—14
+作者简介：刘亚芹( 1972一) ，女，副主任中药师，从事中药治疗抑郁症的作用机制研究．E—mai l ：405869082@qq．t om
+万方数据
+第1期
+刘亚芹：人参及其复方抗抑郁症作用机制研究进展
+·
+7·
+脑脊液中炎性细胞因子表达水平异常，这种异常与
+抑郁症的发病机制密切相关，所以抗炎也是抑郁症
+等神经系统疾病的有效治疗手段．脂多糖( LPS) 能
+引起免疫激活，诱导多种如肿瘤坏死因子( TNF—OL) 、
+白细胞介素1t 3( I L一1B) 和白细胞介素6( I L一6) 等炎
+性细胞因子分泌，是比较公认的构建抑郁症动物和
+细胞模型的常用方法之一【9I ．有研究报道，人参总
+皂苷能够改善小鼠的抑郁症样行为，降低海马中吲
+哚胺2，3一双加氧酶( I DO) 、I L一1B、I L一6和TNF—d的
+mRNA表达水平．无论是LPS诱导构建的抑郁症小
+鼠还是细胞模型，经人参总皂苷干预后各种促炎细
+胞因子的生成均减少’
+101．人参提取物还能降低抑郁
+症小鼠血清及海马杏仁核中的促肾上腺皮质激素
+( ACTH) 和皮质酮( CORT) 浓度，激活Nrf 2／HO—l 信
+号通路，抑制炎症因子的表达，使脑源性神经营养因
+子( BDNF) 活性增强，从而改善抑郁症⋯ o．人参皂苷
+Rg．能够对糖皮质激素( GC) 诱导的神经损伤起到
+保护作用，机制主要是人参皂苷Rg．可以抑制Nod
+样受体家族含pyri n结构域蛋白1( NLRPl ) 炎性小
+体的表达¨ 2I ．Kang等” 研究发现，人参皂苷取、能
+改善LPS诱导的小鼠抑郁症样行为，机制是人参皂
+苷№，可以抑制神经炎症，调节犬尿氨酸／色氨酸
+( TRP／KYN) 代谢通路．人参皂苷Rg，还能够降低
+LPS诱导抑郁症小鼠脑组织中的一氧化氮合酶、环
+氧合酶一2、TNF一仅、IL一1 B和I L一6的表达水平” j ．另
+一项研究证实，人参皂苷Rb。能下调小胶质细胞中
+一氧化氮、超氧化物和TNF一仅的表达，减轻由缺氧
+导致的大脑皮层神经元损伤【巧．方玲等16发现，人
+参皂苷Rh，也能明显改善小鼠抑郁症样行为，作用
+机制是人参皂苷Rh：可能与抑制NF—KB信号通路，
+降低海马组织TNF一仪、I L一1 B水平有关．综上，人参
+中的各种活性成分也可通过调节炎性细胞因子的表
+达抗抑郁症．
+1．3对下丘脑一垂体一肾上腺( HPA) 轴的影响
+神经内分泌假说研究发现，应激可造成HPA轴
+功能亢进，产生大量的GC，破坏原有的负反馈途径，
+使HPA轴过度活跃，海马区神经元受损，从而导致
+抑郁症的发生"o．Mou等¨ 8。通过建立CUMS大鼠
+模型研究发现，人参皂苷Rg．能显著降低强迫游泳
+( FST) 及悬尾实验( TST) 中小鼠的不动时问，改善
+大鼠血清的CORT和睾丸激素水平，调节大鼠前额
+叶皮层及海马区GC受体( GR) 水平，使HPA轴恢
+复正常功能．人参皂苷Rb，和Rg，还可以通过调节
+GC活性，减少神经毒性．Li u等。1 9。通过建立CUMS
+大鼠模型发现，大鼠出现了如糖水偏好降低，FST不
+动时间增加等一系列抑郁症状，这些抑郁症大鼠血
+清中的CORT水平增加，海马及大脑皮层的GR和
+BDNF的mRNA水平明显降低．随后，又对这些抑郁
+症大鼠给予人参皂苷，发现人参皂苷能明显改善
+CUMS大鼠抑郁症样行为，表明人参皂苷的抗抑郁
+症作用机制与调节HPA轴功能、提高海马及大脑皮
+层中的GR和BDNF的mRNA表达水平密切相关．
+1．4对BDNF的影响
+BDNF是神经营养因子之一，主要参与神经元
+的产生、存活和生长．研究表明，抑郁症患者血清、海
+马及前额叶皮质中BDNF水平降低，多项研究也将
+BDNF作为诊断抑郁症的生物标志物。2⋯ ．人参提取
+物对各种经典的动物抑郁症模型都有抗抑郁症的作
+用，同时能够调节BDNF的表达．据报道，人参提取
+物G⋯ 可显著提高由乙醇诱导的抑郁症小鼠海马及
+前额叶皮质中BDNF的表达，作用效果甚至优于阿
+米替林，机制是人参提取物G。参与调控了BDNF
+相关信号通路211．J i ang等122。研究发现，CUMS模型
+小鼠脑内树突棘密度和海马神经再生能力下降，人
+参皂苷Rg．能够恢复小鼠脑内树突棘密度，提高海
+马神经再生能力，激活BDNF信号通路，降低CORT
+水平，从而发挥抗抑郁症作用．另外，人参皂苷Rg。
+还可以提高CUMS大鼠杏仁核中磷酸化环磷酸腺苷
+相应元件结合蛋白( pCREB) 水平及BDNF水平。2引．
+You等|24发现，人参皂苷Rg，能使CUMS模型鼠海
+马中BDNF表达增多，且人参皂苷Rg，抗抑郁症作
+用可被BDNF信号通路抑制剂阻断．此外，研究人
+员还发现，人参皂苷R92和Rg，也可以通过激活海
+马BDNF信号通路抗抑郁症[ 25- 261．
+2人参复方制剂抗抑郁症作用机制
+2．1
+开心散
+开心散是治疗中医情志病传统复方之一，始载
+于唐代孙思邈所著的《千金要方》，由人参、远志、茯
+苓和石菖蒲4味药材组成．主治悲忧不乐、神志不
+万方数据
+· 8·
+成都大学学报( 自然科学版)
+第42卷
+宁、善忘，或心悸怔忡、语言无伦等症，与现代医学抑
+郁症状非常相似．药理研究表明，开心散具有明显的
+抗抑郁、改善记忆衰退与安神益智的作用．张天
+艺。27。制备了心肌缺血结合CUMS大鼠模型，发现开
+心散能增加大鼠对糖水的偏好指数，缩短大鼠FST
+不动时间，从行为学上验证了开心散的抗抑郁症作
+用．Dong等。28。建立了慢性温和性应激( CMS) 大鼠
+模型，与CMS模型相比，给药开心散后大鼠的海马
+及前额叶皮层中的酪氨酸受体激酶B( TrkB) 、
+pCREB和BDNF的蛋白表达水平升高，推测开心散
+可能是通过促进pCREB上游途径发挥抗抑郁症和
+神经保护作用的．Dong等心0。采用CUMS动物模型，
+利用同位素标记相对和绝对定量的方法，对开心散
+的抗抑郁症作用进行了探索．研究发现，开心散治疗
+2周能明显改善CUMS大鼠的抑郁症样行为．模型
+组与开心散给药组相比，模型组发现了33个差异表
+达蛋白，其中7个上调，26个下调．随后对差异蛋白
+进行功能分析，这些蛋白参与了突触可塑、神经发育
+和神经再生．这些研究进一步为开心散作为一种新
+型抗抑郁症药物的应用提供了支持，为中药抗抑郁
+症研究提供了潜在靶点．
+2．2参远苷
+参远苷是为优化开心散组方开发的，由人参总
+皂苷和远志总皂苷按2：1的比例配伍时表现出良好
+的抗抑郁症作用二30．Sun等。31I 研究发现，参远苷能
+缩短CMS大鼠FST及TST的不动时间，调节CMS
+大鼠海马中CORT和BDNF的表达水平．另一项研
+究表明，参远苷还能改善CMS引起的糖水偏好和新
+奇食物喂养的抑郁症样症状，恢复小鼠前额叶皮层
+单胺类神经递质如5一HT、DA、NA和乙酰胆碱( Ach)
+的含量，证实了参远苷抗抑郁症的作用机制与单胺
+转运体水平相关．说明参远苷有可能成为安全有效、
+可控稳定与毒副作用小的新型抗抑郁症中药新药．
+2．3小柴胡汤
+小柴胡汤由柴胡、黄芩、半夏、生姜、人参、甘草
+和大枣7味中药组成，方出自医圣张仲景的《伤寒
+论》，具有和解少阳与扶正祛邪的功效，主治少阳
+病，症见口苦、咽干、目眩、往来寒热、胸胁苦满、嘿嘿
+不欲饮食与心烦喜呕等。32。．因少阳证症状“ 胸胁满
+闷、心烦喜呕、不欲饮食” 等与现代医学中的抑郁症
+症状相似，所以小柴胡汤也是临床上中医治疗抑郁
+症的经典药物¨ ⋯ ．大量研究证明，小柴胡汤对动物
+抑郁症行为的治疗作用可能与上调不同脑区的单胺
+神经递质，促进神经营养蛋白表达和神经再生有关．
+程瑶"4l 研究结果证实，小柴胡汤有助于促进抑郁症
+病人血清中BDNF水平恢复，改善患者睡眠质量，缓
+解抑郁症患者病情．su等。35 J 研究发现，经小柴胡汤
+治疗后，CUMS大鼠模型海马中的5一HT和DA浓度
+增高，神经生长因子( NGF) 、酪氨酸受体激酶A( T卜
+kA) 、TrkB和BDNF的表达增多，行为学测试大鼠的
+抑郁症状有所改善．另一项研究表明，小柴胡汤还能
+明显缓解慢性CORT诱导的抑郁症样行为，调控
+HPA轴负反馈促进海马神经元重塑。3⋯ ．小柴胡汤抗
+抑郁症机制的深入研究，充分地说明了小柴胡汤具
+有很好的抗抑郁症作用．
+2．4归脾汤
+归脾汤出自宋代《济生方》，南人参、当归、黄
+芪、白术、茯苓、龙眼肉、酸枣仁、木香、炙甘草和远志
+10味药组成，具有安神养心与健脾益气之功效，适
+合心慌失眠人服用．Sheng等。3 7。通过荟萃分析( Me—
+t a) 发现，归脾汤结合抗抑郁症药可以提高药物治疗
+效果，并且无任何严重不良反应，表明联合用药有效
+安全．蔡晓38收集了1 16例不寐证合并焦虑抑郁症
+患者，将上述患者随机分组，对照组采用常规西药治
+疗，观察组两药联合归脾汤治疗，结果发现归脾汤治
+疗组的患者能够有效改善睡眠质量，缓解抑郁症患
+者的不良情绪，对于不寐证合并焦虑抑郁症具有一
+定的治疗作用．据报道，脑内谷氨酸( Gl u) 水平升高
+与抑郁症的发病有关口⋯ ．陈宝忠等[ 40。通过隔离孤
+养的方式构建了抑郁症大鼠模型，模型组大鼠的体
+重下降，Gl u表达水平升高，归脾汤治疗后抑郁症大
+鼠的体重升高，抑郁症行为减轻，表明归脾汤可以通
+过降低Gl u水平发挥抗抑郁症作用．
+3
+结
+语
+抑郁症的治疗仍是医学界的一大难题，现有一
+线抗抑郁症药物普遍存在效率不高和起效缓慢等诸
+多缺陷，采用中药治疗抑郁症越来越受到重视．人参
+对抑郁症的治疗有着显著的效果，且其相对于西药，
+具有不良反应较少与毒性较小的优势．本文从单胺
+万方数据
+第1期
+刘亚芹：人参及其复方抗抑郁症作用机制研究进展
+· 9·
+神经递质系统、抗炎、HPA轴的功能与神经营养因
+子的角度出发，探讨了人参活性成分及人参复方制
+剂抗抑郁症的作用机制，为人参抗抑郁症的临床应
+用提供了思路．由于抑郁症的病因复杂，发病机制尚
+不完全明确，人参真正发挥抗抑郁症作用的确切活
+性成分仍需要筛选与鉴定，不同活性成分抗抑郁症
+作用效果也需要比较．相信随着现代技术的不断发
+展，研究不断深入，人参将有更为广阔的开发前景，为
+抑郁症的治疗开辟新的途径，发挥更大的作用．
+参考文献：
+[ 1] 肖苗，吕映福．浅谈抑郁症与中医“ 郁证” 的关系[ J ] ．医
+学食疗与健康，2020，18( 20) ：37+39．
+[ 2] 龙玉婷，孙志会，王志文，等．人参大补元气的功效内涵
+浅析[ J ] ．中国中医急症，2019，28( 9) ：1679—1682．
+[ 3] 户京京，张晓光，杨建会，等．开心散神经系统作用现代
+研究[ J ] ．辽宁中医药大学学报，2022，24( 1) ：6l 一66．
+[ 4] 毕秀华，宋云，秦竹．抑郁症发病机理的研究进展[ J ] ．云
+南中医中药杂志，2012，33( 1) ：64—66．
+[ 5] Wang X，Zeng C，Li n J ，et a1．Met abonomi cs approach t o
+as—
+sessi ng t he
+modul at ory
+ef f ect s
+of
+St
+J ohn
+7
+s
+wort ，gi nsen—
+osi des，and cl omi prami ne
+i n experi ment al depressi on[ J ] ．J
+Prot eome Res，2012，11( 12) ：6223—6230．
+[ 6] Ki mHJ ，Park S D，Lee R M，et a1．Gi nt oni n at t enuat es de—
+pressi ve—l i ke behavi ors associ at ed wi t h al cohol wi t hdrawal
+i n
+mi ce[ J ] ．J
+Af f ect Di sord，2017，215：23—29．
+[ 7] Yamada N，Araki
+H，Yoshi mura H．I dent i f i cat i on of
+ant i de—
+pressant —l i ke i ngredi ent s
+i n gi nseng root ( Panax gi nseng C．
+A．Meyer) usi ng
+a menopausal
+depressi ve—l i ke
+st at e
+i n
+fe—
+mal e mi ce：part i ci pat i on of 5- HT2A recept ors[ J ] ．Psycho-
+pharmacol ogy，2011，216( 4) ：589—599．
+[ 8] Wang G L，He Z M，Zhu H Y，et a1．I nvol vement
+of
+serot on-
+ergi c，noradrenergi c and dopami nergi c syst ems i n t he ant i de—
+pressant - l i ke ef f ect
+of gi nsenosi de Rbl ，a maj or act i ve i ngre—
+di ent
+of Panax gi nseng C．A．Meyer[ J ] ．J
+Et hnopharmacol ，
+2017，204：118—124．
+[ 9] Tang MM，Li n WJ ，Pan Y Q，et a1．Hi ppocampal
+neurogen—
+esi s dysf unct i on l i nked t o depressi ve- · l i ke behavi ors i n a neu- ·
+roi nf l ammat i on i nduced model
+of depressi on[ J ] ．Physi ol
+Be—
+hay，2016，161：166—173．
+[ 10] Kang A N，Hao H，Zheng
+X，et a1．Peri pheral
+ant i —i nf l am—
+mat ory ef f ect s expl ai n t he gi nsenosi des paradox bet ween poor
+brai n di st ri but i on and ant i —depressi on ef f i cacy[ J ] ．J
+Neu—
+roi nf l amm，2011，8( 1) ：100一l 一100—14．
+[ 11] Choi
+J H，Lee MJ ，J ag M，et a1．Panax gi nseng exert s
+anti —
+depressant —l i ke
+ef f ect s
+by
+suppressi ng neuroi nf l ammat ory
+response and upregul at i ng nucl ear f act or eryt hroi d 2 rel at ed
+f act or 2 si gnal i ng
+i n t he amygdal a[ J ] ．J
+Gi nseng
+Res，
+2018，42( 1) ：107—115．
+[ 12] Zhang Y，Hu W，Zhag B，et
+a1．Gi nsenosi de Rgl
+prot ect s
+a-
+gal nst
+neuronal
+degenerat i on i nduced by chroni c
+dexam—
+et hasone t reat ment by i nhi bi t i ng NLRP一1 i nf l ammasomes i n
+mi ce[ J ] ．I nt
+J Mol Med，2017，40( 4) ：1134—1142．
+[ 13] Kang A，Xi e T，Zhu D，et a1．Suppressi ve ef f ect
+of
+gi nsen—
+osi de
+R93
+agai nst
+l i popol ysaechari de—i nduced
+depressi on
+l i ke behavi or and neuroi nf l ammat i on i n mi ce[ J ] ．J
+Agri e
+Food Chem，2017，65( 32) ：6861—6869．
+[ 14] Park S M，Choi Ms，Sohn N W，et a1．Gi nsenosi de R93
+at —
+t enuat es mi crogl i a act i vat i on f ol l owi ng syst emi c l i popol ysac—
+ehari de t reat ment
+i n mi ce[ J ] ．Bi ol
+Pharm Bul l ，2012，35
+( 9) ：1546—1552．
+[ 15] Ke L，Guo W，Xu J ，et a1．Gi nsenosi de Rbl
+at t enuat es
+act i —
+vat ed mi crogl i a i nduced neuronal
+damage[ J ] ．Neural
+Re-
+gen Res，2014，9( 3) ：252—259．
+[ 16] 方玲，杨莉莉．人参皂苷Rh：对慢性不可预知应激所致
+抑郁小鼠的治疗作用及机制研究[ J ] ．浙江医学，2019，
+41( 21) ：2269—2273．
+[ 17] Kel l er J ，Gomez R，wi l l i ams G，et
+a1．HPA axi s
+i n maj or
+depressi on：cort i sol ，cl i ni cal
+sympt omat ol ogy
+and
+genet i c
+vari at i on predi ct cogni t i on[ J ] ．Mol
+Psychi at r，2017，22：527—
+536．
+[ 18] Mou Z，Huang Q，Chu S F，et a1．Ant i depressi ve ef f ect s of
+gi nsenosi de R91 vi a regul at i on of HPA and HPG axi s[ J ] ．
+Bi omed Pharmacotl l er，2017，92：962—971．
+[ 19] ¨ u L Q，Luo Y，Zhang R R，et a1．Ef f ect s
+of gi nsenosi des
+on
+hypot hal ami c- - pi t ui t ary- - adrenal
+f unct i on
+and
+brai n- - de- -
+ri ved neurot rophi c f act or
+i n
+rat s exposed t o chroni c unpre-
+di ct abl e mi l d st ress[ J ] ．Chi na J
+Chi n Mat er
+Med，2011，
+36：1342—1347．
+[ 20] Pol yakova M，St uke K，Sehuemberg K，et a1．BDNF as
+a bi —
+omarker
+f or
+successf ul
+t reat ment
+of
+mood
+di sorders：a
+syst emat i c&quant i t at i ve met a—anal ysi s[ J ] ．J
+Af f ect
+Di s—
+ord，2015，174：432—440．
+[ 21] Boonl ert W，Benya- Aphi kul
+H，Wel bat
+J
+U，et
+a1．Gi nseng
+ext ract
+Gl l 5
+at t enuat es
+et hanol —i nduced depressi on i n mi ce
+by i ncreasi ng brai n BDNF l evel s[ J ] ．Nut ri ent s，2017，9
+( 9) ：931—1—931—11．
+[ 22] J i ang B，Xi ong Z，Yang J ，et
+a1．Ant i depressant —l i ke ef f ect s
+万方数据
+· 10·
+成都大学学报( 自然科学版)
+第42卷
+of gi nsenosi de R91
+ar e due t o act i vat i on of t he BDNF
+si g—
+naHi ng pat hway and neurogenesi s i n t he hi ppocampus[ J ] ．
+Bri t
+J Pharmacol ，2012，166( 6) ：1872—1887．
+[ 23] Li u Z，Qi
+Y，Cheng Z，et a1．卟e ef f ect s
+of gi nsenosi de Rgl
+on chroni c
+st ress i nduced depressi on—l i ke behavi ors，BDNF
+expressi on and t he phosphoryl at i on of PKA and CREB i n
+rat s[ J ] ．Neurosci ence，2016，322：358—369．
+[ 24] You Z，Yao Q，Shen J ，et
+a1．Ant i depressant —l i ke ef f ect s of
+gi nsenosi de R93 i n mi ce vi a act i vat i on of t he hi ppocampal
+BD—
+NF si gnal i ng cascade[ J ] ．J Nat Med，2017，71( 2) ：367—379．
+[ 25] Ren Y，Wang
+J
+L，Zhang
+X，et
+a1．Ant i depressant —l i ke
+ef f ect s of gi nsenosi de R92
+i n a chroni c mi l d st ress model
+of
+depressi on[ J ] ．Brai n Res Bul l ，2017，134：211- 219．
+[ 26] Xu D，Wang C，Zhao W，et a1．Ant i depressant —l i ke ef f ect s of
+gi nsenosi de R95
+i n mi ce：I nvol vi ng
+of hi ppocampus BDNF
+si gnal i ng pat hway[ J ] ．Neurosci
+Let t ，2017，645：97—105．
+[ 27] 张天艺．开心散对抑郁症合并心肌缺血模型大鼠的保
+护作用研究[ D] ．北京：北京中医药大学，2018．
+[ 28] Dung X Z，Wang DX，Yu B Y，et a1．Kai —Xi n—San，a tradi —
+t i onal
+Chi nese
+medi ci ne f ormul at i on，exeas
+ant i depressi ve
+and neuroprot ect i ve ef f ect s by
+promot i ng pCREB upst ream
+pat hways[ J ] ．Exp Ther Med，2016，12( 5) ：3308—3314．
+[ 29] Dong X Z，Wang D X，Zhang T Y，et a1．I dent i f i cat i on
+of
+prot ei n t arget s f or t he ant i depressant
+ef f ect s of Kai · - Xi n- - San
+i n Chi nese medi ci ne usi ng i sobari c t ags f or rel at i ve and ab—
+sol ut e quant i t at i on[ J ] ．Neural
+Regen Res，2020，15( 2) ：
+302—310．
+[ 30] 孙秀萍，李腾飞，石哲，等．人参总皂苷和远志总苷配伍
+对小鼠抗抑郁作用[ J ] ．中国比较医学杂志，2012，22
+( 6) ：30—36．
+[ 31] Sun X P，Shi
+Z，Pan R L，et a1．Ant i depressant —l i ke ef f ect s
+and mechani sm of
+act i on of SYG i n depressi on model
+i n
+rat s[ J ] ．Neuro Endocri nol
+Let t ，2014，35( 2) ：129—136．
+[ 32] 张志雄，刘春芳，刘明洋，等．小柴胡汤的药理作用及临
+床应用研究进展[ J ] ．中医药临床杂志，2021，33( 3) ：
+580—584．
+[ 33] 桑奕，刘艳，郭玉翠，等．小柴胡汤临床应用体会[ J ] ．中
+国民族民间医药，2017，26( 8) ：72—73．
+[ 34] 程瑶．小柴胡汤对抑郁症病人脑源性神经营养因子、睡
+眠质量及神经功能相关因子的影响[ J ] ．中西医结合心
+脑血管病杂志，2017，15( 10) ：1250—1252．
+[ 35] Su G Y，Yang
+J
+Y，Wang F，et
+a1．Anti depressant—l i ke
+ef f ect s
+of Xi aochai hut ang
+i n a rat model
+of chroni c unpre—
+di ct abl e mi l d stress[ J ] ．J Et hnopharmacol ，2014，152( 1) ：
+217—226．
+[ 36] Zhang
+K，Yang
+J
+Y，Wang F，et
+a1．Ant i depressant —l i ke
+ef f ect s of Xi aochai hut ang i n a neuroendocri ne mouse model
+of
+anxi et y／depressi on．J
+Et hnopharmacol ，2016，194：674—683．
+[ 37] Sheng C X，Cheng Z Q，Cui H J ，et
+a1．I s t he Chi nese me—
+di ci nal
+f ormul a Gui pi
+Decoct i on ef f ect i ve
+as
+an adj unct i ve
+t reat ment f or depressi on?A met a—anal ysi s of randomi zed con-
+tI．oHed tf i al s[ J ] ．Chi n J
+I nt egr Med，2017，23( 5) ：386—395．
+[ 38] 蔡晓．归脾汤加减用于不寐证合并焦虑抑郁患者的效
+果观察[ J ] ．实用中医内科杂志，2019，33( 10) ：34—36．
+[ 39] Madei ral
+C，Vargas—Lopes C，Brankao C O，et a1．El evat ed
+gl ut amat e and gl ut ami ne l evel s i n t he cerebrospi nal f l ui d of
+pat i ent s
+wi t h probabl e
+al zhei mer' s di sease
+and depressi on
+[ J ] ．Front
+Psychi at ry，2018，9：561—1—561—8．
+[ 40] 陈宝忠，潘彦辰，李志强，等．归脾汤对抑郁模型大鼠脑
+内氨基酸类神经递质水平的影响[ J ] ．成都中医药大学
+学报，2019，42( 4) ：41—44．
+( 责任编辑：伍利华)
+Research Progress i n Ant i —Depressi on
+Mechani smof Gi nseng and I t s Compound
+L／U Yaqi n
+( Dongyi ng Af f i l i at ed Tradi t i onal Chi nese Medi cal
+Hospi t al ，Shandong Tradi t i onal
+Chi nese Medi ci ne Uni versi t y，Dongyi ng 257055，Chi na)
+Abst ract ：Gi nseng pl ays an obvi ousl y i mport ant rol e
+i n ant i —depressi on．The mai n mechani smof
+ant i —de—
+pressi on ef f ect
+of
+gi nseng act i ve i ngredi ent s( gi nsenosi des Rgl ，Rbl ，R92，et c．) and gi nseng compound
+preparat i ons( Kai xi n Powder，Shenyuan Gl ycosi des，Xi aochai hu Decoct i on and Gui pi Decoct i on) i s
+sum—
+mari zed i n order t o provi de a ref erence val ue f or t he cl i ni cal
+t reat ment
+of depressi on．
+Key words：gi nseng；i ngredi ent ；depressi on；ant i —depressi on mechani sm；research progress
+万方数据

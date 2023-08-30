@@ -1,0 +1,798 @@
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+人参皂苷Re调控Wnt/β-catenin信号通路
+抑制心肌成纤维细胞增殖研究
+韩路拓
+1
+郭宏伟
+2
+任钧国
+3
+刘建勋
+3
+王攀
+3
+杨佳妹
+3
+1黑龙江中医药大学中医药博物馆，哈尔滨 150040；
+2黑龙江中医药大学基础医学院，
+哈尔滨 150040；
+3中国中医科学院西苑医院基础医学研究所 中药药理北京市重点实验
+室，北京 100091
+通信作者：任钧国，Email：reek2003@163.com
+【摘要】 目的
+观察人参皂苷 Re对体外高糖培养的原代心肌成纤维细胞（CFs）增殖与蛋白分泌
+的影响，以及对 Wnt/β-连接蛋白（β-catenin）信号通路的调控作用。方法
+采用体外高糖诱导 CFs 增
+殖模型，经不同浓度的人参皂苷 Re干预后，采用 MTT法检测 CFs细胞增殖能力，流式细胞仪检测细胞
+增殖周期，ELISA 法检测Ⅰ型胶原、Ⅲ型胶原及 TGF-β1水平，Western blot 检测 β-catenin、糖原合成酶
+激酶 3β（GSK-3β）、磷酸化糖原合成酶激酶 3β（p-GSK-3β）蛋白表达情况。结果
+与模型对照组比
+较，人参皂苷 Re 各剂量组吸光度值降低（P<0.01），G0+G1期细胞百分比增加（P<0.01）、S+G2+M 期细胞
+百分比降低（P<0.01），TGF-β1水平降低（P<0.01），人参皂苷 Re 高、中剂量组Ⅲ型胶原［（6.566±1.620）
+ng/ml、（7.170±0.470）ng/ml 比（11.241±2.234）ng/ml］水平降低（P<0.01），人参皂苷 Re 高、中剂量组
+β-catenin［（0.281±0.016）、
+（0.301±0.021）比（0.409±0.037）］表达降低（P<0.01），人参皂苷 Re 高剂量组
+p-GSK-3β［（0.369±0.049）比（0.268±0.048）］表达升高（P<0.01）。结论
+人参皂苷 Re 可调控 Wnt/
+β-catenin 信号转导通路异常表达，有效抑制 CFs增殖，减少高糖条件下 CFs胶原和 TGF-β1合成，具有
+延缓糖尿病心肌纤维化的作用。
+【关键词】 人参皂苷Re； Wnt信号通路； 细胞增殖； 转化生长因子β1； 成纤维细胞
+基金项目：国家科技重大专项“重大新药创制”项目（2017ZX09301018）；黑龙江省经济社会发展
+重点研究课题（20415）
+Research on Ginsenoside Re inhibition of CFs proliferation by regulating Wnt/β -catenin
+signaling pathway
+Han Lutuo
+1, Guo Hongwei
+2, Ren Junguo
+3, Liu Jianxun
+3, Wang Pan
+3, Yang Jiamei
+3
+1Department of Chinese Medicine Museum, Heilongjiang University of Chinese Medicine, Harbin 150040,
+China;
+2Department of Basic Medical College, Heilongjiang University of Chinese Medicine, Harbin
+150040, China;
+3Institute of Basic Medical Sciences of Xiyuan Hospital, China Academy of Chinese
+Medical Sciences, Beijing Key Laboratory of Pharmacology of Chinese Materia Medica, Beijing 100091,
+China
+Corresponding author: Ren Junguo, Email: reek2003@163.com
+【Abstract】
+Objective
+To observe the effect of Ginsenoside Re on the proliferation and
+protein secretion of primary cardiac fibroblasts (CFs) cultured in high glucose by vitro, and the
+regulation of Wnt/β-catenin signaling pathway. Methods
+The myocardial fibroblast proliferation
+model induced by high glucose in vitro was used. Cell proliferation was detected by MTT method,
+cell cycle was measured by flow cytometry, concentration of type Ⅰ,Ⅲ collagens and TGF-β1 protein
+·实验与方药·
+DOI：10.3760/cma.j.cn115398-20210628-00253
+收稿日期 2021-06-28
+本文编辑 张琪
+引用本文：韩路拓, 郭宏伟, 任钧国, 等 . 人参皂苷 Re调控 Wnt/β-catenin信号通路抑制心肌成纤维细胞增
+殖研究[J]. 国际中医中药杂志, 2022, 44(3): 298-304. DOI: 10.3760/cma.j.cn115398-20210628-00253.
+· 298 ·
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+were tested by ELISA assay. Protein expression of β-catenin, GSK-3β and p-GSK-3β were determined
+by Western blot. Results
+Compared with the model group, the cell proliferation in Ginsenoside Re
+high, medium, low group were significantly decreased (P<0.01), the percentage of cells in G0 + G1
+phase was increased (P<0.01), and the percentage of cells in S + G2 + M phase was decreased (P<
+0.01), the content of TGF- β1was significantly decreased(P<0.01). The content of type Ⅲ collagen
+[(6.566±1.620)ng/ml, (7.170±0.470)ng/ml vs. (11.241±2.234)ng/ml] in Ginsenoside Re high,
+medium group were significantly decreased (P<0.01). The expression of β -catenin (0.281±0.016,
+0.301±0.021 vs. 0.409±0.037) was significantly decreased and the expression of p-GSK-3β (0.369±
+0.049 vs. 0.268±0.048) in Ginsenoside Re high, medium group were significantly increased (P<0.01).
+Conclusion
+Ginsenoside Re plays an important role in inhibiting CFs proliferation and reducting
+the synthesis of collagen and TGF-β1 by regulating abnormal expression of Wnt/β-catenin signaling
+pathway. It has the potential to delay the myocardial fibrosis of diabetes mellitus.
+【Key words】
+Ginsenoside Re;
+Wnt signaling pathway;
+Cell proliferation;
+Transforming
+growth factor beta1;
+Fibroblasts
+Fund program:
+Major Special Project "New Drug Innovation" of National Science and
+Technology (2017ZX09301018); Key Reseach Project of Economic and Social Development of
+Heilongjiang Province (20415)
+人参（Panaxginseng C.A.Meyer）为五加科多年
+生草本植物，具有大补元气、固脱生津、安神益智的
+功效
+［1］。
+《神农本草经》记载人参“主养命以应天，无
+毒多服久服不伤人，欲轻身益气不老延年”
+［2］。研
+究表明，人参有抗肿瘤、抗休克等作用，对内分泌系
+统、心血管系统、神经中枢系统均有一定的药效作
+用
+［3-4］。人参皂苷 Re 为人参主要活性成分，具有抗
+氧化、抗心律失常保护心肌、降低血糖改善糖耐量、
+提升免疫力、抗炎等作用
+［5-6］。
+糖尿病是一种病因复杂多发且病程较长的慢
+性内分泌和代谢性疾病，以高血糖为特征。糖尿病
+患者心肌病和心血管疾病并发风险较高，最终导致
+的糖尿病晚期病死是世界范围内严重威胁人类健
+康的重大公共卫生问题
+［7］。糖尿病患者并发糖尿
+病心肌病尤为常见，DCM 病变的关键特征是发生
+心肌纤维化，因此，心肌细胞功能与数量的改变是
+反映心肌纤维化程度的重要指标
+［8-9］。研究表明，
+Wnt/β-连接蛋白（β-catenin）通路的异常活化与心
+肌纤维化病理过程紧密关联
+［10-11］。因此推测可通
+过阻断 Wnt/β-catenin 通路的活化预防糖尿病心肌
+纤维化。本研究以体外高糖培养的心肌成纤维细
+胞（cardiac fibroblasts，CFs）为研究对象，观察人参
+皂苷 Re 对其增殖的影响，并从调控 Wnt/β-catenin
+信号转导通路角度探讨其作用机制。
+1
+材料与方法
+1.1
+实验动物
+SPF 级 SD 乳鼠，出生 24 h 内，雌雄不限，购自
+北京维通利华实验动物技术有限公司，生产许可证
+号SCXK（京）2012-0001。
+1.2
+实验仪器
+SYNERGYTM4 酶 标 仪（美 国 BioTek）；Epics
+Elite 流 式 细 胞 分 析 仪（美 国 Beckman Coulter）；
+Chem Doc XRS 凝胶成像分析系统和垂直电泳仪
+（美国Bio-Rad）。
+1.3
+药品与试剂
+人参皂苷 Re、卡托普利对照品（中国食品药品
+检 定 研 究 院 ，批 号 分 别 为 110754-200822、
+100318-201103）；胎牛血清（美国 GIBCO 公司，批
+号 1227693）；Ⅱ型胶原酶、进口分装试剂胰酶、MTT
+（美 国 Sigma 公 司 ，批 号 分 别 为 20121109、0458、
+20091223）；Ⅰ型、Ⅲ型胶原 ELISA 试剂盒（美国
+USCN 公 司 ，批 号 分 别 为 153540、070893）；
+TGF-β1 因子 ELISA 试剂盒（美国 RD 公司，批号
+314362）；DNA PREP 试 剂 盒（美 国 BECKMAN
+COULTER，批号 34152）；小鼠抗波形蛋白（德国
+Biogenes，批号 990305w）；小鼠抗结蛋白单克隆抗
+体（德国 Biogenes，批号 980788w）；ECL 发光液（美
+国 Thermo Scientific Thermo Scientific，批号 34096）；
+兔抗大鼠 β-catenin 单克隆抗体（英国 Abcam，批号
+9582）；兔 抗 大 鼠 糖 原 合 成 酶 激 酶 3β（glycogen
+synthase kinase 3β，GSK-3β）单 克 隆 抗 体（英 国
+Abcam，批号 2118）；兔抗大鼠磷酸化糖原合成酶激
+酶
+3β （phospho-glycogen
+synthase
+kinase
+3β，
+p-GSK-3β）单克隆抗体（英国 Abcam，批号 5558）；
+兔抗大鼠 β-actin 多克隆抗体（英国 Abcam，批号
+9315）；HRP 标 记 的 羊 抗 兔 多 克 隆 二 抗（英 国
+Abcam，批号108092）；其他试剂均为国产分析纯。
+· 299 ·
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+1.4
+大鼠心肌成纤维细胞体外培养及鉴定
+参考 Sreejit 等
+［12］方法并加以改进，取出生 24 h
+内的 SD 大鼠乳鼠，无菌条件下，开胸摘取心脏，置
+4 ℃ 0.01%PBS 缓冲液中除血细胞，心内膜上内皮
+细胞和心外膜细胞需经 75% 乙醇浸泡 30 s 灭活。
+充分剪碎心脏组织至 1 mm
+3碎块后，弃掉 PBS，加入
+等体积的 0.125% 胰蛋白酶和 0.1%Ⅱ型胶原酶，
+37 ℃水浴反复旋转消化（10 min/次），至组织块完
+全消失。合并细胞悬液，加入10%胎牛血清含量的
+DMEM 低糖培养基终止消化。将合并的消化悬液
+过 200 目筛，2 000 r/min 离心（离心半径 13.5 cm）
+10 min，弃上清，加进 10% 胎牛血清含量的 DMEM
+低糖培养基，吹匀重悬 CFs，接种至培养瓶，置于
+37 ℃、5% CO2培养箱内培养。根据心肌细胞与 CFs
+静置贴壁时间的不同，采用差速黏附分离法筛选
+CFs。待细胞贴壁 1 h后弃上清液，贴壁者用预冷的
+PBS 清洗后即得 CFs，更换 10% 胎牛血清含量的
+DMEM低糖培养基继续孵育。2 d更换1次培养基。
+经免疫荧光法鉴定波形蛋白染色阳性、结蛋白染色
+阴性者为实验所需 CFs。经计算纯度达 98.5%，台
+盼兰染色计数细胞存活比率大于 92%。待 85%~
+95% 细胞融合后，用 0.25% 胰酶消化传代（1∶2），采
+用 2~4 代细胞进行实验。所有细胞接种孵育 24 h
+后，需更换无血清低糖 DMEM 进行细胞生长同步
+24 h搏动处理。
+1.5
+细胞分组和干预
+取 2~4 代细胞，按随机数字表法分为正常对照
+组（D-葡萄糖含量为 5.5 mmol/L的 DMEM低糖培养
+基），模型对照组（D-葡萄糖含量为 25 mmol/L 的
+DMEM 高糖培养基），高渗对照组（D-葡萄糖含量
+为 5.5 mmol/L 的 DMEM 培养基+19.5 mmol/L 甘露
+醇），人参皂苷 Re 高（50 mg/L 人参皂苷 Re+D-葡萄
+糖 含 量 为 25 mmol/L 的 DMEM 高 糖 培 养 基）、中
+（25 mg/L 人参皂苷 Re+D-葡萄糖含量为 25 mmol/L
+的 DMEM 高糖培养基）、低剂量组（12.5 mg/L 人参
+皂苷Re+D-葡萄糖含量为25 mmol/L的DMEM高糖
+培养基），西药对照组（22 mg/L 卡托普利+D-葡萄
+糖含量为25 mmol/L的DMEM高糖培养基）。
+1.6
+细胞增殖能力检测
+将处于对数生长期的 CFs 制成细胞混悬液，以
+5×10
+4个/ml 接种于 96 孔板，孵育同步搏动后，按上
+述分组并进行干预。分别于干预 24、48 h 后，每孔
+加入 10 μl 的 MTT 溶液（1 g/L），培养箱内孵育 4 h
+后停止培养，弃上清，加入 100 μl 的 DMSO，酶标仪
+490 nm 波长处测定吸光度值。以每孔吸光度值代
+表细胞增殖活性。
+1.7
+流式细胞仪检测细胞周期
+取 CFs 制成细胞悬液，以 1×10
+5 个/ml 接种于
+6 孔板，同步搏动后按上述分组并进行干预。孵育
+48 h 后 PBS 液洗，以预热的 0.25% 胰酶覆盖 CFs 表
+面，消化温度 37 ℃，收集细胞悬液，调整细胞密度
+为 1×10
+6个/ml，谨慎遵循细胞周期试剂盒说明书操
+作，在流式细胞仪进行检测，采用 MCYCLE 软件进
+行细胞周期分析。
+1.8
+酶联免疫吸附法检测
+将处于对数生长期的 CFs 制成细胞混悬液，以
+1×10
+5个/ml 接种于 6 孔板上孵育，同步搏动后按实
+验分组并进行干预。孵育 48 h后，收集合并细胞上
+清液，采用 ELISA 法测定 450 nm 波长处吸光度值，
+实验步骤严格按试剂盒说明书进行操作，根据浓度
+曲线，计算Ⅰ型胶原、Ⅲ型胶原、TGF-β1含量。
+1.9
+蛋白质印迹法检测
+收集经干预后的 CFs，加入 RI-PA 裂解液置冰
+浴中 30 min。将细胞刮刀刮取的裂解液合并收集，
+以 4 ℃、2 000 r/min 离心（离心半径 13.5 cm）30 min
+后取上清，采用 BCA 法测定蛋白浓度，蛋白变性
+后，上样，行 SDS-PAGE电泳，转膜，加入含 5%牛血
+清 白 蛋 白 的 TBST 于 室 温 封 闭 30 min，加 入
+β-catenin（1∶5 000）、GSK-3β（1∶2 000）、p-GSK-3β
+（1∶2 000）一抗室温孵育 20 min后，置 4 ℃冰箱孵育
+过夜。次日取出，洗膜，加入二抗（1∶10 000）室温
+孵育 90 min，ECL 发光显影。采用 Image Lab 软件
+分析蛋白条带灰度值。以 β-actin 为内参，以目的
+蛋白和内参蛋白条带灰度值的比值代表目的蛋白
+相对表达量。
+1.10
+统计学方法
+采用 SPSS 18.0 软件进行数据处理。数据行正
+态性检验、方差齐性检验，符合正态分布的数据以
+xˉ ± s 表示，组间比较采用单因素方差分析。P<
+0.05为差异有统计学意义。
+2
+结果
+2.1
+乳鼠心肌成纤维细胞体外培养与鉴定
+乳鼠 CFs 生长速度较快，48~72 h 即成为融合
+状态。细胞多呈梭形，含有椭圆形细胞核 2~3 个，
+胞质透明，胞体体大，无自发性搏动，见图1。
+免疫荧光染色显示，CFs 波形蛋白染色呈阳
+性，结蛋白染色是呈阴性，见图2。
+· 300 ·
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+2.2
+各组心肌成纤维细胞增殖率比较
+干预 24、48 h 后，正常对照组与高渗对照组细
+胞吸光度值比较差异无统计学意义（P>0.05），表明
+细胞增殖与渗透压无关。与正常对照组比较，模型
+对照组吸光度值明显增高（P<0.01）。与模型对照
+组比较，人参皂苷 Re 高、中、低剂量组及西药对照
+组吸光度值明显降低（P<0.01）；与人参皂苷 Re 低
+剂量组比较，24 h 人参皂苷 Re 高、中剂量组及西药
+对照组吸光度值降低（P<0.01），48 h 人参皂苷 Re
+高剂量组吸光度值降低（P<0.05），表明高、中剂量
+的人参皂苷 Re 具有较好的抑制细胞增殖的作用，
+见表1。
+2.3
+各组心肌成纤维细胞增殖周期比较
+因细胞增殖实验结果表明细胞增殖与渗透压
+无关，故后续实验中不再设立高渗对照组。
+与正常对照组比较，模型对照组及各干预组
+G0+G1期细胞百分比降低（P<0.01），S+G2+M 期细胞
+百分比增加（P<0.01）。与模型对照组比较，人参皂
+苷 Re 高、中、低剂量组及西药对照组 G0+G1期细胞
+百分比增加（P<0.01），S+G2+M 期细胞百分比降低
+（P<0.01）；与人参皂苷 Re 低剂量组比较，人参皂苷
+Re 高 、中 剂 量 组 G0+G1 期 细 胞 百 分 比 增 加（P<
+0.01），S+G2+M期细胞百分比降低（P<0.01）；与西药
+对照组比较，人参皂苷 Re高剂量组 G0+G1期细胞百
+分比增高（P<0.01），见图3、表2。
+表1
+各组CFs细胞增殖率比较（吸光度，xˉ ± s）
+组别
+正常对照组
+模型对照组
+高渗对照组
+人参皂苷Re高剂量组
+人参皂苷Re中剂量组
+人参皂苷Re低剂量组
+西药对照组
+n
+6
+6
+6
+6
+6
+6
+6
+24 h
+0.146±0.007
+0.173±0.014a
+0.138±0.005
+0.109±0.006bc
+0.119±0.011bc
+0.144±0.020b
+0.115±0.007bc
+48 h
+0.153±0.015
+0.189±0.012a
+0.155±0.020
+0.116±0.009be
+0.119±0.011b
+0.130±0.012b
+0.119±0.002b
+注
+CFs：心肌成纤维细胞；与正常对照组比较，aP<0.01；与模
+型对照组比较，
+bP<0.01；与人参皂苷 Re低剂量组比较，
+cP<0.01，
+eP<
+0.05
+注
+CFs：心肌成纤维细胞；A：正常对照组；B：模型对照组；C：人
+参皂苷Re高剂量组；D：人参皂苷Re中剂量组；E：人参皂苷Re低
+剂量组；F：西药对照组
+图3
+各组CFs细胞增殖周期流式细胞图
+表2
+各组CFs增殖周期细胞百分比比较（%，xˉ ± s）
+组别
+正常对照组
+模型对照组
+人参皂苷Re高剂量组
+人参皂苷Re中剂量组
+人参皂苷Re低剂量组
+西药对照组
+n
+6
+6
+6
+6
+6
+6
+G0+G1
+97.131±0.530
+88.987±0.929a
+98.231±0.178bcde
+95.615±0.102acd
+93.330±0.070ac
+95.053±0.776bcd
+S+G2+M
+2.869±0.530
+11.013±0.929a
+1.769±0.178bcd
+4.385±0.102acd
+6.670±0.070ac
+5.242±0.280acd
+注
+CFs：心肌成纤维细胞；与正常对照组比较，aP<0.01，bP<
+0.05；与模型对照组比较，cP<0.01；与人参皂苷 Re 低剂量组比较，
+dP<0.01；与西药对照组比较，
+eP<0.01
+注
+CFs：心肌成纤维细胞
+图1
+乳鼠CFs形态（
+×200）
+注
+CFs：心肌成纤维细胞；A：波形蛋白；B：结蛋白
+图2
+乳鼠CFs波形蛋白、结蛋白染色（免疫荧光染色
+×400）
+· 301 ·
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+2.4
+各组心肌成纤维细胞Ⅰ型、Ⅲ型胶原水平
+比较
+与正常对照组比较，模型对照组及各干预组Ⅰ
+型、Ⅲ型胶原水平升高（P<0.01）。与模型对照组比
+较，人参皂苷 Re 高、中剂量组Ⅲ型胶原水平降低
+（P<0.01），且低于低剂量组（P<0.01）；与西药对照
+组比较，人参皂苷 Re 高剂量组Ⅰ型胶原水平降低
+（P<0.01），人参皂苷 Re 高、中剂量组Ⅲ型胶原水平
+降低（P<0.01），见表3。
+2.5
+各组心肌成纤维细胞转化生长因子 β1水平
+比较
+与正常对照组比较，模型对照组及各干预组
+TGF-β1水平升高（P<0.01）。与模型对照组比较，
+人 参 皂 苷 Re 高 、中 、低 剂 量 组 及 西 药 对 照 组
+TGF-β1水平降低（P<0.01），且人参皂苷 Re 高剂量
+组低于人参皂苷 Re 低剂量组和西药对照组（P<
+0.01），见表4。
+2.6
+各组心肌成纤维细胞 β-连环蛋白、糖原合成
+酶激酶及其磷酸化蛋白表达比较
+由细胞增殖实验、细胞周期实验及 ELISA 检测
+结果可知，人参皂苷 Re 高剂量组与中剂量组作用
+效果明显优于低剂量组，因此后续实验中未设立人
+参皂苷Re低剂量组。
+结果显示，与正常对照组比较，模型对照组及
+人参皂苷 Re 高、中剂量组 β-catenin 表达升高（P<
+0.05），模 型 对 照 组 及 人 参 皂 苷 Re 中 剂 量 组
+p-GSK-3β蛋白表达降低（P<0.05）。与模型对照组
+比较，人参皂苷 Re 高、中剂量组 β-catenin 表达降
+低（P<0.01），人参皂苷 Re高剂量组 p-GSK-3β表达
+升高（P<0.01）；与西药对照组比较，人参皂苷 Re
+高、中剂量组 β-catenin 蛋白表达降低（P<0.01），人
+参皂苷 Re高剂量组 p-GSK-3β表达升高（P<0.01），
+见图4、表5。
+3
+讨论
+糖尿病患者心脏胶原交联多因Ⅰ、Ⅲ型胶原纤
+维增多引起，导致心室壁加厚、膨胀，呈现类似限制
+型心肌病样的改变，临床表现为舒张功能障碍的早
+期症状
+［13］。心脏长期处于高血糖状态触发了非酶
+促糖基化反应，可减少胶原糖基化的降解，该反应
+表3
+各组CFs中Ⅰ型、Ⅲ型胶原水平比较（xˉ ± s）
+组别
+正常对照组
+模型对照组
+人参皂苷Re高剂量组
+人参皂苷Re中剂量组
+人参皂苷Re低剂量组
+西药对照组
+n
+6
+6
+6
+6
+6
+6
+Ⅲ型胶原
+（ng/ml）
+6.218±0.822
+11.241±2.234a
+6.566±1.620bcde
+7.170±0.470acde
+9.003±0.971a
+9.770±0.938a
+Ⅰ型胶原
+（pg/ml）
+326.901±123.582
+1 250.123±231.623a
+1 004.133±411.998ae
+1 242.117±162.923a
+1 374.913±151.333a
+1 395.619±130.910a
+注
+CFs：心肌成纤维细胞；与正常对照组比较，aP<0.01，bP<
+0.05；与模型对照组比较，cP<0.01；与人参皂苷 Re 低剂量组比较，
+dP<0.01；与西药对照组比较，
+eP<0.01
+表4
+各组CFs中TGF-β1水平比较（pg/ml，xˉ ± s）
+组别
+正常对照组
+模型对照组
+人参皂苷Re高剂量组
+人参皂苷Re中剂量组
+人参皂苷Re低剂量组
+西药对照组
+n
+6
+6
+6
+6
+6
+6
+TGF-β1
+72.530±7.760
+92.782±6.097a
+45.221±7.954abcd
+49.823±10.635ab
+55.960±7.847ab
+58.722±4.894ab
+注
+CFs：心肌成纤维细胞；与正常对照组比较，aP<0.01；与模
+型对照组比较，
+bP<0.01；与人参皂苷 Re 低剂量组比较，
+cP< 0.01；与
+西药对照组比较，
+dP<0.01
+注
+CFs：心肌成纤维细胞；β-catenin：β-连环蛋白；GSK-3β：糖
+原合成酶激酶-3 ；p-GSK-3β 磷酸化糖原合成酶激酶-3；A：正
+常对照组；B：模型对照组；C：西药对照组；D：人参皂苷 Re 高剂
+量组；E：人参皂苷Re中剂量组
+图 4
+各组 CFs 中 β-catenin、GSK-3β、p-GSK-3β 蛋白免疫印
+迹图
+表5
+各组CFs中β-catenin、GSK-3β、p-GSK-3β蛋白
+表达比较（xˉ ± s）
+组别
+正常对照组
+模型对照组
+人参皂苷Re
+高剂量组
+人参皂苷Re
+中剂量组
+西药对照组
+n
+6
+6
+6
+6
+6
+β-catenin
+0.365±0.029
+0.409±0.037a
+0.281±0.016bcd
+0.301±0.021bcd
+0.372±0.020e
+GSK-3β
+0.513±0.042
+0.541±0.035
+0.612±0.110
+0.582±0.130
+0.588±0.134
+p-GSK-3β
+0.357±0.053
+0.268±0.048a
+0.369±0.049cef
+0.301±0.010a
+0.306±0.020
+注
+CFs：心肌成纤维细胞；β-catenin：β-连环蛋白；GSK-3β：
+糖原合成酶激酶-3；p-GSK-3β 磷酸化糖原合成酶激酶-3；与正常
+对照组比较，
+aP<0.05，
+bP<0.01；与模型对照组比较，
+cP<0.01；与人参
+皂苷 Re 中剂量组比较，eP<0.01；与西药对照组比较，dP<0.05，fP<
+0.01
+· 302 ·
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+生成的终产物在心内膜下逐步累积，死亡的心肌细
+胞则因而被替代，导致心肌细胞重构与功能改变。
+持续高血糖条件下受体Ⅱ与表达异常的 TGF-β 结
+合，可产生纤维组织，促进胶原蛋白表达及组织型
+金属蛋白酶抑制剂的加速合成，从而阻止基质的
+降解
+［14］。
+Wnt/β-catenin 信号转导通路是生物进化中极
+为保守的通路，其膜受体的激活多数是因自分泌或
+旁分泌作用。Wnt/β-catenin 通路的蛋白质作用网
+络极其复杂，涵盖的众多蛋白质均能与靶细胞上的
+受体相互作用，进而联合控制基因的表达。心肌纤
+维化在心肌不可逆重塑与心功能失代偿转变的过
+程具有重要作用
+［15］。Wnt/β-catenin 信号通路以
+β-catenin 为中心，可通过激活转导通路下游基因
+等多种方式引发心肌纤维化
+［16］。
+本研究发现，高糖刺激的 CFs 经人参皂苷 Re
+干预后，细胞增殖速度减缓，并停滞于细胞 S 期，表
+明该组分可减少 CFs 数量，抑制 CFs 增殖。进一步
+研究发现，经人参皂苷 Re 干预后，高糖刺激的 CFs
+Ⅰ型和Ⅲ型胶原的分泌量有所降低，表明人参皂苷
+Re还可抑制 CFs胶原分泌与合成，继而延缓心室重
+构 。 高 糖 刺 激 的 CFs 经 人 参 皂 苷 Re 干 预 后 ，
+β-catenin、TGF-β1表达升高，p-GSK-3β表达降低，
+提示高糖环境中，以 β-catenin 和 TGF-β1为关键中
+心分子的 2 条通路可能存在某些相互协同作用。
+人 参 皂 苷 Re 可 通 过 降 低 Wnt 信 号 转 导 通 路 中
+β -catenin 与 TGF- β1 水 平 、上 调 异 常 表 达 的
+p-GSK-3β 水平，阻碍 Wnt/β-catenin 与 TGF-β1信
+号转导通路的异常激活。
+人参皂苷是人参作用于心肌病的有效成分，近
+年来有关人参皂苷 Rb1、Rh2、Rg1、Rg3 及稀有皂苷
+Rg5 对心肌病的药理作用研究报道较多
+［17-21］，可见
+人参作用于心肌病的机制并非某一单一成分。人
+参皂苷 Rg1为人参有效成分，含量占比远超人参皂
+苷 Re，对其生物活性的研究也较为广泛。笔者曾
+观察人参皂苷 Rg1 对 CFs 的影响及作用机制［22］，通
+过比较 2 个实验结果可知，2 个成分对于抑制细胞
+增殖及 Wnt通路的调控均有作用效果，但在不同实
+验中优势有所不同。人参皂苷 Re在实验中的用量
+小于人参皂苷 Rg1；2 种成分均可抑制 TGF-β1的合
+成；人参皂苷 Re对于抑制细胞增殖，蛋白表达作用
+的实验结果优于人参皂苷 Rg1；而人参皂苷 Rg1 减
+少Ⅰ型与Ⅲ型胶原分泌的作用强于人参皂苷 Re。
+表明 2 种成分在糖尿病心肌纤维化的不同方面发
+挥作用，充分体现了人参多成分、多靶点、生物活性
+广泛、作用机制复杂的特点。
+综上，人参皂苷 Re 可通过抑制 Wnt/β-catenin
+信号转导通路的异常表达，有效抑制 CFs 增殖，或
+可成为延缓糖尿病心肌病的有效策略，其作用机制
+值得深入研究。本研究结果可为人参作用机制的
+发掘和糖尿病心肌纤维化的防治提供参考。
+利益冲突
+除基金项目支持外，本文全体作者未接受过第三方的
+资助或服务，无个人或企业的经济利益
+作者贡献声明
+韩路拓：实施研究、起草文章；郭宏伟：对文章的知
+识性内容作批评性审阅、指导；任钧国：酝酿和设计实验；刘建勋：
+分析/解释数据；王攀：采集数据；杨佳妹：实施研究
+参
+考
+文
+献
+[1]
+龙玉婷,孙志会,王志文,等. 人参大补元气的功效内涵浅析[J].
+中 国 中 医 急 症 , 2019, 28(9): 1679-1682. DOI: 10.3969/j.
+issn.1004-745X.2019.09.051.
+[2]
+«图解经典»编辑部 . 图解神农本草经白话版[M]. 长春:吉林
+科学技术出版社,2017:49.
+[3]
+吴斌,夏亮,冯方,等 . 人参皂苷联合替莫唑胺对脑胶质瘤术
+后患者脑脊液 HGF、TNF-α、IL-17 水平的影响[J]. 上海中
+医 药 杂 志 , 2017, 51(1): 50-52.
+DOI: 10.16305/
+j.1007-1334.2017.01.014.
+[4]
+Kim H, Choi P, Kim T, et al. Ginsenosides Rk1 and Rg5
+inhibit
+transforming
+growth
+factor-
+β1-induced
+epithelial-mesenchymal
+transition
+and
+suppress
+migration, invasion, anoikis resistance, and development
+of stem-like features in lung cancer[J]. J Ginseng Res,2021,
+45(1):134-148. DOI:10.1016/j.jgr.2020.02.005.
+[5]
+孟红旭,姚明江,刘建勋. 人参皂苷Re对大鼠心室肌细胞钠、
+钾 离 子 通 道 的 影 响 [J]. 世 界 中 医 药 , 2013, 8(10):
+1147-1149. DOI:10.3969/j.issn.1673-7202.2013.10.005.
+[6]
+王全伟 . 人参皂苷 Re 对异丙肾上腺素诱导大鼠心肌缺血
+损伤的保护作用及机制[D]. 长春:吉林大学,2020.
+[7]
+Einarson TR, Acs A, Ludwig C, et al. Economic Burden of
+Cardiovascular Disease in Type 2 Diabetes: A Systematic
+Review[J].
+Value
+Health, 2018, 21(7): 881-890.
+DOI:
+10.1016/j.jval.2017.12.019.
+[8]
+Su D, Ju Y, Han W, et al. Tcf3-activated lncRNA Gas5
+regulates newborn mouse cardiomyocyte apoptosis in
+diabetic cardiomyopathy[J]. J Cell Biochem,2020,121(11):
+4337-4346. DOI:10.1002/jcb.29630.
+[9]
+Murarka S, Movahed MR. Diabetic cardiomyopathy[J]. J
+Card
+Fail,
+2010,
+16(12):
+971-979.
+DOI:
+10.1016/j.
+cardfail.2010.07.249.
+[10]
+Habas R,He X. Activation of Rho and Rac by Wnt/frizzled
+signaling[J]. Methods Enzymol, 2006, 406: 500-511. DOI:
+10.1016/S0076-6879(06)06038-1.
+[11]
+Hu J,Lu X,Zhang X,et al. Exogenous spermine attenuates
+myocardial
+fibrosis
+in
+diabetic
+cardiomyopathy
+by
+inhibiting endoplasmic reticulum stress and the canonical
+Wnt signaling pathway[J]. Cell Biol Int, 2020, 44(8):
+1660-1670. DOI:10.1002/cbin.11360.
+[12]
+Sreejit P, Kumar S, Verma RS. An improved protocol for
+primary culture of cardiomyocyte from neonatal mice[J].
+In Vitro Cell Dev Biol Anim, 2008, 44(3/4): 45-50. DOI:
+· 303 ·
+国际中医中药杂志 2022 年3 月第 44 卷第 3 期
+Int J Trad Chin Med, March 2022, Vol. 44, No. 3
+10.1007/s11626-007-9079-4.
+[13]
+韦余 . 冠心病合并 2 型糖尿病老年患者心肌纤维化及危险
+因素分析[D]. 重庆:重庆医科大学,2020.
+[14]
+Mizushige K, Yao L, Noma T, et al. Alteration in left
+ventricular
+diastolic
+filling
+and
+accumulation
+of
+myocardial collagen at insulin-resistant prediabetic stage
+of a type Ⅱ diabetic rat model[J]. Circulation, 2000,
+101(8):899-907. DOI:10.1161/01.cir.101.8.899.
+[15]
+Wei WY,Zhao Q,Zhang WZ,et al. Secreted frizzled-related
+protein 2 prevents pressure-overload-induced cardiac
+hypertrophy by targeting the Wnt/β -catenin pathway[J].
+Mol Cell Biochem,2020,472(1/2):241-251. DOI:10.1007/
+s11010-020-03802-x.
+[16]
+Deb Arjun. Cell-cell interaction in the heart via Wnt/
+β-catenin pathway after cardiac injury[J]. Cardiovascular
+Research, 2014, 102(2): 214-223.
+DOI: 10.1093/cvr/
+cvu054.
+[17]
+李洋,姜永良,陆地,等 . 人参皂苷 Rb1 改善自噬流抗离体大
+鼠心脏心肌缺血再灌注损伤[J]. 解剖学报,2020,51(2):
+265-272.
+[18]
+邵恳,杨昌明,周芹,等 . 人参皂苷 Rh2 对高脂饮食大鼠心肌
+缺血再灌注损伤的保护作用及其机制[J]. 中国临床药理学
+杂志,2018,34(17):2094-2096.
+[19]
+黄茸茸,陆松侠,孙玲玲,等 . 人参皂苷 Rg1 下调 NOX2-NLRP
+1减轻 PC12细胞缺氧再复氧损伤的作用[J]. 中国药理学通
+报
+,
+2021,
+37(8):
+1068-1075.
+DOI:
+10.3969/j.
+issn.1001-1978.2021.08.007.
+[20]
+Sun GZ, Meng FJ, Cai HQ, et al. Ginsenoside Rg3 protects
+heart
+against
+isoprot-erenol-induced
+myocardial
+infarction
+by
+activating
+AMPK
+mediated
+autophagy.
+Cardiovascular Diagnosis and Therapy[J]. Cardiovascular
+Diagnosis
+and
+Therapy, 2020, 10(2): 153-160.
+DOI:
+10.21037/cdt.2020.01.0210.21037/cdt.2020.01.02.
+[21]
+Liu Jl,Liu Yh,Lin Hq,et al. The effect of ginsenoside Rg5,
+isolated from black ginseng, on heart failure in zebrafish
+based
+on
+untargeted
+metabolomics[J].
+Journal
+of
+Functional Foods, 2021, 76: 104325. DOI: 10.1016/J.
+JFF.2020.104325.
+[22]
+韩路拓,任钧国,杨佳妹,等 . 人参皂苷 Rg1 对高糖培养的心
+肌成纤维细胞 Wnt信号通路的影响[J]. 北京中医药大学学
+报 , 2014, 37(11): 758-762, 766, 插 页 1. DOI: 10.3969/j.
+issn.1006-2157.2014.11.009.
+· 304 ·

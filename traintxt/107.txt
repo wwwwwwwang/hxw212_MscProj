@@ -1,0 +1,670 @@
+www·
+zgys·
+org
+研究论文
+人参皂苷R91通过Si rt 5改善大鼠胆汁淤积的作用研究
+齐密霞1
+刘柯伶2
+贺敬波1
+( 深圳市宝安区人民医院1．中医科；2．妇产科广东深圳518100)
+摘要
+目的：基于si rt 5通路探讨人参皂苷Rg．对胆汁淤积的保护作用，、方法：将sD大鼠随机分成正常对照组、模型组、阳
+性对照组( 熊去氧胆酸，100“ g· kg。) 以及人参皂苷Rg．低( 10⋯ g· kg“ ) 、中( 20“ g· kg。1) 、高( 40⋯ g· kg“ ) 剂量组，每组6
+只；各组大鼠连续灌胃相应药物5 d，第3天除正常对照组外，其他各组灌胃d一萘异硫氰酸酯( ANTT，80 mg· kg。) 建立胆汁淤
+积大鼠模型。造模48 h后，取肝脏记录肝重和肝重／体质量比，腹主动脉取血检测血清肝功能指标丙氨酸氨基转移酶( ALT) 、
+天冬氨酸氨基转移酶( AST) 、碱性磷酸酶( AKP) ，黄疸指标总胆汁酸( TBA) 及肝脏抗氧化应激因子谷胱甘肽( GSH) 、超氧化物
+歧化酶( soD) 和氧化应激产物丙二醛( MDA) 水平；采用酶联免疫吸附剂测定( ELI sA) 试剂盒检测血清炎症细胞因子肿瘤坏
+死因子( TNF一仅) 、白细胞介素一6( I L一6) 和白细胞介素一1p( I L一1B) ；采用苏木精一伊红( HE) 染色检测肝脏病理变化；wes Lern bl o￡一
+t i ng检测肝组织沉默调节蛋白5( sI RT5) 、核因子E2相关因子2( N以) 和核因子KB( NF—KB) 表达。结果：与正常对照组大鼠
+相比，模型组大鼠的肝质量和肝质量比显著升高；肝脏病理损伤加重，肝细胞出现变性坏死，血清中ALT、AST、AKP、TBA、
+MDA、TNF一饯、I L一6和I L—l B水平显著增加，而GSH和SOD水平显著降低；蛋白NF—KB水平显著增加，而SI RT5和Nrf 2水平显
+著减少，差异均有统计学意义( P<o．05) 。与模型组相比，阳性对照组和人参皂苷Rg．中、高剂量组大鼠基本指标改善，肝组织
+病理损伤减轻，血清中ALT、AST、AKP、TBA、MDA、TNF一仅、I L一6和I I ．一1B水平显著减少，而GSH和s0D水平显著升高；人参皂
+苷Rg．、高剂量组蛋白NF—KB水平显著减少，而sI RT5和NI 亿水平显著增加，差异均有统计学意义( P<o．05) 。结论：人参皂苷
+Rg，对ANI T诱导的胆汁淤积大鼠具有明显的肝保护作用，该作用可能与激活si rt 5／Nrf 2通路及下调NF—KB蛋白的表达有关，、
+关键词人参皂苷Rg．；胆汁淤积；沉默调节蛋白5；核因子E2相关因子2；核因子KB
+中图分类号：R965．1
+文献标识码：A
+文章编号：1008—049x( 2022) 10—1718—06
+DoI ：10．19962／i ．cnki ．i ssnl 008一049X．2022．10．005
+AUeVi at i on Ef kct of Gi nsenosi de Rgl i n Rat s wi t h Chol est asi s by Si rt 5 Pat hway
+Qi
+Mi xi al ，Li u Kel i n92，He J i ngb01( 1．Depart ment
+of Tradi t i onal
+Chi nese
+Medi ci ne；2．Depart ment
+Shenzhen Bao’
+an Peopl e’
+s Hospi t al ，Shenzhen 518l OO，Chi na)
+ABSTRACT
+Obj ect i Ve：To i nvest i gat e t he prot ect i ve ef I 色ct of gi nsenosi de R91 on chol est asi s
+vi a si rt 5 pat hway．Met hods：sD rat s
+were randoml y di vi ded i nt o normal cont rol
+group，model
+group，posi t i ve cont rol gmup( ursodeoxychol i c aci d，100 mg·
+kg 1) and gi n—
+senosi de R91 l ow—dose( 10 mg·
+kg 1) ，medi um—dose( 20 mg·
+kg 1) and hi gh—dose( 40 mg·
+kg 1) gmups wi t h 6 rat s i n each gmup．
+The rat s
+were gi ven correspondi ng drug f or 5 days cont i nuousl y i n each gI nup．0n t he t hi rd day，except t he normal
+cont H) l group，ot her
+groups were gi ven d—napht hal ene i soLhi ocyanat e( ANI T，80 mg· kg一1) Lo esLabl i sh chol esLa“ c raL model _At 48 h af t er model i ng，l i ver
+wei ght and l i ver wei gh∥ body wei ght rat i o were recorde( 1．Bl ood was t aken f t omabdomi nal
+aort a
+t o det ect l i ver f unct i on i ndexes i ncl udi ng
+al ani ne arni not ransf erase( AI 。T) ，aspal t at e ami not ransf ．erase( AST) and al kal j ne phosphat ase( AKP) ，j aundj ce i ndex t ot al
+bi l e
+ac虱l
+( TBA) ，l i ver ant i oxi dat i ve st ress f act ors gl ut at hi one( GsH) and superoxi de di smut ase( s0D) ，and oxi dat i ve st ress pmduct mal ondi al —
+dehyde( MDA) ．Pl asma i nnammat ory cyt oki nes
+t umor necmsi s f act or( TNF一仪) ，i nt erl euki n一6( I L一6) and i nt erl euki n—l
+p( I L一1p)
+were det ect ed by ELI SA ki t s．HeⅡ1at oxyl i n—eosi n( HE) st ai ni ng was used
+t o det ect
+t he pat hol ogi cal
+changes
+of
+l i ver severi t y．The
+ex—
+pressi on
+of Si rL5，NI 佗and N- 、一KB j n l j ver“ ssue was det ec Led bv West embl oLt i ng．Resul t s：Compared wi Lh【hose i n Lhe normal
+conLrol
+gI ’
+oup，t he l i ver wei ght and l i ver wei ght
+I’ ati o of t he mo( 1el
+gI ’
+oup were si gni f i cant l y i ncreased；t he pa山ol {) gi cal
+i rl j u。y of l i ver was aggI ’ a—
+vat ed；t he 1i ver cel l s showed degenerat i on and necrosj s；t he 1evel s of ATJ T，AST，AKP，TBA，MDA，TNF一仪，TT。一6 and TT。一1 p j n pl as—
+ma were si gni f i cant l y i ncreased，whi l e t he l evel s of GSH and SOD were si gni f i cant l y decreased；NF—KB expressi on i n gi nsenosi de Rg】
+hi gh—dose group was obvi ousl y i ncreased，whi l e Si rt 5 and NI f 2 expressi on were si gni f i cant l y decreased；al l
+t he i ndex di 圭I brences were
+st at i st i cal l y si gni “ cant ( P<0．05) ．Compared wi t h t hose i n t he model
+group，t he basi c i ndexes of
+rat s i n t he posi t i ve cont rol gmup and
+gi nsenosi de R91 groups were i mproved，t he pat hol ogi cal damage
+of
+1i ver
+t i ssue was reheved，t he 1evel s of
+ALT，AST，AKP，TBA，
+MDA，TNF一仪，I L一6 and
+I L一1p i n pl asma were
+si gni f i canLl y decrease( 1，whi l e Lhe l evel s of CSH and SOD were si gni f i cant l y i ncI ’ eased；
+NF—KB e。pressj on i n gi nsenosi de Rgl
+hi gh—dose group was
+si gnj f i cant l y decreased，whj l e Si rt 5
+and NTf 2 e。pressi on was obvj ousl y
+i n—
+creased；al l
+t he i ndex di f f brences were st at i st i cal l y si gni f i cant ( P<0．05) ．Concl usi on：Gi nsenosi de RgI
+shows si gni f i cant hepat opI ut ec—
+t i ve act i vi t y i n ANI T—i nduced chol est at i c rat s，whi ch may be rel at ed t o t he act i vat i on of Si rt 5／Nr也pat hways and t}l e down—regul at i on of
+NF—KB pmt ei n expressi on．
+KEY WoRDS
+Gi nsenosi de Rg，；Chol est asi s；Si rt 5；NI f 2；NF—KB
+通信作者：贺敬波Tel ：( 0755) 277883l l
+E—mai l ：1193932026@qq．com
+万方数据
+中国药师
+2022年第25卷第10期
+chi na Pharmaci st 2022．v01．25
+No．10
+胆汁淤积是指多因素引起的肝内外胆汁生成、
+分泌和排泄发生障碍，导致胆汁不能正常流人肠道
+而重回血液循环的一种病理状态l 】J 。胆汁淤积严
+重影响人们的生活水平，是肝功能衰竭和肝硬化的
+重要诱发因素，因其高发病率日益受到重视_2J 。目
+前，临床治疗胆汁淤积的一线药物熊去氧胆酸( uD—
+cA) 可治疗原发性胆汁性胆管炎( PBc) ，但仍有
+40％的患者疗效不佳，其疗效仅限于PBC的早期治
+疗_3 J 。奥贝胆酸( 0cA) 可改善PBc患者的存活率
+和治疗uDCA不敏感的患者，但目前发现0CA存在
+皮肤瘙痒等不良反应13 J 。冈此，寻找新的治疗胆汁
+淤积药物一直是近年来研究的热点。
+我国传统中药材在治疗肝胆慢性疾病方面具有
+显著的优势。文献报道人参皂苷可以通过改善肝脏
+炎症和病理损伤．调控肝脏转运体，从而有效缓解胆
+汁淤积性肝损伤[ 4] ，但具体的物质基础和药理机制
+尚未阐明。人参皂苷脓．是一种提取于人参属药材
+的四环三萜类皂苷。先前的研究发现，人参皂苷
+Rg．具有抗氧化、抗凋亡和抗炎等作用，并且对药物
+性肝损伤、脂肪肝等肝脏疾病有显著的治疗效
+果_5’
+6I 。此外，人参皂苷Rg。在四氯化碳( cCl 。) 、脂
+多糖( LPS) 等诱导的体内外模型中都具有明显的肝
+保护作用_7’
+8I 。然而其是否为人参皂苷缓解胆汁淤
+积性肝损伤的主要成分，以及如何发挥肝保护作用，
+目前仍未明确。
+本研究采用d一萘异硫氰酸酯( ANI T) 诱导胆汁淤
+积大鼠模型，通过给予人参皂苷Rg，评价其对胆汁淤
+积的治疗作用，同时考察对沉默调节蛋白5( SI RT5)
+表达的影响，以期为人参皂苷Rg．治疗胆汁淤积的作
+用提供理论依据。
+1材料与方法
+1．1仪器与试药
+DYY一6c型电泳仪( 北京六一公司) ；Mi crof uge
+26型高速离心机( Beckman Coul t er公司) ；Enspi re
+13型酶标仪( Perki nEl mer公司) ：TY一80A／s型脱色
+摇床( 常州润华公司) ；Ax一Ⅱ型暗匣( 广东粤华医疗
+器械厂有限公司) ；cPl 24c型电子天平『奥豪斯仪
+器( 常州) 有限公司] 。
+人参皂苷Rg．( 两安汇林生物科技有限公司，批
+号：R一015—211014，纯度≥98％) ：ANI T( 批号：
+STBV5588V) 、uDcA( 批号：20190612) 购自阿拉丁试
+剂公司；丙氨酸氨基转移酶( ALT) 试剂盒( 批号：
+20190742) 、天冬氨酸氨基转移酶( AST) 试剂盒( 批
+号：20190722) 、碱性磷酸酶( AKP) 试剂盒( 批号：
+20190713) 、总胆汁酸( TBA，批号：120323) 、谷胱甘肽
+( GSH) 试剂盒( 批号：20190715) 、超氧化物歧化酶
+( SOD) 试剂盒( 批号：20190645) 、丙二醛( MDA) 试剂
+盒( 批号：20190412) 等均购自南京建成生物工程研究
+所；肿瘤坏死因子( TNF一仪) 酶联免疫吸附剂测定
+( ELI sA) 试剂盒( 批号：B16011350) 、白细胞介素一6
+( I L一6) ELI SA试剂盒( 批号：A22012489) 和白细胞介
+素一l p( I L一1p) ELI SA试剂盒( 批号：L21021041) 购自
+武汉华美生物T程有限公司：一抗：SI RT5( 美国AI ) 一
+cam公司，批号：abl 79677) ：核因子E2相关因子2
+( N也，批号：L1612177) 和核因子KB( NF—KB，批号：
+10443R) 购自美国Af f i ni t y公司；B—act i n( 批号：
+T0012) 和二抗Ant i —rabbi t I gG( 批号：T7074) 购自美国
+Cel l
+Si gnal i ng Te( ：hn( ) l ( ) gy；4％多聚甲醛组织固定液
+( 碧云天公司，批号：P0099) 。
+1．2
+动物
+SPF级SD大鼠，36只，雄性，体质量( 200± 10) g，
+由广东省实验动物中心提供，实验动物生产许可证
+号：SCxK( 粤) 2019—0035；适应性饲养1周，光照和黑
+暗各12 h交替进行，自由饮水。
+1．3
+方法
+1．3．1
+动物分组、建模及给药
+将36只雄性SD大
+鼠随机分为正常对照组、模型组、阳性对照组( uD—
+cA，100 mg·
+kg。1) 及人参皂苷Rg。低( 10 mg·
+kg。1) 、中( 20 mg· kg。1) 、高( 40 mg· kg。1) 剂量组。
+各药物组分别灌胃给药，正常对照组和模型组给予
+等体积生理盐水，1次／d，连续给药5 d。实验第3
+天除正常对照组外，其余各组灌胃ANI T( 80 mg·
+kg‘
+1) 造模，正常对照组灌胃等量溶媒橄榄油。造模
+48 h后，记录大鼠体质量，收集血清和肝脏组织，进
+行后续指标检测。肝脏组织擦拭表面水分，称取质
+量，记录肝质量，计算肝质量比[ 肝质量( g) ／大鼠体
+质量( kg) ] 。
+1．3．2
+血清生化指标检测
+腹主动脉取血后，在
+4℃条件下以1 360× g离心10 mi n，取上清液。采用
+酶标仪微板法测定血清中ALT、AsT、AKP、TBA、
+GSH、SOD和MDA的含量。
+1．3．3
+ELI SA检测炎症相关指标按照说明书进行
+操作，采用酶标仪分析检测大鼠血清TNF一仅、I L一6和
+I L一1B的水平。
+1．3．4
+HE染色
+大鼠肝脏选取2 mm× 2mm大小
+部位，用4％多聚甲醛固定，石蜡包埋，4～6¨ m切
+片．进行常规HE染色，正置白光显微镜下观察肝组
+织病理形态。
+1．3．5
+west ern bl ot 检测
+称取大鼠肝组织约
+100 mg，加人RI PA细胞裂解液，提取总蛋白，按照
+777÷ 9。
+万方数据
+研究论文
+BcA蛋白浓度检测试剂盒要求测定蛋白浓度。取
+等量蛋白( 20¨ g) 经SDS—PAGE电泳分离，随后转
+移到PVDF膜。快速封闭液封闭15 mi n．加人
+SI R眄、Nrf 2、NnKB和B- act i n( 1：1 000) 一抗，4℃
+过夜孵育，rI ' ，rBs洗膜后，使用二抗( 1：2 500) 孵育
+1 h，洗膜后，使用ELc增强发光试剂显色，放置凝胶
+成像系统曝光，显影后观察结果。
+1．4统计学方法
+采用sPss 23．o版软件对所有实验数据进行统
+计学分析，数据结果采用元± s表示，用单因素分析
+( one—way ANoVA) ，组间两两比较均值应用LsD—f
+法，以P<0．05为差异有统计学意义，应用GraphPad
+Pri sm 8．0版软件绘制统计图。
+2结果
+2．1
+人参皂苷Rg．对胆汁淤积大鼠肝质量以及肝质
+量比的影响
+与正常对照组比较，模型组大鼠肝质量和肝质
+量比明显升高，差异有统计学意义( P<0．05) ：与模
+型组比较，人参皂苷Rg．低剂量组大鼠肝质量和肝
+质量比变化不明显，差异无统计学意义( P>0．05) ．
+巾、高剂量组和阳性对照组大鼠肝质量和肝质量比
+明显降低，差异有统计学意义( P<0．05) ；人参皂苷
+Rg，各剂量组和阳性对照组问差异无统计学意义( P
+>0．05) 。见表1。
+表1
+人参皂苷Rg，对胆汁淤积大鼠肝质量和
+肝质量比的影响( i ± s，n=6)
+注：与正常对照组比较，“ P<O．05；与模型组比较，“ P<O．05。
+2．2人参皂苷Rg，对胆汁淤积大鼠肝脏组织的形态
+结构的影响
+正常对照组大鼠肝细胞排列正常呈索状，无变
+性死亡，无炎性细胞浸润；与正常对照组比较，模型
+表2人参皂苷Rg，对胆汁淤积大鼠血清
+组大鼠肝细胞肝小叶结构紊乱，肝细胞出现脂肪变
+性，可见脂肪空泡形成，有明显炎性细胞浸润，出现
+变性死亡；与模型组比较，人参皂苷Rg．低剂量组大
+鼠仍可见脂肪变性和炎性浸润的肝细胞，人参皂苷
+Rg，中、高剂量组和阳性对照组大鼠肝细胞排列正
+常，肝小叶结构基本正常，无明显炎性浸润的肝细
+胞。见图1。
+B
+C
+l J
+E
+量
+A正常对照组B．模型组c人参皂苷Rg】低剂量组
+D．人参皂苷Rg．中剂量组E．人参皂苷Rg．高剂量组
+F．阳性对照绀
+图1
+人参皂苷R。，对胆汁淤积大鼠肝脏组织
+病理学的影响( HE，200× )
+2．3
+人参皂苷Rg，对胆汁淤积大鼠血清生化指标的
+影响
+与正常对照组比较，模型组的大鼠向‘
+清中肝功能
+酶学指标( AST、ALT和AKP) 以及黄疸指标( TBA)
+均显著升高( P<0．05) ，表明ANI T诱导的胆汁淤积
+大鼠造模成功。与模型组比较，人参皂苷Rg，低剂
+量组的上述指标有下降的趋势，差异无统计学意义
+( P>0．05) ，人参皂苷Rg．中、高剂量组和阳性对照组
+上述指标均明显降低，差异有统计学意义f P<
+0．05) ；人参皂苷Rg．各剂量组与阳性对照组间差异
+无统计学意义( P>0．05) 。见表2。
+2．4人参皂苷Rg，对胆汁淤积大鼠血清氧化损伤
+指标的影响
+与正常对照组比较，模型组大鼠血清抗氧化因
+子水平( GsH和s0D) 明显下降，氧化应激产物
+MDA水平显著升高，差异有统计学意义( P<o．05) 。
+与模型组比较，人参皂苷Rg。低剂量组无明屁变化，
+AST、ALT、AKP和TBA水平的影响( 觅± s，n=6)
+注：与正常对照组比较，“ P<o．05；与模型组比较，。1P<o．05。
+77乡矽
+万方数据
+中国药师
+2022年第25卷第10期
+chi na Pharmaci st 2022．v01．25
+No．10
+差异无统计学意义( P>o．05) ，人参皂苷Rg．中、高剂
+量组和阳性对照组GSH和SOD水平升高，MDA水
+平减少，差异有统计学意义( P<0．05) ；人参皂苷Rg．
+低剂量组MDA水平与阳性对照组相比，差异有统
+计学意义( P<o．05) ，其余各组差异无统计学意义( P
+>0．05) 。见表3。
+表3人参皂苷Rg，对胆汁淤积大鼠血清GsH、s0D
+和MDA水平的影响( 元± ％n=6j
+注：与正常对照组比较，“ P<0．05；与模型组比较，“ P<O．05：与阡|生
+对照组比较，‘ P<O．05。
+2．5人参皂苷胀．对胆汁淤积大鼠血清炎性因子的
+影响
+与正常对照组比较，模型组大鼠m清炎症细胞
+因子( TNF一仅、I L一6和I L一1p) 的含量显著增加，差异
+有统计学意义( P<0．05) 。与模型组比较，人参皂苷
+Rg，低剂量组上述炎性因子含量差异无统计学意义
+( P>0．05) ，人参皂苷胀．中、高剂量组和阳性对照组
+大鼠血清炎性因子TNF一仅、I L一6和I L一1B含量显著
+降低，差异有统计学意义( P<0．05) ；人参皂苷Rg，各
+剂量组与阳性对照组相比，差异无统计学意义( P>
+0．05) 。见表4。
+表4人参皂苷R91对胆汁淤积大鼠血清炎症细胞
+因子的影响( pg· ml ，贾± s，n=6)
+注：与正常对照组比较，“ ，) <0．05；与模型组比较，“ ，) <0．05。
+2．6
+人参皂苷飚。对胆汁淤积大鼠肝脏组织中
+sI RT5、Nrf 2以及NF—KB蛋白表达的影响
+与正常对照组比较，模型组大鼠肝组织SI RT5
+和Nrf 2表达减少，而NF—KB表达增加，差异有统计
+学意义( P<o．05) ；与模型组比较，人参皂苷Rg．高剂
+量组大鼠肝组织SI RT5和Nrf 2表达明显增加，且
+NF—KB表达显著降低．差异有统计学意义( P<
+0．05) 。见图2。
+A
+A
+B
+B( 1
+C
+Sl RTS
+一_一一一一33 kDa
+＼I ．f 2’
+- —一一一_· _
+68 I ‘
+Da
+、F—KB
+一一一一一一65 kDa
+3
+} 2
+芒
+￡
+专
+々
+Y
+罩1
+互
+s1．RI 57I j —act i u
+、l ’ 12j D—act i u
+- 、t —KBj I j —ac|i u
+注：与正常对照组比较，‘ ‘ P<0．05；与模型组比较，“ P<O．05。
+A．正常对照组B．模型组c．人参皂苷Rg．高剂量组
+图2
+人参皂苷Rg，对胆汁淤积大鼠肝组sI RT5、N“ 2
+和NF—KB蛋白表达的影响( n=6)
+3讨论
+胆汁淤积性肝损伤是由于多种因素导致的胆汁
+生成、代谢和流动障碍。活性氧和炎症细胞因子可
+破坏肝细胞和胆管细胞的分泌功能，可使胆汁生成
+障碍，最终导致胆汁淤积的发生【0‘
+l o] 。中医学认
+为，胆汁淤积属“ 黄疸” 范畴，具有“ 火热瘀滞” 的特
+点，火热邪气熏肝胆致肝失疏泄，瘀热阻滞，胆汁不
+通而发黄。因此．中医常用清热利湿，活血化瘀、补
+血益气法治疗胆汁淤积_1 1I 。
+人参是我国传统中药．现代医学发现人参可以
+增强肝脏的解毒和抗肝细胞损伤的作用。人参皂苷
+Rg，是人参的药效成分，具有造血、抗衰老和抗肿瘤
+等作用i 12。有研究发现，人参皂苷Rg．可以改善酒
+精性肝病小鼠细胞凋亡水平，通过抑制氧化应激和
+炎症因子水平[ 1 2I 。此外，在肝纤维化小鼠模型中，
+人参皂苷Rg，通过抑制NLRP3炎症小体下调炎症
+水平，从而缓解肝细胞损伤13。基于前期文献报道
+人参皂苷具有缓解胆汁淤积的效果，本文进一步考
+77耋7
+万方数据
+研究论文
+察了人参皂苷Rg．对胆汁淤积大鼠的药效学和作用
+机制。
+当肝脏功能异常时，会引起肝细胞破裂，从而增
+加细胞膜通透性，导致胞内大量ALT、AST和AKP
+进人血液循环．增加其在血液中的浓度。14I 。此外，
+TBA在f l ! 『L液含量的升高是胆汁淤积肝损伤最直接
+指标_l 5I 。本研究结果表明，在ANI T处理48 h后，
+大鼠血清中ALT、AST、AKP和TBA水平显著上升，
+同时HE染色结果显示．肝细胞出现明显脂肪空泡、
+炎性浸润和细胞坏死，以上结果表明了ANI T诱导
+的胆汁淤积模型成功。而给予人参皂苷Rg．中、高
+剂量大鼠有效降低m清中上述4个指标的水平，与
+胆汁淤积一线药物uDcA效果相似，且肝组织病理
+结果也反映了人参皂苷Rg，中、高剂量组显著改善
+ANI T所致肝质量和肝质量比升高的现象，减少了肝
+细胞脂肪空泡、炎性浸润和细胞坏死的情况，与uD—
+cA作用一致。因此判断人参皂苷Rg．是人参皂苷
+治疗胆汁淤积的重要物质基础之一。
+氧化应激与胆汁淤积的发生发展密切相关，当
+体内活性氧水平失衡。产生过多氧自由基，会损伤肝
+细胞和胆管细胞分泌胆汁的功能_1 6I 。GsH和s0D
+属于抗氧化酶体系，其水平减少表明机体受到氧化
+应激反应∽J 。本研究结果表明，ANI T刺激后，血清
+中GSH和SOD水平明显减少，而给予人参皂苷Rg．
+中或高剂量后，两者水平逆转，表明人参皂苷Rg．具
+有抗氧化的作用。MDA是非酶系统产生的氧化产
+物．其含量增加会引发脂质过氧化，通过反映体内脂
+质过氧化程度，间接表明机体遭自由基损伤的严重
+水平⋯ J 。本研究中，模型组中MDA水平显著升高，
+给予中或高剂量人参皂苷Rg，后MDA水平降低，进
+一步证明人参皂苷Rg．具有抗氧化功能。此外，Nrf 2
+是机体抗氧化应激的关键转录因子，当其被激活在
+细胞内积累并转入细胞核后，可诱导下游抗氧化基
+因的表达[ 1 8I 。本研究发现，给予人参皂苷Rg．高剂
+量可显著逆转ANI T所致Nrf 2蛋白表达降低的现
+象。基于以上实验结果可说明人参皂苷Rg．保护胆
+汁淤积肝损伤可能与其抗氧化有关，但具体的机制
+还需进一步探讨。
+炎症是胆汁淤积肝损伤的一个重要因素_l 9I 。
+其中TNF一仪、I L一6和I L一113是主要的促炎细胞因
+子_20J 。先前有研究发现。人参总皂苷可以降低胆汁
+淤积大鼠肝组织中TNF—d等炎症因子水平。4J 。本
+研究发现中或高剂量人参皂苷Rg．组与模型对照组
+相比，可显著降低TNF—d、I L一6和I L一113含量。NF—
+KB是与炎症直接相关的信号通路，可调控多种炎症
+77乡乡
+细胞因子的分泌_21I 。本研究发现，模型组NF—KB蛋
+白表达水平显著增加，给予人参皂苷Rg，高剂量后，
+可下调NF—KB的表达水平，说明人参皂苷Rg．可能
+通过减轻炎症水平，缓解肝损伤。
+SI RT5是Si rt ui n家族的一员，具有多种酶促活
+性．其中包括NAD+依赖性组蛋白脱乙酰基酶活
+性[ 2 2I 。有研究发现，在人类原发性肝细胞癌中
+SI RT5表达下调，SI RT5缺乏的小鼠会导致体内胆
+汁酸水平大量增加，胆汁淤积的m现进一步促进了
+肿瘤的生长[ 23I 。本研究中发现，模型组巾SI RT5表
+达显著降低，而给予人参皂苷Rg．后明显升高，说明
+人参皂苷Rg．可以调控SI RT5的表达。此外，有研
+究报道，N皿与NF—KB的功能水平会受到SI RT5家
+族的调控[ 24，2引。亦文献证明，SI RT5可以调控N以
+的表达，激活sI RT5可以上调N也的水平_26I 。综
+上表明．人参皂苷Rg．可能通过上调SI RT5，从而增
+加Nrf 2的表达并减少NF—KB表达，最终发挥对胆汁
+淤积性肝损伤的保护作用。
+综上所述，人参皂苷Rg．对ANI T诱导的胆汁淤
+积大鼠具有良好的肝保护作用，该作用可能与激活
+sI RT5信号通路有关。深入研究人参皂苷R91对胆
+汁淤积的肝保护作用将为临床防治胆汁淤积肝损伤
+提供新的治疗思路。
+参
+考
+文
+献
+一
+一～
+一一
+一一一
+一一
+一一一
+一一
+一～
+一
+～一一～一
+一一一
+一一一一一～
+一一一～一
+●
+2
+3
+4
+5
+6
+7
+8
+万方数据
+中国药师
+2022年第25卷第10期
+chi na Pharmaci st 2022．v01．25
+No．10
+i nhi hi t i on of Dcs mat urat i on[ J ] ．Phyt omedi ci ne，2021，84：153524
+9
+zhe“ g S，Cao P，Yi n z，et al - Api geni “ prot ect s mke agai nst 3，5一di —
+et ho。ycarho“ yl 一1，4一di hydmcol l i di ne—i nduced chol est asi s[ J ] ．
+Food
+Funct ，2021，12( 5) ：2323—2334
+10
+I Ⅲzuhi et a P，
+Goi koet xea—Usandi z89a
+N，
+Barbi er—Torres
+L，
+et
+a1．
+Boost i “ g mi t ochondri a act i vi t y
+hy
+si l enci ng MCJ
+overcomes
+chol est a—
+si s—i nduced l i ver i nj ury[ J ] ．J HEP R8p，2021，3( 3) ：100276
+11余丰，梁黾立，邓梅花，等．肝内胆汁淤积件肝病的巾西医沦治
+[ J ] ．现代巾西医结合杂志，2013，22( 9) ：1019—1022
+12
+Ya“ g C，He X，Zhao J ，et a1．H8pat ( 1pr( ) t ect i on hy
+Gi nsenosi de Rgl
+i n
+al cohol i c l i ver( 1i sease[ J ]
+I nt I mnl un( ’
+pharmacol ，202l ，92：107327
+13
+Li
+Y，Zha“ g D，Li L，et a1．Gi nsenosi de Rgl
+amel i ( ) rat es
+89i ” gi n( i uced
+l i ver
+f mmsi s
+hy
+i nhi bi t i ” g
+t he
+NOX4／NLRP3
+i nⅡammas( ) me
+i ”
+sAMP8 mi ce[ J ] ．Mol
+Me( i
+R。p，202l ，24( 5) ：801
+14
+Hua“ g X，Chen S，Chen H，et a1．ROC( mwe anal y8i s( 矗t he sensi t i vi t y
+an( 1 8pe( ’ i f i ( ’ i ty( ) f t) i ( ) ( 1hemi ( ’ al ( 1ete( 、ti ( m( “ ntrah。pati ( ’ ( ’ h( ) l estasi s( i u卜
+i “ g pr。gnan( ，y[ J ] ．z Geburt shi l 伯Ne( mat ( ) l ，2021，225( 4) ：327—332
+15 Xi ( mg X，Ren Y，Cui
+Y，et
+a1．0bet i ( ’ h( ) l i ( 1 a( 五d pr( ) t c( ’
+t s mi ( ’ e 89ai nst
+l i p( ’ p( ) l ysa【1( 1hari de—i n( i u( ’ e( 1 l i ver i nj ury
+an( 1 i nnammat i ( m[ J ] ．Bi ( 】med
+Pharmacot her．2叭7．96：1292—1298
+16
+B89 A，B89 N．T8rget
+s。quenc。pol ymo。phi sm( ) { hunl an ma” ganese
+s“ peroxi de di smut as。gene and i ts ass( ) ci at i on wi t h cancer
+ri sk：
+a re—
+vi ewl J J ．cEBP，2008，17( 12) ：3298—3305
+17
+Poprac
+P，J omova K，Si munkova M，et
+al _Ta。get i ” g f ke radi cal s
+i n
+oxi dat i ve st ress—rel at ed human di seases
+J
+Trends
+PhaⅡI l acol
+Sci ，
+2017，38( 7) ：592—607
+1 8
+Tonel l i
+C，Chi o I I C，Tuveson DA．Transc“ pt i onal
+r。gul at i on hy
+NI { 2
+[ J ] ．Ant i oxi d Redox si gnal ，2叭8，29( 17) ：1727—1745
+19丁沽．龙胆苦苷抗“ 一异硫氰酸萘酯所致大鼠急性肝损伤的作用
+机制研究[ J ] ．中国药师，2020，23( 11) ：2133—2137
+20武小杰，陈菁．』、f 一乙酰半胱氨酸对慢性阻塞性肺疾病患者体内炎
+症水平的影响[ J ] ．医药导报，2019，38( 9) ：1183一1187
+21
+Fernandez—Gonzal ez A．TGF—p and NF—KB cmss—t al k：Une。pect ed en—
+count ers
+i n
+t he devel opi ng l u“ g[ J ]
+AmJ
+R8印i l
+cel l
+Mol
+Bi ol ，
+202l ，64( 3) ：275—276
+22 Nak89awa T，Lomh DJ ，Ha培i s MC，et
+al
+SI RT5 Deace‘
+yl at es( 1a卜
+bamoyl
+ph08phat e 8ynt het ase
+l
+an( 1 r。gul at es t he urea。ycl e[ J ] ．ceⅡ，
+2009，37( 3) ：560一570
+23
+sun RQ，zha” g zY，Ba( ) Rx，et
+a1．Loss
+of sI RT5 promot es
+bi l e a( 五d—
+i nduced i mmuno[ J ] ．J
+H8pat ( “ ，2022，77( 2) ：453—466
+24
+Ari ( ) z BI ，Tast an B，Tarak( ，i ( ) gl u E，et
+aI
+Mel at ( mi n at t enuat es LPS—
+i n( i u( ’ e( i
+a( 、ut e( 1。pressi ve—l i ke behavi ( ) rs an( 1
+mi ( ’ r( ’ gl i al NLRP3 i nnam—
+mas( ) me a( ，t i vat i ( ) n t hr( ) “ gh t he sI RTl ／NI { 2 pat hw8y[ J ] ．FH) nt I mmu—
+n( ) l ，2019．10：1511
+25
+B89ul
+PK，De。pt hi
+N，Sul t ana R，et a1．Resverat r( ) l
+amel i ( 】rat es( ’
+ardi a( ’
+oxi dat i ve
+st ress i n( 1i abet es t hrou曲( 1eace‘ yl at i on( ) f NFkB—p65 and
+hi st one 3[ J j ．J NB，2叭5，26( 11) ：1298一1307
+26 Sun J ，Cai
+J ，Chen J ，et
+a1．Kmppel —l i ke岛( ’
+t ( ) r 6 si l enci ” g prevent s
+oxi dat i ve
+st ress
+and
+neur( 】l ogi cal
+dysmnct i on f ol l owi ng i nt mcercbral
+hemorrh89e vi a si rt ui n 5／Nrf 2／Ho一1 axi s[ J j ．Front
+Agi ” g Neurosci ，
+202l ，13：646729
+( 2022一06一01收稿2022一06—16修回)
+基于HPLC指纹图谱和含量测定的菟丝子药材质量评价研究
+王瑜婷
+汪梅
+何荣荣
+黄醒鹏
+许锦虎
+余欣形
+张正
+( 广东一方制药有限公司广东省中药配方颗粒企业重
+点实验室广东佛山528244)
+摘要
+目的：建立菟丝子药材HPI 。C指纹图谱及绿原酸、隐绿原酸、金丝桃苷、异槲皮苷含量测定方法，并结合化学计量学
+对不同产地菟丝子药材的质量进行全面评价。方法：色谱柱：wat ers
+xsel ect
+Hss T3( 250 mm× 4．6 mm，5¨ m) ；流动相：乙腈一
+0．1％磷酸溶液，梯度洗脱；检测波长：360 nm；柱温：30℃；体积流量：1．O ml · mi n～。采用相似度评价、聚类分析( CA) 、主成分
+分析( PcA) 和正交偏最小二乘判别分析( 0PLS—DA) 对24批菟丝子药材的HPLC指纹图谱进行研究，并同时测定绿原酸、隐绿
+原酸、金丝桃苷、异槲皮苷的含量，、结果：建立了菟丝子药材HPLC指纹图谱，24批菟丝子药材的相似度均大于0．9，CA和
+PCA均将24批菟丝子药材聚为5类，0PLS—DA将样品分为4类，分别对应4个不同的产地，并筛选出3个vI P值大于1的差
+异性成分：内蒙古产地的两个酚酸类成分和两个黄酮类成分含量均值均最高。结论：该方法能有效地分析不同产地菟丝子药
+材质量的差异性．可为菟丝子药材的质量评价提供参考．．
+关键词
+菟丝子；高效液相色谱指纹图谱；含量测定；化学计量学；酚酸类；黄酮类
+中图分类号：TQ460．7+2文献标识码：A
+文章编号：1008一049x( 2022) 10—1723一06
+DoI ：10．19962／i ．cnki ．i ssnl 008—049X．2022．10．006
+St udy on Qual i t y EVal uat i on of Cuscut ae Semen Based on HPLC Fi ngerpri nt s and Cont ent Det ermi nat i on
+Wang YuLi ng，Wang Mei ，He Rongrong，Huang Xi ngpeng，Xu J j nhu，Yu Xi nLong，Zhang Zheng( Guangdong Yi
+Fang Pharf naceuLj cal
+Co Lt d，Cuang( 1( mg PI ’
+ovi nci al
+Key Laborat ory f br Tradi t i onal
+Chi nese Me( 1i ci ne Formul a Cranul es，Cuangdong Foshan 528244，Chi na)
+ABSTRACT
+obj ect i Ve：To est abl i sh t he HPT．C伟rI gerprj nt s
+and t he corI t ent det errnj nat i o rI met hod f br chl orogeni c aci d，crypt ochl o—
+rogeni c aci d，hyperosi de and i soqueI ℃i t ri n of Cuscut ae Semen，and eval uat e t he qual i t y of Cuscut ae Semen f rom di f f brent produci ng
+are一
+基金项目：广东省省级利．技计划项目( 编号：20l 88030323004)
+通信作者：张正
+’ rel ：l 7727303709
+E—mai l ：524928277@qq．com
+万方数据

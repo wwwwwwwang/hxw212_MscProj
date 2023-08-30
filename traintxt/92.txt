@@ -1,0 +1,508 @@
+·基础研究·
+人参皂苷 Rg1对阿尔茨海默病大鼠
+模型脑片神经元自噬小体相关蛋白
+表达的影响
+贾健1,2 张怡1,3 权乾坤1 李玺1
+1西安交通大学第二附属医院老年病科 710000;
+2 宝鸡市中心医院康复医学科 721008;
+3咸阳市中心医院老年病科 712000
+通信作者:李玺,Email:
+lixi2100@163.com
+【摘要】 目的 探讨人参皂苷 Rg1对阿尔茨海默病(AD)大鼠模型脑片神经元自噬小体相关蛋
+白表达的影响及其分子机制。 方法 选取6周龄 SD 大鼠断头取脑制备海马脑片,将海马脑片随
+机分为空 白 对 照 组、模 型 组 及 低、中、高 浓 度 Rg1 组,每 组 10 张 脑 片。模 型 组 人 工 脑 脊 液 中 加 入
+Aβ1-42(终浓度5μmol/L)处理2h造模,低、中、高浓度 Rg1组加入 Aβ1-42(终浓度5μmol/L)作用2h
+造模后分别加入 Rg1致终浓度分别为60μmol/L、120μmol/L、240μmol/L 作用3h;空白对照组不
+给予任何干预药物。干预结束后采用苏木精-伊红(HE)染色观察各组海马脑片病理学改变情况;采
+用透射电镜检测各组海马脑片自噬小体情况;采用 Westernblot检测各组 脑 片 自 噬 相 关 蛋 白 P62、
+LC3-Ⅱ/LC3-Ⅰ表达水平以及 Aβ1-42和 Shank蛋白表达水平。 结果 HE 染色结果显示,模型组海
+马神经元排列紊乱,存在神经元死亡和缺失,Rg1各组海马神经元排列及缺失情况较模型组改善,以
+高浓度 Rg1组改善最明显;透射电镜结果显示,模型组脑片自噬小体较空白对照组明显增多,Rg1各
+组脑片中自噬小体均较模型组减少。蛋白质印迹结果显示,与空白对照组比较,模型组脑片 Shank1、
+P62和 LC3-Ⅰ蛋白水平减少(均 P<0.05),Aβ1-42、LC3-Ⅱ蛋白水平升高(均 P<0.05);与模型组比
+较,各 Rg1组脑片Shank1、P62和 LC3-Ⅰ蛋白表达水平均升高(均P<0.05)、Aβ1-42、LC3-Ⅱ蛋白水平
+均降低(均 P<0.05),其中以高浓度 Rg1组最明显。 结论 人参皂苷 Rg1可能通过上调 AD 大鼠
+模型海马脑片 Shank1、P62、LC3-Ⅰ蛋白表达,抑制自噬作用,发挥大脑神经元的保护作用。
+【关键词】 阿尔茨海默病; 人参皂苷类; 自噬
+基金项目:陕西省自然科学基金(2017JQ8039)
+DOI:10.3760/cma.j.issn.0254-9026.2022.01.015
+EffectsofginsenosideRg1ontheexpressionofneuronalautophagosome-relatedproteinsinbrainslicesof
+aratmodelofAlzheimer􀆳sdisease
+JiaJian
+1,2 ,ZhangYi
+1,3 ,QuanQiankun
+1 ,LiXi
+1
+1Departmentof Geriatrics,theSecond Affiliated Hospitalof Xi􀆳an Jiaotong University,Xi􀆳an
+710000,China;
+2Departmentof Rehabilitation Medicine,BaojiCentral Hospital,Baoji721008,
+China;
+3DepartmentofGeriatrics,XianyangCentralHospital,Xianyang712000,China
+Correspondingauthor:LiXi,Email:
+lixi2100@163.com
+【Abstract】 Objective ToexploretheeffectsandmolecularmechanismsofginsenosideRg1on
+theexpressionofneuronalautophagosome-relatedproteinsinaratmodelofAlzheimer􀆳sdisease(AD)
+.
+ Methods Six-week-oldSDratsweredecapitatedtopreparehippocampalbrainslices.Theslices
+wererandomlydividedintotheblankcontrolgroup,themodelgroup,thelow-concentration,medium-
+concentrationandhigh-concentrationRg1groups,with10ineachgroup.Inthe modelgroup,Aβ1-42
+(finalconcentration:5 μmol/L)was addedinto an artificialcerebrospinalfluid(CSF)for 2 h
+treatment.Thelow-concentration,medium-concentration and high-concentration Rg1 groups were
+treatedwith Aβ1-42 (finalconcentration:5 μmol/L)for 2 h,and then treated with Rg1 (final
+concentrations:60μmol/L,120μmol/L,240μmol/L,respectively)for3h.Theblankcontrolgroup
+wasnotgivenanyinterventiondrugs.Attheendofintervention,histologicalchangesofhippocampal
+brainslicesineachgroup wereexaminedviahematoxylin-eosin(HE)staining.Autophagosomesin
+hippocampalbrainslicesofeachgroup weredetectedusingtransmissionelectron microscopy.The
+expressionlevelsofautophagy-relatedproteins(P62,LC3-Ⅱ/LC3-Ⅰ ),Aβ1-42andshank proteinin
+1
+7
+中华老年医学杂志2022年1月第41卷第1期 ChinJGeriatr,January2022,Vol.41,No.1
+hippocampalbrainslicesofeachgroupweredetectedwithWesternblot. Results TheresultsofHE
+stainingshowedthatthearrangementofhippocampalneuronsweredisorderedinthe modelgroup,
+withdeathanddepletionofneurons.Thearrangementanddepletionofhippocampalneuronsineach
+Rg1groupwerelessseverecomparedwiththemodelgroup,withmostsignificantimprovementseenin
+thehigh-concentrationRg1group.Theresultsoftransmissionelectron microscopyshowedthatthe
+numberofautophagosomesinbrainslicesinthemodelgroupwassignificantlyhigherthanthatinthe
+blankcontrolgroup,whileeach Rg1grouphadfewerautophagosomesthanthe modelgroup.The
+resultsofWesternblotshowedthat,comparedwiththeblankcontrolgroup,
+levelsofShank1,P62and
+LC3-Ⅰ proteinsinbrainslicesweredecreased(allP<0.05),whilelevelsofAβ1-42andLC3-Ⅱ protein
+weresignificantlyincreased(allP<0.05)inthemodelgroup.Comparedwiththemodelgroup,levels
+ofShank1,P62andLC3-Ⅰ proteinsinbrainsliceswereincreased(allP<0.05),whilelevelsofAβ1-42
+andLC3-Ⅱ protein weredecreased(P <0.05)ineach Rg1 group.Thesechanges werethe most
+significantin the high-concentration Rg1 group.  Conclusions Ginsenoside Rg1 may inhibit
+autophagybyup-regulatingtheexpressionofShank1,P62andLC3-Ⅰ proteinsinhippocampalbrain
+slicesofratsintheAD model,thusplayingprotectiverolesinbrainneurons.
+【Keywords】 Alzheimerdisease; Ginsenosides; Autophagy
+FundProgram:NaturalScienceFoundationofShaanxi(2017JQ8039)
+DOI:10.3760/cma.j.issn.0254-9026.2022.01.015
+  阿尔茨海默病(AD)的特征性病理改变主要包
+括 β淀粉样蛋白(Aβ)沉积形成的老年斑、神经元
+纤维缠结以及大量神经元缺失等[1-2]。自噬又称为
+Ⅱ型程序性细胞死亡,是真核细胞为了维持细胞内
+环境稳定的一种正常生理活动[3-4]。研究表明,当
+AD 发生时大脑神经元会出现自噬,适当抑制自噬
+可以有效改善 AD 症状[5-6]。人参的有效成分为人
+参皂苷,其中 Rg1是在 AD 治疗领域研究最多的
+和最具代表性的成分之一。研究证实,Rg1对 AD
+具有多重神经保护作用,如提高 AD 动物模型的学
+习记 忆 能 力[7]、减 轻 氧 化 应 激[8]、抑 制 神 经 元 凋
+亡[9]等,但自噬机制少见报道。本研究旨在观察人
+参皂苷 Rg1对 AD 大鼠模型海马脑片神经元自噬
+小体与相关蛋白表达的影响,进一步证实 Rg1抗
+痴呆的大脑神经保护作用机制。
+材料和方法
+一、材料
+6周龄SPF 级 SD 大鼠30只,体重120~150
+g,雌雄各半,购自西安交通大 学医学部实验动物
+中心[许可证号:SYXK(陕)2016-003]。本实验经
+过 西 安 交 通 大 学 医 学 部 伦 理 委 员 会 批 准 同 意
+(2017-436)。Aβ1-42试剂购自美国 Sigma公司;人
+参皂苷 Rg1(纯度>98%)购自上海逊希生物科技
+有限公司;兔抗大鼠 Aβ1-42、Shank1多克隆抗体购
+自上海逊希生物科技有限公司;兔抗大鼠 LC3-Ⅰ、
+LC3-Ⅱ、P62多克隆抗体以 及 甘 油 醛-3-磷 酸 脱 氢
+酶(GAPDH)抗体购自艾博抗中国分公司;羊抗兔
+IgG-辣根过氧化物酶(HRP)购自美国 Thermo公
+司。震荡切片机(德国 Leica,型号 VT1200),冰冻
+切片机(德国 Leica,型号 CM3050S),透射电镜(东
+莞协美电子有限公司,型号JCM-7000),蛋白电泳
+仪 (北 京 六 一 生 物 科 技 有 限 公 司,型 号 DYCZ-
+24DH),转膜仪(北京六一生物 科技有限公司,型
+号 DYCZ-40G),凝胶成像系统(美国 Bio-Rad,型
+号 FelDocXR)。
+二、方法
+1. 脑片制备:SD 大鼠适应性喂养1周后,用
+10%水合氯醛麻醉,然后切开大鼠头皮,暴露头骨,
+迅速断头取脑,将脑组织置于0~4℃的人工脑脊
+液中,冷 却 后 使 用 震 荡 切 片 机 行 冠 状 切 片 (含 海
+马),厚度为400μm。挑选形态较好的海马脑片,
+随机分为空白对照组、模型组及低、中、高浓度 Rg1
+组,每组10张脑片。将脑片分别置于含有人工脑
+脊液的六孔板中孵育备用,全程37℃恒温,持续通
+入95% 氧气。
+2.AD 模型制备及药物干预:参照文献[10]中
+AD 模型大鼠脑片方法,提前将 Aβ1-42溶解于双蒸
+水中配置成50μmol/L 的母液,置于37℃温箱中
+老化4d备用。模型组人工 脑 脊 液 中 加 入 Aβ1-42
+(终浓度5μmol/L)作用2h;低、中、高浓度 Rg1组
+人工脑脊液中加入 Aβ1-42(终浓度5μmol/L)作用
+2h后分别加入人参皂苷 Rg1致终浓度分别为60
+μmol/L、120μmol/L、240μmol/L 作用3h;空白
+对照组不加任何干预药物。上述干预过程在32℃
+恒温水浴箱中进行,全程通入95%氧气。
+3. 苏木精-伊红(HE)染色:干预结束后,每组
+取2 张 脑 片 分 别 转 至 4% 多 聚 甲 醛 溶 液 中 固 定
+3h,然后转至30%蔗糖溶液中在4℃冰箱中脱水
+12h,接下来将脑片用聚乙二醇和聚乙烯醇的水溶
+2
+7
+中华老年医学杂志2022年1月第41卷第1期 ChinJGeriatr,January2022,Vol.41,No.1
+性混合物(OCT)包埋剂包埋后行冰冻切片观察。
+每组对冰冻切片进行常 规 HE 染色,具体操作如
+下:分 别 浸 泡 至 无 水 乙 醇、95% 乙 醇、85% 乙 醇、
+70%乙醇中水化,磷酸缓冲液(PBS)清洗后添加苏
+木精染色3min,水洗60s,接着滴加1%盐酸乙醇
+反应3s,再添加促蓝液反蓝10s,流水冲洗30s,
+然后伊红复染2 min,再梯度酒精脱水,用二甲苯
+制透明,最后密封。
+4. 透射电镜检测各组脑片中自噬小体变化:
+每组取2张脑片,胰蛋白酶预处理使之成为单层细
+胞,使用 PBS冲洗3遍,转移至移液管中以1600
+×g的离心力离心30min(离心半径为15cm),吸
+弃上清液得到细胞团,加入3%的戊二醛,置于4℃
+冰箱内固定4h,1%锇酸固定2h,4℃冰箱过夜。
+不同浓度酒精依次梯度脱水,无水丙酮和环氧树脂
+渗透、包埋,烘箱内烘烤固化,超薄切片机切片,3%
+醋酸铀-枸橼酸铅双染色后进行电镜观察。
+5. 蛋白印迹:每 组取 6 张脑片用 于 Western
+blot实验。参照全蛋白提取试剂盒说明书提取总
+蛋白,测定蛋白浓度后水浴变性,制备10%聚丙烯
+酰胺凝胶进行蛋白电泳分离,然后将蛋白电转至聚
+偏氟乙烯膜上。使用5%的脱脂奶粉在37 ℃的条
+件下进行抗体封闭2h,然后加入兔抗大鼠多克隆
+Aβ1-42抗体(1∶500)、Shank1抗体(1∶1000)、LC3-
+Ⅰ(1∶1000)、LC3-Ⅱ抗体(1∶500)4℃孵育过夜。
+再加入羊抗兔辣根过氧化物酶标记二抗(1∶5000)
+37℃孵育45min,TBST 再次洗涤后显色液显色,
+上凝 胶 成 像 系 统 显 示 蛋 白 条 带,采 用 Quantity
+One软件分析目标条带的 光密度值,计算各蛋白
+相对表达量。
+三、统计学方法
+采用SPSS22.0 统 计 软 件 对 数 据 进 行 分 析。
+数据以􀭺
+x±s 表 示,组 间 比 较 采 用 单 因 素 方 差 分
+析,组间两两比较采用 LSD-t 检验;P<0.05为差
+异有统计学意义。
+结  果
+一、各组大鼠脑片病理学观察
+HE染色结果显示,空白对照组海马脑片神经
+元排列紧密整齐,细胞核完整且趋于圆形;模型组
+神经元排列散乱,伴有神经元缺失,部分神经元出
+现萎缩或形状不规则,甚至细胞核固缩;Rg1组海
+马神经元病理学改变较模型组明显改善,神经元排
+列较整齐,神经元死亡减少,胞体饱满,其中中浓度
+和高浓度 Rg1组最明显。见图1~5。
+二、各组大鼠脑片中自噬小体情况
+透射电镜结果显示,空白对照组大鼠脑片中仅
+有少量的自噬小体;模型组自噬小体较对照组明显
+增加;Rg1 各组自噬小体数量均较模型组显著减
+少,以高浓度 Rg1组最明显,中浓度 Rg1组其次。
+见图6~10。
+三、各组大鼠脑片 Shank1、Aβ1-42蛋白及自噬
+相关蛋白表达情况
+蛋白印迹结果显示,各组 Shank1、Aβ1-42蛋白
+表达的比较,差异均有统计学意义(均 P<0.05);
+与空白对照组比较,模型组大鼠 Shank1蛋白水平
+明降低,Aβ1-42蛋白水平明显升高(均P<0.05);与
+模型组比较,Rg1各组 Shank1蛋白水平均明显升
+高,Aβ1-42蛋白水平均明显降低(均P<0.05),其中
+以高 浓 度 Rg1 组 Shank1 蛋 白 水 平 升 高 最 明 显,
+Aβ1-42蛋白水平降低最明显,中浓度 Rg1 组次之;
+见表1。
+各组 P62、LC3-Ⅰ及 LC3-Ⅱ蛋白表达的比较,
+差异均有统计学意义(均P<0.05);与空白对照组
+图1~5 分别为空白对照组、模型组、低浓度 Rg1组、中浓度 Rg1组、高浓度 Rg1组大鼠海马脑片病理学观察 HE染色 ×200 
+图6~10 分别为空白对照组、模型组、低浓度 Rg1组、中浓度 Rg1组、高浓度 Rg1组大鼠脑片中海马区自噬小体情况 透射电镜 ×
+20000
+3
+7
+中华老年医学杂志2022年1月第41卷第1期 ChinJGeriatr,January2022,Vol.41,No.1
+表1 各组大鼠脑片 Shank1、Aβ1-42蛋白及自噬相关蛋白表达情况(􀭺
+x±s)
+组别
+鼠数
+Aβ1-42
+Shank1
+P62
+LC3-Ⅰ
+LC3-Ⅱ
+空白对照组
+6
+0.45±0.12
+1.02±0.21
+0.98±0.12
+1.01±0.14
+0.50±0.08
+模型组
+6
+0.79±0.14a
+0.20±0.07a
+0.21±0.04a
+0.40±0.08a
+0.98±0.12a
+低浓度 Rg1组
+6
+0.60±0.10b
+0.37±0.09
+0.37±0.09b
+0.57±0.09b
+0.81±0.07b
+中浓度 Rg1组
+6
+0.52±0.09b
+0.69±0.15bc
+0.54±0.10bc
+0.78±0.11bc
+0.70±0.06bc
+高浓度 Rg1组
+6
+0.41±0.08bc
+0.81±0.19bc
+0.76±0.11bcd
+0.86±0.12bc
+0.61±0.05b
+F 值
+11.605
+28.514
+60.825
+28.728
+32.217
+P 值
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+注:Aβ1-42:β淀粉样蛋白1-42,Shank1:骨架蛋白Shank1,P62:肿瘤相关抗原 P62,LC3-Ⅰ:自噬蛋白微管相关蛋白1轻链3Ⅰ型,LC3-
+Ⅱ:自噬蛋白微管相关蛋白1轻链3Ⅱ型;与空白对照组比较,
+aP<0.05;与模型组比较,
+bP<0.05;与低浓度 Rg1组比较,
+cP<0.05;与中
+浓度 Rg1比较,
+dP<0.05
+比较,模型组海马脑片 P62蛋白和 LC3-Ⅰ蛋白水
+平均 明 显 降 低,LC3-Ⅱ 蛋 白 水 平 升 高 (均 P <
+0.05);与模型组比 较,低、中、高 浓度 Rg1 组 P62
+和 LC3-Ⅰ蛋白表达水平均升高,LC3-Ⅱ蛋白表达
+水平降低(均 P<0.05),其中高浓度 Rg1 组 P62
+和 LC3-Ⅰ蛋白水平升高最明显,LC3-Ⅱ蛋白水平
+降低最明显,中浓度 Rg1组次之;见表1。
+讨  论
+Shank蛋白是突触后蛋白网络的核心部分,在
+神经元 突 触 的 发 育 中 起 重 要 作 用。正 常 情 况 下
+Shank1蛋白集中在突触后致密区的深部,以维持
+神经元正常兴奋活化的功能。当神经元受到损伤
+后,神经元Shank1表达减少,导致神经元-突触或
+突触丢失[11]。Aβ是由淀粉样前体蛋白(APP)经
+β-和γ-分泌酶的蛋白水解作用而产生的多肽[12-13],
+目前认为其是 AD 核心病理产物。Pham 等[14]的
+研究显示,在 AD 患者及 APP 转基因小鼠脑内突
+触后蛋白 Shank1 和 Shank3 表达下降,认为这两
+种蛋白表达下降与 AD 认知障碍有关,故 Shank1
+蛋白表达水平的改变可能与 AD 的认知功能障碍
+相关。本研究使用 Aβ处理大鼠海马脑片后海马
+Shank1蛋白水平明显降低,同时可以导致神经元
+病理学损害,如神经元缺失、神经元萎缩或核固缩
+等,使用 Rg1干预后海马Shank1蛋白水平明显增
+加,海马神经元病理学损害得到改善,表明 Rg1可
+能通过上调Shank1蛋白表达发挥对 AD 的神经保
+护作用。
+神经元凋亡与自噬关系密切[15]。在脑内正常
+的自噬可以清除细胞内损伤的蛋白和失去功能的
+细胞,但过度自噬会导致神经细胞凋亡,影响神经
+功能[16]。研究表明,抑制过度自噬对 AD 具有神
+经保护作用[17]。P62 是一 种泛素结合蛋白,是调
+控自噬的重要蛋白之一,P62含量越高细胞内自噬
+水 平 越 低,其 含 量 间 接 反 映 自 噬 小 体 的 清 除 水
+平[18]。除了 P62外,LC3也可以很好地反应细胞
+的自噬情况。当自噬发生后,LC3的数量增高,同
+时,LC3-Ⅰ向 LC3-Ⅱ的转化增多[19],因此,LC3-Ⅱ
+的水平与自噬体的数量成正比。本研究结果显示,
+用 Aβ处理大鼠海马脑片可以导致自噬小体明显
+增加,P62及 LC3-Ⅰ表达减少、LC3-Ⅱ表达增加,
+提示 Aβ可以通过抑制 P62 表达,促进 LC3-Ⅰ 向
+LC3-Ⅱ转化,诱导神经元自 噬。本 研 究 使 用 Rg1
+干预后自噬小体减少,P62、LC3-Ⅰ表达增加,LC3-
+Ⅱ表达减少,提示 Rg1可通过上调 P62表达、抑制
+LC3-Ⅰ向 LC3-Ⅱ 转 化,抑 制 神 经 元 自 噬,且 Rg1
+上述作用呈浓度依赖性。综上所述,本研究证实人
+参皂苷 Rg1可能通过上调 AD 模型大鼠海马脑片
+Shank1、P62、LC3-Ⅰ蛋白表达,抑制自噬作用,表
+明其抗痴呆的大脑神经元保护作用机制,为人参皂
+苷 Rg1治疗 AD 提供了理论依据。
+利益冲突 所有作者均声明不存在利益冲突
+参 考 文 献
+[1] 黄超,刘威,吕媛,等.阿尔茨海默病流行现状及非药
+物干预 研 究 进 展 [J].中 华 老 年 医 学 杂 志,2020,39
+(1):100-105.DOI:10.3760/cma.j.issn.0254-9026.
+2020.
+01.
+020.
+[2]Loera-Valencia R,Cedazo-Minguez A,Kenigsberg
+PA,et al.Current and emerging avenues for
+Alzheimer􀆳sdiseasedrugtargets[J].JIntern Med,
+2019,286(4):398-437.
+DOI:10.
+1111/joim.
+12959.
+[3]TsakiriEN,GumeniS,Manola MS,etal.Amyloid
+toxicity in a Drosophila Alzheimer􀆳s model is
+amelioratedby autophagy activation[J].Neurobiol
+Aging,2021,105:137-147.DOI: 10.1016/j.
+neurobiolaging.
+[4]郑春燕,刘晓风,孙秀威.自噬基 因 Beclin1在 胰 腺 癌
+中的 研 究 进 展 [J].癌 症 进 展,2018,16(15):1841-
+1844.
+DOI:10.
+11877/j.
+issn.
+1672-1535.
+2018.
+16.
+15.
+07.
+4
+7
+中华老年医学杂志2022年1月第41卷第1期 ChinJGeriatr,January2022,Vol.41,No.1
+[5]夏杰,徐波.运动调节神经细胞自噬改善阿尔茨海默
+病[J].中 国 生 物 化 学 与 分 子 生 物 学 报,2020,7(7):
+748-755.
+DOI:10.
+13865/j.
+cnki.
+cjbmb.
+2020.
+02.
+1502.
+[6]杜亚 云,刘 晓 丽,朱 席 琳,等.胱 硫 醚 β 合 成 酶 通 过
+ATG5巯基化促进 自 噬 缓 解 阿 尔 茨 海 默 病[J].基 础
+医学与临床,2019,39(7):983-988.DOI:CNKI:SUN:
+JCYL.
+0.
+2019-07-012.
+[7]LiN,Liu Y,Li W,et al.A
+UPLC/MS-based
+metabolomicsinvestigationoftheprotectiveeffectof
+ginsenosidesRg1andRg2in micewith Alzheimer􀆳s
+disease[J].JGinsRes,2016,40(1):9-17.DOI:10.
+1016/j.
+jgr.
+2015.
+04.
+006.
+[8]王莹莹,宋修云,王奇,等.人参皂苷 Rg1通过抗氧化
+应激保护冈田酸诱导的 PC12细胞损伤[J].中国药理
+学 通 报,2016,32(10):1364-1370.DOI:10.3969/j.
+issn.
+1001-1978.
+2016.
+10.
+008.
+[9]李源,马欣欣,袁海峰,等.人参皂苷 Rg1对 AD 大鼠
+脑片模型 Bcl-2表达的影响[J].昆明医科大学学报,
+2014,35(8):34-36.DOI:10.3969/j.
+issn.1003-4706.
+2014.
+08.
+009.
+[10]周丽,周军,刘艳平.丹参酮ⅡA 对 Aβ(1-42)处理的体外
+培养海马脑片组织神经元与胶质细胞的影响[J].细
+胞与分子免疫学杂志,2013,29(11):1150-1154.DOI:
+CNKI:SUN:XBFM.
+0.
+2013-11-008.
+[11]LeeSE, Kim
+JA, Chang S.nArgBP2-SAPAP-
+SHANK,thecorepostsynaptictriadassociated with
+psychiatricdisorderss[J].
+ExpMolMed,2018,50(4):
+2-8.
+DOI:10.
+1038/s12276-017-0018-5.
+[12]魏俊,赵范范,商迎辉,等.阿尔茨海默 病 中 β淀 粉 样
+蛋白作用机制的研究进展[J].中国生物制品学杂志,
+2018,31 (8):115-119.DOI:10.13200/j.cnki.
+cjb.
+002269.
+[13]马佳 呈,李 炜,张 丹 参.老 年 痴 呆 症 的 发 病 机 制 研 究
+[J].中国药理学与毒理学杂志,2019,33(6):469-470.
+DOI:CNKI:SUN:YLBS.
+0.
+2019-06-122.
+[14]Pham E,Crews L,Ubhi K,et al.Progressive
+accumulation
+of
+amyloid-beta
+oligomers
+in
+Alzheimer􀆳sdiseaseandinamyloidprecursorprotein
+transgenic
+mice is accompanied
+by selective
+alterationsinsynapticscaffoldproteins[J].FEBSJ,
+2010,277(14):3051-3067.DOI:10.
+1111/j.
+1742-4658.
+2010.
+07719.
+x.
+[15]TeleginaDV,Suvorov GK,Kozhevnikova OS,etal.
+Mechanismsofneuronaldeathinthecerebralcortex
+duringaginganddevelopmentofAlzheimer􀆳sdisease-
+likepathologyinrats[J].
+IntJMolSci,2019,20(22):
+5632.
+DOI:10.
+3390/ijms20225632.
+[16]ZachF,PolzerF,MuellerA,etal.p62/sequestosome
+1deficiencyacceleratesosteoclastogenesisinvitroand
+leadstoPaget􀆳sdisease-likebonephenotypesinmice
+[J].
+JBiolChem,2018,293(24):9530-9541.DOI:10.
+1074/jbc.RA118.
+002449.
+[17]刘晨 阳,白 宽,于 顾 然.梓 醇 对 纤 维 状 Aβ1-42 诱 导 的
+bEnd.
+3细胞凋亡及过度自噬的影响[J].中国实验方
+剂学 杂 志,2017,23(20):116-121.DOI:10.13422/j.
+cnki.
+syfjx.
+2017200108.
+[18]MecoAD,Curtis ME,LaurettiE,etal.Autophagy
+dysfunction in Alzheimer􀆳s disease: mechanistic
+insightsandnewtherapeuticopportunities[J].Bioll
+Psychiatry,2020,87(9):797-807.DOI:10.1016/j.
+biopsych.
+2019.
+05.
+008.
+[19]LiJG,ChuJ,PraticòD.Downregulationofautophagy
+by12/15Lipoxygenaseworsensthephenotypeofan
+Alzheimer􀆳s disease mouse model with plaques,
+tangles,and
+memory impairments [J]. Mol
+Psychiatry,2021,26(2):604-613.DOI:10.1038/
+s41380-018-0268-1.
+(收稿日期:2021-01-12)
+(本文编辑:石婧)
+中华老年医学杂志外籍编委及顾问
+顾  问:KennethRockwood(加拿大) 加拿大达尔豪西大学(DalhousieUniversity)
+编辑委员:AugustusO. Grant(美国)
+美国杜克大学(DukeUniversity)
+BruceLeff(美国)
+美国约翰·霍普金斯大学(JohnsHopkinsUniversity)
+GeorgeKuchel(美国)
+美国康涅狄格大学(UniversityofConneticut)
+Gordon Wilcock(英国)
+英国牛津大学(UniversityofOxford)
+JanetMcElhaney(加拿大)
+加拿大不列颠哥伦比亚大学(UniversityofBritishColumbia)
+Jean Woo(英国)
+中国香港中文大学(ChineseUniversityofHongKong)
+KenMadden(加拿大)
+加拿大不列颠哥伦比亚大学(UniversityofBritishColumbia)
+LeonFlicker(澳大利亚)
+澳大利亚西澳大学(UniversityofWesternAustralia)
+MargotGosney(英国)
+英国雷丁大学(UniversityofReading)
+SandraBlack(加拿大)
+加拿大多伦多大学(UniversityofToronto)
+StephenJ.Evans(美国)
+美国西北大学(NorthwesternUniversity)
+VelandaiSrikanth(澳大利亚) 澳大利亚莫纳什大学(MonashUniversity)
+XiaoweiSong(加拿大)
+加拿大达尔豪西大学(DalhousieUniversity)
+5
+7
+中华老年医学杂志2022年1月第41卷第1期 ChinJGeriatr,January2022,Vol.41,No.1

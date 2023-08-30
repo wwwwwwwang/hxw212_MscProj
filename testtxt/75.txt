@@ -1,0 +1,457 @@
+2011年10月
+第3l 卷第10期
+基础医学与临床
+Basi c&Cl i ni cal
+Medi ci ne
+Oct ober 20I l
+V01．3l
+No．10
+文章编号：1001- 6325 l 2011) 10—1104—06
+研究论文
+人参皂甙调节大鼠自发睡眠脑电结构的机制
+．
+洪芬芳L2，王
+新3，杨树龙h，张大雷1，杨蓓1。吴
+磊1
+( 南昌大学1．基础医学院生理教研室；2医学实验教学部，江西南昌3300嘶；3．南昌市西湖区疾控中心，江西南昌3300略)
+摘要：目的初步探索人参皂甙( Gs) 调节自发睡眠的作用机制。方法大鼠随机分为对照、Gs低和高( 10和
+100 mg／l 【g) 剂量组。在大鼠体内植入无线发射器，术后每日1次灌胃给药，共6 d。第l ( 急性) 和6天( 慢性) 给药
+后记录自由活动大鼠脑电活动12 h。于第l 和6天取下丘脑组织用免疫印迹方法检测GABA．ergi c系统蛋白表达。
+结果GS灌胃给药第l 天，高剂量GS显著增加非快动眼睡眠( NREM) [ ( 8．002± O．427) h椰( 6．363± o．542) h，
+P<O．05] 和总睡眠时间[ ( 9．39r7± 0．313) h懈( 7．548± o．562) h，尸( O．01] ，减少觉醒[ ( 2．463± o．288) h伪( 4．376
+± 0．572) h，P<o．01] ；Gs低和高剂量都增强了下丘脑GABA^受体a、8亚型表达( P<O，05) 。第6天，低、高剂
+量GS均显著提高NREM睡眠[ ( 7．587± o．174) h，( 7．610± O．204) h埘( 6．799± O．302) h，P<0．05] 和总睡眠时
+间[ ( 8．974± O．191) h，( 8．967± o- 249) h埘( 8．008± 0．359) h，P<O．05] ，减少觉醒[ ( 3．130± 0．211) h，( 3．2舛±
+O．330) h伪( 3．984± 0．389) h，P<O．05] ；高剂量GS显著增强下丘脑GAD蛋白表达水平( P<O．05) 。结论cs能
+时间和剂量依赖性地调节大鼠自发睡眠结构，其急性作用可能与下丘脑增加的GABA．受体d、B亚型蛋白表达有
+关，而慢性作用可能涉及经由上调GAD表达水平增加GABA产量。
+关键词：人参皂甙；快动眼睡眠；非快动眼睡眠；脑电图；GABA。受体
+中图分类号：R 338．63
+文献标志码：A
+】Ⅵechani sms undedi e gi nsenosi des regul at i ng spont aneous sl eep
+archi t ect ure i n rat s
+HONG Fbn．f an91” ，WANG Xi n3，YANG Shu．10r191．，ZHANG Da—l ei l ，YANG Bei l ，WU Lei ‘
+( 1．Dept ．of PI I ysi ol 0帮0f B勰i c Medi cal Coue萨；2．Dept ．0f E葺咖rl tal 1‰hi 甥，Na玳h鹕Ul l i v∞i 哆。Na眦IIaIIg 33∞06；
+3．Di 嘲∞C∞hDl ceH蛔0f) 【i hu Di s乜i cl ，N柚ch甜19 330003，CI I i M)
+Abs咖ct ：obj ∞吐他To stIl dy tl l e underl i ng mechaI l i sm0f
+tl l e df ect of gi n∞n08i des( GS) on spont 锄eous sl eep．
+M劬ods
+Aduh SD rat s were砌dornl y di 、ri ded i 咖tl Ie c咖t rol ，GS 10 mg／kg( 10w do∞) and 100 mg／kg( h诎
+d0∞) groups．R砒s were i 璐t nl I 舱nt ed wi t l l sl eep—wake recordi ng eIectr_讨姻．胁recovery hDmsu哂cal 叩emt i on，
+mt s we陀。讪y admi ni ste捌Gs 10Ⅱ∥ kg柚d 100 rng／kg or wat er once per day f or 6 days．on Gs admi ni st rat i 仰
+day l 觚d day 6，Pol y鲫phi c 8i 印s of undi 咖舭d sl eep- wake act i “ t i es we他recorded f or 12 h( 07：30—19：30)
+a能r Gs admi ni stI嘶∞．R唧l ts
+On Gs admi ni 8h州叩day l ( ∽ut e) ，l O mg／kg Gs sl i gI l dy( P>0．05) but
+100 m班g Gs si gIl i 6c卸Ⅱy( P<0．05) i ncre黜d tl l e non- rapi d eye movement ( NREM) 肌d t刈sl e印锄d de-
+cre鹪ed wakef ul ness；comp眦d wi t I I
+connl ；0l ，bot l l l owand hi gh do∞GS f hi l ed t o ch粕ge tIl e l eveJ of gl u枷c∞i d
+收稿日期：20l O—12—27
+修回日期：201l —04一傩
+基金项目：江西省教育厅科研基金( 加傩GJ J 09038) ；南昌大学引进博士科研启动基金( 300304)
+’ 通信作者l ∞m瞎p蚰di 雌舢胁啊)：sl 坤n叫．edu．cn
+万方数据
+洪芬芳人参皂甙调节大鼠自发睡眠脑电结构的机制
+l 105
+decarboxyl a∞( GAD) ( P>0．05) but enh锄ced t he expressi o璐0f GABA^recept or a，B not 1 sI I buni t s i n mt hy-
+pothal 砌us( P<0．05) ．Fol l owi ng 6 days admi ni st rat i on( chmni c) ，bot h l O and l oo mg／kg GS i ncrea即d marked—
+l y NREM觚d t dt al sl eep and dec掀啪d wal ( eful n伪s．Acc砌i ngl y，l ow do盹Gs sl i ghⅡy( P>0．05) but hi g}l
+do∞
+GS si grI i f i c粕dy( P<O．05) i ncre暑眦d t he l evel of GADi n rat hypotl l al 硼us，where鹪tIl e expressi o璐of GABA^睁
+cept or a，B锄d- y 8ubuni t s we陀not a能ct ed( P>O．05) ．CondI I si o璐
+，nl e∞pri mary麟ul ts suggest
+t I l at GS c蚰
+regLI l at e spont aneous sl ∞p archi t ect ure i n t i me粕d do舱· dependent m肌er i n whi ch∞ut e( 羚t reat ment
+i s rel at ed
+t o i t s up—regI l l at i I l g GABA^” ecept or Q，p subt ) 1砖s whe佗鹅chroni c GS admi ni st mt i on i nvol ved i n tl l e mi sed GABA
+product produced by i t 8 oVe卜expre8si ng GADi n mt hyl ) otIl aknus．
+Key肿rds：gi n髓删i d∞；mpi d eye啪vement sl eep；n帅mpi d eye mov啪ent 8l e印；el ecn优ncephal o卯啪；GABA^rec印t 叫
+人参( Pana) 【百n∞ng C．A．Meyer) 被东方各国
+广泛应用于治疗临床疾病、保护新生神经细胞和改
+善身心健康¨ 以J 。人参根皂苷( 100 mg／kg) 可改善
+电激痉挛所致小鼠戊巴比妥钠诱发的睡眠[ 3] 。相
+反，中药制剂醒神胶囊( 茶叶、人参等) 可延长戊巴
+比妥钠催眠潜伏时间、缩短其睡眠时间HJ 。因此有
+必要进一步评估人参调节睡眠结构的作用及其机
+制。研究证明基底前脑和视前区的一些神经元睡眠
+时比觉醒时放电率更高，^y一氨基丁酸( gamma—ami —
+nobut yTi c Aci d，GABA) 是这些神经元主要抑制性神
+经递质” J 。而来自基底前脑和视前区的GABA能
+神经元也投射到下丘脑后外侧【6J 。目前人参对睡
+眠的影响与GABA．e晒c系统之间的关系鲜有报
+道【7J ，有关机制尚未完全清楚。本文对下丘脑内
+GABA．ergj c系统在人参调节睡眠觉醒中的作用机
+制进行了初步探索。
+1材料与方法
+1．1试剂
+人参皂甙( Gi n鸵n鸺i d∞，Gs) ( 韩国国立忠北大
+学药理毒理研究室吴教授惠赐) ，为人参根皂苷粉
+剂，Gs含量为95％以上。兔抗GABA．Ql 受体、兔
+抗GABA．Bl 多克隆抗体、山羊抗GABA．受体巾
+多克隆抗体和抗谷氨酸脱羧酶( gl ut 锄i c aci d dec小
+boxyl ase，GAD) 抗体，以及羊抗兔I gG、驴抗山羊I gG
+抗体( Sant a Cmz Bi ot echnol o舒公司) 。
+1．2动物和手术
+清洁级sD大鼠体质量250一350 g，36只，雌雄
+各半[ 南昌大学医学实验动物中心，编号：ScxK
+( 赣) 2008舢1] 。单独饲养，活动不受限制，自由
+摄食饮水。所有大鼠均置于12 h／12 h明暗( 光照
+07：00～19：00) 通风环境中，室温( 22± 2) ℃。经过
+3 d驯化期，给大鼠腹腔注射戊巴比妥钠( 50 mg／kg
+) 麻醉后，将头部固定于立体定位仪上，暴露颅骨，
+双氧水清洁颅骨表面。将一个无线发射器植入皮下
+偏离中线肩胛骨后面，发射器导联经皮下走行，其裸
+露的终端通过头骨孔，按Pa) 【i nos和Wat s加大鼠立
+体定位图谱安放在硬脑膜接触处( A：2．O[ 前囟] ，
+L：1．5；P：7．o[ 前囟] ，L：1．5对侧) ，该电极以牙科
+水泥固定于颅骨上。如文献[ 8] 所述，发射器通过
+遥感勘测记录脑电活动。
+1．3实验分组和GS给药
+按随机方法将大鼠分为对照组、GS低剂量
+( 10 mg／kg) 和高剂量( 100叫kg) ，每组12只( 其
+中8只用于脑电EEG记录，4只用于免疫印迹分
+析) 。手术恢复l 周后，以蒸馏水稀释Gs成适当浓
+度，灌胃给药，每日1次，连续6日，对照组以同样方
+式给予等量蒸馏水。
+1．4数据采集
+在给药第1天( 急性) 和第6天( 慢性) 分别记
+录自由活动大鼠睡眠觉醒脑电活动12 h。皮质脑电
+遥测和活动记录按照以前报道方法¨ 】。脑波信号
+检测时，信号发射机增益定为一0．5／+o．5伏特／单
+位× 2，从发射器产生的原始信号频率范围为0．5～
+20．OHz。这些信号由数据科学模拟转换器进行处
+理并传递给连接在计算机上的一个AD转换器。
+AD转换器在128 Hz将脑电活动信号数字化，数字化
+的数据再传输到电脑以图像的形式显示出来。经
+Ha肌i I l g窗处理后，一种在线快速傅立叶变换( Fou．
+ri er t瑚舶mati on，F丌) 以每2 s内256个样本完成
+对脑电数据加工( 图l A) 。该FFT以0．5 Hz分辨率
+分析产生的功率密度值从0．0到20．0 Hz。FFT数
+万方数据
+1106
+基础医学与临床
+Basi c＆cI i ni cal
+Medi ci ne
+NREM
+REM
+“ “ e
+A
+～棚坩n帆咖州肿渺¨ №～州M妒
+¨ ——帅州p呐H～什洲州—h肌” 柑～椭
+^一^^^聃^^l M．^一Mh．^_^■ M^^W～^h^一^^呻巾一^^^· 一l _蚺
+刊” 小
+A．F丌龟，0 and a wav。；B t he忡pmsent a“ ve EFG paI l Pms nr NREM，REMsJ eep and WakeruI ness
+图I
+Sl 睫psi 印软件分析F兀’
+6、0和d波殛大鼠REM、NREM和觉醒状态脑电特征记录图
+FI g 1
+Fn’
+of 6．O and“
+wave by sl 代psj 印sonwa件a衄l ys拓and a repre辨nt a6ve EEG pat t er嘴or NREM
+REMsI eep and Wak血l ne蟠sIages
+据每l O s为单位往0～20 Hz范围进·
+步平均。每
+10 s睡眠数据和FFr结果保存到计算机硬柱以备进
+一步离线分析
+与遥测接收器有关的动物运动产“ i
+晶体管逻辑脉冲，町以收集来汁数动物活动。
+1．5行为状态分析
+使用睡眠分析软件sl ee一印2．1．从l o s作为时
+间参考标准的特定瞬时的数’
+，化数据· h分析测定
+觉醒、非快动眼睡眠( non
+ra叫d。y9
+mnvPment ．
+NREM) 和怏动眼睡眠( rapi d。yc州- vemPnt ，REM)
+睡眠状态F各f 1所用的时I Ⅻ埘简单来说，该软件
+将觉醒识别为高频低幅脑电罔；NREMI 睡眠是基j -
+脑电慢波内散布梭形波米计分的( 剧l B)
+l { EM睡
+眠脑电功率足低频8波( f ) ．75～4 0 Hz) 明显减少，
+8波( 活动范Ⅲ5．O一9．O I{z，峰ffI：[ 在7．5 m) 则增
+力日。先对NREM、REM和J 总睡眠( NREM+REM) 状
+态所用的时问和睡眠觉醒周期进行处理，以获得每
+只大鼠12 h总量
+n进
+步计算觉醒、NREM和
+REM睡眠状态各f |所10川的时间
+1．6膜蛋白制备和免疫印迹
+cs给药第l 犬( 急性) 和第6灭( 慢性) ，将动
+物深麻醉后( 由乙醚诱导) 断头处死，大脑很快被转
+移到冰冷的盐水巾，述取F丘脑组织进行于冰冷冻
+j { ：储存在一80℃冰箱中．鹰用时取冰冻组织样品
+J J 口人PRE胛M蛋[ J 提取液( 1NTRON Bj ol echnol ogy，
+I nc) 匀浆，并在4℃15 000。g离心20 mi n，回收上
+清液。采用牛『0L清F1蛋白作为对照测定总蛋白含量
+用于免疫印迹分析。12％聚阿烯酰胺用r凝胶电泳
+( sDs／page) ，将40斗g膜蛋白上样在各泳道。使用
+半f 转移系统将电泳分离的蛋白质转移到PVDF膜
+( Amersham Hvhond—P，GE HeaJ l hcare，U．K．) j 二，用
+增强的BM化学发光试剂盒进行检测( Roche
+Di ag—
+n吲j cs，Mannhei nl ，Gerr|l any) 。受体检测应用一抗
+有：兔抗( ；ABA．d1受体( 1：l 000稀释f 含o．5％
+Twcen20的PBs) 兔抗cABA，BJ 多克隆抗体
+( 1：l 000) ，⋯ 羊抗GABA。13多克隆抗体
+( 1：l
+0( ) o) ，和抗GAD抗体( 1：l 000) ，辣根过氧化
+物酶：抗：羊抗免I gc( 1：5 000稀释) ，驴抗⋯ t I gG
+抗体( 1：3 o( ) o) 。经过洗涤剥离后．膜f t 】．与兔抗
+cAPI ) 11· 抗( 1：l
+ooo) 和羊抗兔I g( ；：抗榆测以确
+认备泳道蚩[ j 质相等。检测到的蚩[ 』条带川吸光度
+灿
+万方数据
+洪芬劳人参皂甙调节人鼠自发睡眠脑电结构的机制
+1107
+扫描进行定世分析，以11的蛋n／f ^J 参照吸光度比值
+f ± 5表示。
+1．7统计学分析
+所有数据值以均数± 标准兹( ，± s) 表示，应用
+sPss 17．O软件分析，，单凼素方簏分析差异娃著性
+后，进行f 检验。
+2结果
+2．1
+Gs对睡眠结构的影响
+Gs灌胃给药第】天，高剂城cs挂箸增加
+NREM睡眠( P( o．05) 和总睡眠时间( P<0 01) ，减
+少觉醒( P<O．01) ( 图2A) ，连续6 d给药后，低、高
+刺链cs均硅蒋提高NREM睡眠( P<O．05) 和总睡
+眠时J hJ ( P<0 05j ，减少觉醒( ，J <O 05) ( 幽2B)
+' t al s【c㈣NRE^I
+REM
+、V“ c
+A
+J “ bi 髓u
+NI 也M
+RFM
+、~以r
+B
+^l } l P erkct s
+tJ f a【ut c GS t 伸a【mPnI · ，n s】f Pp an hl l PrI u rP：
+R【hr
+Pf 卜· l ，．，r‘ h T1j ¨ l t【，S
+l r，d1『T1P『l t n⋯ l I
+P『J
+Hrf hl IPf —
+l ur，：‘ ，’ ( {) f ) 5．‘ ‘ P<( 】0『¨ 朋” aMl w㈨f t "1t ml
+图2
+急性和慢性GS灌胃给药对大鼠睡眠结构的影响
+F碴2
+Ff Tht s 0r acut e and chroni c Gi nsenosi des{ GS)
+admi nj st ra60n on蚰eeD archj t ect I l re i n rab
+( f ± s月=81
+2．2
+Gs急性、慢性给药对下丘脑GAD蛋白表达
+的影响
+’
+』刈则川牛¨ 比，连续给药后第6天，高剂址f ；s
+显著增强下庀脑GAD蛋山表达水平( P<o．05) ( 蚓
+3，表1) 。
+k
+c1
+。m一● - _※ ?，誓蠢l
+l ■ ● ■ ”
+t—w+● ■ ● ■ ● ■ ● ● ——-，j
+生! !
+! ：s1生csl 00
+co兀
+cs】¨ csl f j of m外目
+davl
+dav 0
+^
+A m- l ，a刊㈨f
+f j ^rJ w汕U㈧e n1
+hl oI l l ngⅢ川l 州：
+『l
+f J P¨ ，It¨ 111rl nI
+anal vs¨ ，f“ uI· J rnl 】If' gram shnwl Tl g“ l P
+i nfml I、nfII” I，dnd I ' f ( ；、1) ：。P<0
+05‘
+¨ mrl arf· f1 w11h
+¨ ⅢI HI J
+图3
+Gs急性、亚急性给药对大鼠下丘脑GAD
+蛋白表达的影响
+F堙3
+Expr始si ons of GAD i n raI hypot hal amus
+du—n￡acut e and chroni c GS admj ni st rat i on
+f r± s．H=4}
+Gs急性、亚急性给药对大鼠下丘脑GAD
+蛋白表达的影响
+Expressi ons of ( ；AD i n阳t hypothaI帅us
+du^ng acut e枷1d chroni c GS admi I l i st ra60n
+f f ± j ．月=4)
+zH，“ p
+CS· I 竹l
+rrJ nt m】
+0 376± 0
+14l
+CSl O m∥ b
+O 327± 0 119
+( ，s l 【H) m∥ kE
+0 404± 0
+10I
+【，S dav 6
+( ) 352± O 045
+0 407± 0 055
+( 】503± 0 054
+2．3
+Gs急性、慢性给药对下丘脑GABA．受体表
+达的影响
+‘
+j 对照组椭比，低、高剂址( 羚急性给药，均增
+强大鼠¨ i
+Jj l i i f ；^BA、壁体“ 、B- l E刊表达( J p<
+( J ( J 5) ( 【冬l 4、、B，表2)
+3讨论
+人参提取物t J 『减轻女1殳绝经阿后的睡眠障
+～砷
+一耐
+表
+岫
+a
+万方数据
+1108
+基础医学与临床
+B船i c＆cl i ni cal
+Medi ci ne
+20l 1．3l ( 10)
+A
+‰_． 一_● · __——■ ● ■ I“ k¨
+cArn—● ■ —■ —■ ————■ _mu
+雏
+生竺
+堂! !
+竺! 业曼竺
+壁业
+壁! 12( m班础
+d3yl
+day6
+B
+生婴
+里! !
+墅盥
+生!
+壁! !
+堂! 业( m眺由
+d3y1
+d吖6
+心d3yl
+bs day6
+C
+A，B and C represent re8pec6vel y tIl e e。pressi ons of GABA^al pha，bet a卸d g呷⋯ubuni l s
+i n rat hyI' 0thal 帅u5；
+．，】<O．05 comDared t o con刚
+囤4
+GS急性、亚急性给药对大鼠下丘脑GABA．受体n、B和Y亚基表达的影响
+Fi g 4
+Expressi o咄of GABA^mph．be纽衄d静㈣re。ept0幅i n rat hypoth蚰帅岫duri IIg a衄怔蛐d chr“ l l i c Gs
+a山ni m咖Han( f± J ．n=4)
+表2
+Gs急性、亚急性给药对大鼠下丘脑GABA．受体a、B和Y亚基表达的影响
+TabI e 2 GABA^蚰pha．be协a耐髀删suhuIIi b i n髓t hypomaI枷峭du血g删te柚d chm血GS a岫i l l j stnd帆
+j _± j 。n=4 J
+P‘
+0 05 cmnDared wI 小cont ml
+碍” J ，现已被临床用于治疗失眠症” ⋯ 。本实验表明
+Gs剂量和时间依赖地调节了睡眠结构尤其是非快
+动眼睡眠。上述结果与以前的报道基本一致⋯ 1。
+下丘脑有两个睡眠／觉醒调控相关的重要核团，
+腹外侧视前区( vent rol at eral
+preopt i c area，VLPO) 即
+睡眠中心，组胺结节乳头体核( t ubemm8mmi uary
+nu—
+cl eus，TMN) 即觉醒中心” “ 。VuD将特定的抑制
+性GABA能以及甘丙肽能传出神经投射到TMN即
+组胺能系统兴奋起源部位。VLPl o神经元可能也直
+接诱导NREM睡眠或发送抑制信号到TMN下调觉
+醒神经元。已知人参的作用与GABAAer西c系统有
+关。人参皂甙成分Maj onosj de—R2可在小鼠中逆转
+一Z凸山《n丢‘ 口罩一
+t0—522△*莒i
+—Z口皇01目i_o—
+t￡一目go＆lo
+万方数据
+洪芬芳人参皂甙调节大鼠自发睡眠脑电结构的机制
+l 109
+因社会孤立应激诱导造成的戊巴比妥睡眠减少，此
+作用经GABA。受体复合物的神经甾体位点介
+导【l 31。最近报道发酵人参改进首夜睡眠作用可能
+与其经GABAe嚼c系统调制抗焦虑效应有关¨ J 。亦
+有研究显示，人参皂甙抑制效果并不归属于对
+GABA．受体激活的调节作用¨ 引。本实验在检查
+Gs急性、慢性给药对睡眠结构影响的同时，进一步
+考察了大鼠下丘脑内GAD和GABA。受体a、B和1
+亚基的蛋白表达情况。结果发现，GS急性给药对大
+参考文献：
+[ 1] Ke衄edy D0，Schol ey AB．Gi n咖g：p咖nti al
+f or tl l e
+eI 卜
+l l ancemem0f co印i ti ve叫b㈣∞锄d咖，od[J ]．Phar-
+mcol
+Bi ochemBeh8v，2003，75：687—700．
+[ 2] 段萍，邢孟韬，许燕，等．人参皂苷Rbl 减轻A配5—35
+所致新生神经细胞损伤[ J ] ．基础医学与临床，20l O，
+30：966—970．
+[ 3】倪小虎，于多，孙文虹，等．人参皂苷对电激痉挛所致
+小鼠神经失调的改善作用的研究[ J 】．时珍国医国药，
+20D4，15：257—258．
+[ 4] 邢雅玲，余林中，江爱达，等．醒神胶囊对抗小鼠中枢
+及躯体疲劳的作用初探[ J ] ．中成药，2005，27：44l 一
+443．
+[5]Mu珊o．Rod堍u既E，ATi 鹅．carTi 蚰O，蛳i no-Ro幽gl l 既
+K，d以．M优h蛐i s哪0f sl eep- waI 【e cycl eⅡl odul al i ∞[ J ] ．
+CNS Ne岫l Di 别胁g‰ge协，2009，8：245—253．
+[ 6] Heml y P，J 哪BE．Vesi cIl Iar gl u切I 啮t e( VGl ut ) ，GABA
+( VGAT) ，明d acetyIchol i Il e( VACht) 缸8118p叭∞i II basal
+钿℃brai n虹伽te棚naI$i 朋erv幽ng‰l a妇甜hypo如d8．
+哪[J ]．J 咖Ne啪l ，2006，496：453一蛔．
+[ 7] l ( i t∞l ‘ a K，uchi da KI 01姗dl o N，d以．F锄伽ent ed gi n．
+翻} ng i mpn，ve8
+tl l e 6r骞t· ni gl l l el l ＆t
+i n hu咖8[ J ] ．Sl e叩，
+2009。32：413—421．
+[ 8】s鲫佑一LD，Y8ng L，Ⅱu X，以以．同k协0f 协m，d．咖菇n
+( TI x) i nact i v胡叩of
+tIl e c即nm n眦l e邺0f tIl e鲫ygdal a
+( cNA) 帆dark p硎0d sl eep and硎“ ty[ J ] ．Brai n R∞，
+鼠自然睡眠结构的调节作用可能与下丘脑过度表达
+由a、B而非7亚单位组成的GABA．受体复合物有
+关，但不涉及GAD生成GABA量的改变。而Gs慢
+性给药对大鼠的自然睡眠结构调节作用可能是经由
+上调GAD表达从而增加GABA产量，与下丘脑
+GABA．受体各亚型无关。我们的初步研究为临床
+应用人参等传统中药治疗失眠症等睡眠障碍提供了
+实验理论依据。
+2I) 06。1084：舳一韶．
+[ 9] 胁哪C，l ( aphn B．PI I yl o- Fenl al e C锄pl ex f or me他l i ef 0f
+IIot nmb黯，Il i g}l t swea协柚d qt I al 毋of 8l e叩：珊d∞l i zed，
+咖nDued，doubl e- bhnd pi k咖dy[ J ] ．cyI I e00l
+Endocri -
+nol ，2007，23：117一122．
+[ 10] ) ( i aI I g Yz，sh锄g Hc，G∞XM，矗以A comp鲥螂0f
+I he蚰j i 帅t u辩of g- 哪蛐g i n廿雹Idi ti 伽al cI I i ne∞medi ci 鹏
+Wi t l l mod啪pb棚l a∞l ogi caI既peIi m阴协蛐d cl i I l i cal
+tri -
+且18[ J 】．Pl IytDtl l er R嘲，2∞8。22：85l 一858．
+[11]Rh∞YH，ksP，HondaK，日以．P懈gi n∞唱删
+modul 岫sIe叩i n uII坤蚰．ai l Ied胁[ J ] ．P酚cIIopl mrma-
+col 嘟( Berl ) ，1990，l ol ：486—488．
+[ 12] Fe玎℃S，Di 删nd I，蹦dberg SR，甜以．Ad渊i 眦A2A
+recept o硌i n w删stri a恤m，hypmh缸哪鹏鲫d n∞i cep．
+矗Ve ci rcui t l y i mpl i e860船f 醅d11l g addi e60n，8l eep a|l d
+pai n[ J ] ．Prog Ne岫) bi ol ，20叽，83：332—347．
+[ 13] Nguy帅I l - r，Mal sunl ot o K，Y越啦略aki
+K，．n以．Maj oI l o-
+8i de- I 也D圈陀帅}es s∞i 8l i s蝴佃8扛es8．i nduced dec蚤Base i l l
+pent obarbi t aI
+sl ∞p抽nl i ce：p明si hl e i IIvol 嗍ent 0f 瑚mro-
+剃"咖m池[ J 】．‰sci ，1997，6l ：395—402．
+[ 14] I 七e sH，‰l g Sc，Ph矗J K，露矗．Redu硝朗0f el ect ri ．
+cal l y evoked neuml 删“ 何by gi n∞ng明poI l i n i n mt
+l l i pp．
+oc蛐pal sl i c∞[ J ] ．Bi ol
+PIl a珊BIl l l ，2∞o，23：411—
+414。
+·
+万方数据

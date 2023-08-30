@@ -1,0 +1,588 @@
+第48卷第3期
+2022年3月
+兰州大学学报( 医学版)
+J oumal
+of Lanzhou Uni vers时( Medi cal
+Sci ences)
+Vbl ．48 No．3
+Mar．2022
+文章编号：1000一28 12( 2022) 03—0023—06
+人参皂苷Rd对非家族性高血脂SD大鼠血管
+保护的作用机制
+呼延丽，张秀娟，周
+进，高进贤，朱菊花，董彦富
+甘肃省人民医院药剂科，甘肃兰州730000
+摘要：目的探讨人参皂苷Rd对非家族性高血脂sD大鼠血管保护作用及机制。方法采用全自动生化仪分析、病理学
+观察、实时荧光定量聚合酶链式反应、蛋白免疫印迹、酶联免疫吸附测定分别在生化、组织水平上检测。结果与高脂
+饲料组相比，人参皂苷Rd不同剂量组( 30、35、40、45 mg／蚝) 大鼠血清中胆固醇、甘油三酯、低密度脂蛋白、高密
+度脂蛋白含量下降、动脉粥样硬化指数改善、血管壁厚度降低、血管腔面积改善；人参皂苷Rd不同剂量组血管组织中
+一氧化氮合酶、卵磷脂胆固醇酰基转移酶、胆固醇7一羟化酶mRNA和蛋白表达均显著上调；血清中N0含量增加，而
+血浆内皮素、血管性血友病因子含量明显下降。结论人参皂苷Rd对非家族性高血脂sD大鼠血管具有保护作用，呈剂
+量依赖性。
+关键词：人参皂苷Rd；非家族性；内皮型一氧化氮合酶；卵磷脂胆固醇酰基转移酶；胆固醇7一羟化酶
+中图分类号：R446．1
+文献标识码：A
+doi ：10．13885住i ssn．1000一2812．2022．03．006
+Prot ect i Ve ef f ect of gi nsenosi de Rd on bl ood Vessel s
+of non—f ami l i al hyperl i pi demi a SD rat s
+Huyan Li ，zhang xi u- j uan，zhou J i n，Gao J i n—Xi an，zhu J u—hua，DongYan—f u
+Depart ment of Phamac y，Gansu Provi nci al
+Hospi t al ，Lanzhou 730000，Chi na
+Abst ract ： Obj ect i Ve Tb expl ore t he prot ect i Ve
+ef ．f ect of
+gi nsenosi de Rd
+on SD
+rat s wi t h non—f ami l i al
+hyperl i pi demi a．Met hods Anal yzed t he bi ochemi cal ，t i ssue 1eVel s
+wi t h an aut omat i c bi ochemi cal
+anal yzer，
+pat hol ogi cal
+observat i on，quant i t at i Ve PCR，Ⅵ厂est embl ot t i ng，and ELI SA．Resul t s Compared wi t h t he hi gh-
+f at di et group，t he l eVel s of ch01est erol ，t ri gl yceri des，10w densi t y 1i poprot ei n，hi gh densi t y l i poprot ei n i n t he
+serumof SD rat s i n t he DRU( 30，3 5，40，and 45 mg／kg) groups decreased．At heroscl erosi s i ndex i mproVed，
+bl ood vessel waU t hi ckness decreased，and bl ood vessel
+l umen area i mproVed．Gi nsenosi de Rd enhanced t he
+l evel s of mRNA and prot ei n of endot hel i al ni t ri c oxi de synt hase，l eci t hi n ch01est erol acyl t ransf erase，chol est erol
+7一hydroXyl ase i n a dose—dependent rel at i onshi p，and t he concent rat i on of serumNO i ncreased，whi l e t he l eVel s
+of endot hel i n and Von、Ⅳi l l ebrand f act or si gni ncant l y decreased．Concl usi on Gi nsenosi de Rd has a prot ect i Ve
+ef ．f ect on t he bl ood Vessel s of SD rat s wi t h non- f - ami l i al hyperl i pi demi a i n a dose—dependent manner．
+Keywords：gi nsenosi de Rd；non—f ami l i al ；endot hel i al
+ni t ri c oxi de synt hase；l eci t hi n chol est erol acyl t ransf er-
+ase；chol est erol 7I hydroxyl ase
+随着生活水平的提高和膳食结构的改变，高
+脂血症患者数呈上升趋势” 1。研究” 1表明，高脂血
+症是脂质代谢紊乱导致的血液中胆固醇( t ot al
+chol est erol ，TC) 、甘油三酯( t ri gl yceri de，TG)
+收稿日期：2021一12—30
+基金项目：甘肃省自然科学基金资助项目( 2l J RA626) ；甘肃省人民医院院内科研基金资助项目( 18GssY4—34)
+作者简介：呼延丽，女，主管药师，研究方向为医院药学，emai l ：266325312l @qq．com；
+、
+董彦富，男，副主任药师，研究方向为临床药学，emai l ：393395098@qq．com，通信联系人
+万方数据
+24
+兰州大学学报( 医学版)
+第48卷
+和脂蛋白水平异常升高，分为家族性和非家族性，
+其中非家族性高血脂症与糖尿病及心脑血管病
+等关系密切。脂质代谢过程涉及许多生物活性
+因子，如卵磷脂胆固醇酰基转移酶( 1eci t hi n cho．
+1est erol acvl t ransf erase，LCAT) 、胆固醇7一羟化酶
+( ch01est erol 7．hydroxyl ase，CYP7A1) 、一氧化氮
+( ni tri c oxi de，NO) 等。研究嘲表明LcAT是胆固醇
+代谢的关键酶，在高密度脂蛋白( hi 曲一dens时l i po．
+Drot ei n chol est er01，HDL) 、低密度脂蛋白( 1eci —
+t hi n ch01est erol acvl t ransf erase，LDL) 和TG的胆
+固醇酯化和代谢中起重要作用。cYP7A1能促进
+胆固醇代谢为胆汁酸，其过度表达可以显著降低
+喂食高脂肪饮食仓鼠血清中Tc和LDL—c水平。
+NO主要由血管内皮层的内皮型一氧化氮合酶
+( endot hel i al
+ni t ri c oxi de svnt hase，
+eNOS)
+产生，
+在调节血管张力和血流中发挥重要作用” 。3] 。临床
+上广泛用于非家族性高脂血症的药物主要是他汀
+类与贝特类，由于价格高昂并可引起横纹肌溶解
+等严重不良反应H，，迫切需要更安全、有效的新
+型降血脂药物。人参皂苷Rd是中药人参和三七的
+主要活性单体之一，具有良好的生物活性，有明
+显的心脑血管和神经保护作用，这种作用通过其
+抑制非电压依赖性ca2+通道介导的ca2+内流实
+现弘。6，。而ca2+与调控脂质代谢的许多生物因子密
+切相关，高脂血症会引发Ca2+通道开放，导致钙
+超载，加深胰腺炎，使病情恶化口，。高脂血症相
+关的血管损伤与低水平的NO形成有关，N0通过
+Ca2+调节血管张力实现血管舒张嘲。
+本研究通过对非家族性高脂血症SD大鼠模
+型，测定血脂指标水平，苏木素一伊红染色观察
+主动脉的形态学变化，实时荧光定量聚合酶链反
+应、west embl ot t i ng检测主动脉eNoS、LCAT、
+CYP7A1 mRNA和蛋白表达水平，ELI SA检测血
+管内皮相关因子含量，探讨人参皂苷Rd对血管的
+保护作用，以期为临床治疗非家族性高脂血症提
+供科学依据。
+1
+材料
+SD大鼠购于甘肃省中医药大学动物实验中心
+( SCxK( 甘) 2015．0002) ，经检测分析未患有家
+族性高血脂症病史；人参皂苷Rd标准品购于北京
+坛墨质检科技有限公司( B21054—20 mg) ；sYBR
+Green PCR Ki t 试剂盒( 208054) 、Themo Sci en—
+t i f i c反转录试剂盒购自上海桥星贸易有限公司
+( K1622) ；BCA蛋白定量试剂盒购自上海源叶生
+物科技有限公司( R21250．500T) ；苏木素一伊红
+染色试剂盒购于北京索莱宝科技有限公司
+( G1120) ；LCAT抗体( abl 09417) 、CYP7Al 抗体
+( ab234982) 、eNOs抗体( abl 99956) 、羊抗鼠I gG
+酶标二抗( ab6789) 购于美国Abc啪公司；NO
+( DEC02281) 、血管性血友病因子( FK．ESl 957) 、
+血浆内皮素( QCR0019) ELI SA试剂盒购自上海
+晶抗生物工程有限公司；AB7500型荧光实时荧光
+定量聚合酶链反应购于美国Appl i ed Bi osyst ems公
+司；MK3酶标仪购于美国Themo Fi sher科技公
+司；TAB一120FR型全自动生化分析仪购于日本东
+芝公司。
+2
+方法
+2．1高血脂症模型建立与取材
+将60只雄性SD大鼠随机分为6组( ，z=10) ：
+对照组、高脂饲料组、人参皂苷Rd剂量组
+( DRU30、DRU35、DRU40、DRU45分别代表注
+射人参皂苷Rd 30、35、40、45 mg瓜g剂量组) ，
+其剂量选择依据文献[ 5] 和预实验结果。
+sD大鼠适应性饲养1周后，从第2周开始对
+照组每天使用基础饲料喂养，实验组给予高脂饲
+料喂养( 基础饲料91％、胆固醇2．5％、猪油6％、
+胆盐0．5％) 。从第4周开始干预，人参皂苷Rd剂
+量组：每天分别用30、35、40、45 mg／l 【g的人参
+皂苷Rd溶液灌胃；高脂饲料组每天用相同体积的
+溶剂灌胃，对照组每天用等量的生理盐水灌胃，
+持续4周。3％的戊巴比妥钠溶液( 0．1 mL／100 g)
+经腹腔注射麻醉安乐死大鼠后开胸、采血；剪取
+胸主动脉约2 cm，置于生理盐水EP管内，一80。c
+储存备用。
+2．2血脂指标分析
+取血液2 mL，40C，5 000 r／mi n离心8 mi n，
+利用全自动生化仪测定血清中TC、TG、HDL—C、
+LDL．C的水平，并计算动脉粥样硬化指数( at hero．
+scl erosi s i ndex，AI ) ：
+AT：! 竺二旦里生：曼
+⋯
+HDL．C
+。
+2．3病理学分析
+利用苏木素一伊红染色法分析血管改善情况。
+万方数据
+第3期
+呼延丽，等：人参皂苷Rd对非家族性高血脂sD大鼠血管保护的作用机制
+25
+取sD大鼠部分胸主动脉，用生理盐水洗去余血
+后石蜡包埋、切片苏木素一伊红染色。使用图像
+分析软件系统盲法测量血管壁厚度及管腔面积。
+2．4
+实时荧光聚合酶链反应分析eNoS、LCAT、
+CYP7A1 mRNA表达情况
+取SD大鼠胸主动脉1 cm，按照Tri z01法提取
+总RNA并检测总RNA的浓度与完整性，参照
+Thenl l o Sci ent mc反转录试剂盒说明书，合成
+cDNA。并用SYBR Green PCR Ki t 试剂盒进行实
+时荧光聚合酶链反应，以GAPDH为内参，反应
+条件：95。C 30 s循环1次；95。C 5 s，62。C 30
+s，
+72。C 30 s循环40次；实验设置3个平行复孔，结
+果用2“ ” 法分析计算eNOs、LcAT、cYP7A1的
+表达。引物序列见表l 。
+表1引物序列
+2．5、Vest ern bl ot t i ng法测定eNoS、
+LCAT、
+CYP7A1蛋白表达
+将待检测的主动脉组织用磷酸缓冲液清洗
+3次，3 mi n／次，加入裂解液，提取总蛋白。用
+BCA法测定蛋白浓度并将其所有蛋白调节至统
+一浓度后，总蛋白加入5倍蛋白上样缓冲液后煮
+沸10 mi n，加到5％浓缩胶浓缩，12％分离胶分离
+SDs—PAGE凝胶分离蛋白，转膜2 h( 200 mA) 。转
+印膜封闭1．5 h( 5％脱脂乳) ，洗液清洗转印膜3
+次( 10 mi n／次) ，标记基因对应的一抗( eNOS、
+LCAT、CYP7A1，l 000倍稀释) 室温1．5 h，洗
+液清洗转印膜3次，加入辣根过氧化物酶标记
+的相应二抗( 1 000倍稀释) ，洗液清洗转印膜3
+次，电化学发光法显影并观察条带，通过I mage J
+软件分析条带灰度值。
+2．6血管内皮相关因子检测
+血清中N0、血浆内皮素、血管性血友病因
+子的浓度检测，操作步骤按照ELI SA试剂盒说明
+书进行。根据试剂盒给定的8个标准浓度及所测
+的DD，以标准品浓度作横坐标，0D作纵坐标绘
+制标准曲线，根据标准曲线计算出各个待测样本
+的血清浓度。
+2．7统计学分析
+采用SPSs 21．0软件进行统计学分析，计量资
+料采用平均值土标准差( i 士s) 表示，多组间比较
+用单因素方差分析，组间两两比较采用LsD．壤莹，
+以P<0．05表示差异有统计学意义。
+3
+结果
+3．1血脂指标分析
+由表2可知，与对照组比较，高脂饲料组Tc、
+TG、LDL．C、HDL．C含量均增加( P<O．05) ；与
+高脂饲料组相比较，随着人参皂苷Rd剂量的增
+加，人参皂苷Rd剂量组血清中TC、TG、LDL．
+c、HDL—c含量降低( P<o．05) 。与对照组比较，
+高脂饲料组AI 显著升高；与高脂饲料组比较，随
+着人参皂苷Rd剂量的增加，人参皂苷Rd剂量组
+AI 逐渐下降，DRU45组可使AI 降低至4．72。
+表2人参皂苷Rd对非家族性高血脂大鼠血脂指标变化的影响
+mm01／L
+与对照组比较，a
+P<0．05；与高脂饲料组比较，b
+P<O．05。组3、组4、组5、组6分别为人参皂苷Rd 30mg瓜g
+剂量组、人参皂苷Rd 35mg／kg剂量组、人参皂苷Rd40mg瓜g剂量组、人参皂苷Rd 45mg瓜g剂量组。
+万方数据
+26
+兰州大学学报( 医学版)
+第48卷
+。篾5‘ 臻◆ ’ 。4．o。+’ ‘ +曩I
+◇ ‘ j I|j I|．、誓誊≮。j 。j 簿?
+《攀!≯；I’ p—j：≯j||!l≤{：：。’ · ，≮、j’
+l 5
+1．2
+：_5』0．9
+诽
+罂O．6
+0 3
+0
+褂川! }
+图2
+爿
+矗
+q删
+鼍吲
+' 删
+翼吲
+美
+梨
+皋淌
+嚣耐
+嚣蟊
+嚣落
+靛
+尽
+心幂
+幽幕
+却幕
+矗) 暴
+藿
+鉴蔷
+鎏善
+鎏菩
+望菩
+罐
+之鲁
+<鲁
+之每
+<》
+暑
+罱
+导
+导
+E较，a尸<0 05；‘ oI 岛脂“ 1十：}；H l E较．b|『) <( ) 05
+eNOS、LCAT、CYP7Al mRNA表达分析
+呈上升趋势，且差异具有统计学意义( P<0．05) 。
+3．4
+eNoS、LcAT、CYP7A1蛋白表达
+West embl ot t i ng结果如图3、表3所示，与对
+照组比较，高脂饲料组eNOS、LCAT、CYP7A1蛋
+白表达水平显著降低( 尸<0．05) ；与高脂饲料组比
+较，随着人参皂苷Rd剂量的增加，人参皂苷Rd
+剂量组大鼠血管组织中eNOS、LCAT、CYP7A1蛋
+白表达水平呈上升趋势，且差异有统计学意义
+( _尸<0．05) 。
+eNOS—_，删一一一_
+LcAT—一镧■ —劳嘲—謦’ _● ' —，’ _一
+CYP7A1’
+● ——，嘲_∥ _- ·
+，■ —，■ —，——，
+CAPDH● —，● —一 - ——一——■ ● —●
+d
+删
+q立
+勺咄
+q删
+q匠
+鋈
+萋
+鬈滔
+鬈赫
+嚣两
+嚣凿
+簧
+薰
+蒸蚕
+毳蚕
+毳蓍
+嚣薰
+淫
+姆釜
+热蛩
+惑箜
+媳鎏
+姬
+<罾
+<罾
+<挈
+<窘
+暑
+臻
+导
+导
+图3
+eNOS、LCAT、CYP7A1蛋白表达
+表3人参皂苷Rd对非家族- 眭高血脂大鼠eNos、
+LCAT、CYP7Al 蛋白的相对表达
+与对照组比较，a尸<0．05；与高脂饲料组比较，b
+P<
+O．05。组3、组4、组5、组6分别为人参皂苷Rd 30mg／蚝剂
+量组、人参皂苷Rd 35 mg／kg剂量组、人参皂苷Rd 40
+mg／kg剂量组、人参皂苷Rd45 m∥ kg剂量组。
+3．5血管内皮相关因子检测结果
+由表4可知，与对照组比较，高脂饲料组N0
+含量明显降低( 尸<0．05) ，血浆内皮素与血管性
+血友病因子含量明显升高( P<0．05) ；与高脂饲料
+组比较，随着人参皂苷Rd剂量的增加，人参皂苷
+Rd剂量组N0含量呈上升趋势，血浆内皮素与血管
+性血友病因子含量呈下降趋势，且差异有统计学意
+义( 尸<0．05) 。表明人参皂苷Rd对大鼠血清中
+NO释放具有促进作用，对血浆内皮素、血管性血
+友病因子的分泌具有抑制作用。
+万方数据
+第3期
+呼延丽，等：人参皂苷Rd对非家族性高血脂sD大鼠血管保护的作用机制
+27
+表4人参皂苷Rd对非家族性高血脂大鼠血管内皮
+相关因子含量的影响
+删啬孽镒五鬻7盘辩艨7
+对照
+高脂
+组3
+组4
+组5
+组6
+组
+106．693士12．083
+31．451士2．954
+饲料组176．293土5．7278
+15．541士2．5098
+159．560士13．1486
+18．436士3．5716
+142．960士15．613“ 22．072士3．1746
+116．427士16．5206
+27．542士2．6616
+110．960士13．1206
+30．100土2．9126
+73．353士6．616
+l 04．049士6．7298
+92．298士5．95。
+85．820土9．686。
+79．896士6．208。
+76．641士7．55。
+与对照组比较，a
+J P<0．05；与高脂饲料组比较，b
+P<0．05。
+组3、组4、组5、组6分别为人参皂苷Rd 30 mg／埏剂量组、人
+参皂苷Rd 35 m啦g剂量组、人参皂苷Rd40mg／k剂量组、人
+参皂苷Rd 45 mg／1【g剂量组。
+4
+讨论
+血清总胆固醇每降低1％，患冠心病的风险就
+会降低2％p，。动脉粥样硬化被认为是许多心脑血
+管疾病的主要病因，而高血脂症是动脉粥样硬化
+发生发展的重要危险因素” ⋯ 。本研究发现，人参
+皂苷Rd能够降低非家族性高血脂sD大鼠血清中
+TC、TG、HDL．C、LDL．C含量、改善AI ，并且
+效果显著( P<0．05) ；能够降低非家族性高血脂
+SD大鼠血管壁厚度、改善血管腔面积，表明人参
+皂苷Rd对高血脂症具有改善作用。
+高血脂症可引起血管内皮细胞损伤，最终加
+重血管损伤⋯ 1。eNOS、LCAT、cYP7Al 是血管
+血脂水平主要调节物，其中eN0s参与细胞能量
+代谢等过程，能够减轻血管动脉粥硬化损伤，介
+导N0释放，诱导血管舒张【121；LcAT能够促进血
+浆脂蛋白上HDL．C发生酯化，生成胆固醇酯和溶
+血卵磷脂，具有降低高血脂引起的冠心病发病率
+的作用邮1；CYP7A1是胆固醇在体内代谢的限速
+酶，将胆固醇转化为胆酸或鹅去氧胆酸，从而降
+低血脂含量u” 。本研究结果表明人参皂苷Rd对非
+家族性高血脂sD大鼠血管组织eN0s、LcAT、
+CYP7A1 mRNA和蛋白表达具有上调作用。
+No、血浆内皮素及血管性血友病因子是血管
+内皮损伤标志物u5‘
+1” 。其中血浆内皮素是血管收缩
+活性因子，NO是血管舒张活性因子，血管受损
+时，NO含量降低，血浆内皮素含量增加，同时血
+管性血友病因子释放，促进血小板凝集，有利于
+血栓形成与其他炎症因子的释放，使病情进一步
+加重u” 。本研究结果说明人参皂苷Rd对非家族性
+高血脂SD大鼠血管内皮因子NO释放具有促进作
+用，对血浆内皮素、血管性血友病因子的分泌具
+有抑制作用。
+人参皂苷Rd对非家族性高血脂SD大鼠血管
+具有保护作用，这种保护作用的机制可能是通过
+上调eNOS、LCAT、CYP7A1表达，促进N0释
+放、抑制血浆内皮素和血管性血友病因子分泌途
+径实现。此研究结果为临床上非家族性高脂血症
+药物治疗提供理论基础。
+参考文献
+[ 1] 陶欢，刘盛菲，凌敏．基于Rho／R0cK信号通路的针刺
+对高脂血症模型大鼠血管内皮保护机制研究[ J ] ．中国
+中医基础医学杂志，2019，25( 8) ：1134—1136．
+[ 2】Eskandar T，Raj ab M，Daryoush R，et a1．Mol ecul armecha—
+ni sms，
+preval ence，and mol ecul ar
+met hods
+f or
+f ami l i al
+combi ned hyperl i pi demi a di sease：A revi ew[ J 】．J oumal
+of
+Cel l ul ar Bi ochemi st ry，20 1 9，l 20( 6) ：8891—8898．
+[ 3] Takashi ma M，Kan锄ori Y，Kodera Y．Aged garl i c ext ract
+exert s endot hel i um- dependent
+vasorel axant
+ef rect
+on rat
+aort a by i ncreasi ng ni t ri c oxi de product i on[ J ] ．Phyt omedi —
+ci ne，2017，24：56- 61．
+[ 4】尹鹏，严明兰，郭静．他汀类药物治疗高血脂症后出现的
+不良反应以及应对措施观察[ J ] ．世界最新医学信息文
+摘，2015，15( 71) ：229—230．
+[ 5] 周超群，周佩．人参皂苷Rd的研究进展[ J ] ．中草药，
+2009，40( 5) ：832- 836．
+[ 6] 张琛，赵钢．人参皂苷Rd的药理作用研究进展[ J 】．中国
+新药杂志，2011，20( 11) ：953．958．
+[ 7] 彭雅松，王东，李文科．高脂血症致钙超载对大鼠胰腺炎
+模型的影响[ J 】．西南军医，2017，19( 2) ：10—16．
+[ 8] Yi n Dan—dan，Wang Qi an—chen，zhou xun，et a1．Endot he—
+l i al
+dysf unct i on i n renal
+arcuat e aneri es of obese Zucker
+rat s：The rol es of ni t ri c oxi de，endot hel i um—deri Ved hyper—
+pol ari zi ng f act ors，and cal ci um- act i vat ed
+K+channel s[ J ] ．
+PLoS One，20 18，1 3( 9) ：e0204297．
+[ 9】Tuomi l eht o J ．Th—w52：3 I mpact age and gl ucose
+i nt ol er—
+ance
+on cardi ovascul ar
+ri sk[ J ] At heroscl erosi s
+Suppl e—
+ment s，2006，7( 3) ：471- 479．
+[ 1 0] Goubergri t s L，Af f el d K，Femandez—Bri t t o J ，et a1．Quan—
+t mcat i on of
+shear
+st ress and geomet ri c
+ri sk
+f act ors
+i n
+carot i d at heroscl erosi s：revi ew and cl i ni cal
+evi dence【J ] ．
+Recent
+Pat ent s on Medi cal I magi ng，2013，3( 1) ：27—43．
+【l l 】杨振，洪铁，刘玉梅，等．丹蒌片对高脂血症及血管内皮
+损伤大鼠的保护作用[ J ] 世界中西医结合杂志，2010，
+5( 6) ：37—40．
+( 下转第31页)
+万方数据
+第3期
+周文军，等：经腹超声辅助下人工腹水非赘生性卵巢囊肿硬化术后疼痛及疗效分析
+31
+[ 3] 梁萍，蒋天安，卜锐，等．多脏器囊肿硬化治疗中国专家
+共识( 2021版) [ J ] ．中华超声影像学杂志，202l ，30( 8) ：
+645—654．
+[ 4] 吴红娜．超声引导下穿刺注射无水酒精治疗卵巢囊肿的
+效果观察[ J ] ．航空航天医学杂志，2021，32( 7) ：810- 811．
+[ 5] 刘战利，蔡丹灵，陈屏．超声引导下介入治疗卵巢巧克
+力囊肿78例临床观察[ J ] ．中国医学工程，2017，25( 10) ：
+93．95．
+[ 6】Shao
+xi ao—hui ，Dong
+xi ao- qi u，Kong
+De- j i ao，et
+a1．
+Cont mst —enhanced
+ul t rasonogr叩hy i n scl erot her叩y
+f or
+ovari an endomet ri al
+cyst [ J ] ．U1t rasound i n Medi ci ne&
+Bi ol ogy，2018，44( 8) ：1828- 1835．
+[ 7】杨彦飞，翟廷贵．超声引导下肝肾及卵巢囊肿硬化治疗效
+果的分析【J ] ．实用医学影像杂志，202 1，22( 3) ：279- 280．
+[ 8] K01e MB，Fri shman GN，Wemer EF．Mi ni mal l y i nVasi Ve
+nl anagement
+of
+oVari an
+cyst s
+duri ng
+pregnancy
+usi ng
+et hanol
+scl erosi s[ J ] ．J oumal of Mi ni mal l y I nVasi Ve Gyne-
+c0109y，2016，23( 3) ：450—452．
+【9】金晓晴，李慧萍，倪绍洲，等．湖北省急救技能竞赛“ 急性
+腹痛” 综合病例演练结果分析[ J 】中华全科医学，2020，
+1 8( 5) ：852—855．
+[ 1 0] Gmndy
+L，Eri ckson A，Bri erl ey
+SM，et
+a1．vi sceral
+pai n【J 】．A111l ual Revi ew of Physi ol ogy，20 1 9，8 1：26 1-
+284．
+[ 11] 成睿．无水乙醇注入治疗不同类别盆腔囊肿的临床疗
+效研究[ J 】．西南国防医药，2017，27( 2) ：178· 180．
+[ 12】王艳秋，汪龙霞，徐虹，等．超声引导下穿刺治疗盆腔
+巨大囊肿的疗效分析[ J 】．解放军医学院学报，2018，
+39( 1) ：36- 38．
+[ 13] Wi j nands T，Gnj es APM，Gevers T，et a1．E伍cacy and
+saf et y of aspi rat i on scl erot herapy of si mpl e hepat i c cyst s：
+a syst emat i c revi ew[ J ] ．Ameri can J oumal
+of Roent gen—
+ol ogy，2017，208( 1) ：201- 207．
+( 责任编辑：李晓炜)
+( 上接第27页)
+[ 12】周彬，余舒杰，刘定辉，等．人参皂苷Rbl 通过caveol i n一
+1／eNos／No通路抗人脐静脉内皮细胞衰老[ J 】．中药材，
+2019，42( 1) ：189- 195．
+[ 1 3] Ⅵt al i C，Baj aj A，Rader DJ ．I nVest i gat i ng t he cl i ni cal pre-
+sent at i on and progressi on of f ami l i al
+LCAT de6ci ency：
+An anal ysi s of t he l i t erat ure[ J ] ．Aneri oscl erosi s，Tl l rom—
+bosi s and vascul ar Bi 0109y，2019，39：705- 715．
+[ 1 4] Cao Bei ，Sun Run- bi n，Yan Geng，et
+a1．Berberi ne
+re—
+verses LPS—i nduced repressi on of CYP7A1
+t hrough an
+anti —i nn啪matory ef ＆ct [ J ] Chi nese
+Herbal
+Medi ci nes，
+2019，11( 3) ：292—298．
+[ 1 5] Li
+Dong，Yang Peng—yuan，Xi ong Qi ng- hui ，et
+a1．Mi -
+croRNA一125a／b- 5p
+i nhi bi t s
+endot hel i n- 1
+expressi on i n
+vascul ar
+endot hel i al
+cel l s[ J ] ．J oumal
+of
+Hypert ensi on，
+2010，28( 8) ：1646一1654．
+[ 1 6] xi ang Yao- zu，Hwa J ．Regul at i on of VwF
+expressi on，
+and secret i on
+i n
+heal t h
+and di sease[ J 】．Current
+0pi n—
+i on i n Hemat ol ogy，2叭6，23( 3) ：288—293．
+【17] 张蕾，阮君山，严令耕，等．内皮素和一氧化氮致血管损
+伤性疾病的分子机制及药物研发策略[ J 】．中国药理学
+通报，2012，28( 2) ：20—23．
+[ 1 8] Abd ET，Mohamed RH，Hagrass HA．I ncreased ri sk of
+premat ure
+coronary
+anery
+di sease
+i n
+Egypt i ans
+wi m
+ABCAl ( R219K) ，CETP( 7I ’
+aqI B) ，and LCAT( 4886C／T)
+genes pol ymorphi sm[ J ] J oumal
+of
+Cl i ni cal
+Li pi dol ogy，
+2014，8( 4) ：381—389．
+( 责任编辑：金红)
+万方数据

@@ -1,0 +1,2731 @@
+中国医院用药评价与分析　 2022 年第 22 卷第 5 期　
+Evaluation
+ 
+and
+ 
+analysis
+ 
+of
+ 
+drug-use
+ 
+in
+ 
+hospitals
+ 
+of
+ 
+China
+ 
+2022
+ 
+Vol. 22
+ 
+No. 5
+ 
+·539
+　
+·
+人参皂苷 Rh2 和 Rg3 对胃癌细胞增殖和侵袭的影响Δ
+刘元媛
+1∗,王　 欢
+1#,周　 平
+2,刘海林
+1(1. 重庆两江新区第一人民医院药剂科,重庆　 401147;
+ 
+2. 重庆医科大学
+中医药学院,重庆　 400010)
+中图分类号　 R96
+文献标志码　 A
+文章编号　 1672-2124(2022)05-0539-05
+DOI　 10. 14009/ j. issn. 1672-2124. 2022. 05. 005
+摘　 要　 目的:探讨人参皂苷 Rh2 和 Rg3 在免疫微环境中通过调节程序性死亡蛋白配体 1(PD-L1)对胃癌细胞增殖和侵袭的影响。
+方法:将胃癌细胞 MGC-803 分为三组,即对照组、Rh2+Rg3 组(采用 40
+ 
+μg/ mL 混合有人参皂苷 Rh2 和 Rg3 的培养基)和 Rh2+Rg3+
+PD-L1 组(将转染 PD-L1 载体质粒以 3×103 的密度经过质量浓度为 40
+ 
+μg/ mL 的人参皂苷 Rh2 和 Rg3 处理)。 采用定量反转录聚合
+酶链反应和蛋白质印迹法检测 PD-L1 的表达;采用 Annexin-V 检测胃癌细胞 MGC-803 的凋亡情况;采用 EdU 方法检测胃癌细胞
+MGC-803 的增殖情况;采用 Transwell 检测胃癌细胞 MGC-803 的迁移和侵袭情况。 结果:Rh2+Rg3 组的 PD-L1
+ 
+mRNA 和蛋白的表
+达水平明显低于对照组,Rh2+Rg3+PD-L1 组的 PD-L1
+ 
+mRNA 和蛋白的表达水平明显高于 Rh2+Rg3 组,差异均有统计学意义
+(P<0. 05)。 Rh2+Rg3 组的细胞凋亡率明显高于对照组,Rh2+Rg3+PD-L1 组的细胞凋亡率明显低于 Rh2+Rg3 组,差异均有统计学
+意义(P<0. 05)。 Rh2+Rg3 组的细胞克隆数量明显低于对照组,Rh2+Rg3+PD-L1 组的细胞克隆数量明显高于 Rh2+Rg3 组,差异均
+有统计学意义(P<0. 05)。 Rh2+Rg3 组的细胞增殖能力明显低于对照组,Rh2+Rg3+PD-L1 的细胞增殖能力明显高于 Rh2+Rg3 组,
+差异均有统计学意义(P<0. 05)。 Rh2+Rg3 组的迁移细胞数和侵袭细胞数明显少于对照组,Rh2+Rg3+PD-L1 组的迁移细胞数和
+侵袭细胞数明显多于 Rh2+Rg3 组,差异均有统计学意义(P<0. 05)。 结论:人参皂苷 Rh2 和 Rg3 通过调节 PD-L1 的表达抑制胃癌
+肿瘤细胞的增殖、迁移和侵袭。
+关键词　 人参皂苷 Rh2;
+ 
+人参皂 Rg3;
+ 
+程序性死亡蛋白配体 1;
+ 
+胃癌;
+ 
+增殖
+Δ 基金项目:全国中医药创新骨干人才项目(No. 国中医药人教函〔2019〕128 号);重庆市科技局项目(No. cstc2019jscx-msxmX0096)
+∗药师。 研究方向:药学。 E-mail:343299728@ qq. com
+# 通信作者:
+ 
+药师。 研究方向:药学。 E-mail:496615038@ qq. com
+Effects
+ 
+of
+ 
+Ginsenoside
+ 
+Rh2
+ 
+and
+ 
+Rg3
+ 
+on
+ 
+the
+ 
+Proliferation
+ 
+and
+ 
+Invasion
+ 
+of
+ 
+Gastric
+ 
+Cancer
+ 
+CellsΔ
+ 
+LIU
+ 
+Yuanyuan1,
+ 
+WANG
+ 
+Huan1,
+ 
+ZHOU
+ 
+Ping2,
+ 
+LIU
+ 
+Hailin1
+ 
+(1. Dept.
+ 
+of
+ 
+Pharmacy,
+ 
+the
+ 
+First
+ 
+People’s
+ 
+Hospital
+ 
+of
+ 
+Liangjiang
+ 
+New
+ 
+Area,
+ 
+Chongqing
+ 
+401147,
+ 
+China;
+ 
+2. School
+ 
+of
+ 
+Traditional
+ 
+Chinese
+ 
+Medicine,
+ 
+Chongqing
+ 
+Medical
+ 
+University,
+ 
+Chongqing
+ 
+400010,
+ 
+China)
+ABSTRACT　 OBJECTIVE:
+ 
+To
+ 
+probe
+ 
+into
+ 
+the
+ 
+effects
+ 
+of
+ 
+ginsenoside
+ 
+Rh2
+ 
+and
+ 
+Rg3
+ 
+on
+ 
+the
+ 
+proliferation
+ 
+and
+ 
+invasion
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cells
+ 
+through
+ 
+regulating
+ 
+programmed
+ 
+death
+ 
+ligand-1 ( PD-L1 ) in
+ 
+the
+ 
+immune
+ 
+microenvironment.
+ 
+METHODS:
+ 
+Gastric
+ 
+cancer
+ 
+cells
+ 
+MGC-803
+ 
+were
+ 
+divided
+ 
+into
+ 
+three
+ 
+groups,
+ 
+including
+ 
+control
+ 
+group,
+ 
+Rh2+Rg3
+ 
+group
+ 
+(treated
+ 
+with
+ 
+40
+ 
+μg / mL
+ 
+ginsenoside
+ 
+Rh2
+ 
+and
+ 
+Rg3)
+ 
+and
+ 
+Rh2+Rg3+PD-L1
+ 
+group
+ 
+(transfected
+ 
+PD-L1
+ 
+carrier
+ 
+vector
+ 
+was
+ 
+treated
+ 
+with
+ 
+40
+ 
+μg / mL
+ 
+ginsenoside
+ 
+Rh2
+ 
+and
+ 
+Rg3
+ 
+at
+ 
+a
+ 
+density
+ 
+of
+ 
+3 × 103 ).
+ 
+Quantitative
+ 
+reverse
+ 
+transcription
+ 
+polymerase
+ 
+chain
+ 
+reaction
+ 
+and
+ 
+Western
+ 
+blotting
+ 
+were
+ 
+used
+ 
+to
+ 
+detect
+ 
+the
+ 
+expression
+ 
+of
+ 
+PD-L1;
+ 
+Annexin-V
+ 
+was
+ 
+used
+ 
+to
+ 
+detect
+ 
+the
+ 
+apoptosis
+ 
+of
+ 
+MGC-803;
+ 
+EdU
+ 
+method
+ 
+was
+ 
+used
+ 
+to
+ 
+detect
+ 
+the
+ 
+proliferation
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cells
+ 
+MGC-803;
+ 
+Transwell
+ 
+was
+ 
+used
+ 
+to
+ 
+detect
+ 
+the
+ 
+migration
+ 
+and
+ 
+invasion
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cells
+ 
+MGC-803.
+ 
+RESULTS:
+ 
+The
+ 
+expression
+ 
+levels
+ 
+of
+ 
+PD-L1
+ 
+mRNA
+ 
+and
+ 
+protein
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group
+ 
+were
+ 
+significantly
+ 
+lower
+ 
+than
+ 
+those
+ 
+of
+ 
+the
+ 
+control
+ 
+group,
+ 
+and
+ 
+the
+ 
+expression
+ 
+levels
+ 
+of
+ 
+PD-L1
+ 
+mRNA
+ 
+and
+ 
+protein
+ 
+of
+ 
+the
+ 
+Rh2+Rg3+PD-L1
+ 
+group
+ 
+were
+ 
+significantly
+ 
+higher
+ 
+than
+ 
+those
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ 
+with
+ 
+statistically
+ 
+significant
+ 
+differences
+ 
+(P<0. 05).
+ 
+The
+ 
+cell
+ 
+apoptosis
+ 
+rate
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group
+ 
+was
+ 
+significantly
+ 
+higher
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+control
+ 
+group,
+ 
+and
+ 
+the
+ 
+cell
+ 
+apoptosis
+ 
+rate
+ 
+of
+ 
+the
+ 
+Rh2+Rg3+PD-L1
+ 
+group
+ 
+was
+ 
+significantly
+ 
+lower
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ 
+with
+ 
+statistically
+ 
+significant
+ 
+differences
+ 
+(P<0. 05).
+ 
+The
+ 
+number
+ 
+of
+ 
+cell
+ 
+clones
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group
+ 
+was
+ 
+significantly
+ 
+less
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+control
+ 
+group,
+ 
+and
+ 
+the
+ 
+number
+ 
+of
+ 
+cell
+ 
+clones
+ 
+of
+ 
+the
+ 
+Rh2+Rg3 +PD-L1
+ 
+group
+ 
+was
+ 
+significantly
+ 
+more
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+Rh2 +Rg3
+ 
+group,
+ 
+with
+ 
+statistically
+ 
+significant
+ 
+differences
+ 
+(P<0. 05).
+ 
+The
+ 
+cell
+ 
+reproductive
+ 
+capacity
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group
+ 
+was
+ 
+significantly
+ 
+lower
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+control
+ 
+group,
+ 
+and
+ 
+the
+ 
+cell
+ 
+reproductive
+ 
+capacity
+ 
+of
+ 
+the
+ 
+Rh2+Rg3+PD-L1
+ 
+group
+ 
+was
+ 
+significantly
+ 
+higher
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ 
+with
+ 
+statistically
+ 
+significant
+ 
+differences
+ 
+(P<0. 05).
+ 
+The
+ 
+number
+ 
+of
+ 
+migrating
+ 
+and
+ 
+invading
+ 
+cells
+ 
+·540
+　
+·
+ 
+Evaluation
+ 
+and
+ 
+analysis
+ 
+of
+ 
+drug-use
+ 
+in
+ 
+hospitals
+ 
+of
+ 
+China
+ 
+2022
+ 
+Vol. 22
+ 
+No. 5
+中国医院用药评价与分析　 2022 年第 22 卷第 5 期
+of
+ 
+the
+ 
+Rh2+Rg3
+ 
+group
+ 
+was
+ 
+significantly
+ 
+less
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+control
+ 
+group,
+ 
+and
+ 
+the
+ 
+number
+ 
+of
+ 
+migrating
+ 
+and
+ 
+invading
+ 
+cells
+ 
+of
+ 
+the
+ 
+Rh2 + Rg3 + PD-L1
+ 
+group
+ 
+was
+ 
+significantly
+ 
+more
+ 
+than
+ 
+that
+ 
+of
+ 
+the
+ 
+Rh2 + Rg3
+ 
+group,
+ 
+with
+ 
+statistically
+ 
+significant
+ 
+differences
+ 
+(P<0. 05).
+ 
+CONCLUSIONS:
+ 
+Ginsenosides
+ 
+Rh2
+ 
+and
+ 
+Rg3
+ 
+can
+ 
+inhibit
+ 
+the
+ 
+proliferation,
+ 
+migration
+ 
+and
+ 
+invasion
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cells
+ 
+by
+ 
+regulating
+ 
+the
+ 
+expression
+ 
+of
+ 
+PD-L1.
+KEYWORDS　 Ginsenoside
+ 
+Rh2;
+ 
+Ginsenoside
+ 
+Rg3;
+ 
+Programmed
+ 
+death
+ 
+ligand-1;
+ 
+Gastric
+ 
+cancer;
+ 
+Proliferation
+　 　 胃癌的发生率在恶性肿瘤中居第 4 位[1] 。 胃癌的发生和
+发展是遗传、坏境和表观遗传等多种因素作用的过程,与抑癌
+基因的失活、原癌基因的激活以及多种分子水平和基因水平
+的变化密切相关[2-3] 。 对于胃癌的治疗通常以手术和辅助放
+化疗为主,但对于晚期侵袭和转移的患者治疗效果不佳。 人
+参皂苷 Rh2 和 Rg3 是人参抗肿瘤的主要活性成分[4] 。 相关研
+究结果表明,人参皂苷 Rh2 和 Rg3 可以诱导细胞分化,阻滞细
+胞周期,抑制转移,诱导凋亡,调节免疫功能等[5] 。 程序性死
+亡蛋白配体 1(PD-L1)为肿瘤免疫逃逸机制的核心调控分子,
+在适应性免疫抵抗中发挥着重要作用[6] 。 慢性感染引发 T 细
+胞持续性活化可促使 PD-L1 大量表达,影响 T 细胞的增殖能
+力和杀伤活性,导致 T 淋巴细胞耗竭[7] 。 因此,本研究选取人
+参皂苷 Rh2 和 Rg3 为研究对象,初步探讨其对胃癌细胞系
+MGC-803 增殖和侵袭的影响,并探讨可能的发生机制。
+1　 材料
+1. 1　 实验细胞
+胃癌细胞系 MGC-803(中国科学院上海细胞典藏库)。
+1. 2　 仪器
+CO2 培养箱(美国 Thermo
+ 
+Scientific 公司);高速冷冻离心
+机(德国
+ 
+Eppendorff
+ 
+公司);蛋白质印迹电泳仪、电泳槽(美国
+Bio-Rad 公司); - 80
+ 
+℃ 低温冰箱 ( 美国 Thertno
+ 
+Scientific 公
+司);Transwell 小室(美国 Corning 公司)。
+1. 3　 药品与试剂
+人参皂苷 Rh2 和人参皂苷 Rg3(吉林大学有机化学教研
+室,质量分数>98%,批号:201808-1);PD-L1 载体质粒(美国
+Merck
+ 
+Millipore 公司,批号:NAF1321);RMPIA
+ 
+1640 培养基、胎
+牛血清(美国 Gibco 公司,批号:J17008、181221);蛋白裂解液
+RIPA(上海碧云天生物技术有限公司,批号:9224);胎牛血清
+(吉玛基因公司,批号:A115121);Trizol 试剂(上海生工生物工
+程有限公司,批号:180519);显色液、BCA 试剂(美国 TaKaRa 公
+司,批号:190215、190127);RNA 提取试剂盒(广州拓科达生物科技
+有限公司);反转录试剂盒(广州威佳科技有限公司,货号:
+556129);Lipofectamine
+ 
+2000 转染试剂盒(美国 Invirogen 公司);
+Annexin
+ 
+V-FTIC/ PI 试剂盒(上海碧云天生物技术有限公司)。
+2　 方法
+2. 1　 细胞的培养及分组处理
+于 450
+ 
+mL 的 RMPIA
+ 
+1640 培养基中加入浓度为 10%的胎
+牛血清 50
+ 
+mL、100
+ 
+U/ mL 青霉素和 100
+ 
+μg/ mL 链霉素 5
+ 
+mL,把
+胃癌细胞 MGC-803 加入培养基中,在 5%
+ 
+CO2 培养箱中培养,
+温度保持在 37
+ 
+℃ 。 处于对数生长期的细胞,经胰酶消化处
+理,以 3
+ 
+000
+ 
+r/ min 离心(离心半径 10
+ 
+cm)5
+ 
+min,然后去上清
+液,培养基重悬细胞后置于培养箱中常规培养,24
+ 
+h 以后更换
+液体。
+将胃癌细胞 MGC-803 分为对照组、Rh2+Rg3 组和 Rh2+
+Rg3+PD-L1 组。 未经过人参皂苷 Rh2 和 Rg3 处理的 MGC-803
+细胞设为对照组。 确定药物对细胞的半抑制浓度 ( IC50 ),
+Rh2+Rg3 组给予 40
+ 
+μg/ mL 混合有 Rh2 和 Rg3 的培养基,培养
+细胞 24
+ 
+h。 将转染 PD-L1 载体质粒以 3×103 的密度经过质量
+浓度为 40
+ 
+μg/ mL 的人参皂苷 Rh2 和 Rg3 处理的 MGC-803 细
+胞设为 Rh2+Rg3+PD-L1 组,具体转染操作参照 Lipofectamine
+ 
+2000 转染试剂盒的操作说明书。
+2. 2　 细胞计数试剂盒 8(CCK-8)法检测胃癌细胞 MGC-803
+的增殖情况
+采用 CCK-8 法检测胃癌细胞 MGC-803 的增殖情况,观察
+Rh2+ Rg3 和 PD-L1 对 胃 癌 细 胞 增 殖 的 调 节 作 用。 加 入
+40
+ 
+μg/ mL 的人参皂苷 Rh2 和 Rg3 或者 PD-L1 载体质粒以
+3×103 的密度转染细胞,接种在 96 孔板上,并在 37
+ 
+℃ 和 5%
+CO2 中孵育。 每隔 24
+ 
+h,向每个孔中加入 CCK-8 溶液,至第 5
+日结束,并使用酶标仪测定 450
+ 
+nm 波长下的细胞数。 最终,
+生成 5
+ 
+d 的细胞生长曲线。
+2. 3　 定量反转录聚合酶链反应( qRT-PCR) 检测胃癌细胞
+MGC-803 中 PD-L1
+ 
+mRNA 表达
+各组的胃癌细胞 MGC-803 转染
+ 
+48
+ 
+h 后,进行收集,采用
+Trizol 法从细胞中提取总 RNA,利用反转录试剂盒从上述 RNA
+反转录 cDNA,最后利用由武汉巴菲尔公司合成 PD-L1 引物和
+GAPDH 引物在应用生物系统 7500 实时 PCR 系统上进行 PCR
+实验,反应条件为 95
+ 
+℃ 预变性 4
+ 
+min,90
+ 
+℃ 变性 20
+ 
+s,45
+ 
+℃ 退
+火 20
+ 
+s,60
+ 
+℃ 延伸 20
+ 
+s,共设置 45 个循环。 PD-L1 引物序列:
+5′-ACCGGTTTACTGTCGCAT-3′( 正 向) 和 3′-CCTCTGCTCTGT
+ 
+GGGC-5′ ( 反 向 ); GAPDH 引 物 序 列: 5′-GATGAACTCCCA
+ 
+CAGTGC-3′(正向)和 5′-TCTGAGAGGC
+ 
+AGGGATG-3′(反向),
+按照试剂盒的使用说明书进行严格操作,采用 ABI
+ 
+7500 实时
+PCR 进行测量,采用 2
+-ΔΔCt 法计算 PD-L1 的相对表达量,以
+GAPDH 为内参。
+2. 4　 蛋白质印迹法检测胃癌细胞 MGC-803 中 PD-L1 蛋白表达
+各组的胃癌细胞 MGC-803 转染
+ 
+48
+ 
+h 后,进行收集,通过
+加入 RIPA 裂解缓冲液进行裂解,用 10%十二烷基硫酸钠聚丙
+烯酰胺凝胶电泳(SDS-PAGE)分离蛋白,然后转移到聚偏二氟
+乙烯(PVDF)膜上。 转膜完全后拿出 PVDF 膜,5%脱脂奶粉
+中封闭 1
+ 
+h,PD-L1(1 ∶500 稀释)一抗孵育,4
+ 
+℃ 冰箱中放置一
+夜,HRP 二抗(1 ∶5
+ 
+000 稀释)避光孵育 1
+ 
+h,TBST 洗 3 次,滴加
+ECL 发光液,凝胶成像仪拍照显影。
+2. 5　 Annexin-V 检测胃癌细胞 MGC-803 的凋亡情况
+将各组的胃癌细胞 MGC-803 接种于 6 孔板中 72
+ 
+h 后,进
+行细胞收集,洗涂、固定和透化,按照 Annexin
+ 
+V-FTIC/ PI 试剂
+盒说明书的操作步骤进行细胞染色,应用流式细胞仪检测,用
+中国医院用药评价与分析　 2022 年第 22 卷第 5 期　
+Evaluation
+ 
+and
+ 
+analysis
+ 
+of
+ 
+drug-use
+ 
+in
+ 
+hospitals
+ 
+of
+ 
+China
+ 
+2022
+ 
+Vol. 22
+ 
+No. 5
+ 
+·541
+　
+·
+FlowJo 软件处理数据。
+2. 6　 克隆形成实验
+将各组的胃癌细胞 MGC-803 接种于琼脂覆盖的培养基的
+96 孔板上,细胞在 37
+ 
+℃ 的 CO2 培养箱中培养 72
+ 
+h,12
+ 
+d 后,使
+用 Leica
+ 
+CTR
+ 
+MIC 显微镜捕获每个孔中胃癌细胞的克隆图像,
+并使用 Image
+ 
+J
+ 
+1. 49 软件量化克隆数量。
+2. 7　 Transwell 检测胃癌细胞 MGC-803 的迁移情况
+将 Transwell 小室取出,弃液体,PBS 漂洗 5
+ 
+min,再用 4%
+多聚甲醛固定 15
+ 
+min,在胎牛血清的 RPMI-1640 培养基中培
+养 24
+ 
+h,将 100
+ 
+μL 细胞(1×105 / mL)接种至 24 孔板中,然后放
+入含有 20%
+ 
+FBS 的 RPMI-1640
+ 
+600
+ 
+μL,在 37
+ 
+℃ 、5%CO2 培养
+箱中孵育,用棉签轻轻擦去上室未迁移的细胞或未侵袭的细
+胞,迁移的细胞或入侵细胞用 70%甲醛溶液固定 30
+ 
+min,并使
+用 0. 1%的结晶紫染色 20
+ 
+min,使用显微镜捕获每个孔中迁移
+的细胞的图像。
+2. 8　 Transwell 检测胃癌细胞 MGC-803 的侵袭情况
+Matrigel 胶稀释,取 50
+ 
+μL 加入 Transwell 上室内,37
+ 
+℃ 培
+养箱中过夜,将 Matrigel 胶吸出,PBS 冲洗,将各组的胃癌细胞
+MGC-803 以 1×104 / mL 接种于上室,孵育 24
+ 
+h,加入无血清培
+养液,下室加入含 20%FBS 培养液,孵育 48
+ 
+h,去除 Transwell
+小室内的培养液,PBS 冲洗,4%多聚甲醛固定,1%结晶紫染色
+侵袭的细胞,室温下放置 20
+ 
+min 后,PBS 冲洗,选取 5 个视野,
+倒置显微镜下观察,比较侵袭的细胞数目。
+2. 9　 统计学方法
+采用 SPSS
+ 
+24. 0 软件进行统计分析,符合正态分布的连续
+变量采用 􀭰
+x±s 表达,多组间对比采用单因素方差分析,采用
+LSD-t 检验比较两组间的差异,P<0. 05 为差异有统计学意义。
+3　 结果
+3. 1　 各组胃癌细胞 MGC-803 增殖能力情况
+第 1 日,三组胃癌细胞 MGC-803 的增殖能力无明显变化,
+差异无统计学意义(P>0. 05);第 2—3 日,Rh2+Rg3 组的细胞
+增殖能力明显低于对照组,差异有统计学意义( P < 0. 05);
+第 4—5 日,Rh2 + Rg3 组的细胞增殖能力明显低于对照组,
+Rh2+Rg3+PD-L1 的细胞增殖能力明显高于 Rh2+Rg3 组,差异
+均有统计学意义(P<0. 05),见图 1。
+3. 2　 各组胃癌细胞 MGC-803 中 PD-L1 的表达情况
+Rh2+Rg3 组胃癌细胞 MGC-803 中 PD-L1
+ 
+mRNA 和蛋白的
+表达明显低于对照组,Rh2+Rg3+PD-L1 组的 PD-L1
+ 
+mRNA 和
+蛋白的表达明显高于 Rh2 + Rg3 组,差异均有统 计 学 意 义
+(P<0. 05),见表 1、图 2。
+表 1　 人参皂苷 Rh2+Rg3 对胃癌细胞 MGC-803 中 PD-L1
+表达的影响(􀭵
+x±s,n= 9)
+Tab
+ 
+1　 Effect
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+expression
+ 
+of
+ 
+PD-L1
+ 
+in
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803(􀭵
+x±s,n= 9)
+组别
+PD-L1
+ 
+mRNA/ 2-ΔΔCt
+PD-L1 蛋白/ kDa
+对照组
+1. 04±0. 29
+1. 19±0. 32
+Rh2+Rg3 组
+0. 43±0. 07∗
+0. 62±0. 08∗
+Rh2+Rg3+PD-L1 组
+2. 05±0. 59∗#
+1. 97±0. 46∗#
+　 　 注:与对照组相比,∗P<0. 05;与 Rh2+Rg3 组相比,#P<0. 05
+Note:
+ 
+vs.
+ 
+the
+ 
+control
+ 
+group,
+ ∗P<0. 05;
+ 
+vs.
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ #P<0. 05
+与对照组相比,∗P<0. 05
+vs.
+ 
+the
+ 
+control
+ 
+group,
+ ∗P<0. 05
+图 1　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞
+MGC-803 增殖能力的影响(n= 9)
+Fig
+ 
+1　 Effect
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+proliferation
+ 
+capacity
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1
+ 
+(n= 9)
+A. PD-L1
+ 
+mRNA;B. PD-L1 蛋白;与对照组相比,∗P<0. 05;
+与 Rh2+Rg3 组相比,#P<0. 05
+A. PD-L1
+ 
+mRNA;B. PD-L1
+ 
+protein;vs.
+ 
+the
+ 
+control
+ 
+group,
+ 
+∗P<0. 05;
+ 
+vs.
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ #P<0. 05
+图 2　 人参皂苷 Rh2+Rg3 对胃癌细胞 MGC-803 中
+PD-L1 表达的影响
+Fig
+ 
+2　 Effect
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+expression
+ 
+of
+ 
+PD-L1
+ 
+in
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+3. 3　 各组胃癌细胞 MGC-803 的凋亡情况
+Rh2+Rg3 组胃癌细胞 MGC-803 的凋亡率明显高于对照
+组,Rh2+Rg3+PD-L1 组的细胞凋亡率明显低于 Rh2+Rg3 组,
+差异均有统计学意义(P<0. 05),见表 2、图 3。
+表 2　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞
+MGC-803 凋亡的影响(􀭵
+x±s,n= 9)
+Tab
+ 
+2　 Effects
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+apoptosis
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1
+ 
+(􀭵
+x±s,n=9)
+组别
+细胞凋亡率/ %
+对照组
+27. 68±3. 79
+Rh2+Rg3 组
+53. 51±5. 35∗
+Rh2+Rg3+PD-L1 组
+15. 23±2. 97∗#
+　 　 注:与对照组相比,∗P<0. 05;与 Rh2+Rg3 组相比,#P<0. 05
+Note:
+ 
+vs.
+ 
+the
+ 
+control
+ 
+group,
+ ∗P<0. 05;
+ 
+vs.
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ #P<0. 05
+3. 4　 各组胃癌细胞 MGC-803 克隆形成情况
+Rh2+Rg3 组胃癌细胞 MGC-803 克隆数量明显低于对照组,
+Rh2+Rg3+PD-L1 组的细胞克隆数量明显高于 Rh2+Rg3 组,
+·542
+　
+·
+ 
+Evaluation
+ 
+and
+ 
+analysis
+ 
+of
+ 
+drug-use
+ 
+in
+ 
+hospitals
+ 
+of
+ 
+China
+ 
+2022
+ 
+Vol. 22
+ 
+No. 5
+中国医院用药评价与分析　 2022 年第 22 卷第 5 期
+　 　 　 　
+差异均有统计学意义(P<0. 05),见表 3、图 4。
+表 3　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞
+MGC-803 克隆形成的影响(􀭵
+x±s,n= 9)
+Tab
+ 
+3　 Effect
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+clone
+ 
+formation
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1
+ 
+(􀭵
+x±s,n=9)
+组别
+细胞克隆数量/ 个
+对照组
+163 ±11
+Rh2+Rg3 组
+124 ±6∗
+Rh2+Rg3+PD-L1 组
+186 ±12∗#
+　 　 注:与对照组相比,∗P<0. 05;与 Rh2+Rg3 组相比,#P<0. 05
+Note:
+ 
+vs.
+ 
+the
+ 
+control
+ 
+group,
+ ∗P<0. 05;
+ 
+vs.
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ #P<0. 05
+3. 5　 各组胃癌细胞 MGC-803 的迁移和侵袭情况
+Rh2+Rg3 组胃癌细胞 MGC-803 的迁移细胞数和侵袭细胞
+数明显低于对照组,Rh2+Rg3+
+ 
+PD-L1 组的迁移细胞数和侵袭
+细胞数明显高于 Rh2 + Rg3 组, 差 异 均 有 统 计 学 意 义 ( P <
+0. 05),见表 4、图 5。
+4　 讨论
+人参皂苷 Rh2 和 Rg3 是人参抗肿瘤的活性成分。 相关研
+究结果表明,人参皂苷 Rh2 和 Rg3 可以抑制肿瘤细胞的增殖,
+诱导细胞分化和肿瘤细胞的凋亡,抑制肿瘤细胞的侵袭和转
+移,逆转肿瘤细胞耐药,抑制肿瘤血管的形成[8] 。 人参皂苷
+　 　 　 　
+A. 对照组;B. Rh2+Rg3 组;C. Rh2+Rg3+PD-L1 组
+A.
+ 
+control
+ 
+group;
+ 
+B.
+ 
+Rh2+Rg3
+ 
+group;
+ 
+C.
+ 
+Rh2+Rg3+PD-L1
+ 
+group
+图 3　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞 MGC-803 凋亡的影响
+Fig
+ 
+3　 Effect
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+apoptosis
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1
+A. 对照组;B. Rh2+Rg3 组;C. Rh2+Rg3+PD-L1 组
+A.
+ 
+control
+ 
+group;
+ 
+B.
+ 
+Rh2+Rg3
+ 
+group;
+ 
+C.
+ 
+Rh2+Rg3+PD-L1
+ 
+group
+图 4　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞
+MGC-803 克隆形成的影响
+Fig
+ 
+4　 Effects
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+clone
+ 
+formation
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1
+表 4　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞
+MGC-803 迁移和侵袭的影响(􀭵
+x±s,n= 9)
+Tab
+ 
+4　 Effects
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+migration
+ 
+and
+ 
+invasion
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1(􀭵
+x±s,n= 9)
+组别
+迁移细胞数/ 个
+侵袭细胞数/ 个
+对照组
+116 ±3
+71 ±3
+Rh2+Rg3 组
+73 ±2∗
+53 ±1∗
+Rh2+Rg3+PD-L1 组
+136 ±5∗#
+85 ±4∗#
+　 　 注:与对照组相比,∗P<0. 05;与 Rh2+Rg3 组相比,#P<0. 05
+Note:vs.
+ 
+the
+ 
+control
+ 
+group,
+ ∗P<0. 05;
+ 
+vs.
+ 
+the
+ 
+Rh2+Rg3
+ 
+group,
+ #P<0. 05
+Rh2 和 Rg3 已被阐明在肿瘤的发生中发挥着主要作用[9] 。 本
+研究结果发现,人参皂苷 Rh2 和 Rg3 抑制了胃癌细胞的增殖、
+图 5　 人参皂苷 Rh2+Rg3 通过抑制 PD-L1 对胃癌细胞
+MGC-803 迁移和侵袭的影响
+Fig
+ 
+5　 Effects
+ 
+of
+ 
+ginsenoside
+ 
+Rh2+Rg3
+ 
+on
+ 
+the
+ 
+migration
+ 
+and
+ 
+invasion
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+MGC-803
+ 
+by
+ 
+inhibiting
+ 
+PD-L1
+迁移和侵袭,促进了胃癌细胞凋亡,而大量 PD-L1 的加入则减
+弱了上述作用,表明人参皂苷 Rh2 和 Rg3 在胃癌中起抑癌作
+用,而 PD-L1 为肿瘤启动因子。 人参皂苷 Rh2、Rg3 和 PD-L1
+相互作用的研究,为了解人参皂苷 Rh2、Rg3 和 PD-L1 在胃癌
+中的作用机制提供了新的视角。
+人参皂苷 Rg3 属于二醇皂苷,是人参中稀有的皂苷,具有
+抗炎、抗肿瘤、增强免疫能力和抑制血管生成等作用[10] 。 其与
+人参皂苷 Rh2 共同作用,可增强药效。 根据本研究结果,人参
+皂苷 Rh2 和 Rg3 可 能 是 胃 癌 患 者 治 疗 药 物 的 潜 在 候 选。
+PD-L1 在维持正常机体保护性免疫和免疫耐受的平衡中起着
+中国医院用药评价与分析　 2022 年第 22 卷第 5 期　
+Evaluation
+ 
+and
+ 
+analysis
+ 
+of
+ 
+drug-use
+ 
+in
+ 
+hospitals
+ 
+of
+ 
+China
+ 
+2022
+ 
+Vol. 22
+ 
+No. 5
+ 
+·543
+　
+·
+至关重要的作用,PD-L1 的表达上调是通过细胞内多种信号
+传导途径进行调节的,在肿瘤微环境免疫效应发挥着调控作
+用。 在肿瘤微环境中,PD-L1 表达上调,从而激活程序性死亡
+蛋 白-1 ( PD-1 ) / PD-L1 通 路, 介 导 肿 瘤 的 免 疫 逃 逸。
+PD-1/ PD-L1 是免疫抑制效应的调控因子,在胃癌方面已得到
+应用[11] 。 本研究以人参皂苷 Rh2 和 Rg3 为研究对象,发现
+其能够抑制胃癌 MGC-803 细胞中 PD-L1
+ 
+mRNA 和蛋白的表
+达。 本研究通过 PD-L1 载体质粒转染人参皂苷 Rh2 和 Rg3
+处理 的 胃 癌 MGC-803 细 胞, 发 现 PD-L1 能 够 促 进 胃 癌
+MGC-803 细胞 的 增 殖、 迁 移 和 侵 袭, 促 进 克 隆 形 成, 抑 制
+MGC-803 细胞凋亡。 本研究结果说明 PD-L1 是肿瘤的启动
+因子,进一步证实了 PD-L1 对肿瘤具有促进作用。 有研究结
+果表明,PD-L1 抗体可以抑制免疫细胞和肿瘤细胞之间的相
+互作用,从而维护免疫细胞对肿瘤细胞的细胞毒性[12-13] 。 本
+研究中,人参皂苷 Rh2 和 Rg3 能够明显降低胃癌 MGC-803 细
+胞中 PD-L1
+ 
+mRNA 和蛋白的表达,即人参皂苷 Rh2 和 Rg3 能
+够显著抑制肿瘤的启动因子,阻止肿瘤的发生和发展。 相关
+研究结果表明,人参皂苷 Rh2 和 Rg3 能对喉鳞癌、胃癌和肝
+癌等多种肿瘤细胞发挥抗肿瘤作用[14-15] 。 虽然目前化疗仍
+是主要手段,但化疗对正常细胞也会造成一定的影响。 而人
+参皂苷 Rh2 和 Rg3 属于天然药物,不仅具有较强的抗肿瘤活
+性,还能够起到抗肿瘤信号通路的作用[16-17] 。 有研究结果认
+为,PD-L1 与胃癌的发生有关,可能是胃癌患者临床诊断、免
+疫治疗和预后的有效靶点[18] 。 特别值得一提的是,PD-L1 单
+克隆抗体的临床试验已经顺利进行,并表现出良好的抗肿瘤
+活性[19-20] 。 本研究还证实了 PD-L1 的肿瘤促进作用。
+综上所述,人参皂苷 Rh2 和 Rg3 通过调节 PD-L1 的表达,
+抑制胃癌细胞的增殖、迁移和侵袭。 提示 PD-L1 可能是胃癌
+患者诊断、治疗和预后的潜在靶点。
+参考文献
+[1]
+DU
+ 
+H
+ 
+Z,
+ 
+LIU
+ 
+Y,
+ 
+CHEN
+ 
+X
+ 
+D,
+ 
+et
+ 
+al.
+ 
+DT-13
+ 
+synergistically
+ 
+poten-
+tiates
+ 
+the
+ 
+sensitivity
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cells
+ 
+to
+ 
+topotecan
+ 
+via
+ 
+cell
+ 
+cycle
+ 
+arrest
+ 
+in
+ 
+vitro
+ 
+and
+ 
+in
+ 
+vivo[J].
+ 
+Eur
+ 
+J
+ 
+Pharmacol,
+ 
+2018,
+ 
+818:
+ 
+124-
+131.
+[2]
+WANG
+ 
+Y,
+ 
+LV
+ 
+Y,
+ 
+LIU
+ 
+T
+ 
+S,
+ 
+et
+ 
+al.
+ 
+Cordycepin
+ 
+suppresses
+ 
+cell
+ 
+proliferation
+ 
+and
+ 
+migration
+ 
+by
+ 
+targeting
+ 
+CLEC2
+ 
+in
+ 
+human
+ 
+gastric
+ 
+cancer
+ 
+cells
+ 
+via
+ 
+Akt
+ 
+signaling
+ 
+pathway[ J].
+ 
+Life
+ 
+Sci,
+ 
+2019,
+ 
+223:
+ 
+110-119.
+[3]
+MIWA
+ 
+T,
+ 
+KANDA
+ 
+M,
+ 
+UMEDA
+ 
+S,
+ 
+et
+ 
+al.
+ 
+Homeobox
+ 
+C10
+ 
+influences
+ 
+on
+ 
+the
+ 
+malignant
+ 
+phenotype
+ 
+of
+ 
+gastric
+ 
+cancer
+ 
+cell
+ 
+lines
+ 
+and
+ 
+its
+ 
+elev-
+ated
+ 
+expression
+ 
+positively
+ 
+correlates
+ 
+with
+ 
+recurrence
+ 
+and
+ 
+poor
+ 
+survival[J].
+ 
+Ann
+ 
+Surg
+ 
+Oncol,
+ 
+2019,
+ 
+26(5):
+ 
+1535-1543.
+[4]
+CONG
+ 
+Z
+ 
+Y,
+ 
+ZHAO
+ 
+Q,
+ 
+YANG
+ 
+B,
+ 
+et
+ 
+al.
+ 
+Ginsenoside
+ 
+Rh3
+ 
+inhibits
+ 
+proliferation
+ 
+and
+ 
+induces
+ 
+apoptosis
+ 
+of
+ 
+colorectal
+ 
+cancer
+ 
+cells[ J].
+ 
+Pharmacology,
+ 
+2019,
+ 
+105(5 / 6):
+ 
+329-338.
+[5]
+HU
+ 
+Y
+ 
+B,
+ 
+WANG
+ 
+N,
+ 
+YAN
+ 
+X
+ 
+C,
+ 
+et
+ 
+al.
+ 
+Ginsenoside
+ 
+Re
+ 
+impacts
+ 
+on
+ 
+biotransformation
+ 
+products
+ 
+of
+ 
+ginsenoside
+ 
+Rb1
+ 
+by
+ 
+Cellulosimicrobium
+ 
+cellulans
+ 
+sp.
+ 
+21
+ 
+and
+ 
+its
+ 
+mechanisms[J].
+ 
+Process
+ 
+Biochem,
+ 
+2019,
+ 
+77:
+ 
+57-62.
+[6]
+TONG
+ 
+G
+ 
+L,
+ 
+CHENG
+ 
+B
+ 
+R,
+ 
+LI
+ 
+J
+ 
+Z,
+ 
+et
+ 
+al.
+ 
+MACC1
+ 
+regulates
+ 
+PDL1
+ 
+expression
+ 
+and
+ 
+tumor
+ 
+immunity
+ 
+through
+ 
+the
+ 
+c-Met/ AKT/ mTOR
+ 
+pathway
+ 
+in
+ 
+gastric
+ 
+cancer
+ 
+cells[ J].
+ 
+Cancer
+ 
+Med,
+ 
+2019,
+ 
+8(16):
+ 
+7044-7054.
+[7]
+丁思思,
+ 
+黄莉莉,
+ 
+梁含思,等.
+ 
+PD-L1 在胃癌患者手术前后外周
+血 T 细胞和单核细胞上的表达及意义[ J]. 中国免疫学杂志,
+ 
+2018,
+ 
+34(5):718-722.
+[8]
+郭奕维,
+ 
+郭秀臣,
+ 
+张静波,
+ 
+等.
+ 
+人参皂苷 Rg3 增强 PD-1 抑制剂
+对弥漫大 B 细胞淋巴瘤免疫治疗作用的体外研究[J].
+ 
+中医药
+学报,
+ 
+2018,
+ 
+46(5):
+ 
+24-29.
+[9]
+陈芳玲,
+ 
+楼雅楠,
+ 
+孔祥倩,
+ 
+等.
+ 
+三萜类化合物抗肿瘤及其作用
+机制的研究进展[J].
+ 
+中医药导报,
+ 
+2018,
+ 
+24(17):
+ 
+45-49.
+[10]　 HOU
+ 
+J
+ 
+G,
+ 
+XUE
+ 
+J
+ 
+J,
+ 
+WANG
+ 
+Z,
+ 
+et
+ 
+al.
+ 
+Ginsenoside
+ 
+Rg3
+ 
+and
+ 
+Rh2
+ 
+protect
+ 
+trimethyltin-induced
+ 
+neurotoxicity
+ 
+via
+ 
+prevention
+ 
+on
+ 
+neuronal
+ 
+apoptosis
+ 
+and
+ 
+neuroinflammation [ J].
+ 
+Phytother
+ 
+Res,
+ 
+2018,
+ 
+32
+(12):
+ 
+2531-2540.
+[11]　 LI
+ 
+J,
+ 
+ZHANG
+ 
+X
+ 
+H,
+ 
+BEI
+ 
+S
+ 
+H,
+ 
+et
+ 
+al.
+ 
+PD-1/ PD-L1
+ 
+antagonists
+ 
+in
+ 
+gastric
+ 
+cancer:
+ 
+current
+ 
+studies
+ 
+and
+ 
+perspectives[J].
+ 
+World
+ 
+J
+ 
+Meta
+ 
+Anal,
+ 
+2019,
+ 
+7(3):
+ 
+101-109.
+[12]　 HASANPOOR
+ 
+Z,
+ 
+MOSTAFAIE
+ 
+A,
+ 
+NIKOKAR
+ 
+I,
+ 
+et
+ 
+al.
+ 
+Curcumin-
+human
+ 
+serum
+ 
+albumin
+ 
+nanoparticles
+ 
+decorated
+ 
+with
+ 
+PDL1
+ 
+binding
+ 
+peptide
+ 
+for
+ 
+targeting
+ 
+PDL1-expressing
+ 
+breast
+ 
+cancer
+ 
+cells[J].
+ 
+Int
+ 
+J
+ 
+Biol
+ 
+Macromol,
+ 
+2020,
+ 
+159:
+ 
+137-153.
+[13]　 SONG
+ 
+M
+ 
+J,
+ 
+CHEN
+ 
+X
+ 
+F,
+ 
+WANG
+ 
+L
+ 
+P,
+ 
+et
+ 
+al.
+ 
+Future
+ 
+of
+ 
+anti-PD-1/
+PD-L1
+ 
+applications:
+ 
+combinations
+ 
+with
+ 
+other
+ 
+therapeutic
+ 
+regimens
+[J].
+ 
+Chin
+ 
+J
+ 
+Cancer
+ 
+Res,
+ 
+2018,
+ 
+30(2):
+ 
+157-172.
+[14]　 田君海,
+ 
+米楠楠,
+ 
+孔祥苓,
+ 
+等.
+ 
+低氧条件下人参皂苷 Rg3 对人
+喉鳞癌细胞分泌性 VEGF 的影响[ J].
+ 
+疑难病杂志,
+ 
+2018,
+ 
+17
+(2):
+ 
+180-183,
+ 
+封 3.
+[15]　 石燕燕,
+ 
+李树才,
+ 
+孙军.
+ 
+人参皂苷 Rg3 通过 PI3K/ AKT 信号系
+统调控 CaM 基因表达促进胃癌 BGC-823 细胞的凋亡[J].
+ 
+中国
+肿瘤生物治疗杂志,
+ 
+2018,
+ 
+25(6):
+ 
+590-594.
+[16]　 LI
+ 
+L,
+ 
+NI
+ 
+J
+ 
+Y,
+ 
+LI
+ 
+M,
+ 
+et
+ 
+al.
+ 
+Ginsenoside
+ 
+Rg3
+ 
+micelles
+ 
+mitigate
+ 
+doxo-
+rubicin-induced
+ 
+cardiotoxicity
+ 
+and
+ 
+enhance
+ 
+its
+ 
+anticancer
+ 
+efficacy
+[J].
+ 
+Drug
+ 
+Deliv,
+ 
+2017,
+ 
+24(1):
+ 
+1617-1630.
+[17]　 乔雪涵,
+ 
+岳丽玲,
+ 
+朱文斌.
+ 
+人参皂苷 Rg3 的抗肿瘤作用研究现
+状[J].
+ 
+中国临床药理学杂志,
+ 
+2021,
+ 
+37(10):
+ 
+1272-1276.
+[18]　 REN
+ 
+S
+ 
+X,
+ 
+AMAR
+ 
+N,
+ 
+YU
+ 
+H,
+ 
+et
+ 
+al.
+ 
+Abstract
+ 
+3636:
+ 
+the
+ 
+immune
+ 
+checkpoint,
+ 
+HVEM,
+ 
+is
+ 
+associated
+ 
+with
+ 
+PDL1
+ 
+expression
+ 
+in
+ 
+lung
+ 
+cancer
+ 
+cell
+ 
+lines [ J].
+ 
+Cancer
+ 
+Res,
+ 
+2018,
+ 
+78 ( 13 _ Supplement):
+ 
+3636.
+[19]　 王倩蓉,李宝生.
+ 
+PD-1/ PD-L1 单抗联合放疗治疗实体瘤研究进
+展[J].
+ 
+中华放射肿瘤学杂志,2016,25(12):1375-1378.
+ 
+[20]　 赵文华,于起涛.
+ 
+抗 PD-1/ PD-L1 单抗在非小细胞肺癌治疗中
+的研究进展[J].
+ 
+广西医科大学学报,
+ 
+2016,
+ 
+33(3):553-557.
+(收稿日期:2021-08-15　 修回日期:2022-01-26)

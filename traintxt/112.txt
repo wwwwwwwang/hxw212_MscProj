@@ -1,0 +1,623 @@
+1272
+ 
+中 国 临 床 药 理 学 杂 志 
+第 37 卷  第 10 期  2021 年 5 月 （ 总 第 336 期 ）     
+人参皂苷 Rg3 的抗肿瘤作用研究现状
+Research progress of ginsenoside Rg3 in anticancer effects
+收 稿 日 期 ： 2021 - 01 - 15
+定 稿 日 期 ： 2021 - 03 - 11
+基 金 项 目 ： 国
+家
+自
+然
+科
+学
+基
+金
+资
+助
+项
+目
+（ 81972491） ； 黑 龙 江 省 博 士 后 科 研
+启 动 基 金 资 助 项 目 （ LBH - 17178） ；
+黑 龙 江 省 省 属 高 校 基 本 科 研 业 务 费
+基 金 资 助 项 目 （ 2019 - KYYWF -
+1256）
+作 者 简 介 ： 乔 雪 涵 （ 1997 - ） ， 女 ， 硕 士 研 究 生 ， 主
+要 从 事 中 药 抗 肿 瘤 方 向 研 究
+通 信 作 者 ： 岳 丽 玲 ， 教 授 ， 硕 士 生 导 师
+Tel： （ 0452） 2663380
+E - mail： yuell1025＠ 126. com
+乔 雪 涵 ， 岳 丽 玲 ， 朱 文 斌
+（ 齐 齐 哈 尔
+医 学 院
+医 药 科 学 研 究 院 ， 黑 龙 江
+齐
+齐 哈 尔
+161006）
+QIAO Xue - han， YUE Li - ling，
+ZHU Wen - bin
+（ Research Institute of Medical Science
+and
+Pharmacy，
+Qiqihar
+Medical
+University， Qiqihar 161006， Heilongjiang
+Province， China）
+摘 要 ： 人 参 在 我 国 药 用 历 史 悠 久 ， 是 传 统 名 贵 中 药 材 ， 其 主 要 活 性 成 分 人 参 皂 苷
+- Rg3（ G - Rg3） 因 具 有 广 泛 药 理 作 用 而 备 受 关 注 。 作 为 天 然 植 物 药 物 ， G - Rg3
+通 过 诱 导 细 胞 凋 亡 、 抑 制 肿 瘤 增 殖 ／ 转 移 及 提 高 免 疫 和 逆 转 耐 药 性 等 方 面 在 肿 瘤
+的 预 防 和 治 疗 中 发 挥 重 要 的 作 用 。 本 文 以 近 年
+G - Rg3 的 国 内 外 文 献 为 基 础 ，
+对 其 抗 肿 瘤 作 用 及 机 制 进 行 总 结 和 分 析 ， 以 促 进 G - Rg3 进 一 步 开 发 和 利 用 。
+关 键 词 ： 人 参 ； 人 参 皂 苷 Rg3； 抗 肿 瘤 ； 作 用 机 制
+DOI： 10. 13699 ／ j. cnki. 1001 - 6821. 2021. 10. 032
+中 图 分 类 号 ： R28   文 献 标 志 码 ： A
+文 章 编 号 ： 1001 - 6821（ 2021） 10 - 1272 - 05
+Abstract： Ginseng has a long history of medicinal use in China and is a
+traditional and valuable Chinese medicinal material.
+Its main active
+ingredient， ginsenoside - Rg3 （ G - Rg3） ， has received much attention
+because of its extensive pharmacological effects.
+As a natural plant
+medicine，
+G - Rg3 plays an important role in the prevention and
+treatment of
+tumors
+by
+inducing
+cell
+apoptosis，
+inhibiting
+tumor
+proliferation
+／
+metastasis，
+improving
+immunity
+and
+reversing
+drug
+resistance. Based on the literatures， this paper summarized and analyzed
+the anti - tumor effect and mechanism of G - Rg3 to promote the further
+development and utilization of G - Rg3.
+Key words：
+ginseng；
+ginsenoside Rg3；
+anti - tumor；
+mechanism of
+action
+  以 细 胞 生 长 失 控 为 特 征 的 癌 症 被 认 为 是 全 球 第 二 大 死 亡 原 因 ，
+严 重 威 胁 公 共 健 康 。 全 球 恶 性 肿 瘤 目 前 正 以 惊 人 的 速 度 增 长 ， 迄 今
+为 止 还 没 有 有 效 的 治 疗 方 法 来 遏 制 。 人 参 作 为 我 国 名 贵 的 传 统 中 药
+材 ， 拥 有 两 千 多 年 的 使 用 历 史 ， 具 有 补 脾 益 肺 ， 补 气 生 津 ， 安 神 益 智 等
+功 效 。 人 参 皂 苷 - Rg3（ ginsenoside Rg3， G - Rg3） 是 人 参 中 的 主 要 活
+性 成 分 ， 属 于 人 参 二 醇 型 四 环 三 萜 类 皂 苷 ， 研 究 发 现 其 具 有 抗 肿 瘤 、
+神 经 保 护 、 心 血 管 系 统 保 护 、 抗 疲 劳 、 抗 氧 化 、 降 血 糖 、 增 强 免 疫 功
+能
+［ 1］ 等 广 泛 药 理 作 用 。 研 究 证 据 表 明 ， G - Rg3 在 肿 瘤 的 预 防 和 治 疗
+中 起 着 重 要 作 用 ， 可 用 作 常 规 恶 性 肿 瘤 治 疗 的 佐 剂 ， 通 过 协 同 作 用 提
+高 疗 效 和 降 低 药 物 不 良 反 应 发 生 率 。 我 国 第 一 个 上 市 的 一 类 中 药 单
+体 抗 癌 新 药 ——— 参 一 胶 囊 ， 就 是 以
+G - Rg3 为 主 要 成 分 ， 临 床 上 用 于
+多 种 癌 症 的 辅 助 治 疗
+［ 2］ 。 本 文 将 就 近 年 国 内 外 对
+G - Rg3 抗 肿 瘤 作
+用 的 相 关 研 究 进 行 综 述 ， 以 期 为 G - Rg3 的 进 一 步 开 发 和 利 用 提 供 理
+论 指 导 。
+万方数据
+Chin J Clin Pharmacol
+ 1273
+ 
+Vol. 37 No. 10 May 2021（ Serial No. 336）
+1 抗 肿 瘤 作 用
+多 项 研 究 表 明 G - Rg3 可 以 作 用 于 肿 瘤 发 生 的 不
+同 进 程 中 ， 包 括 增 殖 、 凋 亡 、 迁 移 、 血 管 生 成 和 肿 瘤 免
+疫 原 性 。 与 靶 向 药 物 不 同 ， G - Rg3 具 有 多 种 靶 点 ， 并
+通 过 多 种 机 制 发 挥 抗 癌 活 性 。
+1. 1 诱 导 凋 亡 和 抑 制 增 殖
+肿 瘤 中 细 胞 增 殖 和 凋 亡 的 失 衡 是 导 致 其 无 限 制
+生 长 的 重 要 原 因 。 诱 导 凋 亡 是 G - Rg3 在 不 同 癌 症 中
+最 重 要 的 作 用 机 制 之 一 。 G - Rg3 可 以 通 过 两 个 主 要
+途 径 诱 导 凋 亡 ： 线 粒 体 依 赖 性 内 在 凋 亡 途 径 和 死 亡 受
+体 依 赖 性 外 在 途 径
+［ 3］ 。
+G - Rg3 能 上 调 促 凋 亡 蛋 白
+Bax 和 Bid、 细 胞 色 素
+c（ Cyt - c） 的 表 达 ， 下 调
+Bcl - 2
+蛋 白 表 达 ， 诱 导 人 肺 腺 癌 细 胞 株 凋 亡
+［ 4］ 。 有 研 究 表 明
+G - Rg3 与
+TRAIL 具 有 协 同 作 用 ， G - Rg3 可 以 激 活
+TRAIL， 同 时 提 升 caspase - 8 的 表 达 来 提 高 肺 癌
+H358
+细 胞 对
+TRAIL 的 敏 感 性 ， 诱 导 肺 癌
+H358 细 胞 的 凋
+亡
+［ 5］ 。 最 近 有 报 道 ， G - Rg3 可 通 过 调 节 自 噬 促 进 肿
+瘤 细 胞 凋 亡
+［ 6］ 。
+G - Rg3 对 癌 细 胞 增 殖 具 有 显 著 的 抑 制 作 用 。
+JOO 等
+［ 7］ 发 现
+G - Rg3 作 用 于 人 肺 癌
+A549 细 胞 ， 可
+以 下 调 表 皮 生 长 因 子 受 体
+EGFR， 减 弱
+EGFR 信 号 转
+导 ， 最 终 导 致 细 胞 死 亡 。
+G - Rg3 也 可 抑 制
+C／ EBPβ ／
+NF - κB 信 号 通 路
+［ 8］ ， 调 节 细 胞 周 期 蛋 白 依 赖 性 激 酶
+途 径 诱 导 细 胞 周 期
+G1 期 阻 滞
+［ 9］ ， 从 而 抑 制 肿 瘤 细 胞
+增 殖 ， 发 挥 抗 癌 功 效 。
+1. 2 抑 制 上 皮 间 质 转 化 （ epithelial mesenchymal
+transition， EMT）
+一 般 认 为 ， 上 皮 间 质 转 化 通 过 诱 导 极 化 的 上 皮 肿
+瘤 细 胞 获 得 间 质 细 胞 表 型 ， 导 致 肿 瘤 细 胞 从 原 发 部 位
+扩 散 。 因 此 ， EMT 现 象 被 认 为 是 促 进 肿 瘤 细 胞 迁 移 和
+侵 袭 的 重 要 因 素 。
+研 究 发 现 ， 20 （ R） - G - Rg3 在
+TGF - β1 诱 导 的 EMT 过 程 中 可 显 著 增 加 上 皮 标 志 物
+E - cadherin 的 表 达 ， 并 抑 制
+Snail 的 上 调 和 间 充 质 标
+志 物 波 形 蛋 白 （ Vimentin） 的 表 达 ， 在 体 外 抑 制 肺 癌 细
+胞 迁 移 、 侵 袭 和 抗 失 巢 凋 亡
+［ 10］ 。 20（ S） - G - Rg3 可
+增 加 鼻 咽 癌 细 胞 中 E - cadherin 的 表 达 ， 降 低 Vimentin
+和 N - cadherin 的 表 达 ， 逆 转
+TGF - β 诱 导 的 上 皮 细
+胞 形 态 学 转 变 和
+EMT 标 记 蛋 白 的 变 化 ， 作 者 认 为
+抑 制
+EMT 可 能 是
+G - Rg3 抑 制 鼻 咽 癌 细 胞 迁 移 和
+侵 袭 的 另 一 种 机 制
+［ 11］ 。
+20 （ S） - G - Rg3 还 可 以
+通 过 上 述 机 制 抑 制 胶 质 瘤
+［ 12］ 、 骨 肉 瘤
+［ 13］ 细 胞 的 上
+皮 间 质 转 化 。
+此 外 ， 20 （ S） - G - Rg3 可 以 靶 向
+HIF - 1α， 在 体 内 外 有 效 地 阻 断 缺 氧 诱 导 的 卵 巢 癌
+细 胞 的 上 皮 间 质 转 化
+［ 14］ 。
+1. 3 抑 制 肿 瘤 细 胞 的 干 性
+已 证 实 肿 瘤 细 胞 群 体 中 存 在 肿 瘤 干 细 胞 （ tumor
+stem cells， TSCs） ， 这 些 细 胞 具 有 自 我 更 新 和 多 向 分 化
+潜 能 。 TSCs 的 存 在 被 认 为 是 癌 症 起 始 、 转 移 、 复 发 和
+化 疗 耐 药 的 驱 动 因 素 。
+干 性 相 关 调 节 因 子
+NANOG、
+SOX2、 Bmi - 1 和
+OCT4 在 肿 瘤 细 胞 自 我 更 新 和 维 持
+干 细 胞 未 分 化 状 态 中 发 挥 重 要 作 用 ， 常 在 肿 瘤 细 胞 中
+高 表 达 增 强 癌 细 胞 的 干 性 。 OH 等
+［ 15］ 证 明 G - Rg3 能
+够 通 过 抑 制 Sox - 2 和
+Bmi - 1 信 号 来 调 节 自 我 更 新
+能 力 而 削 弱 乳 腺 癌 干 细 胞 样 特 性 ； PHI 等
+［ 16］ 发 现 在 用
+20（ R） - G - Rg3 治 疗 后
+NANOG 和
+SOX2 的 表 达 信
+号 失 调 ， 肿 瘤 细 胞 的 自 我 更 新 能 力 受 到 抑 制 ， 并 证 实
+G - Rg3 通 过
+Snail 信 号 轴 影 响 结 直 肠 癌 的 肿 瘤 干 细
+胞 特 性 和 上 皮 间 质 转 化 ； TAN 等
+［ 17］ 发 现 G - Rg3 能 够
+通 过 降 低 非 小 细 胞 肺 癌 细 胞 体 外 成 球 能 力 、 ALDH1 活
+性 以 及 干 细 胞 标 记 物 的 表 达 而 抑 制 肿 瘤 细 胞 的 干 性 ，
+并 减 弱 非 小 细 胞 肺 癌 细 胞 对 奥 希 替 尼 （ osimertinib） 的
+耐 药 性 。 这 些 研 究 表 明 ， G - Rg3 具 有 靶 向 肿 瘤 干 细
+胞 的 治 疗 潜 力 。
+1. 4 激 活 内 质 网 应 激
+已 经 证 明 内 质 网 应 激 触 发 不 同 的 生 化 过 程 ， 包 括
+细 胞 内 钙 离 子 稳 态 失 衡 ； 未 折 叠 蛋 白 反 应 （ unfolded
+protein response， UPR） 以 及 活 性 氧 （ reactive oxygen
+species， ROS） 的 产 生 等 。 已 有 几 种 激 活 内 质 网 应 激 的
+药 物 被 批 准 用 于 临 床 前 和 临 床 使 用 ， 包 括 索 拉 非 尼 ，
+eeyarestatin， 坦 螺 旋 霉 素 ， radicicol 和
+MAL3 - 101
+［ 18］ 。
+WU 等
+［ 19］ 提 出 ， G - Rg3 体 内 外 抗 胆 囊 癌 活 性 是 由 内
+质 网 应 激 介 导 的 。
+G - Rg3 能 够 通 过 上 调
+C／ EBP 同
+源 蛋 白 、 磷 酸 化 IRE1 ／ PERK 和 活 化 caspase - 12， 诱 导
+胆 囊 癌 细 胞 激 活 内 质 网 应 激 ， 从 而 发 挥 抗 癌 的 作 用 。
+WU 等
+［ 20］ 后 续 研 究 进 一 步 证 实
+G - Rg3 通 过
+PERK／ p
+- eIF2α ／ ATF4 ／ CHOP／ Lcn2 信 号 通 路 诱 导 胆 囊 癌
+GBC - SD 细 胞 凋 亡 。 在 G - Rg3 处 理 的
+GBC - SD 细
+胞 系 和 异 种 移 植 小 鼠 模 型 中 ， 内 质 网 应 激 的 标 志 性 蛋
+白 p - eIF2α 和
+ATF4 被 上 调 ， ROS 表 达 增 加 ， GPX 和
+SOD 酶 活 性 降 低 。
+这 些 结 果 表 明 ， G - Rg3 诱 导 的 胆
+囊 癌 细 胞 凋 亡 是 通 过 内 质 网 应 激 信 号 通 路 介 导 的 。
+1. 5 调 节 表 观 遗 传 修 饰
+表 观 遗 传 修 饰 与 癌 基 因 激 活 和 抑 癌 基 因 失 活 密
+切 相 关 ， 其 中
+DNA 启 动 子 异 常 高 甲 基 化 是 肿 瘤 抑 制
+基 因 失 活 的 潜 在 机 制 。 研 究 表 明 ， 20（ S） - G - Rg3 可
+降 低 肝 癌 HepG2 细 胞 全 基 因 组
+DNA 甲 基 化 水 平 ， 改
+变 P53、 Bcl - 2 和
+VEGF 启 动 子 区 的 甲 基 化 ， 并 下 调
+DNA 甲 基 转 移 酶 3a 和 3b 的 表 达
+［ 21］ 。 全 基 因 组 甲 基
+万方数据
+1274
+ 
+中 国 临 床 药 理 学 杂 志 
+第 37 卷  第 10 期  2021 年 5 月 （ 总 第 336 期 ）     
+化 分 析 发 现 G - Rg3 通 过 改 变 肿 瘤 相 关 基 因 甲 基 化 水
+平 而 导 致 乳 腺 癌
+MCF - 7 细 胞 生 长 抑 制
+［ 22］ 。
+除 了 甲
+基 化 ， 组 蛋 白 乙 酰 化 是 转 录 调 节 的 另 一 种 重 要 方 式 。
+研 究 证 实 ， G - Rg3 可 通 过 下 调 组 蛋 白 去 乙 酰 化 酶
+3
+（ histone deacetylase - 3， HDAC - 3） 的 表 达 ， 增 加
+p53
+乙 酰 化 而 抑 制 黑 色 素 瘤 细 胞 增 殖
+［ 23］ ； 还 可 通 过 作 用
+于 HDAC - 3 导 致 c - Jun 乙 酰 化 ， 抑 制 皮 肤 鳞 状 细 胞
+癌 细 胞 上 皮 间 质 转 化
+［ 24］ 。
+ZHAO 等
+［ 25］ 发 现
+G - Rg3
+能 够 通 过 降 低 p53、 p16 和
+hMLH1 基 因 启 动 子 甲 基 化
+水 平 和 增 加 组 蛋 白 H3 及
+H4 乙 酰 化 而 抑 制 卵 巢 癌 细
+胞 的 增 殖 、 转 移 和 侵 袭 ， 促 进 细 胞 凋 亡 。
+这 些 结 果 表
+明 ， 调 节 表 观 遗 传 修 饰 可 能 在
+G - Rg3 的 药 物 活 性 中
+起 重 要 作 用 。
+1. 6 促 进 DNA 损 伤 修 复
+环 境 因 素 引 起 的
+DNA 损 伤 是 将 正 常 细 胞 转 化 为
+癌 细 胞 的 关 键 因 素 之 一 ， 而 细 胞 对
+DNA 损 伤 的 第 一
+反 应 是 修 复 ， 以 防 止 肿 瘤 发 生
+［ 26］ 。 研 究 表 明 ， G - Rg3
+可 以 减 少 由 烷 化 剂 和 氧 化 应 激 诱 导 的 正 常 细 胞 的
+DNA 损 伤 和 凋 亡
+［ 27 - 29］ 。 此 外 ， G - Rg3 对 射 线 诱 导 的
+DNA 双 链 断 裂 具 有 保 护 作 用
+［ 30］ 。 临 床 研 究 表 明 ， G -
+Rg3 可 以 缓 解 放 疗 或 化 疗 对 血 液 系 统 产 生 药 物 不 良
+反 应 ， 这 些 药 物 不 良 反 应 与 电 离 辐 射 、 烷 基 化 剂 或 靶
+向 药 物 引 起 的
+DNA 损 伤 和 突 变 密 切 相 关
+［ 31］ 。
+LIU
+等
+［ 32］ 通 过 体 内 外 研 究 发 现 ， G - Rg3 可 以 通 过 激 活
+vrk1 ／ p53bp1 途 径 促 进
+DNA 损 伤 修 复 ， 保 护
+DNA 完
+整 性 并 显 著 抑 制 非 小 细 胞 肺 癌 细 胞 的 增 殖 ， 减 缓 肿 瘤
+的 进 展 。
+1. 7 抑 制 糖 酵 解
+糖 酵 解 即
+Warburg 效 应 被 认 为 是 癌 症 发 展 的 重
+要 能 量 来 源 ， 对 肿 瘤 细 胞 的 生 长 、 增 殖 和 存 活 至 关 重
+要 。 LIU
+［ 33］ 等 证 实 G - Rg3 能 够 通 过 下 调 miRNA - 21
+介 导 的
+PI3K／ AKT／ mTOR 信 号 通 路 抑 制 糖 酵 解 而 减
+轻 Atp4a - ／ - 小 鼠 胃 黏 膜 的 癌 前 病 变 。
+G - Rg3 能 够
+下 调 糖 酵 解 途 径 的 两 个 关 键 酶
+HK2 和
+PKM2， 抑 制 卵
+巢 癌 细 胞 的 Warburg 效 应 。 其 机 制 研 究 表 明 ， G - Rg3
+通 过 调 节
+STAT3
+［ 34］ 或
+DNMT3A／ miR - 532 - 3p
+［ 35］ 途
+径 下 调 HK2； 下 调
+PKM2 的 机 制 是 通 过 阻 断
+H19 对
+miR - 324 - 5p 的 竞 争 性 抑 制 ， 使
+miR - 324 - 5p 对
+PKM2 的 靶 向 抑 制 增 强 ， 从 而 抑 制
+Warburg 效 应 减 少
+肿 瘤 发 生
+［ 36］ 。 因 此 ， Rg3 对 糖 酵 解 的 调 节 是 一 种 潜 在
+的 抗 癌 机 制 。
+2 讨 论
+越 来 越 多 的 文 献 证 实 G - Rg3 具 有 强 大 的 药 理 学
+活 性 ， 在 体 外 和 体 内 对 多 种 类 型 的 癌 症 显 示 出 良 好 的
+抗 肿 瘤 作 用 ， 同 时 其 耐 受 性 较 好 ， 无 明 显 药 物 不 良 反
+应 ， 可 作 为 有 效 的 化 疗 增 敏 剂 应 用 。 然 而 ， G - Rg3 存
+在 水 溶 性 低 、 口 服 生 物 利 用 度 差 的 问 题 ， 严 重 影 响 临
+床 应 用 。 因 此 ， 研 究 者 将 其 与 新 型 制 剂 相 结 合 ， 构 建
+靶 向 纳 米 递 药 系 统 ， 以 增 大 递 药 效 率 和 治 疗 效 果 。
+REN 等
+［ 37］ 将
+G - Rg3 与
+Fe＠ Fe3 O4 纳 米 粒 子 通 过 偶
+联 反 应 合 成 了 纳 米 药 物 NpRg3， 可 显 著 抑 制 DEN 诱 导
+的 原 发 性 肝 癌 的 发 展 和 肺 转 移 ； 还 有 研 究 证 实
+PLGA
+纳 米 粒 子 包 裹 的 20（ R） - G - Rg3 显 示 了 更 强 的 抗 肿
+瘤 活 性
+［ 38］ ； SU 等
+［ 39］ 研 究 表 明 ， Angiopep - 2 修 饰 的
+G
+- Rg3 纳 米 粒 表 现 出 良 好 的 缓 释 特 性 ， 更 容 易 透 过 血
+脑 屏 障 ， 并 加 速
+C6 胶 质 瘤 细 胞 对 纳 米 粒 的 摄 取 。
+这
+些 数 据 将 有 利 于 G - Rg3 新 剂 型 的 开 发 和 广 泛 应 用 。
+目 前 ， G - Rg3 的 作 用 机 制 尚 未 完 全 阐 明 ， 其 对 肿
+瘤 微 环 境 有 何 影 响 、 能 否 增 强 靶 向 药 物 的 疗 效 等 均 不
+明 确 ； G - Rg3 与 化 学 药 物 联 合 运 用 ， 增 强 疗 效 的 同 时
+可 有 效 降 低 化 学 药 物 的 药 物 不 良 反 应 发 生 率 ， 但 其 药
+物 不 良 反 应 及 抵 抗 肿 瘤 的 种 类 及 适 应 人 群 还 有 待 进
+一 步 的 研 究 。
+后 续 研 究 应 加 强 临 床 研 究 ， 丰 富
+G -
+Rg3 药 理 作 用 ， 阐 明 作 用 靶 点 及 机 制 ， 明 确 其 药 物 不
+良 反 应 。
+参 考 文 献 ：
+［ 1 ］  陈 德 云 ， 沈 志 强 ， 何 波 . 人 参 皂 苷 活 性 单 体 - 20（ R） - 人 参 皂 苷
+Rg3 药 理 作 用 及 其 机 制 的 研 究 进 展 ［ J］ . 天 然 产 物 研 究 与 开 发 ，
+2019， 31（ 7） ： 1285 - 1290.
+［ 2 ］  罗 林 明 ， 石 雅 宁 ， 姜 懿 纳 ， 等 . 人 参 抗 肿 瘤 作 用 的 有 效 成 分 及 其
+机 制 研 究 进 展 ［ J］ . 中 草 药 ， 2017， 48（ 3） ： 582 - 596.
+［ 3 ］  SUN M， YE Y， XIAO L， et al. Anticancer effects of ginsenoside
+Rg3 （ Review） ［ J］ . Int J Mol Med， 2017， 39（ 3） ： 507 - 518.
+［ 4 ］  王 艳 . 人 参 皂 苷
+Rg3 对 人 肺 腺 癌 细 胞 株 抗 肿 瘤 作 用 及 相 关 机
+制 的 研 究 ［ D］ . 黑 龙 江
+哈 尔 滨 ： 黑 龙 江 中 医 药 大 学 ， 2011.
+［ 5 ］  安 辉 ， 李 思 思 ， 高 野 ， 等
+. 人 参 皂 苷
+Rg3 协 同
+TRAIL 促 进 肺 癌
+H358 细 胞 凋 亡 的 机 制 ［ J］ . 中 国 肿 瘤 生 物 治 疗 杂 志 ， 2019， 26
+（ 9） ： 988 - 992.
+［ 6 ］  BIAN S， ZHAO Y， LI F， et al. 20（ S） - Ginsenoside Rg3 pro-
+motes HeLa cell apoptosis by regulating autophagy［ J］ . Molecules，
+2019， 24（ 20） ： 3655.
+［ 7 ］  JOO E J， CHUN J， HA Y W， et al. Novel roles of ginsenoside Rg3
+in apoptosis through downregulation of epidermal growth factor re-
+ceptor［ J／ OL］ . Chem Biol Interact， 2015， 233： 25 - 34. 2015 -
+05 - 25 ［ 2020 - 12 - 25 ］ . https： ／ ／ pubmed. ncbi. nlm. nih. gov／
+25824408 ／ .
+［ 8 ］  YANG X， ZOU J， CAI H， et al. Ginsenoside Rg3 inhibits colorec-
+tal tumor growth via down - regulation of C／ EBPβ ／ NF - κB signa-
+ling［ J／ OL］ . Biomed Pharmacother， 2017， 96： 1240 - 1245. 2017
+- 11 - 21［ 2020 - 12 - 25］ . https： ／ ／ pubmed. ncbi. nlm. nih. gov／
+29169725 ／ .
+万方数据
+Chin J Clin Pharmacol
+ 1275
+ 
+Vol. 37 No. 10 May 2021（ Serial No. 336）
+［ 9 ］  LI Y， YANG T， LI J， et al. Inhibition of multiple myeloma cell
+proliferation by ginsenoside Rg3 via reduction in the secretion of IGF
+- 1［ J］ . Mol Med Rep， 2016， 14（ 3） ： 2222 - 2230.
+［ 10］  KIM Y J， CHOI W I， JEON B N， et al. Stereospecific effects of
+ginsenoside 20 - Rg3 inhibits TGF - β1 - induced epithelial - mes-
+enchymal transition and suppresses lung cancer migration， invasion
+and anoikis resistance［ J／ OL］ . Toxicology， 2014， 322： 23 - 33.
+2014
+-
+05
+-
+02
+［ 2020
+-
+12
+-
+25 ］
+.
+https： ／ ／
+pubmed. ncbi. nlm. nih. gov／ 24793912 ／ .
+［ 11］  WANG D， WU C， LIU D， et al. Ginsenoside Rg3 inhibits migra-
+tion and invasion of nasopharyngeal carcinoma cells and suppresses
+epithelial mesenchymal transition［ J／ OL］ . Biomed Res Int， 2019，
+2019： 8407683. 2019 - 02 - 24 ［ 2020 - 12 - 25 ］ .
+https： ／ ／
+pubmed. ncbi. nlm. nih. gov／ 30915362 ／ .
+［ 12］  CHEN Z， WEI X， SHEN L， et al. 20（ S） - ginsenoside - Rg3 re-
+verses temozolomide resistance and restrains epithelial - mesenchy-
+mal transition progression in glioblastoma［ J］ . Cancer Sci， 2019，
+110（ 1） ： 389 - 400.
+［ 13］  MAO X， JIN Y， FENG T， et al. Ginsenoside Rg3 inhibits the
+growth of osteosarcoma and attenuates metastasis through the Wnt／ β
+- Catenin and EMT signaling pathway［ J／ OL］ . Evid Based Comple-
+ment Alternat Med， 2020， 2020： 6065124. 2020 - 07 - 11［ 2020
+- 12 - 25］ . https： ／ ／ pubmed. ncbi. nlm. nih. gov／ 32733585 ／ .
+［ 14］  LIU T， ZHAO L， ZHANG Y， et al. Ginsenoside 20（ S） - Rg3 tar-
+gets HIF - 1α to block hypoxia - induced epithelial - mesenchymal
+transition in ovarian cancer cells［ J］ . PLoS One， 2014， 9 （ 9） ：
+103887.
+［ 15］  OH J， YOON H J， JANG J H， et al. The standardized Korean Red
+Ginseng extract and its ingredient ginsenoside Rg3 inhibit manifesta-
+tion of breast cancer stem cell - like properties through modulation
+of self - renewal signaling［ J］ . J Ginseng Res， 2019， 43（ 3） ： 421
+- 430.
+［ 16］  PHI L T H， WIJAYA Y T， SARI I N， et al. 20（ R） - ginsenoside
+Rg3 influences cancer stem cell properties and the epithelial - mes-
+enchymal transition in colorectal cancer via the SNAIL signaling axis
+［ J／ OL］ . Onco Targets Ther， 2019， 12： 10885 - 10895. 2019 -
+12 - 11 ［ 2020 - 12 - 25］ .
+https： ／ ／ pubmed. ncbi. nlm. nih. gov／
+31849492 ／ .
+［ 17］  TAN Q， LIN S， ZENG Y， et al. Ginsenoside Rg3 attenuates the os-
+imertinib resistance by reducing the stemness of non - small cell
+lung cancer cells［ J］ . Environ Toxicol， 2020， 35（ 6） ： 643 - 651.
+［ 18］  HETZ C， CHEVET E， HARDING H P. Targeting the unfolded pro-
+tein response in disease［ J］ . Nat Rev Drug Discov， 2013， 12（ 9） ：
+703 - 719.
+［ 19］  WU K， LI N， SUN H， et al. Endoplasmic reticulum stress activa-
+tion mediates Ginseng Rg3 - induced anti - gallbladder cancer cell
+activity［ J］ . Biochem Biophys Res Commun， 2015， 466（ 3） ： 369 -
+375.
+［ 20］  WU K， HUANG J， LI N， et al. Antitumor effect of ginsenoside Rg3
+on gallbladder cancer by inducing endoplasmic reticulum stress -
+mediated apoptosis in vitro and in vivo［ J］ . Oncol Lett， 2018， 16
+（ 5） ： 5687 - 5696.
+［ 21］  TENG S， WANG Y， LI P， et al. Effects of R type and S type gin-
+senoside Rg3 on DNA methylation in human hepatocarcinoma cells
+［ J］ . Mol Med Rep， 2017， 15（ 4） ： 2029 - 2038.
+［ 22］  HAM J， LEE S， LEE H， et al. Genome - wide methylation analysis
+identifies NOX4 and KDM5A as key regulators in inhibiting breast
+cancer cell proliferation by ginsenoside Rg3［ J］ . Am J Chin Med，
+2018， 46（ 6） ： 1333 - 1355.
+［ 23］  SHAN X， FU Y S， AZIZ F， et al. Ginsenoside Rg3 inhibits mela-
+noma cell proliferation through down - regulation of histone deacety-
+lase 3（ HDAC3） and increase of p53 acetylation［ J］ . PLoS One，
+2014， 9（ 12） ： 115401.
+［ 24］  ZHANG L， SHAN X， CHEN Q， et al. Downregulation of HDAC3
+by ginsenoside Rg3 inhibits epithelial - mesenchymal transition of
+cutaneous squamous cell carcinoma through c - Jun acetylation［ J］ .
+J Cell Physiol， 2019， 234（ 12） ： 22207 - 22219.
+［ 25］  ZHAO L， SHOU H， CHEN L， et al. Effects of ginsenoside Rg3 on
+epigenetic modification in ovarian cancer cells ［ J］ .
+Oncol Rep，
+2019， 41（ 6） ： 3209 - 3218.
+［ 26］  MA J， SETTON J， LEE N Y， et al. The therapeutic significance of
+mutational signatures from DNA repair deficiency in cancer［ J］ . Nat
+Commun， 2018， 9（ 1） ： 3292.
+［ 27］  ZHANG Y H， LI H D， LI B， et al. Ginsenoside Rg3 induces DNA
+damage in human osteosarcoma cells and reduces MNNG - induced
+DNA damage and apoptosis in normal human cells［ J］ . Oncol Rep，
+2014， 31（ 2） ： 919 - 925.
+［ 28］  POON P Y， KWOK H H， YUE P Y， et al. Cytoprotective effect of
+20S - Rg3 on benzo［ a］ pyrene - induced DNA damage Drug Metab
+［ J］ . Dispos， 2012， 40（ 1） ： 120 - 129.
+［ 29］  LEE C K， PARK K K， CHUNG A S， et al. Ginsenoside Rg3 en-
+hances the chemosensitivity of tumors to cisplatin by reducing the
+basal level of nuclear factor erythroid 2 - related factor 2 - mediated
+heme oxygenase - 1 ／ NAD （ P） H quinone oxidoreductase - 1 and
+prevents normal tissue damage by scavenging cisplatin - induced in-
+tracellular reactive oxygen species［ J］ . Food Chem Toxicol， 2012，
+50（ 7） ： 2565 - 2574.
+［ 30］  KIM J Y， PARK J Y， KANG H J， et al. Beneficial effects of Kore-
+an red ginseng on lymphocyte DNA damage， antioxidant enzyme ac-
+tivity， and LDL oxidation in healthy participants： a randomized，
+double - blind， placebo - controlled trial［ J／ OL］ . Nutr J， 2012，
+11：
+47.
+2012 - 07 - 11 ［ 2020 - 12 - 25 ］ .
+https： ／ ／
+pubmed. ncbi. nlm. nih. gov／ 22805313 ／ .
+［ 31］  张 英 ， 王 学 谦 ， 刘 浩 ， 等 . 参 一 胶 囊 联 合 化 疗 改 善 晚 期 非 小 细 胞
+肺 癌 患 者 预 后 的 多 中 心 大 样 本 随 机 临 床 研 究 ［ J］ . 中 华 肿 瘤 杂
+志 ， 2018， 40（ 4） ： 295 - 299.
+［ 32］  LIU T H， ZUO L， GUO D Q， et al. Ginsenoside Rg3 regulates
+DNA damage in non - small cell lung cancer cells by activating
+VRK1 ／ P53BP1 pathway ［ J］ .
+Biomed Pharmacother， 2019， 120
+（ 1） ： 109483.
+［ 33］  LIU W， PAN H F， YANG L J， et al. Panax ginseng C. A. Meyer
+（ Rg3） ameliorates gastric precancerous lesions in Atp4a - ／ - mice
+via inhibition of glycolysis through PI3K／ AKT／ miRNA - 21 pathway
+［ J／ OL］ .
+Evid Based Complement Alternat Med， 2020， 2020：
+2672648. 2020 - 01 - 31 ［ 2020 - 12 - 25 ］ .
+https： ／ ／
+pubmed. ncbi. nlm. nih. gov／ 32076440 ／ .
+万方数据
+1276
+ 
+中 国 临 床 药 理 学 杂 志 
+第 37 卷  第 10 期  2021 年 5 月 （ 总 第 336 期 ）     
+［ 34］  LI J， LIU T， ZHAO L， et al. Ginsenoside 20（ S） - Rg3 inhibits
+the Warburg effect through STAT3 pathways in ovarian cancer cells
+［ J］ . Int J Oncol， 2015， 46（ 2） ： 775 - 781.
+［ 35］  ZHOU Y， ZHENG X， LU J， et al. Ginsenoside 20（ S） - Rg3 in-
+hibits the Warburg effect via modulating DNMT3A／ MiR - 532 - 3p／
+HK2 pathway in ovarian cancer cells［ J］ . Cell Physiol Biochem，
+2018， 45（ 6） ： 2548 - 2559.
+［ 36］  ZHENG X， ZHOU Y， CHEN W， et al. Ginsenoside 20（ S） - Rg3
+prevents PKM2 - targeting miR - 324 - 5p from H19 sponging to an-
+tagonize the Warburg effect in ovarian cancer cells［ J］ . Cell Physiol
+Biochem， 2018， 51（ 3） ： 1340 - 1353.
+［ 37］  REN Z， CHEN X， HONG L， et al. Nanoparticle conjugation of
+ginsenoside Rg3 inhibits hepatocellular carcinoma development and
+metastasis［ J］ . Small， 2020， 16（ 2） ： 1905233.
+［ 38］  ZHANG S， LIU J， GE B， et al. Enhanced antitumor activity in A431
+cells via encapsulation of 20（ R） - ginsenoside Rg3 in PLGA nanoparti-
+cles［ J］ . Drug Dev Ind Pharm， 2017， 43（ 10） ： 1734 -1741.
+［ 39］  SU X， ZHANG D， ZHANG H， et al. Preparation and characteriza-
+tion of angiopep - 2 functionalized Ginsenoside - Rg3 loaded nanop-
+articles and the effect on C6 Glioma cells［ J］ . Pharm Dev Technol，
+2020， 25（ 3） ： 385 - 395.
+（ 本 文 编 辑  王 超 群 ）
+（ 上 接 第 1271 页 ）
+［ 37］  YUAN Z， YANG L， ZHANG X， et al. Huang - Lian - Jie - Du de-
+coction ameliorates acute ulcerative colitis in mice via regulating
+NF - κB and Nrf2 signaling pathways and enhancing intestinal
+barrier function ［ J／ OL ］ .
+Front Pharmacol，
+2019， 10：
+1354.
+2019 - 11 - 21 ［ 2020 - 12 - 25］ . https： ／ ／ pubmed. ncbi. nlm. nih.
+gov／ 31849642 ／
+［ 38］  PRIEGO S， FEDDI F， FERRER P， et al. Natural polyphenols
+facilitate elimination of HT - 29 colorectal cancer xenografts by
+chemoradiotherapy： a Bcl - 2 - and superoxide dismutase 2 - de-
+pen-dent mechanism ［ J］ .
+Mol Cancer Ther，
+2008， 7 （ 10 ） ：
+3330 - 3342.
+［ 39］  DARBAND SG， SADIGHPARVAR S， YOUSEFI B， et al. Querce-
+tin attenuated oxidative DNA damage through NRF2 signaling path-
+way in rats with DMH induced colon carcinogenesis［ J／ OL］ . Life
+Sci， 2020， 253： 117584. 2020 - 07 - 15 ［ 2020 - 12 - 25 ］ .
+https： ／ ／ pubmed. ncbi. nlm. nih. gov／ 32220623 ／ .
+［ 40］  王 子 元 ， 孙 明 瑜 ， 陈 佳 ， 等 . 健 脾 解 毒 方 通 过
+NF - κB ／ Nrf2 ／
+MRP2 信 号 通 路 逆 转 大 肠 癌 多 药 耐 药 的 作 用 机 制 ［ J］ . 中 华 中 医
+药 杂 志 ， 2020， 35（ 7） ： 3367 - 3371.
+［ 41］  WANG C， YANG S，
+GAO L， et al.
+Carboxymethyl pachyman
+（ CMP） reduces intestinal mucositis and regulates the intestinal mi-
+croflora in 5 - fluorouracil - treated CT26 tumour - bearing mice
+［ J］ . Food Funct， 2018， 9（ 5） ： 2695 - 2704.
+［ 42］  李 伟 锋 ， 蒋 建 兰 . 姜 黄 素 药 理 作 用 的 研 究 现 状 ［ J］ . 中 国 临 床 药
+理 学 杂 志 ， 2017， 33（ 10） ： 957 - 960.
+［ 43］  ZHANG C， HE L J， YE H Z， et al. Nrf2 is a key factor in the re-
+versal effect of curcumin on multidrug resistance in the HCT - 8 ／ 5 -
+Fu human colorectal cancer cell line［ J］ . Mol Med Rep， 2018， 18
+（ 6） ： 5409 - 5416.
+［ 44］  TONG W， WANG Q， SUN D， et al. Curcumin suppresses colon
+cancer cell invasion via AMPK - induced inhibition of NF - κB，
+uPA activator and MMP9 ［ J］ . Oncol Lett， 2016， 12 （ 5） ： 4139 -
+4146.
+［ 45］  ZHOU J， TAN L， XIE J， et al. Characterization of brusatol self -
+microemulsifying drug delivery system and its therapeutic effect a-
+gainst dextran sodium sulfate - induced ulcerative colitis in mice
+［ J］ . Drug Deliv， 2017， 24（ 1） ： 1667 - 1679.
+［ 46］  EVANS J P， WINIARSKI B K， SUTTON P A， et al. The Nrf2 in-
+hibitor brusatol is a potent antitumour agent in an orthotopic mouse
+model of colorectal cancer［ J］ . Oncotarget， 2018， 9（ 43） ： 27104 -
+27116.
+［ 47］  汤 齐 ， 高 霞 ， 耿 婷 ， 等 . 肠 道 菌 群 与 中 药 相 互 作 用 的 研 究 进 展 ［ J］ .
+中 草 药 ，2017， 48（ 17） ： 3629 -3635.
+（ 本 文 编 辑  王 超 群 ）
+万方数据

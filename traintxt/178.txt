@@ -1,0 +1,773 @@
+第 36卷第 1期
+烟台大学学报（自然科学与工程版）
+Vol. 36 No. 1
+2023年 1月
+Journal of Yantai University （Natural Science and Engineering Edition）
+Jan. 2023
+  文章编号：1004 8820（2023）01 0057 09
+doi：10. 13951 ／ j. cnki. 37 1213 ／ n. 210904  
+  收稿日期： 2021 09 08
+  通信作者： 范华英（katiefhydong＠ sina. com），教授，博士，主要研究方向创新药物的开发。
+原人参二醇、人参皂苷 CK和原人参三醇对阿霉素
+诱导足细胞损伤的保护作用
+王梦影
+1，宋泽宇
+1，甘海林
+1，郑美华
+1，刘 倩
+1，
+潘志城
+1，刘 珂
+1， 2，范华英
+1
+（1.烟台大学药学院，分子药理和药物评价教育部重点实验室（烟台大学），新型制剂与生物技术药物研
+究山东省高校协同创新中心，山东 烟台 264005；2.山东铂源生物医药有限公司，山东 烟台 264003）
+摘要： 为探讨原人参二醇（PPD）、人参皂苷 CK 和原人参三醇（PPT）对肾病综合征（NS）
+中足细胞损伤的保护作用，本研究采用阿霉素（ADR）诱导足细胞损伤。 通过 CCK8 及细
+胞划痕、Transwell实验分析，结果表明三种人参皂苷可以改善 ADR 损伤后足细胞的增殖
+活力并抑制其迁移能力。 Western blot 及细胞免疫荧光实验结果表明 PPD、人参皂苷 CK
+和 PPT均可以通过降低 Desmin、NF-κB P65、p-NF-κB P65、p-IκBα 及升高 IκBα 的表达水
+平缓解足细胞损伤，并且可以促进 GR的表达及其核转位，其中 PPD的作用效果较好。 计
+算机分子对接结果显示 PPD、人参皂苷 CK和 PPT与 GR 均具有一定的结合活性，但 PPD
+与 GR的结合活性最优。 因此，PPD、人参皂苷 CK和 PPT均可以在一定程度上改善 ADR
+诱导的足细胞损伤，其中 PPD在保护足细胞损伤方面具有一定的优势。
+关键词： 人参皂苷；肾病综合征；足细胞损伤；糖皮质激素受体
+中图分类号： R965. 1    文献标志码： A
+  肾病综合征（Nephrotic Syndrome，NS）是一组临
+床表现为蛋白尿、水肿、高脂血症和低白蛋白血症的
+症候群［1］，主要是由于肾小球基底膜受损而导致尿
+蛋白大量丢失的一类慢性肾病。 目前临床上治疗
+NS的首选药物是糖皮质激素类药物（ Glucocorti-
+coids，GCs）［2］，如地塞米松（ Dexamethasone，DEX）
+等。 GCs 主要通过结合并激活糖皮质激素受体
+（Glucocorticoid receptor，GR）而发挥作用［3］。 长期
+服用 GCs 会导致严重的不良反应，如脂质代谢异
+常、糖尿病肾病、骨质疏松等［2］，严重影响了患者的
+健康。 因此，急需开发新的治疗药物及方法。
+足细胞是一种位于肾小球基底膜外层的终末期
+分化肾上皮细胞，在维持肾小球滤过屏障完整性和
+肾小球正常滤过功能方面发挥重要作用［4］。 足细
+胞的再生能力非常有限并对于细胞压力较为敏感，
+极易受到损伤。 足细胞损伤后其迁移能力异常增
+加，会从肾小球基底膜脱落，导致肾小球滤过屏障受
+损［5］，产生蛋白尿。 研究发现，通过免疫抑制而发
+挥药理活性的药物如 GCs，可以直接作用于足细胞
+发挥作用［6］。 因此，缓解足细胞损伤、维持足细胞
+结构的完整性等保护足细胞的方法对治疗 NS 等慢
+性肾病至关重要。
+人参是传统中药之一，具有抗炎、抗肿瘤、调节
+人体免疫力等药理活性［7］。 人参提取物在治疗慢
+性肾病上具有独特的优势［8 － 9］，其中人参皂苷是主
+要活性成分。 根据苷元的骨架不同，人参皂苷主要
+分为原人参二醇（Protopanaxadiol，PPD）型和原人参
+三醇（Protopanaxatriol，PPT）型［10］。 在人体肠道菌群
+烟台大学学报（自然科学与工程版）
+第 36 卷 
+的作用下，二醇型人参皂苷主要被代谢为 PPD和人
+参皂苷 CK，三醇型人参皂苷主要被代谢为 PPT［11］。
+研究报道，PPD和 PPT 与 GR 具有一定的结合活性
+并可以促进 GR的核转位［12］。 另外，PPD、人参皂苷
+CK和 PPT 可以通过抑制核因子 κB（ NF-κB）的活
+性，从而发挥抗炎的作用［13 － 15］。 目前研究结果证实
+NF-κB与足细胞损伤密切相关［16］。 因此，本文主要
+通过体外建立阿霉素（ Adriamycin，ADR）诱导的足
+细胞损伤模型［17］，研究 PPD、人参皂苷 CK 和 PPT
+三种人参皂苷对足细胞损伤的保护作用，并初步探
+究其作用机制可能与影响 NF-κB 通路相关蛋白的
+表达水平及 GR的核转位有关。
+1 实验部分
+1. 1 细胞株
+人肾足细胞购自深圳市豪地华拓生物科技有限
+公司（HTX2426），所有细胞在 33 ℃下经 IFN-γ诱导
+增殖后在补充有 10％ 胎牛血清（ Invitrogen，美国）
+和 1％ 青链霉素混合液（100 ×）（北京索莱宝科技
+有限公司，中国北京）的 McCoy's 5A 培养基（ Hy-
+clone，美国）中，在 37 ℃ 5％ CO2的培养箱中培养。
+1. 2 主要实验仪器与设备
+CCL-170B-8 二氧化碳培养箱（ESCO，新加坡），
+ACB-4A1 垂直流超净工作台（ESCO，新加坡），Pow-
+erpac Basic 型电泳仪（ Bio-Rad，美国），ImageQuant
+LAS4000 型超灵敏化学发光成像分析仪 （ GE
+Healthcare，美国），ST16 型离心机（Thermo Fisher，美
+国），CKX41 生物显微镜（OLYMPUS，日本），IX73 生
+物显微镜（OLYMPUS，日本），SpectraMax M3 型酶标
+仪（Molecular Devices，美国）。
+1. 3 药品与试剂
+PPD、人参皂苷 CK 和 PPT 均由山东铂源生物
+医药有限公司（中国山东）提供；DEX购自北京索莱
+宝科技有限公司（中国北京）；针对 GR、Histone H3
+的抗体购自 Abcam（英国剑桥），NF-κB P65、磷酸化
+的 NF-κB P65（p-NF-κB P65）、IκBα、磷酸化的 IκBα
+（p-IκBα）、Desmin、GAPDH 的抗体购自 Santa Cruz
+Biotechnology Inc. （美国达拉斯）， CCK-8 试剂盒、
+BCA蛋白浓度测定试剂盒均购自碧云天生物技术
+有限公司（中国上海），ECL 蛋白印迹检测试剂盒购
+自诺伦生物医药技术有限公司（中国上海），核蛋白
+提取试剂盒购自北京索莱宝科技有限公司（中国北
+京）。
+1. 4 实验方法
+1. 4. 1 MTT法检测 PPD、人参皂苷 CK和 PPT对足
+细胞活力的影响 将足细胞接种在 96 孔板中，每孔
+大约 6 × 10
+3 个细胞。 加入不同剂量（5、10、20、40、
+80 μmol／ L）的 PPD、人参皂苷 CK和 PPT进行干预，
+每组设置 5 个复孔。 24 h后，加入 20 μL的 MTT溶
+液（5 mg ／ mL）继续孵育 4 h。 吸出上清液，加入 150
+μL的 DMSO后检测各组细胞 570 nm 处的吸光度，
+结果表示为与空白对照组吸光度的比值。
+1. 4. 2 MTT法检测足细胞损伤后的活力 将足细
+胞接种在 96 孔板中，每孔大约 6 × 10
+3 个细胞。 按
+照空白对照组（空白对照）、模型组（ADR）、DEX组、
+20 μmol／ L PPD组、20 μmol／ L人参皂苷 CK组和 20
+μmol／ L PPT组的实验分组给药进行预保护。 每组
+设置 5 个复孔。 除空白对照组加入空白培养液外，
+其余各组加入终浓度为 0. 5 μmol／ L 的 ADR 刺激，
+并放入培养箱中继续培养 24 h。 后续加入 MTT 溶
+液、检测及结果表示同“1. 4. 1”。
+1. 4. 3 CCK-8 法检测足细胞损伤后的活力 将足
+细胞接种在 96 孔板中，每孔大约 6 × 10
+3 个细胞。
+分组与加药同“1. 4. 2”。 后续吸出上清液，每孔加
+入 100 μL的培养液和 10 μL的 CCK-8 试剂，2 h 后
+检测各组细胞 450 nm 处的吸光度，结果表示同
+“1. 4. 1”。
+1. 4. 4 细胞划痕法检测足细胞的迁移水平 在 6
+孔板背面水平划出 6 条平行的直线（每孔均匀地穿
+过两条直线），将足细胞接种在 6 孔板中，每孔大约
+3 × 10
+5 个细胞。 除空白对照组外，其余各组加入
+0. 5 μmol／ L的 ADR 刺激，放入细胞培养箱中继续
+培养。 24 h 后在孔中均匀地划出与背面直线垂直
+的两条直线，用 PBS 清洗后于显微镜下拍照，此时
+划痕面积记录为 W0。 按照“1. 4. 2”的实验分组给
+药，24 h 后再次于显微镜下拍照，此时划痕面积记
+录为 W1。 细胞迁移水平 ＝［细胞处理组（W0 － W1） ／
+W0］ ／［空白对照组（W0 － W1） ／ W0］。
+1. 4. 5 Transwell法检测足细胞的迁移水平 取出
+12 孔板中的 Transwell 小室，下层小室中加入含
+15％ 胎牛血清的培养基作为趋化因子，将足细胞以
+每孔大约 1 × 10
+5 个细胞接种于 Transwell 上层小室
+中，分组与加药同“1. 4. 2”。 Transwell膜以 4％的多
+聚甲醛固定 30 min，用 0. 1％的结晶紫染液染色。
+用棉签拭去上层小室内 Transwell膜表面的细胞，将
+膜取出并用中性树胶封闭于玻片中。 于显微镜下观
+察穿过 Transwell膜的细胞并拍照，随机选取 5 个视
+野计数，并使用 Image J软件统计穿膜细胞数。
+1. 4. 6 
+Western blot 法检测 Desmin、GR 及 NF-κB
+信号通路相关蛋白的表达水平 将足细胞接种于 6
+58
+ 第 1 期 王梦影，等：原人参二醇、人参皂苷 CK和原人参三醇对阿霉素诱导足细胞损伤的保护作用
+孔板，每孔大约 3 × 10
+5 个细胞，分组与加药同
+1. 4. 2。 弃去培养液，用预冷的 PBS 冲洗细胞 3 遍。
+再将 PMSF及磷酸酶抑制剂加入到 RIPA 裂解液中
+（1∶ 2∶ 100），取适量混合液加入到细胞上，4 ℃裂解
+0. 5 h后取上清液，并使用 BCA 蛋白浓度测定试剂
+盒进行蛋白定量，用 SDS-PAGE 上样缓冲液（5 ×）
+煮沸 5 min。 用 10％ 的 SDS-PAGE凝胶分离蛋白并
+转移到 PVDF 膜上，脱脂牛奶封闭 4 h 后分别与
+Desmin、GR、NF-κB P65、p-NF-κB P65、IκBα、p-IκBα
+和 GAPDH抗体（稀释比例∶ 1∶ 1000）4 ℃孵育过夜，
+然后与相应的二抗室温孵育 1. 5 h。 最后，使用 ECL
+蛋白印迹检测试剂盒检测蛋白条带，并使用 Image J
+软件对蛋白进行半定量分析。
+1. 4. 7 免疫荧光法检测足细胞中 GR 的核转位情
+况 将足细胞接种于 12 孔板，每孔大约 1 × 10
+5 个
+细胞，分组与加药同“1. 4. 2”。 用 4％ 的多聚甲醛
+固定细胞 15 min 后，用 PBS 清洗 3 遍后， Triton-
+X100 透化 10 min，继续用 PBS清洗 3 遍。 每孔依次
+加入 5％ BSA封闭液于培养箱中孵育 1. 5 h。 之后
+吸出孔内封闭液，加入用封闭液稀释的 GR 抗体（1
+∶ 50）于 4 ℃孵育过夜。 隔天室温静置 15 min后，用
+PBS清洗 3 遍，再加入封闭液稀释（1∶ 500）的荧光二
+抗，避光孵育 2 h。 加入 DAPI 进行细胞核染色 30
+min。 用 PBS清洗 3 遍后再分别加入 100 μL的 PBS
+及一滴抗荧光猝灭剂，用倒置荧光显微镜在同一位
+置拍照成像，将同一位置的荧光图片进行 Merge 处
+理，并使用 Image J软件进行荧光强度定量。
+1. 4. 8 Western blot 法检测足细胞细胞核内 GR 的
+表达水平 将足细胞接种于 6 孔板，每孔大约 3 ×
+10
+5 个细胞，分组与加药同“1. 4. 2”。 使用核蛋白提
+取试剂盒分别提取各组足细胞的浆蛋白和核蛋白，
+并使用 BCA蛋白浓度测定试剂盒分别对胞浆和核
+蛋白进行定量。 用 SDS-PAGE 上样缓冲液（5 ×）煮
+沸 5 min。 用 10％ 的 SDS-PAGE凝胶分离蛋白并转
+移到 PVDF膜上，脱脂牛奶封闭 4 h 后分别与 GR、
+Histone H3（核蛋白）和 GAPDH（浆蛋白）抗体（稀释
+比例∶ 1∶ 1000）4 ℃孵育过夜，后续孵育二抗和蛋白
+条带检测同“1. 4. 6”。
+1. 4. 9 计算机分子对接法评价 PPD、人参皂苷 CK
+和 PPT与 GR蛋白晶体结构的结合活性 采用计算
+机分子对接软件 SYBYL-X2. 0 中的 Surflex-Dock 功
+能模块完成分子对接研究。 在 Chemdraw 20. 0 中绘
+制待对接化合物 DEX、PPD、人参皂苷 CK和 PPT的
+平面结构。 在 SYBYL-X2. 0 中创建数据库，将这些
+化合物导入后进行能量最小化处理，使每个化合物
+有最稳定的构象，最后加入到创建的数据库中。 根
+据分子模拟对接的结果，比较 PPD、人参皂苷 CK和
+PPT与 GR的结合活性。 本研究的靶点 GR从 RSCB
+Protein Data Bank（ https：／ ／ www. rcsb. org ／）数据库
+中获取（PDB ID：4UDC）。 蛋白晶体前处理及结合
+口袋的定义：提取原配体分子，删除水分子及其非相
+关的蛋白质构象，补充非完整的氨基酸残基，为蛋白
+加氢，以原配体分子位置为中心，选择半径 0. 5 nm
+范围内为活性口袋，其他参数为默认值。 按默认参
+数进行分子对接后，分别得到每个化合物与各靶点
+蛋白的对接得分 Toal-Score值，用 Toal-Score值表示
+配体与受体的结合活性［18］，并使用 Pymol 2. 3 软件
+绘制 DEX、PPD、人参皂苷 CK和 PPT 与 GR 分子对
+接的作用示意图。
+1. 5 统计学方法
+每次实验均平行重复 3 次，实验数据均通过
+SPSS 22. 0 和 GraphPad Prism 8. 0. 2 分析绘图，并表
+示为平均数 ±标准差（  
+x ± s）。 首先检验了数据方差
+的同质性。 在方差齐的情况下，采用单因素方差分
+析和最小显著性差异（LSD）检验方法进行统计分
+析。 在方差不齐的情况下，采用 Kruskal-Wallis进行
+非参数检验，在检验有统计学意义的情况下，进一步
+使用 Mann-Whitney U 检验方法进行统计分析。 所
+有统计结果都依照 P ＜ 0. 05 具有统计学意义。
+2 实验结果
+2. 1 PPD、人参皂苷 CK和 PPT对人肾足细胞活
+力的影响
+如图 1 所示， 与空白组比， 在 20 μmol／ L 剂量
+时，各人参皂苷给药组足细胞的活力最佳（ P ＜
+0. 01）， 40 μmol／ L时各人参皂苷给药组足细胞的活
+ 
+0.5
+1.5
+�������������
+0
+1
+PPD
+CK
+PPT
+��
+5
+10
+20
+40
+80
+� ol/L
+μmol/L
+ 
+x ± s，n ＝ 3。 与空白组比，＃P ＜ 0. 05，＃＃P ＜ 0. 01。
+图 1 PPD、人参皂苷 CK和 PPT对足细胞活力的影响
+Fig. 1 Effects of PPD， Ginsenoside CK and PPT on the podo-
+cytes viability
+59
+烟台大学学报（自然科学与工程版）
+第 36 卷 
+力有所减弱，在 80 μmol／ L 时人参皂苷 CK 对足细
+胞的活力产生明显的抑制作用。
+2. 2 PPD、人参皂苷 CK和 PPT对 ADR损伤的足
+细胞活力的改善作用
+MTT和 CCK-8 实验结果如图 2 所示，与空白组
+比，模型组足细胞的活力明显下降（P ＜ 0. 01），模型
+组相比，DEX组足细胞的活力显著升高（P ＜ 0. 01），
+三种人参皂苷给药组足细胞的活力也明显升高（P
+＜ 0. 05）。
+2 . 3 
+PPD、人参皂苷CK和PPT对足细胞迁移水
+平的影响
+细胞划痕和 Transwell实验结果如图 3 所示，与
+空白相比，模型组足细胞的迁移水平异常升高（P ＜
+0. 01）；与模型组相比，DEX组足细胞的迁移水平显
+著受到抑制（P ＜ 0. 01），三种人参皂苷组足细胞的
+迁移水平也受到抑制（ P ＜ 0. 05），其中人参皂苷
+PPD作用效果略优。
+ 
+0.5
+�。�����������
+**
+##
+##
+##
+#
+0
+1
+�� ��
+PPD
+DEX
+PPT
+CK
+ 
+0.5
+�������������
+**
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+(a) MTT 法
+(b) CCK-8 法
+x±s, n＝3。 与空白组比, **P＜0.01; 与模型组相比, ＃P＜0.05, ＃＃P＜0.01。
+图 2 PPD、人参皂苷 CK和 PPT对 ADR损伤的足细胞活力的影响
+Fig. 2 Effects of PPD， Ginsenoside CK and PPT on ADR-injured podocytes viability
+ 
+0.5
+1.5
+。������������
+**
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+ 
+0
+50
+100
+150
+����������
+**
+����
+DEX
+PPD
+CK
+PPT
+空白组
+模型组
+DEX 组
+PPD 组
+CK 组
+PPT 组
+W0
+W1
+(a) 细胞划痕法（比例尺：200 μm）
+空白组
+模型组
+DEX 组
+PPD 组
+CK 组
+PPT 组
+(b) Transwell 法（比例尺：100 μm）
+x±s, n＝3。 与空白组比, **P＜0.01; 与模型组相比, ＃P＜0.05, ＃＃P＜0.01。
+穿膜足细胞数量/个
+图 3 PPD、人参皂苷 CK和 PPT对足细胞迁移水平的影响
+Fig. 3 Effects of PPD， Ginsenoside CK and PPT on the migration ability of podocytes
+60
+ 第 1 期 王梦影，等：原人参二醇、人参皂苷 CK和原人参三醇对阿霉素诱导足细胞损伤的保护作用
+2. 4 PPD、人参皂苷 CK和 PPT对 Desmin、GR及
+NF-κB信号通路相关蛋白表达水平的影响
+通过 Western blot法检测三种人参皂苷对足细
+胞损伤标志蛋白 Desmin、GR 及 NF-κB 信号通路相
+关蛋白表达水平的影响，结果如图 4 所示。 与空白
+组比，模型组足细胞中 Desmin、NF-κB P65、p-NF-κB
+P65 和 p-IκBα表达水平异常升高（P ＜ 0. 01），GR、
+IκBα的表达水平降低（P ＜ 0. 01）。 与模型组相比，
+DEX及三种人参皂苷给药组的 Desmin、GR 及 NF-
+κB P65、p-NF-κB P65、IκBα 和 p-IκBα 的表达水平
+均有不同程度的改善。
+2 . 5  
+PPD、人参皂苷CK和PPT对足细胞中GR
+核转位的影响
+通过细胞免疫荧光和 Western blot 法检测足细
+胞中 GR的核转位情况，实验结果如图 5、图 6 所示，
+与空白组比，模型组足细胞细胞核内 GR 的荧光强
+度和表达水平明显下调。 与模型组相比，DEX 组足
+细胞核内 GR的荧光强度和表达水平显著升高（P ＜
+0. 01），三种人参皂苷也均可以在一定程度上提高足
+细胞核内 GR的荧光强度和表达水平，其中 PPD的作
+用效果较好（P ＜ 0. 01）。 表明 DEX和三种人参皂苷
+均可以促进损伤的足细胞中 GR的核转位进程。
+2 . 6  
+PPD、人参皂苷CK和PPT与GR蛋白晶体
+结构的分子对接评分
+利用分子对接软件得到 DEX 与 4UDC 分子对
+接的 Toal-Score值是 6. 025 9，PPD、人参皂苷 CK 和
+PPT 与 4UDC 分子对接的 Toal-Score 值分别为
+5. 199 3、4. 705 1 和 4. 629 3，表明三种人参皂苷与
+GR蛋白的晶体结构 4UDC均有一定结合活性，但不
+如 DEX的结合活性高；其中 PPD与 GR的结合活性
+优于人参皂苷 CK和 PPT。 DEX、PPD、人参皂苷 CK
+和 PPT与 GR蛋白晶体 4UDC的氢键作用氨基酸位
+点见图 7（虚线表示氢键、数值表示键长），DEX 和
+三种人参皂苷和 GR 蛋白晶体均形成氢键相互作
+用。
+3 讨 论
+人参皂苷具有与 GCs相似的甾体类结构［12］，可
+以与 GR结合并调节 GR的表达情况。 有研究报道
+人参皂苷对 GCs 具有增效减毒的作用，在治疗 NS
+中具有独特的优势［19］。 本研究以生物活性较高的
+人参皂苷单体 PPD、人参皂苷 CK和 PPT为代表，进
+一步探讨了人参皂苷对 NS 中足细胞损伤的保护作
+用。 根据 MTT实验结果，20 μmol／ L的 PPD、人参皂
+苷 CK和 PPT组的足细胞的活力最好，因此后续实
+验选用 20 μmol／ L作为各人参皂苷给药剂量。
+ADR是常见的 NS模型诱导剂，使用 ADR作为
+诱导剂制备的 NS模型大鼠出现大量蛋白尿、水肿、
+高血脂等病理现象，最符合临床上 NS 患者的病理
+特征［20］。 另外，ADR 能够介导足细胞发生炎症反
+应，导致足细胞损伤［17］，并诱导足细胞损伤标志蛋
+白 Desmin 异常表达［21］。 因此，本研究通过利用
+ADR刺激人肾足细胞，建立足细胞损伤模型，检测
+PPD、人参皂苷 CK和 PPT缓解 ADR 诱导足细胞损
+伤的作用效果。 研究结果表明，PPD、人参皂苷 CK
+和 PPT均可以在一定程度上改善 ADR 损伤后足细
+胞的活力并抑制其异常迁移，同时还可以降低
+Desmin的表达水平，缓解足细胞损伤。
+NS的发病机制较复杂，常伴有炎症发生。 NF-
+κB参与炎症、免疫、分化、细胞生长和凋亡等多种生
+物学过程，并与肾脏损伤密切相关［22］。 IκBα 是抑
+制 NF-κB活性最重要的核因子抑制蛋白之一，参与
+抑制 NF-κB 活化的负反馈调节通路［23］，磷酸化的
+IκBα可以促进 NF-κB的激活，进而导致炎症反应的
+发生。 在不受配体刺激的情况下，GR 与 HSP90 等
+热休克蛋白和免疫元素结合以复合物的形式存在于
+细胞质中［24］。 GCs 与 GR 结合后，激活 GR，GR 从
+复合物上解离下来，易位至细胞核，从而抑制 NF-κB
+的表达［24 － 25］，并促进 IκBα 的表达，进而发挥抗炎
+等作用。 本研究表明，PPD、人参皂苷 CK 和 PPT 均
+可以上调 GR和 IκBα的表达水平，同时下调 NF-κB
+P65、p-NF-κB P65 和 p-IκBα的表达水平，表明三种
+人参皂苷改善足细胞的炎症反应、缓解足细胞的损
+伤可能与影响 GR及 NF-κB通路相关蛋白的表达水
+平有关，三种人参皂苷还可进一步提高足细胞细胞
+核内 GR的表达水平、促进 GR的核转位进程，从而
+发挥抗炎及缓解足细胞损伤的作用，且分子对接结
+果表明 PPD、人参皂苷 CK 和 PPT 与 GR 蛋白的晶
+体结构均具有一定结合活性，其中人参皂苷 PPD的
+作用效果较好。
+4 结 论
+PPD、人参皂苷 CK 和 PPT 均可以在一定程度
+上缓解 ADR诱导足细胞的损伤、改善损伤足细胞的
+炎症反应，其中 PPD 在缓解 ADR 诱导的足细胞损
+伤、促进 GR 核转位方面较优于人参皂苷 CK 和
+PPT，并且与 GR的结合活性也较高，因此 PPD 在缓
+解足细胞损伤方面具有一定的优势，可能更适合开
+发为治疗 NS的潜在药物，但仍需进一步探索。
+61
+烟台大学学报（自然科学与工程版）
+第 36 卷 
+(a) Desmin 相对表达量
+(b) GR 相对表达量
+(c) NF-κB 相对表达量
+(d) p-NF-κB 相对表达量
+(e) IκBα 相对表达量
+(b) p-IκBα 相对表达量
+Desmin
+GAPDH
+－52 kU
+－36 kU
+GR
+GAPDH
+－97 kU
+－36 kU
+NF-κB
+GAPDH
+－65 kU
+－36 kU
+p-NF-κB
+GAPDH
+－65 kU
+－36 kU
+IκBα
+GAPDH
+－39 kU
+－36 kU
+p－IκBα
+GAPDH
+－39 kU
+－36 kU
+ 
+ Desmin�����
+**
+0
+0.5
+1
+1.5
+2
+2.5
+�� ��
+DEX
+PPD
+PPT
+CK
+Desmin 相对表达量
+ 
+ GR�����
+**
+0
+0.5
+1
+1.5
+�� ��
+DEX
+PPD
+CK
+PPT
+GR 相对表达量
+ 
+NF-?B P65�����
+**
+0
+0.5
+1
+1.5
+2
+2.5
+�� ��
+DEX
+PPD
+CK
+PPT
+NF-κB 相对表达量
+ 
+1.5
+p-NF-?B P65�����
+**
+0
+0.5
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+2
+p-NF-κB 相对表达量
+ 
+0.5
+1.5
+I?Ba�����
+**
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+IκBα 相对表达量
+ 
+0.5
+1.5
+p-I?Ba�����
+**
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+p-IκBα 相对表达量
+x±s, n＝3。 与空白组比, **P＜0.01; 与模型组相比, ＃P＜0.05, ＃＃P＜0.01。
+图 4 PPD、人参皂苷 CK和 PPT对 Desmin、GR、NF-κB P65、p-NF-κB P65 及 IκBα、p-IκBα蛋白表达水平的影响
+Fig. 4 Effects of PPD， Ginsenoside CK and PPT on the expression of Desmin， GR， NF-κB P65， p-NF-κB P65 and IκBα， p-IκBα
+proteins
+62
+ 第 1 期 王梦影，等：原人参二醇、人参皂苷 CK和原人参三醇对阿霉素诱导足细胞损伤的保护作用
+ 
+0.5
+1.5
+。���GR����
+��������
+*
+##
+##
+#
+##
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+空白组
+模型组
+DEX 组
+PPD 组
+CK 组
+PPT
+GR
+DAPI
+Merge
+细胞核内 GR 荧光强度
+(与空白组相比)
+x±s, n＝3。 与空白组比, *P＜0.05; 与模型组相比, ＃P＜0.05, ＃＃P＜0.01。
+图 5 PPD、人参皂苷 CK和 PPT对足细胞中 GR核转位过程的影响（比例尺：100 nm）
+Fig. 5 Effects of PPD， Ginsenoside CK and PPT on nuclear translocation of GR of podocytes（Scale：100 nm）
+ 
+0.5
+1.5
+����GR�������
+**
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+(a) 细胞核中 GR 的相对表达量
+(b) 细胞浆中 GR 的相对表达量
+细胞核 GR
+Histone H3
+－97 kU
+－17 kU
+细胞浆 GR
+GAPDH
+－97 kU
+－36 kU
+x±s, n＝3。 与空白组比, **P＜0.01; 与模型组相比, ＃P＜0.05, ＃＃P＜0.01。
+细胞核中 GR 的相对表达量
+ 
+0.5
+1.5
+����GR�������
+**
+0
+1
+�� ��
+DEX
+PPD
+CK
+PPT
+细胞浆中 GR 的相对表达量
+图 6 PPD、人参皂苷 CK和 PPT对足细胞的细胞核和细胞浆中 GR表达水平的影响
+Fig. 6 Effects of PPD， Ginsenoside CK and PPT on the expression levels of GR in nuclear and cytoplasm of podocytes
+63
+烟台大学学报（自然科学与工程版）
+第 36 卷 
+GLN570
+MET604
+THR739
+ARG611
+(a) DEX
+(b) PPD
+GLN738
+MET745
+ASP638
+MET745
+GLN738
+ASP641
+(c) CK
+(d) PPT
+图 7 DEX、PPD、人参皂苷 CK和 PPT与 GR蛋白晶体的对接模式
+Fig. 7 Molecular docking of DEX， PPD， Ginsenoside CK， PPT and GR protein crystal structure
+参考文献：
+［1］ GBD CHRONIC KIDNEY DISEASE COLLABORATION.
+Global， regional， and national burden of chronic kidney dis-
+ease， 1990 － 2017： a systematic analysis for the Global Burden
+of Disease Study 2017［J］. Lancet， 2020， 395： 709－733.
+［2］ LI X， QI D， WANG M Y， et al. Salvianolic acid A at-
+tenuates steroid resistant nephrotic syndrome through suPAR／
+uPAR-αvβ3 signaling Inhibition［J］. J Ethnopharmacol， 2021，
+279： 114351.
+［3］ 
+VANDEWALLE J， LUYPAERT A， DE BOSSCHER K，
+et al. Therapeutic mechanisms of glucocorticoids［ J］. Trends
+Endocrinol Metab， 2018， 29（1）： 42－54.
+［4］  
+NOONE D G， IIJIMA K， PAREKH R. Idiopathic ne-
+phrotic syndrome in children［J］. Lancet， 2018， 392： 61－74.
+［5］ CAMPBELL K N， TUMLIN J A. Protecting podocytes： a
+key target for therapy of focal segmental glomerulosclerosis［J］.
+Am J Nephrol， 2018， 47 Suppl 1（Suppl 1）： 14－29.
+［6］  
+MALLIPATTU S K， HE J C. The podocyte as a direct
+target for treatment of glomerular disease？ ［ J］. Am J Physiol
+Renal Physiol， 2016， 311（1）： F46－F51.
+［7］ 倪赛宏， 傅水莲， 何丽明， 等. 人参皂苷在肾脏疾病
+中的药理作用研究进展［J］. 人参研究， 2018， 30（2）： 37－
+40.［8］ 杜世豪， 张子惠， 谢群玲， 等. 曲札茋苷对肾病综合
+征大鼠的治疗作用及机制［J］. 烟台大学学报（自然科学与
+工程版）， 2021， 34（3）： 323－329.
+［9］ 冀凯， 杜世豪， 李新， 等. 人参皂苷 Rg3 抑制高糖诱
+导的人肾小球系膜细胞过度增殖、炎症反应和 PTX3 的表达
+［J］. 烟台大学学报（自然科学与工程版）， 2020， 33（1）： 55
+－62.
+［10］ BAI L T， GAO J L， WEI F， et al. Therapeutic poten-
+tial of ginsenosides as an adjuvant treatment for diabetes［ J］.
+Front Pharmaco， 2018， 9： 423.
+［11］ 
+YANG L， ZOU H C， GAO Y C， et al. Insights into
+gastrointestinal microbiota-generated ginsenoside metabolites and
+their bioactivities［J］. Drug Metab Rev， 2020， 52（1）： 125－
+138.［12］  
+KARRA A， KONSTANTINOU M， TZORTZIOU M， et
+al. Potential dissociative glucocorticoid receptor activity for pro-
+topanaxadiol and protopanaxatriol［J］. Int J Mol Sci， 2018， 20
+（1）： 94.
+64
+ 第 1 期 王梦影，等：原人参二醇、人参皂苷 CK和原人参三醇对阿霉素诱导足细胞损伤的保护作用
+［13］ OH G S， PAE H O， CHOI B M， et al. 20（S）-Proto-
+panaxatriol， one of ginsenoside metabolites， inhibits inducible
+nitric oxide synthase and cyclooxygenase-2 expressions through
+inactivation of nuclear factor-kappaB in RAW 264. 7 macropha-
+ges stimulated with lipopolysaccharide［J］. Cancer Lett， 2004，
+205（1）： 23－29.
+［14］ SONG W， WEI L， DU Y W， et al. Protective effect of
+ginsenoside metabolite compound K against diabetic nephropathy
+by inhibiting NLRP3 inflammasome activation and NF-κB／ p38
+signaling pathway in high-fat diet／ streptozotocin-induced diabetic
+mice［J］. Int Immunopharmacol， 2018， 63： 227－238.
+［15］ JIANG N， LV J W， WANG H X， et al. Ginsenoside 20
+（S）-protopanaxadiol attenuates depressive-like behaviour and
+neuroinflammation in chronic unpredictable mild stress-induced
+depressive rats［J］. Behav Brain Res， 2020， 393： 112710.
+［16］ ZHU M M， WANG L， YANG D， et al. Wedelolactone
+alleviates doxorubicin-induced inflammation and oxidative stress
+damage of podocytes by IκK／ IκB／ NF-κB pathway［J］. Biomed
+Pharmacother， 2019， 117： 109088.
+［17］ LI F， MAO X， ZHUANG Q Y， et al. Inhibiting 4E －
+BP1 re-activation represses podocyte cell cycle re-entry and ap-
+optosis induced by adriamycin［ J］. Cell Death Dis， 2019， 10
+（3）： 241.
+［18］ LIU W， MENG Q， SUN Y T， et al. Targeting P-glyco-
+protein： nelfinavir reverses adriamycin resistance in K562 ／ ADR
+cells［J］. Cell Physiol Biochem， 2018， 51（4）： 1616－1631.
+［19］ 夏国胜. 人参皂苷辅助治疗肾病综合征的随机双盲
+对照研究［D］. 上海：第二军医大学， 2009.
+［20］ 王新斌， 戴恩来， 薛国忠， 等. 右归丸对激素抵抗型
+肾病综合征大鼠肾脏组织中 JNK／ p38 信号通路的影响［J］.
+世界科学技术-中医药现代化， 2020， 22（6）： 1794－1802.
+［21］ 龙海波， 张辉，钟娟，等. 肾康丸对早期糖尿病肾病
+大鼠足细胞损伤的保护作用［J］. 南方医科大学学报， 2008
+（7）： 1268－1272.
+［22］ KANAREK N， BEN-NERIAH Y. Regulation of NF-κB
+by ubiquitination and degradation of the IκBs［ J］. Immunol
+Rev， 2012， 246（1）： 77－94.
+［23］ GHOSH S， DASS J F P. Study of pathway cross-talk in-
+teractions with NF-κB leading to its activation via ubiquitination
+or phosphorylation： a brief review［J］. Gene， 2016， 584（1）：
+97－109.
+［24］ PONTICELLI C， LOCATELLI F. Glucocorticoids in the
+treatment of glomerular diseases： pitfalls and pearls［J］. Clin J
+Am Soc Nephrol， 2018， 13（5）： 815－822.
+［25］ RONCHETTI S， MIGLIORATI G， BRUSCOLI S， et al.
+Defining the role of glucocorticoids in inflammation［J］. Clin Sci
+（Lond）， 2018， 132（14）： 1529－1543.
+Protective Effects of Protopanaxadiol， Ginsenosides CK and Protopanaxatriol
+on Adriamycin-Induced Podocytes Injury
+WANG Meng-ying1， SONG Ze-yu1， GAN Hai-lin1， ZHENG Mei-hua1， LIU Qian1，
+PAN Zhi-cheng1， LIU Ke1， 2， FAN Hua-ying1
+（1. School of Pharmacy， Key Laboratory of Molecular Pharmacology and Drug Evaluation （Yantai University）， Ministry of Education，
+Collaborative Innovation Center of Advanced Drug Delivery System and Biotech Drugs in Universities of Shandong， Yantai University，
+Yantai 264005， China； 2. Shandong Boyuan Biomedical Co.， Ltd， Yantai 264003， China）
+Abstract： In order to explore the protective effects of Protopanaxadiol （PPD）， Ginsenosides CK and Protopanaxat-
+riol （PPT） on podocytes injury in nephrotic syndrome （NS）， the podocytes injury model is established by stimula-
+ting podocytes injury with adriamycin （ADR）. The results show that the three ginsenosides can improve the prolif-
+eration and migration of ADR-induced podocytes through CCK8， cell scratch and transwell method. The results of
+Western blot and immunofluorescence show that PPD， Ginsenosides CK and PPT can alleviate podocytes injury by
+reducing the expression levels of Desmin， NF-κB P65， p-NF-κB P65 and p-IκBα proteins and increasing the ex-
+pression level of IκBα proteins， and promote the GR expression and its nuclear translocations. Among them， PPD
+has a better effect. In addition， the results of molecular docking reveal that PPD， Ginsenosides CK and PPT are a-
+ble to bind GR， and PPD exhibits the best binding activity. Therefore， PPD， Ginsenoside CK and PPT can amelio-
+rate podocyte injury induced by ADR in some way， and PPD has more advantages in protecting podocyte injury.
+Key words： ginsenoside； nephrotic syndrome； podocyte injury； glucocorticoid receptor （责任编辑 周雪莹）
+65

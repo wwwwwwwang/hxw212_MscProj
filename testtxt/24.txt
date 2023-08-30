@@ -1,0 +1,440 @@
+2016，32( 4) : 452 ～ 458
+神
+经
+解
+剖
+学
+杂
+志
+
+Chinese Journal of Neuroanatomy
+人参皂苷 Ｒg1 抑制癫痫大鼠大脑胼胝体区小胶质
+细胞激活和炎性因子表达的作用
+基金项目: 国家自然科学基金( 81260297，81360200，81460350，81460210) ，
+云南省科技厅 － 昆明医科大学应用基础研究联合专项( 2013FB120，2014FB004，2014FB006)
+* 通讯作者: 钟莲梅
+电话: 13888967787，E-mail: 13888967787@ 163． com
+邵庆华
+电话: 0871-63192008，E-mail: 1508940735@ qq． com
+△共同第一作者
+陆
+地
+1△，边立功
+1△，艾青龙
+2，孙
+俊
+1，陈媛丽
+1，郭家智
+1，邵庆华
+3* ，钟莲梅
+2*
+( 昆明医科大学: 1． 人体解剖学与组织胚胎学系，昆明 650500; 2． 第一附属医院神经内科，
+昆明 650032; 3． 云南省第三人民医院，昆明 650011)
+【摘
+要】 目的: 探讨人参皂苷 Ｒg1( Ginsenoside Ｒg1，Ｒg1) 抑制氯化锂-匹罗卡品联合诱导的癫痫大鼠模型大
+脑胼胝体区小胶质细胞( microglia，MG) 的激活和炎性因子的表达作用，为临床应用 Ｒg1 治疗癫痫提供理论依
+据。方法: 80 只健康雄性 SD 大鼠随机分为 4 组: 即空白对照组、模型组、Ｒg1 预治疗组、卡马西平( carbamaz-
+epine，CBZ) 预治疗组，每组 20 只; 采用氯化锂-匹罗卡品腹腔注射制备癫痫大鼠模型，治疗组提前进行药物预
+处理，模型组给予相同剂量的生理盐水，记录行为学发作情况，注射匹罗卡品后 2 h 给予安定终止，3 d 后取材;
+免疫荧光组织化学染色和 Western Blot 检测大脑胼胝体区精氨酸酶 1( arginase-1，Arg-1) 、诱导型一氧化氮合酶
+( induced nitric oxide synthase，iNOS) 和白介素 1β( interleukin-1β，IL-1β) 的蛋白表达变化。结果: 与模型组相
+比，Ｒg1 预治疗组明显缩短癫痫大鼠的大发作时间; 模型组与空白对照组比较，大脑胼胝体区 MG 明显激活，胞
+体变圆，突起减少，呈“M1 型”阿米巴样状态; Ｒg1 预治疗组较模型组相比，MG 的激活明显降低，Arg-1 蛋白的表
+达明显上调，iNOS 和 IL-1β 等炎性因子的表达显著下调。结论: Ｒg1 增加癫痫大鼠大脑胼胝体区 Arg-1 蛋白的
+表达，降低 iNOS 和 IL-1β 等炎性因子的表达，抑制 MG 的激活和极化，减轻炎症因子的表达，缩短癫痫大鼠大发
+作时间。
+【关键词】 人参皂苷 Ｒg1; 癫痫; 小胶质细胞; 精氨酸酶 1; 诱导型一氧化氮合酶; 白介素 1β; 大鼠
+DOI: 10． 16557 /j． cnki． 1000-7547． 2016． 04． 006
+Ｒg1 attenuate the activation of microglia and the expression of inflammatory
+factors in corpus callosum region of epileptic rats
+Lu Di
+1，Bian Ligong
+1，Ai Qinglong
+2，Sun Jun
+1，Chen Yuanli
+1，
+Guo Jiazhi
+1，Shao Qinghua
+3，Zhong Lianmei
+2
+( 1． Department of Anatomy，Histology and Embryology of Kunming Medical University，Kunming 650500;
+2． The First Affiliated Hospital，Department of Neurology，Kunming Medical University，Kunming 650032;
+3． The Third People’s Hospital of Yunnan Province，Kunming 650011，China)
+【Abstract】 Objective: In order to provide theoretical support of ginsenoside Ｒg1( Ｒg1) in treatment of epilepsy in
+clinic，we explored the role of Ｒg1 in attenuating activation of microglia ( MG) and expression of inflammatory factors in
+the corpus callosum region on epileptic rats model induced by lithium chloride-pilocarpine． Methods: Eighty healthy
+male rats were randomly divided into four groups: control group，model group，Ｒg1 pretreatment group and carbamaz-
+epine ( CBZ) pretreatment group，each group has 20 rats． Epileptic model was established by lithium chloride-pilocar-
+pine intraperitoneal injection; The pretreatment groups were given Ｒg1 or CBZ in advance，and same dosage of normal
+saline was given to model group． Behavior changes was recorded． The seizure was terminated with valium ( diazepam) 2
+h after given pilocarpine，the brain was fetched after 3 d． The morphology and the expression change of arginase-1
+( Arg-1) ，induced nitric oxide synthase ( iNOS) ，interleukin-1β ( IL-1β) in the corpus callosum region were detected
+by immunofluorescence staining and Western Blot． Ｒesults: The total seizure time in Ｒg1 pretreatment group was less
+than control group． Comparing to control group，microglia cells in the corpus callosum region in the modal group were
+significantly activated，the processes was shorten，volume got bigger，most of them seemed as amoebocyte． Meanwhile，
+the expression of Arg-1 was obviously upregulated，iNOS and IL-1β were evidently downregulated in the model group，
+Ｒg1 pretreatment group attenuate the activation of microglia cells，simultaneously，the expression of Arg-1 was signifi-
+cantly increased，while iNOS and IL-1β were markedly decreased． Conclusion: Ｒg1 up-regulate the Arg-1 protein，
+and down-regulate the expression of iNOS and IL-1β，depress the activation and polarization of microglia，inhibit the ex-
+pression of inflammatory reaction，short the seizure time in epileptic rat．
+【Key words】 Ｒg1; epilepsy; microglia; Arg-1; iNOS; IL-1β; rat
+癫痫是一种由于大脑神经元异常过度放电而引
+起的一过性、反复发作的临床综合征，俗称“羊痫
+风”。据最新流行病学资料显示
+［1］，我国约有 1000
+万癫痫患者，其中超过半数为活动性癫痫患者，每年
+新增癫痫患者约 40 万人，总体患病率为 7‰，年发病
+率为 28． 8 /10 万。因此，癫痫已成为神经内科仅次
+于头痛的第二大常见病。中枢神经系统兴奋与抑制
+间的不平衡导致癫痫发作，主要与离子通道神经递
+质及神经胶质细胞的功能改变有关。小胶质细胞
+( microglia，MG) 的激活和增殖均先于海马神经元的
+变性损伤，是炎症损伤机制的重要环节，也是神经元
+损伤的主要原因
+［2-5］。炎症反应可增加神经元的兴
+奋性、加速癫痫发作后神经元的凋亡，进一步影响癫
+痫的再次发作，增加癫痫发作的易感性
+［6，7］。MG 分
+为经典活化型/M1 型和替代活化型/M2 型两种
+［8］，
+标志物分别为诱导型一氧化氮合酶( induced nitric
+oxidesynthase，iNOS) 和精氨酸酶 1( arginase-1，Arg-
+1)
+［9-11］，M1 型为 MG 激活形式，呈阿米巴样，M2 型
+为静息状态，呈分支状。而 MG 在癫痫发作后的激
+活及其与炎症因子的关系、分型的 MG 在癫痫病理
+过程中所发挥的作用尚未完全清楚。
+癫痫的临床治疗手段仍以药物为主，因药物的
+副作用或对药物不敏感的患者，易复发或进展为难
+治性癫痫
+［12，13］，给个人、家庭和社会带来沉重的负
+担。因此，在临床上亟需寻找治疗癫痫的新疗法和
+新药物。近年来，在西方国家利用天然产物治疗癫
+痫被认为是一条极具潜力的研究思路，并认为人参
+皂苷是极具研究开发价值的天然化合物之一，但目
+前对此并无确切研究结果
+［1］。本课题组前期体外实
+验发现 Ｒg1 可抑制脂多糖诱导的小鼠 BV2 细胞激
+活
+［14］。因此，本研究拟通过构建氯化锂-匹罗卡品
+诱导癫痫大鼠模型，从体内实验的角度阐明 Ｒg1 对
+癫痫大鼠脑内 MG 的激活情况和炎性因子的表达作
+用，以期为临床治疗癫痫提供新药物和新的治疗
+靶点。
+材料和方法
+1
+材料
+成年 SPF 级健康雄性 SD 大鼠 80 只，体重( 250 ±
+20) g，由昆明医科大学实验动物学部提供; Ｒg1( 昆明
+制药厂) ; 氯化锂( 美国 Amresco 公司，货号 0416) ;
+盐酸匹罗卡品( 美国 Sigma 公司，货号 P6503) ; 地西
+泮注射液( 上海旭东海普药业有限公司) ; BCA 蛋白
+定量 试 剂 盒 ( 美 国 Thermo scientific 公 司，货 号
+23225) ; 兔抗 iNOS 抗体( 美国 Santa Cruz 公司，货号
+sc-8310) 、兔抗 IL-1β( 美国 Santa Cruz 公司，货号 sc-
+7884) 、兔抗 Arg-1 抗体 ( 英国，Abcam 公司，货号
+ab91279) ; 小鼠抗 β-actin 抗体( 美国 Santa Cruz 公
+司，货号 sc-47778) ; Lectin ( 美国 Sigma 公司，货号
+L0401) ; 辣根酶标记的山羊抗兔/小鼠 IgG( 北京中
+杉金桥公司，货号 ZB-2301 /2305) ; Cy3 标记的山羊
+抗兔 IgG( 美国 Sigma 公司，货号 C2306) ; 封片液( 美
+国 Sigma 公司，货号 F6057) ; 垂直电泳系统( 美国
+Bio-Ｒad 公司) ; 冷冻切片机( 德国 Leica 公司，型号
+CM1950) ; 匀浆机( 宁波新芝生物科技股份有限公
+司，型号 DY89-1) 。
+2
+方法
+453
+陆
+地: 人参皂苷 Ｒg1 抑制癫痫大鼠大脑胼胝体区小胶质细胞激活和炎性因子表达的作用
+2． 1
+实验动物分组
+成年健康雄性 SD 大鼠 80 只
+( 购于昆明医科大学实验动物学部) ，随机分 4 组
+( n = 20) ，即对照组，模型组，Ｒg1 预治疗组和 CBZ
+预治疗组; 治疗组提前给予 Ｒg1( 100 mg /kg) 或 CBZ
+( 60 mg /kg) ，模型组和治疗组腹腔注射氯化锂( 127
+mg /kg) ，18 h 后均腹腔注射匹罗卡品( 30 mg /kg) ，
+空白组给予相同剂量的生理盐水。参照 Ｒacine 的
+分级标准记录发作情况: 0 级为正常行为状态; I 级
+为凝视，头面部轻微颤动或者抽动; II 级为点头或湿
+狗样抖动; III 级为前肢阵挛; IV 级为后肢站立并伴
+有双侧前肢阵挛; V 级为站立伴摔倒的全身强直阵
+挛性发作。III ～ V 级者定为癫痫大发作，记录各组
+发作情况，剔除发作未达 III 级及其以上者，并补足
+样本数，2 h 后腹腔注射安定终止发作，精心护理。
+3 d后取材，生理盐水灌注取脑，分离胼胝体组织，匀
+浆用于 Western Blot，生理盐水和 4% 甲醛灌注取脑，
+制备冰冻切片用于免疫荧光组织化学染色。
+2． 2
+免疫荧光组织化学染色
+随机选取每组各一
+张切片，PBS 漂洗，10% 的山羊血清室温封闭 2 h，分
+别加入一抗兔抗 Arg-1( 1∶ 100) 或 iNOS( 1∶ 100) ，孵
+育 2 h，PBST 漂洗( 以下步骤避光) ，二抗采用 Cy3 标
+记的山羊抗兔 IgG( 1∶ 200) 和 lectin( 1∶ 400，结合有
+FITC 绿色荧光染料的小胶质细胞特异性标记物) ，
+共同孵育 2 h，PBST 漂洗，封片液封片。激光共聚焦
+显微镜( Olympus) /正置荧光显微镜( Nikon) 下观察
+胼胝体区小胶质细胞的蛋白表达情况，各组同一条
+件拍片，重复 3 次。
+2． 3
+Western Blot
+BCA 蛋白定量试剂盒( BCATM
+Protein Assay Kit，Thermo) 中试剂 A 和试剂 B 以50∶ 1
+的比 例 混 合 均 匀，成 嫩 绿 色。用 牛 血 清 白 蛋 白
+( BSA) 制作标准曲线。96 孔板中加入加 200 μl 的
+工作液和 20 μl 待测样品或标准蛋白。混匀，震荡，
+37℃ 反应 30 min，酶标仪测得 A562 nm 吸光度值，根
+据软件计算出蛋白样品浓度，每孔上样 100 μg 蛋
+白。凝胶电泳，转印到 PVDF 膜上，恒流转膜，5% 的
+脱脂牛奶封闭，摇床上摇 2 h，加兔抗 iNOS 或 IL-1β
+( 1∶ 1000) 、小鼠抗 β-actin( 1∶ 1000) ，4℃，过夜; TBST
+漂洗后加入辣根酶标记的山羊抗兔 /山羊抗小鼠 IgG
+( H + L) ，室温下摇床轻摇孵育 1 h，TBST 漂洗 4
+次 × 15 min。加 ECL 免疫印迹化学发光试剂，室温
+下反应 3 min，暗室曝光、显影和定影。扫描条带，并
+用 Image J 进行分析，重复 3 次，取平均值进行统计
+分析。
+统计学处理: 所有数据采用 SPSS 17． 0 软件进
+行统计学分析，分类资料采用 x
+2 检验，用均值 ± 标
+准差( 珋
+x ± s) 表示; 组间比较采用单因素方差分析
+( One-Way ANOVA) ，两两比较采用 Bonfferoni t 检
+验，P ＜ 0． 05 为有统计学意义。
+结
+果
+1
+Ｒg1 对癫痫模型大鼠行为学的影响
+模型组大鼠在注射匹罗卡品后，共 17 只出现大
+发作，总时间为 176． 52 min，Ｒg1 预治疗组共 10 只
+出现大发作，总时间为 79． 3 min，CBZ 预治疗组共 11
+只出现大发作，总时间为 73． 5 min，治疗组平均大发
+作时间较模型组比较，差异具有统计学意义( 表 1，
+P ＜ 0． 05) ，Ｒg1 对匹罗卡品诱导的癫痫大鼠模型行
+为学发作情况影响显著。
+表 1
+Ｒg1 对癫痫大鼠大发作时间的影响( n = 20)
+分
+组
+大发作平均时间( min)
+对照组
+0
+模型组
+10． 38
+Ｒg1 预治疗组
+7． 93a
+CBZ 预治疗组
+6． 68a
+aP ＜ 0． 05 vs 模型组。
+2
+Ｒg1 抑制癫痫大鼠胼胝体区小胶质细胞的激活
+采用 Olympus FV-10i 激光共聚焦显微镜观察各
+组大鼠胼胝体区小胶质细胞的形态变化，蓝色荧光
+为 DAPI 标记的细胞核，绿色荧光为 Lectin 标记的小
+胶质细胞，观察到对照组细胞形态较小，突起明显，
+小胶质细胞呈“M2 型”分支状静息状态，癫痫模型
+组细胞变圆，胞体增大，突起回缩，呈“M1 型”阿米
+巴样激活形式。Ｒg1 和 CBZ 预治疗组较模型组相
+比，小胶质细胞的激活明显被抑制，突起明显，CBZ
+治疗组更为明显，但二者之间无显著区别( Fig． 1) ，
+重复 3 次。
+454
+神经解剖学杂志， 2016 年 7 月第 32 卷第 4 期
+Fig． 1 Microphotographs showing Ｒg1 depressing the activation of microglia in corpus callosum of epileptic rat by immunofluorescence
+staining． Bar = 10 μm
+3
+免疫荧光组织化学染色检测大鼠大脑胼胝体区
+Arg-1、iNOS 蛋白的表达
+绿色荧光为 lectin 标记的小胶质细胞，红色荧光
+分别为 Arg-1、iNOS 蛋白。与空白对照组相比，模型
+组 M2 型小胶质细胞的标志性蛋白 Arg-1 表达显著
+降低( Fig． 2) ，M1 型小胶质细胞的标志性蛋白炎性
+因子 iNOS 表达显著升高( Fig． 3) ; 经治疗后，Arg-1
+蛋白的表达升高 ( Fig． 2) ，iNOS 蛋白的表达降低
+( Fig． 3) ，提示 Ｒg1 可能通过促进激活的小胶质细胞
+由 M1 型向 M2 型转化，同时抑制炎性因子 iNOS 的
+表达，减轻毒性损伤作用，而发挥神经保护作用。
+4
+Western Blot 检测大鼠大脑胼胝体 Arg-1、iNOS 和
+IL-1β 蛋白的表达变化
+在正常脑组织中，小胶质细胞呈静息状态，发挥
+重要的免疫监视的作用，不同的病理刺激小胶质细
+胞则出现极化，分成 M1 和 M2 两型，一旦小胶质细
+胞被激活，则可能发挥“清道夫”样的吞噬功能或者
+释放毒性物质进一步加重病情，M1 型标志蛋白包括
+iNOS，IL-1β，TNF-α 和 IL-6 等，表现为细胞毒性作
+用，M2 型标志物有 IL-4，Arg-1 和 IL-10 等，与神经保
+护作用相关。在形态学的基础上，采用 Western Blot
+检测蛋白含量变化发现，Ｒg1 可明显抑制 iNOS 和
+IL-1β 的表达，上调 Arg-1 的表达( Fig． 4) ，经统计分
+析，具有统计学差异( P ＜ 0． 05) 。
+455
+陆
+地: 人参皂苷 Ｒg1 抑制癫痫大鼠大脑胼胝体区小胶质细胞激活和炎性因子表达的作用
+Fig． 2 Ｒg1 up-regulate the expression of Arg-1 in corpus callosum of epileptic rat． A: Control group; B: Model group; C: Ｒg1 pre-
+treatment group; D: CBZ pretreatment group． Bar = 50 μm
+Fig． 3 Ｒg1 up-regulate the expression of iNOS in corpus callosum of epileptic rat． A: Control group; B: Model group; C: Ｒg1 pre-
+treatment group; D: CBZ pretreatment group． Bar = 50 μm
+456
+神经解剖学杂志， 2016 年 7 月第 32 卷第 4 期
+Fig． 4 Ｒg1 increase the expression of Arg-1，decrease iNOS and IL-1β in corpus callosum of epileptic rat．
+aP ＜ 0． 05 vs control group，
+bP ＜ 0． 05 vs model group．
+讨
+论
+癫痫是一组反复发作的神经元异常放电所致的
+暂时性中枢神经系统功能失常的慢性疾病，发病机
+制十分复杂，至今未完全阐明，这也是临床治愈率有
+限的原因。癫痫动物模型诱导的方法主要分为电刺
+激点燃法和药物点燃法，后者更为常用，包括匹罗卡
+品、戊四氮、海人酸、马桑内酯和青霉素等，本研究采
+用匹罗卡品癫痫模型是目前国际上比较公认的一种
+造模方法，与人类慢性癫痫发作较为相似
+［15］。
+人参皂苷包括 Ｒb1、Ｒb2、Ｒb3、Ｒc、Ｒd、Ｒg3、Ｒh2、
+糖苷基 PD、Ｒe、Ｒg1、Ｒg2、Ｒh1 及糖苷基 PT 等多种成
+分，现代药理学研究表明，人参皂苷的生理活性作用
+非常广泛，人参皂苷中各种成分对中枢神经系统的
+作用，通过激活神经细胞存活机制和神经保护机制，
+可发挥促进神经发育，调控神经递质、改善学习与记
+忆能力、抗疲劳、促进 DNA、ＲNA 合成、抗血小板凝
+集、改善认知功能，增强心肌，保护自身免疫系统，提
+高机体对环境的适应能力及对有害因子的抵抗能
+力，促进物质代谢和抗氧化等作用
+［16-20］。尽管复方
+制剂对癫痫有较好的疗效，因其成分复杂，无法阐明
+其具体作用机制，而研究单味中药的活性成分，不仅
+有利于明确其抗癫痫的作用机制，还有利于促进我
+国传统中医药的现代化发展进程。目前，人参皂苷
+已广泛应用于治疗临床多种神经系统相关疾病，包
+括脑缺血后损伤和阿尔茨海默病等，但对癫痫是否
+有影响的研究报道却很少，尤其是在抑制小胶质细
+胞激活和减轻炎症反应的脑保护作用，则缺乏较为
+系统、全面的研究。课题组前期研究结果表明 Ｒg1
+通过调控 NF-κB 信号通路，在转录和翻译水平，抑制
+LPS 诱导的 BV2 细胞炎性蛋白酶和炎性因子的释
+放，抑制小胶质细胞的激活，从而发挥抗炎的脑保护
+作用
+［14］。NFκB 广泛存在于星型胶质细胞和神经元
+细胞中
+［21］，但在癫痫病理发展过程中究竟是促进存
+活还是损伤仍需继续探究。Li 等
+［20］ 在颞叶癫痫
+( temporal lobe epilepsy，TLE) 患者的神经胶质中发
+现 NFκB 表达上调; 刘斌等
+［22］在海人酸( kainic acid，
+KA) 诱导的癫痫大鼠模型中发现 NFκB 的表达增高，
+而使用 NFκB 信号通路的抑制剂后，癫痫发作的潜
+伏期缩短，病情加重，易感性增强; 不过也有人证实
+NFκB 的抑制剂吡咯烷二硫代氨基甲酸盐( pyrroli-
+dine dithiocarbamate salt，PDTC) ，可减少癫痫的敏感
+性，但 却 对 大 脑 的 损 伤 和 模 型 死 亡 率 并 没 有 影
+响
+［24］; PDTC 亦可通过降低糖蛋白的表达，下调海马
+CA3 区 NFκB 的活性，说明 NFκB 的活化可能癫痫易
+感性有关
+［25］。综上所述，使用不同的 NFκB 信号通
+路的抑制剂对癫痫海马不同区域的影响却截然不
+同，这可能与 NFκB 在神经保护方面的机制有关，需
+要更进一步地探索。
+本研究虽然已获得 Ｒg1 抑制匹罗卡品诱导的癫
+痫大鼠模型中小胶质细胞的激活和炎性因子表达的
+直接证据，首次证明 Ｒg1 调控癫痫大鼠脑内小胶质
+细胞的极化，但却无法证实小胶质细胞、炎性因子、
+神经元之间的相互关系，以及 NFκB 或者更多的信
+号通路在其中具体的调控机制，下一步深入探讨
+Ｒg1 调控网络信号通路对小胶质细胞极化和抑制其
+释放毒性物质的作用，保护神经元，将有助于 Ｒg1 在
+临床的应用提供理论支持，为临床治疗癫痫提供新
+的作用靶点和方向。
+参
+考
+文
+献
+［1］ 许方霄． 人参皂苷被认为对治疗癫痫极具价值 ［J］． 首都食品
+与医药，2015，1: 21．
+［2］Hanisch UK． Microglia as a source and target of cytokines ［J］．
+Glia，2002，40: 140 － 155．
+［3］Kaur G，Han SJ，Yang I，et al． Microglia and central nervous system
+457
+陆
+地: 人参皂苷 Ｒg1 抑制癫痫大鼠大脑胼胝体区小胶质细胞激活和炎性因子表达的作用
+immunity ［J］． Neurosurg Clin N Am，2010，21: 43 － 51．
+［4］Vezzani A，Conti M，De Luigi A，et al． Interleukin-1 beta immuno-
+reactivity and microglia are enhanced in the rat hippocampus by fo-
+cal kainate application: functional evidence for enhancement of e-
+lectrographic seizures ［J］． J Neurosci，1999，19: 5054 － 5065．
+［5］Sun H，Huang Y，Yu X，et al． Peroxisome proliferator-activated re-
+ceptor gamma agonist，rosiglitazone，suppresses CD40 expression
+and attenuates inflammatory responses after lithium pilocarpine-in-
+duced status epilepticus in rats ［J］． Int J Dev Neurosci，2008，
+26: 505 － 515．
+［6］Ｒavizza T，Ｒizzi M，Perego C，et al． Inflammatory response and glia
+activation in developing rat hippocampus after status epilepticus
+［J］． Epilepsia，2005，46: 113 － 117．
+［7］Vezzani A，Grantata T． Brain inflammation in epilepsy: experimental
+and clinical evidence ［J］． Epilepsia，2005，46: 1724 － 1743．
+［8］Mosser DM，Edwards JP． Exploring the full spectrum of macrophage
+activation ［J］． Nat Ｒev Immunol，2008，8: 958 － 969．
+［9］Arranz A，Doxaki C，Vergadi E，et al． Akt1 and Akt2 protein kina-
+ses differentially contribute to macrophage polarization ［J］． Proc
+Natl Acad Sci L S A，2012，109: 9517 － 9522．
+［10］张
+硌，王义武，张令强，等． 巨噬细胞极性及调控机制 ［J］．
+科学通报，2012，57: 2661 － 2665．
+［11］应航洁，史丽云． 巨噬细胞极性转化及其分子调控机制 ［J］．
+医学综述，2014，20: 3095 － 3097．
+［12］Perucca E，French J，Bialer M． Development of new antiepileptic
+drugs: challenges，incentives，and recent advances ［J］． Lancet
+Neurol，2007，6: 793 － 804．
+［13］ Schmitz B． Effects of antiepileptic drugs on mood and behavior
+［J］． Epilepsia，2006，47: 28 － 33．
+［14］宗
+一，戴纪男，孙
+俊，等． 三七皂苷 Ｒg1 抑制脂多糖诱导
+的小胶质细胞激活 ［J］． 解剖学报，2012，43: 13 － 18．
+［15］Curia G，Longo D，Biagini G，et al． The pilocarpine model of tem-
+poral lobe epilepsy ［J］． J Neurosci Methods，2008，172: 143 －
+157．
+［16］杨吉平，赖
+红，方
+欣，等． 人参皂苷 Ｒb1 对阿尔茨海默病
+大鼠海马结构 β-淀粉样蛋白表达的影响［J］． 中国组织化学与
+细胞化学杂志，2008，17: 301 － 305．
+［17］ 楚世峰，张均田． 人参皂苷 Ｒg1 的多靶点作用和机制分析
+［J］． 医学研究杂志，2010，39: 11 － 15．
+［18］Ng TB． Pharmacological activity of sanchi ginseng( Panax notogin-
+seng) ［J］． J Pharm Pharmacol，2006，58: 1007 － 1019．
+［19］Liu Q，Kou JP，Yu BY． Ginsenoside Ｒg1 protects against hydrogen
+peroxide-induced cell death in PC12 cells via inhibiting NF-κB acti-
+vation ［J］． Neurochem Int，2011，58: 119 － 125．
+［20］Li X，Liu Y，Zhang X，et al． Effect of ginsenoside Ｒg1 on expres-
+sion of phosphory protein tau and N-methyl-D-aspartate receptor
+subunits NＲ1 and NＲ2B in rat brain slice model of Alzheimer’s dis-
+ease ［J］． Zhongguo Zhong Yao Za Zhi，2010，35: 3339 － 3343．
+［21］Ｒami A，Kim M，Niquet J，et al． Alterations in the expression of
+the anti-apoptotic factor HAX-1 upon seizures-induced hippocampal
+injury in the neonatal rat brain ［J］． Neurochem Ｒes，2012，37:
+116 － 125．
+［22］ 刘
+斌，董晓柳，张文彦，等． 急性脑缺血再灌注大鼠海马
+CA1 区细胞凋亡与 β-catenin、GSK-3β 蛋白表达的关系［J］． 山
+东医药，2012，52: 28 － 31．
+［23］Madsen TM，Newton SS，Eaton ME，et al． Duman ＲS． Chronic e-
+lectroconvulsive seizure up-regulates beta-catenin expression in rat
+hippocampus: role in adult neurogenesis ［J］．
+Biol Psychiatry，
+2003，54: 1006 － 1014．
+［24］Mohammad F，Singh P，Sharma A． A Drosophila systems model of
+pentylenetetrazole induced locomotor plasticity responsive to antiepi-
+leptic drugs ［J］． BMC Syst Biol． 2009，3: 11．
+［25］徐
+倩，张春来，杨
+烨，等． 人参皂甙 Ｒb1 对马桑内酯致痫
+大鼠海马组织蛋白质组的影响 ［J］． 中 国 病 理 生 理 杂 志，
+2011，27: 1218 － 1221．
+( 收稿日期: 2015 － 12 － 15)
+458
+神经解剖学杂志， 2016 年 7 月第 32 卷第 4 期

@@ -1,0 +1,309 @@
+·
+460
+· 
+中华 老年心 脑血 管 病杂 志 20l 1 年 5 月 第 13 卷 第 5 期
+Chin J  Geriatr Heart Brain V essel Dis，May 20 11，Vol 13，No．5 
+． 基 础 研 究 ．
+ 
+人 参 皂 甙 R d 对 匹罗 卡 品致痫 大 鼠模 型 中 
+netrin一1 表达 及 神 经元 凋 亡 的影 响 
+郑佳丽 ，杨金升 ，刘 学娟 ，马亚 杰 
+摘要 ：目的 
+探讨人参皂甙 R d( GSR d) 对大鼠癫痈持续状 态后齿状 回 netrin一1 表达及 海马神经元 凋亡的影 响。方 
+法 
+健 康 W istar 大鼠 30 只 ，随 机 分 为 颞 叶癫 痢组 、GSR d 组和 对 照组 ，每 组 10 只 。 氯化 锂 一匹 罗卡 品 建立 大 鼠颞 叶 
+癫 痈模 型 ，采 用 免 疫 组 织化 学 法及 T U N EI 法观 察 颞 叶 癫 痈 组 、GSR d 组 和 对 照 组 齿 状 回 netrin一1 蛋 白表 达 及 海马 
+神 经 元 凋 亡 细 胞教 情 况 。 结 果 
+与 对 照 组 比较 ，颞 叶 癫 痈 组 大 鼠 30 d 齿 状 回 net rin 1 蛋 白 表 达 明 显 增 高 ，海 马 
+C A 3 区 T U N E l 阳性 细 胞 数 在 癫 摘持 续状 态后 7 d 明 显 增 高 ，差 异 有 统计 学 意 义 ( P <
+0．05) ；与 颞 叶 癫 痈组 比较 ，
+ 
+GSR d 组 大 鼠 30 d 齿 状 回 nelrin 1 蛋 白表 达 明显 降 低 ，海 马 C A 3 区 T U N EI 阳性 细胞 数 在 癫 痈 持 续 状 态后 7 d 明 
+显降低 ，差异有统计 学意义 (P <
+0．05) 。结论 
+G SR d 可能通过下调 netrin 1 的表达 ，并使神 经元凋亡数 目减 少，
+ 
+从 而 发挥 对神 经 元 的保 护 作 用 。 
+关键 词 ：人 参 皂 甙 类 ；癫 痫 ；神 经 元 ；海 马 ；细 胞 凋 亡 ；氯化 锂 ；模 型 ，动 物 
+E f f ec t s o f g i n sen o si d e。_R d Oil  ex p res si on  lev el s o f  n et r i n 。-1 a n d  
+n eu r on  a p o p t osi s i n  ep i l ep sy  m ~ d el 
+Z H E N G J ia—li ，Y A N G J in—sheng ，L IU  X ue—juan ，et al 
+( S ec ond C l in i ca l M ed ic a l C ol leg e ，L an z h ou U n i v ers ity ，L a nz h OH 73 000 0 ，C h i na ) 
+A bstract ：0 bj ective 
+T o inves tigat e t he ef fect s of ginseno side—R d( G SR d) o n t he ex press io n level s 
+of net rin—
+—1 an d neuro n ap op to sis in th e rat hip poc am pu s aft er lit h ium —
+—piloc arpin e ind uc ed epilep —
+— 
+s y ．M et hods 
+T h irt y W is tar rats w ere rand om ly  div id ed in to t h e N S  c on tro l g rou p ，t em po ral lo be 
+ep i1ep sy ( T L E ) g rou p an d G S R d g rou p．T h e T L E  anim al m odel w as est ablis hed us ing  lit hiu m —pi— 
+loc arpin e．N et rin一1 p rot ein s w ere d et ect ed w it h im m u no hist oc hem ic al m et ho d．T h e n euron apop to — 
+s is w as ob serv ed w ith T dT —m ediated d U T P  n ic k  en d lab eling ( T U N E L ) m eth od．R esults 
+T h e ex — 
+p ression o f net rin 一1 in G S R d g rou p w as n ot ably  low er t h an t hat o f T L E  g ro up ( P
+<
+0．0 5 ) ．T he 
+T U N E L  p osi t i v e c el l s i n hi p poc am pu s C A 3 of T L E  g r oup w e r e m or e t ha n t h ose of N S  c on tr o l 
+g rou p ( P <
+0．0 5) ．T U N E L  po sit iv e c ell s in T I E  g r oup w ere sig n ifican tly  m or e t h an th ose in N S  
+con tr ol g rou p ( P <
+0．0 5) ．T U N E L  p osit iv e ceils in G S R d tr eated g rou p s ig nif icant ly  d ec reas ed as 
+comp ar ed w it h T L E  g rou p ( P
+<
+0．0 5) ．C onc lusions 
+G S R d may  serv e as an eff ect iv e ag en t fo r 
+cu r i ng  t he b r a i n da m a g e a f tra  T L E  i n v i =9 ．T h e m e ch a ni sm  of pr ot ec ti n g t h e ne u r on m a y i n cl u de 
+downregulating the expression of netrin一{ and reducing the number of apoptotic neurons．
+ 
+K e y w or ds ：g i n se no si de s ；ep i l e psy ；ne ur o ns ；h i pp oc am p u s ；a pop t osi s ；l i t hi u m c hl o r i de ；m ode l s ，a ni — 
+m a 1 
+颞 叶癫痫 是 常见 的 神经 系 统 疾 病之 一 ，由于 具 
+有 耐药性 的特 点 ，其 发 病 机制 和 致 痢 机制 仍 然 是 现 
+代 研究 的热 点 。氯 化锂一匹罗 卡 品癫 痫 模 型 在 神经 
+DOI ：10．3969／j ．iss n．1009 0126．2011．05．024 
+作者单位 ：730000 兰州大学 第二临床 医学院( 郑佳 丽，刘 学娟 ，马亚 
+杰 ) ；兰州军区兰州总医院神经 内科( 杨金升) 
+通讯作者 ：杨金升 ，E mail ：yangj insh@ 1 63．corn 
+病理损 害 、持 续 自发反 复发作 、对抗 癫痢药 物耐 药性 
+等方 面 与人 类颞 叶癫 痫 均 有 相似 性 。人参 皂 甙 R d 
+( ginsenoside—R d ，GSR d) 是 人 参 的主 要 药 理 活性 成 
+分 。新近 的研 究 表 明 ，G SR d 在 神 经元 可 调 节各 种 
+类 型 的 离 子 通 道 ，如 抑 制 电 压 依 赖 性 Ca 
+通 道 和 
+Na 通 道的活性 ，抑 制配体 门控性 离 子通 道 如 N一甲 
+基一I)I天 门冬 氨 酸 受 体 ，阻 断 c a抖 内 流 ，清 除 自由 
+中华 老 年心 脑血 管病 杂 志 20 11 
+5 门 第 1 3 卷 第 5 期
+C hin J Geriatr Heart Brain Vessel Dis，May 201l ，V ol 13，No．5 
+基 ，抑制 氧化 应激 的过 程 ，从而 发挥 对神 经 组织 的保 
+护作 用 。本实 验通 过 建 立 氯 化 锂一匹 罗 卡 品 颞 叶 癫 
+痫 大 鼠模 型 ，观 察 G S R d 埘 颞 叶 癫 痫 大 鼠 齿 状 回 
+netrin一1 表 达 以 及 海 马 神 经 元 凋 亡 的 影 响 ，探 讨 
+G S R d 对 颞 叶癫痫 后 神经 元 凋亡 的影 响 以及 可 能 的 
+神经 元保 护机 制 。 
+1
+材 料 与 方 法 
+1．1 
+实验 动物 及分 组
+健康 W istar 大 鼠 3O 只 ，雌 
+雄 各半 ，体 重 200～250 g ，由兰州 大学 实验 动物 中心 
+提 供 。 自由摄食 、摄 水 ，室 内温 度 22～24℃ ，相对 湿 
+度 70 
+，12 h／12 h 昼 夜 照 明 变 化 。采 用 随机 数 字 
+表 法将 大 鼠随机 分 为 3 组 ：颞 叶癫 痫 组 、G S R d 组 和 
+对 照组 ，每组 1O 只 。各组 又分 为 7 d 和 30 d 2 个 时 
+间点 ，每个 时间点 5 只 。 
+1．2 
+试 剂 
+氯化 锂 颗 粒 ( 购 自美 国 Sigma 公 司) ， 
+匹 罗卡 品 ( 购 自 日本 w ak o 公 司) ，氢 溴 酸东 莨 菪 碱 
+注 射液 ( 购 自上 海禾 丰制 药 有 限公 司 ) 。netrin 1 兔 
+多 克隆抗 体 ( 购 自北 京 博 奥 森 生物 技 术 有 限公 司 ) ， 
+即用 型 S A BC 免疫 组织 化学 染 色试 剂 盒 ( 购 自北 京 
+中杉生物 技术 有 限公 司 ) ，T U NE L 凋 亡 检 测试 剂 盒 
+( 购 自 P romeg a 公 司 ) 。 
+1．3
+氯化 锂一匹罗卡 品癫 痫模 型 制作 
+大 鼠腹 腔 注 
+射 氯化 锂生 理 盐 水 溶 液 ( 130 mg／k g) ，18 h 后 腹 腔 
+注射氢 溴酸 东 茛菪 碱 ( 1 mg ／k g ) ，30 min 后 腹 腔 注 
+射 匹 罗卡 品 生 理 盐 水 溶 液 ( 30 mg／k g) 。给 药 大 鼠 
+在 15～30 min 后 出现 反复 强直一阵挛发 作 ，形成癫 痫 
+持 续状 态 ( status epilepticus ，SE ) 。癫 痫 发 作 强 度 
+按 照 R acine 法 分 级 。颞 叶癫 痫 组 和 G SR d 组 大 鼠 
+均 在 R acine lV 级 以 上 。 于 SE 30 min 腹 腔 注 射 
+l 0 
+水合 氯 醛 300 mg／kg 终 止 发 作 。 在经 历 4 ～7 
+d 的静止 期后 出现 自发性 反 复癫痫 发 作 。 
+1．4
+给 药 方 法 及 剂 量 
+G SR d 注 射 液 由广 东 泰 禾 
+生物 药业 有 限 公 司提 供 ( 5 ra g／支 ) 。造 模 成 功 后 ， 
+GSR d 组每 日腹 腔注 射药 物 1 次 ( 2 mg／k g) ，对 照组 
+和颞 叶癫 痫组 根据 体重 每天 注射 相应 剂 量的生 理盐 
+水 ，至相应 时 间点处 死各 组大 鼠。 
+1．5
+标本 采 集和 组织切 片 的制 作
+分 别 于 S E 后 7 
+d 和 30 d 处死 大 鼠 ，用 1O 
+水 合 氯 醛 ( 300 mg／kg) 
+腹腔 注射 麻醉 大 鼠后 ，经左 心室 插 管 ，剪 开 右 心 耳 ，
+ 
+依次灌 注 0．9 
+生 理 盐 水 、4 
+多 聚 
+醛各 200 ml ，
+ 
+断头 取脑 。冠状 位 切 取 视 交 叉后 1～ 4 mm 脑 组 织 
+于 4 
+多聚 甲醛 溶液 中 固定 6～8 h ，脱水 、石 蜡 包埋 
+后 ，用 振荡 切 片机从 视交 叉处 开 始作冠 状 连续切 片 ，
+ 
+片厚 4 f』m，其 中每组 7 d 大 鼠用 于 T U NE L 染 色 ， 
+30 d 大 鼠用 于免疫 组织 化 学染 色 。 
+1．6 
+netrin一1 免 疫 组 织 化 学 染 色 
+采 用 过 氧 化 物 
+酶标 记 的链 霉 卵 白素法 ( SP 法 ) 检测齿 状 回 netrin一1 
+蛋 白的表达 情 况 。石 蜡 切 片 脱 蜡 至 水 ，放 入 1 
+枸 
+橼 酸盐 缓 冲液 ，pH 6．0 ，高压 锅 中高 温 、高 压热 修 复 
+2．5 ra in ，3 
+H 2O2 37℃孵 育 10 min ，10 
+山羊 血 清 
+封 闭 ，37。C 孵 育 15 min，倾 去 血 清 ，勿 洗 ，滴 加 1 ： 
+100 兔 抗 鼠 netrin一1 抗 体 ，37。C 孵 育 3 h ，滴 加 适量 
+生物 素 标 记 山 羊 抗 兔 二 抗 工 作 液 ，37。C 孵 育 l 5 
+min ；滴加 适量 的辣 根 酶 标 记 的链 酶 卵 白素工 作 液 ，
+ 
+37℃孵 育 1 5 ra in 。除 血清 封 闭外 ，其 余 步骤 问均用 
+PB S 冲洗 3 次 ，每次 5 min ；DA B 显 色剂 显 色 5～10 
+min ；自来 水 冲洗 ，苏木 精 对 比染 色 ，梯 度酒 精 至 水 ，
+ 
+二 甲苯透 明 ，中性树 胶封 固 ；显微 镜下 观察 细胞核 中 
+出现棕 黄色 颗粒 者 为 netrin～1 阳件 细 胞 。 阴性对 照 
+取 PBS 代替 一 抗 ，免 疫 反 应 阴性 ，说 明 一 抗 的 特 异 
+性 较强 。每 张 切 片 随机 选 择 5 个 不 重 叠 视 野 ( × 
+400)采 集 图 像 ，应 用 image—pro plus 6．0 图像 分 析 
+软 件测定 每 个视 野 的阳性 细胞 数 ，取 平均 值 。 
+1．7 
+T UNE L 染 色 
+按 照 P romeg e 公 司 T U N E L  
+试 剂盒 提供 的实 验步 骤进 行操 作 。用 荧 光显 微镜 检 
+测 凋亡细 胞 的绿 色荧 光 。阴性 对 照 采 用 不 含 rT dT  
+酶 的对 照孵 育缓 冲液 ( 去 离 子 水 ：核 苷 混 合 物 ：平 
+衡缓 冲液 一 1 ：5 ：45) 。每 张切 片 选 择 阳性 细胞 最 
+集 中的 5 个 高倍镜 下 视 野 ，计 算 每 个 高 倍 视野 的 阳 
+性 细胞 数 ，取平 均值 。 
+1．8
+统计 学 方法
+采用 S PS S 13．0 统 计 软件 ，计 量 
+资料 以 x ± S 表示 ．用单 向方 差分 析 和 t 检 验 ，P <  
+0．05 为 差异有 统计 学 意义 。 
+2 
+结 
+果 
+2．1 
+3 组 大 鼠 齿 状 回 netrin-1 的 表 达 
+对 照 组 大 
+鼠 卤状 回未 见 明 显 netr in一1 阳性 。与对 照组 比 较 ， 
+颞 叶癫痢 组 大 鼠 30 d 齿 状 回 netrin一1 蛋 白表 达 明 
+显增 高 ，差 异 有 统计 学 意 义 ( P <
+0．05) ；与颞 叶 癫 
+痫组 比较 ，G S R d 组 大 鼠 30 d 齿 状 回 netrin一1 蛋 白 
+表达 明显 降 低 ，差异 有 统计 学意 义 ( P < 0．05 ，表 1， 
+图 1 ～ 3 ) 。 
+表 1 
+3 组 大 鼠海 马 C A 3 区凋 亡 细 胞数 及 齿 状 回 
+netrin 1 阳性 细 胞 数 的 比较 ( 
+± S ，个 ／视 野 ) 
+注 ：与对N -~11比较 ，aP <
+0．0 5；与颞 叶癫痢组 比较 ，
+ P <
+0．0 5 
+中华 老年 心脑 血 管病 杂志 201 1年 5 月 第 13 卷 第 5 期
+Chin J ~ fi atr Heart Brain V essel Dis ，May 20 l 1，V ol 13，No．5 
+图 1～3 
+3 组 大 鼠齿 状 回 30 d n etrin一1 蛋 白表 达
+D A B
+× 1。O 
+图 1
+对 照 组 
+图 2
+颞 叶癫 痫 组 
+图 3 
+G SR d 组 
+2．2 
+3 组 大 鼠 海 马 CA 3 区 T UNE L 阳 性 细 胞 数 的 
+比较
+与对照 组 比较 ，颞 叶癫痫 组大 鼠海 马 C A 3 区 
+T U NE L 阳性 细胞 数 在 SE 后 7 d 明显 增 高 (P <  
+0．05) ；与颞 叶癫 痫 组 比较 ，GS R d 组 大 鼠海 马 CA 3 
+区 T U NE L 阳性细 胞数 在 SE 后 7 d 明显 降低 ，差异 
+有统 计学意 义 ( P <
+0．05，表 1) 。 
+3
+讨
+论 
+K ennedy 及其 同事 于 1994 年 发 现 netrin一1，后 
+者在胚 胎发育 的中枢 神 经 系统 组 织 中 高表 达 ，在 成 
+年动 物 中枢神 经 系统 中仍 有表 达 。在 中枢 神经 系统 
+发育 阶段 ，netrin一1 与不 同受体 结 合 ，参 与促 进 或 抑 
+制轴 突生长 ，对神 经轴 突的生 长 、突触形成 以及 神经 
+轴突 的靶 向性 生 长起 着 重要 的作 用 。缺 乏 netrin一1 
+可导 致胼胝体 、前联 合 、海马联 合等形 成不 能 。在 发 
+育异 常 、肿 瘤 、自身 免 疫 性 疾 病 、帕金 森 病 中 都 有 
+netrin—l 及 其 受 体 表 达 的 改 变 _1。] 。有 研 究 表 明 ， 
+netrin 家族成 员在 神经元 迁 移 时也 具有 导 向分 子 的 
+作 用 。近年 来 研 究 发 现 ，netrin一1 还 具 有 抗 凋 亡 的 
+作 用 ，局 部注 射 netr in一1 对 大脑 中 动脉 闭塞 导 致 的 
+局 部缺 血动物 模 型有 保 护 作 用 ，可 能 通 过 降 低 P 53 
+相关 的细胞凋 亡途 径 ，保 护 大脑 中动 脉 闭塞 后 脑组 
+织 的作 用 j 。 
+海 马结 构 的苔 藓 纤维 发 芽 和突 触 重组 ，是 导 致 
+癫 痫患 者脑 电生理功 能异 常及癫 痢反 复 自发 性发 作 
+的根源 。颞 叶癫痫状 态后 7 d，海 马齿状 回颗 粒细胞 
+层 可见 netrin一1 蛋 白 的表 达 增 加 ，并 持 续 到癫 痫 状 
+态后 28 d，与 海 马 出芽 苔 藓 纤 维 以及 突触 重 组 一 
+致_5] 。这表 明 netrin一1 激活 可能 有助 于海 马齿 状 回 
+苔藓 纤维轴 突生 长 ，从 而有利 于颞 叶癫痫 的发生 。 
+GSR d 是 人 参 皂 甙 中的 主要 活性 成 分 之 一 ，其 
+提取成 本较低 ，能够 大规模 工业 生产 ，目前 其制 剂 已 
+进 入 Ⅲ期 临 床 研 究 。G SR d 可 能 是 一 种 神 经 保 护 
+剂 ，在 中枢神 经系 统疾 病 ，如 缺 血 性 脑血 管 病 、神 经 
+变 性疾病 中的治疗作 用 已有 报道 。其 机制 可能包 括 
+清 除氧 自由基 、抑制脂 质过 氧化 、稳 定 内源性抗 氧化 
+酶 的活性 及保 护线粒 体功能 等而 发挥对 细胞 的保护 
+作 用 ] 。本 研 究 结 果 发 现 ，G SR d 组 干 预 后 齿 状 回 
+netrin一1 蛋 白表 达 明 显 减 少 ，同时 细 胞 凋 亡 数 目与 
+颞 叶癫痢 组 比较 明显减少 。 
+我们 的前期 研究 发现 ，颞 叶癫 痢 组大 鼠 3O d 可 
+观 察到苔 藓纤维 穿越 海马齿 状 回颗粒 细胞层 到达 内 
+分 子层 ，表 现为 连续 、浓密 、呈层状 分 布的 T imms 染 
+色 颗粒带 ；而 GS R d 干预组 大 鼠则 见 到少量 的 、不连 
+续 或斑片 状 的苔 藓纤 维穿过 颗粒 细胞层 进入 内分子 
+层 ] 。这提 示 GSR d 可 能通 过使 netrin一1 蛋 白的表 
+达降低，而抑制海马齿状回苔藓纤维轴突生长及灾 
+触形 成 ，从 而减少 反 复 自发性 癫 痢 发 作 。但 其在 癫 
+痫 中 的作 用机制 仍有 待于进 一步 研究 。 
+参 考 文 献 
+[ 1] 
+Mehl en P ，L lambi F ．R ol e of netrin一1 and netrin一1 dependent 
+recept ors in col orect al c anc ers．Br J C an cer ，2005 ，93 ：1—6．
+ 
+E2]
+W aage Baudet H ，Dunty WC J r ，D ehart DB ，et a1．Immunohis— 
+t oche m ica l and m icroa rray  a na ly se s of a m ouse m odel for t he 
+S m it h—L e m li O pitz sy ndrom e ．D ev  N eurosc i ，20 0 5 ，2 7 ：3 7 8 3 9 6 ．
+ 
+[ 3]
+Moon C ，K im H ，A hn M ，et a1．E nhanced expression of netrin一1 
+p r ot e in in t h e s cia tic n e r v es o f L e w is r a t s w it h  ex p e r im e n ta l 
+autoimmune neur itis ：p os sible role of the netrin 1／D C C binding 
+p at hw ay  in an aut oimmune P NS disorder．J  N euroimmunol ，
+ 
+2 00 6 ，17 2 ：6 6 - 7 2 ．
+ 
+r 4]  
+W u T w ，IA w w ，IJi H ．N etrin一1 attenuates ischemic stroke- in— 
+d u ce d ap o p t o sis．N e u r o scie n ce ，20 0 8 ，15 6 ：4 7 5—4 8 2 ． 
+[ 5]
+L in H ，W u Lw ，H uang Y G ，et a1．Cor relation between hipp— 
+oca m pal m os sy f ibe r sprouti ng a nd sy napt ic re org aniza t ion a nd 
+me cha nisms of te mpora l lobe epi leps y．Z hong H ua Y i X ue Z a 
+Z hi ，2 0 0 7 ，87 ：3 4 1 - 3 4 4 ．
+ 
+[ 6]
+Y e R ，Han J ，K ong X ，et a1．Protective effects of ginsenoside R d 
+on PC 1 2 cell s a g ain st hy drog en perox ide ．B iol P ha rm B ul l ，
+ 
+2 0 0 8 ，3 1 ：1 9 2 3—1 9 2 7 ．
+ 
+[ 7]
+张明磊 ，杨金升 ，范 磊，等．人参皂 甙 Rd 对 慢性颞 叶癫痫大 鼠 
+空 间学习记忆能力 的影响．癫痫 与神经 电生理 学杂 志，2010， 
+1 9 ：6 5- 6 8 ．
+ 
+( 收 稿 日期 ：2O10—12-27) 
+( 本文编辑 ：马卫东) 

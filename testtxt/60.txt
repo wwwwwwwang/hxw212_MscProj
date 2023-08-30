@@ -1,0 +1,468 @@
+CHI NESE J OURNAL OF ANATOMY V01．32 No．6 2009
+解剖学杂志2009年第32卷第6期
+人参皂甙Rbl 对阿尔茨海默病样大鼠海马结构
+B一分泌酶和早老素一1表达的影响+
+杨吉平’
+赖
+红2
+吕永利2赵朝华1
+杨石照1
+( 1西安医学院解剖学教研室，西安710021；2中国医科大学解剖学教研室，沈阳110001)
+摘要
+目的：观察人参皂甙Rbl 对阿尔茨海默病( AD) 模型大鼠海马结构B- 分泌酶( BACE) 和早老素一1( PS- 1) 表达的影响，
+探讨人参皂甙Rbl 防治AD的町能机制。方法：SD大鼠随机分为对照组、模型组和治疗组，用D一半乳糖联合三氯化铝建立
+AD大鼠模型，治疗组在造模后给予腹腔注射人参皂甙Rbl ；采用Morri s水迷官测试大鼠的空间学习记忆能力，免疫组织
+化学显色和免疫印迹方法检测大鼠海马结构BACE和PS一1的表达。结果：模型组大鼠各时间段的逃避潜伏期均较对照组
+延长，治疗组对应时间段的潜伏期较模型组明显缩短；模型组大鼠海马结构BACE和PS- 1的表达较对照组增高，而治疗组
+BACE和PS- 1表达均较模型组明显下调。结论：人参皂甙Rbl 可明显改善D一半乳糖联合三氯化铝制作的AD大鼠学习记
+忆障碍，其机制可能与下调海马结构BACE和PS—l 的表达有关。
+关键词阿尔茨海默病；人参皂甙Rbl ；海马结构；B一分泌酶；早老素一1；大鼠
+Ef f ect of gi nsenosi de Rbl
+on expressi on of }secret ase and preseni l i n- 1
+i n hi ppocampal
+f ormat i on of Al zhei mer’
+s di sease—l i ke rat s+
+Yang J i pi n91，hi
+Hongz，LU Yongl i 2，Zhao Zhaohual ，Yang Shi zha01
+( 1．Depart ment of Anat omy，Xi ' anMedi cal Col l ege，Xi ' an
+710021；
+2．Depart ment of Anat omy，Chi na Medi cal
+Uni versi t y，Shenyang
+110001，Chi na)
+Abst ract
+Obj ect i ve：To observe t he ef f ect of gi nsenosi de Rbl ( GSRbl ) On t he expressi on of psecret ase and preseni l i n- 1
+i n
+hi ppocampal f ormat i on of Al zhei mer’
+S di sease( AD) 一l i ke rat s．Met hods：45 mal e Sprague- Dawl ey rat s were di vi ded randoml y
+i nt o acont rol group。a model group and a t reat ment group．The rat s
+i n t he model group were t reat ed wi t h D—gal act ose and a-
+l umi ni umt ri chl ori de．GSRbl WaS gi ven t o t he rat s i n t he t reat ment groupaf t er t he est abl i shment of AD modek
+Morri s wat er
+I Tl aze was used t o t est abi l i t y of l earni ng and memory of rat s．I mmunohi st oehemi cal
+st ai ni ng and West ern bl ot was perf ormed
+f or det ect i ng t he expressi on of psecret ase and preseni l i n- 1 i n t he hi ppocampal f ormat i on．Resul t s：Compared wi t h t he cont rol
+group，every segment al
+escape l at ency of model
+rat s was prol onged，and t he l at ency of
+rat s t reat ed GSRbl
+was short ened
+compared wi t h t he model group．Compared wi t h t he cont rol group，t he expressi on of psecret ase and preseni l i n- 1 i n t he hi pp—
+ocampal f ormat i on of model
+rat s was i ncreased．whi l e t hei r expressi on
+i n t he t reat ment
+group was si gni f i cant l y decreased
+compared wi t h t he model
+group．Concl usi on：The l earni ng and memory i mpai rment
+of ADmodel
+rat s was i mproved by
+GSRbl ．The mechani smwas possi bl y rel at ed t o down- regul at i on of p- seeret ase and preseni l i n- 1，whi ch resul t ed i n a decrease
+of AB expressi on i n hi ppoeampal f ormat i on af t er GSRbl
+t reat ment ．
+Key words
+Al zhei mer’
+S di sease；gi nsenosi de Rbl ；hi ppocampal
+f ormat i on；pseeret ase；preseni l i n- 1；rat
+老年斑是阿尔茨海默病( Al zhei mer’
+S
+di sease，
+AD) 特征性病理改变之一，它的核心成分是|3一淀粉样
+蛋白( [ 3- amyl oi d，AI a) ，而At 3是由淀粉样前体蛋白
+( amyl oi d precursor prot ei n，APP) 经伊分泌酶( bat a-
+si t e APP cl eavi ng enzyme，BACE) 和r分泌酶裂解产
+生的。BACE是A8生成的关键限速酶，早老素一l ( pre—
+seni l i n- 1，PS- 1) 能够促进BACE和r分泌酶的协同作
+用，导致Ap的生成量明显增加。目前认为，PS- 1本身
+· 辽宁省自然科学基金( 20062088) ；辽宁省教育厅基金( 05L511)
+第l 作者E—mai l ：yangj eepi ng( 萤yahoo．com．cI l
+收稿日期：2009—4—8；修回日期：2009—7—11
+‘
+· - - ——762- - ———
+就是组成r分泌酶复合物中最重要的部分[ 1] 。由此可
+见，通过改变BACE和PS- 1的表达量可以直接调节
+A8的水平。人参皂甙Rbl ( gi nsenosi de Rbl ，GSRbl )
+是人参的单体成分之一，具有营养神经，促进轴突外生
+和神经再生的作用L2] ，并可增加小鼠海马锥体细胞的
+突触数目，上调突触素的表达。提高小鼠的空间学习记
+忆能力[ 3|，近年来有研究表明GSRbl 可明显抑制Ap
+诱导的海马和皮层神经元t au蛋白的过度磷酸化[ 4J 。
+然而，GSRbl 对AD的分子生化改变，尤其是对这两种
+与A8生成密切相关的酶含量的影响作用尚未见文献
+报道。因此，该研究拟采用D一半乳糖联合三氯化铝建
+万方数据
+立AD大鼠模型，观察海马结构神经元BACE和PS- 1
+的表达情况以及GSRbl 对其表达的影响。
+1材料和方法
+1．1
+药品与试剂
+D一半乳糖购自国药集团化学试剂有限公司；三氯
+化铝( A1C1。· 6H。O) 由沈阳第一试剂厂生产；兔抗大鼠
+BACE和P孓1抗体为北京博奥森公司产品；SABC免
+疫组织化学试剂盒为武汉博士德公司产品；浓缩型辣
+根过氧化物酶标记羊抗兔I gG为美国KPL公司产品；
+抗p- act i n抗体购自美国Sant a Cruz公司；免疫印迹法
+化学发光检测试剂盒购自美国KPL公司；GSRbl 由中
+国药品生物制品检定所提供。
+1．2动物及分组
+选用中国医科大学实验动物中心提供的5月龄SD
+雄性大鼠，体质量( 250士20) g，适应性饲养1周后，经
+Morri s水迷宫测试判定其空间辨别性学习记忆能力，
+淘汰反应过于迟钝或特别敏感的大鼠，将选出的45只
+大鼠随机分为3组：对照组、模型组和治疗组，每组15
+只。模型组即每天腹腔注射D一半乳糖60 mg／kg和灌
+胃三氯化铝500 mg／kg，连用60 d；治疗组是在造模结
+束l d后给予腹腔注射GSRbl
+2．5 mg／kg，每天1次，
+连用4周；对照组以等量生理盐水进行腹腔注射和
+灌胃。
+1．3
+Morri s水迷宫检测
+造模及治疗结束1 d后开始行Morri s水迷宫行为
+学测试[ 5J ，第l 天让大鼠自由游泳2 mi n，第2天开始
+训练，每天分上、下午2个时间段，每段分别训练4次。
+训练期间水迷宫外参照物保持不变，训练开始时，将平
+台置于SW象限，随机选择1个入水点，将大鼠面向池
+壁放入水池，观察其寻找平台的路线图，记录每次找到
+并爬上平台的时间，即逃避潜伏期。如果大鼠在120
+S
+内找不到平台，则将其引上平台，潜伏期记为120 S，每
+次间隔1 mi n，连续训练9个时间段( 1—1，1—2，2—1，2—
+2，3—1，3—2，4- 1，4- 2，5—1) ，其中，1- 1表示第1天上
+午，1—2表示第1天下午，2—1表示第2天上午，依此
+类推。
+1．4大鼠海马石蜡切片的制备
+行为学测试后，将大鼠麻醉，开胸，经升主动脉相
+继快灌生理盐水150 ml ，4％多聚甲醛0．1 mol ／L磷酸
+缓冲液( pH7．4) 250 ml ，速度先快后慢，持续30 mi n以
+上，取脑，后固定30 mi n，脱水、透明、石蜡包埋；冠状位
+连续切片，片厚为7 bt m，每隔3张取1张。
+1．5免疫组织化学显巴
+BACE和PS- 1一抗稀释度均为1：200，DAB显
+色约10 mi n，镜下控制反应时间，充分水洗；常规脱水、
+透明和封片。用PBS代替一抗孵育作为阴性对照。采
+用随机方法，每组每种抗体分别取10张切片，在40倍
+物镜下，按照海马CAl 区、CA3区及齿状回的部位采
+集图像，背景及曝光时间等条件均设一致，然后用图像
+分析系统( Met a Morph／DPl 0／BX41) 进行分析，测定
+其积分光密度值( I OD) 作为定量指标。
+1．6免疫印迹分析
+大鼠颈椎脱臼处死，剥离并取出双侧海马结构称
+重后剪碎，加入l o倍于其体积预冷的脑组织裂解液
+( 每毫升含PMSF 6弘1) ，静置30 rai n后匀浆离心( 4℃，
+13 000 r／mi n，30 mi n) ，取上清液，用Bradf ord法测定
+蛋白浓度。等量上样后进行SDS- PAGE电泳，半干转
+印到PVDF膜上，5％脱脂奶粉室温封闭2 h，加入稀释
+的一抗( BACE 1：300，PS- 1 1：400) ，4"C孵育过夜，
+浓缩型辣根过氧化物酶标记二抗( 1：2 000稀释) 37℃
+孵育2 h，ECL化学发光显色。以13- act i n作为内参照，
+实验重复3次。
+1．7统计学处理
+所得数据以均数± 标准差( 互士s) 表示，用SPSS
+11．0软件单因素方差分析进行组间比较。
+2结果
+2．1
+Morri s行为学测试
+3组大鼠寻找平台所需潜伏期的时间在前2 d均
+随着训练进程而显著下降( 图1) 。自第3天起模型组
+潜伏期趋于平稳，但对照组及治疗组仍缓慢下降。模
+型组与对照组、治疗组与模型组相比差异均具有统计
+学意义( P<O．05) 。
+120．00
+100．00
+董80．00
+旦
+罾60_oo
+叫40．00
+20．00
+O．00
+Ti me／d
+图1大鼠平均逃避潜伏期的变化趋势
+Fi g 1
+Change t endency of average escape l at ency i n SDrat s
+‘
+P<O．05 wcont rol ；△ P<O．05 V5 model
+2．2免疫组织化学显色
+BACE及PS- 1免疫反应阳性产物均呈棕黄色或棕
+褐色细颗粒状，在海马结构各亚区均有表达，以海马
+CA3区最为明显( 图2、3，见封三) ，高倍镜下可见阳性
+产物主要位于神经元胞质和突起及其分支，其胞核淡
+染。对照组大鼠海马CA3、CAl 区及齿状回可见少量
+的BACE和PS- 1阳性神经元，阳性产物着色较淡；模
+．．- ——
+763· - - ——
+万方数据
+型组BACE和PS- 1阳性神经元着色加深，阳性产物的
+I OD较对照组明显增加( P<o．01、P<0．05) ；而治疗
+组BACE和PS- 1阳性产物的I OD较模型组降低( P<
+0．05) ( 表1) 。
+表l
+大鼠海马结构BACE及PS- I 的表达( } 士s)
+Tab 1
+Expressi on of BACE and PS- I
+of hi ppocampal f ormat i on i n t hree groups( 覃土s)
+。P<0．05。” P<0．01讲cont rol ；△ P<O．05Ⅲmodel
+2．3免疫印迹法
+在相对分子量为70 kD处有一清晰的BACE条带，
+10D比值统计分析结果显示模型组表达强于对照组
+( p<o．01) ，而治疗组的表达量较模型组下调( P<
+0．05) 。在相对分子量为48 kD处有一清晰的PS- 1条
+带，I OD比值统计分析结果显示模型组表达量较对照
+组增加( P<0．05) ，而治疗组表达量较模型组下调
+( P<O．05) 。
+0
+譬0
+罩
+兰0
+童
+。0
+0
+图4大鼠海马结构BACE和PS- I 的表达
+Fi g 4
+Expressi on of BACE and PS- ! i n hi ppocampal
+f ormat i on of
+rat s
+1：Cont rol ；2：Model ；3：Treat ment
+’
+P<0．05。“ P<0．01 wcont rol ；△ P<0．05
+735 model
+3讨论
+给动物长期注射D一半乳糖可使其多器官功能衰退
+而出现亚急性衰老表现，铝是一种神经毒素，铝离子可
+以透过肠屏障和血脑屏障，本研究参照罗焕敏等[ 6] 方
+法用D一半乳糖联合三氯化铝建立AD大鼠模型，Mor-
+ri s水迷宫行为学测试结果显示模型组大鼠的平均逃避
+潜伏期较对照组明显延长。大量的实验研究表明海马
+结构是AD最早和最易受损的部位[ 7|，因此，该研究以
+海马结构作为观察点，其免疫组织化学结果显示，
+BACE和PS- 1在模型组大鼠海马结构，尤其是海马
+CA3、CAl 区和齿状回神经元胞质内明显表达，免疫反
+应阳性产物的10D较对照组明显增加。免疫印迹结果
+显示，模型组大鼠海马结构BACE和PS- 1表达明显强
+于对照组，此结果与AD患者病理过程中BACE及
+．．．．——
+764．．．．——
+P§ 1活性增高的有关报道一致。
+AD是一种进行性神经退行性疾病，目前临床主要
+用胆碱酯酶抑制剂治疗，但也只能改善早、中期患者的
+部分症状，不能减轻AD脑内分子生化的改变，不能阻
+止病情的进展。Ap沉积构成老年斑的核心部分，Ap
+级联学说认为A8的增多和聚集是AD发病的启动因
+素，A8的神经毒性作用是AD病理过程中的核心事件，
+减少脑内A13含量或降低其活性已经成为治疗AD的
+一个研究方向[ 8] ，而A|3是APP分子经BACE和r分
+泌酶共同酶切的产物，PS- 1是r分泌酶的核心部分，其
+基因突变与AD的关系甚为密切[ 1] 。因此，BACE和
+PS- 1已成为治疗AD有潜力的靶点。
+人参是传统的抗衰老和益智中药，其有效活性成
+分人参皂甙( gi nsenosi de，GS) 对中枢神经系统具有良
+好的兴奋作用。Rbl 是GS的单体成分之一，属二醇型
+皂甙，已有实验表明GSRbl 可明显延长原代培养的海
+马神经元存活时间，降低细胞死亡率L90；可增加脑内乙
+酰胆碱的合成和释放，增加M胆碱受体数量，提高胆碱
+乙酰转移酶的活性，从而改善实验动物的学习记忆障
+碍[ 10] 。最近有研究表明I l l - 12] GSRbl 能够抑制多种原
+因诱导的海马和皮层神经元t au蛋白的过度磷酸化水
+平。本课题组前期的研究已经表明GSRbl 能够明显
+下调AD大鼠海马神经元A8蛋白的表达[ 13l 。该研究
+显示GSRbl 可明显缩短AD模型大鼠各时间段的平均
+逃避潜伏期，免疫组织化学结果表明GSRbl 可明显减
+少海马CAl 、CA3区及齿状回BACE及PS- 1的表达；
+免疫印迹结果提示GSRbl 可使D一半乳糖联合三氯化
+铝建立的AD大鼠海马结构BACE和P孓1的表达量
+明显下调。由此推测，GSRbl 可能主要通过降低海马
+结构BACE及PS- 1的含量，影响8和r分泌酶的活
+性，使APP沿淀粉源途径代谢减少，进而降低A口的生
+成。因此，GSRbl 对AD的防治具有潜在的应用前景。
+该研究从分子生化方面表明GSRbl 可使D一半乳糖与
+三氯化铝联合制作的AD模型大鼠海马结构BACE及
+PS- 1的表达明显下调，从而改善大鼠的学习记忆能力，
+这可能是其防治AD的机制之一。
+( 下转777页)
+●
+O
+O
+O
+O
+O
+o=i}u兰每五-
+凸o
+p。jl—＆当口一山U《∞
+万方数据
+植细胞表达突触蛋白，与宿主形成突触联系和神经环
+路；( 2) 移植细胞分泌神经营养因子如血管表皮细胞生
+长因子、胶质细胞源性神经营养因子起神经保护作用，
+减少缺血区神经细胞凋亡和脑梗死体积，促进神经功
+能恢复；( 3) 移植细胞提高宿主脑可塑性，如诱导损伤
+部位传人、传出神经元与周边区及健侧脑发生联系；
+( 4) 提高内源性血管形成因子水平，促使新生血管生成
+增加；( 5) 减轻炎症反应；( 6) 动员内源性前体细胞的神
+经发生。
+综上所述，局灶性脑缺血后移植NSCs，移植细胞
+在脑内能存活、迁徙，并能改善神经缺失症状。后续的
+实验尚需观察移植细胞的分化，进一步研究移植的
+NSCs是否形成功能性神经元，整合到宿主的神经
+环路。
+参考文献
+[ 1] Ormerod B K，Pal mer T D，Cal dwel l M氏Neurodegenerat i on
+and cel l repl acement [ 31．Phi l Trana R Soc B，2008，363( 1489) ：
+153- 170．
+[ 2] Chen J L，Yi L，Wang L，et a1．Therapeut i c benef i t of
+i nt rave-
+nous
+admi ni st rat i on of bone marrowst romal cel l s af t er cerebral i s—
+chemi a i n rat s[ J ] ．St roke，2001，189( 1—2) ：49—57．
+[ 3] Lee H J ，Ki mK S，Ki mE J ，et aI ．Brai n t ranspl ant at i on of
+i m—
+mort al i zed human neural
+st emcel l s promot es f unct i onal
+recovery
+i n mouse i nt racerebral hemorrhage st roke model [ J 1．StemCel l s，
+2007。25( 5) ：1204—1212．
+【4] 林绿标，章翔，林旭妍，等．小鼠胚胎神经干细胞在猫全脑缺血再
+灌注损伤模型中的存活、迁移及分化[ J ] ．中华神经外科疾病研究
+杂志。2007，6( 3) ：207—209．
+[ 5] Okano H，Sawamot o K Neural st em cel l s：i nvol vement
+i n adul t
+neurogenesi s and CNS repai r[ J 1．Phi l
+Trans R Soc B，2008，363
+( 1500) ：2111- 2122．
+[ 6] Kel l y S，Bl i ss T M，Shah A K，et a1．Transpl ant ed human f et al
+neural
+stel To_cel l s survi ve，mi grat e and di f f erent i at e i n i schemi c rat cer-
+ebral cort ex口] ．Proc Nat l Acad Sci ，2004，101( 32) ：11839—11844．
+[ 7] 潘凤华，李晓波。丁新生，等．人胚胎神经干细胞移植治疗大鼠脑
+缺血的实验研究[ J 1．临床神经病学杂志，2005，18( 2) ：84—87．
+[ 8] Ki mD E，Schel l i ngerhout D，I shi i
+K，et a1．I magi ng of st emcel l
+recrui t ment
+t o i schemi c i nf arct s i n a muri ne model [ J ] ．St roke，
+2004，35( 4) ：952- 957．
+[ 9] Zhang Z H，Wang R Z，Wang R z，et a1．Transpl ant at i on of
+neu-
+ral st em cel l s modi f i ed by human neurot rophi n- 3 promot es f unc-
+t i onal
+recovery af t er t ransi ent
+f ocal
+cerebral
+i schemi a
+i n rat s[ J ] ．
+Neurosci
+Let t ，2008，444( 3) ：227—30．
+[ 10i
+Chu K，Park K，Lee S T，et a1．Combi ned t reat ment of vascul ar
+endot hel i al
+growt h f act or and human neural st em cei l s i n expef i -
+ment al
+f ocal cerebral
+i scherni a[ J ] ．Neurosci
+Res，2005，53( 4) ：
+384- 390．
+[ 111刘永海，赵莲花。赵辉。等．神经干细胞移植治疗大鼠脑缺血再灌
+注损伤的实验研究[ J ] ．卒中与神经疾病，2006，13( 6) ：328—331．
+[ 12] Bl i ss T，Guzman R，Daadi M，et a1．Cel l t ranspl ant at i on t herapy
+f or st roke[ J ] ．St roke，2007，38( 2) ：817—826．
+( 编辑：王栋)
+( 上接764页)
+参考文献
+[ 1] Ki mberl y W，Wol f e MI dent i t y and f unct i on of gamma- secret ase
+口] ．Neurosci
+Res，2003，74( 3) ：353—360．
+[ 2] ChenYS，wuCH，YaoCH，et a1．Gi nsenosi deRbl
+enhances
+peri pheral
+nerve regenerat i on aCrOSS wi de gaps
+i n si l i cone rubber
+chambers[ J ] ．I nt
+J Art i f Organs。2002，25( 11) ：1103—1108．
+[ 3] Mook J I ，Hong HS，Boo J H，et a1．Gi nsenosi de Rbl
+and Rgl
+i mprove apat i al l earni ng and i ncrease hi ppocampus synapt ophysi n
+l evel
+i n mi ce[ J ] ．Neurosci Res，2001，63( 6) ：509—515，
+[ 4] Xi e Y H，Chen X C，Zhang J ，et aL Gi nsenosi de Rbl
+at t enuat es
+bet a- amyl oi d pept i de 25—35 i nduced hyperphosphoryl at i on of
+t au
+prot ei n t hrough CDK5 si gnal pat hway[ J ] ．Act a Pharmae Si ni ca，
+2007，42( 8) ：828- 832．
+[ 5] Morri s R Devel opment s
+of
+a wat er- maze procedure f or st udyi ng
+spat i al
+l earni ng i n t he rat [ J ] ．J
+Neurosd Met hods，1984，11( 1) ：
+47—60．
+[ 6] 罗焕敏，肖飞．D一半乳糖和j 氯化铝诱导小鼠产生类阿尔茨海默
+病变[ J ] ．中国药理学与毒理学杂志，2004，18( 1) ：22—26．
+[ 7]
+Al l en G，Barnard H·
+McCol l
+R，et a1．Reduced hi ppocampal
+f unct i onal
+connect i vi t y i n Al zhei mer di sease[ J ] ．Arch Neurol ，
+2007。64( 10) ：1482—1487．
+[ 8] Gol de T E，Di ckson D，Hut t on帆Fi l l i ng t he gaps
+i n t he abet a
+cascade hypot hesi s
+of
+Al zhei mer’
+s di sease[ J ] ．Curt
+Al zhei mer
+Res，2006，3( 5) ：421—430．
+[ 9] Li u M，Zhang J T．Prot ect i ve ef f ect s of gi nsenosi de Rbl
+and Rgl
+on cul t ured hi ppocampal
+neurons[ J ] ．Act a Physi ol Si ni ca，1995，
+30( 9) ：674- 678．
+[ 10] Xue J F，Li u Z J ，HuJ
+F，et aL
+Gi nsenosi de Rbl
+promot es neu-
+rot ransmi t t er rel ease by modul at i ng phosphoryl dt i on of synapsi ns
+t hrough a cAMP- dependent
+prot ei n ki nase pat hway[ J ] ．Brai n
+Res，2006，1106( 1) ：91—98．
+[ 111
+Zeng Y Q，ChenX C，Zhu Y G，et a1．Gi nsenosi de Rbl
+at t enu—
+at es bet a- amyl oi d pept i de 25—35 i nduced t au hyperphosphoryl at i on
+i n cort i cal
+neurons[ J ] ．Act a
+Pharmac
+Si ni ca，2005，40( 3) ：
+225—230．
+[ 12] Li
+Y K，Chen x C，Zhu Y G，et aL
+Gi nsenosi de Rbl
+at t enuat es
+okachi c aci d- i nduced Tau prot ei n hyperphosphoryl at i on i n rat hi p—
+pocampal neurons[ J ] ．Act a Physi ol Si rt i ca，2005，57( 2) ：154- 160．
+[ 131杨吉平，赖红，方欣，等．人参皂甙Rbl 对阿尔茨海默病病大鼠海
+马结构B淀粉样蛋白表达的影响[ J 1．中国组织化学和细胞化学杂
+志，2008，17( 4) ：301—305．
+( 编辑：冀凯宏)
+· · - ——777· - - ——
+万方数据
+朱i 红手上皮钙黏蛋白, } NCD44v6蛋白在青年胃腺癌组织中的表达殛奠临床意义( 正义址i 葩贝
+醚籀
+目1上＆钙黏g白日CDl 4v6在青年目老年目癌组‰十∞自疫组女化学R自．EnVi si qm*．Xt 00
+Fi gI
+I mmunnhi sl ncheml sl ry rt *ul t s of E cadheri n and CD44v6㈣groups
+EnVi si on
+X10G
+A：Expressi on of CD44v6
+i n Lhe young gⅢ“ p：B：Expressi nn of CDI 【v6
+i n t he n[ d grnup
+C- Expressi on of E cadhermi n t he yol mg group；D-ExDres}1⋯of E cadherl n【n Lhe ol d group
+杨吉平等人参皂甙鼬1对阿尔茨海默病样大鼠海马结构B分泌酸和早老素1表选的影响l 正文见i {，! Ⅲ
+日2女目晦日CA3E BACE∞表t ，免疫组织化学显色，bar- 舯4m。A：对月雌日；B：模Ⅲ组，c：治疗m
+图3大鼠海马CA3ⅨPS- I 的表达免症组织化学E色，bar
+20m。A对月纽，B模■ m；c治疗组
+Hg 2 BACE c。p。es⋯i n h荆口l CA3，⋯ l 】noh⋯ hem】H。y stain[ng，bar--20舢A
+Cont mh B：r¨ Ⅻel ，C
+Tr目l i i l erl l
+F《3
+PFvl e“ pⅢ啪Tl
+i n hl pl Dcampal CA3
+i mmunohi st ochemi st ry staining，bar一20岬A
+Cont roX，B：Model ；C f 瑚t ment
+万方数据

@@ -1,0 +1,671 @@
+西部医学2022年l o月第34卷第10期
+Med J west Chi na，0ct ober 2022，V01．34，No．10
+· 论著·
+基于Nrf 2／ARE信号通路探究人参皂甙R93对高糖
+诱导HMC细胞纤维化及生物活性作用机制
+吴胜斌1
+曹振东2
+王应灯1
+王蕾2
+蒉纲2
+( 上海交通大学医学院附属第九人民医院1．肾脏内科；2．中医科，上海200011)
+*
+【摘要】
+目的
+基于核因子NF_E2相关因子( Nrf 2) ／抗氧化物反应元件( ARE) 信号通路探究人参皂苷R93对高糖
+诱导人肾小球系膜细胞( HMC) 纤维化及生物活性作用机制。方法
+将人肾小球系膜细胞分为NC组、HG组、R93A
+组、R93B组、R93C组5组。检测细胞生物活性；荧光探针DCFH—DA法检测细胞中ROS含量；蛋白质印迹检测细胞中
+Nrf 2、H01蛋白及TGF_B、Ⅳ一C、FN蛋白表达。结果
+与NC组相比，HG组细胞增殖活性及侵袭能力均显著增加( P<
+O．05) ；与HG组相比，R93A组、R93B组、R93C组细胞增殖活性及侵袭能力均显著降低( P<O．05) ；R93C组细胞增殖活
+性及侵袭能力显著低于R93A组、R93B组( P<O．05) 。与NC组相比，HG组细胞凋亡率显著降低，G1期增加( P<
+O．05) ；与HG组相比，R93A组、R93B组、R93C组细胞凋亡率均显著增加，G1期均显著降低，R93C组细胞G1期<
+R93B组<R93A组( P<O．05) ，呈递增趋势( P<O．05) ，且R93C组细胞凋亡率和细胞周期变化最为显著( P<O．05) 。与
+NC组相比，GH组细胞中ROS含量显著增加( P<o．05) ；与GH组相比，R93A组、R93B组、R93c组细胞中RoS含量
+均显著降低( P<o．05) 。与NC组相比，GH组细胞中NNrf 2和Hpl 蛋白表达均显著降低( P<o．05) ；与GH组相比，
+R93A组、R93B组、R93C组细胞中Nrf 2、Hpl 蛋白表达均显著增加，且R93C组细胞中蛋白表达增加最显著( P<
+0．05) 。与NC组相比，GH组细胞中TGF- B、Ⅳ一C、FN明显增加( P<O．05) ；与GH组相比，R93A组、R93B组、R93C组
+细胞中TGF__B、Ⅳ一c、FN表达均显著降低，且R93c组低于R93B组低于R93A组( P<o．05) 。结论
+人参皂苷R93可
+抑制高糖诱导的HMC细胞增殖、侵袭，促进HMC细胞凋亡，通过对细胞内Nrf 2／ARE信号通路相关蛋白的调控加强
+系膜细胞的抗氧化能力。
+【关键词】Nrf 2／ARE信号通路；人参皂苷R93；高糖；HMc细胞；纤维化；生物活性
+【中图分类号】
+R285．5
+【文献标志码】
+A
+DoI ：10．3969／j ．i ssn．1672—3511．2022．10．003
+The mechani smof gi nsenosi de R93 on t he f i brosi s and bi ol ogi cal
+act i Vi t y of
+HMC ceUs i nduced by hi gh gl ucose based on Nrf 2／ARE si gnal i ng pat hway
+wu shengbi nl ，cAo zhendon矿，wANG Yi ngden91，wANGLei 2，KuI Ganf
+( 1．眈∞疗伽哪。厂～P户^rozogy，鼬口雄g^“ Mn旃PPo户z曲f 如5pi 缸z，劬n” g胁¨ i 口。而” g mi 憎rsi ￡y&^00z o，MPd觇” P，蹴口” 动ni 20001l ，饶i m；
+2．DP户口rf menf o，丁r口d打i onn￡C^i "PsP MPd站i nP，S^口ng矗di
+Ni nf ^PPD户zPj H05户n口f ，S^nng^ni
+J i 口。丁o” g U” i 铆Pr5i t y
+S曲00￡o，MPd站抽P，S^口” 曲口i 200011，C^i nn)
+【Abst ract 】
+obj ect i ve
+To expl ore t he mechani smof gi nsenosi de R93 on t he f i brosi s and bi ol ogi cal
+act i vi t y of HMC
+cel l s i nduced by hi gh gl ucose based on Nrf 2／ARE si gnal i ng pat hway．Met hods
+Human mesangi al
+cel l s
+were di vi ded i nt o
+5 groups：NC group，HG group，R93A group，R93Bgroup and R93C group．Cel l
+prol i f erat i on，i nvasi on，apopt osi s and
+cel l
+cycl e were det ect ed．Fl uorescence probe DCFH—DA met hod was used t o det ect ROS cont ent
+i n cel l s．The expressi ons
+of
+Nrf 2，HC卜1，TGF—B，I V—C and FN were det ect ed by West ern bl ot ．Resul t s
+Compared wi t h NC group，t he prol i f era—
+t i on act i vi t y and i nvasi on abi l i t y of HG group were si gni f i cant l y i ncreased( P<O．05) ．Compared wi t h HG group，t he
+prol i f erat i on act i vi t y and i nvasi on abi l i t y of R93A，R93B and R93C groups were si gni f i cant l y decreased( P<O．05) ．The
+prol i f erat i on act i vi t y and i nvasi on abi l i t y of R93C group were si gni f i cant l y 10wer
+t han t hose of R93A group and R93B
+group( P<O．05) ．
+Compared wi t h NC group，t he apopt osi s
+rat e of HG group was si gni f i cant l y decreased，and G1 phase
+基金项目：上海交通大学“ 交大之星” 计划医工交叉研究基金( YG2021ZDl 5)
+通信作者：蒉纲，E—mai l ：f 92016kl @126．com
+引用本文：吴胜斌，曹振东，王应灯，等．基于Nrf 2／ARE信号通路探究人参皂甙R93对高糖诱导HMc细胞纤维化及生物活性作用机制[ J ] ．西
+部医学，2022，34( 10) ：1414—1419．DOI ：10．3969／j ．i ssn．1672—3511．2022．10．003
+万方数据
+西部医学2022年10月第34卷第10期
+Med J west
+Chi na，0ct ober 2022，v01．34，No．10
+was i ncreased( P<O．05) ．
+Compared wi t h HG group，t he apopt osi s rat e of R93A group，R93B group and R93C group
+was si gni f i cant l y i ncreased，and t he G1 phase was si gni f i cant l y decreased wi t h an i ncreasi ng t rend( P<：0．05) ，and t he
+apopt osi s
+rat e and cel l
+cycl e change of R93C group were t he most si gni f i cant ( P<O．05) ．Compared wi t h NC group，RoS
+cont ent
+i n GH group was
+si gni f i cant l y i ncreased( P<O．05) ．Compared wi t h GH group，ROS
+cont ent
+i n R93A，R93B
+and R93C groups was si gni f i cant l y decreased( P<O．05) ．Compared wi t h NC group，t he prot ei n expressi ons of
+NNrf 2
+and HC卜1
+i n GH group were si gni f i cant l y decreased( P<O．05) ．
+Compared wi t h GH group，t he prot ei n expressi ons of
+Nrf 2 and H( ) _1
+i n R93A group，R93B group and R93C group were si gni f i cant l y i ncreased，and t he prot ei n expressi on i n
+R93C group was most
+si gni f i cant l y i ncreased( P<O．05) ．Compared wi t h NC group，TGF。B，i v—c and FN i n GHgroup
+were si gni f i cant l y i ncreased( P<O．05) ．Compared wi t h GH group，t he expressi ons
+of TGF—B，I V—c and FN i n R93A，
+R93B and R93C groups were si gni f i cant l y decreased，and t he expressi ons of TGF—B，I V—C and FN i n R93C group were
+l ower t han t hose i n R93B group and R93A group( P<O．05) ．Concl usi on
+Gi nsenosi de R93
+can i nhi bi t t he prol i f erat i on
+and i nvasi on of HMC cel l s i nduced by hi gh gl ucose，promot e HMC cel l apopt osi s，and enhance t he ant i oxi dant
+capaci t y of
+mesangi al
+cel l s by regul at i ng t he prot ei n rel at ed t o t he Nrf 2／ARE si gnal i ng pat hway i n t he cel l ．
+【Key
+words】
+Nrf 2／ARE
+si gnal i ng
+pat hway；
+Gi nsenosi de
+R93；
+Hi gh
+sugar；
+The HMC
+cel l s；
+Fi brosi s；
+Bi ol ogi cal
+act i vi t y
+糖尿病肾病( Di abet i c nephropat hy，DN) 是糖尿
+病患者最常见并发症之一，数据[ 13显示，我国糖尿病
+患者35％以上会发展为糖尿病肾病。目前，临床上一
+般采用控制饮食、生活方式及降糖药物等控制患者血
+糖，以此延缓发展为DN的速度，但并不能从实质上对
+糖尿病肾病进行治疗[ 2] 。糖尿病患者发展为损伤的
+机制较为复杂，目前学者们一致认为主要因素为高
+糖、高血压导致的代谢异常和血流动力学改变[ 3] 。肾
+小球系膜细胞过度增殖、细胞外基质聚集等是DN早
+期重要的病理表现，其中肾小球系膜细胞和DN的发
+展密切相关[ 4] 。近年来研究[ 5] 发现，肾小球系膜细胞
+会因多种不同因素刺激而造成损伤，例如高糖、超氧
+化物、炎性因子、血管紧张素Ⅱ等，最终导致患者发展
+为糖尿病肾病。因此以人肾小球系膜细胞( Human
+mesangi al cel l s，HMC) 为研究对象，寻找合适的药物
+修复其在特殊情况下导致的损伤具有重要的科研意
+义。人参皂苷是人参中有效活性成分之一，在抗炎、
+抗氧化等中发挥多种药理作用[ 61] 。有研究证实，人
+参皂苷R93可保护糖尿病大鼠的肾脏，并有效延缓纤
+维化的发展，在多种肾疾病中均有很好的保护作
+用‘
+引。目前DN的发病机制尚未完全阐明，有研究证
+实氧化应激和炎症反应是DN发展中不可或缺的两个
+驱动因素。核因子NF．E2相关因子( Nrf 2) 是转录因
+子中的一种，介导氧化应激通路，当Nrf 2和抗氧化物
+反应元件( Ant i oxi dant
+response el ement s，ARE) 进行
+相互作用时，促进抗氧化蛋白、Ⅱ相解毒酶的表达，同
+时对体内氧化应激产生的自由基能有效清除，进而对
+细胞的氧化还原状态进行维持；相反Nrf 2的缺失会
+减少机体内的抗氧化酶，加重细胞中氧化应激的负效
+应，进而对氧化应激性纤维化疾病进行诱导[ 9101。本
+研究探讨人参皂苷R93对高糖诱导肾小球系膜细胞
+纤维化、生物活性及Nrf 2／ARE信号通路的作用。
+1材料与方法
+1．1
+实验材料
+1．1．1
+细胞系
+人肾小球系膜细胞购自中国上海科
+学院。
+1．1．2试剂和仪器人参皂苷R93( 山东靶点药物研
+究有限公司) ；Nrf 2、ARE多克隆抗体( 美国Sant a
+Cruz Bi ot echnol ogy公司) ；胎牛血清、RPMI 一1640培
+养基( 美国Gi bco公司) ；MTT试剂( 广州康盛生物科
+技股份有限公司) ；MoFl o XDP流式细胞仪( Beckman
+Coul t er公司) ；150i 二氧化碳培养箱( 美国Thermo
+Fi sher公司) ；TDZ4台式低温离心机( 湖南赫西仪器
+装备有限公司) ；电子分析天平( 美国丹佛仪器公司) 。
+1．2
+细胞培养和分组
+常规复苏人肾小球系膜细
+胞，将细胞接种于含10％胎牛血清的DMEM培养基
+中，于37℃、5％CO。及饱和湿度的孵育箱中培养。细
+胞贴壁生长，2～3 d传代，当细胞生长达到60％～
+80％融合状态时，取对数生长期的细胞用于实验。将
+人肾小球系膜细胞分NC组( 用含5．6 mm01／L葡萄
+糖的培养基培养HMC细胞48 h) 、HG组( 用含30
+mmol ／L葡萄糖的培养基培养HMC细胞) 、R93A组
+( 用含30 mmol ／L葡萄糖+10肛mol ／L的培养基培养
+HMC细胞) 、R93B组( 用含30 mmol ／L葡萄糖+30
+肚mol ／L的培养基培养HMC细胞) 、R93C组( 用含30
+mmol ／L葡萄糖+50“ mol ／L的培养基培养HMC细
+胞) 。
+1．3
+MTT法检测细胞增殖
+取对数生长的人肾小
+球系膜细胞，消化后接种于96孑L板内，置于常规培养
+箱中分别配于12、24、48、72 h。将新鲜配制的5 g／L
+MTT溶液分别加入到空版内，弃掉上清液，将150“ L
+二甲基亚砜加入到各孔的细胞中，溶解甲瓒。测定酶
+万方数据
+西部医学2022年10月第34卷第10期
+Med J West Chi na，Oct ober 2022，V01．34，No．10
+标仪于490 nm处的吸光度值。
+1．4
+Transwel l 侵袭实验检测细胞侵袭能力
+将各
+组细胞置于24孔板内，每组设4个复孔，培养48 h
+后，将Mat ri gel 基质胶稀释1倍后均匀的铺在Tran—
+sweU小室的上室微孔膜上，于常规培养箱孵育4 h。
+收集各组HMC细胞制成单细胞悬液，调整细胞密度
+为2× 105／mL，常规培养箱饥饿培养细胞24 h。在上
+室中加入不含血清的饥饿培养细胞悬液，同时上室加
+人o．1％BSA，将500“ L含15％FBS的DMEM培养
+基加入到Transwen小室的下室中，培养36 h，用棉签
+将上室上面的非侵袭细胞及基质胶擦拭干净，于4％
+多聚甲醛室温固定30 mi n，O．01％伊红染色液37℃染
+色30 mi n，悬挂晾干小室并置于载玻片上，倒置显微
+镜下随机读取10个高倍视野，计算穿模细胞数并取
+均值。
+1．5
+流式细胞仪检测细胞凋亡及细胞周期水平
+取
+各组细胞，培养48 h后，用胰蛋白酶消化，PBS溶液洗
+涤细胞并重悬，用5肛L膜联蛋白V—FI TC和10肛L PI
+于室温环境中染色细胞，15 mi n后孵育细胞，用流式
+细胞仪检测细胞。凋亡细胞用膜联蛋白V表达标记，
+和对照组比较后计算细胞的凋亡率。将各组细胞用
+冰冷的70％乙醇固定，PBS重悬细胞，将RNA酶加入
+到细胞中，于37℃环境中孵育细胞，30 mi n后将细胞
+置于400“ L PI 中，室温培养细胞40 mi n。用流式细
+胞仪分析GO、G1、S、M中不同相中的细胞。
+1．6
+ROS水平检测
+采用荧光探针DCFH—DA法检
+测细胞内ROS水平。取各组细胞，培养48 h后，并悬
+浮于1 mL终浓度为10且m01／L的DCFH—DA液中，
+置于37℃培养箱避光孵育。30 mi n后离心细胞( 1000
+r／mi n，5 mi n) 和PBS洗涤，上流式细胞仪488 nm激
+发波长、525 nm发射波长检验荧光强度( FI ) ，间接检
+测ROS含量。
+1．7蛋白质印迹检测细胞中Nrf 2／ARE信号通路相
+关蛋白
+Nrf 2、HO一1蛋白表达及TGF一|3、Ⅳ一C、FN的
+表达取各组细胞，培养48 h后裂解，离心裂解后的细
+胞，收集上清液，用BCA法测定上清液中的蛋白浓
+J -
+≯-
+度。将5× 上样缓冲液加入到细胞中，煮沸细胞至变
+性，保存于一80℃环境中。取5肚L蛋白样品并电泳，
+待半干时转移到PVDF膜上，脱脂奶粉( 5％) 封闭
+1 h，用特异性抗体孵育膜过夜( 4℃) ，用对应的二抗继
+续孵育2 h。用ECL法检测，并分析蛋白条带灰度值。
+1．8统计学分析
+统计学分析采用SPSS 19．o软
+件，所有剂量资料用均值士标准差( z土s) 表示，多组间
+比较采用单因素方差分析；每两组间的数据比较用￡
+检验，用GrapgPabd PI i sm7软件对实验数据进行相
+关图片的绘制，以P<O．05为差异有统计学意义。
+2
+结果
+2．1
+各组细胞增殖能力比较
+HG组细胞增殖活性
+较NC组显著增加( P<o．05) ；与HG组相比，R93A
+组、R93B组、R93C组细胞增殖活性均显著降低( P<
+O．05) ；R93C组细胞增殖活性低于R93B组，R93B组
+细胞增殖活性低于R93A组( P<O．05) 。见图1。
+NC组
+HG组
+十R93A组
++R93B组
+R93C组
+12 h
+24 h
+48 h
+72 h
+时间
+图1细胞增殖能力比较
+Fi gu心1
+Comp盯i 舯n of
+cel I proI i f e腿t i on abmt y
+注：与Nc组相比，①P<0．05；与HG组相比，①P<o．05；与R93A组
+相比，③P<O．05；与R93B组相比，④P<0．05
+2．2各组细胞侵袭能力比较
+NC组细胞侵袭数量
+为( 1．10± o．10) 个，与NC组相比，HG组细胞侵袭数
+量[ ( 51．32± 5．14) 个] 显著增加( P<o．05) ；与HG组
+相比，R93A组( 34．67士4．08) 个、R93B组( 19．36±
+2．94) 个、R93C组( 6．82士1．17) 个细胞侵袭数量均逐
+渐降低( P<0．05) ；R93C组细胞侵袭数量均低于
+R93A组和R93B组。见图2。
+鬯慧
+图2
+1h眦we¨ 小窒法检测细胞侵袭数量
+Fi gu弛2
+Transwel I met hod t o det ect t he number of ∞U i Ⅱv酗i on
+懑
+氍
+万方数据
+西部医学2022年10月第34卷第10期
+Med J west Chi na，0ct ober 2022，v01．34，No．10
+2．3
+各组细胞凋亡能力和周期比较
+HG组细胞凋
+亡率较NC组显著降低( P<o．05) ；与HG组相比，
+R93A组、R93B组、R93C组细胞凋亡率均显著增加，
+且呈递增趋势( P<o．05) ，且R93C组细胞凋亡率明显
+高于R93A组和R93B组( P<o．05) 。HG组细胞G1
+期明显高于NC组( P<o．05) ；与HG组相比，R93A
+组、R93B组、R93C组细胞G1期均显著降低( P<
+o．05) ；R93C组细胞G1期<R93B组<R93A组( P<
+O．05) 。见表1和图3。
+|{匹
+乱虹E
+表1
+各组细胞凋亡能力和周期比较( i 士s)
+Ⅱbl e
+l
+o删岬ds蚰of apopt ot i c∞瑚l ci t y and cyde of 瞅bi n昀cI I g呷
+注：与Nc组相比，①P<O．05；与HG组相比。②P<o．05；与R93A组
+相比，③P<o．05；与R93B组相比，④P<o．05
+101
+兰10· j
+童101{。I。
+矾冬娃二一一
+95 O102
+10’
+104
+10’
+Annexi n VFI TC．A
+R23A组
+l 05r—厂—]
+鞘小
+孔≮H：=J
+。m0102
+103
+104
+105
+R93B组
+图3流式细胞仪检测细胞凋亡
+Fi gure 3
+Fl ow cyt omet ry det ect i on of apopt 惦i s
+2．4
+各组细胞中ROS含量比较
+NC组细胞中ROS
+含量为( 1．oo土O．11) ，与NC组相比，HG组细胞中
+ROS含量( 110．23± 5．15) 显著增加( P<0．05) ；R93A
+组( 72．81± 4．06) 、R93B组( 56．27± 2．97) 、R93C组
+( 23．46土1．38) 细胞中ROS含量显著低于HG组( P<
+o．05) ；与R93A组和R93B组相比，R93C组细胞中
+ROS含量最低( P<o．05) 。见图4。
+HG组
+图4显微镜下细胞内活性氧荧光强度( DcFH- DA探针染色，200× )
+Fi gure 4
+I nt ra蚀I l ul ar react i ve Oxygen speci es n∞re靶en∞i nt e璐i t y under mi cros∞pe
+2．5
+各组细胞中Nrf 2、H0—1蛋白表达及TGF—13、Ⅳ一
+C、FN表达
+与NC组相比，GH组细胞中Nrf 2／ARE
+信号通路相关蛋白Nrf 2和HO一1蛋白表达均显著降
+低( P<O．05) ；与GH组相比，R93A组、R93B组、
+R93C组细胞中Nrf 2、Hpl 蛋白表达均显著增加，且
+R93C组细胞中蛋白表达增加最显著( P<o．05) ( 见图
+5A、图5B) 。与NC组相比，GH组细胞中TGF一|3、Ⅳ一
+C、FN明显增加( P<O．05) ；与GH组相比，R93A组、
+R93B组、R93C组细胞中TGF一口、Ⅳ一C、FN表达均显
+著降低，且R93C组低于R93B组低于R93A组( P<
+O．05) 。见图5C、图5D。
+3讨论
+糖尿病肾病是糖尿病患者中最严重的一种微血
+管并发症[ 111。系膜细胞是肾小球内固有的活跃功能
+细胞，其过度增殖是糖尿病肾病中重要的病理特征。
+有研究发现，高糖可诱导系膜细胞的过度增殖，并对
+糖尿病肾病的发展有明显的促进作用[ 12|。有学者们
+研究发现，高糖诱导的系膜细胞是观察细胞增殖最优
+的体外模型。因此，本研究采用人肾小球系膜细胞作
+为实验细胞，同样用高糖诱导系膜细胞发现其发生过
+度增殖，和前文结果一致。
+文献显示，中医可有效治疗糖尿病肾病且疗效确
+切，虽然部分中药的成为较复杂，但中药在临床上的
+治疗不仅可以对临床症状进行改善，缓解患者的病
+情，而且还能对患者的肾脏进行保护。近些年，随着
+天然药物化学等领域的兴盛，中药在治疗糖尿病肾病
+睦蛩
+叮州—琏Ⅲ
+一
+一
+瓤～一。赢眦 丽A
+汇～劬
+万方数据
+西部医学2022年l o月第34卷第10期
+Med J west
+chi na，0ct ober 2022，V01．34，No．10
+NC组
+HG组
+R93A组R93B组R93C组
+M娌斓黪荆“ 涔、擎黪糍薰
+∞’ 1霸瓣。辆麟_镧峨；攀
+脚i n麟徽鳓燃黝④
+O．0
+Nc组
+HG组R93A组R93B组R93c组
+蚓2
+T陋。期睁；豢渊睡；糊蜷灏赫訾·
+，v—c藏_镧黧睡j 彝酒嘲簿i 薄睁{星。
+孵灞黪i 磐黪絮薹。
+Mi n辫霸黼辫㈣@o
+口NC组
+c■ HG组
+_R93A组
+一R93B组
+霸I R93C组
+⑤
+口NC组
+aHG组
+‘
+_R93A组
+_R93B组
+_R93C组
+⑨
+TGF—B
+I V- C
+FN
+图5各组细胞中Nrf 2、H伊l 蛋白表达及TGF_p、Ⅳ一c、FN表达
+Fi gure 5
+Nrf 2，Ho一1 prot ei n expressi on and TGF。p，I Vl C，FN expressi on i n each group of cel l s
+注：A．各组细胞中Nrf 2、H睁1蛋白表达；B．各组细胞中Nrf 2、Hpl 蛋白表达比较；c．各组细胞中TGF一8、Ⅳ一c、FN蛋白表达；D．各组细胞中TGF
+B、Ⅳ一C、FN表达比较。与NC组相比，①P<O．05；与HG组相比，②P<O．05；与R93A组相比，③P<o．05；与R93B组相比，④P<o．05
+的治疗上显现出广阔的应用前景。人参皂苷R93主
+要提取于人参，是其中重要的活性成分之一，在减轻
+炎症反应、氧自由基和抗氧化等中有很好的疗效[ 1⋯ 。
+有学者研究发现，DN大鼠的肾脏病理损伤可用过人
+参皂苷R93进行改善，同时对大鼠的血糖、肌酐、24 h
+蛋白尿具有很好的抑制作用，进而对肾脏进行保
+护[ 1引。本研究发现，人参皂苷R93能有效调控系膜细
+胞的生物学活性，提示其对肾小球系膜细胞的过度增
+殖有很好的抑制作用。冀楷等[ 15] 研究证实，人参皂苷
+R93可有效抑制高糖诱导的系膜细胞增殖，可预防并
+治疗糖尿病肾病的发生发展，进而发挥肾脏保护作
+用。TGF—B是高糖以及一些导致肾脏损伤的生化因
+素的重要递质，介导糖尿病肾病的生物活性等，TGF—G
+可作为检测肾间质纤维化成为的指标之一[ 1⋯ 。Ⅳ一C
+是肾小球基底膜胶原中重要成分之一，是基质胶原中
+最典型的一种，可由多种细胞分泌和合成，例如活化
+的肾小球系膜细胞、上皮细胞等，因此Ⅳ一C合成和降
+解平衡出现失调，可导致糖尿病肾病。肾小球发生病理
+性改变。FN是组成细胞外基质的部分之一，正常状
+态下系膜细胞会产生少量FN，在病理情况下系膜细
+胞产生FN的含量增多。本研究结果显示，不同浓度
+的人参皂苷R93均可抑制细胞中TGF—B、Ⅳ一C、FN表
+达。吴胜斌等[ 170研究证实，人参皂苷R91可通过上调
+肾间质HGF水平，抑制TGF—J 31表达来延缓肾间质
+纤维化进展，发挥肾组织保护作用。
+有学者研究发现，ROS是氧化应激中高活性分子
+之一，对肾细胞损伤有一定促进作用，且高糖会促进
+ROS的生成，进而破坏肾小球滤过膜，诱导蛋白尿的
+发生；大量的ROS会激活细胞内的转导信号，增加
+ECM蛋白合成，减少其降解，进而对糖尿病肾病起促
+进作用[ 18I 。Nrf 2／ARE为机体内重要的抗氧化信号
+通路，Nrf 2可通过对ARE依赖的第Ⅱ相解毒酶基因
+和抗氧化基因的转录活性进行调控，如SOD、HO一1
+等，进而对氧化应激反应进行抑制。有研究[ 1叼证实，
+Nrf 2在组织对抗糖尿病氧化应激损伤中起着重要作
+用。本研究结果显示，不同浓度的人参皂苷R93均可
+抑制细胞中ROS含量，同时增加细胞中Nrf 2和H◇ 1
+蛋白表达，提示人参皂苷R93能通过抑制ROS含量
+和调控Nrf 2／ARE信号通路的相关蛋白，加强人肾小
+球系膜细胞的抗氧化能力，进而减轻DN导致的氧化
+损伤。赵颖丹等[ 20] 研究发现，PM2．5诱导肾小管上
+皮细胞出现氧化损伤，黄芪甲苷可抑制细胞中氧化应
+激反应，其机制是通过调控Keapl 一Nrf 2一ARE信号通
+路来实现的。
+4
+结论
+人参皂苷R93可抑制高糖诱导的HMC细胞增
+殖、侵袭，促进HMC细胞凋亡，通过对细胞内Nrf 2／
+ARE信号通路相关蛋白的调控加强系膜细胞的抗氧
+化能力。
+【参考文献】
+[ 1]
+ZHANGL，zHA0 S，ZHU Y．Long noncodi ng RNA growt h
+万方数据
+西部医学2022年10月第34卷第10期
+Med J West Chi na，0ct ober 2022，V01．34，No．10
+[ 2]
+[ 3]
+[ 4]
+[ 5]
+[ 6]
+[ 7]
+[ 8]
+[ 9]
+[ 10]
+arrest —speci f i c t ranscri pt
+5 al l evi at es renal f i brosi s
+i n di abet i c
+ne—
+phropat hy
+by
+downregul at i ng
+mat ri x
+met al l oprot ei nase
+9
+t hrough recrui t ment
+of
+enhancer
+of
+zest e
+homol og 2[ J ] ．The
+FASEBJ ournal ，2020，34( 2) ：2703—2714．
+WANGR，XUE A，ZHENG W，以口Z．El evat ed serumprept i n
+concent rat i ons i n pat i ent s wi t h di abet i c nephropat hy[ J ] ．J ournal
+of
+I nvest i gat i ve Medi ci ne，2019，67( 7) ：1048．
+CHENMB，WANG H，CUI WY，以口Z．Ef f ect
+of SGLT
+i n—
+hi bi t ors
+on wei ght
+and 1i pi d met abol i smat
+24 weeks of t reat ment
+i n pat i ent s wi t h di abet es meUi t us：A syst emat i c revi ew and net —
+work met a—anal ysi s[ J ] ．Medi ci ne，2021，100( 6) ：e24593．
+DONGJ 。DI NG L，WANG L，Pf 口Z．Ef f ect s of
+bradyki ni n on
+prol i f erat i on，apopt osi s，and cycl e of
+910merul ar mesangi al
+cel l s
+vi a t he TGI 、- B1／smad si gnal i ng pat hway[ J ] ．Turki sh j ournal
+of
+bi ol ogy，2021，45( 1) ：17—25．
+CHAUDHARI S，SHOTORBANI P Y，TA0 Y，甜口￡．I nhi bi —
+t i on of i nt erl euki n一6
+on mat “ x prot ei n product i on by gl omerul ar
+mesangi al
+cel l s and i t s pat hway i nv01ved[ J ] ．
+Ameri can j ournal
+of physi ol ogy．Renal
+physi ol ogy，2020，318( 6) ：67卜679．
+方伟．人参皂苷干预糖尿病及其并发症研究进展[ J ] ．实用中医
+药杂志，2019，35( 5) ：125—127．
+李贵明，李燕．人参皂苷药理作用研究现状[ J ] ．中国临床药理学
+杂志，2020，36( 8) ：1024—1027．
+吴胜斌，王应灯．人参皂甙R93对糖尿病肾病大鼠肾组织Bax和
+B淋巴细胞瘤一2蛋白表达及肾细胞凋亡的影响口] ．中华实用诊
+断与治疗杂志，2020，34( 1) ：5—8．
+李晓强，隋峰，王洋，等．Keap卜Nrf 2／ARE信号通路在肿瘤中的
+双重作用及其与耐药性的关系[ J ] ．生物技术通讯，2019，30( 6) ：
+827—832．
+HUANGK，ZHAOX．USP9X prevent s AGEs—i nduced upregu一
+[ 11]
+[ 12]
+[ 13]
+[ 14]
+[ 15]
+[ 16]
+[ 17]
+[ 18]
+[ 19]
+[ 20]
+·
+1419·
+l at i on of FN and TGF。口1 t hrough act i vat i ng Nrf 2一ARE pat hway
+i n rat
+gl omerul ar
+mesangi al
+cel l s[ J ] ．
+Experi ment al
+Cel l
+Re—
+search，2020，393( 2) ：112100．
+TANY M，GAo Y，TE0 G，“ 口Z．Pl asma Met abol ome and
+Li pi dome Associ at i ons
+wi t h Type 2 Di abet es and Di abet i c
+Ne—
+phropat hy[ J ] ．Met aboI i t es，2021，11( 4) ：228．
+曲萌，侯勤龙，翁诗雅，等．玉米须多糖对高糖诱导的肾小球系膜
+细胞增殖及炎症因子表达的影响[ J ] ．北华大学学报( 自然科学
+版) ，2020，21( 4) ：46卜465．
+袁佳蕾，陈钦开．人参皂甙R93抗肿瘤机制的研究进展[ J ] ．南昌
+大学学报医学版，2019，59( 5) ：96—98．
+唐俊，左满花．人参皂苷R93对糖尿病肾脏疾病大鼠氧化应激和
+凋亡的影响[ J ] ．中国糖尿病杂志，2017，10( 25) ：70一73．
+冀凯，杜世豪，李新，等．人参皂苷R93抑制高糖诱导的人肾小球
+系膜细胞过度增殖、炎症反应和PTx3的表达[ J ] ．烟台大学学
+报( 自然科学与工程版) ，2020，33( 1) ：55—62．
+郑思道，曹春，姚全．人参皂苷调控转化生长因子一B信号通路的
+作用机制口] ．世界中医药，2019，14( 3) ：766—770．
+吴胜斌，王应灯．人参皂苷R91对肾间质纤维化大鼠肾组织肝细
+胞生长因子及转化生长因子一B_1的影响[ J ] ．中华实用诊断与治
+疗杂志，2019，33( 5) ：422—425．
+王蕾蕾，高学敏，贾岚，等．青钱柳对2型糖尿病大鼠早期肾损伤
+标志物以及氧化应激的影响[ J ] ．环球中医药，2020，13( 3) ：9—13．
+HSI EHAR，HUANG Y C，YANGY F，甜口Z．Lack of associ —
+at i on of
+genet i c
+vari ant s f or di abet i c
+ret i nopat hy
+i n Tai wanese
+pat i ent s wi t h di abet i c nephropat hy[ J ] ．BMJ
+open Di abet es
+Re—
+search&Care，2020，8( 1) ：eO00727．
+赵颖丹，张天嵩，马骏，等．黄苠甲苷通过调控Keapl —Nrf 2一ARE
+信号通路减轻PM2．5诱导的肾小管上皮细胞氧化损伤[ J ] ．安
+徽中医学院学报，2020，39( 2) ：69—75．
+( 收稿日期：202l —09一05；修回日期：2022—06一03；编辑：王小菊)
+( 上接第1413页)
+[ 12]
+TOuRMENTE M，VI LLAR—MOYA P，RI AL E，“ 口z．Di f f er—
+ences i n ATP Generat i on Vi a Gl ycol ysi s and 0xi dat i ve Phospho—
+ryl at i on and Rel at i onshi ps wi t h SpermMot i l i t y i n Mouse Speci es
+[ J ] ．J
+Bi ol
+chem，2015，290( 33) ：20613—20626．
+[ 13]
+MALo AF，GOMENDl 0 M，GARDE J ，以口￡．sperm desi gn
+and spermf unct i on口] ．Bi 01 Let t ，2006，2( 2) ：246—249．
+[ 14]
+MJ ANDERs0N，J NYHOLT A F．spermcompet i t i on and t he
+evol ut i on of
+spermmi dpi ece v01ume
+i n mammal s[ J ] ．
+Di xson，
+2005，267( 2) ，135—140．
+[ 15]
+VERTI KA s，sI NGH K K，RAJ ENDER
+S．
+Mi t ochond“ a，
+spermat ogenesi s，and
+mal e i nf ert i l i t y—An updat e[ J ] ．
+Mi t o—
+chondri on，2020，54：26—40．
+[ 16]
+DuRAI RAJ ANAYAGAMD，SI NGH D，AGARwAL A，以nz．
+Causes
+and consequences
+of
+sperm mi t ochondri al
+dysf unct i on
+[ J ] ．Androl ogi a，2021，53( 1) ：e13666．
+[ 17]
+[ 18]
+[ 19]
+[ 20]
+[ 21]
+FERNI E A R，CARRARI F，SWEETLoVE L J ．Respi rat ory
+met ab01i sm：91ycol ysi s，t he TCA cycl e and mi t ochond“ a1 el ec—
+t ron t ransport [ J ] ．curr 0pi n Pl ant Bi ol ，2004，7( 3) ：254—261．
+MARTi NEz- REYES I 。CHANDEL N s．
+Mi t ochondri al
+TCA
+cycl e met abol i t es cont rol
+physi 0109y and di sease[ J ] ．
+Nat Com—
+mun，2020，11( 1) ：102．
+J ORDAN F，NEMERI A N，GERFENG．Human 2一Oxogl ut ar—
+at e Dehydrogenase and 2一Oxoadi pat e Dehydrogenase Bot h Gen—
+erat e Superoxi de／H202 i n a Si de React i on and Each Coul d Con—
+t “ but e t o 0xi dat i ve st ress i n Mi t ochondri a[ J ] ．NeurochemRes，
+2019，44( 10) ：2325—2335．
+TRETTER L，ADAM—VI ZI
+V．
+Al pha_ket ogl ut arat e dehydro—
+genase：a
+t arget
+and generat or
+of
+oxi dat i ve st ress[ J ] ．
+Phi l os
+Trans R Soc Lond B Bi ol
+Sci ，2005，360( 1464) ：2335—2345．
+YANGY，GI BSoN GE．
+Succi nyl at i on Li nks Met ab01i sm t o
+Prot ei n Funct i ons[ J ] ．NeurochemRes，2019，44( 10) ：2346—2359．
+( 收稿日期：202l 一1l —12；修回日期：2022—04—20；编辑：王小菊)
+万方数据

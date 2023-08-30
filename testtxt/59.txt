@@ -1,0 +1,444 @@
+596                                                                Acta Nutrimenta Sinica, Dec., 2009, Vol.31 No.6 
+ 
+ 
+  
+人参皂甙改善老龄小鼠学习记忆的研究 
+ 
+李 栋，侯海峰 
+（泰山医学院流行病学研究所，泰安  271016） 
+ 
+【摘 要】目的  探讨人参皂甙对自然衰老的 C57BL/6J 小鼠学习记忆的改善作用及其机制。 方法 20
+月龄的 C57BL/6J 小鼠 80 只，随机分为老年对照组和 25、50、100 mg/(kg bw·d)人参皂甙干预组，另设 3
+月龄青龄对照组（n=20）。人参皂甙随饮水摄入，共干预 6 个月。干预结束后应用 Morris 水迷宫试验检测
+小鼠的空间学习记忆能力；并检测各组小鼠血清中超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）
+活性及 MDA 含量；Nissl 染色观察海马神经元数量的改变；Western blot 方法观察海马区脑源性神经营养因
+子（BDNF）的表达。结果  50，100 mg/(kg bw·d)人参皂甙干预 6 个月后能明显提高小鼠的空间学习记
+忆能力；血清中 SOD、GSH-Px 活性明显增强，MDA 含量显著下降；海马 BDNF 蛋白的表达明显增强。
+25 mg/(kg bw·d)人参皂甙干预后血清 GSH-Px 的活性显著提高。各组动物海马神经元数量无明显差别。结
+论 50、100 mg/(kg bw·d)人参皂甙干预能够延缓老龄小鼠学习记忆功能的减退，减轻机体氧化损伤，增强
+海马区 BDNF 蛋白的表达可能是其重要的作用机制。[营养学报，2009，31（6）：596－599，603 ] 
+ 
+关键词：  人参皂甙；学习记忆；衰老；BDNF 
+中图分类号： R151.1        文献标识码：A         文章编号：0512-7955（2009）06-0596-05 
+ 
+GINSENOSIDE FACILITATES LEARNING AND MEMORY IN AGED MICE 
+ 
+LI Dong，HOU Hai-feng 
+(Institute of Epidemiology ,Taishan Medical College ,Taian 271016，China) 
+ 
+【Abstract】 Objective  To investigate the effect of ginsenoside on degeneration of learning and memory 
+in aged mice and the mechanism. Method Eighty female C57BL/6J mice aged 20-mo were randomly divided into 
+control group and three ginsenoside treatment groups at dosage of 25，50，100 mg/(kg bw·d) respectively by 
+drinking. In addition, 20 female C57BL/6J mice aged 3 mo were used to be young control group. Eight mo later，
+the learning and memory abilities of the mice were checked by Morris water maze. Thereafter, the mice were 
+killed by decapitation，and their serum was collected to determine the level of SOD, GSH-Px and MDA. 
+Hippocampal morphology was examined by Nissl stain; and the expression of brain-derived neurotrophic factor 
+(BDNF) in hippocampus was studied using Western blot method.  Results  50，100 mg/(kg bw·d) ginsenosides 
+administration could significantly shorten the escape latency of the aged mice in Morris water maze. 
+Furthermore，the alleviated oxidative stress and up-regulated expression of BDNF were observed in 50, 
+100 (mg/kg·d) ginsenosides groups compared with aged control group. Serum level of GSH-Px was higher in
+25 (mg/kg bw·d) ginsenosides group compared to that of aged control group. The number of Nissl- positive cell 
+had no significant difference between all groups. Conclusion 50，100 mg/(kg bw·d) ginsenoside can significantly 
+delay the degeneration of learning and memory in aged mice by lowering oxidative damage and up-regulating 
+BDNF expression in hippocampus. [ACTA NUTRIMENTA SINICA, 2009, 31(6):596－599，603] 
+ 
+Key words：ginsenosides;  learning and memory;  aging;  BDNF 
+ 
+收稿日期  2009-03-09 
+作者简介  李栋（1969－），男，硕士，副教授， E-mail：dli@tsmc.edu.cn  
+DOI:10.13325/j.cnki.acta.nutr.sin.2009.06.025
+营养学报 2009 年第 31 卷第 6 期                                                                             597 
+ 
+人体在衰老过程中学习记忆功能会出现明显
+的减退。据报道，中老年人群中 50%左右主诉有
+记忆功能减退，客观记忆检查依据测验方法的不
+同记忆力异常率可达 32%～78%。记忆减退除了影
+响生活质量之外，也是老年神经退行性疾病（如
+痴呆、帕金森病等）的早期表现之一，给个人、
+家庭和社会带来沉重的经济和精神负担
+[1,2]。迄今
+尚缺乏行之有效的治疗脑退行性疾病的方法。因
+此，通过老年人群的营养、行为干预预防老年记
+忆障碍的发生，对改善老年人的记忆，提高生活
+质量，以及实现健康老龄化均具有重要的意义。 
+人参属五加科植物，是我国珍贵的药食同源
+植物，人参皂甙被认为是人参中发挥作用的主要
+活性物质，已有体外试验证实人参皂甙具有保护
+神经细胞，减少由 Aβ造成的海马神经细胞轴突
+萎缩及细胞的丢失等作用，提示人参皂甙可能具
+有预防衰老性学习记忆下降的作用
+[3,4]。本研究选
+用 20 月龄的 C57BL/6J 小鼠作为研究对象，观察
+人参皂甙对老龄小鼠学习记忆的改善作用，并研
+究其可能的作用机制，为老年记忆减退的防治提
+供理论依据。 
+ 
+1  材 料 与 方 法 
+1.1 试验动物 
+20 月龄 SPF 级雌性 C57BL/6J 小鼠 80 只为老
+龄小鼠，3 月龄 SPF 级雌性小鼠 20 只为青龄小鼠，
+由北京维通利华公司提供，SPF 级动物房饲养，
+饲养环境温度 21℃～23℃，湿度 50%～60%。 
+1.2 主要试剂和仪器 
+    人参总皂甙（纯度为 95%，惠州市仙草植物
+保健科技公司），SOD、GSH-Px、MDA 试剂盒（南
+京建成生物制品工程研究所），anti-actin 抗体、
+兔抗鼠 anti-BDNF 抗体（美国 Santa Cruz 公司），
+ECL 化学发光试剂盒（美国 Amersham 公司），其
+他试剂均为分析纯。 
+主要仪器为 Morris 水迷宫系统（中国医学
+科学院药物所），离心机（Eppendorf 5840R），
+XH2B 型旋涡混匀器，蛋白质电转移装置（美国
+Bio-Rad 公司），垂直板蛋白电泳仪（北京六一仪
+器厂），凝胶成像系统（上海复日公司）等。 
+1.3 方法 
+1.3.1 动物分组及饲养：适应性饲养 3d 后将老
+龄小鼠按体重分为老龄对照组和低、中、高三个
+人参皂甙干预组，每组 20 只。人参皂甙随饮水
+摄入，浓度分别为 25、50、100 mg/(kg bw·d)，
+老龄对照组和青龄对照组喂普通高压消毒水，隔
+日换水 1 次，记录动物饮水量，所有动物自由饮
+水进食。干预 6 个月后进行学习记忆行为测试。 
+1.3.2 Morris 水 迷 宫 试 验 ： 干 预 结 束 后 采 用
+Morris 水迷宫试验检测小鼠的空间学习记忆能
+力，分为定位航行实验和空间探索实验两部分。
+定位航行实验中，将小鼠分别从 4 个入水点将动
+物面向桶壁放入水中，记录小鼠爬上平台所需时
+间即逃避潜伏期（escape latency），以及游泳
+速度和游泳距离，如果 90s 内未找到平台则将其
+引至平台并在平台停留 10s，逃避潜伏期记录为
+90s，连续进行 6d，计算每天 4 次逃避潜伏期及
+速度和游泳距离的平均值作为当日最终成绩进
+行统计分析。D7 撤离平台，进行空间探索实验，
+将小鼠从平台所在象限的对侧象限放入池中，自
+由游泳 60s 后结束试验，记录小鼠在目标象限（即
+平台所在象限）的持续时间及穿越平台的次数。 
+1.3.3 海马神经元数量检测：行为学测试后，每
+组取 5 只小鼠用 1%戊巴比妥钠腹腔注射麻醉后，
+经左心室进行灌注固定。先快速灌注冷生理盐水
+至流出液变清亮，再以 4%多聚甲醛（4 ℃）灌注
+30 min，取出脑，在 4℃的 4%多聚甲醛中继续固
+定 24 h。进行连续冰冻切片，厚度为 10 μm，每
+只小鼠取 3 张切片，进行 Nissl 染色。光镜下对
+海马 CA1、CA3 和 DG 区 Nissl 染色阳性的细胞进
+行计数：每张切片取连续的 3 个视野，3 张切片
+的平均值为该样本的阳性细胞数。 
+1.3.4 血清超氧化物歧化酶（SOD）、谷胱甘肽过
+氧化物酶（GSH-Px）活性和丙二醛（MDA）含量
+的测定：行为学测试结束后，按试剂盒说明测定
+血清中 SOD、GSH-Px 活性和 MDA 含量。 
+1.3.5  Western blot 检测海马组织中脑源性神
+经营养因子（BDNF）的表达：每组提取 8 只小鼠
+海马组织的蛋白，Lowry 法测定蛋白含量。进行
+电泳、转膜和免疫检测，按 ECL 免疫检测试剂盒
+进行显色、曝光、照相。Band Lead 图像分析系
+统进行条带分析。 
+1.4 统计分析 
+    所有数据应用 SPSS 统计软件进行分析，结果
+598                                                                Acta Nutrimenta Sinica, Dec., 2009, Vol.31 No.6 
+ 
+以 x ±s 表示，Morris 水迷宫试验中逃避潜伏期
+采 用 重 复 测 量 的 两 因 素 方 差 分 析 （ two-way 
+repeated measures ANOVA），其他指标进行单因
+素方差分析，两组间比较采用最小显著差异法，
+P＜0.05 为统计检验界值。 
+ 
+2  结 果 
+2.1 人参皂甙对老龄小鼠空间记忆能力的影响
+（图 1，2） 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig.1  Effects of ginsenoside on escape latency of aged 
+mice in Morris Water Maze 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (A) the time spent in target quadrant on training days; (B) 
+the number of crossing over the exact location of the 
+former platform；a：P＜0.05 compared with aged control 
+Fig. 2  Spatial learning and memory in probe test of 
+Morris water maze 
+ 
+由图 1 可见，随着训练天数的增加，各组动
+物找到平台的逃避潜伏期逐渐缩短，[F(5,475)= 
+152.7，P＜0.01]，时间与组间无交互作用，
+[F(20,475)=2.7，P＞0.05]，各组间逃避潜伏期
+的差异有显著性，[F (4,95)=4.2, P＜0.01]，
+LSD 方法进行两两比较发现，人参皂甙 50 和 
+100 mg/(kg bw·d)两个干预组及青龄对照组的逃
+避潜伏期较老龄对照组明显缩短，差异有显著性
+（P＜0.05）。 
+空 间 探 索 试 验 中 ， 与 老 龄 对 照 组 比 ， 
+100 mg/(kg bw·d)人参皂甙干预 6 个月后，小鼠
+在目标象限持续时间延长，50 mg/(kg bw·d)人参
+皂甙干预后穿越平台的次数增加，有显著的统计
+学差异（图 2）。 
+2.2 人参皂甙对海马神经元的影响（表 1） 
+ 
+Table 1  Effect of ginsenoside on Nissl-positive cell 
+numbers in hippocampal CA1, CA3 regions and DG  
+( x ± s ,  n=5) 
+Nissl-positive cells (numbers/0.1mm2) 
+Group 
+CA1 
+CA3 
+DG 
+Aged control 
+911.2±167.2 
+619.7±79.8 
+2138.6±119.5
+Gin-25 mg/kg bw
+937.3±146.0 
+637.7±102.8
+2196.2±155.0
+Gin-50 mg/kg bw
+949.8±126.4 
+660.6±70.3 
+2173.8±123.1
+Gin-100 
+mg/kg
+bw 
+921.3±137.9 
+676.7±70.9 
+2158.7±136.1
+Young control 
+955.6±102.5 
+745.6±135.4
+2165.3±126.9
+ 
+Nissl 氏染色显示，青龄对照组锥体细胞排
+列整齐、密集，Nissl 氏体含量丰富。同青龄对
+照组相比，老龄对照组排列相对较松散，Nissl
+氏体减少，人参皂甙干预后，与青龄对照组无明
+显差异。与老龄对照组比，青龄对照组和 3 个人
+参皂甙干预组海马 CA1、CA3 和 DG 区 Nissl 氏染
+色阳性细胞有不同程度增多，但无统计学差异。 
+2.3 人参皂甙对小鼠抗氧化能力的影响（表 2） 
+ 
+Table 2  Effects of ginsenoside on SOD, GSH-Px and 
+MDA in serum ( x ± s , n=15) 
+Group 
+SOD 
+ (U/mg protein) 
+GSH-Px  
+(U/mg protein) 
+MDA 
+(nmol/mg protein)
+Aged control 
+94.65±22.42 
+383.59±46.67 
+17.93±3.89 
+Gin-25 mg/kg bw
+123.68±24.58 
+623.23±55.02a 
+15.35±1.64 
+Gin-50 mg/kg bw
+169.51±31.52a 
+665.16±55.39a 
+14.21±3.85a 
+Gin-100mg/kg bw
+183.80±36.83a 
+636.32±65.11a 
+11.67±2.71a 
+Young control 
+170.15±52.76a 
+769.35±57.69a 
+11.03±2.33a 
+a：P＜0.05 compared with aged control 
+ 
+结果表明，老龄对照组血清 SOD 和 GSH-Px
+活性低于青龄对照组，MDA 含量高于青龄对照组，
+差异有显著性。人参皂甙 50、100 mg/（kg bw·d）
+干预组的血清 SOD 及 GSH-Px 活性较老龄对照组
+小鼠明显的提高，而 MDA 则明显降低。人参皂甙
+50 mg/（kg bw·d）干预组的血清 GSH-Px 活性较老
+龄对照组明显的增加。 
+2.4 人参皂甙对小鼠海马区 BDNF 蛋白表达的影响
+（图 3） 
+采用 Western blot 方法对各组动物海马区
+营养学报 2009 年第 31 卷第 6 期                                                                             599 
+ 
+BDNF 蛋白的表达进行检测，结果发现同青龄对照
+组相比，老龄对照组的海马区 BDNF 蛋白的表达下
+降了 26%，两者有显著性差异。25 mg/(kg bw·d)
+人参皂甙干预 6 个月后，老龄小鼠海马 BDNF 蛋白
+的表达升高了 10%，两者之间的差异无显著性。
+50 和 100 mg/（kg bw·d）人参皂甙干预 6 个月后，
+老龄小鼠海马区 BDNF 蛋白的表达分别升高 23%和
+27%，与老龄对照组比有显著性差异。 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A: the band of Western blot; B: results of quantitative analysis; 
+a：P＜0.05 compared with aged control 
+Fig. 3  Immunoblot analysis of BDNF in the 
+ hippocampus of the young, aged and MCP-treated mice 
+3  讨 论 
+衰老是一种正常而复杂的生物学过程。衰老
+过程中，机体出现各种功能下降及生理紊乱现
+象，学习记忆是脑的高级功能，伴随着机体的老
+化也会出现明显的减退
+[5]。目前由于衰老的机制
+尚未完全阐明，对衰老性记忆减退和一些老龄神
+经退行性疾病无有效的治疗方法，因此通过食物
+中添加有效成分进行早期干预，对预防或延缓老
+龄记忆能力衰退具有重要意义。 
+人参是我国名贵的中草药，应用于中医临床
+已有两千多龄的历史，有“百草药王”之称。早
+在《神农本草经》中就记载人参具有“开心益智”
+的功效，近龄来人参在抗衰老，促进学习记忆方
+面的功能引起人们广泛的关注。人参皂甙是人参
+中主要的活性物质，本研究利用老龄动物模型探
+讨了人参皂甙对学习记忆的作用，结果发现人参
+皂甙能显著提高老龄鼠的空间学习记忆能力，有
+一定的神经保护功能，可以预防认知功能衰退。 
+自由基的积累、抗氧化酶活性的降低、氧化
+应激损伤是衰老及衰老相关记忆减退的重要机
+制
+[6,7]。本试验结果表明，人参作为重要的天然抗
+氧化剂，能有效阻断自由基连锁反应，终止脂质
+过氧化过程，提高体内抗氧化酶 SOD 和 GSH-Px
+的活性，降低脂质过氧化产物水平，减少了因自
+由基造成的神经细胞损伤以及由此带来的学习
+记忆能力的下降。这种抗氧化活性可能是其改善
+学习记忆的重要机制之一。 
+脑源性神经营养因子（BDNF）在中枢神经系
+统及周围神经系统的多种神经元均有表达，以海
+马和皮层含量最高。BDNF 被认为是记忆形成过程
+中的关键蛋白之一，可作用于突触前膜和突触后
+膜发挥生物学效应
+[8,9]，通过调节细胞内钙结合蛋
+白，稳定细胞内钙浓度，从而保护神经元
+[10,11]。     
+本试验结果发现，人参皂甙干预后同老龄对
+照组相比，海马区 BDNF 的表达显著增强，50 和
+100 mg/kg bw·d 人参皂甙干预 6 个月后，老龄小
+鼠海马区 BDNF 蛋白的表达分别升高了 23%和
+27%。提示促进 BDNF 蛋白的表达可能是人参皂甙
+改善老龄学习记忆的重要机制之一。 
+综上所述，人参皂甙具有明确的预防老龄性
+学习记忆能力下降的效用，这种作用可能是通过
+提高机体的抗氧化水平，减轻过氧化损伤，增强
+海马 BDNF 蛋白的表达来实现。当然，学习记忆
+下降的机制非常复杂，可能涉及突触形态和功能
+的改变、中枢神经递质及受体的改变、钙离子浓
+度的改变、突触可塑性的改变等，人参皂甙是否
+通过这些机制改善学习记忆仍需进一步研究。 
+ 
+[参 考 文 献] 
+[1] Small SA. Age-related memory decline: current 
+concepts and future directions[J]. Arch Neurol, 
+2001, 58：360－364. 
+[2] 全国老龄办.中国人口老龄化发展趋势预测研究报
+告 [R]. 2004. 
+[3] Tohda C, Matsumoto N, Zou K, et al. Aβ(25-35)- 
+induced memory impairment, axonal atrophy, and 
+synaptic loss are ameliorated by M1, a metabo- 
+lite of protopanaxadiol-type saponins [J]. 
+Neuropsychopharmacology, 2004, 29：860－868. 
+                                     （下转 603 页） 
+营养学报 2009 年第 31 卷第 6 期                                                                             603 
+还原成 Fe（Ⅱ），其复合物中 Fe（Ⅲ）的溶出效
+果更好。同时，黑木耳料渣均质后与 Fe（Ⅲ）螯
+合制备的复合物多于黑木耳多糖的复合物，表明
+黑木耳胶质与 Fe（Ⅲ）的螯合效果与溶出效果均
+优于黑木耳多糖，提示 AGIC 可以作为一类很有
+前途的营养口服补铁剂。由于黑木耳胶质组成与
+结构的特殊性，我们在开发黑木耳铁复合物时，
+不必只提取其中含量不高的可溶性多糖用于制
+备，可以考虑黑木耳的全利用。由于活性多糖形
+成的铁复合物除考虑到溶解性、还原性和无铁离
+子存在等因素外, 还兼顾了铁释放后多糖的多种
+生物活性的利用，关于 APIC 的吸收形式，生物
+活性，及黑木耳胶质与 Fe（Ⅲ）形成复合物的机
+制等，尚需进一步研究。 
+ 
+ [参 考 文 献] 
+[1] 李公斌. 黑木耳多糖分子修饰及功能与应用研究
+[D].中国期刊网，东北林业大学博士学位论文.2006, 
+6：34－103. 
+[2] Tao YZ, Zhang LN, Peter CK. Physicochemical 
+properties and antitumor activities of water- 
+soluble native and sulfated hyperbranched  
+mushroom polysaccharides[J]. Carbohydr Res, 
+2006, 341：2261－2269. 
+[3] 樊黎生. 黑木耳多糖 AAP-Ⅱa 级分的制备及其生物
+活性的研究[D]. 中国期刊网，华中农业大学博士学
+位论文，2006, 5：20－126. 
+[4] 李明静，杨静，王宁，等. 怀山药多糖铁(Ⅲ)的组
+成及性能表征[J]. 中国中药杂志，2008, 33：2002
+－2005. 
+[5] 孟凡德，刘学启，李明霞，等. 营养型口服补铁剂
+的研制及其生物利用度研究[J].营养学报，2003, 
+25：245－247. 
+[6] Pitarresi G, Tripodo G, Cavallaro G, et al. 
+Inulin-iron complexes：A potential treatment of 
+iron deficiency anaemia[J]. Eur J Pharm 
+Biopharm, 2008, 68：267－276. 
+[7] 张惠中. 口服补铁剂多糖铁复合物[ J ]. 中国药师，
+2006, 9：756. 
+[8] Peter C-K Cheung. Dietary fibre content and 
+composition of some edible fungi determined by 
+two methods of analysis[J]. J Sci Food Agric, 
+1997, 73：255－260. 
+ 
+ 
+*            *            *             *             *             *              *      
+ 
+（上接 599 页） 
+[4] Park JH, Cha HY, Seo JJ. Anxiolytic-like effects 
+of ginseng in the elevated plus-maze model ：
+Comparison of red ginseng and sun ginseng[J]. Prog 
+Neuropsychopharmacol Biol Psychiatry, 2005, 29：
+895－900. 
+[5] Billard JM. Ageing, hippocampal synaptic acti- 
+vity and magnesium[J]. Magnes Res, 2006, 19： 199
+－215. 
+[6] Yamada K, Nabeshima T. Animal models of 
+Alzheimer's disease and evaluation of anti- 
+dementia drugs[J]. Pharmacol Ther, 2000, 88： 93
+－113. 
+[7] Kishida KT, Klann E. Sources and targets of 
+reactive oxygen species in synaptic plasticity 
+and memory[J]. Antioxid Redox Signal, 2007, 9： 
+233－244. 
+[8] Muller FL, Lustgarten MS, Jang Y, et al. Trends 
+in oxidative aging theories[J]. Free Radic Biol 
+Med, 2007, 15：477－503. 
+[9] Ying Fu, Li Li Ji. Chronic ginseng consumption 
+attenuates age-associated oxidative stress in 
+rats[J]. J Nutr, 2003, 133：3603－3610. 
+[10] Wong AA, RE Brown. Age-related changes in visual 
+acuity, learning and memory in C57BL/6J and DBA/2J 
+mice[J]. Neurobiol Aging, 2007, 28：1577－1593. 
+[11] Gomez-Palacio Schjetnan A, Escobar-Rodriguez ML. 
+Memory coding and retention ： brain-derived 
+neurotrophic factor(BDNF) in synaptic plasti- 
+city[J]. Rev Neurol, 2007, 45: 409－417. 
+                                         （续完） 
+ 

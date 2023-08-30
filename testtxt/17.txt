@@ -1,0 +1,285 @@
+动物医学进展,２０１７,３８(１２):７８-８１
+ProgressinVeterinaryMedicine
+人参三醇组皂苷对大鼠急性坐骨神经损伤修复
+相关蛋白表达的影响
+ 收稿日期:２０１７-０５-２２
+ 基金项目:吉林省卫生计生委科研计划项目(２０１２Z０２６)
+ 作者简介:宋昕恬(１９７９－),女,吉林长春人,副主任医师,硕士,主要从事食品毒理学研究.∗通讯作者
+宋昕恬 １,王 琳２,张晶莹 １,孟令仪 １,高 峰 １,张 琨３∗
+(１．吉林省疾病预防控制中心,吉林长春 １３００６２;２．吉林省食品药品认证和培训中心,吉林长春 １３００６１;
+３．吉林大学第二医院,吉林长春 １３００００)
+  摘 要:研究人参三醇组皂苷(PTS)对大鼠坐骨神经急性损伤蛋白表达的影响.建立大鼠坐骨神经挤
+压损伤模型,随机分为 PTS组,模型对照组及空白对照组,每组各 １０只大鼠;各组均经腹腔注射给药,PTS
+组损伤后注射 PTS;模型对照组,损伤后注射同剂量生理盐水;空白对照组,不损伤坐骨神经,注射同剂量生
+理盐水.坐骨神经损伤术后 ３０d,免疫荧光化学染色检测 PTS对损伤侧坐骨神经神经丝蛋白(NF-M)、微管
+相关蛋白-２(MAP-２)、生长相关蛋白(GAP-４３)表达的影响,观察 PTS对损伤侧神经的影响.大鼠损伤侧坐
+骨神经 NF-M、MAP-２、GAP-４３平均光密度表达(９．６６±０．９９、１２．４３± １．４４、０．３４４±０．０４０)与模型对照组
+(８．２１±１．２５、１１．９０±１．１４、０．２７８±０．０４２)比较有极显著性差异(P＜０．０１).PTS可促进坐骨神经损伤大鼠
+NF-M,MAP-２,GAP-４３的表达.
+  关键词:人参三醇组皂苷;坐骨神经;蛋白表达;免疫组化;大鼠
+中图分类号:S８５２．２
+文献标识码:A
+文章编号:１００７-５０３８(２０１７)１２-００７８-０４
+  现今坐骨神经损伤是一种较为常见的外周神
+经损伤性疾病,损伤后极大地降低了患者的生活质
+量,损伤初期会出现肌肉疼痛、功能障碍等症状,如
+果未得到及时治疗会相继出现肌无力,肌肉萎缩等
+症状,但周围神经损伤与中枢神经损伤最大的不同
+就是有 再 生 的 可 能. 研 究 发 现 人 参 三 醇 组 皂 苷
+(panaxtrolsaponin,PTS)的主要成分 Rg１、Re、Rf、
+Rh１ 是一种强力的神经保护剂,可促进神经元的生
+长,具有神经保护作用[１],但还未见报道过对坐骨神
+经的保护作用.本试验通过免疫荧光化学染色检测
+Wistar雄性大鼠坐骨神经挤压损伤模型大鼠损伤侧
+坐骨 神 经 NF-M、MAP-２、GAP-４３的 表 达,观 察
+PTS对损伤侧神经的影响.
+１ 材料与方法
+１．１ 材料
+SPF级健康成年雄性 Wistar大鼠 ６０只,体重
+２００g±２０g,由长春市亿斯实验动物技术有限责任
+公司提供(SCXK-(吉)２０１１－０００４);动物室由吉林
+省疾病预防控制中心提供(吉动设字 １０-１００５);温度
+２１℃± １℃、相对湿度 ６０％ ± ５％;LEICA RM２１３５
+石蜡 切 片 机、DM４０００B显 微 镜、ASP３００S脱 水 机,
+德国徕卡公司产品.
+１．２ 方法
+１．２．１ 实验动物分组 ６０只 Wistar大鼠随机分为
+正常对照组、模型对照组、PTS１００mg/kgbw剂量
+组,每组 ２０只,大鼠腹腔注射麻醉,剂量为 １％ 戊巴
+比妥钠(５mL/kg),常规消毒,右下肢后外侧切口,
+钝性分离股外侧肌和股二 头 肌,游 离 出 坐 骨 神 经.
+模型对照组、PTS１００mg/kg剂量组两组动物,在距
+离梨状肌下缘１cm处,用血管钳扣第 ３格垂直钳夹
+神经,保持压迫 ３０s,造成坐骨神经 SunderlandⅢ度
+损伤 模 型[２],正 常 对 照 组 不 做 手 术,手 术 结 束 ３０
+min,PTS１００mg/kg剂量组腹腔注射 PTS,２次/d,
+连续 ３０d
+[３].
+１．２．２ 观测指标 PTS对坐骨神经损伤大鼠 NF-
+M、MAP-２、GAP-４３的检测,取坐骨神经在 ４０mL/
+L甲醛溶液中固定 ４８h→取材→制作蜡块→组织块
+切片.０．０１mol
+/LPBS冲洗、室温孵育、抗原修复、
+滴加 １００mL/L山羊血清,滴加一抗体、二抗,苏木
+素复染、冲洗、脱水、封片,每组染色过程中均设定不
+加一抗的空白对照染色.显微镜下观察坐骨神经中
+NF-M、MAP-２、GAP-４３的表达情况,经图象分析最
+终计算 OD值.
+万方数据
+１．２．３ 统计方法 数据的统计处理采用 SPSS１１．５
+统计软件中单因素方差分析进行均值比较,方差齐
+时,各组间两两比较用 LSD法;方差不齐时,各组间
+两两比较采用 Tamhane
+′s法.
+２ 结果
+免疫荧光化学染色检测 PTS对损伤侧坐骨神
+经 NF-M、MAP-２、GAP-４３表 达 的 影 响,结 果 术 后
+第 ３０天模型对照组及 PTS处理组大鼠坐骨神经中
+NF-M、MAP-２、GAP-４３平均光密度值均高于正常
+组,有显著性差异(P＜０．０５),PTS处理组大鼠坐骨
+神经中 NF-M、MAP-２、GAP-４３平均光密度值高于
+模型对照组,有显著性差异(P＜０．０５),说明 PTS可
+促进 神 经 损 伤 大 鼠 NF-M,MAP-２,GAP-４３的 表
+达.
+表 １ PTS对大鼠损伤侧坐骨神经 NF-M、MAP-２、GAP-４３平均光密度表达的影响
+Table１ TheeffectofPTSontheexpressionofNF-M,MAP-２andGAP-４３intheinjuredsciaticnerveofrats
+NF-M
+MAP-２
+GAP-４３
+空白对照组 Blankcontrolgroup
+６．６３±０．８０b
+９．０８±１．０５b
+０．２２３±０．０５３a
+模型对照组 Modelcontrolgroup
+８．２１±１．２５
+１１．９０±１．１４
+０．２７８±０．０４２
+PTS处理组 PTSgroup
+９．６６±０．９９b
+１２．４３±１．４４b
+０．３４４±０．０４０b
+  注:“a”模型对照组与空白对照组比较,P＜０．０５;“b”模型对照组与试验组比较,P＜０．０１.
+Note:＂a＂Modelcontrolgroupcomparedwiththeblankcontrolgroup,P＜０．０５;＂b＂Modelcontrolgroupcomparedwiththeexperimental
+group,P＜０．０１．
+图 １ PTS对大鼠患侧坐骨神经中 NF-M 表达的影响
+Fig．１ EffectsofPTSontheexpressionofNF-M inthesciatic
+nerveoftheaffectedsideofrats
+A．空白对照组;B．模型对照组;C．PTS处理组
+A．Blankcontrolgroup;B．Modelcontrolgroup;C．PTSgroup
+图 ２ PTS对大鼠损伤侧坐骨神经 NF-M 表达的影响(４００×)
+Fig．２ EffectofPTSonNF-M expressionininjured
+sciaticnerveofrats(４００×)
+图 ３ PTS对大鼠患侧坐骨神经 MAP-２表达的影响
+Fig．３ EffectsofPTSontheexpressionofMAP-２inthe
+sciaticnerveoftheaffectedsideofrats
+A．空白对照组;B．模型对照组;C．PTS处理组
+A．Blankcontrolgroup;B．Modelcontrolgroup;C．PTSgroup
+图 ４ PTS对大鼠损伤侧坐骨神经 MAP-２表达的影响(４００×)
+Fig．４ EffectsofPTSonexpressionofMAP-２ininjured
+sciaticnerveofrats(４００×)
+图 ５ PTS对大鼠患侧坐骨神经 GAP-４３表达的影响
+Fig．５ EffectsofPTSonexpressionofGAP-４３ininjured
+sciaticnerveofrats
+A．空白对照组;B．模型对照组;C．PTS处理组
+A．Blankcontrolgroup;B．Modelcontrolgroup;C．PTSgroup
+图 ６ PTS对大鼠损伤侧坐骨神经 GAP-４３表达影响(４００×)
+Fig．６ EffectofPTSonexpressionofGAP-４３ininjured
+sciaticnerveofrats(４００×)
+９
+７
+宋昕恬等:人参三醇组皂苷对大鼠急性坐骨神经损伤修复相关蛋白表达的影响
+万方数据
+３ 讨论
+人参自古就是名贵中药材,五加科植物.被誉
+为“滋阴补生,扶正固本”之极品,有补元气、安神智,
+生津养血之功效[４].人参含有多种皂苷和多糖类成
+分,其中皂苷类能增强大脑皮层的兴奋性,平衡中枢
+神经系统的兴奋和抑制过程.其中人参三醇组皂苷
+主要包 括 Re、Rf、Rg１、Rg２、Rh１、２０-葡 糖 基-Rf、三
+七皂苷 R１、三七皂苷 R４ 等单体[５-６].有研究结果表
+明,这些单体可以调节神经营养及生长等因子促进
+轴突的再生,有保护神经的作用[１].Rb１和 Rg１单
+体在针对应激、缺血、缺氧等多种因素导致的神经细
+胞的损伤也有较好的保护作用[７].NF-M 在神经元
+轴突再生修复中起重要作用,它是神经元胞体、神经
+轴突细胞的主要成分,可以提示神经元细胞生长的
+状态.有研究表明,神经受到损伤机体自然修复过
+程中,神经细胞发生氧化应激反应后,NF-M 的表达
+明显改变,促进神经元功能恢复[８-９].GAP-４３是一
+种热稳定的磷酸蛋白,多分布在神经元内,对于损伤
+的神经它可以使其再生、发育并加快结构重建.微
+管结构蛋白 MAP-２是功能及结 构蛋白,又被称为
+神经生长和修复相关蛋白,是神经元轴突和树突的
+组成部分,在延长和增强神经元结构的稳定性和维
+持神经元形态和突触可塑性方面起到主要作用.在
+神经元受损后 MAP-２的表达降 低,在随 后的神经
+元修复和重建时 MAP-２的表达明显升高.在正常
+情况下神经中的 GAP-４３及 MAP-２表达量很小,当
+神经受到损伤时 GAP-４３表达开始升高,当神经开
+始自我修复时 GAP-４３、MAP-２表达明显 升 高,这
+些变化发生在神经受损后的 ３０天内,直至损伤神经
+修复 完 成 后 GAP-４３、MAP-２表 达 水 平 恢 复 至 正
+常[１０-１３].由此可见在研究神经系统的可塑性、神经
+的生长及再生时,常选泽 GAP-４３和 MAP-２作为研
+究对象,它们在神经损伤修复和结构重建时,起到重
+要的积极作用.
+综上所述,关于 PTS在大鼠坐骨神经损伤后的
+修复作用的研究目前尚未见报道.本课题组在前期
+通过对 PTS１００、５０、２５mg/kg３个剂量组的研究,
+发现只有 １００mg/kg剂量组对急性损伤的坐骨神
+经有保护作用[１４],本试验只选用 １００mg/kg剂量.
+本课题组还发现伤侧腓肠肌湿重及腓肠 肌恢复率
+PTS处理组明显优于模型对照组.PTS处理组与
+模型对照组比较,坐骨神经神经纤维排列更整齐,轴
+索更清晰,雪旺细胞基本保持正常;腓肠肌肌细胞直
+径更均匀,胞核更清晰,数量增多;故 PTS对大鼠坐
+骨神经急性病理损伤有一定的修复作用[１５].通过
+本试验的结果可以观察到,造模后第 ３０天模型对照
+组及 PTS处理组大鼠坐骨神经中 NF-M、MAP-２、
+GAP-４３平均光密度值均高于正常组,有显著性差
+异(P＜０．０５),PTS处理组大鼠坐骨神经中 NF-M、
+MAP-２、GAP-４３平均光密度值高于模型对照组,有
+显著性差异(P＜０．０５),说明人组皂苷可促进神经
+损伤大 鼠 NF-M、MAP-２、GAP-４３的 表 达.因 此,
+PTS对大鼠坐骨神经急性损伤有一定的修复作用,
+这不仅填补了国内相关外研究的空白,同时为 PTS
+在坐骨神经损伤后的功能恢复时的临床辅助治疗提
+供科学依据.
+参考文献:
+[１] LuZF,ShenY X,ZhangP,etal．GinsenosideRg１promotes
+proliferationandneurotrophinexpressionofolfactoryensheat-
+hingcells[J]．JAsianNatProdRes,２０１０,１２(４):２６５-７２．
+[２] 赵 娟,俞 红,徐义明,等．物理治疗促进坐骨神经损伤再生
+的实验研究[J]．中国修复重建外科杂,２０１１,２５(１):１０７-１１１．
+[３] 国家药典委员会．中华人民共和国药典[S]．北京:中国医药科
+技出版社,２０１５:８．
+[４] 宋昕恬,张晶莹,孟令仪,等．人参三醇组皂苷对大鼠坐骨神经
+急性损伤 后 修 复 的 研 究 [J]．中 国 卫 生 工 程 学,２０１６,１５(４):
+３１８-３２１
+[５] 张 彩,史 磊．人参化学成分和药理作用研究进展[J]．食品
+与药品,２０１６,１８(４):３００-３０４．
+[６] 王 敏,田 丹,谭 伟,等．人参皂苷 Rg１对染铅幼鼠学习记
+忆的影响[J]．毒理学杂志,２０１２,２６(１):２８-３０．
+[７] 王国丽,李晓娇,张力娜,等．人参皂苷 Rb１、Rg１对中枢神经系
+统作用及相关机制的研究进展[J]．上海中医药杂志,２０１７,５１
+(３):９２-９５
+[８] ChiassonK,Lahaie-CollinsV,BournivalJ,etal．Oxidative
+stressand１７-alpha-and１７-beta-estradiolmodulateneurofila-
+mentsdifferently[J]．MolNeurosci,２００６,３０(３):２９７-３１０．
+[９] 高玉峰,姚斌彬,吴剑聪,等．推拿对大鼠坐骨神经损伤后 MAP-２
+和 NF-M 表达的影响[J]．中医药导报,２０１４,２０(１):１１-１３．
+[１０] MaddodiN,BhatKM,DeviS,etal．OncogenicBRAFV６００E
+inducesexpressionofneuronaldifferentiationmarkerMAP-２
+inmelanomacellsbypromoterdemethylationanddown-regu-
+lationoftranscriptionrepressorHES１[J]．BiolChem,２０１０:
+２８５(１):２４２-２５４．
+[１１] BeltraminoCA．Timedchangesofsynapticzinc,synaptophys-
+inandMAP-２inmedialextendedamygdalaofepilepticani-
+malsaresuggestiveofreactiveneuroplasticity．[J] Brain
+Res,２０１０,１３(２８):１３０-１３８．
+[１２] 姚中凯,吴作培,孙贵新．微管相关蛋白 ２:调节神经元发育、
+结构稳定及突起形成和突触可塑性[J]．中国组织工程研究,
+２０１５:１９(３７):６０１０-６０１６．
+[１３] PerenoG L,BeltraminoCA．Timedchangesofsynapticzinc,
+synaptophysinandMAP２inmedialextendedamygdalaofepi-
+lepticanimalsaresuggestiveofreactiveneuroplasticity[J]．
+BrainRes,２０１０,１３２８(１):１３０-１３８．
+０
+８
+动物医学进展 ２０１７年 第 ３８卷 第 １２期(总第 ２９４期)
+万方数据
+动物医学进展,２０１７,３８(１２):８１-８５
+ProgressinVeterinaryMedicine
+锦州某奶牛养殖场乳房炎大肠埃希菌药敏试验及耐药基因检测
+于长泳
+(辽宁省动物疫病预防控制中心,辽宁沈阳 １１０１６４)
+  摘 要:为对锦州某奶牛养殖场临床型乳房炎病原菌耐药情况进行调查.对该场进行患病乳样采集、主
+要病原菌分离、鉴定、药物敏感性试验和耐药基因筛选.结果表明,该场乳房炎主要病原菌为大肠埃希菌,共
+得到乳房炎大肠埃希菌分离株 ３６株;药物敏感性试验结果表明,分离株对磺胺类药物高度耐药、对头孢噻呋
+和头孢唑啉敏感;对分离株进行磺胺类药物耐药基因筛查结果表明,sul１、sul２、sul３基因的阳性率分别为
+７６．０％、１７．１％和 ０％,说明 sul１基因为该场大肠埃希菌磺胺类药物主要耐药基因.
+  关键词:乳房炎大肠埃希菌;药物敏感性检测;磺胺类;耐药基因
+中图分类号:S８５７．２６
+文献标识码:A
+文章编号:１００７-５０３８(２０１７)１２-００８１-０５
+  乳房炎是奶牛养殖业常发疾病之一,其主要临
+床表现为患 病 牛 乳 房 红、肿、热、痛、泌 乳 机 能 障 碍
+等,并同时伴有凝乳、乳汁结块、血乳及絮状物沉淀
+等,给养殖业带来巨大经济损失[１-３].据报道,奶牛
+乳房炎在世界范围内发病率高达 ５０％左右,我国每
+年 约有 １０％~ １５％的奶牛因乳房炎而被 淘 汰[４].
+ 收稿日期:２０１７-０４-１７
+ 作者简介:于长泳(１９７８－),男,辽宁沈阳人,高级兽医师,双学士,主要从事动物疫病防控工作.∗通讯作者
+������������������������������������������������������������������������������������������������������������������������������������������������������
+[１４] 宋昕恬,张晶莹,孟令仪,等．人参三醇组皂苷对大鼠坐骨神经
+急性损伤后修复的研究[J],中 国 卫 生 工 程 学,２０１６,１５(４):
+３１８-３２１．
+[１５] 宋昕恬,王 琳,张晶莹,等．人参三醇组皂苷对大鼠坐骨神经
+急性损伤保护作用的研究[J],毒理学杂志,２０１７,３１(２):１２２-
+１２４．
+PreventiveEffectofPanaxatriSetSaponinsonExpressionofRelatedProtein
+inRatswithAcuteSciaticNerveInjury
+SONGXin-tian
+１,WANG Lin
+２,ZHANGJing-ying
+１,MENG Ling-yi
+１,GAO Feng
+１,ZHANGKun
+３
+(１.JilinProvincialCenterforDiseaseControlandPrevention,Changchun,Jilin,１３００６２,China;
+２.JilinCertificationTrainingCenterforFoodandDrug,Changchun,Jilin,１３００６１,China;
+３.TheSecondHospitalofJilinUniversity,Changchun,Jilin,１３００００,China)
+Abstract:Toinvestigatetheeffectofproteinexpressionchangesofacuteinjuryofsciaticnerveinratsin-
+ducedbyPTS,theratsciaticnervecrushinjurymodelwasestablishedandweredividedintoPTSgroup,
+modelcontrolgroupandblankcontrolgrouprandomly,１０ratsineachgroup,eachgroupwasadministered
+byintraperitonealinjection,thanPTSgroupwasinjectedwithPTSafterinjury,modelcontrolgroupwas
+injectedwithsamedosenormalsaline,blankcontrolgroupwasinjectedwithsamedosenormalsalinewith-
+outsciaticnerveinjury．３０daysaftersciaticnerveinjury,theeffectsofPTSontheexpressionsofNF-M,
+MAP-２andGAP-４３inthesciaticnerveoftheinjuredsidewereobservedbyimmunofluorescencechemical
+staining,andtheeffectsofPTSontheinjuredlateralnervewereobserved．TheexpressionsofNF-M,MAP-
+２andGAP-４３inthesciaticnerveofinjuredratsweresignificantlyhigherthanthatinthecontrolgroup(８．
+２１±１．２５,１１．９０±１．１４,０．２７８±０．０４２),andthemeanopticaldensities(９．６６±０．９９,１２．４３±１．４４,０．３４４±０．
+０４０)weresignificantlydifferent(P＜０．０１)．PTScanpromotetheexpressionsofNF-M,MAP-２andGAP-
+４３insciaticnerveinjuryrats．
+Keywords:panaxtrolsaponin;sciaticnerve;proteinexpression;immunohistochemistry;rat
+万方数据

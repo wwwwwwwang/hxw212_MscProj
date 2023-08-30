@@ -1,0 +1,501 @@
+20 15 年 4 月 
+第 25 卷
+第 4 期 
+中国 比较医学杂志 
+C H I NE S E  J OU R NA L  O F C O MP A R A T I V E  M E D IC IN E  
+A p ril ，2 0 15 
+V 0 l J 2 5 
+N o ．4  
+人参皂苷水解 产物 DS一1227 改善东莨菪碱致 
+小 鼠的学 习记忆 障碍 
+武宏伟 ，王克柱 ，冯 
+利 ，卢 
+聪 ，徐 
+攀 ，廖永红 ，
+ 
+曲丽 娜 ，李 莹辉 ，刘 新 民 
+( 1．中 国 医学 科 学 院 北 京 协 和 医学 院药 用 植 物 研 究 所 ，北 京
+100193 ； 
+2．中 国 航 天 员 科 研 训 练 中心 航 天 医学 基 础 与应 用 国 家 重 点 实 验 室 ，北 京 
+100094) 
+【摘 要】 
+目的
+研究人 参皂苷 水解 产物 DS-1227 ( Dammarane Sapogenins- 1227 ) 对东莨 菪碱致 小 鼠学 习记 忆 
+障碍的改善作用 ，为老年痴呆等疾病 的药物研究提供科学数据 。方法
+将 60 只 ICR 小 鼠随机分为 空 白对照组 、模 
+型组 、阳性 对照组 、DS-1227 低 、中、高剂量组共 6 组 ，每组 10 只。连续灌 胃给 药 2 周后 ，检测 自主活动 ，第 15 天开 
+始除空 白对照组腹腔 注射 生理盐水 ，其他各 组均 腹腔注 射东莨 菪碱 ( 0．75 mg／kg) ，阳性 对照 组在注射 东莨 菪碱 5 
+min 后另腹腔 注射 毒扁豆碱 ( 0．3 mg／kg) ，给药完成 20 min 后 进行物 体认知 实验 和 Morris 水迷 宫实验 检测动 物的 
+学习记忆能力 。结果
+DS一1227 对小 鼠的 自主活动无显著性 影响 。腹腔 注射东莨 菪碱后 ，小 鼠的相对 辨别指 数降 
+低 ，水迷 宫定位航行实验 中 d1、d2 、d3 、d4 和 d5 潜伏期均 明显延长 。DS一1227 低 、中、高剂量 和给予 M 受体激动剂毒 
+扁豆碱均能不 同程度增加 东莨 菪碱致学习记忆 障碍模 型小 鼠的相对 辨别指数 ，缩 短水迷宫定 位航行潜伏 期。结论 
+DS一1227 有改善东莨菪碱致小 鼠学习记忆障碍 的作用 。 
+【关键词 】 DS-1227 ；东莨菪碱 ；学 习记忆 障碍 
+【中图分 类号】R33 
+【文献标 识码 】A 
+【文章编号 】1671．7856 ( 20 15 ) 04．0027~ 6 
+doi ：10．3969．j ．issn．1671．7856．2015．004．006 
+I m p r o v i n g  ef fe c t of  th e g i n s en o si d e h y d r ol y si s p r o d u c t D S -1 2 2 7 o n  
+sc o p ol a m i n e -i n d u c ed  l ea r n i n g  a n d  m em o r y  im p a i r m en t i n  m i c e 
+W U H ong -w ei ，W A N G  K e—zh u ，F E N G L i ，L U C on g ，
+ 
+X U P an ‘
+，L IA O Y ong．h ong。
+，QU L i．na ，L I Y ing—hui ，L IU X in—min。
+ 
+( 1．Institute of Medicinal Plant Development ，Chinese A cademy of Medical Sciences ＆ 
+Peking Union Medical C ollege ，Beijing 100193 ，China； 
+2 ．C hin a A stron aut R esearc h an d T rain ing C enter ，State K ey L ab of  Sp ace Med ic in e 
+Fundamentals and A pplication ，Beijing 100094 ) 
+【Abstract】 Obj ective 
+The aim of this experiment was to study the improving effects of a ginsenoside hydrolysis 
+prod uc t DS 一1227 on s cop olami ne—ind uc ed learn ing and memory imp airmen t in mic e ．M etho ds  
+Si xty healthy 5 - 6 一w eek old 
+male IC R mice ( body weight 22 ± 2 g ) were randomly divided into control group ，model group ，three DS -1227 groups ( 25 
+[ 基金项 目】重 大新药创制( 编号 ：2012ZX09J 12110-04C) ；国际科 技合 作专项 ( 编号 ：2011DF A32730) ；全军 医学科 技“ 十 二五 ” 科 研项 目 
+( 编号 ：BWSI 1J 052 ) 。 
+[ 作者简介 】武宏 伟( 1979 一) ，女 ，研究方向 ：中药药理 。E -mail ：wuhongwei-2004@ 163．tom。 
+[ 通讯作者】刘新 民( 1962 一) ，男 ，研究方向 ：神经药理 ，E ．mai l ：l iuxinmin@ hotmail ．corn 。 
+2 8 
+中国比较 医学杂志 20 15 年 4 月第 25 卷第 4 期
+Chin J Comp Med，Apri l 2015 ，V o1．25．No．4 
+mg／kg ，50 mg／kg，1 00 mg／kg) ，and positive control group ( 0．3 mg／k g) ．F ourteen days after oral administration of DS一 
+12 27 ．an open—fi el d te st was c ond uc t to determ ine th e m ouse loc omot or ac ti v it y ． F ift een day s aft er oral admi ni strat ion of  
+DS ·1227 ，all experimental animals were intraperitoneally administered scopolamine ( 0．75 mg／kg ) and the mice of control 
+grou p r ec eiv ed the same v olu me of s alin e． I n addi tion to s c op olami ne ， t he m ic e of p osi tiv e c ontrol group rec ei ved 
+intraperitoneal injection of physostigmine in a dose of 0．3 mg／k g． T wenty minutes after completion of all the drug 
+administration ，object recognition test and Morris water maze test were conducted to evaluate the learning and memory 
+ab iliti es of the m ic e．R es u lts  
+D S一122 7 h ad n o si gn ifi c ant ef fec t on loc omotor ac tiv ity of  the mi ce ．Sc opol amine o bv ious ly 
+decreased the di scrimi nation indexes i n obj ect recogni ti on test ，and prolonged the escape latency of water maze pl ace 
+navigation test．While 25 mg／k g ，50 mg／kg ，100 mg／k g of DS 一1227 increased the discrimination indexes and decreased 
+the esc ape lat enc y of p lac e nav igat ion i n t he mi c e． C o n cl u sio n 
+D S一122 7 
+can imp rov e t he l earn ing an d m emory 
+imp airmen t i ndu c ed by  sc opolami ne i n mi c e．
+ 
+【K ey words】 Ginsenoside hydrolysis product DS一1227 ；Scopolamine；Learning and memory impairment；Mice 
+随 着 老 龄 化 社 会 的 到 来 ，阿 尔 茨 海 默 病 
+( Alzheimer’ S disease，AD ) 的发 病率 逐 年 升 高 ，严 重 
+威 胁着 人类 健康 ，给社 会 和家 庭 带来 沉 重 负 担 。 国 
+内外 虽投 入 大 量 人 力 物 力 财 力 研 究 防 治 AD 的 药 
+物 ，但 目前 收 效 甚 微 ，因 此 研 究 防治 AD 、改 善 学 习 
+记忆 的药 物 十分必 要 。A D 是 一 种 以进 行 性 认 知 障 
+碍 和 记 忆 力 损 害 为 主 的 中枢 神 经 系 统 退 行 性 疾 
+病 ¨ ，早 期 主要 表 现 为短 时 记 忆 损 害 、空 间 辨 别 能 
+力障碍 等 。研 究 表 明 ，AD 患 者 认 知 功 能 损 伤 与 脑 
+内神 经递 质 乙酰胆碱 ( acetylcholine，Ach) 水 平 下 降 
+密切 相关 ，针对 A D 患 者 脑 内 A ch 水 平 下 降 这个 特 
+异性 神 经化学 变 化 ，研究 人 员采 用 给予 M 胆碱 受 体 
+阻断剂 东 莨 菪 碱 ( scopolamine，SCOP ) ，使 脑 内 Ach 
+水 平显 著下 降 ，复制 AD 动物模 型 ，可 稳定 诱 导 动物 
+的学 习记忆 障碍 ，该 方 法 操作 简 便 ，是 筛 选 防 治 AD 
+药物 的较 好动 物模 型 。 
+人参 作 为传 统 中药 ，是 现代 药 理 研 究 最 多 和 最 
+充 分 的传统 中药 之 一 ，长 期 临床 实 践 证 明 ，人 参 有 
+确 定 的益智 作用 ，人 参 皂 苷 为人 参 的主 要 益智 活 性 
+成分 ，人参 皂 苷 对 神 经 系 统 有 多 种 调 节 作 用 ，如 抗 
+抑郁 、改 善学 习 记 忆 障 碍 、镇 静 安 神 、兴 奋 中枢 等 。 
+人参 皂苷 不易 被 吸收 ，并 且 生物利 用度 较 低 
+，然 
+而人 参皂 苷 去糖 代谢 后 形 成 的苷 元 或 次 苷 比皂 苷 
+本 身更 容 易 被 机 体 吸 收 ，而 且 活 性 增 强 ，毒 性 降 
+低 
+。因此 ，本 研 究 采 用 东 莨 菪 碱 模 型 ，通 过 动 
+物行 为学 对人参 皂 苷水解 产 物 DS．1227 改 善学 习记 
+忆 的作用 进行 研 究 ，为研 制 AD 等 的 防治 药 物 提 供 
+科 学依据 。 
+1
+材 料 和 方 法 
+1．1 
+实 验 动 物 及 实 验 环 境 
+60 只 SPF 级 雄性 ICR 小 鼠 ，5 ～6 周 龄 ，体 重 (22 
+4-2 ) g，购 自北京 维 通 利华 实 验 动物 技 术 有 限公 司， 
+许可证 号 [ SCX K ( 京 ) 2012-0001] 。实验在 中国医 
+学 科学 院药 用植 物研 究 所 进 行 ，饲 养 于本 实验 室 的 
+屏 障 环 境 [ SYX K ( 京 ) 20084)019 ] ，温 度 ( 20 ～ 
+26 ) ℃ ，12 h 照 明／12 h 黑 暗环 境 ( 8 ：00 —2O：00 亮 
+灯 ) ，饲养 期 间 给 予 标 准 饲 料 及 纯 净 水 。本 实 验 遵 
+循 实验 动物 伦理原 则 。 
+1．2
+仪器与试 剂 
+小 鼠行 为学 检测 仪器 包括 自主 活 动实 验 计算 机 
+图像 实时 检 测 分 析 处 理 系 统 、物 体 认 知 检 测 装 置 、 
+小 鼠 Morris 水 迷宫计 算 机 自动控制 和 图像分 析处 理 
+系统均 由中 国 医 学 科 学 院 药 用 植 物 研 究 所 和 中 国 
+航 天 员科 研训 练 中心联 合研 发 。 
+DS．1227 ，人参 皂 苷 水 解 产 物 ：原 人 参 二 醇 [ 20 
+( S) 一aglycone protopanaxadiol ，PPD ] 9．18％ ，原 人参 
+三 醇 [ 20
+( S ) -aglycone protopanaxatriol ， PPT ] 
+20．55％ ，人参 皂苷 R hl ( ginsenoside R h1) 18．8％ ，人 
+参 皂苷 R h2 ( ginsenoside R h2 ) 10．1％ 。 由加 拿 大 天 
+马药 业 集 团 惠 赠 。东 莨 菪 碱 ( Sigma 公 司 产 品 ，批 
+号 ：4A 96820 ) ；毒 扁 豆 碱 ( Sigma 公 司 产 品 ，批 号 ： 
+BC BF8289 ) 
+1．3
+动 物实验 
+1．3．1 
+实验动 物分 组及 给药 ：ICR 小 鼠适 应性 饲 养 
+3 d 后 ，随机 分为 6 组 ，每 组 10 只 ，分 组如 下 ：空 白对 
+照组 、模 型组 ( 东莨 菪 碱 ，0．75 mg／kg／d ) 、阳 性 对 照 
+组 ( 毒 扁 豆 碱 ，0．3 mg／kg ) 、DS一1227 低 剂 量 组 ( 25 
+mg／kg) 、DS一1227 中剂量 组 ( 50 mg／kg) 、DS-1227 高 
+剂量组 ( 100 mg／kg) 。空 白 对 照 组 、模 型 组 和 阳性 
+对 照组灌 胃给 予蒸馏 水 ，灌 胃体积均 为 0．2 mL／l 0 g 
+体重 ，每 天 1 次 。行 为学 实验前 连续 灌 胃给药 2 周 ， 
+于 第 14 天 检 测 自主活 动 ，第 l 5 天 开始 给 予东 莨 菪 
+碱 造模并 进 行 物 体认 知 实 验 和 水 迷 宫 实 验 等 行 为 
+中国 比较医学杂志 20 15 年 4 月第 25 卷第 4 期
+Chin J  Comp Med，April 2015 ，V o1．25 ．No．4 
+2 9  
+学检 测 。行 为学 检 测 期 间 ，每 只 动 物检 测 前 1 h 给 
+药 ，给药 持续 至行 为学 检 测完 成 。 
+行 为学 实验 当天 ，小 鼠灌 胃给 药 40 min 后 ，除对 
+照组 腹 腔注 射生 理 盐水 外 ，其 余 各 组 均腹 腔 注射 东 
+莨菪 碱 ( 0．75 mg／kg ) 。 阳性 对 照 组 在 腹 腔 注 射 东 
+莨菪 碱 5min 后 再 腹 腔注 射 毒 扁 豆 碱 ( 0．3 mg／kg) 。 
+腹腔 注射 东莨 菪碱 20 min 后进 行行 为 学检 测 。 
+1．3．2 
+自主活 动 实验 ：采 用 王 琼 等 ⋯ 研 制 的 小 鼠 
+自主活动实验计算机图像实 时检测分析处理系统 ，
+ 
+将小 鼠放 人桶 内 ，设 定 实 验 参 数 后 开 始 测 试 。系 统 
+自动 记 录 分 析 10 min 动 物 的 自发 活动 ，如 总 路 程 、 
+运动 时 间 、静 止 时间等 。 
+1．3．3 
+新 物体 识 别 实验 ：利 用 宋 广 青 等 ¨ 
+研 制 的 
+物体 认知 检测 装 置 ，参 照 王逸 等 -．
+ 
+的实 验 方 法进 行 
+实验 ，实 验过 程分 为 3 个 阶 段 ：适 应 期 、熟 悉 期 和 测 
+试 期 。适 应期 为 3 d ，每 天将 动 物依 次放 人没 有任 何 
+物体 的 实验箱 内 ，适 应 环 境 10 min。第 4 天 开 始 熟 
+悉期 和测 试期 。熟悉 期 实 验 ，将 两个 完 全 相 同 的物 
+体放 入 实验箱 内对 称 的位 置 处 ，此 两 物 体 距 离 侧 箱 
+壁 、箱 后 壁 的距 离 均为 10 em。记 录小 鼠 5 min 内对 
+两物 体 的总探 索 时 间 ( S) 。熟 悉 期 后将 动 物 取 出放 
+人饲 养 笼 ，间 隔 20 min 进 人 测 试 期 实 验 。测 试 期 
+时 ，将 其 中一 个熟 悉 期 使 用 的 物体 换 为另 一 个 大 小 
+相近 但形 状 和颜 色不 同 的新 物 体 ，分 别 记 录小 鼠对 
+新 物 体 和 已熟 悉 物 体 的探 索 时 间 ( S) ，用 相 对 辨 别 
+指数 ( relative discrimination index ) 来 评 价 动 物 的学 
+习记 忆 能力 。相 对辨 别 指 数 的计 算 为 ( N．F ) ／( N + 
+F ) × 100％ ，其 中 N ( new ) 为 新 物 体 探 索 时 间 ，F 
+( famil iar) 为熟 悉物 体探 索 时 间 。 
+1．3．4
+物体 位 置识 别实 验 ：实验 方法 和操 作 过程 与 
+新物 体识 别 实验 相 似 ，只 是 在 测试 期 时将 熟 悉 期 过 
+程 中的 两个 完 全 相 同 物 体 中 的一 个 移 到 另 外 新 的 
+位置 ，由原 来 两 物 体 相 邻 变 成 相 对 ，其 他 过 程 完 全 
+相 同。 
+1．3．5 
+Morris 水 迷 宫实 验 ：小 鼠 Morris 水 迷 宫 由一 
+个不锈 钢 喷 塑 圆柱 形水 池 ( 直 径 100 cm，高 38 cm) 
+和配有 数码 摄像 机 的图 像 实 时采 集 分 析 系 统组 成 。 
+平 台直 径 6 cm，高 14 em。按 东 西 南北 将 水 池 划 分 
+为 4 个 象 限 ( NE ，SE ，SW ，NW ) ，象 限 池壁 圆弧 中点 
+为动物 入水 点 。 向池 中 注水 并 用 墨 汁 调 黑 ，水 温控 
+制在 ( 25 ± 2 ) ℃ 。 图 像 采 集 系 统 记 录 动 物 游 泳 轨 
+迹 ，用 于后 续指 标提 取和 分析 。 
+该 实验 历 时 5 天 ，第 1 ～5 天 ：平 台 固定于 NE 象 
+限 中心 ，水 面下 1．5 cm。实验 室物 品及 人 员 位 置 固 
+定 作 为小 鼠空 间参 照 物 。每 天 训 练 2 次 ，随 机 选取 
+两个不 同入 水 点 ( SE 、SW 、NW ) 将 小 鼠 面 向池 壁 放 
+入 水 中 。检测 时 间 90 S，小 鼠在 台上 停 留超过 2 S视 
+为寻 台成功 ，每 次测 试 前 将 小 鼠放 在 台上 适 应 10 S 
+( 前 适 应 ) ，测 试 完毕 无论 寻 台是 否 成 功均 将 其放 在 
+台上适 应 10 S( 后 适 应 ) 。将 小 鼠入 水 到 寻 台成 功 
+所 需 时 间记 作 潜 伏期 ，寻 台失 败 潜伏 期 记 90 S。记 
+录小 鼠在 90s 内的潜伏 期 。 
+1．3．6
+统计学 方法 ：采 用 SPSS 19．0 统计 软 件进 行 
+分析 ，各组 间 比较 采 用单 因素 方 差 分 析 。实 验 结果 
+以均值 ± 标 准 误 ( 
+± s ) 表 示 ，显 著 性 水 平 设 置 
+为 0．05 。 
+2 
+结 果 
+2．1 
+D S -1227 对小 鼠 自主活 动 的影响 
+实验 结 果 表 明 ，与 空 白对 照组 比较 ，DS一1227 各 
+给药组 的总路程 、运动 时 间 、静 止 时 间 、中央 区运 动 
+路 程 比率 、中央 区运 动 时 间 比率 、外 周 区运 动 路 程 
+比率 和外 周 区运 动 时 间 比率 等 指 标 均 无 显 著 性 差 
+异 。结 果 见表 1。 
+表 1 
+DS-1227 对 小 鼠 自主 活 动 的 影 响 ( n = 10 ， 
+± s ) 
+T ab．1 
+Effect of DS 一1227 on locomotor activity in the mice of different groups ( n = 10 ，i
+± s ) 
+中国比较医学杂志 20 15 年 4 月第 25 卷第 4 期
+Chi n J  Comp Med，Apri l 2015 ，V o1．25．No．4 
+3 1 
+DS-1227 高剂 量 可增 加东莨 菪 碱 致 学 习 记忆 障碍 小 
+鼠相 对辨 别指 数 ( P < 0．05 ) ，毒 扁 豆 碱 也 增 加 东 莨 
+菪碱 致学 习记 忆 障 碍小 鼠相 对 辨 别 指 数 ，但 与 模 型 
+组相 比差异无 显 著性 。 
+2．4 
+D S-1227 对 东 莨 菪 碱 致 学 习记 忆 障 碍 小 鼠水 
+迷 宫定 位航 行潜 伏期 的 影响 
+表 3 实验 结果 表 明 ，与空 白对 照组 比较 ，模 型 组 
+小 鼠定位 航 行 Day 1、Day2 、Day3 、Day4 和 Day5 潜 伏 
+期均 明显延 长 ( P < 0．0 1) ；与 模 型组 比较 ，DS一1227 
+低剂 量 组 Day4 和 Day5 定 位航 行潜 伏 期 均 缩 短 ( P 
+< 0．05 ) ，DS一1227 中 剂 量 组 Day4 定 位 航 行 潜 伏 期 
+缩短 ( P < 0．05 ) ，毒 扁 豆 碱 在 Dayl 、Day2 、Day3 和 
+Day5 也 缩 短 东 莨 菪 碱 致 学 习 记忆 障碍 小 鼠定 位 航 
+行潜 伏期 ( P < 0．05 ) 。 
+3
+讨论 
+乙酰胆 碱广 泛 分 布 在 脑 内 ，是 参 与 学 习 记 忆 的 
+重要 神 经递 质 ，中枢 胆 碱 能 系 统 可 调 节 多种 学 习记 
+忆 能力 ¨ 。研 究表 明 ，老年 痴呆 患者 脑 内 A ch 合 成 
+分泌减少，其合成酶 活性 下降 ，且 与痴呆严 重程度 
+密切 相 关 
+”  。SCOP 为 M 受体 阻断剂 ，可 以拮 抗 
+Ach 与 M 受 体 的结 合 ，阻 断 大脑 信 息 的传 递 ，干 扰 
+短期 记 忆能 力 ，引起 记 忆 获 得 障碍 ¨ 
+”  。 因此 ，在 
+痴呆 药 物 的筛 选 和 评 价 中得 到 了 广 泛 应 用 。本 课 
+题 组 前 期 研 究 发 现 ，ICR 小 鼠 腹 腔 注 射 SCOP 
+0．375 、0．75 和 1．5 mg／kg 均 能 显 著 增 加 ICR 小 鼠 
+水迷 宫 定位 航行 潜 伏 期 ，诱 导 小 鼠空 间 学 习记 忆 能 
+力 障碍 ，而 在 物 体 位 置 识 别 实 验 中 ，只 有 0．75 和 
+1．5 Ins／kg 两个 剂量 显著 降低 了 ICR 小 鼠 的辨 别指 
+表 3 
+T ab ．3 
+数 ，导 致小 鼠 短 时 空 间记 忆 能 力 障 碍 。 因 此 ，本 实 
+验 研 究采用 ICR 小 鼠腹 腔 注射 SCOP 0．75 mg／kg 复 
+制 小 鼠学 习记忆 障碍 模 型 。 
+自主 活动 实验用 于观 察 动物 一 定 时 间 内在 特定 
+陌生 环境 中 的 自主 活 动 行 为 。动 物 由于 对 陌生 环 
+境 的恐惧 ，主 要 在 周 边 区 域 活 动 ，在 中央 区域 活 动 
+较 少 ，表现 出 焦 虑 行 为 。 同 时 ，动 物 对 陌 生 环 境 的 
+好 奇 ，又产 生 在 中央 区域 活 动 的 动 机 ，显 示 其 探 究 
+特 性 。本 研 究 结 果 显 示 ，与 空 白对 照 组 比较 ，DS一 
+1227 各给 药组 的运 动总 路程 、运动 时 间 、静 止 时 间 、 
+中央 区运 动 路 程 比率 、中 央 区 运 动 时 间 比率 、外 周 
+区运 动路 程 比率 和 外 周 区运 动 时 间 比率 等 指 标 均 
+无 显著 性差 异 ，说 明 DS．1227 对 小 鼠 自主 活动 并 没 
+有 影 响 。 
+新 物 体识别 试 验显示 ，DS-1227 给药 组 能改 善对 
+东莨菪 碱 致 学 习 记 忆 障 碍 小 鼠 的 相 对 辨 别 指 数 。 
+新 物 体识 别 实 验 是 一 种 应 用 较 为 广 泛 的认 知 行 为 
+学检 测方 法 ，用 于 检 测 啮 齿 类 动 物 非 空 间 、短 期 对 
+物体 的辨别 记 忆 能力 。本 研 究 结 果 显 示 ，与 对 照组 
+比较 ，模 型组 探 索 总 时 间 没 有 明显 差 异 ，说 明东 莨 
+菪 碱 对 ICR 小 鼠 的运 动 能 力 没 有 影 响 。与 空 白对 
+照组 比较 ，东莨 菪碱 所 致 学 习 记忆 障碍 小 鼠相 对辨 
+别指 数 降低 ( P < 0．05) ；与模 型组 比较 ，DS一1227 低 
+剂量 和 中剂 量 均 可 增 加 东 莨 菪 碱 所 致 学 习记 忆 障 
+碍小 鼠相对 辨 别 指 数 ( P < 0．05 ) ，毒 扁 豆 碱 也增 加 
+东莨 菪碱致 学 习记 忆 障 碍 小 鼠相 对 辨 别 指 数 ，但无 
+显著 性差 异 。 
+物体 位置 识 别 实 验 显 示 ，高 剂 量 DS一1227 可 增 
+加东 莨 菪 碱 致 学 习 记 忆 障 碍 小 鼠相 对 辨 别 指 数 。 
+DS一1227 对东莨菪碱致学 习记忆 障碍 小鼠定位 航行 潜伏期的影响 ( 
+= 10 ， 
+± s ) 
+Effects of DS一1 227 on the latency of water maze ( place navigation ) test in the mice with 
+scopolamine—induced learning and memory impairment ( 
+= 10 ，面± s ) 
+注 ：与对照组 比较 ，” P < 0 ．Ol ；与模 型组 比较 ， P < 0．05 ，
+ 
+P < 0 ．0 l 。 
+N ote ． “ P < 0 ．O l ，C om pa~ d w ith t he control group．
+ 
+P < 0 ．O 1 ，C om pared w ith t he model group 
+3 2 
+中国比较医学杂志 2015 年 4 月第 25 卷第 4 期 
+Chi n J  Comp Med，April 20 15 ，V o1．25 ．No．4 
+物体 位置 识 别 实 验 是 在 新 物体 识 别 实 验 的基 础 上 
+建立 的一 种方 法 ，主要 用 于检 测 啮 齿类 动 物 对 物 体 
+位 置 的辨 别记 忆 能 力 。本 研究 结果 显 示 ，与 空 白对 
+照组 比 较 ，模 型 组 小 鼠 相 对 辨 别 指 数 降 低 ( P < 
+0．05 ) ；与模 型组 比较 ，DS一1227 高 剂 量 可 增 加 东 莨 
+菪碱所 致 学 习 记 忆 障 碍 小 鼠相 对 辨 别 指 数 ( P < 
+0．05 ) ，毒扁 豆 碱 也 增 加 东 莨 菪 碱 所 致 学 习 记 忆 障 
+碍小 鼠相 对辨 别指 数 ，但 无显 著性 差异 。 
+Morris 水迷 宫 试 验 结 果 表 明 ，DS．1227 低 、中 剂 
+量 可使东 莨 菪碱 致 学 习 记 忆 障 碍 小 鼠定 位 航 行 潜 
+伏 期显 著性 缩短 。Morris 水迷 宫 主要 用 于 检测 东 莨 
+菪 碱对 小 鼠海 马依赖 性 空 问学 习 记 忆 能力 的影 响 。 
+结果 显示 东 莨 菪 碱 致 学 习记 忆 障 碍 小 鼠定 位 航 行 
+Dayl 、Day2 、Day3 、Day4 和 Day5 潜 伏 期 与 空 白 对 照 
+组 比较 均 明显 增 加 ( P < 0．o1) ；与 模 型组 比较 ，DS一 
+1227 低 剂量 组 和 DS一1227 中 剂 量 组 的定 位 航 行 潜 
+伏 期显 著性 缩短 ( P < 0．05 ，P < 0．05 ) ，毒 扁 豆 碱 在 
+Day 1、Day2 、Day3 和 Day5 也 缩短 东莨 菪碱 致 学 习记 
+忆 障 碍小 鼠定位 航行 潜伏 期 ( P < 0．05 ) 。 
+以上 结果表 明 ，DS一1227 口服 给药可 以改 善 东莨 
+菪碱 致小 鼠 的学 习记 忆 障 碍 ，是 开 发 防 治 AD 的 有 
+希望 的药 物 。 
+参 考 文 献 ： 
+[ 2 ] 
+[ 3 ] 
+[ 4 ] 
+[ 5 ] 
+F err i C P ， P ri n ce 
+M ， B ray n e C ， et a1． G lob a l p r ev ale n ce of  
+dementi a：a Delphi consensus study [ J ] ．Lancet ，2005 ，366 
+( 9503 ) ：2 l 12 —21l 7．
+ 
+O d an iT ，T a n izaw a H ， T a k ino  Y ． S tu d ie s on  th e ab so rp tio n ，
+ 
+di st ri b u tio n ，e xcr et ion an d m eta bo lism of  gin sen g sap on in s ． IL1．
+ 
+T he  absorption ，distribution and ex cretion of g insenoside R bl in 
+the rat [J ] ．Chem Pharm Bull ( T okyo) ，1983 ，31 ( 3 ) ：1059 一 
+l 0 6 6 ．
+ 
+X u 
+QF ，
+ 
+F ang 
+X L ，
+ 
+Chen 
+DF ． Pharmacoki neties 
+and 
+b ioa vai lab ility  
+of 
+gin se no sid e 
+R b l 
+a nd  
+R g l 
+fro m 
+P a n ax 
+notoginseng in rats 【J ] ．J E thnopharmacol ，2003 ，84 ( 2 —3 ) ：
+ 
+l 87
+一 l 9 2 ．
+ 
+H ase gaw a  H ， L e e K S ，N aga ok a T ，et a 1． P h an n a eok in e ties of  
+g insenoside 
+deg ly cosyla ted 
+by 
+inte stinal 
+bac te ri a 
+a nd 
+its 
+transformation to biologically acti ve fatty acid esters [ J ] ．Biol 
+Pharm Bul l ，2000 ，23 (3 ) ：298 —304 ．
+ 
+B ae 
+E A ， Park 
+S Y ， K im 
+D H ． C onsti tut ive 
+beta —g lucosidases 
+hy drolyzing gi nse noside 
+R bl 
+a nd 
+R b2  
+fr om hum an inte stinal 
+bacteri a [ J ] ．Biol Pharm Bul l ，2000 ，23 ( 12 ) ：148 1 —14 85．
+ 
+[ 6 ] 
+[ 7 ] 
+[ 8 ] 
+[ 9 ] 
+[ 10] 
+[ 12] 
+[ 13 ] 
+[ 14 ] 
+[ 15 ] 
+[ 16 ] 
+[ 17 ] 
+[ 18] 
+[ 19 ] 
+Popov ich D G ，K itts D D ．S tructure- function rela tionship exi st s for 
+gin sen o sid cs in r ed u ci n g eel [ pr olif er atio n a n d i nd u c in g up op tosis 
+in the human l eukemi a ( T HP-1) cell line [ J ] ．A rch Bi ochem 
+Biophys，2002 ，406 ( 1) ：1 —8 ．
+ 
+B ae E A ， H y un Y J ， C hoo M K ， e t a 1． P rot ect ive eff ec t of  
+fermented red ginseng on a transient focal ischemic rats [ J ] ．
+ 
+A rch P harm R es，2004 ，27 ( 11 ) ：1136 —1140 ．
+ 
+H aseg aw a H ． P r oof  of  th e my ster iou s e f ic acy o f gin sen g ：b asic 
+an d 
+c lin ica l 
+tr ials ： 
+m eta b olic 
+act ivat ion  
+o f 
+gi nse no sid e ： 
+deg ly cosyla tion by inte stinal ba cte ria and e steri fiea tion w ith fa tt y 
+acid [ J ] ．J Pharmacol Sci ，2004 ，95 (2 ) ：153 —157 ．
+ 
+S un J ， W a ng G ， H ai tang 
+X ， et 
+a1． S imulta neous 
+ra pid 
+q u an tific at ion  of gin sen o sid e R gl a n d its se co nd a ry g lyco sid e R h l 
+a nd  
+ag lyc on e 
+p r oto p an ax atfi o l 
+in 
+r at 
+p la sma 
+b y 
+liq u id 
+c h ro ma tog rap h y - mass sp e ctro me try 
+a fter  
+so lid - p h ase 
+ex tra ct ion 
+[ J ] ．J  Pharm Biomed Anal ，200 5 ，38 ( 1 ) ：126 —132 ．
+ 
+L ee J ，L ee E 。K im D ．et a1．Studies on absorption ，distribution 
+a nd met ab olism of  gin sen g in h u ma ns afte r o ra l ad m in istr atio n 
+[ ，] ．J  E thn0pharmac0l ，2009 ，122 ( 1) ：143 —148 ．
+ 
+王琼 ，买文丽 ，李 翊华 ，等 ．自主活动实 时测试 分析 系统的 
+建立与开 心散 安神镇 静作 用 验证 [ J ] ．中草 药 ，2009 ，4 0 
+( 11 ) ：1773 —1779 ．
+ 
+宋广青 ，高莉 ，孙 秀萍 ，等．大 鼠物体识 别实验 装置 的研制 
+[ J ] ．中国 比较医学杂志 ，20 13 ，23( 8 ) ：80 —86 ．
+ 
+王逸 ，卢聪 ，宋广青 ，等．慢性 束缚应激 对 SD 和 Wistar 大鼠 
+学习记忆能 力 的影 响 [ J ] ．中国实 验 动物 学 报 ，2014，22 
+( 2 ) ：40 —44 ．
+ 
+Go ld  P E ． A ee tylc ho lin e m od u lat ion  of  n eu r al sy st em s in v olv ed in 
+l earning and memory
+[ J ] ．Neurobiol Learn Mem．2003，80 
+( 3 ) ：194 —2 10 ．
+ 
+C rossbe rg G T ， D esa i A K ． M a na ge me nt of A h he im er ’ s disea se 
+[ J ] ．J Gerontol A Biol Sci Med Sei ，2003，58(4) ：331 —353 
+T irab o sch i 
+P ， H a n sen  
+L A ， A lfo rd  
+M ， et 
+a 1．
+ 
+C h oli ne rg ic 
+dysfunction in di sease with Lewy bodies [ J ] ．Neurology，2000 ，
+ 
+54 ( 2 ) ：407 —411．
+ 
+仲崇波 ，徐 向华 ，王 晓 良．阿尔采末病 胆碱能学说研 究进展 
+[ J ] ．中国药理学通报 ，2003，19( 7) ：727 —731．
+ 
+Be atty  W W 。Butt ers N ，J a nowsk y D S ．Pa tterns of  me mory  fa ilure 
+af ter  scop o lam in e 
+tre atm en t ： Im pl icat ion s f or  th e 
+c ho lin e rg ic 
+hypothesi s of dementia [ J ] ．Behav Neural Biol ，1986 ，45 ( 2 ) ： 
+l 9 6 —2 1 1 ．
+ 
+叶翠飞 ，张兰 ，张 丽，等．牛磺 酸对 东莨菪碱 所致 记忆获 得 
+性障碍模型小鼠的改善作 用 [ J ] ．中国药理学 通报 ，2005 ，
+ 
+2l ( 6 ) ：7 15 —717．
+ 
+( 修 回日期] 20 14 12 -29 

@@ -1,0 +1,328 @@
+“ 898 -
+
+中 国 综 合 临 床 2008 年 9 月 第 24 卷 第 9 期 _Clinical Medicine of China,September 2008 ,VoL 24 ,No.9
+
+人 参 皂 甙 Rgl 对 帕 金 森 病 小 鼠 神 经
+保 护 作 用 初 探
+
+刘 江 _ 李 冉 _ 李 硫 张 字 新 张 作 凤
+
+【 摘 要 】 目 的 研 究 人 参 白 或 Rgl 字 对 帕 金 景 病 (PD) 黑 质 多 巴 脓 能 神 经 元 凋 亡 的 可 能 机 制 及 其 神 经
+保 护 作 用 。 方 法 札 用 神 经 毒 素 1- 甲 基 4- 苹 基 -1 ,2,3,6- 四 氡 吡 啶 ( MPTP) 制 备 PD 小 鼠 模 型 , 兑 痛 组 织 化 学
+法 与 蛋白 印 迹 法 观 察 各 组 小 鼠 黑 质 酪 氡 酸 羧 化 酶 (TH) 和 促 渡 亡 基 因 Caspase-3 表 达 变 化 ; 原 位 本 嫁 标 记 法
+(TUNEIL) 观 察 黑 质 细 胞 渊 亡 数 量 变 化 。 结 果 _ 人 参 皂 甚 Rgl 干 预 组 黑 质 TH 阳 性 神 经 元 细 胞 丢 失 明 显 减 轻
+《31%% ve. 55%% j(P <0.01) ,Caspase-3 表 达 水 平 明 日 下 降 , 黑 质 神 经 元 TUNEL 阳 性 细 胞 数 量 显 著 减 少 。 缎
+论 人 参 白 武 Rgl 对 MPTP 诱 导 的 帕 金 森 病 小 鼬 黑 质 多 巴 胺 能 神 经 元 凋 亡 具 有 一 定 的 神 经 保 护 作 用 ;
+Caspase-3 表 达 限 低 可 能 是 人 叁 皂 甙 Rg1 抗 凋 亡 的 重 要 机 制 。
+
+【 关 键 词 】 帕 全 森 病 ; 人 参 皂 止 Rgl; “ 细 胞 渊 亡 ; 多 巴 能
+
+【 中 图 分 类 号 】 R 741 【 文 献 标 识 码 】 A 【 文 章 编 号 】 1008-6315(2008)09-0898-04
+The protective effect of Ginsenoside Rg1 on nerves in the mice model of Parkinson「s disease。 UU Jiang,L
+Ran,L1 Lei,ZH4NC Yu-xin ,XH4NC Zuojeng. Department of hnatormys North China Coal Medical College ( Tangs-
+han 063000,China }
+
+【Abstract] Objective “To investigate possible mechanism of Ginsenoside Rgl1 on dopaminergic nigral neu-
+rons apoptosis af Parkingon「s disease ( PD) and its protective effect, Methods “CS7BL/6N mice were adminigtrated
+with 1-Methy-4-phenyl-1 ,2,3 ,6-tetrahydropyri-dine [MPTP) to produce chronic PD model ,PD mice were observed
+in behavioral changes. The expression levels of caspase-3 and TH in ventral midbrain were studied with immunohisto-
+chemistry and Western blotting. Apoptotic cell numbers were determined by TdT-mediated dUTP-biotin nick end la-
+beling(TUNEL) . Results in group treated with Gingenoside Rgl ,the number of TH-positivye neurons im SN was on-
+ly decreased by 3198 as compared with the control group(55 只 ) (P<0. 01) ,ibe expression of caspase-3 was appar-
+entiy decreased and major expressed 讨 the cytosol of nigral neurons and TUNEL pasitive cells in SN deoreased[P <
+0.01) . Conclusion “The neuroprotective effect of Ginsenoside RgL on dopaminergic nigral neurons apaptosig af the
+mice model of Parkinson「s disease induced by 刘 PTP is signifticant, Decreased expression of Caspase-3 may be the
+
+- 论 著 -
+
+major mechanism of Cinsenoside RgL for antiapoptosis.
+【Key words】 Parkinson「s disease; “Cinsenoside Rbl i
+
+帕 金 森 病 是 一 种 常 见 的 中 老 年 人 神 经 系 统 变 性
+疾 病 , 在 60 岁 以 上 人 群 中 悦 病 率 高 达 1000/10 万 。
+临 床 上 表 现 为 静 止 性 震 颤 、 肌 强 直 , 运 动 迟 缓 积 姿 势
+不 稳 等 , 目 前 帕 金 森 病 的 发 病 机 制 仍 万 清 楚 。 有 研
+究 认 为 ,MPTP 可 通 过 激 活 凌 亡 途 径 参 与 MPTP 致 帕
+金 森 病 小 鼠 黑 质 多 巴 胺 能 神 经 元 丢 失 过 程 “1 , 而 细
+胞 凋 亡 可 能 是 帕 金 淼 病 多 巳 胺 神 经 元 死 亡 的 共 同 通
+路 “。 人 参 皂 甙 Rgl 作 为 丨 药 人 参 的 有 效 成 分 , 其
+生 物 活 性 广 泛 , 国 内 外 学 者 曾 对 其 进 行 了 多 方 面 、 系
+统 的 药 理 学 研 究 / , 发 现 其 具 有 抗 套 老 , 抗 氧 化 、 抗
+凉 亡 , 抗 肿 瘤 以 及 调 节 中 枢 神 经 系 统 等 多 种 药 琏 作
+用 。 本 研 究 采 用 1- 申 基 4- 栎 堀 -1,2,3,6- 四 氨 吡 啡
+(MPTP) 制 备 帕 金 森 病 小 鼠 模 型 , 通 过 采 用 免 疫 组 织
+
+作 者 单 位 :063000 河 北 省 唐 山 市 , 华 北 煤 炭 医 学 院 基 础 部 解 剑 教
+研 室
+
+Apoptosis;
+
+Doparmine
+
+化 学 法 蛋 白 印 迹 法 结 合 图 像 分 析 , 研 究 中 脑 黑 质 磷
+酸 化 Caspase-3 告 白 ,TH 的 表 达 , 观 察 多 巴 胺 能 神 经
+元 数 量 及 病 理 变 化 , 结 合 TUNEL 法 检 测 中 脑 黑 质 神
+经 细 胞 渊 亡 情 况 , 并 观 察 给 予 人 参 皂 付 Rgl 后 对 上
+述 指 标 的 影 响 , 以 探 讨 人 参 皂 付 Rgl 在 MPTP 诱 导 的
+黑 质 神 经 元 凇 亡 中 的 可 能 作 用 , 并 试 图 从 调 亡 相 关
+基 冈 的 分 子 水 平 对 其 机 制 进 行 深 人 研 究 ; 初 步 探 讨
+人 参 皂 甙 Rg1 能 否 阻 断 凋 亡 通 略 的 激 活 从 而 发 排 神
+绅 保 护 作 用 , 为 今 后 制 定 有 效 的 帕 金 森 病 防 治 策 略
+提 供 线 索 。
+
+1 “ 材 料 与 方 法
+
+1.1 “ 材 料
+
+1.1.1 主 要 试 剂 MPTP( Sigma, USA) , 小 鼠 TH 单
+克 隆 抗 体 ( Chemicon , USA) , 兖 Caspase-3 多 克 隆 抗 体
+(Santa Cmz,USA) , 人 参 皂 仪 RgL( 吉 林 大 学 基 础 医
+学 院 化 学 教 研 中 心 提 供 , 纯 度 > 98% ) ,TUNEL 试 剂
+中 国 综 合 临 床 2008 年 9 月 第 24 卷 第 9 期 “Clinieal Medicine of China,September 2008 , Val. 24 ,No. “ 899 。
+
+盒 ( 美 国 IBM 公 司 ) 。
+
+1.1.2 “ 实 验 动 物 健 康 雄 性 CS7BL/6N 小 鼠 45 只
+( 购 于 北 京 维 通 利 华 实 验 动 物 技 术 有 限 公 司 [ SCXX
+( 京 )2002-0003],6 ~ 8 周 龄 , 体 质 量 18 ~23 g, 涉 洁
+级 (SPF) , 自 由 进 食 饮 水 , 宪 游 [25 + 2 心 ) , 单 笼 喂
+养 , 白 然 光 煦 , 饲 养 ! 周 后 进 行 实 验 。
+
+1.2 方 法
+
+1.2.1 “ 实 验 动 物 分 组 和 MPTP 小 鼠 帕 金 森 病 模 型 制
+备 取 C57BL/6N 小 鼠 45 只 随 机 分 成 模 型 组 , 预 防
+组 和 对 照 组 , 每 组 各 15 只 。 〇 模 型 组 ( 帕 金 瘀 病
+组 ) : 胶 腔 注 射 MPTP(30 mg/kg, 盐 水 滨 ) ,! 次 /d, 连
+缈 5 di1;@) 预 防 组 ( 人 参 皂 访 Rgl 组 ) : MPTP 沂 射
+前 3 d 腹 能 注 射 人 参 皂 伦 Rgl ,! 次 /d, 连 续 3d, 随 后
+在 每 片 注 射 MPTP 前 2 ~3 h 注 射 1 次 Rgl , 连 续 5
+d1;@) 对 照 组 : 腹 腔 注 射 与 模 型 组 等 体 积 盐 水 ,
+1 次 /4, 连 续 5 d4。 口 组 动 物 单 笼 饲养 , 正 常 饷 食 。 于
+每 次 沣 射 药 物 后 观 察 小 鼠 行 为 变 化 , 以 判 断 帕 金 森
+病 鼠 模 型 的 建 立 情 况 。
+
+1.2.2 _ 标 本 采 集 _ 动 物 分 别 于 未 次 沐 射 后 24 h 和 7
+以 209 乌 拉 坦 麻 醉 , 经 巫 心 室 生 理 盐 水 灌 洗 后 , 再
+行 4 多 聚 甲 醛 磷 酶 益 缓 冲 液 濂 沂 固 定 , 迅 速 开 颅 取
+脑 ,4% 多 柿 甲 醛 后 固 定 48 h(4 史 ) , 石 蜡 包 堀 、 切
+片 。MPTP 未 次 注 射 后 24 h 所 取 的 标 本 用 于 判 定 是
+. 否 人 参 皂 伦 Rgl 参 与 调 控 Caspase-3 表 达 ; MPTP 最
+后 一 次 注 射 后 7 d 所 取 的 标 本 用 于 判 定 帕 金 森 病 模
+型 是 否 复 制 成 功 [01 。
+
+1.2.3 免 疫 组 化 检 测 “ 脑 组 织 切 片 常 规 脱 蜡 至 水
+后 , 用 TBST(pH 为 7.4 +0.2) 洗 涤 , 每 次 3 min; 组 织
+抗 原 行 水 浴 法 热 修 复 ;3% 过 氯 化 氢 阻 断 内 源 过 氧 化
+物 酶 ,TBST 洗 浦 ; 用 正 常 非 免 疫 动 物 血 清 室 温 孵 育
+10 min; 合 一 组 织 相 邻 切 片 分 别 加 人 小 髻 TH 单 克 隆
+抗 体 (t: 400 ) 、 儿 Caspase-3 抗 体 (1: 100) ,4 化 过
+夜 ;TBST 洗 涤 后 , 加 入 生 物 素 标 记 第 二 抗 体 室 温 孵
+育 20 min;TBST 洗 浦 , 加 人 链 震 素 抗 生 物 索 蛋 白 - 过
+氧 化 醛 室 温 孵 育 20 min,DAB 显 色 , 中 性 树 胶 封 固 ,
+光 镜 下 观 察 照 相 。 用 多 巴 胺 能 神 经 元 特 异 忠 标 志 酶
+酪 氯 酸 羟 化 酶 (TH ) 判 定 模 型 小 鼠 黑 质 区 多 巴 胺 能
+神 经 元 变 化 ; 用 促 凋 亡 基 因 蛋 白 Caspase-3 观 察 人 参
+皇 狮 Rgl 对 模 型 小 限 黑 质 区 多 巴 脓 能 神 经 元 凉 亡 的
+影 响 。 选 定 黑 质 所 在 区 域 , 采 用 CMIAS 医 学 图 像 免
+疫 组 化 自 动 分 析 系 统 进 行 该 区 域 绍 胞 计 数 。
+
+1.2.4 TUNEL 染 色 检 测 凋 亡 细 胞 石 蜡 切 片 入 二
+甲 苯 脱 蜡 , 梯 度 酒 精 水 化 , 蛋 白 酶 K(20 mg/T in
+10mM Trsg/HCl,pH 为 7.4 ~ 8. 0}37 史 下 孵 育 30
+min , 擦 去 多 余 水 分 , 每 张 切 片 加 30 M 新 鲍 配 制 的
+TUNEL 反 应 液 (TDT 酶 和 核 昨 酶 标 记 液 按 1: 9 混
+合 ) 和 碱 忠 磷 酸 酶 抗 仰 , 朋 忠 对 照 只 加 等 量 核 苷 酸 反
+应 液 , 不 含 醛 , 其 余 坚 相 同 ,37 化 孵 育 1 h,DAB 滨 液
+显 色 10 ~ 15 min, 中 性 树 胶 封 片 。 阳 性 者 细 胞 核 着
+
+棕 褐 色 。
+
+1.2.5 “Westem biot 检 测 Caspase-3 蛋 白 表 达 水 平
+
+将 小 鼠 麻 醉 后 取 脑 , 分 离 中 脑 黑 质 加 人 绍 胞 裂 解 液
+低 滦 制 成 匀 浆 液 ,4 口 震 荡 30 min 后 ,1 2000 rmin 4
+气 离 心 15 min, 一 清 液 在 -80 “ 史 保 存 , 用 Bradford 法
+测 定 裂 解 液 中 总 蛋 白 质 的 含 量 ; 蛎 白 定 量 后 加 入 4
+倾 体 积 样 本 缓 冲 液 ,95 化 变 性 5 min。 取 20 hg 样 品
+在 100 g/L 十 二 烷 基 硫 酸 钠 根 历 烯 酯 脓 凝 胶 上 电 泳
+完 , 电 转 至 信 酸 纤 维 索 膜 , 依 分 子 质 量 大 小 切 取 条
+带 , 取 相 应 条 带 分 别 加 入 Caspase-3 多 杭 (1: 400) 和
+TH 单 抗 (t: 1000) ,4 化 过 夜 ,TBST 冲 洗 后 , 分 别 与
+生 物 素 标 记 的 羊 抗 兔 / 小 鼠 IgC 抗 血 清 (1: 200) 室
+温 震 荡 孵 育 2 h,TBST 洗 诲 后 , 与 卵 白 素 - 辣 根 过 氧
+化 物 酶 复 合 物 宝 温 下 孵 育 0.5 h,DAB 显 色 。 将 特 异
+性 蛋 白 条 带 用 扫 描 仪 扫 描 , 在 同 一 条 件 应 用 CMIAS
+真 彩 医 学 图 像 分 析 系 统 测 定 条 帷 平 均 灰 度 值 。
+
+1.3 “ 统 计 学 分 析 选 定 黑 质 所 代 区 域 , 采 用 CMLAS
+真 彩 色 医 学 图 像 免 疫 组 化 自 动 分 析 系 统 进 行 阳 性 组
+胞 计 数 。 各 组 每 只 动 物 的 3 张 脑 片 数 值 相 加 后 取 平
+地 值 , 实 验 结 果 以 x xs 表 示 , 使 用 SPSS 11-0 统 计 软
+件 进 行 统 计 学 处 理 。 采 用 单 出 素 方 差 分 析 。P <0.
+05 为 差 异 有 统 计 学 意 义 。Western blot 数 据 统 计 分
+析 方 法 网 上 。
+
+2 “ 结 果
+
+2.1 帕 金 森 病 模 型 小 鼠 行 为 学 变 化 对 照 组 未 出
+现 任 何 行 为 学 变 化 ; 模 型 组 小 鼠 于 MPTP 首 次 注 射
+20 min 后 , 均 出 现 不 同 程 度 的 震 颤 、 竖 毛 , 弓 背 、 翘
+是 、 活 动 减 少 , 动 作 变 慢 等 症 状 , 四 肢 肌 张 力 增 高 , 协
+调 性 差 , 并 伴 有 烦 躁 、 呼 吱 急 促 等 精 神 症 状 ; 预 防 组
+与 模 班 纬 比 较 上 述 行 为 学 症 状 明 命 减 轻 。
+
+2.2 黑 质 区 多 巴 胺 能 神 经 元 数 量 变 化 观 察 结 果
+
+对 照 组 黑 质 数 密 部 可 见 大 量 TH 阳 性 细 胞 , 胞 浆 着 色
+棕 黄 , 可 见 轴 突 排 列 整 齐 , 呈 条 带 状 ; 与 对 煌 组 相 比 ,
+模 城 组 TH 阳 性 细 胞 的 数 日 减 少 约 35% , 见 表 1; 胞
+浆 着 色 给 浅 。RgI 预 防 组 ,TH 阳 性 神 经 元 的 缺 失 较
+模 型 组 朋 显 为 轻 , 较 对 照 组 减 少 约 31% , 经 图 像 分 析
+模 型 组 与 对 照 组 比 较 差 异 有 统 计 学 意 义 (P <0.05 ) ,
+见 表 1。
+
+2.3 “Caspase-3 免 疫 组 化 染 色 检 测 结 果 “ 对 照 组 黑
+质 致 密 部 偶 见 Caspase-3 免 疫 反 应 阳 性 细 胞 表 达 , 胞
+浆 着 色 浅 淡 。 模 型 组 与 对 照 组 相 比 , Caspase-3 表 达
+增 强 , 镜 下 叮 见 其 黑 质 致 密 部 散 在 分 布 大 量 Caspase-
+3 阳 性 细 胞 , 胞 狠 呈 棕 黄 色 。RglI 预 防 组 Caspase-3
+表 达 给 模 型 组 喜 弱 , 镜 下 可 见 胞 浆 睦 色 浔 。 经 图 像
+分 析 慰 型 组 与 对 照 组 比 较 差 异 有 统 计 学 意 义 (P <
+0.05) , 见 表 1。
+
+2.4 “ 细 胞 温 亡 检 测 结 果 TUNEL 染 色 阳 性 细 胞 胞
+核 呈 棕 褐 色 , 单 个 散 在 分 布 , 体 积 大 , 有 的 星 网 形 、 深
+染 , 有 的 呈 不 规 则 形 , 染 色 不 均 匀 。 模 型 组 三 对 炜 组
+* 900 , 中 国 综 合 临 床 2008 年 9 月 第 24 卷 第 9 期 Clinical Medieine of Chine Septemher 2008, Vol 24 ,No 9
+
+相 比 黑 质 致 密 带 TUNEL 染 色 阳 性 单 显 著 升 高 (P <
+0.05) ;Rgl 预 防 组 TUNEL 染 色 阳 性 率 则 较 模 型 组 明
+显 降 低 。 经 图 像 分 析 模 型 组 与 对 照 组 比 较 差 异 有 统
+计 学 意 义 (P<0.05 ) , 见 表 1。
+表 1 Caspase-3 TH 和 TNUEL 各 组 阳 性 细 胞 数 蛭 分 析 (5 xs)
+组 别 只 数 “Canpase-3 TH TNDUEL
+对 照 组 15 9.45 土 1.13 159.96 x14.60 2.05 士 1.08
+模 型 组 15 “50.86 土 5. 86“ 72.73 13.36“ 20.63 z2.82“
+孩 防 组 15 16.05 士 2.50“ 一 111. 14 土 12.96“《l1.34 士 3.45 “ 一
+与 值 13.889 57.512 55.417
+丁 值 <0.05 <0.05 <0.05
+
+注 : 与 对 照 组 比 较 ,“P <0.05; 与 模 型 组 比 校 ,4P <0.05
+2.5 Caspase-3 蛋 白 印 迹 法 悖 测 结 果 “ 分 别 用 3 组
+小 鼠 新 鲜 脑 组 织 全 绍 胞 裂 解 液 测 定 目 的 蛋 白 表 达 水
+平 , 在 预 标 蛋 白 标 准 约 Marker 32 000 处 , 可 见
+Caspase-3 特 异 性 蛋 白 条 带 。 灰 度 分 析 发 现 , 对 照 组
+仅 有 微 量 Caspase-3 表 达 (6. 03 + 0. 68 ) ; 模 型 组
+Caspase-3 蛋 白 条 带 灰 度 (30. 81 +2.06) 均 为 3 组 中
+最 高 , 与 对 煦 组 比 较 差异 有 统 计 学 意 义 (P <0.05) ;
+RgI 预 防 组 (11.54 : 3.12 ) 与 模 型 组 相 比 , Caspase-3
+的 表 达 量 显 著 下 降 , 差 异 有 统 计 学 意 义 (P<0.05) 。
+3 讨 论
+
+帕 金 森 病 是 一 种 以 静 止 性 震 颤 、 运 动 迟 缓 和 姿
+势 步 态 异 常 等 为 主 要 临 床 表 现 , 以 中 脑 黑 质 致 密 部
+多 巴 胺 能 神 经 元 变 性 丢 失 为 主 奸 神 经 病 理 学 特 征 的
+神 经 系 统 退 取 性 疾 病 。 本 研 究 复 制 的 帕 金 森 病 模 型
+具 有 典 型 的 行 为 学 表 现 : 实 验 结 果 显 示 中 脑 火 质 致
+密 部 TH 免 疫 阳 性 细 胞 明 显 减 少 , 中 脑 黑 质 TH 蛋 出
+表 达 下 降 , 这 提 示 本 实 验 动 物 丨 脑 黑 质 存 在 多 巴 胺
+能 神 经 元 大 里 丢 失 。 上 述 结 果 说 明 , 本 实 验 采 用 的
+动 物 模 型 符 合 实 验 要 求 ““1。
+
+近 儿 年 来 , 对 帕 金 森 病 发 病 机 制 的 研 究 飞 速 发
+展 , 随 着 细 胞 渊 亡 研 究 的 深 人 , 对 帕 金 森 病 患 者 的 实
+验 研 究 发 现 了 黑 质 神 经 元 的 凋 亡 ! , 进 一 步 支 持 细
+胞 猫 止 与 帕 金 森 病 发 病 机 制 的 眩 关 性 。 用 嗜 黑 质 多
+巴 胺 能 神 经 毒 素 MPTP 制 备 的 师 金 瘀 病 鼠 模 型 已 广
+泛 用 于 帕 金 椒 病 发 病 机 制 和 治 疗 方 法 的 研 究 “。 本
+研 究 应 用 TH 免 疫 组 化 染 色 法 及 TUNEL 法 检 测 显 示
+30 mgykg MPTP, 连 续 5 d 可 诱 发 C57BL 小 鼠 黑 质 神
+经 元 凋 亡 。 模 型 组 黑 质 致 密 带 多 巴 胺 能 神 经 元 净
+少 , 调 亡 细 胞 增 多 , 经 人 参 皂 甙 Rgl 预 处 理 后 , 多 巴
+胺 能 神 经 元 脱 失 现 象 减 少 , 凉 止 细 胞 也 明 口 减 少 。
+以 上 的 研 究 结 果 提 示 , 人 参 皂 访 Rgl 在 阳 断 MPTP 诱
+导 的 黑 质 神 经 元 凋 亡 的 过 程 中 发 挥 了 其 抗 细 胞 茹 亡
+作 用 的 。
+
+人 参 皂 甙 Rg1 属 原 人 参 三 醇 类 物 质 , 以 往 的 研
+究 发 瑚 人 参 皂 甙 Rg! 可 以 明 显 保 护 大 鼠 皮 质 神 经 细
+胞 使 DNA 免 于 断 裂 , 具 有 果 渊 亡 作 用 ““1。 本 实 验
+中 ,Caspase-3 免 疫 组 化 结 果 显 示 , Rgl 预 防 组 小 鼠 黑
+
+质 改 密 部 免 疫 反 应 阳 性 多 巴 胺 能 神 经 元 数 目 较 模 型
+
+组 明 显 减 少 , 幸 可 显 著 改 兽 师 金 棍 病 小 鼠 运 动 障 碍 ,
+
+提 示 人 参 皂 甙 Rgl 具 有 保 护 黑 质 多 巴 胶 神 经 元 的 作
+
+用 。TUNEL 染 色 结 果 进 一 步 显 示 , 丢 人 参 皂 仪 Rgl
+
+预 处 理 厉 ,TUNEL 阳 性 细 胞 比 例 较 模 城 组 明 品 下 降 ,
+
+同 时 TH 阳 性 神 经 元 脱 失 现 象 喊 少 , 提 示 人 参 皂 矸
+
+RglI 在 队 断 MPTP 诱 导 的 黑 质 神 经 元 凋 亡 的 过 程 中 ,
+
+可 能 是 通 过 增 加 Caspase-3 表 达 发 挥 其 抗 细 胞 凋 亡
+
+作 用 , 使 黑 质 多 巴 胺 神 经 元 在 很 大 程 度 上 免 于 凋 亡
+
+发 生 。
+
+由 于 怕 金 森 的 发 病 是 多 种 致 病 因 素 , 如 遗 传 因
+素 、 环 境 因 泰 , 年 龄 因 索 等 共 同 作 用 的 结 果 , 其 病 因
+和 发 病 机 制 尚 不 完 全 清 焱 。 目 前 无 一 种 理 想 的 药 物
+和 治 疗 方 法 能 有 效 地 减 缓 . 防 止 甚 至 逆 转 帕 金 棍 患
+者 中 脑 黑 质 神 经 元 的 退 行 变 性 过 程 。 因 此 , 寻 找 一
+种 确 实 有 效 的 抗 帕 金 森 病 的 药 物 其 有 重 要 的 临 床 意
+义 。 人 参 口 仨 Rgl 是 人 参 单 体 成 分 之 一 , 有 多 种 生
+物 活 性 , 但 其 对 神 丢 细 胞 凉 亡 保 护 作 用 的 研 究 较 少 。
+本 研 究 结 果 表 明 ,MPTP 诱 导 黑 质 神 经 元 凉 亡 与 增 加
+促 凋 亡 蛋 白 Caspase-3 表 达 有 关 , 而 人 参 皂 访 Rgl 的
+保 护 作 用 则 是 通 过 逆 转 神 丢 元 中 凋 亡 调 控 蛎 白 的 异
+常 表 达 来 实 现 的 。
+
+参 考 文 献 :
+
+[1] 师 亮 , 张 宇 新 , 张 作 几 , 等 . 环 氧 合 酶 -2 参 与 MPTP 致 帕 金 棍 病
+小 卧 黑 质 绍 胞 的 调 亡 [ 小 . 中 国 临 床 康 复 ,2006, 10(2): 108-
+110.
+
+[2] “Chen S,Zhang 关 ,Yang D,et 岑 , D2/D3 receptor aBonist ropiniroje
+Protects dopaminergic eell Bne against rotenone-induced apoptosis
+也 rough inhibition of caspase- and JNK-dependent pathways [ 小 ] .
+Febs Lett,2008 ,582(5 ) :603610-
+
+[3 ] Lin 西 M , Zhang YM , Maldzio R, et a Ginsenoside zd attenuates
+meuroinflammation 叶 dopaminergie celis i culture [ 日 . 丁 Neural
+Tranamt Suppl,2007 ,(72) :105-112.
+
+【4]】 “Watanabe Y ,Kato H , Araki T,et a Protective action of neuronal nt-
+tric oxide synthase inhibitor in the MPTP mouse madel of Parkinson「
+s disease[ 习 . Metab Brain Dig,2008 ,23(1) :5169.
+
+[5] Chen XC,Zhou YC,Chen Y,et al, Cinsenoside Rgl reduces MPTP-
+induced substantia nigra neuron loss by suppressing oxidaliye stress
+[J] - Acta Phanmacol Sin,2005 ,26(1) :56.62.
+
+[6] “Xia XG,Haring T,Weller M ,et al. Cene transfer of the JNK interac-
+ting protein-1 protects dopaminergic neurons 训 山 e MPTP madel of
+parkineon「s disease[ ] . Proc Natl Acad Sci,2001 ,98( 18 ) :10433-
+10438.
+
+【7] “Smeyne RJ,]Jackson-Lewis V. The MPTP model of parkinson「edis-
+ease[. Brain Res Mol Brain Res,2005 ,134(1) :57.66.
+
+【8] Singh S, Dikshit M Apoptatic neuronal death 训 parkinson「8 dis-
+ease;: involvement of nitric oxide[ 目 - Brain Res Rev,2007 ,54(2) :
+233-250.
+
+[9] Jankowski M. The role of JNK pathway in familial Parkinson「s dis-
+case[ 了 . Postepy Biochem,2007 ,53(3 ) :297-303.
+
+[10] 陈 晓 春 , 周 宛 灿 , 陈 露 , 等 . 人 参 皂 访 Rgl 保 护 多 巴 胰 能 神 经 元
+的 实 验 研 究 [ 日 . 连 学 研 究 通 讯 ,2005 ,34(6) : 28.
+
+[ 收 稿 :2008-05-26]
+( 本 文 编 辑 张 印 朋 )

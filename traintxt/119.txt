@@ -1,0 +1,492 @@
+新中医
+2021年10月第53卷第19期
+JOURNAL OF NEW CHINESE MEDICINE
+October 2021 Vol.53 No.19
+［收稿日期］ 2020-05-28
+［修回日期］ 2021-07-09
+［作者简介］ 朱鸣 （1987-），男，主治医师，E-mail：adg1242020@163.com。
+人参皂苷Rg3辅助治疗结肠癌临床研究
+朱鸣，高山
+杭州市余杭区第一人民医院普外科，浙江 杭州 311100
+［摘要］ 目的：观察人参皂苷 Rg3 辅助治疗结肠癌的临床疗效。方法：选取 89 例Ⅲ期结肠癌患者，按随机数字表法分为观
+察组 45 例和对照组 44 例。对照组给予氟尿嘧啶 （5-Fu） +亚叶酸钙+奥沙利铂治疗，观察组在对照组基础上给予人参皂苷 Rg3
+治疗。比较 2 组短期疗效及治疗前后免疫细胞水平、血管内皮生长因子 （VEGF）、p53 表达及生活质量评分。结果：观察组短期
+总有效率为 82.22%，高于对照组 59.09%，差异有统计学意义（P＜0.05）。治疗前，2 组白细胞介素-2（IL-2）、干扰素-γ（IFN-γ）、
+肿瘤坏死因子-α （TNF-α）、白细胞介素-4 （IL-4）、白细胞介素-6 （IL-6） 及白细胞介素-10 （IL-10） 水平比较，差异无统计学
+意义 （P＞0.05）。治疗后，2 组 IL-2、IFN-γ、TNF-α 水平高于治疗前，且观察组高于对照组 （P＜0.05）；2 组 IL-4、IL-6 及
+IL-10 水平低于治疗前，且观察组低于对照组 （P＜0.05）。治疗前，2 组 VEGF 及 p53 水平比较，差异无统计学意义 （P＞
+0.05）。治疗后，2 组 VEGF 及 p53 水平低于治疗前，且观察组 VEGF 及 p53 水平低于对照组，差异有统计学意义 （P＜0.05）。治
+疗前，2 组生活质量 4 个领域评分比较，差异无统计学意义 （P＞0.05）。治疗后，2 组生活质量 4 个领域评分较治疗前升高，且
+观察组各项评分高于对照组，差异有统计学意义 （P＜0.05）。结论：人参皂苷 Rg3 辅助治疗结肠癌患者的疗效确切，有助于促进
+机体免疫细胞水平的稳定，调节 VEGF、p53 水平，提高患者生活质量。
+［关键词］ 结肠癌；人参皂苷 Rg3；化疗；免疫功能；血管内皮生长因子；p53；生活质量
+［中图分类号］ R735.3
++5
+［文献标志码］ A
+［文章编号］ 0256-7415 （2021） 19-0156-04
+DOI：10.13457/j.cnki.jncm.2021.19.035
+Clinical Study on Ginsenoside Rg3 in Adjuvant Therapy of Colon Cancer
+ZHU Ming，GAO Shan
+Abstract：Objective：To observe the clinical effect of ginsenoside Rg3 in adjuvant therapy of colon cancer. Methods：A
+total of 89 cases of patients with stage III colon cancer were divided into the observation group and the control group
+according to the random number table method，45 and 44 cases in each group. The control group was treated with fluorouracil
+(5-FU)，calcium folinate，and oxaliplatin，and the observation group was additionally treated with ginsenoside Rg3 based on
+the treatment of the control group. Short- term curative effect was compared between the two groups. Before and after
+treatment，the level of immune cells，vascular endothelial growth factor(VEGF)，the expression of p53，and the score of
+quality of life were compared between the two groups. Results： The short- term curative effect was 82.22% in the
+observation group， higher than that of 59.09% in the control group， the difference being significant(P＜0.05). Before
+treatment， when compared levels of interleukin- 2(IL- 2)， interferon- γ(IFN- γ)， tumor necrosis factor- α(TNF- α)，
+interleukin-4(IL-4)，interleukin-6(IL-6)，and interleukin-10(IL-10) between the two groups，there was no significance in
+the difference(P＞0.05). After treatment， levels of IL- 2， IFN- γ， and TNF- α in the two groups were higher than those
+before treatment，and the three levels above in the observation group were higher than those in the control group(P＜0.05)；
+levels of IL-4，IL-6，and IL-10 in the two groups were lower than those before treatment，and the three levels in the
+observation group were lower than those in the control group(P＜0.05). Before treatment，there was no significant difference
+being found in the comparison of levels of VEGF and p53 between the two groups(P＞0.05). After treatment，levels of VEGF
+and p53 in the two groups were lower than those before treatment，and the two levels in the observation group were lower
+than those in the control group，the difference being significant(P＜0.05). Before treatment，when compared scores of four
+domains of quality of life between the two groups， there was no significance being found in the difference(P＞0.05).
+· 156 ·
+新中医
+2021年10月第53卷第19期
+JOURNAL OF NEW CHINESE MEDICINE
+October 2021 Vol.53 No.19
+早期结肠癌几乎无明显症状，多数患者就诊时
+已处于中晚期，甚至部分患者出现淋巴结转移和远
+处转移，因此应根据患者机体情况，选择有效的辅
+助治疗
+[1]。奥沙利铂是临床常用的化疗药物，但该药
+物在体内杀灭癌细胞的同时，会对机体组织以及免
+疫细胞产生一定损伤，从而降低患者自身免疫力，
+影响治疗效果
+[2-3]。临床发现，人参皂苷 Rg3 可提高
+非小细胞肺癌等肿瘤患者的免疫功能
+[4]。鉴于此，本
+研究选取 89 例Ⅲ期结肠癌患者作为研究对象，探讨
+人参皂苷 Rg3 辅助治疗对结肠癌患者免疫细胞水平
+的影响，现报道如下。
+1
+临床资料
+1.1
+纳 入 标 准
+① 符 合 《中 国 结 直 肠 癌 诊 疗 规
+范（2017 年版）》
+[5]中诊断标准：肛门直肠指诊探查到
+肿块，经实验室检查[粪便隐血试验阳性，癌胚抗
+原（CEA）、糖类抗原 19-9（CA19-9）水平升高]、影像
+学检查（CT/MRI 检查提示直肠或结肠存在疑似肿块
+并排除肠梗阻）、直肠镜/结肠镜检查和活检病理确
+诊。②TNM 分期Ⅲ期：肿瘤穿透固有肌层未穿透腹
+膜脏层到达结直肠旁组织。③患者或其家属对本研
+究知情，并签署知情同意书。
+1.2
+排除标准
+①接受过奥沙利铂等化疗药物治
+疗者；②预计生存时间≤6 个月；③存在化疗禁忌证
+或化疗后出现出血等不良反应者；④合并其他恶性
+肿瘤者；⑤合并心、肝、肾等重要脏器功能障碍者。
+1.3
+一般资料
+选取 2017 年 9 月—2019 年 11 月杭
+州市余杭区第一人民医院收治的 89 例Ⅲ期结肠癌患
+者，按随机数字表法分为观察组 45 例和对照组
+44 例。观察组男 17 例，女 28 例；年龄 45～73 岁，
+平 均（61.90 ± 7.57）岁 ； 病 程 11 个 月 ～4 年 ， 平
+均（2.13±1.04）年；TNM 临床分期：ⅢA 期 27 例，
+ⅢB 期 18 例；分化程度：低分化 14 例，中分化
+21 例，高分化 10 例；病理组织类型：腺癌 31 例，
+印戒细胞癌 14 例。对照组男 18 例，女 26 例；年
+龄 44～78 岁，平均（62.85±7.04）岁；病程 9 个月～
+5 年，平均（2.37±1.02）年；TNM 临床分期：ⅢA 期
+27 例，ⅢB 期 17 例；分化程度：低分化 14 例，
+中 分 化 20 例，高分化 10 例；病理组织类型：腺
+癌 29 例，印戒细胞癌 15 例。2 组一般资料比较，
+差异无统计学意义（P＞0.05），具有可比性。本研
+究通过杭州市余杭区第一人民医院医学伦理委员会
+批准。
+2
+治疗方法
+2.1
+对照组
+给予氟尿嘧啶（5-Fu）+亚叶酸钙+奥沙
+利铂化疗治疗。第 1 天给予 150 mg 注射用奥沙利
+铂（Sanofi-Aventis France，国药准字 J20150117）治
+疗，于 2 h 内静脉滴注完。第 1～2 天，给予 200 mg
+亚 叶 酸 钙（HOSPIRA UK LIMITED， 注 册 证 号
+H20160242）治疗，于 2 h 内静脉滴注完；600 mg 氟
+尿嘧啶注射液（悦康药业集团股份有限公司，国药准
+字 H11020237）静脉注射后，48 h 持续泵入 3 000 mg
+5-Fu。2 周为 1 个疗程，治疗 6 个疗程。
+2.2
+观察组
+在对照组基础上口服人参皂苷 Rg3（吉
+林亚泰制药股份有限公司，国药准字 Z20030043），
+每次 20 mg，每天 2 次，连续服用 21 d，停药 7 d。
+2 周为 1 个疗程，治疗 6 个疗程。
+3
+观察指标与统计学方法
+3.1
+观 察 指 标
+① 细 胞 因 子 、 血 管 内 皮 生 长 因
+子（VEGF）以及 p53 水平：分别取 2 组患者治疗前
+后 的 清 晨 空 腹 静 脉 血 3 mL，离心分离血清待用。
+采用德国罗氏公司生产的 Cobas e411 全自动免疫分析
+仪，采用酶联免疫吸附法检测白细胞介素-2（IL-2）、
+白细胞介素-4（IL-4）、白细胞介素-6（IL-6）、白细胞
+介素-10（IL-10）、干扰素-γ（IFN-γ）、肿瘤坏死因
+子-α（TNF-α）水平。采用沈阳万泰医疗设备有限责
+任公司提供的 OTA-400 全自动生化分析仪，采用酶
+After treatment， scores of four domains of quality of life in the two groups were increased when compared with those
+before treatment，and each score in the observation group was higher than that in the control group，the difference being
+significant(P＜0.05). Conclusion：Ginsenoside Rg3 has a defined curative effect in adjuvant therapy of colon cancer，which
+can promote the stability of levels of immune cells，regulate levels of VEGF and p53，and improve the quality of life.
+Keywords： Colon cancer； Ginsenoside Rg3； Chemotherapy； Immune function； Vascular endothelial growth factor；
+p53；Quality of life
+· 157 ·
+新中医
+2021年10月第53卷第19期
+JOURNAL OF NEW CHINESE MEDICINE
+October 2021 Vol.53 No.19
+联免疫法检测血清中 VEGF 水平。采用逆转录实时
+荧光定量 PCR 检测血清 p53 表达水平，上游引物：
+5'- CATGTG- CAACAGCTCCTGCATGG- 3'， 下 游 引
+物：5'-CTCAGCCCCACTTTCTTGATCTA-3'，引物由
+上海生工生物有限公司合成。②生活质量：采用癌
+症患者生活质量测定量表体系之大肠癌量表（QLICP-
+CR）评价患者的生活质量，该量表共包括 4 个领域：
+躯体功能、心理功能、社会功能、共性症状与副作
+用（不良反应），共 32 个条目，采用 5 级评分，1 分：
+一点也不；2 分：有一点；3 分：有些；4 分：相
+当；5 分：非常。满分 160 分，分数越高表明其生活
+质量越高。
+3.2
+统计学方法
+采用 SPSS18.0 统计学软件分析数
+据。计量资料以（x ± s）表示，采用 t 检验；计数资料
+以百分率（%）表示，采用 χ
+2检验。P＜0.05 表示差异
+有统计学意义。
+4
+疗效标准与治疗结果
+4.1
+疗效标准
+短期疗效：采用世界卫生组织实体
+瘤客观疗效评价标准
+[6]对治疗后的疗效进行评定。完
+全缓解（CR）：病变部位消失并维持时间＞4 周；部
+分缓解（PR）：肿瘤负荷缩小范围≥50%，且维持时
+间＞4 周；好转（MR）：25%≤肿瘤负荷缩小范围＜
+50%，并未出现新病灶；稳定（SD）：肿瘤负荷缩小
+范围＜25%，或增大范围＜25%，并未出现新病灶；
+进展（PD）：肿瘤负荷增大范围≥25%，或有新病灶出
+现。总有效率=（CR+PR）例数/总例数×100%。
+4.2
+2 组短期疗效比较
+见表 1。观察组短期总有效
+率为 82.22%，高于对照组 59.09%，差异有统计学意
+义（P＜0.05）。
+表 1
+2 组短期疗效比较
+例（%）
+组
+别
+观察组
+对照组
+例数
+45
+44
+CR
+20（44.44）
+15（34.09）
+PR
+17（37.78）
+11（25.00）
+MR
+4（8.89）
+9（20.45）
+SD
+3（6.67）
+7（15.90）
+PD
+1（2.22）
+2（4.55）
+总有效
+37（82.22）
+①
+26（59.09）
+注：①与对照组比较，P＜0.05
+4.3
+2 组治疗前后免疫细胞因子水平比较
+见表 2。
+治疗前，2 组 IL-2、IFN-γ、TNF-α、IL-4、IL-6 及
+IL-10 水平比较，差异无统计学意义（P＞0.05）。治
+疗后，2 组 IL-2、IFN-γ、TNF-α 水平高于治疗前，
+且观察组高于对照组（P＜0.05）；2 组 IL-4、IL-6 及
+IL-10 水平低于治疗前，且观察组低于对照组（P＜
+0.05）。
+表 2
+2 组治疗前后免疫细胞因子水平比较（x ± s）
+pg/mL
+组
+别
+观察组
+对照组
+时
+间
+治疗前
+治疗后
+治疗前
+治疗后
+例数
+45
+45
+44
+44
+IL-2
+2.01±0.52
+2.45±0.21
+①②
+2.02±0.64
+2.24±0.34
+①
+IFN-γ
+16.85±5.27
+19.85±1.67
+①②
+15.41±6.47
+17.82±2.14
+①
+TNF-α
+3.26±1.47
+3.94±1.62
+①②
+3.34±1.84
+3.51±1.02
+①
+IL-4
+3.12±0.74
+1.89±0.65
+①②
+3.08±0.74
+2.12±0.75
+①
+IL-6
+2.61±0.11
+2.12±0.34
+①②
+2.71±0.19
+2.46±0.61
+①
+IL-10
+4.69±0.42
+3.84±0.62
+①②
+4.62±0.74
+4.12±0.74
+①
+注：①与本组治疗前比较，P＜0.05；②与对照组治疗后比较，P＜0.05
+4.4
+2 组治疗前后 VEGF 及 p53 水平比较
+见表
+3。治疗前，2 组 VEGF 及 p53 水平比较，差异无统
+计学意义（P＞0.05）。治疗后，2 组 VEGF 及 p53 水
+平低于治疗前，且观察组 VEGF 及 p53 水平低于对
+照组，差异有统计学意义（P＜0.05）。
+表 3
+2 组治疗前后 VEGF 及 p53 水平比较（x ± s）
+组
+别
+观察组
+对照组
+时
+间
+治疗前
+治疗后
+治疗前
+治疗后
+例数
+45
+45
+44
+44
+VEGF（pg/mL）
+342.52±126.85
+189.54±78.85
+①②
+349.85±128.41
+225.84±96.51
+①
+p53
+1.04±0.23
+0.34±0.18
+①②
+0.97±0.21
+0.48±0.12
+①
+注：①与本组治疗前比较，P＜0.05；②与对照组治疗后比
+较，P＜0.05
+4.5
+2 组治疗前后生活质量评分比较
+见表 4。治疗
+前，2 组生活质量 4 个领域评分比较，差异无统计学
+意义（P＞0.05）。治疗后，2 组生活质量 4 个领域评
+分较治疗前升高，且观察组各项评分高于对照组，
+差异有统计学意义（P＜0.05）。
+表 4
+2 组治疗前后生活质量评分比较（x ± s）
+分
+组
+别
+观察组
+对照组
+时
+间
+治疗前
+治疗后
+治疗前
+治疗后
+例数
+45
+45
+44
+44
+躯体功能
+22.82±2.74
+31.05±1.74
+①②
+23.74±3.14
+28.84±2.71
+①
+心理功能
+41.58±5.24
+55.85±3.14
+①②
+40.28±5.07
+50.84±4.74
+①
+社会功能
+15.74±3.52
+24.38±3.75
+①②
+14.74±2.84
+20.54±2.74
+①
+共性症状与副作
+用（不良反应）
+23.68±2.17
+32.58±2.58
+①②
+24.07±2.14
+26.95±3.24
+①
+注：①与本组治疗前比较，P＜0.05；②与对照组治疗后比
+较，P＜0.05
+· 158 ·
+新中医
+2021年10月第53卷第19期
+JOURNAL OF NEW CHINESE MEDICINE
+October 2021 Vol.53 No.19
+5
+讨论
+化疗是结肠癌重要的治疗方式，对改善患者病
+情及延续患者生存时间有重要意义。但化疗药物均
+有一定毒性作用，因此在化疗后，可能会对患者的
+免疫功能产生一定影响，从而降低化疗治疗效果，
+降低患者的生活质量
+[7]。本研究结果显示，观察组短
+期有效率高于对照组，表明人参皂苷 Rg3 辅助治疗
+结肠癌，疗效确切。推测这可能是因为人参皂苷 Rg3
+是人参的主要活性成分，可直接作用于细胞生殖周
+期，具有提高机体能量代谢、促进蛋白质合成和促
+进核酸合成、清除共轭产物及活化衰变细胞的作
+用
+[8-9]。研究发现，人参皂苷 Rg3 可以下调促血管生
+成基因 mRNA 水平，通过下调某些血管生成相关基
+因，起到抑制肿瘤新生血管生成的作用
+[10]。
+机体的细胞免疫功能和 Th1 细胞群有一定关
+系，但分泌细胞因子、识别并杀伤肿瘤细胞是 Th2
+细胞群发挥作用。当机体的免疫功能处于正常状态
+时，机体的 Th1/Th2 处于动态平衡。临床研究表明，
+癌症患者体内的 Th2 细胞群占比较多，导致 Th1/Th2
+失衡，从而影响免疫功能
+[11]。肿瘤的发展及转移和机
+体新生血管有关，VEGF 主要作用于血管内皮细胞，
+对血管内皮细胞的增殖及分裂有促进作用。当肿瘤
+患者体内的 VEGF 水平升高，表明肿瘤患者机体内
+将生成大量的功能及结构异常的新生肿瘤血管，新
+生血管可帮助肿瘤细胞进行物质交换，对肿瘤的发
+展及转移均有促进作用。因此，控制肿瘤患者新生
+血管生成，对抑制肿瘤细胞发展和转移有重要意
+义。p53 可监控细胞增殖过程中 DNA 的变化，p53
+发生突变后，机体则会出现大量的异常 DNA 细胞，
+累积至一定量后，可提高肿瘤细胞侵袭机体的风
+险，因此临床认为 p53 升高是肿瘤细胞的常见征
+象
+[12]。本研究结果显示，治疗后，观察组 Th1 类细胞
+因子（IL-2、IFN-γ、TNF-α）水平高于对照组，Th2
+类细胞因子（IL-4、IL-6、IL-10）水平低于对照组，
+VEGF、p53 水平低于对照组，生活质量各指标评分
+均高于对照组，表明人参皂苷 Rg3 有助于保障结肠
+癌患者机体免疫细胞水平的稳定，降低 VEGF、p53
+水平，提高患者生活质量。这可能是由于人参皂苷
+Rg3 可用于 G2 期，对肿瘤细胞的有丝分裂前期蛋白
+质及 ATP 的合成有一定抑制作用，可选择性抑制机
+体肿瘤细胞浸润及转移，降低肿瘤新生血管生成速
+度
+[13]。此外，人参皂苷 Rg3 可提高机体吞噬功能，可
+升高肿瘤患者血液中免疫蛋白的含量，从而提高 T
+细胞亚群体细胞水平，改善人体免疫功能，增强机
+体抗肿瘤功能
+[14]。
+综上所述，人参皂苷 Rg3 辅助治疗结肠癌患者
+的疗效确切，有助于促进机体免疫细胞水平的稳
+定，降低 VEGF、p53 水平，提高患者生活质量。
+［参考文献］
+[1]
+随振阳，张琪，曹文斌，等．二甲双胍联合奥沙利铂对人结肠癌
+细胞HCT-8迁移及侵袭的影响[J]．中国临床研究，2019，32（8）：
+1019-1024．
+[2]
+张桂贤，赵秀梅，刘晓芸，等．扶正解毒祛瘀方联合奥沙利铂对
+人结直肠癌裸鼠移植瘤的影响[J]．中国中西医结合外科杂志，
+2019，25（4）：584-589．
+[3]
+毛英，刘黎，张匠，等．辅助化疗 XELOX 方案与 FOLFOX 方案
+在Ⅱ～Ⅲ期结肠癌中的应用比较[J]．实用医院临床杂志，2018，
+15（6）：48-52．
+[4]
+张南生，张秀华，李文峰．人参皂苷Rg3的研究进展[J]．医药导
+报，2006，25（7）：687-689．
+[5]
+中华人民共和国卫生和计划生育委员会医政医管局，中华医学会
+肿瘤学分会．中国结直肠癌诊疗规范（2017 年版）[J]．中华外科
+杂志，2018，56（4）：241-258．
+[6]
+EISENHAUER E A， VERWEIJ J， EISENHAUER E A， et al ．
+11 New response evaluation criteria in solid tumors： RECIST
+GUIDELINE VERSION 1.1[J]．Ejc Suppl，2009，7（2）：5．
+[7]
+金哲浩，于婷，宋晓伟，等．人参皂苷Rh2抗肿瘤机制及药物递
+送研究进展[J]．国际药学研究杂志，2018，45（6）：416-420．
+[8]
+买二辉，李四桥，雷霆，等．人参皂苷Rg3联合顺铂对肝癌小鼠
+体内肿瘤的作用[J]．临床与病理杂志，2017，37（11）：2317-
+2322．
+[9]
+简捷，刘利珍，黄缘，等．人参皂苷 Rg3 对人结肠癌细胞株
+SW480 增殖的影响及其作用机制[J]．山东医药，2016，56（3）：
+8-10．
+[10] TANG Y C，ZHANG Y，ZHOU J，et al．Ginsenoside Rg3 targets
+cancer stem cells and tumor angiogenesis to inhibit colorectal cancer
+progression in vivo[J]．Int J Oncol，2018，52（1）：128-138．
+[11] 马俊杰，徐彬，刘会平．人参多糖注射液联合DC干预肺、肠癌
+Th1/Th2研究[J]．中国实验方剂学杂志，2014，20（8）：203-206．
+[12] 秦菊芳，沈长兵．奥沙利铂联合方案化疗对TNM Ⅲ期结肠癌患
+者免疫功能及 VEGF、p53 表达的影响[J]．结直肠肛门外科，
+2017，23（3）：356-360．
+[13] 李荣江，高峰，林木平，等．人参皂苷 Rg3 对 LoVo 细胞迁移和
+侵袭影响[J]．广东药科大学学报，2017，33（4）：509-512，535．
+[14] 王启龙，张春泽，张伟华．人参皂苷减轻结肠癌化疗副反应机制
+的研究进展[J]．中医药信息，2019，36（5）：128-130．
+（责任编辑：郑锋玲）
+· 159 ·

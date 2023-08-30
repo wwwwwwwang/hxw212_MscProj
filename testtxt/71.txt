@@ -1,0 +1,682 @@
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1177·
+人参次苷 H 滴丸对慢性温和不可预见性应激大鼠的抗抑郁作用 
+杨晓琨 1，马晓伟 2，申  琳 3，裴  帅 2，聂朝宏 4*，肖学凤 2* 
+1. 天津中医药大学第一附属医院 急症部，天津  300193 
+2. 天津中医药大学 中药学院，天津  300193 
+3. 天津中医药大学第二附属医院 药学部，天津  300150 
+4. 天士力制药集团股份有限公司，天津  300402 
+摘  要：目的  探讨人参次苷 H 滴丸对慢性温和不可预见性应激结合孤养方法建立抑郁模型大鼠的抗抑郁作用及其作用机
+制。方法  96 只大鼠随机分为对照组、模型组、氟西汀组和人参次苷 H 滴丸 28、56、112 mg/kg 组，每组 16 只。除对照组
+外各组分别孤养并接受 5 周慢性温和不可预见性应激刺激造模。同时氟西汀（10 mg/kg）组、人参次苷 H 滴丸 28、56、112 
+mg/kg 组 ig 给药，对照组、模型组 ig 相应体积（10 mL/kg）纯水。对大鼠体质量变化、糖水消耗比、敞箱实验行为学评分
+进行比较，对血浆皮质酮（CORT）、皮层、海马区神经营养因子（BDNF）、5-羟色胺（5-HT）、多巴胺（DA）、去甲肾上腺
+素（NE）水平变化进行检测。尼氏染色后观察海马 CA1、CA3 区神经元数目和形态。结果  与模型组比较，人参次苷 H 滴
+丸 56、112 mg/kg 组体质量显著升高（P＜0.05），人参次苷 H 滴丸 28、56、112 mg/kg 组糖水消耗比显著升高（P＜0.01）；
+敞箱实验中人参次苷 H 滴丸 56 mg/kg 组大鼠水平运动得分显著提高（P＜0.05），56、112 mg/kg 组垂直运动得分显著
+提高（P＜0.05、0.01）；人参次苷 H 滴丸 28、56、112 mg/kg 组大鼠血浆 CORT 水平均有所降低，但差异并无统计学意义；
+人参次苷 H 滴丸 56 mg/kg 组皮层、海马 BDNF 水平显著升高（P＜0.05），人参次苷 H 滴丸 56、112 mg/kg 组大鼠皮层、海
+马 5-HT 水平显著升高（P＜0.05、0.01）；人参次苷 H 滴丸 28、56 mg/kg 组大鼠皮层、海马 DA 水平显著升高（P＜0.05、
+0.01）；人参次苷 H 滴丸 28、56、112 mg/kg 组大鼠皮层、海马 NE 水平升高十分显著（P＜0.01）。人参次苷 H 滴丸 28、56、
+112 mg/kg 组海马 CA1、CA3 区锥体细胞形态较为规则，排列较为松散，锥体细胞数量相对增多。结论  人参次苷 H 滴丸具
+有抗抑郁作用，其作用机制可能是通过改善抑郁大鼠肾上腺轴功能亢进症状，提高模型大鼠皮层与海马 5-HT、DA、NE 水
+平，上调 BDNF 表达，以及抑制海马 CA1、CA3 区神经元锥体细胞的凋亡。 
+关键词：人参次苷 H 滴丸；慢性温和不可预见性应激；抗抑郁；神经营养因子；单胺类神经递质；尼氏染色 
+中图分类号：R285.5      文献标志码：A      文章编号：1674 - 5515(2017)07 - 1177 - 07 
+DOI: 10.7501/j.issn.1674-5515.2017.07.003 
+Antidepressant effect of Secondary Ginsenoside H Driping Pills on chronic 
+unpredictable mild stress rats 
+YANG Xiao-kun1, MA Xiao-wei2, SHEN Lin3, PEI Shuai2, NIE Zhao-hong4, XIAO Xue-feng2 
+1. Emergency Department, Fist Teaching Hospital of Tianjin University of TCM, Tianjin 300193, China 
+2. School of Chinese Materia Medica, Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China 
+3. Department of Pharmacy, Second Affiliated Hospital of Tianjin University of TCM, Tianjin 300150, China 
+4. Tianjin Tasly Pharmaceutical CO., LTD., Tianjin 300402, China 
+Abstract: Objective  To investigate the antidepressant effect of Secondary Ginsenoside H Driping Pills on chronic unpredictable 
+mild stress rats, and explore its mechanisms. Methods  SD rats (96) were divided into control group, model group, fluoxetine group, 
+and Secondary Ginsenoside H Driping Pills (28, 56, and 112 mg/kg) groups, and each group had 16 rats. Rats in each group were 
+given social isolation and chronic unpredictable mild stress (CUMS) for 5 weeks to establish models except the control group. At the 
+same time, rats in the fluoxetine (10 mg/kg) group and Secondary Ginsenoside H Driping Pills (28, 56, and 112 mg/kg) groups were 
+ig administered with drugs, while rats in the control group and model group were ig corresponding volume (10 mL/kg) pure water.  
+                                         
+收稿日期：2017-05-16 
+作者简介：杨晓琨（1972—），女，副主任医师，医学博士，从事中西医结合急救医学研究。Tel: (022) 27432674  E-mail: zhangahj@126.com 
+*通信作者  肖学凤，教授，硕士生导师。Tel:13820066504  E-mail: kai1219@163.com 
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1178· 
+The body weights, sucrose consumption ratio, and open field test scores were compared. The plasma corticosterone (CORT), brain 
+derived neurotrophic factor (BDNF), serotonin (5-HT), dobaamine (DA), norepinephrine (NE) levels in the hippocampus and frontal 
+cortex were detected. After Nissl staining, the number and morphology of neurons in CA1 and CA3 regions of hippocampus were 
+observed. Results  Compared with the model group, body weights in Secondary Ginsenoside H Driping Pills (56 and 112 mg/kg) 
+groups were significantly increased (P < 0.05), and sucrose consumption ratios in Secondary Ginsenoside H Driping Pills (28, 56, and 
+112 mg/kg) groups were significantly decreased (P < 0.01). Horizontal movement scores in Secondary Ginsenoside H Driping Pills 
+(56 mg/kg) group improved significantly (P < 0.05), and vertical motion scores in Secondary Ginsenoside H Driping Pills (56 and 112 
+mg/kg) groups also improved significantly (P < 0.05, 0.01). The plasma levels of CORT in Secondary Ginsenoside H Driping Pills 
+(28, 56, and 112 mg/kg) groups were decreased, but the difference was not statistically significant. Cortex and hippocampus BDNF 
+levels in Secondary Ginsenoside H Driping Pills (56 mg/kg) group were increased significantly (P < 0.05); cortex and hippocampus 
+5-HT levels in Secondary Ginsenoside H Driping Pills (56 and 112 mg/kg) groups were increased significantly (P < 0.05, 0.01); 
+cortex and hippocampus DA levels in Secondary Ginsenoside H Driping Pills (28 and 56 mg/kg) groups were significantly increased 
+(P < 0.05, 0.01); and cortex and hippocampus NE levels in Secondary Ginsenoside H Driping Pills (28, 56, and 112 mg/kg) groups 
+were increased significantly (P < 0.01). The pyramidal cells in CA1 and CA3 regions of the hippocampus in Secondary Ginsenoside 
+H Driping Pills (28, 56, and 112 mg/kg) groups were more regular, loosely arranged, and the number of pyramidal cells increased 
+relatively. Conclusion  Secondary Ginsenoside H Driping Pills have antidepressant effect, and the mechanism may be related to 
+improve the symptoms of adrenal axis hyperfunction, improve cerebral cortex and hippocampus 5-HT, DA, and NE levels, 
+up-regulate the expression of BDNF, and inhibit apoptosis of pyramidal neurons in CA1 and CA3 regions of hippocampus. 
+Key words: Secondary Ginsenoside H Driping Pills; chronic unpredictable mild stress; antidepressant effect; brain derived neurotrophic 
+factor; monoamine neurotransmitter; Nissl stainin 
+ 
+抑郁症是一种高发病率、高复发率、高死亡率
+的情感类精神障碍疾病，其发生发展与基因、体质、
+社会环境等多种因素有关，且存在发病向低龄化发
+展的趋势[1]。抑郁症发病机制复杂，目前存在单胺
+类神经递质及其受体假说、下丘脑–垂体–肾上腺
+轴功能亢进假说、神经可塑性假说等多种机制假说。
+现代研究表明，低强度、连续的应激刺激可激活人
+体下丘脑–垂体–肾上腺轴，引起肾上腺轴功能持
+续亢进，使血浆糖皮质激素水平升高，破坏大脑皮
+层和海马神经元可塑性，使神经营养因子水平下降，
+损伤大脑的神经记忆、学习功能，导致抑郁症的发
+生[2-4]。研究发现人参及多种人参皂苷均有抗抑郁作
+用[5-10]。人参次苷 H 滴丸以人参皂苷 Rh1、Rh2 为主
+要有效成分，具有培元固本、补益气血的功效，是
+有效的抗癌辅助用药[11]。以往的临床观察发现，部
+分癌症患者存在抑郁情绪的状况，因此本实验拟研
+究人参次苷 H 滴丸的抗抑郁作用，增加人参次苷 H
+滴丸的临床适应症。本实验采用慢性温和不可预见
+性应激结合孤养法建立大鼠抑郁模型，对大鼠体质
+量变化、行为学进行比较，以血浆皮质酮、大脑皮
+层及海马神经营养因子、单胺类神经递质为指标，
+结合尼氏染色观察海马 CA1、CA3 区神经元增殖与
+凋亡情况，探讨人参次苷 H 滴丸的抗抑郁作用及其
+机制。 
+1  实验材料 
+1.1  实验动物 
+SPF 级雄性 SD 大鼠 110 只，购于中国食品药
+品检定研究院，许可证号 SCXK（京）2014-0013，
+体质量 180～220 g，饲养于天津中医药大学实验动
+物中心。饲养条件（22±2）℃，湿度（50±10）%，
+自然光照，自由摄食和饮水。饲养和操作规程均遵
+守天津中医药大学实验动物的饲养和使用的相关
+规定。 
+1.2  试剂与药品 
+盐酸氟西汀胶囊（礼来苏州制药有限公司，规
+格 20 mg/粒，批号 5545A）；人参次苷 H 滴丸（天
+津天士力制药集团股份有限公司，规格 30 mg/丸，
+总皂苷量约 3.12 mg，总皂苷中人参皂苷 Rh1、Rh2
+的量为 50%，批号 160309）；神经营养因子（BDNF）
+ELISA 试剂盒（美国 R&D Systems，批号 342444）；
+血浆皮质酮（CORT）ELISA 试剂盒（美国 R&D 
+Systems，批号 P100603）；5-羟色胺（5-HT）酶联
+免疫试剂盒（上海联硕生物科技有限公司，批号
+201701）；多巴胺（DA）酶联免疫试剂盒（上海联
+硕生物科技有限公司，批号 201701）；去甲肾上腺
+素（NE）酶联免疫试剂盒（上海联硕生物科技有限
+公司，批号 201701）；生理盐水（山东华鲁制药有
+限公司，批号 B16033010）；RIPA 裂解液（北京康
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1179·
+为世纪生物科技有限公司，批号 01408/30109）。 
+1.3  设备与仪器 
+敞箱（自制，100 cm×100 cm×50 cm），G6805-1
+治疗仪（中国青岛鑫升实业有限公司），LTD0114
+子弹头警灯（浙江安华安全设备有限公司），
+TD21001 电子天平（天津市天马仪器厂），3K 15 型
+冷冻高速离心机（美国 Sigma 公司），IKA T18 型超
+声组织破碎仪（宁波新芝生物科技有限公司），Leica 
+RM2245 型石蜡切片机（德国 Leica 公司），Infinite 
+M200 Pro 型多功能酶标仪（瑞士 Tecan 公司），低
+温冰箱（美国 Thermo 科技公司），Leica DM4000B
+光学显微镜（德国 Leica 公司）。 
+2  方法 
+2.1  动物分组及给药 
+110 只 SD 大鼠适应性饲养 7 d，筛选经敞箱实
+验后水平和垂直运动得分相近的 96 只大鼠，随机分
+为对照组、模型组、氟西汀组和人参次苷 H 滴丸 28、
+56、112 mg/kg 组，每组 16 只。对照组每笼 4 只常
+规饲养，自由进食饮水。其他各组分别孤养并接受
+5 周慢性温和不可预见性应激刺激造模。同时氟西
+汀（10 mg/kg）组和人参次苷 H 滴丸 28、56、112 
+mg/kg 组 ig 给药，对照组、模型组 ig 相应体积（10 
+mL/kg）纯水。各组均于每天上午同一时间 ig 给药。
+氟西汀、人参次苷 H 滴丸药液于每天实验前由 0.5% 
+CMC-Na 新鲜配制。 
+根据体质量和人的临床剂量计算，人参次苷 H
+滴丸 28、56、112 mg/kg 分别为临床等效剂量的 2、
+4、8 倍。氟西汀根据体质量和人的临床剂量计算，
+临床等效剂量为 1.8 mg/kg，经查阅文献采用实验研
+究中应用较多的给药剂量，即 10 mg/kg。 
+2.2  慢性温和不可预见性应激抑郁模型的建立 
+参考文献报道方法造模[12-14]并加以改进。对照
+组大鼠每笼 4 只常规饲养，自由饮水摄食。其余各
+组每只单笼饲养，每天随机接受以下 2 种不同应激
+刺激，且相同刺激不可连续出现，使大鼠不能预料
+刺激的发生，避免其产生适应性。应激刺激包括束
+缚 2 h、冰水高台 2 h、噪音刺激（110 dB，30 min）、
+足底电击（电流 4 mA，50 次，每次间隔 5 s）、光
+照刺激（100 000 lx，30 min）、夹尾（距离大鼠尾
+尖 1 cm 左右，2 min）。以模型组体质量增长、糖水
+消耗比、敞箱实验得分显著性下降为模型建立成功
+的标志，表明大鼠存在与抑郁症患者类似的体质量
+减轻、快感缺失、自主运动能力下降的症状[15]。 
+2.3  体质量变化 
+于实验第 0、7、14、21、28、35 天分别称定每
+组大鼠质量，记录并分析各组大鼠体质量增长情况。 
+2.4  糖水消耗实验 
+参考文献报道方法并加以改进[16]。于第 0、35
+天对各组大鼠进行糖水消耗实验。正式实验前 3 d
+进行糖水适应，各组大鼠分别采用单笼饲养，同时
+给予两瓶 1%蔗糖溶液 24 h，然后 1%蔗糖溶液 1 瓶、
+纯水 1 瓶，适应 24 h。第 3 天禁食禁水 24 h。正式
+实验中分别同时给予各组大鼠 1%蔗糖溶液 1 瓶、
+纯水 1 瓶，实验前后分别对溶液称定质量，观察各
+组大鼠 24 h 内饮用的蔗糖溶液量（糖水消耗量）、
+纯水消耗量，计算糖水消耗比。 
+糖水消耗比＝糖水消耗量/（糖水消耗量＋纯水消耗量） 
+2.5  敞箱实验 
+参考文献报道并加以改进[16]。于实验第 0、35
+天采用敞箱实验作行为学评分。实验所用敞箱大小
+为 100 cm×100 cm×50 cm，底面划分成 100（10 
+cm×10 cm）个方格，内侧面均涂黑。将每只大鼠
+依次放在中心方格内，排除人为干扰，记录大鼠 3 
+min 内活动。以动物穿越底面块数为水平运动得分，
+动物穿越 1 格（3 爪以上跨入）为 1 分，如动物沿
+线行走，以每 10 厘米为 1 分。以直立次数为垂直运
+动得分，动物双足离开底面为标志，无论动物站立
+多长时间直至放下双足为 1 分。彻底清理敞箱后再
+进行下一只大鼠的测试。 
+2.6  血浆 CORT 水平的测定 
+行为学测试结束后，每只大鼠眼眶取血约 1.5 
+mL，置于肝素浸润的离心管中，4 ℃下 8 000 r/min
+离心 10 min，取上清液置于−20 ℃低温冰箱中保存
+备测，测定过程严格按照试剂盒说明书进行操作。 
+2.7  皮层及海马 BDNF、5-HT、DA、NE 水平的
+测定 
+眼眶取血结束后，将各组大鼠脱颈处死，取全
+脑，在冰面上迅速分离皮层和海马，称定质量后置
+于冻存管中，液氮中迅速冷冻，然后转移至−80 ℃
+低温冰箱中保存备测，分别按照大鼠 BDNF、5-HT、
+DA、NE 试剂盒说明书检测皮层及海马内 BDNF、
+5-HT、DA、NE 水平。 
+2.8  尼氏染色 
+每组随机选取 6 只大鼠，麻醉取血后，剖开胸
+腔，暴露心脏，从左心室穿刺至主动脉根部，固定，
+剪开右心耳用生理盐水、4%多聚甲醛进行灌注，至
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1180· 
+灌注液澄清，大鼠四肢和尾巴僵硬变白。取全脑置
+于 4%多聚甲醛中固定 48 h，脱水、透明、浸蜡、
+包埋制作为石蜡组织块。在石蜡切片机上做冠状连
+续切片，片厚 5 μm，用于尼氏染色。光学显微镜（400
+倍镜下）观察海马 CA1、CA3 区神经元数目和形态。 
+2.9  统计学方法 
+采用 SPSS 17.0 进行统计学分析，数据以⎯x ± s
+表示，多组间比较采用单因素方差分析（One-way 
+ANOVA）。 
+3  结果 
+3.1  各组大鼠体质量变化 
+实验前，各组大鼠体质量差异无显著性。实验
+后，与对照组比较，模型组体质量明显下降（P＜
+0.01），说明造模方法对大鼠的体质量增长具有极显
+著的抑制作用，影响了大鼠的正常生长，表现出与
+抑郁症患者类似的体质量减轻症状。与模型组比较，
+人参次苷 H 滴丸 56、112 mg/kg 组大鼠体质量显著
+升高（P＜0.05），人参次苷 H 滴丸 28 mg/kg 组大鼠
+体质量也明显增加；与氟西汀组比较，人参次苷 H
+滴丸 112 mg/kg 组差异无显著性。该结果说明人参
+次苷H滴丸可一定程度抵抗慢性温和不可预见性应
+激结合孤养模型大鼠体质量增长降低的现象，且呈
+现剂量相关性。见图 1。 
+ 
+与对照组比较：**P < 0.01；与模型组比较：#P < 0.05 
+**P < 0.01 vs control group; #P < 0.05 vs model group 
+图 1  大鼠体质量变化 
+Fig. 1  Body weight changes of rats 
+3.2  糖水消耗比 
+造模前，各组大鼠糖水消耗比差异无显著性；
+造模 35 d 后，与对照组比较，模型组大鼠糖水消耗
+比显著下降，差异具有显著性（P＜0.01），提示造
+模方法可显著降低大鼠的糖水消耗比，反映其快感
+缺失的抑郁表现；与模型组比较，人参次苷 H 滴丸
+28、56、112 mg/kg 组和氟西汀组糖水消耗比显著
+升高（P＜0.01）。与氟西汀组比较，人参次苷 H 滴
+丸 28、56、112 mg/kg 组糖水消耗比差异无显著性，
+说明人参次苷H滴丸可有效上调抑郁大鼠的糖水消
+耗比，对抗抑郁大鼠快感的消失，其作用与氟西汀
+相似。见表 1。 
+表 1  大鼠糖水消耗比结果（⎯x ± s，n = 10） 
+Table1  Sucrose preference of rats (⎯x ± s，n = 10 ) 
+糖水消耗比/% 
+组别 
+剂 量/ 
+(mg·kg−1)
+0 d 
+35 d 
+对照 
+— 
+86.00±5.66 
+90.00±5.66 
+模型 
+— 
+90.53±4.59 
+ 42.50±11.67**
+氟西汀 
+10 
+ 85.89±13.33 
+ 82.21±23.48##
+人参次苷
+28 
+89.49±8.02 
+ 84.07±20.17##
+H 滴丸 
+56 
+ 82.09±25.86 
+ 80.31±23.22##
+ 
+112 
+86.54±7.61 
+ 73.15±30.60##
+与对照组比较：**P＜0.01；与模型组比较：##P < 0.01 
+** P< 0.01 vs control group; ##P < 0.01 vs model group 
+3.3  敞箱实验 
+与对照组比较，模型组大鼠水平运动得分显著
+降低（P＜0.01）；与模型组比较，人参次苷 H 滴丸
+56 mg/kg 组和氟西汀组大鼠水平运动得分显著提高
+（P＜0.05），且人参次苷 H 滴丸 56 mg/kg 组和氟西
+汀组大鼠水平运动得分相比，两者之间差异无显著
+性。各组大鼠敞箱实验水平运动得分结果见表 2。 
+表 2  大鼠敞箱实验水平运动得分（⎯x ± s，n = 10） 
+Table 2  Crossing numbers of rats in open-field test (⎯x ± s, 
+n = 10 ) 
+水平运动得分/分 
+组别 
+剂 量/ 
+(mg·kg−1)
+0 d 
+35 d 
+对照 
+— 
+145.33±51.85 
+115.17±26.32 
+模型 
+— 
+144.30±34.28 
+47.70±19.82**
+氟西汀 
+10 
+144.10±55.80 
+85.20±24.02# 
+人参次苷
+28 
+149.60±33.84 
+45.00±21.02 
+H 滴丸 
+56 
+151.50±39.12 
+112.00±47.94# 
+ 
+112 
+149.89±37.70 
+94.11±40.10 
+与对照组比较：**P＜0.01；与模型组比较：#P < 0.05 
+** P< 0.01 vs control group; #P < 0.05 vs model group 
+与对照组比较，模型组大鼠垂直运动得分显著
+降低（P＜0.01）；与模型组比较，人参次苷 H 滴丸
+56、112 mg/kg 和氟西汀组垂直运动得分显著提高
+（P＜0.05、0.01），且三者之间差异无统计学意义。
+各组大鼠敞箱实验垂直运动得分结果见表 3。 
+  
+ 
+500 
+ 
+ 
+400 
+ 
+ 
+300 
+ 
+ 
+200 
+0      7     14     21     28     35
+t /d 
+对照 
+模型 
+人参次苷 H 滴丸 28 mg·kg−1 
+人参次苷 H 滴丸 56 mg·kg−1 
+人参次苷 H 滴丸 112 mg·kg−1
+氟西汀 
+ 
+体质量/g 
+**
+#
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1181·
+表 3  大鼠敞箱实验垂直运动得分（⎯x ± s，n = 10） 
+Table 3  Rearing numbers of rats in open-field test (⎯x ± s，
+n = 10 ) 
+垂直运动得分/分 
+组别 
+剂 量/ 
+(mg·kg−1) 
+0 d 
+35 d 
+对照 
+— 
+ 9.33±5.57 
+9.83±3.06 
+模型 
+— 
+11.10±4.48 
+   2.00±1.25** 
+氟西汀 
+10 
+10.20±5.16 
+   6.50±1.96## 
+人参次苷 
+28 
+10.50±2.64 
+   2.60±2.37 
+H 滴丸 
+56 
+12.10±4.01 
+   6.40±3.34# 
+ 
+112 
+10.00±5.38 
+   5.44±5.20##＊
+与对照组比较：**P＜0.01；与模型组比较：#P < 0.05 
+** P< 0.01 vs control group; #P < 0.05 vs model group 
+行为学检测结果综合显示，慢性温和不可预见
+性应激结合孤养可有效引起大鼠快感缺失，导致其
+自主运动能力下降，表明抑郁模型的成功建立，说
+明人参次苷H滴丸可有效对抗抑郁模型大鼠的行为
+学变化，其中 56 mg/kg 人参次苷 H 滴丸改善抑郁
+模型大鼠行为学作用与氟西汀相似。 
+3.4  各组大鼠血浆 CORT 水平比较 
+与对照组比较，模型组大鼠血浆 CORT 水平上
+升（P＜0.05）；与模型组比较，人参次苷 H 滴丸 28、
+56、112 mg/kg 和氟西汀组大鼠血浆 CORT 水平均
+有所降低，但差异并无统计学意义。提示抑郁大鼠
+血浆 CORT 水平有所上升，人参次苷 H 滴丸和氟西
+汀可下调大鼠血浆 CORT 水平，改善抑郁大鼠肾上
+腺轴功能亢进症状，但差异并无显著性。见表 4。 
+表 4  大鼠血浆 CORT 水平比较（⎯x ± s，n = 10） 
+Table 4  Corticosterone plasma level of rats (⎯x ± s，n = 10 ) 
+组别 
+剂量/(mg·kg−1) 
+CORT/(ng·mL−1) 
+对照 
+— 
+    64.57±31.71 
+模型 
+— 
+121.12±44.05* 
+氟西汀 
+10 
+    97.78±41.66 
+人参次苷 H 滴丸 
+28 
+    97.78±41.66 
+ 
+56 
+    78.96±27.30 
+ 
+112 
+    81.31±29.01 
+与对照组比较：*P＜0.05 
+*P< 0.05 vs control group 
+3.5  各组大鼠皮层与海马 BDNF 水平比较 
+造模 5 周后，与对照组比较，模型组皮层、海
+马 BDNF 水平显著下降（P＜0.01）；与模型组比较，
+人参次苷 H 滴丸 56 mg/kg 和氟西汀组皮层、海马
+BDNF 水平显著升高（P＜0.05），且人参次苷 H 滴
+丸 56 mg/kg 和氟西汀两组间皮层、海马 BDNF 水平
+差异无统计学意义。说明人参次苷 H 滴丸可通过上
+调皮层与海马 BDNF 水平，提高抑郁模型大鼠皮层、
+海马神经元可塑性，促进神经元的修复与再生，作
+用效果与氟西汀相似。见表 5。 
+表 5  大鼠皮层、海马 BDNF 水平比较（⎯x ± s，n = 10） 
+Table 5  BDNF levels in hippocampus and cortex of rats 
+(⎯x ± s，n = 10 ) 
+组别 
+剂量/(mg·kg−1) 
+BDNF /(pg·mg−1) 
+对照 
+— 
+292.97±40.27 
+模型 
+— 
+ 100.42±47.70** 
+氟西汀 
+10 
+193.78±54.86# 
+人参次苷 H 滴丸
+28 
+136.49±24.71 
+ 
+56 
+ 161.35±17.97# 
+ 
+112 
+138.77±70.74 
+与对照组比较：**P＜0.01；与模型组比较：#P < 0.05 
+** P< 0.01 vs control group; #P < 0.05 vs model group 
+3.6  各组大鼠皮层与海马 5-HT、DA、NE 水平比较 
+造模 5 周后，与对照组比较，模型组皮层、海
+马 5-HT、DA、NE 水平均显著降低（P＜0.05、0.01）；
+与模型组比较，人参次苷 H 滴丸 56、112 mg/kg 组
+和氟西汀组大鼠皮层、海马 5-HT 水平显著升高
+（P＜0.05、0.01）；人参次苷 H 滴丸 28、56 mg/kg
+组和氟西汀组大鼠皮层、海马 DA 水平显著升高
+（P＜0.05、0.01）；人参次苷 H 滴丸 28、56、112 mg/kg
+组和氟西汀组大鼠皮层、海马 NE 水平升高十分显
+著（P＜0.01），其中人参次苷 H 滴丸 56 mg/kg 组对
+5-HT、NE 水平的影响与氟西汀相似，差异无显著
+性。说明人参次苷 H 滴丸可提高抑郁大鼠皮层、海
+马单胺类水平，抗抑郁作用与氟西汀相似。见表 6。 
+3.7  尼氏染色结果比较 
+对照组海马 CA1、CA3 区神经元锥体细胞排列
+整齐紧密，形态规则完整，核仁明显，无明显神经
+元变性坏死；模型组神经元锥体细胞数量显著减少，
+锥体细胞形态不规则，排列松散紊乱，细胞间隙增 
+大，出现明显病理改变；与模型组比较，人参次苷
+H 滴丸 28、56、112 mg/kg 组海马 CA1、CA3 区锥
+体细胞形态较为规则，排列较为松散，锥体细胞数
+量相对增多，情况较模型组好转，其中人参次苷 H
+滴丸 56 mg/kg 组海马 CA1、CA3 区锥体细胞状态
+优于人参次苷 H 滴丸 28、56 mg/kg 组。氟西汀组
+海马 CA1、CA3 区锥体细胞形态规则，排列较整齐
+紧密，神经元锥体细胞状态接近对照组。见图 2、3。 
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1182· 
+表 6  大鼠皮层与海马 5-HT、DA、NE 水平比较（⎯x ± s，n = 10） 
+Table 6  Levels of 5-HT, DA, and NE in hippocampus and cortex of rats (⎯x ± s, n = 10 ) 
+组别 
+剂量/(mg·kg−1) 
+5-HT/(ng·mg−1) 
+DA/(ng·mg−1) 
+NE/(ng·mg−1) 
+对照 
+— 
+1.398 0±0.007 3 
+0.308 8±0.011 0 
+0.630 2±0.012 2 
+模型 
+— 
+1.280 6±0.078 6* 
+0.294 5±0.008 4* 
+0.595 0±0.016 4** 
+氟西汀 
+10 
+1.549 3±0.153 3## 
+0.327 0±0.010 3## 
+0.702 1±0.034 5## 
+人参次苷 H 滴丸 
+28 
+1.346 7±0.043 3 
+0.306 1±0.014 1# 
+0.655 8±0.009 7## 
+ 
+56 
+1.410 1±0.076 0# 
+0.314 3±0.013 2## 
+0.673 7±0.016 3## 
+ 
+112 
+1.415 3±0.064 8# 
+0.305 3±0.011 2 
+0.650 7±0.026 3## 
+与对照组比较：*P＜0.05  **P＜0.01；与模型组比较：#P < 0.05  ##P < 0.01 
+*P< 0.05  ** P< 0.01 vs control group; #P < 0.05  ##P < 0.01 vs model group 
+ 
+图 2  各组海马 CA1 区尼氏染色结果 
+Fig. 2  Nissl staining of CA1 of hippocampus 
+ 
+图 3  各组海马 CA3 区尼氏染色结果 
+Fig. 3  Nissl staining of CA3 of hippocampus 
+4  讨论 
+抑郁症是一种高自杀率的精神障碍类疾病，已
+影响世界约 21%的人口[17]，并且发病率仍呈上升趋
+势[1]。海马糖皮质激素含量丰富，肾上腺轴功能亢
+进使海马糖皮质激素含量持续升高而产生细胞毒作
+用，破坏海马区神经元可塑性，同时血浆中 CORT
+高于正常水平[18]。BDNF 是脑中一种重要的神经营
+养因子，对神经元的生长、增殖、再生及神经突触
+的可塑性具有不可或缺的作用，抑郁症可使脑中
+BDNF 水平下降，同时单胺类神经递质水平的下降
+也会影响神经营养因子 BDNF 的表达[19]。 
+慢性温和不可预见性应激结合孤养方法造模可
+使模型大鼠体质量增长降低、糖水消耗比下降、敞
+箱实验水平运动得分和垂直运动得分减少，成功模
+拟了抑郁症患者快感缺失、自主活动减弱、好奇、
+探索能力下降等特征症状，说明模型建立成功。 
+实验结果显示，造模 5 周后，模型组大鼠体质
+量增长、糖水消耗比、敞箱实验中水平运动得分和
+垂直运动得分均显著下降；经人参次苷 H 滴丸治疗
+后，28、56、112 mg/kg 组体质量、糖水消耗比显
+著升高，说明人参次苷 H 滴丸可有效对抗模型大鼠
+体质量下降和快感缺失的抑郁表现；同时与模型组
+比较，敞箱实验中人参次苷 H 滴丸 56 mg/kg 组水
+平运动得分显著升高，人参次苷 H 滴丸 56、112 
+mg/kg 组垂直运动得分显著提高，说明人参次苷 H
+滴丸对提高抑郁模型大鼠自主活动能力效果显著。
+进一步实验结果显示，模型组大鼠血浆 CORT 水平
+升高，皮层、海马 BDNF、5-HT、DA、NE 水平均
+显著降低；经人参次苷 H 滴丸治疗后，大鼠血浆
+CORT 水平下降，皮层、海马 BDNF、5-HT、DA、
+NE 水平均显著升高，说明人参次苷 H 滴丸可显著
+上调抑郁模型大鼠皮层与海马 BDNF 表达，提高神
+ 
+ 
+ 
+ 
+ 
+对照                模型           氟西汀10 mg·kg−1      人参次苷H滴丸28 mg·kg−1 人参次苷H滴丸56 mg·kg−1 人参次苷H滴丸112 mg·kg−1
+ 
+ 
+ 
+ 
+ 
+对照                模型           氟西汀 10 mg·kg−1       人参次苷H 滴丸28 mg·kg−1 人参次苷H 滴丸56 mg·kg−1 人参次苷H 滴丸112 mg·kg−1
+现代药物与临床    Drugs & Clinic    第 32 卷  第 7 期    2017 年 7 月 
+   
+·1183·
+经元可塑性，下调血浆 CORT 水平，改善抑郁大鼠
+肾上腺轴功能亢进症状，显著提高单胺类水平，发
+挥抗抑郁作用；结合尼氏染色结果，说明人参次苷
+H 滴丸可一定程度对抗抑郁模型大鼠肾上腺轴功能
+亢进，降低血浆 CORT 水平，有效逆转抑郁症模型
+大鼠皮层、海马 BDNF、5-HT、DA、NE 水平降低，
+抑制神经元的凋亡，促进神经元的修复与再生，提
+高神经元可塑性，起到神经保护的作用。 
+参考文献 
+[1] 
+Hidaka B H. Depression as a disease of modernity: 
+explanations for increasing prevalence [J]. J Affect 
+Discord, 2012, 140(3): 205-214. 
+[2] 
+Maghsoudi N, Ghasemi R, Ghaempanah Z, et al. Effect 
+of chronic restraint stress on HPA axis activity and 
+expression of BDNF and Trkb in the hippocampus of 
+pregnant rats: possible contribution in depression during 
+pregnancy and postpartum period [J]. Basic Clin Neurosci, 
+2014, 5(2): 131-137. 
+[3] 
+Brouwer J P, Appelhof B C, van Rossum E F, et al. 
+Prediction of treatment response by HPA-axis and 
+glucocorticoid receptor polymorphisms in major depression 
+[J]. Psychoneuroendocrinology, 2006, 31(10): 1154-1163. 
+[4] 
+Vreeburg S A, Hoogendijk W J, DeRijk R H, et al. 
+Salivary cortisol levels and the 2-year course of depressive 
+and anxiety disorders [J]. Psychoneuroendocrinology, 2013, 
+38(9): 1494-1502. 
+[5] 
+Yamada N, Araki H, Yoshimura H. Identification of 
+antidepressant-like ingredients in ginseng root (Panax 
+ginseng C.A. Meyer) using a menopausal depressive-like 
+state in female mice: participation of 5-HT2A receptors 
+[J]. Psychopharmacology (Berl), 2011, 216(4): 589- 
+599. 
+[6] 
+Xu C, Teng J, Chen W, et al. 20(S)-protopanaxadiol, an 
+active ginseng metabolite, exhibits strong antidepressant- 
+like effects in animal tests [J]. Prog Neuropsychopharmacol 
+Biol Psychiatry, 2010, 34(8): 1402-1411. 
+[7] 
+Zhang H, Li Z, Zhou Z, et al. Antidepressant-like effects 
+of ginsenosides: A comparison of ginsenoside Rb3 and its 
+four deglycosylated derivatives, Rg3, Rh2, compound K, 
+and 20(S)-protopanaxadiol in mice models of despair [J]. 
+Pharmacol Biochem Behav, 2016, 140: 17-26. 
+[8] 
+Lee B, Shim I, Lee H, et al. Effect of ginsenoside Re on 
+depression- and anxiety-like behaviors and cognition 
+memory deficit induced by repeated immobilization in 
+rats [J]. J Microbiol. Biotechnol, 2012, 22(5), 708-720. 
+[9] 
+Lee B, Sur B, Cho S G, et al. Ginsenoside Rb1 rescues 
+anxiety-like responses in a rat model of post-traumatic 
+stress disorder [J]. J Nat Med, 2016, 70(2): 133-144. 
+[10] Cui J, Jiang L, and Xiang H. Ginsenoside Rb3 exerts 
+antidepressant-like effects in several animal models [J]. J 
+Psychopharmacol, 2012, 26(5): 697-713. 
+[11] 周宏宇, 王  玉, 宋兆辉, 等. UPLC 测定人参次苷 H
+滴丸中人参皂苷 Rh1 和 Rh2 含量 [J]. 中国新药杂志, 
+2014, 23(13): 1497-1500. 
+[12] Li D Q, Li X J, Duan J F, et al Wuling Capsule promotes 
+hippocampal neurogenesis by improving expression of 
+connexin 43 in rats exposed to chronic unpredictable mild 
+stress [J]. J Chin Integr Med, 2010, 8(7): 662-669. 
+[13] Larsen M H, Mikkelsen J D, Hay-Schmidt A, et al. 
+Regulation of brain-derived neurotrophic factor (BDNF) 
+in the chronic unpredictable stress rat model and the 
+effects of chronic antidepressant treatment [J]. J Psychiatr 
+Res, 2010, 44(13): 808-816. 
+[14] Cieślik K, Sowa-Kućma M, Ossowska G, et al. Chronic 
+unpredictable stress-induced reduction in the hippocampal 
+brain-derived neurotrophic factor (BDNF) gene expression is 
+antagonized by zinc treatment [J]. Pharmacol Rep, 2011, 
+63(2): 537-543. 
+[15] 丁  宁, 李  瑞, 田环环. 针刺与艾灸对 CUMS 抑郁
+大鼠行为学的影响及其差异比较 [J]. 中医药导报, 
+2016, 22(11): 49-51. 
+[16] 臧雨馨, 孙冰婷, 赵文珠, 等. LC-MS/MS 法同时测定
+CUMS 大鼠血浆中 3 种单胺类神经递质 [J]. 中国药理
+学通报, 2015, 31(2): 273-278. 
+[17] Stepanichev M, Dygalo NN, Grigoryan G, et al. Rodent 
+models of depression: neurotrophic and neuroinflammatory 
+biomarkers [J]. Biomed Res Int, 2014, 932757. 
+[18] Xu Y, Zhang C, Wang R, et al. Corticosterone induced 
+morphological changes of hippocampal and  amygdaloid 
+cell lines are dependent on 5-HT7 receptor related signal 
+pathway [J]. Neuroscience, 2011, 182: 71-81. 
+[19] Wang Q S, Tian J S, Cui Y L, et al. Genpin is active via 
+modulating monoaminergic transmission and levels of 
+brain-derived neurotrophic factor (BDNF) in rat model of 
+depression [J]. Neuroscience, 2014, 275: 365-373. 
+ 

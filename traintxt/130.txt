@@ -1,0 +1,435 @@
+中国当代医药 2023 年 4 月第 30 卷第 11 期
+CHINA MODERN MEDICINE Vol. 30 No. 11 April 2023
+•综
+述•
+人参是一种我国传统的名贵中草药，具有大补元
+气、补脾益肺、安神益智等功效，常被用于治疗体虚欲
+脱，肢冷脉微，脾虚食少，肺虚喘咳，津伤口渴，内热消
+渴，久病虚羸，惊悸失眠，阳痿宫冷等症状[1-2]。通过组
+分分析，发现人参皂苷是人参的主要成分，并且含有
+多种亚型如 Rb1、Rb2、Rb3、Rc、Rd、Rg3、Rg5 和 Rh2
+等[3]。近年来，国内外对人参皂苷的药理作用及其分子
+机制进行了大量的研究，稀有人参皂苷的药用潜力逐
+渐被发掘，尤其对癌症具有良好的抑制作用。
+人参皂苷 Rg5 是从人参中提取出来的一种白色
+结晶粉末，分子式为 C42H70O12，分子量约为 766.998，
+可溶于甲醇、乙醇、二甲基亚砜等有机溶剂。人参皂苷
+Rg5 是一种很好的化学预防药物，常用于预防和治疗
+各种疾病，如糖尿病、癌症、免疫力过低以及记忆阻碍
+和过敏性疾病等[4]。近年来的研究发现，人参皂苷 Rg5
+对肿瘤细胞的增殖、转移能够产生一定程度的抑制效
+果，并且能诱导肿瘤细胞发生凋亡，展现出优良的抗
+癌药物潜力。因此，为了促进人参皂苷 Rg5 在癌症方
+面的研究，本综述结合国内外相关文献，总结了人参
+皂苷 Rg5 的抗癌研究进展，旨在为其在抗癌领域的进
+一步开发利用提供参考。
+1 人参皂苷 Rg5 与消化系统癌症
+1.1 Rg5 与食管癌
+食管癌是常见的消化道癌症，全球每年约有
+604 000 例新发病例，发病率为 3.1%，2020 年全球约
+有 544 000 人因食管癌而死亡，死亡率为 5.5%，高于
+其他类型癌症[1]。食管癌分为两种类型，一种是食管鳞
+状细胞癌，占所有食管癌的 90%，另外一种是食管腺
+人参皂苷 Rg5 的抗癌作用研究进展
+徐小雪 1
+张文文 2
+杨
+潮 1
+1.江西中医药大学科技学院，江西南昌 330000；2.江西中医药大学中西医结合癌症研究中心，江西南昌 330000
+[摘要]癌症是一类严重危害生命的疾病，其发病率和死亡率呈逐年上升趋势。化疗是目前癌症治疗中最常用的治
+疗方法，但化疗药物产生的不良疗效、严重副作用和耐药性降低了治疗效果。越来越多的研究发现，来源于参类
+的一种三萜皂苷即人参皂苷 Rg5 在预防和治疗癌症方面发挥着重要作用，甚至与主要的人参皂苷相比，具有更
+好的药物活性。近年来，人参皂苷 Rg5 被发现对肝癌、宫颈癌、乳腺癌、食管癌和胃癌等癌症有良好的抑制效果。
+因此，在这篇综述中，回顾并讨论了以往的一些文献研究，就人参皂苷 Rg5 对多种癌症的作用和生物学机制进行
+了总结和归纳，以期促进人参皂苷 Rg5 在癌症化学预防和治疗中的深入研究和应用。
+[关键词]人参皂苷 Rg5；抗癌作用；生物学机制；化学预防；化疗
+[中图分类号] R285.5
+[文献标识码] A
+[文章编号] 1674-4721(2023)4(b)-0029-05
+Research progress on the anticancer effect of ginsenoside Rg5
+XU Xiaoxue1
+ZHANG Wenwen2
+YANG Chao1
+1. College of Science and Technology, Jiangxi University of Chinese Medicine, Jiangxi Province, Nanchang 330000, China;
+2. Integrated Chinese & Western Medicine Oncology Research Center, Jiangxi University of Chinese Medicine, Jiangxi
+Province, Nanchang 330000, China
+[Abstract] Cancer is a serious and life-threatening disease, its incidence and mortality rates are increasing year after year.
+Chemotherapy is currently the most commonly prescribed treatment for cancer, but the adverse effects, severe side effects
+and resistance to chemotherapy drugs have reduced the effectiveness of treatment. A growing number of studies have found
+that ginsenoside Rg5, a triterpenoid saponin derived from the ginseng family, plays an important role in the prevention and
+treatment of cancer, and even has better pharmaceutical activity compared to the major ginsenosides. In recent years, gin-
+senoside Rg5 has been found to have good inhibitory effects against cancers such as liver, cervical, breast, oesophageal and
+gastric cancers. Therefore, in this review, some previous literature studies were reviewed and discussed, and the effects and
+biological mechanisms of ginsenoside Rg5 on various cancers were summarized, in order to promote the in-depth research
+and application of ginsenoside Rg5 in cancer chemoprevention and treatment.
+[Key words] Ginsenoside Rg5; Anticancer effect; Biological mechanism; Chemical prevention; Chemotherapy
+[基金项目]江西中医药大学校级大学生创新创业训练计划
+项目（202210412585）。
+[通讯作者]杨潮（1984-），男，汉族，安徽巢湖人，博士，副教
+授；研究方向：癌症病因学。
+29
+•综
+述•
+中国当代医药 2023 年 4 月第 30 卷第 11 期
+CHINA MODERN MEDICINE Vol. 30 No. 11 April 2023
+癌，占 10%[5]。化学治疗作为临床上常用的一种癌症治
+疗方式，被应用于食管癌患者中，长期使用化疗药物
+易产生多种不良反应和耐药性。开发副作用少且耐药
+性低的中药化疗药物越来越受追捧，其中人参皂苷
+Rg5 抗癌生物活性被发现，并应用于食管癌细胞的基
+础研究中。
+梅志宏等[6]通过利用不同浓度的人参皂苷 Rg5 在
+体外对人食管癌 Eca109 细胞作用不同时间，采用
+CCK-8 法检测细胞抑制率，结果显示人参皂苷 Rg5
+能够有效抑制人食管癌细胞增殖。药物处理后的样本
+经 Annexin V-FITC/PI 双荧光染色和 PI 单染后，用上
+流式细胞仪考察了细胞的凋亡率和细胞周期变化，发
+现用人参皂苷 Rg5 处理的 Eca109 细胞发生明显的凋
+亡，且细胞周期被阻滞在 S 期和 G2 期。张道明等[7]研
+究发现人参皂苷 Rg5 能够通过调控 Bcl-2 家族蛋白
+中抑制凋亡蛋白 Bcl-2 的下调，诱导食管癌细胞发生
+凋亡。Zhang 等[8]通过分子生物学实验发现人参皂苷
+Rg5 能 够 促 进 肿 瘤 凋 亡 的 作 用 可 能 是 与 下 调
+PI3K/Akt 信号通路有关。
+1.2 Rg5 与胃癌
+胃癌是仅次于肺癌的第二大癌症，在亚洲、非洲、
+南美洲和东欧拥有很高的发病率。胃癌的发生发展不
+仅与人们的饮食习惯密切相关，还与幽门螺杆菌的感
+染引起的肠化生有关[9]。开展胃癌的化学预防药物研
+究，将有助于减轻胃癌患者的痛苦，提升胃癌的治愈
+率。因而，人参皂苷 Rg5 被广泛应用于胃癌的基础研
+究中。
+李为等[10]用人参皂苷 Rg5 处理胃癌细胞BGC-823，
+在处理后 24 h 和 48 h 采用 CCK-8 法检测，结果发现
+BGC-823 的增殖明显受到抑制。分别用高浓度和低
+浓度的人参皂苷 Rg5 处理 BGC-823 细胞，流式细胞
+实验发现两组细胞都有明显的凋亡现象出现，同时蛋
+白免疫印迹实验结果显示线粒体途径相关的细胞凋
+亡因子 Bcl-2 蛋白的表达降低，Bax 蛋白的表达升高。
+卓少华等[11]通过 MTT 实验和 Annexin V-FITC/PI 双染
+法发现 Rg5 能够抑制人胃癌 SNU-1 细胞增殖，诱导
+细胞凋亡，进一步研究发现人参皂苷 Rg5 能通过抑制
+IncRNA-PCAT12 的表达，实现对 SNU-1 细胞增殖与
+迁移的抑制，从而发挥抑癌作用。李为等[12]采用不同
+浓度的人参皂苷 Rg5（12.5、25 和 50 μmol/L ）处理
+BGC-823 细胞后，通过 transwell 实验评估 BGC-823
+细胞侵袭、迁移能力的影响，发现人参皂苷 Rg5 可能
+通过降低 miR-125b 的表达，上调 miR-125b 靶基因
+STARD13、NEU1 的表达，抑制胃癌 BGC-823 细胞的
+侵袭、迁移。赵翔宇等[13]发现 Rg5 抗胃癌细胞的活性
+强于Rg3，且20 μmol/LRg5能够下调CyclinA1/CDK2/PC
+NA 的表达和上调 P21CIPI 蛋白的表达，诱导MKN-45
+细胞被阻滞在 S 期。人参皂苷 Rg5 还可以抑制Notch1
+蛋白的表达从而调控其下游的周期及侵袭相关蛋白
+MMP2 和 MMP9 的表达，实现对 MKN-45 细胞迁移的
+抑制。Liu 等[14]首次验证了人参皂苷 Rg5 可以通过诱
+导 G2/M 期阻滞、凋亡和自噬等机制有效抑制胃癌细
+胞的生长，并通过动物活体实验发现 Rg5 能够通过激
+活胃癌细胞的内源性和外源性途径诱导 caspase 依赖
+性凋亡从而抑制动物移植瘤的生长。
+1.3 Rg5 与肝癌
+肝癌是一种常见的消化系统癌症，有乙型肝炎
+病、丙型肝炎和肝硬化等疾病的患者有较高的肝癌发
+生风险。由于肝脏是人体血液循环和淋巴循环系统中
+关键器官，肝癌发生复发和转移的概率较高。手术治
+疗是肝癌的首选治疗方式，但大多数患者一经诊断为
+肝癌就是中晚期，丧失了手术机会。索拉非尼和乐伐
+替尼等是近年肝癌治疗的主要化疗药物，但患者的耐
+药性和药物副作用限制了抗癌疗效[15]。
+郭慧等[16]采用体外 MTT 法检测不同浓度人参皂
+苷 Rg5 对 HepG2 细胞在不同时间点的细胞存活率发
+现，人参皂苷 Rg5 能抑制 HepG2 细胞的增殖，且这种
+抑制作用呈时间 - 剂量性依赖；同时还证实人参皂苷
+Rg5 能够下调肝癌细胞株 HepG2 中 AKT 信号通路相
+关蛋白的表达水平，如 p-AKT、cyclin D1、MMP-9 和
+Bcl-2 蛋白等，不仅诱导 HepG2 细胞周期阻滞于
+G0/G1 期，还抑制 HepG2 细胞的侵袭、迁移并促进细
+胞凋亡，发挥抵抗肝癌的作用。Chen 等[17]通过网络药
+理学预测人参皂苷 Rg5 可能作用于肝癌细胞的相关
+靶点基因，并通过实验验证，人参皂苷 Rg5 能够通过
+诱导 caspase-9 介导的细胞凋亡来抑制 MHCC-97H
+细胞的存活和增殖。同时，通过线粒体膜电位去极化
+试验发现人参皂苷 Rg5 诱导 MHCC-97H 细胞凋亡是
+通过 Bax/Bak 的易位和细胞色素 C/Smac 的释放介导
+的。监测抗凋亡蛋白的表达水平发现它们都有不同程
+度的下降，且 Bcl-2、Bcl-xL、c-IAP2 在人参皂苷 Rg5
+处理后下调较为明显，从而进一步揭示了 Rg5 诱导细
+胞凋亡的机制。Song 等[18]首次直接证明了人参皂苷
+Rg5 能够通过抑制 TAK1 活性来抑制 p65 磷酸化从
+而达到抑制其下游核因子 κB（nuclear factor-kappa B，
+NF-κB）信号通路的目的，以及通过溶酶体系统促进
+EphA2 的降解来抑制 EphA2 的表达从而抑制癌细胞
+迁移，但人参皂苷 Rg5 在溶酶体系统中的作用分子机
+制还不明确。
+30
+中国当代医药 2023 年 4 月第 30 卷第 11 期
+CHINA MODERN MEDICINE Vol. 30 No. 11 April 2023
+•综
+述•
+2 人参皂苷 Rg5 与妇科癌症
+2.1 Rg5 与宫颈癌
+宫颈癌是一种可以事先预防的癌症，可通过注射
+人乳头状瘤病毒疫苗实现。然而，在缺乏有组织的筛
+查和预防计划的发展中国家，宫颈癌发病率和死亡率
+还是比较高的。作为一种全球性妇科肿瘤，其发病率
+和死亡率在女性肿瘤中均位居第四[19]。Song 等[18]通过
+碱性彗星试验和测量 γH2AX 聚焦形成，发现人参皂
+苷 Rg5 具有诱导人宫颈癌细胞系 DNA 损伤的作用，
+通过促使癌细胞的 DNA 链断裂，加速细胞的凋亡过
+程，实现对宫颈癌的抑制效果。马春兰等[20-21]通过体外
+实验发现人参皂苷 Rg5 可抑制 HeLa 细胞增殖、迁移
+和侵袭能力，诱导细胞凋亡和阻断细胞周期，并且预
+测其作用机制可能与抑制 HeLa 细胞中 Notch 1 信号
+通路的激活有关。Sparano 等[22]则将人参皂苷 Rg5 与
+紫杉醇联合使用在宫颈癌细胞中，两种药物的协同作
+用抑制了 p-Akt 蛋白的表达，促进了人参皂苷 Rg5 在
+增强 PTX 诱导细胞凋亡的作用。
+2.2 Rg5 与乳腺癌
+全球乳腺癌新发病例高达 226 万例，其新发病率
+占女性首位。乳腺癌是一种涉及遗传和环境因素的异
+质性疾病，与雌激素、雄激素和人表皮生长因子受体
+等基因密切相关，这也导致乳腺癌治疗药物呈现多
+样化，如抗代谢药物、内分泌药物和靶向治疗药物
+等[23]。虽然乳腺癌的治疗方式繁多，但也要面临癌细
+胞对治疗药物产生耐受性的障碍。寻求丰富多样的化
+学预防药物就是为了能够缓解这一难题。在 MCF-7
+细胞中，加入人参皂苷 Rg5 能够调控周期相关蛋白
+的表达，促使细胞发生凋亡，并使细胞周期被阻滞在
+G0/G1 期[24]。Liu 等[25]通过体内实验发现人参皂苷 Rg5
+对人乳腺癌具有较强的抗肿瘤作用，且其作用机制是
+人参皂苷 Rg5 通过抑制 PI3K/Akt 通路进而诱导乳腺
+癌细胞凋亡和自噬。Liu 等[25]通过分子对接技术证实
+了人参皂苷 Rg5 具有调节靶向 PI3K 的乳腺癌细胞的
+功能，且通过研究发现人参皂苷 Rg5 能够通过诱导
+MCF-7 细胞凋亡和自噬来抑制癌细胞增殖。
+3 人参皂苷 Rg5 与其他癌症
+人参皂苷 Rg5 还被用于其他类型癌细胞的疗效
+研究中，如骨肉瘤和视网膜母细胞瘤等。人参皂苷
+Rg5 可以有效抑制人骨肉癌增殖，并且抑制效果会
+随着人参皂苷 Rg5 浓度增加而增强，呈现剂量依赖
+性[26]。在正常生理条件下，激活 PI3K/AKT/mTORC1
+信号通路能够抑制 LC3 活性和 caspase-3 相关的细
+胞凋亡，通过人参皂苷 Rg5 处理的骨肉瘤细胞的抑
+制 PI3K/AKT/mTORC1 来激活 LC3 活性，人参皂苷
+Rg5 通过 Lc3 介导的自噬途径诱导人骨肉瘤细胞凋
+亡[27]。Cui 等[28]证实人参皂苷 Rg5 能够通过抑制 Akt
+信号通路，下调 Bcl-2 表达，从而促进视网膜母细胞
+瘤细胞凋亡。
+4 结论与展望
+癌症是导致全球人类死亡的重大疾病原因，严重
+危害公众健康。2020 年，全球癌症新发病例达 1 930万
+例，而将近有 1 000 万人因为癌症而死亡，预计 2040年
+新增病例将增至将达到 2 840 万例，与 2020 年相比
+增加 47%[29]。由于癌症发生和发展的生物学机制复杂
+多样，尚未有有效的方式遏制癌症的蔓延，因而对社
+会造成了严重的财政和医疗负担。
+目前，手术治疗、放射性治疗和化学治疗是临床
+治疗癌症的主要手段。手术治疗是早期肿瘤和局部肿
+瘤临床治疗的首选方法。而针对患者肿瘤发生转移扩
+散或肿瘤晚期患者，手术切除通常是没有效果的。虽
+然手术可以切除原发病灶肿瘤，但手术后肿瘤复发、
+扩散甚至转移，会出现预后不良状况，患者 5 年生存
+率仍然较低[30]。在许多情况下，放射治疗效果比手术
+更为有效。然而，它的应用会因肿瘤的转移和各种副
+作用的限制受到制约。化疗是目前最常用的癌症治疗
+方法。然而，高剂量使用传统化疗药物总是会导致患
+者产生非选择性毒性，如骨密度降低和免疫抑制，而
+降低化疗药物的剂量不仅不能发挥出显著的抗肿瘤
+作用，还可能会导致癌症患者产生耐药性、基因突变
+等问题[31]。因而，开发出具有特异性靶向诱导癌细胞
+死亡且低副作用的新型药物是非常迫切的。
+人参皂苷 Rg5 是人参蒸制过程中合成的一种次
+要的人参皂苷，可通过人参皂苷 Rb1 的去糖基化和
+人参皂苷 Rg3 的 20 位碳的脱水得到，与主要的人参
+皂苷相比具有更好的药理作用，如抗肿瘤、抗炎症、抗
+糖尿病、抗骨关节炎（osteoarthritis，OA）、神经保护和
+心脏保护特性[32]。人参皂苷 Rg5 对多种癌症都有一定
+的治疗效果，它不仅能够阻滞细胞周期影响细胞增
+殖，还能诱导细胞凋亡，抑制癌症细胞的侵袭和迁移。
+相关作用的分子机制也是十分复杂的，Rg5 可下调
+PI3K/Akt、NF-κB 和 IncRNA-PCAT12 等信号通路作
+用来实现对癌症的治疗。人参皂苷 Rg5 具有高安全性
+和多种生物学功能，可作为多种疾病的潜在治疗候选
+药物。然而，目前人参皂苷 Rg5 的抗癌研究还存在一
+31
+•综
+述•
+中国当代医药 2023 年 4 月第 30 卷第 11 期
+CHINA MODERN MEDICINE Vol. 30 No. 11 April 2023
+些局限性，如研究范围较窄、研究深度较浅、缺乏动物
+活体实验论证等，而对于人参皂苷 Rg5 在抗癌过程中
+是如何调控癌症关键基因的表达或相关细胞信号通
+路的具体分子作用机制仍不明确，有较大的探索空
+间。因此，未来关于人参皂苷 Rg5 抗癌研究的重点应
+放在人参皂苷 Rg5 具体作用的分子靶点以明确其作
+用的分子机制，这将为人参皂苷 Rg5 在未来癌症的临
+床治疗提供理论基础和实验依据。
+[参考文献]
+[1]孙光芝，刘志，张俊杰.人参二醇组皂苷的药理学研究概
+况[J].中国农学通报，2005，21（5）：136-140.
+[2]尤江莲，郭治，孙爱学.参一胶囊联合 5- 氟尿嘧啶对小鼠
+结肠癌血管生成抑制作用的机制研究[J].中国比较医学
+杂志，2019，29（1）：54-59.
+[3]于雪妮，冯小刚，张建民，等.人参化学成分与药理作用研
+究新进展[J].人参研究，2019，31（1）：47-51.
+[4]Piao XM，Huo Y，Kang JP，et al.Diversity of Ginsenoside Pro-
+files Produced by Various Processing Technologies[J].Mole-
+cules,2020,25(19)：4390.
+[5]Lordick F，Mariette C，Haustermans K，et
+al.Oesophageal
+cancer：ESMO Clinical Practice Guidelines for diagnosis，
+treatment and follow-up [J].Ann Oncol，2016，27（suppl 5）：
+v50-v57.
+[6]梅志宏，丁雅明，李凡，等.人参皂苷 Rg5 对人食管癌细胞作
+用的研究[J].中国实验诊断学，2016，20（12）：1982-1985.
+[7]张道明，张奇，刘林林，等.人参皂苷 Rg5 通过下调 Bcl-2
+蛋白促进食管癌 Eca-109 细胞凋亡[J].中国实验诊断学，
+2018，22（4）：700-703.
+[8]Zhang D，Wang A，Feng J，et al.Ginsenoside Rg5 induces
+apoptosis in human esophageal cancer cells through the
+phosphoinositide 3 kinase/protein kinase B signaling path-
+way[J].Mol Med Rep,2019,19(5)：4019-4026.
+[9]Alipour M.Molecular Mechanism of Helicobacter pylori-In-
+duced Gastric Cancer[J].J Gastrointest Cancer，2021，52（1）：
+23-30.
+[10]李为，刘伟，邹君君.人参皂苷 Rg5 对胃癌 BGC-823 细
+胞增殖、凋亡及凋亡相关因子的影响[J].中国中医急症，
+2018，27（6）：955-958.
+[11]卓少华，丘远聪，郑俊德，等.人参皂苷 Rg5 调控 lncR-
+NA-PCAT12 抑制胃癌细胞生长实验研究[J].陕西中医，
+2020，41（4）：437-439.
+[12]李为，刘伟，邹君君.人参皂苷 Rg5 通过 miR-125b/STA
+RD13/NEU1 信号通路对胃癌 BGC-823 细胞侵袭迁移
+的影响[J].中国实验方剂学杂志，2018，24（22）：138-142.
+[13]赵翔宇，何振宇，宰守峰.人参皂苷 Rg5 对胃癌细胞周期和
+侵袭的影响及其机制[J].中国应用生理学杂志，2020，36
+（1）：51-55.
+[14]Liu Y，Fan D.Ginsenoside Rg5 induces G2/M phase arrest,
+apoptosis and autophagy viaregulating ROS-mediated MAPK
+pathways against human gastric cancer[J].Biochem Pharma-
+col,2019,168：285-304.
+[15]万赤丹，王国斌.原发性肝癌治疗进展[J].腹部外科，
+2019，32（1）：1-6，22.
+[16]郭慧，刘鹏飞.人参皂苷 Rg5 通过抑制蛋白激酶 B 信号
+通路调控肝癌 HepG2 细胞生物学行为[J].安徽医药，
+2021，25（6）：1095-1099，1275.
+[17]Chen C，Lv Q，Li Y，et al.The Anti-Tumor Effect and Un-
+derlying Apoptotic Mechanism of Ginsenoside Rk1 and Rg5
+in Human Liver Cancer Cells[J].Molecules，2021，26（13）：
+3926.
+[18]Song L，Yang F，Wang Z，et al.Ginsenoside Rg5 inhibits
+cancer cell migration by inhibiting the nuclear factor-κB
+and erythropoietin-producing hepatocellular receptor A2
+signaling pathways[J].Oncol Lett，2021，21（6）：452.
+[19]Di Fiore R，Suleiman S，Drago-Ferrante R，et al.Cancer
+Stem Cells and Their Possible Implications in Cervical
+Cancer：A Short Review[J].Int J Mol Sci，2022，23（9）：5167.
+[20]马春兰，李富娟，张常虹.人参皂苷 Rg5 介导 Notch 信号
+通路对宫颈癌细胞转移的作用[J].中国优生与遗传杂志，
+2021，29（10）：1365-1368.
+[21]Liang LD，He T，Du TW，et al
+.Ginsenoside 
+Rg5 induces
+apoptosis and DNA damage in human cervical cancer
+cells[J].Mol Med Rep，2015，11（2）：940-946.
+[22]Sparano JA，Gray RJ，Ravdin PM，et al.Clinical and Genom-
+ic Risk to Guide the Use of Adjuvant Therapy for Breast
+Cancer[J].N Engl J Med，2019，380（25）：2395-2405.
+[23]Ramesh J，Thilakan RC，Gopalakrishnan RM，et al.Gin-
+senoside Rg5 Sensitizes Paclitaxel-Resistant Human Cer-
+vical-Adeno-Carcinoma Cells to Paclitaxel-And Enhances
+the Anticancer Effect of Paclitaxel[J].Genes(Basel),2022,
+13(7)：1142.
+[24]Kim SJ，Kim AK.Anti-breast cancer activity of Fine Black
+ginseng （Panax ginseng Meyer）and ginsenoside Rg5 [J].J
+Ginseng Res，2015，39（2）：125-134.
+[25]Liu Y，Fan D.Ginsenoside Rg5 induces apoptosis and au-
+tophagy via the inhibition of the PI3K/Akt pathway against
+breast cancer in a mouse model[J].Food Funct，2018，9（11）：
+5513-5527.
+（下转第 37 页）
+32
+中国当代医药 2023 年 4 月第 30 卷第 11 期
+CHINA MODERN MEDICINE Vol. 30 No. 11 April 2023
+•综
+述•
+[26]Liu Y，Fan D.The Preparation of Ginsenoside Rg5，Its Anti-
+tumor Activity against Breast Cancer Cells and Its Targeting
+of PI3K[J].Nutrients，2020，12（1）：246.
+[27]Liu MY，Liu F，Li YJ，et al.Ginsenoside Rg5 Inhibits Human
+Osteosarcoma Cell Proliferation and Induces Cell Apoptosis
+through PI3K/Akt/mTORC1-Related LC3 Autophagy Path-
+way[J].Oxid Med Cell Longev，2021，2021：5040326.
+[28]CuiY，SuY，DengL，et al.Ginsenoside-Rg5InhibitsRetinoblas-
+toma Proliferation and Induces Apoptosis through Suppressing
+BCL2 Expression[J].Chemotherapy，2018，63（5）：293- 300.
+[29]Sung H，Ferlay J，Siegel RL，et al.Global Cancer Statistics
+2020：GLOBOCAN Estimates of Incidence and Mortality
+Worldwide for 36 Cancers in 185 Countries[J].CA Cancer J
+Clin，2021，71（3）：209-249.
+[30]Lecot P，Ardin M，Dussurgey S，et al.Gene signature of cir-
+culating platelet-bound neutrophils is associated with poor
+prognosis in cancer patients[J].Int J Cancer，2022，151（1）：
+138-152.
+[31]Lecca P.Control Theory and Cancer Chemotherapy：How
+They Interact[J].Front Bioeng Biotechnol，2021，8：621269.
+[32]Liu MY，Liu F，Gao YL，et al.Pharmacological activities of
+ginsenoside Rg5 （Review）[J].Exp Ther Med，2021，22（2）：
+840.
+（收稿日期：2022-11-24）
+al.The Promising Role of miR-21 as a Cancer Biomarker and
+Its Importance in RNA-Based Therapeutics[J].Mol Ther Nu-
+cleic Acids，2020，20：409-420.
+[25]Wu Q，Ma J，Wei J，et al.FOXD1-AS1 regulates FOXD1
+translation and promotes gastric cancer progression and
+chemoresistance by activating the PI3K/AKT/mTOR path-
+way[J].Mol Oncol,2021,15(1)：299-316.
+[26]Gu Y，Fei Z，Zhu R.miR-21 modulates cisplatin resistance of
+gastric cancer cells by inhibiting autophagy via the PI3K/
+Akt/mTOR pathway[J].Anticancer Drugs,2020,31(4)：385-
+393.
+[27]Qi Y，Qi W，Liu S，et al.TSPAN9 suppresses the chemosen-
+sitivity of gastric cancer to 5-fluorouracil by promoting au-
+tophagy[J].Cancer Cell Int，2020，20：4.
+[28]Shin JY，Kim JO，lee SK，et al.LY294002 may overcome
+5-FU resistance via down-regulation of activated p-AKT in
+Epstein -Barr virus -positive gastric cancer cells [J].BMC
+Cancer,2010,10：425.
+[29]Ishida K，Ito C，Ohmori Y，et al.Inhibition of PI3K suppress-
+es propagation of drug-tolerant cancer cell subpopulations
+enriched by 5-fluorouracil[J].Sci Rep，2017，7（1）：2262.
+[30]Kim KJ，Kim JW，Sung JH，et al.PI3K-targeting strategy us-
+ing alpelisib to enhance the antitumor effect of paclitaxel in
+human gastric cancer[J].Sci Rep，2020，10（1）：12308.
+[31]Jin P，Wong CC，Mei S，et al.MK-2206 co-treatment with
+5-fluorouracil or doxorubicin enhances chemosensitivity and
+apoptosis in gastric cancer by attenuation of Akt phosphory-
+lation[J].Onco Targets Ther，2016，9：4387-4396.
+[32]Almhanna K，Cubitt CL，Zhang S，et al.MK-2206，an Akt
+inhibitor，enhances carboplatinum/paclitaxel efficacy in gas-
+tric cancer cell lines[J].Cancer Biol Ther，2013，14（10）：
+932-936.
+[33]Li J，Davies BR，Han S，et al.The AKT inhibitor AZD5363 is
+selectively active in PI3KCA mutant gastric cancer，and sen-
+sitizes a patient-derived gastric cancer xenograft model with
+PTEN loss to Taxotere[J].J Transl Med，2013，11：241.
+[34]Matsuzaki T，Yashiro M，Kaizaki R，et al.Synergistic antipro-
+liferative effect of mTOR inhibitors in combination with
+5-fluorouracil in scirrhous gastric cancer [J].Cancer Sci，
+2009，100（12）：2402-2410.
+[35]Trivedi ND，Armstrong S，Wang H，et al.A phase I trial of
+the mTOR inhibitor temsirolimus in combination with
+capecitabine in patients with advanced malignancies [J].
+Cancer Med,2021,10(6)：1944-1954.
+[36]Bhattacharya B，Akram M，Balasubramanian I，et al.Phar-
+macologic synergy between dual phosphoinositide-3-kinase
+and mammalian target of rapamycin inhibition and 5-fluo-
+rouracil in PIK3CA mutant gastric cancer cells[J].Cancer
+Biol Ther,2012,13(1)：34-42.
+[37]Li L，Zhang S，Xie D，et al.Dual inhibitor of PI3K and mTOR
+（NVP-BEZ235）augments the efficacy of fluorouracil on
+gastric cancer chemotherapy[J].Onco Targets Ther，2018，11：
+6111-6118.
+（收稿日期：2022-09-30）
+(上接第 32 页)
+37

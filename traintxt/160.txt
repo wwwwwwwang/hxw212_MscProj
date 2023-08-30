@@ -1,0 +1,689 @@
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+人参皂苷通过上调糖皮质激素受体表达对
+AIH 小鼠肝脏的保护作用
+曹梦醒，师
+哲，李
+勇 *
+上海中医药大学附属市中医医院，上海 200071
+〔收稿日期〕2022-07-12
+〔基金项目〕国家自然科学基金项目（81873157，81573775）。
+〔第一作者〕曹梦醒，女，硕士研究生，研究方向：消化系统疾病防治研究。
+〔通信作者〕* 李
+勇，男，博士，教授，主任医师，博士研究生导师，E-mail：liyong@shutcm.edu.cn。
+湖 南 中 医 药 大 学 学 报
+Journal of Hunan University of Chinese Medicine
+2023 年 2 月第 43 卷第 2 期
+Feb. 2023 Vol. 43 No. 2
+〔摘要〕 目的 研究人参皂苷通过调节糖皮质激素受体与骨髓源性免疫抑制细胞（myeloid-derived suppressor cell, MDSC）增
+殖改善自身免疫性肝炎(autoimmune hepatitis, AIH)的机制。 方法 小鼠分组为空白组、模型组、人参皂苷（AIH+GSS）组与地塞米松（AIH+
+DEX）组。 使用 S-100 与佐剂构建 AIH 小鼠模型，以地塞米松作为阳性对照。 通过流式细胞术检查外周血 MDSC、调节性 T 细胞
+（regulatory T cell, Treg）、 辅助性 T 细胞 17 （T helper 17 cell, Th17） 细胞比例， 检测血清谷丙转氨酶 (alanine aminotransferase,
+ALT)、谷草转氨酶(aspartate aminotransferase, AST)活性，通过 HE、Masson 染色检查肝脏病理，分离外泌体并检测 miRNA-223 的表
+达情况，检查糖皮质激素受体（glucocorticoid receptor, GR）、精氨酸酶 1（arginase type 1, Arg-1）、一氧化氮合酶（nitric oxide syn-
+thases, iNOS）与肌细胞特异性增强因子 2C（myocyte-specific enhancer factor 2C, MEF2C）等蛋白的表达情况。 结果 模型组小鼠血
+清 ALT、AST 水平较空白组均显著升高（P＜0.001）；与模型组相比，AIH+DEX 组以及 AIH+GSS 组小鼠血清 ALT、AST 水平显著降低
+（P＜0.001）。 HE、Masson 染色结果显示，相比于模型组小鼠，AIH+DEX 组与 AIH+GSS 组界面区炎细胞浸润明显减少，小叶形态较正
+常， 胶原纤维增生较少。 模型组小鼠 MDSC、Treg 细胞数量较健康对照组显著下降 （P＜0.001），Th17 细胞数量显著上升 （P＜0.01）；
+AIH+DEX 组与 AIH+GSS 组 MDSC、Treg 细胞数量高于模型组，Th17 细胞数量下降 （P＜0.001，P＜0.01，P＜0.05）； 模型组 miRNA-233
+表达显著高于空白组（P＜0.001）；AIH+GSS 组与 AIH+DEX 组 miRNA-223 的表达水平均显著低于模型组（P＜0.001）。模型组MDSC 功
+能蛋白 Arg-1、iNOS、MEF2C 以及 GR 表达水平较空白组显著降低 （P＜0.001）；AIH+DEX 组和 AIH+GSS 组的蛋白表达水平较模型组明
+显上升（P＜0.001）。 AIH+GSS 组 Arg-1、iNOS 转录水平略低于 AIH+DEX 组（P＜0.01）。 结论 与糖皮质激素类似，人参皂苷可通过上调
+糖皮质激素受体表达，抑制miRNA-223 表达，促进 AIH 小鼠 MDSCs 增殖，调节 Treg 细胞与 Th17 细胞数量，降低血清 ALT、AST
+活性，减轻 AIH 带来的肝细胞损伤。
+〔关键词〕 人参皂苷；自身免疫性肝炎；骨髓源性免疫抑制细胞；糖皮质激素受体
+〔中图分类号〕R285.5
+〔文献标志码〕A
+〔文章编号〕doi:10.3969/j.issn.1674-070X.2023.02.005
+Protective effects of ginsenosides on AIH mouse liver by upregulating
+glucocorticoid receptor expression
+CAO Mengxing, SHI Zhe, LI Yong*
+Shanghai Municipal Hospital of Chinese Medicine, Shanghai University of Chinese Medicine, Shanghai 200071, China
+〔Abstract〕 Objective To explore the mechanism of ginsenoside for improving autoimmune hepatitis by regulating glucocorticoid
+receptor and myeloid-derived suppressor cells (MDSC) proliferation. Methods Mice were divided into blank group, model group,
+ginsenoside (GSS) group, and dexamethasone (DEX) group. The autoimmune hepatitis (AIH) models were established with S-100 and
+adjuvant. Dexamethasone group was the positive control. The proportion of MDSC, regulatory T cell (Treg) and T helper 17 cell
+(Th17) in peripheral blood was examined by flow cytometry, and the activities of ALT and AST in serum were detected. Liver
+本文引用：曹梦醒, 师
+哲, 李
+勇. 人参皂苷通过上调糖皮质激素受体表达对 AIH 小鼠肝脏的保护作用[J]. 湖南中医药大学学报, 2023, 43
+(2): 203-210.
+203
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+自身免疫性肝炎 （autoimmune hepatitis, AIH）
+是一种自身免疫反应介导的进行性肝脏炎症，其诊
+断以谷丙转氨酶（alanine aminotransferase, ALT）、
+谷草转氨酶（aspartate aminotransferase, AST）、免疫
+球蛋白 IgG 以及自身抗体（ANA、SMA、抗 LKM1 和
+抗 SLA）水平升高为主[1]。 AIH 常隐匿起病而无特异
+性症状，常表现为嗜睡、乏力、右上腹疼痛等，且近
+30%患者首诊时已存在肝硬化表现[2]。 虽然 AIH 的
+发病机制尚不明确，但与药物接触、病毒性肝炎史以
+及遗传易感个体等因素高度相关 [3]，是一种 T 细胞
+产生针对肝脏自身抗原的免疫反应[4]。 临床一线用
+药以大剂量地塞米松和（或）联合硫唑嘌呤抑制 T
+细胞免疫力为主，但这种疗法常因感染、消化性溃疡
+等严重不良反应而难以为继。 近些年有使用利妥昔
+单抗或英夫利昔单抗等生物制剂治疗难治性 AIH
+的报道，但仍存在感染、肝毒性等并发症而加大用药
+风险[5]。 因此，如何选择治疗方案以提高免疫耐受性
+的同时减轻副作用将成为治疗 AIH 的关键。
+miRNA-223 是最早发现的与骨髓系细胞发育
+密切相关的 miRNA 之一，其在骨髓细胞中高度表
+达，通过外泌体或细胞外囊泡转移的方式调节骨髓
+祖细胞分化，并调节免疫微环境[6-9]。 miRNA-223 在
+粒细胞系的分化和成熟过程中增加，其高水平的表
+达又能进一步促进骨髓祖细胞系向粒细胞的分化和
+成熟[6，10-11]。 此外，miRNA-223 对粒细胞祖细胞（即
+MDSC）分化与活化具有抑制作用，对其敲除可促进
+粒细胞祖细胞数量的扩增。
+人参皂苷（ginsenoside, GSS）是人参最主要的活
+性成分，与糖皮质激素的化学结构以及生物学效应
+相似[12]。 有大量研究证明，GSS 可通过 GR 途径抑制
+T 细胞的免疫活性，显著减轻由 T 细胞过度活化引
+起的局部炎性浸润与组织损伤[13]。 阻断 GR 后，由GR
+介导生效的途径不会完全削弱，证明在 GR 途径外
+还存在其他途径介导了 GSS 对免疫的抑制[14]。GSS 对
+糖皮质激素（glucocorticoids, GC）具有一定的增效减
+毒作用。 在长期应用 GC 导致 GR 表达下降时，GSS
+的应用除增强 GC 的免疫抑制能力外还一定程度逆
+转了 GC 引起的 GR 转录与翻译下调[15-18]。 为进一步
+探究人参皂苷在 AIH 中是否有 GC 相似的免疫抑
+制效应，本文使用 S-100 诱导的 AIH 小鼠模型 ，观察
+GSS 对 AIH 的 调 节 作 用 ，为 AIH 的治疗提供替代
+药物的新选择。
+1 材料与方法
+1.1
+实验动物
+C57BL/6 雄性小鼠购于上海斯莱克实验动物有
+限责任公司，许可证号码：SCXK（沪）2017-0005。 小
+鼠饲养于上海市中医医院动物房 SPF 级小鼠饲养
+室，饲养环境为恒温 24～27 ℃，湿度 50%～80%，饮
+水与饲料经辐照、高压灭菌不限量供应。本动物实验
+已通过上海市中医医院实验中心动物实验伦理与
+福利委员会审核，伦理号：2021019。
+pathology was examined by HE and Masson, and exosomes were isolated and miRNA-223 expression was detected. The expression
+of glucocorticoid receptor (GR), arginase type 1 (Arg-1), nitric oxide synthases (iNOS) and myocyte-specific enhancer factor 2C (MEF2C)
+were examined. Results The serum ALT and AST levels in model group were significantly higher than those in blank group (P＜
+0.001). Compared with model group, serum ALT and AST concentrations in DEX group and GSS group were significantly lower
+(P＜
+0.001). Compared with the model group, inflammatory cell infiltration in the interface area of DEX group and GSS group was
+significantly reduced, lobule morphology was more normal, and collagen fiber proliferation was less. Compared with healthy control
+group, the number of MDSCs and Treg cells in model group was significantly lower, while the number of Th17 cells was
+significantly higher (P＜0.01). The number of MDSCs and Treg cells in DEX group and GSS group was higher than that in model
+group, while the number of Th17 cells was lower (P＜0.001, P＜0.01, P＜0.05); miRNA-233 expression in model group was significantly
+higher than that in blank group (P＜0.001). The expression level of miRNA-223 in GSS group and DEX group was significantly lower
+than that in model group (P＜0.001). The expression levels of MDSCs functional proteins Arg-1, iNOS, MEF2C and glucocorticoid
+receptor GR in model group were significantly lower than those in blank group (P＜0.001). But after intervention of DEX or GSS, the
+expression level of those was significantly higher (P＜0.001). The transcription levels of Arg-1 and iNOS in GSS group were slightly
+lower than those in DEX group (P＜0.01). Conclusion Similar to glucocorticoid, ginsenoside can inhibit miRNA-223 expression by
+upregulating glucocorticoid receptor expression, promote MDSC proliferation in AIH, regulate the number of Treg cells and Th17
+cells, reduce the activities of ALT and AST in serum, and alleviate hepatocyte injury caused by AIH.
+〔Keywords〕 ginsenoside; autoimmune hepatitis; myeloid-derived suppressor cells; glucocorticoid receptor
+204
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+1.2
+药物与试剂
+人参皂苷（上海源叶生物科技有限公司，批号：
+B30M11C114347）；弗氏完全佐剂（美国 Sigma-Aldrich
+公司，批号：MFCD00131105）；（强）RIPA 裂解液（批号：
+20101ES60）、TRIzol（批号：19201ES60）、Universal Blue
+qPCR SYBR Green Master Mix（批号：11184ES03）、
+脱脂 奶 粉 （ 批 号 ：36120ES60 ）、Tween-20 （ 批 号 ：
+60305ES76）、PMSF（批号：20104ES03）、十二烷基硫
+酸钠（批 号 ：20106ES76）均 购 自 翌 圣 生 物 科 技 （上
+海）有限公司；BCA 蛋白浓度测定试剂盒（江苏碧云
+天生物有限公司，批号：P0012S）；超敏 ECL 化学发
+光液（上海天能科技有限公司，批号：180-5001）；HE
+试 剂 盒 （生 工 生 物 工 程 （ 上 海 ） 有 限 公 司 ， 批 号 ：
+E607318-0200）；MEF2C（批号：5030S）、iNOS（批号：
+13120S）、β-Actin（13E5）（批号：4970S）均购自美国
+Cell Signaling Technology 公司。
+2 实验方法
+2.1
+动物造模、分组及干预方法
+随机选取 C57BL/6 同源小鼠 6 只作为空白组；
+参照 LOHSE 等[19]描述的实验性 AIH 小鼠模型制备
+方法进行造模。 造模方法如下：选取 C57BL/6 同源
+小鼠应用抗原 S-100 与弗氏佐剂完全研磨乳化后
+腹腔注射，0.2 mL/20 g，每周 1 次，第 7 天再次注射
+加强免疫炎症反应，第 14 天即造模完成。 造模成功
+的模型小鼠随机分为模型组、人参皂苷(AIH+GSS)
+组与阳性对照地塞米松(AIH+DEX)组，每组 6 只。 造
+模过程中空白组小鼠腹腔注射 PBS，0.2 mL/20 g，
+每周 1 次，共 2 次。 在第 14 天造模完成后，空白组、
+模型组予无菌蒸馏水灌胃 200 μL/20 g，AIH+GSS
+组予人参皂苷 50 mg/kg 等容量灌胃，AIH+DEX 组
+予地塞米松 1 mg/kg、200 μL/20 g 腹腔注射。 每天
+1 次，共 14 d。
+2.2
+外泌体分离
+摘取小鼠眼球取血，向血液中加入 EDTA-2K
+抗凝，离心半径 8.7 cm，3000 r/min 4 ℃ 15 min 离
+心，收集上清液于液氮中冻存备用；将血浆用 PBS以
+1∶2 进行稀释，以离心半径 8.7 cm，2000 r/min 4 ℃
+10 min 离心后取上清液至新离心管，并加入样本 1/2
+体积的沉淀试剂，涡旋震荡混匀后 4 ℃ 60 min 孵育；
+孵育结束后以离心半径 8.7 cm，10 000 r/min 15 min
+离心，弃尽上清液；以预冷 PBS 清洗管壁及管底白
+色沉淀后，以原始血浆容量用 PBS 进行吹打复溶，
+富集的外泌体。
+2.3
+MDSC 细胞、Treg 细胞、Th17 细胞染色
+收集部分细胞至流式管中计数，调整至 1×106
+个/管，加入 PBS 离心，弃上清液；加 100 μL PBS 重
+悬，分别加入流式抗体 CD11b、Gr-1、CD4 和 CD25，
+避光孵育；加入 PBS 1 mL/管，离心弃上清液。 检测
+MDSC 细胞：取 250 μL PBS 重悬细胞后进行流式检
+测。 检测 Treg 细胞：加 PBS 重悬细胞，每管加入 1 mL
+固定/破膜缓冲液，混匀后避光孵育，离心弃上清液。
+于 100 μL 破膜液中重悬细胞，加入抗体 Foxp3，避
+光孵育，离心弃上清液。 取破膜液重悬细胞后进行
+流式检测。 检测 Th17 细胞：以完全培养基重悬细
+胞，按说明书加入 500×eBioscience Cell Stimulation
+Cocktail，37 ℃培养箱培养 6 h；将细胞收集至流式管中，
+加入 PBS 1 mL/管，离心弃上清；加 PBS 重悬，加入流
+式抗体 IL-17A，避光孵育；加入 PBS，离心弃上清，
+此步骤重复 2 次；加 PBS 重悬细胞后进行流式检测。
+2.4
+Western blot 分析
+使用 RIPA 裂解液提取肝脏组织蛋白后，BCA
+蛋白试剂盒检测蛋白含量。 样品蛋白中加入适量5×SDS
+loading buffer，在 100 ℃的金属浴锅加热 5 min。 使
+用 SDS-PAGE 凝胶进行电泳分离胶分离蛋白，并转
+移至 0.45 μm 孔径的 PVDF 膜。 条带浸没在封闭液
+中室温慢摇 3 h，封闭完成后，使用 TBST 配制适合
+浓度的一抗，将 目 标 条 带 浸 没 于 一 抗 中，4 ℃孵育
+过夜，用 TBST 漂洗 3 次。 使用 TBST 配制适合浓度
+的 HRP 标记二抗 ，将 目 标 条 带 浸 于 二 抗 中，室温
+慢摇孵育 1 h。 用 TBST 漂洗后，ECL 显色液覆盖全
+膜。 最后应用 Bio-Rad ChemiDocTM XRS+系统与
+Image Lab 软件曝光。
+2.5
+染料法荧光定量 PCR
+提取肝脏组织总 RNA，测各样本 RNA 浓度及
+纯度。 在每个离心管中加入 1 μg RNA 样本，5×gDNA
+wiper Mix 3 μL，RNase freeH2O 补足至 15 μL，42 ℃
+水浴加热 2 min；在上述 15 μL 体系中加入 5 μL 的 4×
+Hifair R○ Ⅲ SuperMix plus。 反应条件：25 ℃，5 min，
+55 ℃，15 min，85 ℃，5 min 得到的 cDNA-20 ℃保存备
+用。 在离心管中加入Universal Blue qPCR SYBR Green
+Master Mix 10 μL，加正反向引物各 0.4 μL(引物见
+205
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+表 2
+人参皂苷对 AIH 小鼠转氨酶的影响（U/L，x±s，n=6）
+注 ：与 空 白 组 比 较 ，△△△P＜0.001；与 模 型 组 比 较 ，***P＜0.001；与
+AIH+DEX 组比较，##P＜0.01。
+空白组
+模型组
+AIH+DEX 组
+AIH+GSS 组
+F 值
+P 值
+转氨酶活力
+ALT
+AST
+组别
+12.18±0.64
+14.72±0.50△△△
+12.22±0.53***
+12.30±0.56***
+20.83
+＜0.0001
+23.76±3.26
+36.71±1.04△△△
+21.30±1.29***
+27.33±3.22***##
+46.14
+＜0.0001
+表 1)， 加入 cDNA 模板 2 μL，ddH2O 补足至 20 μL，混
+匀。 按照说明书设置反应条件，实施上机检测，用相
+对表达量=2-△△Ct 公式计算各个组的表达情况。
+2.6
+小鼠肝功能与肝组织病理学检测
+使用 ALT/GPT 检测试剂盒检测小鼠血清 ALT
+水平，AST/GOT 检测试剂盒检测 AST 水平。用 4%的
+多聚甲醛将肝组织固定 24 h 后，按照相应的步骤进
+行脱水至蜡并包埋，切片 5 μm，制白片后烤干备
+用，染色前将白片按相应顺序脱蜡至水使用。 采用
+HE 染色与 Masson 染色，染色后使用显微镜观察小
+鼠肝组织的变化。
+2.7
+统计方法
+流式数据使用 CytExpert 分析结果，PCR 结果
+使用相对定量法计算 Ct 值，将结果导入 GraphPad
+Prism 8 绘制统计图，并使用 ANOVA 进行多样本配
+对分析，均采用双侧检验。 Western blot 结果导入
+ImageJ 软件测算灰度值并以 GraphPad Prism 8 统
+计分析绘图。 在 α=0.05 水准上，当 P＜0.05 为差异具
+有统计学意义。
+3 结果
+3.1
+人参皂苷对 AIH 小鼠肝功能的影响
+模型组小鼠血清 ALT、AST 水平较空白组均显
+著升高（P＜0.001）；AIH+DEX 组小鼠血清 ALT、AST
+浓度较模型组显著降低（P＜0.001），与空白组无明显
+差异(P>0.05）；AIH+GSS 组ALT 与 AIH+DEX 组无明
+显差异（P>0.05），AST 显著低于模型组（P＜0.001），略
+高于 DEX 组（P＜0.01）。 详见表 2。
+在对小鼠肝脏进行 HE、Masson 染色检查肝脏
+损伤情况中发现，对照组小鼠肝细胞与肝小叶形态
+正常，界面区无炎细胞浸润，无胶原纤维增生；模型
+组肝界面区炎性细胞浸润严重，肝细胞坏死严重，小
+叶形态异常，有明显胶原纤维增生；AIH+DEX 组与
+AIH+GSS 组界面区炎细胞浸润明显减少，小叶形态
+较正常，胶原纤维增生较少。 详见图 1。
+3.2
+人参皂苷对免疫微环境的调节功能
+模型组小鼠 MDSC 细胞数量较空白组显著下
+降（P＜0.001），Treg 细胞数量较空白组显著下降（P＜
+0.01），Th17 细胞数量较空白组显著上升，差异具有
+统计学意义（P＜0.001）；经 AIH+DEX 干预后，MDSC、
+Treg 细胞数量高于模型组，Th17 细胞数量下降，差异
+具有统计学意义（P＜0.01）；AIH+GSS 组 MDSC 细胞
+数量高于模型组（P＜0.001），Treg 细胞数量高于模型
+组（P＜0.05），Th17 细胞数量低于模型组（P＜0.05）。 详
+见图 2。
+3.3
+人参皂苷对 miRNA-223 表达的影响
+模型组 miRNA-233 表达显著高于空白组（P＜
+0.001）；AIH+GSS 组与 AIH+DEX 组 miRNA-223 的
+表达水平均显著低于模型组（P＜0.001），而两组间差
+异无统计学意义（P>0.05）。 详见表 3。
+3.4
+人参皂苷对 MDSC 相关蛋白及其对 GR 的影响
+模型组 Arg-1、iNOS 转录水平较空白组显著降
+低（P＜0.001）；AIH+DEX 组与 AIH+GSS 组 Arg-1、
+iNOS 转录水平均显著高于模型组（P＜0.001），其中，
+AIH+GSS 组 Arg-1、iNOS 转录水平略高于 AIH+DEX
+组（P＜0.01）。 详见表4。
+模型组小鼠 iNOS、Arg-1、MEF2C 与 GR 蛋白表
+达水平均较空白组显著下降(P＜0.001)，而 AIH+DEX
+或AIH+GSS 干预后表达水平均有明显上升(P＜0.001)。
+详见表 5 和图 3。
+表 1
+引物序列
+名称
+Arg-1
+iNOS
+miRNA-233
+β-actin
+正向
+CATATCTGCCAAAGACATCGTG
+ACTCAGCCAAGCCCTCACCTAC
+GCGCGTGTCAGTTTGTCAAAT
+CGTTGACATCCGTAAAGACC
+反向
+GACATCAAAGCTCAGGTGAATC
+TCCAATCTCTGCCTATCCGTCTCG
+AGTGCAGGGTCCGAGGTATT
+AACAGTCCGCCTAGAAGCAC
+长度/bp
+322
+340
+286
+281
+206
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+注：方框标记处为较严重病变位置。A.HE 染色；B.Masson 染色。
+图 1
+人参皂苷对 AIH 小鼠肝脏病理的影响
+A
+B
+AIH+GSS 组
+AIH+DEX 组
+模型组
+空白组
+AIH+GSS 组
+AIH+DEX 组
+模型组
+空白组
+×10
+×40
+×10
+×40
+空白组
+模型组
+AIH+DEX 组
+AIH+GSS 组
+图 2 人参皂苷对 AIH 小鼠免疫细胞的影响
+注：A.流式细胞图；B.各组细胞数量统计图。 ***P＜0.001，**P＜0.01，*P＜0.05。
+207
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+图 3
+人参皂苷对相关蛋白表达的影响
+注：A.空白组；B.模型组；C.AIH+DEX 组；D.AIH+GSS 组。
+表 5
+人参皂苷对相关蛋白表达的影响
+（灰度值，x±s，n=3）
+注：与空白组比较 ，△△△P＜0.001；与 模 型 组 比 较 ，***P＜0.001，**P＜
+0.01。
+组别
+iNOS
+GR
+MEF2C
+Arg-1
+空白组
+模型组
+AIH+DEX 组
+AIH+GSS 组
+F 值
+P 值
+1.00±0.03
+0.47±0.01△△△
+1.28±0.11***
+0.98±0.04***
+93.94
+＜0.0001
+1.00±0.12
+0.52±0.06△△△
+0.96±0.06***
+0.90±0.08**
+20.97
+0.0004
+1.00±0.04
+0.35±0.02△△△
+0.70±0.03***
+0.70±0.02***
+257.7
+＜0.0001
+1.00±0.02
+0.51±0.01△△△
+0.98±0.05***
+0.83±0.02***
+183.8
+＜0.0001
+表 3
+人参皂苷对 miRNA-223 水平的影响（x±s，n=6）
+组别
+空白组
+模型组
+AIH+DEX 组
+AIH+GSS 组
+F 值
+P 值
+注：与空白组比较，△△△P＜0.001；与模型组比较，***P＜0.001。
+miRNA-223
+1.01±0.01
+2.08±0.33△△△
+0.67±0.04***
+0.74±0.05***
+88.66
+＜0.0001
+表 4
+人参皂苷对 MDSC 功能蛋白的影响（x±s，n=6）
+组别
+Arg-1 mRNA
+iNOS mRNA
+空白组
+模型组
+AIH+DEX 组
+AIH+GSS 组
+F 值
+P 值
+1.00±0.00
+0.44±0.04△△△
+1.53±0.10***
+2.25±0.38***##
+90.5
+＜0.0001
+1.00±0.00
+0.40±0.13△△△
+1.30±0.25***
+1.78±0.14***##
+80.04
+＜0.0001
+注：与空白组比较，△△△P＜0.001；与模型组比较，***P＜0.001；与 AIH+
+DEX 组比较，##P＜0.01。
+4 讨论
+AIH 是一种自身免疫反应介导的界面型肝炎 ，
+因 Th17 为首的辅助性 T 细胞受到异常 激活并不
+断损伤肝细胞所致。 有大量研究证实，MDSC 细胞拥
+有对 T 细胞较强的抑制能力，可以很好地减轻因辅
+助性 T 细胞过度活化对机体的损伤，而与骨髓细胞
+发育高度相关的 miRNA-223 对 MDSC 的增殖起决
+定性作用[6，10-11，26-27]。 系统性自身免疫性疾病中抗原
+呈递细胞将自身抗原肽呈递并激活初始 CD4+T 辅
+助(Th0)细 胞 ，Th0 细 胞 迅 速 活 化 为 Th1、Th2、Th17
+细胞并大量释放促炎细胞因子并诱导了机体正常组
+织炎性损伤，这也是 AIH 的发病机制之一[20-21]。 在此
+过程中，标记为 CD4+CD25+FOXP3+Treg 细胞的分化
+受损常被认为是自身免疫系统疾病发生的关键[22]。
+在 AIH 患者外周血中 Treg 细胞功能受损，Foxp3 表
+达明显降低[23]。 MDSC 细胞拥有抑制 T 细胞增殖和
+诱导细胞毒性 T 淋巴细胞活性的能力[24-25]。 并且MDSC
+细胞通过特异性高表达 Arg-1、iNOS 酶分别产生尿
+素、L-鸟氨酸和 NO 来抑制 T 细胞活性[26-27]。 肌 细 胞
+增 强 因 子 2 家 族 蛋 白(myocyte enhancer factor-2,
+MEF2)作为控制基因表达与表观遗传修饰的转录因
+子，其家族亚型在不同组织中的表达水平表现出一
+定的异质性[28]。 其中，MEF2C 亚型在骨髓细胞中特
+异性表达并广泛参与了骨髓祖细胞的增殖、分化与
+成熟，对免疫系统调节有至关重要的作用[6，28-29]。 在
+一项对骨髓细胞分化及粒细胞功能调节的研究中发
+现，MEF2C 是潜在的对 MDSC 细胞分化增殖调控的
+靶点[6]。
+在本课题组前期对临床 AIH 患者的证候研究
+中发现，患者求诊时常以脾虚生湿、湿郁化热之面色
+萎黄、乏力倦怠、舌苔黄厚腻有齿痕等表现为主，土
+壅木郁化热而又见胁肋闷痛不适等，又或发黄疸等
+症。 AIH 的病因病机可归纳为先天禀赋不足，或劳
+伤脾胃，乃至脾胃运化失司，水谷生湿化热，蕴结成
+毒；中焦受气取汁，变化而赤，是谓血，脾虚令中焦气
+机失运，则气血生化不足，又肝体阴而用阳，若肝失
+阴血滋养则气不涵养而化火灼津，反伤于肝而成
+AIH。 其中，肝郁脾虚，气滞、湿热与邪毒令本病虚实
+夹杂，缠绵难愈。 总结出本病之病位在肝，而根本在
+乎脾与肾，以脾肾虚为本，湿热瘀邪为标。 因此，以
+人参为核心立方，辅以疏肝祛邪，养护中土，健运脾
+胃，以行散中焦湿阻，肝气无湿阻则与脾气升降运
+行，周身大气一转，正气充盛则邪气散而 AIH 得愈。
+人参大补肺脾肾元气，能充养正气而祛邪外出，
+而人参皂苷是其中发挥补益元气最主要的药效成
+208
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+分，目前已发现的皂苷类单体已多达 30 余种[30]。 目
+前已有较多关于人参皂苷扶正祛邪的功效在免疫学
+方面的研究，如人参皂苷 Rg3 可呈剂量依赖性激活
+IL-12 途径诱导树突状细胞的成熟与下调 CD4+T 细
+胞[31-32]，Rh2 可通过增强 CD4+、CD8+T 细胞活性并
+诱导 T 细胞向肿瘤细胞周围浸润 [33]，Rg3 可通过激
+活巨噬细胞吞噬活性，激活 CD4+T 细胞活性，促进
+IFN-γ、TNF-β、IL-2 等细胞因子增强机体免疫功
+能[34-35]等。 人参皂苷不同单体在不同的疾病中常可
+表现出不同的免疫调节能力[36]，总体而言这种对免
+疫双向调节的能力都可归纳为中医理论的扶正祛
+邪。正所谓“正气内存，邪不可干”，于宏观而言，人参
+对机体的调补之功，乃补气生津，安神益智；于微观
+言，这种补摄之能不再局限于传统的“补”，而在于
+“阴平阳秘，精神乃治”；免疫过强，则“阳强不能密，
+阴气乃绝”，人参有选择性地降低过高的免疫水平，
+提高过低的免疫水平，使机体免疫处于健康平和的
+状态，则阴阳平和，相互协调，其人气实而难生 AIH。
+有研究表明，人参皂苷对机体的调节活性与GC
+相似，大多是通过 GR 实现的[37]，这或与人参皂苷拥
+有与 GC 相似的甾体样化学结构有关[12]。自身免疫性疾
+病患者临床一线用药以地塞米松、泼尼松龙等 GC
+为主。 有中医学者认为，糖皮质激素之于人体，有补
+火助阳之功，少用可“少火生气”，温煦脏腑，运行气
+血，补元阳而散阴寒；峻用、久用则“壮火食气”，煎灼
+津液，耗伤精髓[38-39]。 长期 GC 用药除产生一系列严
+重不良反应外，还会降低 GR 表达与活性，最终导
+致 GC 耐受[40-41]。 这也与 GC 的“少火生气，壮火食
+气”相似。 但研究指出，人参皂苷可通过上调 GR 表
+达水平、增强 GR 与 GC 的结合活力、辅助 GR 对下
+游通路的激活效应等方式减轻由 GC 带来的不良反
+应，并对 GC 增效减毒[30]。 但目前尚未有研究表明人
+参皂苷也通过激活 GR，对 AIH 有相同的免疫调节作
+用。 因此，我们设立地塞米松为阳性对照，观察人参
+皂苷对 AIH 小鼠的影响。 实验结果表明，人参皂苷
+可通过上调 GR 的表达，增强 Arg-1、iNOS 的转录与
+表达，促进 MDSC 与 Treg 的表达，抑制 Th17 细胞的
+数量，调整肝脏的免疫微环境。 这种人参皂苷对免
+疫细胞的调节与糖皮质激素相似，均可调节小鼠免
+疫微环境，缓解 AIH 肝脏中 T 效应细胞带来的肝脏
+损伤。 同时，在应用人参皂苷或地塞米松后 MEF2C
+的表达量均有所提升。 由此推测，人参皂苷对MDSC
+的激活作用或与其对 MEF2C 的激活有关。 此外，在
+对外周血外泌体的 miRNA 检测中，本研究表明人参
+皂苷与地塞米松均对 miRNA-223 表现出良好的抑
+制作用。 实验结果表明人参皂苷对 AIH 小鼠的保护
+作 用 或 通 过 对 miRNA -223 的 抑 制 与 对 GR 与
+MEF2C 的激活实现，据此实现对MDSC 的扩增与对
+肝脏免疫微环境的调节。
+虽然在我们的实验中人参皂苷对 AIH 中肝脏
+的保护作用略低于 AIH+DEX，且应用剂量远大于
+后者，但鉴于人参皂苷在一定剂量的应用尚未有严
+重不良反应报道，对比 GC 长期、大剂量应用带来的
+严重不良反应，人参皂苷或能成为 GC 之后新的替代
+选择。
+参考文献
+[1] FLOREANI A, RESTREPO-JIMÉNEZ P, SECCHI M F, et al.
+Etiopathogenesis of autoimmune hepatitis[J]. Journal of Autoim-
+munity, 2018, 95: 133-143.
+[2] 中华医学会肝病学分会,中华医学会消化病学分会,中华医学会
+感染病学分会.自身免疫性肝炎诊断和治疗共识(2015)[J].胃肠病
+学,2016,21(3):165-178.
+[3] KATSUMI T, UENO Y. Epidemiology and surveillance of au-
+toimmune hepatitis in Asia[J]. Liver International, 2022, 42(9):
+2015-2022.
+[4] MIELI -VERGANI G, VERGANI D, CZAJA A J, et al. Au-
+toimmune hepatitis[J]. Nature Reviews Disease Primers, 2018, 4:
+18017.
+[5] DOYCHEVA I, WATT K D, GULAMHUSEIN A F. Autoimmune
+hepatitis: Current and future therapeutic options[J]. Liver Inter-
+national: Official Journal of the International Association for the
+Study of the Liver, 2019, 39(6): 1002-1013.
+[6] JOHNNIDIS J B, HARRIS M H, WHEELER R T, et al. Regu-
+lation of progenitor cell proliferation and granulocyte function by
+microRNA-223[J]. Nature, 2008, 451(7182): 1125-1129.
+[7] EL GAZZAR M. microRNAs as potential regulators of myeloid-
+derived suppressor cell expansion[J]. Innate Immunity, 2014, 20
+(3): 227-238.
+[8] YUAN X Y, BERG N, LEE J W, et al. microRNA miR-223 as
+regulator of innate immunity[J]. Journal of Leukocyte Biology, 2018,
+104(3): 515-524.
+[9] CLEVERS H, et al. At the crossroads of inflammation and can-
+cer[J]. Cell, 2004, 118(6): 671-674.
+[10] LU T X, LIM E J, BESSE J A, et al. miR-223 deficiency in-
+creases eosinophil progenitor proliferation [J]. Journal of Im-
+munology, 2013, 190(4): 1576-1582.
+[11] CHEN C Z, LI L, LODISH H F, et al. microRNAs modulate
+209
+湖南中医药大学学报 http://hnzyydxxb.hnucm.edu.cn
+2023 年第 43 卷
+hematopoietic lineage differentiation[J]. Science, 2004, 303(5654):
+83-86.
+[12] 王海南.人参皂苷药理研究进展[J].中国临床药理学与治疗学,
+2006,11(11):1201-1206.
+[13] 李群益,陈
+莉,张留弟,等.人参皂苷代谢产物 Compound K 抑制
+TNF-α 诱导的人支气管上皮细胞分泌 RANTES[J].第二军医大
+学学报,2015,36(7):722-726.
+[14] LEE J, LEE E, KIM D, et al. Studies on absorption, distribution
+and metabolism of ginseng in humans after oral administration[J].
+Journal of Ethnopharmacology, 2009, 122(1): 143-148.
+[15] 李
+勇,李毅平,虞
+胜,等.人参皂苷 Rg1 诱导人肝 HL-7702 细
+胞糖皮质激素受体报告基因表达的作用[J].中草药,2006,37(12):
+1823-1826.
+[16] 封颖璐,凌昌全,程彬彬.人参皂甙逆转糖皮质激素下调其受体的
+实验研究[J].中华内分泌代谢杂志,2008,24(4):425-427.
+[17] 曾小莉，涂植光.人参皂甙 Rh2 对人肝癌细胞 SMMC-7721 信号
+传导的影响[J].中华肝脏病杂志,2004(9):58-59.
+[18] WU J Y, PAN Z F, CHENG M Y, et al. Ginsenoside Rg1 fa-
+cilitates neural differentiation of mouse embryonic stem cells via
+GR-dependent signaling pathway[J]. Neurochemistry International,
+2013, 62(1): 92-102.
+[19] LOHSE A W, MANNS M, DIENES H P, et al. Experimental
+autoimmune hepatitis: Disease induction, time course and T -
+cell reactivity[J]. Hepatology, 1990, 11(1): 24-30.
+[20] SUCHER E, SUCHER R, GRADISTANAC T, et al. Autoim-
+mune hepatitis-immunologically triggered liver pathogenesis-di-
+agnostic and therapeutic strategies [J]. Journal of Immunology
+Research, 2019, 2019: 9437043.
+[21] LIBERAL R, et al. Pathogenesis of autoimmune hepatitis[J]. Best
+Practice & Research Clinical Gastroenterology, 2011, 25(6): 653-
+664.
+[22] MIYARA M, GOROCHOV G, EHRENSTEIN M, et al. Human
+FoxP3+ regulatory T cells in systemic autoimmune diseases[J].
+Autoimmunity Reviews, 2011, 10(12): 744-755.
+[23] LONGHI M S, HUSSAIN M J, MITRY R R, et al. Functional
+study of CD4+CD25+ regulatory T cells in health and autoim-
+mune hepatitis[J]. Journal of Immunology, 2006, 176(7): 4484-
+4491.
+[24] RASHID O M, NAGAHASHI M, RAMACHANDRAN S, et al.
+Resection of the primary tumor improves survival in metastatic
+breast cancer by reducing overall tumor burden [J]. Surgery,
+2013, 153(6): 771-778.
+[25] SALVADORI S, MARTINELLI G, ZIER K. Resection of solid tu-
+mors reverses T cell defects and restores protective immunity[J].
+Journal of Immunology, 2000, 164(4): 2214-2220.
+[26] RODRíGUEZ P C, OCHOA A C. Arginine regulation by myeloid
+derived suppressor cells and tolerance in cancer: Mechanisms
+and therapeutic perspectives [J]. Immunological Reviews, 2008,
+222: 180-191.
+[27] BRONTE V, ZANOVELLO P. Regulation of immune responses by
+L-arginine metabolism[J]. Nature Reviews Immunology, 2005, 5
+(8): 641-654.
+[28] DI GIORGIO E, HANCOCK W W, BRANCOLINI C. MEF2 and
+the tumorigenic process, hic sunt leones[J]. Biochimica et Bio-
+physica Acta Reviews on Cancer, 2018, 1870(2): 261-273.
+[29] SCHÜLER A, SCHWIEGER M, ENGELMANN A, et al. The MADS
+transcription factor Mef2c is a pivotal modulator of myeloid
+cell fate[J]. Blood, 2008, 111(9): 4532-4541.
+[30] 师
+哲,李
+勇.人参皂苷对糖皮质激素受体途径调节作用研究
+进展[J].中华中医药学刊,2021,39(11):162-165.
+[31] LEE Y J, SON Y M, GU M J, et al. Ginsenoside fractions
+regulate the action of monocytes and their differentiation into
+dendritic cells[J]. Journal of Ginseng Research, 2015, 39(1): 29-
+37.
+[32] SON K J, CHOI K R, LEE S J, et al. Immunogenic cell death
+induced by ginsenoside Rg3: Significance in dendritic cell -
+based anti-tumor immunotherapy[J]. Immune Network, 2016, 16
+(1): 75-84.
+[33] WANG M, YAN S J, ZHANG H T, et al. Ginsenoside Rh2 en-
+hances the antitumor immunological response of a melanoma
+mice model[J]. Oncology Letters, 2017, 13(2): 681-685.
+[34] 陈洪志,罗花南,权博源,等.人参皂苷 Rg3 对鼻咽癌放疗患者 CD
+80/86 表达及细胞免疫功能的影响 [J].吉林中医药 ,2017,37(12):
+1211-1214.
+[35] 王
+曼,黄
+念,凌昌全.人参皂苷 Rg3 对肿瘤的免疫调节作用及
+其纳米给药体系研究进展[J].中草药,2019,50(15):3729-3734.
+[36] 王超楠,赵大庆,王隶书,等.人参及复方人参制剂免疫双向调节
+机制及应用研究进展[J].时珍国医国药,2021,32(1):177-180.
+[37] WEBB G J, HIRSCHFIELD G M. Using GWAS to identify ge-
+netic predisposition in hepatic autoimmunity[J]. Journal of Autoim-
+munity, 2016, 66: 25-39.
+[38] 陈
+鑫.从阳气角度论糖皮质激素的作用[J].山东中医杂志,2019,38
+(8):732-734，739.
+[39] 刘芬芬,羊
+维,黄
+琳,等.中医学对糖皮质激素主治功效的药
+性认识[J].中华中医药杂志,2015,30(4):1268-1270.
+[40] 李
+勇,李
+敏,王
+喜,等.人参茎叶皂甙增强糖皮质激素受体
+转录激活效应的实验研究[J].中国中西医结合杂志,2004,24(8):710-
+713.
+[41] 张书印,丁选胜,方
+芸.炎症性疾病中糖皮质激素抵抗机制的研
+究进展[J].药物评价研究,2017,40(12):1811-1815.
+（本文编辑
+苏
+维）
+210

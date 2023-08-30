@@ -1,0 +1,470 @@
+浙江中西医结合杂志 2023 年第 33 卷第 4 期
+ZJITCWM（Vol.33 No.4 2023）
+摘
+要
+目的
+探讨人参皂苷 Rd 对大脑中动脉闭塞（MCAO）模型大鼠血管新生的影响及相关机
+制。方法
+40 只 SD 大鼠随机数字表法分为假手术组、模型组、人参皂苷 Rd 组（Rd 组）、人参皂苷
+Rd+环靶明（CYC）组（Rd+CYC 组），每组 10 只。采用线栓塞法建立 MCAO 模型大鼠，假手术组仅分
+离左侧颈总动脉、颈外动脉和颈内动脉。造模成功后，Rd 组大鼠按照 50 mg/kg 给予人参皂苷 Rd，
+Rd+CYC 组按 50 μg/kg 给予 CYC 腹腔注射，假手术组和模型组给予同等剂量的生理盐水，每天给
+药 1 次，连续给药 2 周。各组大鼠神经功能评分，TTC 方法检测脑梗死体积，显微镜下观察脑组织毛
+细血管密度，蛋白质免疫印记检测血管生成相关分子和声波刺猬信号蛋白（SHH）、血管内皮生长因
+子（VEGF）、血管紧张素-1（ANG-1）、血管紧张素-2（ANG-2）蛋白表达水平。结果
+与模型组比较，
+Rd 组大鼠神经功能评分显著降低[（1.000±0.471）分比（3.100±0.738）分，P<0.01]；脑梗死体积显著减
+少[（18.120±3.735）%比（33.920±2.954）%，P<0.01]；脑梗死区域毛细血管数量显著增加[（389.60±
+23.34）条比（54.37±11.21）条，P<0.01]；血管生成相关分子 SHH、VEGF、ANG-1、ANG-2 蛋白表达水
+平显著升高[SHH：
+（1.267±0.038）比（0.533±0.043）；VEGF：
+（0.866±0.035）比（0.596±0.055）；ANG-1：
+（0.880±0.036）比（0.510±0.056）；ANG-2：
+（0.870±0.040）比（0.386±0.045），P 均<0.01]。与 Rd 组比较，
+Rd+CYC 组大鼠神经功能评分显著升高[（2.700±0.675）分比（1.000±0.471）分，P<0.01]；脑梗死体积
+显著增加 [（28.910±4.491）%比 （18.120±3.735）%，P<0.01]；脑梗死区域毛细血管数量显著减少
+[（180.90±37.37）条比（389.60±23.34）条，P<0.01]；血管生成相关分子 VEGF、ANG-1、ANG-2 蛋白表
+达水平显著下降[VEGF：
+（0.600±0.007）比（0.866±0.035）；ANG-1：
+（0.570±0.027）比（0.880±0.036）；
+ANG-2：
+（0.476±0.038）比（0.87±0.04），P 均<0.01]。结论
+人参皂苷 Rd 可能通过 SHH 信号通路促
+进脑梗死区域血管生成，改善 MCAO 模型大鼠预后并发挥保护作用。
+关键词
+大鼠；人参皂苷；脑梗死；大脑中动脉闭塞；声波刺猬信号蛋白
+Mechanism of ginsenoside Rd in promotion of angiogenesis by regulaiton of SHH signaling pathway activity
+in a rat model of middle cerebral artery occlusion （MCAO） WANG Bao-xiang, XU Jun-jie.
+Department of
+Neurology, The First Hospital of Jiaxing City, Jiaxing, Zhejiang 314000, China
+ABSTRACT Objective
+To assess the effects of ginsenoside Rd on regulation of angiogenesis in a rat model of
+the middle cerebral artery occlusion （MCAO） and then explored the underlying molecular events. Methods
+Forty
+Sprague -Dawley rats were randomly divided into sham operation, MCAO model control, model +ginsenoside Rd
+（Rd）, and model+ginseng Saponin Rd+cyclopamine（Rd+CYC）groups（n=10 per group）. The model rats were estab-
+lished by thread embolization and their neurological function scores and assessed and the volume of the cerebral
+infarction （CI） was detected by the TTC method, while the capillary density of rat brain tissues was observed in
+H&E stained tissue section under a microscope and expression of the angiogenesis-related molecules, sonic hedge-
+hog（SHH）, vascular endothelial growth factor（VEGF）, angiotensin-1（ANG-1）, and angiotensin-2（ANG-2） proteins
+人参皂苷 Rd 通过 SHH 信号通路促进
+MCAO 模型大鼠血管新生机制研究
+王宝祥
+许俊杰
+基金项目：浙江省医药卫生科技计划项目（No.2020RC123）
+作者单位：浙江省嘉兴市第一医院神经内科（嘉兴 314000）
+通信作者：王宝祥，E-mail：wbxjsdt@163.com
+·论
+著·
+308
+浙江中西医结合杂志 2023 年第 33 卷第 4 期
+ZJITCWM（Vol.33 No.4 2023）
+were analyzed using Western blot. Results
+The Rd treatment significantly reduced the neurological function score
+in rats（1.000±0.471 vs. 3.100±0.738; P<0.01）and the CI volume （18.120±3.735 vs. 33.920±2.954; P<0.01）com-
+pared those of the model control rats, whereas the Rd treatment significantly increased the number of capillaries in
+the CI area（54.37±11.21 vs. 389.60±23.34） compared to that of the model control mice（P<0.01）. In addition, the
+ginsenoside Rd treatment significantly increased levels of SHH （1.267±0.038 vs. 0.533±0.043）, VEGF（0.866±0.035
+vs. 0.596±0.055）, ANG-1（0.88±0.036 vs. 0.51±0.056）, and ANG-2（0.87±0.04 vs. 0.386±0.045）proteins compared
+with the model controls （all P<0.01）. However, the SHH-specific inhibitor CYC was able to weaken the protective
+and angiogenesis effect of ginsenoside Rd, but decrease levels of VEGF, ANG-1, and ANG-2 proteins in mice.
+Conclusion
+Ginsenoside Rd promotes angiogenesis in the CI region through activation of the SHH signaling and
+prognosis of MCAO model rats in vivo.
+KEY WORDS
+Rat; Ginsenosides; Stroke; MCAO; SHH
+脑梗死发病率高、复发率高、致残率高，严重威
+胁中老年人的生命安全，是全球人口死亡的主要原
+因之一[1-2]。大脑动脉血栓形成后，梗死脑组织周围会
+自发形成新生血管，建立侧支循环，提供血液灌注，
+可部分重建神经网络结构，恢复脑组织功能[3-4]。有研
+究 发 现 ， 声 波 刺 猬 信 号 蛋 白 （sonic hedgehog
+signaling，SHH） 可促进血管内皮生长因子（vascular
+endothelial growth factor，VEGF）表达，改善脑缺血边
+界区的微血管密度，促进血管生成和神经元存活，在
+大脑中动脉闭塞（middle cerebral artery occlu-sion，
+MCAO）模型大鼠中发挥保护作用[5]。活血通络法是传
+统中医治疗脑梗死的常用有效方法。早期积极化瘀
+通络治疗有助于梗死区血供恢复，减少神经功能损
+害，持续通络治疗还可能使梗死区微血管（脉络）再
+生，对梗死区功能恢复具有积极作用[6]。研究发现，
+人参皂甙 Rd 可通过 PI3K/mTOR/HIF-1α 通路促进
+MCAO 模型大鼠血管新生[7]。基于以上基础，我们以
+MCAO 模型大鼠为研究对象，观察人参皂苷 Rd 对治
+疗后缺血区域脑组织中血管的数量，进一步通过蛋
+白质免疫印记检测血管生成相关分子 SHH、VEGF、
+血管紧张素-1（angiotensin-1，ANG-1）及血管紧张
+素-2（angiotensin-2，ANG-2）的表达水平。
+1
+材料与方法
+1.1
+动
+物
+40 只 6~8 周龄雄性清洁级 SD 大鼠，
+体质量 180~220 g，购买自上海斯莱克实验动物有限
+责任公司，动物生产许可证号：SCXK （沪）2017-
+0005；动物使用许可证号：SYXK（浙）2014-0017。将
+大鼠饲养于室温 24 ℃、相对湿度 60%、12 h 昼夜循
+环的洁净动物房内。所有动物实验均经嘉兴学院动
+物伦理委员会批准，伦理申请编号：JXYY2022-001。
+1.2
+主要药物
+人参皂苷 Rd 购买自信邦制药公司
+（批号 B21054）。
+1.3
+试剂及设备
+山羊抗鼠二抗“β-actin、VEGF、
+SHH 和 ANG-2、山羊抗鼠 IgG 抗体购自 CST（Cell
+Signaling Technology，USA， 批 号 分 别 为 ：#3700S，
+#9698，#2207,#79299S，#91196）”。ANG -1 购 买 自
+Sigma 公司（批号 APREST74500）。磷酸盐缓冲液购
+自 Boster（中国武汉，货号：AR0188）。增强型化学发
+光（ECL）发光试剂盒购自 Beyotime Biotechnology（中
+国上海，批号 P0018FS）。二辛可宁酸（BCA）蛋白试剂
+盒（批号 KGP902）、环靶明（Cyclopamine，CYC，批号
+SF6809）购自凯基生物科学公司（中国上海）。超净工
+作台购自苏州净化设备厂（型号：SW-CJ-1D/2D），脑
+立体定向仪购自广东省深圳瑞沃德生命科技有限公
+司（型号：标准型脑立体定位仪），大鼠脑切片模具购
+自上海玉研科学仪器有限公司（型号：5 punches），显
+微 镜 购 自 日 本 的 Olympus 公 司 （型 号 ：IXplore
+Standard）；激光多普勒血流仪购自瑞典 Perimed 公司
+（型号：PeriFlux 6000），Western blot 电泳转印系统
+购买自美国 Bio-rad 公司（型号：16580333）。
+1.4
+分
+组
+40 只 SD 大鼠计算机随机获取编号，
+分为四组：假手术组、模型组、人参皂苷 Rd 组（Rd
+组）和人参皂苷 Rd 组+CYC 组（Rd+CYC 组），每组
+10 只。如出现造模失败，则补充造模成功 SD 大鼠数
+量至 10 只。
+1.5
+MCAO 模型建立及给药
+采用 4%戊巴比妥钠
+（3 mL/kg）腹腔注射麻醉动物，仰卧固定在大鼠板上，
+将大鼠的颈外动脉系结，将单丝尼龙缝合线（4-0）从
+颈总动脉经颈外动脉插入颈内动脉。然后使用单丝
+尼龙缝合线在其起点（18 mm）处阻断左侧大脑中动
+脉。缺血 2 h 后，取出线栓进行再灌注。大鼠苏醒后参
+照修正的神经严重程度评分（MRS）对神经损伤程度
+进行评分。假手术组仅分离左侧颈总动脉、颈外动脉
+和颈内动脉。曾联婷[7]研究中，按照 10 mg/（kg·d）通
+309
+浙江中西医结合杂志 2023 年第 33 卷第 4 期
+ZJITCWM（Vol.33 No.4 2023）
+过腹腔注射人参皂苷 Rd 给药。在本研究中，我们通
+过灌胃给药，考虑到药物吸收效率，因此人参皂苷
+Rd 按照 50 mg/kg 给药；CYC 通过腹腔注射按照 50
+μg/kg 给药。造模成功后每天给药 1 次，连续给药 2
+周。假手术组和模型组给予同等剂量生理盐水。
+1.6
+神经行为评分
+采用改良 Longa 分[8]，评分如
+下：0 分，无缺陷；1 分，对侧前肢完全伸展困难；2 分，
+不能伸展对侧前肢；3 分，微圈旋转；4 分，严重的圈
+圈旋转；5 分，向对方倾倒。评分后，将大鼠斩首处死，
+迅速获取脑组织样本用于进一步实验。
+1.7
+脑梗死体积测定
+大鼠处死后断头取脑组织，
+置于大鼠脑组织模具上，连续冠状面切成 2 mm 厚的
+脑片（以前囟为基点：+3.7，+1.0，-0.8，-3.3，-5.3），将
+切片置于 2，3，5-三苯基氯化四氮唑 （2，3，5-Triph-
+enyltetrazolium chloride，TTC）染料溶液中，避光，置于
+37 ℃培养箱中 30 min，使其染色均匀，再于 4 ℃条件
+下于 10%甲醛溶液中固定 2 h。红色是正常脑组织，
+白色是梗死脑组织。将染色的脑切片依次切片、排
+列、标记、设置尺子并拍照。使用 Image-Pro Plus 图
+像处理软件计算脑梗死体积，将结果用于统计分析。
+1.8
+毛细管密度评估
+用脑组织制备冷冻脑切片，
+然后在显微镜下观察并拍照，记录血管数量。
+1.9
+蛋白质印迹
+将液氮中各组脑组织置于冰上，加
+入放射免疫沉淀法裂解缓冲液（radio immunoprecipi-
+tation assay，RIPA），冰上裂解 30 min，以 12000 r/min，
+4 ℃离心 15 min，取上清。蛋白质是 BCA 法定量，上
+清液按 4∶1 比例加入 5x 白色上样缓冲液，沸水加热
+变性 10 min。样品和 5 μL 蛋白质标记物进行十二烷
+基硫酸钠聚丙烯酰胺凝胶电泳（sodium dodecyl sul-
+fate polyacrylamide gel electrophoresis，SDS PAGE）以
+分离蛋白质条带。电泳结束后，以 300 mA 的电流转
+移膜 90 min。5%脱脂牛奶室温密封 2 h 后，用加吐温
+的等渗缓冲盐溶液 （Tris-HCL balanced sodium+
+Tween，TBST）洗膜 3 次，每次 5 min。加入替换后的一
+抗 β -actin、SHH、VEGF、ANG -1、ANG -2 抗 体 （1 ∶
+1000），4 ℃摇床过夜。第二天，TBST 溶液洗涤 3 次。
+每 5 min 将辣根过氧化物酶（Horseradish Peroxidase，
+HRP）标记的山羊抗鼠二抗（1∶5000）室温振荡 1 h，
+TBST 溶液每 5 min 洗涤 3 次。最后均匀滴下 ECL 发
+光液，使用凝胶成像仪进行曝光拍摄。ImageJ 软件测
+量条带灰度值，目标蛋白条带灰度值与内参 β-actin
+灰度值的比值表示目标蛋白的相对表达水平。实验
+独立重复 3 次。
+1.10
+统计学方法
+应用 SPSS 19.0 软件对数据进
+行统计分析。符合正态分布的测量数据以均数±标
+准差（x±s）。多组间测量数据的比较采用单因素方差
+分析。两组间比较方差均匀时采用 LSD 检验，方差
+不均匀时采用 K-W 检验。P<0.05 表示差异有统计
+学意义。
+2
+结
+果
+2.1
+人参皂苷 Rd 对 MCAO 大鼠神经功能评分和脑
+梗死体积的影响
+TTC 染色结果显示，红色为脑组
+织正常区，白色为脑梗死区（见图 1）。假手术组无神
+经功能缺失症状，几乎没有脑梗死；与假手术组比
+较，模型组大鼠神经功能评分显著增加（P<0.01），左
+半球有明显脑梗死区，表示造模成功；与模型组比
+较，Rd 组大鼠神经功能评分显著降低（P<0.01），脑梗
+死体积显著减少（P<0.01）；与 Rd 组比较，Rd+CYC
+组大鼠神经功能评分显著升高（P<0.01），脑梗死体
+积显著增加（P<0.01），见表 1。
+2.2
+人参皂苷 Rd 促进血管新生
+与假手术组比
+较，模型组大鼠新生血管数量明显减少（P<0.01）；Rd
+组新生血管数量较模型组显著增加（P<0.01）；与 Rd
+组比较，Rd+CYC 组新生血管数量显著降低 （P<
+图 1
+各组大鼠脑梗死体积变化
+注：Rd 组予人参皂苷 50 mg/kg 灌胃；Rd+CYC 组予人参皂苷 50 mg/kg 灌胃+CYC 50 μg/kg 腹腔注射；假手术组与模型组予同等
+剂量生理盐水；Rd 为人参皂苷 Rd；CYC 为环靶明
+310
+浙江中西医结合杂志 2023 年第 33 卷第 4 期
+ZJITCWM（Vol.33 No.4 2023）
+0.01）。见表 2、图 2。
+2.3
+人参皂苷 Rd 促进 SHH 信号通路相关分子表
+达
+与假手术组比较，模型组血管生成相关分子
+SHH、VEGF、ANG-1、ANG-2 表达水平明显降低（P
+均 <0.01）；Rd 组 较 模 型 组 ，SHH、VEGF、ANG -1、
+ANG-2 蛋白表达水平显著升高（P 均<0.01）；与 Rd
+组比较，Rd+CYC 组 SHH 表达未见明显改变（P>
+0.05），但 CYC 明显抑制了 VEGF、ANG-1 和 ANG-2
+表达水平（P 均<0.01）。见表 3、图 3。
+3
+讨
+论
+促进血管新生可有效改善脑梗死预后。人参皂
+苷 Rd 在临床和实验室研究中均证实对脑梗死具有
+保护作用。在一项纳入 390 例脑梗死患者的随机、双
+盲、安慰剂对照、多中心临床试验中，研究者发现人
+参皂苷 Rd 可改善急性缺血性脑梗死[9]。叶瑞东[10]研
+究发现，人参皂苷 Rd 对脑梗死后氧化还原状态失衡
+组别
+假手术组
+模型组
+Rd 组
+Rd+CYC 组
+表 1
+各组大鼠神经功能评分及脑梗死体积比较（x±s）
+注：Rd 组予人参皂苷 50 mg/kg 灌胃；Rd+CYC 组予人参皂苷 50 mg/kg
+灌胃 +CYC 50 μg/kg 腹腔注射；假手术组与模型组予同等剂量生理
+盐水；Rd 为人参皂苷 Rd；CYC 为环靶明；与假手术组比较，
+aP<0.01；
+与模型组比较，
+bP<0.01；与 Rd 组比较，
+cP<0.01
+鼠数
+10
+10
+10
+10
+神经功能评分（分）
+0.000±0.000
+3.100±0.738a
+1.000±0.471ab
+2.700±0.675ac
+梗死体积（%）
+1.165±0.130
+33.920±2.954a
+18.120±3.735ab
+28.910±4.491ac
+图 2
+各组大鼠血管密度变化
+注：Rd 组予人参皂苷 50 mg/kg 灌胃；Rd+CYC 组予人参皂苷 50 mg/kg 灌胃+CYC 50 μg/kg 腹腔注射；假手术组与模型组予同等
+剂量生理盐水；Rd 为人参皂苷 Rd；CYC 为环靶明
+组别
+假手术组
+模型组
+Rd 组
+Rd+CYC 组
+表 2
+各组大鼠脑组织新生血管数量比较（条，x±s）
+注：Rd 组予人参皂苷 50 mg/kg 灌胃；Rd+CYC 组予人参皂苷 50 mg/kg
+灌胃 +CYC 50 μg/kg 腹腔注射；假手术组与模型组予同等剂量生理
+盐水；Rd 为人参皂苷 Rd；CYC 为环靶明；与假手术组比较，
+aP<0.01；
+与模型组比较，
+bP<0.01；与 Rd 组比较，
+cP<0.01
+鼠数
+10
+10
+10
+10
+新生血管数量
+128.10±14.34
+54.37±11.21a
+389.60±23.34ab
+180.90±37.37ac
+图 3
+各组大鼠脑组织 SHH、VEGF、ANG-1 和 ANG-2 蛋白质
+表达变化
+注：Rd 组予人参皂苷 50 mg/kg 灌胃；Rd+CYC 组予人参皂苷
+50 mg/kg 灌胃+CYC 50 μg/kg 腹腔注射；假手术组与模型组予
+同等剂量生理盐水；Rd 为人参皂苷 Rd；CYC 为环靶明；SHH
+为声波刺猬信号蛋白；VEGF 为血管内皮生长因子；ANG-1 为
+血管紧张素-1；ANG-2 为血管紧张素-2
+组别
+假手术组
+模型组
+Rd 组
+Rd+CYC 组
+表 3
+各组大鼠脑组织蛋白相对表达量比较（x±s）
+注：Rd 组予人参皂苷 50 mg/kg 灌胃；Rd+CYC 组予人参皂苷 50 mg/kg 灌胃 +CYC 50 μg/kg 腹腔注射；假手术组与模型组予同等剂量生理盐水；
+Rd 为人参皂苷 Rd；CYC 为环靶明；SHH 为声波刺猬信号蛋白；VEGF 为血管内皮生长因子；ANG-1 为血管紧张素 -1；ANG-2 为血管紧张素
+-2；与假手术组比较，
+aP<0.01；与模型组比较，
+bP<0.01；与 Rd 组比较，
+cP<0.01
+鼠数
+10
+10
+10
+10
+SHH
+1.017±0.029
+0.533±0.043a
+1.267±0.038ab
+1.217±0.048
+VEGF
+1.010±0.070
+0.596±0.055a
+0.866±0.035ab
+0.600±0.007ac
+ANG-1
+1.030±0.062
+0.510±0.056a
+0.880±0.036ab
+0.570±0.027ac
+ANG-2
+1.020±0.072
+0.386±0.045a
+0.870±0.040ab
+0.476±0.038ac
+311
+浙江中西医结合杂志 2023 年第 33 卷第 4 期
+ZJITCWM（Vol.33 No.4 2023）
+及线粒体功能障碍具有改善作用，可用于治疗急性
+缺血性脑梗死。在本研究中，我们发现人参皂苷 Rd
+可以改善 MCAO 模型大鼠神经功能，减少脑梗死体
+积，与其他研究者的研究结果一致。
+曾联婷 [7]研究发现，人参皂甙 Rd 通过 PI3K/
+mTOR/HIF-1α 通路，促进 MCAO 模型大鼠血管新
+生。在另一项肿瘤相关的研究中，人参皂甙 Rd 通过
+Akt/mTOR/p70S6K 信号通路抑制血管生成[11]。本研究
+发现，人参皂苷 Rd 可以促进脑梗死区域血管生成，
+证实了人参皂苷在脑梗死中的促血管生成作用。
+SHH 信号通路是生物进化中最保守的信号通路
+之一，参与脊椎动物和无脊椎动物胚胎发育的多个
+过程，对神经系统发育和器官形成有积极影响。有研
+究发现，维生素 D3 通过激活 SHH 信号通路改善
+MCAO 模型大鼠脑灌注并减少神经损伤[12]。最近的一
+项研究发现，复方通络汤通过激活 SHH 通路抑制内
+质网应激性铁死亡并促进血管生成，在脑梗死中发
+挥保护作用[13]。Sims 等[14]研究发现，脑梗死发生后海
+马神经元 SHH 蛋白表达水平显著上调，CYC 的使用
+抑制了海马神经干细胞的增殖，外源重组 SHH 蛋白
+可显著改善 MCAO 模型大鼠神经行为评分，减少脑
+梗死体积，促进脑梗死周围组织血管生成和神经干
+细胞增殖，而 SHH 抑制剂 CYC 则消除了脑梗死的
+神经保护作用。本研究发现，人参皂苷 Rd 促进 SHH
+及血管生成相关分子 VEGF、ANG-1 和 ANG-2 表
+达，而 SHH 抑制剂 CYC 则明显削弱了人参皂苷 Rd
+在脑梗死中的保护作用，减少血管生成，抑制 VEGF、
+ANG-1 和 ANG-2 的表达水平。这些结果表明人参
+皂苷 Rd 可能通过 SHH 信号通路，促进脑梗死区域
+血管新生，从而减少脑梗死体积。
+综上所述，本研究结果显示，调控 SHH 及血管
+新生相关蛋白，可能是人参皂苷 Rd 减少脑梗死体积
+的潜在机制。
+参
+考
+文
+献
+［1］ Roth GA，Mensah GA，Johnson CO，et al.Global burden of
+cardiovascular diseases and risk factors，1990-2019：update
+from the GBD 2019 Study［J］.J Am Coll Cardiol，2020，76
+（25）：2982-3021.
+［2］Nathanson MH，Andrzejowski J，Dinsmore J，et al.Guidelines
+for safe transfer of the brain -injured patient：trauma and
+stroke，2019：Guidelines from the Association of Anaesthetists
+and the Neuro Anaesthesia and Critical Care Society［J］.
+Anaesthesia，2020，75（2）：234-246.
+［3］ Zerna C，Thomalla G，Campbell BCV，et al.Current practice
+and future directions in the diagnosis and acute treatment of
+ischaemic stroke［J］.Lancet，2018，392（10154）：1247-1256.
+［4］ Sun P，Zhang K，Hassan SH，et al.Endothelium -targeted
+deletion
+of
+microRNA -15a/16 -1
+promotes
+poststroke
+angiogenesis and improves long-term neurological recovery
+［J］.Circ Res，2020，126（8）：1040-1057.
+［5］ Chen SC，Huang M，He QW，et al.Administration of sonic
+hedgehog protein induces angiogenesis and has therapeutic
+effects after stroke in rats［J］.Neuroscience，2017，352：285-
+295.
+［6］惠振.三七三醇皂苷促脑梗死大鼠血管新生改善脑灌注
+机制研究［D］.南京：南京中医药大学，2017.
+［7］曾联婷.人参皂甙 Rd 对成年大鼠缺血性脑卒中后血管发
+生的机制研究［D］.西安：中国人民解放军空军军医大学，
+2016.
+［8］ Wang Z，Sun Y，Bian L，et al.The crosstalk signals of
+Sodium Tanshinone Ⅱ A Sulfonate in rats with cerebral
+ischemic
+stroke：Insights
+from
+proteomics ［J］.Biomed
+Pharmacother，2022，151：113059.
+［9］ Liu X，Wang L，Wen A，et al.Ginsenoside -Rd improves
+outcome of acute ischaemic stroke-a randomized，double-
+blind，placebo-controlled，multicenter trial［J］.Eur J Neurol，
+2012，19（6）：855-63.
+［10］叶瑞东.人参皂苷 Rd 治疗急性缺血性 CI 的临床前研究
+［D］.西安：第四军医大学，2012.
+［11］ Zhang E，Shi H，Yang L，et al.Ginsenoside Rd regulates
+the Akt/mTOR/p70S6K signaling cascade and suppresses
+angiogenesis and breast tumor growth［J］.Oncol Rep，2017，
+38（1）：359-367.
+［12］ Bao GQ，Yu JY.Vitamin D3 promotes cerebral angiogenesis
+after cerebral infarction in rats by activating Shh signaling
+pathway ［J］.Eur Rev Med Pharmacol Sci，2018，22（20）：
+7069-7077.
+［13］ Peng L，Yin J，Ge M，et al.Isoflurane post -conditioning
+ameliorates
+cerebral
+ischemia/reperfusion
+injury
+by
+enhancing angiogenesis through activating the Shh/Gli
+signaling pathway in rats［J］.Front Neurosci，2019，13：
+321.
+［14］Sims JR，Lee SW，Topalkara K，et al.Sonic hedgehog regulates
+ischemia/hypoxia -induced neural progenitor proliferation
+［J］.Stroke，2009，40（11）：3618-3626.
+（收稿：2022-05-28
+修回：2022-11-07）
+312

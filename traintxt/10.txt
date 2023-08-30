@@ -1,0 +1,839 @@
+中国药理学通报c危i 嬲e尸吮nr，n∞o如畹oZ Bu如￡讥2022 Oct ；38( 10) ：1466～72
+网络出版时间：2022—9—16 18：48
+网络出版地址：htl ps：／／kns．cnki ．neL／kcms／detai L／34．1086．R．20220915．1515．叭2．ht“
+◇ 心血管药理学◇
+丹酚酸B、人参皂苷R91及三七皂苷R1
+对氧糖剥夺／复氧复糖损伤星形胶质细胞的保护作用
+杨娟，曹玉爽，徐耀，杜鑫苑，张彤，郭莉琛，袁庆，柴丽娟，胡利民
+( 天津中医药大学中医药研究院、天津市中药药理学重点实验室、方剂学教育部重点实验室，天津301600)
+doi ：10．12360／CPB2021 1 l “ 7l
+文献标志码：A文章编号：1001一1978( 2022) 10—1466一07
+中国图书分类号：R一332；R284．1；R322．81；R329．24；
+R852．15
+摘要：目的探讨丹酚酸B( sal vi anol at e aci d B，Sal
+B) 、人参
+皂苷R91( 西nsenosi de Rgl ，R91) 及三七皂苷R1( not ogi nsen—
+osi de Rl ，R1) 对氧糖剥夺／复氧复糖( 0GD／R) 损伤大鼠星形
+胶质细胞保护作用及其机制的影响。方法
+培养并鉴定原
+代大鼠星形胶质细胞，建立0GD／R损伤模型，分为对照组、
+模型组、Sal B、R91、R1给药组( 10“ m01．L。1) 。CCK- 8测定
+细胞活力；流式细胞术测定线粒体膜电位、R0s释放量和钙
+离子浓度；RT—PcR测定I GFl 0【、BDNF、NGF神经营养因子
+mRNA表达水平；免疫印迹法测定P13K、AKT、STA仍蛋白磷
+酸化表达水平。结果OGD／R组细胞活力显著降低，R0s
+释放量及钙离子浓度增加，线粒体膜电位降低，p—sTArl 3，p—
+P13K，p—AKT表达下降，sal
+B、R91、R1显著提高受损细胞活
+力，不同程度的调节R0s释放量、钙离子浓度、线粒体膜电
+位，sal B及R91增加p．sTA．13，p—AKT的表达；0GD／R组
+BDNF、NGF mRNA表达明显降低，sal B、R91、Rl 均可显著升
+高受损细胞BDNF mRNA的表达；R91可提高NGF mRNA表
+达；sal B升高I GFl 仪mRNA表达。结论
+sal
+B、R91、砌通
+过调节P13K／AKT、sTArl 3信号通路降低oGD／R损伤后星
+形胶质细胞氧化应激反应，降低细胞内钙离子超载发挥星形
+胶质细胞保护作用，增加星形胶质细胞神经营养因子的释放
+量，可能进一步发挥神经元保护作用。
+关键词：丹酚酸B；人参皂苷R91；三七皂苷R1；星形胶质细
+胞；氧糖剥夺／复氧复糖；氧化损伤；神经营养因子
+开放科学( 资源服务) 标识码( oSm) ： 鬻
+收稿日期：2022一02—17，修回日期：2022—04—17
+基金项目：国家自然科学基金资助项目( No 81573644)
+作者简介：杨娟( 1995一) ，女，硕士生，研究方向：脑血管药理，E—
+mai l ：yj l 99512270808@163．co“ ；
+柴丽娟( 1976一) ，女，博士，副研究员，研究方向：中药药
+理学，通信作者，E- mai l ：yj l 99512270808@163．co“ ；
+胡利民( 1966一) ，男，博士，研究员，博士生导师，研究方
+向：中药药理学，通信作者，E- mai l ：hul i mi n@qut cm．edu．cn
+缺血性脑卒中损伤的生理病理过程复杂多样，
+主要涉及细胞凋亡、氧化应激、细胞内钙离子超载
+等，这些机制发生在不同时期，但又相互联系，最终
+引发缺血中心区域组织的不可逆损伤⋯ 。星形胶
+质细胞约占脑胶质细胞的一半，是胶质细胞中最丰
+富的亚型，对成人中枢神经系统的功能至关重要，执
+行多种功能，如维持正常的脑功能，形成血脑屏障，
+控制和支持神经元，循环神经递质，以及与其他细胞
+通信心J ，因此研究星形胶质细胞具有重要的意义。
+丹参三七是临床上常用的药对，目前在预防和
+治疗心脑血管疾病中使用较为频繁，sal B是丹参水
+溶性酚酸类成分∞J ，研究表明其抗脑缺血／再灌注
+损伤作用机制主要为血流动力学的改善、氧化损伤
+减轻；改善能量代谢障碍、减轻脑部水肿；维持血脑
+屏障完整性等MJ 。R91和R1均是三七总皂苷类成
+分，具有广泛的药理活性，可改善急性缺血性脑卒中
+后血脑屏障通透性，减少脑梗死体积和神经功能缺
+损等∞“ J 。课题组前期研究结果显示，sal
+B、R91、
+R1可透过血脑屏障且在脑脊液中含量较高，故在本
+研究中建立氧糖剥夺／复氧复糖( OGD／R) 模型在体
+外模拟缺氧缺血损伤，探讨sal B、R91、R1能否通过
+降低氧化应激反应和钙离子超载，发挥保护星形胶
+质细胞的作用，从而进一步提高星形胶质细胞神经
+营养因子的释放。
+1材料与方法
+1．1实验动物24 h内新生Wi st ar乳鼠，雌雄均
+可，购于北京维通利华实验动物技术有限公司，使用
+许可证号：SCxK( 京) 2016旬006。
+1．2药品与试剂
+丹酚酸B( sal vi anol i c aci d B，Sal
+B) ，生产批号：18062901；人参皂苷R91( 百nsen—
+osi de，R91) ，生产批号：18071601；三七总皂苷R1
+( not ogi nsenosi de，R1) ，生产批号：18020908；以上药
+物均由成都菲普德生物科技有限公司提供，产品纯
+度≥98％。L- 谷氨酰胺、胎牛血清( 美国Gi bco公
+司) 。BCA试剂盒( 北京索莱宝科技有限公司) 。
+万方数据
+中国药理学通报
+mi 嬲e肌Ⅱr，艘of og删Bu删n
+2022 0ct ；38( 10)
+· 1467·
+Ant i - GFAP( 美国Abc砌公司) 、Ant i —P13K／p—P13K、
+Ant i - AKT／p—AKT、Ant i - STA，13／p．STArl 3( 美国CST
+公司) 。ccK一8试剂盒( 日本同仁化学研究所) 。
+Servi cebi o@ RT Fi rst
+St rand cDNA Synt hesi s Ki t ( 武
+汉赛维尔生物科技有限公司) 。sYBR GREENPcR
+mast er Mi x( 美国Appl i ed Bi osyst em公司) 。Tet ram—
+et hyl rhodami ne( TMRM) 、CM—H2DCFDA( 美国I n．
+vi t rogen公司) 、nuo一3，AM( 凯基生物) 。
+1．3仪器C0：恒温培养箱( 美国ne瑚。公司) ；
+倒置相差显微镜( 美国Zei ss公司) ；缺氧小室( 加拿
+大sTEMcELL Technol ogi es) ；倒置荧光显微镜( 美国
+Bi oTek公司) ；实时荧光定量PcR仪( 美国B10．
+RAD公司) ；流式细胞仪( 美国，BD，FACs Cal i bur) ；
+West embl ot 凝胶成像系统( 美国GE公司) 。
+1．4方法
+1．4．1
+星形胶质细胞分离、培养及鉴定星形胶质
+细胞原代培养参考汤婷婷等"o方法，取5只wi st ar
+大鼠乳鼠，75％乙醇浸泡消毒处死，无菌条件下眼科
+剪打开颅骨取出全脑，置于预冷的D—Hanks中去除
+脑膜。而后用含5％青霉素一链霉素的D- Hanks) 浸
+泡2次，2 mi n／次。眼科剪剪碎组织成1 mm3的乳
+糜状，加入浓度为O．25％的胰酶5 mL，37 cC、90
+r·
+mi n。1条件下恒温震荡消化10 mi n。加入5 mL培养
+基( 15％FBS+1％青霉素一链霉素+l ％L．谷氨酰
+胺+83％DMEM／F12) 终止消化，混匀。1 000 r·
+mi n。离心，10 mi n。加10 mL培养基重悬，过200
+目筛网。再次离心、重悬，接种细胞于75 cm2培养
+瓶，C02培养箱5％CO：、37℃培养1 h后，将上层
+培养基转移至新的细胞培养瓶中，每3 d换液1次，
+待细胞融合后将细胞培养瓶放在摇床上260
+r·
+mi n。1转速下震摇20 h，弃去原培养基，D—Hanks洗
+涤细胞两次，加入浓度为0．25％的胰酶消化，传代
+备用。在倒置相差显微镜下观察细胞形态并用免疫
+荧光鉴定法对其进行纯度鉴定( 胶质纤维酸性蛋
+白，GFAP) 。
+1．4．2
+OGD／R模型的建立及分组
+将细胞种于
+96孑L板中，待细胞生长至融合时，根据魏爱宣等旧j
+的实验方法进行细胞OGD／R造模。
+对照组( con) 将原培养基置换为新配制的
+DMEM／F12培养基，放于C02培养箱5％CO：、37
+℃培养，4 h后换为血清浓度减半的培养基培养24
+h；模型组将原培养基置换为EBSS平衡盐溶液，置
+于缺氧小室中，通入95％N：、5％cO：气体，5 mi n
+后放恒温摇床( 37℃) 培养4 h，而后从缺氧小室中
+取出细胞，将EBSS平衡盐溶液置换为血清浓度减
+半的培养基，放在cO：恒温培养箱24 h；给药组在
+模型组的基础上，复氧时换为含有Sal B、R91或R1
+的血清浓度减半的培养基，根据课题组前期研究及
+北京中医药大学相关的研究‘
+9J ，在此我们选择的给
+药浓度为10斗m01．L～。
+1．4．3
+CCK．8测定细胞活力
+将星形胶质细胞按
+1× 105个／cm2密度接种于96孔板中，置于CO，培
+养箱培养，待细胞长至融合后，分别将原培养基置换
+为含有10斗m01．L‘
+1 Sal B、R91、R1的培养基继续
+培养，24 h后弃去细胞培养基，100斗L DMEM( 含
+10％ccK．8) 孵育30 mi n，酶标仪450 nm波长处检
+测吸光度。
+Sal B、R91及R1对OGD／R星形胶质细胞活力
+的影响同前，按照“ 1．4．2” 处理方法对细胞进行
+0GD，复氧时将细胞培养基置换为含有10斗m01．
+L—sal B、Rgl 或Rl 的血清浓度减半的培养基。24
+h后弃去原培养基，CCK．8检测细胞活力。
+1．4．4流式细胞术检测星形胶质细胞ROS的释放
+量、线粒体膜电位和钙离子浓度将星形胶质细胞
+按1× 105个／cm2密度接种于6孔板中，按照
+“ 1．4．2” 所述进行分组处理，PBs洗涤细胞，分别加
+入100 nm01．L“ TMRM工作液，5¨ mol ·
+L“ CM—
+H2DCFDA工作液和O．25岬ol · L“ Fl uol 3，AM工
+作液37℃避光孵育30 mi n，胰酶消化，将细胞收集
+于离心管中，流式细胞仪测定细胞ROs的释放量，
+线粒体膜电位和钙离子浓度。
+1．4．5
+RT．PCR法测定星形胶质细胞I GFl a、BD．
+NF、NGF mRNA的表达
+将星形胶质细胞按l × 105
+个／cm2密度接种于6孑L板中，按照“ 1．4．2” 所述进
+行分组处理，用预冷的PBS洗涤细胞，
+TRI z01@rea舻nt 试剂盒提取总RNA，超微量核酸分
+析仪测定RNA样品浓度，采用Servi cebi o@RT Fi rst
+St rand cDNA Synt hesi s Ki t 试剂盒逆转录合成cDNA，
+按照SYBR GREENPCR Mast er Mi x试剂盒说明书
+步骤依次加入反应物，在Real
+Ti me PCR仪上检测
+各样本基因表达，将mRNA水平标准化为GAPDH
+水平，用2“ M‘
+法计算相对表达水平。
+1．4．6
+West embl ot 法测定星形胶质细胞p—P13K、
+p．AKT、p—STAl 3蛋白的表达将星形胶质细胞按1
+× 105个／cm2密度接种于6孔板中，按照“ 1．4．2” 所
+述进行分组处理，弃去培养基，用PBS洗涤细胞，加
+入100斗L细胞裂解液( 含1％PMSF) 提取总蛋白并
+进行蛋白定量；将10恤g样品加到聚丙烯酰胺凝胶
+电泳上进行分离，采用湿转法将目的蛋白转至
+PVDF膜上，用脱脂奶粉5％封闭，分别加人p．
+万方数据
+· 1468·
+中国药理学通报
+蕊i ，泓e砌Ⅱm∞of 曙i c。2日Mzzef 抚2022 0ct ；38( 10)
+STAl 3( 1：l
+000) 、S7rA713( 1：1 000) 、p—P13K
+( 1：1 000) 、P13K( 1：l 000) 、p—Al ( T( 1：1 000) 、
+AKT( 1：1 000) 抗体，4℃孵育过夜；用TBST洗涤
+条带4次，5 mi n／次，而后加入二抗( 1：10 000) ，室
+温摇床孵育l h，洗涤后用ECL化学显色试剂在显
+影仪中曝光，通过I mageJ 处理系统分析目的蛋白条
+带灰度值并计算相应蛋白表达量。
+1．4．7统计学方法基于SPSS 18．0统计，实验数
+据均表示为互± s，多组间比较采用单因素方差分析
+( One—way ANOVA) 。。
+2结果
+2．1星形胶质细胞形态学观察及鉴定
+如Fi g
+1，
+光镜下观察培养7 d的星型胶质细胞，形状主要为
+不规则多角形，可见粗短枝状胞突，胞体大而扁平，
+符合神经胶质细胞生长特性；胶质细胞特异性蛋白
+GFAP免疫荧光染色呈阳性，表明纯度较高的原代
+星形胶质细胞培养成功，可以用于后续实验。
+r—：———————————r——————————————————————1
+2f HJ
+LI l l l
+Fi g 1
+Len：Ast rocyt e morphol ogy under Ught
+l ni cro鼹ope。
+bar=1∞¨ m．Ri ght ：I mm衄onuore辩明ce i den黼∞6∞of
+嬲trocyt髑( GFAP) ．bar=2∞岬
+2．2
+Sal B、R91、R1对星形胶质细胞活力的影响
+如Tab 1所示，与con组比较，Sal
+B、R91、R1( 10
+¨ mol · L。1) 对正常星形胶质细胞活力差异均没有
+显著性( P>0．05) ，表明实验所选药物浓度对细胞
+没有毒性。0GD／R组星形胶质细胞活力与con组
+比较明显降低( P<0．05) ；与OGD／R组比较，Sal
+B、
+R91、R1( 10¨ m01．L。1) 均能明显提高0GD／R受损
+胶质细胞的活力( P<0．05) ，表明选择的10斗m01．
+L‘
+1可以用于后续实验。
+Tabl
+E胁ts of sal B。l t 91。Rl ( 10岬01．Lq) 帅Vi abmt y of
+no珊al
+and oGD／R- i I Uured ast rocyt es( 茹± s，n=6)
+No册al
+cel l
+vi abi l i t v
+0GD／R．i nj ured ceU
+GmuD
+’
+’
+‘
+( ％of con)
+vi abi l i t y( ％of con)
+Con
+1．00± 0．08
+1．00士0．04
+0GD／R
+一
+0．43± O．07+
+Sal B
+0．93士O．04
+0．56士O．05”
+R91
+0．87土O．03
+0．66± O．09”
+Rl
+0．9l 士0．07
+0．67± 0．09槲
++P<0．05傩con：。P<O．05．##P<0．01郴0GD／R
+2．3
+Sal B、R91、R1对oGDI ／R损伤星形胶质细胞
+RoS释放量的影响脑缺血发生后，损伤的星形胶
+质细胞释放大量ROS，H：O：是其主要成分，具有不
+带电荷、稳定以及可自由弥散等特点，可以任意穿过
+细胞膜，进一步导致损伤，本研究通过检测星形胶质
+细胞中ROs的产生来评估氧化损伤，如F培2所示，
+OGD／R组细胞ROS释放量较con组明显增加( P<
+0．05) ；与OGD／R组相比，Sal
+B、R91( 10斗m01·
+L一) 均可明显降低OGD／R损星形胶质细胞ROs的
+释放量( P<0．05) ，表明Sal B、R91( 10斗m01· L“ )
+可以减轻星形胶质细胞的氧化损伤。
+Fi g 2
+E娜比t s of Sal B，R91，m( 10¨ moI · L一1) on ROS of
+ast 如q，t 鹤i 哪ured by oGD／R det ∞t ed
+by nowcyt omet ry( ；± 5，凡=3)
++P<O．05螂con：。P<0．05绑OGD／R．
+2．4
+SaI B、Rgl 、R1对oGD／R损伤星形胶质细胞
+线粒体膜电位的影响线粒体膜电位可以影响线粒
+体中钙离子的摄取，是细胞主要钙离子调节器，细胞
+内线粒体膜电位升高会导致钙离子浓度增加，钙超
+载线粒体和后续功能障碍诱导细胞死亡。本研究中
+用流式细胞术检测了细胞线粒体膜电位，结果如Fi g
+3所示，与con组相比，OGD／R组星形胶质细胞线粒
+体膜电位降低( P<0．05) ；与OGD／R组相比，Sal
+B、
+R91、Rl ( 10斗m01．L- 1) 均可升高OGD／R损伤后星
+形胶质细胞的线粒体膜电位( P<0．05) ，表明Sal
+B、R91、R1( 10斗mol · L“ ) 可以抑制损伤星形胶质
+细胞线粒体膜电位的降低，对细胞发挥保护作用。
+万方数据
+中国药理学通报
+醌i 榔e ma肌nc0209i c02曰M抛流2022 0ct ；38( 10)
+· 1469·
+山40
+茎
+亳，o
+§
+主20
+10
+0
+Cont r01
+OGD／R
+Sal B
+R91
+R1
+Fi g 3
+Ef f ect s of Sal
+B，Rgl and砒( 10岬I oI · L一1)
+on I I l i t ochondri al m咖bm眦pot en娃mof oGD／R叫ured
+ast rocyt es dI j t ∞t ed by nowc” omet ry( 互士s，n=3)
++P<O．05绑con：4P<O．05傩OGD／R．
+2．5
+Sal B、R91、R1对oGD／R损伤星形胶质细胞
+钙离子浓度的影响研究进一步对细胞内钙离子浓
+度进行了检测，如Fi g 4，发现与con组相比，OGD／R
+组星形胶质细胞钙离子浓度明显升高( P<O．05) ；
+与OGD／R组相比，sal B( 10¨ m01．L“ ) 可明显降
+低OGD／R损伤星形胶质细胞钙离子浓度( 尸<
+O．05) ，抑制钙离子超载。
+2．6
+Sal B、R91、R1对oGD／R损伤星形胶质细胞
+神经生长因子分泌的影响
+星形胶质细胞分泌的
+BDNF、NGF、I GFl 0【对于成年大脑中特定神经元群
+体的存活，维持和再生很重要，本研究采用RT—PCR
+方法检测Sal B、R91、R1( 10斗m01．L“ ) 对损伤星
+形胶质细胞神经营养因子BDNF、NGF、I GFl o【分泌
+的影响( Fi g 5) ，与con组相比，OGD／R组细胞BD—
+NF、NGF mRNA表达明显降低( P<0．05) ，对I GFl 仅
+mRNA无明显降低( P>0．05) ；与OGD／R组相比，
+sal B、R91、R1( 10¨ m01．L。1) 均可明显升高0GD／
+R损伤星形胶质细胞BDNF mRNA的表达( 尸<
+0．05) ；R91可提高NGF mRNA表达( P<0．05) ；Sal
+B可明显升高OGD／R损伤星形胶质细胞I GFl
+0c
+mRNA表达( P<0．05) ，发现不同的活性成分对
+BDNF、NGF、I GFl 仅mRNA有不同程度的调节作用。
+0
+Cont r01
+OGD／R
+SaI B
+R91
+Rl
+Fi g 4 E仃酏of SaI B，1吨1 and R1( 10¨ mol · L一1)
+on豫l ci 啪∞ncentm廿on of oGD／R i nj ured嬲t mcyt es
+det ∞t ed by nowcyt omet ry( x± 5，n=3)
++P<O．05螂con：。P<0．05们0GD／R．
+2．7
+Sal B、R91、R1对oGD／R损伤星形胶质细胞
+P13K、AKT、STAT3蛋白磷酸化的影响
+现已有研
+究表明，抑制P13K／Akt 信号通路的激活能增加大鼠
+的超氧化物歧化酶活性，降低丙二醛水平，降低氧化
+应激损伤。STArl 3缺失的星形胶质细胞产生高水平
+的ROS，导致细胞死亡增加。本研究探讨了sal
+B、
+R91、R1对受损星形胶质细胞P13K／AKT、sTArI ' 3机
+制的调节。如Fi g 6A—B所示，与con组比较，
+0GD／R组胶质细胞P13K、AKT蛋白磷酸化水平低
+( P<0．05) ，与OGD／R组相比Sal
+B、R91、R1可明
+显升高p_AKT蛋白的表达( P<0．05) 。如F培6C
+所示，与con组相比，0GD／R组sTA耶蛋白磷酸化
+水平降低( P<0．05) ；与OGD／R组相比，Sal
+B、R91
+( 10¨ m01．L。1) 能升高OGD／R损伤后sTA乃蛋白
+磷酸化水( P<O．05) 。
+3讨论
+脑卒中是全球第二大死亡原因，是一种有极高
+致残率和致死率的脑血管疾病，缺血性脑卒中占比
+85％¨ 0|。星形胶质细胞数量庞大，约占脑细胞的一
+半，是胶质细胞中最丰富的亚型⋯ 1。目前，关于星
+形胶质细胞在脑卒中中的研究越来越多，有望成为
+治疗脑卒中的重要靶点。
+万方数据
+· 1470·
+中国药理学通报
+肌i 聊5e肋Ⅱrmocof 曙i cof BM抛i 凡
+2022 0ct ；38( 10)
+鑫
+霎l
+冀
+盆
+口
+。
+冀喜
+o o
+薹耄
+差趸
+o
+Z
+皇
+。
+薯喜
+主亳
+g里
+。盆
+皿o
+Fi g 5
+Ef f ＆t s of
+Sal B。R91锄d m( 10¨ mol · L一1) on m砌呵A麟pressi on of BDNF
+NGF and I GFl d i n ast mcyt 姻i 蝴ured by oGD／R( ；± s，n=3)
+++尸<0．0l 傩con；” P<O．05，槲P<O．01椰OGD／R．
+A。．P。。K固i—l—_藿夏垦曼_：；
+B。一AKT
+ⅢK函函圈董璺圈曼5
+ss
+AKT
+l · 5
+甍1．o
+Z
+立
+E
+0．5
+厶
+O．0
+2· 0
+立1· 5
+《
+亘1．o
+耳
+臣O·
+5
+OO
+ku
+C
+60
+60
+n
+l · 5
+耋。．。
+高
+耋∞
+＆
+0．O
+p- STAT3匿塑受萤圈亟圉85
+sw，重匣塑! 鲴ss
+Fi g 6 E仃酏of sal B，R91 and R1( 10．I I noI · L一1) on phosphoryl a60n of sTA髓，PBK，AKT prot ei n
+i n ast rocyt es i l 时ured by oGI I ／R( 互土s，n=3)
++尸<0．05，‘
++|P<O．0l 协co“ ；。P<O．05，##P<O．Ol 埘0GD／R．
+现已有大量关于丹参及三七的研究报道，部分
+研究关于其活性成分Sal B、R91、R1，王国军等¨ 引研
+究表明，sal B可通过减轻缺血／再灌注模型大鼠的
+神经功能缺损症状，使大鼠脑组织梗死体积减小，提
+高大鼠脑组织中sOD、CAT、GSH．Px等的活力而起
+到脑保护作用；林超等¨ 引通过体外实验证明，sal
+B
+对氧自由基有清除作用，从而发挥抗氧化作用；有研
+究发现R91也可通过提高细胞内抗氧化酶的表达
+来增强抗氧化能力进而降低R0s的产生和线粒体
+膜去极化¨ 4|；Meng等¨ 副研究发现，R1可通过抗细
+胞凋亡和氧化减小脑梗死面积，发挥脑保护作用。
+以前期研究为基础，我们进一步探讨Sal
+B、R91、R1
+在受损星形胶质细胞保护方面是否也发挥作用。
+STA耶作为ROS重要的调控因子，我们对其进
+行了研究，发现Sal B、R91、R1可以通过STAT3信
+号通路调控细胞内ROs水平，降低氧化损伤。研究
+表明，P13K／AKT信号通路通过磷酸化激活下游相
+关生存蛋白在神经保护中起着重要作用¨ 6|，我们关
+于Sal B、Rgl 、R1对受损星形胶质细胞的保护作用
+机制也进行了探讨，发现OGD／R可使细胞P13K、
+AKT蛋白磷酸化水平降低，sal B、R91、R1可显著提
+高AKT蛋白磷酸化水平，由于信号通路是一个级联
+放大的过程，我们推测Sal
+B、R91、R1通过P13K／
+AKT信号通路发挥保护星形胶质细胞的作用。本
+研究发现，Sal B、R91、R1通过调节P13K／AKT、
+sTArI ' 3信号通路降低0GD／R损伤后星形胶质细胞
+RoS的释放量，降低由R0s升高引起的钙超载及线
+粒体功能障碍，发挥星形胶质细胞保护作用，增加受
+损星形胶质细胞神经营养因子的释放，可能进一步
+对神经发挥保护作用。但是结果显示sal
+B和堍1、
+R1的作用具有差异性，提示我们不同活性成分可能
+通过同一或不同的作用途径发挥疗效。
+参考文献：
+[ 1]
+I adecol a c，Anrat her J ．st roke research at
+a cmssroad：嬲ki ng t he
+bmi n f or di rect i ons[ J ] 盹￡肫u删d，2011，14( 11) ：1363—8．
+[ 2]
+zhaI l g s，shang D，shi H，et a1．Funct i on of ast mc” es i n
+neuro—
+pmt ect i on and repai r af t er i schemi c st roke[ J ] ．Eur^k“ rof ，202l ，
+跗( 6) ：426—34．
+[ 3]
+卢万鹏，温振帆，刘家园，等．丹酚酸B对ApoE敲除小鼠非
+酒精性脂肪肝的改善运用及其机制研究[ J ] ．中国药理学通
+报，2020，36( 1) ：3l 一7．
+[ 3]
+Lu w F，wen z F，Li u J Y，et a1．I mprovement
+aJ l d mechani sm
+of
+sal vi anol i c aci d B on non—al cohol i c
+f at t y l i ver
+i n ApoE knockout
+mi ce[ J ] ．( 流i n—Ph口，7r}0cof B础，2020，36( 1) ：3l 一7．
+[ 4]
+方蕾，杨美娟，蒋玉凤．丹酚酸B对脑缺血／再灌注损伤小
+万方数据
+中国药理学通报
+傩i Me mo册僦of og如of 曰Mf 跆￡流2022 0ct ；38( 10)
+· 1471·
+[ 4]
+[ 5]
+[ 6]
+[ 7]
+[ 7]
+[ 8]
+[ 8]
+[ 9]
+[ 9]
+[ 10]
+鼠血管保护作用[ J ] ．中华中医药学刊，2016，34( 12) ：3060
+一2．
+Fal l g L，YaJ l g MJ ，J 蛐g Y F，et a1．Prot ect i ve ef f ect 0f sal vi anol i c
+aci d B on cerebd i schemi a—repe血si on i nj ury
+i n mi ce[ J ] ．
+吼执
+Arc^‰d赴Chi n^矧，2016，34( 12) ：3060—2．
+Li u B，Li
+Y，Han Y，et a1．Not ogi nsenosi de Rl
+i nt eⅣenes
+de静．a—
+dat i on and redi st ri but i on of t i ght j unct i ons t o锄el i omt e bl ood．brai n
+ba而er pe瑚eabi l i t y by Caveol i n一1／MMP2／9 pat hway血er
+acut e
+i schemi c stmke[ J ] ．P坳o，wd拓i M，2021，如：153660．
+Fu Y，Xi ng R，Wa“ g L，et a1．Neumvascul ar pmt ect i on of sal vi 一
+粕ol i c aci d Bandgi nsenosi de R91 combi nat i on agai nst acut e i sche—
+mi c st mke i n rat s[ J ] ．肌Hro即州，202l ，32( 13) ：1140—6．
+汤婷婷，官志忠，禹文峰．SD大鼠大脑皮层星形胶质细胞的
+体外原代培养[ J ] ．贵阳医学院学报，2014，39( 2) ：158—61．
+TaI l gTT，Guan ZZ，YuWF．蹦mary cul t ure of ast roc” esi nt he
+ce曲ral
+cort ex of sD rats流口矗ro[ J ] ．．，Gu咖ng胁d cof f ' 2014，
+39( 2) ：158—61．
+魏爱宣，李听华，闫世军，等．大鼠皮层星形胶质细胞原代培
+养、鉴定及氧糖剥夺模型的建立[ J ] ．中国老年学杂志，2010，
+30( 3) ：340—2．
+Wei
+A X，Li X H，Yan S J ，et a1．Pri mary cul t ure，i dent i f i cat i on
+and est abl i shment
+of
+oxygen and gl ucose depri vat i on model
+of
+rat
+cort i cal ast mc” es[ J ] ．ch轨- ，Gbront oz，2010，30( 3) ：340—2．
+徐梦．人参皂苷Rbl 和R91对OGD／R损伤星形胶质细胞
+线粒体的影响及其机制研究[ D] ．北京：北京中医药大学，
+2020．
+Xu M．卟e e&ct of 西nsenosi des Rbl 肌d Rgl
+0n t he I I l i t ochondri —
+a of ast rocyt es d咖aged by 0GD／R锄d i ts mechani 8m[ D] ．Bei -
+j i ng：BeUi ng Uni v of 7I hd Chi n Med，2020．
+Zhou M，Wang H，Zeng X，et a1．Mort al i t y，morbi di t y，and ri sk
+f act ors i n Chi na and i ts pmvi nces，1990- 2017：A syst emat i c anal -
+ysi s f or t he Gl obal
+Burden
+of
+Di sease st udy 2017[ J ] ．如，黜f ，
+2019，394( 10204) ：1145—58．
+WaI l g X，Xu蚰W，Zhu Z Y，et a1．The ev01vi ng rol e of neum- i m-
+mune i nt emct i on i n
+brai n rai r
+af t er cerebral
+i schemi c st mke『J ] ．
+CⅣSⅣeumsd丁‰r，2018，24( 12) ：1100一14．
+王国军，张琳成，陈冰，等．丹参中丹酚酸B对脑缺血再灌
+注损伤大鼠的保护作用研究[ J ] ．中华中医药学刊，2019，37
+( 7) ：1566—8．
+Wang G J ，Zhang L C，Chen B，et a1．St udy
+0n prot ect i ve e雎ct
+of
+sal vi aJ l ol i c
+aci d B i n
+sal vi a
+mi l t i on_hi za
+on
+cerebral
+i schemi a
+repemsi on i nj ury
+i n rat s[ J ] ．吼讯A以‰砒铂执胁d，2019，
+37( 7) ：1566—8．
+林超，刘兆国，钱星，等．丹酚酸B在心血管疾病中药理
+作用研究进展[ J ] ．中国药理学通报，2015，31( 4) ：“ 9—52．
+Li n C，Li u z G，Qi an x，et a1．Research pmgress
+0n pharIIl aco—
+l o舀cal
+eⅡbct s of sal vi anol i c aci d B i n cardi ovascul ar di se船es[ J ] ．
+C^i n P危。几加cof 曰u肛，2015，31( 4) ：449—52．
+Xi e C L，“ J H，W锄gWW，et
+a1．Neuropmt ect i ve e雎ct 0f gi n-
+senosi de—R91
+on
+cerebral
+i schemi a／reperf hsi on i nj ury
+i n
+rat s
+by
+downregul at i “ g prot e船e．act i vat ed recept o卜1 expressi on[ J ] ．上咖
+&i 。2015，12l ：145—51．
+Meng X，W粕g M，Wang X，et
+a1．Suppressi on 0f NADPH oxi —
+d船e- 粕d mi t ochondri on—deri ved supemxi de by Not o舀nsenosi de R1
+prot ect s agai nst cerebral
+i schemi a—repe—- usi on i nj ury t hrough est m—
+gen rec8pt or- dependent act i vat i on 0f Akt ／Nr岔pat hways[ J ] ．n钟
+尺口d如尺哪，2014，48( 7) ：823—38．
+Park HH，HarI MH，Choi
+H，et a1．Mi t ochondri a d蛐aged by
+oxygen ducose depri vat i on can be rest ored t hrough act i vat i on of t he
+PBK／Akt pat hway柚d i nhi bi t i on of cal ci umi nnux by锄l odi pi ne
+camsyl ate[ J ] ．sci 脚，2019，9( 1) ：15717．
+The prot ect i Ve ef f ect s of sal vi anol i c aci d B，gi nsenosi de R91 and
+not ogi nsenOsi de R1 on oxygen- gl ucose depri Vat i on／reoxygenat i on
+and reoxygenat i on 0f aSt rocyt es
+YANG J uan，CAO Yu—shuang，XU Yao，DU Xi n—yuan，ZHANG Tong，GUO Li - chen，
+YUAN Qi ng，CHAI Li - j uan，HU Li —mi n
+( 凰疵眦e旷m也渤抛f饥i 嬲e胁如i 船，‰彬孔№眈珊毋矿删；死口彬n硒，k60r0￡o可矿傩i 麟e
+朋ed如i 舶鼢Ⅱ丌mcD幻影；‰y儿60m￡owo厂鼢n舰伽oZDgy D，粥Mnrm“ 20e，施凡曲竹矿尉∽mi on，死口彬n
+301600，吼i m)
+Abst ract ：Ai m
+Tb i nvest i gat e t he pmt ect i ve ef 亿ct s
+of sal vi anol at e aci d B( Sal B) ，百nsenosi de R91( R91)
+and not ogi nsenosi de R1( R1)
+on ast mcyt es撕er
+oxy—
+91ucose
+depri vat i on／reoxygenat i on
+( OGD／R)
+i nj ury
+and t he underl yi ng mechani sm．Met hods
+Pri mary rat
+ast mcyt es
+were
+cul t ured
+and
+i dent i f i ed
+t o
+est abl i sh
+OGD／R i nj uIy model ．The cel l s were di vi ded i nt o
+con—
+t rol gmup，model gmup and Sal B，R91 and R1
+t reat —
+ment gmups( 10斗mol · L。1) ．The CCK- 8 cel l pml i f -
+erat i on—t oxi ci t v
+t est
+ki t
+was
+used
+t o
+det ect
+t he
+cel l
+vi abi l i t y
+of
+ast mcyt es，
+and now cyt omet ry
+t o
+det ect
+mi t ochondri al
+membrane
+pot ent i al ， ROS rel ease and
+i nt raceUul ar
+cal ci um
+concent rat i on．
+RT—PCR
+was
+empl oyed
+t o det ect
+t he mRNA
+expI ．essi on
+of BDNF，
+NGF．I GFl 仅i n ast rocvt es．
+West embl ot
+was used
+t o
+det ect
+t he phosphoryl at i on of P13K，AKT and STAT3
+pmt ei n i n ast mcyt es．Resul t s
+OGD／R si gni f i candy
+decreased cel l
+vi abi l i t v．
+ROS rel ease and i nt racel l ul ar
+川
+例
+例
+例
+例
+州
+剀
+蚓
+万方数据
+· 1472·
+中国药理学通报
+吼i 棚e耽口珊删fog如nZ日批砌
+2022 0ct ；38( 10) ：1472—80
+网络出版时间：2022—9一16 19：16
+网络出版地址：https：／／kns．cnki ．ne∥ kcms／detai L／34．1086．R．20220915．1515．014．htl Il l
+PI NKl 介导的线粒体自噬对大鼠骨髓内皮祖细胞衰老
+及其功能的影响
+唐蜜，石永芳，肖珍，梁梅，秦臻
+( 贵州医科大学基础医学院，贵州贵阳550025)
+doi ：10．123( ' 0／CPB2021 1 1045
+文献标志码：A文章编号：1001—1978( 2022) 10—1472—09
+中国图书分类号：R- 332；R329．24；R339．38；R345．57；
+R394．2
+摘要：目的
+采用小干扰RNA( smal l
+i nt erf eri ng
+RNA，si R—
+NA) 技术敲减大鼠骨髓内皮祖细胞( endot hel i al
+pmgeni t or
+ceus，EPCs) 中磷酸酶和张力蛋白同源物诱导激酶1( PrEN—
+i nduced put at i ve ki nase 1，PI NKl ) ，探讨PI NKl 介导的线粒
+体自噬对EPcs衰老及其功能的影响。方法分离培养大鼠
+骨髓EPCs并鉴定，EPCs计数后随机分为空白组、阴性对照
+组( NC si RNA) 和PI NKl 转染组( PI NKl
+si RNA) 。qRT．PcR
+与west embl ot 检测各组PI NKl
+mRNA与蛋白的表达情况；
+以最佳敲减时间为据点选择不同时间点模拟衰老进程，SA—
+B一半乳糖苷酶染色法及p16蛋白表达评估细胞衰老情况；
+ccK- 8、Transwel I 小室、体外血管生成试剂盒检测细胞增殖、
+迁移、成血管功能；流式细胞术检测细胞ROS水平，West em
+bl ot 检测PI NKl 、Parki n、Lc3、p62的表达，透射电镜观察线粒
+收稿日期：2022—03一08，修回日期：2022—05—07
+基金项目：国家自然科学基金资助项目( No 81860872) ；贵州省中医
+药管理局、民族医药科学技术研究课题资助项目( No
+QzYY2021．033)
+作者简介：唐蜜( 1993一) ，女，硕士生，研究方向：心血管药理学及
+干细胞相关研究，E- mai l ：1214916143@qq．com；
+秦臻( 1982一) ，女，博士，副教授，硕士生导师，研究方
+向：中医药防治心脑血管疾病，通信作者，E—mai l ：
+75871083@qq．com
+体及自噬小体情况。结果
+转染PI NKl
+si RNA 48 h后，
+PI NKl 被有效敲减。转染48 h和96 h后，与空白组相比．
+PI NKl
+si RNA组衰老细胞蓝染阳性率和p16蛋白表达水平
+均明显上升；细胞增殖、迁移和成血管功能明显降低，ROs水
+平明显升高；PI NKl 、Parki n、LC3蛋白表达明显下调，而p62
+蛋白明显上调；透射电镜下PI NKl
+si RNA组线粒体肿胀变
+形，自噬小体减少。结论PI NKl 基因的下调会加剧EPcs
+的衰老，PI NKl 介导的线粒体自噬可能参与并调节了EPcs
+的衰老和功能。
+关键词：内皮祖细胞；磷酸酶和张力蛋白同源物诱导激酶1；
+线粒体自噬；细胞衰老；细胞功能；活性氧
+开放科学( 资源服务) 标识码( oSm) ： 黼
+随着人口老龄化速度加剧，冠心病、心梗等缺血
+性心血管疾病的发病率与死亡率逐年攀升，如何有
+效防治其发生发展具有重要的意义。近年来利用内
+皮祖细胞( endot hel i al
+progeni t or cel l s，EPCs) 介导的
+心血管治疗已成为再生医学研究的热点¨ ≈] 。
+EPCs作为主要定居于骨髓，具有游走特性并能自我
+更新，增殖分化为血管内皮的前体细胞，在缺血缺氧
+等病理生理的作用下，可随着血液循环募集至缺血
+组织，修复损伤血管∞J 。随着研究的不断深入，通
+cal ci umi on concent rat i on
+of 。ast rocyt es，
+mi t ochondri al
+memb舢e pot ent i al and p—STA，13，p—P13 K，p—AKT ex—
+pressi on decreased i n 0GD／R gmup．
+Sal B，Rgl
+and
+R1
+si gni f i cant l y
+i ncreased
+t he
+vi abi l i t y
+of
+damaged
+cel l s，and regul at ed ROS rel ease，cal ci umi on concen—
+t mt i on and mi t ochondri aLl membrane pot ent i al
+t o varyi ng
+degrees．
+Sal B and R91 i ncreased t he expressi on of
+p—
+STArI ’ 3 and p—AKT．rnl e expressi on of BDNF and NGF
+mRNA i n OGD／R group
+si gni 矗canⅡy decreased，and
+Sal B，R91 and R1 coul d si gni f i cant l y i ncrease t he ex-
+pI essi on of BDNF mRNA i n d锄aged cel l s．R91 coul d
+i ncrease NGF mRNA expressi on．
+Sal
+B i ncreased t he
+expressi on of
+I GFl 仅mRNA．
+Condusi ons
+Sal
+B，
+R91，and R1
+reduce t he
+oxi dat i ve
+st ress
+response of
+ast roc) rt es af t er OGD／R i nj ury by regul at i ng t he P13 K／
+AKT and STAT3 si gnal i ng pat hway，reduce i nt racel l u．
+1ar cal ci umoverl oad，and pl ay
+a pmt ect i ve r01e i n
+as．
+t rocyt es，i ncrease t he rel ease of
+ast rocyt e neurot rophi c
+f act or，whi ch may f unher pl ay a prot ect i ve rol e i n neu—
+ronS．
+Key words：
+sal Vi anol at e
+aci d
+B；
+gi nsenosi de
+R91；
+not ogi nsenosi de
+R1；
+ast I ．ocyt es；
+OGD／R；
+oxi dat i ve
+damage；neurot rophi c f 如t or
+万方数据

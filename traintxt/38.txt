@@ -1,0 +1,584 @@
+文章编号：l 007—4287( 2023) Ol —0048一Oj
+人参二醇皂苷通过调节上皮问质转化
+抑制喉癌细胞的增殖和迁移
+石耿隆1，赵昀霞2，颜如玉2，孟艳2，孙宇新1“ }，辛伟红¨
+( 1．吉林大学中日联谊医院耳鼻咽喉头颈外科，吉林长春130033；2．吉林大学基础医学院病理牛理学系，吉林长春130021)
+摘要：目的
+探讨人参二醇皂苷( PDs) 对喉癌Hep2细胞增殖、迁移和上皮问质转化( EMT) 的影响，并阐明其作
+用机制。方法人喉癌Hep2细胞分为对照组和小同浓度的PDs( o，1 9，38，7j ，1j o，300 mg·
+I ．_1) 及地塞米松( 1 OO
+nm01．I 。_1) 处理组，MTT实验检测细胞生长活力，HE染色观察细胞形态学改变，细胞划痕实验检测细胞迁移能力，
+实时定量PCR( RT—qPCR) 法和west embl ot t i ng法检测p—cat eni n、E—cadheri n、N—cadheri n和vi ment i n的mRNA和蛋
+白表达水平。结果
+与对照组相比，PDs以时间及剂量依赖性抑制Hcp2细胞牛长。与对照组相比，用150 mg·
+I 。_1
+PDs处理喉癌Hep2细胞48 h后，可与地塞米松类似的下调细胞划痕愈合率，细胞形态向上皮型转化，上皮细胞标志
+物E cadhcri n上调( 尸<o．05) ，问充质细胞标志物N cadhcri n和vi mcnt i n下调( P<o．05) ，wnt ／B cat cni n信号通路重
+要蛋白p cal eni n的mRNA和蛋白表达水平明显降低( P<o．05) 。结论
+PDs可通过抑制wnt ／p cat eni n途径，抑制
+Hep2细胞增殖、迁移和EMT。
+关键词：喉痈；人参二醇皂苷；迁移；上皮间质转化；8 cat eni n
+中图分类号：R739．65
+文献标识码：A
+Panaxadi ol saponi ns i nhi bi t s t he prol i f erat i on and mi grat i on of l aryngeal carci noma cel l s by regul at i ng epi t hel i al —mesenchy—
+mal
+t ransi t i on
+SHJ
+G矧g—Z。"gl ，ZHAo Y西旷zi “ 2，l 以N R“ 一y“ 2，ef “ f ．( 1．DP户“ 仃7” 删t o厂( ) }。Z“ ry州go』o髯y HP“ d㈨d
+NP( 、是S“ r皇Pry，C矗i
+7 7crJ “ p“ 州L厅?i o” Ho^声i ，“ Z oL厂L，i Zi ” L厅?i ‘ uPrNi ￡y，C厶“ 77皇( 、^Mn 130033，C^i 订“ ；2．DPp“ r￡” ?P订，。厂P“ ￡矗o
+p^ysi ozogy，S[ ^ooz o厂B“ s z( Medz( ；77P，J zzi ” L砌! uFrszf 了，C^“ ” g( ^“ 77 130021，C，l i ” “ )
+Abst ract ：obj ect i ve
+To i nvest i gat e t he ef f ect s of panaxadi 01 saponi ns( PDS) on pr01i f erat i on，mi grat i on and epi t he
+l i al
+mesenchymal t ransf ormat i on( EMT) of l aryngeal
+carci noma Hep2 ce儿s，and
+t o el uci dat e
+i t s mechani sm．Met hods
+Human l aryngeal carci noma Hep2
+cel l s were di vi ded i nt o cont rol group and di f f erent
+concent rat i ons of
+PDS( O，19，38，
+75，150，300 mg·
+I 。1) and dexamet hasone( 100 nm01
+·
+I 。1) t reat ment groups．MTT assay was used
+t o det ect t he
+cel l
+vi abi l i t y，HE
+st ai ni ng was used
+t o observe t he cel l
+morphol ogi cal
+changes，cel l
+scrat ch assay was used
+t o det ect
+t he
+ccl l mi grat i on abi l i t y，rcal
+t i mc( 1uant i t at i vc PCR( RT( 1PCR) and Wcst crn bl ot t i ng mct hod wcrc uscd
+t o dct cct mRNA
+and pr01ei n expressi on l evel s
+of
+8 cat eni n，E cadheri n，N cadheri n and vi ment i n．Resul t s
+( ：ompared wi l h
+l he cont r01
+group，PDS i nhi bi t ed Hep2
+cel l
+growt h i n a t i me and dose dependent
+manner．Compared wi t h t he cont r01 group，t he 1a
+ryngeal
+cancer Hep2 cel l s
+t reat ed wi t h 1 50 mg
+·
+I。
+1 PDS f or 48 hours
+coul d reduce t he rat e of
+scrat ch heal i ng si mi l ar
+t o dexamet hasone，t he cel l morph0109y t ransf ormed t o epi t hel i al
+t ype，t he epi t hel i al
+cel l marker E cadheri n was up regu
+l at ed( P<O．05) ，t he mesenchymal
+cel l
+markers Ncadheri n and vi ment i n were down regul at ed( P<O．05) ，The mRNA
+and prot ei n expressi on l evel s
+of 口一cat eni n，an i mport ant
+prot ei n of Wnt ／p—Cat eni n si gnal
+pat hway，decreased
+si gni f i —
+cant l y( P<O．05) ．Concl usi on
+PDS can i nhi bi t s Hcp2 ccU pr01i rcrat i on，mi grat i on and EMT by i nhi bi t i ng Wnt ／口Cat c
+ni n pat hway．
+Key words：l aryngeal
+carci noma，panaxadi 01 saf ) oni ns，mi grat i on，e1) i t hel i al
+mesenchymal
+t ransi t i on，口
+cat eni n
+( C，zi ” ‘
+，L出6 Di “ 977，2023，27：0048)
+喉鳞状细胞癌占全身恶性肿瘤的5．7％～
+7．6％⋯ ，40％的患者在确诊时已进展至Ⅲ期或Ⅳ
+基金项目：吉林省教育厅
+( J J KH20211 71KJ
+( 2021 0101 2 58J C)
+*通讯作者
+“ 十三五” 科学技术研究项目
+) ；吉林省科技厅科技发展计划项目
+期，复发和转移是5年内喉癌患者死亡的主要原
+因[ 2] 。上皮问质转化( EMT) 可增强细胞迁移和侵
+袭能力。3。RAS／RAF／MEK／ERK，Wnt ／13
+cat eni n
+等多种信号传导途径参与EMT的激活和调控⋯ 。
+喉癌的转移与EMT过程有关，调节EMT信号传导
+途径是减少喉癌转移性的潜在治疗策略卜⋯ 。人参二
+万方数据
+中国实验诊断学2023年1月
+第27卷第1期
+醇皂苷( PDs) 是从人参茎叶中提取的属于四环三萜
+类的原人参二醇型提取物。PDS及其代谢产物
+Rb2、Rd、F2、Rh2、R93、CK和PPD可有效抑制肿
+瘤细胞的侵袭和转移⋯ 。PDs具有甾环结构，具有
+地塞米松样抗炎、抗休克作用。本研究旨在观察
+PDS对人喉癌Hep2细胞迁移的影响，报道如下。
+l 材料和方法
+1．1
+细胞、主要试剂盒、仪器
+人喉癌细胞系Hep2细胞( 吉林大学基础医学
+院前列腺疾病预防和治疗研究中心) ，PDS( 吉林大
+学自然医学研究实验室的专利产品，专利号为
+ZI ．98100070．3) ，RPMI 1640培养基( 美国Gi bco公
+司) ，胎牛血清( 美国Cl ark Bi osci ence公司) ，地塞米
+松( 山东新华制药有限公司) ，Tri zol ( 美国I nvi t ro—
+gen公司) ，二甲基亚砜、蛋白酶抑制剂( 美国Si gma
+公司) ，逆转录试剂盒、SYBR实时荧光定量PCR试
+剂盒( 北京宝泰克公司) ，BCA蛋白质测定试剂盒
+( 上海碧云天生物有限公司) 。8一act i n、MMP2、
+MMP9、E cadheri n抗体( 美国Prot ei nt ech公司) ，
+N—cadheri n、vi ment i n、j 3一cat eni n抗体( 北京博奥森公
+司) 。酶标仪( 德国Bi ot ek公司) ，CFX96实时荧光
+定量PCR仪、蛋白电泳仪和转膜仪( 美国Bi o—Rad
+公司) 。
+1．2细胞培养
+Hep2细胞含有10％胎牛血清和1％青霉素链
+霉素的RPMI 一1640培养基中，于37。C，5％C( ) ：培
+养箱中常规培养。以5× 105的密度将Hep2细胞
+接种于6孑L板中，当细胞达到70％～75％状态时，
+细胞分为3组，分别加入100 mg·
+I 。1 PDS( PDS
+组) 、100 nm01．I 。_1地塞米松( DEX组) 及等量PBS
+( C( ) N组) 。48 h后收获细胞，用于后续分析目的蛋
+白的mRNA和基因的表达水平。
+1．3
+MTT实验
+将Hep2细胞以每孔约5× l o3个细胞接种于
+96孔板中，每组5个复孔，实验重复3次。当细胞
+生长达到70％～75％融合时，加入不同浓度的PDs
+溶液，继续培养24 h和48 h。结束实验前每孔加入
+20肚I 。MTT溶液( 5 g· I 。_1) 孵育4 h后，去上清后
+加入150肚L二甲基亚砜充分震荡溶解后，使用酶标
+仪在490 nm处测量吸光度( A) 值，细胞存活率一实
+验组A／对照组A× 100％。
+1．4划痕实验
+将Hep2细胞( 1× 106／孔) 接种到6孔板中并
+保持对数生长直至生长汇合。使用200 MI 。移液管
+49
+尖端在细胞层上划痕，PBS洗涤后用无血清培养基
+培养，分别在o h和48 h拍照记录划痕宽度。实验
+重复3次，应用I mage J 软件对划痕距离进行统计
+学分析，计算划痕愈合率一( o h划痕距离一48 h划痕
+距离) ／o h划痕距离× 100％。
+1．5
+HE染色和形态学分析
+将载玻片置于24孔板中，并将细胞( 1× 101) 接
+种在孔板中。将细胞培养24 h后给与相应药物处
+理，继续培养48 h。用无菌PBS洗涤3次3～5
+mi n，用4％多聚甲醛固定20～30 mi n，进行HE染
+色，在显微镜下观察并拍照。使用I mage J 软件进
+行形态学分析，计算细胞面积和周长。
+1．6
+实时定量PCR
+收集各组细胞后用Tri zol 试剂裂解，根据说明
+书制备总RNA。应用逆转录试剂盒逆转录成cD—
+NA。使用2× P1us SYBR qPCR Mi x进行实时荧光
+定量PCR。反应条件为94．C预变性2 mi n，之后
+94) C变性15 s，60。C退火30 s，40个循环后，70℃延
+伸l o mi n。以GAPDH为内参，并通过2。△ 出。方法计
+算目的基因相对表达水平。特异性引物序列如表1。
+表l
+R‘
+卜qPCR引物序列
+1．7
+West ern bl ot t i ng法
+细胞用冷PBS洗涤后应用细胞裂解液细胞，提
+取各组细胞蛋白，BCA法测定蛋白质浓度。加入上
+样缓冲液后煮沸变性l o mi n，取30肚g加样，通过
+12％SDS PAGE凝胶电泳，通过湿转仪器将蛋白转
+移至PVDF膜。1× TBST溶液( 含5％脱脂奶粉)
+室温封闭1 h，加入一抗后4℃过夜。TBST洗膜3
+次，加入二抗，1 h后TBST清洗后加入ECL显影，
+凝胶成像分析仪采集图像，使用图像分析软件( I M
+AGE J ) 分析条带灰度值，8 acl i n为内参，计算目的
+蛋白表达水平。
+1．8
+统计分析
+各实验结果均符合正态分布，以i ± s表示。使
+万方数据
+50
+用SPSS 20．o软件进行统计学分析，使用St udent ’
+s
+产检验比较2组之问的差异，2组以上实验采用单因
+素方差分析。以<o．05认为差异有统计学上意义。
+2
+结果
+2．1
+PDS抑制喉癌Hep2细胞的存活率
+MTT实验检测结果发现，各给药组与对照组
+A
+0
+19
+38
+75
+150
+300
+PDS( mg· L_1)
+( o mg·
+L 1) 相比，PDS处理24 h后细胞存活率没
+有显着变化( P>0．05，图l A) ，而PDS处理48 h
+时，从75 mg·
+L 1开始细胞存活率明显下降，并随
+着剂量增加，Hep2细胞的生长受到显着抑制( P<
+0．05，图1B) 。
+B
+8
+鲁
+d
+暑
+三
+≮
+0
+19
+38
+75
+150
+300
+PDS( mg· L_1)
+” 一3．。P<( ) ．( ) 5 and**P<( ) ．( ) l
+vs( ) mg·
+I ．1 group．
+图l
+MTT实验检测PDs处理24 h( A) 和48 h( B) 后Hep2细胞的存活率
+2．2
+PDS抑制喉癌Hep2细胞的迁移
+与C( ) N组( 65．7％± 3．5％) 相比，用100
+nmoI 。·
+L
+DEX( 31．6％± 5．6％) 和150 mg·
+I 。_1
+0 h
+48 h
+PDS( 4．3％± 1．7％) 处理48 h的细胞显示更低的
+划痕愈合率，明显抑制了细胞迁移能力( P<o．05，
+图2) 。
+00N
+D既PDS
+一．
+【、( ) N，col l t rol ；PDS，PDS gr( ) Ll p；DEX，I ) examet hasone group．
+图2
+划痕实验检测各组细胞的迁移能力( Bar=200 pm)
+2．3
+PDS抑制喉癌Hep2细胞的上皮一间质转化
+HE染色后的形态学分析显示，PDS和地塞米
+松处理48 h后细胞的表面积和周长显着增加，触角
+消失，由纺锤形和多角形，逐渐呈鹅卵石样形态，存
+在分化成上皮细胞的趋势( 图3) 。问充质细胞标志
+物N—E cadheri n和vi ment i n的mRNA和蛋白表
+达水平明显降低( P<o．05) ，而上皮细胞分化标志
+物E cadheri n的mRNA和蛋白表达水平明显增加
+( P<o．05，图4) 。表明PDS具有和地塞米松一样
+抑制EMT，抑制细胞迁移的作用。
+2．4
+PDs抑制B—cat eni n的表达
+与C( ) N组相比，PDS组和地塞米松组13 cat e
+ni n的mRNA和蛋白表达水平明显降低( P<
+o．05) 。并且PDS对B cat eni n蛋白水平较地塞米松
+的影响更为明显( P<o．01，图5 B、C) 。
+∞
+∞
+∞
+∞
+∞
+∞
+0
+∞
+∞
+∞
+∞
+∞
+∞
+0
+万方数据
+中国实验诊断学2023年1月
+第27卷第1期
+A
+1．8
+翟1．6
+三1．4
+鼋Li
+∞0．8
+．三0．6
+』0．4
+兰0．2
+0
+A
+A
+B
+2500
+2000
+宴1500
+1000
+500
+0
+，’
+’ 一I
+一
+-
+，
+，■
+一
+CONⅨ! 】( PDS
+C
+：一
+～
+∥
+CON
+DI ⅨPDS
+( 、( ) N，cont rol ；PDS，PDS groLl p；DEX，Dexamet hasone group
+图3
+HE染色观察各组细胞形态学( A) 、细胞面积( B) 和细胞周长( c) ( Bar=20 pm)
+E_cadheri n
+N_cadheri n
+Vi 舱nt i n
+B
+O嘣DI ⅨPDS
+廿
+卜cadhertn压三j 三i ：j i 司- ss
+ooo
+N_ca船i n匡至三二习100 ooo
+Vi ment i n匹三三三习57 ooo
+B—acti nE三三三三习42 ooo
+” 一3．‘
+P<0．05．+。P<O．01
+vs C【) N gr。up。=P<O．05。5‘
+P<O．01
+vs I ) EX group
+DEX，Dcxamct hasonc group
+图4
+各组细胞中E—cadheri n、N—E—cadheri n和vi ment i n的mRNA( A) 和蛋白
+％
+g
+。矗
+器
+黾
+馨
+∞
+_三
+苗
+兰
+1．2
+1．O
+0．8
+0．6
+0．4
+0．2
+0
+C叫D既
+PDS
+B
+B—cat eni n
+CⅢDI ⅨPDs
+心
+92 000
+。一恤匡丑42
+000
+C
+口00N- DEX_PDS
+蠢№“
+誊m
+n一3．‘
+P<0．05
+vs C( ) N group，5 P<O．05；55 P<0．01 vs【) EX group．C( ) N，c。nt r。1；P【) S，PDS group；DEX，Dcxamct hasonc gr。up
+图5
+各组细胞中旷cat eni n的mRNA( A) 、蛋白( B) 表达水平和直条图( C)
+3讨论
+人参、三七等中药的提取物，因其潜在的抗癌功
+能而受到广泛关注，Fan x等最近研究发现人参二
+醇皂苷通过调节J AK2 sTAT3信号通路，显著抑制
+人胰腺癌细胞系PANC一1和Pat u8988的增殖并诱
+导细胞凋亡一⋯ 。xi ao s等也发现人参二醇皂苷通过
+线粒体途径促进人肝细胞癌细胞凋亡“ 。本研究选
+用喉癌Hep2细胞，观察了PDS对细胞增殖和迁移
+的影响，发现PDS可以明显抑制喉癌Hep2细胞生
+长，划痕实验结果表明PDS处理后48 h细胞迁移
+能力受到抑制，为PDS在抗肿瘤临床上的应用提供
+了新的研究方向。
+Chen XJ 等报道PDS可抑制EMT，调节细胞
+黏附分子和MMPs的表达和活性抑制肿瘤细胞侵
+渤
+啪
+瑚
+m
+弱
+o
+h【9p∞目_[-=可L
+II_[II∞_对ol皿
+万方数据
+52
+袭∞J 。PDS的有效成分R91和R93可通过抑制
+TGF J 3l 诱导的EMT来抑制肝癌细胞系HepG2或
+肺癌细胞A549的迁移和侵袭。8J 。本研究探讨了
+PDS对Hep2细胞的迁移能力影响的机制。Park
+MT等因为PDS与地塞米松的结构类似，发现其可
+通过糖皮质激素受体下调MMP 9有助于抑制
+HTl 080人纤维肉瘤细胞的侵袭能力_9J 。这与本研
+究的HE染色的形态学分析结果相吻合，PDS或地
+塞米松处理48 h后，Hep2细胞的表面积和周长都
+显著增加，存在分化成上皮细胞的趋势。E cadher
+i n是分布在上皮细胞表面的钙依赖性黏附分子，作
+为上皮细胞标志物，其功能丧失与鳞癌等的转移性
+传播，侵袭和预后不良有关，是EMT的标志之
+一[ 1⋯ 。在本研究中，PDS抑制Hep2细胞中问充质
+细胞标志物N cadheri n的表达并诱导E cadheri n
+的表达。另一种重要的问充质生物标志物是Vi m—
+ent i n，其表达是上皮细胞经历EMT的特征_l “ 。在
+本研究中，PDS也明显下调了Vi ment i n在Hep2细
+胞中的表达，进一步证明了PDS具有地塞米松一样
+抑制喉癌细胞EMT过程的作用，进而抑制了细胞
+的迁移能力。
+wnt ／j 3一cat eni n被认为是EMT过程中最重要
+的信号传导途径蛋白之一。wnt 信号通路被激活，
+通过切断B Cat enl n 的降解途径，|3一cat eni n转移到细
+胞核中，调节下游基因C myc，Snai l 等的表达，促进
+肿瘤细胞EMT，发生转移[ 1“ 。对天然药物成分、基
+因干扰等多研究显示，对Wnt ／j 3 cat eni n途经的抑
+制作用可明显逆转EMT过程，并影响肿瘤细胞的
+迁移和侵袭能力_l ⋯ 。本研究中通过PDS处理观察
+到Hep2细胞对j 3一cat eni n信号传导的抑制作用，并
+在蛋白质和基因水平上得到证实。这些结果提供了
+PDS抑制Hep2细胞中wnt ／13一cat eni n和TGF—j 3信
+号传导的最新证据，这可能是PDS抑制Hep2细胞
+中EMT的主要分子机制。
+总之，本研究发现PDS抑制Hep2细胞的
+EMT与迁移能力，这与抑制喉癌细胞的wnt ／口一
+cat eni n信号传导有关。
+参考文献：
+r1] Chu EA，Kl nl
+Y1．I ．arvngeal
+cancer：di agnosl s and preoperat l ve
+Chi n J
+I ．ab Dl agn，J anuary，2023，V01 27，No．1
+work—up[ J ] ．( ) t ol aryngol
+cl i n Nort h Am，2008，4l ( 4) ：673．
+[ 2] Ameri can socl et y of ( ：l i ni cal ( ) ncol ogy，Pf i st er
+D( j ，I ．aune sA，et
+aL Ameri can Soci et y of
+Cl i ni cal ( ) ncol ogy cl i ni cal
+pract l ce
+gui de一
+1i ne f or t he
+use of
+l arynx—preservat i on st rat egi es i n t he t reat ment
+of
+l aryngeal
+cancer[ J ] ．J
+cl i n( ) nc01，2006．24( 22) ：3693．
+[ 3] Noubi ssl
+Nzet eu( j A，( ；el smann c，Arl t A，et a1．Rol e of
+Epl t hel i —
+al —t o—Mesenchymal
+Transi t i on f or
+t he( 二enerat l on or
+Cl rcul at i ng
+Tumors cel l s and【：ancer( ：e儿Di sseml nat i on[ J ] ．【、ancers( Basel ) ，
+2022．14( 22) ：5483．
+[ Ⅱ] wang J ，wang N，zheng z，et a1．Exosomal
+1ncRNA H( ) TAI R i n
+duce macrophages
+t o M2
+p01arl zat i on
+vl a P13K／I ) AKT／AKT
+pat hway and I ) romot e EMT andmet ast asi s
+i n 1aryngeal
+squamoLl s
+cel l carci noma[ J ] ．BMc cancer，2022，22( 1) ：1208．
+[ 5] chen xJ ，zhang xJ ，shui
+YM，et a1．Ant i cancer
+Act l vi t i es
+of Pro
+t opanaxadi oL_and Prot 叩anaxat rl ol
+Type Gi nsenosi des and T11ei r
+Met ab01l t es[ J ] ．Evl d Based conl I ) 1ement
+Ahernat
+Med，20 l 6，
+2016：573869Ⅱ．
+[ 6] Fan x，Fu xT，xl e N，et
+a1．I nhi bi t i on。f J AK2／sTAT3 sl gnal i ng
+pat hway by panaxadl ol l i ml t s t he pr。gressi on of
+pancreat i c
+cancer
+[ J ] ．Agl ng( A1bany NY) ，2021，13( 1 9) ：22830．
+[ 7] xi ao s，wang x，xu I。，et a1．Novel
+panaxadl 01 t rl az01e derl vat l ves
+l nduce aI ) oI ) t osl s i n HeI ) G 2
+cel l s t hrough t he mi t och。ndri al
+pat h
+way[ J ] ．Bi o。rg chem，2020，102：104078．
+[ 8] YLl
+M，Yu xB，Gu。DH，ct
+a1．Gi nscnosl dc R91 at t cnuat cs
+l nva
+s1。n and m遮rat i on by i nhl bl t l ng
+t ransf orml ng growt h f act 。r_bc
+t al
+i nduccd cpi t hcl i al
+t o mcscnchymal
+t ransi t i on i n HcpG2 ccl l s
+[ J ] ．M。1 Mcd Rcp，201 5，11( 4) ：31 67．
+[ 9] Park MT，cha
+HJ 。J c。ng J w。ct
+a1．G1L1c。cOrt i c。i d rcccpt 。r_i n
+duccd d。wn rcgul at i on
+of
+MMP 9
+by
+gi nscng c。mp。ncnt s，P【)
+and PT
+c。nt ri but cs
+t o
+l nhi bi t i on
+。f
+t hc
+i nvasi vc
+capaci t y
+of
+HTl 080 human f l brosarc。ma ccl l s[ J ] ．M。l
+ccl l s．1 999，9( 5) ：
+476．
+[ 10] chi
+Y。wang
+F，zhang
+Y，ct aL
+Apat i nl b
+l nhi bi t s t um。ur
+pro
+grcssi on and pr。m。t cs ant l t um。ur cf f i cacy。f
+cyt 。t 。Xl c drugs i n
+。csophagcal
+squamous
+ccl l carcl noma[ J ] ．J
+ccl l M01 Mcd．2022．
+26( 7) ：1 905．
+[ 1 1] Kal l uri
+R，wcl nbcrg RA．Thc
+basi cs of
+cpi t hcl i al
+mcscnchymal
+t ransi t i on[ J ] ．J
+cl l n I nvcst ，2009，119( 6) ：1420．
+[ 12] Tang Q．chen J ，D1 z，et a1．TM4sFl
+pr。m。t es FMT and
+cancer
+st emness
+vi a l he
+Wnt ／口cat eni n／S( ) X2
+pat hway
+i n
+c。1。rect al
+cancer[ J ] ．J
+Exp cl i n cancer Res，2020．39( 1) ：232．
+[ 1 3] 李
+蛲．孙
+莹，宋燕珂，等．PDGF D通过N。t chl 信号通路对
+肿瘤细胞上皮间质转化调控作用的研究进展[ J ] ．吉林大学学
+报( 医学版) ，2022，48( 1) ：265．
+( 收稿日期：2022
+07
+14)
+万方数据

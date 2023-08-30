@@ -1,0 +1,401 @@
+檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾檾
+［6］ 陈凤，LU Zhiwei，戴恩来． 中西医对肾纤维化发病机制的研
+究进展 ［J］． 辽宁中医杂志，2016，43 ( 06) : 1243～1246
+［7］ 王新荣，万廷信，赵著华，等． IgA 肾病中医湿热证微观辨
+证病理指标研究 ［J］． 中国中医药信息杂志，2015，22 ( 08) : 31～35
+［8］ Chen L，Al－Awqati Q． Segmental expression of Notch and Hairy
+genes in nephrogenesis． ［J］． American Journal of Physiology Ｒenal Physi-
+ology，2005，288 ( 5) : F939～52
+［9］ Klüppel M，Wrana J L． Turning it up a Notch: cross-talk be-
+tween TGFβ and Notch signaling ［J］． Bioessays News ＆ Ｒeviews in Molec-
+ular Cellular ＆ Developmental Biology，2005，27 ( 2) : 115 ! 118
+［10］ 刘琳丰，陈明，金立新，等． Notch1 在 TGF－β
+1 诱导的
+人肾小管上皮细胞转分化中的表达和意义 ［J］． 细胞与分子免疫学杂
+志，2011，27 ( 10) : 1068～1071
+［11］ Sultana，Afroz D，Bell，et al． Eliciting the T cell fate with
+Notch． ［C］ / / Seminars in Immunology，2010: 254～260
+［12］ 姜亚丽． Notch 信号调控巨噬细胞参与肾纤维化的作用及机
+制研究 ［D］． 第四军医大学，2015
+( 收稿日期
+2018－07－05)
+* 基金资助: 上海市科委西医类引导项目 ( 编号: 134119a6900) ; 上海中医药大学附属普陀医院重点学科建设项目 ( 编号: 2016102A) 。
+△通讯作者: 赵延欣，主任医师，副教授，研究方向: 脑卒中的规范化诊治，E-mail: zhao
+yanxin@ 126. com，Tel: 18221711178; 第一作
+者: 石智珍，主治医师，研究方向: 脑卒中的临床诊治，E-mail: shizhizhen717@ 163. com，Tel: 13817067187
+人参皂苷通过调节 HIF－1α－VEGF 通路对大鼠脑缺血
+再灌注损伤的保护作用*
+石智珍
+1，白宇
+2，程记伟
+2，张利军
+2，赵延欣
+1，△
+( 1． 同济大学附属第十人民医院神经内科，上海 200072; 2． 上海中医药大学附属普陀医院神经内科，上海 200062)
+摘要: 目的: 探究人参皂苷通过调节 HIF－1a－VEGF 通路对大鼠脑缺血再灌注损伤的保护作用机制。方法: 选取
+30 只 6 周龄 SPF 级 SD 大鼠，体质量 200±30g，采用改良线栓法制作脑缺血再灌注损伤模型 ( middle cerebral artery oc-
+clusion，MCAO) ，随机分为 3 组，空白对照组、模型组、人参皂苷治疗组。使用 HE 将大鼠脑组织细胞染色，观察缺
+血侧脑组织形态学变化; 使用 TUNEL 染色，在 12 小时、24 小时、36 小时分别观察大鼠脑组织细胞凋亡情况; 使用
+Westen Bolt 和 ＲT－PCＲ 定性、定量检测大鼠 HIF－1α、VEGF 蛋白表达情况。结果: 与空白组相比，模型组大鼠脑组织
+细胞明显出现凋亡; 与模型组相比，人参皂苷治疗组大鼠脑组织细胞凋亡显著减少。与空白组相比，模型组大鼠脑组
+织细胞凋亡百分比显著升高 ( P＜0. 01) ，人参皂苷治疗组大鼠脑组织细胞凋亡百分比有一定程度升高 ( P＜0. 05) ; 与
+模型组相比，人参皂苷治疗组大鼠脑组织细胞凋亡百分比显著降低 ( P＜0. 01) 。与空白组相比，模型组大鼠 HIF－1α、
+VEGF 蛋白表达显著升高 ( P＜0. 01) ，与模型组相比，人参皂苷治疗组大鼠 HIF－1α、VEGF 蛋白表达显著上升 ( P＜
+0. 01) ，且上升相比模型组更为显著。结论: 人参皂苷可以通过提高 HIF－1α、VEGF 蛋白的表达水平，激活 HIF－1α/
+VEGF 通路，使血管新生能力增强从而减轻脑缺血再灌注损伤。
+关键词: 人参皂苷; 缺血预适应; HIF－1α; VEGF
+中图分类号: Ｒ 585. 5
+文献标志码: A
+文章编号: 1000－3649 ( 2019) 06－0043－04
+Protective Effects of Ginsenosides on Cerebral Ischemia－Ｒeperfusion Injury in Ｒats by Ｒegulating HIF－1α－VEGF
+Pathway/SHI Zhizhen1，BAI Yu2，CHENG Jiwei2，et al． / /1． Departmennt of Neurology，the Tenth People's Hospital of Tongji
+University ( Shanghai 200072，China) ; 2． Department of Neurology，Putuo Hospital of Attached to Shanghai University of Tradi-
+tional Chinese Medicine ( Shanghai 200062，China)
+Abstract: Objective: To explore the protective mechanism of ginsenosides on cerebral ischemia－reperfusion injury in rats
+by regulating HIF－1a－VEGF pathway． Methods: 306－week－old SPF SD rats were selected with a mass of 200±30g． The middle
+cerebral artery occlusion ( MCAO) model was established by modified suture method，and they were randomly divided into three
+groups，including blank controlled group，model group and ginsenosides treatment group． The rat brain tissue cells were stained
+with HE to observe the morphological changes of ischemic brain tissues． The apoptosis of rat brain tissue was observed by TUNEL
+staining at 12h，24h and 36h． The Western Bolt and ＲT－PCＲ were used to detect qualitatively and quantitatively the protein ex-
+pression of HIF－1α and VEGF in rats． Ｒesults:
+Compared with the blank group，the brain tissue cells in the model group
+showed obvious apoptosis． Compared with the model group，the apoptosis of brain tissue in the ginsenosides treatment group was
+significantly reduced． Compared with the blank group，the percentage of apoptosis in brain tissue in the model group was signifi-
+cantly increased ( P＜0. 01) ，and the percentage of apoptosis in brain tissue in the ginsenosides treatment group was increased to
+some extent ( P＜0. 05) ． Compared with the model group，the percentage of apoptosis in brain tissue in the ginsenoside treatment
+·43·
+2019 年第 37 卷第 6 期
+Vol. 37，No. 6，2019
+四
+川
+中
+医
+Journal of Sichuan of Traditional Chinese Medicine
+group was significantly decreased ( P＜ 0. 01) ． Compared with the blank group，the protein expression levels of HIF－ 1α and
+VEGF in the model group were significantly increased ( P＜0. 01) ． Compared with the model group，the protein expression levels
+of HIF－1α and VEGF in the ginsenosides treatment group were significantly increased ( P＜0. 01) ，and the rise was more signifi-
+cant than that in the model group． Conclusions: Ginsenosides can increase angiogenesis ability by increasing the protein expres-
+sion levels of HIF－1α and VEGF and activating HIF－1α/VEGF pathway，thus attenuating cerebral ischemia－reperfusion injury．
+Keywords: Ginsenosides; Ischemic preconditioning; HIF－1α; VEGF
+缺血再灌注损伤［1］ ( ischemia－reperfusion injury)
+是指组织在一定时间缺血，后期恢复供血，组织受
+到损伤加重的现象。在大多数情况下，缺血后再灌
+注可以使得组织器官功能得到恢复，受到损伤的结
+构也得到恢复，但是在脑组织中，缺血再灌注损伤
+是脑的细胞产生损伤是一个快速的级联反应［2～4］。这
+个反应包括炎性反应、能量障碍、细胞内钙失稳态、
+自由基生成、凋亡基因激活等，最终导致神经元损
+伤［3～5］。随着生活水平的提高，脑血管疾病也逐渐成
+为人类健康的疾病之一，这种疾病往往起病急，死
+亡率高，存活者也会有严重的神经功能缺损［6］。
+人参皂苷 ( Ginsenoside) ［7］是一种名贵药材，有
+研究表明:
+人参皂苷具有较好的抗氧化、抗细胞凋
+亡、提高免疫力、减少细胞肿胀等作用［8］。有研究表
+明:
+人参皂苷可以有效减轻肾、脑等脏器缺血再灌
+注损伤，可以有效的保护神经系统［9，10］，但在 HIF－
+1α－VEGF 通路方面报道较少。本文旨在研究人参皂
+苷对大鼠脑缺血再灌注损伤的保护作用，以期了人
+参皂苷对大鼠脑缺血再灌注损伤保护作用机理，从
+而为从而脑血管疾病的治疗提供一定的理论依据。
+1
+材料与方法
+1. 1
+动物
+SPF 级 6 周龄大鼠 30 只，体质量 200±
+30g，由 上 海 斯 莱 克 公 司 购 置，许 可 证 号:
+SCXK
+( 沪)
+2017－0002，普通级，分 3 个笼子饲养，每个
+笼子 10 只。饲养于本院动物房，所有动物实验研究
+均符合上海市普陀区中心医院实验动物伦理委员会
+有关动物研究指导原则 ( 伦理批号:
+PTEC－B－2017－
+1－10) 。
+1. 2
+药物与试剂
+HIF－1α、VEGF 蛋白单克隆抗体
+( 国药准字 S10940061) ，购于武汉华联科有限公司。
+1. 3
+仪器
+光学显微镜 ( 日本，OLYMPUS，型号:
+BX51TF) ，721 分光光度计，购自美国 sigma 公司;
+恒温水箱，购自上海信帆生物科技有限公司;
+切片
+机，购自德国 Leica 公司
+2
+方
+法
+2. 1
+建立模型
+实验参考前人的脑缺血－再灌注损
+伤模型［11］方法，通过麻醉、体位、手术的方法，其
+中手术时分别分离出颈总动脉、颈内动脉、颈外动
+脉。在颈总动脉距离颈内动脉分叉处约 5mm 处造
+口。由此口小心的插入尼龙丝，达到使大鼠脑中动
+脉闭塞，从而完成建立模型。造模成功后 2 小时，
+取出拔出栓线，使得大鼠血液重新恢复灌注入大鼠
+脑组织中，实现大鼠脑缺血后的再灌注。
+2. 2
+分组及药物干预
+判断造模成功后，模型复制
+成功的 30 只大鼠随机划分为 3 组，空白组、模型
+组、人参皂苷干预组，在判断造模成功后，选取 20
+只大鼠，从第 5 周开始缺血干预，脉结扎大鼠 5 分钟
+缺血，5 分钟再灌反复循环 3 次的缺血预适应方案。
+每天 1 次，A 组 ( 空白组) :
+生理盐水 40mg /kg 剂量
+灌胃，B 组 ( 模型组)
+生理盐水 40mg /kg 剂量灌胃，
+C 组 ( 人参皂苷治疗组) :
+人参皂苷 40mg /kg 剂量灌
+胃。
+2. 3
+检测项目
+2. 3
+1 人参皂苷对细胞凋亡影响
+使用 TUNEL 染
+色，在电子显微镜下使用 10×40 的倍镜观察脑组织
+凋亡情况，分别随机选取观察部位，观察一次并记
+录细胞凋亡数目并计算出百分比。
+2. 3. 2
+HIF－1α、VEGF 免疫组化染色
+按照前人染
+色 HIF－1α、VEGF 的操作方案［12］对 HIF－1α、VEGF
+进行染色，并在 10×40 倍数的放大镜下观察。
+2. 3. 3
+人参皂苷对大鼠 HIF－1α、VEGF 蛋白表达影
+响
+按照 HIF－ 1α、VEGF 试剂盒的使用方法操作。
+以 β－actin 为内参，使用 GIS 数码凝胶图像处理系统
+分析得出 PCＲ 产物的光密度值，以 HIF－1α、VEGF
+基因光密度值对比，以 β－actin 的光密度值表示基因
+的 mＲNA 表达水平。
+2. 4
+统计学方法
+本研究采用 SPSS18. 0 软件和 Ex-
+cel 软件对数据进行处理和分析，方差分析使用 ( A-
+nalysis of variance) ，当组间差异有统计学意义时，进
+一步采用 SNK 方法进行两两比较;
+对于无序分布的
+等级资料采用非参数 Mann－Whitney U 检验。所有检
+验中 P＜0. 05 即提示差异有统计学意义，本研究所有
+检验均为双侧检验。
+3
+结
+果
+3. 1
+缺血脑组织形态学变化
+由图 1 可以看出，正
+常组的空白对照组大鼠脑组织细胞着色较深，为正
+常情况，且细胞数目较多，细胞轮廓清晰、紧密。
+模型组大鼠的脑组织细胞着色显著变浅，其神经细
+胞个数也显著减少。细胞结构变得疏松，细胞间质
+水肿，部分形成空腔，部分细胞轮廓模糊不清，大
+部分细胞有一定度的神经坏死。相比模型组，人参
+皂苷组大鼠的细胞染色较深，细胞也较多，轮廓较
+为清晰、紧密，细胞细胞间质水肿明显减少，神经
+坏死的细胞数目也显著减少。
+·44·
+四
+川
+中
+医
+Journal of Sichuan of Traditional Chinese Medicine
+2019 年第 37 卷第 6 期
+Vol. 37，No. 6，2019
+图 1
+缺血脑组织形态学变化 ( ×400)
+注: A: 空白
+对照组; B: 模型组; C: 人参皂苷治疗组
+3. 2
+人参皂苷对脑细胞凋亡影响
+由图 2 可以看出，
+与空白组相比，模型组大鼠 12 ～ 36 小时时，细胞凋
+亡百分 比 显 著 上 升，且 两 者 有 统 计 学 差 异 ( P ＜
+0. 01) ;
+与空白组相比，人参皂苷治疗组大鼠 12 ～ 36
+小时时，细胞凋亡百分比有一定程度的上升，两者
+有统计学差异 ( P＜0. 05) ;
+与模型组相比，人参皂苷
+治疗组大鼠 12 ～ 36h 时，细胞凋亡百分比显著下降，
+且两者有统计学差异，且两者有统计学差异 ( P ＜
+0. 01) 。
+图 2
+人参皂苷对细胞凋亡影响
+注: 与空白对照组比
+较，
+* P＜0. 05，
+＊＊P＜0. 01; 与模型组比较，# P＜0. 05; ## P
+＜0. 05。
+3. 3
+人参皂苷对大鼠 HIF－1α、VEGF 蛋白表达影响
+由图 4 可以看出，与空白组相比，模型组大鼠 HIF
+－1α、VEGF 都显著上升，且两者有统计学差异 ( P＜
+0. 01) ;
+与模型组相比，人参皂苷治疗组大鼠 HIF－
+1α、VEGF 表达量显著上升，且两者有统计学差异
+( P＜0. 01) 。
+图 3
+人参皂苷对 HIF－1α、VEGF 蛋白表达影响
+图 4
+人参皂苷对 HIF－1α、VEGF 蛋白表达影响
+注:
+与空白对照组比较，＊＊ P＜ 0. 01; 与模型组比较，
+## P＜
+0. 05。
+3. 4
+HIF－1α、VEGF 免疫组化观察
+由图 5 可以看
+出，HIF－1α 阳性表达为深褐色，在正常的大鼠体内
+HIF－1α 表达较少，几乎没有表达的，模型组大鼠体
+内 HIF－1α 的表达数目显著增加，有较多被染成深褐
+色的表达区域，人参皂苷治疗组深褐色区域显著增
+加，面积也增大，大鼠体内的 HIF－1α 表达的数目及
+量都显著增加。由图 6 可以看出，VEGF 表达被染色
+后呈深褐色，在正常的大鼠体内 VEGF 表达较少，模
+型组大鼠体内的 VEGF 表达较多，但是表达的量较
+少，从 3 号图可以看出，人参皂苷治疗组大鼠 VEGF
+表达显著增加，且表达量较多。
+图 5
+HIF－1α 免疫组化观察 ( ×400)
+注: 1 为空白
+组; 2 为模型组; 3 为人参皂苷治疗组
+图 6
+VEGF 免疫组化观察 ( ×400)
+注: 1 为空白组;
+2 为模型组; 3 为人参皂苷治疗组
+4
+讨
+论
+脑缺血后，会使得神经细胞变性坏死或者凋亡，
+当脑部缺血后，应该尽快恢复供血［13］。有研究表明
+血管新生可以有效的改善脑部的组织血液供应［14］，
+因此血管新生是改善脑部缺血的重要途径之一。研
+究表明:
+血管生成包括内皮细胞增殖、细胞间粘附、
+迁移等［15］。在血管新生的过程中，VEGF 是主要的调
+·45·
+2019 年第 37 卷第 6 期
+Vol. 37，No. 6，2019
+四
+川
+中
+医
+Journal of Sichuan of Traditional Chinese Medicine
+控因子。局部氧分压对血管构筑起到至关重要的作
+用［16］。缺血会使得周围缺血区域供养不足，需要通
+过新生血管来代偿局部血供不足。在中 HIF－1α 是细
+胞在缺氧条件下产生的具有转录活性的核蛋白，这
+种蛋白可以介导缺氧与血管新生的信号传递。在缺
+氧条件下，VEGF 作为 HIF－1α 的靶基因之一［17］，能
+被诱导 HIF－1α 诱导而转录激活。在本实验中实验组
+大鼠经过缺血再灌注使得大鼠大脑局部缺血，在缺
+血情况下由 VEGF 诱导 HIF－1α 转录激活，使得这两
+种物质在大鼠体内表达显著升高，在使用人参皂苷
+处理后的大鼠体内 VEGF 和 HIF－1α 表达进一步的提
+高说明了人参皂苷可以促进 VEGF－HIF－1α 信号通路
+的激活，并加强血管的新生，使得缺血再灌注的大
+鼠损伤得到了缓解。
+研究表明 VEGF 表达的上游受到多种因子调节，
+其中 HIF － 1α 是 VEGF 的上游调控因子之一［18～21］。
+HIF－1α 不仅可促进血管的再生，同时 HIF－1α 也可
+作为调节因子促进下游 VEGF 的表达［22，23］。本研究探
+讨了人参皂苷是否可以通过上调 HIF－1α 从而促进
+VEGF 的表达。结果表明在脑缺血再灌注后，HIF－
+1α m ＲNA 和蛋白表达增多，人参皂苷可进一步促进
+这种作用。这一结果与脑缺血再灌注后 VEGF 和 HIF
+－1α 变化趋势是一致的。
+综上所述，人参皂苷可以有效的对调节 HIF－1α
+－VEGF 通路对大鼠脑缺血再灌注损伤起到保护作用，
+其作用机制可能与提高 HIF－1a、VEGF 蛋白的表达
+水平，激活 HIF－1α /VEGF 通路，使血管新生能力增
+强从而减轻脑缺血再灌注损伤。但缓解脑缺血再灌
+注损伤的方法较多，在后续的实验中可以进一步探
+究人参皂苷联合其他方法或者药物来达到缓解脑缺
+血再灌注损伤的机制和作用方法。
+参考文献
+［1］ Wijck K V，Buurman W A． Ischemia－Ｒeperfusion Injury ［J］．
+Journal of Surgical Ｒesearch，2002，105 ( 2) : 248
+［2］ Wu Y，Xia Z，Meng Q，et al． Shen－Fu Injection Precondition-
+ing Inhibits Myocardial Ischemia－Ｒeperfusion Injury in Diabetic Ｒats: Acti-
+vation of eNOS via the PI3K/Akt Pathway ［J］． Biomed Ｒesearch Interna-
+tional，2016，2011 ( 1110) : 384～627
+［3］ Qi Z P，Peng X，Hou T T，et al． Characteristics of mＲNA dy-
+namic expression related to spinal cord ischemia/reperfusion injury: a tran-
+scriptomics study ［J］． Neural Ｒegeneration Ｒesearch，2016，11 ( 3) :
+480～486
+［4］ Kunecki M，Pazak W，Podolec P，et al． Effects of endogenous
+cardioprotective mechanisms on ischemia－reperfusion injury ［J］． Postepy
+Hig Med Dosw，2017，71 ( 2) : 20～31
+［5］ Aboutaleb N，Shamsaei N，Ｒajabi H，et al． Protection of Hipp-
+ocampal CA1Neurons Against Ischemia/Ｒeperfusion Injury by Exercise Pre-
+conditioning via Modulation of Bax/Bcl－2Ｒatio and Prevention of Caspase－
+3Activation ［J］． Basic ＆ Clinical Neuroscience，2016，7 ( 1) : 21～29
+［6］ Yang Ｒ，Hu K，Chen J，et al． Necrostatin － 1protects hipp-
+ocampal neurons against ischemia/reperfusion injury via the ＲIP3/DAXX
+signaling pathway in rats ［J］． Neuroscience Letters，2017，9 ( 651) :
+207～215
+［7］ Ahmed T，Ｒaza S H，Maryam A，et al． Ginsenoside Ｒb1as
+neuroprotective agent:
+a review ［J］． Brain Ｒesearch Bulletin，2016，6
+( 125) : 30～43
+［8］ JINZhao－Hui． Enhancement of oral bioavailability and immunere-
+sponse of Ginsenoside Ｒh2byco－administration with piperine ［J］． Chinese
+Journal of Natural Medicines，2018，16 ( 2) : 143～149
+［9］ Yu Y，Sun G，Luo Y，et al． Cardioprotective effects of Notog-
+insenoside Ｒ1against ischemia/reperfusion injuries by regulating oxidative
+stress－ and endoplasmic reticulum stress － related signaling pathways ［J］．
+Scientific Ｒeports，2016，6 ( 5) : 21730
+［10］ 董艳红，胡婷婷，代良萍，等． 人参皂苷 Ｒg1 对心血管系
+统和神经系统药理作用的研究进展 ［J］． 中国民族民间医药，2016，
+3 ( 3) : 30～32
+［11］ Watanabe M，Kamimura N，Iuchi K，et al． Protective Effect
+of Hydrogen Gas Inhalation on Muscular Damage Using a Mouse Hindlimb
+Ischemia－Ｒeperfusion Injury Model ［J］． Plastic ＆ Ｒeconstructive Surgery，
+2017，140 ( 6) : 1
+［12］ 李君强，蒋茂芬，陈国荣． 分析在胃癌组织中 HIF － 1α、
+VEGF 的表达情况及意义 ［J］． 中国生化药物杂志，2017，37 ( 9) :
+22～25
+［13］ 姜立刚，李雪，李海平，等． 局灶性脑缺血再灌注损伤神
+经细胞凋亡的研究 ［J］． 北华大学学报 ( 自然科学版) ，2016，17
+( 2) : 205～208
+［14］ 田兆华，刘柏炎． 血管新生与脑缺血损伤 ［J］． 中国脑血
+管病杂志，2008，5 ( 3) : 132～134
+［15］ 朱青静． 香菇多糖体外抗血管生成作用实验研究 ［J］． 中
+医学报，2017，5 ( 12) : 2426～2429
+［16］ Claesson－Welsh L． VEGF receptor signal transduction－A brief
+update ［J］． Vascular Pharmacology，2016，12 ( 86) : 14～17
+［17］ 李雪． 醒脑开窍液对大鼠脑缺血再灌注损伤脑组织 VEGF、
+HIF－1α 表达影响随机平行对照研究 ［J］． 实用中医内科杂志，2015，
+12 ( 6) : 129～133
+［18］ Ferrara N． Vascular endothelial growth factor ［J］． Arterioscle-
+rosis Thrombosis ＆ Vascular Biology，2009，29 ( 6) : 789
+［19］ Ferrara N，Adamis A P． Ten years of anti－vascular endothelial
+growth factor therapy ［J］． Nature Ｒeviews Drug Discovery，2016，15
+( 6) : 385
+［20］ Jr Ｒ Ｒ． Vascular endothelial growth factor ( VEGF) and VEGF
+receptor inhibitors in the treatment of renal cell carcinomas ［J］． Pharmaco-
+logical Ｒesearch，2017，120 ( 21) : 116～132
+［21］ Yu Z G，Wang B Z，Cheng Z Z． The association of genetic
+polymorphisms of hypoxia inducible factor－ 1alpha and vascular endothelial
+growth factor with increased risk of chronic obstructive pulmonary disease: A
+case－control study ［J］． Kaohsiung Journal of Medical Sciences，2017，33
+( 9) : 433～441
+［22］ 吕倩，王昌明，蒋明，等． HIF－1α 和 VEGF 在大鼠 COPD
+中的表达及与肺血管重构的关系研究 ［J］． 中国药理学通报，2012，
+28 ( 6) : 772～777
+［23］ 宋晶晶，娄季宇，杨霄鹏． 苯扎贝特对脑缺血再灌注损伤
+大鼠 HIF － 1α、VEGF 表 达 的 影 响 ［J］． 中 国 老 年 学，2012，32
+( 10) : 2101～2103
+( 收稿日期
+2018－10－12)
+·46·
+四
+川
+中
+医
+Journal of Sichuan of Traditional Chinese Medicine
+2019 年第 37 卷第 6 期
+Vol. 37，No. 6，2019

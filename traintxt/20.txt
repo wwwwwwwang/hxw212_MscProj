@@ -1,0 +1,710 @@
+2022第二十四卷第二期
+*V01．24 No．2
+基于皮肤“ 微环境污染"的人参皂苷R93修复
+糖尿病皮肤损伤的作用机理研究六
+尚
+瑾，秦盼月，杨兴鑫，俞捷枞，李静平枞
+( 云南中医药大学中药学院昆明650500)
+摘要：目的探究人参皂苷R93( Gi nsenosi de R93，R93) 修复糖尿病( di abet es mel l i t us，DM) 皮肤损伤
+的作用及分子机理。方法雄性SD( Sprague Dawl ey，SD) 大鼠建立DM模型，随机分为正常组、模型组、氨基
+胍ami no guani di ri g，AG) 组、人参皂苷R93高、低剂组。上述大鼠灌胃4周后背部皮肤等面积全层切除，手
+术后第21天皮肤创面取材。检测大鼠皮肤中晚期糖基化终末产物( Advanced gl ycat i on end product s，AGEs)
+和创面中P物质( Subst ance P，SP) 的表达量；观察皮肤真皮层内胶原分布及相对胶原含量；检测碱性成纤维
+细胞生长因子( Basi c f i brobl ast growt h f act or，bFGF) 的含量并观察其被糖基化的程度；观察人参皂R93对
+AGEs干预后人脐静脉内皮细胞( HUVEC) 的生长情况；同时检测血清中过氧化氢( H0，) 、丙二醛( MDA) 、谷
+胱甘肽( GSH) 的水平。结果与模型组比较，给予人参皂苷R93治疗后：AGEs在皮肤组织中的蓄积较少；SP
+的含量增加( P<0．05) ；胶原增多且交织成网；bFGF的表达高于模型组( P<0．01) ，糖基化程度不明显；HUVEC
+细胞凋亡率明显下降( P<0．05或P<0．01) ；血清中H，O，、MDA含量显著下降( P<0．05) ，GSH含量上升( P<
+0．05) 。结论人参皂苷R93对DM大鼠皮肤损伤具有明显修复作用，与临床观察研究结果一致。阐明了人
+参皂苷R93改善DM皮肤“ 微环境污染” 、调节皮肤组织功能异常的“ 隐形损害” 的分子作用机理，可多靶点修
+复DM皮肤损伤。
+关键词：糖尿病
+皮肤损伤
+人参皂苷R93晚期糖基化终末产物P物质
+doi ：10．1 1842／wst ．20210323019
+中图分类号：R285．5
+文献标识码：A
+糖尿病( di abet es mel l i t us，DM) 是全球增长最快的
+疾病之一，预计到2045年将影响6．93亿成年人“ 1。DM
+患者并发症的治疗尤为重要，如糖尿病引起的肾病、
+视网膜病变、神经病变和创面难愈等，导致DM患者总
+体生活质量下降。皮肤作为人体最大的器官，必然会
+受到DM代谢障碍的影响而发生相应多重损伤，如果
+仅考虑微循环代谢障碍及其对皮肤胶原蛋白的影响，
+DM患者皮肤受累近100％皿1。DM自发性皮肤损伤或
+外源性创伤所导致的创面难愈，其特点为病程长、病
+情复杂且易反复、发病率日渐升高、治疗棘手，是临床
+常见且严重的并发症之一。1。因此，研发多靶点、多途
+径的治疗药物，有助于有效地解决DM难愈创面的治
+疗药物匮乏的现状。
+研究表明，DM患者由于糖代谢障碍，导致皮肤组
+织中局部含糖量增高，并诱发非酶促化学反应产生不
+可逆的异质化合物——AGEs，皮肤组织神经末梢合成
+和分泌的创面中P物质减少。AGEs为DM代谢重构
+的直接产物，在血液、皮肤和各个脏器中蓄积，与晚期
+糖基化终产物受体相互结合后引起氧化应激反应，同
+时可诱导炎性因子高表达使创面长期处在炎症反应
+收稿日期：2021—03—23
+修回日期：2022—01—10
+★
+国家自然科学基金委员会地区科学基金项目( 81960740) ：具有“ 益气养阴、去腐生肌” 功效的滇黄精修复糖尿病难愈创面的机理研究，负责
+人：李静平；云南省科学技术厅中医联合专项面上项目( 2017FFl l 6—024) ：基于皮肤“ 微环境污染” 的人参皂苷R93修复糖尿病难愈创面的作
+用机理研究，负责人：李静平。
+★出
+通讯作者：李静平，博士，副教授，主要研究方向：临床中药学；俞捷，博士，教授，主要研究方向：代谢综合征的中医药防治及相关机制
+582
+[ Moderni zat i on of Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca—Worl dSci ence and Technol ogy]
+万方数据
+阶段，并裂解细胞外基质胶原，延缓创面愈合” 。51。同
+时，在创伤修复的过程中，局部代谢产物蓄积会不断
+刺激创面皮肤所处的微环境，多方面来影响DM创面
+的愈合。
+皮肤组织自身细胞或基质功能不良是由于局部
+糖含量增高和AGEs蓄积所致，引发皮肤“ 微环境污
+染” 继而介导了DM皮肤的“ 隐形损害” ，导致创面愈合
+延迟或不愈。DM皮肤“ 隐形损害” 包括表皮和真皮变
+薄、层次减少；胶原排列紊乱或变性、肿胀；局部炎症
+介质异常增多；角质形成细胞生物学行为改变；成纤
+维细胞形态异常且增殖活动减弱。创面P物质可促进
+成纤维细胞迁移，促进肉芽组织形成，从而改善DM皮
+肤“ 隐形损害"171。相较于皮肤可见性的缺损或断裂，
+皮肤的“ 隐性损害” 是内在的，已存在组织学和细胞生
+物学行为的改变，导致皮肤组织更易受到外源性的损
+害” “ J 。因此在治疗上如何修复DM创面是一个亟需解
+决的难题。
+天然药物人参中含有一种四环三萜类皂苷——
+R93，具有多种药理活性，如抗肿瘤、抗病毒、舒张m
+管、调节免疫力等[ 81。研究证实其对肺癌、肝癌、胃癌、
+肠癌、乳腺癌等肿瘤细胞均有明显的多靶点抑制作
+用” ] 。但在人参皂苷R93修复皮肤损伤方面，从未有相
+关文献报道。
+在前期实验中，我们发现人参皂苷R93能良好地
+修复DM大鼠的皮肤损伤，缩短愈合时间，促进肉芽组
+织形成，改善创面炎症细胞浸润，增加皮肤表皮及真
+皮厚度，促进创面血管新生，提高创面愈合率” ” “ 1。本
+研究以“ 微环境污染” 导致过度的氧化应激反应，进而
+造成皮肤组织及自身细胞的内源性损害，为DM皮损
+的关键病机提供理论依据，综合分析“ 微环境污染” 引
+起的氧化应激反应增强、皮肤组织“ 隐形损害” 在DM
+创面中的动态变化，在前期药效实验基础上，深入探
+索人参皂苷R93修复DM皮肤损伤的分子作用机理，
+为该物质多靶点修复DM皮肤损伤的药物深入研发奠
+定理论基础。
+。I
+妒≯一
+【l
+：i 亡弓≥一≯1一}。j
+SPF级雄性SD大鼠，体质量180± 20 g，动物生产
+许可证号：SCXK( 川) 2017—024，动物合格证编号：
+51203500004561，由成都达硕实验动物有限公司
+提供。
+] 。1
+7
+≥j i i 磐j 毒T蔓叠⋯
+人参皂苷R93，由中国科学院昆明植物研究所提
+供；AG，购自昆明泉港生物科技有限公司。链脲佐菌
+素( St rept ozoci n，STZ) ，美国Si gma公司；SP抗体( 货号：
+ABl 566) ，美国Mi l l i pore公司；AGE抗体( 货号：
+Ab23722) ，美国Abcam公司；DAB试剂盒( 货号：ZLI 一
+9018) ，中杉金桥生物公司；Di spase 11分散酶( 货号：
+4010ES60) ，美国Si gma公司；Masson i 色染色试剂盒
+( 货号：G1340) ，索莱宝公司；胎牛血清( Fet al bovi ne
+serum，FBS) ，美国Gi bco公司；DMEM培养基，美国
+Hycl one公司；双抗孵育试剂盒，美国Mi l l i pore公司；双
+抗EDTA一胰酶，美国Mi l l i pore公司；CCK试剂盒，日本
+同仁研究所；FI TC Annexi n V Apopt osi s Det ect i on Ki t ，
+美国BD公司；Det ect i on Ki t ，美国BD公司；磷酸盐缓冲
+液( PBS) ，索莱宝公司；中性树胶( 货号：G8590) ，索莱
+宝公司；戊巴比妥钠，德国Merck公司。
+l 。] ’ _：
+筏琴
+RM2016切片机，德国Lei ca公司；ACCU—CHEK
+Perf orma m糖仪，罗氏诊断产品( 上海) 有限公司；
+GHP一9050N隔水式培养箱，美国Thermo公司；倒置显
+微镜，Mot i c公司；BS224S电子天平，德国Sart ori us公
+司；高速冷冻离心机，美国Thermo公司；酶标仪，美国
+Bi ot eck公司；FACSCant ol l 流式细胞仪，美国BD公司。
+』。2
+毒法
+l
+I
+L
+≤，二j 誓梧i 型镳j 妻一量曩≯- 簦
+建立Ⅱ型DM模型“ 2。1⋯ ：除正常组外，剩余4组给
+予高脂饲料4周后禁食( 不禁水) 12 h，用0．1 mol · L。1柠
+檬酸缓冲液配制低剂量STZ，采用腹腔注射的方式，一
+次性注射STZ 40 mg· kg～；正常组注射等体积的0．1
+mol · L。柠檬酸缓冲液。三天后检测大鼠空腹血糖及
+胰岛素，空腹血糖高于16．0 mnl ol · L。1及胰岛素高于正
+常组大鼠均值为造模成功，准备建立皮肤创面模型。
+建立皮肤损伤模型“ ” “ · ：灌胃4周后，等面积切除
+各组大鼠的背部皮肤全层，建立皮肤损伤模型。腹腔
+注射45 mg· kg。1的戊巴比妥钠用于麻醉上述各组大
+鼠，将大鼠背部毛发清除，用面积为4 Cl l l 2的圆形纸片
+在背部同一部位作标记，小心剪去大鼠背部所标记的
+皮肤层，如伤口出血立即用无菌棉棒轻压止血，术后
+注意保暖，单笼饲养每只大鼠，保持充足的水和饲料，
+( Moderni zat i on o厂Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+583
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+A
+图1
+DM大鼠皮肤中AGEs蛋白表达情况( n=8)
+注：A：正常组，B：模型组，C：AG组，D：R93低剂组，E：R93高剂组。
+垫料一日一换，温度保持在18—22。C。各组大鼠造模
+I
+2 3
+囊肤组织A。e也s蛋白表这硷测
+期问不问断给药直至取材。
+按随机数字表法，将上述DM大鼠分为正常组、模
+型组、AG组、人参皂苷R93高、低剂组。建模成功后，
+正常组和模型组灌胃等体积的生理盐水；人参皂苷
+R93低、高剂组分别灌胃5、15 mg· kg。1的人参皂苷
+R93；AG组灌胃10 mg· kg“ 的氨基胍；每日给药一次。
+AG为一种小分子亲核性肼类化合物，是目前研
+究最多的一种AGEs抑制剂。大量实验研究表明，AG
+可通过与AGEs前体物质酮胺类化合物中的还原性羰
+基互相反应，消除羰基，使AGEs降解并阻断AGEs与
+其受体结合，抑制AGEs的合成，改善AGEs介导的皮
+肤损害l “ 】。因本实验拟研究人参皂苷R93减少DM皮
+损大鼠皮肤糖基化代谢产物积累及皮肤的“ 隐形损
+伤” ，为探索人参皂苷R93修复DM皮肤损伤的机制，
+故选择AG作为阳性对照药。
+2。
+誊! ，，赞皇。-连-爱。，：奠。豢囊
+手术后第21天，各组大鼠提前禁食，给药后1 h麻
+醉各组大鼠，采用腹主动脉取帆，将所收集帆液于4。C
+下，3500 rpm· rai n。离心15 rai n分离血清，分装于0．5
+mL离心管中；取创面皮肤组织，立即放一80℃保存
+待测。
+皮肤组织经脱水、浸蜡、包埋制成组织石蜡标本，
+切片后常规脱蜡，将组织片用酒精水化后，再置于柠
+檬酸缓冲液( 0．01 t ool · L～，PH 6．0) 中进行抗原修复，加
+AGEs抗体( 一抗) 4℃过夜，漂洗后滴加反应增强液，
+37。C孵育20 rai n，漂洗后滴加二抗，37。C孵育20 rai n，
+漂洗后滴加DAB染液染色，染色明显后用PBS将染液
+冲洗干净，再放入苏木素中复染4 rai n，漂洗后放人酒
+精盐酸溶液中分化10 S，放入自来水中返蓝，返蓝20
+mi n后，中性树胶封片后镜检。利用抗AGEs单克隆抗
+体，采用免疫组化法观察DM大鼠创面皮肤通过AG和
+R93干预后AGEs蛋白表达情况。
+l 三_
+· j ^蠢。j 。鼻：蔓j ’ ：j ；_，萋；蔓霍■ - 0
+皮肤组织经脱水、浸蜡、包埋制成组织石蜡标本，
+切片后常规脱蜡，用不同浓度的酒精将组织片水化
+后，再置于柠檬酸缓冲液( 0．01 t ool · L～，pH 6．0) 中进行
+抗原修复，加sP抗体( 一抗) 4。c过夜，漂洗后滴加反应
+增强液，37。C孵育20 rai n，漂洗后滴加二抗，37℃孵育
+20 mi n，漂洗后滴加DAB染液染色，染色明显后用PBS
+将染液冲洗干净，再放入苏木素中复染4 rai n，漂洗后
+放人酒精盐酸溶液中分化10 S，自来水中返蓝20 rai n
+后，中性树胶封片后镜检。采用免疫组化法观察DM
+584
+[ Moderni zat i on oy Tradi t i onal
+Chi nese Medi ci ne andMat eri a Medi ca—Worl d Sci ence and Technol ogy]
+8
+6
+4
+2
+O
+摹墨翟∞叫o《
+万方数据
+世界科学技术一中医药现代化★专题讨论三：中医药与糖尿病研究
+2．5
+2．0
+装
+匿1．5
+茁
+景1．0
+0．5
+0．0◆ 一
+一图2
+DM大鼠皮肤中SP蛋白表达情况( n=8)
+注：A：正常组，B：模型组，C：AG组，D：R93低剂组，E：R93高剂组。
+大鼠创面皮肤通过AG和R93干预后SP蛋白表达
+情况。
+J
+2 j
+喜爱：奠芳囊≯莘≯况
+皮肤组织经脱水、浸蜡、包埋后，制成组织石蜡标
+本，切片后脱蜡，Wei gert 铁苏木素染色液染色10mi n，
+用酸性乙醇分化、水洗后，Masson蓝化液返蓝、水洗
+后，中性树胶封片后镜检。相对胶原的含量：以正常
+大鼠真皮层的相对胶原含量作为基线，计算模型大鼠
+及人参皂苷R93组大鼠真皮层的相对胶原含量。
+] ．2．o
+。j ：i l ’ i 自j 曩建zj ；i 一凌耱基i tl 皇?妻di 囊。j 主j i 迓露!
+i _硷撕
+皮肤组织标本冰冻切片，用TBS漂洗后3％牛白
+蛋白进行封闭，加入兔源抗bFGF单抗后4。C过夜，漂
+洗后再滴加鼠源抗AGEs单抗，在37℃孵育1 h后，与
+抗兔源二抗一抗鼠源二抗一Rhod于体积分数0．1％
+Tri t on X一100的TBS孵育1 h，DAPI 试剂对细胞核进行
+染色，用体积分数0．1％Tri t on X一100的TBS洗3遍，体
+积分数9．5％甘油封片后用免疫荧光显微镜检测。
+1：。7
+．泣j 薯H．0．j 譬}j 。1月0冉7爹—爹{蔓?_“
+血清中H⋯ O MDA和GSH分别用南京建成公司提
+供的试剂盒进行检测，具体操作参照说明书进行。
+] 2 l
++、一-薹。覃．≤二nI簧j ，对。童：J 三^』j ，l ，兽Ⅵ一．j —¨ l 三j 二F。P?。7卜
+繁鳆澎一孵
+HUVEC细胞的培养：将HUVEC细胞接种于10％
+的DMEM培养基中，置于37。C、5％CO，培养箱中，选用
+对数生长期细胞。流式细胞仪定量测定凋广或死广
+细胞；在6孔板接种HUVEC细胞，待细胞贴壁饥饿处
+理24 h后，加入不同浓度的AGE—HSA和人参皂苷R93
+后继续培养6 h和24 h，消化收集细胞。分组：正常
+HUVEC细胞组；经饥饿处理HUVEC细胞组；AGE—
+HSA干预6 h组( 分别加人AGE—HSA 12．5、50、100
+斗g) ；AGE- HSA干预24 h组；人参皂苷R93干预6 h组
+( AGE—HSA低、中、高剂量中分别加人100 umol 的人
+参皂苷R93) ；人参皂苷R93干预24 h组。用
+Annexi nV Fi t c凋亡试剂盒检测，流式细胞仪测定，每
+孔检测3次。
+卜i
+薅。。兰毒裔
+采用SPSS 19．0统计软件，结果以五± S表示，单因
+素方差分析、t 检验比较各组问差异。
+2
+缡累
+2。1
+皮肤务二缳A( j Es蛋白表这检湖1]
+模型组创面AGEs蛋白表达高于正常组，差异有
+( Moderni zat i on o厂Tradi t i onal
+Chi nese Medi ci ne and Mat eri a Medi ca—Worl d Sci ence and Technol ogy]
+585
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+D
+C
+图3
+DM大鼠皮肤层胶原纤维染色情况( n=8)
+注：A：正常组，B：模型组，C：AG组，D：R93低剂组，E：R93高剂组。
+表1真皮内胶原含量比较( 面± S)
+注：与正常对照组比较，模型对照组{。P<O．01；与模型对照组比较，Gi n
+senR93纽。P<O．05。
+统计学意义( P<0．01) ；AG组和人参皂苷R93高、低剂
+组创面AGEs蛋白表达均低于模型组，差异有统计学
+意义( P<0．01) ( 图1) 。与模型组比较，⋯ P<0．001，” P<
+0．01，“ P<0．05。
+|?
+、i 棼。赞盼_，受蠢轰譬套E。
+模型组SP蛋白表达显著低于正常组，差异有统计
+学意义( P<0．001) ；AG组和人参皂苷R93高、低剂组
+SP蛋白表达量均高于模型组，差异有统计学意义( P<
+0．05) ( 图2) 。与模型组比较，⋯ P<0．001，” P<0．0l ，+P
+<O．05。
+??i
+一霉．．≯j
+j 1_?j j ?≯：乎鼻j 一声一，≥j j 一￡
+Masson染色结果显示，正常组大鼠皮肤真皮层胶
+原分布密集，胶原纤维致密且有序的排列成网状；而
+模型组大鼠皮肤层纤维素增多，胶原稀疏排列，胶原
+纤维大量减少且不连续；与模型组相比，AG组、人参
+皂苷R93高剂组大鼠创缘真皮层胶原组织显著增多，
+分布密集，交织成网；R93低剂组大鼠皮肤胶原组织有
+一定增多，但较高剂组不明显。
+模型组大鼠真皮层相对胶原含量低于正常组，差
+异有统计学意义( P<0．01) ；与模型组比较，人参皂苷
+R93高、低剂组真皮层相对胶原含量明显增加，差异有
+统计学意义( P<O．05) ( 表1、图3) 。
+，j ，。皇
+kl __o，r袁砭，，曩一≯移《l 尊i I川。i 勺?艺爱≯Ii
+z。毋· 乏j
+j i
+7
+模型组AGEs表达量高于正常组( P<0．01) 、bFGF
+表达量低于正常组( P<0．001) ；且模型组AGEs的表达
+与bFGF表达在同一部位，故模型组的bFGF被糖基
+化，而正常组bFGF被糖基化的双重表达不明显；AG
+组和人参皂苷R93高、低剂组较模型组相比，AGEs表
+达量降低( P<0．01) ，bFGF表达量升高( P<0．叭) ，AG组
+586
+( Moderni zat i on可Tradi t i onal
+Chi nese Medi ci ne andMat eri a Medi ca—Worl d Sci ence and Technol ogy]
+万方数据
+4
+零3
+＆
+芸
+笛2
+o
+《
+l
+O
+o
+AGEs
+bFGF
+A
+B
+C
+D
+E
+4
+2
+O
+DAPI
+Merge
+1f
+{匿㈥
+。+
+l 髓耗㈣—————————二二——————一
+I 融糕㈣F三与
+l 幽面雪向囫
+l ㈤面匡|山删I 坳
+A
+B
+C
+D
+E
+图4
+bFGF表达及其被糖基化的免疫荧光双标检测( n=8)
+注：A：正常组，B：模型组，C：AG组，D：R93低剂组，E：R93高剂组
+同一部位bFGF和AGEs的表达无明显重合，糖基化不
+明显；人参皂苷R93高、低剂组同一部位bFGF和AGEs
+的表达重合不明显，但低剂组效果更好( 图4) 。与模
+型组比较，“ “ P<0．001，++P<O．Ol 。
+( Moderni zat i on o厂Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+587
+万方数据
+2022第二十四卷第二期
+V01．24 No．2
+Cont rol
+饥饿模型
+。2
+4 73
+：i 冀
+瀵}
+謦
+呈 萎
+AGE4氐／R93——6h
+AGE中／R93—。6h
+AGE高／R93——6h
+卜
+。。饕
+爹
+6Q533
+P
+02
+e5
+曩≤
+瀵
+簿
+j 0
+e器
+恐
+j 鬻
+刀
+刃
+刃
+刃
+刃
+刀
+习
+习
+刃
+刃
+幻
+习
+i 事
+冬
+争
+冬
+季
+每
+筝
+墨
+孝
+每
+季
+挈
+AGE低
+AGE中
+AGE高
+AGE4氐
+AGE中
+AGEr高
+卜——————6——h———一卜——————2—4—h—————一
+AGE4氐／R93 24h
+AGEq"／R93—24h
+AGE高／R93—24h
+；k
+( 12
+82
+一¨ =’
+‘
+∥
+、撵
+辫
+x
+B( 5133
+P
+02
+2 72
+一j 露
+黪
+。j 孥 警
+。。
+132
+图5
+R93干预不同浓度AGE—HSA对血管内皮细胞凋亡的抑制情况及流式细胞图
+注：给药组与AGE干预组比较，+P<0 05，” P<0叭；AGE干预组与饥饿模型组比较，。P<0 05．“ P<0 01．
+j ．
+蠡浮㈣I：1。㈧i r‘ 矗：Wi 臻争蔓，鼍『肼t
+大鼠血清中，DM皮损模型组较正常组H，0，含量
+显著升高( P<0．01) ；AG组及人参皂苷R93高、低剂组
+较模型组均显著降低( P<0．01) ；模型组较正常组MDA
+含量升高( P<0．05) ；AG组及人参皂苷R93低剂组较模
+型组明显下降( P<0．05) ，人参皂苷R93高剂组有下降
+趋势；模型组较正常组GSH显著下降( P<0．01) ，AG组
+及人参皂苷AG组及人参皂苷R93高、低剂组较模型
+组均有明显升高( P<0．05) ( 表2) 。
+?量
+，“ |≤t芝，譬‘ i tz! 潮奠l 一；_|‘ ～于l ￡j _M j I ，j 、j 目一兰，{皇
+鬈j 誊嘲
+所有组HUVEC细胞经饥饿处理后，饥饿模型组
+较正常组细胞凋亡率上升，差异有统计学意义( P<
+0．05) ；HUVEC细胞经AGE—HSA干预6 h、24 h后，未
+给药各组细胞凋亡率显著上升( P<0．05或P<0．01) ，给
+予人参皂苷R93培养6 h后，AGE低、中剂组HUVEC
+细胞凋亡率降低，差异有统计学意义( P<0．05) ，但高
+剂组下降不明显；给予人参皂苷R93培养24 h后，AGE
+一黛 攀+
+i
+。3
+9 59
+表2氧化应激反应指标检测( mmol · 一，x± s，n=8)
+注：与正常对照组比较，模型对照组}4P<0．01，4P<0．05：与模型对照组
+比较! P<0j 05，||P<0j 0I 。
+低、中、高剂组HUVEC细胞凋亡率均显著降低，差异
+有统计学意义( P<0．01) ( 图5) 。
+3讨论
+本实验检测了大鼠皮肤中AGEs的含量，模型组
+大鼠AGEs水平升高，人参皂苷R93组AGEs水平均降
+低，说明给药后减少了DM大鼠局部皮肤AGEs的蓄
+积，缓解了由AGEs引起的局部供血不足。研究表明，
+sP可促进参与创面修复的相关细胞DNA的合成，并
+588
+( Moderni ：ati 。n oJ Tradi t i 。nal
+Chi ，。ese Medi ci ne andMat eri a Medi cⅡ一Worl d Sci ence and Techn。f 。gY]
+乒．j
+产。L
+产T
+产。r_L 产r--L j
+产Tj
+=
+r_
+一● ■
+万方数据
+世界科学技术一中医药现代化★专题讨论三：中医药与糖尿病研究
+促进细胞增殖和迁移，促进新生血管的形成，同时影
+响外周神经的发育和修复，维持皮肤组织的完整性“ “ 。
+结果表明，人参皂苷R93组大鼠皮肤创面SP蛋白表达
+均高于模型组，且人参皂苷R93高剂量组效果更好，提
+示其能提高大鼠局部皮肤SP蛋白表达，促进创面修复
+细胞的合成，从而促进创面的愈合。用药后大鼠皮层
+胶原组织显著增多，说明人参皂苷R93可相对逆转皮
+肤病理性改变并缓解DM的皮肤损伤。
+糖基化的bFGF会抑制内皮细胞的增殖且影响血
+管的形成，而正常的bFGF既能促进内皮细胞的分裂、
+增殖及创面组织血管的形成，又能刺激成纤维细胞的
+生长，促进胶原生成，进而促进创面愈合“ “ 。本实验结
+果表明，模型组bFGF与AGEs进行免疫荧光双标拟合
+后，发现在同一部位bFGF和AGEs有双重表达，说明
+bFGF和AGEs之间互相结合，模型组bFGF被糖基化。
+药物干预后发现同一部位的bFGF与AGEs之间的拟
+合重合不明显，减少了bFGF被糖基化，提高了bFGF
+的促增殖能力，有利于创面的愈合。
+内皮细胞作为血管形成的关键部分，对促进皮损
+的愈合至关重要。内皮细胞能否具有高效的分裂增
+殖及血管新生的能力，与细胞相关信号分子的调控有
+关，而DM代谢紊乱使机体长期处于高血糖水平并增
+强氧化应激反应，导致细胞所在微环境氧气不足，进
+而内皮细胞的生长增殖受到抑制，加快内皮细胞的损
+伤，进而延缓了创面愈合。结果表明，HUVEC细胞经
+AGE—HSA干预后，生长增殖受抑，并发生凋亡。给予
+人参皂苷R93后培养6 h、24 h，AGE低、中、高剂组血
+管内皮细胞凋亡率均显著下降。提示给药后能减少
+内皮细胞凋亡，减缓由细胞微环境中高糖和AGEs等
+毒性物质的蓄积而引发相应的细胞毒性。
+研究发现，DM慢性创面中AGEs的蓄积，使得机
+体内存在氧化应激增强的现象，而后者参与了DM创
+面愈合延迟或不愈的发生。本实验检测了大鼠血清
+中H，O，、MDA、GSH的含量，模型组大鼠H，O，、MDA水
+平升高，GSH水平降低；说明在DM状态下，氧化应激
+增强，活性氧不能正常消除，延缓了创面愈合。人参
+皂苷R93组大鼠H，O，、MDA水平降低，GSH水平升高，
+提示其能缓解氧化应激反应，使机体抗氧化能力增
+强，促进皮肤损伤的愈合。
+本实验中证实人参皂苷R93可调节皮肤损伤造成
+的病理变化，减少AGEs的蓄积，缓解氧化应激反应，
+提高SP蛋白表达和胶原纤维组织，改善bFGF与AGEs
+之问的交联，提高了bFGF的促增殖能力，阐明了人参
+皂苷R93在改善DM皮肤“ 微环境污染” 和“ 隐形损害”
+的分子作用机理，为该药修复DM皮肤损伤的深入药
+物研发提供实验依据。
+1
+Col e
+J
+B，Fl orez
+J
+C．Genet i cs
+of
+di abet es
+mel l i t us
+and di abet es
+compl i cat i ons．Nat Rev Nephrol ，2020，16( 7) ：377—390．
+2
+Todd
+D O
+B．I mpai red
+dermal
+mi crovascul ar
+react i vi t y
+and
+i mpl i cat i ons
+f or di abet i c
+wound f ormat i on and heal i ng：an evi dence
+revi ew．J Wound Care，2020，29( Sup9) ：$21一$28．
+3
+Park NY，Li m Y．Short
+t erm suppl ement at i on of
+di et ary ant i oxi dant s
+sel ect i vel y
+regul at es
+t he
+i nf l ammat ory
+responses
+duri ng
+earl y
+cut aneous wound heal i ng i n di abet i c mi ce．Nut r Met abo仁on圳，201 1，
+8( 1) ：80．
+4
+徐杰男，阙华发，李星子，等．益气化瘀方促进糖尿病难愈创面修复
+愈合的AGEs／RAGE／KCs调控机制研究．时珍国医国药，2020，31
+( 9) ：2074- 2078．
+5
+秦盼月，尚瑾，杨兴鑫，等．糖尿病难愈创面的发病机制及治疗研究
+进展．重庆医科大学学报，2020，1—6
+6
+陆树良，青春，谢挺，等．糖尿病皮肤“ 隐形损害” 的机制研究．中华
+创伤杂志，2004，20( 8) ：22—27．
+7
+姚佐超，李明，倪涛．P物质对成纤维细胞Rac一1／J NK通路及糖尿病
+创面愈合的影响．解剖学研究，2021，43( 1) ：54—58，70．
+8
+王蔚，王旭，余苏云，等．人参皂苷R93调节免疫检查点PD—L1抑制
+肺癌Lewi s细胞增殖的作用及机制研究．中草药，2019，50( 1) ：
+166- 171．
+9
+段林瑞，谢艳华．人参皂苷R93药代动力学及抗肿瘤作用的研究进
+展．现代生物医学进展，2012，10( 4) ：770—772．
+10李静平，顾雯，倪艺榕，等．人参皂苷R93对糖尿病大鼠难愈创面表
+皮细胞及血管新生的影响．中国药理学通报，2019，35( 4) ：55卜556．
+11李静平，郑永仁，张燕，等．人参皂苷R93对糖尿病大鼠创面修复作
+用的实验研究．云南中医中药杂志，2016，37( 1) ：25—28．
+12张颖，邢伟，黄宏，等．2型糖尿病非收缩性难愈伤口模型的建立．
+中国组织工程研究，2012，16( 24) ：4432—4436．
+13杨选鑫，惠琦，曹高忠，等．rh—aFGF卡波姆940凝胶对1型糖尿病
+大鼠皮肤创伤的修复作用．中国药理学通报，2018，34( 4) ：557—562．
+14张仁宇，任超，秦兴华，等．晚期糖基化终末产物对心血管损伤的机
+制及防治策略．心脏杂志，2017，29( 2) ：241—245．
+15刘鹏，徐阳，李云平．外周P物质参与糖尿病足创面愈合及中药干
+预研究进展．中国中西医结合外科杂志，2020，26( 6) ：1206—1208．
+16曹晓赞，谢挺，陆树良．糖化碱性成纤维细胞生长因子影响人真皮
+( Moderni zat i on of Tradi t i onal Chi nese Medi ci ne and Mat eri a Medi ca- Worl d Sci ence and Technol ogy]
+589
+万方数据
+2022第二十四卷第二期
+★V01．24 No．2
+微血管内皮细胞增殖和血管化效应的受体途径．中华烧伤杂志。
+2021．37( 1) ：17—24
+St udy on t he Mechani smof Gi nsenosi de R93 i n Repai ri ng Di abet i c Ski n Damage Based on Ski n
+” Mi cro- envi ronment al Pol l ut i on”
+Shang J i n，Qi n Panyue，Yang Xi ngxi n，玩J i e，Li J i ngpi ng
+( School of Chi nese Medi ci ne，Yunnan Uni versi t y of Chi nese Medi ci ne，Kunmi ng 650500, Chi nn)
+Abst ract ：
+Obj ect i ve
+To expl ore t he ef f ect
+and mechani sm of
+gi nsenosi de R93 i n
+repai ri ng di abet i c
+ski n
+i nj ury．
+Met hods
+Mal e
+SD
+rat s
+were
+est abl i shed DM model
+and randoml y
+di vi ded
+i nt o
+normal
+group，
+model
+group，
+ami noguani di ne group，hi gh and l owdose Gi nsenosi de R93 groups．Af t er 4 weeks of i nt ragast ri c admi ni st rat i on．t he ski n
+ot t he back was resect ed wi t h equal area，and t he ski n sampl es of t he wound were t aken Oi l t he 21“ dav af l er i nj urv．The
+ski n sampl es were t aken t o det ect t he st rat i f i cat i on of AGEs and SP i n t he wound；The di st ri but i on of
+c011agen i n t he
+dermi s
+was observed and
+i t s rel at i ve
+cont ent
+was
+det ect ed；The cont ent
+of
+bFGF
+was
+det ect ed and t he degree
+of
+gl ycosyl at i on was observed；t he apopt osi s
+rat e of HUVEC cel l s t reat ed wi t h AGEs by Gi nsenosi de R93 was cal cul at ed：
+t he l evel s of H202，MDA and GSHwere det ect ed i n seFUm．Resul t s
+Compared wi t h t he model group, af l er Gi nsenosi de
+R93 t reat ment ，t he accumul at i on of AGEs
+i n t he ski n t i ssue was l ess；t he cont ent of SP i ncreased( P<0．05) ；col l agen
+i ncreased si gni f i cant l y and i nt erwoven i nt o a net work and t he rel at i ve cont ent i ncreased；t he
+exDressi on of bFGF was
+hi gher t han t hat
+i n t he model group( P<0．01) ；The degree of gl ycosyl at i on was not obvi ous；t he apopt osi s
+rat e of HUVEC
+cel l s was
+si gni f i cant l y decreased( P<0．05
+or
+P<0．01) ；the
+cont ent s
+of
+H202 and MDA i n
+serum were
+si gni f i cant l v
+decreased( P<0．05) ，and
+t he cont ent
+of
+GSH was i ncreased( P<0．05) ．Concl usi on
+Gi nsenosi de R93 has
+obvi ous
+repai ri ng ef f ect
+on ski n damage i n DMrat s，whi ch i s consi st ent
+wi t h t he cl i ni cal
+obsenrat i on and researeh resuI t s．The
+mol ecul ar mechani smof gi nsenosi de R93 t o i mprove t he” mi croenvi ronment al
+pol l ut i on” of DMski n and regul at e t he
+” i nvi si bl e damage” of
+abnormal
+ski n t i ssue f unct i on
+i s el uci dat ed，and
+i t
+can repai r DMski n damage wi t h muhi pl e
+t arget s．
+Keywords：Di abet es mel l i t us，Ski n i nj ul j r，Gi nsenosi de R93，AGEs，Subst ance P
+590
+( 责任编辑：周阿剑、郭思宇，责任译审：周阿剑，审稿人：王璃、张志华)
+[ Moderni zat i o尼of Tradi t i Dhal
+Chi nese Medi ci ne and Mat eri 口Medi ca—Worl dSci P忍cP口忍d‰矗忍。z。g，，]
+万方数据

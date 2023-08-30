@@ -1,0 +1,512 @@
+人参皂苷 Rg1 对抑郁症模型大鼠行为学及
+海马氨基酸的影响
+吴海芬
+1，朱春辉
+1，郭建友
+2*
+( 1. 浙江省宁波市镇海龙赛医院，浙江 宁波 315200;
+2. 中国科学院 心理研究所 中国科学院心理健康重点实验室，北京 100101)
+［摘要］ 目的: 观察人参皂苷 Rg1对长期慢性应激所致抑郁模型大鼠行为学及海马氨基酸含量的影响。方法: 将 SD 大
+鼠随机分为 5 组: 正常对照组、模型组、人参皂苷 Rg1低、高剂量组( 20，40 mg·kg － 1) 和阳性药组( 氟西汀 10 mg·kg － 1) 。采用
+慢性不可预见性温和应激方法造成大鼠抑郁模型，治疗组灌胃连续给药 21 d，正常组及模型组每日等剂量生理盐水灌胃。造
+模前后测定各组大鼠糖水消耗量，造模后旷场试验测定大鼠水平活动和垂直活动变化，以高效液相法测定海马氨基酸含量。
+结果: 与正常组相比，模型组大鼠糖水消耗及偏爱率均下降; 旷场试验测定水平活动和垂直活动次数均下降; 海马谷氨酸、天
+冬氨酸含量明显增高，氨基丁酸和牛磺酸含量则明显下降。人参皂苷 Rg1干预后，大鼠糖水消耗量和偏爱率增加; 水平活动和
+垂直活动次数明显增加; 海马谷氨酸、天冬氨酸含量下降，氨基丁酸和牛磺酸含量上升。结论: 人参皂苷 Rg1 对抑郁症状有明
+显改善作用，其机制可能与调节长期慢性应激反应海马氨基酸水平，防止兴奋性氨基酸的神经毒性作用有关。
+［关键词］ 抑郁症; 氨基酸; 长期慢性应激; 人参皂苷 Rg1
+［稿件编号］ 20120417020
+［基金项目］
+中国科学院知识创新方向性项目( KSCX2-YW-R-254，
+KSCX2-EW-J-8)
+［通信作者］
+* 郭建友，博士，研究员，Tel /Fax: ( 010) 64852787，
+E-mail: guojy@ psych. ac. cn
+［作者简介］
+吴海芬，副主任药师，Tel/Fax: ( 0574) 86299002，
+E-mail: whfwrr@ 126. com
+抑郁症是由一种以情感性障碍、心境低落、思维
+迟钝、语言行动减少为主要特征的综合性精神疾病。
+随着现代社会生活节奏的加快、竞争加剧和工作压
+力的加大，抑郁症的患病率呈逐年上升的趋势。据
+世界卫生组织( WHO) 的估计，抑郁症目前已成为全
+球疾病中给人类造成严重负担的第二位重大疾病。
+抑郁症发病率的持续增长及其严重危害，使得人们
+越来越关注它的病理生理过程，并不断探索合理的
+治疗方法及新型高效低毒的抗抑郁产品。
+迄今为止，抑郁症的病因尚未完全清楚，单胺假
+说是目前较为公认的发病机制，但仍有其局限性。
+越来越多的证据表明，氨基酸代谢、脑神经递质与抑
+郁症有着密切关系
+［1-2］。氨基酸作为人体不可缺少
+的一类物质，是许多与生命活动密切相关蛋白质的
+基本组成单位，其不仅在运动过程中提供能量，而且
+还是多种脑神经递质的前体物质，对脑功能和行为
+具有重要的调节作用。氨基酸可分为兴奋性神经递
+质和抑制性神经递质。谷氨酸( Glu) 和天冬氨酸
+( Asp) 是哺乳动物中枢神经系统最重要的 2 种内源
+性兴奋性氨基酸。γ-氨基丁酸( GABA) 和牛磺酸
+( Tau) 属于抑制性神经递质，尤其是牛磺酸，一个新
+近被确定的抑制性氨基酸，在脑内含量相对较高，常
+与 γ-氨基丁酸执协同作用，发挥抑制效应
+［3］。
+人参是抗抑郁中药组方常用的中药材，其主要
+成分人参总皂苷也具有良好的抗抑郁作用
+［4-5］。人
+参皂苷 Rgl是人参总皂苷的主要活性成分之一
+［6-7］，
+但其对抑郁症是否有干预作用，目前尚未见文献报
+道。已有研究表明，人参皂苷 Rgl 能通过改变运动
+疲劳小鼠脑氨基酸含量，起到抑制中枢性疲劳和提
+高运动耐力的作用
+［8］。因此，作者应用慢性不可预
+见性温和应激方法造成大鼠抑郁模型，研究人参皂
+苷 Rg1对抑郁大鼠海马氨基酸代谢的影响，探讨其
+对抑郁模型大鼠的干预作用及机制。
+1
+材料
+1. 1
+动物
+清洁级健康成年雄性 SD 大鼠，体重
+( 220 ± 16) g，由军事医学科学院实验动物中心提供
+并饲养，动物合格证号 SCXK-2007-004。饲养期间
+给予大鼠标准颗粒饲料及纯净饮水。动物饲养房间
+24 ～ 26 ℃，采用 12 h 明暗循环照明。
+3117·
+·
+第 37 卷第 20 期
+2012 年 10 月
+Vol. 37，Issue
+20
+October，2012
+1. 2
+药品和试剂
+人参皂苷 Rgl由上海同田生物
+技术有限公司提供; 盐酸氟西汀分散片，每片含盐酸
+氟西汀相当于氟西汀 20 mg，由西班牙礼来公司生
+产; 谷氨酸、天冬氨酸、牛磺酸及 γ-氨基丁酸均为美
+国 Sigma 公司产品。
+1. 3
+设 备
+日本岛 津 LC-10ATVP 高 效 液 相 色
+谱仪。
+2
+方法
+2. 1
+动物分组及给药
+SD 大鼠适应性饲养 3 d
+后，进行旷场实验，剔除水平和垂直活动总分低于
+10 的大鼠，而后随机分成 5 组，即正常组、模型组、
+阳性药组、人参皂苷 Rg1 低、高剂量组，每组 12 只。
+其中阳性药组灌胃给予氟西汀 10 mg·kg
+－ 1，人参
+皂苷低、高剂量组灌胃给予人参皂苷 Rg1 20，40 mg
+·kg
+－ 1，连续给药 21 d。正常组及模型组每日等剂
+量生理盐水灌胃。
+2. 2
+长期不可预见性应激致抑郁模型大鼠的建立
+除正常组外，给药组和模型组大鼠均单笼饲养，参照
+实验室前期的应激程序制备慢性应激抑郁模型
+［4，9］。
+具体如下: 将鼠笼倾斜24 h，明暗颠倒24 h，10 ℃冰水
+游泳 5 min，25 ℃热水游泳30 min，夹尾1 min，水平摇
+晃 5 min，湿垫料 24 h，共 7 种刺激随机安排到 21 d
+内，每日 1 种，每种刺激至少出现 2 次，同种刺激不能
+连续出现，使动物不能预料刺激的发生。连续给予
+21 d 的应激，造成慢性应激抑郁模型。
+2. 3
+大鼠糖水偏好试验
+实验前在安静的房间内，
+训练动物适应含糖饮水，每笼同时放置 2 个水瓶，第
+1 个 24 h，2 瓶均装有质量浓度为 1% 的蔗糖溶液;
+随后的 24 h，1 瓶装 1% 蔗糖溶液，1 瓶装纯水，2 瓶
+位置随机。长期慢性应激前及应激结束当天，大鼠
+先禁食禁水 20 h，然后给每只大鼠随机放置 2 个水
+瓶，分别装有事先称质量的 1% 蔗糖溶液和纯水。
+记录大鼠在 1 h 内的糖水消耗量、纯水消耗量。计
+算动物在应激前后的糖水消耗量和糖水偏爱( 糖水
+偏爱 = 糖水消耗/总液体消耗 × 100% ) 。
+2. 4
+大鼠旷场试验
+实验所用的敞箱装置由不透
+明木材制成，底面为 100 cm × 100 cm 的正方形且被
+等分为 25 个等边方格，周围为高 40 cm 的木墙，场
+箱内壁涂满黑色漆料。于实验前及造模后第 32 天
+下午 14: 00 ～ 18: 00 在安静的房间内进行此试验观
+察。糖水偏好实验结束后，将大鼠放入中心方格内，
+观察大鼠在 3 min 内穿越格数( 4 爪均进入方格才
+记数，为水平运动得分) 、后肢直立次数( 2 前爪腾空
+或攀附墙壁，为垂直运动得分) ，每只大鼠仅进行 1
+次测定，测定完毕后彻底清洁敞箱再进行下一只
+观察。
+2. 5
+大鼠大脑海马标本的采集及处理
+行为学实
+验结束后，断头剥离大脑，在冰浴上分离额叶皮质及
+海马，分别称重，放入 1. 5 mL 冻存管内，迅速放入液
+氮。检测时，将匀浆器和 0. 1 mol·L
+－ 1高氯酸( 内含
+0. 5 mmol·L
+－ 1 Na2SO3和 0. 3 mmol·L
+－ 1 Na2EDTA)
+放入 4 ℃冰箱预冷; 取出样品，放于 － 20 ℃ 冰箱; 匀
+浆器内先加 0. 5 mL 高氯酸，再加样品匀浆，匀浆液
+倒入 1. 5 mL eppendorf 管; 再加入 0. 3 mL 的高氯酸
+继续将残渣匀浆，倒入同一离心管。移液枪准确吸
+取等量匀浆液于另一个干净的 1. 5 mL 塑料离心管，
+标记，16 000 r·min
+－ 1，20 min，4 ℃冷冻离心。用注
+射器吸取上清液，过 0. 22 μm 滤膜，滤液放入干净
+的 1. 5 mL eppendorf 管，对应标记。每个样品吸取
+500 μL 于 3 000 Da 的超滤膜中，11 000 × g 离心 30
+min，标记后于 － 80 ℃冰箱保存待测海马氨基酸。
+2. 6
+大鼠海马氨基酸的含量检测
+采用岛津 LC-
+10ATVP 系列高效液相色谱仪，配 LC-10ATVP 高压
+泵和自动进样器，RF-10AXL 荧光检测器和岛津色
+谱工作站。流动相: A 相为 0. 1 mol·L
+－ 1 磷酸盐缓
+冲液-甲醇( 65∶ 35) ; B 相为 0. 01 mol·L
+－ 1磷酸盐缓
+冲液-甲醇( 10∶ 90) 。梯度洗脱顺序: 0 ～ 13. 50 min，
+0% ～ 30% B; 13. 51 ～ 20. 00 min，80% B; 20. 01 ～
+30. 00 min，0% B。流速 1 mL·min
+－ 1; 进样量 20
+μL。检测程序: 荧光检测器波长激发波长为 357
+nm; 发射波长为 455 nm。OPA 柱前衍生反相高效液
+相色谱法。
+2. 7
+统计学处理
+运用 SPSS 13. 0 统计软件进行
+数据统计，数据以 珋
+x ± s 表示，组间比较用 t 检验，
+P ＜ 0. 05为差异有统计学意义。
+3
+结果
+3. 1
+造模前后大鼠糖水消耗量及糖水偏爱的结果
+造模前各组大鼠的糖水消耗量和偏爱率无统计学
+差异，见表 1。21 d 慢性应激后，模型组大鼠的糖水
+消耗量和糖水偏爱率显著降低，与正常组比较均有
+显著统计学差异( P ＜ 0. 01) ，人参皂苷 Rg1高剂量干
+预后应激大鼠的糖水消耗量和糖水偏爱率明显提高
+( P ＜ 0. 05) ，氟西汀干预后也能明细提高应激大鼠
+的糖水消耗量和糖水偏爱率( P ＜ 0. 05) 。
+3118·
+·
+第 37 卷第 20 期
+2012 年 10 月
+Vol. 37，Issue
+20
+October，2012
+表 1
+造模前后各组大鼠造模后糖水消耗量和糖水偏爱率比较 ( 珋
+x ± s，n = 12)
+Table 1
+Comparisons of sucrose consumption and sucrose preference before and after CUMS ( 珋
+x ± s，n = 12)
+组别
+剂量 /mg·kg － 1
+1% 糖水消耗量 /mL
+糖水偏爱 /%
+应激前
+应激后
+应激前
+应激后
+正常
+－
+4． 73 ± 0． 46
+4． 71 ± 0． 62
+85． 20 ± 14． 01
+86． 91 ± 13． 20
+模型
+－
+4． 96 ± 0． 84
+3． 36 ± 0． 791)
+87． 15 ± 9． 23
+61． 70 ± 11． 421)
+氟西汀
+10
+5． 01 ± 0． 53
+4． 32 ± 0． 782)
+82． 95 ± 13． 31
+79． 80 ± 16． 052)
+人参皂苷 Rg1
+20
+4． 93 ± 0． 58
+3． 83 ± 0． 87
+86． 07 ± 11． 82
+67． 30 ± 12． 30
+40
+4． 82 ± 0． 61
+4． 11 ± 0． 982)
+88． 74 ± 12． 86
+75． 30 ± 18． 182)
+注: 与正常组相比1) P ＜ 0. 05，2) P ＜ 0. 01; 与模型组相比3) P ＜ 0. 05，4) P ＜ 0. 01( 表 2，3 同) 。
+3. 2
+大鼠旷场试验
+21 d 慢性应激后，模型组大鼠
+的水平运动得分和垂直运动得分均显著低于正常组
+( P ＜ 0. 01) ; 与模型组相比，人参皂苷 Rg1 组水平运
+动得分、垂直运动得分均显著增加( P ＜ 0. 01，P ＜
+0. 05) ，氟西汀组的水平运动得分和垂直运动得分
+也显著高于模型组( P ＜ 0. 05，P ＜ 0. 05) ，见表 2。
+表 2
+各组大鼠 Open-Field 法行为测定比较( 珋
+x ± s，n = 12)
+Table 2
+Locomotor activity in the open-field of rats ( 珋
+x ± s，n =
+12)
+次
+组别
+剂量/ mg·kg － 1
+水平运动
+垂直运动
+正常
+－
+31. 82 ± 9. 24
+11. 64 ± 2. 16
+模型
+－
+8. 90 ± 4. 651)
+6. 30 ± 1. 951)
+氟西汀
+10
+24. 8 ± 13. 53)
+9. 93 ± 2. 543)
+人参皂苷 Rg1
+20
+17. 30 ± 9. 122)
+8. 44 ± 1. 77
+40
+21. 40 ± 8. 953)
+9. 16 ± 2. 172)
+3. 3
+各组大鼠海马内氨基酸含量变化比较
+与正
+常组比较，模型组海马 Asp，Glu 浓度上升，Tau 与
+GABA 浓度下降( P ＜ 0. 01) 。人参皂苷 Rg1干预后，
+能显著降低应激大鼠海马 Glu 和 Asp 含量，升高应
+激大鼠海马 Tau 与 GABA 浓度( P ＜ 0. 01) 。氟西汀
+组的水平运动得分和垂直运动得分也显著高于模型
+组( P ＜ 0. 05，P ＜ 0. 05) ，见表 3。
+4
+讨论
+抑郁症患者的临床症状主要 表 现 为 活动 力
+下降、兴趣丧失及食欲降低等。慢性不可预见性
+温和应激模型与人类抑郁症临床特征相似，被广
+泛应用为抑郁动物模型。本次实验结果表明，经
+21 d 慢性应激后，应激组动物旷场测试水平行为
+及垂直行为下降，提示其探索行为及对新鲜环境
+的好奇程度降低等症状。应激大鼠糖水消耗量
+及糖水偏爱程度明显减少，而糖水偏爱降低是衡
+量快感缺乏的有效客观指标
+［10］。长期给予人参
+皂苷 Rg1干预后，可以改善抑郁模型大鼠的旷场
+测试和糖水偏好，提示了人参皂苷 Rg1 对抑郁症
+状有较好的改善作用。
+表 3
+各组大鼠海马内氨基酸的含量变化比较( 珋
+x ± s，n = 12)
+Table 3
+Comparison of the contents of amino acids in hippocampus( 珋
+x ± s，n = 12)
+μmol·g － 1
+组别
+剂量/ mg·kg － 1
+Asp
+Glu
+Tau
+GABA
+正常
+－
+19. 26 ± 3. 11
+2. 85 ± 0. 367
+4. 99 ± 0. 78
+19. 91 ± 3. 02
+模型
+－
+33. 91 ± 7. 221)
+4. 22 ± 0. 781)
+2. 31 ± 0. 462)
+12. 14 ± 3. 991)
+氟西汀
+10
+24. 21 ± 5. 613)
+3. 24 ± 0. 993)
+4. 39 ± 0. 924)
+16. 72 ± 3. 823)
+人参皂苷 Rg1
+20
+29. 50 ± 6. 50
+3. 82 ± 0. 87
+3. 14 ± 0. 743)
+16. 40 ± 3. 75
+40
+26. 28 ± 5. 583)
+3. 14 ± 0. 813)
+3. 47 ± 0. 874)
+18. 79 ± 3. 813)
+海马不仅与学习、记忆及情感等高级认知功能
+密切相关，而且是抑郁障碍多重发病因素的共同交
+汇点，并介导神经系统结构与功能的可塑性改变。
+海马是目前研究较深入且与抑郁症发病关系最密切
+的核 团，抑 郁 症 患 者 与 正 常 人 相 比 海 马 体 积 减
+小
+［11-13］。因此，本实验分离模型大鼠海马，高效液
+相法检测海马部位 GABA，Tau，Asp，Glu 等氨基酸含
+量。实验结果显示，抑郁症模型大鼠 Asp 和 Glu 的
+含量显著升高，Tau 及 GABA 的含量显著下降，表明
+中等强度慢性应激可引起大鼠脑内氨基酸含量异
+3119·
+·
+第 37 卷第 20 期
+2012 年 10 月
+Vol. 37，Issue
+20
+October，2012
+常: 兴奋性氨基酸水平显著升高，抑制性氨基酸水平
+下降，使脑内兴奋/抑制氨基酸平衡失调。人参皂苷
+Rg1干预后，可使兴奋性氨基酸水平降低，抑制性氨
+基酸水平升高，使失调的兴奋/抑制氨基酸平衡恢复
+至正常水平。
+正常情况下，脑内 GABA，Tau，Asp，Glu 等氨基
+酸的基础释放量是相对恒定的。慢性应激时，GC 可
+刺激中枢释放 Glu 和 Asp
+［14］。Glu 是 HPA 轴重要的
+兴奋物质，应激时 HPA 轴激活，引起 Glu 的堆积，造
+成海马的毒性; 而细胞外高水平的 Glu 又使 HPA 轴
+功能亢进，使 GC 水平更高。同时，促肾上腺皮质激
+素释放激素等激素对 Asp 浓度非常敏感
+［15］。可见，
+HPA 轴与海马 Glu 与 Asp 之间具有复杂的相互作
+用关系。GABA 与 Tau 生理作用相似，广泛存在于
+下丘脑和海马中，属于中枢神经系统的抑制性递质。
+Tau 及 GABA 均能参与应激活动，心理应激状态下，
+HPA 轴的功能活动与 GABA 及 Tau 含量变化有关，
+这两种氨基酸可以发挥抑制 HPA 轴活动亢进的
+效应
+［16-17］。
+综上所述，人参皂苷 Rg1 对抑郁症状有较好的
+改善作用，其机制可能是缓解大鼠慢性应激后 Glu，
+Asp 在海马堆积产生的毒性作用，增加海马 GABA
+和 Tau 等抑制性氨基酸的水平，降低兴奋性/抑制性
+氨基酸的比值。由于本实验只选择了 4 种氨基酸做
+为检测对象，它们的兴奋性/抑制性氨基酸的比值并
+不能代表脑内氨基酸的整体水平，亦不能说明药物
+对氨基酸整体兴/抑比值的影响。因此，还有待进一
+步深入研究。
+［参考文献］
+［1］
+Skolnick P. Beyond monoamine-based therapies: clues to new
+approaches［J］. J Clin Psychiatry，2002，63( suppl 2) : 19.
+［2］
+楼剑书，杨晓春，方杰，等 . 免疫激活对抑郁症谷氨酸和五
+羟色胺系统的调节［J］. 中国药理学通报，2009，25( 12) :
+1555.
+［3］
+Li X L，An Y，Jin Q H，et al. Changes of some amino acid con-
+centrations in the medial vestibular nucleus of conscious rats fol-
+lowing acute hypotension［J］. Neurosci Lett，2010，477 ( 1) :
+11.
+［4］
+Dang H，Chen Y，Liu X，et al. Antidepressant effects of ginseng
+total saponins in the forced swimming test and chronic mild stress
+models of depression［J］. Prog Neuropsycho-pharmacol Biol Psy-
+chiatry，2009，33( 8) : 1417.
+［5］
+刘丽琴，罗艳，张瑞睿，等 . 人参皂苷对慢性应激抑郁模型
+大鼠行为学及 HPA 轴、BDNF 的影响［J］. 中国中药杂志，
+2011，36( 10) : 1342.
+［6］
+Xie X S，Yang M，Liu H C，et al. Influence of ginsenoside Rg1，
+a panaxatriol saponin from Panax notoginseng，on renal fibrosis
+in rats with unilateral ureteral obstruction［J］. J Zhejiang Univ
+Sci B，2008，9( 11) : 885.
+［7］
+李玺，刘颖，张欣，等 . 人参皂苷 Rg1对大鼠脑片 AD 模型磷
+酸化 Tau 蛋白及 NMDA 受体亚单位 NR1，NR2B 表达的影响
+［J］. 中国中药杂志，2010，35( 24) : 3339.
+［8］
+王莹，蔡东联，马莉，等 . 人参皂苷 Rg1 对运动性疲劳小鼠
+脑氨基酸含量的影响［J］. 肠外与肠内营养，2008，15( 5) :
+267.
+［9］
+Guo J Y，Li C Y，Ruan Y P，et al. Chronic treatment with cele-
+coxib reverses chronic unpredictable stress-induced depressive-
+like behavior via reducing cyclooxygenase-2 expression in rat
+brain［J］. Eur J Pharmacol，2009，612( 1 /3) : 54.
+［10］
+Anisman H，Matheson K. Stress，depression，and anhedonia:
+caveats concerning animal models［J］. Neurosci Biobehav Rev，
+2005，29( 4 /5) : 525.
+［11］
+Kim J J，Diamond D M. The stressed hippocampus，synaptic
+plasticity and lost memories ［J］. Nat Rev Neurosci，2002，3
+( 6) : 453.
+［12］
+Kronmuller K T，Pantel J，Kohler S，et al. Hippocampal volume
+and 2 year outcome in depression［J］. Br J Psychiatry，2008，
+192 ( 6) : 472.
+［13］
+周本宏，刘敏，郭志磊，等 . 香砂六君子汤对抑郁模型小鼠
+行为及海马神经元损伤的影响［J］. 中国中药杂志，2009，34
+( 17) : 2247.
+［14］
+Leza J C，Salas E，Sawicki G，et al. The effects of stress on ho-
+meostasis in JCR-LA-cp rats: the role of nitric oxide［J］. J Phar-
+macol Exp Ther，1998，286( 3) : 1397.
+［15］
+Compère V，Li S，Leprince J，et al. In vivo action of a new octa-
+decaneuropeptide antagonist on neuropeptide Y and corticotropin-
+releasing hormone mRNA levels in rat［J］. Brain Res Mol Brain
+Res，2005，141( 2) : 156.
+［16］
+Strous R D，Maayan R，Weizman A. The relevance of neuroste-
+roids to clinical psychiatry: from the laboratory to the bedside
+［J］． Eur Neuropsychopharmacol，2006，16( 3) : 155.
+［17］
+Singewald N，Zhou G Y，Schneider C. Release of excitatory and
+inhibitory amino acids from the locus coeruleus of conscious rats
+by cardiovascular stimuli and various forms of acute stress［J］.
+Brain Res，1995，704( 1) : 42.
+3120·
+·
+第 37 卷第 20 期
+2012 年 10 月
+Vol. 37，Issue
+20
+October，2012
+Effect of ginsenoside Rg1on behaviors and hippocampal
+amino acids in depressive-like rats
+WU Hai-fen1，ZHU Chun-hui1，GUO Jian-you2*
+( 1. Zhejiang Ningbo Zhenhai Long Sai Hospital，Ningbo 315200，China;
+2. Key Laboratory of Mental Health，Institute of Psychology，Chinese Academy of Sciences，Beijing 100101，China)
+［Abstract］ Objective: To observe the effect of ginsenoside Rg1 on behavior and hippocampal amino acids in depressive-like
+rats. Method: SD rats were randomly divided into 5 groups: control，model，fluxetine，low dose ginsenoside Rg1 and high dose of gin-
+senoside Rg1. The chronic unpredictable mild stress ( CUMS) was performed to induce depressive-like animal model. Fluxetine group
+was orally given fluxetine in dose of 10 mg·kg － 1for 21 days，low dose ginsenoside Rg1 group was orally given ginsenoside Rg1 in dose
+of 20 mg·kg － 1for 21 days，high dose ginsenoside Rg1 group was orally given ginsenoside Rg1 in dose of 40 mg·kg － 1for 21 days. The
+control and model group was orally given saline for 21 days. The sucrose consumption was detected before and after the CUMS proce-
+dure. The horizontal and vertical activities of rats were determined by open-field test. HPLC was adopted to detect the contents of amino
+acids in hippocampus. Result: The sucrose consumption，horizontal and vertical activities in CUMS rats were decreased compared with
+those in control group. Compared with control group，the contents of glutamate ( Glu) and aspartate ( Asp) in hippocampus of CUMS
+group were increased，while the gamma amino butyric acid ( GABA) and taurine ( Tau) were decreased. Ginsenoside Rg1 treatment
+significantly increased the CUMS-induced decrease in sucrose consumption，horizontal and vertical activities. Administrated with gin-
+senoside Rg1 also decreased Glu and Asp and increased the GABA and Tau in hippocampus in a dose dependent manner. Conclusion:
+Ginsenoside Rg1 could alleviate the behavior changes of depressive-like rats，which might be related to regulate the levels of amino
+acids in hippocampus during CUMS and prevent the neuro-toxicity of excitatory amino acids.
+［Key words］ depression; amino acids; chronic unpredictable mild stress; ginsenoside Rg1
+doi: 10． 4268 /cjcmm20122024
+［责任编辑
+张宁宁］
+3121·
+·
+第 37 卷第 20 期
+2012 年 10 月
+Vol. 37，Issue
+20
+October，2012

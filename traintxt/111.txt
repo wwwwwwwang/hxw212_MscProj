@@ -1,0 +1,1097 @@
+中国医学科学院学报
+ACTA ACADEMI AE MEDI CI NAE SI NI CAE
+· 论著·
+人参皂苷R93靶向Wnt ／13l - 连环蛋白信号通路调控胃癌顺铂耐药性
+孟子琪1，张
+睿1，吴旭微1，金铁峰1，张美花2
+1延边大学医学院肿瘤研究中心，吉林延吉133000
+2延边大学附属医院健康体检科，吉林延吉133000
+通信作者：张美花
+电话：0433- 2435006
+电子邮件：zhaI l gmei hua8l @hot mai l ．com
+摘要：目的探讨人参皂苷R93联合顺铂( DDP) 对DDP耐药细胞sGc一7901／DDP的抑制作用及其分子机制。方法
+将sGc一7901／DDP细胞分为4组：对照组、人参皂苷R静( 40斗∥ m1) 治疗组、DDP( 1．40斗∥ m1) 治疗组及联合治疗组。
+采用M|I Tl l 、Edu和平板克隆形成实验检测sGc．7901／DDP细胞增殖能力，流式细胞术和Hoechst 33342染色法检测sGc．7901／
+DDP细胞凋亡能力，west embl ot 检测凋亡相关标志物的表达，细胞划痕和‘
+I hnsweⅡ实验检测SGC一7901／DDP细胞迁移能
+力，west embl ot 和免疫荧光染色检测上皮一间充质转化( EMT) 和wn∥ p一连环蛋白( p—cat eni n) 信号通路相关标志物的表
+达水平。结果与人参皂苷R93治疗组和DDP治疗组比较，联合治疗组显著抑制sGc一7901／DDP细胞的增殖( f =8．062，
+P=0．001；扛7．090，P=0．002) 、克隆形成( 扛8．062，P=0．001；￡=6．144，P=O．004) 和迁移能力( 扛7．424，P=
+0．002；扛4．317，P=0．013) ，同时促进细胞的凋亡能力( }=5．530，P=0．031；￡=6．036，P=0．026) 。与人参皂苷R93
+治疗组和DDP治疗组比较，联合治疗组显著抑制EMT相关蛋白波形蛋白( f =24．450，P<o．001；f =14．750，P<o．001) 、
+Snai l ( 扛29．640，P<0．001；t =70．700，P<0．001) 、Sl ug( f =89．230，P<0．001；f =87．360，P<0．001) 、基质金属蛋
+白酶( MMP) 2( ￡=84．540，P<O．001；f =67．120，P<0．001) 、MMP9( f =19．010，P<0．001；t =10．890，P<O．001) 及
+wn∥ p—cat eni n信号通路相关蛋白wnt ( 扛35．480，P<o．001；t =14．670，P<o．001) 、B—cat eni n( t =155．800，P<o．001；
+f =118．100，P<0．001) 、C—myc( 扛20．870，P<0．001；t =3．334，P=0．029) 、细胞周期蛋白D1( f =5．007，P=
+0．008；扣8．347，P=0．001) 的表达，同时显著上调上皮细胞相关蛋白E钙黏蛋白( f =36．450，P<0．001；￡=33．810，
+P<o．001) 和z0—1( t =37．060，P<o．001；f =37．030，P<o．001) 的表达。结论人参皂苷R船通过抑制wn∥ B—cat eni n
+信号通路活性，增强sGc一7901／DDP细胞对DDP的敏感性。
+关键词：人参皂苷R93；顺铂；增殖；上皮．间充质转化；wn∥ B．连环蛋白
+中图分类号：R735．2
+文献标志码：A
+文章编号：1000一503x( 2022) 03—0366—11
+DOI ：10．3881以i ssn．1000—503X．14775
+Gi nsenosi de R93 Regul at es Ci spl at i n Resi st ance i n Gast ri c Cancer by
+Wnt ／pcat eni n Si gnal i ng Pat hway
+MENGZi qi l ，ZHANG Rui l ，WU Xuwei l ，J I N Ti ef en91，ZHANG Mei hua2
+1 Cancer Research Cent er，Medi cal
+CoⅡege
+of Yanbi an Uni versi t y，Yanj i ，J i l i n 133000，Chi na
+2
+Depart ment
+of Heal 山Exami nat i on Cent re，Yanbi an Uni versi t y Hospi t al ，Yanj i ，J i l i n 133000，Chi na
+CoⅡe8pondi “ g aut ho。：ZHANG Mei hua
+Tel ：0433- 2435006，E- mai l ：zhangmei hua81@hot mai l ．com
+ABSTRACT：咧ecti ve
+T0 i nves【i gat e t he i 出bi tory e骼ct of 百nsenosi de R移coⅡ曲ned而t l l ci spl at i n( DDP)
+on DDP．resi st ant
+ceU l i ne SGC．7901／DDP and t hei r
+mol ecul ar mechani sm．Met hods
+SGC．7901／DDP cel l s
+were di vi ded i nt o f our gmups
+i nel udi ng a cont ml 铲oup，
+a gi nsenosi de R静( 40¨ ∥ Ⅱ11) t reat ment
+gmup，
+a
+基金项目：国家自然科学基金( 81960554) s“ pport ed by t he Nat i onal
+Nat l l ral
+sci ence Foundat i on of chi na( 81960554)
+366
+J une．2022
+万方数据
+人参皂苷R静靶向wn∥ B一连环蛋白信号通路调控胃癌顺铂耐药性
+DDP( 1．40斗∥ m1) t reat ment group，and a dmg combi nat i on t reat ment 铲oup．The pr01i f e阳t i on abi l i t y 0f SGC-
+7901／DDP ceUs was det ect ed by MTT，EdU，and col ony f o珊ati on assays．The印opt osi s abi l i t y of SGC- 7901／
+DDP ceⅡwas det ect ed by now cyt omet ry and Hoechst 33342 st ai ni ng．The prot ei n 1evel s of apopt osi s- rel at ed mark-
+ers
+were det ect ed by West embl ot t i ng．The mi grat i on abi l i t y of SGC- 7901／DDP cel l s was det ect ed by wound heal -
+i ng and TransweⅡassays．The expressi on l evel s
+of prot ei ns
+i n epi t hel i al - mesenchymal t ransf omat i on( EMT) and
+Wn∥ p_cat eni n si gnal i ng pat hway were dete瑚i ned by West embl ot t i ng and i mmunonuore8cence st ai ni ng．Resul t s
+Compared wi t h t he gi nsenosi de R93 or t he DDP t reat ment gmups，
+t he dmg combi nat i on t reat ment gmup i nhi bi t ed
+t he prol i f erat i on( t =8．062，P=0．001；t =7．090，P=0．002) ，col ony f 0砌at i on( ￡=8．062，P=0．001；￡=
+6．144，P=0．004) ，and mi grat i on( f =7．424，P=0．002；f =4．317，P=0．013) ，and pmmot ed t he印op—
+t osi s( ￡=5．530，P=0．031；￡=6．036，P=0．026) of SGC- 7901／DDP cel l s．Compared wi t h t he gi nsenosi de
+R妒and t he DDP t reat ment
+groups，
+t he dmg combi nat i on t reat ment group down—regul at ed t he expressi on l evel s of
+EMT- associ at ed prot ei ns
+i ncl udi ng vi ment i n( f =24．450，P<0．001；￡=14．750，P<0．001) ，Snai l ( ￡=
+29．640，P<0．001；f =70．700，P<0．001) ，S1ug( f =89．230，P<0．001；f =87．360，P<0．001) ，mat ri x
+met al l oprot ei nase( MMP) 2( f =84．540，P<0．001；￡=67．120，P<0．001) ，and MMP9( ￡=19．010，
+P<0．001；f =10．890，P<O．001) ，as weU as t hose of wnL／p—eat eni n si gnal i ng pat }1way rel at ed pmt ei ns
+i n—
+cl udi ng Wnt ( ￡=35．480，P<0．001；￡=14．670，P<0．001) ，p- cat eni n( ≠ =155．800，P<0．001；￡=
+118．100，P<0．001) ，C- I l l yc( f =20．870，P<0．001；f =3．334，P=0．029) ，and cycl i n D1( f =5．007，
+P=0．008；￡=8．347，P=0．001) ．MeaI l 埘1i l e，i t up- regul at ed t he expressi on of epi t hel i al
+cel l s i ncl udi ng E- cad-
+heri n( f =36．450，P<0．001；f =33．810，P<0．001) and ZO- 1( ￡=37．060，P<0．001；￡=37．030，
+P<0．001) ．Concl usi on
+Gi nsenosi de R93 enhanced t he sensi t i vi t y of SGC- 7901／DDP ceUs
+t o DDP by i nhi bi -
+t i ng t he act i vi t y of Wn∥ p- cat eni n si gnal i ng pat hway．
+Key words：gi nsenosi de R驴；ei spl ati n；prol i f erati on；epi chel i al _mesenchymal transf o瑚ati on；Wn∥ B—cateni n
+Ac￡口Acnd^扎d J si n，2022，44( 3) ：366—376
+胃癌是消化道系统最常见的恶性肿瘤之一，每年
+有超过100万的新发病例。1 o。尽管胃癌诊断和治疗水
+平已取得了进步，但患者5年生存率仅约为25％。术
+后辅助放化疗是预防复发转移和提高患者长期生存率
+的重要治疗手段，然而其不良反应和肿瘤细胞的耐药
+性是影响化疗效果的关键因素嵋J 。因此，寻求解决肿
+瘤细胞耐药的有效途径，是癌症临床治疗的热点之一。
+人参皂苷R邸是从中药人参中提取的四环三萜单体，具
+有多种药理作用po。研究表明，人参皂苷R93可诱导
+肿瘤细胞凋亡并抑制肿瘤细胞增殖、迁移、血管形成
+和耐药性等H。51。人参皂苷R93已作为一种有效的抗
+肿瘤药物，应用于肺癌、乳腺癌、肝癌和卵巢癌等恶
+性肿瘤的治疗∞。91。wn∥ B．连环蛋白( p．cat eni n) 信号
+通路，又称经典wnt 信号通路，是一个保守的信号轴，
+参与细胞增殖、凋亡、侵袭和迁移等多种病理生理过
+程。1⋯ 。研究表明，靶向wn∥ B．cat eni n信号通路可抑
+制多种癌症干细胞自我更新、细胞增殖和分化等。目
+前关于人参皂苷R93对胃癌顺铂( ci spl at i n，DDP) 耐
+药作用影响的文献报道较少，本研究通过分析人参皂
+苷R驴对DDP耐药细胞株SGC- 7901／DDP的增殖、凋亡、
+迁移及上皮一问充质转化( epi t hel i al 一mesenchymal
+t mnsi —
+t i on，EMT) 进程的影响，探究其抑制胃癌细胞株耐
+药性的具体分子机制，为临床治疗胃癌DDP耐药提供
+理论依据。
+材料和方法
+材料和试剂
+1640培养基、胰蛋白酶和胎牛血清
+均购自以色列Bi 0109i cal I ndust ri es公司，顺铂购自江苏
+豪森药业集团有限公司，人参皂苷R93购自上海源叶
+生物科技有限公司，MTT购自杭州碧云天生物技术有
+限公司，ECL化学发光试剂盒和鼠抗人B- act i n单克隆
+抗体均购自康为世纪生物科技有限公司，Edu试剂盒
+购自广州锐博生物技术有限公司，Annexi n v／PI 凋亡
+试剂盒购自美国Bect on Di cki nson公司，兔抗人活化的
+半胱氨酸天冬氨酸蛋白酶- 3( cyst ei nyl
+aspart at e speci f i c
+prot ei nase，Caspase- 3) 、活化的Caspase- 8、E钙黏蛋
+白( E- cadheri n) 和转录因子Snai l 克隆抗体均购自美
+万方数据
+中国医学科学院学报
+国CeⅡSi gnal i ng Technol ogy公司，鼠抗人Ba) 【、Bcl 2、
+Z0- 1、波形蛋白( Vi ment i n) 、转录因子Sl ug、基质金
+属蛋白酶( mat ri x met al l oprot ei nase，MMP) 2、MMP9、
+Wnt 、B- cat eni n、C一Ⅱl yc和细胞周期蛋白D1( Cycl i n
+D1) 单克隆抗体均购自美国Sant a Cmz公司，辣根过
+氧化物酶标记的山羊抗兔和山羊抗鼠I gG购自北京中
+杉金桥生物技术有限公司，A1exa nuo产568标记的山
+羊抗鼠I gG( H+L) 购自美国I nvi t mgen公司。
+细胞培养人胃黏膜细胞GEs一1、人胃癌细胞sGc一
+7901及DDP耐药细胞SGC．7901／DDP均由延边大学肿
+瘤研究中心提供。将细胞置于含有10％胎牛血清和1％
+双抗( 100 u／ml 青霉素和100¨ ∥ I I l l 链霉素) 的1640
+培养基中，37℃、5％CO：培养箱内培养，待细胞贴壁
+至80％～90％融合度时传代，取对数生长期的细胞进
+行后续实验。
+MTT法检测细胞活力取对数生长期的人胃黏膜
+细胞GEs一1、人胃癌细胞sGc一7901和sGc一7901／DDP
+常规消化制成悬液，以5× 105个／孔的密度接种于96
+孔板中，置于培养箱中培养24 h后更换培养基，分别
+加入浓度为0、0．2、0．4、O．8、1．6、3．2仙∥ ml 的
+DDP和浓度为0、10、20、40、80、160¨ g／111l 的人参
+皂苷R船，置于培养箱中培养48 h。每孔加入100山的
+MTT( 1岭／I I l l ) ，培养4 h。每孔加入100肛1二甲基亚
+砜，酶标仪测量490 nm波长处吸光值。细胞存活率=
+用药组吸光值／对照组吸光值× 100％，计算48 h的半
+数抑制浓度( medi an i nhi bi t i on concent rat i on，I C铀) 。
+平板克隆形成实验取对数生长期的SGC．7901／
+DDP细胞以每孔500个细胞的密度接种于6孔板中，
+置于培养箱中培养。待细胞贴壁时，分别用人参皂苷
+R93和DDP单独或联合治疗SGC．7901／DDP细胞，对
+照组加入培养基。48 h后更换新鲜培养基继续培养15 d，
+其中每2 d更换1次培养基，当形成肉眼可见的细胞
+克隆后终止培养。PBS洗3次，每孔加入2 111l 甲醇室
+温固定20 mi n，苏木素染色10 mi n，蒸馏水冲洗晾干，
+拍照并统计细胞集落数。
+Edu细胞增殖实验
+取对数生长期的SGC．7901／
+DDP细胞以5× 104个／孔的密度接种于96孔板中，置于
+培养箱中培养24 h更换培养基，分别用人参皂苷R邸和
+DDP单独或联合治疗SGC- 7901／DDP细胞48 h，对照组加
+入等量培养基。每孔加入100山EdU工作液( 5¨ 删∥ L)
+培养2 h。PBS洗2次，100¨ l 的4％多聚甲醛室温固
+定20 mi n，50山甘氨酸( 2 m∥ I I l l ) 孵育5 I I l i n，100斗l
+的PBS脱色5 mi n，100¨ l 的0．5％Tri t on x- 100的PBS
+渗透剂孵育10 mi n，100斗1的Apol l o染色反应液室温
+避光孵育30 mi n，100¨ l 的甲醇孵育5 mi n，100斗l 的
+Hoechst 33342染色液室温避光孵育30 l l 】i n，PBS洗3次。
+荧光显微镜下拍照。
+流式细胞术检测细胞凋亡
+取对数生长期的细胞
+以1× 103个／孔的密度接种于6孔板中，置于培养箱
+中培养24 h更换培养基，分别用人参皂苷R静和DDP
+单独或联合治疗SGC．7901／DDP细胞48 h，对照组加
+入等量培养基。消化离心各组细胞，重悬细胞至密度为
+5× 103个／m1，取100¨ 1细胞悬液至EP管中，分别加
+5¨ l 的Annexi n V染料和5¨ l 的PI 染料，室温避光孵
+育15 mi n，分别加400仙l 的1× 结合缓冲液轻轻混匀，
+用滤网过滤后上机检测并分析。
+Hoecl l st 33342染色检测细胞凋亡取对数生长期
+的细胞以5× 104个／孔的密度接种于载有盖玻片的6孔
+板中，置于培养箱中培养24 h更换培养基，分别用人
+参皂苷R93和DDP单独或联合治疗sGC- 7901／DDP细
+胞48 h，对照组加入等量培养基。每孔加入2 ml 的
+4％多聚甲醛室温固定10 mi n，PBS洗3次，加入1 ml
+的Hoeehst 33342染色液( 10 mg／L) 室温孵育30 mi n，
+PBS洗3次，封片后在荧光显微镜下拍照。
+west embl ot 检测
+取对数生长期的细胞以5×
+104个／孔的密度接种于6孔板中，分别用人参皂苷
+R93和DDP单独或联合治疗SGC- 7901／DDP细胞48 h，
+对照组加入等量培养基。每孔加入适量含1％蛋白酶
+抑制剂和磷酸酶抑制剂的RI PA裂解液冰上孵育10
+IIl i n，
+刮下细胞于EP管中，冰上进行超声破碎裂解细胞。
+用BcA法检测蛋白浓度，加入5× 上样缓冲液，100℃
+变性5 mi n。每孔加入30峭变性蛋白于8％SDS—PAGE
+分离胶中分离蛋白，以5山的p- act i n为对照，将含有
+蛋白的分离胶转移至PVDF膜上，5％脱脂牛奶室温封
+闭1 h，加入相应一抗( 1：1000) 孵育PVDF膜4℃过
+夜。1× TBST洗膜3次，加入对应属性的二抗( 1：3000)
+室温孵育2 h，1× TBST洗膜3次，ECL化学发光试剂
+显影，I mage J 分析条带灰度值。
+细胞划痕愈合实验取对数生长期的细胞常规消
+化制成悬液接种于6孔板中，置于培养箱中培养，待细
+胞融合度为70％～80％时，用200¨ l 无菌枪头在每孔
+中垂直划痕，分别用人参皂苷R93和DDP单独或联合
+治疗SGC．7901／DDP细胞48 h，对照组加入等量培养
+基。分别于0、24、48 h在显微镜下拍照并计算细胞
+划痕愈合率。
+Transweu迁移实验取对数生长期的细胞以5×
+万方数据
+人参皂苷R静靶向wn∥ B一连环蛋白信号通路调控胃癌顺铂耐药性
+10’
+个／m1的密度接种于Transwel l 小室内，下室加入
+800¨ 1培养基，置于培养箱中培养6 h后更换培养基，
+上室分别用人参皂苷R{ ；3和DDP单独或联合治疗SGC一
+7901／DDP细胞，下室加入800¨ l 含10％胎牛血清的
+培养基，置于培养箱中培养48 h后取出小室，每孔加
+入2 ml 甲醇室温固定20 mi n，苏木素染色10 mi n，棉
+签擦拭小室内残留细胞，沿小室边缘切割薄膜，中性
+树胶封片，显微镜下拍照并统计个数。
+免疫荧光染色取对数生长期的细胞以5× 104个／
+孔的密度接种于6孔板中，分别用人参皂苷R93和DDP
+单独或联合治疗SGC一7901／DDP细胞48 h，对照组加
+入等量培养基。每孔分别依次加入2 ml 的4％多聚甲
+醛室温固定10 mi n、2 ml 的0．5％Tri t on x- 100室温渗
+透10 111i n、2 I I l l 的3％BSA室温封闭2 h，再加入100山
+的一抗( 1：100) 4℃过夜。PBS洗3次，每孔加入100山
+荧光二抗( 1：400) 室温避光孵育1 h，含有DAPI 的
+封片剂封片，荧光显微镜下拍照。
+统计学处理采用SPSS 26．0统计软件，计量资
+料以均数± 标准差表示，组问比较采用f 检验，多组问
+比较采用单因素方差分析。所有实验均独立重复3次。
+P<0．05为差异有统计学意义。
+结
+果
+人参皂苷R妒增强SGC- 7帅1／DDP细胞对DDP的
+敏感性M，I Tl l 法检测结果显示，DDP对sGc一7901细胞
+的I C50为0．65肛g／m1，对SGC一7901／DDP细胞的I C50
+为1．40斗∥ m1，人参皂苷R够联合DDP对SGC一7901／
+DDP细胞的IC50为1．12¨ ∥ IIl l 。与0∥ IIl l 组比较，10、
+20、40、80、160¨ g／1111人参皂苷R筘处理后SGC一7901／
+DDP细胞活力分别为( 86．33± 4．51) ％、( 83．33±
+4．04) ％、( 8200± 5．29) ％、( 74．33± 252) ％、( 仫00±
+1．73) ％，差异有统计学意义( f =5．250，P=0．034；
+￡=7．143，P=0．019；￡=5．892，P=0．028；f =17．6，70，
+P=o．006；￡=28．000，P=0．001) ；人正常胃黏膜细
+胞GES．1的活力分别为( 99．67± 0．58) ％、( 99．33±
+1．16) ％、( 9&33± 1．16) ％、( 9&00± 1．00) ％、( 蚍67±
+1．53) ％，差异无统计学意义( f =1．000，P=0．423；
+￡=1．000，P=0．427；f =2．500，P=0．130；f =3．464，
+P=0．074；f =2．646，P=0．118) 。40¨ ∥ m1人参皂苷
+R静和0、0．2、0．4、0．8、1．6、3．2¨ g／111l DDP联合
+治疗组的sGc一7901／DDP细胞活力明显低于对照组( f =
+7．559，P=0．002；
+f =7．000，
+P=0．002；
+f =1．565，
+P=0．193；￡=’
+7．Z73，P=O．002；￡=’
+7．620，P=O．002；
+￡=3．897，P=0．018) ( 图1A) 。根据本实验结果，选
+取40¨ ∥ 1111人参皂苷R静和1．40斗∥ ml DDP用于后
+续实验。Edu染色实验结果显示，人参皂苷R93和
+DDP联合治疗组的细胞增殖率明显低于人参皂苷R驴
+治疗组[ ( 18．00± 5．57) ％比( 45．67± 2．08) ％；￡=
+8．062，P=0．001] 和DDP治疗组[ ( 18．00± 5．57) ％
+比( 42．33± 2．08) ％；f =7．090，P=0．002] ( 图1B、
+1c) 。平板克隆形成实验结果显示，人参皂苷R93和
+DDP联合治疗组的克隆形成数量明显低于人参皂苷
+R93治疗组( 52．33± 7．51比95．67± 5．51；f =8．062，
+P=0．001) 和DDP治疗组( 52．33± 7．51比86．67± 6．11；
+￡=6．144，P=0．004) ( 图1D、1E) 。
+人参皂苷R妒联合DDP协同促进SGC- 7901／DDP
+细胞凋亡能力
+流式细胞术检测结果显示，人参皂苷
+R93和DDP联合治疗组的细胞凋亡率明显高于人参皂
+苷R93治疗组[ ( 21．59± 5．02) ％比( 5．78± 0．13) ％；
+￡=5．530，P=0．031] 和DDP治疗组[ ( 21．59± 5．02) ％
+比( 10．45± 2．01) ％；f =6．036，P=0．026] ( 图2A、
+2B) 。Hoechst 33342染色结果显示，与单药治疗组比
+较，联合治疗组凋亡小体数量增多( 图2c) 。west em
+bl ot 检测结果显示，与人参皂苷R93治疗组和DDP
+治疗组比较，联合治疗组的活化的Caspa8e．3( 1．31±
+0．08比0．85± 0．01；f =9．534，P=0．007和1．31±
+0．08比1．03± 0．09；￡=4．039，P=0．016) 、活化的
+Caspase- 8( 1．38± 0．02比0．82± 0．01；f =61．030，P<
+0．001和1．38± 0．02比0．94± 0．01；f =48．390，P<
+0．001) 、Bax／Bcl 2( 1．63± 0．06比0．75± 0．01；f =
+27．860，P<0．001和1．63± 0．06比0．87± 0．03，f =
+20．700，P<0．001) 表达水平显著升高( 图2D、2E) 。
+人参皂苷R酚联合DDP协同抑制SGC- 7901／肋P
+细胞迁移能力
+细胞划痕实验检测结果显示，人参皂
+苷R93和DDP联合治疗组的SGC．7901／DDP细胞48 h
+迁移率明显低于人参皂苷R93治疗组[ ( 10．64±
+2．18) ％比( 43．12± 7．26) ％；f =7．424，P=0．002]
+和DDP治疗组[ ( 10．64± 2．18) ％比( 31．39± 8．04) ％；
+f =4．317，P=0．013] ( 图3A、3B) 。Transwel l 实验
+检测结果显示，人参皂苷R邸和DDP联合治疗组的
+SGC．7901／DDP细胞的迁移率明显低于人参皂苷R93
+治疗组[ ( 52．33± 7．51) ％比( 95．67± 5．51) ％；f =
+7．140，P=0．019] 和DDP治疗组[ ( 52．33± 7．51) ％
+比( 86．67± 6．11) ％；f =5．179，P=0．035] ( 图3c、
+3D) 。
+VOI ．44 NO．3
+369
+万方数据
+中国医学科学院学报
+0
+O．2肛g／ml
+DDP
+O．4¨ ∥ m1
+DDP
+A
+O．8¨ g／ml
+DDP
+人参皂苷R93治疗组DDP治疗组
+联合治疗组
+对照组
+Gi nsenosi de R93
+DDP
+Combi nat i on
+Cont rol group
+t reat ment gmup
+t reat ment group
+t reat ment group
+B
+人参皂苷R93治疗组
+DDP治疗组
+对照组
+Gi nsenosi ae R93
+DDP
+Cont r01 group
+t reat ment group
+t reat ment group
+-
+·
+‘
+● -
+j ；：，；’
+’ '
+。．’
+．．· 、．
+．
+_
+’
+^。．‘
+‘
+’
+·
+- ．t
+。‘
+D
+1．6 p∥ m1
+DDP
+3 2 Ug／m1
+DDP
+ent group
+E
+DDP：顺铂
+DDP：ci spl at i n
+A．MTT法检测40肛∥ m1人参皂苷R庐与不同浓度DDP( 0、O．2、O．4、0．8、1．6、3．2斗∥ m1) 单独或联合治疗对sGc一7901／DDP细
+胞活力的影响；B．Edu实验检测人参皂苷R93与DDP单独或联合治疗对SGC一79叭／DDP细胞活力的影响( × 400) ；C．不同治疗组的
+Edu阳性细胞率；D．平板克隆形成实验检测人参皂苷R93与DDP单独或联合治疗对SGC一7901／DDP细胞集落形成能力的影响；E．
+不同治疗组的细胞克隆数量
+A．MTT assay t o( 1et e( 1t
+t he ef f e( 1ts of gi nsenosi de R静( 40¨ ∥ m1) an( 1 DDP( 0．2，O．4，0．8，1．6，and 3．2¨ ∥ m1) t reat ment al one or i n( 10m-
+bj nat i on on SGC一7901／DDP cel l
+vi abi l i t v；B．EdU assav
+t o det ect t he ef f 毫ct s of
+gi nsenosi de R93 and DDP t reat ment
+al one or
+i n combi nat i on on
+SGC一7901／DDP cel l vi abi l i t y( × 400) ；
+C．EdU posi t i ve cel l
+rat es
+i n di { krent
+t reat ment groups；D．cl one f ormat i on assay t o det ect
+t he e{ kct s of
+gi nsenosi de R93 and DDP t reat ment al one
+or i n combi nat i on on t he col ony f ormat i on abi l i t y of SGC一790 1／DDP cel l s；
+E．number
+of cel l
+c010ni es
+i n
+dj f f erent
+t reat Hl ent groups
+图1
+人参皂苷R93联合DDP对sGc一79叭／DDP细胞活力的影响
+Fi g l
+Ef f bct
+of gi nsenosi de R93 combi ned wi t h DDP on t he vi abi l i t y of SGC一7901／DDP cel l s
+370
+J une．2022
+组∞
+疗m
+滩g
+_
+p
+3
+R
+8
+i ■
+粤苷．瑚里．L ≥峨磐j
+巍黛掣j
+__擎t
+一 笆●I 擎I一 型● ■
+一 竺●■■■ 攀● I
+一 仁●■■■ 磐● I
+掣■■■■ 擎● -
+■⋯烈甜
+j 口衄
+N目nnn_∞IIuoo墨
+o∽-o岂
+瑚‰斛
+蕊一
+联‰'蚕
+万方数据
+人参皂苷R审靶向wn∥ B一连环蛋白信号通路调控胃癌顺铂耐药性
+N
+寸n
+■ 1n
+甍
+上
+。
+士
+活化的caspase- 3
+Cl eaved Caspase一3
+活化的Caspase- 8
+Cl eaved Caspase_8
+109
+108
+107
+106
+105
+104
+103
+102
+101
+09
+08
+07
+06
+05
+04
+03
+02
+01
+对照组
+Cont rol group
+[
+Q1
+02
+一O．06％
+O92％
+一
+一
+_●
+∥
+一
+●
+曩
+一
+04。
+03
+一95．40％
+3．67％
+U7
+：
+Q1
+02
+08 —0．10％
+O．87％
+07
+一
+06
+05 一
+04
+．●
+03
+02 一04
+03
+【0I
+—94．20％
+4．81％
+AI mexi n V
+DDP治疗组
+DDP t reat I l l ent group
+：Q1
+Q2
+- 0．18％
+1．73％
+一
+一
+一
+●
+一04
+03
+—87．30％
+10．80％
+Annexi n V
+gmup
+联合治疗组
+Combi nat i on t reat ment group
+109
+108
+107
+106
+105
+104
+103
+102
+l Ol
+—Q1
+Q2
+一O．12％
+2．40％
+一
+●
+一
+04
+03
+—74．30％
+23．20％
+102
+104 106 108
+102 104 106 108
+AnneXi nV
+对照组
+Cont rol
+group
+A
+AnneXi nV
+人参皂营R93治疗组
+Gi nsenosi de R93订eaⅡ11em铲oup
+甜
+，J
+暮
+翟
+丑
+30
+0
+P=O．031
+__________________________________________________一
+DDP治疗组
+DDP订eat memgmup
+B
+联合治疗组
+Combi nat i ont reaml em group
+◆ ∥
+E三三三三叵” ooo
+55 000
+23 000
+26 000
+D
+C
+．；卜*
+趔
+悄
+靛
+Ⅱ*
+正
+咖
+_刘‘
+照组
+Cont r01 group
+_人参皂苷R93治疗组
+Gi nsenosi 击R93 t reat ment group
+_DDP治疗组
+DDP t reat ment grOup
+C1eaved Caspase- 3 Cl eaved Caspase- 8
+E
+Mr：相对分子质量；Caspase：半胱氨酸天冬氨酸蛋白酶
+删l ：
+rel at i ve
+mol ecul ar mas8；
+Caspase：
+cyst ei nyl
+aspart at e speci f i c prot ei nase
+A．Annexi n V／PI 流式细胞术检测人参皂苷R93单独或联合DDP对SGC一7901／DDP细胞凋亡的影响；B．不同治疗组的细胞凋亡率；
+c．Hoechst 33342染色检测人参皂苷R93与DDP单独或联合治疗对sGc一7901／DDP细胞凋产小体形成的影响；D．west ern bl ot 检测人参
+皂苷R93与DDP单独或联合治疗对sGc一7901／DDP细胞中活化的caspase一3、活化的caspase一8、Bax和Bcl 2蛋白表达水平的影响；E．不
+同治疗组的蛋白表达水平
+A．Annexi n V／PI Ⅱow cvt omet n_assav t o det ect t he ef kct s of gi nsenosi de R93 and DDP t reat ment al one
+or i n combi nat i on on t he apopt osi s rat e of
+SGC一7901／DDP cel l s；B．apopt osi s
+rat es
+i n d珊色rent
+t reat ment groups；C．Hoechst 33342 st ai ni ng assav
+t o det ect t he
+ef f ect s o{ gi nsenosi de R93
+and DDPt reat ment al one
+or i n combi nat i on on t he apopt ot i c vesi cl e f ornl at i on i n SGC一7901／DDP cel l s：D．West embl ot t i ng t o det ect t he ef f ect s of
+gi nsenosi de R邸and DDP t reat ment al one
+or i n combi nat i on on t he prot ei n expressi on l evel s of cl eaved Caspase．3，
+cl eaved Caspase．8，
+Bax，
+and
+Bcl 2 i n SGC一790l ／DDP cel l s：
+E．prot ei n expressi on l evel s i n di f f brent
+t reat ment
+groups．
+图2人参皂苷R93联合DDP对SGC一79叭／DDP细胞凋亡能力的影响
+Fi g 2
+Ef f bct
+of 西nsenosi de R93 combi ned wi t h DDP on t he apopt osi s of SGC．790l ／DDP
+cel l s
+V0|．44 NO．3
+371
+一摹～∞苗-∽Iso苞o
+cI《
+1『o≯o
+T『口。一∞∞o-(L州。岛一o_2(I
+o≯一_靠T『o√叫
+万方数据
+中国医学科学院学报
+人参皂苷R93治疗组
+DDP治疗组
+联合治疗组
+对照组
+Gi nsenosi de R93
+DDP
+Combi nat i on
+Con打01 group
+t reat ment group
+t reat ment group
+订eat memgroup
+人参皂苷R93治疗组
+对照组
+Gi nsenosj de R93
+Cont r01 group
+t reat ment gmup
+A
+C
+联合治疗组
+DDP治疗组
+Combj nat i on
+DDP t reat ment group
+t reat ment group
+_
+制
+≈Ⅱ
+趟
+《
+二N
+上
+。。
+’ 寸
+300
+略=
+糕亏200
+刷。
+熏彗
+潼董100
+州曾
+2
+O
+B
+P=O．0003
+A．细胞划痕实验检测人参皂苷R93与DDP单独或联合治疗对sGc一7901／DDP细胞迁移能力的影响；B．不同治疗组的细胞愈合率；
+C．T，a。。。el l 实验检测人参皂苷R93与DDP单独或联合治疗对SGC一7901／DDP细胞迁移能力的影响；D．不同治疗组的细胞迁移数量
+A．wound heal i ng assav t o dete( 。t
+t he ef b( ：ts of gi nsenosi de R93 and DDP t reat ment al one or i n( ，ombi nat i on on t he mi grat i on abi l i t y of SGC- 790l ／
+DDP cel l s；
+B．cel l
+heal i ng rat es
+i n di f krent t reat ment groups；
+C．Transwel l
+assay t o det ect t he ef kct s of gj nsenosi de R93 and DDP t reat ment al one
+or
+i n combi nat i on on t he mi grat i on abi l i t v
+of SGC．7901／DDP cel l s；D．number
+of mi grat i ng cel l s
+i n d甜brent
+t reat ment groups
+图3
+人参皂苷R93联合DDP对sGc一79叭／DDP细胞迁移能力的影响
+Fi g 3
+Ef f 套ct
+of gi nsenosi de R93 combi ned wi t h DDP on t he
+mi grat i on abi l i t y of SGC一7901／DDP cel l s
+人参皂苷R93联合DDP协同抑制sGc- 7901／DDP
+细胞EMT进程west embl ot 检测结果显示，人参皂苷
+R93和DDP联合治疗组的上皮标志物E—cadheri n( 1．02±
+0．01 E匕0．65± 0．01；f =36．450，P<0．001矛口1．02±
+0．01比0．68± 0．01；f =33．810，P<0．001) 和Z0—1( 1．30±
+0．04 E匕0．39± 0．01；￡=37．060，P<0．001矛口1．30±
+0．04比0．37± 0．01；扛37．030，P<0．001) 蛋白表达
+水平明显高于人参皂苷R93治疗组和DDP治疗组；问质
+标志物Vi ment i n( 0．32± 0．01比0．56± 0．00；￡=
+24．450．P<0．001和0．32± 0．01比0．44± 0．01；f =
+14．750，P<0．001) 、Snai l ( 0．46± 0．01比0．76± 0．02；
+￡=29．640．尸<0．001矛口0．46± 0．01比0．86± 0．00；f =
+70．700，P<Q001) 、Sl ug( 0．20± Q00比0．90± 0．01；￡=
+89 230．P<0．001矛口0．20± 0．00比0．59± 0．01；￡=
+87．360，P<0．001) 及转移标志物MMP2( 0．19± 0．00
+比0．56± 0．01；￡=84．540，P<0．001和0．19± 0．00
+比0．46± 0．01；￡=67．120，P<0．001) 、MMP9( 0．14±
+0．00比0．59± 0．04；￡=19．010，P<0．( ) 01币口0．14±
+0．00比40．41± 0．04；污10．890，P<0．001) 蛋白表达
+水平均明显低于人参皂苷R矛治疗组和DDP治疗组( 图
+4A) 。免疫荧光染色结果显示，与单药治疗组相比，
+联合治疗组上调E—cadheri n的表达，下调Vi ment i n的
+万方数据
+人参皂苷R审靶向wn∥ B一连环蛋白信号通路调控胃癌顺铂耐药性
+表达( 图4B) 。
+人参皂苷R西联合DDP抑制wnt ／p- cat eni n信号
+通路的激活
+west embl ot 检测结果显示，人参皂苷
+R93和DDP联合治疗组的wnt ( 0．40± 0．02比0．87±
+0．01：￡=35．480，P<0．001和0．40± 0．02比0．59±
+0．01；扛14．670，P<0．001) 、B—cateni n( 0．36± 0．00
+比0．56± 0．00；f =155．800，P<0．001币口0．36± 0．00
+比0．90± 0．0l ；扛118．100，P<0．001) 、C—rnyc( 0．32±
+0．02比0．56± 0．0l ；f =20．870，P<0．001和0．32± 0．呓
+比0．36± 0．0l ；f =3．334，P=0．0[ 羽) 和Cvcl i n Dl ( 0．85±
+0．05比1．04± 0．04；≠ =5．007，P=0．008乖Ⅱ0．85±
+0．05比1．12± 0．02；扛8．347，P=0．001) 蛋白表达水平
+均明显低于人参皂苷R93治疗组和DDP治疗组( 图5) 。
+z。一，『———：—i：：j——：；；：：：———；：：；I：：。。。。
+sn。i，[：：iiiiii!：：jiiii!：：i三z，。。。
+s· us[：j；；iiii!：jiiiii!：!二s。。。。
+⋯ z医垂三三二· z
+ooo
+M㈣匡立三二灿oo
+。一。。ti。[：!；；；ii；：!；；；；；!j；；三4z。。。
+讨
+论
+胃癌是全球发病率及死亡率分别位居第5位和第
+4位的恶性肿瘤，手术治疗和放化疗是治疗胃癌的主
+要方法。对于没有淋巴结和远处转移且临床分期为T2
+以下的胃癌患者，新辅助化疗是首选的治疗策略。DDP
+是胃癌化疗中的基础药物，但胃癌治疗过程中产生的
+耐药性常导致治疗失败¨ ⋯ 。肿瘤细胞产生化疗药物
+耐药性的机制是药物在细胞内积累减少，药物靶部位
+的有效浓度降低。因此，迫切需要寻找可用于临床逆
+转耐药性的方法，以提高患者的临床收益。
+人参具有抗炎、抗癌和抗血管生成等作用，人参皂
+∥ 彩∥
+B
+MMP：基质金属蛋白酶
+MMP：
+mat rj x met al l 叩rot ei nase
+A．west embl ot 检测人参皂苷R93与DDP单独或联合治疗对sGc．7901／DDP细胞中E钙黏蛋白、zo一1、波形蛋白、snai l 、sl ug、MMP2
+和MMP9蛋白表达水平的影响；B．免疫荧光染色检测人参皂苷R93与DDP单独或联合治疗对sGc一7901／DDP细胞中E钙黏蛋白和波
+形蛋白表达水平的影响
+A．West embl ot t i ng t o det ect 山e effb( ’ ts of gi nsenosi de R93 and DDP t reat ment al one or i n( 10mbi nat i on on t he e。pressi on l evel s of prot ei n i n E- ( 泔d—
+heri n，Z0—1，vi ment i n，Snai l ，Sl ug，MMP2，and MMP9 i n SGC- 7901／DDP cel l s；B．i mmunonuorescence
+st ai ni ng assay t o det ect t he ef f ect s
+of
+gi nsenosi de R93 and DDP t reat ment al one
+or i n combi nat i on on t he expressi on l evel s of E- cadheri n and vi ment i n
+i n SGC一7901／DDP cel l s
+图4人参皂苷R93联合DDP对sGc一79叭／DDP细胞上皮一问充质转化进程的影响
+Fi g 4
+Ef f 毫ct
+of
+gi nsenosi de R93 combi ned wi t h DDP on epi t hel i al —mesenchymal
+t ransf ormat i on process i n SGC一7901／DDP cel l s
+万方数据
+中国医学科学院学报
+◆ ∥
+wnt『IjiiiiiiIiiiiiiIji_。-。。。
+阳cti n厅==i =i t：ooo
+图5
+west embl ot 检测人参皂苷R93与DDP单独或联合治疗对
+SGC一7901／DDP细胞中wnt 、B一连环蛋白、C_myc和细胞
+周期蛋白D1蛋白表达水平的影响
+Fi g 5
+west embl ot t i ng
+t o det ect
+t he
+ef f ect s of gi nsenosi de R驴and
+DDP t reat ment al one
+or i n combi nat i on on t he expressi on l ev—
+el s of prot ei n i n Wnt ，
+B—cateni n，
+C—myc，
+and cycl i n D1
+i n
+SGC一790】／DDP cel 】s
+苷R93是从人参中提取出来的主要活性成分之一¨ ⋯ 。
+研究表明，人参皂苷R邸可增强5．氟尿嘧啶、奥沙利铂
+和紫杉醇等化疗药物在肿瘤治疗中的作用¨ 4。1⋯ 。有文
+献报道人参皂苷R93通过下调程序性死亡配体．1表达、
+抑制增殖并促进凋亡，从而减弱肺癌DDP耐药。1 7|。本
+研究结果显示，人参皂苷R93通过抑制sGc一7901／DDP
+细胞增殖并促进凋亡，增强胃癌对DDP的敏感性。
+转移是一个复杂的过程，涉及部分肿瘤细胞的问
+质转化、微环境的重塑和转移细胞的定植等一系列变
+化。研究表明，人参皂苷R93增强吉非替尼在肺癌细
+胞中的抗转移能力。1引。EMT是上皮细胞特征逐渐转
+化为间质细胞特征的一种胚胎学过程，被认为对体内
+局部侵袭和癌细胞扩散等过程至关重要。1引。研究发
+现，EMT与肿瘤转移和不良预后密切相关，长链非编
+码RNA H19和血管内皮生长因子C通过促进EMT进
+程介导癌症转移，是多种癌症转移的必要过程。20。21I 。
+人参皂苷R93通过下调结肠癌细胞中的Not ch—Hesl 信
+号通路抑制EMT进程旧2|；通过阻断神经纤维网蛋白1
+介导的EMT进程从而抑制胃癌细胞增殖和迁移。2⋯ ；通
+过阻断核因子KB介导的EMT进程从而增强肺癌细胞
+对DDP的敏感性ⅢJ 。因此，下调肿瘤细胞EMT进程
+的相关蛋白表达有助于抑制胃癌转移并增强胃癌对化
+疗药物的敏感性。本研究结果显示，人参皂苷R93与
+DDP联合治疗通过上调上皮标志物表达和下调间质标
+志物表达，从而抑制SGC．7901／DDP细胞迁移。
+研究表明，人参皂苷R93通过阻断缺氧诱导因子
+1∥ 环氧合酶2／人血管内皮生长因子信号通路抑制结
+肠癌细胞增殖、转移及新生血管的形成¨ “ ；通过上调
+缺氧诱导因子1仅靶向的mi R一519a一5p抑制卵巢癌细胞
+的瓦博格效应¨ ⋯ ；通过增加Rho GTPase激活蛋白9的
+表达抑制肝癌细胞迁移和侵袭¨ “ 。这些提示人参皂
+苷R93可通过靶向不同的通路或基因调控癌症细胞的
+增殖、凋亡、迁移和EMT进程。wn∥ B．cat eni n信号通
+路的激活在肿瘤增殖、凋亡、迁移和耐药等过程中起
+着重要作用。研究表明，耐DDP的胃癌细胞株sGc一
+7901／DDP与Wnt ／B—cat eni n信号通路密切相关旧⋯ 。人
+参皂苷R邸通过阻断wn∥ B．cat eni n信号通路抑制胶质
+母细胞瘤和骨肉瘤的增殖、转移并促进细胞凋亡旧。⋯ 。
+本研究结果显示，人参皂苷R93与DDP联合治疗显著
+抑制WnL／B—cat eni n信号通路相关蛋白的表达，从而增
+强胃癌对DDP的敏感性。
+综上，本研究结果表明，人参皂苷R93联合DDP
+可抑制sGc一7901／DDP细胞的增殖、迁移和EMT进程，
+并促进细胞凋亡。同时，人参皂苷R93联合DDP可阻
+断wnt ／B．cat eni n信号通路的相关蛋白表达水平，提示
+Wn∥ B—cat el l i n信号通路的激活在人参皂苷R93调控sGc一
+7901／DDP的耐药性中起重要作用，但具体作用机制
+亟待进一步研究。
+参考文献
+[ 1]
+sung H，Ferl ay J ，si egel
+RL，et
+a1．Gl obal
+cancer
+st at i st i cs
+2020：gl obocan est i mat es of i nci deI l ce and mort al i t y worl dwi de
+f or 36 Cal l cersi nl 85 Count ri es『J ] ．CA Cancer J Cl i n，2021，
+71( 3) ：209—249．DOI ：10．3322／caac．21660．
+[ 2]
+Macri A，Morabi t o F．‘ rhe use of i mraperi t oneal chemo血erapy
+f or
+gast ri c mal 培nanci es[ J ] ．Expert
+Rev
+Ant i cancer
+Ther，
+2019，19( 10) ：879—888．DOI ：10．1∞0／14737140．2019．1671189．
+[ 3]
+Mohanan P，
+Subramani yam S，
+Mat hi yal agan
+R，
+et
+a1．Mo—
+l ecul ar si gnal i ng of gi nsenosi des Rbl ，R91，a11d R邸and t hei r
+mode of acti ons[ J ] ．J
+Gi nseng Res，2018，42( 2) ：123—132．
+DOI：10．1016／j ．j gr．2017．01．008．
+[ 4]
+Li u z，I J i u T，Li w，et
+a1．I nsi ght s i nt o t he ant i t umor mech—
+ani smof 百nsenosi des R静[ J ] ．Mol
+Bi ol Rep，2021，48( 3) ：
+2639—2652．DOI ：10．1007／s11033—021—06187—2．
+[ 5]
+Tan Q，I j n s，zeng Y，et a1．Gi nsenosi de R船at t enuat es t he
+osi mert i ni b resi st ance by reduci ng t he
+st emness of
+non—smal l
+万方数据
+人参皂苷R静靶向wn∥ B一连环蛋白信号通路调控胃癌顺铂耐药性
+[ 6]
+[ 7]
+[ 8]
+[ 9]
+[ 10]
+[ 12]
+[ 13]
+[ 14]
+[ 15]
+[ 16]
+eeⅡl 吼g c趾cer ceⅡs[ J ] ．En、，i ron T晒col ，2020，35( 6) ：643—
+651．DOI ：10．1007／s11033—021—06187—2．
+Ⅱa119 Y，盈ang T，胁塔S，et a1．20( S) 一百nsenosi de R审i l l l l i b—
+i ts l ung
+cancer
+cel l
+pml i f erat i on by t arget i ng EGFR—medi at ed
+Ras／Ra∥ MEK／ERK pat hway[ J ] Am J
+chi n
+Med，2021，
+49( 3) ：753—765．DOI ：10．1142／S0192415X2150035X．
+ⅪmH，J i Hw，瞄mHw，et
+a1．Gi nsenosi de R静preven【s
+on_
+cogeI l i c l ong noncodi ng RNA ATXN80S f bmi nhi bi t i ng t umor—
+suppressi ve mi croRNA·
+424·
+5p i n
+breast
+cancer ceⅡs[ J ] ．
+Bi omol ecul es，2021，11( 1) ：118．DOI ：10．3390／bi oml l 01
+0118．
+PI l z，Ge F，溉mg Y，et aL Gi nsenosi de—R静i Il Il i bi ts tl l e pr0—
+1i f brat i on and i nvasi on of hepat oma carci noma cel l s口施regul a—
+t i ng l ong
+I l on—codi ng RNA H0x
+ant i sense i me蜡eni c[ J ] ．
+Bi oengi neered，2021，12( 1) ：2398—2409．DOI ：10．1080／
+21655979．2021．1932211．
+ZI l ao L，SI l I l W，zheng A，et a1．Gi nsenosi de R驴suppresses
+ovari an cancer ceⅡpml i f erat i on and i l wasi on by i nhi bi t i ng t he
+expressi on of l ncRNA H19[ J ] ．Act a
+Bi ochi m Pol ，2021，
+68( 4) ：575—582．DOI：10．18388／abp．2020螯43．
+Huang G，Li ang M，Li u H，et a1．Ci rcRNA hsa—ci rcRNA一
+104348 pmmot es hepat ocel l ul ar carci noma progressi on tl l rough
+modul at i ng mi R一187—3p／RTKN2 axi s and ac胁ti ng Wn饥e—
+ta—c砒eni “ pathway[ J ] ．ceⅡDeath Di s，2020，11( 12) ：1065．
+DOI ：10．1038／s41419—020—03276—1．
+zhang Y，wang x．‘
+ra玛et i ng t he wn∥ bet a—cat eni n s培nal i ng
+pat hway
+i n caIl cer[ J ] ．J
+Hemat ol 0ncol ，2020，13( 1) ：165．
+DOI ：10．1186／s13045．020—00990—3．
+Si ddi k ZH．Ci spl at i n：mode of cyt ot oxi c act i on and mol eeul ar
+basi s of resi stance[ J ] ．0ncogene，2003，22( 47) ：7265—7279．
+DOI ：10．1038／si ．onc．1206933．
+Sun M，Ye Y，Xi ao L，et a1．Ami caJ l cer印f ect s
+of 西nsen—
+osi de R够[ J ] ．I mJ Mol
+Med，2017，39( 3) ：507—518．DOI ：
+10．3892／i j mm．2017．2857．
+Hong S，Cai W，Huang z，et
+a1．Gi nsenosi de R移enhances
+tl l e ant i cancer e雎ct of 5FU i n col on
+eaJ l cer cel l s秽施t he P13K／
+AKT pat hway[ J ] ．0ncol
+Rep，2020，44( 4) ：1333—1342．DOI ：
+10．3892／or．2020．7728．
+Shan K，Wang Y，Hua H，et a1．Gi nsenosi de R够eombi ned
+wi t h oxal i pl at i n i nhi bi t s t he pml i f erat i on and pmmot es印opt o—
+si s of hepat ocel l ul ar ca∽i noma ceⅡs秽如down代gul at i ng PCNA
+and cycl i n D1[ J ] ．Bi ol
+PhaHn Buu，2019，42( 6) ：900—905．
+DOI ：10．1248／bpb．b18- 00852．
+Yuan Z，J i ang H，Zhu X，et a1．Gi nsenosi de R93 promot es
+cytotoxi ci ty 0f pacl i t axel t hmugh i Il l l i bi ti ng NF—kappa B si gI l al i ng
+and regI l l at i ng Bax／Bcl 一2 expressi on on t ri pl e—negat i ve breast
+cancer[ J ] ．Bi omed Pharmacot her，2017，89：227—232．DOI ：
+10．1016／j ．bi opha．2017．02．038．
+[ 17]
+J i ang z，Yang Y，Yal l g Y，et aL Gi nsenosi de R93
+at t enuat es
+ci spl at i n resi st ance
+i n l ung
+cancer by downregul at i ng
+PD—L1
+and resumi ng i mmune[ J ] ．Bi omed Ph咖acother，2017，96：
+378—383．DOI ：10．1016／j ．bi opha．2017．09．129．
+[ 18]
+Dai Y，wal l g w，sun Q，et
+a1．Gi nsenosi de R驴pml not es
+tl l e
+ant i t umor acti vi ty of
+gef i t i ni b
+i n l ung
+cancer ceⅡl i nes[ J ] ．
+ExpnerMed，2019，17( 1) ：953—959．DOI ：10．3892／et m．
+2018．7001．
+[ 19]
+Mi t schke J ，Burk uc，Rei nheckel
+T．The rol e of prot eases i n
+epi t l l el i al —t o—mesenchymal ceu mmsi t i ons
+i n cancer[ J ] ．c肌cer
+Met ast asi s Rev，2019，38( 3) ：431—444．DOI ：10．1007／
+s10555—019—09808—2．
+[ 20] HuⅫ，Ⅺ119 w，孙ao RS，et aL}玎) AI ：2 i I 】l l i b诋EMI 二Ⅱl edi at ed
+cancer met ast asi s by downregul at i ng
+t he l ong noncodi ng RNA
+H19 i n col orect al cancer[ J ] ．J
+Exp cl i n cancer Res，2020，
+39( 1) ：270．DOI ：10．1186／s13046—020—01783—9．
+[ 21]
+Kong D，zhou H，Neel akant an D，et a1．VEGF—c
+medi at es
+t umor gmwt h and met ast asi s t hmugh pmmot i ng EMT—epi t hel i al
+breast
+cancer ceⅡcrosstal k[ J ] ．0Il eogene，2021，40( 5) ：964—
+979．DOI ：10．1038／斟1388—020一01539_x．
+[ 22]
+Ⅱx，Ⅱu w，Geng C，et
+a1．Gi nsenosi de R93 suppresses ep—
+i t l l el i al —mesencl l ymal
+t mnsi t i on口施dowrl regul at i ng Not ch—Hesl
+si gnal i ng i n col on cancer ceⅡs[ J ] ．Am J
+chi n Med，2021，
+49( 1) ：217—235．DOI ：10．1142／S0192415X21500129．
+[ 23]
+wu C，zeng MH，Li ao G，et aL Neumpi l i n一1 i nt eract s wi tl l
+f i bronect i n一1
+t o promot e epi t hel i al —mesenchymal
+t ransi t i on pm—
+gress i n
+gast ri c cancer[ J ] ．0nco Ta蜡et s Ther，2020，
+13：
+10677—10687．DOI ：10．2147／0TT．S275327．
+[ 24]
+wang J ，Ti aI l L，Khan MN，et a1．Gi nsenosi de R93 sensi t i zes
+hypoxi c l ung
+cancer
+cel l s
+t o ci spl at i n影i 凸bl ocki ng of NF—kap_
+paB medi at ed epi tIl ehal —mesenchyl I】al 把msj 丘on and stenmess[ J ] ．
+Cancer Lett，2018，415：73—85．DOI：10．1016／j ．cal l l et．2017．
+11．037．
+[ 25] Tang Yc，zhang Y，zhou J ，et
+a1．Gi nsenosi de R93 t a增et s
+cancer st em cel l s and t umor angi ogenesi s
+t o i nhi bi t
+col orect al
+cancer progressi on i n秽矗) o[ J ] ．Int
+J 0neol ，2018，52( 1) ：
+127—138．DOI ：10．3892／i j o．2017．4183．
+[ 26] Lu J ，chen H，He F，et a1．Gi nsenosi de 20( s) 一R93 upreg—
+ul at es HI F一1 0l —t a蜡et i ng mi R一519a一5p t o i nhi bi t tl l e Warbu蜡
+ef f ect i n ov撕an cancer cel l s[ J ] ．Cl i n Exp Phannacol
+Physi ol ，
+2020，47( 8) ：1455—1463．DOI ：10．1111／1440—1681．13321．
+[ 27]
+sun MY，song YN，zhang M，et a1．Gi nsenosi de R静i nhi b—
+i t s tl l e mi 孕at i on and i nvasi on of l i ver
+cancer ceⅡs by i ncreasi ng
+t he pmt ei n expressi on of ARHGAP9[ J ] ．0ncol
+Let t ，2019，
+17( 1) ：965—973．DOI ：10．3892／01．2018．9701．
+[ 28]
+Ⅱan G，ⅡL，shi
+Y，et al - B12536，a pot ent and sel ect i ve
+V乱44 NO．3
+375
+万方数据
+中国医学科学院学报
+i 11l l i bi t 叫of
+pol o一1i ke
+ki I l ase
+1，i n coⅡ妇nat i on
+wi tl l
+ei spl ati n
+慨ert s
+synergi st i c
+ef f ect s
+on
+gast ri c
+cancer cel l s[ J ] ．I nt
+J
+0ncol ，2018，52( 3) ：804—814．DOI：10．3892／i j o．2018．4255．
+[ 29]
+Hamsw，Ki mJ K，J eon
+HY，et a1．Korean Red
+gi nseng
+ext I act
+i nhi bi t s
+gl i obl ast oma
+propagat i on by bl ocki ng t he Wnt
+si 铲al i “ g pat hway[ J ] ．J Ethnoph删acol ，2019，236：393—
+400．DOI ：l O．1016／j ．j ep．2019．03．031．
+376
+J une．2022
+[ 30]
+Mao x，J i n Y，Feng T，et a1．Gi nsenosi de R93 i nhi bi t s t he
+growt l l
+of ost eosarcoma and at t enuat es met ast asi s t hmugh t he
+wn∥ bet a—cat eni n and EMT si gnal i ng pat hway[ J ] ．Evi d Based
+Compl ement Al t emat Med，2020，2020：6065124．DOI ：10
+1155／2020／6065 124．
+( 收稿日期：2021—12一09)
+万方数据

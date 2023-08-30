@@ -1,0 +1,995 @@
+2022 第二十四卷 第十二期 ★Vol. 24 No.12 
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+结合网络分析方法探讨人参皂苷Rg3治疗胃癌的
+作用机制
+＊
+卢
+鑫
+1，尹硕鑫
+1，吕
+哲
+1，张馨月
+1，李绅绅
+1，张
+涛
+2＊＊，陈远能
+2
+（1. 广西中医药大学研究生院 南宁 530000；2. 广西中医药大学附属瑞康医院 南宁 530000）
+摘
+要：目的　人参是我国特产珍贵药材之一，在我国用药历史悠久，被称为“百草之王，百药之长”。
+人参参与临床用药使用频率高，人参皂苷 Rg3是其重要的化学成分，在防治胃癌上发挥了重要作用，人参皂
+苷 Rg3 具有重要研究价值。人参皂苷 Rg3 是人参主要成分，同时具有多种生物活性，在抗免疫调节、抗血管
+生成、抑制肿瘤细胞生长、增殖、凋亡、迁移等方面具有一定作用。掌握人参皂苷 Rg3 防治胃癌作用机制和
+进展，为胃癌治疗提供参考。方法　①以“胃癌”
+“人参皂苷 Rg3”
+“Ginsenoside Rg3”
+“gastric carcinoma”
+“gastric cancer”等为关键词，在中国知网、万方数据、维普、PubMed 等数据库中检索建库至 2021年 10月以来
+发表的相关文献，通过纳入及排除标准最终纳入 42 篇文献。②运用 Meta 网络分析方法分析文献中人参皂
+苷 Rg3 对胃癌重要指标的作用进行分析。结果　人参皂苷 Rg3 治疗胃癌可改善胃癌患者免疫力，提高患者
+生存，改善胃癌术后情况，抑制胃癌细胞生长、增殖、迁移，促进胃癌细胞凋亡及调控血管生长因子，调控
+PI3K/AKT、Wnt/β 联蛋白通路、Ca
+2+/CaM、NF-κB 信号通路等达到防治胃癌的作用。结论　通过分析可明确
+人参皂苷Rg3治疗胃癌的部分作用机制，为人参皂苷Rg3药物剂型的进一步研发及临床应用提供参考方向。
+关键词：人参皂苷Rg3 胃癌 血管内皮生长因子 作用机制
+doi: 10.11842/wst.20211023008  中图分类号: R285  文献标识码: A
+胃癌（Gastric cancer）是全球第五大最常见的癌症，
+也是第三大最常见的癌症死亡原因
+[1]，世界卫生组织最
+新公布数据显示，在中国癌胃癌总发病率和死亡率均排
+名第三
+[2]。胃癌早期发病特征不明显，多数患者发现时
+已是中晚期，给家庭和社会带来沉重负担
+[3]。近年来，中
+医药治疗胃癌取得了显著成效，中药及其活性成分对肿
+瘤转移有明确抑制作用
+[4]，尤其中药化学成分治疗胃癌
+报道较多，人参皂苷在抑制胃癌细胞生长方面发挥了重
+要作用
+[5]。人参在我国具有极高的用药价值是我国著名
+珍贵药材之一，其历史悠久有着“百药之长，百草之王”
+的美誉。人参皂苷为人参主要活性化学成分，因此开展
+人参皂苷Rg3治疗胃癌进展综述，对新药研发及临床治
+疗具有一定的指导价值。现将人参皂苷Rg3治疗胃癌
+及其作用机制对近年来相关实验研究文献综述如下。
+1 资料和方法 
+1.1　检索方法　
+中 文 以“ 胃 癌 ”“ 人 参 皂 苷 Rg3”，英 文 以
+“Ginsenoside Rg3”
+“gastric carcinoma”
+“gastric cancer”
+等为关键词，在中国知网、万方数据、维普、PubMed 等
+数据库中检索建库至近年来发表的相关文献。
+   收稿日期：2021-10-23
+   修回日期：2022-03-10
+＊  国家自然科学基金委员会地区科学基金项目（81360531）：从 CD14/TLR-4-NF-xB通路过度活化参与幽门螺杆菌感染相关胃癌探讨清热化湿
+类方药防治研究，负责人：陈远能；广西壮族自治区科学技术厅面上项目（2020GXNSFAA238030）：清热化湿方调控 miRNA-155 介导 Wnt/B-
+catenin通路防治胃癌荷瘤小鼠的应用基础研究，负责人：陈远能；2019年广西中医药大学一流学科项目（05019018H4）：miRNA-155过表达介
+导Wnt/B-catenin信号通路调控细胞调亡及清热化湿方防治胃癌的研究，负责人：陈远能。
+＊＊ 通讯作者：张涛，博士后，博士研究生导师，主任医师，主要研究方向：中医药治疗消化系统疾病的基础与临床研究。
+4942
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中医药与胃肠疾病研究
+1.2　纳入与排除标准　
+1.2.1　纳入标准　
+人参皂苷Rg3治疗胃癌的作用机理研究及临床研
+究等。
+1.2.2　排除标准　
+①重复文献；②综述文献；③时间跨度大的文献；
+④低质量文献。
+1.3　数据提取　
+本次研究由课题组多名研究者一同进行研究，安
+排 2 名研究者分别独立在各大数据库查找文献，并筛
+选文献和提取文献中数据，课题组设定第三方对文献
+筛选和数据提取等意见分歧进行仲裁。若仍不能解决
+分歧，则由课题组几人协商解决。数据提取主要分为
+临床研究和实验研究文献，其中临床研究提取第一作
+者、发表年份、结局指标、治疗组和实验组样本量、治疗
+药物等。基本情况结局指标为 CD4+/CD8+比例、血清
+VEGF 浓度等。实验研究文献的数据提取主要包括第
+一作者、发表年份、治疗药物、胃癌细胞种类、动物模
+型、检测指标、作用通路、给药剂量及给药时间等，对于
+数据不全的研究尽量与原文作者取得联系进行补充。
+1.4　文献质量评价方法　
+安排课题组 2 人作为研究评价员，独立对所有与
+人参皂苷Rg3治疗胃癌的作用机理研究及临床研究的
+相关文献进行评价，意见分歧时由第 3 名评价员介入
+评价。对于临床研究文献评价，本次研究根据改良的
+Jadad 评分量表评价纳入临床研究的质量，具体包括
+随机序列产生方法、盲法应用（单盲或双盲）、分配隐
+藏方法、退出或失访病例及原因、其他偏倚分配方案
+等。总分为 7 分，1-3 说明文献质量较低，4-7 说明文
+献质量高。若评分低于 1 分或为 0 和数据不全文献直
+接排除；对于实验研究文献，查看其研究方法、数据结
+果等是否完整，发表年限是否太过久远，药物剂量用
+法是否明确等，若不满足纳入标准直接排除。最后仔
+细阅读文章内容，总结有效信息运用 Meta分析方法分
+析临床研究文献，同时对实验研究文献进行总结分析
+并严谨撰写文章。
+1.5　Meta分析　
+提取人参皂苷Rg3治疗胃癌临床研究文献的研究
+数据，采用 Review Manager 5.3 软件进行 Meta 分析，若
+P>0.05 且 I²≤50%，采用固定效应模型，若 P<0.05 或 I²>
+50%，采用随机效应模型。
+2 结果 
+2.1　文献检索及筛选结果　
+各数据库检索共得到 140 相关篇文献，根据标题
+及摘要进行初步筛选，排除重复文献、综述文献、低质
+量文献和年代久远的文献。最终共 42 篇文章纳入。
+文献检索流程图如图1。
+2.2　人参皂苷Rg3结构式　
+通过 PubChem 得到人参皂苷 Rg3 结构式，其分子
+式为C42H72O13，如图2。
+2.3　文献总结分析　
+2.3.1　改善胃癌患者免疫力，提高患者生存率　
+人的免疫力降低时易受病邪侵袭，提高免疫力可
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+通过关键词检索中英文文献共140篇 
+ 
+阅读标题和摘要筛选 
+选取人参皂苷Rg3治疗胃癌的临床研究
+及相关作用机制的实验研究等文献
+ 
+排除重复文献、综述文献、时间跨度大
+的文献、低质量文献等
+ 
+最终纳入符合标准文献42篇 
+ 
+ 
+图1　文献检索流程图
+4943
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2022 第二十四卷 第十二期 ★Vol. 24 No.12 
+以有效预防疾病，也对胃癌等肿瘤防治有一定作用。
+郑伊妮等
+[6]发现人参皂苷 Rg3 联合 XELOX 方案（卡
+培 他 滨 + 奥 沙 利 铂）治 疗 可 以 明 显 提 高 患 者 外
+周 血 CD4+T 淋 巴 细 胞 水 平 ，胃 癌 患 者 的 肿 瘤 坏
+死因子-α（Tumor necrosis factor-α，TNF-α）、癌胚抗原
+（Carcinoembryonicantigen，CEA）水平明显低于对照组
+（卡培他滨+奥沙利铂），研究结果提示人参皂苷 Rg3
+联合 XELOX 方案更能提高晚期胃癌患者的免疫力，
+可以明显延长晚期胃癌患者的生存期。孙义长等
+[7]也
+发现人参皂苷 Rg3 观联合新辅助放化疗使胃癌患者
+CD3+、CD4+、T 淋巴细胞转化率及 CD4+/CD8+值均上
+升，且 CD8+值下降，可有效改善患者免疫能力，提高
+患者生存率。另有研究发现人参皂苷 Rg3 与卡培他
+滨、奥沙利铂方案联合治疗晚期胃癌具有协同作用，
+不良反应轻、耐受性好，能提高化疗疗效及改善患者
+生活质量
+[8-9]。此外，益生菌联合人参皂苷 Rg3 对胃癌
+术后患者免疫球蛋白 A、M、G（Immunoglobulin A、M、
+G，IgA、IgM、IgG）和 CD4+/CD8+均显著提高，说明人对
+胃癌术后患者免疫力及术后恢复均有较好的促进作
+用 ，且 能 明 显 地 延 长 晚 期 胃 癌 患 者 生 存 期
+[10-11]。
+Fu 等
+[12]研究显示，CD4+/CD8+比例失衡是介导肿瘤细
+胞免疫逃避的主要原因，其数值大小与机体免疫力呈
+正相关，CD4+/CD8+比例升高，表明免疫力提高。除
+此之外，进展期胃癌患者术后采用丝裂霉素加呋喃尿
+嘧啶方案（MF）联合 Rg3 治疗可明显降低血清血管内
+皮生长因子（Vascular endothelial growth factor，VEGF）
+含量，提高生存率
+[13]。通过仔细阅读文章提取刘世祥、
+郑伊妮、孙义长、乔林邦等人文献数据，利用 Review 
+Manager 5.3软件对提取的数据进行 Meta分析，Meta分
+析结果见森林图（图 3），结果表明人参皂苷 Rg3 联合
+化疗治疗胃癌在 CD4+/CD8+升高程度上优于单纯化
+疗（P<0.05）；对 VEGF 浓度改变上 Meta 分析森林图见
+图 4，结果表明人参皂苷 Rg3 联合化疗治疗胃癌在
+VEGF 降低程度上要优于单纯化疗（P<0.05）；这些研
+究说明人参皂苷Rg3参与治疗胃癌的确能起到改善胃
+癌患者免疫力，提高患者生存率，降低血清 VEGF含量
+等作用。其数据提取，见表1。
+2.3.2　调节VEGF，改善胃癌术后情况　
+血管抑制剂人参皂苷 Rg3 联合紫杉醇治疗，可提
+高疗效及患者生活质量、增强患者免疫功能、延长患
+者生存时间，值得临床推广应用
+[14]。有研究表明人参
+皂苷 Rg3 联合 EAP（表柔比星、多柔比星）或者 ELFP
+（依托泊苷、甲酰四氢叶酸钙、顺铂）化疗治疗进展期
+胃癌术后患者可调节其血清 VEGF、CD3、CD4、CD4/
+CD8等免疫指标水平，提高胃癌术后化疗总有效率
+[15]。
+谢晓东等
+[16]、袁国荣等
+[17]亦发现人参皂苷 Rg3 可明显
+降低胃癌患者术后血清 VEGF 浓度，研究还发现人参
+图3　人参皂苷Rg3治疗胃癌调节“CD4+/CD8+”森林图
+图4　人参皂苷Rg3治疗胃癌调节“VEGF”浓度森林图
+图2　人参皂苷Rg3结构式
+4944
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中医药与胃肠疾病研究
+皂苷Rg3联合紫杉醇为主化疗治疗胃癌术后肝转移能
+提高近期总有效率。人参皂苷Rg3联合化疗治疗胃癌
+对胃癌术后患者 VEGF 的影响见数据提取见表 2。利
+用 Review Manager 5.3 软件对提取的数据进行 Meta 分
+析，通过分析结果见图 5，表明人参皂苷 Rg3 对胃癌术
+后 患 者 的 血 清 VEGF 浓 度 升 高 上 有 明 显 优 势（P<
+0.05），这些研究表明人参皂苷 Rg3可调节 VEGF，改善
+胃癌术后情况，缓解患者病情。
+2.3.3　抑制胃癌细胞生长与增殖　
+人参皂苷 Rg3 具有抗肿瘤作用，为四环三萜类人
+参二醇型皂苷单体。楼亭
+[18]等发现人参皂苷 Rg3 能够
+抑制丝裂原活化蛋白激酶（Mitogen-activated protein 
+kinase，MAPK）信号通路激活、抑制下游靶基因活化，
+在胃癌细胞中加入人参皂苷 Rg3，可下调长链非编码
+RNA（Long non-coding RNA CDKN2B-Asl，LncRNA 
+CDKN2B-AS1）、神经钙粘蛋白（N-cadherin）、血管内
+皮生长因子（VEGF）、B 淋巴细胞瘤-2（Bcl-2）、细胞外
+调节蛋白激酶（Extracellular regulated protein kinases，
+ERK1/2）、p-ERK1/2、基 质 金 属 蛋 白 酶 9（Matrix 
+metallopeptidase 9，MMP-9）；上调上皮钙粘蛋白（E-
+cadherin）、Bcl-2 相 关 X 蛋 白（Bax）等 ；通 过 抑 制
+LncRNA CDKN2B-ASl 作用，有效抑制胃癌细胞上皮
+间充质转化（Epithelial-mesenchymal transition，EMT）、
+增殖及迁移等生物学行为。人参皂苷 Rg3 各种剂量
+对胃癌（SNU-216）细胞生长具有明显地抑制作用, 抑
+制效率与药物浓度呈正比
+[19]。体外研究也发现人参
+皂苷 Rg3 在体外可抑制胃癌细胞株 MFC 细胞增殖，具
+体作用机制通过上调诱导型一氧化氮合酶（Inducible 
+nitric oxide synthase，iNOS）、白 介 素 12（Interleukin-
+12，IL-12）；下调↓：白介素 10（IL-10），重组人精氨酸
+表1　文献中人参皂苷Rg3治疗胃癌的数据表
+文献来源
+刘世祥2019[10]
+郑伊妮2021[6]
+孙义长2020[7]
+乔林邦2009[8]
+景元明2012[9]
+陈哲京2007[13]
+检测指标
+组别
+对照组（益生菌常规治疗，n=41）
+治疗组（人参皂苷Rg3+益生菌，n=41）
+对照组（化疗，n=52）
+治疗组（人参皂苷Rg3+化疗，n=52）
+对照组（化疗，n=37）
+治疗组（人参皂苷Rg3+化疗，n=37）
+对照组（化疗，n=22）
+治疗组（人参皂苷Rg3+化疗，n=23）
+对照组（化疗，n=53）
+治疗组（人参皂苷Rg3+化疗，n=40）
+对照组（化疗，n=33）
+治疗组（人参皂苷Rg3+化疗，n=38）
+CD4+/CD8+
+治疗前
+-
+-
+1.12±0.32
+1.07±0.33
+1.35±0.41
+1.33±0.23
+-
+-
+-
+-
+-
+-
+治疗后
+1.30±0.22
+1.45±0.31
+1.05±0.28
+1.39±0.27
+1.04±0.78
+1.89±0.47
+-
+-
+-
+-
+-
+-
+血清VEGF浓度（pg·mL-1）
+治疗前
+-
+-
+-
+-
+-
+-
+307.58±156.69
+315.21±154.32
+378.56±169.36
+387.63±159.74
+284.14±143.0
+313.6±112.2
+治疗后
+-
+-
+-
+-
+-
+-
+156.54±47.45
+140.28±53.26
+246.53±107.63
+207.74±115.71
+230.0±95.5
+326.5±133.3
+注：n为样本量。
+表2　文献中人参皂苷Rg3治疗胃癌调控VEGF的数据表
+文献来源
+李恩就2016[14]
+谢晓东2014[16]
+于学涛2010[15]
+叶再元2008[17]
+检测指标
+组别
+对照组（化疗，n=25）
+治疗组（人参皂苷Rg3+化疗，n=25)
+对照组（化疗，n=42）
+治疗组（人参皂苷Rg3+化疗，n=52)
+对照组（化疗，n=40）
+治疗组（人参皂苷Rg3+化疗，n=56）
+对照组（化疗，n=21）
+治疗组（人参皂苷Rg3+化疗，n=18）
+血清VEGF浓度（pg·mL-1）
+治疗前
+330.41±119.98
+334.31±120.11
+429.86±169.48
+419.44±193.75
+329.6±117.4
+340.1±102.5
+321.56±118.25
+335.23±120.61
+治疗后
+298.31±100.32
+210.34±61.34
+178.92±117.53
+108.96±78.92
+293.6±121.5
+205.8±84.3
+290.23±120.67
+210.47±67.14
+注：n为样本量。
+4945
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2022 第二十四卷 第十二期 ★Vol. 24 No.12 
+酶 1（Arginase-1，ARG1）实现，且具有剂量依赖性，体
+内具有抗肿瘤活性，其机制可能与 Rg3 诱导巨噬细胞
+向 M1 极化，改善胃癌炎性微环境相关
+[20]。人参皂
+苷 免 疫 纳 米 VRIN（VEGFR3-mediated immune-
+nanoemulsion of ginsenoside Rg3，VRIN）是采用聚乙二
+醇 法 制 备 ，将 血 管 内 皮 细 胞 生 长 因 子 受 体 3 抗 体
+（VEGFR-3）抗体与人参皂苷 Rg3 纳米乳结合的新制
+剂，VRIN 可抑制人胃癌细胞祼鼠移植瘤生长及淋巴
+结转移，并通过下调血管内皮生长因子 C（VEGF-C）
+表达抑制肿瘤淋巴管生成
+[21-22]。聂娜等
+[23]发现 5-氟尿
+嘧啶与人参皂苷 Rg3 均具有对 MGC-803 胃癌细胞和
+MKN-28 胃癌细胞的增殖抑制效果以及对荷瘤裸鼠
+肿瘤生长的抑制能力，二者联合应用更是一种潜在的
+治疗胃癌的有效手段。另有研究证明人参皂苷 Rg3
+联合紫杉醇能协同抗胃癌细胞增殖，抑制肿瘤的生
+长
+[24]。转移是胃癌等恶性癌症恶性程度的评价标准
+之一，胃癌细胞的转移与肿瘤血管形成关系密不可
+分。人参皂苷 Rg3 对胃癌细胞条件培养液诱导的胃
+癌诱导血管内皮细胞（VEC）增殖具有抑制作用
+[25]。万
+品文等
+[26]研究发现人参皂苷 Rg3 可有效抑制对顺铂
+（DDP）耐 药 性 ，通 过 下 调 程 序 性 死 亡 配 体 1
+（Programmed death-1 ligand 1，PD-L1）表达抑制胃癌
+细胞株（SGC7901/DDP）的细胞增殖。此外人参皂苷
+Rg3 能阻断神经纤毛蛋白（Neuropilin-1，NRP1）和纤
+连蛋白（Fibronectin，FN1）的相互作用，抑制胃癌的进
+展
+[27]。有研究也发现人参皂苷 Rg3 抑制胃癌细胞的生
+长 和 存 活 ，其 原 因 是 阻 断 了 瞬 时 受 体 电 位 7 通 道
+（Transient receptor potential melastatin 7，TRPM7）通道
+的活性
+[28]。这些研究证明人参皂苷 Rg3 防治抑制胃癌
+细胞生长及增殖可能通过调控 LncRNA CDKN2B-
+ASl、PD-L1 或 VEGF-C 等来实现，人参皂苷 Rg3 抑制
+胃癌细胞生长与增殖作用机制详见表 3。
+2.3.4　促进或诱导胃癌细胞凋亡　
+国外研究发现人参皂苷Rg3可通过激活半胱氨酸
+天冬氨酸蛋白酶 3（Caspase-3）、半胱氨酸天冬氨酸蛋
+白 酶 8（Caspase-8）、半 胱 氨 酸 天 冬 氨 酸 蛋 白 酶 9
+（Caspase-9）以及调节 B 淋巴细胞瘤-2 基因（B-cell 
+lymphoma-2，Bcl-2）、兔 抗 人 单 克 隆 抗 体（BCL2-
+Associated X，Bax）表 达 诱 导 胃 癌 细 胞 凋 亡
+[29]。 Aziz
+等
+[30]发现人参皂苷 Rg3 能增促凋亡蛋白表达，通过激
+活 Caspases-3、Caspases-8、Caspases-9 和聚腺苷二磷
+酸-核糖聚合酶（Poly-ADP-ribose polymerase，PARP）
+调控特异性蛋白 1（Specificity protein 1，SP1）、热休克
+转录因子 1（Heat Shock Transcription Factor 1，HSF1）
+抑制岩藻糖基转移酶 4（Fucosyltransferase 4，FUT4）表
+达，最终诱导胃癌细胞凋亡。目前研究普遍认为肿瘤
+图5　人参皂苷Rg3联合化疗治疗胃癌调节“VEGF”浓度森林图
+表3　人参皂苷Rg3抑制胃癌细胞生长与增殖作用
+参考文献
+楼亭[18]
+江昌[20]
+戴小军[21]
+万品文[26]
+胃癌细胞/胃癌裸鼠模型种类
+胃癌细胞系SGC-7901
+胃癌细胞株MFC
+胃癌裸鼠模型
+人胃癌细胞株SGGC7901、人胃癌
+顺铂耐药细胞株SGGC7901/DDP
+给药剂量
+1 × 10-6 mol·L-1人参皂苷Rg3
+25、50、100 µg·mL-1人参皂苷Rg3
+1 mg·kg-1 VEGFR3 靶向性纳米人参皂
+苷Rg3（VRIN）
+10、20、40 µg·mL-1人参皂苷Rg3
+给药时间
+72 h
+72 h
+15天
+48 h
+作用机制
+上调↑：E-cadherin、Bax
+下 调 ↑ ：LncRNA CDKN2B-AS1、N-cad‑
+herin、VEGF、Bcl-2；ERK1/2、p-ERK1/2、
+MMP-9
+上调↑：iNOS、IL-12
+下调↓：IL-10、ARG1
+下调↓：VEGF-C
+上调↑：PD-L1
+4946
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中医药与胃肠疾病研究
+细胞的恶性生长及增殖是肿瘤发生发展必不可少的
+一 步 ，近 年 来 对 胃 癌 相 关 作 用 机 理 的 研 究 表 明 ，
+lncRNA 调控基因的表达可影响胃癌细胞凋亡
+[31-32]。
+国内研究亦发现人参皂苷Rg3能通过抑制长链非编码
+RNA-LINP1（lncRNA-LINP1）的表达，从而抑制胃癌
+细胞的增殖与迁移，并促进其凋亡，且这种作用随着
+Rg3 浓度的增加而增强，从而发挥抑癌作用
+[33]。还有
+研究发现人参皂苷 Rg3 和紫杉醇联合可协同提高
+Caspase-3 的活性, 诱导胃癌细胞的凋亡
+[34]。此外，李
+想
+[35]发现人参皂苷 Rg3 的抗癌活性与其调节原癌基因
+pim3（Pro-oncogene pim-3，Pim-3）以及磷酸化 Bad 蛋
+白表达有关，Pim-3可磷酸化相关死亡促进因子 BCL-
+xL（BCL-2-associated death promoter，Bad）抑制胃癌细
+胞的凋亡。此类研究证明人参皂苷 Rg3 可通过调控
+Bcl-2、Bax、HSF1、SP1 等表达起到诱导胃癌细胞凋亡
+的作用，人参皂苷 Rg3 促进胃癌细胞凋亡作用机制详
+见表4。
+2.3.5　抑制胃癌细胞侵袭转移　
+戴小军
+[36]研究发现 VEGFR3 靶向性纳米人参皂苷
+Rg3 能 通 过 抑 制 VEGF-C、血 管 内 皮 生 长 因 子 D
+（VEGF-D）和 VEGFR-3 的表达抑制胃癌转移。研究
+还发现人参皂苷Rg3能抑制人胃癌细胞缺氧诱导因子
+1α 多肽（Hypoxia-inducible factor 1-Alpha，HIF-1α）和
+血管内皮生长因子（Vascular endothelial growth factor，
+VEGF）的表达，影响胃癌的腹腔种植转移
+[37]。罗玉
+妍
+[38]发现人参皂苷 Rg3 联合 5 氟尿嘧啶（5-Fu）可降低
+胃癌癌组织中 CD133（突起蛋白-1，prominin-1）表达
+进而降低胃癌细胞瘤远处转移率。丁健
+[39]发现人参皂
+苷 Rg3 纳米乳通过降低 VEGF-C、VEGFR-3 等淋巴生
+长转移因子表达，进而减少胃癌组织细胞微淋巴管生
+成抑制胃癌细胞转移。人参皂苷Rg3联合紫杉醇具有
+协同抗胃癌转移作用，可能通过协同抑制肿瘤新生血
+管形成实现
+[40]。研究还发现人参皂苷 Rg3 可能通过下
+调细胞间黏附因子 1（Intercellular adhesion factor 1，
+ICAM-1）、上调闭合蛋白（Claudins）表达从而抑制人
+胃癌 SGC-790细胞体外转移
+[41]。人参皂苷 Rg3还能够
+抑制人胃癌细胞 SNU601 增殖、迁移和侵袭的作用，抑
+制上皮间质转化，发挥其抗癌作用
+[42]。抑胃癌细胞转
+移是防治胃癌的重要手段，人参皂苷 Rg3 可通过抑制
+VEGFR-3、VEGF-C、VEGF-D 等表达，降低胃癌癌组
+织中 CD133 表达，以及抑制上皮间质转化等达到抑制
+胃癌细胞转移的作用，人参皂苷 Rg3 抑制胃癌细胞转
+移作用机制详见表5。
+2.3.6　人参皂苷Rg3治疗胃癌涉及通路　
+有研究发现人参皂苷 Rg3 可通过调节磷脂酰肌
+醇-3-羟激酶（PI3K）、丝氨酸/苏氨酸激酶（AKT）、雷帕
+霉 素 机 制 性 靶 标（Mechanistic target of rapamycin，
+mTOR）、HIF-1α、乳酸脱氢酶 A（Lactate dehydrogenase 
+A，LDHA）、己糖激酶-II（Hexokinase-II，HK-II）和微
+小核糖核酸（MicroRNA-21，miRNA-21）的表达来缓解
+GPL 小鼠异常糖酵解，人参皂苷 Rg3 是 GPL 治疗的有
+效补充物，可抑制 GPL 细胞的增殖和诱导凋亡，证明
+人参皂苷 Rg3 通过 PI3K/AKT/miRNA-21 通路抑制糖
+酵解，改善 Atp4a
+-/-小鼠胃癌前病变
+[43]。人参皂甙 Rg3
+通 过 阻 断 PI3K/AKT 信 号 通 路 来 抑 制 钙 调 蛋 白
+（Calmodulin，Ca M）的表达，进而促进胃癌细胞的凋
+亡
+[44-45]。这些研究证明人参皂苷 Rg3 发挥防治胃癌与
+PI3K/AKT 信号通路密切相关。研究发现人参皂苷
+Rg3 通过抑制 SGC7901 细胞中 Wnt/β 联蛋白通路激活
+从而抑制细胞的侵袭、迁移
+[46]。人参皂苷 Rg3 通过
+表4　人参皂苷Rg3促进胃癌细胞凋亡作用机制
+参考文献
+Eun-Hwa Park[29]
+Faisal Aziz[30]
+唐立[33]
+叶再元[34]
+李想[35]
+胃癌细胞/胃癌裸鼠模型种类
+人胃癌AGS细胞
+人胃癌上皮细胞系（SGC-7901）
+人胃癌细胞株SNU-1细胞
+胃癌裸鼠模型
+人胃癌细胞株MKN28
+给药剂量
+12.5、25、50、100 µg·mL-1人参皂苷Rg3
+50 µg·mL-1人参皂苷Rg3
+0.03、0.06、0.09 µg·mL-1人参皂苷Rg3
+10 mg·kg-1人参皂苷Rg3组、紫杉醇
+组、人参皂苷Rg3+紫杉醇组
+10、20、40、80 µg·mL-1人参皂苷Rg3
+给药时间
+24 h
+24 h
+72 h
+21天
+28 h
+作用机制
+上调↑：Caspase-3、Caspase-8、Caspase-9、
+Bax
+下调↓：Bcl-2
+上调↑：Caspase-3、Caspase-8、Caspase-9、
+PARP、SP1
+下调↓：HSF1、FUT4
+下调↓：lncRNA-LINP1
+均上调↑：Caspase-3，联合组上调最高
+下调↓：pim-3、pBad (Ser112)
+4947
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2022 第二十四卷 第十二期 ★Vol. 24 No.12 
+Ca
+2+/CaM 信号系统抑制胃癌 BGC-823 细胞增殖，可能
+是通过降低 Ca M 的表达来抑制核因子 κB（Nuclear 
+factor kappa-B，NF-κB）信号通路的活性，进而抑制胃
+癌细胞的增殖和侵袭、促进其凋亡
+[47]。通过已经有文
+献研究，表明人参皂苷 Rg3 治疗胃癌主要涉及 PI3K/
+AKT、Wnt/β 联蛋白通路、Ca2+/CaM、NF-κB 信号通路
+等。对其靶点通路总结如表 6。人参皂苷 Rg3 调控
+PI3K/AKT、Wnt/ß-catenin、Ca
+2+/CaM、NF-κB 等信号通
+路防治胃癌作用机制详见图6。
+2.3.7　对血管生长因子（VEGF）的影响　
+人参皂苷Rg3免疫纳米乳剂（VRIN）可抑制人胃癌
+细胞祼鼠移植瘤淋巴结转移，调控淋巴管生长因子
+VEGF-D 蛋白
+[48]。临床研究发现人参皂苷 Rg3 联合新
+辅助放化疗治疗胃癌，可显著降低患者VEGF和MTA1
+阳性率
+[49]。另有研究发现以淋巴管生成为靶点的人参
+皂苷 Rg3 免疫纳米乳通过抑制 VEGF-C、VEGF-D 和
+VEGFR-3在人胃癌原位小鼠模型中的表达，抑制肿瘤
+生长和降低淋巴结转移
+[50]。这些临床及实验机制研究
+均表明人参皂苷Rg3能起到调控血管生长因子（VEGF）
+治疗胃癌的作用。现通过以上总结分析将人参皂苷
+Rg3治疗胃癌其详细可能作用机制图绘制如图7。
+表5　人参皂苷Rg3抑制胃癌细胞转移作用机制
+参考文献
+戴小军[36]
+Li B[37]
+罗玉妍[38]
+丁健[39]
+黄思付[41]
+胃癌细胞/胃癌裸鼠模型种类
+胃癌裸鼠模型
+人胃癌细胞系BGC823
+胃癌裸鼠模型
+胃癌裸鼠模型
+人胃癌细胞株SGC-7901
+给药剂量
+1 mg·kg-1 VEGFR3靶向性纳米人参皂苷Rg3（VRIN）
+100 µmol·mL-1人参皂苷Rg3
+1 mg·kg-1人参皂苷 Rg3 组、 20 mg·kg-1 5-Fu 组、1 mg·kg-1 
+Rg3+5-Fu组
+1 mg·kg-1人参皂苷Rg3纳米乳组、20 mg·kg-1 5-Fu组
+80、160、320 µmol·mL-1的人参皂苷Rg3
+给药时间
+21天
+24 h
+21天
+30天
+24 h
+作用机制
+下 调 ↓ ：VEGF-C、VEGF-D、VEG‑
+FR-3
+下调↓：HIF-1α、VEGF
+下调↓：CD133
+下调↓：VEGF-C、VEGFR-3
+上调↑：Claudins
+下调↓：ICAM-1
+人参皂苷Rg3
+调控Wnt/β联蛋白通路抑制胃癌SGC7901细胞侵袭、迁移以及VM的形成
+调控PI3K/AKT
+信号通路促进
+胃癌BGC-823
+细胞凋亡
+调控Ca2 +/ Ca
+ M信号通路抑制
+NF-κB信号通路
+进而抑制胃癌
+BGC-823细胞的
+增殖和侵袭、
+促进其凋亡
+Ca M↓
+ 
+Ca M↓
+ 
+NF-κB↓
+Ca MKⅡ↓
+IκB↑
+GSK-3β mRNA↓
+胃癌细胞
+降低NF-κB信号
+通路的活性
+MMP-2↓、MMP-9↓
+抑制β联蛋白的磷酸化
+p-AKT↓
+阻断PI3K/AKT信号通路
+降低β联蛋白进核量
+抑制胃癌细胞血管生成拟态 (VM) 的形成
+Wnt mRNA↓
+降低Ca2 +/ Ca M
+信号通路表达
+图6　人参皂苷Rg3治疗胃癌相关信号通路
+表6　文献中与人参皂苷Rg3治疗胃癌的相关通路
+参考文献
+石燕燕[44]
+李烨婷[46]
+孙大鹏[47]
+干预通路
+PI3K/AKT信号通路
+Wnt/β联蛋白通路
+Ca2+/Ca M和NF-κB信号通路
+检测指标
+Ca M、IGF-1、p-AKT
+MMP-9、MMP2、GSK-3β、Wnt2B mRNA、β联蛋白
+Ca M、IκB、Ca MKⅡ、NF-κB
+4948
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中医药与胃肠疾病研究
+3 结语与展望 
+目前胃癌仍然是威胁人类生命健康的重大疾病，人
+参皂苷Rg3在临床研究中已经证实对胃癌患者疗效明
+确，可改善胃癌患者免疫力，提高患者生存率，改善胃癌
+患者术后情况。通过对部分临床研究文献进行Meta网
+络分析可知人参皂苷Rg3+化疗对比单纯化疗治疗胃癌
+在降低血清 VEGF含量及其它炎性因子上具有明显优
+势，达到治疗胃癌的作用，还可改善胃癌化疗术后情况。
+VEGF 的发现彻底改变了我们对发育和生理稳态过程
+中血管生成和血管生成的理解，VEGF在多种癌症发病
+机制中作用明显
+[51-53]。总结上述文献已知人参皂苷Rg3
+与化疗药物联合可起到明确的增效作用，在增效减副作
+用上为胃癌化疗提供了重要参考。人参皂苷Rg3是人
+参重要化学成分，国内外各大医家及科研工作者对人参
+皂苷 Rg3 防治胃癌作用机制做了大量研究，人参皂苷
+Rg3防治胃癌作用机制主要是阻断TRPM7通道活性及
+调控LncRNA CDKN2B-ASl、PD-L1等抑制胃癌细胞生
+长及增殖；抑制lncRNA-LINP1的表达等促进胃癌细胞
+凋亡；降低胃癌癌组织中 CD133 表达及抑制上皮间质
+转化等抑胃癌细胞迁移；抑制肿瘤新生血管生成等。其
+涉及通路包括PI3K/AKT、Wnt/β联蛋白通路、Ca2+/CaM
+信号通路、NF-κB信号通路等。值得肯定的是这些国内
+外研究研究方法严谨、结果明确、数据完整、不乏高质量
+文献。人参皂苷Rg3治疗胃癌研究类型多样，既有临床
+研究，又有离体胃癌细胞研究和动物在体研究。但也存
+在缺点，如在人体内的作用机制研究尚缺乏、胃癌实验
+鼠模型造模方法等不统一，人参皂苷Rg3的给药剂量多
+数研究不统一，大多是动物在体研究和离体细胞研究，
+临床研究较少，因而仍需大量且深入的对人参皂苷Rg3
+治疗胃癌进行研究以明确人参皂苷Rg3防治胃癌作用
+机理。
+目前，人参皂苷 Rg3 在临床已有应用，且用途较
+广，如主要成分为人参皂苷 Rg3 的参一胶囊就在多种
+癌症患者中使用，参一胶囊可补益气血、培元固本，每
+一粒参一胶囊就包含人参皂苷 Rg3 约 10 mg。其药理
+作用既可与其它化疗药物配合使用，有助于提高胃
+癌、肝癌、原发性肺癌等癌症疗效，又能改善肿瘤患者
+的虚弱症状，提高患者免疫功能。还有人参皂苷 Rg3
+其它用药，如人参皂苷复合压片、人参皂苷 Rg3 胶囊、
+水溶性人参皂苷Rg3冲剂等药物主要成分均为人参皂
+苷 Rg3，这些药在肿瘤治疗以及其它多种疾病中多有
+应用。但人参皂苷Rg3治疗胃癌的临床研究以及人体
+作用机制研究较少，说明人参皂苷 Rg3 尚未大量投入
+胃癌的临床使用。目前大多是与其它化疗药物组合
+使用，以增强疗效，改善患者免疫力、减少化疗药物副
+作用等。通过前文总结分析大量的实验研究可知人
+参皂苷 Rg3 的确对胃癌有效，但是人参皂苷 Rg3 对人
+胃癌患者的临床应用研究尚缺乏，故很有必要充分挖
+掘人参皂苷Rg3治疗胃癌的临床应用价值。
+综上所述，本文主要对人参皂苷 Rg3 及其联合化
+促进或诱导胃癌细胞凋亡
+改善胃癌患者免疫力，提高患者生存率
+抑制胃癌
+细胞侵袭
+与转移
+抑制胃
+癌细胞
+生长与
+增殖
+胃癌
+CD4+/CD8+↑ 
+VEGF↓
+E-cadherin↑, Bax↑
+LncRNA CDKN2B-
+AS1↓,
+N-cadherin↓,VEGF↓,
+Bcl-2↓,ERK1/2↓,
+p-ERK1/2↓,MMP-9↓
+iNOS↑,IL-12↑,
+IL-10↓,ARG1↓
+VEGF-C↓,PD-L1↑
+C/EBPβ↓,NF-κB↓
+VEGF-C↓,
+VEGF-D↓,
+VEGFR-3↓
+HIF-1α↓,
+VEGF↓
+CD133↓
+Claudins ↑,
+ICAM-1↓
+caspase-3↑,
+caspase-8↑,
+caspase-9↑,
+Bax↑,
+Bcl-2↓
+人参皂苷Rg3
+lncRNA-LINP1↓
+pim-3↓,
+pBad (Ser112)↓ 
+提高免疫力
+抑制肿瘤血管生成
+改善胃癌术后情况
+PARP↑,
+SP1↑,
+HSF1↓,
+FUT4↓
+图7　人参皂苷Rg3治疗胃癌可能作用机制
+4949
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2022 第二十四卷 第十二期 ★Vol. 24 No.12 
+疗药物治疗胃癌作用及其机理的研究进展进行了归
+纳总结，人参皂苷 Rg3 治疗胃癌涉及多通路、多靶点，
+除本文总结归纳的通路靶点外，还可能通过其它通路
+和靶点发挥防治胃癌的作用，需进一步探索，如采用
+网络药理学、分子对接等方法结合实验验证进一步挖
+掘其作用机制。对人参皂苷Rg3治疗胃癌的作用机理
+进行归纳总结以及拓展分析意义非凡，希望可为人参
+皂苷 Rg3 进一步开展临床试验研究提供参考，以及把
+人参皂苷Rg3药物的进一步研发应用于临床作为未来
+着重研究的方向。
+参考文献  2
+1
+Smyth E C, Nilsson M, Grabsch H I, et al. Gastric cancer. Lancet, 
+2020, 396(10251):635-648.
+2
+Wold Health Organization. Latest global cancer data: Cancer burden 
+rises to 19.3 million new cases and 10.0 million cancer deaths in 
+2020 . IARC, 2020. https://www.iarc.who.int/news-events/latestglobal-
+cancer-data-cancer-burden-rises-to-19-3-million-new-casesand-
+10-0-million-cancer-deaths-in-2020/
+3
+白日兰, 杜娜雯, 崔久嵬 . 免疫治疗联合化疗在胃癌治疗中的研究
+进展. 中国肿瘤生物治疗杂志, 2019, 26(6):700-704.
+4
+Wang K L, Chen Q, Shao Y, et al. Anticancer activities of TCM and 
+their 
+active 
+components 
+against 
+tumor 
+metastasis. 
+Biomed 
+Pharmacother, 2021, 133:111044.
+5
+Hong H, Baatar D, Hwang S G. Anticancer activities of ginsenosides, 
+the main active components of ginseng. Evid Based Complement 
+Alternat Med, 2021, 2021:8858006.
+6
+郑伊妮, 王兴, 徐丹 . 人参皂苷 Rg3 联合 XELOX 方案对晚期胃癌患
+者生存期的影响. 健康研究, 2021, 41(3):335-339.
+7
+孙义长 . 人参皂苷 Rg3 联合新辅助放化疗对胃癌患者免疫功能及
+生存率的影响. 现代诊断与治疗, 2020, 31(6):894-895.
+8
+乔林邦 . 人参皂苷 Rg3 联合 XELOX 方案治疗晚期胃癌疗效观察 . 
+郑州大学学报(医学版), 2009, 44(4):844-846.
+9
+景元明, 杨飞英, 叶民峰, 等 . 人参皂甙 Rg3联合化疗对老年胃癌患
+者血管内皮生长因子的影响及疗效 . 中华老年医学杂志, 2012, 
+31(12):1076-1078.
+10 刘世祥 . 益生菌联合人参皂苷 Rg3 对胃癌术后患者免疫力及术后
+恢复的影响研究. 贵州医药, 2019, 43(4):573-574.
+11 王沛 . 人参皂苷 Rg3 联合化疗治疗多耐药基因晚期胃癌的疗效观
+察及预后分析. 新乡: 新乡医学院硕士学位论文, 2014:1-39.
+12 Fu S, Qu P S, Cai S N. Effect of anesthetic methods on postoperative 
+CD3+, CD4+ and CD4+CD25+ in patients with lung cancer undergoing 
+radical operation. Oncol Lett, 2018, 16(5):6547-6551.
+13 陈哲京, 程骏, 黄颖鹏, 等 . 术后采用人参皂甙 Rg3联合丝裂霉素加
+呋喃尿嘧啶方案对进展期胃癌的疗效 . 中华胃肠外科杂志, 2007, 
+10(1):64-66.
+14 李恩就, 龚志军, 卿笃桔, 等 . 血管抑制剂人参皂苷 Rg3联合紫杉醇
+治 疗 胃 癌 术 后 肝 转 移 临 床 疗 效 观 察 . 海 峡 药 学 , 2016, 28(1):
+122-123.
+15 于学涛, 王淑萍 . 人参皂苷 Rg3联合化疗治疗对胃癌术后患者的临
+床观察. 中华肿瘤防治杂志, 2010, 17(10):779-781.
+16 谢晓东, 朱永康 . 人参皂苷对胃癌术后化疗患者血清 VEGF 的影
+响. 中国肿瘤外科杂志, 2014, 6(3):149-152.
+17 袁国荣, 叶再元 . 中药血管抑制剂人参皂苷 Rg3联合紫杉醇治疗胃
+癌术后肝转移的研究. 中华中医药学刊, 2008, 26(4):884-886.
+18 楼亭, 胡学谦, 张婷素, 等 . 人参皂苷 Rg3 调控 LncRNA CDKN2B-
+AS1对胃癌细胞抑制作用的研究. 新中医, 2020, 52(17):1-4.
+19 汪彦君, 胡海燕, 王婷, 等 . 人参皂苷 Rg3 对胃癌(SNU-216)细胞的
+生长抑制作用. 人参研究, 2019, 31(2):18-19.
+20 江昌 . 人参皂苷 Rg3 对 TME 巨噬细胞极化的调控研究 . 上海: 中国
+人民解放军海军军医大学硕士学位论文, 2018:1-50.
+21 戴小军, 陆建伟, 王珍, 等 . 人参皂苷免疫纳米对人胃癌裸鼠移植瘤
+生长抑制机制探讨. 中华肿瘤防治杂志, 2014, 21(24):1935-1939.
+22 戴小军, 张晓春, 孙卫东, 等 . VRIN 治疗后人胃癌裸鼠原位移植瘤
+活体成像观察 . 扬州大学学报(农业与生命科学版), 2014, 35(2):
+11-14.
+23 聂娜, 吴小翎, 罗红春, 等 . 5-氟尿嘧啶联合人参皂苷 Rg3抑制胃癌
+细胞的增殖. 上海交通大学学报(医学版), 2014, 34(5):645-649.
+24 袁国荣, 叶再元 . 人参皂苷 Rg3联合紫杉醇协同抗胃癌细胞增殖的
+研究. 中华中医药学刊, 2011, 29(2):380-383.
+25 王兵, 王杰军, 徐钧, 等 . 人参皂苷 Rg3对胃癌诱导血管内皮细胞增
+殖的抑制作用. 肿瘤防治杂志, 2001, 8(3):234-236.
+26 万品文, 王倩, 万春 . 人参皂苷 Rg3 通过下调 PD-L1 逆转胃癌细胞
+的顺铂耐药性. 医学研究杂志, 2018, 47(12):120-125.
+27 Wu C, Zeng M H, Liao G, et al. Neuropilin-1 interacts with 
+fibronectin-1 to promote epithelial-mesenchymal transition progress 
+in gastric cancer. Onco Targets Ther, 2020, 13:10677-10687.
+28 Kim B J, Nah S Y, Jeon J H, et al. Transient receptor potential 
+melastatin 7 channels are involved in ginsenoside Rg3-induced 
+apoptosis in gastric cancer cells. Clin Pharmacol Toxicol, 2011, 109(4):
+233-239.
+29 Park E H, Kim H K, Jang H J, et al. Stereospecific anticancer effects of 
+ginsenoside Rg3 epimers isolated from heat-processed American 
+ginseng on human gastric cancer cell. J Ginseng Res, 2014, 38(1):
+22-27.
+30 Aziz F, Wang X, Liu J, et al. Ginsenoside Rg3 induces FUT4-mediated 
+apoptosis in H. pylori CagA-treated gastric cancer cells by regulating 
+SP1 and HSF1 expressions. Toxicol In Vitro, 2016, 31:158-166.
+31 蒋志俊, 陈洁, 黎乐群 . 长链非编码 RNA 在肝癌侵袭转移中的研究
+进展. 医学研究生学报, 2019, 32(7):765-770.
+32 Liu T, Zuo L, Guo D, et al. Ginsenoside Rg3 regulates DNA damage in 
+non-small cell lung cancer cells by activating VRK1/P53BP1 pathway. 
+4950
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+世界科学技术-中医药现代化★中医药与胃肠疾病研究
+Biomed Pharmacother, 2019, 120:109483.
+33 唐立, 徐惠亮, 郝双影 . 人参皂苷 Rg3调控 lncRNA-LINP1抑制胃癌
+细胞生长的作用机制. 医学研究生学报, 2020, 33(11):1157-1160.
+34 袁国荣, 叶再元 . 人参皂苷 Rg3联合紫杉醇协同诱导胃癌细胞凋亡
+的研究. 中华中医药学刊, 2011, 29(6):1383-1386.
+35 李想 . 人参皂苷 Rg3对人胃癌细胞 Pim-3及 Bad凋亡蛋白表达的影
+响. 江西医药, 2009, 44(6):555-558.
+36 戴小军 . 运化毒邪方及其有效成分控制胃癌的研究 . 扬州: 扬州大
+学博士学位论文, 2020:1-93.
+37 Li B Q, Qu G F. Inhibition of the hypoxia-induced factor-1α and 
+vascular endothelial growth factor expression through ginsenoside Rg3 in 
+human gastric cancer cells. J Cancer Res Ther, 2019, 15(7):1642-1646.
+38 罗玉妍 . 人参皂苷 Rg3 联合 5-Fu 对胃癌荷瘤裸鼠肿瘤侵袭转移及
+CD133 表达的影响 . 南京: 南京中医药大学硕士学位论文, 2014:
+1-33.
+39 丁健 . 人参皂苷 Rg3 纳米乳对胃癌荷瘤裸鼠淋巴转移影响的实验
+研究. 南京: 南京中医药大学硕士学位论文, 2014:1-31.
+40 袁国荣, 叶再元 . 人参皂苷 Rg3联合紫杉醇抗胃癌转移的作用及机
+制研究. 中华中医药学刊, 2011, 29(3):625-628.
+41 黄思付, 简捷, 房太勇 . 人参皂苷 Rg3对胃癌细胞 SGC-7901体外迁
+移、侵袭的影响及相关机制. 中华消化杂志, 2019, 39(7):488-490.
+42 吕青 . 人参皂苷 Rg3 对人胃癌细胞株 SNU601 上皮间质转化的影
+响. 南京: 南京中医药大学硕士学位论文, 2017:1-30.
+43 Liu W, Pan H F, Yang L J, et al. Panax ginseng C. A. Meyer (Rg3) 
+ameliorates gastric precancerous lesions in Atp4a-/- mice via 
+inhibition of glycolysis through PI3K/AKT/miRNA-21 pathway. Evid 
+Based Complement Alternat Med, 2020, 2020:2672648.
+44 石燕燕, 李树才, 孙军 . 人参皂苷 Rg3 通过 PI3K/AKT 信号系统调控
+CaM 基因表达促进胃癌 BGC-823 细胞的凋亡 . 中国肿瘤生物治疗
+杂志, 2018, 25(6):590-594.
+45 Yang Q, Cai N, Che D B, et al. Ginsenoside Rg3 inhibits the biological 
+activity of SGC-7901. Food Sci Nutr, 2020, 8(8):4151-4158.
+46 李烨婷, 唐有为 . 人参皂苷 Rg3 体外通过抑制 Wnt/β 联蛋白通路阻
+止胃癌 SGC7901 细胞血管生成拟态的形成 . 中国肿瘤生物治疗杂
+志, 2019, 26(5):518-523.
+47 孙大鹏, 鲁明明, 王硕, 等 . 人参皂苷 Rg3通过 Ca2+/CaM 信号系统抑
+制胃癌 BGC-823 细胞增殖及其可能的机制 . 中国肿瘤生物治疗杂
+志, 2015, 22(2):225-229.
+48 戴小军, 王维民, 罗玉妍, 等 . 人参皂苷免疫纳米对裸鼠人胃癌
+NUGC-4 组织中血管内皮生长因子 D 表达的影响 . 江苏中医药, 
+2014, 46(8):76-78.
+49 李祥伟, 张正元, 周光荣 . 人参皂苷 Rg3 联合新辅助放化疗对胃癌
+组织 VEGF、MTA1 蛋白表达及预后的影响 . 医学临床研究, 2017, 
+34(3):459-461.
+50 Dai X J, Liu D M, Liu M X, et al. Anti-metastatic efficacy of traditional 
+Chinese medicine (TCM) ginsenoside conjugated to a VEFGR-3 
+antibody on human gastric cancer in an orthotopic mouse model. 
+nticancer Res, 2017, 37(3):979-986.
+51 Apte R S, Chen DS, Ferrara N. VEGF in signaling and disease: Beyond 
+discovery and development. Cell, 2019, 176(6):1248-1264.
+52 陈晓琦, 张鹏鸽, 陈新蕊, 等 . 扶正消瘤颗粒对原发性肝癌血清中
+VEGF、HIF-1α 表达的影响及临床意义 . 世界科学技术-中医药现
+代化, 2020, 22(10):3629-3635.
+53 耿良, 吕静, 范敬 . 从抑制髓源抑制性细胞的募集探索肺瘤平联合
+化疗对肺癌的作用和机制 . 世界科学技术-中医药现代化, 2020, 
+22(10):3711-3717.
+Research Progress on the Mechanism of Ginsenoside Rg3 in the Treatment of 
+Gastric Cancer by Network Analysis
+Lu Xin
+1， Yin Shuoxin，
+1 Lv Zhe
+1， Zhang Xinyue
+1， Li Shenshen
+1， Zhang Tao
+2， Chen Yuanneng
+2
+（1. Graduate School of Guangxi University of  Chinese Medicine, Nanning 53000, China; 2. Ruikang Hospital 
+Affiliated to Guangxi University of Chinese Medicine, Nanning 530000, China）
+Abstract: Objective　 Ginseng is one of the rare and special medicinal materials in China. It has a long history of 
+medicine in China and is known as "the king of herbs and the long of medicines". Ginsenoside Rg3 is an important 
+chemical component of ginseng, which plays an important role in the prevention and treatment of gastric cancer. 
+Therefore, ginsenoside Rg3 has important research value. Ginsenoside Rg3 is the main component of ginseng, and has a 
+variety of biological activities, such as anti-immune regulation, anti-angiogenesis, inhibition of tumor cell growth, 
+proliferation, apoptosis, migration and other aspects. To understand the mechanism and progress of ginsenoside Rg3 in 
+the prevention and treatment of gastric cancer, and to provide reference for the treatment of gastric cancer. Methods　①With 
+the keywords of "gastric cancer", "ginsenoside Rg3", "Ginsenoside Rg3", "gastric cancer", "gastric cancer", etc., search 
+                    
+4951
+〔 Modernization of Traditional Chinese Medicine and Materia Medica-World Science and Technology 〕
+2022 第二十四卷 第十二期 ★Vol. 24 No.12 
+the relevant literatures published since October 2021 in databases such as CNKI, Wanfang Data, Vip, PubMed, etc., and 
+finally include 42 literatures through inclusion and exclusion criteria. ② Meta-analysis was used to analyze the effects 
+of ginsenoside Rg3 on important indicators of gastric cancer. Results　 Ginsenoside Rg3 in the treatment of gastric 
+cancer can improve the immunity of patients with gastric cancer, improve the survival of patients, improve the 
+postoperative conditions of gastric cancer, inhibit the growth, proliferation and migration of gastric cancer cells, promote 
+the apoptosis of gastric cancer cells and regulate vascular growth factors. The regulation of PI3K/AKT, Wnt/β synprotein 
+pathway, Ca
+2+/CaM, NF-κB signaling pathway can prevent and treat gastric cancer. Conclusions　Through the analysis, 
+the partial mechanism of action of ginsenoside Rg3 in the treatment of gastric cancer can be clarified, providing 
+reference direction for the further development and clinical application of ginsenoside Rg3 drug dosage form. 
+Keywords: Ginsenoside Rg3, Gastric cancer, VEGF, Mechanism of action
+（责任编辑：刘玥辰，审稿人：王瑀、张志华）
+4952

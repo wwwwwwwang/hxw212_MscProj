@@ -1,0 +1,609 @@
+中国农业科技导报， 2023， 25（2）：119-127
+Journal of Agricultural Science and Technology
+洋虫内产β-葡萄糖苷酶内生菌发酵液转化人参皂苷产物
+分析及其抗肿瘤活性研究
+胡茜 1，　王艺凝 1，　申鹏飞 2，　李雅倩 1，　杨阳 1，　王艳成 1， 
+姬文秀 1*， 董微巍 1*
+（1.延边大学农学院， 吉林 延吉 133000； 2.吉林省和龙市工商联， 吉林 和龙 133400）
+摘
+要：为提高人参皂苷生物利用度，明确人参皂苷药用洋虫体内生物转化规律及其代谢产物抗肿瘤活性，通
+过MRS（含七叶苷和柠檬酸铁）培养基筛选洋虫内生菌中高产β-葡萄糖苷酶的菌株，制备复合菌发酵剂液体转
+化人参皂苷提取物，利用高效液相色谱-串联质谱法分析发酵产物中人参皂苷的化学组成及其动态变化规律，
+采用四甲基噻唑蓝（methylthiazoletrazolium，MTT）染色法阐明发酵产物低（0.5 mg·L-1）、中（2 mg·L-1）、高
+（5 mg·L-1）剂量对 A549细胞抗肿瘤活性的影响。人参提取物中共检测出 Re、Rg1、Rf、Rb1、Rc、Rb2、Rd 7种皂
+苷，代谢产物中有去糖基化人参皂苷 Rh1、Rg3和 compoud K 产生，发酵产物 MTT试验显示高剂量组（5 mg·L-1）
+反应 72 h抑制肿瘤细胞率可达 85%。由此表明，利用洋虫内生菌复合菌液转化人参皂苷提取物可提高中药人
+参和洋虫的药用价值，为中草药的发酵改性提供了新思路。
+关键词：人参皂苷；洋虫内生菌；发酵产物；抗肿瘤活性；高效液相色谱质谱
+doi：10.13304/j.nykjdb.2021.0691 
+中图分类号：R284　　　文献标志码：A　　　文章编号：1008­0864（2023）02­0119­09
+Fermentation Products Analysis of Producing β-glucosidase 
+Endophytic Bacteria in Martianus dermestoides Transformated 
+to Ginsenoside and Its Anti-tumor Activity
+HU Qian1， WANG Yining1， SHEN Pengfei2， LI Yaqian1， YANG Yang1， WANG Yancheng1， 
+JI Wenxiu1*， DONG Weiwei1*
+（1.Agricultural College， Yanbian University， Jilin Yanji 133000， China； 2.Helong City Federation of Industry ang Commerce in 
+Jilin Province， Jilin Helong 133400， China）
+Abstract：In order to improve the bioavailability of ginsenosides， and clarify the transformated products of ginsenosides in 
+Martianus dermestoides and the anti-tumor activity of their metabolites， the functional strains of high-yield β-glucosidase 
+in the endophytes of Martianus dermestoides were screened by MRS （esculin， ferric citrate） medium to prepare compound 
+fermentation agent liquid fermentation ginsenoside extract. The chemical composition and dynamic changes of 
+ginsenosides in fermentation products were analyzed by HPLC-MS/MS. The anti-tumor activities of the fermentation 
+product in low （0.5 mg·L-1）， medium （2 mg·L-1）， and high （5 mg·L-1） dose groups on A549 cells were clarified using 
+methylthiazoletrazolium （MTT） blue staining method. A total of 7 saponins （Re， Rg1， Rf， Rb1， Rc， Rb2， Rd） were 
+detected in ginseng extract. Among the metabolites， deglycosylated ginsenosides Rh1， Rg3 and compoud K were formed. 
+The MTT experiment showed that the inhibition rate of tumor cells was 85% after treated 72 h in the high does group with the 
+does 5 mg·L-1. These results suggested that a variety of high-activity stimulating ginsenosides were transformed by 
+endophytic bacteria of Martianus dermestoides， which improved the medicinal value of Chinese herbal medicine ginseng 
+and onion， and provided a new idea for fermentation and modification of Chinese herbal medicine.
+收稿日期：2021⁃08⁃12； 接受日期：2021⁃09⁃21
+基金项目：吉林省教育厅“十三五”科学技术项目（JJKH202002518KJ）；吉林省教育厅“十三五”规划科研项目（JJKH20191131KJ）。
+联系方式：胡茜 E-mail：326029463@qq.com 
+*通信作者 董微巍 E-mail：wwdong@ybu.edu.cn； 姬文秀 E-mail：jwxlyq@ybu.edu.cn
+中 国 农 业 科 技 导 报
+25 卷
+Key words： ginsenoside； endophytic fungi of Martianus dermestoides； fermentation products； antitumor activity； 
+HPLC-MS/MS
+人参（Panax ginseng C. A. mey）为五加科人参
+属多年生草本植物[1]。在 2012 年，人参（人工种
+植）被国家卫生部批准为新资源食品，同时其在保
+持人体健康和平衡机体状态方面的保健作用日渐
+引起人们的关注[2­3]。人参皂苷是人参中主要的活
+性成分，具有抗肿瘤、抗衰老、降血糖、降血脂、促
+进细胞再生等多种功效[4-9]。研究表明，人参皂苷
+口服后在人体肠道菌作用下转化为人参皂苷的去
+糖基代谢产物更具药理活性[10]，如 Rh1、Rg3 和
+compound K 等都可以直接作用于癌症组织，具有
+较强的抗肿瘤活性[11-14]。但是，由于人体肠道菌
+群的个体差异及人参皂苷在体内的停留时间等原
+因，使有些皂苷未在转化前就被排出体外，因此口
+服人参皂苷的作用效果较低，在生物体内的利用
+率不高。因此，体外人参皂苷去糖基化修饰对于
+提高人参的药用价值具有十分重要的意义。
+内生菌资源在天然产物的生物转化中作为一
+类新型生物催化剂备受关注[15­16]。药用昆虫洋虫
+内生菌资源丰富，体内生存环境独特[17]，因其喜食
+中药人参所以推测其体内具有产 β-葡萄糖苷酶
+水解人参皂苷功能的内生菌。因此，本研究对洋
+虫体内高效产 β-葡萄糖苷酶内生菌进行筛选、鉴
+定，制备复合工程菌剂，液态发酵转化人参皂苷，
+提高 Rh1、Rg3、compound K 等去糖基化人参皂苷
+的转化率，对动态发酵反应过程中人参皂苷及其
+代谢产物化学组成进行研究，采用体外模拟人参
+皂苷在洋虫体内的代谢过程，明确其生物转化机
+制，利用四甲基噻唑蓝（methylthiazoletrazolium，
+MTT）染色法阐明低、中、高剂量发酵产物对肺癌
+A549细胞抗肿瘤活性，为人参皂苷系列产品及功
+能产品的开发奠定基础，为中药资源的综合利用
+提供新思路。
+1　材料与方法
+1.1　试验材料与仪器
+试验材料：人肺腺癌耐顺铂株（A549/DDP）购
+自 武 汉 普 诺 赛 生 命 科 技 有 限 公 司（Procell Life 
+Science & Technology Co., Ltd.）；洋虫来自延边大
+学植物保护实验室；正丁醇、无水乙醇、次氯酸钠
+等均为分析纯，购于南京化学试剂股份有限公司；
+新鲜人参根（4 年生植物）来自于吉林集安人参培
+育基地；人参皂苷标准品 Rg1、Re、Rf、Rb1、Rb2、
+Rc、Rd、Rh1、Rg2、Rg3、F1、PPD 和 compound K 购
+于国家标准物质网。
+仪器包括离心机（TD-4C 型，金坛区金城海澜
+仪器制造厂）、旋转蒸发仪（RE-2010 型，郑州予达
+仪器科技有限公司）、培养箱（德国 Heraus 公司）、
+倒置荧光相差显微镜（CR15-860HD 型，苏州倍特
+嘉光电科技有限公司）。
+1.2　人参皂苷提取物的制备及定性分析
+人参粗皂苷制备：取 100 g 洗净的人参，干燥
+后粉碎成粉末，利用 80% 乙醇在 82 ℃条件下索氏
+回流提取 3 h，反复提取 2 次后将萃取液合并，真
+空旋干，再置于烘箱 50 ℃干燥脱水，制备人参粗
+皂苷粉末，备用。
+定性分析：使用甲醇溶解人参皂苷粉末后用
+0.22 μm 滤膜过滤，利用液相色谱-串联质谱法
+（liquid chromatography-tandem mass spectrometry，
+LC-MS/MS）分析人参粗皂苷中的单体皂苷组成。
+1.3　洋虫内生菌液的制备
+以红枣和人参饲料按 4∶1 的混合比例对洋虫
+进行饲养，培养箱体积 40 cm×60 cm×20 cm，培养
+箱恒温 24 ℃、湿度 75% 的饲养条件下饲养 1 年。
+取洋虫成虫、幼虫各 45 只，同龄期洋虫 15 只为
+1 组，每组生物学重复 3 次；将洋虫用无菌水清洗
+干净后，在厌氧培养箱内将其头部、翅部去除，放
+置于75%乙醇中90 s，后经次氯酸钠溶液浸泡15 s，
+去除洋虫体表微生物后用灭过菌的蒸馏反复冲
+洗，研钵研磨，加入蒸馏水移至离心管；500 r·min-1
+离心 5 min，将上清液取出，再 10 000 r·min-1离心
+5 min，收集沉淀；最后向沉淀中加入 PBS 缓冲液，
+制备成洋虫内共生菌液。
+1.4　产 β-葡萄糖苷酶功能菌株筛选、鉴定及高产
+β-葡萄糖苷酶复合菌发酵液的制备
+1.4.1　七叶苷培养基筛选高效产 β-葡萄糖苷酶
+功能菌株　取 100 μL 稀释好的洋虫菌液加到
+MRS 筛选培养基（添加秦皮甲素和柠檬酸铁），将
+洋虫菌液均匀地涂布在培养基上，于恒温培养箱
+120
+2 期
+胡茜等：洋虫内产β-葡萄糖苷酶内生菌发酵液转化人参皂苷产物分析及其抗肿瘤活性研究
+中颠倒放置，在厌氧条件下培养 72 h，观察菌落生
+长。将边缘整齐且呈黑褐色的单一菌落挑选出
+来，将其接种到新的纯化培养基上，进行多次重复
+纯化直至得到单一菌株。从菌株中挑选出 4 株菌
+落颜色较深且生长状态良好的菌株，即为高效功
+能菌株。
+1.4.2　产 β-葡萄糖苷酶功能菌株的分子生物学
+鉴定　采用土壤基因组DNA提取试剂盒（DP336）
+提取基因组 DNA，采用通用引物（上游引物 ITS1: 
+5’-TCCGTAGGTGAACCTGCGG-3’和下游引物ITS4: 
+5’-TCCTCCGCTTATTGATATGC-3’）进行PCR。PCR
+体系25 μL，包括：1×PCR buffer、1.5 mmol·L-1 MgCl2、
+200 μmol·L-1 dNTPs 0.5 μmol·L-1上下游引物、50 ng
+模 板 DNA 以 及 0.5 U Taq DNA 聚 合 酶 。 以 I-
+Cycler 热循环仪进行扩增，PCR 程序：94 ℃ 3 min；
+94 ℃ 30 s，56 ℃ 30 s，72 ℃ 50 s，32 个循环；72 ℃ 
+7 min。PCR 产物检测合格后送北京百迈客生物
+科技有限公司进行测序。
+1.4.3　高产 β-葡萄糖苷酶复合菌液的制备　按
+照相同比将 4 株功能菌株进行 5 d 的规模化培养
+驯化，制备成复合工程菌种子液，备用。
+1.5　复合菌液与人参皂苷的发酵反应
+取人参皂苷粗提物 4 mg，加入种子液 500 μL
+至 2 mL 离心管中，混合均匀，在厌氧条件下（N2 
+85%，H2 10%，CO2 5%）将筛选出的菌株及筛选菌
+株的混合菌株富集培养 24 h 后，将菌液与人参主
+皂苷反应 20 d，分别在生物反应时间为 0、1、2、3、
+7、12 和 20 d 时采集发酵产物，利用 LC-MS/MS 测
+定分析。
+1.6　HPLC-MS/MS发酵产物分析
+1.6.1　色谱条件　采用安捷伦 1260 系列液相色
+谱 系 统 与 安 捷 伦 Poroshell ZORBAX SB-C18 柱
+（4.6 mm×250 mm，5 μm）和 C18保护柱进行检测分
+析。该系统使用 Mass Hunter 采集软件 B.07.00 进
+行操作。流动相 A 为 0.1% 甲酸-水溶液、B 为
+0.1% 甲酸-乙腈溶液。采用梯度洗脱程序：B体积
+分数由0%于0—20 min 内线性升至 23%；在 13—
+33 min 由 23% 提升至 46%；在 33—38 min 由 46%
+提升至68%；在38—45 min以68% 维持7 min；在45—
+55 min 由 68% 提 升 至 100%；在 55—63 min 由
+100%降至 23%。进样量 2 μL，流速 0.5 mL·min-1，
+检测波长203 nm。
+1.6.2　质谱条件　采用安捷伦 1260HPLC 系统联
+用安捷伦 6420 三重四级杆串联质谱(ESI-QQQ-
+MSMS, Agilent Technologies, Santa Clara, USA)进行
+质谱分析。离子化条件如下：ESI 电离源，正离子
+扫描，喷雾电压 4 kV。采用二级全扫描模式，扫
+描质荷比范围 500~1 500。采用多离子检测模式
+作为筛选及评价方法，对各天然物样品中皂苷类
+物质进行初步筛选检测，数据处理软件为 Mass 
+Hunter工作站B.06.06软件[18]。
+1.7　发酵产物对A549细胞抗肿瘤活性
+取处于对数生长期的 A549细胞，将细胞悬液
+的含量调至 5×104 cell·mL-1。96 孔培养板中每个
+孔加入 100 μL 细胞悬液，将其放入 5% CO2、37 ℃
+培养箱培养 24 h，至细胞长至单层；然后将孔中上
+部澄清的液体吸出舍弃，利用 PBS 缓冲液洗 1~2
+遍后，加入培养基（不含血清）稀释分别得到 0、
+0.5、2.0、5.0 mg·L-1的筛选组分。每个水平 6 次重
+复。每个孔抽取 100 μL 筛选出来的组分。将细
+胞板放在培养箱中孵育 48 h，继续将孔中上部澄
+清的液体吸出舍弃，用 PBS 溶液淋洗 2 遍。在
+MTT法中，向每孔加入 20 μL MTT溶液（5 mg·L-1，
+即 0.5％ MTT）和 80 μL 培养基（不含血清），4 h
+后培养终止，小心吸去孔内培养液。每孔加入
+150 μL DMSO，摇床低速振荡 10 min，使结晶物充
+分溶解。利用 ELISA reader 在波长 490 nm 测得
+OD值，同时观察细胞活性。试验中设立空白对照
+（无细胞，加培养基、MTT 和 DMSO）。3 次重复试
+验，取平均值用来计算细胞抑制率。
+细胞抑制率=(对照组吸光度值-试验组吸光
+度值/对照组吸光度值)×100%
+（1）
+1.8　方法评价
+进样液体为 10 种人参皂苷标准品的混合溶
+液。以混合标准系列溶液的浓度为横坐标，以定
+量离子色谱的峰面积为纵坐标，进行线性回归，绘
+制标准曲线。稀释混合标准溶液，用信噪比S∶N = 
+3∶1 时的含量计算各人参皂苷标准品的最低检出
+含 量（limit of detection，LOD），用 信 噪 比 S∶N = 
+10∶1 时的含量计算定量限（limit of quantitation，
+LOQ）。向空白菌液发酵产物样品中分别添加高
+（5 mg·L-1）、中（2 mg·L-1）、低（0.5 mg·L-1）3种不同
+121
+中 国 农 业 科 技 导 报
+25 卷
+水平的混合标准溶液，每个水平平行制备 3 份，进
+行加标回收率试验。
+1.9　数据分析
+采用SPSS11. 5软件进行数据的统计分析。
+2　结果
+2.1　人参皂苷样品的统计与评价
+配制 100、200、500、1 000、2 000、5 000、8 000
+和10 000 ng·mL-1人参皂苷标准液，以人参皂苷标
+准品质量浓度为 x轴，其对应峰面积为 y轴绘制标
+准曲线。结果（表 1）表明，在 100~10 000 ng·mL-1
+范围内，10 种皂苷标准品的线性关系较好，R2均
+在0.99以上。以3倍信噪比计算10种标准品的检
+测限，不同标准品的检测限在 8.5~12.9 ng·mL-1之
+间；以 10 倍信噪比定量限，不同标准品的定量限
+在 28.8~34.9 ng·mL-1之间，平均回收率为 83.9%~
+119.3%，表明该方法可以满足检测要求。
+2.2　产 β-葡萄糖苷酶功能菌株的分子生物学
+鉴定
+通过筛选培养基培养，从洋虫成虫、幼虫菌液
+中筛选出 4株具有明显显色反应的产 β-葡萄糖苷
+酶功能菌株，经 18S rRNA 基因扩增进行分子生物
+学鉴定和 Blast 数据库比对，4 个菌株分别为烟曲
+霉 （Aspergillus fumigatus） 、 鸽 色 蓝 状 菌
+（Talaromyces columbinus）、长枝木霉（Trichoderma 
+longibrachiatum）及 粉 色 面 包 霉 菌（Neurospora 
+crassa）（表2）。
+2.3　洋虫内生菌复合菌液发酵人参皂苷粗提物
+发酵产物分析
+2.3.1　复合菌液与人参皂苷发酵产物定性分析　
+由图1和图2可知，在人参皂苷提取物中共检测出
+Rg1、Re、Rf、Rb1、Rc、Rb2 和 Rd 7 种人参皂苷；在
+复合菌液中功能菌的协同作用下，转化产物中检
+测出 Rg1、Re、Rf、Rb1、Rc、Rb2 和 Rd 7 种人参皂
+苷和Rg3、compound K和Rh1 3种人参皂苷去糖基
+表1　人参皂苷样品的回归方程、相关系数、线性范围、检测限、定量限及回收率
+Table 1　Regression equation， correlation coefficient， linear range， detection limit， quantification limit and 
+recovery rate of ginsenoside samples
+化合物
+Compound
+Re
+Rg1
+Rf
+Rb1
+Rc
+Rb2
+Rd
+Rh1
+Rg3
+Compound K
+回归方程
+Regression equation
+y=4.301 0x-50.003
+y=1.897 0x-35.112
+y=0.700 3x-4.213
+y=2.198 0x+50.013
+y=2.603 0x+30.227
+y=7.699 0x+26.989
+y=3.494 0x-59.306
+y=0.565 6x+4.012
+y=0.159 8x+2.476
+y=8.983 0x-17.006
+R2
+0.997 4
+0.994 6
+0.990 2
+0.997 3
+0.998 5
+0.991 7
+0.993 5
+0.999 2
+0.992 6
+0.995 7
+线性范围
+Linear range/
+（ng·mL-1）
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+100~10 000
+检测限
+LOQ/
+（ng·mL-1）
+9.8
+8.5
+12.9
+10.7
+8.6
+11.5
+12.1
+10.0
+9.6
+11.2
+定量限
+LOD/
+（ng·mL-1）
+28.8
+31.9
+34.2
+30.3
+29.8
+37.7
+41.7
+33.2
+34.9
+28.9
+回收率Recovery rate/%
+100
+ng·mL-1
+114.1±6.1
+108.9±4.6
+98.1±7.3
+89.9±4.8
+111.9±7.9
+97.2±9.8
+95.1±7.9
+119.3±8.2
+101.9±7.6
+87.9±9.4
+500
+ng·mL-1
+92.2±7.3
+86.2±7.3
+83.9±6.3
+81.7±8.4
+104.8±6.9
+102.3±0.7
+100.3±0.6
+94.1±9.4
+87.9±6.9
+112.1±2.1
+2 000
+ng·mL-1
+105.3±11.9
+100.8±9.2
+110.5±9.2
+109.7±8.6
+99.3±6.4
+105.8±2.4
+96.2±4.7
+87.5±5.5
+103.9±9.4
+76.7±10.0
+表2　4株菌的18S rRNA基因相似性对比及鉴定结果
+Table 2　Comparison of 18S rRNA gene similarity of 4 strains and identification results
+菌株Strain
+AD-01
+AD-03
+AD-04
+AD-08
+基因登录号Gene ID
+MZ558029
+MZ558030
+MZ558031
+MZ558033
+相似性Similarity/%
+98.26
+99.82
+96.53
+98.75
+种Species
+烟曲霉 Aspergillus fumigatus
+鸽色蓝状菌 Talaromyces columbinus
+长枝木霉 Trichoderma longibrachiatum
+粉色面包霉菌Neurospora crassa
+122
+2 期
+胡茜等：洋虫内产β-葡萄糖苷酶内生菌发酵液转化人参皂苷产物分析及其抗肿瘤活性研究
+化产物，且随着时间的延长其代谢产物含量呈明
+显升高趋势。由此表明，利用洋虫内生菌复合菌
+液直接发酵人参皂苷粗提物可同时制备多种高活
+性次级人参皂苷产物。
+2.3.2　复合菌液与人参皂苷发酵产物定量分析　
+由图 3 可知，大部分人参皂苷随着发酵反应的进
+行含量逐渐减少；而人参皂苷 Rd的含量为先降低
+后升高；发酵产物人参皂苷 Rg3 的含量先增加后
+降低，8 d 时含量最高，为 425 mg·mL-1，20 d 时降
+至 221 mg·mL-1；去 糖 基 化 人 参 皂 苷 Rh1 和
+compound K 含量呈上升趋势。这可能是随着发
+酵反应进行人参皂苷被水解，大部分人参皂苷含
+量降低，其中人参皂苷 Rd作为代谢中间产物在代
+谢初期被水解转化，同时二醇类皂苷 Rb1、Rc、
+Rb2在发酵反应过程中C-20位外部糖基被水解掉
+又转化生成 Rd，因此，0~3 d 人参皂苷 Rd 含量呈
+下降趋势，在 3~20 d又呈升高趋势。Rd在 β-葡萄
+糖苷酶等水解酶的作用下（水解掉 C-20 位糖基）
+转化为分子量更小的人参皂苷 Rg3，同时 C-3位糖
+基被复合功能菌水解产生人参皂苷 compound K，
+因此，Rg3 和 compound K 含量随发酵时间的延长
+逐渐增加。三醇类人参皂苷 Rg1、Re、Rf的主要发
+酵产物为稀有人参皂苷 Rh1，其中，Re 在 β-葡萄
+糖苷酶等水解酶的作用下 C-6 位外部糖基被水解
+A：人参皂苷标准品；B：菌液空白对照；C：人参皂苷粗提物；D：菌液与人参皂苷发酵20 d产物
+A： Ginsenoside standard product； B： Bacterial liquid blank control； C： Ginsenoside crude extract； D： Bacterial liquid and ginsenoside 
+fermented product for 20 d
+图1　4株产β-葡萄糖苷酶真菌联合发酵人参皂苷提取液产物分析
+Fig. 1　Analysis of the product of 5 strains of β-glucosidase-producing fungi combined fermentation of ginsenoside extract
+123
+中 国 农 业 科 技 导 报
+25 卷
+掉，转化生成人参皂苷 Rg1，Rg1 再水解掉 C-6 位
+外部糖基转化生成人参皂苷 Rh1；Rf 直接被水解
+掉 C-6 位外部糖基转化生成 Rh1，因此，Rh1 含量
+呈上升趋势。综上所述，人参皂苷二醇类皂苷以
+Rd为中间代谢产物，生物转化途径为 Rb1/Rb2/Rc
+→Rd→Rg3/compound K；三醇类人参皂苷的转化
+途径为 Re→Rg1→Rh1和 Rf→Rh1，且人参皂苷二
+醇类皂苷更容易被发酵菌剂水解。
+2.4　复合菌液与人参皂苷发酵产物对肺癌 A549
+细胞活性的影响
+由图 4 可知，复合菌液与人参皂苷发酵产物
+具有较好的抗肿瘤活性，抗肿瘤效果优于发酵菌
+液及人参皂苷粗提物。对比复合菌液与人参皂苷
+发酵 20 d 产物在不同剂量（0.5、2.0 和 5.0 mg·L-1）
+和不同处理时间下对肺癌 A549细胞抑制效果，结
+果（图 5）表明，发酵产物在 5.0 mg·L-1、反应 72 h
+时对肿瘤细胞的抑制率达 85%，且在一定的范围
+内随着发酵产物质量浓度的升高对肿瘤细胞的抑
+制率明显升高。
+3　讨论
+稀有人参皂苷的各种生物活性越来越受到人
+们的重视，但是由于其天然含量低，使其在开发利
+用时备受限制，利用生物转化法对人参皂苷的糖
+链进行结构修饰，成为获得稀有人参皂苷的有效
+途径。目前，多数研究停留于单一菌株转化单一
+皂苷，如程雅韵等[19]从发酵食品中分离筛选出 1
+株产 β-葡萄糖苷酶的植物乳杆菌菌株 E9，可将
+Rb1转化成 Rg3；张丽娜等[20]从人参种植土中筛选
+到 1 株可将 Re 转化为 Rhl 的菌株 S329，但是皂苷
+图2　发酵产物EIC色谱图
+Fig. 2　EIC chromatogram of fermentation products of ginseng extract
+124
+2 期
+胡茜等：洋虫内产β-葡萄糖苷酶内生菌发酵液转化人参皂苷产物分析及其抗肿瘤活性研究
+A：人参主皂苷；B：Rh1；C：Rg3；D：Compound K
+A： Ginseng main saponins； B： Rh1； C： Rg3； D： compound K
+图3　4株产β-葡萄糖苷酶真菌联合发酵产物人参皂苷定量分析
+Fig. 3　Quantitative analysis of ginsenosides from the combined fermentation of 4 β-glucosidase-producing
+图4　洋虫内生真菌/人参皂苷20 d发酵产物对肺癌细胞A549的细胞抑制率
+Fig. 4　Inhibition rate of 20-day fermentation product of endophytic fungi/ginsenosides of worms on 
+lung cancer cell A549 fermentation
+注： 不同小写字母表示不同处理间在P<0.05水平差异显著。
+Note： Different lowercase letters indicate significant differences between different treatments at P<0.05 level.
+图5　复合菌液-人参皂苷发酵产物对肺癌A549细胞的活性抑制率
+Fig. 5　Inhibition rate of compound bacterial liquid-ginsenoside fermentation product on lung cancer A549 cells
+125
+中 国 农 业 科 技 导 报
+25 卷
+单体提纯工艺复杂，产品生产成本价格高，因此难
+以推广应用于生产实践。本研究利用喜食人参的
+洋虫源内生菌复合剂直接发酵人参皂苷粗提物，
+同时制备多种高活性次级人参皂苷产物，使其更
+具有实际应用价值。
+不同人参皂苷单体具备不同的药理活性。目
+前，人参皂苷发酵产物在抗肿瘤方面取得突破性
+进展，库受权[21]检测红曲霉和人参双向固体发酵
+产物对宫颈癌 Hela 细胞的抑制率，当发酵产物质
+量浓度为 200、100、50 和 25 μg·mL-1时抑制率分
+别为 50.89%、36.19%、23.18%、20.68%，与本研究
+结果一致，即在一定范围内，发酵产物对癌症细胞
+的抑制率随着其质量浓度的增加逐渐升高。吴
+彤[22]用 MTT 比色法与流式细胞仪分析 Rg3对人大
+肠癌细胞株 HCE8693 的生长抑制作用，发现当
+Rg3 含量为 0.010%、0.017%、0.025% 和 0.050% 时
+对 HCE8693 细 胞 的 生 长 抑 制 率 分 别 为 8.6%、
+8.6%、18.7% 和 21.9%。对比前人研究结果，本研
+究的复合菌剂与人参皂苷发酵代谢产物更加丰富
+（10 种），乙醇萃取的发酵产物在 5.0 mg·L-1、反应
+72 h 时的肿瘤细胞抑制率可达 85%，且随着发酵
+产物质量浓度的增加，对肿瘤细胞的生长抑制率
+明显升高，即对肿瘤细胞生长的抑制效果更加明
+显。此后，在此基础上本课题组将进一步深入研
+究，探明复合菌剂与人参皂苷发酵产物抑制肿瘤
+细胞生长的作用机制，为抗肿瘤先导药物研发奠
+定理论基础。
+参
+考
+文
+献
+［1］  国家药典委员会 .中国药典:一部[M].北京:中国医药出版社,
+2015:85-96.
+National Pharmacopoeia Committee. Chinese pharmacopoeia: 
+one [M]. Beijing: China Medical Press, 2015:85-96.
+［2］  JING R, CHANG Z, LU Q, et al.. Plant resources, C-13-NMR 
+spectral characteristic and pharmacological activities of 
+dammarane-type triterpenoids [J/OL]. Molecules, 2016, 21(8):
+1047  [2021-07-10]. https://doi.org/10.3390/molecules21081047.
+［3］  ZHANG D B, KIM Y J, YANG D C. Biosynthesis and 
+biotechnological production of ginsenosides [J]. Biotechnol. 
+Adv., 2015, 33(6):717-735.
+［4］  LEE M, KIM M S, YOO J, et al.. Enhanced anticancer effects 
+of a mixture of low-dose mushrooms and panax ginseng root 
+extracts in human colorectal cancer cells [J]. Oncol. Rep., 
+2017, 38(3):1597-1604.
+［5］  HWANG E, PARK S Y, CHANG S Y, et al.. Antiaging effects 
+of the mixture of panax ginseng and crataegus pinnatifidain 
+human dermal fibroblasts and healthy human skin [J]. J. 
+Ginseng. Res., 2017, 41(1):69-77.
+［6］  钟振东,王春梅,汪为,等 . 三七总皂苷的抗糖尿病机理及其
+降血糖成分研究[J].四川农业大学学报,2014,45(2):235-239.
+ZHONG Z D, WANG C M, WANG W, et al.. Major 
+hypoglycemic ingredients of panax notoginseng saponins for 
+treating diabetes [J]. J. Sichuan Univ., 2014, 45(2):235-239.
+［7］  DONG Z, XU M, JIE H, et al.. The protective effect of 
+ginsenoside Rg1 on aging mouse pancreas damage induced by 
+D-galactose [J]. Exp. Ther. Med., 2017, 14(1):616-622.
+［8］  MIN L, ZHANG H J, FEI W, et al.. Anti-aging effects of 
+ginseng and ginsenosides on the nervous system [J]. Int. J. 
+Pharmacol., 2018, 14(8):1188-1197.
+［9］  JI A A, WANG G J, HAO H P, et al.. Differential regulations 
+of blood pressure and perturbed metabolism by total 
+ginsenosides and conventional antihypertensive agents in 
+spontaneously hypertensive rats [J]. Acta. Pharmacol. Sin., 
+2010, 31(8):930-937.
+［10］ 刘明,宋凤媛,李芳彤,等 . 天然产物与肠道微生物相互作用
+研究进展[J].应用化学,2021,38(4):367-375.
+LIU M, SONG F Y, LI F T, et al.. Research progress on 
+the interaction between natural products and intestinal 
+microbes [J]. Chin. J. Appl. Chem., 2021, 38(4):367-375.
+［11］ VALIUS M, DREIZE N, STANKEVICIUS V, et al.. Proteomic 
+analysis of breast cancer resistance to the anticancer drug Rh1 
+reveals the importance of cancer stem cells [J]. Cancers, 2019, 
+11(7):972-977.
+［12］ NAKHJAVAN M, SMITH E, TOWNSEND A R, et al.. Anti-
+angiogenic properties of ginsenoside Rg3 [J]. Molecules, 2020, 
+25(21):4905-4911.
+［13］ CHEN H F, WU L X, LI X F, et al.. Ginsenoside compound 
+K inhibits growth of lung cancer cells via HIF-1α-mediated 
+glucose metabolism [J]. Cell. Mol. Biol., 2019, 65(4):48-52.
+［14］ 罗林明,石雅宁,姜懿纳,等 . 人参抗肿瘤作用的有效成分及
+其机制研究进展[J].中草药,2017,48(3):582-596.
+LUO L M, SHI Y N, JIANG Y N, et al.. Research progress on 
+the effective components an mechanisms of ginseng’s anti-
+tumor effect [J]. Chin. Herbal Med., 2017, 48(3):582-596.
+［15］ 王宇,戴传超 .内生真菌对生物活性物质代谢转化作用研究
+进展[J].中草药,2009,40(9):1496-1499.
+WANG Y, DAI C C. Research progress of endophytic fungi on 
+the metabolism and transforation of biologically active 
+substances [J]. Chin. Herbal Med., 2009, 40(9):1496-1499.
+［16］ FILL T P, SILVA J, OLIVEIRA K, et al.. Oxidative potential of 
+some endophytic fungi using 1-indanone as a substrate [J/OL]. 
+J. Microbiol. Biotechnol., 2012, 22(6):832 [2021-07-15]. https://
+doi.org/10.4014/jmb.1112.12014.
+［17］ 房柳,王艳成,姬文秀,等 . 产 β-葡萄糖苷酶洋虫内共生真
+菌筛选、鉴定及联合转化作用机制[J]. 食品与机械,2020,
+36(11):16-22,90.
+FANG L, WANG Y C, JI W X, et al.. Screening, identification 
+and joint transformation mechanism 
+of 
+β-glucosidase-
+producing endosymbiont fungi [J]. Food Mach., 2020, 36(11):
+16-22,90.
+［18］ 陈奕彤,张斯然,张春波,等 .基于 Endo-M N175Q 糖链转移反
+126
+2 期
+胡茜等：洋虫内产β-葡萄糖苷酶内生菌发酵液转化人参皂苷产物分析及其抗肿瘤活性研究
+应与丙酮富集糖肽的 LC-MS 分析糖蛋白 N-糖链[J]. 分析测
+试学报,2018,37(11):1311-1315.
+CHEN Y T, ZHANG S R, ZHANG C B, et al.. LC-MS analysis 
+of glycoprotein N-glycans based on Endo-M N175Q sugar 
+chain 
+transfer 
+reaction 
+and 
+acetone 
+enrichment 
+of 
+glycopeptides [J]. J. Analysis Testing, 2018, 37(11):1311-1315.
+［19］ 程雅韵,李志华,汪庭瑞,等 . 产人参转化 β-葡萄糖苷酶乳酸
+菌菌株的筛选[J].食品科技,2014,39(8):13-17.
+CHENG Y Y, LI Z H, WANG T R, et al.. Screening of 
+lactobacillus strains producing giseng 
+to 
+transform β
+-Glucosidase [J]. Food Sci. Technol., 2014, 39(8):13-17.
+［20］ 张丽娜,明有山,曲波权,等 . 微生物转化人参皂苷 Re 为人参
+皂苷Rh1的研究[J].中国酿造,2017,36(11):114-117.
+ZHANG L N, MING Y S, QU B Q, et al.. Study on the 
+microbial transformation of ginsenoside Re into ginsenoside 
+Rh1 [J]. China Brew., 2017, 36(11):14-117.
+［21］ 库受权 . 红曲霉-人参双向固体发酵及其产物药理活性研
+究[D].延边:延边大学,2014.
+KU S Q. Study on the two-way solid fermentation of monascus-
+ginseng and its pharmacological activity [D]. Yanbian: Yanbian 
+University, 2014.
+［22］ 吴彤 . 人参皂甙 Rg3 对大肠癌细胞株 HCE8693 作用的实验
+研究[D].杭州:浙江大学,2004.
+WU T. Experimental study on the effect of ginsenoside Rg3 on 
+colorectal cancer cell line HCE8693 [D]. Hangzhou: Zhejiang 
+University, 2004.
+（责任编辑：张冬玲）
+127

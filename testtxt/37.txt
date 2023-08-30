@@ -1,0 +1,459 @@
+第 50 卷
+第 4 期 
+20 14 年 8 月 
+青
+岛
+大
+学
+医
+学
+院
+学
+报 
+A C T A  A C A D E M IA E M E DIC IN A E  Q IN G DA O  U N IV E R SIT A T IS 
+V o 1．5 0 ．N o ．4 
+A u g u s t 
+2 0 1 4 
+doi：10．13361／j．qdyxy．
+201404001 
+论 著  
+人 参皂苷 R gl 和 IG F 一工对帕金森病小 鼠 DA 能 
+神 经元作 用 
+晏 振 ，吴林 。，薛 丹丹 ，高先琦 ，陈文 芳 
+( 1 
+青 岛大学 医学 院生理学教研室 ，山东 青岛 
+266071 ；
+ 
+2
+菏泽医学专科学校生理学教研室) 
+[ 摘 要]  
+目的 
+观察人参皂苷 R gl 、胰岛素样生长因子 I ( IGF- I ) 及二 者合用对小 鼠黑质纹状 体系统多 巴胺 
+( DA ) 能神经元的神经保护作用 。方法
+C 57BL／6 去卵巢 ( OV X ) 小 鼠 5o 只 ，采用腹 腔注射 1 甲基一4一苯基一1，2 ，3， 
+6一四氢 吡啶( MP T P ) 方法制备 帕金森病 ( PD ) 模型小 鼠，随机分为对 照组 、MPT P 组 、R gl 组 ( 10 mg／kg 腹腔注射 ) 、 
+IGF- I 组( O．5 g／L 侧脑室注射 ) 、R gl + IG F_ I 组 ，每组 1O 只。应用 高效液 相色谱 法检 测各组 纹状 体 内 DA 的含 
+量 ，免 疫 组 织 化 学 染 色 法 检 测 黑 质 内酪 氨 酸 羟 化 酶 免 疫 阳 性 ( T H—IR ) 神 经 元 数 目。 结 果
+M PT P 组 纹 状 体 内 DA  
+含量 、黑 质 T H—IR 神经元数 目较对 照组 明显 降低 ，差异 有显 著性 ( F 一21．23、45．45 ，q 一 11．67 、14．24 ，P < O．01) 。 
+R gl 组、IG F_ I 组及 R gl + IGF—I 组纹状体 DA 含量 、黑质 T H —I R 神经元数 目较 MPT P 组 明显升 高 ，差异有显著性 
+( q 一5．66～17．91 ，P < O．01) ；R gl + IG F_ I 组与 R gl 组 、IG F—I 组 比较 ，差异 有显 著性 ( q 一4．37～8．74 ，P < 0．05) 。 
+结论 
+R gl 、IGF - I 及二者合用均 能够对抗 MP T P 对黑质纹状体 系统 DA 能神经元 的毒性作 用 ，且 R gl 与 IGF—I 
+合 用 具 有 协 同作 用 。
+ 
+[ 关键词]
+人参皂 苷 R gl ；胰岛素样生长 因子一I ；1一甲基一4一苯基一1 ，2 ，3，6一四氢 吡啶；多巴胺 ；帕金森病 
+[ 中图分类号]
+Q426；R 592 
+[ 文献标志码]
+A 
+[ 文章编号]
+1672—4488( 2014) 04—0283—04 
+E F FE C T S OF G E SE NOSID E R G1 A ND IN SUL IN- L IK E G R O W T H FA CT O R - I ON DO P A M IN ER GIC  NE UR ONS IN PA R K IN SON ’ 
+S DISE ASE  M ICE  
+Y A N  Z hen ，w U L i n 。X U E  Dan dan ，GA O  X i anqi ，CH E N  W enf ang
+(D epartment of Ph ysiology ，Q ingdao 
+U niv ersit y  M edi ca1 C ol lege ，Q ingdao 266071 ，C hina) 
+[-ABSTR ACT ]
+Obj ective 
+T o investi gate the neupr otective effects of ginsenoside (R g1) ，insulin like g rowth factor I
+( IGF  
+I ) and com bined t reat m ent  on nigrost riat al dopamin ergie ( D A ) neurons in mice．
+ 
+M ethods 
+F if t y ovariect omiz ed and 卜m et hy l 
+4- phen yl一1 ，2 ，3，6- tetrahy dr0 pyr Idine ( M P T P ) 一indu ced P ar kinson ’ s dis ease ( P D ) model C 57B L ／6 mic e w ere ev enly  rand omized to 
+control group ，M P T P  grou p ，R g l group ( 10 mg／kg ，i p) ，IGF - I grou p ( O．5 
+g／ L ，icv ) ，R gl  and IG F I combin ed group．H ig h 
+pe rform an ce liquid ch roma t og raph y—e le ct rica l che mic al de t ect ion ( H P L C —E C D ) w a s use d t o det ec t t he con te nt s of  D A  in th e st ria — 
+t um ．T he t y rosin e h y drox y la se im m unorea ct iv e ( T H —I R ) n eur on s in t he sub st ant ia l n ig ra w e re det e rmine d by  imm unohist oche mis — 
+t ry ．
+ 
+R esul t s 
+T h e cont e nt s of D A  in M P T P st ria t um  a nd th e n um b ers of  T H —I R  ne urons in t he subst a nt ial nig ra sig ni fica nt ly  de — 
+cre a sed a s com pa re d w it h t he con trol g rou p ( F 一 2 1 ．2 3 ，4 5 ．4 5 ；q 一 1 1 ．6 7 ，1 4 ．2 4 ；P <
+0 ．0 1 ) ．D A  cont en t a nd t he num bers of T H —I R  
+neurons in the s ubstantial nigr a in R gl ，IG F - I ，and com bined R gl pl us IGF  I grou ps w ere signi ficantly  higher th an that in the 
+M P T P  group ( q 一 5．66 — 17．91 ，P < 0．0 1) ，and t he di ff er enc es of t hat bet w een t he comb ination g rou p and both R gl and I GF —I  
+groups w ere signi fic ant ( q 一 4．37— 8．74 ，P < O．05) ．
+ 
+C onc lusi on 
+R gl  or IG F —I  or combin ed bo th R gl  and I GF —I  can all play a 
+role agai nst M P T P
+— induc ed neurot ox icit y on nigr ost riatal dopam inergic neu ron s．T he com bination of R gl plus I GF  I  has a sy  
+ne rg ist ic ef f ec t ．
+ 
+[ K E Y W OR DS~ 
+ginsenoside R gl ；insulin—l ik e growth factor I ；1-Methyl一4一pheny l一1，2，3，6-tetrahydropyridine ；dopa— 
+m in e ；P a rk inson dise a se 
+帕金 森病 ( PD ) 主 要 病 理 改 变 是 中脑 黑 质 致 密 
+部 多 巴胺 (DA ) 能神 经元 脱 失 ，导致纹 状 体 DA 含 量 
+下 降 
+。人参 皂苷 R gl 是 人 参 主 要 活性 成 分 ，具 有 
+神经 营养 和 神经保 护 作用 E 
+。已有研 究 结果 显 示 ，
+ 
+[ 收稿 日期]
+2013-10—26； [ 修订 日期]
+2014—04—30 
+[ 基金项 目]
+国家 自然科学基金资助项 目( 31271150) ，青岛市科 
+技 局 资 助 项 目( 11—2—4—2一(23 )-j ch) 
+[ 作者简介]
+晏振( 1987一) ，男 ，硕 士研究生 。 
+[ 通讯作者]
+陈文芳( 1968一) ，女 ，博 士，教授 ，博士生 导师 。 
+R gl 可 通过 激活 胰 岛素样 生长 因子 I ( IGF —I ) 受体 
+信 号 途径 ，对 抗 神 经 毒素 6一羟基 多 巴胺 ( 6-OH DA ) 
+对 D A 能神 经元 的损 伤_5] 。IG F —I 是 脑 内非常 重要 
+的生 长 因子_6] ，其 神经 保 护作 用 亦 与 IGF—I 受体 信 
+号 的途径有 关 _7 ] 。本 研究 拟应 用 1一甲基一4一苯基一1，
+ 
+2，3 ，6一四氢 吡 啶 ( MP T P ) 制 备 小 鼠 P D 模 型 ，观 察 
+R gl 、IGF 一工及 二 者 合 用 对 黑 质 纹 状 体 系 统 DA 能 
+神 经 元 的作 用 ，以期 为 PD 的预 防 与治 疗 提 供 可 能 
+青
+岛
+大
+学
+医
+学
+院
+学
+报 
+方 案 。现将结 果报 告如 下 。 
+1
+材 料 与 方 法 
+1．1 
+实验 动 物 及 试 剂 
+健 康雌性 C57BL ／6 小 鼠 50 只 ，体质 量 为 ( 20±  
+2) g，由北京 维通 利华 动 物 实 验 中心 提 供 ，将 其 置 于 
+( 19．0± 2．O) ℃室温 下 ，12—12 h 昼 夜 循 环 光 照 ，自由 
+进 食 、饮 水 ，实验 前适应 实验 室环境 1 周 。人 参皂 苷 
+R gl 由白求恩 医科 大学提 供 ，用 9 g／L 的 NaC1配制 
+成 浓度 10 g／L 的溶 液 ；IG F 一工、M PT P 、D A 和 抗 酪 
+氨酸羟 化酶 ( T H )抗 体 为 Sigma 公 司产 品 。 
+1．2 
+实验 分 组 及 处 理 
+小 鼠 摘 除 卵 巢 ，14 d 后 ，随 机 分 为 对 照 组 、 
+MPT P 模 型组 、R gl 组 、IGF—I 组 、R g1+ IG F一工组 ， 
+每组 1O 只 。对照 组 ：每天 9：O0 侧 脑室 注射 1 
+I 生 
+理盐 水 ，腹 腔 注 射 0．2 mL 生 理 盐 水 ，连 续 8 d 。 
+MP T P 模 型组 ：每天 9：O0 侧脑 室 注射 1 
+L 生 理 盐 
+水 ，腹 腔注 射 0．2 mL 生 理盐 水 ，于第 4 天侧 脑 室及 
+腹腔注 射后 2 h ，腹腔 注射 MP T P (15 mg／kg) ，连续 
+注射 4 次 ，每次 间 隔 2 h ，自第 5 天 开始 继 续侧 脑 室 
+及 腹腔 给予 生理 盐水 ，连续 5 d。R g l 组 ：每 天 9 ：O0 
+侧 脑室 注射 1 
+L 生 理盐 水 ，腹 腔 注射 R gl ( 10 ra g／ 
+kg) ，于 第 4 天 给 药 后 2 h 开 始 腹 腔 注 射 M PT P 
+( 15 mg／k g) ，连 续 注 射 4 次 ，每次 间 隔 2 h ，自第 5 
+天开 始继续 给予 侧 脑 室 注 射 生 理 盐 水 及 R gl 腹 腔 
+注射 ，连续 5 d 。IG F —I 组 ：每 天 9：O0 侧 脑 室 注 射 
+IG F —I ( 0．5 g／L ) ，于第 4 天 给药 后 2 h 开 始腹 腔 注 
+射 MP T P ( 15 mg／k g ) ，连 续 注 射 4 次 ，每 次 间 隔 
+2 h ，自第 5 天 开 始继 续给 予 IGF —I 侧 脑 室注 射 ，连 
+续 5 d 。R gl + IGF  I 组 ：每 天 9 ：O0 侧 脑 室 注 射 
+IGF —I ( O．5 g／L ) ，腹 腔 注 射 R gl ( 10 mg／k g) ，于第 
+4 天 IG F —I 和 R gl 给 药后 2 h 开始 腹腔 注射 MP T P 
+(15 mg／kg) ，连续 注射 4 次 ，每 次 间 隔 2 h ，自第 5 
+天 开始 继 续 给予 IG F —I 侧脑 室 注 射及 R g l 腹 腔 注 
+射 ，连续 5 d 。第 9 天 断头 处 死 小 鼠取 脑 ，分 离 出两 
+侧纹 状体 ，称质 量后 保存 于 一8O ℃ 冰箱 备用 。 中脑 
+放 入 40 g／L 多聚 甲醛 中浸泡 固定 。 
+1．3 
+高 效 液 相 色 谱 法 ( H PI C ) 检 测 纹 状 体 D A 含 量 
+取 双侧 纹状体 ，加人 300 
+L 冰冷 的样 品预处 理 
+A 液 ，超 声 匀 浆 10 S 后 ，冰 浴 静 置 1 h ，取 匀 浆 液 
+40 ℃ 下 12 O00r／min 离心 2O min ；取上清 液 240 
+L 
+加 入样 品预 处理 B 液 120 
+L ，涡 旋 混 匀后 进行 第 2 
+次离心 ，然后 取其 上清 液行 H PL C 分析 。设 定 最 大 
+柱压 为 17 MPa，流量 设 为 1．0 mL ／min。EC D 设 定 
+电压 0．65 V ，每一样 品检测 30 min ，每次进 样 20 
+L ，
+ 
+在标准曲线上根据色谱峰面积求出相应含量(t~g／g) 。 
+样 品预处 理液 ：A 液为 0．4 mol／L 的 H C IO ；B 液为 
+2O mmol／L 柠 檬 酸钾 ( 1．6 g ) 、300 mmol／L 磷 酸 氢 
+二钾 ( 13．06 g) 、2 mmol／L  E DT A · 2Na(0．185 g) 溶 
+于 250 mL 的 ddH 。O 中 。实 验 仪 器 为美 国 W aters 
+公 司 W aters e2695 高效 液相 色谱仪 。 
+1．4
+免 疫组 织化 学技 术 检 测 中脑 黑 质 酪氨 酸羟 化 
+酶 免 疫 反 应 阳 性 ( T H —IR ) 神 经 元 的 数 目 
+中脑在 40 g／L 多聚 甲醛 中浸 泡 固定 6 h ，再 依 
+次放 人 200 g／L 和 300 g／L 的蔗 糖溶 液 中 ，待 脑 组 
+织下 沉后 修整 中脑 组 织块 ，以前 囟后 2．5 mm 开 始 
+行冠 状连 续冷 冻切 片 ，片 厚 16 ／
+．tm ，进行 T H 免疫 组 
+织化 学染 色 。切 片 的染 色 严 格 按 A B C 试 剂盒 说 明 
+书操 作 ，一 抗工 作 浓 度 为 1 ：2 000 ，以 P BS 缓 冲液 
+代替 一抗 作 为 阴性 对 照 。T H —IR 神 经 元 的计 数 方 
+法 ：每组取 12 张切 片 ，在 显 微镜 下 找 到 典 型 的黑 质 
+区域 ，高倍 视野 (40O倍 ) 计数 视 野 内 阳性 细胞 数 ，每 
+个视 野数 2 次 ，取平 均 数 ，顺 序 为 自上 而下 、由左 至 
+右 ，不完 全位 于视野 内的细胞不 计数 。 
+1．5
+统 计 学 处 理 
+应用 GraphP ad P rism 5．0 软 件 进 行 统 计 学 处 
+理 ，计 量 资料 结果 以 
+± S 表 示 ，多组 数 据 间 比较采 
+用 单 因素方差 分 析 (0 ne—w ay A N0 V A ) ，两 两 比较 
+采 用 T uk ey 法 。 
+2 
+结 
+果 
+2 ．1 
+各 组 小 鼠 纹 状 体 内 D A 含 量 的 比较 
+M PT P 组纹 状 体 内 DA 含 量 较 对 照 组 明显 降 
+低 ，差 异有显 著性 (F 一21．23，g 一 11．67 ，P < O．01) 。 
+与 MPT P 组 比较 ，R gl 组 、IG F 一工组 及 R gl + IGF 一 
+工组 纹状 体 DA 含 量均 明显 升高 ，差 异 有显 著 意 义 
+( 0— 5．66～ 10．42 ，P < 0．01) ；R g l + IG F —I 组 纹 状 
+体 DA 含量 高 于 R g l 组 、IG F —I 组 ，差 异 有 显 著 意 
+义 (a 一4．37、4．76 ，P < 0．05) 。见 表 1。 
+2．2
+各组 小 鼠黑质 T H —IR 神 经元数 目比较 
+MP T P 组 黑 质 T H —IR 神 经 元 的数 目较 对 照组 
+明显 降低 ，差 异 有 显 著 意 义 ( F 一 45．45 ，q 一 14．24 ， 
+P < O．01) 。R gl 组 、IGF 一工组 及 R g l + IG F —I 组 黑 
+质 T H —IR 神经 元 的数 目均 较 MP T P 组 明显 升 高 ， 
+差 异有显 著性 ( q一9．17 ～17．91，P < 0．01) 。R gl +  
+IGF —I 组 T H —IR 神 经 元 数 目较 R g1 组 、IG F —I 组 
+4 期 
+晏振 ，等．人参皂苷 Rg l 和 IG F—I 对 帕金森病小 鼠 D A 能神 经元作用 
+明显升高 ，差异有显著性(q一8．70 、8．74 ，P < 0．01) 。 
+见 表 1。 
+表 1
+各 组 小 鼠 纹 状 体 内 DA 含 量 及 黑 质 T H-I R 神 经 
+元 数 目比 较 ( 
+士 s ) 
+组 别
+DA 含量 (” 一 10，／
+~g／g) T H  IR 神 经元 数 目( 
+6，个 ) 
+3
+讨 
+论 
+PD 是 一种 严重 危 害 中老 年人 身 体 健 康 的神 经 
+退 行 性疾 病 ，典 型 的 临床 表 现 为 运 动 迟 缓 、肌 肉僵 
+直 、静止性 震 颤 等 。60 岁 以 上人 群 的发病 率近 2 
+。 
+随着 中国人 口老 龄 化 的 加 剧 ，P D 的 发 病 率 逐 渐 增 
+高 ，造 成 的家庭 和社 会 负 担 也 日益 严 重 。 目前 尚无 
+有 效 的药 物 或 方 法 能 阻 止 或 逆 转 PD 病 情 的 发 展 。 
+因此 ，开 发研 制有 效 的 防治 PD 药 物具 有重要 意 义 。 
+大量 研究 显示 ，人 参 皂苷 R gl 具 有 神 经 营养 和 
+神经 保护 作 用 。本课 题 组 以往 研 究 结 果 显 示 ，人 参 
+皂苷 R g1 能够对 抗 6一OH DA 对 大 鼠 DA 能神 经 元 
+的损 伤 ，R gl 对 DA 能 神经 元 的保 护作 用 与 IG F一工 
+受 体 信号 途 径 有 关 ，可 通 过 IGF 一工受 体 信 号 途 径 
+与雌 激素 受体 信 号途 径 的交 互 串话 ，发挥 其 神 经 保 
+护作 用[5 
+“ ] 。本 文 研 究 结 果 显 示 ，R g l 组 小 鼠纹 
+状 体 DA 含 量 及 中脑黑 质 T H —IR 神 经 元 的数 量 均 
+较 MP T P 组 明显 增 加 ，表 明 R gl 能够对 抗 神经 毒素 
+MP T P 对小 鼠中脑黑 质 DA 能 神经 元 的损伤 。 
+IGF 一工受 体 在 脑 内广 泛 表 达 ，在 黑 质 几乎 所 有 
+的 DA 神 经 元 及 67％ 的 胶 质 细 胞 存 在 IG F —I 受 
+体 l_1 
+。IG F —I 为肽类 激 素 ，是 神 经 系统 发 育 所 必 需 
+的神 经 营养 因 子 。IG F一工通 过 IGF一工受 体 信 号 途 
+径 ，促 进 细胞 的 增 生 、分 化 和 存 活 。干 扰 IG F —I 基 
+因 ，会 导致 脑 体积 缩小 、低 髓鞘 化及 海 马神 经元 的丢 
+失 E1 3] 。有 研究 显 示 ，血 清 IG F 一工水 平 随 着 年 龄 增 
+加 而降低 ，IG F一工的减 少 会 导 致 机体 代谢 水 平 的降 
+低 ，通过 氧化 应激 引起 细 胞损 伤 ，导致 老年 人认 知功 
+能 障碍 。给予 IG F一工能够 降低 大 鼠脑 缺血 的程 度 ， 
+改 善 运 动 功 能n 
+。应 用 PD 大 鼠 模 型 研 究 显 示 ，
+ 
+IG F —I 能 够 对 抗 神 经 毒 素 6一O H D A 对 中脑 黑 质 
+D A 能神 经元 的损 伤_7 ] 。本 文 研 究 应 用 MP T P 制 
+备 去卵巢 PD 小 鼠模 型 ，侧 脑室 给予 IGF 一工预保 护 ，
+ 
+结 果显 示 IGF —I 能够 对 抗 MP T P 对 黑质 DA 能 神 
+经 元 的毒性 作 用 。因 R gl 、IG F 一工的 神 经保 护 作 用 
+均 与 IGF—I 受体 信 号途径 有关 ，本 研 究进 一 步探 讨 
+了 R gl 与 IG F 一工合 用 对 中脑 黑 质 DA 能神 经 元 保 
+护的作 用 。结果 显示 ，R gl 与 IG F 一工合 用对 DA 能 
+神经 的保 护作用 较 R gl 、IG F 一工单 用 明显 ，表 明二者 
+合 用 具有协 同作 用 。 
+综 上所 述 ，R gl 、IGF—I 及二 者 合 用 均可 明显 对 
+抗 M PT P 对 OV X 小 鼠黑质 纹状 体 系统 D A 能 神经 
+元 的毒性 作 用 ，且 R gl 与 IG F一工合 用 具 有 协 同作 
+用 。本 研究 结果 为 PD 的治疗 和 预 防提 供 了可 能 的 
+干预措 施 。 
+[ 参 考文 献] 
+1
+ 
+2
+ 
+3
+ 
+4
+ 
+5
+ 
+6
+ 
+288 
+青
+岛
+大
+学
+医
+学
+院
+学
+报 
+5O卷 
+心血管 疾 病 的 发 生 发 展 。D EN DE K K E R 等[1 研 
+究 显 示 ，T L R 4 介 导 的免 疫 炎 症 反应 贯 穿 于 冠 状 动 
+脉粥样 硬化 的形成 和发展 中 。V A L L EJ O 等 
+研究 
+显 示 ，T I R 4 可 能 参 与心 肌 缺 血再 灌 注 损 伤 过程 中 
+的炎症反应。T L R4 所在的信号传导通路可诱导诸 
+多炎症递 质 的 产 生 ，后 者 参 与 血 管 损 伤 的 炎 症 反 
+应 ，并在 平滑 肌细胞 表型 分化 、过度 增殖 等过程 中起 
+关键 的调 节作用 ，故推 测 T L R 4 可 能推动 P C I 术后 
+再 狭窄 的发生 和发 展 。本 实验 通过 建立 大 鼠主动脉 
+球囊 损伤 模 型 ，观 察 到大 鼠主 动 脉管 壁 内膜 在术 后 
+14 及 28 d 明显 增 生 ，血 管 壁 组 织 中 T L R 4 mR NA  
+表 达升高 。上 述 结 果 提 示 ，T L R 4 表 达 升 高 与 大 鼠 
+主 动脉球 囊损伤 后 的新生 内膜形 成有 一定关 系 。 
+缬沙 坦可 高选择 性地 结合血 管 紧张素 Ⅱ的 1 型 
+受体 ，从 而阻断 血管 紧张素 Ⅱ的生物 学效应 ，发挥 降 
+血压 、抑制 心肌重 塑 l】
+ 
+、延缓 血 管重 构 等作 用 ，上 述 
+作用 为 其 预 防 P CI 术 后 再 狭 窄 提 供 了 理 论 依 据 。 
+2009 年 ，PE T ER S 等 _1 首 次 在 人 体 中 尝试 使 用 缬 
+沙坦 涂层 金属支 架 ，结 果证 明其 与 雷 帕霉 素抑 制 支 
+架 内再 狭 窄的效 果 相 当。近 年 来 ，血 管 紧 张素 受 体 
+括抗剂 ( A R B ) 类 药 物抑 制 炎 症 反应 的 观 点 越 来 越 
+受 到关 注 ，多项研 究 证 明其 可 以改 善体 内 的炎 症 状 
+态 ，从 而延缓 或 阻止相关 疾 病 的发 展 。有研 究显示 ， 
+口服 A R B 类 药物 可改 善 维持 性 血 液 透析 病 人 体 内 
+的微炎 症状 态 l4] 。另有 研 究 证 实 ，缬 沙坦 可 降 低 高 
+血压并 持续 性心 房 颤 动病 人 血 清 炎症 因子 的水平 ， 
+从 而发 挥独 立于 降压 以外 的抗炎 作 用 ] 。本 实验结 
+果 显示 ，缬沙坦 可使 大 鼠主 动脉球 囊 损 伤术 后 14 及 
+28 d 内膜增生程度均减轻，并可使血管组织中 T LR4 
+mR NA 表 达降低 ，进 一 步证 明 了缬 沙 坦 可 通过 发 挥 
+抗炎作 用而减轻 内皮 损伤后新 生内膜 的形成 。 
+关 于缬 沙 坦 下 调 内 皮 损 伤 后 T L R 4 表 达 的 具 
+体机制 还有 待进 一步研 究 。本研 究证 实 了缬 沙坦 可 
+通过下 调 T L R 4 的 表 达 减 轻 球 囊 损 伤 后 的 炎 症 反 
+应 ，从 而 抑 制 血 管 重 塑 ，为 其 在 临 床 预 防 PCI 术 后 
+再狭 窄提 供 了新 的理 论依 据与研 究思 路 。 
+[ 参考 文献] 
+[ 1 
+x U H Y ，QIA O S B ，L I J  J ，et a1．D ifferent effects of inflam— 
+mation and lipid levels on coronary lesions after PCI[ J] ．Z hon 
+g h ua Y i X ue Z a Z hi ，2 0 0 9 ，8 9 ( 3 2 ) ：2 24 9—2 2 5 2 ．
+ 
+[21 
+F RA NT Z S ，E RT L  G ，BA U E RS A CHS J ．Mechanisms of di 
+sease：T oll like receptors in cardiovascular diseases[ J ] ．Nat 
+C lin P ra ct C a rdiov as c M ed ，200 7，4 ( 8) ：444—454 ．
+ 
+[3]
+康晓敏 ，吕宏娟 ，王霞 ，等．T oll 样受 体 4 在血管紧张素 Ⅱ所致 
+高血压小鼠血管 重构 中 的作用 [ J] ．中华老 年心 脑血 管病 杂 
+志 ，20 13 ，15 ( 1) ：67-70．
+ 
+74] 
+GA MBOA J I ，PR ET ORIUS M，T ODD-T Z ANE T OS D R ，et 
+a1．C om pa ra tiv e eff ects of ang iot ensin- conv ert ing  enzy m e inhibition 
+and a ng iotensin re ceptor block ade on inf lamma tion during  hemodi— 
+alysisEJ] ．J Am Soc Nephrol ，2012，23( 2) ：334 342．
+ 
+[ 5]
+牛力 ，孟欣颖 ，周长宏 ，等．缬沙坦对高血压 伴持续性房颤病 人 
+血清 炎症 因子 的影 响 [J ／CD ] ．中华 临床 医师 杂志 ：电子 版 ，
+ 
+2012 ，6( 19) ：6082 6083．
+ 
+[ 6]
+周晓彬 ，张健．医学 统计软 件系统 PPMS 1．5 的应用 举例 [J ] ．
+ 
+齐 鲁 医 学杂 志 ，2011 ，26( 6) ：502—505．
+ 
+[ 7]
+DE H ME R G J ，SM IT H  K  J ．D rug el uting coronary artery 
+stents[J ] ．A m Faro  Physician ，2009 ，80( 11) ：1245—1251．
+ 
+[ 8]
+KA NG S J ，MINT Z G S ，PA RK D W ，et a1．Mechanisms of in 
+stent re stenosis aft er drug- el ut ing  s tent im planta tion intra va sc ula r 
+ul trasound analysis 口] ．Cir Cardiovasc Inerv，201l ，4( 1) ：9-] 4．
+ 
+[ 9] 
+V A L L E J O J G ．Rol e of toll like receptors in cardiovascular 
+diseases[ J ] ．Cli n S ci( 1ond) ，2011 ，121( 1) ：1-10．
+ 
+[ I O]
+DE N DE K K E R W K ，CA R OLINE  C ，PA ST E RK A MP G ，et 
+a1．T ol l—l ik e re ce ptor 4 in a t he r0 s cle r0 sis a nd plaq ue de st abil i— 
+zationEJ ] ．A therosclerosis，20 10 ，209 (2) ：314—320 ．
+ 
+[ 11]
+蔡智荣 ，王立宏 ，巩会平 ，等．缬沙坦对压力负荷增高性心力衰竭 
+大鼠心肌重塑影P~ EJ ] ．青 岛大学医学院学报，2010 ，46( 1) ：13—14．
+ 
+r 12]
+PE T E R S S ，B E H N ISC H B ，H E IL M A N N T ，et a1．F rist in 
+m a n u se of poly —
+—fre e v a lsa rta n—
+—elu ting  s te nt s in s m a ll corona ry 
+v es sels ：a 
+com pari son 
+t o 
+pol y f re e ra pam y cin ( 2 
+)
+el utin g 
+stents [ J 【．J  R en in A ngiotensi n A ldoster on e S yst， 200 11，10 
+(2) ：91—95．
+ 
+( 本 文编 辑
+厉 建 强) 
+(上 接 第 285 页) 
+in neu ro blas tom a SK —N —S H c ells v ia IG F —I  rec ept or and es— 
+trogen r eceptor pathways[ J ] ．J Neuroehem，2009，109( 5) ：
+ 
+l 3 3 8 1 3 4 7 ．
+ 
+[ ¨ ]
+葛科立 ，陈文芳 ．人参皂苷 R gl 激活 PI3K ／A k t 信号通路对 6一 
+O H DA 毒性作用 的影响 [J ] ．青 岛大 学医学 院学报 ，2009 ，45 
+( 5 ) ：4 0 7 4 0 9 ．
+ 
+[ 12]
+QU E SA D A A ，ROME O H  E ，MIC E V Y C H P．D istribution 
+a nd loca liza t ion pa t te rns of e st rog en re ce ptor—
+-be ta an d in sulin— 
+l ik e g row t h fa ct or- 1 re ce ptors i n neuron s and g lia l ce lls of th e 
+[ 13] 
+[ 14] 
+f em ale ra t sub st ant ia nig ra ：loc aliz at ion of E R be ta a nd 1G F  1 R  
+in substantia nig ra[ J] ．J Comp Neurol ，2007，503( 1) ：198 208．
+ 
+B E C K  K  D ，P O W E L L『B R A X T () N  L ，W ID M E R  H  R ，e t a 1．I g fl  
+g ene disruption result s in re duced bra in size ，C N S hy pomye lina 
+tion ，and loss of hippocam pal g ranule and st riata l parv album in con 
+taining neurons[J ~．Neuron，1995 ，14 (4) ：717 730． 
+C H A N G  H  C ，Y A N G Y
+R ，W A N G  P S ，e t a1．T he ne uropro 
+t e et iv e e ff ec ts of int ra m uscul ar in sulin lik e g row t h f ac tor—I 
+treatment in brain ischemic rats[J ] ．PI os  One，2013，8 ( 5) ：
+ 
+e64015 
+( 本 文编 辑
+黄建 乡) 

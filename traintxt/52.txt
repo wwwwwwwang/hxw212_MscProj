@@ -1,0 +1,550 @@
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+JOURNAL OF ZHEJIANG CHINESE MEDICAL UNIVERSITY VOL.46
+NO.10 Oct. 2０22
+中
+医
+药
+现
+代
+化
+论
+著
+人参皂甙－Rb１ 通过促进神经元线粒体自噬
+治疗大鼠创伤性颅脑损伤的机制
+邹树峰 1
+姜碧霞 1
+冯九庚 1
+陈伟 1，2
+1.南昌大学第一附属医院
+南昌
+330008
+2.同济大学附属上海东方医院（上海市浦东新区人民医院）
+摘要： [目的] 观察人参皂甙－Rb１（ginsenoside－Rb１，GS－Rb１）对大鼠创伤性颅脑损伤（traumatic brain injury，TBI）的治疗作用与神经元
+线粒体自噬激活的关系。[方法] 将 ８０ 只体质量 ３５０～4００ g 的 SD 雄性大鼠随机分为假手术组、TBI 组、治疗（TBI+GS－Rb１）组和自噬阻
+断[TBI+GS－Rb１+６－氨基－３－甲基嘌呤（３－methyladenine，３－MA）]组，每组 2０ 只。 以液压打击仪建立 TBI 模型，根据上述分组，分别给予
+腹腔注射 GS－Rb１ 及自噬抑制剂 ３－MA。 每组选 １０ 只大鼠进行行为学检测，并以苏木精－伊红（hematoxylin－eosin， HE）染色行神经元
+形态学检测。 其余 １０ 只分离海马区皮质， 以免疫印迹法检测自噬相关轻链蛋白 ３－Ⅱ/轻链蛋 白 ３－Ⅰ（light chain ３－Ⅱ/ light
+chain ３－Ⅰ，LC３－Ⅱ/ LC３－Ⅰ）、自噬接头蛋白（sequestosome－１，P６2）、线粒体功能相关蛋白过氧化物酶体增殖物激活受体 γ 辅激活
+子－１ alpha （peroxisome proliferators－activated receptor γ coactivator－１ alpha，PGC－１α）、 线粒体外膜转位蛋白 2０ （translocase of outer
+mitochondrial membrane 2０，TOM2０） 及凋亡相关蛋白 B 细胞淋巴瘤－2 基因相关 X 蛋白（B cell lymphoma－2 associated X protein，
+Bax）、裂解的半胱天冬酶 ３（cleaved－cysteinyl aspartate specific proteinase ３，cleaved－caspase ３）的表达；采用黄嘌呤氧化酶法、硫酸代
+巴 比 妥 法 、 二 硫 代 硝 基 苯 甲 酸 缩 合 法 分 别 检 测 氧 化 应 激 相 关 因 子 超 氧 物 歧 化 酶 （superoxide dismutase，SOD）活 性 、 丙 二 醛
+（malondialdehyde，MDA） 及谷胱甘肽（glutathione，GSH） 水平。 [结果] 与 TBI 组比较， 治疗组神经损伤严重程度评分（neurological
+severity score，NSS）明显下降（P＜０.０５），神经元损伤程度明显缓解，自噬相关蛋白 LC３－Ⅱ/ LC３－Ⅰ比例明显升高，而 P６2 表达明显降
+低，线粒体功能及结构相关蛋白 PGC－１α、TOM2０ 则明显升高，MDA 水平明显降低，而 SOD 和 GSH 则呈相反趋势（P＜０.０５），凋亡促进
+因子 Bax 及 cleaved－caspase ３ 表达明显降低（P＜０.０５）。 采用自噬抑制剂 ３－MA 可明显抑制 GS－Rb１ 对 TBI 后神经功能及形态损伤的
+治疗效应（P＜０.０５）。 [结论] GS－Rb１ 可能通过促进神经元线粒体自噬，抑制凋亡途径，从而保护神经元，以起到对 TBI 的治疗作用。
+关键词：线粒体自噬；人参皂甙 Rb１；凋亡；氧化应激；创伤性颅脑损伤；神经功能；形态损伤
+中图分类号：R331
+文献标志码：A
+文章编号：1005－5509(2022)10－1063－07
+DOI: 10.16466/j.ｉｓｓｎ1005－5509.2022.10.002
+Ｔｈｅ Mｅｃｈａｎｉｓｍ ｏｆ Gｉｎｓｅｎｏｓｉｄｅ－Rｂ1 ｉｎ Ｔｒｅａｔｉｎｇ Ｔｒａｕｍａｔｉｃ Bｒａｉｎ Iｎjｕｒｙ Rａｔｓ ｂｙ Ｐｒｏｍｏｔｉｎｇ Mｉｔｏｐｈａｇｙ ZOU Shufeng， JIANG
+Bixia， FENG Jiugeng， et al The First Affiliated Hospital of Nanchang University， Nanchang(330008)， China
+Aｂｓｔｒａｃｔ: [Objective] To observe the relationship between therapeutic effect of ginsenoside－Rb１(GS－Rb１) on traumatic brain injury(TBI)
+rats and the activation of neuronal mitophagy. [Methods] Eighty male SD rats weighted ３５０～4００ g were randomly divided into 4 groups，
+sham surgery(Sham) group， TBI group， treatment(TBI+GS－Rb１) group， autophagy block[TBI+GS－Rb１+６－amino－３－methypurine(３－MA)]
+group， with 2０ in each group. The TBI model was established by using the hydraulic percussion instrument， GS－Rb１ and autophagy
+inhibitor ３－MA were given by intraperitoneal injection according to above groups. Half rats in each group underwent behavioral detection
+with neurological severity score(NSS) and hematoxylin－eosin(HE) staining was used for pathological observation of neuron 4８ h after TBI.
+Another half of rats were sacrificed and hippocampal cortex was obtained for Western blot for detecting autophagy related proteins light
+chain３－Ⅱ (LC３－Ⅱ)， LC３－Ⅰ， sequestosome－１(P６2)， mitochondrial function and structure related proteins peroxisome proliferators－
+activated receptor γ coactivator－１ alpha(PGC－１α)， translocase of outer mitochondrial membrane 2０(TOM2０)， apoptosis related proteins B
+cell lymphoma－2 associated X protein(Bax)， cleaved－cysteinyl aspartate specific proteinase ３(cleaved－caspase ３)， and by the methods of
+xanthine oxidase， sulfuric acid barbital， disulfide generation nitro benzoic acid condensation respectively to measure oxidative stress relat-
+——
+——
+——
+——
+——
+——
+——
+—
+基金项目：江西省科技厅重点研发项目（2０2０３BBGL７３１７2、2０１９2BBGL７０22）；江西省杰出青年项目（2０2０2ACBL2１６００５）；江西
+省教育厅科研项目（GJJ2００１６５、GJJ１９００22）；国家自然科学基金项目（８2１７１３６６、８１９６０2３６）；江西省卫健委科研项目（2０2０３１３９）
+Fund projects： Key Research and Development Project of Jiangxi Science and Technology Department(2０2０３BBGL７３１７2，
+2０１９2BBGL７０22)； Outstanding Youth Project of Jiangxi Province(2０2０2ACBL2１６００５)； Scientific Research Project of Education
+Department of Jiangxi Province(GJJ2００１６５， GJJ１９００22)； National Natural Science Foundation Project(８2１７１３６６， ８１９６０2３６)；
+Scientific Project of Jiangxi Hygiene and Health Commission(2０2０３１３９)
+通信作者：陈伟，E－mail：weichen44５@１６３.com
+1063
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+随着社会经济水平的提高，建筑业和交通工具的
+高速发展，创伤性颅脑损伤（traumatic brain injury，
+TBI）患者数量持续升高。 TBI急性期出现的神经炎症
+反应导致的神经元损伤，是造成患者致残的重要因素
+之一[１]。 线粒体损伤是炎症产生的重要原因之一，而
+人参皂甙中最主要的成分人参皂甙－Rb１（ginsenoside－
+Rb１，GS－Rb１）具有抑制损伤后炎症的作用[2－３]。 线粒
+体自噬是细胞特异性清除体内受损线粒体，缓解凋亡
+通路激活的保护性反应。 前期研究显示，GS－Rb１在神
+经 系 统 损 伤 后 具 有 抑 制 缝 隙 连 接 4０ （Connexin4０，
+Cx4０）蛋白，进而拮抗氧化应激的作用 [4－５]；研究还发
+现，TBI后Cx4０的代谢与自噬相关[６]。这些结果提示，
+GS－Rb１的细胞保护效应很可能与线粒体自噬相关。本
+研 究 通 过 对 线 粒 体 自 噬 功 能 的 调 控 ， 研 究TBI 后
+GS－Rb１神经元保护的具体途径， 旨在探讨GS－Rb１对
+TBI治疗作用的具体机制，并为相关临床治疗奠定基础。
+1
+材料和方法
+1.1
+实验动物
+雄性SD大鼠８０只， 体质量３５０～4００
+g，由南昌大学实验动物中心提供[实验动物使用许可
+证号：SYXK（赣）2０2０－０００１]。 实验期间以固体平衡饲
+料饲养，自由饮水，温度（22±2） ℃，湿度（５０±５）%。 本
+研究经南昌大学第一附属医院实验动物伦理委员会
+批准（批准号：南昌大学第一附属医院医研伦2０１９年
+第4１号）。
+1.2
+试剂及仪器
+GS－Rb１购于上海邦景实业公司
+（批号：4１７５３－4３－９）； 细胞自噬阻断剂６－氨基－３－甲
+基嘌呤（３－methyladenine，３－MA）购于南京沃博生物
+科技有限公司（批号：５１42－2３－4）；小鼠多克隆抗体
+神经元自噬相关轻链蛋白３－Ⅱ/轻链蛋白３－Ⅰ（light
+chain ３－Ⅱ/light chain ３－Ⅰ，LC３－Ⅱ/LC３－Ⅰ）、 自噬接
+头蛋白（sequestosome－１，P６2）、线粒体功能相关蛋白
+过氧化物酶体增殖物激活受体γ辅激活子－１ alpha
+（peroxisome proliferators－activated receptor γ coacti-
+vator－１ alpha，PGC－１α）、 线 粒 体 外 膜 转 位 蛋 白2０
+（translocase of outer mitochondrial membrane 2０，
+TOM2０） 及凋亡相关蛋白B细胞淋巴瘤－2基因相关X
+蛋白（B cell lymphoma－2 associated X protein，Bax）、
+裂解的半胱天冬酶３（cleaved－cysteinyl aspartate spe-
+cific proteinase ３，cleaved－caspase ３）均购于美国Ab-
+cam公 司 （ 批 号 ：１９2８９０、2０７３０５、１８2７３３、３2０42、
+１4５６4１、2１4５３2）；辣根酶标记二抗购于北京博奥龙免
+疫技术有限公司（批号：KLB１24１５4）；化学发光试剂
+盒 购 于 北 京 中 杉 金 桥 生 物 科 技 有 限 公 司 （ 批 号 ：
+３６０５０７１）； 超 氧 物 歧 化 酶 （superoxide dismutase，
+SOD）活 性 、丙二醛 （malondialdehyde，MDA）、谷 胱 甘
+肽（glutathione，GSH）检测试剂盒均购于北京索莱宝
+科技有限公司 （批号：2１９０５2３、2０2１１１１９、2０１８０５2３）。
+PowerPacTM Basic 型 蛋 白 垂 直 电 泳 仪 购 于 美 国Bio－
+Rad公司；L８型UV７６2紫外光分光光度计为上海第三
+分析仪器厂产品。
+1.3
+动物模型制作
+采用液压打击制作大鼠TBI模
+型。大鼠予异氟烷吸入持续麻醉，固定于立体实验台，
+常规消毒铺巾， 于头部正中分层切开皮肤和骨膜，暴
+露右侧顶骨，于矢状缝旁３ mm，冠状缝后３.５ mm处，
+以开颅磨钻钻骨孔，暴露硬脑膜，于骨孔处放置与骨
+孔大小相同的小帽， 固定液压管后， 施行３个大气压
+（重型颅脑损伤标准）的液压击打。
+1.4
+分组及药物干预
+８０只SD大鼠被随机分为假手
+术组、TBI组、治疗（TBI+GS－Rb１）组、自噬阻断（TBI+
+GS－Rb１+３－MA）组。假手术组仅暴露硬脑膜而不进行
+击打，TBI组仅建模不予药物处理，治疗组和自噬阻断
+组采用液压击打建立TBI模型[７－８]，按照前期实验方法，
+１ h后分别腹腔注射GS－Rb１（4０ mg/kg）及GS－Rb１（4０
+mg/kg）+３－MA （３０ mg/kg）[５－６]，GS－Rb１以０.９%氯化钠
+溶液溶解。 建模后4８ h进行后续指标检测，每组取１０
+只大鼠进行行为学检测，其余１０只行其他检测。 根据
+预实验及前期实验显示， 为获得P值在０.０５水平，１－β
+在０.2０水平， 根据Effect－Size计算出所需的每组动物
+数量为８（G－Power３.０），本研究为防止大鼠意外死亡
+引起样本量的不足，故各组样本量确定为１０只。
+ed factors superoxide dismutase(SOD) activity， malondialdehyde(MDA) and glutathione(GSH) levels. [Results] Compared with TBI group，
+ratio of LC３－Ⅱ/LC３－Ⅰ， PGC－１α， TOM2０， SOD and GSH in treatment group were up－regulated significantly(P＜０.０５)； on the contrary，
+NSS， the levels of P６2， Bax， cleaved－caspase ３ and MDA were significantly down－regulated in each treatment group(P＜０.０５). Neverthe-
+less， autophagy inhibitor ３－MA was proved that it can inhibit above protective effects of GS－Rb１ (P＜０.０５). [Conclusion] GS－Rb１ may in-
+hibit the oxidative stress and apoptosis which can alleviate the cerebral injuries in morphology and function after TBI by promoting neu-
+ronal mitophagy.
+Kｅｙ wｏｒｄｓ: mitophagy； GS－Rb１； apoptosis； oxidative stress； TBI； nerve function； morphological damage
+邹树峰，等：人参皂甙－Rb１ 通过促进神经元线粒体自噬治疗大鼠创伤性颅脑损伤的机制
+1064
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+1.5
+大鼠神经损伤严重程度评分（neurological severity
+score，NSS）
+采用双盲法，具体方法如下：a.提鼠尾离
+地面约３０ cm，观察前肢情况，正常大鼠两前肢对称地
+伸向地面，有左肩内旋，左前肢内收者，评为4分，否则
+评为０分。 b.将动物置于平滑地板上，分别推左（或右）
+肩向对侧移动，检查抵抗运动的阻力。 正常大鼠两侧
+阻力明显对称，右肩向左侧移动阻力下降时，根据下
+降程度的不同，评为０～３分。 ０分：双侧抵抗等同，正
+常；１分：左侧抵抗轻度下降；2分：左侧抵抗中度下降；
+３分：左侧抵抗力消失。 c.将动物两前肢置于金属网
+上，观察两前肢的张力，正常大鼠两前肢张力明显对
+称，发现左前肢肌张力下降者，根据下降程度的轻重，
+评为０～３分。 ０分：正常；１分：肌力下降，但能抬离平
+面；2分：瘫痪，无法抬离平面，只能水平运动；３分：无
+任何活动。 根据以上评分，满分１０分，分数越高，说明
+动物的行为障碍越严重[７－８]。
+1.6
+苏木精－伊红（hematoxylin eosin，HE）染色观察
+神经元病理学改变
+取损伤处海驱皮质组织标本，经
+包埋、切片、脱蜡、水化，使用苏木精染色５ min后以自
+来水冲洗，盐酸乙醇分化３０ s，自来水浸泡１５ min后
+以伊红染色2 min，梯度乙醇脱水，中性树脂封片，光
+镜下观察并拍照。
+1.7
+免疫印迹法检测神经元线粒体结构/功能相关
+蛋白表达
+取损伤侧海马区皮质组织，裂解后提取总
+蛋白并定量，根据目标蛋白分子量不同，选择不同浓
+度的十二烷基苯磺酸钠－聚丙烯酰胺凝胶电泳（sodium
+dodecyl
+sulfate －polyacrylamide
+gel
+electrophoresis，
+SDS－PAGE）分离，常规方法转印至硝酸纤维素膜上，
+封闭2 h后 分 别 加 入 相 应 一 抗 anti －LC３ －B （ 稀 释
+比 例 ：１∶１ ０００）、anti－P６2（稀 释 比 例 ：１∶１ ５００）、anti－
+PGC－１α（稀释比例：１∶１ ０００）、TOM2０（稀释比例：１∶１ ０００）、
+anti－cleaved caspase ３（稀释比例：１∶１ ０００）、anti－Bax
+（ 稀 释 比 例 ：１∶１ ０００）， 以 甘 油 醛 －３－ 磷 酸 脱 氢 酶
+（glyceraldehyde－３－phosphate dehydrogenase，GAPDH）
+为内参，一抗anti－GAPDH（稀释比例：１∶2 ５００）。 4 ℃
+孵育过夜，洗涤后加入相应辣根过氧化物标记的二抗
+孵育，化学显影，扫描蛋白条带，采用Image J １.３６b软
+件进行分析。 蛋白相对表达量以目标蛋白吸光度值/
+GAPDH吸光度值表示，以假手术组目标蛋白/GAPDH
+为１００%，其余组与之进行比较。
+1.8
+氧化应激相关因子检测
+取大鼠损伤侧海马区
+皮质组织， 洗涤后充分匀浆， 4 ℃下１０ ０００ r/min离
+心１０ min，取上清液，分别采用黄嘌呤氧化酶法、硫酸
+代巴比妥法、 二硫代硝基苯甲酸缩合法， 分别检测
+SOD活性、MDA及GSH水平， 以假手术组为１００%，其
+余组与之比较。
+1.9
+统计学分析
+使用SPSS 22.０和Graph Prism统
+计软件进行统计学分析。 符合正态分布的连续型变
+量以x±s表示，多组间比较采用方差分析，其中任意
+两 组 间 比 较 采 用 最 小 显 著 差 异 （least significant
+difference，LSD）－t检验。 以P＜０.０５为差异有统计学意义。
+2
+结果
+2.1
+各组大鼠NSS评分比较
+与假手术组比较，TBI
+组NSS升高；与TBI组比较，治疗组的NSS明显降低（P＜
+０.０５）。 当采 用 自 噬 抑 制 剂３－MA后 ， 可 明 显 阻 断
+GS－Rb１的神经功能保护作用（P＜０.０５）。 见图１。
+2.2
+各组大鼠神经元形态学比较
+假手术组大鼠神
+经元形态正常，轮廓清晰，圆润饱满，细胞核位于中
+央。 TBI组损伤处神经元萎缩，轮廓不清，组织纹理紊
+乱。 治疗组的神经元受损程度明显缓解。 采用自噬抑
+制剂３－MA后，可明显阻断GS－Rb１对神经元形态保护
+作用。 见图2。
+2.3
+各组大鼠神经元自噬相关蛋白表达比较
+与假
+手术组比较，TBI组自噬明显受到抑制（P＜０.０５）。 与
+TBI组比较， 其余两组干预后自噬相关蛋白LC３－Ⅱ/
+LC３－Ⅰ的比例明显升高，P６2表达明显降低（P＜０.０５），
+证明GS－Rb１能够增强自噬。 自噬抑制剂３－MA则可
+注：与假手术组比较，*P＜０.０５；与TBI组比较，#P＜０.０５；与治疗组比较，
+▽P＜０.０５。
+Note：
+Compared with sham group，
+*P ＜０.０５；
+compared with TBI
+group，
+#P＜０.０５； compared with TBI+GS－Rb１ group，
+▽P＜０.０５.
+图１
+各组大鼠NSS比较
+Fig.１
+Comparison of NSS in each group
+邹树峰，等：人参皂甙－Rb１ 通过促进神经元线粒体自噬治疗大鼠创伤性颅脑损伤的机制
+1065
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+注：与假手术组比较，*P＜０.０５；与TBI组比较，#P＜０.０５；与治疗组比较，▽P＜０.０５。
+Note： Compared with sham group，
+*P＜０.０５； compared with TBI group，
+#P＜０.０５； compared with TBI+GS－Rb１ group，
+▽P＜０.０５.
+图３
+各组大鼠自噬相关蛋白表达比较
+Fig.３
+Comparison of autophagy related protein expression in each group
+明显抑制自噬蛋白的表达及自噬反应（P＜０.０５）。 见图
+３。
+2.4
+各组大鼠神经元线粒体形态/功能相关蛋白表
+达比较
+与假手术组比较，TBI组神经元线粒体相关
+蛋白PGC－１α及TOM2０明显下调（P＜０.０５），而GS－Rb１
+可明显上调损伤后神经元PGC－１α及TOM2０的表达
+（P＜０.０５）， 自噬抑制剂３－MA可明显抑制同时此种效
+应（P＜０.０５）。 见图4。
+2.5
+各组大鼠神经元凋亡比较
+与假手术组比较，
+TBI组凋亡相关蛋白Bax及cleaved－caspase ３表达明
+显升高（P＜０.０５）。 与TBI组比较，GS－Rb１可明显降低
+促凋亡蛋白Bax及cleaved－caspase ３表达（P＜０.０５）。当
+给予自噬抑制剂３－MA后， 则可明显抑制此种效应
+（P＜０.０５）。 见图５。
+2.6
+各组大鼠神经元氧化应激反应比较
+与假手术
+组比较，TBI组SOD活性及GSH水平降低，而MDA水平
+明显升高（P＜０.０５）。与TBI组比较，治疗组MDA水平降
+低，GSH水平升高，SOD活性升高（P＜０.０５）。 自噬抑制
+剂３－MA可明显阻断GS－Rb１抑制氧化应激的效应（P＜
+０.０５）。 见图６。
+3
+讨论
+TBI的发病机制较为复杂， 目前认为氧化应激因
+子的激活可能与脑损伤密切相关[９]。 前期研究发现，
+TBI后Cx4０蛋白的异常表达和氧化应激因子的表达
+密切相关[4]，而氧化应激的产生则与线粒体－内质网
+系统功能紊乱相关。 因此笔者推测，线粒体－内质网
+注：A.假手术组；B.治疗组；C.自噬阻断组；D.TBI组。
+Note： A. Sham group； B. TBI+GS－RB１ group； C. Autophagy block group； D. TBI group.
+图2
+各组大鼠海马神经元病理病理形态学观察（HE染色，2００×）
+Fig.2
+Pathological changes of hippocampal neuron in each group（HE staining， 2００×）
+邹树峰，等：人参皂甙－Rb１ 通过促进神经元线粒体自噬治疗大鼠创伤性颅脑损伤的机制
+1066
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+注：与假手术组比较，*P＜０.０５；与TBI组比较，#P＜０.０５；与治疗组比较，▽P＜０.０５。
+Note： Compared with sham group，
+*P＜０.０５； compared with TBI group，
+#P＜０.０５； compared with TBI+GS－Rb１ group，
+▽P＜０.０５.
+图4
+各组大鼠PGC－１α和TOM2０蛋白表达比较
+Fig.4
+Comparison of PGC－１α and TOM2０ protein expression in each group
+注：与假手术组比较，*P＜０.０５；与TBI组比较，#P＜０.０５；与治疗组比较，▽P＜０.０５。
+Note： Compared with sham group， *P＜０.０５； compared with TBI group，
+#P＜０.０５； compared with TBI+GS－Rb１ group，
+▽P＜０.０５.
+图５
+各组大鼠凋亡相关蛋白表达比较
+Fig.５
+Comparison of apoptosis related protein expression in each group
+邹树峰，等：人参皂甙－Rb１ 通过促进神经元线粒体自噬治疗大鼠创伤性颅脑损伤的机制
+1067
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+注：与假手术组比较，*P＜０.０５；与TBI组比较，#P＜０.０５；与治疗组比较，▽P＜０.０５。
+Note： Compared with sham group，
+*P＜０.０５； compared with TBI group，
+#P＜０.０５； compared with TBI+GS－Rb１ group，
+▽P＜０.０５.
+图６
+各组大鼠SOD、GSH及MDA表达比较
+Fig.６
+Comparison of SOD， GSH and MDA expression in each group
+系统功能保护可能在TBI的治疗中具有重要的作用。
+人参皂甙（ginsenoside，GS）是人参最主要的活性
+成分。 研究证明，GS具有抗炎、抗氧化及降低脂质代
+谢产物的作用[１０]。 Rb１作为GS中含量最多的成分，受
+到越来越多的重视。 前期研究发现，GS－Rb１在脑缺血
+再灌注损伤后可抑制氧化应激因子尼克酰胺腺嘌呤
+二核苷 酸磷酸氧 化 酶１（nicotinamide adenine dinu-
+cleotide phosphate oxidase １，NOX１）、NOX2、NOX4及
+炎症因子白介素－１β（interleukin－１β，IL－１β）的表达，
+并上调细胞骨架蛋白紧密连接蛋白－１（zonula occluden－１，
+ZO－１）、闭合蛋白（occludin）的表达，具有神经功能保
+护作用[１１]。 研究显示，GS－Rb１可能通过降低Cx4０的表
+达，抑制TBI后的氧化应激[4－５，１2]，但尚未对其中具体机
+制进行深入分析， 仍需要进一步明确GS－Rb１参与抑
+制氧化应激的具体途径。
+自噬作为真核生物细胞的重要代谢途径，能够降
+解一些错构的蛋白质以及受损的细胞器，对维持细胞
+稳态起着重要的作用。 线粒体自噬是目前研究较多的
+一种自噬形式，是选择性清除受损线粒体的过程。 线
+粒体被称为细胞的“Power house”，参与了细胞的各种
+生物过程，包括三磷酸腺苷产生、钙稳态、细胞凋亡及
+活性氧（reactive oxygen species，ROS）产生，因此线粒
+体损伤影响巨大， 受损的线粒体可导致细胞凋亡，增
+强氧化应激损伤[１３]。 研究显示，自噬早于凋亡的出现，
+并可通过清除受损的线粒体而抑制凋亡[１4]。 近年来笔
+者团队的研究也证实，自噬可清除氧化应激的促进因
+子Cx4０[６]。 以上均提示，线粒体自噬可能通过抑制氧化
+应激下游的炎性产物增多， 从而起到细胞保护作用。
+本研究中，GS－Rb１可明显上调神经元LC３－Ⅱ/LC３－Ⅰ
+的比例、下调P６2的表达，说明整个自噬过程通畅，也
+证明GS－Rb１与自噬的诱导相关。 进一步观察到，线粒
+体功能/结构蛋白PGC－１α、TOM2０表达均明显上调，这
+提示线粒体的功能及数量得到明显保护。 继续观察下
+游凋亡途径时发现，凋亡促进因子Bax及cleaved－caspase
+３表达也较TBI组明显降低， 使用自噬抑制剂时可明显阻
+断GS－Rb１的效应。这均说明，GS－Rb１的神经元保护效应
+与线粒体自噬的激活直接相关。
+氧化应激可能与线粒体－内质网功能损伤后ROS
+增多密切相关。 本研究证实，GS－Rb１在增强自噬的基
+础上，也可以明显降低氧化应激因子MDA水平，并可
+升高抗氧化应激因子GSH的水平及SOD的活性。 而使
+用自噬抑制剂后， 可逆转GS－Rb１抗氧化应激损伤的作
+用。 形态学观察也证实，自噬抑制剂可明显降低GS－Rb１
+对神经功能及神经元形态的保护作用。 以上的研究结
+果均证实，GS－Rb１对受损神经元功能及形态的保护作
+用与诱导线粒体自噬、缓解氧化应激损伤有关。
+综上所述，本研究说明TBI后GS－Rb１对神经元的
+保护效应可能与线粒体自噬的激活、线粒体功能的保
+护，以及对凋亡及氧化应激的抑制有关。在此基础上，
+将进一步研究GS－Rb１对自噬相关基因及信号传导通
+路的影响，为了解GS－Rb１的细胞保护机制及TBI的治
+疗奠定基础。
+参考文献：
+Rｅｆｅｒｅｎｃｅｓ：
+[１]
+ZHENG R Z， LEE K Y， QI Z X， et al. Neuroinflam-
+mation following traumatic brain injury： Take it seriously
+or not[J]. Front Immunol，2０22:８５５７０１.
+邹树峰，等：人参皂甙－Rb１ 通过促进神经元线粒体自噬治疗大鼠创伤性颅脑损伤的机制
+1068
+浙江中医药大学学报 2０22 年 １０ 月第 4６ 卷第 １０ 期
+[2]
+CHO I H. Effect of Panax ginseng in neurodegenerative
+diseases[J]. J Gins Res，2０１2，３６(4):３42－３５３.
+[３]
+孔宏亮，宋丽杰，李占全，等.人参皂甙Rb１对阿霉素心力衰
+竭大鼠致心脏纤维化因子表达的影响[J].南京医科大学学
+报（自然科学版），2０１2，３2（１）:2６－2９.
+KONG Hongliang， SONG Lijie， LI Zhanquan， et al.
+The effects of Ginsenoside －Rb１ on myocardial fibrosis
+related protein and mRNA in rats with adriamycin －in-
+duced chronic heart failure[J]. J Nanjing Med Univ(Nat
+Sci)，2０１2，３2(１):2６－2９.
+[4]
+CHEN W， GUO Y J， YANG W J， et al. Connexin4０
+correlated with oxidative stress in brains of traumatic
+brain injury rats[J]. Restor Neurol Neuros，2０１７，３５(2):2１７－
+224.
+[５]
+CHEN W， GUO Y J， YANG W J， et al. Involvement
+of Connexin4０ in the protective effects of ginsenoside
+Rb１ against traumatic brain injury[J]. Cell Mol Neurobi-
+ol，2０１６，３６(７):１０５７－１０６５.
+[６]
+CHEN W， GUO Y J， YANG W J， et al. Involvement of
+autophagy in Cx4０ reduction in late phase of traumatic
+brain injury in rats[J]. Brain Res Bull，2０１７，１３１:１００－１０６.
+[７]
+陈伟，郑平，任大斌，等.cAMP对大鼠颅脑损伤后神经功能
+及脑水肿的影响[J].中国临床神经外科杂志，2０１９，24（4）:
+22６－22９.
+CHEN Wei， ZHENG Ping， REN Dabin， et al. Role of
+inhibition of phosphorylated Cx4３ by PKA pathway in
+treatment for traumatic brain injury in rats[J]. Chin J
+Clin Neurosurg，2０１９，24(4):22６－22９.
+[８]
+REN D B， ZHENG P， FENG J G， et al. Overexpres-
+sion of astrocytes－specific GJA１－2０k enhances the via-
+bility and recovery of the neurons in a rat model of
+traumatic brain injury [J]. ACS Chem Neurosci，2０2０，１１
+(１１):１６4３－１６５０.
+[９]
+KHATRI N， THAKUR M， PAREEK V， et al. Oxidative
+stress： major threat in traumatic brain injury[J]. CNS
+Neurol Disord Drug Targets，2０１８，１７(９):６８９－６９５.
+[１０] HOU Y L， TSAI Y H， LIN Y H， et al. Ginseng ex-
+tract and ginsenoside Rb１ attenuate carbon tetrachloride－
+induced liver fibrosis in rats[J]. BMC Complem Altern
+Med，2０１4，１4:4１５.
+[１１] CHEN W， GUO Y J， YANG W J， et al. Protective ef-
+fect of ginsenoside Rb１ on integrity of blood－brain bar-
+rier
+following
+cerebral
+ischemia [J].
+Exp
+Brain
+Res，
+2０１５，2３３(１０):2８2３－2８３１.
+[１2] 施虹，任大斌，郑平，等.人参皂甙Rb１通过调控缝隙连接蛋
+白4０治疗脑缺血再灌注损伤的机制[J].中风与神经疾病杂
+志，2０１９，３（３６）:2００－2０３.
+SHI Hong， REN Dabin， ZHENG Ping， et al. Regulation
+of
+Cx4０
+by
+GS－Rb１
+in
+the
+treatmen
+of
+cerebral
+ischemia －reperfusion
+injury[J].
+J
+Apoplexy
+Nerv
+Dis，
+2０１９，３(３６):2００－2０３.
+[１３] PHANIENDRA A， JESTADI D B， PERIYASAMY L.
+Free radicals： properties， sources， targets and their im-
+plication in various diseases[J]. Indian J Clin Biochem，
+2０１５，３０(１):１１－2６.
+[１4] WANG K， KLIONSKY D J. Mitochondria removal by
+autophagy[J]. Autophagy，2０１１，７(３):2９７－３００.
+（收稿日期：2０22－０4－１７）
+邹树峰，等：人参皂甙－Rb１ 通过促进神经元线粒体自噬治疗大鼠创伤性颅脑损伤的机制
+（上接第1062页）
+SONG Linyi， YU Jin， YU Chaoqin. Research progress
+of mitochondrial dysfunction in granulosa cells with poly-
+cystic ovary syndrome[J]. Med J Chin PLA，2０2１，4６(７):
+７１８－７2３.
+[１2] 王隆卉，管宇，倪晓容. HMGB１介导NF－κB通路促进多囊
+卵巢综合征胰岛素抵抗细胞模型的凋亡[J].湖南中医药大
+学学报，2０１８，３８（4）:３７９－３８３.
+WANG Longhui， GUAN Yu， NI Xiaorong. HMGB１ me-
+diated NF－κB pathway promotes apoptosis in insulin－re-
+sistant polycystic ovary syndrome cells[J]. J hunan Univ
+Chin Med，2０１８，３８(4):３７９－３８３.
+[１３] 王馨怡. 左归丸含药血清对大鼠卵巢颗粒细胞Bcl－2，Bax
+蛋白表达的影响[D].兰州:甘肃中医药大学，2０１７:4８.
+WANG Xinyi. Effects of Serum containing Zuogui Pill on
+the expression of Bcl－2 and Bax proteins in rat ovarian
+granulosa cells[D]. Lanzhou: Gansu University of Chinese
+Medicine，2０１７:4８.
+[１4] 莫阳，彭婷，尹俏，等.基于PI３K/AKT和MAPK/ERK通路探
+讨左归丸治疗多囊卵巢综合征机制的实验研究[J].中国中
+医药现代远程教育，2０2０，１８（８）:１22－１2５.
+MO Yang， PENG Ting， YIN Qiao， et al. Experimental
+study on the mechanism of Zuogui Pill in treatment of
+polycystic
+ovary
+syndrome
+based
+on
+PI３K/AKT
+and
+MAPK/ERK pathway[J]. Chin Med Mod Dis Edu，2０2０，１８
+(８):１22－１2５.
+[１５] 曾真，李建华，谢新平.晚期糖基化终末产物诱导人卵巢颗
+粒细胞株COV4３4凋亡并上调促炎因子HMGB１自分泌[J].
+中国病理生理杂志，2０１８，３4（９）:１７１１－１７１4.
+ZENG Zhen， LI Jianhua， XIE Xinping. Advanced glyca-
+tion end products induce apoptosis of human ovarian
+granulosa cell line COV4３4 and upregulate autosecretion
+of proinflammatory factor HMGB１[J]. Chin J Pathophysi-
+ol，2０１８，３4(９):１７１１－１７１4.
+[１６] 马文聪.P３８蛋白激酶抑制剂SB2０３５８０对多囊卵巢综合征
+卵巢颗粒细胞PI３K通路的影响[D].青岛:青岛大学，2０１６:4３.
+MA
+Wencong.
+Effect
+of
+P３８
+protein
+kinase
+inhibitor
+SB2０３５８０ on PI３K pathway of ovarian granulosa cells
+with
+polycystic
+ovary
+syndrome[D].
+Qingdao:
+Qingdao
+University，2０１６:4３.
+（收稿日期：2０22－０2－2８）
+1069

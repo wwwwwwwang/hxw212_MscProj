@@ -1,0 +1,431 @@
+The expression of KIRREL in gastric cancer and its effect on angiogenesis
+Chen Shuo,Zhang Mingjun,Wang Tao
+(Dept of Oncology,The Second Affiliated Hospital of Anhui Medical University,Hefei 230601)
+Abstract Objective To investigate the expression of Kin of IRRE-like protein 1 (KIRREL) in gastric cancer tis-
+sues and further explore its effect on angiogenesis. Methods Western blot and IHC were used to detect the expres-
+sion of KIRREL in gastric cancer tissues and adjacent tissues. Human gastric cancer cell lines SNU-5 and AGS
+were selected to construct KIRREL-interfering and overexpressing stable cell lines by lentiviral infection of gastric
+cancer cells. The expression of hypoxia-inducible factor 1α ( HIF-1α) and vascular endothelial growth factor
+(VEGF) in the control,null,interfering and overexpression groups were measured by Western blot,and the effect of
+KIRREL on the tube-forming ability of human umbilical vein endothelial cells (HUVECs) was observed by angio-
+genesis assay. Results The expression of KIRREL in gastric cancer tissues was higher than that in adjacent tissues
+(P < 0. 05). After silencing KIRREL, the protein expression of HIF-1α and VEGF was significantly reduced,and
+the tube length and nodes of HUVECs were also significantly reduced;the overexpression of KIRREL was the oppo-
+site(P < 0. 05). Conclusion KIRREL is overexpressed in gastric cancer tissues and may promote angiogenesis in
+gastric cancer.
+Key words KIRREL;gastric cancer;angiogenesis;VEGF;HIF-1α
+网络出版时间:2023 -01 -20 15:37:36 网络出版地址:https:/ / kns. cnki. net/ kcms/ detail/ / 34. 1065. R. 20230119. 1741. 014. html
+人参皂苷 Rb1 改善局灶性 CIRI 小鼠模型神经损伤的
+调控机制研究
+周 璐,陈 珊,赵 雪,龙婷婷,朱俊德
+摘要 目的 探究人参皂苷 Rb1 对局灶性脑缺血再灌注损
+伤(CIRI)的调控机制。 方法 60 只 C57 / BL 小鼠随机分为
+6 组(n = 10):假手术组、CIRI 模型组、人参皂苷 Rb1 低、中、
+高剂量组和尼莫地平(阳性对照)组。 手术方法构建局灶性
+CIRI 小鼠模型。 行神经功能评分、行为学测试,尼氏染色检
+测海马体中尼氏体数量。 qPCR、Western blot 和免疫组化检
+测人参皂苷 Rb1 对海马体中 Wnt 信号通路分子表达的影
+响,通过分子对接和共沉淀实验研究人参皂苷 Rb1 的调控
+机制。 结果 与 CIRI 模型组相比,添加人参皂苷 Rb1 后能
+够降低小鼠神经功能评分(P < 0. 05),降低通过平衡木时间
+(P < 0. 05),提高小鼠进入正确臂时间(P < 0. 05),增加小鼠
+摇摆时间和攀爬时间(P < 0. 05),证明了人参皂苷 Rb1 能够
+2022 - 12 - 26 接收
+基金项目:国家自然科学基金(编号:81660243);贵州省科技计划项
+目(编号:黔科合基础-ZK[2021] 一般 415);贵州医科大
+学国家自然科学基金培育项目(编号:20NSP006)
+作者单位:贵州医科大学基础医学院人体解剖教研室,贵阳 550025
+作者简介:周 璐,女,硕士研究生;
+朱俊 德, 男, 教 授, 硕 士 生 导 师, 责 任 作 者, E-mail:
+893543000@ qq. com
+有效恢复小鼠神经系统功能,提高模型小鼠行为学能力。 人
+参皂苷 Rb1 治疗后海马体中轴抑制蛋白 2(Axin2)和糖原合
+成酶激酶-3β(GSK-3β)降低,Wnt3a、Wnt1 和 β-连锁蛋白(β-
+catenin)表达量增加。 结论 
+人参皂苷 Rb1 能够改善 CIRI
+小鼠模型的神经功能并提高海马体中尼氏体数量,与激活
+Wnt 信号通路有关,可能在卒中治疗期间对局灶性 CIRI 具
+有神经保护作用。
+关键词 人参皂苷 Rb1;局灶性 CIRI;Wnt 信号通路;β-cate-
+nin;分子对接
+中图分类号 R 285. 5
+文献标志码 A 文章编号 1000 - 1492(2023)02 - 0252 - 07
+doi:10. 19405 / j. cnki. issn1000 - 1492. 2023. 02. 014
+  根据 2020 年中国卒中报告,2019 年我国新发
+卒中 394 万例,其中缺血性卒中 287 万例,约占卒中
+患者的 72. 84% [1]。 它是一种高致残、高死亡率的
+疾病,严重危害人类的健康。 脑缺血再灌注损伤
+(cerebral ischemia reperfusion injury,CIRI)是脑组织
+缺血后,恢复血液供应时诱发的功能障碍加重的现
+·252·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)
+象,减轻 CIRI 的损伤对改善脑缺血卒中的治疗有极
+大作用。 此外,由 CIRI 导致的迟发性神经损伤会严
+重影响患者预后和神经功能的恢复。 Wnt 信号通路
+与增殖、凋亡、迁移和分化等多种生理病理过程密切
+相关。 当 Wnt 通路激活时,GSK-3β 功能和 β-cate-
+nin 降解受到抑制,β-catenin 大量聚集并进入细胞
+核内,启动下游基因的转录与翻译,发挥调控细胞代
+谢的功能[2 - 3]。 研究[4 - 6] 表明,经典的 Wnt/ β-cate-
+nin 信号通路可以在整个生命周期中维持血脑屏障
+特征。
+1 材料与方法
+1. 1 实验动物 60 只 C 57 / BL 小鼠(5 ~ 8 周龄,
+20 ~ 25 g)由重庆恩斯维尔生物科技有限公司提供。
+小鼠的饲养环境为(25 ± 1) ℃,12 h 光照/ 12 h 黑暗
+循环,自由进食和饮水。 动物实验方案经贵州医科
+大学伦理委员会批准(No. 2200094),并严格按照其
+指导方针进行。
+小鼠随机分为 6 组,每组 10 只,即假手术组、
+CIRI 模型组、人参皂苷 Rb1 低剂量组、 人参皂苷
+Rb1 中剂量组、人参皂苷 Rb1 高剂量组和尼莫地平
+(阳性对照) 组。 假手术组:行假手术,腹腔注射生
+理盐水。 CIRI 模型组:缺血手术,再灌注前 10 min
+予腹腔注射生理盐水。 人参皂苷 Rb1 低、中、高剂
+量组和阳性药物组:缺血手术后,再灌注前 10 min
+分别腹腔注射人参皂苷 Rb1 20、40、80 mg / kg 和尼
+莫地平 1 mg / kg。
+1. 2 局灶性脑缺血再灌注损伤模型制备 
+小鼠适
+应性饲养 1 周后,进行大脑中动脉闭塞手术。 麻醉
+后,显露左颈总动脉并使用动脉夹夹住。 在手术过
+程中,使用手术台上的加热垫将体温保持在 36. 5 ~
+37. 0 ℃。 切口区域用聚维酮碘溶液消毒。 分离并
+结扎颈外动脉。 将带有钝头(直径 0. 35 mm) 的尼
+龙缝线拉入颈外动脉,然后拉入颈内动脉。 大脑中
+动脉被颈动脉分叉远侧 18 mm 处的缝线阻塞。 缺
+血再灌注损伤通过在闭塞 2 h 后去除缝合线来执
+行。 在切口闭合后,将小鼠放回笼子,并提供食物和
+水。
+1. 3 试剂与仪器 
+人参皂苷 Rb1 购自北京索莱宝
+生物科技有限公司;生物素标记的人参皂苷 Rb1 从
+Isolife 公司( 芬兰) 购买;RNAiso Plus 裂解液购自
+Takara 公司;反转录试剂盒购自北京擎科生物科技
+有限公司;BCA 蛋白浓度测定试剂盒购自碧云天生
+物技术公司;糖原合成酶激酶-3β(glycogen synthase
+kinase-3β,GSK-3β)、Wnt3a、Wnt1、β-连锁蛋白( β-
+catenin)、β-actin 以及辣根过氧化物酶偶联二抗抗
+体均购自武汉爱博泰克生物科技有限公司 ( Ab-
+clonal); Mshot MF53 显微镜(广州市明美光电技术
+有限公司);BioRad 成像系统(美国 BioRad 公司)。
+1. 4 神经功能评分 
+动物造模手术 24 h 后,按照
+MasaoShmiizu-Sasamata 的方法对所有小鼠进行神经
+行为评分,评分标准包括:① 自主活动的程度,②
+左前肢偏瘫,③ 提尾时左前肢伸不直,④ 抗侧推能
+力,⑤ 向左倾斜度,⑥ 向左环形度,⑦ 对触须的反
+应。 以上指标无异常为 0 分,中等异常为 1 分,严重
+异常为 2 分;各项评分相加,总分为 0 ~ 14 分[7]。
+1. 5 行为学测试 利用平衡木实验、Y 迷宫实验和
+悬尾实验对小鼠的行为学能力进行测试。 平衡木实
+验方法:将小鼠放置于方形平衡木( 长 1 m,宽 14
+mm)一侧,另一侧放方形木盒,记录小鼠 60 s 内通
+过平衡木时间。 训练 2 次,第 3 次正式实验。 未能
+达到另一侧或超过 60 s 均记录为 60 s。 Y 迷宫实验
+方法:由三个支臂和一个连接区组成,三臂相互夹角
+为 120°,每臂末部铺以食物槽,用以盛放食物。 各
+臂可依次分为起步区、错误臂以及正确臂。 通过训
+练后记录 240 s 内进入各臂时间,统计正确臂时间。
+悬尾实验方法:提起小鼠尾部固定,使头向下悬挂,
+300 s 内记录小鼠摇摆和攀爬情况。
+1. 6 尼氏染色 
+小鼠海马区脑组织样本,4% 多聚
+甲醛固定,切片,二甲苯脱蜡透明,将切片使用梯度
+酒精水化,双蒸水清洗后,切片入甲酚紫染色,分化
+1 ~ 3 min 后,二甲苯脱水,中性树胶封固,使用显微
+镜对切片进行图像采集。
+1. 7 qPCR 使用 RNAiso Plus 裂解液提取组织总
+RNA,利用反转录试剂盒将总 RNA 反转录为 cDNA,
+并进行 qPCR 检测,反应体系为:2 × T5 Fast qPCR
+Mix 10. 0 μl;10 μmol/ L Primer F 0. 8 μl;10 μmol/ L
+Primer R 0. 8 μl;50 × ROX Reference Dye II 0. 4 μl;
+Template DNA 0. 5 μl;ddH2O 补充体系到 20 μl。 95
+℃反应 30 s 预变性,95 ℃ 5 s、55 ℃ 30 s、72 ℃ 30 s
+(40 个循环,延伸反应),利用 2 - ΔΔCT 法计算相对表
+达量。 引物序列见表 1。
+1. 8 Western blot 
+BCA 蛋白浓度测定试剂盒用
+于蛋白质样品浓度测定,在 95 ℃下加热 5 min,每泳
+道上样 30 μg,使用 10% SDS-PAGE 分离,然后电转
+移到聚偏二氟乙烯膜(PVDF) 上。 将膜与 GSK-3β
+(1 ∶ 500)、Wnt3a(1 ∶ 500)、 Wnt1(1 ∶ 500)、 β-cate-
+·253·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)
+表 1 引物序列
+基因名
+序列
+β-catenin
+F: 5′-GGTGGACTGCAGAAAATGGT-3′
+R: 5′-TCAGCACTCTGCTTGTGGTC-3′
+Axin2
+F: 5′-CTGGCTTTGGTGAACTGTTG-3′
+R: 5′-AGTTGCTCACAGCCAAGACA-3′
+β-actin
+F: 5′-ACTACATTCAATTCCATC-3′
+R: 5′-CTAGAAGCACTTGCGGTG-3′
+nin(1 ∶ 1 000)以及 β-actin 抗体(1 ∶ 2 000)4 ℃ 孵
+育过夜。 用含有吐温的 Tris 缓冲液(TBST)洗涤后,
+将膜与辣根过氧化物酶偶联的二抗(1 ∶ 1 000)在室
+温下孵育 1 h,然后再次用 TBST 洗涤。 增强的化学
+发光使抗体可视化,BioRad 成像系统分析蛋白质条
+带的密度。
+1. 9 免疫组化检测 海马组织的石蜡切片烘干后,
+将切片(5 μm 厚) 脱蜡并使用 3% 过氧化氢修复组
+织抗原。 将脑组织与小鼠 GSK-3β(1 ∶ 50)、Wnt3a
+(1 ∶ 50)、Wnt1(1 ∶ 50)、β-catenin(1 ∶ 100) 抗体孵
+育。 最后,将组织与生物素标记的二抗(1 ∶ 500)一
+起孵育以观察蛋白质表达。
+1. 10 分子对接与共沉淀实验 
+在 Pubchem 数据
+库(https:/ / pubchem. ncbi. nlm. nih. gov / ) 获取人参
+皂苷 Rb1 分子结构,在 PDB 数据库( https:/ / www.
+rcsb. org / )获取 β-catenin 蛋白结构,利用 AutoDock
+4. 2(美国 Scripps 研究所) 进行分子对接预测与作
+图。
+将生物素标记的人参皂苷 Rb1 与亲和素标记
+的磁珠在室温孵育 1 h。 通过磁力架吸附磁珠后,清
+洗磁珠,再将磁珠与总蛋白孵育混合后,在垂直混合
+器上 4 ℃孵育过夜。 短暂离心后,在磁力架吸附磁
+珠,弃去上清液,清洗磁珠后加入洗脱液获得与生物
+素标记的人参皂苷 Rb1 结合的蛋白质,Western blot
+法检测其是否含有 Wnt 信号通路蛋白。
+1. 11 统计学处理 所有数据均以平均值 ± 标准偏
+差表示,使用单向方差分析和最小差异测试进行分
+析。 所 有 统 计 分 析 均 使 用 GraphPad Prism 软 件
+(v. 8. 0. 1,美国)进行。 P < 0. 05 为差异有统计学意
+义。
+2 结果
+2. 1 局灶性脑 CIRI 损伤小鼠模型构建 
+为了研
+究人参皂苷 Rb1 对局灶性脑 CIRI 损伤小鼠模型的
+影响,利用手术构建局灶性脑 CIRI 损伤小鼠模型,
+并对小鼠模型进行平衡木试验、Y 迷宫试验和悬尾
+试验,随后分离海马体做组织水平和分子水平检测,
+流程示意图见图 1。 结果表明,与假手术组比较,CI-
+RI 模型组小鼠神经功能评分明显升高(P < 0. 05);
+与 CIRI 模型组比较,人参皂苷 Rb1 低剂量组、人参
+皂苷 Rb1 中剂量组、人参皂苷 Rb1 高剂量组和尼莫
+地平(阳性对照) 组小鼠神经功能评分显著降低(P
+< 0. 05)(图 2A)。 平衡木试验中,统计分析表明,
+与 CIRI 模型组相比,人参皂苷 Rb1 低剂量组、人参
+皂苷 Rb1 中剂量组、人参皂苷 Rb1 高剂量组和尼莫
+地平(阳性对照) 组能够显著降低小鼠通过平衡木
+时间(P < 0. 05)(图 2B)。 Y 迷宫试验中,与模型组
+相比,人参皂苷 Rb1 低剂量组、人参皂苷 Rb1 中剂
+量组、人参皂苷 Rb1 高剂量组和尼莫地平(阳性对
+照)组均能够显著提高小鼠进入正确臂时间( P <
+0. 05) ( 图 2C)。 悬尾试验中,添加人参皂苷 Rb1
+后,与 CIRI 模型组相比,小鼠摇摆时间和攀爬时间
+增加(P < 0. 05),见图 2D、2E。
+图 1 局灶性脑 CIRI 损伤小鼠模型构建以及行为学检测流程示意图
+2. 2 人参皂苷 Rb1 能够提高海马体内尼氏体数量
+ 尼氏染色检测海马体中尼氏体数量变化,结果如
+图 3 所示,可以明显看到 CIRI 模型组中尼氏染色阳
+性率降低,人参皂苷 Rb1 中剂量组、人参皂苷 Rb1
+高剂量组和尼莫地平(阳性对照) 组尼氏染色阳性
+率有所恢复,染色强度强于 CIRI 模型组。
+2. 3 
+人参皂苷 Rb1 对 Wnt 信号通路调控作用 
+Western blot 结果表明,在 CIRI 模型组海马体样本
+中,与假手术组相比,GSK-3β 蛋白升高(P < 0. 01,
+F = 237. 7),见图 4A、4B,而 Wnt3a(P < 0. 01, F =
+122. 3)、 Wnt1 ( P < 0. 01,F = 71. 59 ) 和β-catenin
+·254·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)
+图 2 小鼠行为学检测结果
+A:小鼠神经功能评分结果统计;B:平衡木
+试验结果统计;C:Y 迷宫试验结果统计;D:悬
+尾试验摇摆时间结果统计;E:悬尾试验攀爬时
+间结果统计;a:假手术组;b:CIRI 模型组;c:人
+参皂苷 Rb1 低剂量组;d:人参皂苷 Rb1 中剂量
+组;e:人参皂苷 Rb1 高剂量组;f:尼莫地平(阳
+性对照) 组;与 CIRI 模型组比较:# P < 0. 05,
+##P < 0. 01
+(P < 0. 01, F = 180. 5)蛋白表达量降低,见 4C-4E。
+人参皂苷 Rb1 低剂量组、人参皂苷 Rb1 中剂量组和
+人参皂苷 Rb1 高剂量组则能够降低 GSK-3β,提高
+Wnt3a、Wnt1 和 β-catenin 蛋白表达量,差异有统计
+学意义,并且随着剂量的增加,作用越显著。 免疫组
+化结果与 Western blot 结果趋势一致,见图 5 ~ 8。
+图 3 尼氏染色检测各组海马体中尼氏体数量变化 × 200
+A:假手术组;B:CIRI 模型组;C:人参皂苷 Rb1 低剂量组;D:人
+参皂苷 Rb1 中剂量组;E:人参皂苷 Rb1 高剂量组;F:尼莫地平(阳性
+对照)组
+  
+通过分子对接发现人参皂苷 Rb1 与 β-catenin
+蛋白可能存在直接结合作用(图 9A),共沉淀试验
+结果证明 β-catenin 蛋白与人参皂苷 Rb1 存在直接
+结合作用(图 9B)。 进一步通过 qPCR 检测发现人
+参皂苷 Rb1 处理后,海马体中 Axin2 mRNA 表达量
+降低(P < 0. 05),β-catenin mRNA 表达量增加(P <
+0. 05)(图 9C、9D)。
+3 讨论
+  天然产物可用于调节细胞因子活性以治疗疾
+病。 本研究结果表明天然产物人参的主要生物活性
+成分之一人参皂苷 Rb1 能改善大脑中动脉栓塞小
+鼠模型的神经功能并提高海马体中尼氏体数量。 人
+参皂苷 Rb1 治疗后海马体中 Axin2 和 GSK-3β 降
+低,Wnt3a、Wnt1 和 β-catenin 表达量增加,差异有统
+计学意义,表明人参皂苷 Rb1 能够激活 Wnt 信号通
+路,可能在卒中治疗期间对局灶性 CIRI 具有神经保
+护作用。
+许多研究[8 - 9] 已经证明了人参皂苷 Rb1 在治
+疗缺血性中风中的有益作用,人参皂苷 Rb1 可促进
+局灶性脑梗死小鼠的后期恢复,然而,人参皂苷 Rb1
+功能的机制需要进一步研究。 大脑中的氧化应激和
+炎症反应是影响缺血性卒中的主要因素,可促进自
+由基释放,导致脑组织氧化损伤[10]。 有研究[11] 表
+明人参皂苷 Rb1 能够激活 PI3K/ AKT 信号通路,调
+控细胞自噬,保护神经元免受缺血性损伤。 也有研
+究[8]表明,在小鼠大脑中动脉栓塞再灌注模型中,
+腹腔注射人参皂苷 Rb1 可以有效保护血脑屏障,提
+高紧密连接蛋白的含量,抑制自由基的产生,保护血
+脑屏障完整性。 本研究结果表明,在局灶性 CIRI 小
+鼠模型中,腹腔注射人参皂苷 Rb1 干预后,与 CIRI
+模型组相比,人参皂苷 Rb1 低剂量组、人参皂苷 Rb1
+·255·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)
+图 4 海马体组织中 GSK-3β、Wnt3a、Wnt1 和 β-catenin 的蛋白表达
+A:Western blot 条带;B-E:GSK-3β、Wnt3a、Wnt1 和 β-catenin 蛋白灰度值统计结果;a:假手术组;b:CIRI 模型组;c:人参皂苷 Rb1 低剂量组;
+d:人参皂苷 Rb1 中剂量组;e:人参皂苷 Rb1 高剂量组;f:尼莫地平(阳性对照)组;与 CIRI 模型组比较:#P < 0. 05,##P < 0. 01
+图 5 免疫组化法检测海马体组织中 GSK-3β 表达 × 400
+  A:假手术组;B:CIRI 模型组;C:人参皂苷 Rb1 低剂量组;D:人
+参皂苷 Rb1 中剂量组;E:人参皂苷 Rb1 高剂量组;F:尼莫地平(阳性
+对照)组
+中剂量组、人参皂苷 Rb1 高剂量组能够降低小鼠神
+经功能评分和通过平衡木时间,增加小鼠进入正确
+臂时间、摇摆时间和攀爬时间,证明了人参皂苷 Rb1
+能够有效恢复小鼠神经系统功能,提高模型小鼠行
+为学能力。
+  Wnt/ β-catenin 信号通路在缺血性脑卒中的预防
+和损伤修复过程中发挥重要作用。以往研究[12 - 13]
+图 6 免疫组化法检测海马体组织中 Wnt3a 表达 × 400
+  A:假手术组;B:CIRI 模型组;C:人参皂苷 Rb1 低剂量组;D:人
+参皂苷 Rb1 中剂量组;E:人参皂苷 Rb1 高剂量组;F:尼莫地平(阳性
+对照)组
+表明,Wnt/ β-catenin 信号通路在脑缺血再灌注损伤
+中起重要作用,参与神经干细胞的增殖、分化和轴突
+形成等过程。 同时,该信号通路在血脑屏障的形成
+和维持、脑血管再生和重塑中也至关重要。 Wnt 蛋
+白广泛存在于脑血管和血脑屏障中,可参与调节脑
+血管生成和血脑屏障分化。 许多研究[6] 已经证实
+脑 缺血再灌注损伤可以激活Wnt / β-catenin信号通
+·256·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)
+图 7 免疫组化法检测海马体组织中 Wnt1 表达 × 400
+  A:假手术组;B:CIRI 模型组;C:人参皂苷 Rb1 低剂量组;D:人
+参皂苷 Rb1 中剂量组;E:人参皂苷 Rb1 高剂量组;F:尼莫地平(阳性
+对照)组
+图 8 免疫组化法检测海马体组织中 β-catenin 表达 × 400
+A:假手术组;B:CIRI 模型组;C:人参皂苷 Rb1 低剂量组;D:人
+参皂苷 Rb1 中剂量组;E:人参皂苷 Rb1 高剂量组;F:尼莫地平(阳性
+对照)组
+路,但该通路的激活是否保护或损伤组织尚存在争
+议。 本研究通过免疫组化与 Western blot 检测显示,
+人参皂苷 Rb1 能够降低 GSK-3β,提高 Wnt3a、Wnt1
+和 β-catenin 蛋白表达量,并且随着剂量的增加,作
+用越显著。
+综上所述,本研究表明人参皂苷 Rb1 对局灶性
+CIRI 中的神经系统具有保护作用,能够改善 CIRI
+小鼠模型的神经功能并提高海马体中尼氏体数量,
+图 9 人参皂苷 Rb1 调控海马体组织中基因表达
+A:人参皂苷 Rb1 与 β-catenin 蛋白分子对接图;B:人参皂苷 Rb1
+与组织总蛋白共沉淀试验;C、D:qPCR 检测海马体中 Axin2 和 β-
+catenin 的 mRNA 表达量;a:假手术组;b:CIRI 模型组;c:人参皂苷
+Rb1 低剂量组;d:人参皂苷 Rb1 中剂量组;e:人参皂苷 Rb1 高剂量
+组;f:尼莫地平(阳性对照)组;与 CIRI 模型组比较:#P < 0. 05,##P <
+0. 01
+人参皂苷 Rb1 通过与 β-catenin 结合激活 Wnt 信号
+通路可能在该过程中发挥重要作用。 人参皂苷 Rb1
+与激活 Wnt 信号通路相关,可能在卒中治疗期间对
+局灶性 CIRI 具有神经保护作用。 研究证明人参皂
+苷 Rb1 可能是一种很有前途的神经保护候选物,需
+要进一步的实验室和临床研究。
+参考文献
+[1] 王拥军,李子孝,谷鸿秋, 等. 中国卒中报告2020(中文版)(1)
+[J]. 中国卒中杂志, 2022, 17(5):433 - 47.
+[2]
+Nazarinia D, Sharifi M, Dolatshahi M, et al. FoxO1 and Wnt/ be-
+ta-catenin signaling pathway: Molecular targets of human amniotic
+mesenchymal stem cells-derived conditioned medium ( hAMSC-
+·257·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)
+CM) in protection against cerebral ischemia/ reperfusion injury
+[J]. Chem Neuroanat, 2021,112:101918.
+[3]
+Pan W, Xu Z. Triptolide mediates Wnt/ beta-catenin signalling
+pathway to reduce cerebral ischemia-reperfusion injury in rats
+[J]. Folia Neuropathol,2020,58:324 - 33.
+[4]
+Li X, Zhang Y, Wang Y, et al. Exosomes derived from CXCR4-
+overexpressing BMSC promoted activation of microvascular endo-
+thelial cells in cerebral ischemia/ reperfusion injury [ J]. Neural
+Plast, 2020, 2020:8814239.
+[5]
+Mu Q, Zhou H, Xu Y, et al. NPD1 inhibits excessive autophagy
+by targeting RNF146 and wnt/ beta-catenin pathway in cerebral is-
+chemia-reperfusion injury [ J]. J Recept Signal Transduct Res,
+2020, 40(5):456 - 63.
+[6]
+Zhang G, Ge M, Han Z, et al. Wnt/ beta-catenin signaling path-
+way contributes to isoflurane postconditioning against cerebral is-
+chemia-reperfusion injury and is possibly related to the transfor-
+ming growth factorbeta1 / Smad3 signaling pathway [ J]. Biomed
+Pharmacother, 2019, 110:420 - 30.
+[7]
+Wang Z, Fang B, Tan Z, et al. Hypoxic preconditioning increases
+the protective effect of bone marrow mesenchymal stem cells on
+spinal cord ischemia/ reperfusion injury [ J ].
+Mol Med Rep,
+2016, 13(3):1953 - 60.
+[8]
+Fu Y, Xing R, Wang L, et al. Neurovascular protection of salvi-
+anolic acid B and ginsenoside Rg1 combination against acute ische-
+mic stroke in rats [J]. Neuroreport, 2021, 32(13):1140 - 6.
+[9]
+杨常青,韩芳芳,袁 菲,等. 人参皂苷 Rb1 抑制利多卡因诱导
+小鼠原代脊髓神经干细胞损伤研究[J]. 安徽医科大学学报,
+2020, 55(9):1332 - 8.
+[10] Chamorro A, Dirnagl U, Urra X, et al. Neuroprotecti on in acutes
+stroke: targeting excitotoxicity, oxidative and nitrosative stress,
+and inflammation [J]. Lancet Neurol, 2016, 15(8): 869 - 81.
+[11] Wang Z, Wang L, Jiang R, et al. Ginsenoside Rg1 prevents bone
+marrow mesenchymal stem cell senescence via NRF2 and PI3K/
+Akt signaling [J]. Free Radical Bio Med, 2021, 174:182 - 94.
+[12]
+Fei Y X, Zhu J P, Zhao B, et al.
+XQ-1H regulates Wnt/
+GSK3beta/ beta-catenin pathway and ameliorates the integrity of
+blood brain barrier in mice with acute ischemic stroke [J]. Brain
+Res Bull, 2020, 164:269 - 88.
+[13] Chen X, Zhou B, Yan T, et al. Peroxynitrite enhances self-re-
+newal, proliferation and neuronal differentiation of neural stem/
+progenitor cells through activating HIF-1alpha and Wnt/ beta-cate-
+nin signaling pathway [J]. Free Radic Biol Med, 2018, 117:158
+- 67.
+The regulatory mechanism of ginsenoside Rb1 to improve
+nerve injury in focal CIRI mouse model
+Zhou Lu, Chen Shan, Zhao Xue, Long Tingting, Zhu Junde
+(Dept of Human Anatomy, School of Basic Medicine, Guizhou Medical University, Guiyang 550025)
+Abstract Objective To explore the regulatory mechanism of ginsenoside Rb1 on focal cerebral ischemia-reperfu-
+sion injury (CIRI). Methods A total of 60 C57 / BL mice were randomly divided into 6 groups (n = 10): sham-
+operated group, CIRI model group, ginsenoside Rb1 low - , medium - , and high-dose group and nimodipine
+(positive control) group. The surgical method was used to construct the focal CIRI mouse model. The neurological
+function scores and behavioral tests were performed, and Nissl staining was utilized to detect the number of nissl
+bodies in the hippocampus. The effect of ginsenoside Rb1 on the molecule expression of the Wnt signaling pathway
+in the hippocampus was detected by qPCR, Western blot and immunohistochemistry assays. The regulatory mecha-
+nism of ginsenoside Rb1 was investigated through molecular docking and co-precipitation assays. Results 
+Com-
+pared with the CIRI model group, the addition of ginsenoside Rb1 reduced the neurological function scores of mice
+(P < 0. 05), shortened the time passing the balance beam (P < 0. 05), but increased the time entering the correct
+arm (P < 0. 05) and the swinging time and climbing time of mice (P < 0. 05), indicating that ginsenoside Rb1
+could effectively resume the function of the nervous system in mice and improve the behavioral ability of model
+mice. After ginsenoside Rb1 treatment, axis inhibition protein 2 (Axin2) and glycogen synthase kinase-3β (GSK-
+3β) in the hippocampus decreased, whereas the expression of Wnt3a, Wnt1 and β-catenin increased. Conclusion
+ The ginsenoside Rb1 can improve neurological function of the CIRI mouse model and increase the number of
+Nissl bodies in the hippocampus, which is correlated with the activation of the Wnt signaling pathway, and it may
+be neuroprotective against focal CIRI during stroke treatment.
+Key words ginsenoside Rb; focal CIRI; Wnt signaling pathway; β-catenin; molecular docking
+·258·
+安徽医科大学学报 Acta Universitatis Medicinalis Anhui 2023 Feb;58(2)

@@ -1,0 +1,636 @@
+第47卷第2期
+山东中医药大学学报
+2023年3月
+J OURNAL OF SHANDONG UNI VERSI TY OF TRADl TI ONAL CHl NESE MEDI CI NE
+V01．47．No．2
+Mar．2023
+人参皂苷Rbl 通过AMPK途径改善心力衰竭大鼠
+心脏能量代谢研究
+张娜1，朱芳1，孔宏亮1，赵雨婷2
+( 1．辽宁省人民医院，辽宁沈阳110016；2．大连大学附属新华医院，辽宁大连116021)
+[ 摘要] 目的：探讨人参皂苷Rbl ( Gs—Rbl ) 对慢性心力衰竭( CHF) 大鼠心脏能量代谢的影响，以及腺苷
+酸活化蛋白激酶( AMPK) 在其中的作用。方法：将阿霉素( Adr) 诱导的心力衰竭大鼠随机分为CHF组、Gs—Rbl
+组、腺嘌呤9- B—D一阿拉伯呋喃糖苷( AraA) ．1组、AraA_2组( AraA+Gs．Rbl ) ，5’
+一氨基咪唑4．甲酰胺核苷( Ai car) 一1
+组和Ai car_2组( Ai car+Gs—Rbl ) ，每组5只，另外选取5只健康大鼠作为对照组。除CHF组和对照组腹腔注射
+等体积生理盐水外，余五组分别予相应药物腹腔注射。干预结束并经心脏超声心动图检查左心室射血分数
+( LVEF) 后，分离左心室心肌组织并分别测定心肌细胞AMPK活性和高能磷酸盐底物水平。结果：与CHF组
+比较，Gs—Rbl 组、Ai car一1组和Ai caur一2组LVEF均显著升高( P<0．05) ，但AraA一1组、AraA一2组显著降低
+( P<0．05) 。与CHF组比较，AraA一1组、AraA一2组AMPK活性显著降低( P<0．05) ，Gs．Rbl 组、Ai car一1组和
+Ai car- 2组AMPK活性均显著升高( p<0．05) 。与CHF组比较，Gs—Rbl 组、Ai ca卜1组和Ai car- 2组的磷酸肌酸
+( PCr) 、二磷酸腺苷( ADP) 和三磷酸腺苷( A，IP) 水平均显著升高( P<O．05) ，且AT胛Cr显著提高( P<O．05) ，而
+ADP／ATP均显著降低( P<O．05) 。结论：Gs—Rbl 可能通过AMPK途径改善衰竭心脏的能量代谢。进而改善衰竭
+心脏的功能。
+[ 关键词] 人参皂苷Rbl ；慢性心力衰竭；腺苷酸活化蛋白激酶；心肌高能磷酸盐底物；心脏能量代谢；三
+磷酸腺苷：大鼠
+[ 中图分类号] R285．5
+[ 文献标志码] A
+[ 文章编号] 1007—659X( 2023) 02—0202．05
+DoI：10．16294／j ．cnki ．1007—659x．2023．02．014
+Gi nsenosi de Rbl
+I I nproVi ng Carmac Ener韶Met abol i sm i n Heart
+Fai l ure Rat s r11l r伽gh
+AMPK Pat hway
+zHANG Nal ，zHu Fan91，KONG Hongl i an91，zHA0 Yuti n矛
+( 1．Peopl e’ s
+Hospi t al
+of
+Li aoni ng
+Provi nce，Shenyang
+[ 收稿日期] 2022- 11- 06
+[ 基金项目] 辽宁省科学技术基金项目( 编号：20180550245) ；沈
+阳市科技创新资金应用基础研究专项( 编号：19．112- 4．057)
+[ 作者简介] 张娜( 1982一) ，女，河北定州人，副主任医师，医学
+硕士，主要从事心力衰竭研究。电话：17702487858；邮箱：cmbzl l ∞g
+@126．cⅢ。
+[ 通信作者] 孔宏亮( 1969一) ，男，河南郑州人，主任医师，医学
+博士，主要从事心肌能量代谢重塑研究。电话：17702487789：邮箱：
+khl 339@163．com。
+110016，Chi na；2．Aml i at ed
+Xi nhua
+Hospi t al
+of
+Dal i an
+Uni Versi t y，Dal i an
+1 16021，Chi na)
+Abst 豫ct
+obj ∞6Ve：T0
+i nvest i gat e
+t he
+ef f ect
+of
+gi nsenosi de Rbl ( Gs—Rbl ) on cardi ac energy met abo_
+l i sm i n
+rat s
+wi t h
+chroni c
+heart
+f ai l ure( CHF) ，and
+t he
+rol e
+of
+adenyl at e
+act i Vat ed
+pI Dt ei n
+ki nase
+( AMPK) i n i t ．Met hods：The heart f ai l ure
+rat s whi ch
+were i nj ect ed Adri amyci n( Adr) were mndoml y
+grou—
+ped i nt o CHF group，Gs—Rb1
+group，Adeni ne 9一B—D一
+万方数据
+Araf uran gl ycosi de( AraA) 一1
+group，AraA一2 group( AraA+Gs—Rb1) ，5’ 一ami noi mi dazol 一4一f o瑚ami de
+nucl eosi de
+( Ai car) 一1
+group and Ai caur一2 group( Ai car+Gs—Rbl ) ，wi t h 5
+rat s
+i n each铲oup．Age—mat ched 5 heal t hy
+rat s
+were
+sen，ed
+as
+cont rol
+group．
+Except
+f or
+t he CHF
+group
+and
+t he
+cont rol
+group，whi ch
+were
+i nj ect ed
+i nt r印eri t oneal l y
+wi t h
+tl l e
+same vol ume
+of no瑚al
+sal i ne，t he
+ot her 6ve gmups
+were i nj ect ed
+i nt raperi t oneal l y
+wi t h con- espondi ng dmgs．
+Af t er
+t he
+i nt ervent i on
+and
+l ef t
+Vent ri cul ar
+ej ecti on f ract i on( LVEF)
+checked by
+echocardi ography，t he
+l ef t
+vent ri cul ar myocardi al
+t i ssues
+were
+separat ed and AMPK
+act i Vi t y
+and hi gh
+energy
+phosphat e subst rat e l evel s
+of
+myocardi al
+ceUs
+were measured．I ksl l l t s：Compa托d
+wi t h CHF
+group，t he LVEF
+of
+Gs—Rbl ，Ai car一1 and Ai car- 2 groups
+was
+si gni 6candy i ncreased( P<0．05) ，but
+t hat
+of
+AraA一1 and AraA一2
+groups
+was
+si gnmcanny decreased( P<O．05) ．Compared
+wi t h CHF
+group，t he
+act i Vi t y
+of AMPK
+i n
+AraA一1
+and AraA一2 groups
+was
+si gni f i cant l y decreased( P<0．05) ，and t he act i vi t y
+of AMPK
+i n
+Gs—Rbl ，Ai car一1
+and
+Ai car一2 groups
+was
+si gni f i cant l y i ncreased( J P<0．05) ．Compared wi t h CHF group，t he l eVel s
+of
+phosphocreat i ne
+( PCr) ，adenosi ne di phosphat e( ADP)
+and
+adenosi ne t ri phosphat e( ATP)
+i n
+Gs—Rbl ，Ai car一1
+and
+Ai car一2
+groups
+were
+si gni f i candy
+i ncreased( P<O．05) ，and
+t he
+ATP，PCr
+was
+si gni 6cant l y
+i ncreased( P<0．05) ，and
+t he ADP／ATP
+was
+si gni 6canny
+decreased( —P<O．05) ．
+Concl u峪i on：Gs—Rbl
+may
+i mproVe
+t he cardi ac
+energy
+met abol i sm and f unct i on
+of
+t he f ai l i ng heart ，whi ch may be medi at ed by AMPK pat hway．
+．
+Keywords
+gi nsenosi de Rbl ；chroni c
+heart
+f ai l ure；adenyl at e act i vat ed pmt ei n ki nase；I nyocardi al
+hi gh
+energ) r
+phosphat e subst rat e；cardi al
+energ) r
+met abol i sm；adenosi ne t ri phosphat e；rat
+慢性心力衰竭( CHF) 是世界范围内的卫生健康
+问题，在首次人院的CHF患者中，5年病死率为40％
+以上，经济负担日益增长。CHF与异常心肌能量代
+谢相关[ 1] ，心肌基质利用异常、三磷酸腺苷( ATP) 下降
+和游离脂肪酸水平升高与CHF的进展直接相关嘶] 。
+目前对CHF的治疗主要通过降低心率、减轻心脏负
+荷和抑制重塑来降低能量消耗，而不是改善能量产
+生不足的问题。因此，如何改善高能代谢产物的稳
+态成为心血管领域研究的热点。
+人参皂苷Rbl ( Gs—Rbl ) 是从五加科植物人参中
+提取的人参皂苷的主要成分．在体内和体外均可改
+善CHF，保护心脏免受缺血和／或再灌注损伤‘
+¨ 31。本
+课题组既往研究表明．Gs—Rbl 可以改善衰竭心脏的
+脂肪酸B一氧化[ 12] 、葡萄糖摄取Ⅲ和糖酵解[ 13] 过程，提
+示Gs—Rbl 可能是一种改善CHF心肌能量代谢的潜
+在药物。腺苷酸活化蛋白激酶( AMPK) 是脂代谢及
+糖代谢的主要调控分子。在细胞能量稳态调节中起
+关键作用，可促进各种组织中ATP的产生并抑制
+ATP的消耗途径。本研究尝试证实Gs．Rbl 可通过
+AMPK途径改善心肌能量代谢．进而改善心功能。
+1材料与方法
+1．1
+实验材料
+8周龄雄性Wi st ar大鼠，35只，体质量150～
+180 g，购自中国医科大学实验动物中心，许可证
+号：SCXK( “ ao) 2010—0001。本研究获得辽宁省人民
+医院伦理委员会批准( 审批号20200511) 。
+1．2试剂
+阿霉素( Adr，美国Si gma公司，批号1382733) ，
+Gs．Rbl ( 纯度99．5％，中国武汉市中医药研究中心，
+批号20030213) ，腺嘌呤9一B—D一阿拉伯呋喃糖苷
+( AraA，美国Gi bco公司，批号1581483) ，5’
+一氨基咪
+唑一4一甲酰胺核苷( Ai caur，美国Gi bco公司，批号
+1273347) 。
+1．3
+CHF模型的建立及动物分组
+按下述方法构建大鼠CHF模型[ 14] ：根据大鼠体
+质量腹腔内注射Adr( 0．4 mg／mL) ，3 d注射1次，连
+续5次；之后每周1次，共5次。应用Adr 14天，经
+心脏超声心动图检查证实CHF模型成功构建后，
+随机将其分为6个实验组：CHF组、Gs—Rbl 组、
+AraA一1组( 单纯给予AraA) 、AraA一2组( 联合给予
+AmA和Gs—Rbl ) 、Ai car一1组( 单纯给予Ai caur) 和
+Ai ca卜2组( 联合给予Ai car和Gs—Rbl ) ，每组5只。
+另外选取鼠龄、体质量匹配的健康大鼠5只作为对照
+组。G甜池1、AraA和Ai car均新鲜配置，即溶于1 mL无
+菌生理盐水，根据大鼠体质量分别完成腹腔注射G甜池1
+( 10 m∥ mL) 、AraA( 50 m咖L) 和Ai car( 50 mg，mL) ，
+每日1次，连续7 d。对照组和CHF组大鼠腹腔注射
+等体积生理盐水。第8天心脏超声心动图检查后，
+203
+万方数据
+取新鲜左心室组织供后续研究使用。
+1．4实验数据监测
+1．4．1超声心动图检查
+超声心动图检查是由1名对治疗分配不知情的
+研究人员操作超声心动图系统( 型号CFM- 725。7．5 mhz
+宽带换能器，美国Vi n肿ed公司) 完成。腹腔注射
+10％水合氯醛，大鼠麻醉后仰卧位固定，应用二维和
+M型超声心动图获得乳头肌水平的左室舒张末期容
+积( EDV) 和收缩末期容积( ESV) ；至少测量连续三
+个心动周期的上述左心室参数。左心室射血分数
+( LVEF) =( EDV—ESV) ／EDV× 100％。LVEF<45．00％
+为CHF诊断标准。取全血后，迅速分离、提取左心
+室，一80℃保存准备后续检测。
+1．4．2
+AMPK活性测定
+根据AMPK检测试剂盒( 日本CycLex公司，批
+号1382451) 使用手册的操作步骤测定AMPK活性。
+1．4．3心肌高能磷酸盐底物测定
+通过高效液相色谱一紫外光谱法( HPLC—UV) 测
+定高能磷酸盐底物水平，包括磷酸肌酸( PCr) 、二磷
+酸腺苷( ADP) 和三磷酸腺苷( ATP) 。
+1．5统计学方法
+采用SPSS 22．0进行统计学分析。计量资料以
+z± s表示，组间比较采用单因素方差分析。取a=0．05
+为检验水准。
+2结果
+2．1
+各组大鼠LVEF比较
+成功构建CHF大鼠模型。即Adr干预大鼠的
+LVEF值均小于45．00％。与CHF组比较，Gs—Rbl 组、
+Ai ca卜1组和Ai car- 2组LVEF均显著升高( p<0．05) ，
+但AraA一1组、AraA一2组显著降低( P<0．05) 。与Gs—
+Rbl 组比较。AmA一1组、AraA- 2组LVEF均降低
+( P<0．05) 。见表1。
+2．2
+各组大鼠AMPK活性比较
+与对照组比较。CHF组AMPK活性显著升高
+( P<0．05) 。与CHF组比较，AraA一1组、AraA一2组
+AMPK活性显著降低( P<O．05) ，Gs一趾1组、Ai car—l
+组和Ai car一2组AMPK活性均显著升高( P<O．05) 。
+与Gs—Rbl 组比较。AraA一1组、AraA_2组AMPK活性
+均显著降低( P<0．05) 。见图l 。
+2．3各组大鼠高能磷酸盐底物水平
+与对照组比较，CHF组PCr、ATP、ADP水平均显
+表1各组大鼠LⅦF比较( 互± 5，％)
+注：CHF为慢性心力衰竭，Gs—Rbl 为人参皂苷Rbl ，A融
+为腺嘌呤9一B—D一阿拉伯呋喃糖苷，Ai car为5’
+一氨基咪唑- 4一
+甲酰胺核苷，LVEF为左心室射血分数。
+与对照组比较，?P<0．05；与CHF组比较，中<0．05；与Gs—
+Rbl 组比较，▲ P<0．05。
+注：CHF为慢性心力衰竭，Gs—Rbl 为人参皂苷Rbl ，AmA为腺嘌呤9- B—D一阿拉伯呋喃糖苷，Ai car为5’
+一
+氨基咪唑- 4．甲酰胺核苷。
+与对照组比较，+尸<0．05；与CHF组比较，A尸<0．05；与Gs—Rbl 组比较，‘
+P．<0．05。
+图1各组大鼠腺苷酸活化蛋白激酶( AMPK) 活性比较
+万方数据
+著降低( p<O．05) ；与CHF组比较，Gs- Rbl 组、Ai car一1
+组、Ai ca卜2组PCr、ADP、ATP水平均显著升高( P<
+0．05) 。与对照组比较，CHF组A佃伊Cr显著降低
+( P<0．05) ；与CHF组比较，Gs—Rbl 组和Ai ca卜1组、
+Ai car一2组A11P，PCr显著提高( P<0．05) 。与对照组
+比较，CHF组ADP／ATP显著升高( P<0．05) ；与CHF
+组比较。Gs—Rbl 组和Ai car- l 组、Ai car- 2组ADP／ATP
+均显著降低( P<0．05) 。与Gs—Rbl 组比较，AraA一1
+组、AraA一2组PCr、ATP、ADP水平及ATP／PCr均降低
+( P<0．05) ，而ADP／ATP升高( P<O．05) 。见表2。
+表2各组大鼠高能磷酸盐底物水平比较( _；i ；± s)
+注：CHF为慢性心力衰竭，Gs—Rbl 为人参皂苷Rbl ，AraA为腺嘌呤9· B- D- 阿拉伯呋喃糖苷，Ai car为5’
+- 氨基咪唑4甲酰
+胺核苷，PCr为磷酸肌酸，A四为三磷酸腺苷，ADP为二磷酸腺苷。
+与对照组比较，’
+p<0．05；与CHF组比较，中<0．05；与Gs—Rbl 组比较，‘
+p<0．05。
+3讨论
+CHF是多种心血管疾病的终末阶段，是导致心
+源性死亡的主要原因之一。目前血管紧张素转化酶
+抑制剂、血管紧张素Ⅱ受体阻滞剂及B受体阻滞剂
+可以抑制CHF后心室重塑，降低患者病死率，但因
+其对血压及心率的不良影响，使其在部分患者中不
+能应用。目前，多种中药制剂已经被广泛应用于心血
+管疾病的治疗中．且临床效果明显[ 15‘
+161。Gs—Rbl 是
+人参提取物的主要成分，本研究发现，Gs—Rbl 组大
+鼠LVEF较CHF组升高，CHF大鼠的心功能得到显
+著改善，与既往研究结果一致[ 17。1引，提示Gs—Rbl 对
+CHF大鼠心肌能量代谢产生了积极影响。
+AraA为特异性AMPK抑制剂，Ai car为特异性
+AMPK激活剂。Ai car可以改善CHF，AraA则会导致
+CHF恶化。AMPK作为一种细胞能量调节器，被低细
+胞能量状态激活。从而发挥其在调解糖脂代谢方面
+的作用，包括糖酵解、游离脂肪酸代谢等n"。当细胞
+内的ATP减少，AMPK活性增加，一方面通过抑制
+胆固醇、糖原、脂肪的合成，减少ATP的利用；另一
+方面．通过促进葡萄糖转运、脂肪酸氧化，增加ATP
+的产生。AMPK的激活进一步提高ATP水平，ATP
+水平的提高可以为衰竭的心脏提供更多的能量，以
+维持正常的心功能。本研究发现CHF组大鼠AMPK
+活性显著升高，其升高可能与衰竭心肌的ATP减少
+相关。Gs—Rbl 组大鼠AMPK活性较CHF组明显升
+高．说明Gs—Rbl 具有与Ai car相似的作用，能提高
+AMPK的活性．其可通过AMPK途径改善心肌能量
+代谢。
+与代谢相关的AMPK在维持心肌能量稳定方
+面具有重要作用，ATP消耗增加及产生减少，均可激
+活AMPK，从而调节糖脂代谢活动，促进A口生成
+增加，维持正常心脏功能[ 啪¨ 。本实验显示，CHF组
+大鼠PCr、ATP、ADP水平显著降低，而Gs—Rbl 组大
+鼠以上指标均明显升高。说明Gs—Rbl 可以增加CHF
+大鼠心肌PCr、ATP、ADP水平，提高对衰竭心脏的能
+量供应。AMPK活化与受损心肌脂肪酸及葡萄糖代
+谢改变相关，在心肌能量代谢过程中发挥重要作用㈤，
+其活化能有效改善心功能㈣。本实验显示，CHF组
+ATP／PCr较对照组降低，而ADP／ATP较对照组升高，
+说明在CHF大鼠心肌组织中ATP的降低更明显，
+进一步证实了AMPK的激活可能与ATP相关。
+在CHF的治疗上，中医药疗法灵活多样，大量
+临床研究表明中医药治疗CHF疗效确切。中药成分
+复杂，作用途径多样，可以通过不同的作用机制提高
+衰竭心肌中ATP水平，提高对心肌细胞的能量供
+应，改善心功能。本研究虽印证了Gs—Rbl 对大鼠心
+功能的影响，但因样本量较少，尚有诸多不足，后续
+当扩大样本量，继续深入研究。
+[ 参考文献]
+[ 1] KATZ A
+M．I s
+t he
+f ai l i ng
+heart
+energy
+depl et ed?[ J ] ．
+205
+万方数据
+尘Q圣2生2旦
+出查主匡垫盔堂堂壑：
+箜璺Z鲞箜至塑
+Cardi ol
+Cl i n，1998，16( 4) ：633—644．
+[ 2] VENTURA·
+CLAPI ER R，GARNI ER A，VEKSLER V．Energy
+met abol i sm i n heart
+f ai l ure[ J ] ．J
+Physi ol ，2004，555( Pt l ) ：
+1．13．
+[ 3] S7n～NLEY WC，RECCHI A
+F
+A，LOPASCHUK G
+D．
+Myocardi al subs妇te met abol i smi n山e noHnal
+and f ai l i ng
+heart [ J ] ．Physi ol
+Rev，2005，85( 3) ：1093—1129．
+[ 4] I NGWALL J S，WEI SS R G．I s
+t l l e黼1i ng heaI t
+energy
+st arved?
+0n
+usi ng
+chemi cal
+energy
+t o
+support
+cardi ac
+f unct i on[ J ] ．Ci rc
+Res，2004，95( 2) ：135—145．
+[ 5] NEUBAUER S．7I he f ai l i ng heart ：an engi ne out of f uel [ J ] ．
+N End J
+Med，2007，356( 11) ：1140- 1151．
+[ 6] ZHANG M，SHAH A M．Rol e of
+react i ve oxygen speci es
+i n myocardi al
+remodel i ng[ J ] ．CuI T Hean Fai l
+Rep，2007，
+4( 1) ：26_30．
+[ 7] KONG K，WANG W，u
+Z Q，et
+a1．Ant i - hypoxi c
+e恐ct
+0f
+gi nsenosi de Rbl
+on neonat al
+rat
+cardi omyocyt es
+i s
+me—
+di at ed t hrough山e 8peci f i c act i vat i on of 出ucose帆nsponer4
+ex vi vo[ J ] ．Act a Ph删acol
+Si n，2009，30( 4) ：396．403．
+[ 8] ZHAO H P，LV
+D，ZHANG W，et
+a1．Gi nsenosi de—Rbl
+at t enuat es
+di l at ed cardi omyopat hy
+i n cTnT( R141W) t rans-
+geni c mouse[ J ] ．J
+Pha册acol
+Sci ，2010，112( 2) ：21舢222．
+[ 9] KONG H L，U Z Q，ZHAO Y
+J ，et
+a1．Gi nsenosi de Rbl
+pI Dt ect s
+cardi oI nyocyt es
+agai nst
+CoCl 2一i nduced
+apopt osi s
+i n
+neonat al
+rat s
+by
+i nhi bi t i ng mi t ochondri a pe瑚eabi Ii ty
+t mnsi t i on
+pore
+openi ng[ J ] ．
+Act a Pha珊acol
+Si n，2010，
+31( 6) ：687石95．
+[ 10] J I ANG Q S，HuANG x N，YANG G z，et
+a1．I nhi bi t or) r
+e￡f ect of 舀nsenosi de Rbl
+on cal ci I l euri n si gI l al p础way
+i n
+cardi omyocyt e
+hypert rophy i nduced by pmst agl andi n
+F20【[ J ] ．Acta Ph删acol
+Si n，2007，28( 8) ：1149一1154．
+[ 11] KONG H L，u
+Z Q，zHA0
+S
+M，，et
+a1．Apel i n—APJ
+e任宅ct s of gi nsenosi de—Rbl
+dependi ng on hypoxi a■ nduced
+f act or
+l a
+i n hypoxi a
+neonat al
+cardi omyocyt es[ J ] ．Chi n
+J
+I nt e铲Med，2015，21( 2) ：139—146．
+[ 12] KONG H L，HOU A J ，UU N N，et
+a1．The
+e￡f ect s
+of
+百nsenosi de Rbl
+on f at t y
+aci d p- oxi dat i on，medi at ed by
+AMPK，i n t he
+f ai l i ng heart [ J ] ．I mn
+J
+Basi c
+Med Sci ，
+2018，21( 7) ：731—737．
+[ 13] 孔宏亮，侯爱洁，陈晓明，等．HI F一1仪介导人参皂甙Rbl
+对缺氧心肌细胞葡萄糖代谢的调节[ J ] ．中国病理生理
+杂志，2016，32( 9) ：1621—1626．
+[ 14] KONG H L，HOU A J ，I J U N N，et
+a1．The
+eⅡbct s
+of
+舀nsenosi de Rbl
+on f at t y
+aci d p- 0xi dat i on，medi at ed by
+AMPK，i n
+t he
+f ai l i ng heart [ J ] ．I mn J
+Basi c
+Med
+Sci ，
+2018，21( 7) ：731_737．
+[ 15] 刘慧，刘静，刘聪，等．丹七片对缺血性心脏病大鼠模型
+能量代谢的调节作用[ J ] ．世界中医药，2021，16( 15) ：
+2322- 2327．
+[ 16] 刘聪聪，闰建玲，李达，等．中药注射液治疗慢性心力衰
+竭患者临床研究进展[ J ] ．山西中医药大学学报，2020，
+21( 5) ：388—391．
+[ 17] J URI C D，WOJ CI ECHOWSKI
+P，DAS D
+K，et
+a1．Pre—
+vent i on
+of
+concent ri c
+hypert mphy
+and
+di ast ol i c i mpai r-
+ment
+i n
+aort i c- banded
+rat s
+t reat ed讲t h resveratml [ J ] ．
+AmJ
+Physi ol
+Hean C№Physi ol ，2007，292( 5) ：H2138一
+H2143．
+[ 18] rI ' oWLER M C，HARDI E
+D G．AMP_act i vat ed
+pI ot ei n
+ki na8e
+i n
+met abol i c
+cont ml
+and
+i nsul i n
+si gnal i ng[ J ] ．
+Ci rc Res，2007，100( 3) ：328—341．
+[ 19] BEER M，SEYFARTH T，SANDSTEDE J ，et
+a1．Absol ut e
+concent rat i ons
+of
+hi gh—energy
+phosphat e
+met abol i t es
+i n
+nonnal ，hypert rophi ed，and
+f ai l i ng
+human
+myocardi um
+measured noni nvasi vel y
+wi t h 31P- SL00P magnet i c
+reso—
+nance 8pect mscopy[ J ] ．J
+AmCol l
+Cardi ol ，2002，40( 7) ：
+1267．1274．
+[ 20] CONWAY MA，ALLI S J ，0UWERKERK R，et
+a1．Det ec—
+t i on
+of
+l ow phosphocreat i ne
+t o
+A7I P
+rat i o
+i n f ai l i ng
+hy—
+penrophi ed
+human myoc棚di um by
+31P
+ma罢皿et i c
+reso．
+naI l ce
+spect mscopy[ J ] ．I J ancet ，1991，338( 8773) ：973—
+976．
+[ 21] TI AN R，NASCI MBEN L，KADDURAH—DAOUK R，et
+a1．
+Depl et i on
+of
+energy
+resenre vi a t he
+creat i ne ki nase
+re—
+act i on
+duri ng t he evol ut i on of
+heart
+f hi l uI 七i n cami omy-
+opami c hamst ers[ J ] ．J
+Mol
+CeU Cardi ol ，1996，28( 4) ：
+755—765．
+[ 22] DONG H W，ZHANG L
+F，BAO S L．AMPK
+regul at es
+energy met abol i sm山rough
+t he SI RTl
+si gnal i ng pat } 1way
+t o i mpmve
+myocardi al
+hypert rophy[ J ] ．
+Eur
+Rev
+Med
+Ph删acol
+Sci ，2018，22( 9) ：2757- 2766．
+[ 23] 金爱萍，李蔚，李冰，等．AMP激活蛋白激酶对慢性心力
+衰竭进展影响的实验研究[ J ] ．陕西医学杂志，2021，
+50( 1) ：3_6．
+万方数据

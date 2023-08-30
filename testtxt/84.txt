@@ -1,0 +1,576 @@
+◇ 基 础研 究 ◇ 
+·
+12 15
+· 
+中国临床药理学与治疗学 
+中国药理学会主办 
+C N 34 —1206 ／R ．ISS N 10 09 ．2 50 1 
+http：／／www ejcpt．COnl 
+20 18 N ov ：23 ( 11 ) ：12 15 —1220 
+miR一145 通过调节 SOD 活性介导人参皂苷 Rbl 
+对脑缺血再灌注损伤人鼠的脑保护作用 
+徐 慧 ，张 民远 ，戴勤学 
+衢 州市人民医院麻醉科 ，衢 州 324000 ，浙江 ；
+ 温州医科 大学附属第一医院麻醉科 ，温州 325000 ，浙江 
+摘要 
+目的 ：探 讨人 参皂 苷 Rbl 是 否通过减 少 
+miR 一145 含量来上调 脑缺血再灌注损伤大鼠脑组 
+织 SOD 活性 发挥 脑保 护 作 用。方 法 ：将 60 只 SD 
+大鼠按 随机数 字表 法分成模型组、生理盐水对照 
+组、人参皂苷 Rbl 组、人参皂苷 Rbl + miR一145 模 
+拟物 组 、人 参 皂苷 R bl + miR 一145 质控 品 组 ，每 组 
+12 只。采用大脑 中动脉 闭塞 ( MCAO) 法建立 大 
+鼠脑缺血 再灌注损伤模 型。人参皂苷 Rbl 组和 
+生理 盐 水对 照组 大 鼠在制 模后 即刻 分别 腹腔 注射 
+人参皂苷 Rbl ( 40 mg／kg) 和等量 生理盐水；人参 
+皂苷 Rbl + miR 145 模拟物组和人 参皂苷 Rbl + 
+miR ．145 质控 品 组 大鼠 在 制模 前 2 d 分 别侧 脑 室 
+注射 miRNA 145 模 拟物 和 miR NA 145 质控 品 ，其 
+他操作同人参 皂苷 Rbl 组 
+再灌注损伤后 24 h 
+测各组大鼠神经行 为学评分 ，其 中 6 只大鼠测量 
+脑梗 死体 积 ；另 6 只 大 鼠取 大 脑 皮 质 ，测 定 miR — 
+l 45 、超 氧 化物 歧 化 酶 ( SOD ) 含 量 。结 果 ：与 模 型 
+组比较 ，人参皂苷 Rbl 组大鼠行为学评分明显降 
+低 ( P < 0．05 ) ，脑梗 死 体 积 明 显减 小( 尸< 0 ．05 ) ，
+ 
+miR 一145 含 量 明 显 减 少 ( P < 0．05 ) ，SOD 活 性 明 
+显增加( P < 0．05 ) 
+与人参皂苷 Rbl 组，人参皂 
+苷 Rbl + miR—l 45 模拟物组大鼠行 为学评分明显 
+升 高 ( P < 0．05 ) ，脑 梗 死 体 积 明 显 增 加 ( P < 
+0．05 ) ，miR 145 含 量 明 显 增 加 ( P < 0．05 ) ，SOD 
+2()】8-0 8—12 收 稿
+2OI8-09-09 修 回 
+国家 自然科学基金资助项 目(81704180) 
+徐慧 ，女 ，本科 ，主任 医师，研 究方 向：脏 器保护 
+T e l ：l 3 15 70 0 7 6 8 
+E ．ma il ：1 30 8 2 9 3 6 3 8 @ qq．COB 
+戴 勤学，通信作者 ，男，博士 ，主治 医师，研究方向 ：脏器保护 
+T e l ：13695842272 
+E ．ma il ：65309 1408@ qq COnl 
+活性显著下降 ( P < 0．05 ) 。结论 ：人参皂苷 Rbl 
+可以通过 减 少 miR 一145 含 量 来上调 脑 缺血 再 灌 注 
+损 伤 大鼠脑 组 织 SOD 活 性发挥 脑 保护 作 用。 
+关键词 
+脑缺血再灌注损伤；人参皂苷 Rbl ；miR一 
+145 ；超氧 化物 歧化 酶 
+中图分 类号 ：R 965．2 
+文 献标 志码 ：A 
+文 章 编 号 ：1009—2501( 201 8 ) 11—12 15-06 
+doi ：10 ．12092／j ．issn．1009—250 1．2018．11．003 
+全球疾病负担研究显示 ，中国是全球卒 中危 
+险因素暴露水平较高 的国家之一 ，并且保持着较 
+高的发病率 和死亡率¨J 。脑卒 中病 理过程 损伤 
+涉及一系列复杂 的机制 ，包 括氧化应 激 、ATP 耗 
+竭 、兴奋毒性 、凋亡 和炎症等 。J。氧化应激被认 
+为是早期重要的损伤机制 ，通过耗竭内源性 的抗 
+氧化物质引起 脑缺血再 灌注 损伤 J。已有研 究 
+报道人参皂苷 Rbl 具有脑保护作用 ，并且与上 调 
+超氧化物歧化酶 ( SOD) 有关 
+。已有研究显 示 
+微小 RNAs ( microRNAs，miRNAs) 参与 了氧化 应 
+激的调节过程 
+，其 中 miR一145 参 与了脑缺血再 
+灌注损伤过程中 SOD 的调节 j。并且人参皂 苷 
+Rbl 对 miRNA 的调控效 应近年来 也有报 道 
+。 
+因此 ，我们推测人参皂苷 Rbl 通 过减少 miR一145 
+含量来上调脑缺血再灌 注损伤大 鼠脑组织 SOD 
+含量发挥脑保护作用 ，本实验将对此进行研究。 
+1
+材 料与方法 
+1．1 
+实验动物 
+健康成年雄性 sD 大 鼠 60 只， 
+体质量( 280 ± 20 ) g，由温州医科大学实验动物 中 
+·
+l 2 16 · 
+心提供 ，动 物 使 用 许 可证 号 ：SY X K ( 浙 ) 20 15— 
+0009 。饲养条件为室温 20 ～25 ℃ ，湿度 50％ ～ 
+70％ ，光照 12 h 每笼 5 只 ，适应性喂养( 自由摄取 
+普通清洁级饲料和饮用矿泉水) 7 d。 
+1．2 
+主要试剂及仪器 
+10％水合氯醛 ；人参皂苷 
+Rbl ( 上 海 同 田 生 物 技 术 有 限 公 司，批 号 ：
+ 
+10073425 ) ；氯 化 三 苯 四 唑 ( 1丫rC ) ( sigma 化 学 试 
+剂公司 ，批号 ：T8877 ) ；PCR 试剂盒 ( 美国赛默飞 
+世尔 科 技 ) ；微 小 R NA一145 模 拟 物 ( miR NA．145 
+mimics ) ( Dharmacon 公 司 ，批 号 ：C一320377-05— 
+0010) ；微 小 RNA ．145 模 拟物 阴性质 控 品 ( miR— 
+NA．145 mimics NC ) ( Dharmacon 公 司 ，批 号 ：CN一 
+001000-0 1-0 5 ) ；SOD 活性测定试剂盒 ( 南京建成 
+生物工程研究所 ，批号 ：20160218 ) ；引物合成( 上 
+海生工生物工程有 限公 司) 。大 鼠脑槽 ( 深圳市 
+瑞沃德生命科技有限公司 ) ；制 冰机 ( Scotsman 公 
+司) ；脑立体定位仪( 深圳市瑞沃德生命科技有 限 
+公司) ；1030D 微量 注射 泵 ( 美 国阿尔扎公 司) ；
+ 
+PCR 仪器( 美 国 BIO—RAD 生命 医学产 品有 限公 
+司 ) 。 
+1．3
+方法 
+1．3．1 
+分组
+按随机数字表法将大 鼠分成模 型 
+组 、生理盐水对照组 、人参皂苷 Rbl 组 、人参皂苷 
+Rbl + miR一145 模拟 物组 、人参 皂苷 Rbl + miR一 
+145 质控品组 ，每组 12 只。 
+1．3．2 
+MCAO 模型制备
+按照大脑中动 脉栓塞 
+( MCAO) 法复制大鼠脑缺血再灌注损伤模型 
+， 
+即大鼠麻醉后仰 卧位 固定 ，分 离右侧颈 内动脉与 
+颈外动脉将颈外 动脉结扎并剪断 ，拉直颈外动脉 
+与颈内动脉成一直线 。将供 MCAO 专用 的线栓 
+由颈外动脉经颈总动脉进 至大脑 中动脉起 始处。 
+缺血 120 min 后抽 出线栓 ，结扎缝合。整个过程 
+监测大鼠肛温度 ( 37 ± 0．2 ) ℃。神经行为学 
+≥ 
+1 分的大 鼠纳入本研究 ，再灌注 24 h 取组织。 
+1．3．3
+人参皂苷 Rbl 给 药方法 
+人参皂苷 Rbl 
+粉末购 自上海 同田生物技术股 份有 限公司，溶解 
+于生理盐水配置所需注射液。人参皂苷 Rbl 组 、
+ 
+人参皂苷 Rbl + miR一145 模拟物组 、人参皂苷 Rbl 
++ miR一145 质控品组大 鼠在制模 后即刻腹腔注射 
+人参皂苷 Rbl ( 40 mg／kg) ，生理盐水对照组在制 
+模后即刻腹腔注射等量生理盐水。 
+1．3．4
+微 小 RNA一145 模拟物给药方法
+将微小 
+RNA一145 模拟物或 微小 RNA一145 模拟物 阴性 质 
+控品溶解到生理盐水 中，浓度为 20 nmol／mL ，用 
+1030D 微 量 注射 泵 以 1 glJ h 的 速 度 侧 脑 室 输 
+注’ 
+，给药 2 d 后开始造模 。 
+1．3．5 
+神经行为学 longa 评分 “ 
+24 h 取样前 
+对大鼠采用单盲法进行大 鼠神经行 为学 longa 评 
+分。无功能障碍为 0 分 ；不能伸展造模对侧前肢 
+级为 1 分；向造模对侧旋转 圈为 2 分 ；向造模对侧 
+倾倒为 3 分 ；无 自主活动伴意识障碍为 4 分。 
+1．3．6
+脑梗死体积测定
+脑梗死体积测定 ：再灌 
+注后 4 h 腹腔注射 10％水合氯醛 400 ra g／kg 麻 醉 
+大 鼠，断头 取脑组织于脑槽 进行冠状切 片，置 于 
+T I'C 溶液中浸泡 20 min，梗死区域呈苍 白色 ，正常 
+组织呈红色 ，拍照并 存储后 用 hnage—Plus 6．0 软 
+件分析。脑梗死体积 ( ％ ) = 梗死侧梗死体积／全 
+脑体积 X 100％。 
+1．3．7 
+mi R一145 表达检测 
+用 TRIzol 法提取 总 
+RNA 。参照说 明书进 行 miR一145 反转 录反应 ，反 
+转 录产 物 进 行 实 时 qPCR 反 应 ，检 测 miR 一145 表 
+达 ；引 物 序 列 ( 5 "-3 ) 为 GUCCAGUUUUCCCAG— 
+GAAUCCCU，U6 为内参照。PCR 条件 ：95 ℃ 、10 
+ra in 之后 95 ℃ 、15 S，60 ~12 、1 min 循 环 40 次 。采 
+用相对定 量法 ( △ △ c t 法 ) 进行半 定量 分析 ，用 
+2 
+值表示 目的基因的相对表达量。 
+1．3．8
+大脑皮质 SOD 含量测定
+取缺血侧大脑 
+皮质组织进行匀浆 ，4 
+离心 10 min，取上清液测 
+定 SOD 含量 ，操作参照试剂盒说明书步骤进行。 
+1．4
+统计学方法
+使用 SPSS 17．0 软件进行分 
+析，非正态分布计量数据 以 中位数 ( 范 围) 表示 ，
+ 
+组问比较采用非参数秩和检验 K ruska1．W allis 法 ，
+ 
+两两 比较用 Nemenyi 法。正态分布计量数据 以均 
+数 ± 标准差( 
+± S) 表示 ，组间 比较采用单 因素方 
+差分析，方差齐采用 LSD 检验 ，方差不齐则采用 
+Tamhane 检验。P < 0 ．05 为差异有统计学意义 。 
+2 
+结果 
+2．1 
+大鼠神经行为学 longa 评分 比较 
+人参皂 
+苷 Rbl 组神经行为学评 分较模型组 明显改善 ，但 
+人参皂苷 Rbl + miR一145 模拟物组神经行为学评 
+分较人参皂苷 Rbl 组 明显增 高( P < 0 ．05 ) ；生理 
+盐水 对照组较模 型组 以及人参皂苷 Rbl + miR一 
+145 质控品组 较人参皂 苻 Rbl + miR一145 模拟物 
+生国f瞳 
+垫理堂 
+渔痘堂 
+8 Nov；23( 1 1) 
+组神 经 行 为 学 无 统 计 学 差 异 ( P > 0
+． 05 ) 
+Tab· 1 
+C omparison of behav ior score between groups ( n = 12 ) 
+·
+l 2 17 · 
+c 。m pa re d wi th Mode1 g rouP
+， 
+’ ．
+p < O．05 ；eompared with G inse nosides R b l gr0up
+， 
+P < 0 ．0 5  
+2·2
+各组大鼠脑 梗死体 积 比较 
+人参皂苷 Rbl 
+组 脑梗 死体 积较模 型组 明显缩 小 ，但人参皂 苷 
+Rbl + miR_145 模拟 物组脑梗 死体 积较人参皂苷 
+Rbl 组明显增加 ( P < 0．05 ) ；生理盐水对照组较 
+模型组以及人参皂苷 Rbl + miR．145 质控品组较 
+人参皂苷 Rbl + miR一145 
+统计学差异( P > 0．05 ) 。 
+模拟物组脑梗死体 积无 
+见 Tab．2 ，F ig．1。 
+F ig · 1 
+C om pa r is on o f  th e in f ar c t v ol um e bet ween gr o up s 
+A ：M 
+“ p ；B ：N 。丌l】
+a 
+in e co nt ro l gr o u p ；C ：G insenosides R b l gro“ p ： D ：G insenoside s R b l + miR NA
+． 14 5 
+ic 
+g rnup ；E ：G  
+c~s ide s Rb l
++ mi R N A 一14 5 m im ics N C group
+．  
+C om pare d w ith Model group
+， 
+P < O．0 5 ；compared with G inse n0sides R bl gr0up
+， 
+P < 0 ．0 5 
+·
+l 2 l 8 · 
+2．3
+各 组 大 鼠 皮 质 miR ．145 含 量 和 SOD 活 性 
+比较
+人参皂苷 Rbl 组 miR一145 含量较模型组明 
+显减少，SOD 活性明显增加 ( P < 0．05 ) ；人参皂苷 
+Rbl + miR一145 模 拟物组 miR一145 含量较人参 皂 
+苷 Rbl 组 明显 增 加 ，SOD 活性 明显 减 少 ( P < 
+0．05) ；而生理盐 水对照组较模 型组 以及人参 皂 
+苷 Rbl + miR一145 质 控 品组 较 人参 皂苷 Rbl + 
+miR 一145 模 拟物 组 无 统 计学 差 异 ( P > 0．05 ) 。见 
+T a b ．2 
+3 
+讨论 
+MicroRNAs 是一类长度 18 到 24 个核苷酸左 
+右的非编码 RNA ，通过碱基互补配对结合靶 mR— 
+NA ，随后阻遏或使 mRNA 变得不稳定 ，发挥其转 
+录后调控作用 
+。生物信息学分析估计 ，哺乳动 
+物基 因组 中有 60％ 以上的基 因可以被 miRNA 靶 
+向调控。miRNAs 参 与大多数生物学途 径和细胞 
+过程 ，包括细胞增殖 、凋亡 、细胞发育和细胞信号 
+转导等 
+。已经 有大量研 究报道 miRNAs 参 与 
+了脑 缺 血 再 灌 注 损 伤 的 氧 化 应 激 过 程 ，”  。 
+Dharap 等 
+对大 鼠 MCAO 模 型再灌 注后从 3 h 
+到 3 d 等 5 个不 同时间点 ，进行 脑皮层组织 mi— 
+croRNA 含量分析 ，发现脑缺血再灌注损伤过程 中 
+有 238 个 microRNA 发生不 同程度 的改变 ，其 中 
+miRNA一145 是少数几个存在 5 个时间点均升高的 
+miRNA 之一 ，并且在再灌 注后 1 d 升高幅度达到 
+8．1 倍 ，随后 Dharap 等通过 miR一145 拮抗剂预处 
+理大鼠使其 miR 一145 表达 明显下降 ，经造模处理 
+后发现其较对照组 SOD 含量明显升高 ，并且脑梗 
+死体积明显缩 小 ，证实 了 miR一145 在脑缺血再灌 
+注损伤过程 中通过下 调 SOD 损伤 大脑 的机制。 
+已经有大量的研究通 过荧光素酶分 析方法证实 
+miR 一145 的靶 蛋 白是 Smad3 蛋 白 ，即 miR 一145 抑 
+制 Smad3 蛋 白的合成 
+。而 Kandhare 等l1 发现 
+在实验 伤 口模 型 中，应 用 柚 皮 苷 软 膏 配 方 组 
+Smad3 蛋白含量较单纯模型组增加 ，SOD 活性较 
+单纯 模 型 组 升 高。并且 He 等 
+。在 氧糖 剥 夺 
+( OGD) 模 型 中 发 现 激 活 素 A 可 以通 过 上 调 
+Smad3 蛋白表达提高 SOD 活性从而提高 PC12 细 
+胞的存活率。总之 ，miR-145 可以调控 SOD 活性 
+影响氧化应激水平。 
+氧化应激被认为是脑卒中早期重要的损伤机 
+制 ，通过耗竭内源性 的抗氧化物质 引起脑缺血再 
+灌注损伤 。。SOD 是 生物体 内非 常重要 的抗 氧 
+化酶 ，通过与 O 反应形成过氧化氢 ，参与清除氧 
+自由基从而保护细胞 免受氧化性损害 ，SOD 的活 
+性高低直接反映 了机体清除 自由基 ，抗氧化能量 
+的强弱¨ 。当缺血再灌注损伤发生时 ，SOD 活性 
+明显下降，而上调 SOD 活性可以有效改善脑缺血 
+再灌注损 伤引起 的损伤 
+。并且人 参皂 苷 Rbl 
+在多种动物疾病模 型中均发现具有上调 SOD ，拈 
+抗氧化应激 发挥 脏器保 护 的作用 
+。戴 勤学 
+等 
+在脑缺血再灌 注损伤模 型中也发现 SOD 活 
+性明显降低 ，而经人参皂苷 Rbl 处理老 鼠，脑组 
+织 SOD 活性明显增加 。 
+人参皂苷 Rbl 通过调控 miRNA 发挥药理作 
+用也 已存在 大量 的研究 。人参皂苷 Rbl 可以在 
+转 录后 水 平 下 调 miR。25 水 平 减 轻 对 靶 基 因 
+COL1A2 抑制，促进 I 型胶原蛋 白的合成 
+，而通 
+过下调 miR一27b 减 轻对 其 靶基 因 PPAR 。 
+的抑 
+制 ，促进成脂作用 
+。人参皂苷 Rbl 还可以调节 
+肿瘤合并心肌缺血模型中肿瘤组织和心肌组织 的 
+miR一28a 水平 ，并且调节是双向的，但其靶基 因未 
+做进一步研究 
+。而 人参皂苷 Rbl 对 miR一145 
+的调 节 目前还 尚未 见报 道 。 
+本研究显示 ，人参皂苷 Rbl 组大 鼠神经行为 
+学较模型组明显改善 ，脑梗死体积明显减小 ，miR一 
+145 含量明显减少 ，SOD 活性明显升高 ，说 明人参 
+皂苷 Rbl 具有 脑保护作 用。而人 参皂苷 Rbl + 
+miR一145 模拟物组大鼠神经行为学评分较人参皂 
+苷 Rbl 组明显 增加 ，脑梗死体 积明显增加 ，miR一 
+145 含量明显增多 ，SOD 活性明显下降 ，说明减少 
+miR一145 可能参与 了人参皂苷 Rbl 对脑缺血再灌 
+注损伤大 鼠的恼保护 作用 。而人参 皂苷 Rbl + 
+miR一145 质控 品组神经行为学评 分 、脑梗死体积 、
+ 
+miR一145 含量以及 SOD 活性 与人参皂苷 Rbl 组 
+比均无统计学差异 ，说明 RNA 物质本身不具有神 
+经毒性 ，该物质对本实验结果无影响 
+本实验未 
+观察 氧化 应 激其 他 相 关指 标 ，如 MDA 、CAT 和 
+ROS 等的改变 ，它们的进一步检测 可能有助于完 
+善人参皂苷 Rbl 调节 miR一145 发挥脑保护作用的 
+机制 。 
+综 卜所述 ，人参皂 
+Rbl 可 以通过减少 miR一 
+145 含髓来上调 脑缺 血再灌 注损伤 大 鼠脑组织 
+国临床 药理学 与治疗学 2018 N r 
+23( 1 1 
+SOD 活性 ，进而产生对脑缺血再灌注损伤大 鼠的 
+脑保护作用 。 
+[ 2 ] 
+[ 3 ] 
+[ 4 ] 
+[ 5 ] 
+[ 6 ] 
+[7 ] 
+[ 8] 
+[9 ] 
+[ 10 ] 
+[ 11] 
+[ 12 ] 
+参 考 文 献 
+王陇德 ，王金环 ，彭斌 ，等．《中国脑卒 中防治报告 
+201@ 概要 [ J ] ．中国脑血管病杂志 ，2017，14 ( 4 ) ： 
+2 l 7 —22 4 ．
+ 
+Z hu X Y ， Ma P S ，W u W ，et a1． N eur0protec ti ve ac — 
+tions of  tau rine on hy poxic —isc hem ic b rai n dam age i n 
+neonatal rats 『J ] ．Brain R es Bull ，2016 ，124 ：295— 
+30 5 ．
+ 
+E nzm ann G ， K argaran S ， E ngelh ard t B ． 1sc h emia — 
+repef usion injury．in stroke ：impact of the brain barri— 
+ers and brai n im mu ne pri v i lege on neutrop hi[ f unc tion 
+『J ] ．Ther Adv Neurol Disord ，2018 ，11：1—15．
+ 
+Sos a P M ．Souz a M A D ，M ello —C arpes P B ．G reen tea 
+an d red te a from C amel li a s inens is parti al ly p rev ented 
+the m otor d efi c its a nd s tri atal oxidative dam age in duc ed 
+by hemorrhagic stroke in rats[ J ] ．2018 ：5 158724．
+ 
+刘慧 琳．人参皂 甙 Rb- l 对血管性 痴呆大 鼠认知 功 
+能障碍的防治作用 l_ D] ．第 四军医大学 ，20 13．
+ 
+戴 勤学 ，张荣 ，张 民远 ，等．腺苷 A2a 受体介导 人 
+参皂 苷 Rbl 增加脑 缺血／冉灌注损伤大 鼠的脑血 流 
+量[ J ] ．中国 中西 医结 合急 救杂 志，2016，23( 4 ) ： 
+3 37 —3 40 ．
+ 
+Song 1 ，Z h ang Z R ，Z hang J 1 ，et a1． Mi croR N A 一122 
+is invol ved in oxi dative stres s in i soni azid —in duc ed li ve r 
+injury in mice [ J ] ．Gene Mol Res Gmr，20 15 ，14 
+( 4) ：13258．
+ 
+D harap A ，B owen K ，P lac e R ，et a1．T rans ient foc al 
+is c hemi a ind uc es extens iv e temp oral 
+c hanges in rat 
+cerebral 
+microR NA om I J
+．
+ 
+J Cereb 
+Blood 
+F low 
+Metab ，2009 ，29 ( 4 ) ：675．
+ 
+郑思 道 ，于雯 ，王 宁 元．MicroRNA 介导 的人参 及 
+其活性成分药理作 用与机制 [ J ] ．ttc界 中西 医结 合 
+杂志 ，20 16 ，11( 6 ) ：880—883．
+ 
+L onga E Z ，W ein stei n P R ，C arlson S ，et a1．R ev ersi — 
+bl e m idd le ce reb ra l artery  oc c lu sion w ithout c ranlec to — 
+my in rats[ J ] ．Stroke ，1989 ，20( 1) ：84 ．
+ 
+X u W ．G ao L ．Z h eng J ．et a1．T h e roles of M icro R — 
+NAs in stroke ：possible therapeutic targets l J ] ．Cell 
+T rans ．20 18 ：96 36 897 l 87 73 36 1．
+ 
+Sohel M H ． E xtrac el lu lar／c irc ulati ng mic roR N A s ： Fe 一 
+[ 13 ] 
+[ 14] 
+[ 15] 
+[ 16 ] 
+[ 17] 
+[ 18 ] 
+[ 19] 
+[ 20] 
+[ 21] 
+[ 22 ] 
+·
+12 l 9
+· 
+lease mechanisms．functions all{1 challenges[ J ] ．Achi 
+¨ fe S ci ．2016 ，10 (2 ) ：175—186．
+ 
+L i P ，Shen M ，Gao F ，et a1．A n antago mir to Mic roR — 
+N A —
+．10 6 b．
+-5 p amel iorates eerehral isc h emi a an d reper·- 
+fusion injury in rats via inhibiting apoptosis anti oxida— 
+tive stress[ J ] ．Mol Neurobiol ，2016 ，54 ( 4) ：1—21．
+ 
+M egi orn i F ，C ial fi  S ，C imi no G ，et a1．E lev ated lev el s 
+of  mi R 一14 5 c orrel ate wi th SM A D3 do wn —regu lation i n 
+cystic：fi brosis patients [ J ] ．J Cystic Fibrosis，201 3，
+ 
+12( 6 ) ：797—802．
+ 
+K andh are A D ， Alam J ． P ati l M V K ． et a1． W oun d 
+heali ng poten ti al of  n ari ngin oi ntment form ula tion v ia 
+regu lating the expres sion of  i nfl ammatory ， a poptotic 
+and growth mediators in experi mental rats[ J ] ．Pharm 
+Biol，20 15 ，54 ( 3 ) ：4 194 32．
+ 
+H e J T ， Mang J ， Mei CL ，et a1． Neuroprotective 
+ef fec ts of  exogenou s ac tiv in A  on oxy ge n—
+-glu c ose depri -- 
+vation in PC12 cells[ J ] ．Molecules，2012 ，17 ( 1 ) ：
+ 
+3 15 —327 ．
+ 
+Z h u X Y ，Ma P S ，W u W ，et a1．N europ rotec ti ve ac — 
+tion s of  tau rine on hy poxi c —is c hemic  brain damage i n 
+neonatal rats [ J ] ．Brain Res Bull，2016 ，124 ：295— 
+3 05 ．
+ 
+K i kuc h i K ，K aw ahara K ，T an c haroen S ，et a1． T he 
+fr ee radi cal sc avenger ed aravone res c ues r ats from eer— 
+ebral infarction by attenu atin g th e rel eas e of h igh·-mob-· 
+ility group box一1 in neuronal cells [ J ] ．J Pharmacol 
+Expl Ther ，2009 ，329 ( 3) ：865．
+ 
+李朋．人 参 皂甙 Rhl 对大 鼠心 肌梗 死后 氧 化应激 
+及心室重构 的影响[ D] ．华中科技大学 ，2006．
+ 
+K wok H H ，Y ue P Y ，M ak N K ，et a1．G i nsen osid e R b 1 
+in duc es ty pe I c ol lagen express ion through p erox isom e 
+proliferator—activated receptor—deha
+[ J ] ．
+ 
+Biochem 
+Pharmacol ，20 12 ，84 ( 4 ) ：532—539．
+ 
+C h an L S ．Y ue PY ．K ok T W ．et a1．G i nsen osid e—R b l 
+promotes ad ip~~genes is th rough 
+regu lation of  P P A R y  
+and microRNA一27b [ J ] ．Hormones et m6tabolisme， 
+2012 ，44 ( 11) ：8 19．
+ 
+Y ang Q，Wang X ，C ui J ，et a1．Bidirectional regula— 
+ti on of an gi ogenesi s and mi R 一1 8 a express ion b y P NS in 
+th e nlous e model of tumor c omp lic ated by m yoca rd ial 
+ischemia[ J ] ．BMC Complement Ahem Med，14 ：1 83．
+ 
+·
+1220 · 
+Chin J C lin Pharmacol Ther 20 18 Nov ；23( 1 1) 
+M iR - 1 4 5 r eg u latin g S O D  a c tiv ity  m ed iated b r ain  p r otec tio n of  
+osides R bl in rats with cerebral ischemia—reperfusion inj ury 
+g m s en 。 
+x u Hui ，ZHANG Minyuan ，DAI Qinxue 
+Department of  Anesthesiology ，Q 
+0u People 
+Hospital ，Q 
+ou 324000 ，Z hej iang ，China ；。Department of  
+Anesthesiology ，the First Afi
+liated Hospital of  Wenzhou Medical University ，Wenzhou 325000 ，Z hej iang ，China 
+A B S T R A C T  
+A I M ： T o exp lore whether ginsen— 
+osides R b l c an inc rease the ac tivity of S O D in the 
+bra i n ti ssue of r ats wi th c er e bra l isc he mi a re per fusi on 
+inj ury by reducing the miR 一1 45 content，and play 
+the role of brain p rotection ．M E T H O D S ：S ix ty  S D 
+rats w ere randomly d iv ided into fi v e groups ：model 
+g roup ， normal saline 
+control g roup ， g insen osides 
+R b l gr ou p ，g in senosid es R b l
++ m iR NA 一14 5 m imics 
+g rou p and g insenosides R b l
++ m iR N A 一1 45 mimics 
+N C group ，1 2 rats in each g roup ． T he rats c ereb ral 
+isehemia reperfusion inj ury models were established 
+by th read embolism method to form middle c ereb ral 
+artery  occlusion ( MCAO) ．Aft er modeling，the rats 
+i n g i nsenosi de s R b l  a nd sal i ne contr ol g roup w er e 
+g iv en ginsenosides R b l and norm al saline resp ec — 
+tively ．T wo day s before model ing ，the rats in g insen— 
+osides R b l
++ m iR N A 一145 mim ic s an d g insenosides 
+R b l + miR NA 一145 mimics N C group received miR — 
+N A —-145 m imics and m iR N A —-145 m im ics N C throug h 
+lateral v entric le ，and other operations w ere sam e to 
+g insenosides 
+R b l 
+gr oup ． T wenty —four 
+hours 
+after 
+cerebral isehemia reperfusion inj ury ，the cerebral 
+tissues w ere tak en and the v olum e of eerebral infarc— 
+tion was measured in 6 rats in eac h gr oup ．T he eere— 
+bral cortex w as tak en from another 6 rats in eac h 
+g roup after ex ecution to detec t the c ontents of  m iR 一 
+1 45 and superoxide dismutase ( SOD ) ．R E SU L T S ： 
+C ompared with model g roup ，the rats b eh av ior sc ore 
+was lowered obviously ( P < 0 ．0 5 ) ，the infarct vol— 
+ume was markedly decreased ( P < 0．05 ) ．the c0n— 
+tent of  miR  14 5 was remarkably dec reased f P
+< 
+0 ．05 ) ．and the content of  SOD was signifi cantly in— 
+creased( P < 0．05 ) in the ginsenosides R bl group．
+ 
+C ompared with gin senosides R b l group ，the rats be— 
+havior score was obviously increased ( P < 0．05 ) ．
+ 
+the volu me of c ereb ral infarc tion w as m ark edly in - 
+creased ( P < 0．05 ) ，the content of miR ．145 was ob— 
+viously inereased ( P < 0 ．05 ) ．and the content of 
+SOD was signifi cantly decreased ( P < 0 ．05 ) in gin— 
+senosides R b l
++ m iR NA 一14 5 mimic s group ．C O N ． 
+C L U S I o N ：G insenosides R bl c an inc rease the ac． 
+tivity of S OD jn the b rain tissue of rats with cerebraJ 
+ischemia reperfusion inj ury  by reducing the miRNA 一 
+1 4 5 content ，and protect the b rain ．
+ 
+K E Y W OR D S 
+brain ischemia—reperfusion inj ury ； 
+g insenoside R b l ；miR 一1 45 ；superoxide dismutase 
+本 文编辑 ：彭京 亚 

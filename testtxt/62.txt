@@ -1,0 +1,411 @@
+CHI NESE J ( ) URNAL OF ANAT( ) MY V01．31 No．6 2008
+解剖学杂志2008年第31卷第6期
+人参皂甙Rbl 对老年性痴呆模型大鼠顶叶皮质
+肛一分泌酶及早老蛋白一1表达的影响’
+方欣杨吉平赖红△
+( 中国医科大学基础医学院解剖学教研室，沈阳110001)
+摘要
+目的：探讨人参皂甙Rbl 对老年性痴呆模型大鼠顶叶皮质p_分泌酶及早老蛋白一1( PS- I ) 表达水平的影响。方法：30
+只SD大鼠随机分为对照组、模型组和治疗组。模型组大鼠胃饲氯化铝200 mg· kg叫· d～，同时腹腔注射肛半乳糖
+60 mg· kg- 1· d～；治疗组大鼠于造模结束后，腹腔注射人参皂甙Rbl
+10 t t g· kg_1· d～。采用免疫组织化学方法和图像
+分析技术检测8一分泌酶及PS- 1的表达，通过Morri s水迷宫测试观察大鼠学习记忆能力的改变。结果：与对照组比较，模型
+组p分泌酶及PS I 的表达明屁增多，学习记忆能力明显下降；与模型组相比，治疗组p分泌酶及PS- I 的表达明显减少，学
+习记忆能力在第2天及第3天显著提高。结论：人参皂甙Rbl 可以抑制p分泌酶及PS- 1的表达。对老年性痴呆模型大鼠
+有一定的防治作用。
+关键词大脑皮质；8- 分泌酶；早老蛋白一1；人参皂甙Rbl ；阿尔茨海默病
+Ef f ect of gi nsenosi de Rbl
+on expressi on of I$- secretase and preseni l i n- 1
+i n t he pari et al
+l obe of Al zhei mer di sease- l i ke rat ’
+Fang Xi n，Yang J i pi ng，Lai Hong△
+( Depart ment of Anat omy。( 丑i na Medi cal Uni versi t y，Shenyang
+1 10001，Chi na)
+Abst ract
+Obj ect i ve：To i nvest i gat e t he ef f ect of gi nsenosi de Rbl
+on t he expressi on of psecret ase and preseni l i n- 1( PS- 1) i n
+t he
+pari et al
+l obe of Al zhei mer di sease- l i ke rat s．Met hods：Thi rt y SD rat s were randoml y di vi ded i nt o a cont rol group，a mod—
+el group and a t reat ment group．The model
+rat s were est abl i shed wi t h admi ni st rat i on of D- gal act ose 60 mg· kg一1· d一1 and
+al umi numchl ori de 200 mg·
+kg一‘
+·
+d～f or 2 mont hs．t he cont rol
+group were gi ven t he same dose of
+sodi um chl ori de，and
+t reat ment group were gi ven gi nsenosi de Rbl
+10弘g· kg一1· d一1
+f or 4 weeks af t er t he model
+rat s were est abl i shed．The ex-
+pressi ons of 13- secretase and PS- 1
+i n t he pari et al
+l obe were det ect ed by i mmunohi st ochemi st ry wi t h i mage anal ysi s．Morri s
+t est was used t O det ermi ne t he abi l i t y of
+l earni ng and memory．Resul t s：Compared wi t h t he cont rol group，t he l evel s of 争
+secret ase and PS 1 were si gni f i cant l y hi gher i n t he model group( P<O．05) ，and l earni ng and recogni t i on abi l i t y i n t hi s group
+was obvi ousl y worse( P<o．05) ；Compared wi t h t he model group，t he l evel s of p- secret ase and P孓1 were si gni f i cant l y l ow—
+er i n t he t reat ment group( P<O．05) 。and l earni ng and recogni t i on abi l i t y i n t hi s group was bet t er．The l earni ng and reeog—
+ni t i on abi l i t y was obvi ousl y i mproved on t he second and t he t hi rd day( P<O．05) ．Concl usi on：Gi nsenosi de Rbl
+has preven—
+t i re and t herapeut i c ef f ect
+on Al zhei mer di sease- l i ke rat s，vi a i nhi bi t i ng t he expressi on of psecret ase and PS- 1．
+Key words
+cerebral
+cort ex；psecret ase；preseni l i n- I ；gi nsenosi de Rbl ；Al zhei mer
+di sease
+阿尔茨海默病( Al zhemi er di sease，AD) 的主要病
+理特征之一是神经元间形成大量的以淀粉样蛋白( am—
+yl oi d prot ei n 8，A13) 为主的老年斑( seni l e pl aque，
+SP) 。A13的过量产生和聚集是AD发病机制中的始发
+因素和关键环节[ 1I ，是AD发生发展的共同通路。Ap
+产生过程中的两个关键酶是p及r分泌酶。p_分泌酶
+基因剔除的小鼠，大脑A口表达显著降低，动物发育正
+常，其组织形态、脑组织化学、血／尿成分、行为及神经
+· 辽宁省自然科学基金( 20062088)
+第l 作者E—mai l ．．si mabei nan@yahoo．eonL∞
+△ 通讯作者，E- mai l ：l ai hon988@126．corn
+收稿U期：2007一l l 一20；修回口期：2008- 04—17
+- - ——812· ———
+肌肉等与野生型幼鼠无明显差异[ 2] ，因此B- 分泌酶是
+开发AD治疗药物的一个理想靶点。早老蛋白一l ( Pre-
+seni l i n- 1，PSl ) 是AB产生的另一个关键酶r分泌酶的
+活性中心。敲除编码PSI 基冈的小鼠，r分泌酶活性
+降低80％，AB含量大大降低[ 3] ，因此PSI 是防治AD
+另一个很有潜力的靶点。人参皂甙( gi nsenosi de，GS)
+Rbl 在AD中作用如何，国内未见报道。本实验采用氯
+化铝联合D半乳糖的方法Hj 建立AD动物模型，观察
+人参皂甙Rbl 对顶叶皮层p分泌酶及PSl 的影响，以
+探讨药物的效果及作用机制。
+ 万方数据
+l 材料和方法
+1．1动物及分组
+选用相同环境下饲养的SPF级健康雄性sD大鼠
+30只，鼠龄12个月，体质量250 g左右( 中国医科大学
+实验动物中心提供) 。将大鼠随机分为对照组、模型组
+和治疗组，每组10只。
+1．2药品与试剂
+D一半乳糖( 购白北京化学试剂公司) ；人参皂甙
+Rbl ( 购自大连富生制药有限公司，纯度为60％) ，实验
+时采用生理盐水溶解，浓度为0．8 mg／ml ，一4℃保存；
+B一分泌酶抗体、PS- 1抗体购自北京博奥森生物科技有
+限公司；Am。抗体购自武汉博士德公司。
+1．3模型制作及给药
+模型组及治疗组腹腔注射D半乳糖60 nag· kg．1·
+d～，同时胃饲AI Cl 3水溶液200 mg· kg_1· d～，连续
+给药2月。对照组每日腹腔注射与模型组剂量相同的
+生理盐水，同时模型组胃饲剂量相同的蒸馏水。治疗
+组造模结束后1 d开始腹腔注射人参皂甙Rbl
+( 10 l ug· kg- 1· d_1) ，连续给药4周。
+1．4标本的收集
+大鼠腹腔注射10％水合氯醛0．45 g／kg麻醉，开
+胸，经升主动脉相继快灌生理盐水150 ml ，4％多聚甲
+醛灌注固定，持续30 mi n以上。断头取脑，置于新配
+4％多聚甲醛中后固定。石蜡切片，片厚7 t t m，切片贴
+到经多聚赖氨酸处理过的玻璃片上，40C保存备用。
+1．5免疫组织化学显色
+切片常规脱蜡至水。3％H：Q室温孵育5～10 mi n
+灭活内源性酶，蒸馏水洗3次后按照武汉博士德公司提
+供的即用型S—6出C免疫组织化学显色试剂盒步骤进行免
+疫组织化学显色，D址显色、苏木精复染，常规脱水、透
+明，中性树胶封固，摄片。三种抗体浓度均为1：300。
+对照实验采用空白对照，结果为阴性。
+1．6显微镜观察
+采用Lei ca摄像显微镜观察并照相。免疫阳性细
+胞在光镜下可见胞质或突起内有棕黄色颗粒，计数每
+张切片4个，随机高倍视野中阳性细胞数及D值后取
+平均值作为计数结果，随机10张切片计数结果取平均
+值为最后结果。
+1．7行为学检测
+所有动物于处死前5 d进行Morri s水迷宫行为测
+试，用于测试大鼠对水迷宫学习和记忆的获取能力。
+实验共经历5 d，第1日将大鼠放人水池( 不含平台) 自
+由泳2 mi n，让其熟悉水迷宫环境。之后每天分上、下
+午2个时间段，每段分别训练4次。训练开始时，将平
+台置于SW象限，每个时间段分别从池壁4个起始点将
+大鼠面向池壁放入水池，记录每次找到平台的时间( 逃
+避潜伏期) 和游泳路径。如大鼠120 S内找不到平台，
+由实验者将其引上平台，潜伏期为120 s，每次间隔
+4 rai n让大鼠休息，再进行下次实验。
+1．8统计学处理
+所有数据均以孟± 5表示，采用SPSSl 3．0软件包
+进行处理，组间差异采用方差分析。
+2结果
+2．1
+AB、p分泌酶、PS- 1的免疫组织化学显色
+对照组大鼠皮层内有少量的Af 3、p分泌酶、PS- 1
+阳性染色神经元；而模型组大鼠皮层内AB、p分泌酶、
+PS- 1阳性染色神经元数目均比对照组明显增加，胞体
+聚集，染色较深，大量棕黄色或棕褐色阳性颗粒位于神
+经元的胞质，突起及其分支、胞核不着色；治疗组上述
+各种抗体的染色结果与对照组接近( 图1～3) 。
+模型组和治疗组大鼠顶叶阳性标记细胞数目除治疗
+组的早老蛋白一1外，与对照组比较，差异均有统计学意义
+( P<o．05) ( 表1) ，蛋白含量比较，除治疗组的p分泌酶外，
+与对照组比较，差异均有统计学意义( P<o．05) ( 表2) 。
+表I 大鼠顶叶内阳性细胞数目比较( i 士J )
+Tab 1
+St at i st i cal
+resul t s of
+posi t i ve
+I _舶【roI l s i n t he
+pari et al
+l obe of rat ( r士$)
+。P<0．05"05 cont rol ；△ P<0．05 wmodel
+襄2大鼠顶叶内各种蛋白含■ 的比较( i 士$，D值)
+Tab 2
+Ci i i l l pl l rl sol l of prot ei ns expressi ons i n t he
+pari et al
+l obe of
+rat ( j 士s．D)
+。P<0．05。5 cont rol ：△ P<0．05 wmodel
+2．2
+Morri s水迷宫学习记忆能力检测结果
+大鼠在Morri s水迷宫中定向航行试验，各组平均
+逃避潜伏期日渐缩短。从第2日开始，模型组与对照
+组比较，平均逃避潜伏期明显延长( P<O．05) ；治疗组
+与模型组比较，平均逃避潜伏期在第2日及第3日有明
+显缩短，( P<O．05) ( 表3) 。
+表3各组大鼠学习记忆能力测试结果( i 士$)
+Tab 3
+Resul t s of l earni ng and memory t est
+i n each group( j 士s)
+Cont rol
+39．89- 4- 7．58
+16．15± 1．20
+l O．94士7．10
+9．05士2．40
+Model
+65．17士11．4l - 41．27± 1．18- 19．20士5．98。17．45± 2．35。
+Treat ment
+54．39± 20．02A
+24．48± 9．59△ 14．74± 4．04
+13．93± 3．44
+‘
+P<O．05
+735 L' OI I I FOl ；△ P<0．05∞model
+· - ——813· - - ——
+ 万方数据
+图1大鼠顶叶皮层神经元的A8表达，免疫组织化学显色，× 400。A：对照组；B：模型组；C：治疗组．
+图2大鼠顶叶皮层神经元的眄}泌酶表达，免疫组织化学显色，× 400。A：对照组；B：模型组；C：治疗组．
+图3大鼠顶叶皮层神经元的PS- 1表达，免疫组织化学显色，X400。A：对照组；B：模型组，C：治疗组．
+№1部expressi on i n pari et al l obe，i mmunohi st ochemi st ry st ai ni ng，× 400．A：Cont rol group；B：Model
+group；C：Treat ment group．
+№2 f l - seeret ase expressi on i n pari et al I obe，i mmunohi st ochemi st ry st ai ni ng．X 400．A：Cont rol group；B：Model group；C．- Treat ment
+group．
+№3 PS- 1 expressi on i n pari et al
+10be，i mmunohi st ochemi st ry st ai ni ng，X400．A：Cont rol group；B：Model group；C：Treat ment
+group．
+3讨论
+A13是由p淀粉样前体蛋白( 13- amyl oi d precursor
+prot ei n，APP) 经8、r分泌酶作用产生的。APP还可
+以经旷分泌酶作用产生可溶性的SAPP- a和CTFa，此
+途径可以阻止A8的形成和沉积[ 5] 。正常情况下这两
+种途径之间保持着一定的平衡，p级联假说[ 6] 认为当环
+境或基因突变导致APP代谢异常时，APP多经B、r
+分泌酶途径产生大量具有神经毒性作用的Ap；各种原
+因引起p和r分泌酶含量增多或活性过高．就会导致
+过多的Ap产生，因此抑制p、T- 分泌酶已成为治疗AD
+非常有潜力的靶点[ 7．9] ，其抑制剂的应用为AD的治疗
+提供了有效的途径[ ¨ ] 。国外已有应用p、7- 分泌酶抑
+制剂的报道[ 10] 。Si man等‘
+113认为早老蛋白一1本身就
+是r分泌酶，或者是组成7- 分泌酶复合物的主要部分。
+一8】4～
+本实验结果显示，与对照组相比，模型组大鼠顶叶皮层
+内Ap、p- 分泌酶与PS- 1表达均明显增高，平均逃避潜
+伏期也明显延长。Ap的产生与p_分泌酶与PS- 1表达
+相关的一致性以及行为学检测结果的一致性都说明，
+AB的异常分泌可能是通过p分泌酶与PS- 1的大量表
+达而实现的，这与AD脑的病理改变有一定的相似性，
+因此本实验制作的AD模型可作为AD理想动物实验
+模型，本实验检测的各组Ap、p- 分泌酶与PS- 1表达等
+指标可作为观察药物治疗AD的理想指标。
+人参是我国传统的益智药物。近年来，国内外均
+有人参能够易化学习记忆及改善动物学习记忆障碍的
+报道。人参的有效活性成分人参皂甙能明显地增强人
+的记忆力、辨别力，对老年人的大脑与神经系统有良好
+的改善作用【l 2|，可以通过抑制炎性细胞因子的表达而
+减少对神经元的损伤[ 1 31。已有报道表明，人参皂甙
+Rbl 可以通过促进乙酰胆碱( ACh) 释放、增加神经末
+ 万方数据
+梢摄取ACh而改善记忆[ 1 41，并可促进神经元突起再
+生，增强神经元抗损伤与凋亡的能力[ 1¨ 6|。但在较长
+期给予的情况下，Rbl 能否改善AD动物的脑损伤，进
+而改善其记忆功能，迄今未见有关报道。本实验结果
+显示，应用人参皂甙Rbl 后，AD大鼠皮层神经元中p
+分泌酶与PS- 1水平明显下降，A8的异常表达明显减
+少，AD大鼠学习记忆能力明显提高。提示人参皂甙
+Rbl 可能通过抑制分泌酶的表达而达到减少Ap的产
+生，提高模型大鼠的学习记忆能力的作用。然而，人参
+皂甙Rbl 究竟是通过何种机制，在分泌酶的基冈表达、
+转录、还是翻译过程中抑制了其活性还不清楚，需要做
+进一步的实验研究。
+参考文献
+[ 1] Wi rt hs O，Muhhaup G，Bayer T八A modi f i ed bet a—amyl oi d hy—
+pot hesi s：i nt raneuronal at x' t anul at i on of
+t he beta- amyl o／d t x' pt i de- t he
+f i rst st ep of
+a f at al e＆seade[ J ] ．J
+Net aDchem，2004，91( 3) ：513—520．
+[ 2] Roberds S L，Anderson J ，Basi
+G，et aL
+BACE knockout
+mi ce
+are heal t hy despi t e l acki ng t he pri mary bet a—secret ase act i vi t y
+i n
+brai n：i mpl i cat i ons f or Al zhei mer’
+s di sease t herapeut i cs 1' J 3．Hum
+Mol Genet ，2001．10( 12) ：1317—1324．
+[ 3] Zohar O，CavaUaro S，D’
+Agat a V，et
+a1．Quant i f i cat i on and di s—
+t ri but i on of bet a—secret ase al t ernat i ve spl i ce vari ant s i n t he rat and
+human brai n[ J ] ．Mol
+Brai n Res，2003，1 15：63—68．
+[ 4] 罗焕敏。肖飞．D半乳糖和i 氯化铝诱导小鼠产生类阿尔茨海默
+病变[ J ] ．中国药理学与毒理学杂志。2004，18( 1) ：22—26．
+[ 5] Kuramer C，Wehner S，Quast
+T。et aL Expressi on and pot ent i al
+f unct i on
+of
+bet a- amyl oi d
+precursor
+prot ei ns
+duri ng
+eut al l eous
+wound repai r[ J 3．Exp Cel l
+Res，2002，280( 2) ：222—232．
+[ 6] 陈生弟．神经病学[ M] ．第18卷．北京：人民军医出版社，2002：
+262—269．
+[ 7] 杨红旗，陈生弟．a分泌酶在阿尔茨海默病治疗中的作用[ J ] ．生物
+化学与生物物理进展。2006。33( 2) ：109—115．
+[ 8] 董炜疆．冯改丰．口分泌酶一治疗阿尔茨海默病的靶点[ J ] ．分子生
+物医学．2005，11( 10) ：865—867．
+[ 9] 鄙浩。姜风超．r分泌酶抑制剂研究进展[ J ] ．化学进展。2006，18
+( 2) ：356—362．
+[ 10] Yang F，协G P，BegumA N。et aL
+Curcumi n i nhi bi t s f ormat i on of
+amyl oi d bet a ol i gomers and f i bri Ls，bi nds pl aqu∞，and reduces amyl oi d
+i n vi vo[ J ] ．J
+Bi ol Chem，2005，280( 7) ：5892—5901．
+1, 11] Si man R，Vel j i J ．Subuni t composi t i on of
+7- secret ase and ef f ect of
+mut ant preseni l i n- 1[ J ] ．Neurobi ol Agi ng，2002，25( 1) ：177—181．
+1, 12] J ohnson DA，Zambon NJ ，Gi bbs R B。et
+a1．Sel ect i ve l esi on of
+ehol i nergi c neur ons i n t he medi cal
+sept ura by 192 I ( ；G—SAP( ) RI N
+i mpars l earni ng i n a del ayed mat chi ng t o posi t i on T- maze paradi gm
+[ J ] ．Brai n Res，2002。943( 1) ：132—141．
+1, , 133李玮，李林．褚燕琦，等．人参皂苷对邯诱导单核细胞培养上清液致
+神经细胞损伤的影响[ J ] ．中国药学杂志，2007，42( 21) ：1626- 1628．
+1, 14] Beni shi n C G，Lee R，Wang L C．et
+a1．Ef f ect s of
+gi nsenosi de
+Rbl
+on cent ral chol i nergi e met abol i sm口] ．Pharmacol ogy，1991，
+42( 4) ：223—229．
+1, 15] Li ao B，Newmark H．Zhou R Neuroprot eet i ve ef f ect s of gi nseng
+t ot al saponi n and gi nsenosi des Rbl
+and Rgl
+on spi nal
+cord nel l —
+rons i n vi t ro[ J ] ．Exp Neurol ，2002．173( 2) ：224—234．
+[ 1 6] Rudakewi ch M，Ba F，Beni shi nC G．Neurot rophi e and neuropro—
+t ect i ve act i ons
+of
+gi nsenosi des Rbl
+and Rgl
+r j ] ．Pl ant a
+Med，
+2001，67( 6) ：533- 537．
+( 编辑：王栋)
+( 上接778页)
+[ 2] Fri edman S L
+Hepat i c st el l at e cel l s：prot ean．muhi f unct i onal ，
+and eni gmati c
+cel l s of
+t he l i ver EJ 3．Physi ol
+Rev，2008，88( 1) ：
+125—1 72．
+[ 3] Yu Y，Yao AH，Chen N，et a1．Mesenchymal
+st ern cel l s over
+ex—
+pressi ng hepat ocyt e
+growt h
+f act or
+i mprove
+smal l —f or—si ze
+l i ver
+graf t s regenerat i on[ J ] ．Mol
+Ther，2007，15( 7) ：1382—1389．
+[ 4] Ki mW，Mat sumot o K，Bessho K，et a1．Growt h i nhi bi t i on and
+apopt osi s
+i n l i ver myof i brobl ast s promot ed by hepat ocyt e growt h
+f act or
+l eads t o resol ut i on f roml i ver ci rrhosi s[ J ] ．AmJ
+Pat hol ，
+2005。166( 4) ：1017- 1028．
+[ 5] Cramer T，Schuppan D，Bauer M，et
+a1．Hepat oct ye growt h f ac—
+t or andc- Met expressi on i n rat andhuman l i ver f i brosi s EJ ] ．Li ver
+I nt ．2004，24( 4) ：335—344．
+[ 6] 刘平，高云华．肝纤维化动物模趔的建立[ J ] ．世界华人消化杂志，
+2002，10( 6) ：693—695．
+[ 7] Qi u J F，Zhang Z Q。Chen W，et
+a1．Cyst ami ne amel i orat es l i ver
+f i brosi s i nduced by carbon t et rachl ori de
+vi a i nhi bi t i on
+of
+t i ssue
+t ransgl ut ami nase[ J ] ．Worl d
+J
+Gast roent erol ，2007，13( 32) ：
+4328- 4332．
+[ 8] 郭跃华，于小舫。于会群．围手术期肠内免疫营养对肝硬化肝切除
+大鼠肝再生的影响[ J ] ．中国普通外科杂志，2007，16( 3) ：258—260．
+[ 9] Goss J A，Mangi no MJ ，Cal l erg MP·
+et a1．Prost agl andi n E2
+down regul at es kuf f er cel l
+product i on of I L_1 and 11．- 6 duri ng
+he—
+pat i c regenerat i on[ J ] ．Am J
+Physi ol ，1993，264( 4
+Pt l ) ：
+GS01- G608．
+[ 10] 徐洪雨。李宝杰，王瑞峰，等．Not ch／J agged信号在肝部分切除后肝
+再生中的表达[ J ] ．胃肠病学和肝病学杂志．2007，16( 5) ：465- 467．
+1, 113
+Kanzl er S，Teuf el A。Gal l e PR．Li ver f unct i on t est
+t o predi ct
+he—
+pat i c f ai l ure af t er l i ver resect i on- expensi ve and wi t hout cl i ni cal
+rel —
+evance i - J - ] ．Zentral bl Chi r，2007，132( 4) ：267—273．
+1- 123
+Col akogl u T，Keskek M，Col akogl u S，et aL
+Serumendost at i n
+l evel s and regenerat i ve capaci t i es of normal and ci rrhot i c l i vers f 01-
+l owi ng part i al hepat ect omy i n mi ce：t he response
+t o di f f erent P
+, sect i on si zes[ J ] ．J
+Surg Res。2007，143( 2) ：337—343．
+[ 13] 李俊生，嵇振岭．肝硬化大鼠肝切除术后肝重量与功能恢复的研
+究[ J 3．南京铁道医学院学报．2000，19( 2) ：85—87．
+1, 143
+Herrmann J ，Haas U，Gressner A M，et
+aL TGF- bet a up- regu—
+l at es serumresponse f act or i n act i vat ed hepat i c st el l at e cel l s口] ．
+Bi ochi mBi ophys Act s。2007，1772( 1l 一12) ：1250—1257．
+[ 15] Huh G．Fact or M，Sanchez A，et aL
+Hepat oeyt e growt h f aaor／e- met
+si gml i ng pat hway i s requi red f or ef f i ci ent l i ver regeaaerat i on and repai r
+[ J ] ．Proc Nat l Acad Sci USA，2004，101( 13) ：4477—4482．
+1, 16] 赵峰．徐文。陈栋，等．肝硬化大鼠部分肝切除后TGF- 和C- met 蛋
+白在肝脏中的表达及其意义[ J ] ．中国现代普通外科进展，2002，5
+( 3) ：165—168．
+( 编辑：冀凯宏)
+· - ——815—· ——
+ 万方数据

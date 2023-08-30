@@ -1,0 +1,633 @@
+《癌 症 进 展》
+2022 年 12 月 第 20 卷 第 24 期
+ONCOLOGY PROGRESS, Dec 2022 Vol. 20, No. 24
+*论
+著*
+人参皂苷
+人参皂苷 Rh
+Rh2 联合顺铂
+联合顺铂+培美曲塞化疗治疗晚期肺癌的疗效
+培美曲塞化疗治疗晚期肺癌的疗效
+赵明燕
+#，胡述博，楚旭，秋玉珍
+驻马店市中心医院肿瘤内科，河南 驻马店 463000
+0
+摘要
+摘要：目的
+目的
+探讨人参皂苷 Rh2 联合顺铂+培美曲塞化疗治疗晚期肺癌的疗效及对患者肿瘤标志物及免疫
+功能的影响。方法
+方法
+根据治疗方式的不同将 106 例肺癌患者分为对照组和观察组，每组 53 例，对照组患者给予
+顺铂+培美曲塞化疗，观察组患者给予顺铂+培美曲塞化疗联合人参皂苷 Rh2 治疗。比较两组患者的临床疗效、
+血清肿瘤标志物[癌胚抗原（CEA）、糖类抗原 125（CA125）、细胞角质蛋白 19 片段抗原 21-1（CYFRA21-1）]水平、
+免疫功能指标（CD3
++、CD4
++、CD8
++，计算 CD4
++/CD8
++）及不良反应发生情况。结果
+结果
+观察组患者的治疗总有效率明
+显高于对照组患者，差异有统计学意义（P﹤0.01）。治疗后，两组患者血清 CEA、CA125、CYFRA21-1 水平均低于
+本组治疗前，且观察组患者血清 CEA、CA125、CYFRA21-1 水平均低于对照组，差异均有统计学意义（P﹤0.05）。
+治疗后，两组患者 CD3
++、CD4
++水平和 CD4
++/CD8
++均低于本组治疗前，CD8
++水平均高于本组治疗前，且观察组患者
+CD3
++、CD4
++水平和 CD4
++/CD8
++均高于对照组，CD8
++水平低于对照组，差异均有统计学意义（P﹤0.05）。观察组患
+者血小板减少、白细胞减少发生率均明显低于对照组，差异均有统计学意义（P﹤0.01）。结论
+结论
+人参皂苷 Rh2联
+合化疗可明显提高肺癌的疗效，减少化疗对机体免疫功能的损伤，降低肿瘤标志物水平和不良反应发生率。
+关键词
+关键词：肺癌；人参皂苷 Rh2；化疗；临床疗效
+中图分类号
+中图分类号：R734
+734.2
+文献标志码
+文献标志码：A
+doi
+A
+doi：10.11877/j.issn.1672-1535.2022.20.24.19
+Efficacy of ginsenoside Rh
+Efficacy of ginsenoside Rh2 combined with cisplatin and pemetrexed in the
+combined with cisplatin and pemetrexed in the
+treatment of advanced lung cancer
+treatment of advanced lung cancer
+ZHAO Mingyan
+#, HU Shubo, CHU Xu, QIU Yuzhen
+Department of Oncology, Zhumadian Central Hospital, Zhumadian 463000, He’nan, China
+Abstract: Objective
+Abstract: Objective
+To investigate the effect of ginsenoside Rh2 combined with cisplatin + pemetrexed in the treat-
+ment of advanced lung cancer and its influence on tumor markers and immune function of patients. Method
+Method
+A total of
+106 lung cancer patients were divided into control group and observation group according to different treatment methods,
+with 53 cases in each group. The control group were given cisplatin + pemetrexed chemotherapy, and the observation
+group were given cisplatin + pemetrexed chemotherapy combined with ginsenoside Rh2. The clinical efficacy, serum tu-
+mor markers [carcinoembryonic antigen (CEA), carbohydrate antigen 125 (CA125), cyto-keratin 19 fragment antigen 21-1
+(CYFRA21-1)] levels, immune function indicators (CD3
++, CD4
++, CD8
++, calculate CD4
++/CD8
++) and occurrence of adverse
+events were compared between the two groups. Result
+Result
+The total effective rate of treatment in the observation group was
+significantly higher than that in the control group, and the difference was statistically significant (P<0.01). After the treat-
+ment, the levels of serum CEA, CA125, and CYFRA21-1 in the two groups were lower than those before the treatment,
+and the serum levels of CEA, CA125, and CYFRA21-1 in the observation group were lower than those in the control
+group, and the differences were statistically significant (P<0.05). After the treatment, the levels of CD3
++, CD4
++, and CD4
++/
+CD8
++ in the two groups were lower than those before the treatment, and the levels of CD8
++ were higher than before the
+treatment, the levels of CD3
++, CD4
++, and CD4
++/CD8
++ in the observation group were higher than those in the control group,
+and the level of CD8
++ in the observation group was lower than that in the control group, and the differences were statisti-
+cally significant (P<0.05). The incidences of thrombocytopenia and leukopenia in the observation group were significant-
+ly lower than those in the control group, and the differences were statistically significant (P<0.01). Conclusion
+Conclusion
+Ginsen-
+oside Rh2 combined with chemotherapy can significantly improve the efficacy of lung cancer, reduce the damage of che-
+motherapy to the immune function of the body, and reduce the level of tumor markers and the incidence of adverse reac-
+tions.
+Key words:
+Key words: lung cancer; ginsenoside Rh2; chemotherapy; clinical efficacy
+Oncol Prog, 2022, 20(24)
+肺癌是目前严重危害人类生命健康的恶性肿
+瘤之一，近年来，随着人们生活水平的提高和生活
+方式的改变，肺癌的发病率呈逐年上升趋势
+[1]。目
+前，肺癌最有效的治疗手段是手术切除联合化疗，
+#通信作者（corresponding author），邮箱：wushi420064182@163.com
+2553
+《癌症进展》2022年12月第20卷第24期
+但部分患者确诊时已进展至中晚期，只能进行化
+疗
+[2]。化疗可抑制肿瘤细胞的生长、延缓疾病进
+展，但多数化疗药物存在细胞毒性，易引发严重
+的胃肠道不良反应，且化疗药物缺乏特异性，在
+杀死肿瘤细胞的同时会对患者机体免疫功能产
+生一定影响
+[3]。有研究发现，中医药治疗能够显
+著改善化疗效果
+[4]。人参皂苷 Rh2 是常见的低毒
+高效的抗肿瘤药物，能够与其他化疗药物协同发
+挥抗肿瘤作用，还能够增强机体免疫力
+[5]。本研究
+探讨人参皂苷 Rh2 联合化疗治疗肺癌的疗效，现报
+道如下。
+1
+资料与方法
+资料与方法
+1.1 一般资料
+一般资料
+选取 2020 年 2 月至 2022 年 2 月驻马店市中心
+医院收治的肺癌患者。纳入标准：①符合《2015 年
+肺癌诊疗指南：共识和争议》
+[6]中关于肺癌的诊断标
+准；②病理检查确诊为非小细胞肺癌，病理类型为
+鳞状细胞癌，TNM分期为Ⅲ~Ⅳ期；③无放化疗史。
+排除标准：①合并肝肾功能异常；②合并其他部位
+恶性肿瘤；③合并化疗禁忌证。依据纳入和排除标
+准，本研究共纳入106例肺癌患者，根据治疗方式的
+不同分为对照组和观察组，每组 53 例，对照组患者
+给予顺铂+培美曲塞化疗，观察组患者给予顺铂+培
+美曲塞化疗联合人参皂苷 Rh2 治疗。对照组中，男
+30例，女23例；年龄37~71岁，平均（55.22±5.36）岁；
+TNM 分期：Ⅲ期 37 例，Ⅳ期 16 例；体重指数（body
+mass index，BMI）为19.32~26.11 kg/m
+2，平均（23.12±
+1.26）kg/m
+2。观察组中，男 31 例，女 22 例；年龄 37~
+70 岁，平均（55.29±5.34）岁；TNM 分期：Ⅲ期 36 例，
+Ⅳ期 17 例；BMI 为 19.36~26.15 kg/m
+2，平均（23.19±
+1.21）kg/m
+2。两组患者性别、年龄、BMI、TNM 分期
+比较，差异均无统计学意义（P﹥0.05），具有可比
+性。本研究经医院伦理委员会批准通过，所有患
+者均知情同意并签署知情同意书。
+1.2 治疗方法
+治疗方法
+对照组患者给予顺铂+培美曲塞化疗：第 2 天，
+顺铂75 mg/m
+2静脉滴注；第1天，培美曲塞500 mg/m
+2
+静脉滴注；3 周为 1 个疗程，共治疗 2 个疗程。观察
+组患者给予顺铂+培美曲塞化疗联合人参皂苷 Rh2
+治疗，化疗方案与对照组相同，人参皂苷 Rh2 0.25 g
+口服，每天 2 次，连续治疗 10 天。
+1.3 观察指标和评价标准
+观察指标和评价标准
+①采用实体瘤疗效评价标准
+[7]评估两组患者
+的临床疗效：完全缓解，目标病灶完全消失，至少
+持续 4 周；部分缓解，病灶直径总和与基线相比缩
+小≥30%，至少持续 4 周；疾病稳定，病灶直径总和
+与基线相比缩小﹤30%或增大﹤20%；疾病进展，
+病灶直径总和与基线相比增大≥20%或出现新病
+灶。总有效率=（完全缓解+部分缓解）例数/总例
+数×100%。②治疗前后，抽取两组患者空腹静脉血
+5 ml，采用电化学发光法检测两组患者的血清肿瘤
+标志物水平，包括癌胚抗原（carcinoembryonic anti-
+gen，CEA）、糖 类 抗 原 125（carbohydrate antigen
+125，CA125）、细胞角质蛋白 19 片段抗原 21-1（cy-
+to-keratin 19 fragment antigen 21-1，CYFRA21-1）。
+③治疗前后，采用流式细胞术检测两组患者的免
+疫功能指标，包括 CD3
++、CD4
++、CD8
++水平，计算
+CD4
++/CD8
++。④比较两组患者的不良反应发生情
+况，包括血小板减少、白细胞减少、贫血、恶心呕
+吐、肝肾功能异常。
+1.4 统计学方法
+统计学方法
+采用 SPSS 21.0 软件对所有数据进行统计分
+析，正态分布计量资料以均数±标准差（x-±s）表示，
+组间比较采用 t 检验；计数资料以例数和率（%）表
+示，组间比较采用χ
+2检验；以 P﹤0.05 为差异有统计
+学意义。
+2
+结果
+结果
+2.1 临床疗效的比较
+临床疗效的比较
+观察组患者的治疗总有效率为49.06%（26/53），
+明显高于对照组患者的 24.53%（13/53），差异有统
+计学意义（χ
+2=6.856，P=0.009）。
+（表 1）
+2.2 血清肿瘤标志物水平的比较
+血清肿瘤标志物水平的比较
+治疗前，两组患者 CEA、CA125、CYFRA21-1
+水平比较，差异均无统计学意义（P﹥0.05）。治疗
+后，两组患者血清 CEA、CA125、CYFRA21-1 水平
+均 低 于 本 组 治 疗 前 ，且 观 察 组 患 者 血 清 CEA、
+CA125、CYFRA21-1 水平均低于对照组，差异均有
+统计学意义（P﹤0.05）。
+（表 2）
+2.3 免疫功能指标的比较
+免疫功能指标的比较
+治疗前，两组患者 CD3
++、CD4
++、CD8
++水平和
+CD4
++/CD8
++比较，差异均无统计学意义（P﹥0.05）。
+治疗后，两组患者 CD3
++、CD4
++水平和 CD4
++/CD8
++均
+低于本组治疗前，CD8
++水平均高于本组治疗前，且
+表 2
+治疗前后两组患者血清肿瘤标志物水平的比较
+治疗前后两组患者血清肿瘤标志物水平的比较
+指标
+CEA
+（ng/ml）
+CA125
+（U/ml）
+CYFRA21-1
+（ng/ml）
+注：
+*与本组治疗前比较，P<0.05
+时间
+治疗前
+治疗后
+治疗前
+治疗后
+治疗前
+治疗后
+对照组
+（n=53，x-±s）
+8.08±1.02
+3.06±0.21
+*
+36.29±4.16
+17.44±2.63
+*
+16.11±2.49
+12.97±1.75
+*
+观察组
+（n=53，x-±s）
+8.06±1.03
+1.98±0.18
+*
+36.48±4.09
+10.19±1.71
+*
+16.09±2.47
+9.34±1.16
+*
+t值
+0.100
+28.427
+0.237
+16.825
+0.042
+12.587
+P值
+0.920
+<0.01
+0.813
+<0.01
+0.967
+<0.01
+表 1
+两组患者的临床疗效
+两组患者的临床疗效[n（%）]
+*
+组别
+对照组（n=53）
+观察组（n=53）
+注：
+*构成比为修约值
+完全缓解
+0（0）
+0（0）
+部分缓解
+13（24.53）
+26（49.06）
+疾病稳定
+22（41.51）
+17（32.08）
+疾病进展
+18（33.96）
+10（18.87）
+2554
+ONCOLOGY PROGRESS, Dec 2022 Vol. 20 No. 24
+观察组患者 CD3
++、CD4
++水平和 CD4
++/CD8
++均高于
+对照组，CD8
++水平低于对照组，差异均有统计学意
+义（P﹤0.05）。
+（表 3）
+2.4 不良反应发生情况的比较
+不良反应发生情况的比较
+两组患者恶心呕吐、贫血、肝肾功能异常发生
+率比较，差异均无统计学意义（P﹥0.05）；观察组患
+者血小板减少、白细胞减少发生率均明显低于对
+照组，差异均有统计学意义（P﹤0.01）。
+（表 4）
+3
+讨论
+讨论
+肺癌的发病与吸烟、职业暴露、环境污染、结
+核、遗传等因素有关，多数患者早期缺乏明显症
+状，确诊时已进展至中晚期，以全身化疗为主的综
+合治疗是晚期肺癌患者的主要治疗手段
+[8-9]。
+肺癌的一线化疗药物多以铂类药物为基础，顺
+铂具有抗癌谱广、作用性强等优点，常与其他化疗
+药物联合使用，其通过损伤细胞膜表面结构，改变
+其抗原性，刺激机体发挥免疫作用，抑制肿瘤细胞
+增殖、转移
+[10]。但部分患者对顺铂的耐受性较低，
+肿瘤细胞对药物的敏感性较低，影响临床治疗效
+果。培美曲塞能够发挥多靶点抗叶酸代谢的作
+用，抑制胸腺嘧啶的合成，通过运载叶酸及合成蛋
+白的载体阻断叶酸靶点进入细胞内，作用于细胞
+周期中的 S 期，抑制肿瘤细胞 DNA 合成，发挥抗肿
+瘤作用，延长患者的生存时间
+[11]。但化疗药物在晚
+期肺癌靶器官中的浓度较低，难以达到理想的治
+疗效果，且易发生肿瘤转移，肿瘤细胞增殖和转移
+是患者病死率高的主要原因
+[12]。此外，化疗药物还
+会损伤机体正常的组织器官，破坏患者生理机能，
+引起骨髓抑制、血小板减少及白细胞减少等不良
+反应，影响患者的预后，因此，需要寻找低毒高效
+的抗肿瘤药物应用于临床
+[13]。
+中医认为，肺癌属于“肺积”“咳嗽”“痰饮”等
+范畴，病因为正气不足、邪气内侵、情志失调，导致
+肺气瘀滞、瘀阻脉络、痰凝气滞，日久形成肺部积
+块，化疗药物的不良反应也会进一步损伤后天之
+本，当以扶正祛邪、标本兼治、解毒散结、益气养阴
+为主要治疗原则
+[14-15]。人参是常见的强壮滋补类
+药物，具有固本补气、祛痰健胃、利尿兴奋等功效，
+其中的人参皂苷 Rh2，可影响肿瘤细胞新生血管生
+成，抑制肿瘤进展
+[16]。人参皂苷 Rh2 使用禁忌证
+为：对人参过敏、14 岁以下、妊娠期女性、合并严重
+心脏病或高血压等。
+肿瘤标志物可作为评价肺癌治疗效果及预后
+的依据，血清 CEA、CA125、CYFRA21-1 是常见的
+血清肿瘤标志物，肺癌患者 CA125 阳性表达异常
+升高，与肿瘤细胞生长、转移关系密切；血清 CEA
+分布于肿瘤细胞表面，肿瘤患者体内血清 CEA 水
+平升高，且 TNM 分期越高血清 CEA 水平越高；
+CYFRA21-1的浓度随肺癌进展而升高，其水平显著
+升高提示肿瘤已进展至晚期或较差的预后
+[17-18]。本
+研究结果显示，观察组患者的治疗总有效率为
+49.06%，高于对照组患者的 24.53%；治疗后，两组
+患者血清 CEA、CA125、CYFRA21-1 水平均低于本
+组治疗前，且观察组均低于对照组。表明人参皂
+苷 Rh2 联合化疗可明显提高肺癌的疗效，抑制肿瘤
+细胞生长。药理学研究表明，人参皂苷 Rh2 可通过
+上调抑癌基因 miRNA-16、miRNA-21 的表达，下调
+原癌基因 B 细胞淋巴瘤/白血病-2（B cell lympho-
+ma/leukemia-2，Bcl-2）的表达来发挥抑制肿瘤细胞
+侵袭、转移的作用；可通过糖酵解调节信号转导与
+转录激活因子 3（signal transduction and activator of
+transcription 3，STAT3）/c-myc、糖酵解途径关键酶
+M2 型丙酮酸激酶（pyruvate kinase M2，PKM2）、乳
+酸脱氢酶 A（lactic dehydrogenase A，LDHA）的表
+达，间接调节 CEA、CA125、CYFRA21-1 水平，抑制
+肿瘤细胞生长和转移，且具有一定的亲油及亲水
+特性，可进入细胞核杀伤肿瘤细胞，效果确切
+[19-20]。
+肿瘤的生长机制与机体的免疫应答关系密切，
+T 淋巴细胞主要参与体内的细胞免疫过程，在抑制
+肿瘤进展方面有重要作用。肺癌患者免疫功能低
+下，且化疗药物可损伤正常细胞，抑制 T 淋巴细胞，
+导致免疫系统紊乱
+[21]。本研究结果显示，治疗后，
+两组患者 CD3
++、CD4
++水平和 CD4
++/CD8
++均低于本
+组治疗前，CD8
++水平均高于本组治疗前，且观察组
+患者 CD3
++、CD4
++水平和 CD4
++/CD8
++均高于对照组，
+CD8
++水平低于对照组；观察组患者血小板减少、白
+细胞减少发生率均明显低于对照组；表明人参皂
+苷 Rh2 联合化疗应用于肺癌，可增强患者的免疫功
+能，降低血小板减少、白细胞减少等不良反应发生
+表 3
+治疗前后两组患者免疫功能指标的比较
+治疗前后两组患者免疫功能指标的比较
+指标
+CD3
++（%）
+CD4
++（%）
+CD8
++（%）
+CD4
++/CD8
++
+注：
+*与本组治疗前比较，P<0.05
+时间
+治疗前
+治疗后
+治疗前
+治疗后
+治疗前
+治疗后
+治疗前
+治疗后
+对照组
+（n=53，x-±s）
+60.11±5.33
+52.26±4.03
+*
+35.16±4.12
+31.03±3.01
+*
+29.05±3.12
+32.11±3.16
+*
+1.21±0.11
+0.98±0.05
+*
+观察组
+（n=53，x-±s）
+60.12±5.29
+57.98±4.39
+*
+35.24±4.11
+33.21±3.12
+*
+29.11±3.14
+30.21±3.23
+*
+1.24±0.12
+1.10±0.09
+*
+t值
+0.010
+6.988
+0.100
+3.661
+0.099
+3.061
+1.342
+8.485
+P值
+0.992
+<0.01
+0.920
+<0.01
+0.922
+<0.01
+0.183
+<0.01
+表 4
+两组患者不良反应发生情况的比较
+两组患者不良反应发生情况的比较
+不良反应
+血小板减少
+白细胞减少
+贫血
+恶心呕吐
+肝肾功能异常
+对照组
+[n=53，n（%）]
+32（60.38）
+29（54.72）
+26（49.06）
+26（49.06）
+8（15.09）
+观察组
+[n=53，n（%）]
+17（32.08）
+12（22.64）
+25（47.17）
+27（50.94）
+6（11.32）
+χ
+2值
+8.539
+11.495
+0.038
+0.038
+0.329
+P值
+0.003
+0.001
+0.846
+0.846
+0.566
+2555
+《癌症进展》2022年12月第20卷第24期
+率。人参皂苷 Rh2 能够通过调节中枢神经系统、提
+高心脏的收缩能力，促进机体新陈代谢，调节患者
+的机体营养状态，减缓体力衰退，增强抵抗力；可
+提高巨噬细胞以及 T 细胞活性，改善机体免疫功
+能
+[22-23]。人参皂苷 Rh2 能够促进 DNA、蛋白质、胆
+固醇、糖类物质的代谢，促进骨髓细胞有丝分裂，
+从而增加血液中血小板、白细胞、红细胞的数量，降
+低血小板减少、白细胞减少等不良反应发生率
+[24]。
+综上所述，人参皂苷 Rh2 联合化疗可明显提高
+肺癌的疗效，减少化疗对机体免疫功能的损伤，降
+低肿瘤标志物水平和不良反应发生率。
+参 考 文 献
+[1] Zhu LH, Wang Y, Lv W, et al. Schizandrin A can inhibit
+non- small cell lung cancer cell proliferation by inducing
+cell cycle arrest, apoptosis and autophagy[J]. Int J Mol
+Med, 2021, 48(6): 214.
+[2] Hansen RN, Zhang YD, Seal B, et al. Long-term survival
+trends in patients with unresectable stage III non-small cell
+lung cancer receiving chemotherapy and radiation therapy:
+a SEER cancer registry analysis[J]. BMC Cancer, 2020, 20
+(1): 276.
+[3] Yang H, Lu Y, Xu Z, et al. Gemcitabine plus platinum ver-
+sus docetaxel plus platinum as first line therapy for meta-
+static nasopharyngeal carcinoma: a randomized clinical
+study[J]. Saudi J Med Med Sci, 2021, 9(2): 125-134.
+[4] 熊雪芳, 孙德彬. 艾迪注射液对晚期非小细胞肺癌化疗增
+效减毒作用及对血清 VEGF 及 T 淋巴细胞亚群的影响
+[J]. 中华中医药学刊, 2021, 39(11): 217-220.
+[5] 孙小单, 王天鸣, 李慧, 等. 人参皂苷Rh2抑制人非小细胞
+肺癌细胞增殖的机制研究[J]. 中草药, 2022, 53(2): 441-
+448.
+[6] 陆舜, 虞永峰, 纪文翔. 2015年肺癌诊疗指南: 共识和争议
+[J]. 解放军医学杂志, 2016, 41(1): 1-6.
+[7] Watanabe H, Okada M, Kaji Y, et al. New response evalua⁃
+tion criteria in solid tumours: revised RECIST guideline
+(version1.1)[J]. Eur J Cancer, 2009, 45(2): 228-247.
+[8] 薛珊, 查琼芳, 赵旭霁, 等. CEA、CA125、CYFRA21-1、
+NSE和SCC对非小细胞肺癌化疗效果及进展评估的价值
+[J]. 山东医药, 2015, 55(25): 8-11.
+[9] 刘海涛, 衣秀秀, 田建辉. 肺癌中西医抗凝治疗研究进展
+[J]. 陕西中医, 2020, 40(1): 127-130.
+[10] 梁峥嵘, 程贵, 张涛, 等. 顺铂耳毒性与自噬关系的研究
+进展[J]. 临床耳鼻咽喉头颈外科杂志, 2020, 34(2): 189-
+192.
+[11] 卢央芳, 仇建波, 张占春, 等. 培美曲塞联合顺铂对晚期
+非小细胞肺癌的化疗效果和血清肿瘤标志物的影响[J].
+中国卫生检验杂志, 2019, 29(9): 1080-1082; 1088.
+[12] 慈雪萍, 孙庆明, 董皖辉. 自拟扶肺解毒方联合安罗替尼
+治疗晚期非小细胞肺癌的临床研究[J]. 中医药学报,
+2020, 48(9): 42-45.
+[13] Sagawa M, Machii R, Nakayama T, et al. The prefectural
+participation rates of lung cancer screening had a negative
+correlation with the lung cancer mortality rates[J]. Asian
+Pac J Cancer Prev, 2019, 20(3): 855-861.
+[14] 李小江, 郭婧瑶, 郭姗琦, 等. 针对靶向治疗非小细胞肺
+癌中医药作用"减毒增效"的研究进展[J]. 天津中医药,
+2020, 37(3): 350-354.
+[15] 张昱航, 许鹏. 从肿瘤微环境角度探讨中晚期肺癌的中
+医治疗[J]. 吉林中医药, 2021, 41(10): 1387-1392.
+[16] 林影, 李建红, 卢宏全, 等. 人参皂苷 Rh2 调节转化生长
+因子β活化的长链非编码 RNA 对胶质瘤细胞侵袭和迁
+移的影响[J]. 临床肿瘤学杂志, 2022, 27(4): 323-333.
+[17] 田刚, 张章, 刘靳波, 等. 基于血清四项肿瘤标志物的模
+式识别技术对肺癌的鉴别诊断[J]. 实用医学杂志, 2020,
+36(5): 655-660.
+[18] 檀燕, 徐元宏. 肿瘤患者与其血清标志物关系的临床意
+义[J]. 中国临床药理学杂志, 2020, 36(1): 18-20; 25.
+[19] 张彩华, 李骢, 李华军, 等. 人参皂苷Rh2对肺癌A549细
+胞miR-16和Bcl-2表达与生长的影响研究[J]. 中国微生
+态学杂志, 2015, 27(9): 1027-1030.
+[20] Ge GQ, Yan Y, Cai H. Ginsenoside Rh2 inhibit e d prolif-
+eration by inducing ROS mediated ER stress dependent
+apoptosis in lung cancer cells[J]. Biol Pharm Bull, 2017,
+40(12): 2117-2124.
+[21] 徐泳, 韩迪, 彭文潘, 等. 贞芪扶正制剂联合含铂化疗对
+肺癌患者免疫功能影响的 Meta 分析[J]. 中草药, 2020,
+51(20): 5270-5278.
+[22] Wang DD, Kim YJ, Baek NI, et al. Glycosyltransforma-
+tion of ginsenoside Rh2 into two novel ginsenosides using
+recombinant glycosyltransferase from lactobacillus rham-
+nosus and its in vitro applications[J]. J Ginseng Res, 2021,
+45(1): 48-57.
+[23] 樊伟旭, 詹志来, 侯芳洁, 等. 红参的化学成分及药理作
+用研究进展[J]. 天然产物研究与开发, 2021, 33(1): 147-
+149.
+[24] 王慧霞, 孔海燕, 任山峰. 人参皂苷Rh2通过Egr-1/TRL4/
+mTOR 信号通路抑制食管癌细胞 Eca-109 增殖、迁移和
+EMT[J]. 现代肿瘤医学, 2020, 28(8): 1266-1271.
+（收稿日期：2022-10-12）
+2556

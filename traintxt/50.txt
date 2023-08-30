@@ -1,0 +1,590 @@
+39( 9) : 1464-72．
+14
+Lee BA，Spain D，Umberson DJ. Neighborhood revitalization and ra-
+cial change: the case of Washington，D. C.〔J〕．Demography，1985;
+22( 4) : 581-602．
+15
+Vigdor J. Is urban decay bad? Is urban revitalization bad too〔J〕? J
+Urban Econom，2010; 68( 3) : 277-89．
+16
+Ding L，Hwang J，Divringi E. Gentrification and residential mobility
+in philadelphia〔J〕．Ｒeg Sci Urban Econ，2016; 61: 38-51．
+17
+Anguelovski I，Connolly JJT，Masip L，et al．Assessing green gentrifi-
+cation in historically disenfranchised neighborhoods: a longitudinal
+and spatial analysis of barcelona〔J〕． Urban Geogr，2018; 39( 3) :
+458-91．
+18
+Seo JK. Ｒe-urbanization in regenerated areas of manchester and glas-
+gow: new residents and the problems of sustainability〔J〕． Cities，
+2002; 19( 2) : 113-21．
+19
+邓诗靖，杨钧宁，王梓凌，等 . 城市更新环境下中西方乡村阶层
+变迁比较研究〔J〕．湖北林业科技，2021; 50( 6) : 35-40．
+20
+俞会新，吕龙风 . 老龄化、人口流动与经济增长关系研究〔J〕．价
+格理论与实践，2021; ( 9) : 82-5．
+21
+国家统计局，国务院第七次全国人口普查领导小组办公室 . 第
+七次全国人口普查公报( 第五号) ———人口年龄构成情况〔J〕．
+中国统计，2021; 473( 5) : 10-1．
+22
+王兴平，谢亚，陈宏胜，等 . 新时期中国开发区流动人口集聚与
+再流动研究〔J〕．城市规划学刊，2018; ( 2) : 29-36．
+23
+广东省统计局，广东省第七次全国人口普查领导小组办公室 .
+广东省第七次全国人口普查公报〔N〕．南方日报，2021-5-7．
+24
+胡湛，彭希哲 . 应对中国人口老龄化的治理选择〔J〕．中国社会
+科学，2018; ( 12) : 134-55，202．
+25
+严若谷，周素红，闫小培 . 城市更新之研究〔J〕．地理科学进展，
+2011; 30( 8) : 947-55．
+〔2022-03-06 修回〕
+( 编辑
+高畅)
+人参有效成分改善老年性记忆力减退和阿尔茨海默病的研究进展
+韩文静
+1
+侯丽慧
+1
+王乐
+1
+张宇
+1
+于秀华
+2
+( 1 长春中医药大学，吉林
+长春
+130117; 2 长春中医药大学附属医院)
+〔关键词〕 人参皂苷; 阿尔茨海默病; 药物相互作用
+〔中图分类号〕 Ｒ96 〔文献标识码〕 A 〔文章编号〕 1005-9202( 2023) 11-2811-05; doi: 10. 3969/j. issn. 1005-9202. 2023. 11. 065
+基金项目: 吉林省科技发展计划项目( 20160204013YY)
+通信作者: 于秀华( 1971-) ，女，博士，主要从事中药活性物质研究。
+第一作者: 韩文静( 1998-) ，女，硕士，主要从事中药活性物质研究。
+人参是一种珍贵的中草药，在改善精神状态和
+调节神经系统疾病方面有着悠久的药用历史，如失
+眠、抑郁、焦虑和神经衰弱。中草药因其多靶点的特
+点，其复方及单味药均在治疗神经系统疾病中具有
+一定的疗效，其中人参具有作为神经保护药物的潜
+力，成为研究的热点，其神经保护作用可用于治疗和
+预防神经损伤或病理相关疾病〔如阿尔茨海默病
+( AD) 、帕金森病( PD) 、亨廷顿舞蹈病( HD) 、抑郁症
+和脑卒中〕
+〔1〕。神经退行性变性疾病是神经元结构
+和功能的逐渐丧失，包括神经元死亡和神经胶质细
+胞平衡，导致痴呆等认知障碍。其中年龄和影响中
+枢神经系统( CNS) 细胞功能的基因突变会导致慢性
+神经退行性疾病
+〔2〕。AD 是一种复杂的神经退行性
+疾病，主要表现为老年人认知、情感、语言和记忆的
+进行性损害，甚至无法正常生活，是除心血管疾病和
+癌症外的第三大死亡原因。据统计，65 岁以后，AD
+的发病率预计每 5 年翻一番，每年估计 65 岁以上的
+人中每 10 万人中有 1 275 人受影响，到 86 岁时，AD
+患者的比例将增加 30% ～50%
+〔3〕。
+AD 临床有 4 个阶段，在症前阶段，老年人会有
+轻度的记忆丧失，皮质和海马体早期病理改变，日常
+活动无功能损害。早期阶段，患者记忆力下降，日常
+生活困难，严重者发展为抑郁症。AD 中期，疾病扩
+散到大脑皮层区域，记忆力严重丧失。AD 晚期，疾
+病扩散至整个皮质区，神经斑块和神经原纤维缠结
+严重堆积，导致进行性功能和认知障碍，患者完全认
+不出家人，可能出现吞咽、排尿困难卧床不起，最终
+导致死亡
+〔4〕。
+1
+人参有效成分对记忆力和 AD 的作用及机制
+现代研究表明，人参中含有大量的活性成分，包
+括人参皂苷、人参多肽、人参多糖及酚类化合物等，
+其中人参皂苷被认为是人参主要生理活性成分，对
+神经系统、心血管系统、免疫系统等都有影响
+〔5〕。
+迄今为止，研究已经确定了 30 多种人参皂苷，其中
+许多能改善神经退行性疾病的记忆和学习。人参皂
+苷对脑的作用主要在星形胶质细胞和小胶质细胞中
+发生。在星形胶质细胞中，人参皂苷提高了谷氨酸
+转运体( GLT) -1 的表达和磷酸化蛋白激酶( PK) B /
+蛋白激酶 B( Akt) 的水平，以提高中枢神经系统的兴
+·2811·
+韩文静等
+人参有效成分改善老年性记忆力减退和阿尔茨海默病的研究进展
+第 11 期
+奋。另外，人参皂苷通过上调谷胱甘肽 S-转移酶
+( GST) 和血氧合酶( HO) -1 等抗氧化系统可减少
+H2O2 诱导的星形胶质细胞的细胞死亡。在小胶质
+细胞中，人参皂苷不仅能降低促炎细胞因子，如肿瘤
+坏死因子-α、白细胞介素( IL) -1β、IL-6、诱导型一氧
+化氮( NO) 合酶( iNOS) 和环氧合酶( COX) -2，还能
+通过核转录因子相关因子( Nrf) 2 途径增加 HO-1 的
+表达，从而降低小胶质细胞中的活性氧( ＲOS) 和
+NO 水平，在激活小胶质细胞保护大脑和支持神经
+元细胞存活的同时还避免神经炎症的发生
+〔6〕。
+AD 的发病机制尚不明确，病理特征包括细胞
+内神经纤维缠结的异常积累 ( tau 蛋白过度磷酸
+化) 、β-淀粉样蛋白( Aβ) 级联、线粒体功能障碍、氧
+化应激、神经炎症、肌动蛋白细胞骨架动力学调节异
+常、细胞凋亡、神经元突触和锥体神经元的丢失等。
+目前研究中，人参皂苷主要从抗氧化，保护神经元细
+胞及调节线粒体功能出发对 AD 进行干预治疗
+〔7，8〕。
+1. 1
+人参皂苷 Ｒe
+人参皂苷 Ｒe 具有抗 Aβ 引起的
+神经毒性作用。研究通过评价人参皂苷 Ｒe 对 Aβ 诱
+导的人神经母细胞瘤细胞( SH-SY5Y) 细胞毒性和细
+胞凋亡的影响，探讨出其抗神经毒性的机制为，抑制
+Aβ-触发的线粒体凋亡通路，通过维持线粒体功能、升
+高 B 淋巴细胞瘤( Bcl) -2/Bax 比值、减少细胞色素 C
+释放和含半胱氨酸的天冬氨酸蛋白水解酶( caspase) -
+3/9 失活来显示。减少 Aβ 诱发 ＲOS 的产生，凋亡信
+号调节激酶( ASK) 1 的磷酸化和应激活化蛋白激酶
+( JNK) 的激活。ＲOS 清除消除了人参皂苷 Ｒe 改变
+ASK-1 激活的能力。此外，人参皂苷 Ｒe 增强了 Aβ
+诱导 SH-SY5Y 细胞中 Nrf2 的激活。以 Nrf2 为靶点
+的小干扰 ＲNA 敲除 Nrf2 可以消除 Ｒe 的保护作用。
+人参皂苷 Ｒe 的神经保护作用是由线粒体途径( 内源
+性) 而不是内质网或死亡受体途径( 外源性) 发挥的。
+人参皂苷 Ｒe 是人参皂苷中含量较高的活性成分，在
+包括 AD 在内的多种动物模型中都被发现具有神经
+保护作用
+〔9〕。研究结果表明，人参皂苷 Ｒe 可能是一
+种潜在的治疗 AD 的方法。
+1. 2
+人参皂苷 Ｒg1
+人参皂苷 Ｒg1 的治疗作用主
+要是通过改善 AD 相关的病理学来实现的，包括抑
+制 Aβ 的产生、tau 过度磷酸化和突触功能障碍; Aβ
+分解代谢和乙酰胆碱( ACh) 水平增加; 减少大脑中
+的氧 化 应 激、炎 症 和 神 经 元 死 亡 和 调 节 肠 道 菌
+群
+〔10〕。Zhang 等
+〔11〕研究发现用 Ｒg1 治疗 12 w 可显
+著改善淀粉样前体蛋白( APP) /磷脂酰丝氨酶( PS)
+1 小鼠的认知障碍和神经元损伤，减轻 APP /PS1 小
+鼠的学习和记忆障碍、突触功能障碍和神经元损伤。
+同时，Ｒg1 处理显著降低了 APP /PS1 小鼠 NADPH
+氧化酶( NOX) 2 的表达和 ＲOS 的产生，从而打破了
+Aβ 沉积可能增加 NOX2 的表达和 ＲOS 的产生，进
+而上调 APP 和酸性蛋白水解酶( BACE) 的表达恶性
+循环。Li 等
+〔12〕同样利用 APP /PS1 小鼠证明 Ｒg1 治
+疗可能通过抑制 APP /PS1 小鼠 NOD 样受体家族蛋
+白( NLＲP) 1 炎症小体和自噬功能障碍来延缓 AD
+的进展。研究结果显示 Ｒg1 可调节 APP /PS1 小鼠
+NLＲP1 炎 症 小 体 及 磷 酸 腺 苷 依 赖 的 蛋 白 激 酶
+( AMPK) /雷帕霉素靶蛋白( mTor) 介导的自噬功
+能。这些数据表明，Ｒg1 可能通过抑制 NLＲP1 炎症
+体和自噬功能障碍来缓解 Aβ 沉积和 AD 进展。研
+究者利用原代海马神经元模拟与年龄相关的神经损
+伤，结果表明，ＲG1 降低了 ＲOS 的产生，减少了过氧
+化氢( H2O2) 处理的海马神经元中 NOX2 和 NLＲP1
+炎性小体的表达。Ｒg1 和抗氧化剂( tempol) 处理显
+著降低神经元凋亡和 β-半乳糖苷酶的表达，缓解
+H2O2 诱导的神经元衰老和损伤。研究表明 Ｒg1 可
+能减少 NOX2 介导的 ＲOS 生成，抑制 NLＲP1 炎症
+小体激活，抑制神经元衰老和损伤
+〔13〕。
+此外，人参皂苷 Ｒg1 能增加 ADAM9、ADAM10
+基因表达，提高 α-分泌酶活性抑制 APP /PS1 小鼠
+中的 NOX2 活化来减轻 Aβ 沉积; 在 Aβ1 ～ 42 诱导
+的 AD 模 型 中，降 低 细 胞 周 期 蛋 白 依 赖 性 激 酶
+( CDK) 5 表达，抑制过氧化物体增殖物激活受体
+( PPAＲ) γ 丝氨酸磷酸化，升高胰岛素降解酶( IDE)
+表达，下调 BACE1 和 APP 表达，降低 Aβ1 ～42 水平
+并减 弱 神 经 元 细 胞 凋 亡，通 过 糖 原 合 成 酶 激 酶
+( GSK) 3β /tau 信号通路减少冈田酸诱导的记忆障
+碍和( 或) 减弱 Aβ 的形成
+〔14～16〕。亚油酸参与 AD
+中的亚油酸代谢，一些研究表明亚油酸作为具有神
+经保护活性的多不饱和必需脂肪酸，一方面可以阻
+止胆固醇的摄取，另一方面可以降低 Aβ42 在 AD 果
+蝇模型中的细胞毒性。人参皂苷 Ｒg1 有效地提高
+亚油酸活性，从而恢复 AD 小鼠的抗氧化功能
+〔17，18〕。
+这些发现显示了 Ｒg1 在治疗 AD 的新一类药物中的
+潜力，并为 AD 的治疗提供了新的思路。
+1. 3
+人参皂苷 Ｒd
+人参皂苷 Ｒd 治疗 AD 的机制
+为通过磷脂酰肌醇 3-激酶( PI3K) /Akt 和细胞外信
+号调节激酶( EＲK) 1 /2 通路上调谷氨酸转运蛋白
+( GLT) -1 的表达，促进细胞外谷氨酸的清除，从而预
+防缺血性脑损伤。人参皂苷 Ｒd 的给药增加了非选
+择性阳离子通道的表达，包括瞬时受体电位离子通
+道亚家族 M 成员( TＲPM) 7、酸感离子通道( ASIC)
+1a 和 ASIC2a，并降低了细胞色素( Cyto) C、凋亡诱
+·2812·
+中国老年学杂志 2023 年 6 月第 43 卷
+导因子( AIF) 和 caspase-3 等凋亡蛋白的水平。人参
+皂苷 Ｒd 也显著降低了两种损伤酶 COX-2 和 iNOS
+的缺血后合成并通过抑制 Ca
+2+内流减弱线粒体功能
+障碍，保护培养的海马神经元免受谷氨酸诱导的兴
+奋性毒性
+〔19，20〕。
+1. 4
+人 参 皂 苷 Ｒg2
+人 参 皂 苷 Ｒg2 可 以 通 过
+PI3K/Akt 通路保护肾上腺髓质嗜铬细胞癌细胞株
+( PC) 12 细胞免受 Aβ25 ～ 35 诱导的凋亡，减弱了
+Aβ25～35 诱导的乳酸脱氢酶( LDH) 释放、细胞内钙
+浓度和 ＲOS 水平的增加。人参皂苷 Ｒg2 还能诱导
+自噬，增强 AD 小鼠细胞模型中蛋白质聚集物的清
+除，改善认知行为。综上所述，这些研究提示人参皂
+苷 Ｒg2 具有神经保护作用，可能是一种治疗 AD 的
+潜在新药
+〔21〕。
+1. 5
+人参皂苷 Ｒb1
+有学者用 Aβ 损害原代培养
+的海马神经元以构建 AD 细胞模型，探讨 ＲB1 对 Aβ
+诱导的海马神经元的保护作用及其机制。发现 Ｒb1
+表现出 3 种神经保护作用，即( 1) 促进神经生长;
+( 2) 促进生长促进激酶的表达并防止其水平下降;
+( 3) 在 Aβ 诱导的细胞凋亡后发挥抑制凋亡的作用。
+人参皂苷 Ｒb1 可以对抗 Aβ 所诱导下在大脑皮
+质所产生的神经元毒性，提高神经元的存活水平，同
+时，可以提高小鼠海马中突触密度和脑源性神经营
+养因子 Bcl-2 及抗氧化酶的表达水平，并减少细胞
+凋亡并抑制钙超载。还有学者发现，人参皂苷 Ｒb1
+可以刺激人体释放 ACh 和增强胆碱乙酰转移酶，通
+过激活抗氧化酶有效降低神经保护作用，进而起到
+抗 AD 的作用。Ｒb1 预处理通过抑制皮层神经元中
+CDK5 和 p25 的转录来稳定细胞内钙稳态和微管完
+整性; 通 过触 发 经典 PI3K/Akt 信 号 调 节 神 经 肽
+( NP) Y 的表达，帮助调节大脑内稳态。在其他人参
+皂苷中，只有 Ｒb1 通过增强 Nrf2 /HO-1 通路保护神
+经元免受氧化损伤。Ｒb1 治疗可抑制 GSK3β 介导
+的子结合蛋白同源蛋白( CHOP) 信号，从而防止内
+质网应激引起的神经元凋亡。此外，Ｒb1 治疗可以
+减少细胞内 ＲOS 的产生及线粒体功能障碍的破
+坏
+〔22〕。Ｒb1 还被发现可以通过控制线粒体通透性
+转换孔( MPTP) 开口来保护软骨细胞免受 H2O2 诱
+导的凋亡。研究发现 Ｒb1 治疗明显改善了记忆和
+学习，并通过逆转糖原合成酶激酶 3β 和蛋白磷酸
+酶水平来减少 tau 磷酸化。另外，Ｒb1 还通过减少
+氧化应激和神经炎症反应，恢复胆碱能神经元功能，
+从而挽救顺铂所致的记忆损伤。Ｒb1 既能促进海马
+神经发生，又能抑制神经元凋亡，平衡海马的炎症和
+抗炎因子，对顺铂损伤后的神经保护作用明显，显著
+改善了认知衰退和神经元丢失
+〔23〕。
+1. 6
+人参皂苷 CK
+人参皂苷 CK 是原人参二醇皂
+苷 Ｒb1 被肠道菌群降解的化合物，易于被人体吸
+收，且有神经保护作用
+〔24，25〕。有研究利用记忆损伤
+小鼠模型，采用免疫组织化学和免疫印迹法检测
+Nrf2 /Keap1 信号通路相关因子和 Aβ 的表达水平。
+研究表明 CK 激活 Nrf2 /Keap1 信号通路，调节 Aβ
+生成和清除的平衡，抑制 Aβ 聚集引起的神经毒性，
+减少神经元凋亡，改善 AD 小鼠模型记忆功能
+〔26〕。
+Chen 等
+〔27〕在 HT22 细胞实验中，同样验证了 CK 对
+AD 的改善是通过 Aβ 诱导的能量代谢信号通路介
+导的。在 AD 患者中，神经元葡萄糖代谢异常，脑中
+主要的葡萄糖转运蛋白( GLUT) 1 和 GLUT3 的水平
+下降，尤其是在大脑皮层。CK 可通过胰岛素受体底
+物( IＲS) 2-PI3K/Akt2 糖代谢通路诱导 IＲS2 表达增
+加，促进胶质细胞和神经元中 GLUT1 和 GLUT3 的
+表达及葡萄糖的摄取和利用，使 ATP 产生并增加脑
+糖代谢为防治 AD 提供了理论依据。
+2
+人参与其他治疗 AD 药物的相互作用
+据统计，65 岁以后，AD 的发病率预计每 5 年翻
+一番，每年估计 65 岁以上的人中每 10 万人中有1 275
+人受影响，到 86 岁时，AD 患者的比例将增加 30% ～
+50%。AD 病因复杂，治疗困难，仅在美国，每年用于
+治疗 AD 的 资 金 就 高 达 16 308 亿 元 人 民 币
+( 2 360 亿美元) ，给国家带来了巨大的经济负担。因
+此，寻找研发合适的治疗 AD 的药物具有重大意义。
+2. 1
+人参与西药的相互作用
+到目前为止，美国食
+品和药物管理局只批准了 5 种 AD 药物: 加兰他敏、
+多奈哌齐( DPZ) 、他克林和美金刚，前 4 种药物是
+AchE 抑制剂，美金刚是 N-甲基-D-天冬氨酸( NM-
+DA) 受体拮抗剂
+〔28〕。AChE 抑制剂药物( 多奈哌齐、
+加兰他敏、多奈哌齐、他克林) 主要通过促进 AChE
+的降解和增加 AchE 在突触中的利用来改善突触传
+递
+〔29〕。但由于胆碱能神经分布广泛，这些药物的副
+作用也很明显，如抽搐、腹泻、呕吐、头晕、幻觉、心律
+失常、皮肤反应等，且他克林由于其有肝毒性而逐渐
+退出市场。美金刚是一种 NMDA 受体拮抗剂，通过
+减少谷氨酸与 NMDA 受体的过度结合来减少神经
+元损伤和减轻 AD 症状。但这些药物只能缓解 AD
+一些症状，而不能延缓或逆转 AD 的发病。此外，这
+些药物不能防止神经元丧失、脑萎缩，从而导致认知
+能力的进行性恶化
+〔30〕。在神经系统的治疗中，人参
+的使用量在不断增加，然而目前关于人参与其他药
+物联用的相关研究却很少。
+·2813·
+韩文静等
+人参有效成分改善老年性记忆力减退和阿尔茨海默病的研究进展
+第 11 期
+研究表明
+〔31〕，人参源的外源性 G 蛋白偶联溶血
+磷脂酸( LPA) 受体配体( Gintonin) ，Gintonin 可以改
+善与大脑衰老相关的神经退行性疾病，其通过溶血
+磷脂酸 1 /3 受体在体内和体外发挥抗 AD 的作用。
+有研究对大鼠静脉注射或口服银杏素与 DPZ 联合
+给药，结果发现静脉注射 Gintonin 可促进血浆中
+DPZ 通过 LPA1 /3 和血管内皮生长因子( VEGF) 受
+体的脑内传递。与 DPZ 单独给药相比，静脉注射
+Gintonin 与 DPZ 联合给药可以减少 DPZ 的给药剂
+量，减弱 DPZ 诱导的不良反应。另外，轻度 AD 患
+者长期口服富含 Gintonin 的部分可改善认知功能，
+且无不良反应
+〔32〕。
+2. 2
+人参与中药的相互作用
+中药通过其多成分
+发挥多途径、多靶点的协同综合药效学作用，在慢
+性、多基因复杂疾病中表现出独特的治疗优势。AD
+发病机制复杂
+〔33〕。单靶点抗 AD 药物通常不能对
+AD 起有效缓解作用，人参对 AD 的治疗作用早在传
+统中医中就有所记载。
+人参与其他中药联用对治疗 AD 发挥协同增效
+作用，历代医家治疗 AD 的主要药对有人参-五味
+子，人参-茯苓和人参石菖蒲。有研究采用基于 MS
+的非靶向粪便代谢组学研究人参、五味子( GS) 草药
+对 AD 复杂疾病的作用机制，结果表明，GS 主要通
+过调节胆汁酸生物合成、鞘脂代谢、卟啉和叶绿素代
+谢来治疗 AD，对中医临床治疗 AD 提 供 有 益支
+持
+〔34〕。人参-茯苓配伍，人参中豆甾醇和茯苓中常
+春藤皂苷元共同作用于刺激炎症反应的重要分子前
+列腺素内过氧化物合酶( PTGS) 2，改善老年性痴呆
+的发病
+〔35〕。对开心散拆方提取核心药对“人参-茯
+苓”，研究发现人参及茯苓在 SH-SY5Y 细胞和 PC12
+细胞损伤模型中发挥主要神经保护作用。此外，人
+参皂苷 Ｒg1、Ｒg3、Ｒb1 等与茯苓多糖协同增效，增强
+抗痴呆成分的溶解度，具有明显抗痴呆的药理活
+性
+〔36～39〕。人参-石菖蒲配伍治疗 AD，石菖蒲挥发油
+“引药上行”促进三种人参皂苷 Ｒg1、Ｒe、Ｒb1 的胃肠
+吸收，石菖蒲的挥发油成分之一的 β 细辛醚还可以
+减少小鼠脑内 β 样淀粉样斑块的沉积、下调 AD 模
+型小鼠脑内 Aβ1～42 的表达
+〔40～42〕。既往研究表明，
+神经炎症在 AD 的发生发展过程中具有重要作用，
+有学者通过 Western 印迹和免疫荧光技术，证实加
+味不忘散组方对核因子( NF) -κB 和 NLＲP3 炎症体
+均具有明显的抑制作用，且并没有因为远志、人参、
+黄芪等药物相互作用而抵消了单味药材的抗炎作
+用，该组方既扶正又祛邪，切中、兼顾了 AD 的主要
+病机，有利于提高疗效，减少副作用，可能具备较单
+味药材更好的治疗效果
+〔43，44〕。据此推测，人参与其
+他中药配伍治疗 AD 时，多发挥协同增效之用，且配
+伍后不会抵消单味药材的作用，还能显著提高疗效，
+减少副作用。
+综上，AD 的病因复杂，人参皂苷治疗通过多种
+机制治疗 AD，且目前没有发现副作用，同时与人参
+相关的药对和配方也具有良好的有效性。但因其多
+靶点的特征，仍需要对其机制进行进一步的深入研
+究，开发新药，改变给药方式或寻找更为有效的人参
+配方都是治疗 AD 的新路径。
+3
+参考文献
+1
+Tan W，Qi LJ，Hu XY，et al．Ｒesearch progress in traditional Chinese
+medicine in the treatment of Alzheimer's disease and related dementi-
+as〔J〕．Front Pharmacol，2022; 13: 921794．
+2
+Huang X，Li N，Pu YQ，et al．Neuroprotective effects of ginseng phyto-
+chemicals: recent perspectives〔J〕．Molecules，2019; 24( 16) : 2939．
+3
+Ewen ST，Fauzi A，Quan TY，et al．A review on advances of treatment
+modalities for Alzheimer's disease〔J〕．Life Sci，2021; 276: 119129．
+4
+Breijyeh Z，Karaman Ｒ. Comprehensive review on Alzheimer' s dis-
+ease: causes and treatment〔J〕．Molecules，2020; 25: 5789．
+5
+Do LH，Nguyen HN，Cuong TN. Pharmacological properties of ginsen-
+osides in inflammation-derived cancers〔J〕．Mol Cell Biochem，2021;
+476( 9) : 1-12．
+6
+Kyu SA，Yeo OC，So ML，et al．Ginsenosides Ｒg5 and Ｒk1 enriched
+cultured wild ginseng root extract bioconversion of pediococcus pen-
+tosaceus HLJG0702: effect on scopolamine-induced memory dysfunc-
+tion in mice〔J〕．Nutrients，2019; 11( 5) : 1120．
+7
+Zhang M，Chen WJ，Zong Y，et al．Cognitive-enhancing effects of fibra-
+uretine on Aβ 1-42-induced Alzheimer's disease by compatibilization
+with ginsenosides〔J〕．Neuropeptides，2020; 82: 102020．
+8
+Vogt NM，Kerby ＲL，Dill-McFarland KA，et al．Gut microbiome altera-
+tions in Alzheimer's disease〔J〕．Sci Ｒep，2017; 7( 1) : 13537．
+9
+Liu MC，Bai XY，Yu ST，et al．Ginsenoside Ｒe inhibits ＲOS /ASK-1
+dependent mitochondrial apoptosis pathway and activation of Nrf2-an-
+tioxidant response in beta-amyloid-challenged SH-SY5Y cells〔J〕．
+Molecules，2019; 24( 15) : 2687．
+10
+Wu JJ，Yang Y，Wan Y，et al．New insights into the role and mecha-
+nisms of ginsenoside Ｒg1 in the management of Alzheimer's disease
+〔J〕．Biomed Pharmacother，2022; 152: 113207．
+11
+Zhang H，Su Y，Sun ZH，et al．Ginsenoside Ｒg1 alleviates Ab deposi-
+tion by inhibiting NADPH oxidase 2 activation in APP /PS1 mice
+〔J〕．J Ginseng Ｒes，2021; 45( 6) : 665-75．
+12
+Li XW，Huang L，Kong LL，et al．Ginsenoside Ｒg1 alleviates learning
+and memory impairments and Aβ disposition through inhibiting NL-
+ＲP1 inflammasome and autophagy dysfunction in APP /PS1 mice
+〔J〕．Molecular Med Ｒep，2023; 27( 1) : 6．
+13
+Xu TZ，Shen XY，Sun LL，et al． Ginsenoside Ｒg1 protects against
+H2O2-induced neuronal damage due to inhibition of the NLＲP1 in-
+flammasome signalling pathway in hippocampal neurons in vitro〔J〕．
+Int J Mol Med，2019; 43( 2) : 717-26．
+·2814·
+中国老年学杂志 2023 年 6 月第 43 卷
+14
+Zhang H，Su Y，Sun ZH，et al．Ginsenoside Ｒg1 alleviates Aβ deposi-
+tion by inhibiting NADPH oxidase 2 activation in APP /PS1 mice
+〔J〕．J Ginseng Ｒes，2021; 45( 6) : 665-75．
+15
+Quan QK，Li X，Feng JJ，et al．Ginsenoside Ｒg1 reduces β-amyloid
+levels by inhibiting CDΚ5-induced PPAＲγ phosphorylation in a
+neuron model of Alzheimer's disease〔J〕．Molecular Med Ｒep，2020;
+22( 4) : 3277-88．
+16
+Song XY，Hu JF，Chu SF，et al．Ginsenoside Ｒg1 attenuates okadaic
+acid induced spatial memory impairment by the GSK3β /tau signa-
+ling pathway and the Aβ formation prevention in rats〔J〕．Eur J Phar-
+macol，2013; 710: 1-3．
+17
+Cui J，Shan Ｒ，Cao YQ，et al．Protective effects of ginsenoside Ｒg2 a-
+gainst memory impairment and neuronal death induced by Aβ25-35
+in rats〔J〕．J Ethnopharmacol，2021; 266: 113466．
+18
+Hyeon JK，Seok WJ，Seog YK，et al．Panax ginseng as an adjuvant
+treatment for Alzheimer's disease〔J〕．J Ginseng Ｒes，2018; 42( 4) :
+401-11．
+19
+PADmanaban M，Sathiyamoorthy S，Ｒamya M，et al．Molecular signa-
+ling of ginsenosides Ｒb1，Ｒg1，and Ｒg3 and their mode of actions
+〔J〕．J Ginseng Ｒes，2018; 42( 2) : 123-32．
+20
+Ki HK，Dahae L，Hye LL，et al．Beneficial effects of Panax ginseng for
+the treatment and prevention of neurodegenerative diseases: past findings
+and future directions〔J〕．J Ginseng Ｒes，2018; 42( 3) : 239-47．
+21
+Xie WJ，Zhou P，Sun YF，et al．Protective effects and target network
+analysis of ginsenoside Ｒg1 in cerebral ischemia and reperfusion in-
+jury: a comprehensive overview of experimental studies〔J〕． Cells-
+Based，2018; 7( 12) : 270．
+22
+Ki HK，Dahae L，Hye LL，et al．Beneficial effects of Panax ginseng
+for the treatment and prevention of neurodegenerative diseases: past
+findings and future directions〔J〕． J Ginseng Ｒes，2018; 42 ( 3) :
+239-47．
+23
+Chen C，Zhang HF，Xu HL，et al．Ginsenoside Ｒb1 ameliorates cispl-
+atin-induced learning and memory impairments〔J〕．J Ginseng Ｒes，
+2019; 43( 4) : 499-507．
+24
+Yasuo MT，Ｒie T，Kazuaki M，et al．Compound K，a metabolite of gin-
+senosides，induces cardiac protection mediated nitric oxide via Akt/
+PI3K pathway〔J〕．Life Sci，2011; 88( 15) : 725-9．
+25
+Hou JG，Xue JJ，Lee MＲ，et al．Compound K is able to ameliorate the
+impaired cognitive function and hippocampal neurogenesis following
+chemotherapy treatment〔J〕． Biochem Biophy Ｒes Commun，2013;
+436( 1) : 104-9．
+26
+Yang Q，Lin JN，Zhang HY，et al．Ginsenoside compound K regulates
+amyloid β via the Nrf2 /Keap1 signaling pathway in mice with sco-
+polamine hydrobromide-induced memory impairments〔J〕．J Mol Neu-
+rosci，2019; 67( 1) : 6271．
+27
+Chen XJ，Li H，Yang Q，et al．Ginsenoside compound K ameliorates
+Alzheimer's disease in HT22 cells by adjusting energy metabolism
+〔J〕．Mol Biol Ｒep，2019; 46( 5) : 5323-32．
+28
+Ewen ST，Fauzi A，Quan TY，et al．A review on advances of treatment
+modalities for Alzheimer's disease〔J〕．Life Sci Auiance，2021; 276:
+119129．
+29
+Wu JJ，Yang Y，Wan Y，et al．New insights into the role and mecha-
+nisms of ginsenoside Ｒg1 in the management of Alzheimer's disease
+〔J〕．Biomed Pharmacother，2022; 152: 113207．
+30
+Vaz M，Silvestre S. Alzheimer' s disease: recent treatment strategies
+〔J〕．Eur J Pharmacol，2020; 887: 173554．
+31
+Choi SH，Lee Ｒ，Nam SM，et al． Ginseng gintonin，aging societies，
+and geriatric brain diseases〔J〕．Integrat Med Ｒes，2021; 10( 1) ．
+32
+Sun HC，Na EL，Hee JC，et al．Gintonin facilitates brain delivery of
+donepezil，a therapeutic drug for Alzheimer disease，through lyso-
+phosphatidic acid 1/3 and vascular endothelial growth factor recep-
+tors〔J〕．J Ginseng Ｒes，2021; 45( 2) : 264-72．
+33
+Yu L，Wei FT，Liang J，et al． Target molecular-based neuroactivity
+screening and analysis of panax ginseng by affinity ultrafiltration，
+UPLC-QTOF-MS and molecular docking〔J〕． Am J Chinese Med，
+2019; 47( 6) : 1345-63．
+34
+Wang A，Shi MJ，Xing JP，et al．Treatment effects of radix ginseng-
+schisandra chinensis herb pair on Alzheimer's disease: an investiga-
+tion of MS-based metabolomics investigation〔J〕． J Pharmaceut Bi-
+omed，2022; 220: 115007．
+35
+Guan PP，Yu X，Zou YH，et al．Cyclooxygenase-2 is critical for the
+propagation of β-amyloid protein and reducing the glycosylation of
+tau in Alzheimer's disease〔J〕． Cell Mol Immunol，2019; 16( 11) :
+892-4．
+36
+刘彦廷，蔡忠明，陈应柱 .《千金要方》“开心散”对血管性痴呆
+患者血浆 ICAM-1 影 响 研 究〔J〕． 中 医 药 临 床 杂 志，2015; 27
+( 10) : 1423-5．
+37
+高冰冰 . 茯苓在复方开心散中的作用研究〔D〕．北京: 中国协和
+医科大学，2010．
+38
+彭静，陈曦，王宇，等 . 以神经内肽酶为靶点治疗阿尔茨海默病
+的人参皂苷有效组分筛选〔J〕．中国老年学杂志，2017; 37( 5) :
+1089-91．
+39
+杨依，桑旭星，方芳 . 开心散活性成分及药理作用研究进展〔J〕．
+中华中医药学刊，2018; 36( 6) : 1420-4．
+40
+Quan QK，Wang J，Li X，et al．Ginsenoside Ｒg1 decreases Aβ1-42
+level by upregulating PPAＲγ and IDE expression in the hippocam-
+pus of a rat model of Alzheimer's disease〔J〕．PLoS One，2013; 8:
+e59155．
+41
+Chen LM. Ginsenoside Ｒg1 attenuates β-amyloid generation via sup-
+pressing PPAＲγ-regulated BACE1 activity in N2a-APP695 cells
+〔J〕．Eur J Pharmacol，2012; 675( 1-3) : 15-21．
+42
+Jfla B，Xdy C，Lsq B，et al．Ginsenoside Ｒd attenuates Aβ25-35-in-
+duced oxidative stress and apoptosis in primary cultured hippocampal
+neurons-Science Direct〔J〕．Chem Biol Interact，2015; 239: 12-8．
+43
+Tuppo EE，Arias HＲ. The role of inflammation in Alzheimer's dis-
+ease〔J〕．Int J Biochem Cell Biol，2015; 37( 2) : 289．
+44
+刘晓蕾 . 加味不忘散对阿尔茨海默病模型大鼠学习记忆的影响
+及其抗炎机制的研究〔D〕．太原: 山西医科大学，2018．
+〔2022-04-03 修回〕
+( 编辑
+高畅)
+·2815·
+韩文静等
+人参有效成分改善老年性记忆力减退和阿尔茨海默病的研究进展
+第 11 期

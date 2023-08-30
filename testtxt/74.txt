@@ -1,0 +1,617 @@
+2012年6月
+第22卷第6期
+中国比较医学杂志
+CHI NESE J OURNAL OF COMPARATI VE MEDI CI NE
+J une．2012
+V01．22
+No．6
+尹“ 8铋89叼
+$研究报告女
+( § ! ≈! 备! }! }毋
+人参总皂苷和远志总苷配伍对小鼠抗抑郁作用
+孙秀萍1” ，李腾飞1’ 3，石
+哲1，刘进修1，潘瑞乐1，王立为1，刘新民1
+( 1．中国医学科学院北京协和医学院药用植物研究所，北京
+100193；
+2．山东中医药大学药理教研室，济南250355；3．广西医科大学，南宁530021)
+【摘要】
+目的确定人参总皂苷( GTS) 和远志总苷( PTG) 抗抑郁配伍剂量比例，形成参远苷( SGY) 制剂，为
+研制开发抗抑郁新药提供实验数据。方法采用析因设计方法，GTS和PTG均选取25、50、100 mg／kg三个剂量，
+按照完全随机的两因素3
+x 3实验设计，得到参远苷的9个不同配比组。C57BL／6J 小鼠( 用于悬尾实验) 和I CR小
+鼠( 用于强迫游泳实验) 随机分为对照组、阳性药组( 10 mg／kg，帕罗西汀用于悬尾实验；阿米替林用于强迫游泳实
+验) 及参远苷的9个不同配比组，共11组。灌胃给药7 d，观察各组对悬尾或强迫游泳实验小鼠不动时间的影响，
+并通过空场实验观察参远苷各配比对小鼠自主活动的影响。参远苷与单味GTS、PTG的抗抑郁作用比较实验中，
+C57BL／6J 小鼠( 用于悬尾实验) 和I CR小鼠( 用于强迫游泳实验) 随机分为对照组、阳性药组( 10 mg／kg，帕罗西汀
+用于悬尾实验；阿米替林用于强迫游泳实验) 、参远苷低中高剂量组<37．5、75、150 mg／kg) 、GTS和PTG各四个剂量
+组( 均为18．75、37．5、75、150 mg／kg) ，共13组。灌胃给药7 d，观察各组对悬尾或强迫游泳实验小鼠不动时间的影
+响。结果
+析因设计结果表明，GTS和PTG之间无交互效应。参远苷配比组75 mg／kg( GTS：PTG为50：25) 及150
+mg·
+妇“ ( GTS：PTG为100：50) 显著并稳定缩短悬尾或强迫游泳不动时间( P<0．05) ，得出GTS和PTG的剂量配
+伍比例为2：1。空场实验结果显示，参远苷各配比对小鼠运动总路程无影响。参远苷与单味GTS、PTG抗抑郁作用
+比较实验结果显示，GTS 75、150 mg／kg缩短悬尾实验小鼠不动时间( P<0．01，P<0．05) ，对强迫游泳实验小鼠
+不动时间无影响。PTG 18．75、37．5 mg／kg缩短强迫游泳实验小鼠不动时间( P<0．01，P<0．05) ，对悬尾实验小
+鼠不动时间无影响。参远苷75、150 mg／kg缩短悬尾实验小鼠不动时间( P<0．05) 。同时，参远苷37．5、75 mg／kg
+缩短强迫游泳实验小鼠不动时间( P<0．01，P<0．05) 。结论GTS和PTG以2：1的比例形成的参远苷( SYG)
+制剂，质量容易控制，作用机制多样，符合抑郁症复杂多样的发病机制，优于单味GTS和PTG，进一步研究之后，有
+可能成为新型的抗抑郁药物。
+【关键词】
+人参；远志；抗抑郁；悬尾；强迫游泳；析因设计
+【中图分类号】R332
+【文献标识码】A
+【文章编号】1671—7856( 2012) 06—0030—07
+doi ：10．3969／j ．i ssn．1671．7856．2012．06．008
+St udy of Ant i depressant —l i ke Ef f ect s of Combi nat i on of Gi nseng Tot al
+Saponi ns and Pol ygal a Tenui f ol i a Tot al Gl ycosi ders i n Mi ce
+SUN Xi u—pi n91一，LI Teng—f ei l ⋯ ，SHI Zhel ，LI U J i n—xi ul ，PAN Rui —l el ，WANG Li —wei l ，LI U Xi n—mi nl
+( 1．Research Cent er
+of
+Pharmacol ogy and Toxi col ogy，I nst i t ut e of Medi ci nal
+Pl ant Devel opment ，Chi nese
+Academy of Medi cal
+Sci ences and Peki ng Uni on Medi cal Col l ege，Bei j i ng 100193，Chi na；
+2．Depart ment
+of Pharmacol ogy，Shandong Uni versi t y
+of Tradi t i onal
+Chi nese Medi ci ne，
+J i nan 250355，Chi na；3．Guangxi
+Medi cal
+Uni versi t y，Nanni ng 530021，Chi na)
+【Abstract】
+Obj ect i ve
+To
+i nvest i gat e
+t he ant i depressant - l i ke
+ef f ect s
+of
+combi nat i on
+of
+gi nseng
+t ot al
+saponi ns
+[ 基金项目] 国家科技重大专项课题一重大新药创制项目( 2009ZX09103—336；2009zx09502- 014) ；对欧科技合作专项( 0901) 。
+万方数据
+中国比较医学杂志2012年6月第22卷第6期Chi n J Comp Med，J une 2012，V01．22．No．6
+31
+( GTS) and pol ygal a
+t enui f ol i a
+t ot al gl ycosi ders( PTG) i n mt ee．Met hod
+The f act ori al
+desi gn
+anal ysi s
+of
+vari ance
+( ANOVA) was empl oyed t o i nvesti gate t he appropri at e combi nat i on of GTS and PTG．The f orced swi mand t ai l
+suspensi on
+t est were perf ormed t o eval uat e t he ef f i cacy of SYG．Open f i el d t est
+was
+used t o
+assess
+t he psycho—st i mul ant
+si de—ef f ect s．
+C57BL／6J mi ce( f or t ai l
+suspensi on t est ) and I CR mi ce( f or f orced swi m t est ) were randoml y separat ed i nt o
+1 1 groups( n
+=10) ：cont rol ( di st i l l ed wat er) ，posi t i ve cont rol ( 10 ms／kg，paroxet i ne f or TST，ami t ri pt yl i ne f or FST) ，or
+t reat ed wi t h
+SYG( ni ne groups) ．Al l
+drugs and wat er were admi ni st ered by gast ri c garages( 20 mL／kg) once dai l y f or seven days．The
+behavi oural
+t est s
+i n mi ce were conduct ed on t he 7t h day af t er t he l ast
+admi ni st rat i on．To．compare t he ant i depressant
+ef f ect s
+of SYG，GTS and PTG，C57BL／6J
+mi ce( f or
+t ai l
+suspensi on t est ) and I CR mi ce( f or
+f orced swi mt est ) were randoml y
+separat ed i nt o
+13
+groups( n=10) ：cont rol ( di st i l l ed wat er) ，posi t i ve cont rol ( 10
+mg／kg，paroxet i ne
+f or
+TST，
+ami t ri pt yl i ne f or FST) ，or
+t reat ed wi t h SYG( 37．5，75，150 mg／kg) ，GTS，PTG( 18．75，37．5，75，150 mg／kg) ．Al l
+drugs and wat er were admi ni st ered by gast ri c garages( 20 mL／kg) once daf f y f or seveu days．The behavi ouraI
+t est s i n mi ce
+were conduct ed on t he 7t h day af t er t he l ast
+admi ni st rat i on．Resul t s
+I n t he f act ori al
+desi gn，SYG reduced t he i mmobi l i t y
+t i me i n t he t ai l
+susupensi on and f orced swi m t est
+at
+doses of 75 mg／kg( GTS：PTG=50：25) and 150 mg／kg( GTS：PTG
+=100：50) ( P<0．05) ．Accordi ngl y，t he appropri at e combi nat i on of GTS and PTG was
+2：1．SYG di d not produce
+si gni f i cant
+ef f ect s
+on t he l ocomot or act i vi t y
+i n t he open·
+f i el d t est ．I n t he subsequent
+t est ，GTS reduced t he i mmobi l i t y t i me
+i n t he t ai l
+suspensi on t est
+at doses of 75，150 mg／kg( P<0．01，P<0．05) ，but
+di d not
+reduce t he i mmobi l i t y
+t i me i n
+t he f orced swi mt est ．PTG reduced t he i mmobi l i t y t i me i n t he f orced swi m t est
+at doses of
+1 8．75，37．5 mg／kg( P<0．Ol ，
+P<0．05) ，but
+di d not
+reduce t he i mmobi l i t y t i me i n t he t ai
+suspensi on t est ．However，SYG reduced t he i mmobi l i t y t i me
+bot h i n t he f orced swi mand t ai l
+suspensi on t est
+at
+doses of 37．5—150 mg／kg( P<0．01，P<0．05) ．Concl usi on
+The
+prescri pt i on composed of GTS and PTG coul d be used
+as
+a pot ent i al
+ef f ect i ve ant i depressant
+candi dat e drug
+af t er f urt her
+research has been done．
+【Key words】
+Gi nseng；Pol ygal a t enui f ol i a；Ant i depressant ；Tai l
+suspensi on t est ；Forced swi m t est ；Fact ori al desi gn
+抑郁症是一种以显著而持久的兴趣缺失、心
+境低落为主要特征的慢性、反复发作性情感性精
+神障碍。随着人类生活方式的改变，如生活节奏
+的加快和竞争的日趋激烈等，抑郁症的发病率越
+来越高，WHO预测，至2020年，抑郁症将成为继
+心血管疾病之后的第二大类流行疾病¨ 1。抑郁症
+是自杀的重要危险因素之一，90％的自杀与与抑
+郁症相关嵋。。同时，抑郁症经常伴发心脑血管疾
+病、糖尿病、阿尔茨海默氏病及肿瘤等¨ o。抑郁症
+的高发病率、高致残率和高致死率严重危害着人
+类身心健康。
+抑郁症的治疗并不容乐观。抗抑郁的化学药
+物存在一系列问题，如起效慢、易复发及诸多不良
+反应等H。。目前，人们将抗抑郁药物的研发更多的
+转向了传统医药领域。人参和远志在临床上经常
+配伍应用于抑郁症的治疗，其代表方剂如开心散、
+定志小丸等，在动物实验及临床研究中均表现出良
+好的抗抑郁作用¨ ’
+81。文献报道，人参和远志抗抑
+郁的有效成分分别为GTS和PTG一’
+101。为开发质
+量稳定可控的抗抑郁中药，本文利用析因设计方
+法，采用悬尾实验和强迫游泳实验作为行为学检测
+方法，确定GTS和PTG合适的剂量配伍比例，拟开
+发出新型抗抑郁中药新药候选药一参远苷( SYG)
+制剂。
+I 材料和方法
+1．1药物和试剂
+GTS、PTG由中国医学科学院药用植物研究所
+天然药物化学中心提供。帕罗西汀( paroxet i ne
+Hyt rochl ori de) 由中国食品药品检定研究院提供，批
+号为100357—200301。阿米替林由si gma公司提供，
+批号为076K1724。
+1．2
+动物
+清洁级健康成年雄性C57BL／6J 小鼠和I CR小
+鼠，体重22～24 g。由中国医学科学院动物实验中
+心提供，许可证号：SCXK( 京) 2009—0007，动物使用
+许可证：SYXK( 京) 2008- 0019，饲养期间给予小鼠标
+准颗粒饲料及纯净饮水。
+1．3
+仪器
+悬尾计算机实时检测分析处理系统( 由中国医
+学科学院药用植物研究所，鑫海华仪科技有限公
+司，航天员科研训练中心，北京北大未名生物工程
+集团有限公司联合研制开发) ；空场实验计算机图
+像实时检测分析处理系统( 由中国医学科学院药用
+万方数据
+32
+中国比较医学杂志2012年6月第22卷第6期
+Chi n J
+C。“ p Med，J une 2012，v。1．22．No．6
+植物研究所、中国航天员科研训练中心、北京三维
+拓盟数字影像技术有限公司联合研制开发) 。
+1．4实验方法
+1．4．1
+GTS和PTG配比析因设计实验
+根据实验室前期筛选工作，GTS和PTG均选择
+在25～100 mg／kg的剂量范围，两药均选取25、50、
+100 mg／kg三个剂量。在析因设计实验中，设定
+GTS和PTG两个因素。二者均设定3个水平，即
+25、50、100 mg／kg三个剂量。根据完全随机的两因
+素3x3实验设计，得到9个参远苷配比。采用悬尾
+和强迫游泳两种行为学检测方法，结合析因设计主
+效应和交互效应分析，对参远苷的配比进行筛选和
+确认。
+1．4．1．1
+小鼠悬尾实验
+C57BL／6J 小鼠随机分为11组，即空白对照组
+( 蒸馏水) 、帕罗西汀组( 10 mg／kg) 、参远苷各配比
+组( 9个组) ，每组10只。各组均给予0．2 mL／109，
+连续灌胃给药7 d，于末次给药后1 h进行悬尾实
+验。悬尾实验计算机实时检测分析处理系统由8个
+悬尾箱，传感器与信号调理单元，采集传输电路和
+采集分析软件组成。每只悬尾箱对应一只传感
+器，传感器下方连接挂钩，用于悬挂动物尾部。将
+小鼠尾端( 在距尾尖1 cm处) 用胶布固定在挂钩
+上，使其呈倒悬状态，小鼠挣扎时的张力变化信号
+由传感器接收，通过信号调理单元和采集传输电
+路，数字化后送往PC机。悬尾实验计算机实时检
+测分析处理系统自动记录小鼠在6 mi n内的累计
+不动时间。
+’
+1．4．1．2小鼠强迫游泳实验
+I CR小鼠分组、给药方式及剂量同1．4．1．1，阳
+性对照组灌胃给予阿米替林10 mg／kg。连续给药7
+d，第七天空场实验之后，进行强迫游泳实验。根据
+Porsol t 等的方法⋯ 1，将小鼠单个放入水深10 cm的
+圆形玻璃容器中( 高20 gi l l ，直径18 em) ，水温25
+℃。记录6 mi n内小鼠的活动状态，并计算后4 mi n
+内小鼠的累计不动时间。判断不动的标准为小鼠
+在水中停止挣扎，或呈漂浮状态，仅有细小的肢体
+运动。
+1．4．1．3小鼠空场实验
+小鼠强迫游泳实验，连续给药7 d，末次给药l
+h
+后，进行空场实验，检钡4小鼠自主活动。采用王琼
+等研制的空场实验计算机实时检测分析处理系
+统¨ “ ，将小鼠沿桶壁放入空场，观察10 mi n，系统自
+动记录动物的自发活动，如总路程等。
+1．4．2参远苷合适剂量配比与单味GTS和PTG抗
+抑郁作用比较
+1．4．2．1小鼠悬尾实验
+C57BL／6J 小鼠随机分为13组，即空白对照组
+( 蒸馏水) ，阳性对照组( 帕罗西汀10 mg／kg) ，参远
+苷高中低剂量组( 150、75、37．5 mg／kg) ，GTS和PTG
+个四个剂量组( 均为150、75、37．5、18．75 mg／kg) 。
+各组均给予0．2 mL／109，连续灌胃7d。于末次给药
+后，进行悬尾实验检测，方法同1．4．1．1，观察动物
+在6 mi n内的累计不动时间。
+1．4．2．2小鼠强迫游泳实验
+I CR小鼠分组、给药方式及剂量同1．4．2．1，阳
+性对照组灌胃给予阿米替林10 mg／kg，于末次给药
+后，进行强迫游泳实验，方法同1．4．1．2，观察动物
+在后4 mi n内的累计不动时间。
+1．5统计学处理
+实验数据采用表示，用SPSSl 6．0软件进行统
+计学处理，采用单因素方差分析，以P<0．05为有
+统计学意义。
+2
+结果
+2．1
+参远苷配比析因设计实验结果
+2．1．1
+参远苷配比析因设计交互效应分析结果
+悬尾实验和强迫游泳实验析因设计交互效应
+结果显示，P>0．05，认为两药无交互作用。即
+GTS和PTG配比表现出的效应，为两药效应的相加
+作用。
+2．1．2参远苷配比析因设计悬尾实验结果
+如表1所示，参远苷( 50：25) 、参远苷( 50：
+100) 、参远苷( 100：50) 显著缩短小鼠悬尾不动时
+间。与对照组相比，均有显著性差异( P<0．05，P
+<0．05，P<0．叭) 。帕罗西汀( 10 mg／kg) 缩短小
+鼠悬尾不动时间更为显著( P<0．001) 。参远苷
+( 25：25) 、参远苷( 25：50) 、参远苷( 100：25) 、参远苷
+( 50：50) 及参远苷( 100：100) 与对照组相比，无显著
+性差异。综合以上结果，GTS和PTG 2：1的比例
+( 50：25，100：50) 可显著、稳定缩短小鼠悬尾不动时
+间，而二者其他配比组缩短小鼠悬尾不动时间作用
+不稳定或无作用。
+2．1．3
+参远苷配比析因设计强迫游泳实验结果
+万方数据
+中国比较医学杂志2012年6月第22卷第6期Chi n J Comp Med，J une 2012，V01．22．No．6
+33
+表1参远苷配比对小鼠悬尾实验不动时间的影响( n=10)
+Tab．1
+Ef f ect
+of SYG on t ai l
+suspensi on t est ( n=10)
+注：与对照组相比，{ P<0．05，“ P<0．01．GTS：人参总皂苷，PTG：远志总苷
+Not e：compared wi t h t he cont rol group，} P<0．05，‘
+中<0．01．GTS：gi nseng t ot al
+saponi ns，PTG：pol ygal a tenu洳l i a
+t ot al gl ycosi ders
+表2参远苷配比对强迫游泳实验不动时间的影响( n=10)
+Tab．2
+Ef f ect
+of SYG on f orced swi mt est ( n=10)
+注：与对照组相比，} P<0．05，” P<0．01．GTS：人参总皂苷，PTG：远志总苷
+Not e：compared wi t h t he cont rol group，{ P<0．05，”
+P<0，01．GTS：gi nseng t ot al saponi ns，PTG：pol ygal a t enui f ol 缸t ot al
+gl ycosi ders
+如表2所示，参远苷( 25：25) 、参远苷( 50：25)
+2．1．4参远苷配比对小鼠空场实验总路程的影响
+及参远苷( 100：50) 显著缩短小鼠强迫游泳不动时
+如表3所示，参远苷各配比组对小鼠自主活动
+间，与对照组相比，具有显著性差异( P<0．01，P<
+实验总路程的影响，与对照组相比，无显著性差异。
+0．01，P<0．05) 。而参远苷( 25：50) 、参远苷( 50：
+2．2
+参远苷与单味GTS和PTG抗抑郁作用比较
+50) 、参远苷( 25：100) 、参远苷( 50：100) 及参远苷
+实验结果
+( 100：100) 与对照组相比，无显著性差异。综合以
+2。2．1
+悬尾实验结果如表4所示，参远苷75、150
+上结果，GTS和PTG 2：1的比例( 50：25，100：50) 可
+mg／kg、GTS 75、150 mg／kg可显著缩短小鼠悬尾不
+显著、稳定缩短小鼠强迫游泳不动时间，而二者其
+动时间，与对照组比较，具有显著性差异( P<0．05，
+他配比组缩短小鼠强迫游泳时间作用不稳定或无P<0．01，P<0．01，P<0．01) ，帕罗西汀缩短小鼠悬
+作用。
+尾不动时间更为显著( P<0．01) 。而PTG各剂量
+综合参远苷各配比悬尾实验和强迫游泳实验
+组均不能缩短小鼠悬尾不动时间。
+结果，GTS和PTG 2：1比例抗抑郁作用稳定，是其抗
+2。2．2强迫游泳实验结果
+抑郁作用较为合适的比例。
+万方数据
+34
+中国比较医学杂志2012年6月第22卷第6期Chi n J Comp Med，J une 2012，V01．22．No．6
+表3参远苷配比对小鼠空场实验总路程的影响( n=10)
+Tab．3
+Ef f ect
+of SYG On t ot al
+di st ance i n t he open f i el d t est ( n=10)
+注：与对照组相比，} P<0．05，“ P<0．01．GTS：人参总皂苷，PTG：远志总苷
+Not e：compared wi t h t he cont rol group，{ P<0．05，“
+P<0．01．GTS：gi nseng t ot al saponi ns，PTG：pol ygal a t enui f ol i a t ot al gl ycosi ders
+表4参远苷、GTS、PTG对悬尾实验不动时间的影响( n=10)
+Tab．4
+Ef f ect
+of SYG，GTS and PTG on t ai l
+suspensi on t est ( n=10)
+注：与对照组相比，十P<0．05，” P<0．01
+Not e：compared wi t h t he cont rol group，$P<0．05，’
+。P<0．Ol
+表5参远苷、GTS、PTG对强迫游泳实验不动时间的影响( 11=10)
+Tab．5
+Ef f ect
+of SYG，GTS and PTG on f orced swi mt est ( n=10)
+注：与对照组相比，{ P<0．05，” P<0．Ol
+Not e：compared wi t h t he cont rol group，$P<0．05．”
+P<0．01
+万方数据
+中国比较医学杂志2012年6月第22卷第6期Chi n J Comp Med，J une 2012，V01．22．Ne．6
+35
+如表5所示，参远苷37．5、75
+mg／kg、
+PTGl 8．75、37．5 mg／kg可显著缩短小鼠强迫游泳不
+动时间，与对照组比较，具有显著性差异( P<
+0．01，P<0．05，P<0．01，P<0。05) ，而GTS各
+剂量组均不能缩短小鼠强迫游泳不动时间。
+3讨论
+强迫游泳实验和悬尾实验，分别由Porsoh⋯ o和
+St eru¨ 副提出，作为抗抑郁药物活性筛选的两种行
+为学检测方法，因其快速、方便、价廉、对多种抗抑
+郁药物有效，被广为接受和应用。两个实验的原理
+均为将动物置于不可逃脱的环境中，动物拼命挣
+扎，企图逃脱，在经过努力仍不能摆脱困境后，出现
+间断性不动，显示“ 行为绝望“ 状态。这种“ 行为绝
+望” 状态与抑郁症类似。1“ 。记录实验动物产生行为
+绝望过程中的主要参数，如不动时间，可用于抗抑
+郁药物活性的筛选，绝大多数抗抑郁药物均可缩短
+实验动物不动时间。本研究中，GTS和PTG在25、
+50、100 mg／k93个水平上，进行析因设计，通过悬尾
+实验和强迫游泳实验对其抗抑郁作用进行评价，结
+果发现二者2：1的剂量配伍比例，在悬尾实验和强
+迫游泳实验中均表现良好和稳定的抗抑郁作用，确
+定GTS和PTG抗抑郁配伍剂量比例为2：1。参远
+苷该配比的抗抑郁作用已在慢性不可预测性应激
+模型得到验证( 文章待发表) 。参远苷( GTS：PTG=
+2：1) 与GTS、PTG抗抑郁作用比较的实验中，GTS只
+在悬尾实验中显示抗抑郁作用，PTG只在强迫游泳
+实验中显示抗抑郁作用。而参远苷在悬尾和强迫
+游泳实验中均显示显著的抗抑郁作用，与对照组比
+较，具有显著性差异。不同机制的抗抑郁药物对悬
+尾实验和强迫游泳实验的敏感度有所不同‘
+1“ ，由此
+推论，GTS和PTG的抗抑郁作用机制可能有所不
+同，这种差异可能基于二者不同的化学结构。人参
+总皂苷作为人参中最为重要的一类生理活性物质，
+其结构绝大多数属于达玛烷型四环三萜皂苷。在
+这些具有达玛烷型结构的人参皂苷中主要又分为
+原人参二醇( PPD) 型和原人参三醇( PPT) 型两
+类。本研究所用远志总苷的主要成分是糖酯类化
+合物，即以二糖、三糖、四糖和五糖及寡聚糖作为母
+核，由芥子酰基、阿魏酰基和乙酰基两两与糖环成
+酯的一类化合物。二者结构不同，配伍应用形成的
+参远苷制剂作用机制可能因此表现多样，符合抑郁
+症复杂多样的发病机制特点，因而具有更良好的抗
+抑郁作用。
+帕罗西汀属于5一羟色胺重摄取抑制剂，是高
+效、强力的抗抑郁药。本研究发现，帕罗西汀( 10
+mg／kg) 显著缩短小鼠悬尾不动时间，与对照组相
+比，具有极显著性差异。参远苷( 75、150 mg／kg) 可
+缩短小鼠悬尾不动时间，但作用强度不及帕罗西
+汀。阿米替林属于三环类抗抑郁药。在强迫游泳
+实验中，参远苷( 37．5、75 mg／kg) 缩短小鼠强迫游
+泳不动时间，其作用强度与阿米替林( 10 mg／kg)
+相当。
+空场实验可以有效地反映动物自发行为、活动
+及情绪状态，其活动强度在一定程度上也可以提示
+中枢神经系统的兴奋或抑制状态¨ “ 。因此，本实验
+通过空场实验观察参远苷对小鼠自发活动的影响，
+以排除药物对中枢兴奋或抑制作用而造成假阳性
+结果的可能性。实验结果显示，参远苷各配比组的
+动物总路程与对照组相比无显著性差异，表明参远
+苷对动物没有中枢兴奋或抑制作用，其抗抑郁作用
+是特异性的。
+析因设计，也称全因子实验设计，即实验中涉
+及所有因素水平全面组合形成实验条件，由于这种
+解决问题的方法考虑问题全面，常被人们使用Ⅲ1。
+在析因设计资料的分析中，应当重点考察各因素间
+是否存在交互效应。本研究采用析因设计，确定
+GTS和PTG的配伍比例。结果表明，尽管GTS和
+PTG配伍应用，未显示出交互效应，但两种药物联
+合应用，对两种抑郁模型均显示出了良好的对抗
+作用。
+由GTS和PTG按2：1配伍组成的参远苷制剂，
+对悬尾和强迫游泳实验均有抗抑郁作用，优于单味
+GTS和PTG，质量容易控制，进一步研究之后，有可
+能成为新型的抗抑郁药物新药。
+参考文献
+[ 1]
+Murray
+CJ ，Lopez
+AD．Al t ernat i ve proj ecf i ons
+of
+moRMi t y and
+di sabi l i t y by cause 1990—2020：Gl obal
+Burden of
+Di sease St udy
+[ J ] ．Lancet ，1997，349：1498—1504．
+[ 2]
+I nsel ，Thomas R，Charney，Denni s
+S．
+Research
+on
+Maj or
+Depressi on：St rat egi es
+and Pri ori t i es[ J ] ．J AMA，2003，289
+( 23) ：3167—3168．
+[ 3] Evans，Dwi sht
+L，Charney，Denni s
+S，Lewi s，Lydi a．Mood
+Di sorders
+i n
+t he
+Medi cal l y
+Il l ：
+Sci ent i f i c
+Revi ew
+and
+Recommendat i ons[ J ] ．2005，58( 3) ：175—189．
+[ 4]
+Anderson，H．D，Pace，W．D，Li bby，A．M．Rat es
+of
+5
+Common
+Ant i depressant
+Si de
+Ef f ect s
+Among New Adul t
+and
+万方数据
+36
+中国比较医学杂志2012年6月第22卷第6期
+Chi n J
+C。mp Med，J une 2012，V01．22．N。．6
+——————————————————————————————————————————————————————-—————-———_—————————————————————————————————————————————————————————————————————_———————————————————————————一～
+[ 5]
+[ 6]
+[ 7]
+[ 8]
+[ 9]
+[ 10]
+[ 11]
+Adol escent
+Cases
+of
+Depressi on：A
+Ret rospect i ve
+US
+Cl ai ms
+St udy[ J ] ．Cl i n Ther，2011．
+[ 12]
+包祖晓，赵国平，孙伟．开一f i , 散对抑郁症患者血浆褪黑素的影
+响[ J ] ．中医药学报，2011，39( 3) ：53—54．
+刘屏，汪进良，王燕，等．开心散类方配伍及抗抑郁作用研究
+[ J ] ．中华中医药杂志，2005，20( 5) ：279—28．
+汪进良，刘屏，王东晓，等．开心散对慢性应激大鼠行为及海
+马p- CREB表达的影响[ J ] ．中国中药杂志，2007，32( 15) ：
+1555—1557．
+柴纪严，单德红，王德山．定志小丸对抑郁模型大鼠海马神经
+于细胞Nest i n表达的影响[ J ] ．中国中医药信息杂志．2005，
+12( 4) ：29—30．
+Hai xi a Dang，Li hua Sun，Xi nmi n Li u，等．Prevent i ve Act i on of
+Kai
+Xi n San Aqueous
+Ext ract
+on Depressi ve—Li ke Sympt oms
+and
+Cogni t i on Def i ci t
+I nduced
+by
+Chroni c
+Mi l d St ress[ J ] ．t he
+Soci et y
+f or
+experi ment al
+Bi ol ogy
+and
+Medi ci ne，2009：785
+—793．
+Hu，Y，Li ao，HB，Li u，P．A bi oaet i ve compound f rom Pol ygal a
+t enui f ol i a regul at es
+ef f i ci ency
+of
+chroni c
+st ress
+on
+hypot hal ami c—
+pi t ui t ary- adrenal axi s[ J ] ．Pharmazi e．2009，64( 9) ：605—8．
+Porsoh RD，Bert i n A，J al f re M．Behavi oral
+despai r
+i n mi ce：a
+pri mary
+screeni ng
+t est
+f or
+ant i depressant s[ J ] ．Arch
+I nt
+[ 13]
+[ 14]
+[ 15]
+[ 16]
+[ 17]
+Pharmacodyn Ther，1977，229：327—36．
+王琼，买文丽，李翊华，等．自主活动实时测试分析处理系统
+的建立与开心散安神镇静作用验证[ J ] ．中草药，2009，40
+( 11) ：1774—1779．
+St eru L，Chermat
+R，Thi erry B，Si mon P．The
+t ai l
+suspensi on
+t est ：f l
+new met hod f or
+screeni ng ant i depressant s i n mi ce[ J ] ．
+Psychopharmacol ogy，1985，85：367—70．
+Cryan J ohn F，Hol mes Andrew．The
+ascent
+of
+mouse：advances
+i n model l i ng human depressi on and anxi et y[ J ] ．Nat
+Rev Drug
+Di scov，2005；4：775～790．
+15．Cryan，J ，F．，Mombereau，C．，Vassout ，A．The
+t ai l
+suspensi on t est
+as
+a model
+f or assessi ng ant i depressant
+act i vi t y：
+revi ew
+of
+pharmacol ogi cal
+and
+genet i c
+st udi es
+i n
+mi ce
+[ J ] ．
+Neurosci
+Bi obehav Rev，2005，29( 4) ：571—625．
+陶震，鲁毅，司梁宏．GTS对小鼠的抗抑郁作用[ J ] ．药学与
+临床研究．2010，18( 4) ：360—362．
+胡纯严，胡良平．如何正确运用析因设计一怎样在药物应用
+与监测研究中正确运用统计学( 五) [ J ] ．中国药物应用与检
+测，2008，5( 5) ：44—47，
+[ 修回日期] 2012- 05- 07
+万方数据

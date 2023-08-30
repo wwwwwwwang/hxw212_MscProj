@@ -1,0 +1,506 @@
+中国病理生理杂志
+Chinese Journal of Pathophysiology
+2022，38（2）：284-291
+杂志网址：http:
+/ /
+www. cjpp. net
+20（S）-人参皂苷Rg3抑制人急性单核细胞白血病
+THP-1细胞迁移和侵袭*
+兰金剑， 高瑞兰， 赵燕娜， 马闪闪， 王博林， 沈凤麟， 余潇苓
+△
+（浙江中医药大学附属第一医院，浙江 杭州 310006）
+［摘
+要］ 目的：观察低极性20（S）-人参皂苷Rg3（S-Rg3）体外抑制人急性单核细胞白血病THP-1细胞迁移和
+侵袭的作用。方法：将不同浓度（0、20、40 和 80 mg/L）的 S-Rg3加入 THP-1 细胞培养体系，Transwell 小室检测 S-Rg3
+抑制细胞迁移的作用。采用免疫细胞化学、免疫荧光、Western blot和 RT-qPCR等多种方法，检测 S-Rg3对 THP1细胞
+黏附、迁移和侵袭相关蛋白表达的影响及其相关机制。结果：S-Rg3能有效地抑制 THP-1 细胞迁移，下调黏附相关
+蛋白 N-cadherin，迁移相关蛋白 C-X-C 趋化因子受体 4（CXCR4）和基质细胞衍生因子 1（SDF-1），以及侵袭相关蛋白
+基质金属蛋白酶 2（MMP2）的表达，但上调抑制迁移侵袭相关蛋白 E-cadherin、金属蛋白酶组织抑制物 1（TIMP1）和
+TIMP3 表达，同时下调 CXCR4 mRNA 表达，上调 E-cadherin 和 TIMP1 mRNA 表达，呈剂量依赖性。此外，S-Rg3降低
+PI3K/AKT 信号通路相关蛋白激酶的磷酸化水平。结论：S-Rg3能有效抑制人急性单核细胞白血病 THP-1细胞的迁
+移和侵袭，其机制可能与降低细胞内PI3K/AKT信号通路相关蛋白激酶的磷酸化水平有关。
+［关键词］ 20（S）-人参皂苷Rg3；THP-1细胞；细胞迁移；细胞侵袭；PI3K/AKT信号通路
+［中图分类号］ R730. 23；R733. 7
+［文献标志码］ A
+doi：10. 3969/j. issn. 1000-4718. 2022. 02. 012
+Inhibitory effect of 20(S) -ginsenoside Rg3 on migration and invasion of
+human acute monocytic leukemia THP-1 cells
+LAN Jin-jian， GAO Rui-lan， ZHAO Yan-na， MA Shan-shan， WANG Bo-lin， SHEN
+Feng-lin，YU Xiao-ling
+△
+（The First Affiliated Hospital of Zhejiang Chinese Medical University，Hangzhou 310006，China. E-mail：usually07@126. com）
+［ABSTRACT］ AIM：To observe the effect of low-polarity 20（S）-ginsenoside Rg3（S-Rg3）on the migration and in⁃
+vasion of human acute monocytic leukemia THP-1 cells. METHODS：The THP-1 cells were treated with various concen⁃
+trations（0，20，40 and 80 mg/L）of S-Rg3. The cell migration was detected by Transwell assay. Immunocytochemistry，
+immunofluorescence，Western blot and RT-qPCR were used to detect the expression of various proteins related to adhe⁃
+sion，migration，invasion and the related mechanisms. RESULTS：Treatment with S-Rg3 inhibited the migration of THP-
+1 cells，and down-regulated the expression of adhesion-related protein N-cadherin，migration-related proteins C-X-C che⁃
+mokine receptor 4（CXCR4）and stromal cell-derived factor-1（SDF-1），and invasion-related protein matrix metallopro⁃
+teinase 2（MMP2），but up-regulated the expression of E-cadherin，tissue inhibitor of metalloproteinase 1（TIMP1）and
+TIMP3. It also decreased CXCR4 mRNA expression，and stimulated E-cadherin and TIMP1 mRNA expression in a dose-
+dependent manner. In addition，S-Rg3 inhibited PI3K/AKT signaling pathway. CONCLUSION：Treatment with S-Rg3 effec⁃
+tively inhibits the migration and invasion of THP-1 cells，which may be related to inhibition of PI3K/AKT signaling pathway.
+［KEY WORDS］ 20（S）-Ginsenoside Rg3；THP-1 cells；Cell migration；Cell invasion；PI3K/AKT signaling pathway
+白血病是一类造血组织的恶性克隆性疾病，急
+性单核细胞白血病髓外侵袭的发生率约 20%~40%，
+可出现在脑组织、肝、脾、淋巴结、皮肤和齿龈等，是
+最严重的并发症和主要死亡原因之一
+［1］，目前尚无
+［文章编号］ 1000-4718（2022）02-0284-08
+［收稿日期］2021-11-25
+［修回日期］2022-02-05
+*［基金项目］浙江省自然科学基金资助项目（No. LQ19H290002；No. LY20H290004）；国家自然科学基金资助项目（No.
+81774068）
+△通讯作者 Tel：0571-87071625；E-mail：usually07@126. com
+·
+·284
+万方数据
+有效的治疗手段，因此很有必要寻找安全有效抗髓
+外侵袭的中药及其有效部位和成分。研究显示，人
+参皂苷 Rg3可抑制 B16 黑色素瘤肺转移，降低 B16 细
+胞侵袭力，并明显延长荷瘤小鼠的生存期
+［2］。文献
+报道中成药参一胶囊［含 20（R）-人参皂苷 Rg3］的研
+究较多，该药能有效抑制胶质瘤 U87 细胞的黏附和
+侵袭能力
+［3］。然而，有关 20（S）-人参皂苷 Rg3（S-Rg3）
+的报道很少，S-Rg3抑制单核细胞白血病细胞迁移和
+侵袭的作用及其可能的机制未见报道。本项工作以
+人急性单核细胞白血病 THP-1 细胞为靶细胞，观察
+S-Rg3抑制单核细胞白血病细胞迁移和侵袭的作用。
+材
+料
+和
+方
+法
+1
+实验细胞及药物
+THP-1 细胞由浙江中医药大学附属第一医院血
+液病研究所提供。S-Rg3购自上海融禾医药科技有
+限公司，经核磁共振谱、质谱、红外光谱和紫外吸收
+光谱鉴定其结构，纯度>98%，分子式为 C42H72O13，分
+子量为785. 02。
+2
+实验方法
+2. 1
+细胞培养
+THP-1 细胞常规培养于含 10% 胎
+牛血清的 RPMI-1640 培养液中，置于 37 ℃、5% CO2、
+饱和湿度培养箱中，隔天换液 1 次，取对数生长期细
+胞用于后续实验。
+2. 2
+Transwell小室检测细胞迁移能力
+收集THP-1
+细胞并调整细胞悬液浓度至 1×10
+8/L，分别加入 0、
+10、20、40 和 80 mg/L 的 S-Rg3，置于 37 ℃、5%CO2、饱
+和湿度培养箱中孵育 2 d。用无血清的 RPMI-1640
+过夜饥饿 24 h，调整各组细胞浓度为 5×10
+5/L，取 200
+µL细胞悬液接种于小室，24孔板下室中加入 600 µL
+含 15%新生牛血清的 IMDM，置于 37 ℃、5% CO2的饱
+和湿度培养箱中孵育 24 h。弃去小室内培养液，将
+小室置于 800 µL 4% 多聚甲醛的孔中室温固定 20
+min，随后加入结晶紫染液，染色后显微镜下计数 5
+个随机视野的细胞数量，取其平均值。
+2. 3
+免疫细胞化学法
+用 0、20、40 和 80 mg/L 的 S-
+Rg3处理 THP-1 细胞 2 d，收集细胞，细胞悬液经离心
+涂片机制成细胞涂片，4% 多聚甲醛固定，0. 5% Tri⁃
+ton X-100 破膜。加Ⅰ抗，置于 4 ℃孵育过夜，加Ⅱ抗
+工作液，37 ℃孵育 30 min，DAB 显色 10 min。用苏木
+精复染，中性树脂封片。镜下观察棕褐色阳性反应
+的细胞，阳性程度判断标准采用ImageJ软件分析。
+2. 4
+免疫荧光法
+0、20、40 和 80mg/L 的 S-Rg3处理
+THP-1细胞 2 d，收集细胞，细胞悬液经离心涂片机制
+片，4% 多聚甲醛固定，0. 5% TritonX-100 破膜。加Ⅰ
+抗，置于 4 ℃孵育过夜，加荧光Ⅱ抗，37 ℃孵育 1 h。
+用含 DAPI染料封片剂封片，用荧光显微镜（×630）观
+察细胞。阳性程度判断标准采用ImageJ软件分析。
+2. 5
+Western blot法
+0、20、40和 80 mg/L的 S-Rg3处
+理 THP-1 细胞 2 d，收集细胞，加入裂解液提取细胞
+总蛋白。每孔加样 40 µg 总蛋白，经 10% SDS-PAGE
+分离，将蛋白条带转移至 NC 膜上，室温下用 5% BSA
+封闭 1 h，分别加 p-PI3K、p-AKT、基质金属蛋白酶 2
+（matrix metalloproteinase 2，MMP2）和 C-X-C 趋化因
+子受体 4（C-X-C chemokine receptor 4，CXCR4）等Ⅰ
+抗（Cell Signaling Technology），4 ℃孵育过夜，加Ⅱ
+抗，室温孵育 1 h，ECL发光剂显影。采用使用 ImageJ
+软件分析特异性条带的灰度值。
+2. 6
+RT-qPCR 法
+0、20、40 和 80 mg/L 的 S-Rg3处理
+THP-1 细胞 2 d，收集细胞，Trizol 试剂盒提取细胞总
+RNA，经逆转录为 cDNA，分别采用特异性引物，进行
+实时荧光定量 PCR。内参照 β-actin的上游引物序列
+为 5´-CATCAAGGAGAAACTGTGT-3´，下游引物序列
+为 5´-AGGCAACTCGTAACTCTT-3´；TIMP1 的上游引
+物序列为 5´-CTTCTGCAATTCCGACCTCGT-3´，下游
+引物序列为 5´-ACGCTGGTATAAGGTGGTCTG-3´；E-
+cadherin 的 上 游 引 物 序 列 为 5´-CGAGAGCTACAC⁃
+GTTCACGG-3´，下 游 引 物 序 列 为 5´ -GGGTGTC⁃
+GAGGGAAAAATAGG-3´；CXCR4 的上游引物序列为
+5´-ACTACACCGAGGAAATGGGCT-3´，下游引物序列
+为 5´ -CCCACAATGCCAGTTAAGAAGA-3´。 PCR 条
+件为：95 ℃ 3 min；95 ℃ 10 s，60 ℃ 30 s，39个循环。
+3
+统计学处理
+用 SPSS 25. 0 软件进行数据分析。计量资料以
+均数±标准差（mean±SD）表示。组间均数比较采用
+单因素方差分析。以P<0. 05为差异有统计学意义。
+结
+果
+1
+S-Rg3抑制THP-1细胞迁移
+Transwell 实验结果显示，S-Rg3处理 THP-1 细胞
+2 d 后，小剂量 10 mg/L 组迁移细胞数与对照组相比
+无显著差异，而 20、40 和 80 mg/L 组迁移细胞数显著
+低于对照组，抑制率约为 10. 5%~43. 4%，差异有统
+计学意义（P<0. 01），见图1。
+2
+S-Rg3调控黏附相关蛋白的表达
+经 20、40 和 80 mg/L 的 S-Rg3处理 2 d，免疫荧光
+染色结果显示 THP-1 细胞表达 E-cadherin 蛋白的荧
+光强度显著高于对照组（P<0. 01），见图 2；免疫细胞
+化学染色结果显示，S-Rg3处理细胞后，N-cadherin 蛋
+白的阳性反应显著低于对照组（P<0. 01），见图3。
+·
+·285
+万方数据
+3
+S-Rg3下调迁移相关蛋白的表达
+经 20、40 和 80 mg/L 的 S-Rg3处理 2 d，免疫荧光
+染色结果显示THP-1细胞表达CXCR4蛋白的荧光强
+度显著低于对照组（P<0. 01），见图 2；免疫细胞化学
+染色结果显示，THP-1细胞表达 SDF-1蛋白的阳性反
+应显著低于对照组（P<0. 01），见图3。
+Western blot 结果与免疫细胞化学染色结果一
+致，经 20、40和 80 mg/L的 S-Rg3处理 2 d，CXCR4蛋白
+表达显著低于对照组（P<0. 01），见图4。
+4
+S-Rg3调控侵袭相关蛋白的表达
+经 20、40 和 80 mg/L 的 S-Rg3处理 2 d，免疫荧光
+染色结果显示 THP-1 细胞表达 TIMP1 和 TIPM3 蛋白
+的荧光强度显著高于对照组（P<0. 01），见图 5；而表
+达 MMP2 蛋白的荧光强度则显著低于对照组（P<
+0. 01），见图 6。免疫细胞化学染色结果显示，S-Rg3
+处理细胞后，TIMP1 和 TIPM3 蛋白表达的阳性程度
+显著高于对照组（P<0. 01），见图7。
+Western blot 结果与免疫细胞化学染色结果一
+致，经 20、40 和 80 mg/L 的 S-Rg3处理 2 d，MMP2 蛋白
+表达显著低于对照组（P<0. 01），见图4。
+5
+S-Rg3降低PI3K和AKT的磷酸化水平
+免疫细胞化学染色结果显示，经 20、40和 80 mg/
+Figure 1. The inhibitory effect of S-Rg3 on the migration of THP-1 cells detected by Transwell migration assay. A：control（0 mg/L S-
+Rg3）group；B：10 mg/L S-Rg3 group；C：20 mg/L S-Rg3 group；D：40 mg/L S-Rg3 group；E：80 mg/L S-Rg3 group. Mean±
+SD. n=5.
+**P<0. 01 vs A.
+图1
+Transwell小室法检测S-Rg3抑制THP-1细胞迁移的作用
+Figure 2. Effect of S-Rg3 on the protein expression of CXCR4 and E-cadherin in THP-1 cells detected by immunofluorescence（scale
+bar=50 µm）. A1 to A6：control（0 mg/L S-Rg3）group；B1 to B6：20 mg/L S-Rg3 group；C1 to C6：40 mg/L S-Rg3 group；
+D1 to D6：80 mg/L S-Rg3 group. Mean±SD. n=3.
+*P<0. 05，
+**P<0. 01 vs control（0 mg/L S-Rg3）group.
+图2
+免疫荧光染色检测S-Rg3对THP-1细胞黏附和迁移相关蛋白表达的影响
+·
+·286
+万方数据
+L 的 S-Rg3处理 2 d，THP-1 细胞中 p-AKT 蛋白的阳性
+反应显著低于对照组（P<0. 01），见图3。
+Western blot 结果显示，经 20、40 和 80 mg/L 的 S-
+Rg3处理 2 d，THP-1细胞中 p-AKT和 p-PI3K蛋白水平
+显著低于对照组（P<0. 01），见图4。
+6
+S-Rg3调控迁移和侵袭相关mRNA的表达
+RT-qPCR 结果显示，与对照组相比，20、40 和 80
+mg/L 的 S-Rg3 处理 2 d，THP-1 细胞 CXCR4 的 mRNA
+表达水平显著降低（P<0. 01），而 TIMP1和 E-cadherin
+的mRNA表达水平显著升高（P<0. 01），见图8。
+讨
+论
+低极性人参皂苷 S-Rg3是从中药人参中分离出
+多种人参皂苷单体成分之一。低极性人参皂苷是指
+含有 2 个以上糖的原生苷，经水解失去部分糖而得
+到的苷，在人参属植物中含量低，文献报道此成分具
+有抗肿瘤的活性。在肠癌、胃癌、肺癌及乳腺癌等多
+种肿瘤研究中，人参皂苷 Rg3具有抑制肿瘤细胞增
+殖、诱导细胞凋亡、抑制迁移和侵袭等抗肿瘤作
+用
+［4-5］。 人 参 皂 苷 Rg3 可 以 通 过 调 控 caspase-8 及
+PARP 相关蛋白的表达而激活及诱导凋亡过程，并通
+过下调 p-AKT 蛋白水平而发挥抑制肿瘤细胞增殖及
+诱导凋亡的作用
+［6］。但 S-Rg3抗单核细胞白血病细胞
+黏附、迁移和侵袭的作用尚未见报道。本研究结果
+提示 S-Rg3具有抑制 THP-1 单核细胞白血病细胞迁
+移及侵袭的作用。
+急性单核细胞白血病常发生髓外侵袭，受细胞
+因子严格调控，包括白血病细胞的趋化、黏附、迁移
+和降解基质等多个环节，与 SDF-1/CXCR4、基质金属
+蛋白酶（MMPs）、黏附分子（E-cadherin/N-cadherin）等
+有关。SDF-1/CXCR4 参与调控白血病细胞的趋化、
+迁移及侵袭等环节
+［7］，MMPs 与白血病细胞的降解基
+质密切相关
+［8］，黏附分子参与白血病细胞的黏附、迁
+移等多个生物活性
+［9］。有文献报道白血病细胞中 E-
+Figure 3. Effect of S-Rg3 on the protein levels of CXCR4，N-cadherin，p-AKT and SDF-1 in THP-1 cells detected by immunocyto⁃
+chemistry（scale bar=50 µm）. A1 to A4：control（0 mg/L S-Rg3）group；B1 to B4：20 mg/L S-Rg3 group；C1 to C4：40
+mg/L S-Rg3 group；D1 to D4：80 mg/L S-Rg3 group. Mean±SD. n=3.
+*P<0. 05，
+**P<0. 01 vs control（0 mg/L S-Rg3）group.
+图3
+免疫细胞化学染色检测S-Rg3对THP-1细胞迁移和侵袭相关蛋白表达的影响
+·
+·287
+万方数据
+cadherin 表达丧失，引起细胞黏附能力降低，增殖能
+力增强
+［10］；急性白血病患者脑脊液 E-cadherin的表达
+与白血病脑侵袭的发生密切相关
+［11］。研究表明，N-
+cadherin 可以促进体内白血病细胞的骨髓归巢、植入
+和自我更新
+［12］。本实验结果显示 S-Rg3作用于 THP-1
+细胞后，可上调 E-cadherin 蛋白，但下调 N-cadherin
+Figure 4. Effect of S-Rg3 on the protein levels of MMP2，CXCR4，p-PI3K and p-AKT in THP-1 cells detected by Western blot. A：
+control（0 mg/L S-Rg3）group；B：20 mg/L S-Rg3 group；C：40 mg/L S-Rg3 group；D：80 mg/L S-Rg3 group. Mean±SD. n=
+3.
+*P<0. 05，
+**P<0. 01 vs A.
+图4
+Western blot检测S-Rg3对THP-1细胞PI3K、AKT及侵袭相关蛋白水平的影响
+Figure 5. Effect of S-Rg3 on the protein expression of TIMP1 and TIMP3 in THP-1 cells detected by immunofluorescence（scale bar=
+50 µm）. A1 to A6：control（0 mg/L S-Rg3）group；B1 to B6：20 mg/L S-Rg3 group；C1 to C6：40 mg/L S-Rg3 group；D1 to
+D6：80 mg/L S-Rg3 group. Mean±SD. n=3.
+*P<0. 05，
+**P<0. 01 vs control（0 mg/L S-Rg3）group.
+图5
+免疫荧光染色检测S-Rg3对THP-1细胞TIMP1和TIPM3蛋白表达的影响
+·
+·288
+万方数据
+蛋白的表达，提示 S-Rg3具有抑制 THP-1 细胞的黏附
+和迁移的作用。
+SDF-1为趋化因子家族成员，已被证实参与造血
+干细胞的增殖及归巢，通过与 CXCR4 结合，参与许
+多恶性肿瘤细胞的存活，局部侵袭及转移，在恶性肿
+瘤的发生、发展中起着重要的作用
+［13-14］。有研究显
+示，降低白血病细胞表面 CXCR4 的表达水平，可以
+减弱白血病细胞的迁移能力
+［15］。本实验结果显示 S-
+Rg3作用于 THP-1 细胞后，可下调 SDF-1 和 CXCR4 其
+蛋白表达，提示 S-Rg3具有抑制 THP-1 细胞的迁移和
+侵袭作用。
+MMPs为一种锌依赖的内蛋白酶，属于细胞外基
+质降解酶家族，可以降解细胞外基质的胞外水解酶，
+其 中 起 主 要 作 用 的 是 MMP2 和 MMP9。 TIMPs 是
+MMPs 的主要生理性抑制因子，其功能涉及抑制
+MMPs家族成员的活性
+［16］。已有研究表明，白血病细
+胞生成的MMP2，为其髓外侵袭发挥作用
+［17］。本实验
+结果显示 S-Rg3作用于 THP-1 细胞后，可上调 TIMP1
+和 TIMP3 的 mRNA 及蛋白表达水平，并抑制 MMP2
+蛋白的表达，提示 S-Rg3可通过调控 TIMP1、TIMP3和
+Figure 6. Effect of S-Rg3 on the protein expression of MMP2 in THP-1 cells detected by immunofluorescence（scale bar=50 µm）. A1
+to A3：control（0 mg/L S-Rg3）group；B1 to B3：20 mg/L S-Rg3 group；C1 to C3：40 mg/L S-Rg3 group；D1 to D3：80 mg/
+L S-Rg3 group. Mean±SD. n=3.
+*P<0. 05，
+**P<0. 01 vs control（0 mg/L S-Rg3）group.
+图6
+免疫荧光染色检测S-Rg3对THP-1细胞MMP2蛋白表达的影响
+Figure 7. Effect of S-Rg3 on the protein expression of TIMP1 and TIMP3 in THP-1 cells detected by immunocytochemical staining
+（scale bar=50 µm）. A1 and A2：control（0 mg/L S-Rg3）group；B1 and B2：20 mg/L S-Rg3 group；C1 and C2：40 mg/L S-
+Rg3 group；D1 and D2：80 mg/L S-Rg3 group. Mean±SD. n=3.
+*P<0. 05，
+**P<0. 01 vs control（0 mg/L S-Rg3）group.
+图7
+免疫细胞化学染色检测S-Rg3对THP-1细胞TIMP1和TIMP3蛋白表达的影响
+·
+·289
+万方数据
+MMP2蛋白而抑制THP-1细胞的侵袭。
+在肿瘤组织中 PI3K 和 AKT 是调控细胞生长、分
+化、侵袭和迁移的重要信号转导通路，参与肿瘤的发
+生和发展
+［18-19］。另有报道 PI3K和 AKT与白血病细胞
+的侵袭和迁移能力相关
+［20］。AKT 是 PI3K 下游最重
+要的靶蛋白，PI3K 发生磷酸化（p-PI3K）可促进 AKT
+活化，活化的 AKT 可在细胞浆中发生磷酸化反应而
+传递生物学信号，从而参与细胞增殖、周期、侵袭等
+生理过程
+［21］。鉴于磷酸化是蛋白激酶发挥其功能的
+活性状态，本研究显示 S-Rg3通过下调 PI3K 和 AKT
+的磷酸化水平而抑制THP-1细胞的迁移和侵袭。
+综上所述，我们的研究表明人参皂苷 S-Rg3具有
+抑制人急性单核细胞白血病 THP-1 细胞黏附、迁移
+和侵袭的作用，其机制与下调 PI3K/AKT 信号通路相
+关 PI3K 和 AKT 蛋白的磷酸化水平有关。但 S-Rg3是
+否通过调控 PI3K/AKT 信号通路而发挥抑制 THP-1
+细胞黏附、迁移和侵袭的作用，尚待深入研究。
+［参
+考
+文
+献］
+［1］
+Constantinescu C，Bodolea C，Pasca S，et al. Clinical ap⁃
+proach to the patient in critical state following immunother⁃
+apy and/or stem cell transplantation：guideline for the on-
+call physician［J］. J Clin Med，2019，8（6）：884-900.
+［2］
+辛颖，倪劲松，王心蕊，等 . 20（S）-人参皂苷 Rg3 抗
+B16 黑色素瘤转移的作用［J］. 吉林大学学报（医学
+版），2004，30（4）：540-542.
+Xin Y，Ni JS，Wang XR，et al. Inhibitory effect of 20
+（S）-ginsenoside Rg3 on B16 melanoma metastasis［J］. J
+Jilin Univ（Med Ed），2004，30（4）：540-542.
+［3］
+柳云恩，刘欣伟，施琳，等 . 人参皂甙 20（R）-Rg3 对人
+胶质瘤 U87 侵袭的影响［J］. 临床军医杂志，2014，42
+（11）：1138-1141.
+Liu YE，Liu XW，Shi L，et al. Effects of 20（R）-gin⁃
+senoside Rg3 on invasion of human glioma U87 cells［J］.
+Clin J Med Off，2014，42（11）：1138-1141.
+［4］
+Yang J，Li S，Wang L，et al. Ginsenoside Rg3 attenuates
+lipopolysaccharide-induced acute lung injury via MerTK-
+dependent activation of the PI3K/AKT/mTOR pathway
+［J］. Front Pharmacol，2018，9：850.
+［5］
+乔雪涵，岳丽玲，朱文斌 . 人参皂苷 Rg3的抗肿瘤作用
+研究现状［J］. 中国临床药理学杂志，2021，37（10）：
+1272-1276.
+Qiao XH，Yue LL，Zhu WB. Research progress of gin⁃
+senoside Rg3 in anticancer effects［J］. Chin J Clin Phar⁃
+macol，2021，37（10）：1272-1276.
+［6］
+熊暮珺，黄靓 . 人参皂苷 Rg3 对急性髓细胞性白血病
+THP-1、HL-60 细胞的干预作用［J］. 中医学报，2020，
+35（7）：1497-1500.
+Xiong MJ，Huang L. Intervention mechanism of ginsenoside
+Rg3 on THP-1 and HL-60 cells in acute myeloid leukemia
+［J］. Acta Chin Med，2020，35（7）：1497-1500.
+［7］
+王瑾，牛奔，马肖容，等 . 粒细胞刺激因子对白血病细
+胞趋化因子受体 4 表达及趋化能力和骨髓微环境的影
+响［J］. 中国组织工程研究，2018，22（33）：5268-5273.
+Wang J，Niu B，Ma XR，et al. Effects of granulocyte-
+stimulating factors on the expression of chemokine recep⁃
+tor 4 in leukemia cells and the chemotaxis of bone marrow
+microenvironment［J］. Chin Tissue Eng Res，2018，22
+（33）：5268-5273.
+［8］
+许昕瑜，张丽娜，吴惠文 . CPEB4 对慢性髓系白血病
+细胞迁移与周期的影响［J］. 中国实验血液学杂志，
+2020，28（4）：1137-1143.
+Xu XY，Zhang LN，Wu HW. Effect of CPEB4 on migra⁃
+tion and cycle of chronic myeloid leukemia cells［J］. Chin
+J Exp Hematol，2020，28（4）：1137-1143.
+［9］
+邓怡，张曦 . 白血病中钙黏蛋白的表观遗传学调控
+［J］. 检验医学与临床，2017，14（9）：1348-1351.
+Deng Yi，Zhang Xi. Epigenetic regulation of cadherin in
+leukemia［J］. Lab Med Clin，2017，14（9）：1348-1351.
+［10］ 王燕忠，王继英，唐克晶，等 . Rac1 介导 E-cadherin 下
+Figure 8. Effect of S-Rg3 on the mRNA expression of CXCR4（A），E-cadherin（B）and TIMP1（C）in THP-1 cells detected by RT-
+PCR. Mean±SD. n=3.
+*P<0. 05，
+**P<0. 01 vs control（0 mg/L S-Rg3）group.
+图8
+RT-PCR检测S-Rg3对THP-1细胞CXCR4、E-cadherin和TIMP1 mRNA表达的影响
+·
+·290
+万方数据
+调引起的白血病细胞行为改变［J］. 中国病理生理杂
+志，2010，26（9）：1670-1673.
+Wang YZ，Wang JY，Tang KJ，et al. Rac1 mediates the
+behavior change of leukemia cells caused by down-regula⁃
+tion of E-cadherin［J］. Chin J Pathophysiol，2010，26
+（9）：1670-1673.
+［11］ 赵文海，胡龙虎，韩春平，等 . 上皮型钙黏蛋白在中枢
+神经系统白血病患者脑脊液中的表达［J］. 中国预防医
+学杂志，2010，11（8）：830-832.
+Zhao WH，Hu LH，Han CP，et al. Expression of epithe⁃
+lial cadherin in cerebrospinal fluid of patients with central
+nervous system leukemia［J］. Chin J Prevent Med，2010，
+11（8）：830-832.
+［12］ Marjon KD，Termini CM，Karlen KL，et al. Tetraspanin
+CD82 regulates bone marrow homing of acute myeloid leu⁃
+kemia by modulating the molecular organization of N-cad⁃
+herin［J］. Oncogene，2016，35（31）：4132-4140.
+［13］ Daniela DP，Francesca P，Massimo M，et al. Co-tar⁃
+geting of miR-126-3p and miR-221-3p inhibits PIK3R2
+and PTEN，reducing lung cancer growth and metastasis
+by blocking AKT and CXCR4 signaling［J］. Mol Oncol，
+2021，15（11）：2969-2988.
+［14］ 张锐，孔令惠，张志强，等 . SDF-1/CXCR4生物轴对胃
+癌淋巴转移的影响［J］. 疾病监测与控制，2021，15
+（3）：177-181.
+Zhang R，Kong LH，Zhang ZQ，et al. Effects of SDF-1/
+CXCR4 biological axis on lymphatic metastasis of gastric
+cancer［J］. Dis Monit Control，2021，15（3）：177-181.
+［15］ 代志明，牛奔，张王刚，等 . G-CSF 对白血病细胞表面
+CXCR4 表达及其趋化功能的影响［J］. 现代肿瘤医学，
+2016，24（6）：858-861.
+Dai ZM，Niu B，Zhang YG，et al. Effects of G-CSF on
+CXCR4 expression and chemotactic function on leukemia
+cell surface［J］. Mod Oncol，2016，24（6）：858-861.
+［16］ 王静，李灵敏，刘晓峰，等 . FOXJ1 通过调控 MMP2/9
+和 β-catenin抑制胃癌转移的机制研究［J］. 肿瘤预防与
+治疗，2021，34（9）：779-786.
+Wang J，Li Z，Liu XF，et al. FOXJ1 inhibits gastric can⁃
+cer metastasis by regulating MMP2/9 and β -catenin［J］.
+Tumor Prevent Treat，2021，34（9）：779-786.
+［17］ 杨华，沈立云，杜幸军，等 . 中枢神经系统白血病脑脊
+液 MMP-2 和 TIMP-2 测定的临床意义［J］. 中国实用神
+经疾病杂志，2016，19（18）：47-48.
+Yang H，Shen LY，Du XJ，et al. Clinical significance of
+determination of MMP-2 and TIMP-2 in cerebrospinal
+fluid of central nervous system leukemia［J］. Chin J Pract
+Neurol，2016，19（18）：47-48.
+［18］ Davis N，Sokolosky M，Stadelman K，et al. Deregulation
+of the EGFR/PI3K/PTEN/Akt/mTORC1 pathway in breast
+cancer：possibilities for therapeutic intervention［J］. On⁃
+cotarget，2014，5（13）：4603-4650.
+［19］ 孙新锋，韩志毅，冯文杏，等 . 丹皮酚通过上调 miR-
+424-3p 和抑制 PI3K/AKT 信号通路影响肝癌细胞的生
+长和迁移［J］. 中国病理生理杂志，2020，36（8）：1487-
+1492.
+Sun XF，Han ZY，Feng WX，et al. Paeonol affects the
+growth and migration of hepatocellular carcinoma cells by
+upregulating miR-424-3p and inhibiting PI3K/AKT sig⁃
+naling pathway［J］. Chin J Pathophysiol，2020，36（8）：
+1487-1492.
+［20］ 肖喜春，谷月丽，陈淑霞，等. 过表达SHIP-1对白血病
+细胞侵袭、迁移及 PI3K/AKT 信号通路的影响［J］. 中国
+实验血液学杂志，2018，26（2）：324-329.
+Xiao XC，Gu YL，Chen SX，et al. Effect of overexpres⁃
+sion of SHIP-1 on invasion，migration and PI3K/AKT sig⁃
+naling pathway of leukemia cells［J］. Chin J Exp Hema⁃
+tol，2018，26（2）：324-329.
+［21］ 苌俊明，李德亮，朱萍，等 . 姜黄素通过激活 miR-192-
+5p/PI3K/AKT 信号通路抑制肾母细胞瘤增殖并诱导细
+胞凋亡［J］. 中华微生物学和免疫学杂志，2020，40
+（8）：622-627.
+Chang JM，Li DL，Zhu P，et al. Curcumin inhibits pro⁃
+liferation and induces apoptosis of nephroblastoma by acti⁃
+vating miR-192-5p/PI3K/AKT signaling pathway［J］. Chin
+J Microbiol Immunol，2020，40（8）：622-627.
+（责任编辑：卢
+萍，罗
+森）
+·
+·291
+万方数据

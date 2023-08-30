@@ -1,0 +1,557 @@
+Cent ral Sout h Pharmacy．May
+2022。Voi ．20 No．5
+中南药学2022年5月第20卷第5期
+人参皂苷Rg。对顺铂损伤大鼠卵巢颗粒细胞的
+保护作用及其分子机制
+颜倩，石丹宁，杨佳迪，何悦双，赵丕文+( 北京中医药大学生命科学学院，北京102488)
+摘要：目的探究人参皂苷Rg。对顺铂损伤大鼠卵巢颗粒细胞的保护作用及分子机制。方法
+选取22～24 d SD的大鼠提取卵巢颗粒细胞进行原代培养，应用顺铂诱导建立卵巢早衰模
+型。设置正常组，模型组，人参皂苷Rg。低浓度组、中浓度组、高浓度组和雌二醇( E2) 组。
+HE染色及免疫细胞化学法进行颗粒细胞鉴定；CCK8法检测人参皂苷Rg．作用24 h、48 h对
+顺铂损伤颗粒细胞的保护作用；Hoechst 33258染色检测细胞凋亡；West ern bl ot 法检测FSHR、
+P13K、P．AKT、AKT、Bcl ．2和Bax的蛋白表达。结果细胞形态观察和胞质FSHR表达检测
+结果均表明所提取细胞为卵巢颗粒细胞；顺铂处理12 h后，颗粒细胞增殖率呈剂量依赖性下
+降，而给予人参皂苷Rg。后，细胞增殖率下降被显著抑制，且呈剂量和时间依赖性；与模型组
+比较，人参皂苷Rgl 和E2处理后卵巢颗粒细胞中FSHR、P13K、P。AKT／AKT及Bcl 一2／Bax蛋
+白表达水平显著上升，而P13K抑制剂干预后，Bcl ．2蛋白表达显著下降。结论人参皂苷Rg。
+对顺铂损伤的卵巢颗粒细胞具有保护作用，该保护作用可能通过激活FSHR／P13K／AKT通路，
+抑制卵巢颗粒细胞凋亡实现。
+关键词：人参皂苷Rgl ；卵巢早衰；细胞凋亡；
+中图分类号：R284
+文献标识码：A
+doi ：10．7539／j ．i ssn．1672- 2981．2022．05．011
+FSHR／P13K／AKT；卵巢颗粒细胞
+文章编号：1672．2981( 2022) 05- 1028- 06
+Prot ect i ve ef f ect and mol ecul ar mechani smof gi nsenosi de Rgl
+on t he
+senescence of rat ovari an granul osa cel l s i nduced by ci spl at i n
+YANQi an，SHI Dan．ni ng，YANGJ i a．di ，HE Yue．shuang，ZHAO Pi ．wen+( School of Li f e Sci ences，
+Bei j i ng Uni versi t y of Chi nese Medi ci ne，Bei j i ng
+1 02488)
+Abst ract ：0bj ect i ve
+To det ermi ne t he ef f ect and mol ecul ar mechani smof gi nsenosi de R91 on t he
+senescence of rat ovari an granul osa cel l s i nduced by ci spl at i n．Met hods
+Fi rst l y。pri mary granul osa
+cel l s ext ract ed f rom22—24 d SD rat s were cul t ured．Premat ure ovari an f ai l ure( POF) cel l model
+i nduced by ci spl at i n was appl i ed f or t he f ol l owi ng experi ment s．Granul osa cel l s were di vi ded i nt o a
+normal
+group，a model group，gi nsenosi de R91 l ow，medi um，hi gh concent rat i on groups，and an est radi ol
+( E2) group．The pri mary granul osa cel l s were i dent i f i ed by HE st ai ni ng and i mmunocyt ochemi st ry．
+CCK8 assay was used t o det ect t he prot ect i ve ef f ect of gi nsenosi de Rg．on t he granul osa cel l s i nj ured
+by ci spl at i n at 24 h and 48 h．The cel l apopt osi s was det ect ed by Hoechst 33258 stai ni ng．The prot ei n
+expressi on of FSHR，P13K，P．AKT，AKT，Bcl ．2 and Bax were exami ned by W色st embl ot ．Resul t s
+The expressi on of FSHR i n t he cyt opl asmand cel l morphol ogy i ndi cat ed t hat t he ext ract ed cel l s were
+granul osa cel l s．The prol i f erat i on rat e of granul osa cel l s decreased i n a dose．dependent manner af t er
+1 2 h of ci spl at i n t reat ment ．whi l e t he decrease i n prol i f erat i on rat e of granul osa cel l s was i nhi bi t ed i n a
+dose and t i me- dependent manner af t er gi nsenosi de Rgl treatment．Compared wi t h t he model group，t he
+prot ei n expressi on of FSHR，P13K，P．AKT／AKT and Bel ．2／Bax i n t he ovari an granul osa cel l s i ncreased
+si gni f i cant l y af t er gi nsenosi de R91 and E2 treatment，whi l e t he prot ei n expressi on of Bcl ．2 decreased
+si gni f i cantl y af t er P13K i nhi bi t or i nt ervent i on．Concl usi on Gi nsenosi de Rgl
+can prot ect ci spl ati n—i nj ured
+基金项目：国家自然科学基金项目( No．81673764
+o
+作者简i f ：颜倩，女，硕士研究生，主要从事常用妇科中药的药理机制研究，emai l ：1840888186@qq．t om‘
+通信作者：赵丕文，女
+教授，博士研究生导师，主要从事常用妇科中药的药理机制研究，emai l ：pwzhao@263．net
+1028
+万方数据
+中南药学2022年5月第20卷第5期Cent ral
+Sout h Pharmacy．May
+2022，V01．20 No．5
+granul osa cel l s by act i vat i ng FSHR／P13K／AKT pat hway and i nhi bi t i ng t he apopt osi s of granul osa cel l s．
+Key words：gi nsenosi de Rgl ；premat ure ovari an f ai l ure；cel l apopt osi s；FSHR／P13K／AKT；ovari an
+granul osa cel l
+近年来，由于环境污染及生活、工作压力的
+日益增加，卵巢早衰( premat ure ovari an f ai l ure，
+POF) 及其导致的生殖功能障碍发生率明显上
+升，引起了大家的普遍关注[ 110 POF是指在女性
+40岁以前出现卵巢功能衰退的现象，其发病率约
+1％[ 2】。临床特征表现为闭经，伴随高促卵泡激素
+( FSH) 和低雌激素水平【31等。
+目前POF的发病机制尚不完全明确。临床
+上，对POF患者常采取的治疗方法是雌激素替代
+疗法[ 4】，虽然可明显缓解症状，但由于激素治疗
+所带来的致癌等不良反应及高复发率等问题，使
+患者对激素治疗的依从性普遍较低，在临床应用
+中受到一定限制。因此，寻找具有疗效确凿且不
+良反应小的抗POF药物并揭示其分子机制具有重
+要的理论和临床意义。有研究者发现，人参主要
+活性成分人参皂苷Rg。能明显改善POF的症状和
+体征陋] ，但其发挥作用的分子机制尚待阐明。近
+年来研究发现FSH受体( FSHR) 可介导激活细
+胞内多条信号通路，如P13K／AKT通路，影响生
+殖细胞的生长发育陋】。P13K／AKT通路与POF发
+病机制关系密切，通过激活该通路，可显著抑制
+细胞的增殖与凋亡【J 71。此外，本课题组前期研究
+中已利用顺铂体外诱导卵巢颗粒细胞损伤，成功
+建立了POF模型【8] 。因此，本研究利用该模型深
+入探讨人参皂苷R91对FSHI 泖13刚AKT通路的
+调控作用，揭示人参皂苷Rg，对卵巢颗粒细胞保
+护作用的可能分子机制，为人参皂苷Rg，应用于
+POF临床治疗提供新的理论依据。
+1材料
+1．1动物
+健康雌性SD大鼠16只，22～24 d，体
+质量为( 55± 2) g( 北京华阜康生物科技股份
+有限公司) ，饲养在温度为( 25± 3) ℃，湿度
+50％～60％，光照12 h，实验前适应性喂养7 d。
+动物使用许可证：SYXK[ 京] 2020—0033。
+1．2试药
+人参皂苷Rg。( 源叶生物，批号：RSZD．
+121106，纯度≥98％) ，∥ ．雌二醇( E2，批号：
+100182．201906，纯度：96．3％，中国食品药品检
+定研究院) ，顺铂( 源叶生物，批号：B24462
+o
+Dul becco’
+S Modi f i cat i on of Eagl e’
+S Medi um／
+Ham’
+S F．12 50／50 Mi x( DMEM／F12) ( Cel l gro公
+司，货号：10．092一CVR) ，HE染色试剂盒( 上海
+碧云天生物技术有限公司) ，BCA蛋白定量试剂
+盒、Hoechst 33258试剂盒( 北京索莱宝公司) ，抗
+绣FSHR?P13K、P- AKT、AKT?Bcl 一2、Bax?
+卢一act i n、Coral i t e594一conj ugat ed goat ant i —rabbi t
+secondary ant i body( 美国Prot ei nt ech) ，LY294002
+( Abcam，美国abl 46593) 。
+2方法
+2．1体外原代卵巢颗粒细胞的提取与培养
+SD大鼠适应性喂养结束后，每只注射孕马
+血清促性腺激素( PMSG) 50 I U，48 h后，无菌
+环境下提取双侧卵巢颗粒细胞进行培养。操作
+步骤如下：①取SD雌鼠，经颈椎脱臼处死，于
+75％乙醇中消毒3 mi n；②将SD雌鼠放人消毒
+托盘中取出双侧卵巢，并加入适量预冷PBS；③
+将卵巢表面的脂肪，包膜等处理干净后，放入预
+冷PBS的消毒托盘中清洗；④将卵巢移人无血
+清培养基中，并用l mL一次性注射器刺破卵巢
+边缘的卵泡，使卵巢颗粒细胞充分释放；⑤处理
+完毕后，将含有卵巢颗粒细胞的无血清培养基移
+人EP管，离心( 半径8 cm，1000 r·
+mi n⋯ ) 10
+mi n；⑥弃上清液，加人适量的PBS冲散细胞，
+1000 r· mi n_1离心5 mi n；⑦再次弃上清液，加
+人一定量的含10％胎牛血清DMEM／F12培养基，
+并吹打均匀；⑧调整细胞悬液浓度，以1× 105个／
+孔接种于96孔板，于37℃、5％CO：培养基中
+培养，3 d后换一次培养基。观察细胞贴壁情况，
+待细胞生长至75％～80％时用于后续实验。
+2．2
+卵巢颗粒细胞鉴定
+2．2．1
+HE染色将颗粒细胞接种于含爬片的24
+孔板，培养基体积为1 mL／孔，细胞数量1× 106
+个／孑L，按照HE染色试剂盒说明书进行操作，
+具体步骤如下：①移除旧培养基，PBS洗涤3次，
+每次5 mi n；②在37℃下，用4％多聚甲醛先固
+定20 mi n，然后PBS洗涤3次，每次5 mi n；③
+苏木素染色2 mi n，自来水冲洗2 mi n；④盐酸乙
+醇分色2 S，快速取出并用自来水小心冲洗3 mi n；
+⑤醇溶性伊红染色2 mi n，自来水冲洗；⑥无水
+乙醇脱水，并用二甲苯透明化处理。封片后镜下
+观察细胞形态并拍照。
+2．2．2免疫细胞化学法
+以1× 106个／孑L的密度
+将颗粒细胞接种于含爬片的24孔板中，使用免
+1029
+万方数据
+Cent ral Sout h Pharmacy．May
+2022，V01．20 No．5
+中南药学2022年5月第20卷第5期
+疫细胞化学法测定FSHR表达量。具体操作如下：
+①弃培养基后用PBS洗涤3次，每次2 mi n；②
+先用4％多聚甲醛于37℃下固定15 mi n，接着
+PBS洗涤3次，每次3 mi n；③每孔加0．5 mL5％
+BSA室温封闭1 h后弃掉；④每孔加0．5 mL
+FSHR一抗( 1：250) ，4℃过夜，次日PBS洗涤
+3次，每次10 mi n；⑤每孑L加0．5 mL相对应的羊
+抗兔二抗( 1：200) ，室温条件下，避光孵育1 h，
+PBS洗涤3次，每次10 mi n；⑥将含DAPI 的抗
+荧光淬灭封片剂滴加于载玻片上，盖上爬片，于
+荧光显微镜下观察并拍照。
+2．3
+CCK8法
+2．3．1实验分组不同质量浓度人参皂苷Rg。
+( 0～400 ng·
+mL_1) 处理颗粒细胞24 h，用于
+研究人参皂苷Rg，对颗粒细胞的毒副作用，并根
+据结果选择人参皂苷Rg。低、中、高浓度。不同
+质量浓度顺铂( 0～80 gg·
+mL- 1) 处理颗粒细
+胞12 h，用于建立POF模型，并选出最佳造模浓
+度。然后，将细胞分为正常组、模型组、人参皂
+苷Rg，低( 顺铂+低浓度人参皂苷Rg。) 、中( 顺
+铂+中浓度人参皂苷Rg。) 、高浓度组( 顺铂+高
+浓度人参皂苷Rg，) 和E2组( 顺铂+肛雌二醇) ，
+并分别培养24、48 h，用于研究人参皂苷Rg。对
+顺铂作用下颗粒细胞的影响，并根据实验结果选
+择最佳人参皂苷Rg，的浓度。
+2．3．2细胞活力检测
+以1× 105个／孔将颗粒细
+胞接种于96孔板，每组5个复孔，药物处理结
+束后，将含10％CCK8无血清DMEM／F12培养
+基加入每个孔中，100 pL／孔，并在37℃下继续
+培养2．5 h，于450 nl "n处检测吸光值。
+2．4
+Hoechst 33258染色
+按“ 2．3．1” 项下方法进行细胞的分组与给药，
+用4％多聚甲醛固定后加人Hoechst 33258染色液
+反应5 mi n。其他操作同“ 2．2．2” 项下⑤⑥的步骤。
+2．5
+West ern bl ot
+使用预冷PBS清洗细胞后，用含1％PMSF
+和1％磷酸酶抑制剂的RI PA裂解液裂解细胞，提
+取总蛋白。离心后吸取上清液，进行BCA蛋白
+定量。用12％SDS。PAGE分离蛋白，将蛋白转
+移到PVDF膜( 100 V 75 mi n) 。然后，室温下封
+闭1．5 h，再将膜与一抗：FSHR抗体( 1：1000) 、
+P13K抗体( 1：1000) 、Akt 抗体( 1：1000) 、P．AKT
+抗体( 1：1000) 、Bax抗体( 1：1000) 、Bcl 一2抗
+体( 1：1000) 和f l - act i n抗体( 1：5000) 在4℃孵
+育过夜。用PBST洗涤3次，每次10 mi n后，加
+入对应的二抗( 1：10 000) 室温孵育l
+h。再用
+PBST洗涤3次，每次10 mi n，用BCL发光底物
+f 030
+后使用凝胶成像仪显影，通过I mage J 软件统计
+条带灰度值。
+2．6统计学分析
+采用SPSS
+1 8．0软件对数据进行统计学分析，
+实验结果以均值± 标准差表示，组间差异用单
+因素方差分析检验，两两比较采用独立样本t 检
+验，以尸<0．05表示差异具有统计学意义。
+3结果
+3．1
+卵巢颗粒细胞的鉴定
+HE染色结果显示，细胞贴壁生长，体积较
+大，呈多角梭形，细胞核位于细胞中央，为深蓝
+色，呈卵圆形或者不规则形；胞质为淡红色，染
+色均匀，边缘清晰( 见图1) 。免疫细胞化学法结
+果显示，卵巢颗粒细胞的特异性标志物FSHR在
+胞质中大量表达，呈红色，在核呈深蓝色，结果
+表明分离到的细胞是卵巢颗粒细胞( 见图2) 。
+3．2
+人参皂苷I 沁。对卵巢颗粒细胞增殖的影响
+应用0、12．5、25、50、100、200、300、400
+ng· mL- 1的人参皂苷Rg，作用于颗粒细胞后，
+细胞存活率分别为100％、100．94％、100．03％、
+101．28％、99．86％、100j 02％、100÷ 74％、101．78％，
+表明在此质量浓度范围内，人参皂苷Rg，并未对颗
+粒细胞产生毒性作用( 见图3A) 。人参皂苷Rg，在
+100、200、300 ng· mL- 1时，细胞的存活率较为稳
+定。所以本实验选取100、200、300ng· mL_1分
+别作为人参皂苷Rg，低、中、高浓度进行后续实验。
+3．3顺铂诱导的POF模型建立
+如图3B所示，与正常组相比，顺铂作用于颗
+粒细胞12 h后，细胞的存活率随着顺铂质量浓度
+的增加而下降。基于顺铂处理卵巢颗粒细胞的半数
+抑制浓度( 如。) ，选取40 gg· mL_1顺铂处理细
+胞12 h作为后续POF模型建立的条件。
+3．4人参皂苷Rg，对卵巢颗粒细胞的保护作用
+如图3C所示，40 gg· mL_1顺铂处理12h后，
+再使用低浓度、中浓度和高浓度人参皂苷Rg。处
+理后，其存活率随着人参皂苷Rg。质量浓度的增
+加显著提高，且高质量浓度对细胞的保护作用最
+为明显。以上结果表明，人参皂苷Rg，可保护顺
+铂诱导的细胞损伤，在高质量浓度时作用效果最
+佳。因此，选取高质量浓度人参皂苷Rg。用于完
+成后续分子机制的研究。
+3．5人参皂苷Rg，对卵巢颗粒细胞凋亡的影响
+与正常组相比，模型组胞核呈亮蓝色荧光，
+并出现固缩与破碎现象；与模型组相比，高质量
+浓度人参皂苷Rg。组和E2组胞核荧光强度降低，
+且核固缩与破碎现象显著减少( 见图4) 。
+3．6
+West ernbl ot 检测细胞内相关蛋白的变化
+万方数据
+中南药学2022年5月第20卷第5期Cent ral
+Sout h Pharmacy．May
+2022，V01．20 No．5
+一
+一
+图2免疫荧光检测卵巢颗粒细胞FSHR的表达( 免疫荧光染色，X200)
+Fi g 2
+Expressi on of FSHR
+i n ovari an granul osa cel l s det ect ed by
+× 200)
+i mmunof l uorescence( i mmunof l uorescence st ai ni ng，X 200)
+；～i
+I乏10h1
+B；：{旆C
+0
+12．8
+2S
+50
+l 帅2呻3呻4011
+人参皂l ' f Rg．( n8· mL。)
+矿毋≯≯≯毋’
+，芦，
+图3人参皂苷Rg。对颗粒细胞增殖的影响
+Fi g 3
+Ef f ect of gi nsenosi de Rgl on granul osa cel l prol i f erat i on
+A．人参皂苷Rgl 对颗粒细胞的毒性作用( t oxi ci t y of gi nsenosi d Rgl
+t o granul osa cel l s) ；B．顺铂对颗粒细胞的抑制作用( i nhi bi t i on of ci spl at i n
+on granul osa cel l s) ；C．人参皂苷Rgl 对卵巢颗粒细胞的保护作用( prot ect i ve ef f ect of gi nsenosi d Rgl
+on ovari angranul osa cel l s)
+注：与顺铂0岭· mLl 组比较，I P<0．05；与正常组比较，．P<0．05；与模型组比较，6P<0．05。
+Not e：Compared wi t h t he 0峙· mL～ci spl at i n group，I P<0．05；compared wi t h t he normal group，’
+P<O．05；compared wi t h t he model
+group。6P<0．05．
+图4人参皂苷Rg。对顺铂损伤的颗粒细胞凋亡的影响( Hoechst 33258染色，X 200)
+Fi g 4
+Ef f ect of gi nsenosi d Rgl on t he apopt osi s of ci spl at i n- i nj uredgranul osa cel l s( Hoecl ast 33258 st ai ni ng，X 200)
+A．正常组( normal group) ；B．模型组( model group) ；C．人参皂苷Rgl 高浓度组( hi gh concent rat i ongi nsenosi d Rgl group) ；D．E2组( E2 group)
+与正常组相比，模型组中FSHR、P13K、
+p- AKT／AKT和Bcl - 2蛋白表达均显著减少，Bax蛋
+白表达均增加；与模型组相比，人参皂苷Rg。高
+浓度组和E2组中FSHR、P13K、P．AKT／AKT和
+Bcl 一2蛋白表达水平均表达增加，Bax的表达减少
+( 见图5及图6) ；与人参皂苷Rg。高浓度组和E2
+组相比，人参皂苷Rg。高浓度+抑制剂组和E2+
+抑制剂组中Bcl - 2蛋白表达均明显减少( 见图7) 。
+4讨论
+POF是一种由遗传和免疫等原因引起的发生
+于40岁以下女性的内分泌紊乱性疾病p】，伴有多
+组织、器官功能障碍，如心血管、骨骼系统相关
+疾病的发生，甚至促使患者提前衰老，影响其寿
+命[ 10- zH。临床上激素替代疗法虽能明显改善患者
+的症状与体征，但也增加了子宫内膜癌、乳腺癌
+和静脉栓塞性疾病等发生的风险[ 12] o近年来，研
+究发现，人参皂苷Rg。可显著提高卵巢组织的抗
+衰老能力和POF小鼠的生育能力[ 13- 14] 。课题组前
+期研究也发现，通过激活P13K／AKT通路与抑制
+颗粒细胞凋亡可改善POF，保护卵巢功能[ 8’
+151。
+因此，本研究从体外提取原代卵巢颗粒细胞，探
+讨人参皂苷R91是否通过调控FSHR／P13K／AKT途
+径发挥抗POF作用。
+顺铂是临床一线常用化疗药物，其对肿瘤细
+胞具有明确的杀伤作用，但其对正常组织细胞
+的结构和功能也有损伤，研究表明，顺铂可导
+致POF[ 16] o另外，在顺铂诱导的POF大鼠模型
+中，血清FSH显著升高，且其卵巢组织衰退性改
+f 03f
+万方数据
+Cent ral
+Sout h Pharmacy．May
+2022，V01．20 No．5
+中南药学2022年5月第20卷第5期
+梦扩，◇
+，
+∥ 矿／扩
+m1。2
+／、
+图5人参皂苷Rg。对顺铂损伤的颗粒细胞中Bax和Bcl - 2表达的影响
+Fi g 5
+Ef f ect of gi nsenosi d Rgl on Bax and Bcl 一2 expressi on i n ci spl ati n—i nj ured granul osa cel l s
+注：与正常组比较，．P<O．05；与模型组比较，6P<0．05。
+Not e：Compared wi t h t he normal group，p<0．05；compared wi t h t he model group，6 P<0．05
+O‘
+6
+壹o‘ 4
+鲁
+蚕o 2
+；j 恤
+梦
+芦，√∥ 扩
+一n匾匠三三五习
+mx叵至三三三三]
+，、。。|! =! 竺! ! l
+—E三三三三司
+。。。匡三三三壹弓
+图6人参皂苷Rg．对顺铂损伤的颗粒细胞内FSHR／P13K／AKT信号通路关键蛋白表达的影响
+Fi g 6
+Ef f ect of gi nsenosi d Rgl on t he expressi on of key prot ei ns i n FSHR／P13K／AKT si gnal i ng pat hway i n ci spl ati n—i nj ured granul osa cel l s
+注：与正常组比较，’
+P<O．05；与模型组比较，6P<O．05。
+Not e：Comparedwi t ht he normal group，’
+P<0．05；comparedwi t ht hemodel group，6P<0．05．
+∥ ∥ ／扩
+≯、
+阱：匡三三三习
+∥ ／GAPnH匡三
+图7
+P13K抑制剂对顺铂损伤的颗粒细胞Bcl 一2蛋白表达的影响
+Fi g 7
+Ef f ect of P13K i nhi bi t or on t he expressi on of Bcl - 2 prot ei n i n
+ci spl ati n· i nj ur granul osa cel l s
+注：与不加抑制剂组比较，’
+P<O．05。
+Not e：Compared wi t h t he wi t hout i nhi bi tor group，‘
+P<0．05．
+变与化疗药应用于人体导致的POF病变过程很相
+似[ 17] o因此，本实验利用顺铂诱导卵巢颗粒细胞
+损伤来建立POF模型。
+FSH是哺乳动物生殖与发育的重要激素，可促
+进卵泡的发育、卵母细胞的成熟和性类固醇激素的
+合成【l 81。POF患者检查结果主要显示为血清FSH
+值增高和卵泡发育不成熟，其原因可能是卵巢组
+织上FSH受体( FSHR) 的功能减弱或受损，导致
+对FSH刺激不敏感，从而抑制卵泡的发育【l 91。本
+研究结果显示，人参皂苷Rg，可显著增强细胞中
+FSHR表达，即人参皂苷I 沁。可通过上调FSHR的
+表达，促进对卵巢颗粒细胞的增殖生长。
+f 032
+FSH与靶细胞表面FSHR结合后，可激活
+P13K／AKT信号通路伫01，促进生殖系统的发育与成
+熟。在D一半乳糖诱导的POF模型中，姜黄素可通
+过激活P13K／AKT信号通路，有效抑制颗粒细胞
+凋亡和卵巢损伤【2¨ 。在环磷酰胺和白消安诱导的
+小鼠POF模型中，胚胎干细胞来源细胞外小囊泡
+可以通过激活P13K／AKT通路，明显提高血清性
+激素水平，增加卵泡数量和减少凋亡细胞数量【22】。
+Wang等[ 23] 研究表明，针刺百会、关元和太冲等
+可通过上调P13K／AKT通路关键蛋白的表达，抑
+制颗粒细胞凋亡和改善卵泡的发育，从而减轻环
+磷酰胺诱导的POF。本研究结果显示，人参皂昔
+Rg，可明显提高P13K和p一舢汀的蛋白表达，提示
+人参皂苷I 沁，可通过上调FSHR蛋白的表达，激
+活下游P13K／AKT途径中关键蛋白的表达。
+P13K／AKT通路不但是影响POF的重要途
+径，还是影响细胞凋亡的重要途径。在卵巢颗粒
+细胞凋亡过程中，Bcl - 2和Bax两种调控因子通过
+形成同／异源二聚体的形式发挥重要作用。Bcl ．2
+和Bax两者互为拮抗作用，当Bax蛋白水平表达
+上调时，Bax可与Bax结合形成同源二聚体，促
+进颗粒细胞的凋亡。反之当Bcl 一2水平上调时，
+Bcl ．2可与Bax形成异源二聚体，抑制颗粒细胞
+凋亡[ 24- 25] o本研究结果显示，人参皂苷Rg，可显
+著增强Bcl ．2蛋白表达并降低Bax表达，而加入
+／募一
+』昙一
+兰主
+∥ 匡匡
+。鎏扩
+。。j扩
+I肛Ⅳ／
+]上．矿
+。。I扩
+lkⅣ／
+万方数据
+中南药学2022年5月第20卷第5期
+Cent ral Sout h Pharmacy．May
+2022，V01．20 No．5
+P13K抑制剂后，Bcl ．2蛋白表达显著降低，即人
+参皂苷Rg，可通过激活FSHR／P13K／AKT途径，抑
+制颗粒细胞凋亡，保护卵巢的功能。
+综上所述，人参皂苷Rg，可能通过激活FSHR／
+P13K／AKT信号通路，抑制顺铂损伤的颗粒细胞凋
+亡，从而保护卵巢颗粒细胞免受损伤。该实验结
+果或为深入了解中药人参的药理作用机制和Rg，
+的进一步研究提供参考。
+蓼搠
+『1 1
+Wesevi ch V，Kel l en AN，Pal
+L．Recent advances i n un—
+derst andi ng pri mary ovari an i nsuf f i ci ency叨．F 1 000Res，
+2020。9：1101．
+[ 2] Choe SA，Sung J ．Trends of premat ure and earl y meno—
+pause：a comparat i ve st udy of t he US Nat i onal
+Heal t h and
+Nut ri t i on Exami nat i on Survey and t he Korea Nat i onal
+Heal t h and Nut ri t i on Exami nal 【i on Survey阴．J Korean Med
+Sci ，2020，35( 14) ：e97．
+【3】Demayo S，Gi annone L，Monast ero A，et
+a1．Real i t y of
+premat ure ovari an f ai l ure i n Argent i na叨．Rev Assoc Med
+Bras，2019，65( 3) ：419- 423．
+[ 4] Vuj ovi d S，I vovi c M，Tan6i 6一Gaj i d M，et a1．Endome—
+t ri um recept i vi t y i n premat ure ovari an i nsuf f i ci ency．how
+t o i mprove f erti l i ty rat e and predi ct di seases?阴．Gynecol
+Endocri nol ，2018，34( 12) ：1011- 1015．
+[5]5
+Li u XH，Cai
+SZ，Zhou Y，et a1．Gi nsenosi de Rgl
+at t en—
+uat es premat ure ovari an f ai l ure of D—gal i nduced POF mi ce
+t hrou曲downregul at i ng p16I NK4a and upregul at i ng SI RTl
+expressi on阴．Endocr Met ab I mmune Di sord Drug Target s，
+2021，doi ：10．2174／1871523020666210830164152．
+[ 6】Baneqee AA，J oseph S，Mahal e SD．Fromcel l
+surf ace t o
+si gnal l i ng and back：t he l i f e of t he mammal i an FSHrecep．
+t or四．FEBS J ，2021，288( 8) ：2673—2696．
+【7】姜凤丽，王晓滨，宗婧，等．P13K- Ak“ mTOR信号通路
+对卵巢早衰相关性研究进展叨．黑龙江科学，2019，10
+( 2) ：50．51．
+[ 8] 赵笛，赵丕文，武虹波，等．二仙汤对顺铂所致大鼠卵
+巢早衰模型中卵巢颗粒细胞增殖及周期的影响叨．环球
+中医药，2017，10( 2) ：131- 136．
+[ 9】Li mYM，J eong K，Lee SR，et
+a1．Associ at i on bet ween
+premat ure ovari an i nsuf f i ci ency，earl y menopause，soci o-
+economi c st at us i n a nat i onal l y represent at i ve sampl e f rom
+Korea m．Mat uri t as，2019，121：22—27．
+[ 10】Schi pper I ，Louwers YV Premat ure and earl y menopause
+i n rel at i on t o cardi ovascul ar di sease[ J 】．Semi n Reprod
+Med，2020，38( 4) ：270- 276．
+[ 11】Tsi l i gi anni s S，Panay N，St evenson J C．Premat ure ovari an
+i nsuf f i ci ency and l ong- t ermheal t h consequences叨．Curr
+Vase Pharrnacol ，2019，17( 6) ：604—609．
+[ 12] Pat el H，Arruarana V，Yao L，et a1．Ef f ect s of hormones
+and hormone t herapy on breast t i ssue i n t ransgender
+pa．
+t i ent s：a conci se revi ew叨．Endocri ne，2020，8( 1) ：6- 15．
+【13] He L，Wang X，Cheng D，et
+a1．Gi nsenosi de Rgl
+i m—
+proves pat hol ogi cal damages by act i vat i ng t he p2卜p53一
+STK pat hway i n ovary and BaxBcl - 2 i n t he ut erus i n prema-
+t ure ovari an i nsuf f i ci ency mouse model s阴．Mol Med Rep，
+2021．23( 1) ：37．
+[ 14] He L，Li ng L，Wei
+T，et a1．Gi nsenosi de Rgl
+i mproves
+f erti l i ty and reduces ovari an pat hol ogi cal damages i n pre-
+mat ure ovari an f ai l ure model
+of mi ce m．Exp Bi ol Med
+( Maywood) ，2017，242( 7) ：683- 691．
+[ 15] 杨蕾，王继峰，牛建昭，等．二仙汤含药血清对顺铂干
+预的大鼠卵巢颗粒细胞凋亡调控蛋白bcl 一2、bax表达的
+影响阴．世界中医药，2017，12( 4) ：865．869．
+[ 16】丁艳，张静，陶然，等．顺铂治疗导致卵巢早衰的研究
+进展叨．基础医学与临床，2018，38( 6) ：845，848．
+[ 17] 梁丹，曹保利，李继坤，等．顺铂诱导大鼠卵巢早衰
+的实验研究阴．现代中西医结合杂志，2012，21( 26) ：
+2873．2875．
+『1 81 J uf i rez- Rend6n KJ ，Garci a—Ort i z J E．Eval uat i on of f our
+genes associ at ed wi t h pri mary ovari an i nsuf f i ci ency i n a co．
+hort of Mexi can women四．J Assi st Reprod Genet ，201 8，
+35( 8) ：1483．1488．
+[ 19] Zhuandi G，Tuanj i e C，Luj u L，et a1．FSH recept or
+bi ndi ng i nhi bi t or rest rai ns f ol l i cul ar devel opment and pos．
+si bl y at t enuat es carci nogenesi s of ovari an cancer t hrough
+down- regul at i ng expressi on l evel s of FSHR and E即i n
+normal ovari an t i ssues f J l ．Gene，2018，668：174．181．
+[ 20】Zhang H，Qi n F，Li u A，et a1．Kunt ai
+capsul e
+at t enuat es
+premat ure ovari an f ai l ure t hrough t he P13K／AKT／mTOR
+pat hway叨．J Et hnopharmacol ，2019，239：11 1885．
+[ 2l 】Yan Z，Dai Y，Fu H，et a1．Curcumi n exert s
+a prot ect i ve
+ef f ect
+agai nst premat ure ovari an f ai l ure i n mi ce[ J ] ．J Mol
+Endocri nol ，2018，60( 3) ：261．271．
+[ 22】Li u M，Qi u Y，Xue Z，et a1．Smal l ext racel l ul ar vesi cl es
+deri ved f romembryoni c st emcel l s rest ore ovari an f unct i on
+of premat ure ovari an f ai l ure t hrough P13K／AKT si gnal i ng
+pat hway叨．St emCel l ResTher，2020，1l ( 1) ：3．
+[ 23] Wang S，Li n S，Zhu M，et
+a1．Acupunct ure reduces
+apopt osi s of granul osa cel l s i n rat s wi t h premat ure ovari an
+f ai l ure vi a rest ori ng t he P13k／Akt si gnal i ng pat hway叨．I nt
+J Mol Sci ，2019，20( 24) ：6311．
+[ 24】Vart ak SV，I yer D，Sant hoshkumar TR，et a1．Novel
+Bcl 一
+2 i nhi bi t or．Di sari b i nduces apopt osi s by di srupt i on of Bcl ．2．
+BAKi nt eract i on叨．Bi ochemPharmacol ，2017，13l ：16．28．
+[ 25】Rahmani M，Nkwocha J ，Hawki ns E，et a1．Cot arget -
+i ng Bcl - - 2 and P13K i nduces Bax- ·
+dependent mi t ochondri · ·
+al apopt osi s i n AML cel l s[ J ] ．Cancer Res，2018，78：
+3075- 3086．
+( 收稿日期：2022—01—03；修回日期：2022．02．19)
+f D33
+万方数据

@@ -1,0 +1,349 @@
+人参皂苷 Rg1 调控 Nrf2 在 SD 大鼠脑缺血再灌注损伤后的抗氧化作用
+边立功 １），钟莲梅 2），艾青龙 2），陈鑫月 ３），许文凯 ３），闫润淇 ３），邱
+进 ４），陆
+地 1，5）
+（1） 昆明医科大学人体解剖学与组织胚胎学系，云南 昆明 650500；2） 第一附属医院神经内科，云南 昆
+明
+650031；3） 基础医学院；４） 现代教育技术中心；5） 生物医学工程研究中心，云南 昆明
+650500）
+［摘要］ 目的
+探讨人参皂苷 Rg1 在大鼠脑缺血再灌注损伤中的抗氧化作用及机制．方法
+SPF 级健康成年
+雄性 SD 大鼠 120 只，随机分为空白对照组、假手术组、模型组、不同浓度的 Rg1 治疗组．线栓法构建大鼠大脑
+中动脉栓塞 （middle cerebral artery occlusion，MCAO） 缺血再灌注损伤模型，各治疗组采用人参皂苷 Rg1 进行预处
+理，假手术组仅分离血管而不闭塞．采用 Longa 标准进行神经行为学评分；Western blot 检测 Nrf2 和 HO－1 蛋白表
+达情况；比色法测定 SOD 和 MDA 含量变化．结果
+模型组大鼠行为学评分显著高于空白对照组，不同浓度的
+Rg1 治疗组评分明显低于模型组 （ ＜0.05）；与空白对照组或假手术组相比，模型组 Nrf2 和 HO－1 的表达有所增
+加，SOD 的含量显著降低，而 MDA 的含量明显增加 （ ＜0.05）；与模型组相比，各治疗组 Nrf2 和 HO－1 的表达、
+SOD 的含量均增加，而 MDA 的含量则不同程度的减少 （ ＜0.05） ．结论
+人参皂苷 Rg1 上调 Nrf2 和 HO－1 蛋白
+表达，增加 SOD、降低 MDA 的含量，改善 SD 大鼠脑缺血再灌注损伤后行为学表现，发挥保护作用.
+［关键词］ 人生皂苷 Rg1；缺血再灌注损伤；血红素加氧酶 1；超氧化物歧化酶；丙二醛
+［中图分类号］ R743.2 ［文献标志码］ A ［文章编号］ 2095－610X （2018） 6－0035－04
+The Anti-antioxidant Role of Ginsenoside Rg1 Regulating Nrf2
+on Focal Cerebral Ischemia Reperfusion SD Rats
+BIAN Li－gong１），ZHONG Lian－mei2），AI Qing－long2），CHEN Xin－yue３），XU Wen－kai３），YAN Run－qi３），
+QIU Jin４），LU Di1，５）
+（1） Dept. of Anatomy，Histology and Embryology；2） Dept. of Neurology，First Affiliated Hospital；3） Basic
+Medical College；4） Dept. of Modern Education and Technology Center；5） Biomedical Engineering Research
+Center，Kunming Medical University，Kunming Yunnan 650500，China）
+［Abstract］ Objective To study antioxidant role and mechanism of Rg1 in rats with cerebral ischemia
+reperfusion injury （IRI） ．Methods One hundred and twenty healthy male rats were randomly divided into six
+groups: control group， sham operation group， model group， different concentration （30，60，90 mg/kg） of Rg1
+treatment group．MCAO SD rats model was established by suture－occluded method；the Rg1 treatment groups were
+given Rg1 i.p. in advance， after 24 hours of reperfusion， neurobehavioral scores of all groups were examined by
+Longa’s standard；The expression of Nrf2 and HO－1 were analyzed by western blot；The content of SOD and MDA
+was detected by kit．Results
+The score of model group rats are significantly higher than control group，compared
+with the model group， the score of different concentration of Rg1 treatment group was decreased （ ＜0.05） . The
+Nrf2 and HO－1 expression in model group was mildly higher than the control or sham group （ ＜0.05） . Both of
+them in every Rg1 treatment group was higher than model group. Compared with control or sham group， SOD content
+was observably depressed but MDA content was dramatically increased in model group，interestingly，SOD content
+Journal of Kunming Medical University
+CN 53 -1221 R
+昆明医科大学学报
+2018，39（6）：35~ 38
+［基金项目］ 国家自然科学基金资助项目 （81360200，81460210，81460350，31760292）；云南省科技厅 － 昆明医科大
+学应用基础研究联合专项基金资助项目 （2013FB101，2013FB120）
+［作者简介］ 边立功 （1981～），男，辽宁葫芦岛市人，硕士研究生，讲师，主要从事神经退行性疾病的研究工作.
+［通信作者］ 陆地．E－mail：ludi20040609@126.com；邱进．E－mail：983457822@qq.com
+第 39 卷
+36
+昆 明 医 科 大 学 学 报
+was enhanced， MDA content was attenuated in different concentration of Rg1 treatment group （ ＜0.05） ．
+Conclusion
+Rg1 increases Nrf2 and HO－1 protein expression and SOD content， reduces MDA content，improves
+neurofunctional performance of rats after MCAO，and alleviates cerebral cerebral IRI.
+［Key words］ Ginsenoside Rg1；Ischemia/Reperfusion injury；Heme oxygenase－1；Superoxide orgotein dis－
+mutase；Malondialdehyde
+缺血性脑血管病是神经科常见的多发病，与心
+脏病、恶性肿瘤构成大多数国家三大最主要的致
+死疾病，正严重威胁人类健康与生存．脑缺血再
+灌注损伤 （ischemia/reperfusion injury，IRI） 是指脑
+缺血在一定时间内恢复血液供应后，大脑功能不
+仅没有得到及时恢复，反而出现更加严重的脑神
+经功能障碍，其确切的损伤机制尚未明确，已证
+实有多种因素参与，包括兴奋性氨基酸的细胞毒
+性作用、能量衰竭、酸中毒、氧自由基损伤、钙离
+子超载、缺血半暗带功能障碍、一氧化氮和一氧
+化氮合成酶的作用、炎症细胞因子损害、凋亡调
+控基因的激活等[1－2]，其中，氧自由基损伤被认为
+是一个主要因素，活性氧簇 （ROS） 直接或间接地
+损伤细胞内蛋白质、核酸和脂质等大分子物质的
+生理功能[3]．IRI 后脑组织产生大量的自由基，对
+神经元具有损伤作用，因此，抑制脑缺血再灌注
+后氧化应激反应是防治脑缺血性损伤的重要手段
+之一．Nrf2 是经典的调控机体抗氧化信号通路中
+的核转录因子，在抗氧化损伤中具有重要的作用
+[4]，Nrf2 可以促进下游蛋白的表达，维持细胞内氧
+化还原环境的平衡[5]．随着学者对人参皂苷及其单
+体药理作用研究的不断深入，人参皂苷 Rg1 是人
+参和三七的主要活性成分，是从人参属植物中分
+离提取出的 50 多种单体成分之一，对脑缺血的保
+护作用受到广泛的关注[6]．因此，本研究通过检测
+人参皂苷 Rg1 在 SD 大鼠脑缺血再灌注损伤后对
+Nrf2/HO－1 信号通路及其下游 SOD 和 MDA 含量的
+调控作用，阐明 Rg1 调控 Nrf2 信号通路在脑缺血
+中的抗氧化作用.
+1
+材料与方法
+1.1
+试剂和抗体
+人参皂苷 Rg1 （购自昆药集团股份有限公司），
+水合氯醛，多聚甲醛，蔗糖，Nrf2 和 HO－1 一抗，
+β－actin 一抗，SOD 和 MDA 检测试剂盒 （南京建
+成，A001－1－1&A003－1），ECL 发光液.
+1.2
+动物与实验分组
+SPF 级健康成年雄性 SD 大鼠 120 只、体重
+200～250 g，购自湖南斯莱克景达实验动物有限公
+司，许可证号：SCXK （湘） 2016－0002．随机分为
+空白对照组，假手术组，模型组，高、中、低剂量
+Rg1 治疗组，每组 20 只．模型组采用线栓法构建
+大 鼠 大 脑 中 动 脉 栓 塞 （middle cerebral artery
+occlusion， MCAO） 脑缺血再灌注损伤模型[7]，线
+栓闭塞颈内动脉 2 h 后拔除，再灌注 24 h，治疗组
+提前给予 Rg1 腹腔注射，假手术组仅分离血管而
+不闭塞大脑中动脉，空白对照组不做任何处理.
+1.3
+神经功能评分
+采用 Longa 评分标准[7]进行神经行为学评分，0
+分：无神经损伤症状；1 分轻度损伤，提尾时右侧
+前肢不能完全伸直；2 分：中度损伤，向左侧转
+圈；3 分：中度到重度损伤，向右侧跌倒；4 分：
+重度损伤，不能自发行走意识丧失.
+1.4
+Western blot 蛋白测定
+将大鼠麻醉后采用灌注取脑后，提取总蛋白并
+进行定量，SDS－PAGE 聚丙烯酰胺凝胶电泳，GE
+AI600 超灵敏多功能成像仪中显影，图片采用
+Gel－Pro analyzer 软件进行灰度分析．以 β－actin 为
+内参照，以目的条带 Nrf2、HO－1 的积分光密度值
+（integrated optical density，IOD） 值与 β－actin 条带
+的 IOD 值的比值作为该蛋白的相对表达量.
+1.5
+脑组织 SOD 和 MDA 含量测定
+将大鼠麻醉，取出脑组织，称重，用生理盐水
+制成 10% 的组织匀浆，离心，取上清液，用南京
+建成试剂盒测定 SOD 和 MDA 的含量变化.
+1.6
+统计学处理
+应用 SPSS 统计软件进行分析，结果以均数±
+标准差 （x±s） 表示，组间比较采用方差分析，
+＜0.05 为差异有统计学意义.
+2
+结果
+2.1
+人参皂苷 Rg1 降低大鼠脑缺血再灌注后神经
+功能评分
+空白对照组和假手术组大鼠未出现神经功能缺
+损症状；模型组大鼠左前肢肌张力明显下降，爬
+行时向右侧转圈，最高可达 3 分，神经功能评分
+显著增高 （ ＜0.05）；不同浓度的人参皂苷 Rg1 治
+疗组神经功能缺损症状明显改善，神经功能评分
+均有降低，以 60 mg/kg 治疗组最为明显 （见表 1），
+提示人参皂苷 Rg1 可明显改善大鼠脑缺血再灌注
+后神经功能，具有神经保护作用.
+2.2
+Nrf2 和 HO-1 蛋白表达
+与空白对照组或假手术组相比，模型组 Nrf2
+蛋白的表达略有增加；不同浓度的人参皂苷 Rg1
+治疗组，Nrf2 的蛋白表达均明显高于模型组 （见
+图 1），以 60 mg/kg 治疗组最为显著 （ ＜0.05） ．
+与空白对照组和假手术组相比，模型组 HO－1 蛋白
+的表达明显增加，各 Rg1 治疗组，HO－1 的蛋白表
+达上调更为明显 （见图 1），以 60 mg/kg 治疗组最
+为显著 （ ＜0.05） .
+2.3
+脑组织中 SOD 与 MDA 的含量变化
+空白对照组和假手术组的 SOD 和 MDA 含量无
+显著性差异；与空白对照组或假手术组比较，模
+型组 SOD 含量 （483.02±10.89） 显著减少，MDA
+含量 （24.26±3.50） 显著增多 （ ＜0.05）；与模型
+组比较，各 Rg1 治疗组 SOD 含量显著增多，MDA
+含量则明显降低，均以 60 mg/kg 治疗组最为显著，
+见表 2.
+表 1
+人参皂苷 Rg1 改善大鼠脑缺血再灌注损伤后的神经
+功能评分 （x±s）
+Tab. 1 The ginsenoside Rg1 improve neural function
+after cerebral ischemic-reperfusion injury in
+SD rats （x±s）
+评分
+0
+0
+2.90±0.55*
+1.80±0.77
+1.55±0.51#
+1.65±0.67#
+组别
+n
+空白对照组
+20
+假手术组
+20
+模型组
+20
+Rg1 30 mg/kg 治疗组
+20
+Rg1 60 mg/kg 治疗组
+20
+Rg1 90 mg/kg 治疗组
+20
+与空白对照组或假手术组比较，* ＜0.05；与模型组比
+较，# ＜0.05.
+图 1
+Western blot 测定 Nrf2 和 HO-1 蛋白含量
+Fig. 1
+Expression of Nrf2 and HO-1 in different
+groups by western blot
+与空白对照组或假手术组比较，* ＜0.05；与模型
+组比较，# ＜0.05.
+表 2
+各组大鼠脑组织中 SOD、MDA 含量的变化 （x±s）
+Tab. 2 The change of SOD and MDA in brain of different SD rats groups （x±s）
+SOD(U/mg)
+MDA(nmol/m)
+582.16±9.51
+16.37±1.94
+584.35±11.72
+15.42±2.66
+483.02±10.89*
+24.26±3.50*
+529.57±12.19#
+22.25±2.56
+543.42±15.34#
+18.33±2.38#
+539.24±19.36#
+19.86±2.98#
+组别
+n
+空白对照组
+20
+假手术组
+20
+模型组
+20
+Rg1 30 mg/kg 治疗组
+20
+Rg1 60 mg/kg 治疗组
+20
+Rg1 90 mg/kg 治疗组
+20
+3
+讨论
+人参作为药用的历史已有几千年，具有抗氧
+化、抗衰老、减轻神经功能损伤的作用[8]．云南文
+山所产三七习称“文三七”、“田七”，为著名药
+材，其活性成分人参皂苷 Rg1 能抑制细胞内 Ca2+
+超载，减少星形胶质细胞的活性氧产生[9]，脑组织
+的氧化应激水平与缺血性脑卒中的发生、发展及
+转归密切相关[10－11]，在缺血再灌注损伤中扮演非常
+重要的角色[12]．MDA 作为不饱和脂肪酸发生脂质
+过氧化反应产生的代谢产物，是脂质过氧化反应
+的终产物之一，反映脑组织中脂质过氧化程度，
+与 ROS 一样，脑组织中 MDA 浓度升高，表明脂质
+过氧化作用增强．SOD 是氧自由基的清除剂，组
+织内 SOD 活性的高低可部分反映机体清除自由基
+的能力，其活性可代表抗脂质过氧化的水平，间
+37
+第 6 期
+边立功，等．人参皂苷 Rg1 调控 Nrf2 在 SD 大鼠脑缺血再灌注损伤后的抗氧化作用
+与空白对照组或假手术组比较，* ＜0.05；与模型组比较，# ＜0.05.
+第 39 卷
+38
+昆 明 医 科 大 学 学 报
+接反映细胞损伤的程度[13]，脑缺血再灌注时，新生
+成的氧自由基和存留的氧自由基进一步发生脂质
+过氧化，从而加重脑组织进一步损伤[14].
+脑缺血再灌注时，氧自由基可通过激活炎性因
+子，促进趋化因子释放，引起白细胞向内皮细胞移
+动、黏附．聚集的细胞可释放氧自由基和溶蛋白酶
+等，造成组织细胞坏死．同时，中性粒细胞在微血
+管内的聚集，可释放细胞因子和炎性介质，进而导
+致更多的中性粒细胞聚集和浸润，从而加重炎症反
+应．大量研究表明，过度的炎症反应是缺血再灌注
+损伤的重要机制之一，干预炎症反应能够减轻脑缺
+血再灌注损伤[14].
+Keap1/Nrf2/ARE 信号通路在抗炎和抗氧化应
+激损伤中发挥着重要的作用 [15]．在生理状态下，
+Nrf2 与肌动蛋白结合蛋白 （Keap1） 结合，锚定于
+胞质中，不能进入细胞核发挥转录活性．当受到氧
+化应激时，Nrf2 与 Keap1 解离进入细胞核，与抗
+氧化反应组件 （ARE） 结合，启动下游抗氧化基因
+和血红素氧合酶 －1 （HO－1） 的转录，提高细胞的
+抗氧化能力．大鼠脑缺血再灌注后，损伤区 Nrf2
+蛋白表达迅速上调，HO－1 蛋白的表达在再灌注后
+48 h 达高峰，在 72 h 下降．急性期 Nrf2 和 HO－1
+表达的增加，可减少氧化应激损伤，是一种保护性
+应激反应，但反应持续时间很短．脑缺血后，上调
+Nrf2 和 HO－1 蛋白的表达，可明显改善神经功能，
+减小脑梗死面积，减轻脑水肿[16]．本研究中发现：
+较空白对照组或假手术组相比，模型组中 Nrf－2 和
+HO－1 蛋白的表达均有所增加；不同浓度的人参皂
+苷 Rg1 治疗组较模型组相比 Nrf2 和 HO－1 均有不
+同程度地增加，同时发现 SOD 的含量也明显增加，
+而 MDA 的含量显著降低．综上所述，本研究结果
+提示人参皂苷 Rg1 可能通过激活 Nrf2/HO－1 信号
+通路，促进氧自由基清除，抑制脂质过氧化反应，
+减少氧化应激损伤，但是其具体的机制和确切的
+作用靶点，尚需进一步深入研究.
+［参考文献］
+［1］ 崔海月，王庆国. 缺血性脑血管病发病机制的新进展
+［J］．长春中医药大学学报，2009，25（2）：291－292.
+［2］ 彭智远，刘旺华，曹雯. 脑缺血再灌注损伤细胞凋亡机
+制的研究进展 ［J］． 中华中医药学刊，2017，35（8）：
+1957－1961.
+［3］ RODRIGO J，FERNANDEZ AP，SERRANO J. The role of
+free radicals in cerebral hypoxia and ischemia［J］．Free
+Radic Biol Med，2005，39（1）：26－50.
+［4］ 黄小平，邓常清，邱咏园，等. 黄芪甲苷和三七的三种有
+效成分配伍对小鼠脑缺血/再灌注后氧化应激和 Nrf2
+/HO－1 途径的影响 ［J］． 中国药理学通报，2013，29
+（11）：1596－1601.
+［5］ 吴露，黄小平，邓常清，等. 人参皂苷 Rg1 对小鼠脑缺血
+再灌注组织伤及Nrf2/HO－1 途径的影响［J］．中国病理
+生理杂志，2013，29（11）：2066－2071.
+［6］ 鲁婵婵，戴彦成，王蓓，等. 人参皂苷对脑缺血保护作用
+的研究进展［J］．上海医药，2015，36（3）：69－71，75.
+［7］
+LONGA EZ，WEINSTEIN PR，CARLSON S. Reversible
+middle cerebral artery occlusion without craniectomy in rats
+［J］．Stroke，1989，20（1）：84－91.
+［8］ 胡文涛，闫秋月，方瑜，等. 人参皂苷 Rg1 参与诱导小鼠
+多潜能干细胞的研究 ［J］． 神经损伤与功能重建，，
+2014，9（3）：184－186.
+［9］ SUN C，LAI X，HUANG X，et al. Protective effects of gin－
+senoside Rg1 on astrocytes and cerebral ischemic－reperfu－
+sion mice ［J］. Biol Pharm Bull，2014，37 （12）：1891 －
+1898.
+［10］ AMARO S，LLULL L，RENU A，et al. Uricacid improves
+glucose－driven oxidative stress in human is chemic stroke
+［J］．Ann Neurol，2015，77（5）：775－783.
+［11］ ZHANG T Z，ZHOU J，JIN Q，et al. Protective effects of
+remifentanil preconditioning
+on
+cerebral
+injury
+duing
+pump－assisted coronary artery bypass graft［J］．Genet Mol
+Res，2014，13（3）：7658－7665.
+［12］ LIU B，QIAN J M. Cytoprotective role of heme oxygenase－1
+in liver ischemia reperfusion injury［J］. Int J Clin Exp Med，
+2015，8（11）：19867－19873.
+［13］ SHEN M，FAN D，ZANG Y，et al. Neuroprotective effects of
+methane－rich saline on experimental acute carbon monox－
+ide toxicity［J］．J Neurol Sci，2016，369：361－367.
+［14］ CHEN S H，LIN M T，CHANG C P. Ischemic and oxidative
+damage to the hypothalamus may be responsible for heat
+stroke［J］. Curr Neuropharmacol，2013，11（2）: 129－140.
+［15］ CHOUCRY M A，KHALIL M N A，EIAEDAN S A. Protec－
+tive action of Crateva nurvala Buch. Ham extracts against
+renal ischaemia reperfusion injury in rats via antioxidant
+and anti－inflammatory activities ［J］．J Ethnopharmacol，
+2017，214：47－57.
+［16］黄娟，廖君，彭熙炜，等. 脑泰方对脑缺血/再灌注大鼠海
+马 区 Nrf2、HO－1 和膜铁转运辅助蛋白表达的 影响
+［J］．中国药理学通报，2017，33（10）：1467－1472.
+（2018－03－14 收稿）
