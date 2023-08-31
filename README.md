@@ -3,7 +3,7 @@ code for MSc Project "information extraction from Chinese medical paper"
 
 ## Requeirment
 Python 3.8.3
-python packages:"PdfTxtUi","sys","os","fitz","re","PyQt5","webbrowser"
+python packages:"PdfTxtUi","sys","os","fitz","re","PyQt5","webbrowser","openpyxl"
 
 ## Explaination of folder and files
 ### What's in folder
