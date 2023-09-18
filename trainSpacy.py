@@ -116,7 +116,7 @@ trainData = FindTrain()
 other_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']# and pipe !='entity_ruler']
 with nlp.disable_pipes(*other_pipes):  # only train NER
     # optimizer = nlp.initialize()
-    for itn in range(50):
+    for itn in range(30):
         print("Statring iteration " + str(itn))
         random.shuffle(trainData)
         losses = {}
@@ -127,7 +127,7 @@ with nlp.disable_pipes(*other_pipes):  # only train NER
             example = Example.from_dict(doc, entities)
             nlp.update(
                 [example],
-                drop=0.1,  # dropout - make it harder to memorise data
+                drop=0.2, 
                 losses=losses)
         print(losses)
 
@@ -136,7 +136,7 @@ print("Precision: " + str(score["ents_p"]))
 print("Recall:" +str(score["ents_r"]))
 print("F-measure:"+ str(score["ents_f"]))
 
-nlp.to_disk('./temp/100_50_0.1')
+nlp.to_disk('./temp/final')
 
 #0.2
 #Precision: 0.8217696273134455
